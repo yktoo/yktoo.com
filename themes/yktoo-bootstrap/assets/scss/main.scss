@@ -1,0 +1,8 @@
+// Variable overrides
+$theme-colors: (
+    "primary": #089664,
+    "danger": #ff4136
+);
+
+// Import Bootstrap
+@import "../bootstrap-4.3.1/scss/bootstrap";

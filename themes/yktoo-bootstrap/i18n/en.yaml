@@ -1,0 +1,61 @@
+# Navigation
+
+- id: archive
+  translation: 'Archive'
+- id: faq
+  translation: 'FAQ'
+- id: software
+  translation: 'Software'
+- id: radiolaria
+  translation: 'Radiolaria'
+- id: videos
+  translation: 'Videos'
+- id: about
+  translation: 'About'
+- id: contact
+  translation: 'Contact'
+
+- id: home
+  translation: "Home"
+
+- id: recentPosts
+  translation: "Recent Posts"
+
+- id: readMore
+  translation: "Read more →"
+
+- id: translations
+  translation: "Translations"
+
+- id: share
+  translation: "Share"
+
+- id: paginatorPrevious
+  translation: "Previous page"
+
+- id: paginatorNext
+  translation: "Next page"
+
+- id: cookieMessage
+  translation: "This website uses cookies."
+
+- id: cookieLink
+  translation: "Learn more."
+
+- id: cookieDismiss
+  translation: "Got it!"
+
+- id: backToTop
+  translation: "Back to top"
+
+- id: links
+  translation: "Links"
+
+- id: authoredBy
+  translation: "by"
+
+- id: postedIn
+  translation: "in"
+
+- id: comma
+  translation: ","

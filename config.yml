@@ -1,0 +1,41 @@
+baseURL: https://yktoo.com/
+languageCode: en-us
+defaultContentLanguage: en
+pygmentsCodeFences: true
+pygmentsStyle: tango
+title: Yktoo
+theme: yktoo-bootstrap
+summaryLength: 15
+googleAnalytics: UA-19569086-3
+enableRobotsTXT: true
+
+permalinks:
+    # Arrange blog posts in /blog/post/YYYY/MM/DD-name structure
+    blog: /blog/post/:year/:month/:day-:title/
+
+taxonomies:
+    tag: tags
+
+menu:
+    nav:
+        - identifier: archive
+          url: '/blog/archive'
+          weight: 2
+        - identifier: faq
+          url: '/blog/faq'
+          weight: 3
+        - identifier: software
+          url: '/software'
+          weight: 4
+        - identifier: radiolaria
+          url: '/radiolaria'
+          weight: 5
+        - identifier: videos
+          url: '/video'
+          weight: 6
+        - identifier: about
+          url: '/about'
+          weight: 7
+        - identifier: contact
+          url: '/about/contact'
+          weight: 8

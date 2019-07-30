@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="{{ .Lang }}">
+<head>
+    {{ partial "head-meta.html" . }}
+
+    {{ block "schema-dot-org" . }}
+    <!-- schema.org metadata differs for Nodes and Pages -->
+    {{ end }}
+
+    <link rel="canonical" href="{{ .Permalink }}">
+
+    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+
+    <link href="{{ (resources.Get `scss/main.scss` | toCSS    | minify).Permalink }}" rel="stylesheet">
+    <link href="{{ (resources.Get `fontawesome-5.1.0/all.css` | minify).Permalink }}" rel="stylesheet">
+    <link href="{{ (resources.Get `css/style.css`             | minify).Permalink }}" rel="stylesheet">
+
+    <!-- RSS feed -->
+    {{ with .OutputFormats.Get "rss" -}}
+        {{ printf `<link rel="%s" type="%s" href="%s" title="%s"/>` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+    {{ end -}}
+
+    {{ template "_internal/google_analytics_async.html" . }}
+
+    {{ if .Site.Params.cookie_consent_info_url }}
+    {{ partial "cookie-consent.html" . }}
+    {{ end }}
+
+    {{ partial "head-custom.html" . }}
+</head>
+<body>
+
+{{ block "masthead" . }}
+<header>
+    <nav id="navbar" class="navbar navbar-dark bg-dark">
+        <a class="nav-link {{ if .IsHome }}active{{ end }}" href="{{ .Site.BaseURL | absLangURL }}">{{ i18n "home" }}</a>
+        {{- $currentPage := . -}}
+        {{ range .Site.Menus.nav }}
+        {{ $menuURL := .URL | absLangURL }}
+        <a class="nav-link{{ if or ($currentPage.IsMenuCurrent `nav` .) ($currentPage.HasMenuCurrent `nav` .) }} active{{end}}"
+           href="{{ .URL }}" title="{{ .Title }}">{{ i18n .Identifier }}</a>
+        {{ end }}
+    </nav>
+</header>
+{{ end }}
+
+{{ block "header" . }}
+{{ if (ne .Site.Params.header_visible false) }}
+<header class="blog-header">
+    <div class="container">
+        <h1 class="blog-title"><a href="{{ `/` | absURL }}" rel="home">{{ .Site.Title | safeHTML }}</a></h1>
+        {{ with .Site.Params.description }}<p class="lead blog-description">{{ . | markdownify }}</p>{{ end }}
+    </div>
+</header>
+{{ end }}
+{{ end }}
+
+{{ block "body" . }}
+<div class="container">
+    <div class="row">
+        <div class="col-sm-8 blog-main">
+
+            {{ block "main" . }}
+            <!-- The part of the page that begins to differ between templates -->
+            {{ end }}
+
+        </div>
+
+        {{ partial "sidebar.html" . }}
+
+    </div>
+</div>
+{{ end }}
+
+{{ block "footer" . }}
+<footer class="blog-footer">
+    {{ with .Site.Copyright }}<p>{{ . | markdownify }}</p>{{ end }}
+    <p><a href="#">{{ i18n "backToTop" }}</a></p>
+</footer>
+{{ end }}
+
+</body>
+</html>
