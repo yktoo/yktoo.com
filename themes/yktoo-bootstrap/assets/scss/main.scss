@@ -6,3 +6,12 @@ $theme-colors: (
 
 // Import Bootstrap
 @import "../bootstrap-4.3.1/scss/bootstrap";
+
+body {
+  background: #333 url(/images/page-bg.png);
+}
+
+#page {
+    padding: 15px 0 40px 0;
+    background: #fff;
+}
