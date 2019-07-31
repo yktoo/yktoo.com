@@ -28,11 +28,39 @@ body {
     background-color: transparent;
 }
 
+/* Anchors */
+a {
+    &:hover {
+        background-color: #333;
+    }
+
+    &.internal {
+        border-bottom: 1px dashed #5a9681;
+    }
+
+    &.wikipedia:after {
+        content: "w";
+        vertical-align: super;
+        padding-left: 2px;
+        font-family: serif;
+        font-size: 65%;
+    }
+}
+
 // Navbar
-.navbar-dark .navbar-nav {
-    .active > .nav-link,
-    .nav-link.active {
-        background: #ffcc00;
+.navbar-dark {
+    padding-bottom: 0;
+
+    @media (min-width: map_get($grid-breakpoints, "lg")) {
+        // Align logo on top of the nav - unless it's collapsed at width < lg
+        flex-flow: column nowrap;
+    }
+
+    .navbar-nav {
+        .active > .nav-link,
+        .nav-link.active {
+            background: #ffcc00;
+        }
     }
 }
 
