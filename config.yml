@@ -9,6 +9,7 @@ summaryLength: 15
 googleAnalytics: UA-19569086-3
 enableRobotsTXT: true
 
+
 permalinks:
     # Arrange blog posts in /blog/post/YYYY/MM/DD-name structure
     blog: /blog/post/:year/:month/:day-:title/
@@ -41,5 +42,7 @@ menu:
           weight: 8
 
 params:
-    sidebar:
-        about: false
+    postsPerPage: 6
+    copyright:
+        from: 2000
+        by: Dmitry Kann

@@ -1,61 +1,25 @@
-# Navigation
-
-- id: archive
-  translation: 'Archive'
-- id: faq
-  translation: 'FAQ'
-- id: software
-  translation: 'Software'
-- id: radiolaria
-  translation: 'Radiolaria'
-- id: videos
-  translation: 'Videos'
-- id: about
-  translation: 'About'
-- id: contact
-  translation: 'Contact'
-
-- id: home
-  translation: "Home"
-
-- id: recentPosts
-  translation: "Recent Posts"
-
-- id: readMore
-  translation: "Read more →"
-
-- id: translations
-  translation: "Translations"
-
-- id: share
-  translation: "Share"
-
-- id: paginatorPrevious
-  translation: "Previous page"
-
-- id: paginatorNext
-  translation: "Next page"
-
-- id: cookieMessage
-  translation: "This website uses cookies."
-
-- id: cookieLink
-  translation: "Learn more."
-
-- id: cookieDismiss
-  translation: "Got it!"
-
-- id: backToTop
-  translation: "Back to top"
-
-- id: links
-  translation: "Links"
-
-- id: authoredBy
-  translation: "by"
-
-- id: postedIn
-  translation: "in"
-
-- id: comma
-  translation: ","
+- {id: about,             translation: About}
+- {id: archive,           translation: Archive}
+- {id: authoredBy,        translation: by}
+- {id: blogSubscribe,     translation: Subscribe to updates}
+- {id: blogSubtitle,      translation: Blog about life in Holland (and a lot of other stuff)}
+- {id: blogTitle,         translation: Netherlands and more}
+- {id: comma,             translation: ','}
+- {id: contact,           translation: Contact}
+- {id: cookieDismiss,     translation: Got it!}
+- {id: cookieLink,        translation: Learn more.}
+- {id: cookieMessage,     translation: This website uses cookies.}
+- {id: copyright,         translation: Copyright ©%.4d—%.4d %s.}
+- {id: faq,               translation: FAQ}
+- {id: home,              translation: Home}
+- {id: links,             translation: Links}
+- {id: paginatorNext,     translation: Next page}
+- {id: paginatorPrevious, translation: Previous page}
+- {id: postedIn,          translation: in}
+- {id: radiolaria,        translation: Radiolaria}
+- {id: readMore,          translation: Read more →}
+- {id: recentPosts,       translation: Recent Posts}
+- {id: share,             translation: Share}
+- {id: software,          translation: Software}
+- {id: translations,      translation: Translations}
+- {id: videos,            translation: Videos}

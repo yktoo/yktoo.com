@@ -1,0 +1,3 @@
+<footer id="footer">
+    {{ with .Site.Params.Copyright }}<p>{{ printf (i18n "copyright") .from now.Year .by }}</p>{{ end }}
+</footer>

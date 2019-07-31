@@ -1,0 +1,24 @@
+<!-- Single post item, which is displayed in a list -->
+<article class="blog-post-wrapper">
+    <a href="{{ .Permalink }}" class="click-catcher"></a>
+    <div class="blog-post">
+        <h2>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+            <small>{{ dateFormat "Monday, Jan 2, 2006" .Date }}</small>
+        </h2>
+        <div class="row">
+            <!-- Post image -->
+            <div class="col-xs-2 col-md-6">
+                {{- with .Params.image -}}
+                {{- with $.Page.Resources.GetMatch . }}<img class="img-fluid" src="{{ .RelPermalink }}" alt="Post image">{{ end -}}
+                {{- end -}}
+            </div>
+
+            <!-- Post summary -->
+            <div class="col-xs-10 col-md-6">{{ with .Params.description }}{{ . | markdownify }}{{ else }}{{ .Summary }}{{ end }}</div>
+
+            <!-- Read On link -->
+            <a href="{{ .Permalink }}">{{ i18n "readOn" }}</a>
+        </div>
+    </div>
+</article>

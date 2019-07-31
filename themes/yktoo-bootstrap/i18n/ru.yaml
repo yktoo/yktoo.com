@@ -1,23 +1,18 @@
-- id: about
-  translation: "Об авторе"
-
-- id: home
-  translation: "Главная"
-
-- id: recentPosts
-  translation: "Свежие записи"
-
-- id: readMore
-  translation: "Читать далее →"
-
-- id: translations
-  translation: "Переводы"
-
-- id: share
-  translation: "Поделиться"
-
-- id: paginatorPrevious
-  translation: "Предыдущая страница"
-
-- id: paginatorNext
-  translation: "Следующая страница"
+- {id: about,             translation: О сайте}
+- {id: archive,           translation: Архив}
+- {id: blogSubscribe,     translation: Подписаться на обновления}
+- {id: blogSubtitle,      translation: Блог о жизни в Голландии (и многом другом)}
+- {id: blogTitle,         translation: Нидерланды и не только}
+- {id: contact,           translation: Контакт}
+- {id: copyright,         translation: Авторское право ©%.4d—%.4d %s.}
+- {id: faq,               translation: FAQ}
+- {id: home,              translation: Главная}
+- {id: paginatorNext,     translation: Следующая страница}
+- {id: paginatorPrevious, translation: Предыдущая страница}
+- {id: radiolaria,        translation: Радиолярия}
+- {id: readMore,          translation: Читать далее →}
+- {id: recentPosts,       translation: Свежие записи}
+- {id: share,             translation: Поделиться}
+- {id: software,          translation: Программы}
+- {id: translations,      translation: Переводы}
+- {id: videos,            translation: Видео}

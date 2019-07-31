@@ -1,38 +1,22 @@
-- id: about
-  translation: "Over ons"
-
-- id: home
-  translation: "Home"
-
-- id: recentPosts
-  translation: "Recente berichten"
-
-- id: readMore
-  translation: "Lees verder →"
-
-- id: translations
-  translation: "Vertalingen"
-
-- id: share
-  translation: "Delen"
-
-- id: paginatorPrevious
-  translation: "Vorige pagina"
-
-- id: paginatorNext
-  translation: "Volgende pagina"
-
-- id: cookieMessage
-  translation: "Deze website gebruikt cookies."
-
-- id: cookieLink
-  translation: "Lees hier meer"
-
-- id: cookieDismiss
-  translation: "OK"
-
-- id: backToTop
-  translation: "Terug naar boven"
-
-- id: links
-  translation: "Links"
+- {id: about,             translation: Over}
+- {id: archive,           translation: Archief}
+- {id: blogSubscribe,     translation: Abonneer je op updates}
+- {id: blogSubtitle,      translation: Blog over het Nederlandse leven (en veel andere dingen)}
+- {id: blogTitle,         translation: Nederland en verder}
+- {id: contact,           translation: Contact}
+- {id: cookieDismiss,     translation: OK}
+- {id: cookieLink,        translation: Lees hier meer}
+- {id: cookieMessage,     translation: Deze website gebruikt cookies.}
+- {id: copyright,         translation: Auteursrecht ©%.4d—%.4d %s.}
+- {id: faq,               translation: FAQ}
+- {id: home,              translation: Hoofdpagina}
+- {id: links,             translation: Links}
+- {id: paginatorNext,     translation: Volgende pagina}
+- {id: paginatorPrevious, translation: Vorige pagina}
+- {id: radiolaria,        translation: Radiolaria}
+- {id: readMore,          translation: Lees verder →}
+- {id: recentPosts,       translation: Recente berichten}
+- {id: share,             translation: Delen}
+- {id: software,          translation: Software}
+- {id: translations,      translation: Vertalingen}
+- {id: videos,            translation: Video's}
