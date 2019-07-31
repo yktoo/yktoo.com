@@ -11,6 +11,7 @@
 
     <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
 
+    <!-- Stylesheets -->
     <link href="{{ (resources.Get `scss/main.scss` | toCSS    | minify).Permalink }}" rel="stylesheet">
     <link href="{{ (resources.Get `fontawesome-5.1.0/all.css` | minify).Permalink }}" rel="stylesheet">
     <link href="{{ (resources.Get `css/style.css`             | minify).Permalink }}" rel="stylesheet">
@@ -20,8 +21,10 @@
         {{ printf `<link rel="%s" type="%s" href="%s" title="%s"/>` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
     {{ end -}}
 
+    <!-- Google Analytics -->
     {{ template "_internal/google_analytics_async.html" . }}
 
+    <!-- Cookie consent -->
     {{ if .Site.Params.cookie_consent_info_url }}
     {{ partial "cookie-consent.html" . }}
     {{ end }}
@@ -32,14 +35,19 @@
 
 {{ block "masthead" . }}
 <header>
-    <nav id="navbar" class="navbar navbar-dark bg-dark">
-        <a class="nav-link {{ if .IsHome }}active{{ end }}" href="{{ .Site.BaseURL | absLangURL }}">{{ i18n "home" }}</a>
-        {{- $currentPage := . -}}
-        {{ range .Site.Menus.nav }}
-        {{ $menuURL := .URL | absLangURL }}
-        <a class="nav-link{{ if or ($currentPage.IsMenuCurrent `nav` .) ($currentPage.HasMenuCurrent `nav` .) }} active{{end}}"
-           href="{{ .URL }}" title="{{ .Title }}">{{ i18n .Identifier }}</a>
-        {{ end }}
+    <nav id="navbar" class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-collapse" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar-collapse">
+            <a class="nav-link {{ if .IsHome }}active{{ end }}" href="{{ .Site.BaseURL | absLangURL }}">{{ i18n "home" }}</a>
+            {{- $currentPage := . -}}
+            {{ range .Site.Menus.nav }}
+            {{ $menuURL := .URL | absLangURL }}
+            <a class="nav-link{{ if or ($currentPage.IsMenuCurrent `nav` .) ($currentPage.HasMenuCurrent `nav` .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ i18n .Identifier }}</a>
+            {{ end }}
+        </div>
     </nav>
 </header>
 {{ end }}
@@ -79,5 +87,6 @@
 </footer>
 {{ end }}
 
+{{ partial "scripts.html" . }}
 </body>
 </html>

@@ -39,3 +39,7 @@ menu:
         - identifier: contact
           url: '/about/contact'
           weight: 8
+
+params:
+    sidebar:
+        about: false
