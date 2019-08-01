@@ -16,6 +16,7 @@ languages:
         params:
     ru:
         params:
+            author: Дмитрий Канн
             copyright:
                 from: 2000
                 by: Дмитрий Канн
@@ -54,11 +55,12 @@ menu:
           pre: <i class="fas fa-info-circle"></i>
           weight: 100
         - identifier: contact
-          url: '/about/contact'
+          url: '/contact'
           pre: <i class="fas fa-envelope"></i>
           weight: 101
 
 params:
+    author: Dmitry Kann
     postsPerPage: 6
     copyright:
         from: 2000

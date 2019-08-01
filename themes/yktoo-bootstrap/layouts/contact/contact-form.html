@@ -1,0 +1,25 @@
+<form id="contact-form" action="/en/about/contact" method="post">
+    <div class="form-group field-contactform-email required">
+        <label class="control-label" for="contactform-name">Your name</label>
+        <input type="text" id="contactform-name" class="form-control" name="ContactForm[name]" aria-required="true">
+        <p class="help-block help-block-error"></p>
+    </div>
+    <div class="form-group field-contactform-email required">
+        <label class="control-label" for="contactform-email">Email address</label>
+        <input type="text" id="contactform-email" class="form-control" name="ContactForm[email]" aria-required="true">
+        <p class="help-block help-block-error"></p>
+    </div>
+    <div class="form-group field-contactform-subject required">
+        <label class="control-label" for="contactform-subject">Message subject</label>
+        <input type="text" id="contactform-subject" class="form-control" name="ContactForm[subject]" aria-required="true">
+        <p class="help-block help-block-error"></p>
+    </div>
+    <div class="form-group field-contactform-body required">
+        <label class="control-label" for="contactform-body">Message body</label>
+        <textarea id="contactform-body" class="form-control" name="ContactForm[body]" rows="6" aria-required="true"></textarea>
+        <p class="help-block help-block-error"></p>
+    </div>
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary" name="contact-button">Submit</button>
+    </div>
+</form>

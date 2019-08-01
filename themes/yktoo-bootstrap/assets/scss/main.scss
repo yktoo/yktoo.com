@@ -9,6 +9,8 @@ $theme-colors: (
 );
 $body-color: #666;
 $body-bg: #333;
+$link-hover-color: map_get($theme-colors, "secondary");
+$link-hover-decoration: none;
 $navbar-dark-color: #fff;
 $navbar-dark-active-color: #000;
 $navbar-dark-hover-color: map_get($theme-colors, "secondary");
@@ -38,11 +40,18 @@ body {
     text-align: center;
     background-color: transparent;
 }
+img.article-opener {
+    float: left;
+    border-radius: 6px;
+    margin: 0.5em 2em 1em 0;
+    max-width: 250px;
+    height: auto;
+}
 
-/* Anchors */
+// Anchors
 a {
-    &:hover {
-        background-color: gray(300);
+    @include hover-focus {
+        background-color: #333;
     }
 
     &.internal {

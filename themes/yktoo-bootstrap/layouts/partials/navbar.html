@@ -8,15 +8,15 @@
             {{- $currentPage := . }}
             <!-- Left menu -->
             <ul class="nav navbar-nav mr-lg-5">
-                {{ range where .Site.Menus.nav "Weight" "<" 100 }}
-                {{ partial "navbar-link.html" (dict "item" . "page" $currentPage) }}
-                {{ end }}
+                {{- range where .Site.Menus.nav "Weight" "<" 100 }}
+                {{- partial "navbar-link.html" (dict "item" . "page" $currentPage) }}
+                {{- end }}
             </ul>
             <!-- Right menu -->
             <ul class="nav navbar-nav ml-lg-5">
-                {{ range where .Site.Menus.nav "Weight" ">=" 100 }}
-                {{ partial "navbar-link.html" (dict "item" . "page" $currentPage) }}
-                {{ end }}
+                {{- range where .Site.Menus.nav "Weight" ">=" 100 }}
+                {{- partial "navbar-link.html" (dict "item" . "page" $currentPage) }}
+                {{- end }}
             </ul>
         </div>
     </nav>

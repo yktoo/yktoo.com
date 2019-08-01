@@ -1,0 +1,28 @@
+details:
+    - url: 'https://www.linkedin.com/in/dkann/'
+      icon: fab fa-linkedin
+      title: LinkedIn
+    - url: 'https://twitter.com/yktoo'
+      icon: fab fa-twitter
+      title: Twitter
+    - url: 'https://www.youtube.com/user/yyktoo'
+      icon: fab fa-youtube
+      title: YouTube
+    - url: 'https://github.com/yktoo'
+      icon: fab fa-github
+      title: GitHub
+    - url: 'https://launchpad.net/~yktooo'
+      icon: fab fa-ubuntu
+      title: Launchpad
+    - url: 'https://stackoverflow.com/users/story/1300654'
+      icon: fab fa-stack-overflow
+      title: StackOverflow
+    - url: 'https://habr.com/users/yktoo/'
+      icon: fas fa-link
+      title: Habr
+    - url: 'https://www.reddit.com/user/yktoo'
+      icon: fab fa-reddit
+      title: Reddit
+    - url: 'https://yktoo.tumblr.com/'
+      icon: fab fa-tumblr
+      title: Tumblr

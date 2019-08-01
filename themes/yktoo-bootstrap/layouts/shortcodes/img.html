@@ -1,0 +1,3 @@
+<!-- Shortcode for inserting images. Syntax: img "image_filename.ext" ["title" ["classes"]] -->
+{{- $img := $.Page.Resources.GetMatch (.Get 0) -}}
+<img src="{{ $img.RelPermalink }}" alt="{{ .Get 1 }}"{{ with .Get 2 }} class="{{ . }}"{{ end }}>

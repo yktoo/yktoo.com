@@ -1,0 +1,7 @@
+<figure class="figure blog-image">
+    {{ $img := $.Page.Resources.GetMatch (.Get 0) }}
+    <a class="image-popup" href="{{ $img.RelPermalink }}" data-effect="mfp-with-zoom" data-lightbox="image-1"><img src="{{ $img.RelPermalink }}" alt="{{ .Get 1 }}" class="figure-img img-fluid"></a>
+    {{ with .Get 1 }}
+    <figcaption class="figure-caption">{{ . }}</figcaption>
+    {{ end }}
+</figure>
