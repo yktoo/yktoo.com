@@ -1,17 +1,28 @@
+// Import fonts
+@import url('https://fonts.googleapis.com/css?family=Arimo|Roboto+Condensed&display=swap');
+
 // Variable overrides
 $theme-colors: (
     "primary": #089664,
+    "secondary": #fc0,
     "danger": #ff4136
 );
 $body-color: #666;
 $body-bg: #333;
-$navbar-dark-active-color: black;
+$navbar-dark-color: #fff;
+$navbar-dark-active-color: #000;
+$navbar-dark-hover-color: map_get($theme-colors, "secondary");
+
+// Enable advanced theming
+$enable-shadows: true;
+$enable-gradients: true;
 
 // Import Bootstrap
 @import "../bootstrap-4.3.1/scss/bootstrap";
 
 body {
     background-image: url(/images/page-bg.png);
+    font-family: 'Arimo', sans-serif;
 }
 
 #page {
@@ -31,7 +42,7 @@ body {
 /* Anchors */
 a {
     &:hover {
-        background-color: #333;
+        background-color: gray(300);
     }
 
     &.internal {
@@ -48,18 +59,24 @@ a {
 }
 
 // Navbar
-.navbar-dark {
+#navbar {
+    font-family: 'Roboto Condensed', sans-serif;
     padding-bottom: 0;
 
-    @media (min-width: map_get($grid-breakpoints, "lg")) {
+    @include media-breakpoint-up("lg") {
         // Align logo on top of the nav - unless it's collapsed at width < lg
         flex-flow: column nowrap;
     }
 
     .navbar-nav {
+        .nav-link {
+            padding: 0.7rem 1.4rem;
+        }
         .active > .nav-link,
         .nav-link.active {
-            background: #ffcc00;
+            //noinspection CssInvalidPropertyValue
+            background: theme-color("secondary");
+            box-shadow: rgba(0, 0, 0, 0.25) 0 3px 9px 0 inset;
         }
     }
 }

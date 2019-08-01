@@ -34,18 +34,16 @@
 
 <!-- Header with a Navbar -->
 <header>
-    <nav id="navbar" class="navbar navbar-expand-lg navbar-dark">
-        <a class="navbar-brand" href="#"><img src="/images/logo.png" alt="Logo"></a>
+    <nav id="navbar" class="navbar navbar-expand-lg navbar-dark sticky-top">
+        <a class="navbar-brand" href="{{ .Site.BaseURL | absLangURL }}" title="{{ i18n `home` }}"><img src="/images/logo.png" alt="Logo"></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-collapse" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbar-collapse">
             <ul class="nav navbar-nav">
-                <li><a class="nav-link {{ if .IsHome }}active{{ end }}" href="{{ .Site.BaseURL | absLangURL }}">{{ i18n "home" }}</a></li>
                 {{- $currentPage := . -}}
                 {{ range .Site.Menus.nav }}
-                {{ $menuURL := .URL | absLangURL }}
-                <li><a class="nav-link{{ if or ($currentPage.IsMenuCurrent `nav` .) ($currentPage.HasMenuCurrent `nav` .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ i18n .Identifier }}</a></li>
+                <li><a class="nav-link{{ if or ($currentPage.IsMenuCurrent `nav` .) ($currentPage.HasMenuCurrent `nav` .) }} active{{end}}" href="{{ .URL | absLangURL }}" title="{{ .Title }}">{{ i18n .Identifier }}</a></li>
                 {{ end }}
             </ul>
         </div>
