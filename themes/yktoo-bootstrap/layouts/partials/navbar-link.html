@@ -1,0 +1,7 @@
+<!-- Render a <li> element for a navbar menu item (from the site 'nav' menu), using dictionary with 'item' and 'page' as context  -->
+{{- $item := .item }}
+<li>
+    <a class="nav-link{{ if .page.IsMenuCurrent `nav` $item }} active{{end}}" href="{{ $item.URL | absLangURL }}" title="{{ with $item.Pre }}{{ T $item.Identifier }}{{ end }}">
+        {{- with $item.Pre }}{{ . | safeHTML }}{{ else }}{{ T $item.Identifier }}{{ end -}}
+    </a>
+</li>

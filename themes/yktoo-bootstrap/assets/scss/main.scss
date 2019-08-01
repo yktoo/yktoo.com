@@ -61,10 +61,11 @@ a {
 // Navbar
 #navbar {
     font-family: 'Roboto Condensed', sans-serif;
-    padding-bottom: 0;
 
+    // Non-collapsed navbar (width >= lg)
     @include media-breakpoint-up("lg") {
-        // Align logo on top of the nav - unless it's collapsed at width < lg
+        padding-bottom: 0;
+        // Align logo on top of the nav
         flex-flow: column nowrap;
     }
 
