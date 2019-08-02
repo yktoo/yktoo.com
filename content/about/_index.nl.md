@@ -1,6 +1,7 @@
 ---
 date: "2019-08-01T17:54:54+0200"
 title: Over
+layout: single
 ---
 
 {{< img "dk.jpg" "Dmitry Kann" "article-opener" >}}
@@ -13,7 +14,7 @@ Ik ben softwareontwikkelaar en oprichter van een klein softwarebedrijf [Yktoo So
 
 Ik heb een aantal hobby's om mijn vrije tijd aan te besteden: [blogging][route:/site/index], open-source [softwareontwikkeling][route:/software/index], [muziek][route:/blog/tag,tag:music], [reizen][route:/blog/tag,tag:travel], [aikido][route:/blog/tag,tag:aikido] en [hardlopen][route:/blog/tag,tag:running]. Ook was ik ooit een lid van het [Radiolaria][route:/radiolaria/index] duo.
 
-Ik spreek Russisch, Engels en Nederlands. Als je contact met me op wilt nemen, dan kun je het beste de [contactpagina]({{< ref "/contact" >}}) gebruiken.
+Ik spreek Russisch, Engels en Nederlands. Als je contact met me op wilt nemen, dan kun je het beste de [contactpagina]({{< ref "/about/contact" >}}) gebruiken.
 
 ## Over deze website
 

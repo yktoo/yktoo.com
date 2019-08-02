@@ -14,6 +14,9 @@
             </ul>
             <!-- Right menu -->
             <ul class="nav navbar-nav ml-lg-5">
+                {{ range .Translations }}
+                    <li><a class="nav-link" href="{{ .Permalink }}">{{ .Lang | upper }}</a></li>
+                {{ end }}
                 {{- range where .Site.Menus.nav "Weight" ">=" 100 }}
                 {{- partial "navbar-link.html" (dict "item" . "page" $currentPage) }}
                 {{- end }}

@@ -1,6 +1,7 @@
 ---
 date: "2019-08-01T15:56:13+0200"
 title: About
+layout: single
 ---
 
 {{< img "dk.jpg" "Dmitry Kann" "article-opener" >}}
@@ -13,7 +14,7 @@ I'm a software developer and the founder of a small software company called [Ykt
 
 I have a number of hobbies to fill up my spare time: [blogging][route:/site/index], open-source [software development][route:/software/index], [music][route:/blog/tag,tag:music], [travelling][route:/blog/tag,tag:travel], [aikido][route:/blog/tag,tag:aikido] and [running][route:/blog/tag,tag:running]. And in the past being a part of the [Radiolaria][route:/radiolaria/index] duo.
 
-I speak Russian, English, and Dutch. If you feel like contacting me, check out the [Contact]({{< ref "/contact" >}}) page.
+I speak Russian, English, and Dutch. If you feel like contacting me, check out the [Contact]({{< ref "/about/contact" >}}) page.
 
 ## About this website
 

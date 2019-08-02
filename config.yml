@@ -55,7 +55,7 @@ menu:
           pre: <i class="fas fa-info-circle"></i>
           weight: 100
         - identifier: contact
-          url: '/contact'
+          url: '/about/contact/'
           pre: <i class="fas fa-envelope"></i>
           weight: 101
 
