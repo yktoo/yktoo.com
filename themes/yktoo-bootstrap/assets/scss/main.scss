@@ -50,6 +50,9 @@ img.article-opener {
     max-width: 250px;
     height: auto;
 }
+section {
+    margin-bottom: 1rem;
+}
 
 // Anchors
 a {
@@ -131,4 +134,30 @@ a {
         max-height: 500px;
         overflow: hidden;
     }
+}
+
+// Table of contents
+#TableOfContents {
+    // Hide the first level
+    > ul {
+        display: flex;
+        flex-wrap: wrap;
+        padding-left: 0;
+        margin-bottom: 0;
+        list-style: none;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        flex-direction: column;
+
+        // Make second level links bold
+        > li > ul > li > a {
+            font-weight: 700;
+        }
+    }
+}
+
+// Misc
+.flang {
+    font-style: italic;
+    color: #4e0070;
 }
