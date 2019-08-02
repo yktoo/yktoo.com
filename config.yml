@@ -51,7 +51,7 @@ menu:
 
         # Items with weights >= 100 go on the right
         - identifier: about
-          url: '/about'
+          url: '/about/'
           pre: <i class="fas fa-info-circle"></i>
           weight: 100
         - identifier: contact

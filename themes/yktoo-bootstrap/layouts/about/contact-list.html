@@ -10,7 +10,7 @@
     <h2>{{ T "mySocialLinks" }}</h2>
     <div class="list-group">
         {{ range .Site.Data.contact.details }}
-        <a class="list-group-item list-group-item-action" href="{{ .url }}"><i class="{{ .icon }}"></i> {{ .title }}</a>
+        <a class="list-group-item list-group-item-action" href="{{ .url }}"><i class="{{ .icon }}"></i>{{ .title }}</a>
         {{ end }}
     </div>
 </div>

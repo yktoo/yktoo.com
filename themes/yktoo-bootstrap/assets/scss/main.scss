@@ -1,19 +1,22 @@
 // Import fonts
 @import url('https://fonts.googleapis.com/css?family=Arimo|Roboto+Condensed&display=swap');
 
-// Variable overrides
-$theme-colors: (
-    "primary": #089664,
-    "secondary": #fc0,
-    "danger": #ff4136
-);
+// Base colours
+$primary: #089664;
+$secondary: #fc0;
+
+// Secondary elements
 $body-color: #666;
 $body-bg: #333;
-$link-hover-color: map_get($theme-colors, "secondary");
+$link-hover-color: $secondary;
+$link-hover-bg: $body-bg; // Not a Bootstrap variable
 $link-hover-decoration: none;
+$list-group-border-color: fade_out($primary, 0.7);
+$list-group-hover-bg: $link-hover-bg;
+$list-group-action-hover-color: $secondary;
 $navbar-dark-color: #fff;
 $navbar-dark-active-color: #000;
-$navbar-dark-hover-color: map_get($theme-colors, "secondary");
+$navbar-dark-hover-color: $secondary;
 
 // Enable advanced theming
 $enable-shadows: true;
@@ -51,7 +54,7 @@ img.article-opener {
 // Anchors
 a {
     @include hover-focus {
-        background-color: #333;
+        background-color: $link-hover-bg;
     }
 
     &.internal {
@@ -64,6 +67,15 @@ a {
         padding-left: 2px;
         font-family: serif;
         font-size: 65%;
+    }
+}
+
+// List groups
+.list-group {
+    font-size: 120%;
+
+    .fa, .fas, .fab {
+        margin-right: 1rem;
     }
 }
 
@@ -85,7 +97,7 @@ a {
         .active > .nav-link,
         .nav-link.active {
             //noinspection CssInvalidPropertyValue
-            background: theme-color("secondary");
+            background: $secondary;
             box-shadow: rgba(0, 0, 0, 0.25) 0 3px 9px 0 inset;
         }
     }
@@ -104,7 +116,7 @@ a {
             width: 100%;
             height: 100%;
             text-decoration: none;
-            background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 90%, rgba(255, 255, 255, 1) 100%);
+            background: linear-gradient(to bottom, transparent 90%, #fff 100%);
 
             &:hover {
                 background: #aaa;

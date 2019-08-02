@@ -9,7 +9,9 @@
             <!-- Left menu -->
             <ul class="nav navbar-nav mr-lg-5">
                 {{- range where .Site.Menus.nav "Weight" "<" 100 }}
-                {{- partial "navbar-link.html" (dict "item" . "page" $currentPage) }}
+                <li><a class="nav-link{{ if $currentPage.IsMenuCurrent `nav` . }} active{{end}}" href="{{ .URL | absLangURL }}" title="{{ if .Pre }}{{ T .Identifier }}{{ end }}">
+                    {{- with .Pre }}{{ . | safeHTML }}{{ else }}{{ T .Identifier }}{{ end -}}
+                </a></li>
                 {{- end }}
             </ul>
             <!-- Right menu -->
@@ -18,7 +20,9 @@
                     <li><a class="nav-link" href="{{ .Permalink }}">{{ .Lang | upper }}</a></li>
                 {{ end }}
                 {{- range where .Site.Menus.nav "Weight" ">=" 100 }}
-                {{- partial "navbar-link.html" (dict "item" . "page" $currentPage) }}
+                <li><a class="nav-link{{ if $currentPage.IsMenuCurrent `nav` . }} active{{end}}" href="{{ .URL | absLangURL }}" title="{{ if .Pre }}{{ T .Identifier }}{{ end }}">
+                    {{- with .Pre }}{{ . | safeHTML }}{{ else }}{{ T .Identifier }}{{ end -}}
+                </a></li>
                 {{- end }}
             </ul>
         </div>

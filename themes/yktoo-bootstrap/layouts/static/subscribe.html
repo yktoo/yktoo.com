@@ -6,8 +6,7 @@
 <h2>{{ T "postAnnouncements" }}</h2>
 <div class="list-group mb-3">
     {{ range .Site.Data.blog.subscribe.feeds }}
-    <a class="list-group-item" href="{{ .url }}"><h4 class="list-group-item-heading"><i class="{{ .icon }}"></i>
-        {{ .title }}</h4></a>
+    <a class="list-group-item list-group-item-action" href="{{ .url }}"><i class="{{ .icon }}"></i>{{ .title }}</a>
     {{ end }}
 </div>
 
