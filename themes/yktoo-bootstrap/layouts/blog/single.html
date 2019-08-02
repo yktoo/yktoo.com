@@ -56,20 +56,35 @@
 {{ define "main" }}
 {{ $dateFormat := default "Mon Jan 2, 2006" (index .Site.Params "date_format") }}
 
-<article class="blog-post">
+<article class="blog-post-single">
+
+    <!-- Post metadata -->
     <p class="blog-post-meta"><time datetime="{{ .Date.Format `2006-01-02T15:04:05Z07:00` }}">{{ .Date.Format $dateFormat }}</time> {{ T "authoredBy" }} {{ .Params.author | default .Site.Params.author }}{{ if or (.Params.categories) (.Params.tags) }} {{ T "postedIn" }} {{ partial "meta-terms.html" . }}{{ end }}</p>
+
+    <!-- Post content -->
     {{ .Content }}
 
-    {{ if .IsTranslated }}
-    <h4>{{ T "translations" }}</h4>
-    <ul>
-        {{ range .Translations }}
-        <li>
-            <a href="{{ .Permalink }}">{{ .Lang }}: {{ .Title }}{{ if .IsPage }}{{ end }}</a>
-        </li>
+    <!-- Post footer -->
+    <div class="blog-post-footer">
+
+        <!-- TODO render post group -->
+
+        <!-- Links to translations -->
+        {{ if .IsTranslated }}
+        <p>
+            {{- T "postInLangs" -}}&nbsp;
+            {{- range $idx, $translation := .Translations }}{{ if $idx }}, {{ end -}}
+            <a href="{{ .Permalink }}">{{ T (print "postIn_" .Lang) }}</a>
+            {{- end -}}
+        </p>
         {{ end }}
-    </ul>
-    {{ end }}
+
+        <!-- TODO social sharing -->
+
+        <!-- TODO comments -->
+
+    </div>
+
 
 </article>
 

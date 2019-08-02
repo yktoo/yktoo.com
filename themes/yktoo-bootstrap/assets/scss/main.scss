@@ -5,13 +5,16 @@
 $primary: #089664;
 $secondary: #fc0;
 
+// Our own vars
+$primary-light: fade_out($primary, 0.7);
+
 // Secondary elements
 $body-color: #666;
 $body-bg: #333;
 $link-hover-color: $secondary;
 $link-hover-bg: $body-bg; // Not a Bootstrap variable
 $link-hover-decoration: none;
-$list-group-border-color: fade_out($primary, 0.7);
+$list-group-border-color: $primary-light;
 $list-group-hover-bg: $link-hover-bg;
 $list-group-action-hover-color: $secondary;
 $navbar-dark-color: #fff;
@@ -135,6 +138,45 @@ a {
         overflow: hidden;
     }
 }
+.blog-post-single {
+
+    .blog-post-meta {
+        color: #6f8f84;
+        font-size: 90%;
+        margin-bottom: 2rem;
+
+        time {
+            font-weight: $font-weight-bold;
+        }
+    }
+
+    .blog-post-footer {
+        margin-bottom: 3rem;
+        padding: 24px 10px;
+        line-height: 1.6;
+        font-size: 85%;
+        border-top: 2px dotted gray;
+        border-bottom: 2px dotted gray;
+        color: $gray-600;
+        text-align: center;
+    }
+
+    .blog-image {
+        display: block;
+        margin: 0 auto;
+        text-align: center;
+
+        .figure-img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        .figure-caption {
+            margin-bottom: 1rem;
+        }
+    }
+}
+
 
 // Table of contents
 #TableOfContents {

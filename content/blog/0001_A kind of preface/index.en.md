@@ -1,5 +1,5 @@
 ---
-date: "2019-07-30T11:36:43+0200"
+date: "2008-03-04T11:36:43+0200"
 title: A kind of preface
 image: "bye-russia.png"
 ---
@@ -8,6 +8,6 @@ This publication is the first in a series of posts about my life in the **Nether
 
 <!--more-->
 
-![](img:1.bp.blogspot.com/-jz8JhCgtnmM/T5quihO5hWI/AAAAAAAAPrc/uTiashxCBzY/s1600/bye-russia.png)
+{{< imgfig "bye-russia.png" >}}
 
 I'll keep posting as my spare time permits.

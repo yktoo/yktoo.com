@@ -20,6 +20,7 @@ languages:
             copyright:
                 from: 2000
                 by: Дмитрий Канн
+            date_format: Mon, 2 Jan 2006
     nl:
         params:
 

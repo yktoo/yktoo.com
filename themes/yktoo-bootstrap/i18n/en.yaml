@@ -18,6 +18,10 @@
 - {id: paginatorNext,     translation: Next page}
 - {id: paginatorPrevious, translation: Previous page}
 - {id: postAnnouncements, translation: Post announcements}
+- {id: postIn_en,         translation: in English}
+- {id: postIn_ru,         translation: in Russian}
+- {id: postIn_nl,         translation: in Dutch}
+- {id: postInLangs,       translation: This post}
 - {id: posts_en,          translation: English posts}
 - {id: posts_ru,          translation: Russian posts}
 - {id: posts_nl,          translation: Dutch posts}
@@ -29,5 +33,4 @@
 - {id: software,          translation: Software}
 - {id: subscribeByEmail,  translation: Subscribe by email}
 - {id: subscribeByRSS,    translation: Feed in RSS 2.0 format}
-- {id: translations,      translation: Translations}
 - {id: videos,            translation: Videos}

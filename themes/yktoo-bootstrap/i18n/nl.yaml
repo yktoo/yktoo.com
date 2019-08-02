@@ -1,5 +1,6 @@
 - {id: about,             translation: Over}
 - {id: archive,           translation: Archief}
+- {id: authoredBy,        translation: door}
 - {id: blogSubscribe,     translation: Abonneer je op updates}
 - {id: blogSubtitle,      translation: Blog over het Nederlandse leven (en veel andere dingen)}
 - {id: blogTitle,         translation: Nederland en verder}
@@ -16,6 +17,10 @@
 - {id: paginatorNext,     translation: Volgende pagina}
 - {id: paginatorPrevious, translation: Vorige pagina}
 - {id: postAnnouncements, translation: Blog updates}
+- {id: postIn_en,         translation: in het Engels}
+- {id: postIn_ru,         translation: in het Russisch}
+- {id: postIn_nl,         translation: in het Nederlands}
+- {id: postInLangs,       translation: Deze post}
 - {id: posts_en,          translation: Posts in het Engels}
 - {id: posts_ru,          translation: Posts in het Russisch}
 - {id: posts_nl,          translation: Posts in het Nederlands}
@@ -26,5 +31,4 @@
 - {id: software,          translation: Software}
 - {id: subscribeByEmail,  translation: Abonneren via e-mail}
 - {id: subscribeByRSS,    translation: Nieuwsfeed in RSS 2.0-formaat}
-- {id: translations,      translation: Vertalingen}
 - {id: videos,            translation: Video's}

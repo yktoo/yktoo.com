@@ -1,5 +1,6 @@
 - {id: about,             translation: О сайте}
 - {id: archive,           translation: Архив}
+- {id: authoredBy,        translation: /}
 - {id: blogSubscribe,     translation: Подписаться на обновления}
 - {id: blogSubtitle,      translation: Блог о жизни в Голландии (и многом другом)}
 - {id: blogTitle,         translation: Нидерланды и не только}
@@ -12,6 +13,10 @@
 - {id: paginatorNext,     translation: Следующая страница}
 - {id: paginatorPrevious, translation: Предыдущая страница}
 - {id: postAnnouncements, translation: Анонсы блога}
+- {id: postIn_en,         translation: на английском}
+- {id: postIn_ru,         translation: на русском}
+- {id: postIn_nl,         translation: на голландском}
+- {id: postInLangs,       translation: Этот пост}
 - {id: posts_en,          translation: Посты на английском}
 - {id: posts_ru,          translation: Посты на русском}
 - {id: posts_nl,          translation: Посты на голландском}
@@ -22,5 +27,4 @@
 - {id: software,          translation: Программы}
 - {id: subscribeByEmail,  translation: Подписаться по е-мэйлу}
 - {id: subscribeByRSS,    translation: Формат RSS 2.0}
-- {id: translations,      translation: Переводы}
 - {id: videos,            translation: Видео}
