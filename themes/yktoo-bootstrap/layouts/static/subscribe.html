@@ -1,0 +1,24 @@
+{{ define "main" }}
+
+{{ .Content }}
+
+<!-- Post announcements -->
+<h2>{{ T "postAnnouncements" }}</h2>
+<div class="list-group mb-3">
+    {{ range .Site.Data.blog.subscribe.feeds }}
+    <a class="list-group-item" href="{{ .url }}"><h4 class="list-group-item-heading"><i class="{{ .icon }}"></i>
+        {{ .title }}</h4></a>
+    {{ end }}
+</div>
+
+<!-- Subscribe to posts lists -->
+<div class="row">
+    {{ range .AllTranslations }}
+    <div class="col-md-4">
+        <h2>{{ T (print "posts_" .Language) }}</h2>
+        {{ partial "blog/subscribe-list.html" . }}
+    </div>
+    {{ end }}
+</div>
+
+{{ end }}

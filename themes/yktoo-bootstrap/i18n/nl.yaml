@@ -11,12 +11,20 @@
 - {id: faq,               translation: FAQ}
 - {id: home,              translation: Hoofdpagina}
 - {id: links,             translation: Links}
+- {id: locale,            translation: nl_NL}
+- {id: mySocialLinks,     translation: Mijn sociale links}
 - {id: paginatorNext,     translation: Volgende pagina}
 - {id: paginatorPrevious, translation: Vorige pagina}
+- {id: postAnnouncements, translation: Blog updates}
+- {id: posts_en,          translation: Posts in het Engels}
+- {id: posts_ru,          translation: Posts in het Russisch}
+- {id: posts_nl,          translation: Posts in het Nederlands}
 - {id: radiolaria,        translation: Radiolaria}
-- {id: readMore,          translation: Lees verder →}
+- {id: readOn,            translation: Lees verder »}
 - {id: recentPosts,       translation: Recente berichten}
 - {id: share,             translation: Delen}
 - {id: software,          translation: Software}
+- {id: subscribeByEmail,  translation: Abonneren via e-mail}
+- {id: subscribeByRSS,    translation: Nieuwsfeed in RSS 2.0-formaat}
 - {id: translations,      translation: Vertalingen}
 - {id: videos,            translation: Video's}

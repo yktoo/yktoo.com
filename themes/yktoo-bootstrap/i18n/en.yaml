@@ -13,13 +13,21 @@
 - {id: faq,               translation: FAQ}
 - {id: home,              translation: Home}
 - {id: links,             translation: Links}
+- {id: locale,            translation: en_US}
+- {id: mySocialLinks,     translation: My social links}
 - {id: paginatorNext,     translation: Next page}
 - {id: paginatorPrevious, translation: Previous page}
+- {id: postAnnouncements, translation: Post announcements}
+- {id: posts_en,          translation: English posts}
+- {id: posts_ru,          translation: Russian posts}
+- {id: posts_nl,          translation: Dutch posts}
 - {id: postedIn,          translation: in}
 - {id: radiolaria,        translation: Radiolaria}
-- {id: readMore,          translation: Read more →}
+- {id: readOn,            translation: Read on »}
 - {id: recentPosts,       translation: Recent Posts}
 - {id: share,             translation: Share}
 - {id: software,          translation: Software}
+- {id: subscribeByEmail,  translation: Subscribe by email}
+- {id: subscribeByRSS,    translation: Feed in RSS 2.0 format}
 - {id: translations,      translation: Translations}
 - {id: videos,            translation: Videos}

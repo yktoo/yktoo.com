@@ -1,0 +1,12 @@
+subscribe:
+    feeds:
+        - title: LinkedIn
+          icon: fab fa-linkedin
+          url: 'https://www.linkedin.com/in/dkann/'
+        - title: Twitter
+          icon: fab fa-twitter
+          url: 'https://twitter.com/yktoo'
+        - title: Tumblr
+          icon: fab fa-tumblr
+          url: 'https://yktoo.tumblr.com/'
+    by_email_url: https://feedburner.google.com/fb/a/mailverify?uri=yktoo_%s&loc=%s

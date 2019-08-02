@@ -9,7 +9,7 @@
 
     <link rel="canonical" href="{{ .Permalink }}">
 
-    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+    <title>{{ block "title" . }}{{ with .Title }}{{ . | markdownify }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
 
     <!-- Stylesheets -->
     <link href="{{ (resources.Get `scss/main.scss` | toCSS    | minify).Permalink }}" rel="stylesheet">
@@ -41,16 +41,11 @@
     <div class="container">
         <!-- Heading -->
         {{ block "heading" . }}
-        <h1>{{ with .Title }}{{ . }}{{ else }}{{ .Site.Title }}{{ end }}</h1>
+        {{ with .Title }}<h1>{{ . | markdownify }}</h1>{{ end }}
         {{ end }}
 
         <!-- Main content -->
         {{ block "main" . }}
-        <div class="blog-feed">
-        {{ range first .Site.Params.postsPerPage .Data.Pages }}
-        {{ .Render "list-item" }}
-        {{ end }}
-        </div>
         {{ end }}
     </div>
     {{ end }}

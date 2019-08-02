@@ -1,0 +1,18 @@
+{{ define "heading" }}
+{{ if .IsHome }}
+<div class="jumbotron">
+    <h1 class="display-4">{{ T "blogTitle" }}</h1>
+    <p class="lead">{{ T "blogSubtitle" }}</p>
+    <hr class="my-4">
+    <a class="btn btn-primary btn-lg" href="{{ relLangURL `/blog/subscribe` }}" role="button">{{ T "blogSubscribe" }}</a>
+</div>
+{{ end }}
+{{ end }}
+
+{{ define "main" }}
+<div class="blog-feed">
+    {{ range first .Site.Params.postsPerPage .Data.Pages }}
+    {{ .Render "list-item" }}
+    {{ end }}
+</div>
+{{ end }}

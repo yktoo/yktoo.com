@@ -18,7 +18,7 @@
             <div class="col-xs-10 col-md-6">{{ with .Params.description }}{{ . | markdownify }}{{ else }}{{ .Summary }}{{ end }}</div>
 
             <!-- Read On link -->
-            <a href="{{ .Permalink }}">{{ i18n "readOn" }}</a>
+            <a href="{{ .Permalink }}">{{ T "readOn" }}</a>
         </div>
     </div>
 </article>

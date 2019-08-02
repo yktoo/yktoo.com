@@ -7,12 +7,20 @@
 - {id: copyright,         translation: Авторское право ©%.4d—%.4d %s.}
 - {id: faq,               translation: FAQ}
 - {id: home,              translation: Главная}
+- {id: locale,            translation: ru_RU}
+- {id: mySocialLinks,     translation: Мои соцсети}
 - {id: paginatorNext,     translation: Следующая страница}
 - {id: paginatorPrevious, translation: Предыдущая страница}
+- {id: postAnnouncements, translation: Анонсы блога}
+- {id: posts_en,          translation: Посты на английском}
+- {id: posts_ru,          translation: Посты на русском}
+- {id: posts_nl,          translation: Посты на голландском}
 - {id: radiolaria,        translation: Радиолярия}
-- {id: readMore,          translation: Читать далее →}
+- {id: readOn,            translation: Далее »}
 - {id: recentPosts,       translation: Свежие записи}
 - {id: share,             translation: Поделиться}
 - {id: software,          translation: Программы}
+- {id: subscribeByEmail,  translation: Подписаться по е-мэйлу}
+- {id: subscribeByRSS,    translation: Формат RSS 2.0}
 - {id: translations,      translation: Переводы}
 - {id: videos,            translation: Видео}
