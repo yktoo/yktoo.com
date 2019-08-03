@@ -53,13 +53,23 @@
 
 {{ end }}
 
+{{ define "heading" }}
+    <!-- Top previous-next post link bar -->
+    <div class="col">
+        <nav class="paginator-before" aria-label="Blog navigation">{{ partial "blog/post_nav" . }}</nav>
+    </div>
+
+    <!-- Post title -->
+    {{ with .Title }}<h1>{{ . | markdownify }}</h1>{{ end }}
+{{ end }}
+
 {{ define "main" }}
 {{ $dateFormat := default "Mon Jan 2, 2006" (index .Site.Params "date_format") }}
 
 <article class="blog-post-single">
 
     <!-- Post metadata -->
-    <p class="blog-post-meta"><time datetime="{{ .Date.Format `2006-01-02T15:04:05Z07:00` }}">{{ .Date.Format $dateFormat }}</time> {{ T "authoredBy" }} {{ .Params.author | default .Site.Params.author }}{{ if or (.Params.categories) (.Params.tags) }} {{ T "postedIn" }} {{ partial "meta-terms.html" . }}{{ end }}</p>
+    <p class="blog-post-meta"><time datetime="{{ .Date.Format `2006-01-02T15:04:05Z07:00` }}">{{ .Date.Format $dateFormat }}</time> {{ T "authoredBy" }} {{ .Params.author | default .Site.Params.author }}{{ if or (.Params.categories) (.Params.tags) }} {{ T "postedIn" }}{{ end }}</p>
 
     <!-- Post content -->
     {{ .Content }}
@@ -79,7 +89,11 @@
         </p>
         {{ end }}
 
-        <!-- TODO social sharing -->
+        <!-- Tags etc. -->
+        {{ partial "meta-terms.html" . }}
+
+        <!-- Sharing buttons -->
+        {{ partial "blog/post_share" . }}
 
         <!-- TODO comments -->
 
@@ -87,5 +101,10 @@
 
 
 </article>
+
+<!-- Bottom previous-next post link bar -->
+<div class="col">
+    <nav class="paginator-after" aria-label="Blog navigation">{{ partial "blog/post_nav" . }}</nav>
+</div>
 
 {{ end }}
