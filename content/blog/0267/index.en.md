@@ -1,0 +1,42 @@
+---
+date: "2016-01-16T00:00:00Z"
+title: "The Aristocrats at De Boerderij"
+tags: ["Bryan Beller", "De Boerderij", "fusion", "Guthrie Govan", "jazz", "Marco Minnemann", "music", "Netherlands", "progressive metal", "The Aristocrats", "Zoetermeer"]
+---
+
+My personal concert season open by the [Nightwish fellas][post:264] is at its climax.
+
+I was fortunate to see a very popular (yet kind of underground) band called [The Aristocrats][wiki:en:The_Aristocrats_(band)] on December 9<sup>th</sup>. The band is playing some mindbogglingly complex tunes ranged from Jazz Fusion to Heavy Prog.
+
+<!--more-->
+
+The Aristocrats is a [supergroup][wiki:en:Supergroup_(music)] founded in 2011. Last December they were presenting their third studio album [Tres Caballeros][wiki:en:Tres_Caballeros].
+
+![](img:2.bp.blogspot.com/-gqODy41rxV0/Vn7LgKAJaBI/AAAAAAAAk8M/eU2egTbUn-Q/s1600/20151209_222003.picasaweb.jpg:a "The Aristocrats, left to right: Guthrie Govan, Marco Minnemann, Bryan Beller.")
+
+Unfortunately I can't share much of it with you this time.
+
+The problem is that //De Boerderij//, where I've seen [Neal Morse][post:95] and [Arena][post:127], has got spoilt: I was disallowed to take my camera in! I find this outrageous, especially considering how many shows I've seen here in Holland.
+
+I tried to use my mobile for filming as the next best thing, but at a certain moment was approached by a crew member, who told me that shooting videos was not allowed at all. (On a side note, people closer to the stage were filming whatever they wanted with their compact cameras, but that lad couldn't get to them through the crowd.)
+
+On the bright side, I have to say the three play instruments like gods. The line-up is:
+
+* [Guthrie Govan][wiki:en:Guthrie_Govan] (//Steven Wilson//, //Asia//, //GPS//, //The Young Punx//, //The Fellowship//, //Erotic Cakes//) – **guitar**
+* [Bryan Beller][wiki:en:Bryan_Beller] (//Steve Vai//, //Joe Satriani//, //James LaBrie//, //Dweezil Zappa//, //Dethklok//, //Mike Keneally//) – **bass**
+* [Marco Minnemann][wiki:en:Marco_Minnemann] (//Steven Wilson//, //Kreator//, //Joe Satriani//, //Paul Gilbert//, //Necrophagist//) – **drums**
+
+The lists of acts above should give you a hint of how brilliant they are. The brightest band member is arguably the British [Guthrie Govan][wiki:en:Guthrie_Govan], which is a true guitar virtuoso. You must hear that to really appreciate his playing.
+![](img:1.bp.blogspot.com/-iEJR_3Ip7P4/Vn7Lnv-cGoI/AAAAAAAAk94/ElLzdZoMlEY/s1600/20151209_211058.picasaweb.jpg:a "Guthrie Govan.")
+
+Because of the new stupid rules I was only able to record a couple of videos of a questionable quality.
+
+The first one was a story about an incident at a gas station somewhere in Texas, narrated by the bassist Bryan Beller and going over a minor car accident, a desperate female driver and a happy settlement:
+![](youtube:n0T48bzWouI)
+
+The second one was the *Texas Crazypants* written after this event:
+![](youtube:EP7ZwqPw108)
+
+Listening to their numerous stories I was a bit surprised how trite were the stories that led to their super-intricate compositions. Most of them happened "somewhere in the States during a tour."
+
+The club was packed. However I'll try to avoid //Boerderij// as much as possible from now on.

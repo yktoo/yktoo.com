@@ -1,0 +1,16 @@
+---
+date: "2019-07-13T00:00:00Z"
+title: "On the subject of inevitable ⚤"
+tags: ["Netherlands", "personal", "wedding"]
+---
+
+On this same day, precisely two years ago—July 13, 2017—I've rolled my mouse pointer over a very beautiful photo of a girl and clicked on *Like*.
+
+<!--more-->
+
+It all became official on **July 13, 2019**:
+![](img:1.bp.blogspot.com/-wy6w96RgkKY/XSssvrVGv3I/AAAAAAAAwXM/dQaxNjr7C3QjjWyuGQBZcW2jZ-EGXFYcQCKgBGAs/s1600/a%2526d.picasaweb.jpg:a)
+
+The ceremony has been held at the most magnificent place we've managed to find, at //Zeist// city hall.
+
+Dreams do sometimes come true.

@@ -1,0 +1,71 @@
+---
+date: "2011-04-15T00:00:00Z"
+title: "Part 3. Vienna. Prater"
+group: "Vienna and Budapest"
+tags: ["Austria", "travel", "Vienna"]
+---
+
+We proceed in the direction of St. Stephen's Cathedral. Restless Austrians demand freedom of religion (as though they lack for it):
+![](img:2.bp.blogspot.com/-WDTX-uwu1fY/TaatuHPcO7I/AAAAAAAAItc/YPGL3C9VIu8/s1600/dsc01473.picasaweb.jpg:a)"
+
+<!--more-->
+
+![](img:4.bp.blogspot.com/-LB5vGiOgpbA/TaatH0EIx1I/AAAAAAAAItc/JDssmfmUlQA/s1600/dsc01474.picasaweb.jpg:a)"
+
+Nonetheless, I decided to join and started a sitting action for upholding human rights in Austria!
+![](img:1.bp.blogspot.com/-h9bPAaentS0/TaatFiH6ftI/AAAAAAAAItc/6XeJoeGpSlI/s1600/dsc01394.picasaweb.jpg:a)"
+
+Vienna State Opera offers a free front row seat for the poor. There's a huge screen hanging on the facade, showing live performance happening inside. Proles enjoy true art, sitting cross-legged right on the ground:
+![](img:3.bp.blogspot.com/-nnbqfc4qvCE/TaatvyymW3I/AAAAAAAAItc/RtZ5lOsuTDQ/s1600/dsc01483.picasaweb.jpg:a)"
+
+I reckon the Opera one of the most beautiful buildings in Vienna:
+![](img:2.bp.blogspot.com/-3auBRPH5NZY/TaauY-BSLJI/AAAAAAAAItc/hQi_eslS794/s1600/dsc01487.picasaweb.jpg:a)"
+
+There's always a simple solution to architectural challenges. Two identical buildings on Maria-Theresien-Platz are //Naturhistorisches Museum// and //Kunsthistorisches Museum//, which first opened their doors to the public in 1889. Try to find a difference, here's the [Naturhistorisches Museum](http://www.nhm-wien.ac.at/):
+![](img:2.bp.blogspot.com/-9pnsnfL1Kto/TaatJT4vouI/AAAAAAAAItc/tjr2qRq5cB0/s1600/dsc01490.picasaweb.jpg:a)"
+
+And here's [Kunsthistorisches Museum](http://www.khm.at/):
+![](img:1.bp.blogspot.com/-2UI_SjpNjrI/TaatCWrv2kI/AAAAAAAAItc/Hp8R72HCucs/s1600/dsc01491.picasaweb.jpg:a)"
+
+There's a known place with a high concentration of museums. The area is called //Museumsquartier//; //Volkstheater// is also nearby:
+![](img:3.bp.blogspot.com/-fGZEHKyTlDU/TaatpkDnv0I/AAAAAAAAItc/L0CFnc8MQvU/s1600/dsc01494.picasaweb.jpg:a)"
+
+A little known great curiosity of the city is the Vienna's smallest house (Breite Gasse 20; built in 1872). It's tiny even for Amsterdam's standards: being only a couple of meters wide it forces its residents to be fit:
+![](img:3.bp.blogspot.com/-WAu8KvqV_hE/TaizHoxZCII/AAAAAAAAItc/PUyergQ6Koc/s1600/dsc01497.picasaweb.jpg:a)"
+
+Another house, this time somewhat bigger and called [Hundertwasserhaus](http://www.hundertwasserhaus.at/) (Kegelgasse 36-38) is an apartment house and a famous expressionist landmark designed by Hundertwasser and Krawina:
+![](img:1.bp.blogspot.com/-pyaJ9LiZbDU/TaatMTTnHZI/AAAAAAAAItc/KDZOJVlzaQY/s1600/dsc01555.picasaweb.jpg:a)"
+
+![](img:1.bp.blogspot.com/-vLEMiq_kFLo/TaauTy15m5I/AAAAAAAAItc/LgZnR5wTuxo/s1600/dsc01561.picasaweb.jpg:a)"
+
+Hundertwasser considered the house as one of his best creatures. He is said to have rejected the fee for the project because he was happy there was nothing ugly built instead.
+
+## Prater {#prater}
+
+Vienneses have a huge amusement park called  //Prater// (derives from Latin //pratum// meaning meadow). Hauptallee, which is 4.3 km long, is a popular jogging track. You can rotate the globe here:
+![](img:4.bp.blogspot.com/-qJa9NvjyFQk/Taauh6J27rI/AAAAAAAAItc/5Ii_SpoxCO8/s1600/dsc01504.picasaweb.jpg:a)"
+
+The Planetarium is not so popular, judging by the absence of visitors around:
+![](img:4.bp.blogspot.com/-QZbJXJYJioA/Taaul4d9vVI/AAAAAAAAItc/VmMK-h5QSHo/s1600/dsc01510.picasaweb.jpg:a)"
+
+There are pocket Ferris wheels:
+![](img:3.bp.blogspot.com/-3bMy9vAH_CI/TaatPkXAqgI/AAAAAAAAItc/jYUeEwY7RCM/s1600/dsc01521.picasaweb.jpg:a)"
+
+… and full-sized ones:
+![](img:2.bp.blogspot.com/-R3K4WsdVb50/Taatn5m06AI/AAAAAAAAItc/pmvpmLE3W-s/s1600/dsc01549.picasaweb.jpg:a)"
+
+And this is how entertainment looked like before this park was established:
+![](img:2.bp.blogspot.com/-p9HZpbwmhsw/Taatg9BlAAI/AAAAAAAAItc/Yfo-eZ1lB3w/s1600/dsc01518.picasaweb.jpg:a)"
+
+But times have changed, and now it looks differently:
+![](img:4.bp.blogspot.com/-G16TBqK7OVI/TaauRU0CahI/AAAAAAAAItc/kXuB8qCEJO8/s1600/dsc01536.picasaweb.jpg:a)"
+
+![](img:4.bp.blogspot.com/-1WgBiWE_Ytk/Taatxo1u6tI/AAAAAAAAItc/FN_eUOXcEPA/s1600/dsc01527.picasaweb.jpg:a)"
+
+Madame Tussauds' museums are everywhere:
+![](img:4.bp.blogspot.com/-WlV3uK9DUuA/TaatXS43jII/AAAAAAAAItc/QWQ9j0HWfr4/s1600/dsc01543.picasaweb.jpg:a)"
+
+But we're moving on.
+![](img:1.bp.blogspot.com/-j57JbjWCxrU/TaauD_VCoLI/AAAAAAAAItc/di06WeVhmuE/s1600/dsc01550.picasaweb.jpg:a)
+
+Next: [Part 4. Vienna. Schönbrunn][post:86]
