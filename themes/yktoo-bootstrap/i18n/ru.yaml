@@ -22,6 +22,7 @@
 - {id: posts_nl,          translation: Посты на голландском}
 - {id: radiolaria,        translation: Радиолярия}
 - {id: readOn,            translation: Далее »}
+- {id: readOnAt,          translation: Читать далее на}
 - {id: recentPosts,       translation: Свежие записи}
 - {id: share,             translation: Поделиться}
 - {id: software,          translation: Программы}

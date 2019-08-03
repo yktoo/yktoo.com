@@ -1,24 +1,32 @@
 <!-- Single post item, which is displayed in a list -->
-<article class="blog-post-wrapper">
-    <a href="{{ .Permalink }}" class="click-catcher"></a>
-    <div class="blog-post">
-        <h2>
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
-            <small>{{ dateFormat "Monday, Jan 2, 2006" .Date }}</small>
-        </h2>
-        <div class="row">
-            <!-- Post image -->
-            <div class="col-xs-2 col-md-6">
-                {{- with .Params.image -}}
-                {{- with $.Page.Resources.GetMatch . }}<img class="img-fluid" src="{{ .RelPermalink }}" alt="Post image">{{ end -}}
-                {{- end -}}
-            </div>
+<article class="blog-post">
+    <!-- Post heading -->
+    <h2><a href="{{ .Permalink }}">{{ with .Params.group }}{{ . }}&nbsp;‣&nbsp;{{ end }}{{ .Title | markdownify | plainify | safeHTML }}</a></h2>
 
+    <!-- Post metadata -->
+    {{ $dateFormat := default "Monday Jan 2, 2006" (index .Site.Params "date_format") -}}
+    <div class="blog-post-meta"><time datetime="{{ .Date.Format `2006-01-02T15:04:05Z07:00` }}">{{ .Date.Format $dateFormat }}</time></div>
+
+    <!-- Post body -->
+    <div class="row">
+        <!-- Post image -->
+        <div class="col-xs-2 col-md-6">
+            {{- with .Params.image -}}
+                {{- $url := . -}}
+                <!-- Same logic as in the 'imgfig' shortcode: if it isn't a URL starting with "http(s)://", consider it a page resource -->
+                {{- if not (or (hasPrefix $url "http://") (hasPrefix $url "https://")) -}}
+                    {{- $url = ($.Page.Resources.GetMatch $url).RelPermalink -}}
+                {{- end -}}
+                {{- with $url }}<img class="img-fluid" src="{{ . }}" alt="Post image">{{ end -}}
+            {{- end -}}
+        </div>
+
+        <div class="col-xs-10 col-md-6">
             <!-- Post summary -->
-            <div class="col-xs-10 col-md-6">{{ with .Params.description }}{{ . | markdownify }}{{ else }}{{ .Summary }}{{ end }}</div>
+            <p>{{ with .Params.description }}{{ . | markdownify | plainify | safeHTML }}{{ else }}{{ .Summary | plainify | safeHTML }}{{ end }}</p>
 
             <!-- Read On link -->
-            <a href="{{ .Permalink }}">{{ T "readOn" }}</a>
+            <p><a href="{{ .Permalink }}" class="btn btn-outline-primary">{{ T "readOn" }}</a></p>
         </div>
     </div>
 </article>

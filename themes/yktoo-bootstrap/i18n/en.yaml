@@ -4,7 +4,6 @@
 - {id: blogSubscribe,     translation: Subscribe to updates}
 - {id: blogSubtitle,      translation: Blog about life in Holland (and a lot of other stuff)}
 - {id: blogTitle,         translation: Netherlands and more}
-- {id: comma,             translation: ','}
 - {id: contact,           translation: Contact}
 - {id: cookieDismiss,     translation: Got it!}
 - {id: cookieLink,        translation: Learn more.}
@@ -28,6 +27,7 @@
 - {id: postedIn,          translation: in}
 - {id: radiolaria,        translation: Radiolaria}
 - {id: readOn,            translation: Read on »}
+- {id: readOnAt,          translation: Continue reading on}
 - {id: recentPosts,       translation: Recent Posts}
 - {id: share,             translation: Share}
 - {id: software,          translation: Software}

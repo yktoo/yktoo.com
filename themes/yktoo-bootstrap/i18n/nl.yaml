@@ -26,6 +26,7 @@
 - {id: posts_nl,          translation: Posts in het Nederlands}
 - {id: radiolaria,        translation: Radiolaria}
 - {id: readOn,            translation: Lees verder »}
+- {id: readOnAt,          translation: Verder lezen op}
 - {id: recentPosts,       translation: Recente berichten}
 - {id: share,             translation: Delen}
 - {id: software,          translation: Software}

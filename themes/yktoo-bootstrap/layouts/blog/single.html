@@ -60,7 +60,7 @@
     </div>
 
     <!-- Post title -->
-    {{ with .Title }}<h1>{{ . | markdownify }}</h1>{{ end }}
+    <h1>{{ with .Params.group }}{{ . }}&nbsp;‣&nbsp;{{ end }}{{ .Title | markdownify }}</h1>
 {{ end }}
 
 {{ define "main" }}
@@ -73,6 +73,11 @@
 
     <!-- Post content -->
     {{ .Content }}
+
+    <!-- Full-text link, if any -->
+    {{ with .Params.fulltext_url }}
+    <p><a href="{{ . }}" class="btn btn-primary">{{ T "readOnAt" }}&nbsp;{{ (urls.Parse .).Host }}</a></p>
+    {{ end }}
 
     <!-- Post footer -->
     <div class="blog-post-footer">
