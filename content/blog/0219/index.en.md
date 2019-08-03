@@ -31,7 +31,7 @@ First I got a notification somewhere in January that my case was presented to Hi
 
 ## Naturalisation Ceremony {#ceremony}
 
-The naturalisation ceremony ({{< fl "naturalisatieceremonie" >}}) is strictly mandatory, failure to attend which results in the decision of awarding Dutch nationality being withdrawn. From the procedure point of view, its most important part is a declaration of allegiance ([verklaring van verbondenheid][wiki:nl:Verklaring_van_verbondenheid]).
+The naturalisation ceremony ({{< fl "naturalisatieceremonie" >}}) is strictly mandatory, failure to attend which results in the decision of awarding Dutch nationality being withdrawn. From the procedure point of view, its most important part is a declaration of allegiance ({{< wiki "Verklaring_van_verbondenheid" "nl" "verklaring van verbondenheid" >}}).
 
 Such ceremonies are regularly held by every municipality ({{< fl "gemeente" >}}), so for example in Amersfoort it [happens](http://www.amersfoort.nl/naturalisatieceremonie.html) once a month in the town-hall, {{< fl "stadhuis" >}}.
 

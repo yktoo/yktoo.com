@@ -6,7 +6,7 @@ tags: ["Austria", "Längenfeld", "mountains", "snow", "snowboard", "Sölden", "s
 
 I've been lucky to have had a good deal of {{< fl "wintersport" >}} this season, as well as to come back in one piece.
 
-Our destination was chosen to be the Austrian [Sölden][wiki:en:Sölden], also located in Tyrol like Ischgl where I'd been a [year ago]({{< relref path="/blog/0239" lang="ru" >}}).
+Our destination was chosen to be the Austrian {{< wiki "Sölden" "en" "Sölden" >}}, also located in Tyrol like Ischgl where I'd been a [year ago]({{< relref path="/blog/0239" lang="ru" >}}).
 {{< imgfig "https://3.bp.blogspot.com/-ypJHKvDbGGA/Vrd2qvWMm6I/AAAAAAAAlVo/7gneIBHSzfE/s1600/20160125_155713.picasaweb.jpg" "Sölden. Tyrol. Alps." >}}
 
 <!--more-->
@@ -18,7 +18,7 @@ But since it's winter, moist and foggy, I preferred to drive at 150-160 km/h (ca
 
 As you perhaps know, you need a special windscreen sticker ([vignette](http://www.asfinag.at/toll/toll-sticker), about **€10** for ten days) in order to use Austrian motorways. Furthermore, you get charged another 5-11 euros on the [most popular routes](http://www.asfinag.at/toll/special-and-videotoll). And finally, your car has to run on winter tyres (which are hardly used here in Holland).
 
-On your way you cross numerous tunnels, with the most dreadful one being the [Arlberg Straßentunnel][wiki:en:Arlberg_Road_Tunnel], **14 km** (**8.7 mi**) of two-lane, poorly illuminated road with the 80 km/h limit.
+On your way you cross numerous tunnels, with the most dreadful one being the {{< wiki "Arlberg_Road_Tunnel" "en" "Arlberg Straßentunnel" >}}, **14 km** (**8.7 mi**) of two-lane, poorly illuminated road with the 80 km/h limit.
 
 In theory you can cover the whole way in nine hours, but because of occasional traffic jams and unavoidable breaks it took us a couple of hours more. That said, it can still be worse as late January is a low season and no school holiday period.
 
@@ -29,7 +29,7 @@ For determined ones there's also a bus option, with departure from Amsterdam or 
 You first get the sight of mountains on the German side, they grow eminent as you near Austria.
 {{< imgfig "https://2.bp.blogspot.com/-_p1Ty_uKKzE/Vrd2quRQzFI/AAAAAAAAlVo/gE23-8J5eFc/s1600/20160123_145947.picasaweb.jpg" "Austria, a river bank." >}}
 
-The last thirty or so kilometres you drive along the [Ötztal valley][wiki:en:Ötztal], squeezed from both sides by Alpine slopes. We stayed in a hotel in the town of [Längenfeld][wiki:en:Längenfeld], some fifteen minutes drive on the winding mountain road from Sölden. The apartment had a view on the mountains, or, rather, mountains was the only thing one could see from the window.
+The last thirty or so kilometres you drive along the {{< wiki "Ötztal" "en" "Ötztal valley" >}}, squeezed from both sides by Alpine slopes. We stayed in a hotel in the town of {{< wiki "Längenfeld" "en" "Längenfeld" >}}, some fifteen minutes drive on the winding mountain road from Sölden. The apartment had a view on the mountains, or, rather, mountains was the only thing one could see from the window.
 {{< imgfig "https://3.bp.blogspot.com/-Pg0_atTSQAo/Vrd2qtCbxcI/AAAAAAAAlVo/3Gwcs35Pvtc/s1600/20160124_084309.picasaweb.jpg" "Längenfeld and our apartment complex." >}}
 
 ## Sölden {#solden}

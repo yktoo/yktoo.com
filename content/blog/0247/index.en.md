@@ -7,14 +7,14 @@ tags: ["gadgets", "hardware", "review", "Samsung", "Smart Hub", "Smart TV", "TV"
 
 ## Video {#video}
 
-The built-in video player features an impressive list of codecs and containers. It includes modern formats such as FLV and MKV, and even the recently introduced [H.265][wiki:en:High_Efficiency_Video_Coding] and [VP8 (WebM)][wiki:en:WebM]:
+The built-in video player features an impressive list of codecs and containers. It includes modern formats such as FLV and MKV, and even the recently introduced {{< wiki "High_Efficiency_Video_Coding" "en" "H.265" >}} and {{< wiki "WebM" "en" "VP8 (WebM)" >}}:
 {{< imgfig "https://3.bp.blogspot.com/-eIIk0Sd62Vg/VQR30d7BAQI/AAAAAAAAhRg/i5YLx1xPeFY/s1600/Samsung_video_formats.png" >}}
 
 <!--more-->
 
 ### 4K video
 
-One of the main price components in this TV is its [Ultra HD][wiki:en:Ultra-high-definition_television] support, also known as 4K or 2160p, that is 4096×2160 pixels. Since the panel's own resolution is 3840×2160, it's either cropped or downscaled.
+One of the main price components in this TV is its {{< wiki "Ultra-high-definition_television" "en" "Ultra HD" >}} support, also known as 4K or 2160p, that is 4096×2160 pixels. Since the panel's own resolution is 3840×2160, it's either cropped or downscaled.
 
 So what is all that 4K video about? Firstly, plugging in an external USB drive turned out to be the only way to play it. My Mac Mini, which I use as a media PC, is only capable of 1920×1080. And if you play video [over DLNA]({{< relref "/blog/0246" >}}), it cannot keep up with the FPS.
 

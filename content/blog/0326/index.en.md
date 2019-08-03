@@ -29,7 +29,7 @@ All the external elements, i.e. the earpieces, the remote control and the jack, 
 
 Black inserts are made of durable zircon sand blasting.
 
-What's also noteworthy is that the cable is made of [TPE elastomer][wiki:en:Thermoplastic_elastomer]: it's slippery, which facilitates disentangling, and stretchable, which should in theory make it more robust.
+What's also noteworthy is that the cable is made of {{< wiki "Thermoplastic_elastomer" "en" "TPE elastomer" >}}: it's slippery, which facilitates disentangling, and stretchable, which should in theory make it more robust.
 
 The company also mentions the radial pattern with 0.14 mm pitch that "imitates CD pattern", but I can't really appreciate the importance of this.
 

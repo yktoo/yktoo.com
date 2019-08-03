@@ -6,17 +6,17 @@ tags: ["bridge", "Elfstedenmonument", "Elfstedentocht", "Friesland", "ice", "int
 
 Every winter an average Dutch casts glances at the thermometer, hoping for a real cold to come.
 
-The cause for such a strange wish is called [Elfstedentocht][wiki:en:Elfstedentocht], or the *Eleven cities tour*.
+The cause for such a strange wish is called {{< wiki "Elfstedentocht" "en" "Elfstedentocht" >}}, or the *Eleven cities tour*.
 
 <!--more-->
 
-Elfstedentocht is a skating match of about 200 kilometres, starting and finishing in [Leeuwarden]({{< relref "/blog/0205" >}}) and leading along frozen rivers and lakes past eleven [Frisian][wiki:en:Friesland] cities. Therefore for the tour to be possible the minimum ice thickness of 15 cm is required.
+Elfstedentocht is a skating match of about 200 kilometres, starting and finishing in [Leeuwarden]({{< relref "/blog/0205" >}}) and leading along frozen rivers and lakes past eleven {{< wiki "Friesland" "en" "Frisian" >}} cities. Therefore for the tour to be possible the minimum ice thickness of 15 cm is required.
 
 The problem is, with our average winter temperature of **+7° C** it is a bit unlikely to get any ice at all. There are sometimes cold spells with moderate subzero temperatures, but still: the last {{< fl "Elfstedentocht" >}} was held in 1997, i.e. eighteen winters ago.
 
 I plan to write a separate post about the {{< fl "tocht" >}}, which is, as far as I'm informed, an event of a huge importance for the whole nation (not to mention Friesland). But this story today is about an artefact that is hardly known even to the Dutch.
 
-The monument of {{< fl "Elfstedentocht" >}}, [Elfstedenmonument][wiki:nl:Elfstedenmonument], is a bridge over the {{< fl "Murk" >}} river (Frisian {{< fl "De Moark" >}}) in the neighbourhood of the [Giekerk][wiki:nl:Giekerk] village. This is the last bridge on the route of the skaters heading for the finish in Leeuwarden.
+The monument of {{< fl "Elfstedentocht" >}}, {{< wiki "Elfstedenmonument" "nl" "Elfstedenmonument" >}}, is a bridge over the {{< fl "Murk" >}} river (Frisian {{< fl "De Moark" >}}) in the neighbourhood of the {{< wiki "Giekerk" "nl" "Giekerk" >}} village. This is the last bridge on the route of the skaters heading for the finish in Leeuwarden.
 
 It looks like a regular bridge at a distance, with an ornament of a line of skaters.
 {{< imgfig "https://3.bp.blogspot.com/-14jqPNJfBIY/VfmBQ1hN7LI/AAAAAAAAkd4/2Zg9C6TkWGk/s1600/dsc00903.picasaweb.jpg" "The Elfstedenmonument's northern side from afar." >}}

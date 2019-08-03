@@ -46,7 +46,7 @@ The first thing to see is a reminder about the Sandy bar. Which is very affordab
 The letters are so clean and sharp that one must have used a stencil to make it.
 {{< imgfig "https://1.bp.blogspot.com/-ETQVbsvzkzU/Ua4h-5ZqylI/AAAAAAAAYpQ/klbbGt-rGho/s1600/dsc09017.picasaweb.jpg" >}}
 
-A sand portrait of [Amália Rodrigues][wiki:en:Amália_Rodrigues], "the voice of Portugal", a fado and flamenco singer.
+A sand portrait of {{< wiki "Amália_Rodrigues" "en" "Amália Rodrigues" >}}, "the voice of Portugal", a fado and flamenco singer.
 {{< imgfig "https://3.bp.blogspot.com/-qrq31634vko/Ua4iAmoATAI/AAAAAAAAYpY/mpapvtKa0zA/s1600/dsc09018.picasaweb.jpg" >}}
 
 Even though it's a sand city, it has all the necessary facilities. There are speakers all around (covered with film to protect them) as well as lighting. Every sculpture is accompanied by a description plate.

@@ -4,12 +4,12 @@ title: "Neal Morse at De Boerderij"
 tags: ["De Boerderij", "music", "Neal Morse", "Netherlands", "progressive metal", "progressive rock"]
 ---
 
-[Neal Morse][wiki:en:Neal_Morse], one of the most famous progressive rock musicians, visited us in Holland. Yesterday, June 4, 2011, he performed in Zoetermeer, which is near the Hague, in the club named [Boerderij](http://www.cultuurpodiumboerderij.nl/) ("farmhouse").
+{{< wiki "Neal_Morse" "en" "Neal Morse" >}}, one of the most famous progressive rock musicians, visited us in Holland. Yesterday, June 4, 2011, he performed in Zoetermeer, which is near the Hague, in the club named [Boerderij](http://www.cultuurpodiumboerderij.nl/) ("farmhouse").
 {{< imgfig "https://4.bp.blogspot.com/-ZWJqzKSGU4A/TetVS-AIn1I/AAAAAAAAItc/LyhZ52JDpAA/s1600/dsc03923.picasaweb.jpg" >}}
 
 <!--more-->
 
-He mostly played new tracks from his new album [Testimony 2][wiki:en:Testimony_2], which has just been released and was therefore totally unknown to me. This kind of compositions are quite hard to conceive at first listening, so I should have been prepared for it better (before I thought I had comprehensive knowledge of Morse's works).
+He mostly played new tracks from his new album {{< wiki "Testimony_2" "en" "Testimony 2" >}}, which has just been released and was therefore totally unknown to me. This kind of compositions are quite hard to conceive at first listening, so I should have been prepared for it better (before I thought I had comprehensive knowledge of Morse's works).
 {{< imgfig "https://2.bp.blogspot.com/-wgTHuZaJprM/TetVOsuV9YI/AAAAAAAAItc/SSdH4RO_gPU/s1600/dsc03947.picasaweb.jpg" >}}
 
 Furthermore, most of them were over twenty minutes long—in accordance with the best practices of progressive rock, and with Christian lyrics.

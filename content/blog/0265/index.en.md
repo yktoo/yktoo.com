@@ -6,7 +6,7 @@ tags: ["gadgets", "Google", "hardware", "Nest", "Nest Protect 2", "review"]
 
 ## Intro {#intro}
 
-There was a moment when my [smoke detector][wiki:en:Smoke_detector], which is as old as the house it's in, had to be replaced.
+There was a moment when my {{< wiki "Smoke_detector" "en" "smoke detector" >}}, which is as old as the house it's in, had to be replaced.
 
 And I did that with pleasure, because at that moment it started chirping regularly in a very annoying way. First once every five minutes, a bit later once a minute. And that would not be a big issue had this not been happening at 5:00 AM. And, of course, the chirping was so loud that no human being could ignore it. Just like in that [scene from "Friends"](https://www.youtube.com/watch?v=4tkY08MhfoU).
 
@@ -23,7 +23,7 @@ That is, with a nice exception I came across. After some deliberation I've bough
 
 ## Nest Labs {#nest-labs}
 
-[Nest Labs][wiki:en:Nest_Labs], once a not very well known company founded by two former Apple engineers, got into the spotlight after it was acquired by Google for a stunning sum of $3.2 billion in 2014. Their first and most popular product was the "smart" [Nest Thermostat](https://nest.com/thermostat/meet-nest-thermostat/) featuring an unusual puck-shaped design.
+{{< wiki "Nest_Labs" "en" "Nest Labs" >}}, once a not very well known company founded by two former Apple engineers, got into the spotlight after it was acquired by Google for a stunning sum of $3.2 billion in 2014. Their first and most popular product was the "smart" [Nest Thermostat](https://nest.com/thermostat/meet-nest-thermostat/) featuring an unusual puck-shaped design.
 
 It was followed by the *Nest Protect* smoke and carbon monoxide detector (first generation), which also pretended to be smart and was full of unusual functions. After some difficulties at launch (they had to disable the controversial alarm silencing feature called *Wave Silence* because of doubts about its reliability), it became quite popular in Europe and the US.
 
@@ -33,7 +33,7 @@ In June 2015 the second edition of the device, [Nest Protect 2](https://nest.com
 
 Frankly speaking, I was a bit sceptical about a smoke detector gone intelligent. After all, it's no rocket science: detect smoke, activate the alarm. Well okay, it has to be tested regularly (and no one does that weekly as prescribed). And remind you of the battery going low. And give a heads-up when the whole detector is about to expire (which is usually 5 to 10 years). So perhaps some of that can indeed be automated…
 
-The only problem was the price, in the Netherlands it's as much as **€119**, which is a bit pricey since a commodity detector only costs 5 to 10 euros. On the other hand, this one also detects [carbon monoxide][wiki:en:Carbon_monoxide], which, being odourless, is much more dangerous. Such devices are more expensive (€25 for simplest models and €50-60 for advanced ones, with Bluetooth etc.).
+The only problem was the price, in the Netherlands it's as much as **€119**, which is a bit pricey since a commodity detector only costs 5 to 10 euros. On the other hand, this one also detects {{< wiki "Carbon_monoxide" "en" "carbon monoxide" >}}, which, being odourless, is much more dangerous. Such devices are more expensive (€25 for simplest models and €50-60 for advanced ones, with Bluetooth etc.).
 
 But after considering the specifications for *Nest Protect 2* I decided that is a good value for this money.
 
@@ -96,7 +96,7 @@ Required for the above Pathlight function to work. It also triggers the so-calle
 
 Used to test the speaker and the horn once a month. It is stated that it's only active during the test (and of course we believe that).
 
-The device runs on the *Freescale Kinetis K60* CPU and uses the [ZigBee][wiki:en:ZigBee] wireless protocol for the interconnect. With all of the above the price doesn't seem that high anymore.
+The device runs on the *Freescale Kinetis K60* CPU and uses the {{< wiki "ZigBee" "en" "ZigBee" >}} wireless protocol for the interconnect. With all of the above the price doesn't seem that high anymore.
 
 ## Unboxing {#unboxing}
 

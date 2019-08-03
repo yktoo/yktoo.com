@@ -7,7 +7,7 @@ tags: ["Amsterdam-Rijnkanaal", "Houten", "mooi", "Nederland", "water", "weer", "
 Vlak voor oudejaarsavond kwam er lichte vorst van -2 °C terwijl er nog steeds geen sneeuw lag. Het groene gras was 's ochtends al erg mooi met rijp overdekt.
 {{< imgfig "https://1.bp.blogspot.com/-cQ3ZUsJt_-U/WGk41bsepjI/AAAAAAAAoz4/C7SYpRmvi0s1a31AFFcBnoWPyFLrl76gACPcB/s1600/20161230_122421.picasaweb.jpg" "Gras overdekt met rijp." >}}
 
-Wit geworden bomen langs het [Amsterdam-Rijnkanaal][wiki:nl:Amsterdam-Rijnkanaal], dat voorbij Houten loopt, kregen een ontzettend prachtig uiterlijk:
+Wit geworden bomen langs het {{< wiki "Amsterdam-Rijnkanaal" "nl" "Amsterdam-Rijnkanaal" >}}, dat voorbij Houten loopt, kregen een ontzettend prachtig uiterlijk:
 
 <!--more-->
 

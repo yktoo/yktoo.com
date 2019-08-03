@@ -15,7 +15,7 @@ Om deze vraag goed te kunnen beantwoorden moet je je lang en breed verdiepen in 
 
 ## Midden- en kleinbedrijven {#mkb}
 
-Maar eerst een soort kanttekening. De Nederlandse overheid beschouwt midden- en kleinbedrijven ([MKB][wiki:nl:Midden-_en_kleinbedrijf]) als één van de steunpilaren van de economie, en terecht. Startende ondernemers worden ondersteund door middel van gratis en betaalde seminars, workshops, informatieportals, speciale mobiele applicaties, sociale netwerken voor ondernemers, subsidies om een eigen zaak te openen, belastingaftrekposten enzovoorts.
+Maar eerst een soort kanttekening. De Nederlandse overheid beschouwt midden- en kleinbedrijven ({{< wiki "Midden-_en_kleinbedrijf" "nl" "MKB" >}}) als één van de steunpilaren van de economie, en terecht. Startende ondernemers worden ondersteund door middel van gratis en betaalde seminars, workshops, informatieportals, speciale mobiele applicaties, sociale netwerken voor ondernemers, subsidies om een eigen zaak te openen, belastingaftrekposten enzovoorts.
 
 In het bijzonder heeft de [Kamer van Koophandel](https://www.kvk.nl/) (*KvK*), de instantie die ondernemerschappen registreert, in 2014 het [Ondernemersplein](http://www.ondernemersplein.nl/) geopend. Deze website bevat veel praktische informatie over uiteenlopende aspecten van ondernemerschap.
 
@@ -34,16 +34,16 @@ De Belastingdienst gebruikt deze criteria om te bepalen of je aangiftes BTW en/o
 
 ## Rechtsvorm {#types-of-business-entity}
 
-Wanneer je een onderneming registreert moet je een [rechtsvorm][wiki:nl:Rechtsvorm] kiezen. De rechtsvorm bepaalt onder andere je aansprakelijkheid voor schulden en je belastingverplichtingen. De meest voorkomende onder zzp'ers zijn de volgende twee:
+Wanneer je een onderneming registreert moet je een {{< wiki "Rechtsvorm" "nl" "rechtsvorm" >}} kiezen. De rechtsvorm bepaalt onder andere je aansprakelijkheid voor schulden en je belastingverplichtingen. De meest voorkomende onder zzp'ers zijn de volgende twee:
 
-1. [Eenmanszaak][wiki:nl:Eenmanszaak].
-2. [Besloten vennootschap][wiki:nl:Besloten_vennootschap_met_beperkte_aansprakelijkheid] ofwel *bv*.
+1. {{< wiki "Eenmanszaak" "nl" "Eenmanszaak" >}}.
+2. {{< wiki "Besloten_vennootschap_met_beperkte_aansprakelijkheid" "nl" "Besloten vennootschap" >}} ofwel *bv*.
 
 Waarom zou je voor de ene of de andere kiezen? Laten we ze even onder de loep nemen.
 
 ### Eenmanszaak {#eenmanszaak}
 
-Een [Eenmanszaak][wiki:nl:Eenmanszaak] is de eenvoudigste rechtsvorm waarbij één persoon verantwoordelijk is voor het bedrijf. Het enige dat je hoeft te doen bij de oprichting van een eenmanszaak is je bedrijf inschrijven in het Handelsregister van de KvK. Je kunt maximaal één eenmanszaak oprichten, maar deze kan wel verschillende handelsnamen, activiteiten en vestigingen hebben. Ondanks de wat misleidende naam kan je ook zo nodig extra personeel inhuren.
+Een {{< wiki "Eenmanszaak" "nl" "Eenmanszaak" >}} is de eenvoudigste rechtsvorm waarbij één persoon verantwoordelijk is voor het bedrijf. Het enige dat je hoeft te doen bij de oprichting van een eenmanszaak is je bedrijf inschrijven in het Handelsregister van de KvK. Je kunt maximaal één eenmanszaak oprichten, maar deze kan wel verschillende handelsnamen, activiteiten en vestigingen hebben. Ondanks de wat misleidende naam kan je ook zo nodig extra personeel inhuren.
 
 De financiële administratie van zo'n bedrijf is ook rechttoe, rechtaan. Eén keer per kwartaal moet je de aangifte omzetbelasting (ofwel btw-aangifte) doen, en jaarlijks de aangifte inkomstenbelasting.
 
@@ -53,13 +53,13 @@ Omdat deze rechtsvorm geen loondienst is, hoef je geen sociale lasten te betalen
 
 ### Besloten vennootschap (bv) {#bv}
 
-Het oprichten van een [bv][wiki:nl:Besloten_vennootschap_met_beperkte_aansprakelijkheid] is veel ingewikkelder. De officiële registratie wordt door een notaris uitgevoerd en deze service is allesbehalve goedkoop. Als een ruwe schatting kun je **€1000** aannemen, maar het feitelijke tarief kan er met honderden euro's van afwijken bij een specifieke notaris.
+Het oprichten van een {{< wiki "Besloten_vennootschap_met_beperkte_aansprakelijkheid" "nl" "bv" >}} is veel ingewikkelder. De officiële registratie wordt door een notaris uitgevoerd en deze service is allesbehalve goedkoop. Als een ruwe schatting kun je **€1000** aannemen, maar het feitelijke tarief kan er met honderden euro's van afwijken bij een specifieke notaris.
 
 Een bv moet één keer per kwartaal een aangifte omzetbelasting doen, net als een eenmanszaak. Het verschil is trouwens dat een bv jaarlijks jaarstukken moet deponeren bij de KvK, en dat komt boven je gewone aangifte inkomstenbelasting. En wat belastingen betreft, werkt het ook anders dan bij eenmanszaak. In het algemeen is boekhouding van een bv ingewikkelder én duurder.
 
 Een groot voordeel van een bv is dat de eigenaar niet persoonlijk aansprakelijk is voor de schulden van zijn bedrijf (behalve bij onbehoorlijk bestuur). Daarboven kunnen twee of meer bv's worden gecombineerd in een holding, wat een nóg betere bescherming tegen risico's biedt.
 
-Een ander verschil is dat werken bij een bv als loondienst wordt beschouwd en dat maakt het mogelijk om de 30%-regeling voor kennismigranten toe te passen. Er hoeven tevens geen sociale lasten betaald te worden mits je *DGA* ([Directeur grootaandeelhouder][wiki:nl:Directeur-grootaandeelhouder]) bent. Om daar in aanmerking voor te komen, moet je meer dan **5%** aandelen van het bedrijf in bezit hebben. Dat wil zeggen, heb je een bv voor jezelf opgericht, dan ben je altijd DGA.
+Een ander verschil is dat werken bij een bv als loondienst wordt beschouwd en dat maakt het mogelijk om de 30%-regeling voor kennismigranten toe te passen. Er hoeven tevens geen sociale lasten betaald te worden mits je *DGA* ({{< wiki "Directeur-grootaandeelhouder" "nl" "Directeur grootaandeelhouder" >}}) bent. Om daar in aanmerking voor te komen, moet je meer dan **5%** aandelen van het bedrijf in bezit hebben. Dat wil zeggen, heb je een bv voor jezelf opgericht, dan ben je altijd DGA.
 
 ### … en vele anderen {#other-types}
 
@@ -67,7 +67,7 @@ Naast deze twee bestaan er nog enkele andere *basisvormen* (*Vennootschap onder 
 
 ### … en payrolling {#payrolling}
 
-[Payrolling][wiki:nl:Payrolling] is geen rechtsvorm, ook wordt het niet als ondernemerschap door de wet gezien. Toch lijkt het behoorlijk op een eenmanszaak.
+{{< wiki "Payrolling" "nl" "Payrolling" >}} is geen rechtsvorm, ook wordt het niet als ondernemerschap door de wet gezien. Toch lijkt het behoorlijk op een eenmanszaak.
 
 Bij payrolling besteed je de meeste administratieve taken aan een *payrollbedrijf* uit, zoals salarisadministratie, onder voorwaarde dat je voor jezelf werk moet zoeken en dat je betaald krijgt uit wat je zelf hebt verdiend. Het payrollbedrijf betaalt ook sociale lasten voor je, waardoor je inkomsten wat lager uitkomen. En het brengt je natuurlijk servicekosten in rekening.
 

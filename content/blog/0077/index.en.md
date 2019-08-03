@@ -19,6 +19,6 @@ This all is well conceivable: there are numerous currencies traveling up and dow
 But that's something:
 {{< imgfig "https://2.bp.blogspot.com/-wHycciZMD14/TYejCKXu8oI/AAAAAAAAIFM/t4ymxGC9Qhg/s1600/mavrodi-1000.jpg" >}}
 
-This is one of the banknotes issued by infamous [Sergey Mavrodi][wiki:en:Sergey_Mavrodi] back in early 90's in Russia. Mavrodi was the founder of one of the biggest scam affairs in modern Russia called "[MMM][wiki:en:MMM_(Ponzi_scheme_company)]" that cost people involved up to $10 billion.
+This is one of the banknotes issued by infamous {{< wiki "Sergey_Mavrodi" "en" "Sergey Mavrodi" >}} back in early 90's in Russia. Mavrodi was the founder of one of the biggest scam affairs in modern Russia called "{{< wiki "MMM_(Ponzi_scheme_company)" "en" "MMM" >}}" that cost people involved up to $10 billion.
 
 And now this note popped up in Asia, what a surprise!

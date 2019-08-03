@@ -24,7 +24,7 @@ The climate is subtropical-desert, with January being the coldest month (day ave
 
 The water temperature both in the lagoon and the open sea was about 22.5° C (73° F) according to my own measurements—which is great.
 
-Here's an excerpt from the [Wikipedia][wiki:en:Red_Sea] about the Red Sea (which is anything but red, by the way):
+Here's an excerpt from the {{< wiki "Red_Sea" "en" "Wikipedia" >}} about the Red Sea (which is anything but red, by the way):
 
 > The Red Sea is special in that there's no river draining into it. Rivers usually bring silt and sand, which troubles the waters, and because of that the water of the Red Sea is remarkably transparent.
 >

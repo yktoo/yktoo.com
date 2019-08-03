@@ -49,7 +49,7 @@ Before the belfry there's a Christmas market, where you can buy mulled wine, che
 There are very few new buildings in the city centre.
 {{< imgfig "https://1.bp.blogspot.com/-C_qCl8sPw-4/UtWFbnx_W6I/AAAAAAAAbuE/xYzRuXLyYkE/s1600/dsc02872.picasaweb.jpg" >}}
 
-On the square between the belfry and the church ({{< fl "Emile Braunplein" >}}) is a slanting structure called {{< fl "Stadshal" >}}. It is an awning, a steel skeleton encased in the endangered timber of [Afrormosia][wiki:en:Pericopsis_elata]. The construction has only been completed recently, in 2012.
+On the square between the belfry and the church ({{< fl "Emile Braunplein" >}}) is a slanting structure called {{< fl "Stadshal" >}}. It is an awning, a steel skeleton encased in the endangered timber of {{< wiki "Pericopsis_elata" "en" "Afrormosia" >}}. The construction has only been completed recently, in 2012.
 {{< imgfig "https://1.bp.blogspot.com/-sP_3HkDELmM/UtWFHQ67lpI/AAAAAAAAbnE/NJlc5R5y2Y0/s1600/dsc02758.picasaweb.jpg" >}}
 
 The encasing also features 1600 tiny windows that "deliver a dynamic incidence of light".
@@ -79,7 +79,7 @@ There's a lot of old houses along the river in various conditions.
 {{< imgfig "https://3.bp.blogspot.com/-f_vtDnBFNyk/UtWFXkFEtOI/AAAAAAAAbso/sPzjS8WWrPc/s1600/dsc02835.picasaweb.jpg" >}}
 {{< imgfig "https://2.bp.blogspot.com/-LbFBs4bV2J8/UtWFX3ycG6I/AAAAAAAAbs4/0qGKalbmyiE/s1600/dsc02836.picasaweb.jpg" >}}
 
-A funny artefact of the riverbank, a 12.5-ton Big Canon ({{< fl "Groot Kanon" >}}). It's been here for more than four hundred years, though it's never fired a shot, and it's commonly known as {{< fl "Dulle Griet" >}}, [Mad Meg][wiki:en:Dulle_Griet]:
+A funny artefact of the riverbank, a 12.5-ton Big Canon ({{< fl "Groot Kanon" >}}). It's been here for more than four hundred years, though it's never fired a shot, and it's commonly known as {{< fl "Dulle Griet" >}}, {{< wiki "Dulle_Griet" "en" "Mad Meg" >}}:
 {{< imgfig "https://4.bp.blogspot.com/-jtwzHjOwKGw/UtWFYkujf9I/AAAAAAAAbtA/4wqZjtrfBrA/s1600/dsc02838.picasaweb.jpg" >}}
 
 If you like hobbits, this place is for rent:
@@ -88,7 +88,7 @@ If you like hobbits, this place is for rent:
 These design white bears can be seen at many places in the city:
 {{< imgfig "https://4.bp.blogspot.com/-IR0i_sDA_PU/UtWFUHkgtAI/AAAAAAAAbrc/SCIJ3RB9oS0/s1600/dsc02818.picasaweb.jpg" >}}
 
-The {{< fl "Vrijdagmarkt" >}} (Friday Market) is the residence of the statue of [Jacob van Artevelde][wiki:en:Jacob_van_Artevelde], a Flemish statesman.
+The {{< fl "Vrijdagmarkt" >}} (Friday Market) is the residence of the statue of {{< wiki "Jacob_van_Artevelde" "en" "Jacob van Artevelde" >}}, a Flemish statesman.
 {{< imgfig "https://1.bp.blogspot.com/-oIGgas3LfCY/UtWFZo_oHeI/AAAAAAAAbtQ/-KXXK8Yk2CI/s1600/dsc02840.picasaweb.jpg" >}}
 
 The pedestal is nicely decorated with elaborate colourful signs:

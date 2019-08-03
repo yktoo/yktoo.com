@@ -4,7 +4,7 @@ title: "Half marathon: Ijsselstijnloop"
 tags: ["half marathon", "Ijsselstijn", "Ijsselstijnloop", "Netherlands", "running", "sport"]
 ---
 
-Today I've run yet another half marathon (**21.1 km**), in the small town of [Ijsselstein][wiki:en:IJsselstein], which is near to Houten we live in.
+Today I've run yet another half marathon (**21.1 km**), in the small town of {{< wiki "IJsselstein" "en" "Ijsselstein" >}}, which is near to Houten we live in.
 
 <!--more-->
 

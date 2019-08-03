@@ -7,7 +7,7 @@ tags: ["Budapest", "Hungary", "travel"]
 
 We borrowed a city guide from our Viennese friends (in German, of course).
 
-So imagine, a Russian and a Dutch in Hungary, at the metro station "Moscow square" ([Moszkva tér][wiki:en:Széll_Kálmán_tér_(Budapest_Metro)]), speaking English, try to find their way using an Austrian guide printed in German.
+So imagine, a Russian and a Dutch in Hungary, at the metro station "Moscow square" ({{< wiki "Széll_Kálmán_tér_(Budapest_Metro)" "en" "Moszkva tér" >}}), speaking English, try to find their way using an Austrian guide printed in German.
 
 <!--more-->
 

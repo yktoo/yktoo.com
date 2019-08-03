@@ -11,7 +11,7 @@ Here, outside of our homelands, we're still friends, you know.
 
 <!--more-->
 
-This is another genuine Russian course, a salad called [herring under a furcoat][wiki:en:Dressed_herring], a must-have for any celebration:
+This is another genuine Russian course, a salad called {{< wiki "Dressed_herring" "en" "herring under a furcoat" >}}, a must-have for any celebration:
 {{< imgfig "https://4.bp.blogspot.com/-fVSh53UE1EM/VKgOPYTb41I/AAAAAAAAgrc/4YgH8oEoz8I/s1600/dsc07740.picasaweb.jpg" >}}
 
 The whole country was full explosions and smoke, as usual. All cats and dogs were hiding in the darkest corner of the house, in utmost terror.

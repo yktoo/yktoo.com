@@ -4,7 +4,7 @@ title: "yktoo.com switched to HTTPS"
 tags: ["HTTPS", "web", "website"]
 ---
 
-The website **yktoo.com** is permanently switched to using the secure [HTTPS][wiki:en:HTTPS] protocol (instead of the former [HTTP][wiki:en:HTTPS]). Your boss won't be able to figure out what exactly you're reading in my blog anymore.
+The website **yktoo.com** is permanently switched to using the secure {{< wiki "HTTPS" "en" "HTTPS" >}} protocol (instead of the former {{< wiki "HTTPS" "en" "HTTP" >}}). Your boss won't be able to figure out what exactly you're reading in my blog anymore.
 
 <!--more-->
 

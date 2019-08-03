@@ -25,7 +25,7 @@ As soon as we've [moved into our new house]({{< relref "/blog/0234" >}}) I've st
 
 I've immediately discarded all the *curved* models since they look clumsy on the wall.
 
-And, if you're planning to buy a new TV, it makes sense to have some margin for the future, and I mean the support for [Ultra HD][wiki:en:Ultra-high-definition_television]. In this regard Samsung's devices are notably cheaper than those by other vendors (LG, Sony, Philips), so that a similar model (in terms of size, functionality and quality) turns out some thirty percent cheaper.
+And, if you're planning to buy a new TV, it makes sense to have some margin for the future, and I mean the support for {{< wiki "Ultra-high-definition_television" "en" "Ultra HD" >}}. In this regard Samsung's devices are notably cheaper than those by other vendors (LG, Sony, Philips), so that a similar model (in terms of size, functionality and quality) turns out some thirty percent cheaper.
 
 Samsung UE75HU7500 is a LED TV of the latest generation (2014 model). It features support for Ultra HD (4K video) and 3D video (with special glasses).
 

@@ -10,7 +10,7 @@ Houten's ["bike avenues"]({{< relref "/blog/0222" >}}) are great to run on, also
 
 <!--more-->
 
-First few months I would run a five-kilometre pentagon route resembling the old [Soviet quality mark][wiki:en:State_quality_mark_of_the_USSR]. It follows a bike path that goes along an embankment, each side is almost exactly one kilometre.
+First few months I would run a five-kilometre pentagon route resembling the old {{< wiki "State_quality_mark_of_the_USSR" "en" "Soviet quality mark" >}}. It follows a bike path that goes along an embankment, each side is almost exactly one kilometre.
 
 {{< imgfig "https://4.bp.blogspot.com/-W8h_qff_EP0/Vn5_gyEPg6I/AAAAAAAAk7I/vJEqV3v_lbk/s1600/Houten-5km-loop.picasaweb.png" "Houten 5-kilometre quality mark." >}}
 
@@ -34,7 +34,7 @@ The works should be finished by March, let's see how the "song bike path" will t
 
 ## Marathons {#marathons}
 
-A long time ago ~~in a galaxy far, far away~~ in April 2010 I've run a five-kilometre track at the [Enschede Marathon](http://www.enschedemarathon.nl/), held in the city of [Enschede][wiki:en:Enschede] next to German border. As I was mostly running on a treadmill back then, it was quite challenging for me.
+A long time ago ~~in a galaxy far, far away~~ in April 2010 I've run a five-kilometre track at the [Enschede Marathon](http://www.enschedemarathon.nl/), held in the city of {{< wiki "Enschede" "en" "Enschede" >}} next to German border. As I was mostly running on a treadmill back then, it was quite challenging for me.
 
 Later I began to run outdoors, which is easier (not so boring) and harder (you have to control your pace and breathing) at the same time. And if the weather is not favourable, that's another complication. Then one day I've decided I felt confident enough as to start participating in running events, which happen here in the Netherlands almost on a weekly basis.
 
@@ -44,7 +44,7 @@ So far I've taken part in two of such events.
 
 Since almost everyone is running in Holland, there's a high demand for new (half) marathons. One of these new was [De Halve van de Haar](http://www.dehalvevandehaar.nl/) ("The Half of De Haar"). I took part in its very first occurrence on April 6, 2015.
 
-A special thing about it, as the name suggests, is that it's held in the park of the [De Haar Castle][wiki:en:Kasteel_de_Haar], which I [visited]({{< relref path="/blog/0012" lang="ru" >}}) back in my first days in the country.
+A special thing about it, as the name suggests, is that it's held in the park of the {{< wiki "Kasteel_de_Haar" "en" "De Haar Castle" >}}, which I [visited]({{< relref path="/blog/0012" lang="ru" >}}) back in my first days in the country.
 
 Every participant is given an individual number equipped with an RFID chip. This chip is read by special scanners at the start and finish. You can also write your personal data on the back side of the number, to be used in the case of emergency. The yellow stripes denote the quarter marathon distance of **10.5 km**.
 {{< imgfig "https://3.bp.blogspot.com/-7WBx_Pj1NWA/VU98tz7mkpI/AAAAAAAAiks/REiX-GBoCuA/s1600/dsc08699.picasaweb.jpg" "Bib number with an RFID chip." >}}
@@ -57,7 +57,7 @@ Even though it was the first edition of the event the organisation was fairly go
 Changing rooms:
 {{< imgfig "https://4.bp.blogspot.com/-BVAktbdkQDs/VSwZa_NZYgI/AAAAAAAAhe0/bX2_SWjcoFU/s1600/dsc08410.picasaweb.jpg" "Changing room." >}}
 
-The marathon has a low profile yet, so it wasn't that crowded. Better known ones, like [Amsterdam][wiki:en:Amsterdam_Marathon] and [Rotterdam Marathon][wiki:en:Rotterdam_Marathon], attract tens of thousands of people. Which is a big challenge from the organisational perspective.
+The marathon has a low profile yet, so it wasn't that crowded. Better known ones, like {{< wiki "Amsterdam_Marathon" "en" "Amsterdam" >}} and {{< wiki "Rotterdam_Marathon" "en" "Rotterdam Marathon" >}}, attract tens of thousands of people. Which is a big challenge from the organisational perspective.
 {{< imgfig "https://3.bp.blogspot.com/-Ilm8Hxb5BeI/VSwZcHXW-HI/AAAAAAAAhe8/PT6i-1AjrhM/s1600/dsc08411.picasaweb.jpg" "De Halve van de Haar." >}}
 
 Number counters:
@@ -119,7 +119,7 @@ There's a lot of cameras along the track, so you won't be able to cheat.
 
 There is a big red gate that confusingly looks like a finish, but is some half kilometre before the finish line.
 
-The lady in the pink shirt on the photo below is {{< fl "Sarah Watson" >}}, a granddaughter of Baron [Van Zuylen van Nijevelt][wiki:en:Van_Zuylen_van_Nievelt], a former owner of the De Haar Castle. It was [her idea](http://www.haarzuilens.net/) to organise a marathon on the premises of the castle.
+The lady in the pink shirt on the photo below is {{< fl "Sarah Watson" >}}, a granddaughter of Baron {{< wiki "Van_Zuylen_van_Nievelt" "en" "Van Zuylen van Nijevelt" >}}, a former owner of the De Haar Castle. It was [her idea](http://www.haarzuilens.net/) to organise a marathon on the premises of the castle.
 {{< imgfig "https://4.bp.blogspot.com/-muaxuM3UBw0/VSwaG3TOzkI/AAAAAAAAhjE/Fwq-0WU35bU/s1600/dsc08522.picasaweb.jpg" "Sarah Watson is on the right." >}}
 
 The finish line:

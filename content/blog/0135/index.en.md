@@ -40,4 +40,4 @@ Once you're done, Dash will show the **Google Music Frame** item:
 
 The program can also display standard Ubuntu popup notifications on track change, as well as hanle multimedia control keys. The latter can be assigned in usual way with **GNOME Control Center**:
 {{< imgfig "https://2.bp.blogspot.com/-R4cUdouYo9c/TutwLDjdAJI/AAAAAAAAKnw/WVwvwvl6pYQ/s1600/gnome-control-center-keyboard.png" >}}
-The only thing missing is [MPD][wiki:en:Music_Player_Daemon]'s ability to play Google Music streams. Maybe if the API goes open?..
+The only thing missing is {{< wiki "Music_Player_Daemon" "en" "MPD" >}}'s ability to play Google Music streams. Maybe if the API goes open?..

@@ -4,9 +4,9 @@ title: "Dream Theater presents The Astonishing in Theater Carré"
 tags: ["Amsterdam", "Carré", "Dream Theater", "music", "Netherlands", "progressive metal", "The Astonishing"]
 ---
 
-The band **Dream Theater** is absolutely legendary. They are considered the founders of the [progressive metal][wiki:en:Progressive_metal] genre, and each of them alone is equally legendary. If you doubt that, just watch their [Instrumedley video](https://www.youtube.com/watch?v=rGN7WchdYa4); not many musicians in the world are capable of playing something like that.
+The band **Dream Theater** is absolutely legendary. They are considered the founders of the {{< wiki "Progressive_metal" "en" "progressive metal" >}} genre, and each of them alone is equally legendary. If you doubt that, just watch their [Instrumedley video](https://www.youtube.com/watch?v=rGN7WchdYa4); not many musicians in the world are capable of playing something like that.
 
-The band was presenting their new album [The Astonishing][wiki:en:The_Astonishing] in the [Theater Carré](http://carre.nl/) in Amsterdam on February 23<sup>rd</sup>.
+The band was presenting their new album {{< wiki "The_Astonishing" "en" "The Astonishing" >}} in the [Theater Carré](http://carre.nl/) in Amsterdam on February 23<sup>rd</sup>.
 
 <!--more-->
 
@@ -44,10 +44,10 @@ It might be the factor of age or being short of ideas. On the other hand, we all
 
 I've been bold enough to make a couple of more photos right after the last song—everyone grabbed their mobiles at once to take pictures so the security had no chance.
 
-The guitarist [John Petrucci][wiki:en:John_Petrucci]:
+The guitarist {{< wiki "John_Petrucci" "en" "John Petrucci" >}}:
 {{< imgfig "https://2.bp.blogspot.com/-kpDrkCzDrWQ/Vs96qbqDA8I/AAAAAAAAleU/GxiIM7YRshM/s1600/20160223_224231.picasaweb.jpg" "Dream Theater in Carré. John Petrucci." >}}
 
-I was sitting in the second row, literally two metres away from Petrucci. Neither him nor the rest of the band looked too emotional about the gig; only the singer [James LaBrie][wiki:en:James_LaBrie] humbly asked the crowd a couple of times if we liked it.
+I was sitting in the second row, literally two metres away from Petrucci. Neither him nor the rest of the band looked too emotional about the gig; only the singer {{< wiki "James_LaBrie" "en" "James LaBrie" >}} humbly asked the crowd a couple of times if we liked it.
 
-And finally the most scandalous: the drummer [Mike Mangini][wiki:en:Mike_Mangini] is taking photos with his mobile while the security is turning a blind eye to it! Isn't it double standards?
+And finally the most scandalous: the drummer {{< wiki "Mike_Mangini" "en" "Mike Mangini" >}} is taking photos with his mobile while the security is turning a blind eye to it! Isn't it double standards?
 {{< imgfig "https://1.bp.blogspot.com/-cwfVlJhAerw/Vs96qR8GwMI/AAAAAAAAleU/Pt3Aclg48ro/s1600/20160223_224229.picasaweb.jpg" "Dream Theater in Carré. Mike Mangini takes a photo." >}}

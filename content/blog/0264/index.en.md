@@ -27,20 +27,20 @@ The weather was typical for Holland in November: cold, damp, with an occasional 
 Most of the spectators rushed to the stage as soon as they got in, which is fair enough since you don't spend hours standing in line for nothing. But since the *Heineken Music Hall* is a big venue, we managed to land somewhere in the third row.
 {{< imgfig "https://3.bp.blogspot.com/-4dP_DW-FXgw/VlMnH3UO7YI/AAAAAAAAkwE/poUuCmeN8F4/s1600/dsc01104.picasaweb.jpg" "The stage before Amorphis." >}}
 
-The first band [Amorphis][wiki:en:Amorphis] were from Finland, and being active since 1990, it's older than the headliners. Genre: Progressive/Melodic Death Metal.
+The first band {{< wiki "Amorphis" "en" "Amorphis" >}} were from Finland, and being active since 1990, it's older than the headliners. Genre: Progressive/Melodic Death Metal.
 
-The vocalist [Tomi Joutsen][wiki:en:Tomi_Joutsen] is fronting the band since 2005. Remarkable for his tattoos and a fancy microphone with an advanced hand grip system (suitable for a three-hander).
+The vocalist {{< wiki "Tomi_Joutsen" "en" "Tomi Joutsen" >}} is fronting the band since 2005. Remarkable for his tattoos and a fancy microphone with an advanced hand grip system (suitable for a three-hander).
 {{< imgfig "https://3.bp.blogspot.com/-cu_rFYWdI4E/VlMnHwzMRhI/AAAAAAAAkwE/NQurx1fivLk/s1600/dsc01115.picasaweb.jpg" "Amorphis, the vocalist Tomi Joutsen." >}}
 
 A good grip is apparently important to keep the mike stable under Tomi's powerful vocal. The same goes for the gloves, I'm using them too when lifting weights.
 
-The keyboardist {{< fl "Santeri Kallio" >}} is hiding somewhere at the back (I didn't even spot him for a while), and further to the right you can see one of the founders of the band the lead guitarist [Esa Holopainen][wiki:en:Esa_Holopainen]:
+The keyboardist {{< fl "Santeri Kallio" >}} is hiding somewhere at the back (I didn't even spot him for a while), and further to the right you can see one of the founders of the band the lead guitarist {{< wiki "Esa_Holopainen" "en" "Esa Holopainen" >}}:
 {{< imgfig "https://4.bp.blogspot.com/-LlSo7SxccxA/VlMnH8ToFAI/AAAAAAAAkwE/emYvye95AP4/s1600/dsc01106.picasaweb.jpg" "Amorphis: Santeri Kallio, Tomi Joutsen, Esa Holopainen." >}}
 
 {{< fl "Niclas Etelävuori" >}} on the bass and the drummer {{< fl "Jan Rechberger" >}}:
 {{< imgfig "https://4.bp.blogspot.com/-TzTQ6Q5LxTE/VlMnH6L5CkI/AAAAAAAAkwE/52tK-Rkfb3A/s1600/dsc01108.picasaweb.jpg" "Amorphis: Niclas Etelävuori & Jan Rechberger." >}}
 
-On the left there's another veteran, [Tomi Koivusaari][wiki:en:Tomi_Koivusaari], playing the rhythm guitar since the band's first day:
+On the left there's another veteran, {{< wiki "Tomi_Koivusaari" "en" "Tomi Koivusaari" >}}, playing the rhythm guitar since the band's first day:
 {{< imgfig "https://2.bp.blogspot.com/-9PWUgFUy848/VlMnH2N6BGI/AAAAAAAAkwE/MAHrWht58lc/s1600/dsc01105.picasaweb.jpg" "Amorphis: Tomi Koivusaari, Niclas Etelävuori, Jan Rechberger." >}}
 
 Below is a video of {{< fl "Sacrifice" >}}:
@@ -48,9 +48,9 @@ Below is a video of {{< fl "Sacrifice" >}}:
 
 ## Arch Enemy {#archenemy}
 
-The Swedish death metal band [Arch Enemy][wiki:en:Arch_Enemy] are known much better than {{< fl "Amorphis" >}}. They are also much heavier and fancier-looking.
+The Swedish death metal band {{< wiki "Arch_Enemy" "en" "Arch Enemy" >}} are known much better than {{< fl "Amorphis" >}}. They are also much heavier and fancier-looking.
 
-Its most prominent feature is undoubtedly the blue-haired Canadian vocalist [Alissa White-Gluz][wiki:en:Alissa_White-Gluz].
+Its most prominent feature is undoubtedly the blue-haired Canadian vocalist {{< wiki "Alissa_White-Gluz" "en" "Alissa White-Gluz" >}}.
 {{< imgfig "https://1.bp.blogspot.com/-By8SwUSzyz0/VlMnH-Fv5rI/AAAAAAAAkwE/JW3VOCdH6Mw/s1600/dsc01128.picasaweb.jpg" "Arch Enemy: Michael Amott and Alissa White-Gluz." >}}
 
 So this sweet little girl appears on the stage and then begins this:
@@ -59,10 +59,10 @@ So this sweet little girl appears on the stage and then begins this:
 The purpose of the blue hair is, naturally, that:
 {{< imgfig "https://2.bp.blogspot.com/-KGLuQcI0puA/VlMnH-Dn8QI/AAAAAAAAkwE/lbNiShC9t0k/s1600/dsc01157.picasaweb.jpg" "Arch Enemy: a headbanging class by Alissa White-Gluz." >}}
 
-This officially *Swedish* band consists of a Canadian vocalist (who loves to march with an Arch Enemy flag around the stage) and a couple of American guitarists [Michael Amott][wiki:en:Michael_Amott] and [Jeff Loomis][wiki:en:Jeff_Loomis]:
+This officially *Swedish* band consists of a Canadian vocalist (who loves to march with an Arch Enemy flag around the stage) and a couple of American guitarists {{< wiki "Michael_Amott" "en" "Michael Amott" >}} and {{< wiki "Jeff_Loomis" "en" "Jeff Loomis" >}}:
 {{< imgfig "https://3.bp.blogspot.com/-w_e3fC1q2_Q/VlMnH4n2CYI/AAAAAAAAkwE/QQDL0jAi8Dg/s1600/dsc01179.picasaweb.jpg" "Arch Enemy: Michael Amott, Jeff Loomis and a girl with a flag." >}}
 
-And only two Swedes: [Sharlee D'Angelo][wiki:en:Sharlee_D'Angelo] on the bass and the drummer [Daniel Erlandsson][wiki:en:Daniel_Erlandsson].
+And only two Swedes: {{< wiki "Sharlee_D'Angelo" "en" "Sharlee D'Angelo" >}} on the bass and the drummer {{< wiki "Daniel_Erlandsson" "en" "Daniel Erlandsson" >}}.
 {{< imgfig "https://1.bp.blogspot.com/-FNkNEXV01yQ/VlMnH6nlcmI/AAAAAAAAkwE/nU8RcNHybsg/s1600/dsc01173.picasaweb.jpg" "Arch Enemy: Left to right: Michael Amott, Sharlee D'Angelo, Alissa White-Gluz." >}}
 
 Don't know why, but Amott is always looking like he's either high or about to faint. Or both.
@@ -79,18 +79,18 @@ Another tradition, that involves throwing picks and drumsticks into the crowd, c
 
 ## Nightwish {#nightwish}
 
-Right after Arch Enemy's departure the curtain was lowered, and the preparations for [Nightwish][wiki:en:Nightwish]'s performance began. Nineteen years on, the Finnish band is massively popular worldwide, and their name is nowadays a synonym for 'symphonic metal legend'. The hall was absolutely packed.
+Right after Arch Enemy's departure the curtain was lowered, and the preparations for {{< wiki "Nightwish" "en" "Nightwish" >}}'s performance began. Nineteen years on, the Finnish band is massively popular worldwide, and their name is nowadays a synonym for 'symphonic metal legend'. The hall was absolutely packed.
 {{< imgfig "https://1.bp.blogspot.com/-wXTM96gGX0w/VlMnH9P50_I/AAAAAAAAkwE/eEi0c6d5fls/s1600/dsc01460.picasaweb.jpg" "Nightwish: we're down there, near the stage." >}}
 
 Wall displays were warning the audience about the 'use of pyrotechnics and concussions' during the show, but no one seemed to have paid attention. So the explosion that opened the show came as a big surprise for everyone.
 
-The Dutch vocalist [Floor Jansen][wiki:en:Floor_Jansen] is with the band since 2013. I should have seen here four years ago with [Pagan's Mind]({{< relref path="/blog/0136" lang="ru" >}}), but she didn't show up then:
+The Dutch vocalist {{< wiki "Floor_Jansen" "en" "Floor Jansen" >}} is with the band since 2013. I should have seen here four years ago with [Pagan's Mind]({{< relref path="/blog/0136" lang="ru" >}}), but she didn't show up then:
 {{< imgfig "https://2.bp.blogspot.com/-f2jGwSEXA_M/VlMnHztz9tI/AAAAAAAAkwE/jGSdKCPu47s/s1600/dsc01230.picasaweb.jpg" "Nightwish: Floor Jansen." >}}
 
-The founders of the band: the keyboardist [Tuomas Holopainen][wiki:en:Tuomas_Holopainen] and the funny looking guitarist [Emppu Vuorinen][wiki:en:Emppu_Vuorinen]:
+The founders of the band: the keyboardist {{< wiki "Tuomas_Holopainen" "en" "Tuomas Holopainen" >}} and the funny looking guitarist {{< wiki "Emppu_Vuorinen" "en" "Emppu Vuorinen" >}}:
 {{< imgfig "https://4.bp.blogspot.com/-7hXinmuKOro/VlMnH6BC1GI/AAAAAAAAkwM/fpFDbnNw3JQ/s1600/dsc01254.picasaweb.jpg" "Nightwish: Tuomas Holopainen and Emppu Vuorinen." >}}
 
-The bassist [Marco Hietala][wiki:en:Marco_Hietala] is also a singer. With his fishtail beard he looks a lot like a dwarf from a tale. He also loves face-pulling:
+The bassist {{< wiki "Marco_Hietala" "en" "Marco Hietala" >}} is also a singer. With his fishtail beard he looks a lot like a dwarf from a tale. He also loves face-pulling:
 {{< imgfig "https://3.bp.blogspot.com/-Wvs0ASPxOxs/VlMnHyTqqzI/AAAAAAAAkwE/welUIilh4K4/s1600/dsc01266.picasaweb.jpg" "Nightwish: Marco Hietala and Floor Jansen." >}}
 
 He also plays a doubleneck guitar sometimes.
@@ -108,7 +108,7 @@ Floor, who's some six+ feet tall, is highly prominent on-stage. They look funny 
 {{< imgfig "https://2.bp.blogspot.com/-VlVJ2ZHQPas/VlMnH54O-lI/AAAAAAAAkwM/Wrwn4JOzb4o/s1600/dsc01327.picasaweb.jpg" "Nightwish: Floor Jansen and Emppu Vuorinen." >}}
 {{< imgfig "https://4.bp.blogspot.com/-cv6C8sgle5g/VlMnH-v8U4I/AAAAAAAAkwE/20onVWQeWeE/s1600/dsc01336.picasaweb.jpg" "Nightwish: Floor Jansen." >}}
 
-The oldest member of the band, the British [Troy Donockley][wiki:en:Troy_Donockley] (51), prefers to keep low profile. In his 35 year career he has played with a huge number of bands and musicians (including [Arjen Lucassen]({{< relref "/blog/0250" >}})'s *Ayreon*):
+The oldest member of the band, the British {{< wiki "Troy_Donockley" "en" "Troy Donockley" >}} (51), prefers to keep low profile. In his 35 year career he has played with a huge number of bands and musicians (including [Arjen Lucassen]({{< relref "/blog/0250" >}})'s *Ayreon*):
 {{< imgfig "https://3.bp.blogspot.com/-SSfZZOgreyk/VlMnH5_8yDI/AAAAAAAAkwM/PFqh1gnCm4Y/s1600/dsc01319.picasaweb.jpg" "Nightwish: Troy Donockley." >}}
 
 He's best known for his playing of Uilleann pipes, which connects amazingly beautiful to the sound of *Nightwish*.
@@ -117,7 +117,7 @@ He's best known for his playing of Uilleann pipes, which connects amazingly beau
 For instance, here's *I Want My Tears Back* featuring his solo:
 {{< youtube "jtFw5HVMP0U" >}}
 
-And, last but not least, the drummer [Kai Hahto][wiki:en:Kai_Hahto]—I was really impressed by his performance:
+And, last but not least, the drummer {{< wiki "Kai_Hahto" "en" "Kai Hahto" >}}—I was really impressed by his performance:
 {{< imgfig "https://2.bp.blogspot.com/-znxKNed8zjs/VlMnH5Q7haI/AAAAAAAAkwE/1GUKVcfCKdY/s1600/dsc01405.picasaweb.jpg" "Nightwish: Kai Hahto." >}}
 {{< imgfig "https://2.bp.blogspot.com/-jB8N4ITaCIU/VlMnH6mDY6I/AAAAAAAAkwE/XnhJEDQLB5g/s1600/dsc01287.picasaweb.jpg" "Nightwish: Marco Hietala and Kai Hahto." >}}
 

@@ -6,7 +6,7 @@ tags: ["autumn", "Baarn", "forest", "mushrooms", "nature", "Netherlands"]
 
 It's automn here again. Some annoyed expats keep insisting there's only just this season in Holland, but that's not true.
 
-We are fortunate enough to live in a very picturesque woodland area. One of these days we went on a hike in one of numerous forests called [Baarnse Bos][wiki:nl:Baarnse_Bos] and situated near the equally picturesque village Baarn (which I [posted]({{< relref path="/blog/0006" lang="ru" >}}) about five years ago).
+We are fortunate enough to live in a very picturesque woodland area. One of these days we went on a hike in one of numerous forests called {{< wiki "Baarnse_Bos" "nl" "Baarnse Bos" >}} and situated near the equally picturesque village Baarn (which I [posted]({{< relref path="/blog/0006" lang="ru" >}}) about five years ago).
 {{< imgfig "https://3.bp.blogspot.com/-P2PcmAsfPmY/Uphfmo2jE8I/AAAAAAAAauM/IaBuuCISyS8/s1600/dsc01507.picasaweb.jpg" >}}
 
 <!--more-->

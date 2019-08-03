@@ -10,7 +10,7 @@ There was also another reason to come back to the mountains: I've recently got t
 
 <!--more-->
 
-So I've found an affordable accommodation in the ski area of [Les Sybelles][wiki:en:Les_Sybelles], France, for eight days, which included a six-day ski-pass. Remembering how awesome it's been to stay right at a ski slope last time, I've chosen a hotel in the village {{< fl "Les Bottières" >}}, which claimed to be only 50 metres away from a ski lift. This proved to be not quite accurate, but I'll tell you more on that further on.
+So I've found an affordable accommodation in the ski area of {{< wiki "Les_Sybelles" "en" "Les Sybelles" >}}, France, for eight days, which included a six-day ski-pass. Remembering how awesome it's been to stay right at a ski slope last time, I've chosen a hotel in the village {{< fl "Les Bottières" >}}, which claimed to be only 50 metres away from a ski lift. This proved to be not quite accurate, but I'll tell you more on that further on.
 
 {{< imgfig "https://1.bp.blogspot.com/-5NHIMH35n9U/WMWIoD5py3I/AAAAAAAApk0/Fco23XMqZ9YHAYYPrq8lLJPlrkSTQBEKACPcB/s1600/2017-02-26t11-07-59%252B01-00.picasaweb.jpg" "Les Sybelles, La Toussuire." >}}
 
@@ -41,7 +41,7 @@ The worst was that there was almost no snow in the village!
 The photo above shows that ski lift 50 metres away. Which is obviously closed because it cannot be operated without snow. That didn't bode well. What in heaven's name are we doing here, I was thinking at the sight of the bare ground.
 {{< imgfig "https://3.bp.blogspot.com/-TLbwF88_F1A/WMWIoGdvW2I/AAAAAAAApk0/qluMAvxj4ZMkQdizTjRg7d8aIB5NqgeUgCPcB/s1600/20170226_092558.picasaweb.jpg" "Les Bottières." >}}
 
-However everything turned out to be quite okay. {{< fl "Les Bottières" >}} lay at the altitude **1300 m** and indeed had not so much snow, but [Le Corbier][wiki:en:Le_Corbier], which was 250 metres higher (**1550 m**) had plenty of it. And [La Toussuire][wiki:en:Fontcouverte-la-Toussuire] (**1750 m**) situated halfway between us and {{< fl "Le Corbier" >}} had even more. To compensate for the missing snow, the resort was providing a free shuttle bus service to {{< fl "Le Corbier" >}} running up and down three times a day.
+However everything turned out to be quite okay. {{< fl "Les Bottières" >}} lay at the altitude **1300 m** and indeed had not so much snow, but {{< wiki "Le_Corbier" "en" "Le Corbier" >}}, which was 250 metres higher (**1550 m**) had plenty of it. And {{< wiki "Fontcouverte-la-Toussuire" "en" "La Toussuire" >}} (**1750 m**) situated halfway between us and {{< fl "Le Corbier" >}} had even more. To compensate for the missing snow, the resort was providing a free shuttle bus service to {{< fl "Le Corbier" >}} running up and down three times a day.
 
 But what an irony: instead of fifty metres the nearest ski lift was eight kilometres away from our hotel! Anyway, such things are impossible to plan around.
 
@@ -171,7 +171,7 @@ And a few more words on the subject of {{< fl "Les Sybelles" >}}. It's well noti
 
 * Many ski lifts are simple, non-detachable ones. During boarding they tend to hit you under your knees, which obliges you to stay alert. At the same time, they travel much slower than more expensive detachable lifts (7-8 vs. 15-17 km/h).
 
-* Individual ski areas are only connected by snowboard-unfriendly [surface lifts][wiki:en:Surface_lift] (ski tows), which drag you with the speed of a snail for a long, long distance, and there's no alternative to them. Moreover, all those inter-area lifts got closed at 4 PM, whereas all the others would run until 5 PM or so.
+* Individual ski areas are only connected by snowboard-unfriendly {{< wiki "Surface_lift" "en" "surface lifts" >}} (ski tows), which drag you with the speed of a snail for a long, long distance, and there's no alternative to them. Moreover, all those inter-area lifts got closed at 4 PM, whereas all the others would run until 5 PM or so.
 
 So to sum this all up, I don't think I'll ever come here again. Not that it's bad in {{< fl "Les Sybelles" >}}, but there are better places!
 

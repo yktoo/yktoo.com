@@ -17,11 +17,11 @@ Frankly, I'm not really into museums, and I'm a complete layman in the area of f
 As I feared, the actual art turned out to be like this:
 {{< imgfig "https://1.bp.blogspot.com/-q86XZXF4WyM/UtWFeZI7tOI/AAAAAAAAbvE/WsOH8Q2s6Ig/s1600/dsc02900.picasaweb.jpg" >}}
 
-This masterpiece by the Danish artist [Asger Jorn][wiki:en:Asger_Jorn] is called {{< fl "Verlust der Mitte" >}} and dated 1966. I'm now going to say something terribly blasphemous, but I reckon this painting a meaningless nonsense—well, I'm a layman as I warned you.
+This masterpiece by the Danish artist {{< wiki "Asger_Jorn" "en" "Asger Jorn" >}} is called {{< fl "Verlust der Mitte" >}} and dated 1966. I'm now going to say something terribly blasphemous, but I reckon this painting a meaningless nonsense—well, I'm a layman as I warned you.
 
 In accordance with the level of my art education I evaluate items of art using an internal scale "like/dislike". The way it works I find obscure myself. Normally I would listen to the response of a certain piece of art in me. In this case the mood indicator didn't move.
 
-What always strikes me in modern art exhibitions is the room allocated for the exhibits. You usually see a couple of them in a concert hall-sized room. Works by the American [Rachel Harrison][wiki:en:Rachel_Harrison] occupied the most ground floor, and some of them left an impression on me. She's a sculptor and her works usually look like this:
+What always strikes me in modern art exhibitions is the room allocated for the exhibits. You usually see a couple of them in a concert hall-sized room. Works by the American {{< wiki "Rachel_Harrison" "en" "Rachel Harrison" >}} occupied the most ground floor, and some of them left an impression on me. She's a sculptor and her works usually look like this:
 {{< imgfig "https://2.bp.blogspot.com/-y7PQJHIOsWY/UtWFfz2HjjI/AAAAAAAAbvs/ZiVbu26QoIk/s1600/dsc02906.picasaweb.jpg" >}}
 
 Her exhibition had a plain name of "Turquoise-Stained Altars for Burger Turner". This exhibit seems incomplete to me, but with contemporary art you never know whether it's a work of art or just debris left by the builders:
@@ -75,7 +75,7 @@ I'd like to end my story with something positive.
 Belgium is famous for its beers. Before we left Ghent we visited a store called [De Hopduvel](http://www.dehopduvel.be/) ("The Hop Devil"), which has more than a thousand different [beers](http://www.dehopduvel.be/bieren.html) beers on display:
 {{< imgfig "https://4.bp.blogspot.com/-ZTdoa8AHg-I/UtrFSEo-I9I/AAAAAAAAbyM/18qeA2B_uuE/s1600/img_20140104_113846.picasaweb.jpg" >}}
 
-Besides all kinds of traditional beers you can buy more special sorts here, like strawberry, banana or chocolate. I for one fell in love with [St Louis Kriek][wiki:en:Kriek_lambic] lambic.
+Besides all kinds of traditional beers you can buy more special sorts here, like strawberry, banana or chocolate. I for one fell in love with {{< wiki "Kriek_lambic" "en" "St Louis Kriek" >}} lambic.
 
 I also find appealing that the store is so technologically advanced: you can [walk inside](https://www.google.nl/maps?q=De+Hopduvel,+Coupure+Rechts,+Gent,+Belgium&amp;hl=en&amp;ll=51.051384,3.708992&amp;spn=0.00837,0.00927&amp;sll=51.051736,3.709629&amp;layer=c&amp;cid=12496071063255758153&amp;panoid=Xuabm4eAIQQAAAQINk3dcw&amp;cbp=13,199.22,,0,0&amp;hq=De+Hopduvel,+Coupure+Rechts,+Gent,+Belgium&amp;t=m&amp;z=17&amp;cbll=51.051384,3.708992) by using Google Street View.
 

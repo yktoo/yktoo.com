@@ -24,7 +24,7 @@ Let me elaborate.
 
 ## Price {#price}
 
-Price is obviously of the highest importance. Unless you're a billionaire, you'll most likely need a mortgage. The government, in its effort to safeguard people's money, is constantly [toughening](http://www.rijksoverheid.nl/onderwerpen/koopwoning/nieuwe-regels-hypotheek) mortgage rules. So, for instance, the highest allowed Loan-to-Value ratio ([LTV][wiki:en:Loan-to-value_ratio]) for a mortgage in 2014 was 104% of the house value. In 2015 it'll become 103%, and in 2018 only 100%, meaning you'll have to spare at least for fees and notary service (which always comes on top of the house price).
+Price is obviously of the highest importance. Unless you're a billionaire, you'll most likely need a mortgage. The government, in its effort to safeguard people's money, is constantly [toughening](http://www.rijksoverheid.nl/onderwerpen/koopwoning/nieuwe-regels-hypotheek) mortgage rules. So, for instance, the highest allowed Loan-to-Value ratio ({{< wiki "Loan-to-value_ratio" "en" "LTV" >}}) for a mortgage in 2014 was 104% of the house value. In 2015 it'll become 103%, and in 2018 only 100%, meaning you'll have to spare at least for fees and notary service (which always comes on top of the house price).
 
 Therefore it's sensible to begin *hunting* with an appointment with a mortgage adviser to determine your theoretical maximum loan amount.
 

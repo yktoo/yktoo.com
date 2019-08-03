@@ -121,7 +121,7 @@ It's a pity the idea didn't fully work out, but it's still possible to swap the 
 
 It's been a piece of cake to write a simple web server and prototype a web page. I was determined to write the front-end part (browser application) using [AngularJS](https://angularjs.org/), because it greatly facilitates periodic updates and eliminates page flickering. In a longer run I might even want to add some subtle animations.
 
-Initially the idea was to avoid having a server part altogether, so that all the data would be directly requested by the web application, but it failed with some data providers because of the [CORS policy][wiki:en:Cross-origin_resource_sharing] enforcement by the browser. Those are handled by a simple back-end written in Python 3.
+Initially the idea was to avoid having a server part altogether, so that all the data would be directly requested by the web application, but it failed with some data providers because of the {{< wiki "Cross-origin_resource_sharing" "en" "CORS policy" >}} enforcement by the browser. Those are handled by a simple back-end written in Python 3.
 
 The current version of **InfoPi** uses the following providers:
 

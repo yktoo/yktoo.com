@@ -13,7 +13,7 @@ Last time I only briefly [mentioned]({{< relref path="/blog/0033" lang="ru" >}})
 This street is about a hundred metres along and two across, all covered with layered paitings by city inhabitants and visitors (I [posted]({{< relref "/blog/0205" >}}) about {{< fl "Ruiterskwartier" >}}, a similar street in Leeuwarden).
 {{< imgfig "https://3.bp.blogspot.com/-NlQ-8cRRCj0/UtWFPPm46CI/AAAAAAAAbqY/VVDArZmsiQs/s1600/dsc02799.picasaweb.jpg" >}}
 
-Right at the entrance are [Jip and Janneke][wiki:en:Jip_and_Janneke], characters from immensely popular books by Annie M. G. Schmidt (I wonder whether this is of Dutch or Belgian authorship):
+Right at the entrance are {{< wiki "Jip_and_Janneke" "en" "Jip and Janneke" >}}, characters from immensely popular books by Annie M. G. Schmidt (I wonder whether this is of Dutch or Belgian authorship):
 {{< imgfig "https://4.bp.blogspot.com/-qlS-nXpMhb4/UtWFTwjWG2I/AAAAAAAAbrU/L8XtsLD4KOI/s1600/dsc02816.picasaweb.jpg" >}}
 
 Trending: a certain Nesh commemorated Nelson Mandela:

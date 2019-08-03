@@ -4,7 +4,7 @@ title: "Doshu Moriteru Ueshiba in Brussels"
 tags: ["aikido", "Belgium", "Brussels", "Christian Tissier", "Dany Leclerre", "Doshu", "Moriteru Ueshiba", "Rudik Manukyan", "sport"]
 ---
 
-Last weekend, 22-23 October, has been marked by a colossal [event](http://www.doshu2016.be/) in the Belgian Brussels, lead by the *Doshu* (hereditary head) [Moriteru Ueshiba][wiki:en:Moriteru_Ueshiba], a grandson of Ōsensei [Morihei Ueshiba][wiki:en:Morihei_Ueshiba].
+Last weekend, 22-23 October, has been marked by a colossal [event](http://www.doshu2016.be/) in the Belgian Brussels, lead by the *Doshu* (hereditary head) {{< wiki "Moriteru_Ueshiba" "en" "Moriteru Ueshiba" >}}, a grandson of Ōsensei {{< wiki "Morihei_Ueshiba" "en" "Morihei Ueshiba" >}}.
 
 <!--more-->
 
@@ -56,7 +56,7 @@ In his turn, the Doshu walked around the dojo during those periods, watching and
 The explanations he gave were all in Japanese. There was an interpreter next to him (in a suit on the photo below), who initially tried to translate Doshu's speech into French and English, but with the latter it didn't go very smoothly, so he limited himself to just French. Then another guy translated his French further into English.
 {{< imgfig "https://2.bp.blogspot.com/-dgFGe_uRaUU/WBCrDxmt5xI/AAAAAAAAoGM/Md5MLh6kuO8zE6n_x_STKt5e-j1nvbkxACPcB/s1600/doshu-2016-0011.jpg" "Moriteru Ueshiba. Photo by doshu2016.be." >}}
 
-The event, of course, was also attended by other aikido stars, the biggest one being the French shihan [Christian Tissier][wiki:en:Christian_Tissier], who is the only non-Japanese in possession of the eighth dan aikikai:
+The event, of course, was also attended by other aikido stars, the biggest one being the French shihan {{< wiki "Christian_Tissier" "en" "Christian Tissier" >}}, who is the only non-Japanese in possession of the eighth dan aikikai:
 {{< imgfig "https://3.bp.blogspot.com/-x-5mHOhebZc/WBCrD9GwDII/AAAAAAAAoGM/I5F5VIRWm64BcLIEhdcqMPcUhpy9sHZAACPcB/s1600/doshu-2016-0009.jpg" "Christian Tissier. Photo by doshu2016.be." >}}
 
 At the end of the second day an embukai (public demonstration) was held at the venue. It began with a half-an-hour-long drummer performance, too long in my view. After that an aikido demonstration started.

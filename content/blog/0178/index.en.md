@@ -18,7 +18,7 @@ It was a hundred line Python script, and it worked, but had a number of flaws. D
 
 All that wasn't very neat so I started learning the somewhat intricate [PulseAudio API](http://freedesktop.org/software/pulseaudio/doxygen/). Among other things, PulseAudio is almost completely asynchronous by design, so its events are best handled by a separate thread.
 
-After a long string of experiments with Python's non-immaculate multithreading implementation (I'd mention [GIL][wiki:en:Global_Interpreter_Lock] to start with), I made the application run smoothly. The menu consists of three sections: input devices (ordered by name), output devices (same) and static items.
+After a long string of experiments with Python's non-immaculate multithreading implementation (I'd mention {{< wiki "Global_Interpreter_Lock" "en" "GIL" >}} to start with), I made the application run smoothly. The menu consists of three sections: input devices (ordered by name), output devices (same) and static items.
 
 The icon was designed in Inkscape:
 {{< imgfig "https://3.bp.blogspot.com/-WRWhSSdMb4w/UTMb99DLYOI/AAAAAAAAWqI/u5v1qpzawqY/s1600/indicator-sound-switcher.png" >}}

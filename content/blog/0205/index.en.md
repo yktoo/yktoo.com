@@ -4,13 +4,13 @@ title: "Leeuwarden"
 tags: ["graffiti", "Leeuwarden", "Netherlands", "tower"]
 ---
 
-I'd like to show you a bit of northern Dutch summer in our damp off-season. Last June we've visited the city of [Leeuwarden][wiki:en:Leeuwarden] (Frisian: {{< fl "Ljouwert" >}}), situated in the very north of Holland. It is the capital city of the Friesland province, which is famous for its language that makes very little sense to an average Dutch.
+I'd like to show you a bit of northern Dutch summer in our damp off-season. Last June we've visited the city of {{< wiki "Leeuwarden" "en" "Leeuwarden" >}} (Frisian: {{< fl "Ljouwert" >}}), situated in the very north of Holland. It is the capital city of the Friesland province, which is famous for its language that makes very little sense to an average Dutch.
 
 <!--more-->
 
 ## Oldehove {#oldehove}
 
-One of the most noteworthy places in Leeuwarden is the leaning tower of [Oldehove][wiki:en:Oldehove_(tower)].
+One of the most noteworthy places in Leeuwarden is the leaning tower of {{< wiki "Oldehove_(tower)" "en" "Oldehove" >}}.
 {{< imgfig "https://4.bp.blogspot.com/-aWtU5ZSPtcc/UhoJbb4b6eI/AAAAAAAAZdQ/6GmdcH00mi0/s1600/dsc09752.picasaweb.jpg" >}}
 
 The tower is leaning more than the famous tower of Pisa. The cause was not discovered until recently, and it seems to be a very unfortunate coincidence.
@@ -23,7 +23,7 @@ And yet—all those tricks didn't work out. The tower started to lean northwestw
 
 Three years into the construction Van Aaken died, reportedly of "chagrin", and Cornelis Frederiks took over. He wasn't any more fortunate, so the building was ceased after a year. In the years that followed the city tried to get the tower upright, but that didn't work out either. The result was not only a leaning, but also crooked tower. It was also renovated several times, which cost the city quite a bit of money.
 
-Only in 2005 the true cause of the failure was discovered. The tower was built on a slope of an old [terp][wiki:nl:Terp] (mound), which once protected the area from flooding. So Van Aaken fell an innocent victim.
+Only in 2005 the true cause of the failure was discovered. The tower was built on a slope of an old {{< wiki "Terp" "nl" "terp" >}} (mound), which once protected the area from flooding. So Van Aaken fell an innocent victim.
 
 On the other hand, if the tower stood upright, it would be yet another Dutch tower, like [ours]({{< relref "/blog/0197" >}}) in Amersfoort. Tourists would miss the opportunity to make funny forced-perspective photos.
 {{< imgfig "https://1.bp.blogspot.com/-6qFWcFSItEQ/UhoJeeW2j-I/AAAAAAAAZdg/g4hAfaagaMY/s1600/dsc09754.picasaweb.jpg" >}}
@@ -55,7 +55,7 @@ Like any other Dutch municipality, the city has a tree planted when the Queen Wi
 
 ## Mata Hari {#mata-hari}
 
-Apart from its ever-leaning tower, Leeuwarden is known as a birth place of the dancer, courtesan and spy [Mata Hari][wiki:en:Mata_Hari] (real name Margaretha Geertruida Zelle). A humble monument was installed here on her 100-year anniversary (1976):
+Apart from its ever-leaning tower, Leeuwarden is known as a birth place of the dancer, courtesan and spy {{< wiki "Mata_Hari" "en" "Mata Hari" >}} (real name Margaretha Geertruida Zelle). A humble monument was installed here on her 100-year anniversary (1976):
 {{< imgfig "https://3.bp.blogspot.com/-5isCqOX0Ey8/UhoJ2CQW0TI/AAAAAAAAZgI/hkUvWAXdowY/s1600/dsc09780.picasaweb.jpg" >}}
 
 ## The Big Church and the Jewish Monument {#big-church-jewish-monument}
@@ -149,7 +149,7 @@ Which translates as:
 > It's evening in Siberia,
 > And a lion is nowhere
 
-But some Dutch friends and Google helped me. It's a verse from a very long and old Dutch song called {{< fl "Dodenrit" >}} ("Suicidal Ride"). It's sung in 1974 by [Drs. P][wiki:nl:Drs._P] ([video](http://www.youtube.com/watch?v=rAaL1pO3qAw)), and it's a quite cynical, or black-humored, piece. It's a story of a family that rides a troika in the direction of the Siberian city of Omsk in a very cold winter. They are being chased by wolves, so they decide to dump their kids one-by-one to get rid of wolves. Yet the plan doesn't work out and the end is anything but happy.
+But some Dutch friends and Google helped me. It's a verse from a very long and old Dutch song called {{< fl "Dodenrit" >}} ("Suicidal Ride"). It's sung in 1974 by {{< wiki "Drs._P" "nl" "Drs. P" >}} ([video](http://www.youtube.com/watch?v=rAaL1pO3qAw)), and it's a quite cynical, or black-humored, piece. It's a story of a family that rides a troika in the direction of the Siberian city of Omsk in a very cold winter. They are being chased by wolves, so they decide to dump their kids one-by-one to get rid of wolves. Yet the plan doesn't work out and the end is anything but happy.
 
 Now, the challenge was to find the missing link between the song and this pointer. As far as I could conclude, the idea is that "lion is nowhere", i.e. the name of the city is commonly wrongly associated with "lion" ({{< fl "leeuw" >}}), though in fact it's derived from the old Frisian {{< fl "Lintarwde" >}} and later {{< fl "Liiewardensis" >}}.
 

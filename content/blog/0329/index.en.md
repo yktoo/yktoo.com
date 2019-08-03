@@ -4,7 +4,7 @@ title: "The biggest gadget: Toyota Prius PHV"
 tags: ["car", "gadgets", "Plug-In Hybrid", "Toyota Prius"]
 ---
 
-My most bulky gadget needed an upgrade. I've been a devoted [Toyota Prius][wiki:en:Toyota_Prius] fan ever since [my first leased car]({{< relref path="/blog/0028" lang="ru" >}}). Later I've owned another one, which [almost lost a wheel once]({{< relref path="/blog/0304" lang="ru" >}}). The latter turned eight years old last March so I've decided to trade it for something more modern.
+My most bulky gadget needed an upgrade. I've been a devoted {{< wiki "Toyota_Prius" "en" "Toyota Prius" >}} fan ever since [my first leased car]({{< relref path="/blog/0028" lang="ru" >}}). Later I've owned another one, which [almost lost a wheel once]({{< relref path="/blog/0304" lang="ru" >}}). The latter turned eight years old last March so I've decided to trade it for something more modern.
 
 <!--more-->
 
@@ -34,7 +34,7 @@ And I'll start off with its most intriguing feature, the hybrid engine. The **PH
 
 My old, previous generation Prius, had a small nickel-metal hydride battery, and could only drive 1.5 to 3 km in the EV (electric vehicle) mode.
 
-A *plug-in hybrid*'s battery can be recharged from a regular mains outlet. My Prius has a lithium-ion battery with the capacity of **4.4 kW⋅h**. Of course it's very little in comparison to, say, [Tesla Model S][wiki:en:Tesla_Model_S] with its huge battery of 70-90 kW⋅h. A fully charged *Prius PHV* has the range of about **18-20 km** in the fully electric mode. On the one hand it isn't much. On the other, it's enough to buy your groceries or go for shopping to a nearby town. The *EV* mode can be turned on and of with a special button. However, if the battery is depleted or the gas pedal is pushed sharply, the EV mode will be cancelled. It also gets suspended as soon as the car reaches the speed of **90 km/h**.
+A *plug-in hybrid*'s battery can be recharged from a regular mains outlet. My Prius has a lithium-ion battery with the capacity of **4.4 kW⋅h**. Of course it's very little in comparison to, say, {{< wiki "Tesla_Model_S" "en" "Tesla Model S" >}} with its huge battery of 70-90 kW⋅h. A fully charged *Prius PHV* has the range of about **18-20 km** in the fully electric mode. On the one hand it isn't much. On the other, it's enough to buy your groceries or go for shopping to a nearby town. The *EV* mode can be turned on and of with a special button. However, if the battery is depleted or the gas pedal is pushed sharply, the EV mode will be cancelled. It also gets suspended as soon as the car reaches the speed of **90 km/h**.
 
 Toyota has decided to stash this larger battery in the boot, and that left no room for the spare wheel. I can only hope I won't need it.
 {{< imgfig "https://2.bp.blogspot.com/-daJva3GhoYY/WUdkliiWcCI/AAAAAAAAqIk/89E4uwXOCOsIDf43CBnXyePql1StJnoegCKgBGAs/s1600/20170530_191011.picasaweb.jpg" "The boot of Prius PHV." >}}
@@ -94,11 +94,11 @@ And should your electronic key malfunction, there's a conventional mechanical ke
 
 In Prius 2009 you could only use *Bluetooth* to make phone calls or transfer your phone's contacts. This one also has profiles for playing audio and data exchange. Which means, you can finally play music from your phone via the car's audio system. The data profile is used for address search in the Internet.
 
-This model has also got the digital [DAB+][wiki:en:Digital_audio_broadcasting] radio as an addition to usual *AM* and *FM* channels, so I can listen to BBC at last! The sound quality in DAB+ is awesome, but the reception is not always flawless.
+This model has also got the digital {{< wiki "Digital_audio_broadcasting" "en" "DAB+" >}} radio as an addition to usual *AM* and *FM* channels, so I can listen to BBC at last! The sound quality in DAB+ is awesome, but the reception is not always flawless.
 
 The GPS navigation has been notably updated as compared to my old car, which missed all the updates over the last 8 years. This one is much more up-to-date, however I still run into some discrepancies every now and then. As improvements I can mention the speed limit display and "breadcrumbs," dots marking the route you've recently driven.
 
-My version is also equipped with [TMC][wiki:en:Traffic_message_channel], which is a digital radio system that is constantly receiving traffic information such as jams and roadworks. The navigation unit can also take this data into account, but I tend to not use it because the routes it suggests are usually complete nonsense.
+My version is also equipped with {{< wiki "Traffic_message_channel" "en" "TMC" >}}, which is a digital radio system that is constantly receiving traffic information such as jams and roadworks. The navigation unit can also take this data into account, but I tend to not use it because the routes it suggests are usually complete nonsense.
 
 ## Data recording {#data-collection}
 

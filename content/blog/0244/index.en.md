@@ -34,11 +34,11 @@ Not that it's a lot, but nowadays HDMI is most common, and there are four of the
 
 If you happen to have four hundred euros you don't need, you can spend it on the above-mentioned **One Connect Box**. In this case all the devices can be connected via the box, which in turn connected to the TV with a single cable (more on this in the next part, [Accesories]({{< relref "/blog/0245" >}})).
 
-Of all these AV inputs I only used HDMI. This device doesn't support the new *HDMI with Ethernet* standard, so you'll have to hook it up to Ethernet (100 Mbps) with a separate cable. On the good side, it does have support for *Anynet+* (also known as [HDMI-CEC][wiki:en:HDMI]), which is a protocol allowing controlling other devices via HDMI.
+Of all these AV inputs I only used HDMI. This device doesn't support the new *HDMI with Ethernet* standard, so you'll have to hook it up to Ethernet (100 Mbps) with a separate cable. On the good side, it does have support for *Anynet+* (also known as {{< wiki "HDMI" "en" "HDMI-CEC" >}}), which is a protocol allowing controlling other devices via HDMI.
 
 The TV has two analogue and two digital tuners (!), but I couldn't make use of any of these. Analogue terrestrial television is long time gone here in Holland, although some providers are still delivering it through the cable. There is digital terrestrial television (DVB-T), but it's only three state channels and a few regional ones. They are all available in my cable subscription in a better quality (full HD).
 
-There is also a satellite decoder, and the TV even supports dish positioning systems [DiSEqC 1.2][wiki:en:DiSEqC] and [USALS][wiki:en:Universal_Satellites_Automatic_Location_System].
+There is also a satellite decoder, and the TV even supports dish positioning systems {{< wiki "DiSEqC" "en" "DiSEqC 1.2" >}} and {{< wiki "Universal_Satellites_Automatic_Location_System" "en" "USALS" >}}.
 
 ## Remote controls {#remotes}
 

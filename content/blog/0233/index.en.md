@@ -16,7 +16,7 @@ They have downsides, too—a high price (which can hardly be addressed) and a li
 
 ## 1. Use ext4 {#step-1}
 
-The [ext4][wiki:en:Ext4] filesystem is the most mature and common in Linux world. Use it unless you have a strong reason not to.
+The {{< wiki "Ext4" "en" "ext4" >}} filesystem is the most mature and common in Linux world. Use it unless you have a strong reason not to.
 
 ## 2. Enough RAM {#step-2}
 
@@ -30,7 +30,7 @@ I recommend to have at least 8 GB of RAM, 16 is even better.
 
 ## 3. High SSD capacity {#step-3}
 
-If your drive is almost full, the system can experience big difficulties with allocating a free page. This leads to [write amplification][wiki:en:Write_amplification] and can negatively impact SSD lifetime.
+If your drive is almost full, the system can experience big difficulties with allocating a free page. This leads to {{< wiki "Write_amplification" "en" "write amplification" >}} and can negatively impact SSD lifetime.
 
 ## 4. SSD mount options {#step-4}
 
@@ -50,7 +50,7 @@ The changes become effective after a reboot.
 
 ## 5. Weekly TRIM {#step-5}
 
-The [TRIM][wiki:en:Trim_(computing)] command helps the SSD to recycle discarded data. Ubuntu is shipped with a weekly scheduled TRIM out-of-the-box (using `/etc/cron.weekly/fstrim`). If you use another distro, make sure you have something like this.
+The {{< wiki "Trim_(computing)" "en" "TRIM" >}} command helps the SSD to recycle discarded data. Ubuntu is shipped with a weekly scheduled TRIM out-of-the-box (using `/etc/cron.weekly/fstrim`). If you use another distro, make sure you have something like this.
 
 ## 6. RAM disk for temporary files {#step-6}
 

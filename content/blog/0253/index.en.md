@@ -6,7 +6,7 @@ tags: ["aeroplanes", "Diamond DA40", "Germany", "Lelystad", "Netherlands", "Nord
 
 Summertime is the high time for [flying]({{< relref path="/blog/0038" lang="ru" >}}).
 
-One of my colleagues has got a [Private Pilot Licence][wiki:en:Private_pilot_licence] ({{< fl "PPL" >}}) and his own share of a light aircraft [Diamond Star DA40-TDI][wiki:en:Diamond_DA40]. Which he offered us to fly.
+One of my colleagues has got a {{< wiki "Private_pilot_licence" "en" "Private Pilot Licence" >}} ({{< fl "PPL" >}}) and his own share of a light aircraft {{< wiki "Diamond_DA40" "en" "Diamond Star DA40-TDI" >}}. Which he offered us to fly.
 {{< imgfig "https://3.bp.blogspot.com/-A71m34_NFRk/Vat7yNaJekI/AAAAAAAAj0c/eRczmg86rZc/s1600/dsc09693.picasaweb.jpg" "Diamond DA40-TDI Diamond Star." >}}
 
 It's been my first, but hopefully not last, experience with this type of aircraft.
@@ -32,7 +32,7 @@ Here are some technical specs of the plane to give you an impression of what it'
 
 Private aviation is quite an expensive hobby. That's why my colleague shares this DA40 (built in 2008, i.e. seven years old now) with nine other people. So each of the ten has paid a 20,000 euros share to make up for the total price of two hundred thousand.
 
-The aircraft identified as {{< fl "PH-PCA" >}} is dwelling at a small airport near the town of [Lelystad][wiki:en:Lelystad] in the northern part of the Netherlands.
+The aircraft identified as {{< fl "PH-PCA" >}} is dwelling at a small airport near the town of {{< wiki "Lelystad" "en" "Lelystad" >}} in the northern part of the Netherlands.
 
 The first strange thing you notice is the hangar, which is full of planes, is wide open on the runway side:
 {{< imgfig "https://3.bp.blogspot.com/-gDHgtyYbrGY/Vat7nqnu2BI/AAAAAAAAkBM/WHsO27CxRpM/s1600/dsc09647.picasaweb.jpg" "Another Diamond DA40." >}}
@@ -72,7 +72,7 @@ The noise the engine is producing is deafening, therefore the crew uses special 
 Once the check-list is clear, the pilot requests a permission to take off and steers the aircraft onto the runway.
 {{< imgfig "https://2.bp.blogspot.com/-PPMm8Ruy2L0/Vat7t6xfMYI/AAAAAAAAjzY/cxO57x-76tQ/s1600/dsc09675.picasaweb.jpg" "Heading for the runway." >}}
 
-Meanwhile, a private jet [Embraer Phenom 100][wiki:en:Embraer_Phenom_100] arrives at the runway. It's kind of pricey, a new one costs some four million euros:
+Meanwhile, a private jet {{< wiki "Embraer_Phenom_100" "en" "Embraer Phenom 100" >}} arrives at the runway. It's kind of pricey, a new one costs some four million euros:
 {{< imgfig "https://4.bp.blogspot.com/-2uwa5lKKmAk/Vat71UNRk-I/AAAAAAAAj1s/vJIxpOQRd54/s1600/dsc09713.picasaweb.jpg" "Embraer Phenom 100." >}}
 
 We're taking off and then flying! The cockpit has a funny little door, but don't stick your hand through it, at the speed of 300 km/h it can give you a very unpleasant experience.
@@ -86,7 +86,7 @@ From the front seats the dashboard obscures the most view forward. All you can d
 The lowest allowed altitude here is some 200 ft (60 m). Below that mark you risk hitting something, like a wind turbine.
 {{< imgfig "https://1.bp.blogspot.com/-hMJXS9cgn8M/Vat7vl6tuuI/AAAAAAAAjz4/aNvHUM4D3CY/s1600/dsc09683.picasaweb.jpg" "Wind-farm." >}}
 
-We're heading east, our pilot wants to land in [Nordhorn, Germany][wiki:en:Nordhorn] and have a dinner in a restaurant there.
+We're heading east, our pilot wants to land in {{< wiki "Nordhorn" "en" "Nordhorn, Germany" >}} and have a dinner in a restaurant there.
 {{< imgfig "https://3.bp.blogspot.com/-u1D5qpj4qHg/Vat7v4DkHXI/AAAAAAAAkBM/ZWnsUMEhc7E/s1600/dsc09684.picasaweb.jpg" "Heading east." >}}
 
 The distance to Nordhorn is some 100 km, which means a half an hour flight.
@@ -130,7 +130,7 @@ On our way back I was sitting in the back seat, which gives much more legroom an
 {{< imgfig "https://2.bp.blogspot.com/-BsEtupptarg/Vat7zVu6UJI/AAAAAAAAj1E/MOAmKGTA_Og/s1600/dsc09698.picasaweb.jpg" "Holland from above." >}}
 {{< imgfig "https://2.bp.blogspot.com/-rdKbVR3Sksw/Vat7zpZM6mI/AAAAAAAAj1M/PhfesHco27Y/s1600/dsc09699.picasaweb.jpg" "Holland from above." >}}
 
-Passing Apeldoorn and the [Het Loo Palace][wiki:en:Het_Loo_Palace] below, famous for its garden:
+Passing Apeldoorn and the {{< wiki "Het_Loo_Palace" "en" "Het Loo Palace" >}} below, famous for its garden:
 {{< imgfig "https://1.bp.blogspot.com/-yi4fzSp3GJE/Vat7zzVJ4nI/AAAAAAAAj1w/c5CMq2fYD7s/s1600/dsc09704.picasaweb.jpg" "The Het Loo Palace." >}}
 
 Amersfoort Central Station (top left corner):

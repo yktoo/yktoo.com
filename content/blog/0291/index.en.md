@@ -30,7 +30,7 @@ I've been able to pay a bit more attention to the [Sound Switcher Indicator][rou
 
 ## The configuration file {#config-file}
 
-The configuration file, by default `~/.config/indicator-sound-switcher.json`, must be in the [JSON][wiki:en:JSON] format. The file is optional, and so are all its values.
+The configuration file, by default `~/.config/indicator-sound-switcher.json`, must be in the {{< wiki "JSON" "en" "JSON" >}} format. The file is optional, and so are all its values.
 
 Here's a sample config taken from the [README](https://github.com/yktoo/indicator-sound-switcher/blob/master/README.md):
 

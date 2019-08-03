@@ -4,7 +4,7 @@ title: "David Maxim Micic, Disperse, Plini at Patronaat"
 tags: ["David Maxim Micic", "Disperse", "music", "Patronaat", "Plini", "progressive metal"]
 ---
 
-It was the second time that the surprisingly talented young Australian guitarist [Plini][wiki:en:Plini] has visited us here. In the show last year, which I didn't get to post about, he was supporting the djent stars [Animals as Leaders][wiki:en:Animals_as_Leaders].
+It was the second time that the surprisingly talented young Australian guitarist {{< wiki "Plini" "en" "Plini" >}} has visited us here. In the show last year, which I didn't get to post about, he was supporting the djent stars {{< wiki "Animals_as_Leaders" "en" "Animals as Leaders" >}}.
 
 This time he was himself the headliner, and his support acts were [David Maxim Micic](https://www.facebook.com/davidmaximmicicmusic/) and [Disperse](https://www.facebook.com/disperseofficial/).
 
@@ -44,7 +44,7 @@ On a side note, music of this kind is a bit too complex to absorb on a live show
 
 ## Plini {#plini}
 
-The last—but not least—act were [Plini][wiki:en:Plini] (24) from the sunny Australia joined by his compatriots **Simon Grove** (played earlier with David), drummer [Troy Wright](https://www.wrightdrums.com/) and guitarist **Jake Howsam Lowe**—whom Plini dubbed "Christ".
+The last—but not least—act were {{< wiki "Plini" "en" "Plini" >}} (24) from the sunny Australia joined by his compatriots **Simon Grove** (played earlier with David), drummer [Troy Wright](https://www.wrightdrums.com/) and guitarist **Jake Howsam Lowe**—whom Plini dubbed "Christ".
 {{< imgfig "https://3.bp.blogspot.com/-4ql-Zp3-APE/WNgDhZQK7-I/AAAAAAAApp8/W-4pPcq2MEU9OeNdFGRXA-JLe8_iTxsEgCPcB/s1600/dsc04094.picasaweb.jpg" "Plini." >}}
 {{< imgfig "https://3.bp.blogspot.com/-5Yx5pym4z60/WNgDhaX0JDI/AAAAAAAApp8/JIGonVuGKbwHndU315nQv88bZEmcRM_jwCPcB/s1600/dsc04091.picasaweb.jpg" "Jake Howsam Lowe." >}}
 

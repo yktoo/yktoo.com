@@ -8,7 +8,7 @@ It cost me quite an effort to make myself migrate my website to Yii 2.
 
 And now, after about one and a half months of evening work (with breaks for workouts, birthday celebrations, recovering from insomnia and things like that) I can proudly present **yktoo.com version 2.0**.
 
-The website has been built on [Yii framework 2.0](http://www.yiiframework.com/) and [Bootstrap 3](http://getbootstrap.com/), with a handful of extensions. Thanks to Bootstrap the website is built on the principles of [responsive web design][wiki:en:Responsive_web_design]. This should make the pages look reasonably well on a broad range of devices, from mobile phones to desktops.
+The website has been built on [Yii framework 2.0](http://www.yiiframework.com/) and [Bootstrap 3](http://getbootstrap.com/), with a handful of extensions. Thanks to Bootstrap the website is built on the principles of {{< wiki "Responsive_web_design" "en" "responsive web design" >}}. This should make the pages look reasonably well on a broad range of devices, from mobile phones to desktops.
 
 The structure of the website has also been revisited: the blog feed is now right on the [home page][route:/site/index], and other sections have been moved around too. Due to that your RSS reader might show the last posts once again, sorry for that.
 

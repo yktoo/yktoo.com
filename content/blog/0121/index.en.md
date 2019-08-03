@@ -12,7 +12,7 @@ Ryan Tate wrote a lengthy article [What Everyone Is Too Polite to Say About Stev
 
 > In the days after Steve Jobs' death, friends and colleagues have, in customary fashion, been sharing their fondest memories of the Apple co-founder. He's been hailed as "a genius" and "the greatest CEO of his generation" by pundits and tech journalists. But a great man's reputation can withstand a full accounting. And, truth be told, Jobs could be terrible to people, and his impact on the world was not uniformly positive.
 
-[Richard Stallman][wiki:en:Richard_Stallman], a software freedom activist and the Free Software Foundation founder, famous for his unorthodox views on many things, was [even more severe](http://stallman.org/archives/2011-jul-oct.html#06_October_2011_%28Steve_Jobs%29):
+{{< wiki "Richard_Stallman" "en" "Richard Stallman" >}}, a software freedom activist and the Free Software Foundation founder, famous for his unorthodox views on many things, was [even more severe](http://stallman.org/archives/2011-jul-oct.html#06_October_2011_%28Steve_Jobs%29):
 
 > Steve Jobs, the pioneer of the computer as a jail made cool, designed to sever fools from their freedom, has died.
 >

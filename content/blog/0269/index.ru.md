@@ -4,7 +4,7 @@ title: "A Winter Evening with Stream of Passion — 2015"
 tags: ["Anneke van Giersbergen", "Dianne van Giersbergen", "Lisette van den Berg", "Marcela Bovio", "Merijn van Haren", "Navarone", "progressive metal", "Stream of Passion", "Tivoli de Helling", "Xandria", "музыка", "Нидерланды", "Утрехт"]
 ---
 
-Если вы думаете, что я слишком часто удостаиваю вниманием [Stream of Passion][wiki:ru:Stream_of_Passion], сообщу вам, что видел на концерте живого *всё ещё* человека, для которого концерт этот был по счёту 94-м (прописью: *девяносто четвёртым*)! Ну а кроме того, билет стоил жалкие **€14**, так что не пойти было бы глупо.
+Если вы думаете, что я слишком часто удостаиваю вниманием {{< wiki "Stream_of_Passion" "ru" "Stream of Passion" >}}, сообщу вам, что видел на концерте живого *всё ещё* человека, для которого концерт этот был по счёту 94-м (прописью: *девяносто четвёртым*)! Ну а кроме того, билет стоил жалкие **€14**, так что не пойти было бы глупо.
 
 <!--more-->
 
@@ -18,7 +18,7 @@ tags: ["Anneke van Giersbergen", "Dianne van Giersbergen", "Lisette van den Berg
 * {{< fl "Dianne van Giersbergen" >}} (Xandria)
 * {{< fl "Merijn van Haren" >}} (Navarone)
 
-Вопреки распространённому мнению, [Аннеке][wiki:ru:Гирсберген,_Аннеке_ван] и [Дианне][wiki:en:Dianne_van_Giersbergen] просто однофамильцы и не состоят в родстве друг с другом. И нет, я не знаю, как они оказались на одной сцене. Может быть, у Марселы алфавитный список кандитатов на участие?
+Вопреки распространённому мнению, {{< wiki "Гирсберген,_Аннеке_ван" "ru" "Аннеке" >}} и {{< wiki "Dianne_van_Giersbergen" "en" "Дианне" >}} просто однофамильцы и не состоят в родстве друг с другом. И нет, я не знаю, как они оказались на одной сцене. Может быть, у Марселы алфавитный список кандитатов на участие?
 
 И в зале, и на сцене все были в предновогоднем настроении. Марсела в легкомысленной юбочке хихикала, дурачилась и спрашивала у всех, что у них было на рождественский ужин.
 {{< imgfig "https://3.bp.blogspot.com/-kFE4iGm4Wso/VofESjg6WmI/AAAAAAAAlDU/oQWiUtYrckk/s1600/dsc01540.picasaweb.jpg" "Marcela Bovio." >}}
@@ -31,7 +31,7 @@ tags: ["Anneke van Giersbergen", "Dianne van Giersbergen", "Lisette van den Berg
 Ритм-гитарист Эрик Хазебрук, вновь с гитарой-обрубком, но количество струн с [последнего раза]({{< relref "/blog/0250" >}}) выросло до восьми.
 {{< imgfig "https://1.bp.blogspot.com/-YxAaGjkUZ24/VofESjkSKgI/AAAAAAAAlDU/erAg2uUtwAg/s1600/dsc01519.picasaweb.jpg" "Eric Hazebroek." >}}
 
-Марсела Бовио и Дианне ван Гирсберген исполняют {{< fl "Abends Will Ich Schlafen Gehn" >}} из оперы [«Гензель и Гретель»][wiki:ru:Гензель_и_Гретель_(опера)] под аккомпанемент гитариста {{< fl "SoP" >}} Стефана Шульца. Точнее, должны исполнять, но Марсела вместо этого спрашивает Стефана, что он ел на ужин:
+Марсела Бовио и Дианне ван Гирсберген исполняют {{< fl "Abends Will Ich Schlafen Gehn" >}} из оперы {{< wiki "Гензель_и_Гретель_(опера)" "ru" "«Гензель и Гретель»" >}} под аккомпанемент гитариста {{< fl "SoP" >}} Стефана Шульца. Точнее, должны исполнять, но Марсела вместо этого спрашивает Стефана, что он ел на ужин:
 {{< imgfig "https://1.bp.blogspot.com/-raP71ogtgZA/VofESlX0gvI/AAAAAAAAlDU/j4y8CT8AiPA/s1600/dsc01587.picasaweb.jpg" "Dianne van Giersbergen, Stephan Schultz, Marcela Bovio." >}}
 
 Ещё она, как обычно, сыграла пару нот на скрипке:
@@ -52,13 +52,13 @@ tags: ["Anneke van Giersbergen", "Dianne van Giersbergen", "Lisette van den Berg
 {{< fl "Deceiver" >}} с Лизеттой ван ден Берг ({{< fl "Lisette van den Berg" >}}) из [Scarlet Stories](http://www.scarletstories.nl/):
 {{< youtube "NvVrwayKxR0" >}}
 
-{{< fl "Earthquake" >}} с Дианне ван Гирсберген ({{< fl "Dianne van Giersbergen" >}}) из группы [Xandria][wiki:ru:Xandria]:
+{{< fl "Earthquake" >}} с Дианне ван Гирсберген ({{< fl "Dianne van Giersbergen" >}}) из группы {{< wiki "Xandria" "ru" "Xandria" >}}:
 {{< youtube "B9AfL2zEilM" >}}
 
-{{< fl "In Motion #1" >}} из репертуара [The Gathering][wiki:ru:The_Gathering] — тут, конечно, не могло обойтись без Аннеке ван Гирсберген:
+{{< fl "In Motion #1" >}} из репертуара {{< wiki "The_Gathering" "ru" "The Gathering" >}} — тут, конечно, не могло обойтись без Аннеке ван Гирсберген:
 {{< youtube "NuJB7s3D4kM" >}}
 
-{{< fl "Lost" >}} с Мерайном ван Хареном ({{< fl "Merijn van Haren" >}}) из [Navarone][wiki:en:Navarone_(band)]:
+{{< fl "Lost" >}} с Мерайном ван Хареном ({{< fl "Merijn van Haren" >}}) из {{< wiki "Navarone_(band)" "en" "Navarone" >}}:
 {{< youtube "XnnqeJxbiJI" >}}
 
 Очень удачный кавер песни {{< fl "Queen" >}} — {{< fl "Show Must Go On" >}} с ними же:

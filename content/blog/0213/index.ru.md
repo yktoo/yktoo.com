@@ -33,7 +33,7 @@ Graslei:
 Гентская колокольня (нидерл. {{< fl "Belfort" >}}, англ. {{< fl "Belfry" >}}):
 {{< imgfig "https://3.bp.blogspot.com/-nahV6v9sOMU/UtWFMAec42I/AAAAAAAAboo/a1KKFGgW78A/s1600/dsc02790.picasaweb.jpg" >}}
 
-Церковь Богоматери и Святого Петра ([Sint-Pietersabdij](http://www.sintpietersabdijgent.be/), [Вики][wiki:ru:Церковь_Богоматери_и_Святого_Петра_(Гент)]):
+Церковь Богоматери и Святого Петра ([Sint-Pietersabdij](http://www.sintpietersabdijgent.be/), {{< wiki "Церковь_Богоматери_и_Святого_Петра_(Гент)" "ru" "Вики" >}}):
 {{< imgfig "https://2.bp.blogspot.com/-msBtFv1nRWQ/UtWFjjrLVhI/AAAAAAAAbw4/BREFEu43ttg/s1600/dsc02932.picasaweb.jpg" >}}
 
 [Следующая часть]({{< relref "/blog/0214" >}}) будет посвящена легальному городскому граффити.

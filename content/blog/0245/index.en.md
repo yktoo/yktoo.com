@@ -38,7 +38,7 @@ A bizarre device named *One Connect Box* or *UHD Evolution Kit*, model [SEK-2500
 
 {{< imgfig "https://1.bp.blogspot.com/-Stoatsq183o/VQx5RMfV5BI/AAAAAAAAhS0/W7MaYipO_WE/s1600/Samsung-OneConnectBox.picasaweb.jpg" "Samsung SEK-2500U UHD Evolution Kit, front view." >}}
 
-In addition to the same [connectors already available]({{< relref "/blog/0244" >}}) on the TV, the Evolution Kit supports HDMI 2.0, [HDCP][wiki:en:High-bandwidth_Digital_Content_Protection] 2.2 (Intel's version of DRM technology), the [MHL][wiki:en:Mobile_High-Definition_Link] 3.0 mobile AV interface and the H.265 codec (a.k.a. HEVC, which is already [available]({{< relref "/blog/0247" >}}) in this TV).
+In addition to the same [connectors already available]({{< relref "/blog/0244" >}}) on the TV, the Evolution Kit supports HDMI 2.0, {{< wiki "High-bandwidth_Digital_Content_Protection" "en" "HDCP" >}} 2.2 (Intel's version of DRM technology), the {{< wiki "Mobile_High-Definition_Link" "en" "MHL" >}} 3.0 mobile AV interface and the H.265 codec (a.k.a. HEVC, which is already [available]({{< relref "/blog/0247" >}}) in this TV).
 
 {{< imgfig "https://2.bp.blogspot.com/-B3P606ktdZ4/VQx5QpGroqI/AAAAAAAAhSs/JHlE8tP87DY/s1600/Samsung-OneConnectBox-2.picasaweb.jpg" "Samsung SEK-2500U UHD Evolution Kit, rear view." >}}
 

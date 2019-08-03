@@ -6,7 +6,7 @@ tags: ["De Bosuil", "Marcel Coenen", "Marcel Coenen  Friends", "music", "Paul Vi
 
 I've finally nerved myself to tell you about a sad development for prog lovers.
 
-I first learned about the Dutch prog band *Sun Caged* when I came to Holland back in 2008. Shortly after I've even seen them playing on [Walhalla]({{< relref path="/blog/0022" lang="ru" >}}). I must say I was impressed. But three years later, in 2011, the band has released [The Lotus Effect][wiki:en:The_Lotus_Effect] (which also happened to be their last album), I was totally blown away as this was absolutely a masterpiece of progressive metal. I can't even explain why, but I deem this album one of the best rock works ever, and I seem to be able to listen to it endlessly.
+I first learned about the Dutch prog band *Sun Caged* when I came to Holland back in 2008. Shortly after I've even seen them playing on [Walhalla]({{< relref path="/blog/0022" lang="ru" >}}). I must say I was impressed. But three years later, in 2011, the band has released {{< wiki "The_Lotus_Effect" "en" "The Lotus Effect" >}} (which also happened to be their last album), I was totally blown away as this was absolutely a masterpiece of progressive metal. I can't even explain why, but I deem this album one of the best rock works ever, and I seem to be able to listen to it endlessly.
 
 <!--more-->
 
@@ -31,7 +31,7 @@ Another important point is that he also wrote all the lyrics, and it is impressi
 > <br>
 > (Hallucinated protection, Natural Parasol, save us all from despair)<br>
 
-So on May 20, 2016 *Sun Caged* has hit the stage for the last time. The gig was [held](http://www.debosuil.nl/Definition/Details/586965/588540/9197_sun-caged-farewell-show.aspx) in the club [De Bosuil](http://www.debosuil.nl/), situated in the Dutch town of [Weert][wiki:en:Weert].
+So on May 20, 2016 *Sun Caged* has hit the stage for the last time. The gig was [held](http://www.debosuil.nl/Definition/Details/586965/588540/9197_sun-caged-farewell-show.aspx) in the club [De Bosuil](http://www.debosuil.nl/), situated in the Dutch town of {{< wiki "Weert" "en" "Weert" >}}.
 
 The club was pretty small, and so was the audience. I'd say fifty people at most.
 {{< imgfig "https://4.bp.blogspot.com/-Zvv31vD_yDg/V1RAFizgr4I/AAAAAAAAmVw/EySxsG8VjAIia2_unOTSJPVkZMG4cST4QCKgB/s1600/dsc02330.picasaweb.jpg" "Audience." >}}
@@ -100,7 +100,7 @@ Daniel was also virtually present on Skype:
 Bass tracks by *Sun Caged* are darn sophisticated at times, there's also a number of solo spots. Considering the short lead time, Arnold-Dimitry did a fantastic job; however for me, knowing it all down to a single note, it was sometimes pretty far from the original.
 {{< imgfig "https://1.bp.blogspot.com/-KLU20IZcrSg/V1RAFmu78TI/AAAAAAAAmVw/QxOGQUIhMrwHhjV4qSEiowzGGD2JuAVoQCKgB/s1600/dsc02392.picasaweb.jpg" "Marcel Coenen and Arnold-Dimitry Rerimassie." >}}
 
-In another [interview](http://ytsejam.com/2011/06/interview-with-paul-adrian-villarreal-marcel-coenen-sun-caged/) recorded shortly after the release of [The Lotus Effect][wiki:en:The_Lotus_Effect], Paul explains that the whole album was composed in the rehearsal room and by all members. Also *Engelbert the Inchworm* and *Departing Words* from the previous album [Artemisia][wiki:en:Artemisia_(album)] were conceived in that way. Having read that, I was surprised as exactly those I deemed their best works.
+In another [interview](http://ytsejam.com/2011/06/interview-with-paul-adrian-villarreal-marcel-coenen-sun-caged/) recorded shortly after the release of {{< wiki "The_Lotus_Effect" "en" "The Lotus Effect" >}}, Paul explains that the whole album was composed in the rehearsal room and by all members. Also *Engelbert the Inchworm* and *Departing Words* from the previous album {{< wiki "Artemisia_(album)" "en" "Artemisia" >}} were conceived in that way. Having read that, I was surprised as exactly those I deemed their best works.
 {{< imgfig "https://1.bp.blogspot.com/-W75YkI0JHYY/V1RAFi8V0LI/AAAAAAAAmVw/hBOGd9NQLyw0e5WCx9vA14entnUKrBmywCKgB/s1600/dsc02360.picasaweb.jpg" "Paul Adrian Villarreal." >}}
 
 Back to the gig, the band has played tracks from all three albums, starting with *Sun Caged* from the same-named one:
@@ -118,7 +118,7 @@ And, at last, my favourites, *The Lotus Effect*. *Shades of Hades*:
 The track *Ashes to Earn* is linked to a funny incident. Once the album was out, many websites got its name wrong: *Ashes to Ear*. In fact, its name accounts for the similarity of *earn* and *urn* (and definitely not *ear*).
 {{< youtube "IUEwz8j6vOY" >}}
 
-But the biggest hit was the already mentioned *Departing Words*, featuring *PV Bhaskar* on [mridangam][wiki:en:Mridangam] and *Barend Tromp* on [sitar][wiki:en:Sitar]. Seeing is believing so please enjoy:
+But the biggest hit was the already mentioned *Departing Words*, featuring *PV Bhaskar* on {{< wiki "Mridangam" "en" "mridangam" >}} and *Barend Tromp* on {{< wiki "Sitar" "en" "sitar" >}}. Seeing is believing so please enjoy:
 {{< youtube "0LM_u3quaZs" >}}
 
 For encore the band has played the 24 minute long *Ashtamangala*, but unfortunately my camera ran out of juice by then. We'll see it on a DVD anyway.

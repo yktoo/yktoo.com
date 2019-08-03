@@ -6,7 +6,7 @@ tags: ["Apple", "DIY", "gadgets", "geek porn", "hardware", "iMac", "Samsung", "S
 
 It's been exactly four delightful years when the HDD in my [iMac 27"]({{< relref "/blog/0120" >}}) informed me it couldn't take it any longer. "Disk I/O error", it said.
 
-At that moment I already had plans to upgrade it with an SSD ([solid-state drive][wiki:en:Solid-state_drive]). Those are much snappier and completely silent since there are no moving parts inside.
+At that moment I already had plans to upgrade it with an SSD ({{< wiki "Solid-state_drive" "en" "solid-state drive" >}}). Those are much snappier and completely silent since there are no moving parts inside.
 
 <!--more-->
 
@@ -33,7 +33,7 @@ So here's the computer with the glass detached:
 
 ## 2. Remove the display module
 
-The display module is fixed by eight [Torx][wiki:en:Torx] T10 screws, so make sure you have an appropriate screwdriver.
+The display module is fixed by eight {{< wiki "Torx" "en" "Torx" >}} T10 screws, so make sure you have an appropriate screwdriver.
 
 I'd recommend yet again to watch the above mentioned [video](http://www.youtube.com/watch?v=F8Li_bPDAow), to figure out what cables and connectors to unplug, and how. The extracted display is also to be stashed in a secure place, free from fingerprints and dust.
 

@@ -33,7 +33,7 @@ There was a total of [**1117** participants](http://evenementen.uitslagen.nl/201
 If you forget the wind, the day was very bright and fairly warm.
 {{< imgfig "https://2.bp.blogspot.com/-wwJLWBJF0mo/VwFy24lTDwI/AAAAAAAAlyM/7qyxv5kviD4cq8DPscBmtfAc_3FfIVm_w/s1600/20160328_141702.picasaweb.jpg" "Running with the crowd." >}}
 
-According to the [Wikipedia][wiki:en:Beaufort_scale], winds of 7 Beaufort cause waves up to 5.5 metres high. Luckily, not in this little pond as they would have washed us all away.
+According to the {{< wiki "Beaufort_scale" "en" "Wikipedia" >}}, winds of 7 Beaufort cause waves up to 5.5 metres high. Luckily, not in this little pond as they would have washed us all away.
 {{< imgfig "https://2.bp.blogspot.com/-72kmF251LS0/VwFy2wBMsYI/AAAAAAAAlyM/QwnSfpCIsyg0j2jEobnK1TTcWz889-7EQ/s1600/20160328_141704.picasaweb.jpg" "Photographed on the run." >}}
 
 It becomes much easier to run once the runners spread along the road. As always, lots of spectators watched at the roadside and gave the runners pep-talk. Once a woman shouted {{< fl "\"Kom op Dmitry, doorzetten!\"" >}} ("Come on Dmitry, press ahead!"). I stared at her in a momentary astonishment, trying to remember who she was, until I realised I had my name printed on the number.

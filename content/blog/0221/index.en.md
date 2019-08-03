@@ -23,7 +23,7 @@ Why Houten? I'll explain this in one of next posts, please let me now introduce 
 
 The butterfly shape is emphasised by the {{< fl "Rondweg" >}} ("Round Road"), which is corded across by {{< fl "De Koppeling" >}} ("The Link") at its narrowest spot.
 
-Houten is full of funny names. Like any other Dutch municipality, the town is divided into districts ({{< fl "wijken" >}}), which, in turn, are further split into smaller units—neighbourhoods ([buurten][wiki:nl:Wijken_en_buurten_in_Houten]):
+Houten is full of funny names. Like any other Dutch municipality, the town is divided into districts ({{< fl "wijken" >}}), which, in turn, are further split into smaller units—neighbourhoods ({{< wiki "Wijken_en_buurten_in_Houten" "nl" "buurten" >}}):
 {{< imgfig "https://3.bp.blogspot.com/-AUq5EqhIQbQ/U-8aa8rrcDI/AAAAAAAAdnQ/ifHKNKFGu4E/s1600/Houten-indeling.picasaweb.png" >}}
 
 These neighbourhoods are given names like {{< fl "Poorten" >}} ("Gates"), {{< fl "Hoeven" >}} ("Farmhouses"), {{< fl "Waters" >}} and so forth. The streets they contain also acquire the corresponding part in their names. So, for instance, Poorten has {{< fl "Vikingenpoort" >}} ("Vikings' Gates"), {{< fl "Friezenpoort" >}} ("Frisian Gates"), {{< fl "Keltenpoort" >}} ("Celtic Gates"). Waters has {{< fl "Dooiwater" >}} ("Thaw Water"), {{< fl "Geiserwater" >}} ("Geyser Water"), {{< fl "Mineraalwater" >}} ("Mineral Water") and simply {{< fl "Het Water" >}} ("The Water").

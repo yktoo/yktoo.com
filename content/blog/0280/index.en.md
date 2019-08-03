@@ -34,7 +34,7 @@ Once the strips are securely fixed, it's a good idea to test it with an external
 
 ## Powering it up {#powering}
 
-The main challenge that kept me from implementing this originated from the wish that the backlighting automatically goes on and off with the TV set. I've even bought a [solid-state relay][wiki:en:Solid-state_relay] from eBay, which I planned to use to switch the main power of the DC adapter. The control terminals would then be driven from the TV's USB (the SSR's control voltage can range 3 to 20 volts, so the 5 volts from the USB would suit perfectly).
+The main challenge that kept me from implementing this originated from the wish that the backlighting automatically goes on and off with the TV set. I've even bought a {{< wiki "Solid-state_relay" "en" "solid-state relay" >}} from eBay, which I planned to use to switch the main power of the DC adapter. The control terminals would then be driven from the TV's USB (the SSR's control voltage can range 3 to 20 volts, so the 5 volts from the USB would suit perfectly).
 
 But at a later moment I've got a crazy idea to power the strips directly from the TV's power supply. **12 volts** is a very common voltage with electronics, so I've decided to peek in the whopper's internals.
 

@@ -10,7 +10,7 @@ It's been five years since [DKLang Localization Package][route:/software/dklang/
 
 <!--more-->
 
-That is, until now. The past couple of years [Embarcadero](http://www.embarcadero.com/) (the current group behind Delphi) have been expanding Delphi to new platforms using a new framework, [FireMonkey][wiki:en:FireMonkey]. So now was the time to make a major update to DKLang. We've completely rewritten DKLang so that it now works on both 32 and 64 bit VCL projects and all current FireMonkey platforms (Win32, Win64, OSX, iOS and Android).
+That is, until now. The past couple of years [Embarcadero](http://www.embarcadero.com/) (the current group behind Delphi) have been expanding Delphi to new platforms using a new framework, {{< wiki "FireMonkey" "en" "FireMonkey" >}}. So now was the time to make a major update to DKLang. We've completely rewritten DKLang so that it now works on both 32 and 64 bit VCL projects and all current FireMonkey platforms (Win32, Win64, OSX, iOS and Android).
 {{< imgfig "https://1.bp.blogspot.com/-lQMvt4uzEB4/UqrhQFuH4-I/AAAAAAAAbAE/idD1wDQ5-8c/s1600/dklang-cross-platform.png" >}}
 
 As of version **DKLang 5.0** we're cross-platform, both desktop and mobile!

@@ -4,13 +4,13 @@ title: "Shodan: 11 years on the way"
 tags: ["aikido", "Amersfoort", "Joginder Singh", "Leiden", "Netherlands", "Peter van Lier", "Rudik Manukyan", "Russia", "sport", "Tyumen", "Woerden"]
 ---
 
-Last weekend, on March 19, 2016, the author of these lines has qualified for the first dan [Aikido Aikikai][wiki:en:Aikikai].
+Last weekend, on March 19, 2016, the author of these lines has qualified for the first dan {{< wiki "Aikikai" "en" "Aikido Aikikai" >}}.
 
 <!--more-->
 
 {{< imgfig "https://3.bp.blogspot.com/-su2SLLy8y3s/Vve2sT1Cj8I/AAAAAAAAlqw/58Ru9alavmM5fvCmk-owX3emVTso_UBaQ/s1600/20160319_195536.picasaweb.jpg" "The black belt." >}}
 
-Exactly 11 years ago I've entered the dojo of [Rudik Manukyan](http://aikido72.ru/2-uncategorised/30-rudik-manukyan) (in Russian), who had second dan Aikikai (the original branch of aikido stemming from its very [founder][wiki:en:Morihei_Ueshiba]) at that time. Thanks to his lead I've grown from naught to second kyū in three year's time, and [left for Holland]({{< relref "/blog/0001" >}}) shortly thereafter.
+Exactly 11 years ago I've entered the dojo of [Rudik Manukyan](http://aikido72.ru/2-uncategorised/30-rudik-manukyan) (in Russian), who had second dan Aikikai (the original branch of aikido stemming from its very {{< wiki "Morihei_Ueshiba" "en" "founder" >}}) at that time. Thanks to his lead I've grown from naught to second kyū in three year's time, and [left for Holland]({{< relref "/blog/0001" >}}) shortly thereafter.
 
 {{< imgfig "https://1.bp.blogspot.com/-cxjgigvBIlc/Vve99528yhI/AAAAAAAAlsc/kJsl2vX5nSs4fCnSa7pnXJESWmz2zZ2rA/s1600/rudik-manukyan.jpg" "Rudik Manukyan. Source: aikido72.ru." >}}
 
@@ -25,7 +25,7 @@ Aikido is a Japanese martial art that puts a heavy emphasis on self-development 
 
 Another reason to change school was our [move to Houten]({{< relref "/blog/0221" >}}), because travelling to and from Amersfoort took considerable time.
 
-So the third chapter of the story began in September 2015. I started training in the dojo [Aikido Groene Hart](http://www.aikidogroenehart.nl/) led by *Peter van Lier*. Peter gives lessons in the small town of [Woerden][wiki:en:Woerden], not so far away from Houten; his students also run a number of dojos in nearby towns.
+So the third chapter of the story began in September 2015. I started training in the dojo [Aikido Groene Hart](http://www.aikidogroenehart.nl/) led by *Peter van Lier*. Peter gives lessons in the small town of {{< wiki "Woerden" "en" "Woerden" >}}, not so far away from Houten; his students also run a number of dojos in nearby towns.
 {{< imgfig "https://4.bp.blogspot.com/-A7iJwlPj_RA/Vve998O5rGI/AAAAAAAAlsc/tqGyso5UcGsV9Yj8tWLTyZ2iZTPNNF8_g/s1600/peter-van-lier.jpg" "Peter van Lier. Source: aikidogroenehart.nl." >}}
 
 Surprisingly, Woerden, being three times smaller than Amersfoort (population 50 thousand vs. 150 thousand), has many more aikidōka. The dojo is also considerably larger.

@@ -4,7 +4,7 @@ title: "Riverside at De Boerderij"
 tags: ["De Boerderij", "music", "Netherlands", "progressive metal", "progressive rock", "Riverside", "Zoetermeer"]
 ---
 
-Another childhood's dream has come true! I've been following the Polish prog band [Riverside][wiki:en:Riverside_(band)] almost since its birth. Okay, I was in my twenties back then, so strictly speaking it wasn't childhood.
+Another childhood's dream has come true! I've been following the Polish prog band {{< wiki "Riverside_(band)" "en" "Riverside" >}} almost since its birth. Okay, I was in my twenties back then, so strictly speaking it wasn't childhood.
 
 <!--more-->
 <!--{{< imgfig "https://1.bp.blogspot.com/-msPpM_nMqx0/WTRdaD9ey2I/AAAAAAAAqFQ/UsebQnNd-tkdRVkUC9_YfI-h3di78dg-gCKgB/s1600/20170525_210732.picasaweb.jpg" >}}-->

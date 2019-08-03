@@ -34,17 +34,17 @@ The airplane was a bit shabby and old. Apparently Bulgaria Air isn't investing i
 
 ## Sofia airport {#sofia-airport}
 
-[Sofia][wiki:en:Sofia], the capital of Bulgaria and the largest Bulgarian city, has the population of some **1.4 millon** people. A curious fact: Bulgarians pronounce the name of the city stressing the first syllable: S**o**fia.
+{{< wiki "Sofia" "en" "Sofia" >}}, the capital of Bulgaria and the largest Bulgarian city, has the population of some **1.4 millon** people. A curious fact: Bulgarians pronounce the name of the city stressing the first syllable: S**o**fia.
 
 Sofia airport is located nearby the city and is surrounded by vast green landscape, with slopes bearing mysterious inscriptions. I wonder if they are some sort of letters to aliens, or simply dilapidated design elements.
 {{< imgfig "https://2.bp.blogspot.com/-MRt0x__RnpY/WQ3-d6FEKxI/AAAAAAAAp5Y/xvo5748XsGwTumHRw91Cv-CNBDVq2nnRQCPcB/s1600/dsc04861.picasaweb.jpg" "Airpot landscape inscriptions." >}}
 
-Once you step outside of the airport building, the view of the [Vitosha mountain][wiki:en:Vitosha] catches your eye. We're not really used to this in Holland.
+Once you step outside of the airport building, the view of the {{< wiki "Vitosha" "en" "Vitosha mountain" >}} catches your eye. We're not really used to this in Holland.
 {{< imgfig "https://4.bp.blogspot.com/-4-qLMow7dh4/WQ3-d9Q4s9I/AAAAAAAAp5g/I4DsH6SiGd4F4HY8VYh8gH3j0Mzr6GhkQCPcB/s1600/dsc04862.picasaweb.jpg" "Vitosha mountain." >}}
 
 ## Sofia subway {#sofia-metro}
 
-The transport connection between the airport and the city is great thanks to the direct subway line, which brings you to downtown Sofia in about half an hour. The tickets are very affordable: 1.60 [leva][wiki:en:Bulgarian_lev] (**€0.80**).
+The transport connection between the airport and the city is great thanks to the direct subway line, which brings you to downtown Sofia in about half an hour. The tickets are very affordable: 1.60 {{< wiki "Bulgarian_lev" "en" "leva" >}} (**€0.80**).
 {{< imgfig "https://3.bp.blogspot.com/-0PzGuHvPB-8/WQ3-d4DtVhI/AAAAAAAAp5Y/L47XsSgGRP4KgiLPkstnzII-zIxfZFwzQCPcB/s1600/dsc04863.picasaweb.jpg" "Sofia subway." >}}
 
 These trains look much like those you see in Russia, especially the inside. I found it a bit strange that both trains and platforms were as good as empty by that time of day—Monday afternoon.
@@ -55,7 +55,7 @@ A quick-and-dirty floor crack healing method:
 
 ## Bulgarian language {#language}
 
-The [Bulgarian language][wiki:en:Bulgarian_language] is hilarious for a Russian because most of the words either don't make any sense, or look like vandalised Russian. Feel free to skip this section if you can't read Russian (or Bulgarian).
+The {{< wiki "Bulgarian_language" "en" "Bulgarian language" >}} is hilarious for a Russian because most of the words either don't make any sense, or look like vandalised Russian. Feel free to skip this section if you can't read Russian (or Bulgarian).
 {{< imgfig "https://4.bp.blogspot.com/-yZppPKpGA5s/WQ3-d4Qr83I/AAAAAAAAp5Y/6dyg0dl_oIoGbyI8z1P-6xsTY-jR7hfsACPcB/s1600/dsc04893.picasaweb.jpg" "'Натисни.'" >}}
 {{< imgfig "https://1.bp.blogspot.com/-B3nTglaWVRI/WQ3-d_6JxJI/AAAAAAAAp5I/ptLIMvi5oJwdVeuf_W3nrrQR3nrej2a0ACPcB/s1600/20170427_104243.picasaweb.jpg" "'Погледни.'" >}}
 {{< imgfig "https://3.bp.blogspot.com/-uLhtIgJaj0A/WQ3-d_IXdEI/AAAAAAAAp5I/Cp2K8za5NPM1JhGFU07lA52t_9MTjJruwCPcB/s1600/dsc05128.picasaweb.jpg" "'Застраховки.'" >}}
@@ -86,7 +86,7 @@ For instance, homeless people and stray dogs.
 Sometimes you see Russian cars like these Nivas. What's the difference between {{< fl "Полиция" >}} (Police) and {{< fl "Жандармерия" >}} (Gendarmerie) anyway?
 {{< imgfig "https://3.bp.blogspot.com/-tw4KL338cwY/WQ3-d8eZYXI/AAAAAAAAp5Y/87isbDKbGl8NX47F4J_DkOL40_AZxtdvACPcB/s1600/dsc04898.picasaweb.jpg" "Gendarmes on Nivas." >}}
 
-This isn't Soviet, but still socialist: a monument to [Trabant][wiki:en:Trabant]:
+This isn't Soviet, but still socialist: a monument to {{< wiki "Trabant" "en" "Trabant" >}}:
 {{< imgfig "https://1.bp.blogspot.com/-MA4VVYKu8V8/WQ3-dzEbaCI/AAAAAAAAp5Q/9RdRaGoGvyMgrQ4rWu6JRxncgpH_S8WwQCPcB/s1600/dsc04983.picasaweb.jpg" "Trabant monument." >}}
 
 Souvenir stores often sell tacky Soviet- or Russia-related T-shirts.
@@ -112,7 +112,7 @@ The Church wasn't that enthusiastic about this statue though, considering her a 
 
 ## Serdica {#serdica}
 
-Back in the Roman years the city was called [Serdica][wiki:en:Serdica]. During the construction of the subway in the 20<sup>th</sup> century remnants of an antique settlement were uncovered in the city centre. The Bulgarians have thoroughly dug out and protected these remnants. Nowadays they are located a few metres below the street level, in an underground passage, and are open to anyone interested.
+Back in the Roman years the city was called {{< wiki "Serdica" "en" "Serdica" >}}. During the construction of the subway in the 20<sup>th</sup> century remnants of an antique settlement were uncovered in the city centre. The Bulgarians have thoroughly dug out and protected these remnants. Nowadays they are located a few metres below the street level, in an underground passage, and are open to anyone interested.
 
 They are well worth looking at.
 {{< imgfig "https://1.bp.blogspot.com/-IYn5ZW1-JUA/WQ3-d-j0-sI/AAAAAAAAp5Y/ygJ3iugiKzcSjMSniO2EwNrmuUfSU8BrQCPcB/s1600/dsc04869.picasaweb.jpg" "Serdica." >}}
@@ -139,7 +139,7 @@ Sofia has strikingly many Orthodox churches. I guess that helps to fill the muni
 
 ### St Nedelya Church
 
-Right across the street from Saint Sofia you find the [St Nedelya Church][wiki:en:St_Nedelya_Church] ({{< fl "Света Неделя" >}}).
+Right across the street from Saint Sofia you find the {{< wiki "St_Nedelya_Church" "en" "St Nedelya Church" >}} ({{< fl "Света Неделя" >}}).
 {{< imgfig "https://4.bp.blogspot.com/-FaNjglTku5Q/WQ3-dwjZxwI/AAAAAAAAp5Y/dGuZAwpk7TcP3pRRs0dAXsBaiUgA_Iy0QCPcB/s1600/dsc04902.picasaweb.jpg" "St Nedelya Church." >}}
 
 This church is infamous for the assault of 1925 that claimed over 150 victims.
@@ -151,7 +151,7 @@ This church is infamous for the assault of 1925 that claimed over 150 victims.
 
 ### Church of St George
 
-Another famous temple is the [Church of St George][wiki:en:Church_of_St._George,_Sofia] built in the **4**<sup>th</sup> century.
+Another famous temple is the {{< wiki "Church_of_St._George,_Sofia" "en" "Church of St George" >}} built in the **4**<sup>th</sup> century.
 {{< imgfig "https://1.bp.blogspot.com/-lY2-6rYlw2I/WQ3-d6sbw_I/AAAAAAAAp5Y/epN3sdqtDxMvq0N3QUutE6MWvy0ww9usQCPcB/s1600/dsc04914.picasaweb.jpg" "Church of St George." >}}
 
 The building of the round shape is about **1600** years old, and I must say it looks pretty good for its age.
@@ -166,7 +166,7 @@ And there's a night club called Arbat ({{< fl "Арбат" >}}) right in front o
 
 ### Church of St Petka
 
-The tiny [Church of St Petka][wiki:en:Church_of_St_Petka_of_the_Saddlers] built in 1241 is located in the immediate vicinity of Serdica, also below the street level.
+The tiny {{< wiki "Church_of_St_Petka_of_the_Saddlers" "en" "Church of St Petka" >}} built in 1241 is located in the immediate vicinity of Serdica, also below the street level.
 {{< imgfig "https://2.bp.blogspot.com/-eo0lGuvzElQ/WQ3-d7S6vlI/AAAAAAAAp5g/Y0CcEP36SPUGPQk-lF6NEtdN9pImCeiawCPcB/s1600/dsc04924.picasaweb.jpg" "Church of St Petka." >}}
 
 Moreover, this building of highly peculiar masonry is partially dug into the ground. The temple was built during the Ottoman yoke, and under Ottoman laws a Christian church wasn't allowed to be any higher than a Muslim on a horse.
@@ -182,7 +182,7 @@ There's also a traditional church shop. Which offers, among other things, a "Man
 
 ### Alexander Nevsky Cathedral
 
-The relatively recent [Alexander Nevsky Cathedral][wiki:en:Alexander_Nevsky_Cathedral,_Sofia] was built in 1908 as a sign of gratitude to Russian soldiers who liberated Bulgaria from Turks in 1878.
+The relatively recent {{< wiki "Alexander_Nevsky_Cathedral,_Sofia" "en" "Alexander Nevsky Cathedral" >}} was built in 1908 as a sign of gratitude to Russian soldiers who liberated Bulgaria from Turks in 1878.
 {{< imgfig "https://2.bp.blogspot.com/-16FAOSrAES4/WQ3-dwbko-I/AAAAAAAAp5Q/Hfw79ZyudwoKopjmaeScb4fKGLVPkRgUQCPcB/s1600/dsc04958.picasaweb.jpg" "Alexander Nevsky Cathedral." >}}
 
 This is the biggest temple in Sofia, initially named after the Russian patron and later renamed several times in accordance with the evolution of the relationship with Russia.
@@ -212,7 +212,7 @@ I'm always curious about cast iron gates like this one. I wonder how they are de
 
 ### Banya Bashi Mosque
 
-[Banya Bashi Mosque][wiki:en:Banya_Bashi_Mosque] was built in the **16**<sup>th</sup> century, during the Ottoman yoke. It's the only functioning mosque in Sofia at the moment, and one of the few that weren't razed after the liberation.
+{{< wiki "Banya_Bashi_Mosque" "en" "Banya Bashi Mosque" >}} was built in the **16**<sup>th</sup> century, during the Ottoman yoke. It's the only functioning mosque in Sofia at the moment, and one of the few that weren't razed after the liberation.
 {{< imgfig "https://1.bp.blogspot.com/-5BccAClq6c0/WQ3-d7te3fI/AAAAAAAAp5Y/NklSi6wTuPwnzS5RqvtB1SPs7jxhByCxwCPcB/s1600/dsc04932.picasaweb.jpg" "Banya Bashi Mosque." >}}
 
 ## Fountains, flowers, and lions {#fountains-flowers-lions}
@@ -221,7 +221,7 @@ Bulgarians are very fond of fountains, which are ubiquitous. Any decent attracti
 
 ### Ivan Vazov National Theatre
 
-A naked girl was taking shower before the [Ivan Vazov National Theatre][wiki:en:Ivan_Vazov_National_Theatre]:
+A naked girl was taking shower before the {{< wiki "Ivan_Vazov_National_Theatre" "en" "Ivan Vazov National Theatre" >}}:
 {{< imgfig "https://4.bp.blogspot.com/-C9R1wdBKKCo/WQ3-d_R5oyI/AAAAAAAAp5Y/6gK1YH9cyPI28eomxbGGl79pKU0A-4LAgCPcB/s1600/dsc04879.picasaweb.jpg" "Ivan Vazov National Theatre fountain." >}}
 {{< imgfig "https://3.bp.blogspot.com/-a1LLUAzqKaY/WQ3-dwQcijI/AAAAAAAAp5Y/focIrzylyFoHDOCfu-lWMnOV91dKAH17wCPcB/s1600/dsc04884.picasaweb.jpg" "Ivan Vazov National Theatre fountain." >}}
 
@@ -234,7 +234,7 @@ Ivan Vazov is the country's main theatre and is perfectly maintained:
 I was quite impressed by the cleanliness of the city's streets. That said, the pavements did reveal some structural problems, as bricks were sometimes missing, sticking out, or wobbly. But in principle for such a poor country as this the infrastructure is quite decent. Mind you, the government had to take a loan to buy these yellow bricks laid in the centre:
 {{< imgfig "https://1.bp.blogspot.com/-lbAjbIL0YSQ/WQ3-dwx3rjI/AAAAAAAAp5Y/N6DV8cDFxRIZ9O623vgJnZnv4KHNUjnyQCPcB/s1600/dsc04928.picasaweb.jpg" "Yellow brick road." >}}
 
-Sofians make jokes of the [land of Oz][wiki:en:Yellow_brick_road] in this regard. Which doesn't diminish the fact the loan is still being repaid.
+Sofians make jokes of the {{< wiki "Yellow_brick_road" "en" "land of Oz" >}} in this regard. Which doesn't diminish the fact the loan is still being repaid.
 {{< imgfig "https://3.bp.blogspot.com/-BDcqpQrVycw/WQ3-d1kz6QI/AAAAAAAAp5Q/YWwg52SeBMcvjHQIjRvY_-_b-jbIpdKWQCPcB/s1600/dsc05024.picasaweb.jpg" "Yellow brick road." >}}
 
 ### Museum of the History of Sofia
@@ -264,7 +264,7 @@ But at that specific moment there was no one on the square except the reporters.
 
 ### National Palace of Culture
 
-The highest concentration of fountains could be found in the park of the [National Palace of Culture][wiki:en:National_Palace_of_Culture] (NPC). But first an attraction, what do you think this is?
+The highest concentration of fountains could be found in the park of the {{< wiki "National_Palace_of_Culture" "en" "National Palace of Culture" >}} (NPC). But first an attraction, what do you think this is?
 {{< imgfig "https://1.bp.blogspot.com/-MV3qgKeLQI0/WQ3-dwK72VI/AAAAAAAAp5g/Z4H-7T4xBcESzEougrS-biiam80YMXjygCPcB/s1600/dsc05001.picasaweb.jpg" "The attraction." >}}
 
 Whatever you think, you're most likely wrong.
@@ -293,7 +293,7 @@ The fountains are lit in the dark:
 
 ### Saint George
 
-This is [Saint George][wiki:en:Saint_George] slaying a ~~Pokemon~~ dragon:
+This is {{< wiki "Saint_George" "en" "Saint George" >}} slaying a ~~Pokemon~~ dragon:
 {{< imgfig "https://4.bp.blogspot.com/-bPI9UbgdFsE/WQ3-d04xCKI/AAAAAAAAp5Q/xZktG9lEueUVTEF2OX56TPuVxtiUb83YACPcB/s1600/dsc04975.picasaweb.jpg" "Saint George." >}}
 
 The accompanying fountain is a tiny one. Pigeons love to drink from it:
@@ -301,13 +301,13 @@ The accompanying fountain is a tiny one. Pigeons love to drink from it:
 
 ### SS. Cyril and Methodius National Library
 
-The most flower you can probably find before the [SS. Cyril and Methodius National Library][wiki:en:SS._Cyril_and_Methodius_National_Library] I think. This is magnificent:
+The most flower you can probably find before the {{< wiki "SS._Cyril_and_Methodius_National_Library" "en" "SS. Cyril and Methodius National Library" >}} I think. This is magnificent:
 {{< imgfig "https://2.bp.blogspot.com/-SRMaqS3V3yI/WQ3-d9legGI/AAAAAAAAp5Q/tKGMeEGlH6UOSqpsZdbetzfMqrqfkGelQCPcB/s1600/dsc04982.picasaweb.jpg" "SS. Cyril and Methodius National Library." >}}
 {{< imgfig "https://4.bp.blogspot.com/-buaaF7PgYrs/WQ3-d4zxC7I/AAAAAAAAp5Q/MNijHG710iomFLuqRHtUiLyzWySQrWnFACPcB/s1600/dsc04979.picasaweb.jpg" "Flowers." >}}
 
 ### Monument to the Unknown Soldier
 
-Yet another artifact of the Soviet era (but not as scary) is the [Monument to the Unknown Soldier][wiki:en:Monument_to_the_Unknown_Soldier,_Sofia]:
+Yet another artifact of the Soviet era (but not as scary) is the {{< wiki "Monument_to_the_Unknown_Soldier,_Sofia" "en" "Monument to the Unknown Soldier" >}}:
 {{< imgfig "https://4.bp.blogspot.com/-CzczhNTiK9A/WQ3-d-ksQiI/AAAAAAAAp5Q/BWWt9iYkUm48uG1FEuD8A5ISGNiZ4gAQQCPcB/s1600/dsc04960.picasaweb.jpg" "Monument to the Unknown Soldier." >}}
 
 An eternal flame is filling in for the fountain here:
@@ -357,7 +357,7 @@ I can definitely recommend this tour. All the necessary details can be found on 
 
 ## National Museum of Military History {#military-museum}
 
-The major part of the [National Museum of Military History][wiki:en:National_Museum_of_Military_History_(Bulgaria)]'s exposition is open-air. It features numerous military items from the socialist period.
+The major part of the {{< wiki "National_Museum_of_Military_History_(Bulgaria)" "en" "National Museum of Military History" >}}'s exposition is open-air. It features numerous military items from the socialist period.
 
 By a happy coincidence we turned up on the last Wednesday of the month when the admission was completely free. We were surprised that all the gates were wide open and no one asked for a ticket.
 
@@ -437,7 +437,7 @@ This beautiful turquoise ball is a floating naval mine **B-38**, 1938. Explosive
 Some more floating mines from the early 20<sup>th</sup> century that were in use during the Balkan (1912-13) and the First World (1915-18) wars:
 {{< imgfig "https://3.bp.blogspot.com/-xDfxQCA45bQ/WQ3-d8mV3dI/AAAAAAAAp5I/SlFH0OQ6szsb2ApOhGsT5gmsAvwN5KpRgCPcB/s1600/dsc05095.picasaweb.jpg" "Naval mines." >}}
 
-These look pretty familiar, it's [klompen][wiki:en:Klomp] of a very large size!
+These look pretty familiar, it's {{< wiki "Klomp" "en" "klompen" >}} of a very large size!
 {{< imgfig "https://4.bp.blogspot.com/-YNlckpZ8ZuU/WQ3-d3DxABI/AAAAAAAAp5Q/uSf7KSdp2K0nInw7X-Rz9auxsMxqeAJVwCPcB/s1600/dsc05060.picasaweb.jpg" "Megaklompen." >}}
 
 Naval guns:

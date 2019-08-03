@@ -6,11 +6,11 @@ tags: ["Amsterdam", "Anneke van Giersbergen", "Arjen Lucassen", "Ed Warby", "Fer
 
 It's been a while since my last gig report, time to catch up with the latest developments in the Dutch rock world. I've a perfect occasion as I've seen two live rock legends.
 
-The project called [The Gentle Storm][wiki:en:The_Gentle_Storm], which is just one year old, were presenting their debut album **The Diary** in the Amsterdam club [Melkweg](http://www.melkweg.nl/) (I've [seen]({{< relref path="/blog/0136" lang="ru" >}}) Pagan's Mind there before).
+The project called {{< wiki "The_Gentle_Storm" "en" "The Gentle Storm" >}}, which is just one year old, were presenting their debut album **The Diary** in the Amsterdam club [Melkweg](http://www.melkweg.nl/) (I've [seen]({{< relref path="/blog/0136" lang="ru" >}}) Pagan's Mind there before).
 
 <!--more-->
 
-As mentioned above, the band was founded by two legendary musicians: [Anneke van Giersbergen][wiki:en:Anneke_van_Giersbergen] (**The Gathering**, **Devin Townsend**, **Anathema**) and [Arjen Anthony Lucassen][wiki:en:Arjen_Anthony_Lucassen] (which has an endless list of credits, **Ayreon**, **Ambeon** and **Stream of Passion** to name a few).
+As mentioned above, the band was founded by two legendary musicians: {{< wiki "Anneke_van_Giersbergen" "en" "Anneke van Giersbergen" >}} (**The Gathering**, **Devin Townsend**, **Anathema**) and {{< wiki "Arjen_Anthony_Lucassen" "en" "Arjen Anthony Lucassen" >}} (which has an endless list of credits, **Ayreon**, **Ambeon** and **Stream of Passion** to name a few).
 {{< imgfig "https://2.bp.blogspot.com/-cH_tABt-xDQ/VRf95KVJ0VI/AAAAAAAAhbM/vj3Eldrjaks/s1600/dsc08304.picasaweb.jpg" "Anneke van Giersbergen." >}}
 
 Loads of pictures and a few videos under the cut.

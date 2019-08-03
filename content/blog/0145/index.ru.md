@@ -23,7 +23,7 @@ tags: ["Бельгия", "крепость", "Намюр", "пиво", "путе
 Королевский театр ([Théâtre Royal de Namur](http://www.theatredenamur.be/)):
 {{< imgfig "https://4.bp.blogspot.com/-tODZBMUfS_g/T2pZwWFikEI/AAAAAAAAMcw/-aS3TZcQivE/s1600/dsc09258.picasaweb.jpg" >}}
 
-Башня Сен-Жак ({{< fl "Tour Saint-Jacques" >}}), она же [Beffroi de Namur][wiki:fr:Beffroi_de_Namur], единственная колокольня в городе, построена в 1388 году:
+Башня Сен-Жак ({{< fl "Tour Saint-Jacques" >}}), она же {{< wiki "Beffroi_de_Namur" "fr" "Beffroi de Namur" >}}, единственная колокольня в городе, построена в 1388 году:
 {{< imgfig "https://2.bp.blogspot.com/--55j1n4R7U8/T2paktr2b_I/AAAAAAAAMhw/m8wI2Lnp3Xk/s1600/dsc09255.picasaweb.jpg" >}}
 
 Помимо мутного пива и прекрасной валлонской архитектуры, Намюр примечателен туристами, совершающими разные странные поступки:

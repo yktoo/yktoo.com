@@ -15,7 +15,7 @@ To properly answer this seemingly simple question one needs to take a deep dive 
 
 ## Small business {#mkb}
 
-But first a bit of background information. The Dutch government considers small and medium enterprises ([MKB][wiki:nl:Midden-_en_kleinbedrijf]) one of the pillars of the national economy, and rightly so. It promotes and stimulates business related endeavours of the citizens by the means of free and paid seminars, workshops, informational portals, mobile apps, social networks for entrepreneurs, subsidies for starting own business, tax benefits and so on.
+But first a bit of background information. The Dutch government considers small and medium enterprises ({{< wiki "Midden-_en_kleinbedrijf" "nl" "MKB" >}}) one of the pillars of the national economy, and rightly so. It promotes and stimulates business related endeavours of the citizens by the means of free and paid seminars, workshops, informational portals, mobile apps, social networks for entrepreneurs, subsidies for starting own business, tax benefits and so on.
 
 In particular, in 2014 the Dutch Chamber of Commerce ([Kamer van Koophandel](https://www.kvk.nl/)), the official institution responsible for registering private businesses, opened a portal called [Ondernemersplein](http://www.ondernemersplein.nl/) ("Entrepreneurs' Square"). This portal provides a lot of of practical information on various aspects of running a private business.
 
@@ -34,16 +34,16 @@ The Dutch Tax Office ({{< fl "Belastingdienst" >}}) uses the above criteria to t
 
 ## The type of business entity {#types-of-business-entity}
 
-Like many other countries, the Netherlands has the notion of business entity ([rechtsvorm][wiki:nl:Rechtsvorm]). A business entity can be of a number of types, but the most frequently used are two:
+Like many other countries, the Netherlands has the notion of business entity ({{< wiki "Rechtsvorm" "nl" "rechtsvorm" >}}). A business entity can be of a number of types, but the most frequently used are two:
 
-1. Sole proprietorship ([eenmanszaak][wiki:nl:Eenmanszaak]).
-2. Private limited company ([besloten vennootschap][wiki:nl:Besloten_vennootschap_met_beperkte_aansprakelijkheid] or {{< fl "B.V." >}}).
+1. Sole proprietorship ({{< wiki "Eenmanszaak" "nl" "eenmanszaak" >}}).
+2. Private limited company ({{< wiki "Besloten_vennootschap_met_beperkte_aansprakelijkheid" "nl" "besloten vennootschap" >}} or {{< fl "B.V." >}}).
 
 Let's discuss why one would prefer one or the other.
 
 ### Sole proprietorship {#eenmanszaak}
 
-This is the simplest type of business entity, a business owned and run by a single person. Officially called "[eenmanszaak][wiki:nl:Eenmanszaak]" (which literally means "one-man business"), but it's common to call the owner a "{{< fl "zzp'er" >}}" ({{< fl "Zelfstandig Zonder Personeel" >}}, "independent [entrepreneur] without staff") or simply a freelancer.
+This is the simplest type of business entity, a business owned and run by a single person. Officially called "{{< wiki "Eenmanszaak" "nl" "eenmanszaak" >}}" (which literally means "one-man business"), but it's common to call the owner a "{{< fl "zzp'er" >}}" ({{< fl "Zelfstandig Zonder Personeel" >}}, "independent [entrepreneur] without staff") or simply a freelancer.
 
 Registering such a business is a piece of cake: you only need to make an appointment at the Chamber of Commerce, fill out a couple of forms and pay **€50** on the spot. One natural person is only allowed to have a single {{< fl "eenmanszaak" >}}, but the latter can have multiple branches and perform various activities. Also, despite the somewhat misleading name, the owner can hire additional employees.
 
@@ -55,13 +55,13 @@ Since this form of business is not seen as employment, the owner doesn't have to
 
 ### Private limited company (B.V.) {#bv}
 
-Establishing a [B.V.][wiki:nl:Besloten_vennootschap_met_beperkte_aansprakelijkheid] is somewhat more involved. The official registration is executed by a notary, and their services are anything but cheap here. Very roughly you can expect a fee of **€1000**, but it can deviate by hundreds of euros in both directions with a specific notary.
+Establishing a {{< wiki "Besloten_vennootschap_met_beperkte_aansprakelijkheid" "nl" "B.V." >}} is somewhat more involved. The official registration is executed by a notary, and their services are anything but cheap here. Very roughly you can expect a fee of **€1000**, but it can deviate by hundreds of euros in both directions with a specific notary.
 
 Like {{< fl "eenmanszaak" >}}, a {{< fl "B.V." >}} has to report its received and paid VAT once a quarter. What's different is that it must also submit a complicated annual report ({{< fl "jaarstukken" >}}) to the Chamber of Commerce once a year—and that is on top of your own, private tax form. It also works differently in terms of taxation. In general, administering a {{< fl "B.V." >}} is much more complex, and running it is more costly.
 
 Its biggest advantage, though, is the complete separation between its business assets and the private possessions of the owner (except for cases of deliberate wrongdoing). Moreover, two or more {{< fl "B.V." >}}'s can be combined to form a holding, which provides an even better risk protection.
 
-Another difference is that {{< fl "B.V." >}} is a form of employment, which allows to apply the {{< fl "30%-regeling" >}} for migrants, and at the same time to avoid paying social contributions in case you're a {{< fl "DGA" >}} ([Directeur grootaandeelhouder][wiki:nl:Directeur-grootaandeelhouder]), director with considerable interest. Your interest in company is seen as considerable once you possess more than **5%** of the total number of the company's shares. In other words, if you run the {{< fl "B.V." >}} yourself, you're always a {{< fl "DGA" >}}.
+Another difference is that {{< fl "B.V." >}} is a form of employment, which allows to apply the {{< fl "30%-regeling" >}} for migrants, and at the same time to avoid paying social contributions in case you're a {{< fl "DGA" >}} ({{< wiki "Directeur-grootaandeelhouder" "nl" "Directeur grootaandeelhouder" >}}), director with considerable interest. Your interest in company is seen as considerable once you possess more than **5%** of the total number of the company's shares. In other words, if you run the {{< fl "B.V." >}} yourself, you're always a {{< fl "DGA" >}}.
 
 ### … and others {#other-types}
 
@@ -69,7 +69,7 @@ Besides the two types described above there are also several other *basic* ones 
 
 ### … and payrolling {#payrolling}
 
-The [payrolling][wiki:nl:Payrolling] construction is standing a bit apart in this story. Payrolling is not a type of business entity, nor is it entrepreneurship from the legal point of view. But in fact it's very close to running a one-man business.
+The {{< wiki "Payrolling" "nl" "payrolling" >}} construction is standing a bit apart in this story. Payrolling is not a type of business entity, nor is it entrepreneurship from the legal point of view. But in fact it's very close to running a one-man business.
 
 In this scheme you get hired by a payroll service company ({{< fl "payrollbedrijf" >}}) on the conditions that you find work for yourself, as well as get paid from whatever you've earned. The company is in its turn responsible for all ongoing administration and accounting. It also *pays your social contributions*, which is somewhat reducing your income. And, of course, it charges you for its service.
 

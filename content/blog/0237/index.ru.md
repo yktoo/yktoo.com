@@ -4,7 +4,7 @@ title: "Книга: «Марсианин», Э. Уир"
 tags: ["Andy Weir", "The Martian", "книги", "фантастика"]
 ---
 
-Прочитал роман американца [Энди Уира][wiki:ru:Уир,_Энди] ([Andy Weir][wiki:en:Andy_Weir_(writer)]) под названием [«Марсианин»][wiki:ru:Марсианин_(роман)] ([The Martian][wiki:en:The_Martian_(Weir_novel)]). До сих пор нахожусь под впечатлением.
+Прочитал роман американца {{< wiki "Уир,_Энди" "ru" "Энди Уира" >}} ({{< wiki "Andy_Weir_(writer)" "en" "Andy Weir" >}}) под названием {{< wiki "Марсианин_(роман)" "ru" "«Марсианин»" >}} ({{< wiki "The_Martian_(Weir_novel)" "en" "The Martian" >}}). До сих пор нахожусь под впечатлением.
 
 {{< imgfig "https://1.bp.blogspot.com/-SZSg3tj1IWs/VMN-PONnroI/AAAAAAAAgxc/0hKQQu6lvRg/s1600/andy-weir-the-martian.picasaweb.jpg" "Andy Weir. The Martian." >}}
 
@@ -48,7 +48,7 @@ tags: ["Andy Weir", "The Martian", "книги", "фантастика"]
 
 Роман впервые опубликован в 2011 году. Я читал его в оригинале, и английский в книге весьма прост — прочлось на одном дыхании.
 
-В ноябре этого года ожидается [экранизация][wiki:ru:Марсианин_(фильм)] романа с Мэттом Дэймоном в главной роли.
+В ноябре этого года ожидается {{< wiki "Марсианин_(фильм)" "ru" "экранизация" >}} романа с Мэттом Дэймоном в главной роли.
 
 ## Мой рейтинг
 <img src="/images/icons32/grey-star-filled.png" width="32" height="32">

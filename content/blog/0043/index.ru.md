@@ -71,7 +71,7 @@ tags: ["Париж", "путешествия", "Франция"]
 
 {{< imgfig "https://1.bp.blogspot.com/-w0-s9NTdn8U/T4wfWnhtkPI/AAAAAAAAOyk/Ll0ABsLKCqg/s1600/imgp2799.picasaweb.jpg" >}}
 
-И около брюссельского [Атомиума][wiki:ru:Атомиум], кстати, тоже.
+И около брюссельского {{< wiki "Атомиум" "ru" "Атомиума" >}}, кстати, тоже.
 
 Ещё мы насмотрелись парижских улиц и побывали на Монмартре.
 {{< imgfig "https://2.bp.blogspot.com/-YyeqwxAarHE/T4wf3qwBTrI/AAAAAAAAO1g/CI29Y3Kk2eo/s1600/imgp2834.picasaweb.jpg" >}}

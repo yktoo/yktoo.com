@@ -27,7 +27,7 @@ tags: ["2017", "Германия", "итоги", "Рес"]
 {{< imgfig "https://3.bp.blogspot.com/-TM5UJH9RL4M/WThoZVX3b8I/AAAAAAAAqGk/ckLR_7A1HCIoEtTm25SVwK7GEvy08_3tgCKgB/s1600/20170527_131723.picasaweb.jpg" "Toyota Prius PHV." >}}
 * Впервые побывал в Болгарии: [Софии]({{< relref "/blog/0322" >}}) и [Пловдиве]({{< relref "/blog/0323" >}}).
 {{< imgfig "https://2.bp.blogspot.com/-b6snG1mAhyQ/WkYlNG1ICnI/AAAAAAAArLQ/MbKv_eM4OuQkDJKcwAZRqq5dlsNxsJEKgCKgBGAs/s1600/dsc04904.picasaweb.jpg" "София." >}}
-* Опять же впервые сходил в настоящий поход — с палатками и спальниками — к [Языку Тролля][wiki:ru:Язык_Тролля] в Норвегии. Написать об этом, к сожалению, не удосужился.
+* Опять же впервые сходил в настоящий поход — с палатками и спальниками — к {{< wiki "Язык_Тролля" "ru" "Языку Тролля" >}} в Норвегии. Написать об этом, к сожалению, не удосужился.
 {{< imgfig "https://4.bp.blogspot.com/-uTiMswINxVE/WkTBnsHfB1I/AAAAAAAArJE/x5tDRidhJeM8f6ZHNflH6DfcoBNTnF0DgCKgBGAs/s1600/dsc05966.picasaweb.jpg" "Trolltunga, Норвегия." >}}
 * В очередной раз побывал во Франкфурте, Антверпене, Париже.
 {{< imgfig "https://4.bp.blogspot.com/-ZKec2DkrKV0/WkY_zWeL3II/AAAAAAAArL4/4sTIDhtTfD0otRJzvNT5n3TrpLYVi47JACKgBGAs/s1600/dsc06791.picasaweb.jpg" "Эйфелева башня." >}}

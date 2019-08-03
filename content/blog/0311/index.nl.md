@@ -18,7 +18,7 @@ Ik ben van mening dat je beter spijt kunt hebben van wat je wel hebt gedaan, dan
 
 In principe kan je voor elke handelsnaam kiezen die geen verwarring oplevert, niet op een andere handelsnaam lijkt en geen onjuiste indruk wekt over de eigenaar of de omvang van het bedrijf. Je mag je bedrijf bijvoorbeeld niet "Janssen en Zoon" noemen als je geen Janssen heet, of "Paradise Cleaning Industries" als je privé schoonmaker bent.
 
-Mijn bedrijfsnaam was prima in orde. Het woord *solutions* komt vaak voor bij ICT-consulting. Ik heb ook de domeinnaam `yktoo.solutions` geregistreerd (veel mensen reageren verbaasd dat zo'n [TLD][wiki:nl:Topleveldomein] bestaat) en er een eenvoudige [website](https://www.yktoo.solutions/) voor ontwikkeld. Het is uiteraard zo prettig om je pasgeboren zaak te koesteren en te verzorgen.
+Mijn bedrijfsnaam was prima in orde. Het woord *solutions* komt vaak voor bij ICT-consulting. Ik heb ook de domeinnaam `yktoo.solutions` geregistreerd (veel mensen reageren verbaasd dat zo'n {{< wiki "Topleveldomein" "nl" "TLD" >}} bestaat) en er een eenvoudige [website](https://www.yktoo.solutions/) voor ontwikkeld. Het is uiteraard zo prettig om je pasgeboren zaak te koesteren en te verzorgen.
 
 {{< imgfig "https://1.bp.blogspot.com/-XCYqqwYaPbs/WCo7vX_qTiI/AAAAAAAAoPA/hDBojNJO1Pk9pRHGq7L6hQCzTBd_bIaCACPcB/s1600/20161105_211814.picasaweb.jpg" "Visitekaartjes Yktoo Solutions." >}}
 

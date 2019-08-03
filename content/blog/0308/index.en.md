@@ -14,7 +14,7 @@ So I've decided to write a brief tutorial on setting up a *dockerised* developme
 
 Let's first talk the basics. If your application is small and simple, and changes only happen occasionally, you might venture to modify it on-the-fly on the *production* server. This approach will, however, be disastrous if your application is complex and/or needs numerous changes. A better idea would be to thoroughly test every function before deploying the new version, otherwise you can end up with a broken application and forced downtime.
 
-Many web applications employ a database for data persistence. In the past years [LAMP][wiki:en:LAMP_(software_bundle)] ({{< fl "Linux" >}}, {{< fl "Apache" >}}, {{< fl "MySQL" >}}, {{< fl "PHP" >}}) has become one of the most frequently used software stacks. This website is also built on this bundle of technologies.
+Many web applications employ a database for data persistence. In the past years {{< wiki "LAMP_(software_bundle)" "en" "LAMP" >}} ({{< fl "Linux" >}}, {{< fl "Apache" >}}, {{< fl "MySQL" >}}, {{< fl "PHP" >}}) has become one of the most frequently used software stacks. This website is also built on this bundle of technologies.
 
 In the ideal world every development environment matches the production one, at least in terms of software versions and features (like compilation options etc.) All this can of course be installed on a developer's PC or a development server, but you might run into difficulties with availability of specific software versions, component upgrades and so on. For example, Ubuntu has recently dropped *PHP 5.x* from its repositories, which means you need to compile it yourself.
 

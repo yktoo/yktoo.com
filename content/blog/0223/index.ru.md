@@ -85,7 +85,7 @@ tags: ["вода", "Нидерланды", "Хаутен"]
 Особенно мне нравится желтоватый кирпич, напоминающий [южную Бельгию]({{< relref "/blog/0035" >}}):
 {{< imgfig "https://3.bp.blogspot.com/--l9cDMEGSYM/U_uLOD9iRUI/AAAAAAAAfIk/rGAc_v46UIY/s1600/dsc06417.picasaweb.jpg" >}}
 
-Одна из достопримечательностей новой части — трёхлучевая пирамида {{< fl "Het Domein" >}} («Домен»), «дом-гора» ({{< fl "heuvelgebouw" >}}), построенный в 2002 г. по проекту братьев Дас ([Das][wiki:nl:Robbert_en_Rudolf_Das]):
+Одна из достопримечательностей новой части — трёхлучевая пирамида {{< fl "Het Domein" >}} («Домен»), «дом-гора» ({{< fl "heuvelgebouw" >}}), построенный в 2002 г. по проекту братьев Дас ({{< wiki "Robbert_en_Rudolf_Das" "nl" "Das" >}}):
 {{< imgfig "https://2.bp.blogspot.com/-HKIgcg7oMTE/U_uLJ-29-LI/AAAAAAAAfIk/QybmmHbl5NI/s1600/dsc06407.picasaweb.jpg" >}}
 
 Каждая квартира обладает террасой, которые вместе и образуют пирамиду:

@@ -85,7 +85,7 @@ Architecture of the new part is sometimes different, but you can always tell the
 I'm particularly fond of those yellowish bricks, which resemble houses in [southern Belgium]({{< relref path="/blog/0035" lang="ru" >}}):
 {{< imgfig "https://3.bp.blogspot.com/--l9cDMEGSYM/U_uLOD9iRUI/AAAAAAAAfIk/rGAc_v46UIY/s1600/dsc06417.picasaweb.jpg" >}}
 
-One of the eye-catchers of the new part is the three-wing pyramid called {{< fl "Het Domein" >}} ("The Domain"), the "hill-house" ({{< fl "heuvelgebouw" >}}) built in 2002 based on the design of [Das brothers][wiki:nl:Robbert_en_Rudolf_Das]:
+One of the eye-catchers of the new part is the three-wing pyramid called {{< fl "Het Domein" >}} ("The Domain"), the "hill-house" ({{< fl "heuvelgebouw" >}}) built in 2002 based on the design of {{< wiki "Robbert_en_Rudolf_Das" "nl" "Das brothers" >}}:
 {{< imgfig "https://2.bp.blogspot.com/-HKIgcg7oMTE/U_uLJ-29-LI/AAAAAAAAfIk/QybmmHbl5NI/s1600/dsc06407.picasaweb.jpg" >}}
 
 Each apartment has a terrace, all of them together forming the pyramid:

@@ -6,11 +6,11 @@ tags: ["Bryan Beller", "De Boerderij", "fusion", "Guthrie Govan", "jazz", "Marco
 
 My personal concert season open by the [Nightwish fellas]({{< relref "/blog/0264" >}}) is at its climax.
 
-I was fortunate to see a very popular (yet kind of underground) band called [The Aristocrats][wiki:en:The_Aristocrats_(band)] on December 9<sup>th</sup>. The band is playing some mindbogglingly complex tunes ranged from Jazz Fusion to Heavy Prog.
+I was fortunate to see a very popular (yet kind of underground) band called {{< wiki "The_Aristocrats_(band)" "en" "The Aristocrats" >}} on December 9<sup>th</sup>. The band is playing some mindbogglingly complex tunes ranged from Jazz Fusion to Heavy Prog.
 
 <!--more-->
 
-The Aristocrats is a [supergroup][wiki:en:Supergroup_(music)] founded in 2011. Last December they were presenting their third studio album [Tres Caballeros][wiki:en:Tres_Caballeros].
+The Aristocrats is a {{< wiki "Supergroup_(music)" "en" "supergroup" >}} founded in 2011. Last December they were presenting their third studio album {{< wiki "Tres_Caballeros" "en" "Tres Caballeros" >}}.
 
 {{< imgfig "https://2.bp.blogspot.com/-gqODy41rxV0/Vn7LgKAJaBI/AAAAAAAAk8M/eU2egTbUn-Q/s1600/20151209_222003.picasaweb.jpg" "The Aristocrats, left to right: Guthrie Govan, Marco Minnemann, Bryan Beller." >}}
 
@@ -22,11 +22,11 @@ I tried to use my mobile for filming as the next best thing, but at a certain mo
 
 On the bright side, I have to say the three play instruments like gods. The line-up is:
 
-* [Guthrie Govan][wiki:en:Guthrie_Govan] ({{< fl "Steven Wilson" >}}, {{< fl "Asia" >}}, {{< fl "GPS" >}}, {{< fl "The Young Punx" >}}, {{< fl "The Fellowship" >}}, {{< fl "Erotic Cakes" >}}) – **guitar**
-* [Bryan Beller][wiki:en:Bryan_Beller] ({{< fl "Steve Vai" >}}, {{< fl "Joe Satriani" >}}, {{< fl "James LaBrie" >}}, {{< fl "Dweezil Zappa" >}}, {{< fl "Dethklok" >}}, {{< fl "Mike Keneally" >}}) – **bass**
-* [Marco Minnemann][wiki:en:Marco_Minnemann] ({{< fl "Steven Wilson" >}}, {{< fl "Kreator" >}}, {{< fl "Joe Satriani" >}}, {{< fl "Paul Gilbert" >}}, {{< fl "Necrophagist" >}}) – **drums**
+* {{< wiki "Guthrie_Govan" "en" "Guthrie Govan" >}} ({{< fl "Steven Wilson" >}}, {{< fl "Asia" >}}, {{< fl "GPS" >}}, {{< fl "The Young Punx" >}}, {{< fl "The Fellowship" >}}, {{< fl "Erotic Cakes" >}}) – **guitar**
+* {{< wiki "Bryan_Beller" "en" "Bryan Beller" >}} ({{< fl "Steve Vai" >}}, {{< fl "Joe Satriani" >}}, {{< fl "James LaBrie" >}}, {{< fl "Dweezil Zappa" >}}, {{< fl "Dethklok" >}}, {{< fl "Mike Keneally" >}}) – **bass**
+* {{< wiki "Marco_Minnemann" "en" "Marco Minnemann" >}} ({{< fl "Steven Wilson" >}}, {{< fl "Kreator" >}}, {{< fl "Joe Satriani" >}}, {{< fl "Paul Gilbert" >}}, {{< fl "Necrophagist" >}}) – **drums**
 
-The lists of acts above should give you a hint of how brilliant they are. The brightest band member is arguably the British [Guthrie Govan][wiki:en:Guthrie_Govan], which is a true guitar virtuoso. You must hear that to really appreciate his playing.
+The lists of acts above should give you a hint of how brilliant they are. The brightest band member is arguably the British {{< wiki "Guthrie_Govan" "en" "Guthrie Govan" >}}, which is a true guitar virtuoso. You must hear that to really appreciate his playing.
 {{< imgfig "https://1.bp.blogspot.com/-iEJR_3Ip7P4/Vn7Lnv-cGoI/AAAAAAAAk94/ElLzdZoMlEY/s1600/20151209_211058.picasaweb.jpg" "Guthrie Govan." >}}
 
 Because of the new stupid rules I was only able to record a couple of videos of a questionable quality.

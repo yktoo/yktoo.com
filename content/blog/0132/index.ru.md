@@ -4,7 +4,7 @@ title: "Йоханнес Хестерс"
 tags: ["Амерсфорт", "интересное", "Йоханнес Хестерс", "Нидерланды", "СМИ"]
 ---
 
-Родившийся в Амерсфорте певец и актёр [Йоханнес Хестерс][wiki:ru:Хестерс,_Йоханнес] опять [попал](http://www.destadamersfoort.nl/scripts/edoris/edoris.dll?tem=LN_TEXT_VIEW&doc_id=19867092&pageid=134190&naam=Johan-Heesters-in-ziekenhuis-opgenomen) в местные новости.
+Родившийся в Амерсфорте певец и актёр {{< wiki "Хестерс,_Йоханнес" "ru" "Йоханнес Хестерс" >}} опять [попал](http://www.destadamersfoort.nl/scripts/edoris/edoris.dll?tem=LN_TEXT_VIEW&doc_id=19867092&pageid=134190&naam=Johan-Heesters-in-ziekenhuis-opgenomen) в местные новости.
 
 Послезавтра, 5 декабря, ему должно исполниться, ни много ни мало, 108 лет, и он собирался по этому поводу петь номера из оперетты. Но накануне Хестерс попал в больницу, что его 80-летняя дочь Више Герольд ({{< fl "Wiesje Herold" >}}) [прокомментировала](http://www.bild.de/unterhaltung/leute/johannes-heesters/ich-schaffe-die-108-21286806.bild.html) так: «В свои 108 Йопи уже, конечно, не мальчик. Но он молодчинка».
 

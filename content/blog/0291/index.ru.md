@@ -30,7 +30,7 @@ tags: ["PulseAudio", "Python", "Python 3", "Sound Switcher Indicator", "Ubuntu",
 
 ## Файл конфигурации {#config-file}
 
-Файл конфигурации, по умолчанию это `~/.config/indicator-sound-switcher.json`, должен быть в формате [JSON][wiki:ru:JSON]. Его наличие необязательно, все пункты в нём также являются опциональными.
+Файл конфигурации, по умолчанию это `~/.config/indicator-sound-switcher.json`, должен быть в формате {{< wiki "JSON" "ru" "JSON" >}}. Его наличие необязательно, все пункты в нём также являются опциональными.
 
 Вот пример конфигурации (взят из [README](https://github.com/yktoo/indicator-sound-switcher/blob/master/README.md)):
 

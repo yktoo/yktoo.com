@@ -27,7 +27,7 @@ The last has brought major changes for the better for me, in contrast with the [
 {{< imgfig "https://3.bp.blogspot.com/-TM5UJH9RL4M/WThoZVX3b8I/AAAAAAAAqGk/ckLR_7A1HCIoEtTm25SVwK7GEvy08_3tgCKgB/s1600/20170527_131723.picasaweb.jpg" "Toyota Prius PHV." >}}
 * Visited Bulgaria for the first time: [Sofia]({{< relref "/blog/0322" >}}) and [Plovdiv]({{< relref "/blog/0323" >}}).
 {{< imgfig "https://2.bp.blogspot.com/-b6snG1mAhyQ/WkYlNG1ICnI/AAAAAAAArLQ/MbKv_eM4OuQkDJKcwAZRqq5dlsNxsJEKgCKgBGAs/s1600/dsc04904.picasaweb.jpg" "София." >}}
-* Been on a real trekking tour, with tents and sleeping bags, to [Trolltunga][wiki:en:Trolltunga] in Norway. Haven't got to write about it, unfortunately.
+* Been on a real trekking tour, with tents and sleeping bags, to {{< wiki "Trolltunga" "en" "Trolltunga" >}} in Norway. Haven't got to write about it, unfortunately.
 {{< imgfig "https://4.bp.blogspot.com/-uTiMswINxVE/WkTBnsHfB1I/AAAAAAAArJE/x5tDRidhJeM8f6ZHNflH6DfcoBNTnF0DgCKgBGAs/s1600/dsc05966.picasaweb.jpg" "Trolltunga, Norway." >}}
 * Visited Frankfurt, Antwerp, Paris yet another time.
 {{< imgfig "https://4.bp.blogspot.com/-ZKec2DkrKV0/WkY_zWeL3II/AAAAAAAArL4/4sTIDhtTfD0otRJzvNT5n3TrpLYVi47JACKgBGAs/s1600/dsc06791.picasaweb.jpg" "The Eiffel Tower." >}}

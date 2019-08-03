@@ -17,7 +17,7 @@ This idea was suggested by Slavyan during the [Free Sofia Tour]({{< relref "/blo
 
 ## European Capital of Culture {#ecc-2019}
 
-[Plovdiv][wiki:en:Plovdiv] is the second largest Bulgarian city with **370 thousand** people. For some unknown reason it was selected as the [European Capital of Culture][wiki:en:European_Capital_of_Culture] of 2019, which fills the inhabitants with pride.
+{{< wiki "Plovdiv" "en" "Plovdiv" >}} is the second largest Bulgarian city with **370 thousand** people. For some unknown reason it was selected as the {{< wiki "European_Capital_of_Culture" "en" "European Capital of Culture" >}} of 2019, which fills the inhabitants with pride.
 {{< imgfig "https://3.bp.blogspot.com/-MUDPcB6Af28/WQ3-d1G4LuI/AAAAAAAAp5I/2Ynf4n8VMY84cFkIKK2nPLV5AzJjSi9SQCPcB/s1600/dsc05140.picasaweb.jpg" "Plovdiv 2019 is the European Capital of Culture." >}}
 
 Everywhere in the downtown you see posters reminding passers-by of this big luck of the small Bulgarian city.
@@ -68,7 +68,7 @@ One of those constructions is a huge Roman stadium that could accommodate 30 tho
 The visible part of the original is limited to its round side, which can be seen via a pit in the street:
 {{< imgfig "https://1.bp.blogspot.com/-KuxUNLJh-mo/WQ3-d9l8ozI/AAAAAAAAp5I/yqLusyieRQMqCZADMGyD8ToKse3a2DyhQCPcB/s1600/dsc05152.picasaweb.jpg" "Roman stadium." >}}
 
-Straight next to it you can see the [Dzhumaya Mosque][wiki:en:Dzhumaya_Mosque] built in **1364**, which makes it the oldest mosque in Europe:
+Straight next to it you can see the {{< wiki "Dzhumaya_Mosque" "en" "Dzhumaya Mosque" >}} built in **1364**, which makes it the oldest mosque in Europe:
 {{< imgfig "https://1.bp.blogspot.com/-3cHhBndMz-w/WQ3-d8ODTII/AAAAAAAAp5I/cehzH5dEfyYM0NYtavljhJzedDyyqhhUQCPcB/s1600/dsc05153.picasaweb.jpg" "Dzhumaya Mosque." >}}
 
 Then we were led into the historic part of Plovdiv ({{< fl "Стария Град" >}}, "Old Town").
@@ -97,13 +97,13 @@ Ilia is delivering another story. He's a good narrator, but has a totally differ
 A peculiar feature of old Plovdiv architecture: upper storeys are larger than the ground ones. The main reason for this was cost-saving, because house owners were charged based on the dimensions of the basement:
 {{< imgfig "https://2.bp.blogspot.com/-68hfDUDuERo/WQ3-dw4N_bI/AAAAAAAAp5g/vXBOhVxGg2YlB82ENXluK1ANBLtFNuj2gCPcB/s1600/dsc05162.picasaweb.jpg" "A historical house." >}}
 
-The unremarkable house below has hosted the famous French poet [Alphonse de Lamartine][wiki:en:Alphonse_de_Lamartine] for three days back in 1833, which is noted on a memorial plate on its facade. This was also the reason the house was visited in 1989 by François Mitterrand, then the French President—which there's another memorial plate about:
+The unremarkable house below has hosted the famous French poet {{< wiki "Alphonse_de_Lamartine" "en" "Alphonse de Lamartine" >}} for three days back in 1833, which is noted on a memorial plate on its facade. This was also the reason the house was visited in 1989 by François Mitterrand, then the French President—which there's another memorial plate about:
 {{< imgfig "https://1.bp.blogspot.com/-VMld6J-kkKc/WQ3-d46_X3I/AAAAAAAAp5I/ag4LZfiD4FgBWH3nSrABQIA_VxUcW26JACPcB/s1600/dsc05164.picasaweb.jpg" "The house of Lamartine and Mitterrand." >}}
 
 A large part of the history of Plovdiv is linked to the communist period of Bulgaria, which the population is nowadays hardly fond of.
 {{< imgfig "https://4.bp.blogspot.com/-lrz7g6yvqr8/WQ3-d_NhI9I/AAAAAAAAp5I/HTvrz4RciCs4J2ZgQqANgHIZsRNQ-TiYACPcB/s1600/dsc05139.picasaweb.jpg" "'Plovdiv-Leningrad 1980.'" >}}
 
-Here's a monument to one of the victims of those years, the jazz musician [Alexander Nikolov][wiki:bg:Александър_Николов] nicknamed {{< fl "Сашо Сладура" >}} (which can be translated as "Sweet Alex"). He was known because of his derision of communists and the regime, and he has paid a heavy price for it. He was sent to a work camp in 1961, where he was humiliated and killed shortly after:
+Here's a monument to one of the victims of those years, the jazz musician {{< wiki "Александър_Николов" "bg" "Alexander Nikolov" >}} nicknamed {{< fl "Сашо Сладура" >}} (which can be translated as "Sweet Alex"). He was known because of his derision of communists and the regime, and he has paid a heavy price for it. He was sent to a work camp in 1961, where he was humiliated and killed shortly after:
 {{< imgfig "https://4.bp.blogspot.com/-Q1bPv7Q7p9w/WQ3-dx9rGwI/AAAAAAAAp5I/g7GXxHJPtBIVRZi5LjHjq62UkIIKUhCiACPcB/s1600/dsc05165.picasaweb.jpg" "Alexander Nikolov." >}}
 
 Ilia also told us that the years immediately after the communist regime collapsed have seen a sharp rise of street crime. Back then it was not so uncommon that someone got shot down on the street in broad daylight. Luckily these days are over and it's quite safe there now. Although you still need to be wary of pickpockets.
@@ -113,7 +113,7 @@ The Orthodox St Nicholas Church built in 1835:
 
 {{< imgfig "https://2.bp.blogspot.com/--pdeicMBzFI/WQ3-d0rytGI/AAAAAAAAp5k/si9ekbZ2H9UQVOmdvJf1YqfHnScTsKG1wCPcB/s1600/dsc05170.picasaweb.jpg" "Mitropolit Paisiy street." >}}
 
-After that we came to the two thousand year old [Plovdiv Roman Theatre][wiki:en:Plovdiv_Roman_theatre] built in the Roman Empire era.
+After that we came to the two thousand year old {{< wiki "Plovdiv_Roman_theatre" "en" "Plovdiv Roman Theatre" >}} built in the Roman Empire era.
 {{< imgfig "https://2.bp.blogspot.com/-t76-biQs6zs/WQ3-d0lI6gI/AAAAAAAAp5I/xz1U9X3_CKUBkmQKMuSEZihaaP07oSgoQCPcB/s1600/dsc05166.picasaweb.jpg" "Plovdiv Roman Theatre: the entrance." >}}
 
 It's amazing that such an ancient construction has been preserved underground, and that it's been successfully dug out in 1970's.

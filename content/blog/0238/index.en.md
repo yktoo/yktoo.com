@@ -16,7 +16,7 @@ The festival, which is held once every three years, proved to be immensely popul
 
 This festival was held for the third time, from Thursday January 29<sup>th</sup> until Sunday February 1<sup>st</sup>, in the Belgian town of Ghent (Dutch: {{< fl "Gent" >}}), which I've [visited]({{< relref "/blog/0212" >}}) about a year ago.
 
-There was no question as whether to go since it's just a two-hour drive. We were lucky enough to book a room in the very central [Hotel Gravensteen](http://www.gravensteen.be/), which is just across the road from the [Gravensteen Castle][wiki:en:Gravensteen].
+There was no question as whether to go since it's just a two-hour drive. We were lucky enough to book a room in the very central [Hotel Gravensteen](http://www.gravensteen.be/), which is just across the road from the {{< wiki "Gravensteen" "en" "Gravensteen Castle" >}}.
 {{< imgfig "https://3.bp.blogspot.com/-PdDIi6H1PV0/VM6b9MzoxVI/AAAAAAAAg4w/G3cxo56ue48/s1600/dsc07915.picasaweb.jpg" "The Gravensteen Castle." >}}
 
 There's no snow at all in the late January since the air temperature is around +2–5° C (36-41° F). Ghent is as magnificent as ever in the sunny weather.

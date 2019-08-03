@@ -16,7 +16,7 @@ The reception was held in the local city hall. Everyone was given a tiny, five m
 After that we were taken into a large hall where the city council ({{< fl "College van B en W" >}}) holds their sessions and stuff. There were a total of about a hundred and fifty souls. On every chair in the hall there lay a baseball cap with a strange inscription {{< fl "Maak van vuurwerk geen afknapper!" >}} (which translates as something like "Don't turn firework into a letdown") and a picture of a guy carrying a Christmas tree to throw it into the fire (that refers to the tradition of burning Christmas trees in a huge bonfire on December 31). It turned out later the cap lay there for a purpose.
 {{< imgfig "https://1.bp.blogspot.com/-wZR28baE58Y/UN8vIw7ogkI/AAAAAAAAWGY/xUpUXQQiKas/s1600/dsc05882.picasaweb.jpg" >}}
 
-Our mayor [Lucas Bolsius][wiki:en:Lucas_Bolsius] (a namesake of the Dutch [candle maker](http://www.bolsius.com/)) stepped up to make a looong introduction of city council members.
+Our mayor {{< wiki "Lucas_Bolsius" "en" "Lucas Bolsius" >}} (a namesake of the Dutch [candle maker](http://www.bolsius.com/)) stepped up to make a looong introduction of city council members.
 {{< imgfig "https://3.bp.blogspot.com/-DrO2X1nqyXw/UN8vLq-JC4I/AAAAAAAAWGo/AEWvbIGyyBk/s1600/dsc05887.picasaweb.jpg" >}}
 
 Every political party is represented by a number of people in the council, and each of them was explaining us how much they value Amersfoort and why.

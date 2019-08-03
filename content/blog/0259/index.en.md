@@ -4,7 +4,7 @@ title: "SAIL Amsterdam 2015"
 tags: ["Amsterdam", "boats", "Ferris wheel", "Netherlands", "SAIL Amsterdam", "ships", "water"]
 ---
 
-Between the 19 and the 23 of August Amsterdam hosted a huge marine event called [SAIL Amsterdam](https://www.sail.nl/). It's held once every five years, and is most known for its [tall ships][wiki:en:Tall_ship] (apart from hundreds of other ships). During the event they sail in loops around the [IJ][wiki:en:IJ_(Amsterdam)] lake, giving the area a totally different look and attracting millions (yes, millions) of visitors.
+Between the 19 and the 23 of August Amsterdam hosted a huge marine event called [SAIL Amsterdam](https://www.sail.nl/). It's held once every five years, and is most known for its {{< wiki "Tall_ship" "en" "tall ships" >}} (apart from hundreds of other ships). During the event they sail in loops around the {{< wiki "IJ_(Amsterdam)" "en" "IJ" >}} lake, giving the area a totally different look and attracting millions (yes, millions) of visitors.
 
 For these days bridges over the IJ are open or even get dismantled to let the tall ships sail in.
 
@@ -28,7 +28,7 @@ Route indicators hung out:
 Vending machines with batteries and powerbanks placed at several spots:
 {{< imgfig "https://1.bp.blogspot.com/-Q3EvWrStFeQ/VeMp-MGapzI/AAAAAAAAkWg/ruYZCKPR5FM/s1600/dsc00646.picasaweb.jpg" "Vending machine for food and gadgets." >}}
 
-Narrow bridges over canals on the man-made [Java island][wiki:en:Java-eiland] were supplemented by temporary four-section bridges to cope with the stream of public:
+Narrow bridges over canals on the man-made {{< wiki "Java-eiland" "en" "Java island" >}} were supplemented by temporary four-section bridges to cope with the stream of public:
 {{< imgfig "https://3.bp.blogspot.com/-jexjAS45vrA/VeMqTdnMlkI/AAAAAAAAkUs/BFDP-7_gkXg/s1600/dsc00735.picasaweb.jpg" "Temporary canal bridges." >}}
 
 They've even come up with specially designed litter-bins!
@@ -72,15 +72,15 @@ This ninth edition of the festival was [record breaking](http://www.rtvnh.nl/nie
 * 53 tall ships
 * 1200 volunteers
 
-The sail-in featured ships from all over the world: the USA, Australia, India, Chile etc. And also four Russian ships. The [Kruzenshtern][wiki:en:Kruzenshtern_(ship)] (1926):
+The sail-in featured ships from all over the world: the USA, Australia, India, Chile etc. And also four Russian ships. The {{< wiki "Kruzenshtern_(ship)" "en" "Kruzenshtern" >}} (1926):
 {{< imgfig "https://3.bp.blogspot.com/-YNRTRGDy2XU/VeMqGPzUAXI/AAAAAAAAkRc/uDrpDxyf3jY/s1600/dsc00686.picasaweb.jpg" "The Kruzenshtern." >}}
 
-The [Sedov][wiki:en:STS_Sedov] (1921), originally the {{< fl "Magdalene Vinnen II" >}}. According to the Wikipedia, the largest training sailing ship in the world:
+The {{< wiki "STS_Sedov" "en" "Sedov" >}} (1921), originally the {{< fl "Magdalene Vinnen II" >}}. According to the Wikipedia, the largest training sailing ship in the world:
 {{< imgfig "https://3.bp.blogspot.com/-nGXiHq002Ds/VeMqSqPTAQI/AAAAAAAAkUU/C3bK89IqqDI/s1600/dsc00734.picasaweb.jpg" "The Sedov." >}}
 
-We missed the other two, the [Mir][wiki:en:STS_Mir] (1987) and the Nadezhda (1912). By the way, there was an accident involving the Mir, when [a man fell overboard](http://www.rtlnieuws.nl/nieuws/binnenland/rus-valt-overboord-tijdens-sail) during the sail-in. The details are unknown, but I hope it was not due to booze…
+We missed the other two, the {{< wiki "STS_Mir" "en" "Mir" >}} (1987) and the Nadezhda (1912). By the way, there was an accident involving the Mir, when [a man fell overboard](http://www.rtlnieuws.nl/nieuws/binnenland/rus-valt-overboord-tijdens-sail) during the sail-in. The details are unknown, but I hope it was not due to booze…
 
-The enormous gray [Zr. Ms. De Ruyter][wiki:en:HNLMS_De_Ruyter_(F804)] (2004) was also very impressive. The displacement of the giant ship is 6050 tonnes:
+The enormous gray {{< wiki "HNLMS_De_Ruyter_(F804)" "en" "Zr. Ms. De Ruyter" >}} (2004) was also very impressive. The displacement of the giant ship is 6050 tonnes:
 {{< imgfig "https://1.bp.blogspot.com/-6OFI4JO3_yk/VeMqQO_L_eI/AAAAAAAAkUk/H9Hgcmey2Pw/s1600/dsc00728.picasaweb.jpg" "The frigate Zr. Ms. De Ruyter." >}}
 
 One can cross the IJ using a free ferry line. To accommodate the large amount of public, larger ferry-boats were used.
@@ -121,14 +121,14 @@ The west tip of the Java:
 The Zr. Ms. De Ruyter frigate mentioned above:
 {{< imgfig "https://4.bp.blogspot.com/-8BeHRelD--s/VeMqKvyDTcI/AAAAAAAAkSg/oy6wayMeeNk/s1600/dsc00703.picasaweb.jpg" "The Zr. Ms. De Ruyter frigate." >}}
 
-The Dutch [Europa][wiki:en:Europa_(ship)] (1911), and the Amsterdam Central station afar:
+The Dutch {{< wiki "Europa_(ship)" "en" "Europa" >}} (1911), and the Amsterdam Central station afar:
 {{< imgfig "https://2.bp.blogspot.com/-4p5g2-3ohcw/VeMqLPjmOVI/AAAAAAAAkWg/w22YncTEvt4/s1600/dsc00707.picasaweb.jpg" "The Europa barque." >}}
 {{< imgfig "https://2.bp.blogspot.com/-itk-JZkO-r0/VeMqLbUDPxI/AAAAAAAAkSs/YK1N3xm9cIQ/s1600/dsc00708.picasaweb.jpg" "The Europa barque." >}}
 
-On the other side of the narrow strait is moored another navy ship, the patrol vessel [Zr. Ms. Zeeland][wiki:nl:Zr.Ms._Zeeland_(2013)] (2013):
+On the other side of the narrow strait is moored another navy ship, the patrol vessel {{< wiki "Zr.Ms._Zeeland_(2013)" "nl" "Zr. Ms. Zeeland" >}} (2013):
 {{< imgfig "https://2.bp.blogspot.com/-x7RXeiKHfko/VeMqOStOu7I/AAAAAAAAkTc/bgD7LSaj8og/s1600/dsc00717.picasaweb.jpg" "The Zr. Ms. Zeeland." >}}
 
-The [Zr. Ms. Bruinvis][wiki:nl:Zr.Ms._Bruinvis_(1994)] submarine (1994):
+The {{< wiki "Zr.Ms._Bruinvis_(1994)" "nl" "Zr. Ms. Bruinvis" >}} submarine (1994):
 {{< imgfig "https://2.bp.blogspot.com/-2PjHGEKGnX0/VeMqPEcDt4I/AAAAAAAAkTk/c_kuDrCdQnA/s1600/dsc00719.picasaweb.jpg" "The Zr. Ms. Bruinvis." >}}
 
 Two sections were removed from the {{< fl "Jan Schaeferbrug" >}} bridge to allow the ships to enter. Since it's not usable for traffic, it was turned into a restaurant area:
@@ -165,16 +165,16 @@ A few more photos from the event:
 {{< imgfig "https://2.bp.blogspot.com/-iIqDKO510CQ/VeMqCHGps4I/AAAAAAAAkQg/ZFWoMBrc8vY/s1600/dsc00662.picasaweb.jpg" "SAIL Amsterdam." >}}
 {{< imgfig "https://3.bp.blogspot.com/-mxHtuuT1WZY/VeMqDoBxPyI/AAAAAAAAkQ0/8QFCEm6S0IM/s1600/dsc00671.picasaweb.jpg" "SAIL Amsterdam." >}}
 
-Those boats with brown sails are so-called [botters][wiki:nl:Botter], flat-bottom fishing vessels.
+Those boats with brown sails are so-called {{< wiki "Botter" "nl" "botters" >}}, flat-bottom fishing vessels.
 {{< imgfig "https://3.bp.blogspot.com/-YgFH2k0KELM/VeMqEVqYVdI/AAAAAAAAkRA/yh7IErNtXSo/s1600/dsc00673.picasaweb.jpg" "SAIL Amsterdam." >}}
 
-They use a [leeboard][wiki:en:Leeboard] instead of a kiel to sail upwind, like on this [BU61](http://www.botterbu61.nl/) (1912):
+They use a {{< wiki "Leeboard" "en" "leeboard" >}} instead of a kiel to sail upwind, like on this [BU61](http://www.botterbu61.nl/) (1912):
 {{< imgfig "https://1.bp.blogspot.com/-9Wdq-kNVbTc/VeMqEAdtwCI/AAAAAAAAkQs/4j3VCHEFMZA/s1600/dsc00672.picasaweb.jpg" "Botter BU61. SAIL Amsterdam." >}}
 
 {{< imgfig "https://4.bp.blogspot.com/-4aeljOpXOXA/VeMqE4Nv_-I/AAAAAAAAkRI/yN9mJimIxb4/s1600/dsc00675.picasaweb.jpg" "SAIL Amsterdam." >}}
 {{< imgfig "https://4.bp.blogspot.com/-z5qO5YoErLQ/VeMqIF3HjlI/AAAAAAAAkR8/7L-1m29G8-o/s1600/dsc00690.picasaweb.jpg" "SAIL Amsterdam." >}}
 
-Some more amusing statistics from the event's [Wikipedia page][wiki:nl:Sail_Amsterdam_2015]:
+Some more amusing statistics from the event's {{< wiki "Sail_Amsterdam_2015" "nl" "Wikipedia page" >}}:
 
 * Only one person fell overboard (a Russian from the Mir mentioned above).
 * 63 cases of pickpocketing, the police held 20 pickpockets.

@@ -11,4 +11,4 @@ Google amazes me with its awareness—they congratulate the Dutch with the Queen
 
 I'm curious if the updated logo is only visible in Holland.
 
-[Orange craze][wiki:en:Oranjegekte] is about to begin!
+{{< wiki "Oranjegekte" "en" "Orange craze" >}} is about to begin!

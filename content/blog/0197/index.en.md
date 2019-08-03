@@ -11,9 +11,9 @@ In the brochure of [Spoffin]({{< relref "/blog/0196" >}}) I found a discount cou
 
 <!--more-->
 
-The {{< fl "Onze-Lieve-Vrouwetoren" >}} or "The Tower of Our Lady" was built in the 15<sup>th</sup> century and finishied around 1470. The exact date is unknown since the church archive was destroyed in 1579 during the [Beeldenstorm][wiki:en:Beeldenstorm]—apparently the Protestants couldn't distinguish documents from icons.
+The {{< fl "Onze-Lieve-Vrouwetoren" >}} or "The Tower of Our Lady" was built in the 15<sup>th</sup> century and finishied around 1470. The exact date is unknown since the church archive was destroyed in 1579 during the {{< wiki "Beeldenstorm" "en" "Beeldenstorm" >}}—apparently the Protestants couldn't distinguish documents from icons.
 
-The tower is 98.33 metres tall, which makes it the [third highest][wiki:nl:Lijst_van_hoogste_kerktorens_in_Nederland] in Holland, preceded by the {{< fl "Domtoren" >}} in Utrecht (112 m) and the {{< fl "Nieuwe Kerk" >}} in Delft (109 m). And it's quite fortunate as the {{< fl "Sint-Vituskerk" >}} (Hilversum) is only three centimetres shorter.
+The tower is 98.33 metres tall, which makes it the {{< wiki "Lijst_van_hoogste_kerktorens_in_Nederland" "nl" "third highest" >}} in Holland, preceded by the {{< fl "Domtoren" >}} in Utrecht (112 m) and the {{< fl "Nieuwe Kerk" >}} in Delft (109 m). And it's quite fortunate as the {{< fl "Sint-Vituskerk" >}} (Hilversum) is only three centimetres shorter.
 
 The tower may only be visited with a guided tour, which is spoken in Dutch of course.
 
@@ -50,7 +50,7 @@ Another trend in this highly Internetised country is QR codes, some of them are 
 Some people use their rooftops in a more traditional way:
 {{< imgfig "https://3.bp.blogspot.com/-A8D0NOxaLa0/Uid-E-NsaUI/AAAAAAAAaVo/vIOZb3qt9oE/s1600/dsc01099.picasaweb.jpg" >}}
 
-We were lucky enough to have seen one of the few professional carilloneur of the country. He plays an instrument called [carillon][wiki:en:Carillon], which has a chromatic tuning like a piano, but its keys are in fact levers.
+We were lucky enough to have seen one of the few professional carilloneur of the country. He plays an instrument called {{< wiki "Carillon" "en" "carillon" >}}, which has a chromatic tuning like a piano, but its keys are in fact levers.
 {{< imgfig "https://3.bp.blogspot.com/-HebMeKOgPcg/Uid-GMZH2QI/AAAAAAAAaVw/RqKy6QgKzas/s1600/dsc01100.picasaweb.jpg" >}}
 
 The levers are conneced by wires to bells' clappers:

@@ -6,7 +6,7 @@ tags: ["De Bosuil", "Marcel Coenen", "Marcel Coenen  Friends", "Paul Villarreal"
 
 Наконец-то собрался с духом рассказать о грустном событии для ценителей прогрессива.
 
-Я впервые познакомился с нидерландской командой {{< fl "Sun Caged" >}}, а потом даже воочию увидел их на [фесте Walhalla]({{< relref "/blog/0022" >}}), вскоре после переезда в Голландию — восемь лет назад. И эти ребята произвели на меня огромное впечатление. Ну а потом, в 2011 году, вышел их альбом [The Lotus Effect][wiki:en:The_Lotus_Effect], оказавшийся последним, — и для меня они навечно вошли в историю как гении жанра progressive metal. Я даже не могу объяснить, почему, но этот альбом я считаю одним из самых лучших за всю историю рок-музыки — я могу слушать его бесконечно.
+Я впервые познакомился с нидерландской командой {{< fl "Sun Caged" >}}, а потом даже воочию увидел их на [фесте Walhalla]({{< relref "/blog/0022" >}}), вскоре после переезда в Голландию — восемь лет назад. И эти ребята произвели на меня огромное впечатление. Ну а потом, в 2011 году, вышел их альбом {{< wiki "The_Lotus_Effect" "en" "The Lotus Effect" >}}, оказавшийся последним, — и для меня они навечно вошли в историю как гении жанра progressive metal. Я даже не могу объяснить, почему, но этот альбом я считаю одним из самых лучших за всю историю рок-музыки — я могу слушать его бесконечно.
 
 <!--more-->
 
@@ -31,7 +31,7 @@ tags: ["De Bosuil", "Marcel Coenen", "Marcel Coenen  Friends", "Paul Villarreal"
 > <br>
 > (Hallucinated protection, Natural Parasol, save us all from despair)<br>
 
-Итак, 20 мая 2016 года {{< fl "Sun Caged" >}} вышли на сцену в последний раз. Концерт [проводился](http://www.debosuil.nl/Definition/Details/586965/588540/9197_sun-caged-farewell-show.aspx) в клубе [De Bosuil](http://www.debosuil.nl/), расположенном в местечке [Верт][wiki:ru:Верт_(Нидерланды)] ({{< fl "Weert" >}}) на юге Нидерландов.
+Итак, 20 мая 2016 года {{< fl "Sun Caged" >}} вышли на сцену в последний раз. Концерт [проводился](http://www.debosuil.nl/Definition/Details/586965/588540/9197_sun-caged-farewell-show.aspx) в клубе [De Bosuil](http://www.debosuil.nl/), расположенном в местечке {{< wiki "Верт_(Нидерланды)" "ru" "Верт" >}} ({{< fl "Weert" >}}) на юге Нидерландов.
 
 Клуб довольно маленький, и публики было совсем немного — едва ли полсотни.
 {{< imgfig "https://4.bp.blogspot.com/-Zvv31vD_yDg/V1RAFizgr4I/AAAAAAAAmVw/EySxsG8VjAIia2_unOTSJPVkZMG4cST4QCKgB/s1600/dsc02330.picasaweb.jpg" "Публика." >}}
@@ -102,7 +102,7 @@ tags: ["De Bosuil", "Marcel Coenen", "Marcel Coenen  Friends", "Paul Villarreal"
 А басовые партии в песнях {{< fl "Sun Caged" >}}, надо отметить, местами очень сложные; также в них есть несколько сольных моментов. Арнольд-Димитри был очень неплох, учитывая, сколько ему пришлось изучить за короткое время, — но для меня, знающего наизусть каждую их ноту, это было порой довольно далеко от оригинала.
 {{< imgfig "https://1.bp.blogspot.com/-KLU20IZcrSg/V1RAFmu78TI/AAAAAAAAmVw/QxOGQUIhMrwHhjV4qSEiowzGGD2JuAVoQCKgB/s1600/dsc02392.picasaweb.jpg" "Marcel Coenen и Arnold-Dimitry Rerimassie." >}}
 
-В ещё одном [интервью](http://ytsejam.com/2011/06/interview-with-paul-adrian-villarreal-marcel-coenen-sun-caged/), взятом у музыкантов вскоре после выхода последнего альбома [The Lotus Effect][wiki:en:The_Lotus_Effect], Пол говорит, что весь этот альбом был записан в довольно необычной манере, когда вся группа сочиняла музыку прямо в репетиционной. Таким же способом были сочинены и треки {{< fl "Engelbert the Inchworm" >}} и {{< fl "Departing Words" >}} из их предыдущего альбома [Artemisia][wiki:en:Artemisia_(album)]. Прочитав это, я был удивлён: именно эти композиции я считал лучшими!
+В ещё одном [интервью](http://ytsejam.com/2011/06/interview-with-paul-adrian-villarreal-marcel-coenen-sun-caged/), взятом у музыкантов вскоре после выхода последнего альбома {{< wiki "The_Lotus_Effect" "en" "The Lotus Effect" >}}, Пол говорит, что весь этот альбом был записан в довольно необычной манере, когда вся группа сочиняла музыку прямо в репетиционной. Таким же способом были сочинены и треки {{< fl "Engelbert the Inchworm" >}} и {{< fl "Departing Words" >}} из их предыдущего альбома {{< wiki "Artemisia_(album)" "en" "Artemisia" >}}. Прочитав это, я был удивлён: именно эти композиции я считал лучшими!
 {{< imgfig "https://1.bp.blogspot.com/-W75YkI0JHYY/V1RAFi8V0LI/AAAAAAAAmVw/hBOGd9NQLyw0e5WCx9vA14entnUKrBmywCKgB/s1600/dsc02360.picasaweb.jpg" "Paul Adrian Villarreal." >}}
 
 Но вернёмся к концерту. Группа исполняла номера из всех трёх альбомов, что у них есть, открыв своё выступление песней под названием {{< fl "Sun Caged" >}} из самого первого, одноимённого, альбома:
@@ -120,7 +120,7 @@ tags: ["De Bosuil", "Marcel Coenen", "Marcel Coenen  Friends", "Paul Villarreal"
 Песня {{< fl "Ashes to Earn" >}}, с которой связана одна курьёзная история. Когда альбом вышел, на многих сайтах её название было воспроизведено с опечаткой: {{< fl "Ashes to Ear" >}}, что буквально означает «пепел в ухо». На самом же деле название обыгрывает созвучие слов {{< fl "earn" >}} («зарабатывать») и {{< fl "urn" >}} («урна»; {{< fl "ashes to urn" >}}, соответственно, значит «прах в урну»).
 {{< youtube "IUEwz8j6vOY" >}}
 
-Но абсолютным хитом стала уже упоминавшаяся и любимая мной {{< fl "Departing Words" >}} с {{< fl "PV Bhaskar" >}} на [мриданге][wiki:ru:Мриданга] и Барендом Тромпом ({{< fl "Barend Tromp" >}}) на [ситаре][wiki:ru:Ситар]. Словами это не передать, так что смотрите:
+Но абсолютным хитом стала уже упоминавшаяся и любимая мной {{< fl "Departing Words" >}} с {{< fl "PV Bhaskar" >}} на {{< wiki "Мриданга" "ru" "мриданге" >}} и Барендом Тромпом ({{< fl "Barend Tromp" >}}) на {{< wiki "Ситар" "ru" "ситаре" >}}. Словами это не передать, так что смотрите:
 {{< youtube "0LM_u3quaZs" >}}
 
 На «бис» группа исполнила 24-минутную {{< fl "Ashtamangala" >}}, но у меня к тому времени почти разрядился аккумулятор. Ничего страшного, увидим на DVD.

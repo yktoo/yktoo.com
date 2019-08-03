@@ -4,7 +4,7 @@ title: "A Winter Evening with Stream of Passion — 2015"
 tags: ["Anneke van Giersbergen", "Dianne van Giersbergen", "Lisette van den Berg", "Marcela Bovio", "Merijn van Haren", "music", "Navarone", "Netherlands", "progressive metal", "Stream of Passion", "Tivoli de Helling", "Utrecht", "Xandria"]
 ---
 
-If you think I pay too much attention to [Stream of Passion][wiki:en:Stream_of_Passion], I can tell you I've seen a man on the show for whom that show of the band was the 94<sup>th</sup>.
+If you think I pay too much attention to {{< wiki "Stream_of_Passion" "en" "Stream of Passion" >}}, I can tell you I've seen a man on the show for whom that show of the band was the 94<sup>th</sup>.
 
 Moreover, with the ticket price of **€14** it would be stupid not to go.
 
@@ -20,7 +20,7 @@ Just like [two years ago]({{< relref "/blog/0175" >}}) the show was hosted by a 
 * {{< fl "Dianne van Giersbergen" >}} (Xandria)
 * {{< fl "Merijn van Haren" >}} (Navarone)
 
-Contrary to a popular belief [Anneke][wiki:en:Anneke_van_Giersbergen] and [Dianne van Giersbergen][wiki:en:Dianne_van_Giersbergen] are not related. And no, I don't know why they happened to be on the same stage. Perhaps Marcela has a guest candidate list sorted alphabetically, or something like that.
+Contrary to a popular belief {{< wiki "Anneke_van_Giersbergen" "en" "Anneke" >}} and {{< wiki "Dianne_van_Giersbergen" "en" "Dianne van Giersbergen" >}} are not related. And no, I don't know why they happened to be on the same stage. Perhaps Marcela has a guest candidate list sorted alphabetically, or something like that.
 
 The New Year's eve excitement was in the air, both with the audience and the musicians. Marcela Bovio was giggling, making jokes and asking everyone what they had for Christmas dinner.
 {{< imgfig "https://3.bp.blogspot.com/-kFE4iGm4Wso/VofESjg6WmI/AAAAAAAAlDU/oQWiUtYrckk/s1600/dsc01540.picasaweb.jpg" "Marcela Bovio." >}}
@@ -33,7 +33,7 @@ There was a funny moment when Johan, violently brandishing his guitar, caught an
 Rhythm guitarist Eric Hazebroek, again playing a funny headless guitar. With eight strings it was one more compared to the [previous time]({{< relref "/blog/0250" >}}).
 {{< imgfig "https://1.bp.blogspot.com/-YxAaGjkUZ24/VofESjkSKgI/AAAAAAAAlDU/erAg2uUtwAg/s1600/dsc01519.picasaweb.jpg" "Eric Hazebroek." >}}
 
-Marcela Bovio and Dianne van Giersbergen are singing {{< fl "Abends Will Ich Schlafen Gehn" >}} from [Hansel and Gretel][wiki:en:Hansel_and_Gretel_(opera)] to the accompaniment by Stephan Schultz. That is, supposed to sing, but Marcela is asking Stephan about the dinner instead:
+Marcela Bovio and Dianne van Giersbergen are singing {{< fl "Abends Will Ich Schlafen Gehn" >}} from {{< wiki "Hansel_and_Gretel_(opera)" "en" "Hansel and Gretel" >}} to the accompaniment by Stephan Schultz. That is, supposed to sing, but Marcela is asking Stephan about the dinner instead:
 {{< imgfig "https://1.bp.blogspot.com/-raP71ogtgZA/VofESlX0gvI/AAAAAAAAlDU/j4y8CT8AiPA/s1600/dsc01587.picasaweb.jpg" "Dianne van Giersbergen, Stephan Schultz, Marcela Bovio." >}}
 
 As usual, Marcela also played a violin for a short while:
@@ -56,13 +56,13 @@ A new song called *Powerless* from Marcela Bovio's future solo album, started wi
 *Deceiver* with {{< fl "Lisette van den Berg" >}} of [Scarlet Stories](http://www.scarletstories.nl/):
 {{< youtube "NvVrwayKxR0" >}}
 
-*Earthquake* with {{< fl "Dianne van Giersbergen" >}} ([Xandria][wiki:en:Xandria]):
+*Earthquake* with {{< fl "Dianne van Giersbergen" >}} ({{< wiki "Xandria" "en" "Xandria" >}}):
 {{< youtube "B9AfL2zEilM" >}}
 
-*In Motion #1* by [The Gathering][wiki:en:The_Gathering_(band)] could not be sung without {{< fl "Anneke van Giersbergen" >}}:
+*In Motion #1* by {{< wiki "The_Gathering_(band)" "en" "The Gathering" >}} could not be sung without {{< fl "Anneke van Giersbergen" >}}:
 {{< youtube "NuJB7s3D4kM" >}}
 
-*Lost* featuring {{< fl "Merijn van Haren" >}} of [Navarone][wiki:en:Navarone_(band)]:
+*Lost* featuring {{< fl "Merijn van Haren" >}} of {{< wiki "Navarone_(band)" "en" "Navarone" >}}:
 {{< youtube "XnnqeJxbiJI" >}}
 
 A very nice cover of Queen's *Show Must Go On*, with Marcela and Merijn on vocals:

@@ -11,7 +11,7 @@ A bit later turned out there's a pitfall, too: it produced annoying whining nois
 
 <!--more-->
 
-As explained in the [internets](http://superuser.com/questions/832480/why-do-some-ac-adapters-and-power-supplies-generate-a-whining-noise-and-what-ca), this problem usually occurs in inexpensive devices, and the noise is produced by the high frequency transformer, which hasn't been assembled or affixed firmly enough. To fix that it's commonly recommended to use [hot-melt adhesive][wiki:en:Hot-melt_adhesive] against the transformer to "solidify" the coils and the core. I had both a glue gun and sticks so I've decided to try that out.
+As explained in the [internets](http://superuser.com/questions/832480/why-do-some-ac-adapters-and-power-supplies-generate-a-whining-noise-and-what-ca), this problem usually occurs in inexpensive devices, and the noise is produced by the high frequency transformer, which hasn't been assembled or affixed firmly enough. To fix that it's commonly recommended to use {{< wiki "Hot-melt_adhesive" "en" "hot-melt adhesive" >}} against the transformer to "solidify" the coils and the core. I had both a glue gun and sticks so I've decided to try that out.
 
 The screws holding the device's cover had a fancy tri-wing head (just like the logo of [Yktoo Solutions](https://www.yktoo.solutions/)), but I bought a bit set for all imaginable screw heads a long time ago. The device's case wasn't very crowded, with the DC adapter on a separate PCB. To get to the transformer I had to remove an angular heat-sink from the voltage regulator:
 {{< imgfig "https://4.bp.blogspot.com/-x4-jOUYWL0M/WBWuYatQOkI/AAAAAAAAoKI/9Em7C1Kg37UTeohL-D_adknWOQk0bxChwCPcB/s1600/20161027_133011.picasaweb.jpg" "Cover and heat-sink are removed." >}}

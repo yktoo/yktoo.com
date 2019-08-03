@@ -4,7 +4,7 @@ title: "Harlingen"
 tags: ["Harlingen", "haven", "Netherlands"]
 ---
 
-During our [trip to Leeuwarden]({{< relref "/blog/0205" >}}) we have also visited, among other places, the port town of [Harlingen][wiki:en:Harlingen,_Friesland].
+During our [trip to Leeuwarden]({{< relref "/blog/0205" >}}) we have also visited, among other places, the port town of {{< wiki "Harlingen,_Friesland" "en" "Harlingen" >}}.
 
 The highlights of that visit can be described as: wind, sky, open water and VIEWS. Harlingen is so small that it's barely visible on a map, so but 15 thousand people enjoy these views.
 {{< imgfig "https://2.bp.blogspot.com/-pLASqy3Of8Q/UhoJI6y68HI/AAAAAAAAZbo/TiwV1PaiZ5w/s1600/dsc09727.picasaweb.jpg" >}}
@@ -33,7 +33,7 @@ I can almost hear a Harlingen mom telling her kid: "You must be home when the su
 And here we have a runaway kid, who didn't make it home on time. What do you think this boy is doing?
 {{< imgfig "https://1.bp.blogspot.com/-Sqc7B3_lHRU/UhoJKPuifeI/AAAAAAAAZbw/nLGYesQCEAU/s1600/dsc09729.picasaweb.jpg" >}}
 
-This young Dutch is from Haarlem, not Harlingen (note the difference), as described in the novel [Hans Brinker, or The Silver Skates][wiki:en:Hans_Brinker,_or_The_Silver_Skates] by American author Mary Mapes Dodge. The brave boy was a son of the lock-keeper. One day he spotted a leak in the dike, and at once plugged the hole with his own finger, which luckily fitted well. During the hours after he was calling for help, with his finger in the hole. Help, as usual, wouldn't come. The tale has it that the courageous boy had spent all night at the leak, protecting the city from the hazard, until a priest liberated him from this simple yet tiresome business the next morning. For the Dutch the struggle with water is the leitmotif of their very existence, which is why they've set statues of Hans in a number of their cities.
+This young Dutch is from Haarlem, not Harlingen (note the difference), as described in the novel {{< wiki "Hans_Brinker,_or_The_Silver_Skates" "en" "Hans Brinker, or The Silver Skates" >}} by American author Mary Mapes Dodge. The brave boy was a son of the lock-keeper. One day he spotted a leak in the dike, and at once plugged the hole with his own finger, which luckily fitted well. During the hours after he was calling for help, with his finger in the hole. Help, as usual, wouldn't come. The tale has it that the courageous boy had spent all night at the leak, protecting the city from the hazard, until a priest liberated him from this simple yet tiresome business the next morning. For the Dutch the struggle with water is the leitmotif of their very existence, which is why they've set statues of Hans in a number of their cities.
 
 As years, decades, centuries went by, technologies evolved. The wall on the left is the second line of defence against high waters:
 {{< imgfig "https://3.bp.blogspot.com/-YmI3SZbcsxI/UhoJWy03cDI/AAAAAAAAZc4/qxFAglJf8hc/s1600/dsc09745.picasaweb.jpg" >}}

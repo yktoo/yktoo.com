@@ -10,9 +10,9 @@ I was thinking about it a long time (money was another concern, of course), and 
 
 <!--more-->
 
-The [savemyday.nl](http://www.savemyday.nl/) website is essentially yet another [Groupon][wiki:en:Groupon] clone. Nonetheless, I stumbled upon a very good deal while reading a free newspaper on the train (as I often do) on my way to work.
+The [savemyday.nl](http://www.savemyday.nl/) website is essentially yet another {{< wiki "Groupon" "en" "Groupon" >}} clone. Nonetheless, I stumbled upon a very good deal while reading a free newspaper on the train (as I often do) on my way to work.
 
-[IntraLASIK][wiki:en:Intralasik] laser surgery (claimed to be the most advanced one) in [IRIS Ooglaseren](http://www.irisooglaseren.nl/), regular price € 5000 (includes preliminary examination, the operation itself and subsequent checks), was offered at 60% discount for € 1999. I decided to grab this chance: the discount is substantial, and the advanced technology drastically diminishes a risk of later complications.
+{{< wiki "Intralasik" "en" "IntraLASIK" >}} laser surgery (claimed to be the most advanced one) in [IRIS Ooglaseren](http://www.irisooglaseren.nl/), regular price € 5000 (includes preliminary examination, the operation itself and subsequent checks), was offered at 60% discount for € 1999. I decided to grab this chance: the discount is substantial, and the advanced technology drastically diminishes a risk of later complications.
 
 The IntraLASIK method is more advanced because instead of the metal surgical knife it engages a femtosecond laser to make a corneal flap. The flap is folded back, revealing the stroma, the middle section of the cornea. Then another, excimer laser remodels the shape of the stroma, and the flap is repositioned:
 {{< imgfig "https://4.bp.blogspot.com/-hVq9hZRxoUQ/Tl5ROA2oAtI/AAAAAAAAJkQ/rLdOOht87LY/s1600/intralasik.jpg" >}}

@@ -37,7 +37,7 @@ tags: ["Samsung", "Smart TV", "гаджеты", "железо", "обзор", "�
 
 {{< imgfig "https://1.bp.blogspot.com/-Stoatsq183o/VQx5RMfV5BI/AAAAAAAAhS0/W7MaYipO_WE/s1600/Samsung-OneConnectBox.picasaweb.jpg" "Samsung SEK-2500U UHD Evolution Kit, вид спереди." >}}
 
-Помимо набора тех же, в общем-то, [коннекторов, что и на самом ТВ]({{< relref "/blog/0244" >}}), Evolution Kit поддерживает HDMI 2.0, [HDCP][wiki:ru:HDCP] 2.2 (DRM-технологию от Intel), мобильный интерфейс [MHL][wiki:ru:Mobile_High-Definition_Link] 3.0 и кодек H.265 (HEVC, который вроде бы уже и так [поддерживается]({{< relref "/blog/0247" >}}) этой моделью телевизора).
+Помимо набора тех же, в общем-то, [коннекторов, что и на самом ТВ]({{< relref "/blog/0244" >}}), Evolution Kit поддерживает HDMI 2.0, {{< wiki "HDCP" "ru" "HDCP" >}} 2.2 (DRM-технологию от Intel), мобильный интерфейс {{< wiki "Mobile_High-Definition_Link" "ru" "MHL" >}} 3.0 и кодек H.265 (HEVC, который вроде бы уже и так [поддерживается]({{< relref "/blog/0247" >}}) этой моделью телевизора).
 
 {{< imgfig "https://2.bp.blogspot.com/-B3P606ktdZ4/VQx5QpGroqI/AAAAAAAAhSs/JHlE8tP87DY/s1600/Samsung-OneConnectBox-2.picasaweb.jpg" "Samsung SEK-2500U UHD Evolution Kit, вид сзади." >}}
 

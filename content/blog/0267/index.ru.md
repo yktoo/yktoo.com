@@ -6,11 +6,11 @@ tags: ["Bryan Beller", "De Boerderij", "Guthrie Govan", "Marco Minnemann", "prog
 
 Концертный сезон, открытый [товарищами из Nightwish]({{< relref "/blog/0264" >}}), в самом разгаре.
 
-9 декабря мне впервые довелось посмотреть на очень популярную в узких кругах команду [The Aristocrats][wiki:en:The_Aristocrats_(band)], играющую нечто зубодробительной сложности в диапазоне от джаз-фьюжн до хэви-прогрессив.
+9 декабря мне впервые довелось посмотреть на очень популярную в узких кругах команду {{< wiki "The_Aristocrats_(band)" "en" "The Aristocrats" >}}, играющую нечто зубодробительной сложности в диапазоне от джаз-фьюжн до хэви-прогрессив.
 
 <!--more-->
 
-[Супергруппа][wiki:ru:Супергруппа] {{< fl "The Aristocrats" >}} была основана в 2011 году и в прошлом декабре представляла свой третий альбом [Tres Caballeros][wiki:en:Tres_Caballeros].
+{{< wiki "Супергруппа" "ru" "Супергруппа" >}} {{< fl "The Aristocrats" >}} была основана в 2011 году и в прошлом декабре представляла свой третий альбом {{< wiki "Tres_Caballeros" "en" "Tres Caballeros" >}}.
 
 {{< imgfig "https://2.bp.blogspot.com/-gqODy41rxV0/Vn7LgKAJaBI/AAAAAAAAk8M/eU2egTbUn-Q/s1600/20151209_222003.picasaweb.jpg" "The Aristocrats, слева направо: Guthrie Govan, Marco Minnemann, Bryan Beller." >}}
 
@@ -23,11 +23,11 @@ tags: ["Bryan Beller", "De Boerderij", "Guthrie Govan", "Marco Minnemann", "prog
 
 С положительной стороны можно отметить, что играют все трое просто как боги. Текущий состав команды:
 
-* [Guthrie Govan][wiki:ru:Гован,_Гатри] ({{< fl "Steven Wilson" >}}, {{< fl "Asia" >}}, {{< fl "GPS" >}}, {{< fl "The Young Punx" >}}, {{< fl "The Fellowship" >}}, {{< fl "Erotic Cakes" >}}) – **гитара**
-* [Bryan Beller][wiki:en:Bryan_Beller] ({{< fl "Steve Vai" >}}, {{< fl "Joe Satriani" >}}, {{< fl "James LaBrie" >}}, {{< fl "Dweezil Zappa" >}}, {{< fl "Dethklok" >}}, {{< fl "Mike Keneally" >}}) – **бас**
-* [Marco Minnemann][wiki:en:Marco_Minnemann] ({{< fl "Steven Wilson" >}}, {{< fl "Kreator" >}}, {{< fl "Joe Satriani" >}}, {{< fl "Paul Gilbert" >}}, {{< fl "Necrophagist" >}}) – **ударные**
+* {{< wiki "Гован,_Гатри" "ru" "Guthrie Govan" >}} ({{< fl "Steven Wilson" >}}, {{< fl "Asia" >}}, {{< fl "GPS" >}}, {{< fl "The Young Punx" >}}, {{< fl "The Fellowship" >}}, {{< fl "Erotic Cakes" >}}) – **гитара**
+* {{< wiki "Bryan_Beller" "en" "Bryan Beller" >}} ({{< fl "Steve Vai" >}}, {{< fl "Joe Satriani" >}}, {{< fl "James LaBrie" >}}, {{< fl "Dweezil Zappa" >}}, {{< fl "Dethklok" >}}, {{< fl "Mike Keneally" >}}) – **бас**
+* {{< wiki "Marco_Minnemann" "en" "Marco Minnemann" >}} ({{< fl "Steven Wilson" >}}, {{< fl "Kreator" >}}, {{< fl "Joe Satriani" >}}, {{< fl "Paul Gilbert" >}}, {{< fl "Necrophagist" >}}) – **ударные**
 
-По списку проектов каждого можно оценить их уровень. Наиболее ярким из «Аристократов» является, пожалуй, британский гитарист [Гатри Гован][wiki:ru:Гован,_Гатри] ([Guthrie Govan][wiki:en:Guthrie_Govan]) — сказать про которого, что он виртуоз, — всё равно, что ничего не сказать. Это просто нужно слышать (и видеть).
+По списку проектов каждого можно оценить их уровень. Наиболее ярким из «Аристократов» является, пожалуй, британский гитарист {{< wiki "Гован,_Гатри" "ru" "Гатри Гован" >}} ({{< wiki "Guthrie_Govan" "en" "Guthrie Govan" >}}) — сказать про которого, что он виртуоз, — всё равно, что ничего не сказать. Это просто нужно слышать (и видеть).
 {{< imgfig "https://1.bp.blogspot.com/-iEJR_3Ip7P4/Vn7Lnv-cGoI/AAAAAAAAk94/ElLzdZoMlEY/s1600/20151209_211058.picasaweb.jpg" "Guthrie Govan." >}}
 
 Из-за дурацких новых правил «Крестьянского хозяйства» мне удалось записать лишь пару видео посредственного качества.

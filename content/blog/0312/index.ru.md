@@ -4,9 +4,9 @@ title: "Приманка для Tesla"
 tags: ["Tesla", "авто", "Гронинген", "Дренте", "Илон Маск", "Нидерланды", "новости", "Фрисландия"]
 ---
 
-Маховик популярности [Tesla][wiki:ru:Tesla_Motors] всё раскручивается, несмотря на эпизодические [аварии]({{< relref "/blog/0288" >}}) и [финансовые неурядицы](http://www.vanityfair.com/news/2016/08/is-elon-musks-tesla-in-trouble). Вчера вот Илон Маск [объявил](https://www.bloomberg.com/news/articles/2017-02-22/tesla-says-model-3-on-track-as-quarterly-loss-beats-estimates) о том, что {{< fl "Model 3" >}} всё-таки начнут производить уже в этом году.
+Маховик популярности {{< wiki "Tesla_Motors" "ru" "Tesla" >}} всё раскручивается, несмотря на эпизодические [аварии]({{< relref "/blog/0288" >}}) и [финансовые неурядицы](http://www.vanityfair.com/news/2016/08/is-elon-musks-tesla-in-trouble). Вчера вот Илон Маск [объявил](https://www.bloomberg.com/news/articles/2017-02-22/tesla-says-model-3-on-track-as-quarterly-loss-beats-estimates) о том, что {{< fl "Model 3" >}} всё-таки начнут производить уже в этом году.
 
-Но я хотел рассказать о другом — о веб-сайте [topdutch.com](https://www.topdutch.com/), запущенном тремя северными провинциями Нидерландов: [Дренте][wiki:ru:Дренте], [Гронингеном][wiki:ru:Гронинген_(провинция)] и [Фрисландией][wiki:ru:Фрисландия_(Нидерланды)].
+Но я хотел рассказать о другом — о веб-сайте [topdutch.com](https://www.topdutch.com/), запущенном тремя северными провинциями Нидерландов: {{< wiki "Дренте" "ru" "Дренте" >}}, {{< wiki "Гронинген_(провинция)" "ru" "Гронингеном" >}} и {{< wiki "Фрисландия_(Нидерланды)" "ru" "Фрисландией" >}}.
 
 <!--more-->
 
@@ -18,7 +18,7 @@ tags: ["Tesla", "авто", "Гронинген", "Дренте", "Илон Ма
 
 {{< imgfig "https://2.bp.blogspot.com/-f0gfLQDqoEg/WK9L3AsEb-I/AAAAAAAApWM/UFrJWeaQt84Y6WuX59bDoRm-VGbpLgV-gCPcB/s1600/tesla-we-are.png" >}}
 
-В 2013 году {{< fl "Tesla Motors" >}} открыла [сборочный цех](https://www.tesla.com/blog/tesla-motors-opens-assembly-plant-tilburg-netherlands) в голландском [Тилбурге][wiki:ru:Тилбург], что на юге страны — в том числе потому, что там рукой подать до Роттердама, одного из крупнейших морских портов в Европе. Логично, что север взревновал и теперь хочет доказать, что он тоже, мол, не провинция!
+В 2013 году {{< fl "Tesla Motors" >}} открыла [сборочный цех](https://www.tesla.com/blog/tesla-motors-opens-assembly-plant-tilburg-netherlands) в голландском {{< wiki "Тилбург" "ru" "Тилбурге" >}}, что на юге страны — в том числе потому, что там рукой подать до Роттердама, одного из крупнейших морских портов в Европе. Логично, что север взревновал и теперь хочет доказать, что он тоже, мол, не провинция!
 
 Вот некоторые выдержки из их риторики в переводе.
 

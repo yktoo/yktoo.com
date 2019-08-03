@@ -27,20 +27,20 @@ tags: ["Amorphis", "Arch Enemy", "Floor Jansen", "Heineken Music Hall", "Nightwi
 Большинство зрителей, едва оказавшись внутри, опрометью бросались к сцене — оно и понятно, иначе ради чего было столько торчать под дождём. Но благодаря тому, что зал в {{< fl "Heineken Music Hall" >}} довольно большой, места хватало, и мы заполучили местечко в третьем «стоячем ряду».
 {{< imgfig "https://3.bp.blogspot.com/-4dP_DW-FXgw/VlMnH3UO7YI/AAAAAAAAkwE/poUuCmeN8F4/s1600/dsc01104.picasaweb.jpg" "Перед выступлением Amorphis." >}}
 
-[Amorphis][wiki:ru:Amorphis], финны по происхождению, ведут свои историю ещё с донайтвишевских времён, с 1990 года. Жанр музыки: Progressive/Melodic Death Metal.
+{{< wiki "Amorphis" "ru" "Amorphis" >}}, финны по происхождению, ведут свои историю ещё с донайтвишевских времён, с 1990 года. Жанр музыки: Progressive/Melodic Death Metal.
 
-Вокалист [Tomi Joutsen][wiki:en:Tomi Joutsen] явлется фронтменом команды с 2005 года. Примечателен обилием татуировок и микрофоном замысловатой конструкции, который (при наличии возможности) можно держать тремя руками.
+Вокалист {{< wiki "Tomi Joutsen" "en" "Tomi Joutsen" >}} явлется фронтменом команды с 2005 года. Примечателен обилием татуировок и микрофоном замысловатой конструкции, который (при наличии возможности) можно держать тремя руками.
 {{< imgfig "https://3.bp.blogspot.com/-cu_rFYWdI4E/VlMnHwzMRhI/AAAAAAAAkwE/NQurx1fivLk/s1600/dsc01115.picasaweb.jpg" "Amorphis, вокалист Tomi Joutsen." >}}
 
 Таким ухватистым он сделан, видимо, для того, чтобы его не сдувало мощным вокалом Томи. Для того же нужны и перчатки — я тоже их использую, когда со штангой работаю.
 
-В глубине сцены, за вокалистом, притаился клавишник {{< fl "Santeri Kallio" >}} (я его на концерте даже не сразу заметил), а вдали — один из основателей группы соло-гитарист [Esa Holopainen][wiki:en:Esa_Holopainen]:
+В глубине сцены, за вокалистом, притаился клавишник {{< fl "Santeri Kallio" >}} (я его на концерте даже не сразу заметил), а вдали — один из основателей группы соло-гитарист {{< wiki "Esa_Holopainen" "en" "Esa Holopainen" >}}:
 {{< imgfig "https://4.bp.blogspot.com/-LlSo7SxccxA/VlMnH8ToFAI/AAAAAAAAkwE/emYvye95AP4/s1600/dsc01106.picasaweb.jpg" "Amorphis: Santeri Kallio, Tomi Joutsen, Esa Holopainen." >}}
 
 Басист {{< fl "Niclas Etelävuori" >}} и ударник {{< fl "Jan Rechberger" >}}:
 {{< imgfig "https://4.bp.blogspot.com/-TzTQ6Q5LxTE/VlMnH6L5CkI/AAAAAAAAkwE/52tK-Rkfb3A/s1600/dsc01108.picasaweb.jpg" "Amorphis: Niclas Etelävuori и Jan Rechberger." >}}
 
-Слева неприметно расположился ещё один ветеран, ритм-гитарист [Tomi Koivusaari][wiki:en:Tomi_Koivusaari], играющий в команде со дня её основания:
+Слева неприметно расположился ещё один ветеран, ритм-гитарист {{< wiki "Tomi_Koivusaari" "en" "Tomi Koivusaari" >}}, играющий в команде со дня её основания:
 {{< imgfig "https://2.bp.blogspot.com/-9PWUgFUy848/VlMnH2N6BGI/AAAAAAAAkwE/MAHrWht58lc/s1600/dsc01105.picasaweb.jpg" "Amorphis: Tomi Koivusaari, Niclas Etelävuori, Jan Rechberger." >}}
 
 Видео одной из песен, {{< fl "Sacrifice" >}}:
@@ -48,9 +48,9 @@ tags: ["Amorphis", "Arch Enemy", "Floor Jansen", "Heineken Music Hall", "Nightwi
 
 ## Arch Enemy {#archenemy}
 
-Шведская команда [Arch Enemy][wiki:ru:Arch_Enemy], ровесники хедлайнеров, — намного более известны нежели {{< fl "Amorphis" >}}. А также заметно тяжелее и эпатажнее.
+Шведская команда {{< wiki "Arch_Enemy" "ru" "Arch Enemy" >}}, ровесники хедлайнеров, — намного более известны нежели {{< fl "Amorphis" >}}. А также заметно тяжелее и эпатажнее.
 
-Главная фишка группы — это девочка-с-голубыми-волосами, канадка [Alissa White-Gluz][wiki:ru:Уайт-Глаз,_Алисса] на вокале.
+Главная фишка группы — это девочка-с-голубыми-волосами, канадка {{< wiki "Уайт-Глаз,_Алисса" "ru" "Alissa White-Gluz" >}} на вокале.
 {{< imgfig "https://1.bp.blogspot.com/-By8SwUSzyz0/VlMnH-Fv5rI/AAAAAAAAkwE/JW3VOCdH6Mw/s1600/dsc01128.picasaweb.jpg" "Arch Enemy: Michael Amott и Alissa White-Gluz." >}}
 
 И вот, выходит это милое создание на сцену и начинается вот это:
@@ -59,10 +59,10 @@ tags: ["Amorphis", "Arch Enemy", "Floor Jansen", "Heineken Music Hall", "Nightwi
 Голубые волосы используются по прямому назначению:
 {{< imgfig "https://2.bp.blogspot.com/-KGLuQcI0puA/VlMnH-Dn8QI/AAAAAAAAkwE/lbNiShC9t0k/s1600/dsc01157.picasaweb.jpg" "Arch Enemy: Класс хэдбэнгинга от Alissa White-Gluz." >}}
 
-Официально *шведская* группа состоит из канадской вокалистки (в свободное от хэдбэнгинга время марширующей по сцене с флагом {{< fl "Arch Enemy" >}}) и американцев-гитаристов [Michael Amott][wiki:ru:Эмотт,_Майкл] и [Jeff Loomis][wiki:ru:Лумис,_Джефф]:
+Официально *шведская* группа состоит из канадской вокалистки (в свободное от хэдбэнгинга время марширующей по сцене с флагом {{< fl "Arch Enemy" >}}) и американцев-гитаристов {{< wiki "Эмотт,_Майкл" "ru" "Michael Amott" >}} и {{< wiki "Лумис,_Джефф" "ru" "Jeff Loomis" >}}:
 {{< imgfig "https://3.bp.blogspot.com/-w_e3fC1q2_Q/VlMnH4n2CYI/AAAAAAAAkwE/QQDL0jAi8Dg/s1600/dsc01179.picasaweb.jpg" "Arch Enemy: Michael Amott, Jeff Loomis и девушка с флагом." >}}
 
-Шведов же в тусовке только два: басист [Sharlee D'Angelo][wiki:ru:Шарли_Д’Анджело] и ударник [Daniel Erlandsson][wiki:ru:Эрландссон,_Даниэль].
+Шведов же в тусовке только два: басист {{< wiki "Шарли_Д’Анджело" "ru" "Sharlee D'Angelo" >}} и ударник {{< wiki "Эрландссон,_Даниэль" "ru" "Daniel Erlandsson" >}}.
 {{< imgfig "https://1.bp.blogspot.com/-FNkNEXV01yQ/VlMnH6nlcmI/AAAAAAAAkwE/nU8RcNHybsg/s1600/dsc01173.picasaweb.jpg" "Arch Enemy: Слева направо: Michael Amott, Sharlee D'Angelo, Alissa White-Gluz." >}}
 
 У Эмотта постоянно такой вид, как будто он либо под кайфом (что не исключено), либо жмёт струну из последних сил.
@@ -79,19 +79,19 @@ tags: ["Amorphis", "Arch Enemy", "Floor Jansen", "Heineken Music Hall", "Nightwi
 
 ## Nightwish {#nightwish}
 
-Сразу после ухода {{< fl "Arch Enemy" >}} опустили занавес, за которым начались серьёзные приготовления к выступлению хедлайнеров, финской команды [Nightwish][wiki:ru:Nightwish], снискавшей за прошедшие с её основания девятнадцать лет статус легенды симфо-металла. Зал к этому моменту был забит чуть менее, чем полностью.
+Сразу после ухода {{< fl "Arch Enemy" >}} опустили занавес, за которым начались серьёзные приготовления к выступлению хедлайнеров, финской команды {{< wiki "Nightwish" "ru" "Nightwish" >}}, снискавшей за прошедшие с её основания девятнадцать лет статус легенды симфо-металла. Зал к этому моменту был забит чуть менее, чем полностью.
 
 {{< imgfig "https://1.bp.blogspot.com/-wXTM96gGX0w/VlMnH9P50_I/AAAAAAAAkwE/eEi0c6d5fls/s1600/dsc01460.picasaweb.jpg" "Выступление Nightwish: мы где-то там, вдали, у самой сцены." >}}
 
 Во время антракта на дисплеях, висящих на стенах, отображалось предупреждение, что в шоу используются пиротехника и взрывы, но, по-моему, никто на это внимания не обратил. Так что взрыв, раздавшийся на краю сцены (то есть прямо у нас под носом) одновременно с поднятием занавеса, застал большинство изрядно разогретых металлистов врасплох. После этого взорвался и зал (в переносном смысле, конечно).
 
-С 2013 года в исконно финской группе вокалисткой голландка [Floor Jansen][wiki:ru:Янсен,_Флор] (которую я должен был увидеть ещё четыре года назад с [Pagan's Mind]({{< relref "/blog/0136" >}}), но не случилось):
+С 2013 года в исконно финской группе вокалисткой голландка {{< wiki "Янсен,_Флор" "ru" "Floor Jansen" >}} (которую я должен был увидеть ещё четыре года назад с [Pagan's Mind]({{< relref "/blog/0136" >}}), но не случилось):
 {{< imgfig "https://2.bp.blogspot.com/-f2jGwSEXA_M/VlMnHztz9tI/AAAAAAAAkwE/jGSdKCPu47s/s1600/dsc01230.picasaweb.jpg" "Nightwish: Floor Jansen." >}}
 
-Основатели симфо-легенды клавишник [Tuomas Holopainen][wiki:ru:Холопайнен,_Туомас] и смешной гитарист [Emppu Vuorinen][wiki:ru:Вуоринен,_Эрно]:
+Основатели симфо-легенды клавишник {{< wiki "Холопайнен,_Туомас" "ru" "Tuomas Holopainen" >}} и смешной гитарист {{< wiki "Вуоринен,_Эрно" "ru" "Emppu Vuorinen" >}}:
 {{< imgfig "https://4.bp.blogspot.com/-7hXinmuKOro/VlMnH6BC1GI/AAAAAAAAkwM/fpFDbnNw3JQ/s1600/dsc01254.picasaweb.jpg" "Nightwish: Tuomas Holopainen и Emppu Vuorinen." >}}
 
-Басист [Marco Hietala][wiki:ru:Хиетала,_Марко], очень похожий на гнома из мультика (колпака только не хватает), также часто участвует вторым вокалом. А ещё любит строить рожи:
+Басист {{< wiki "Хиетала,_Марко" "ru" "Marco Hietala" >}}, очень похожий на гнома из мультика (колпака только не хватает), также часто участвует вторым вокалом. А ещё любит строить рожи:
 {{< imgfig "https://3.bp.blogspot.com/-Wvs0ASPxOxs/VlMnHyTqqzI/AAAAAAAAkwE/welUIilh4K4/s1600/dsc01266.picasaweb.jpg" "Nightwish: Marco Hietala и Floor Jansen." >}}
 
 Также иногда подыгрывает в акустике на модном комбайне с двумя грифами.
@@ -109,7 +109,7 @@ tags: ["Amorphis", "Arch Enemy", "Floor Jansen", "Heineken Music Hall", "Nightwi
 {{< imgfig "https://2.bp.blogspot.com/-VlVJ2ZHQPas/VlMnH54O-lI/AAAAAAAAkwM/Wrwn4JOzb4o/s1600/dsc01327.picasaweb.jpg" "Nightwish: Floor Jansen и Emppu Vuorinen." >}}
 {{< imgfig "https://4.bp.blogspot.com/-cv6C8sgle5g/VlMnH-v8U4I/AAAAAAAAkwE/20onVWQeWeE/s1600/dsc01336.picasaweb.jpg" "Nightwish: Floor Jansen." >}}
 
-Держащийся неприметно самый старший участник группы (51 год), британец [Troy Donockley][wiki:ru:Донокли,_Трой], за свою тридцатипятилетнюю карьеру переигравший с огромным количеством групп и музыкантов (включая и {{< fl "Ayreon" >}} [Арьена Лукассена]({{< relref "/blog/0250" >}})):
+Держащийся неприметно самый старший участник группы (51 год), британец {{< wiki "Донокли,_Трой" "ru" "Troy Donockley" >}}, за свою тридцатипятилетнюю карьеру переигравший с огромным количеством групп и музыкантов (включая и {{< fl "Ayreon" >}} [Арьена Лукассена]({{< relref "/blog/0250" >}})):
 {{< imgfig "https://3.bp.blogspot.com/-SSfZZOgreyk/VlMnH5_8yDI/AAAAAAAAkwM/PFqh1gnCm4Y/s1600/dsc01319.picasaweb.jpg" "Nightwish: Troy Donockley." >}}
 
 Более всего он известен своей игрой на ирландской волынке, которая изумительно сочетается со звучанием {{< fl "Nightwish" >}}.
@@ -118,7 +118,7 @@ tags: ["Amorphis", "Arch Enemy", "Floor Jansen", "Heineken Music Hall", "Nightwi
 Вот, например, {{< fl "I Want My Tears Back" >}} с его соло:
 {{< youtube "jtFw5HVMP0U" >}}
 
-И, как говорится, *last but not least*: ударник [Kai Hahto][wiki:en:Kai_Hahto] — мне очень понравилось, как он работал.
+И, как говорится, *last but not least*: ударник {{< wiki "Kai_Hahto" "en" "Kai Hahto" >}} — мне очень понравилось, как он работал.
 {{< imgfig "https://2.bp.blogspot.com/-znxKNed8zjs/VlMnH5Q7haI/AAAAAAAAkwE/1GUKVcfCKdY/s1600/dsc01405.picasaweb.jpg" "Nightwish: Kai Hahto." >}}
 {{< imgfig "https://2.bp.blogspot.com/-jB8N4ITaCIU/VlMnH6mDY6I/AAAAAAAAkwE/XnhJEDQLB5g/s1600/dsc01287.picasaweb.jpg" "Nightwish: Marco Hietala и Kai Hahto." >}}
 

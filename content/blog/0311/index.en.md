@@ -18,7 +18,7 @@ I tend to think that it's better to regret what you have done than what you have
 
 In general one can pick any name for their business, provided that it isn't misleading or repeating any of the existing ones. An example of a misleading name is one that is based on a name that isn't yours (like "Johnson & Sons" if your name is not Johnson) or misrepresents the size or industry of the business ("Paradise Cleaning Industries" for a private house cleaner).
 
-My company's name was totally alright; the word *solutions* is very common in IT consulting. I've also registered the domain `yktoo.solutions` (many people still get surprised that such a [TLD][wiki:en:Top-level_domain] exists) and developed a simple [website](https://www.yktoo.solutions/) for it. It's nice to cherish and nurture your own newborn business.
+My company's name was totally alright; the word *solutions* is very common in IT consulting. I've also registered the domain `yktoo.solutions` (many people still get surprised that such a {{< wiki "Top-level_domain" "en" "TLD" >}} exists) and developed a simple [website](https://www.yktoo.solutions/) for it. It's nice to cherish and nurture your own newborn business.
 
 {{< imgfig "https://1.bp.blogspot.com/-XCYqqwYaPbs/WCo7vX_qTiI/AAAAAAAAoPA/hDBojNJO1Pk9pRHGq7L6hQCzTBd_bIaCACPcB/s1600/20161105_211814.picasaweb.jpg" "Yktoo Solutions business cards." >}}
 

@@ -6,7 +6,7 @@ tags: ["Amsterdam", "AutoRAI", "cars", "girls", "Netherlands", "RAI"]
 
 Even though nearly half a year has passed, better late than never.
 
-In April 2011 I visited the largest car exhibition of the Netherlands called [AutoRAI](http://www.autorai.nl/). It takes place in the Amsterdam RAI exhibition centre, and its name originates from [Rijwiel- en Automobiel Industrie Vereniging][wiki:nl:RAI_Vereniging] ("Bicycle and Automobile Industry Association", founded in 1893).
+In April 2011 I visited the largest car exhibition of the Netherlands called [AutoRAI](http://www.autorai.nl/). It takes place in the Amsterdam RAI exhibition centre, and its name originates from {{< wiki "RAI_Vereniging" "nl" "Rijwiel- en Automobiel Industrie Vereniging" >}} ("Bicycle and Automobile Industry Association", founded in 1893).
 
 <!--more-->
 
