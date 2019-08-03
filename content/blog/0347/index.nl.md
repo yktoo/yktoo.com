@@ -8,4 +8,4 @@ Iedereen wie al enige tijd met softwareontwikkeling bezig is, is waarschijnlijk 
 
 En hoe meer repositories je kloont, van GitHub of van je lokale server, hoe meer werk deze routine oplevert.
 
-<!--![](img:yktoo.solutions/blog/2019/07/19-managing-git-projects-on-a-mass-scale/git.png)-->
+<!--{{< imgfig "https://yktoo.solutions/blog/2019/07/19-managing-git-projects-on-a-mass-scale/git.png" >}}-->

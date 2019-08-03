@@ -10,7 +10,7 @@ In my [last post][post:231] I told you about upgrading an iMac with a solid-stat
 
 They have downsides, too—a high price (which can hardly be addressed) and a limited lifetime, or, more precisely, number of write operations (number of read operations is virtually unlimited). Even though a modern SSD allows for millions of write-ops, it's sensible to extend its lifetime and increase overall system performance by some tuning.
 
-![](img:1.bp.blogspot.com/-ZikqqB86Bb4/WK3RKkQQT8I/AAAAAAAApUk/X6V97DAgruk3V6qsal5TFzVysauuzvGoQCPcB/s1600/ubuntu.png)
+{{< imgfig "https://1.bp.blogspot.com/-ZikqqB86Bb4/WK3RKkQQT8I/AAAAAAAApUk/X6V97DAgruk3V6qsal5TFzVysauuzvGoQCPcB/s1600/ubuntu.png" >}}
 
 [Debian website](https://wiki.debian.org/SSDOptimization) gives a number of good advices; I'll tell you about optimisations I've made to my system (Ubuntu 14.10 Utopic Unicorn).
 

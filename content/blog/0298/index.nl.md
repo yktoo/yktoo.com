@@ -8,7 +8,7 @@ Ik vind de huidige tendens om alles wat Wi-Fi, Bluetooth of internetverbinding h
 
 <!--more-->
 
-![](img:1.bp.blogspot.com/-fAmNTgh_Xvs/WDrCLjmjWBI/AAAAAAAAoVc/Fm3jK0UypYkNZxz_DOEYZJzdX81ACWOwwCPcB/s1600/slim-verkeerslicht-houten.picasaweb.jpg:a "Het kruispunt met het slimme verkeerslich. Foto van Google Street View.")
+{{< imgfig "https://1.bp.blogspot.com/-fAmNTgh_Xvs/WDrCLjmjWBI/AAAAAAAAoVc/Fm3jK0UypYkNZxz_DOEYZJzdX81ACWOwwCPcB/s1600/slim-verkeerslicht-houten.picasaweb.jpg" "Het kruispunt met het slimme verkeerslich. Foto van Google Street View." >}}
 
 Je vraagt je af wat er slim aan dat verkeerslicht is?
 
@@ -17,7 +17,7 @@ Ik moet inmiddels opmerken dat bijna alle verkeerslichten in Nederland al behoor
 Om terug te komen op ons intellectuele verkeerslicht, de chauffeur zal in een *speciale mobiele applicatie* kunnen zien hoelang het zou duren voordat het licht op groen springt. Deze superfunctie is momenteel alleen aanwezig in de [iOS-versie](https://itunes.apple.com/nl/app/verkeerplaza-verkeersinformatie/id510339308) van de app, die ik niet kan testen omdat ik geen toestel met iOS thuis heb.
 
 Aldus de [ontwikkelaars](http://www.infoplaza.nl/archives/2420/) ziet het er ongeveer zo uit:
-![](img:3.bp.blogspot.com/-egBDZPkVLgw/WDrFK8SbQMI/AAAAAAAAoVw/aePL_T1cvLo4mHVUq2YBMWP43l4VInrFwCPcB/s1600/verkeersplaza-app.picasaweb.jpg:a "How it's supposed to look like. Image from www.infoplaza.nl.")
+{{< imgfig "https://3.bp.blogspot.com/-egBDZPkVLgw/WDrFK8SbQMI/AAAAAAAAoVw/aePL_T1cvLo4mHVUq2YBMWP43l4VInrFwCPcB/s1600/verkeersplaza-app.picasaweb.jpg" "How it's supposed to look like. Image from www.infoplaza.nl." >}}
 
 Het nieuwsartikel geeft verder geen details over de gebruikte technologieën, maar verklaart dat *"Verkeerplaza app de eerste app in Nederland is die communiceert met een slim verkeerslicht."* Het is onduidelijk of die een directe verbinding met de verkeersregelinstallatie maakt (via {{< fl "Wi-Fi" >}} of {{< fl "Bluetooth" >}}), of gewoon updates via internet krijgt (wat aannemelijker klinkt).
 

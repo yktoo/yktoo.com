@@ -8,9 +8,9 @@ On the subject of music and electronics at the same time: I wanted to share this
 
 <!--more-->
 
-<!-- ![](img:img.youtube.com/vi/jMNIvLiCnw8/maxresdefault.jpg) -->
+<!-- {{< imgfig "https://img.youtube.com/vi/jMNIvLiCnw8/maxresdefault.jpg" >}} -->
 
-![](youtube:jMNIvLiCnw8)
+{{< youtube "jMNIvLiCnw8" >}}
 
 Even though I am not moved at all by Mr. Jackson's music, I really liked this version of his song. The doggies' work is also worth mentioning for the pokerface they manage to keep for the entire performance.
 

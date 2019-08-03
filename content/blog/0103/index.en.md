@@ -5,7 +5,7 @@ tags: ["blog"]
 ---
 
 Some planned changes have been made to the blog.
-![](img:4.bp.blogspot.com/-bDT2EUCLWxY/Th8_MnB40lI/AAAAAAAAJHQ/F14fig3v1NM/s1600/i-like-to-move-it.jpg)
+{{< imgfig "https://4.bp.blogspot.com/-bDT2EUCLWxY/Th8_MnB40lI/AAAAAAAAJHQ/F14fig3v1NM/s1600/i-like-to-move-it.jpg" >}}
 
 As it has matured, it moved to my own domain, and the new URL is: **blog.yktoo.com**.
 

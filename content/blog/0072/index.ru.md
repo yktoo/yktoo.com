@@ -9,7 +9,7 @@ tags: ["интересное", "музыка", "Нидерланды", "поез
 Так что пока только кратко об интересном.
 
 Интересное было обнаружено мной при возвращении с работы, на центральном железнодорожном вокзале, и выглядело как духовой оркестр. Который было слышно, разумеется, издалека.
-![](img:4.bp.blogspot.com/-ta4Wf4JAhq4/TVkpFbEOqLI/AAAAAAAAH_0/SKANrC9W4IM/s1600/IMAG0210.jpg:a)
+{{< imgfig "https://4.bp.blogspot.com/-ta4Wf4JAhq4/TVkpFbEOqLI/AAAAAAAAH_0/SKANrC9W4IM/s1600/IMAG0210.jpg" >}}
 
 <!--more-->
 
@@ -17,7 +17,7 @@ tags: ["интересное", "музыка", "Нидерланды", "поез
 
 Качество фотографии плохое: снималось, естественно, на телефон.
 
-![](img:4.bp.blogspot.com/-kVl9zYihrhM/TVkrI4soaKI/AAAAAAAAH_4/gvYqL9F0WQI/s1600/harmonieorkest.jpg:a "NS Harmonieorkest. Фото с их сайта.")
+{{< imgfig "https://4.bp.blogspot.com/-kVl9zYihrhM/TVkrI4soaKI/AAAAAAAAH_4/gvYqL9F0WQI/s1600/harmonieorkest.jpg" "NS Harmonieorkest. Фото с их сайта." >}}
 
 Вообще говоря, ж/д-вокзалы не так уж редко становятся концертными площадками. Как минимум несколько раз в год где-нибудь в здании вокзала возводится импровизированная сцена, расставляется внушительное количество аппаратуры и начинается *искусство*.
 

@@ -5,7 +5,7 @@ tags: ["holidays", "Netherlands", "Queen's Day"]
 ---
 
 Google amazes me with its awareness—they congratulate the Dutch with the Queen's Day:
-![](img:3.bp.blogspot.com/-PhlZnQq-VwA/Tbs8QyR4TgI/AAAAAAAAIgw/qEis4bQu7eM/s1600/Koninginnedag.png)
+{{< imgfig "https://3.bp.blogspot.com/-PhlZnQq-VwA/Tbs8QyR4TgI/AAAAAAAAIgw/qEis4bQu7eM/s1600/Koninginnedag.png" >}}
 
 <!--more-->
 

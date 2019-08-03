@@ -6,7 +6,7 @@ tags: ["Andy Weir", "The Martian", "книги", "фантастика"]
 
 Прочитал роман американца [Энди Уира][wiki:ru:Уир,_Энди] ([Andy Weir][wiki:en:Andy_Weir_(writer)]) под названием [«Марсианин»][wiki:ru:Марсианин_(роман)] ([The Martian][wiki:en:The_Martian_(Weir_novel)]). До сих пор нахожусь под впечатлением.
 
-![](img:1.bp.blogspot.com/-SZSg3tj1IWs/VMN-PONnroI/AAAAAAAAgxc/0hKQQu6lvRg/s1600/andy-weir-the-martian.picasaweb.jpg:a "Andy Weir. The Martian.")
+{{< imgfig "https://1.bp.blogspot.com/-SZSg3tj1IWs/VMN-PONnroI/AAAAAAAAgxc/0hKQQu6lvRg/s1600/andy-weir-the-martian.picasaweb.jpg" "Andy Weir. The Martian." >}}
 
 Фантастика всегда была одним из моих любимых жанров, а здесь сюжет затягивает прямо с первых страниц.
 

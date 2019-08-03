@@ -12,4 +12,4 @@ tags: ["Gtk3", "PulseAudio", "Python", "Saucy Salamander", "Sound Switcher Indic
 Новая версия построена на GTK+ 3 и новомодном GObject Introspection (GIRepository). [Установить][route:/software/indicator-sound-switcher] можно, как обычно, из моего [Launchpad PPA](https://launchpad.net/~yktooo/+archive/ppa/).
 
 Ну, и по традиции — картинка для привлечения внимания:
-![](img:3.bp.blogspot.com/-mMvzn9ftuEM/UhoP0iFj0QI/AAAAAAAAaD0/nH3vnaPzgcM/s1600/dsc00889.picasaweb.jpg:a)
+{{< imgfig "https://3.bp.blogspot.com/-mMvzn9ftuEM/UhoP0iFj0QI/AAAAAAAAaD0/nH3vnaPzgcM/s1600/dsc00889.picasaweb.jpg" >}}

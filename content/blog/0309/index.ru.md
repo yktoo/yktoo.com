@@ -15,7 +15,7 @@ tags: ["Yktoo Solutions", "бизнес", "налоги", "Нидерланды"
 
 *На всякий случай, во избежание недоразумений, отмечу, что всё нижеперечисленное относится к **Нидерландам**.*
 
-![](img:4.bp.blogspot.com/-f_a4KQVmI1w/WN97i86B4jI/AAAAAAAAptQ/tQHL2EJd3pcyo5NSzzCyPmQuDu3Ls8DlQCPcB/s1600/pros-and-cons.jpg)
+{{< imgfig "https://4.bp.blogspot.com/-f_a4KQVmI1w/WN97i86B4jI/AAAAAAAAptQ/tQHL2EJd3pcyo5NSzzCyPmQuDu3Ls8DlQCPcB/s1600/pros-and-cons.jpg" >}}
 
 ## Аргументы «против» {#contra}
 

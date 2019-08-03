@@ -9,13 +9,13 @@ tags: ["Plug-In Hybrid", "Toyota Prius", "авто", "гаджеты"]
 <!--more-->
 
 И не то, чтобы со ней были какие-то проблемы — как раз наоборот, ни малейшей неисправности за всё время эксплуатации. Но, как известно, если ждать достаточно долго, то ~~перед тобой проплывёт труп твоего врага~~ проблемы не преминут появиться. Да и, в конце концов, хочется же порой чего-то новенького.
-![](img:3.bp.blogspot.com/-TM5UJH9RL4M/WThoZVX3b8I/AAAAAAAAqGk/ckLR_7A1HCIoEtTm25SVwK7GEvy08_3tgCKgB/s1600/20170527_131723.picasaweb.jpg:a "Toyota Prius PHV.")
+{{< imgfig "https://3.bp.blogspot.com/-TM5UJH9RL4M/WThoZVX3b8I/AAAAAAAAqGk/ckLR_7A1HCIoEtTm25SVwK7GEvy08_3tgCKgB/s1600/20170527_131723.picasaweb.jpg" "Toyota Prius PHV." >}}
 
 ## Toyota Prius {#prius}
 
 Итак, это {{< fl "Toyota Prius PHV" >}} третьего поколения, модель {{< fl "ZVW35" >}}, впервые представленная в 2012 году. Моя же выпущена в сентябре **2014**-го, то есть ей три годика.
 
-![](img:2.bp.blogspot.com/-RYsJ_VzbjE0/WThoZS-vxoI/AAAAAAAAqGk/lGn5ZP97L3gftGjJfw6oSFZVE7xT8IvNgCKgB/s1600/20170527_131710.picasaweb.jpg:a "Toyota Prius PHV.")
+{{< imgfig "https://2.bp.blogspot.com/-RYsJ_VzbjE0/WThoZS-vxoI/AAAAAAAAqGk/lGn5ZP97L3gftGjJfw6oSFZVE7xT8IvNgCKgB/s1600/20170527_131710.picasaweb.jpg" "Toyota Prius PHV." >}}
 
 Почему я постоянно выбираю именно {{< fl "Toyota Prius" >}}?
 
@@ -37,10 +37,10 @@ tags: ["Plug-In Hybrid", "Toyota Prius", "авто", "гаджеты"]
 У {{< fl "plug-in hybrid" >}} аккумулятор можно подзаряжать от обычной розетки. У моего {{< fl "Prius" >}} батарея уже литий-ионная, ёмкостью **4,4 кВт·ч**. Это, конечно, не [Tesla Model S][wiki:ru:Tesla_Model_S] с огромным аккумулятором в 70-90 кВт·ч. На полностью заряженном {{< fl "Prius PHV" >}} в электрическом режиме можно проехать примерно **18-20 км**. Это, с одной стороны, не особенно много, а с другой — вполне достаточно, чтобы съездить за продуктами или на шопинг в соседний город и обратно. Для перехода в режим {{< fl "EV" >}} и обратно есть отдельная кнопка, но, если заряд на исходе или резко нажата педаль газа, режим {{< fl "EV" >}} автоматически выключится. Также он временно выключается, если машина разгоняется до **90 км/ч**.
 
 Этот более крупный аккумулятор Тойота решила запихнуть в багажник, из-за чего больше не осталось места для запасного колеса. Мне остаётся лишь надеяться, что оно не понадобится.
-![](img:2.bp.blogspot.com/-daJva3GhoYY/WUdkliiWcCI/AAAAAAAAqIk/89E4uwXOCOsIDf43CBnXyePql1StJnoegCKgBGAs/s1600/20170530_191011.picasaweb.jpg:a "Багажник Приуса.")
+{{< imgfig "https://2.bp.blogspot.com/-daJva3GhoYY/WUdkliiWcCI/AAAAAAAAqIk/89E4uwXOCOsIDf43CBnXyePql1StJnoegCKgBGAs/s1600/20170530_191011.picasaweb.jpg" "Багажник Приуса." >}}
 
 Аккумулятор «с нуля» заряжается примерно за час (током 10 А, т.е. мощностью 2,3 кВт), что свидетельствует о том, что «нулю» соответствует остаточный заряд где-то в 50%. По местным расценкам на электроэнергию (около **€0,11** днём и **0,09** ночью) полный *электробак* обходится примерно в **25** евроцентов, что практически бесплатно. Езда на бензине примерно в шесть раз дороже (и это, заметьте, на гибриде, у которого средний расход всего **3-4 л** на 100 км) — в настоящее время литр 95-го стоит в наших краях около **1,50** евро.
-![](img:1.bp.blogspot.com/-IWuBt7NwwnI/WUdklvofpVI/AAAAAAAAqIk/0M-GcH8zwMMjFmcwZs8Fg5mP02YLUa1EACKgBGAs/s1600/20170530_191020.picasaweb.jpg:a "Аккумулятор.")
+{{< imgfig "https://1.bp.blogspot.com/-IWuBt7NwwnI/WUdklvofpVI/AAAAAAAAqIk/0M-GcH8zwMMjFmcwZs8Fg5mP02YLUa1EACKgBGAs/s1600/20170530_191020.picasaweb.jpg" "Аккумулятор." >}}
 
 Кстати, у Приуса можно выставить таймер, чтобы заряжать его ночью по более дешёвому тарифу.
 
@@ -52,7 +52,7 @@ tags: ["Plug-In Hybrid", "Toyota Prius", "авто", "гаджеты"]
 
 Обалденная штука {{< fl "Head-Up Display" >}} ({{< fl "HUD" >}}) — он проецирует текущую скорость и, опционально, подсказки GPS-навигатора прямо на ветровое стекло:
 
-![](img:2.bp.blogspot.com/-3Prwy_uwpAM/Wa6RNfUyvlI/AAAAAAAAqn8/Ec6I2_HbFB4KUtG_W9U2wA_RVfqBkorlwCKgBGAs/s1600/20170725_155338.picasaweb.jpg:a "Head-Up Display.")
+{{< imgfig "https://2.bp.blogspot.com/-3Prwy_uwpAM/Wa6RNfUyvlI/AAAAAAAAqn8/Ec6I2_HbFB4KUtG_W9U2wA_RVfqBkorlwCKgBGAs/s1600/20170725_155338.picasaweb.jpg" "Head-Up Display." >}}
 
 С ним можно видеть скорость, не отвлекаясь от дороги. Положение и яркость {{< fl "HUD" >}} настраиваются, его прекрасно видно в любых условиях, и при этом он нисколько не мешает.
 

@@ -23,7 +23,7 @@ So I found out, for instance, that the indicator is also popular with old Ubuntu
       * **13.10** ({{< fl "Saucy Salamander" >}})
       * **14.04** LTS ({{< fl "Trusty Tahr" >}}) — tested in Trusty Alpha 2.
 * A default program icon has been added. It will be picked up in the case a non-standard desktop theme is used. I've turned up the contrast a little bit to make it work with both light and dark themes:
-  ![](img:1.bp.blogspot.com/-p_jKIQD-wJ4/UvZeMTHsmYI/AAAAAAAAb1g/DYm853qnCjw/s1600/indicator-sound-switcher.png)
+  {{< imgfig "https://1.bp.blogspot.com/-p_jKIQD-wJ4/UvZeMTHsmYI/AAAAAAAAb1g/DYm853qnCjw/s1600/indicator-sound-switcher.png" >}}
 
 ## Installation {#installation}
 

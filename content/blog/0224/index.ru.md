@@ -16,4 +16,4 @@ tags: ["Vathorst", "айкидо", "Амерсфорт", "видео", "Ниде
 
 <!--more-->
 
-![](youtube:FpEad5sI-bc)
+{{< youtube "FpEad5sI-bc" >}}

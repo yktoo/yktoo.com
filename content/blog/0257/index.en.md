@@ -8,7 +8,7 @@ I have to admit that the Russian Post has well earned its popular nickname "Hell
 
 <!--more-->
 
-![](img:3.bp.blogspot.com/-W6K6Y48Ng78/WK3Ftl6QKHI/AAAAAAAApTw/h87hO4UcsCs9md19g80Di-Ib3RM51bdpgCPcB/s1600/russian-post.png "This must be Russian Post logo. Source: novayagazeta.ru.")
+{{< imgfig "https://3.bp.blogspot.com/-W6K6Y48Ng78/WK3Ftl6QKHI/AAAAAAAApTw/h87hO4UcsCs9md19g80Di-Ib3RM51bdpgCPcB/s1600/russian-post.png" "This must be Russian Post logo. Source: novayagazeta.ru." >}}
 
 This summer I was visiting Russia, as usual, to meet my family and friends in Tyumen. There was, however, a difference in my status. Since I'm now a [Dutch citizen][post:219], I needed a Russian visa (obtaining which is a [whole other story][post:258]).
 

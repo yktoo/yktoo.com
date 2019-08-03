@@ -11,7 +11,7 @@ So today I proudly present **Sound Switcher Indicator 2.0.1**, which *finally* s
 
 <!--more-->
 
-![](img:3.bp.blogspot.com/-atoq96tAwHY/V-f7EJ50TyI/AAAAAAAAnjI/w77tiMI92RYIMql_kFmmLbE7Twy_WtDQwCPcB/s1600/ssi-2.0.1.png "Sound Switcher Indicator 2.0.1.")
+{{< imgfig "https://3.bp.blogspot.com/-atoq96tAwHY/V-f7EJ50TyI/AAAAAAAAnjI/w77tiMI92RYIMql_kFmmLbE7Twy_WtDQwCPcB/s1600/ssi-2.0.1.png" "Sound Switcher Indicator 2.0.1." >}}
 
 ## What's changed {#whats-new}
 

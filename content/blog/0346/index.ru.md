@@ -13,4 +13,4 @@ tags: ["Hugo", "Yktoo Solutions", "новости", "сайт"]
 
 По ссылке ниже доступны подробности создания нового сайта, а также размышления о пользе статических страниц (англ.).
 
-<!--![](img:1.bp.blogspot.com/-_oXI-nbfzo0/XTLzssA0-OI/AAAAAAAAwYc/lngDnMSfNEgezpjPHUkODSoPMrP7NGAlQCKgBGAs/s1600/website-main-page.jpg)-->
+<!--{{< imgfig "https://1.bp.blogspot.com/-_oXI-nbfzo0/XTLzssA0-OI/AAAAAAAAwYc/lngDnMSfNEgezpjPHUkODSoPMrP7NGAlQCKgBGAs/s1600/website-main-page.jpg" >}}-->

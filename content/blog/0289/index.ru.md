@@ -8,6 +8,6 @@ tags: ["HTTPS", "веб", "сайт"]
 
 <!--more-->
 
-![](img:1.bp.blogspot.com/-Q6Epmj4OVpk/V-PrJEM8u8I/AAAAAAAAnZg/Tf32-jmaZn8nvQGeEEJIwwSNozc85hYfACPcB/s1600/https-yktoo.com.png "Значок замка означает зашифрованное соединение с сайтом.")
+{{< imgfig "https://1.bp.blogspot.com/-Q6Epmj4OVpk/V-PrJEM8u8I/AAAAAAAAnZg/Tf32-jmaZn8nvQGeEEJIwwSNozc85hYfACPcB/s1600/https-yktoo.com.png" "Значок замка означает зашифрованное соединение с сайтом." >}}
 
 Переадресация на **https://yktoo.com** c **http://yktoo.com** происходит автоматически, но может потребоваться обновление некоторых ссылок или, например, [RSS-подписок][route:/blog/subscribe].

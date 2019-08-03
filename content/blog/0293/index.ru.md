@@ -6,7 +6,7 @@ tags: ["айкидо", "английский язык", "голландский 
 
 Подумалось тут по следам брюссельского [семинара по айкидо][post:292], что даже само это слово — «айкидо» — везде произносят по-разному.
 
-![](img:1.bp.blogspot.com/-TPMpyZHV9GI/WK3B2mg1p9I/AAAAAAAApTU/hEgRX4X5t0gWbeyvbDmVgK7IdWaa1sGlACPcB/s1600/aikido.png)
+{{< imgfig "https://1.bp.blogspot.com/-TPMpyZHV9GI/WK3B2mg1p9I/AAAAAAAApTU/hEgRX4X5t0gWbeyvbDmVgK7IdWaa1sGlACPcB/s1600/aikido.png" >}}
 
 * **Русские**: айкидо́
 * **Голландцы**: а́йкидо

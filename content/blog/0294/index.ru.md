@@ -5,7 +5,7 @@ tags: ["гаджеты", "гик-порно", "железо", "очумелые 
 ---
 
 Набрёл тут давеча на симпатичный и удобный настольный адаптер с четырьмя USB-портами (суммарно отдаёт до **4800 мА**), розеткой на 220 В и подставкой под планшет, всё это по демократичной цене около **€ 15**.
-![](img:2.bp.blogspot.com/-N4iaQRbUC6M/WBWuYY9ca3I/AAAAAAAAoKI/CxI2CDiqfZ0QxRQfj6EjvF18M4TeAGXhgCPcB/s1600/20161027_140431.picasaweb.jpg:a "USB-блок питания с розеткой и подставкой под планшет.")
+{{< imgfig "https://2.bp.blogspot.com/-N4iaQRbUC6M/WBWuYY9ca3I/AAAAAAAAoKI/CxI2CDiqfZ0QxRQfj6EjvF18M4TeAGXhgCPcB/s1600/20161027_140431.picasaweb.jpg" "USB-блок питания с розеткой и подставкой под планшет." >}}
 
 Но вскоре обнаружилась у него одна мелкая неприятность — он издаёт довольно тихий, но в тишине хорошо различимый шум. Особенно без нагрузки, на холостом ходу.
 
@@ -16,15 +16,15 @@ tags: ["гаджеты", "гик-порно", "железо", "очумелые 
 В качестве простейшего решения проблемы рекомендуют использовать [термопластичный клей][wiki:ru:Термопластичный_клей]. Клей и соответствующий пистолет у меня были, так что почему бы не попробовать?
 
 Завинчен девайс был саморезами с хитроумным трёхлучевым шлицем (выглядящим в точности как логотип [Yktoo Solutions](https://www.yktoo.solutions/)), но нас этим не остановить — я давно купил набор с битами всевозможных форм. Под крышкой довольно-таки просторно, сам USB-преобразователь на отдельной плате. Чтобы добраться до трансформатора, пришлось свинтить уголковый радиатор с микросхемы стабилизатора:
-![](img:4.bp.blogspot.com/-x4-jOUYWL0M/WBWuYatQOkI/AAAAAAAAoKI/9Em7C1Kg37UTeohL-D_adknWOQk0bxChwCPcB/s1600/20161027_133011.picasaweb.jpg:a "БП со снятой крышкой и радиатором.")
+{{< imgfig "https://4.bp.blogspot.com/-x4-jOUYWL0M/WBWuYatQOkI/AAAAAAAAoKI/9Em7C1Kg37UTeohL-D_adknWOQk0bxChwCPcB/s1600/20161027_133011.picasaweb.jpg" "БП со снятой крышкой и радиатором." >}}
 
 Вот он торчит, подлец:
-![](img:3.bp.blogspot.com/-1hpCjcU7CCo/WBWuYVHESSI/AAAAAAAAoKI/2F3027D1zt40AReUgg0zI1BlPwUdjCJngCPcB/s1600/20161027_133021.picasaweb.jpg:a "Виновник торжества.")
+{{< imgfig "https://3.bp.blogspot.com/-1hpCjcU7CCo/WBWuYVHESSI/AAAAAAAAoKI/2F3027D1zt40AReUgg0zI1BlPwUdjCJngCPcB/s1600/20161027_133021.picasaweb.jpg" "Виновник торжества." >}}
 
 Дальше всё просто: берём клеевой пистолет и основательно заливаем трансформатор компаундом. Пока клей не застыл полностью, придаём ему благообразную форму с помощью металлической пластины, которую отлепляем уже после застывания клея:
-![](img:1.bp.blogspot.com/-P1sTGUWHPOk/WBWuYRdBOUI/AAAAAAAAoKI/OugJzFLxmi4cZgHPFGM9oxNt4ZMtYnhHgCPcB/s1600/20161027_134835.picasaweb.jpg:a "Клей нанесён и сформован.")
+{{< imgfig "https://1.bp.blogspot.com/-P1sTGUWHPOk/WBWuYRdBOUI/AAAAAAAAoKI/OugJzFLxmi4cZgHPFGM9oxNt4ZMtYnhHgCPcB/s1600/20161027_134835.picasaweb.jpg" "Клей нанесён и сформован." >}}
 
 Вот, собственно, и вся процедура. Ставим уголковый радиатор на место:
-![](img:1.bp.blogspot.com/-KnenH1Ey2LM/WBWuYXkr6HI/AAAAAAAAoKI/NKYsmp4BqoADftBscd5pFZ5xCUyJfweXwCPcB/s1600/20161027_135413.picasaweb.jpg:a "Плата и радиатор зафиксированы.")
+{{< imgfig "https://1.bp.blogspot.com/-KnenH1Ey2LM/WBWuYXkr6HI/AAAAAAAAoKI/NKYsmp4BqoADftBscd5pFZ5xCUyJfweXwCPcB/s1600/20161027_135413.picasaweb.jpg" "Плата и радиатор зафиксированы." >}}
 
 Результаты лечения оказались весьма удовлетворительными: шум полностью не пропал, но стал намного тише, так что с закрытой крышкой его практически не слышно.

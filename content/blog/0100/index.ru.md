@@ -6,7 +6,7 @@ tags: ["интернет", "Нидерланды"]
 
 После прокладки [новых кабелей][post:99] и продувки лазеров байты заструились по оптоволокну ещё пуще [прежнего][post:96]:
 
-![](img:4.bp.blogspot.com/-YqHXQQFuWho/TheAFtLzhcI/AAAAAAAAIyA/Jn0aPShS5zU/s1600/speedtest.net-2011-08-07.png)
+{{< imgfig "https://4.bp.blogspot.com/-YqHXQQFuWho/TheAFtLzhcI/AAAAAAAAIyA/Jn0aPShS5zU/s1600/speedtest.net-2011-08-07.png" >}}
 
 <!--more-->
 

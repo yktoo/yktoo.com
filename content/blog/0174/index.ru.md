@@ -5,7 +5,7 @@ tags: ["еда", "Новый Год", "очумелые ручки", "празд
 ---
 
 Мы в Новый год сделали вот такое, по-настоящему фруктовое дерево:
-![](img:1.bp.blogspot.com/-7txD-LzjEbg/UOR-GB4aRJI/AAAAAAAAWVQ/DEQihbrLBw4/s1600/dsc06430.picasaweb.jpg:a)
+{{< imgfig "https://1.bp.blogspot.com/-7txD-LzjEbg/UOR-GB4aRJI/AAAAAAAAWVQ/DEQihbrLBw4/s1600/dsc06430.picasaweb.jpg" >}}
 
 <!--more-->
 

@@ -10,9 +10,9 @@ tags: ["IDM Europe", "Амстердам", "анонс", "Нидерланды",
 
 <!--more-->
 
-![](img:4.bp.blogspot.com/-LkM0S58F9n0/W5kNeyCNWKI/AAAAAAAAt3I/zzvvTGv0TjkVMD-41BEqjDV-a8uaIHaCgCKgBGAs/s1600/idm-europe-identity-server-comparison.png:a)
+{{< imgfig "https://4.bp.blogspot.com/-LkM0S58F9n0/W5kNeyCNWKI/AAAAAAAAt3I/zzvvTGv0TjkVMD-41BEqjDV-a8uaIHaCgCKgBGAs/s1600/idm-europe-identity-server-comparison.png" >}}
 
 Конференция будет проходить в [Postillion Convention Center](https://www.postillionhotels.com/en-gb/conferenties-events/amsterdam) в Амстердаме, язык — английский, моё выступление запланировано на **14:35**. Будете в наших краях и интересуетесь темой — заходите, там помимо этого ещё [много чего](https://whitehallmedia.co.uk/idmeuropesep2018/programme/) будут рассказывать (но не забудьте сначала [зарегистрироваться](https://whitehallmedia.co.uk/idmeuropesep2018/registration)).
 
 **Апдейт:** стало доступно видео моего выступления:
-![](youtube:hnjBiGsEDoU)
+{{< youtube "hnjBiGsEDoU" >}}

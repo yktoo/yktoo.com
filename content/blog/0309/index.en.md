@@ -15,7 +15,7 @@ However there was a number of considerations, which I'll start with.
 
 *To avoid any possible confusion I'd like to point out that everything here is about **the Netherlands**.*
 
-![](img:4.bp.blogspot.com/-f_a4KQVmI1w/WN97i86B4jI/AAAAAAAAptQ/tQHL2EJd3pcyo5NSzzCyPmQuDu3Ls8DlQCPcB/s1600/pros-and-cons.jpg)
+{{< imgfig "https://4.bp.blogspot.com/-f_a4KQVmI1w/WN97i86B4jI/AAAAAAAAptQ/tQHL2EJd3pcyo5NSzzCyPmQuDu3Ls8DlQCPcB/s1600/pros-and-cons.jpg" >}}
 
 ## Cons {#contra}
 

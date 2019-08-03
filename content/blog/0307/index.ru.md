@@ -10,11 +10,11 @@ tags: ["блог", "работа", "юбилей"]
 
 <!--more-->
 
-![](img:4.bp.blogspot.com/-e_86xxIb3VY/WKbJN0DAq_I/AAAAAAAApP4/rZ3yDk3r7OY6vOlN0tTsrZ_F_89kPXMgACPcB/s1600/trudovaya-page-1.picasaweb.jpg:a "Первая страница моей трудовой истории.")
+{{< imgfig "https://4.bp.blogspot.com/-e_86xxIb3VY/WKbJN0DAq_I/AAAAAAAApP4/rZ3yDk3r7OY6vOlN0tTsrZ_F_89kPXMgACPcB/s1600/trudovaya-page-1.picasaweb.jpg" "Первая страница моей трудовой истории." >}}
 
 И если кому-то покажется странным, что самая первая должность студента, к тому же ещё и очного отделения, оказалась «ведущий инженер», могу пояснить, что время было такое: сторож на стройке вполне мог получать зарплату выше профессора университета. Поэтому, чтобы меня, так сказать, завлечь, мой будущий начальник и дал мне самую высокую доступную на тот момент должность в отделе АСУ [ГПНТБ СО РАН][wiki:ru:Государственная_публичная_научно-техническая_библиотека_СО_РАН], крупнейшей библиотеке азиатской части страны.
 
 Впрочем, как видно из этого же скана, надолго завлечь меня не удалось, поскольку я вскоре закончил учёбу и пришло время возвращаться домой, в Тюмень.
 
 К этой знаменательной дате я подготовил краткое графическое изложение своей профессиональной биографии:
-![](img:2.bp.blogspot.com/-G9QFlaRMTH0/WKbJN6ifwjI/AAAAAAAApP4/MJ-TjMCNzO0_uwKAZq4BpIdVFH7QX4qpQCPcB/s1600/wordcloud-white.png:a)
+{{< imgfig "https://2.bp.blogspot.com/-G9QFlaRMTH0/WKbJN6ifwjI/AAAAAAAApP4/MJ-TjMCNzO0_uwKAZq4BpIdVFH7QX4qpQCPcB/s1600/wordcloud-white.png" >}}

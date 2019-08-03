@@ -10,7 +10,7 @@ tags: ["интересное", "Нидерланды", "Схипхол"]
 
 <!--more-->
 
-![](img:3.bp.blogspot.com/-YH1X3tNLL_w/VE6YIsXJMiI/AAAAAAAAfpc/EyvvwVKnIh8/s1600/Schiphol.picasaweb.jpg:a "Аэропорт «Схипхол». Фото straatkaart.nl.")
+{{< imgfig "https://3.bp.blogspot.com/-YH1X3tNLL_w/VE6YIsXJMiI/AAAAAAAAfpc/EyvvwVKnIh8/s1600/Schiphol.picasaweb.jpg" "Аэропорт «Схипхол». Фото straatkaart.nl." >}}
 
 Оказывается, эти ограничения взяты не с потолка, как можно было бы подумать, а получены исходя из некоей предельно допустимой цифры «шумового загрязнения», составляющей 35 ~~попугаев~~ баллов. При подобной интенсивности шума, считается, аэропорт не доставляет больших неудобств людям, живущим в его близости.
 

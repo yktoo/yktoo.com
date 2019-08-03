@@ -7,7 +7,7 @@ tags: ["Cisco", "Linksys", "анбоксинг", "гаджеты", "железо
 ## Было {#before}
 
 Мой контракт с [Tele2](http://www.tele2.nl/), который предоставлял мне [Интернет и телефон](http://www.tele2.nl/internet-bellen.html) через {{< fl "ADSL" >}}, наконец-то подошёл к концу. С подключением к Интернету, собственно, проблем вообще никогда не было: за все три года, что я был с {{< fl "Tele2" >}}, связь не разрывалась ни разу, а доступ пропадал, может быть, минут на пять в сумме.
-![](img:1.bp.blogspot.com/-CW7nPP-7dOY/Tf3OWKjdIHI/AAAAAAAAImQ/7I2aoFqgAMQ/s1600/dsc04095.picasaweb.jpg:a)
+{{< imgfig "https://1.bp.blogspot.com/-CW7nPP-7dOY/Tf3OWKjdIHI/AAAAAAAAImQ/7I2aoFqgAMQ/s1600/dsc04095.picasaweb.jpg" >}}
 
 <!--more-->
 
@@ -39,82 +39,82 @@ Wi-Fi-раутер, к счастью, не прилагался, и хорош�
 Далее немного анбоксинга.
 
 Поскольку {{< fl "E4200" >}} — флагманский продукт {{< fl "Linksys" >}}, упаковке ~~придаётся основное значение~~ уделяется очень много внимания:
-![](img:3.bp.blogspot.com/-pF2T3GI_-hI/Tf23Nf0_n4I/AAAAAAAAIkk/uVFcvpO6Kr4/s1600/dsc02109.picasaweb.jpg:a)
+{{< imgfig "https://3.bp.blogspot.com/-pF2T3GI_-hI/Tf23Nf0_n4I/AAAAAAAAIkk/uVFcvpO6Kr4/s1600/dsc02109.picasaweb.jpg" >}}
 
 Открываем:
-![](img:2.bp.blogspot.com/-HW0YYpcZjFE/Tf23R0PPBFI/AAAAAAAAIk4/rEVOUhQUs2s/s1600/dsc02111.picasaweb.jpg:a)
+{{< imgfig "https://2.bp.blogspot.com/-HW0YYpcZjFE/Tf23R0PPBFI/AAAAAAAAIk4/rEVOUhQUs2s/s1600/dsc02111.picasaweb.jpg" >}}
 
 Извлекаем:
-![](img:3.bp.blogspot.com/-nK_dTwcnqeo/Tf23Q-9owuI/AAAAAAAAIk0/ttL5cGb7UpI/s1600/dsc02112.picasaweb.jpg:a)
+{{< imgfig "https://3.bp.blogspot.com/-nK_dTwcnqeo/Tf23Q-9owuI/AAAAAAAAIk0/ttL5cGb7UpI/s1600/dsc02112.picasaweb.jpg" >}}
 
 Это всё содержимое коробки: виновник торжествва, сетевой адаптер, диск с документацией и бессмысленной программой под бессмысленную {{< fl "Windows" >}}, {{< fl "Ethernet" >}}-шнурок, {{< fl "Quick installation guide" >}}:
-![](img:2.bp.blogspot.com/-ec9IuH7PQzg/Tf23PBppcLI/AAAAAAAAIks/YT27M-BKpSY/s1600/dsc02115.picasaweb.jpg:a)
+{{< imgfig "https://2.bp.blogspot.com/-ec9IuH7PQzg/Tf23PBppcLI/AAAAAAAAIks/YT27M-BKpSY/s1600/dsc02115.picasaweb.jpg" >}}
 
 Главный герой со стороны спины (или это лицо?):
-![](img:1.bp.blogspot.com/-glTg8p9MEuQ/Tf23UuTDdrI/AAAAAAAAIlI/d6Qp_w3JDN0/s1600/dsc02118.picasaweb.jpg:a)
+{{< imgfig "https://1.bp.blogspot.com/-glTg8p9MEuQ/Tf23UuTDdrI/AAAAAAAAIlI/d6Qp_w3JDN0/s1600/dsc02118.picasaweb.jpg" >}}
 
 Он же, брюхом кверху:
-![](img:2.bp.blogspot.com/-kEeNyCVmq_M/Tf29St2wjPI/AAAAAAAAIlQ/TL1DVWYYSik/s1600/dsc02119.picasaweb.jpg:a)
+{{< imgfig "https://2.bp.blogspot.com/-kEeNyCVmq_M/Tf29St2wjPI/AAAAAAAAIlQ/TL1DVWYYSik/s1600/dsc02119.picasaweb.jpg" >}}
 
 Форма корпуса, конечно, весьма странная:
-![](img:2.bp.blogspot.com/-4EeYyqYVUSo/Tf23OD5VlCI/AAAAAAAAIko/QMBZ7kzgvvk/s1600/dsc02117.picasaweb.jpg:a)
+{{< imgfig "https://2.bp.blogspot.com/-4EeYyqYVUSo/Tf23OD5VlCI/AAAAAAAAIko/QMBZ7kzgvvk/s1600/dsc02117.picasaweb.jpg" >}}
 
 Вид сзади:
-![](img:4.bp.blogspot.com/-1qYPRlkvSvU/Tf23To2_O8I/AAAAAAAAIlE/0_OzTfXKd24/s1600/dsc02116.picasaweb.jpg:a)
+{{< imgfig "https://4.bp.blogspot.com/-1qYPRlkvSvU/Tf23To2_O8I/AAAAAAAAIlE/0_OzTfXKd24/s1600/dsc02116.picasaweb.jpg" >}}
 
 Подключаем источник живительного электричества, логотип Cisco начинает магически мерцать в процессе загрузки:
-![](img:1.bp.blogspot.com/-UicGpTlGvhI/Tf23QFALdSI/AAAAAAAAIkw/SZCZxVduLkY/s1600/dsc02123.picasaweb.jpg:a)
+{{< imgfig "https://1.bp.blogspot.com/-UicGpTlGvhI/Tf23QFALdSI/AAAAAAAAIkw/SZCZxVduLkY/s1600/dsc02123.picasaweb.jpg" >}}
 
 Все огоньки, которые зачем-то все находятся сзади, дружно загораются:
-![](img:3.bp.blogspot.com/-_UrKt_GzYkc/Tf23Sz9WodI/AAAAAAAAIk8/hzxbRifJUfY/s1600/dsc02121.picasaweb.jpg:a)
+{{< imgfig "https://3.bp.blogspot.com/-_UrKt_GzYkc/Tf23Sz9WodI/AAAAAAAAIk8/hzxbRifJUfY/s1600/dsc02121.picasaweb.jpg" >}}
 
 Дальше, собственно, всё прозаично: подключаемся к раутеру браузером, через веб-интерфейс настраиваем по вкусу:
-![](img:2.bp.blogspot.com/-a_xNWuCSLig/Tf3AUzGn4oI/AAAAAAAAIls/-xsqlj-kQaU/s1600/Linksys-E4200-status-screen.picasaweb.jpg:a)
+{{< imgfig "https://2.bp.blogspot.com/-a_xNWuCSLig/Tf3AUzGn4oI/AAAAAAAAIls/-xsqlj-kQaU/s1600/Linksys-E4200-status-screen.picasaweb.jpg" >}}
 
 Подключение по заявке на сайте активируется в течение пары часов, однако у меня было не всё гладко, так что я его заполучил только через три дня. За эти три дня я позвонил провайдеру раз семь, и всякий раз мне вежливо объясняли, что над моей проблемой работают. Проблема заключалась в каких-то неверных настройках на их стороне, и когда всё, наконец, заработало, мне перезвонили в течение дня два разных человека, оба хотели удостовериться, что у меня всё теперь в порядке. Я их простил, чёрт возьми.
 
 Провайдерам, а уж тем более маркетологам, верить нельзя. Но тем не менее, всё почти по-честному:
-![](img:www.speedtest.net/result/1348042518.png)
+{{< imgfig "https://www.speedtest.net/result/1348042518.png" >}}
 
 Аплоад «всего лишь» 40. Пинг радует. Отдельно испытываешь гордость от надписи «Быстрее, чем у 97% в Нидерландах».
 
 Одновременно существенно улучшилась скорость {{< fl "Wi-Fi" >}}. {{< fl "iPad" >}}:
-![](img:www.speedtest.net/iphone/118035455.png)
+{{< imgfig "https://www.speedtest.net/iphone/118035455.png" >}}
 
 Телефон (Samsung Galaxy S II):
-![](img:www.speedtest.net/android/61479168.png)
+{{< imgfig "https://www.speedtest.net/android/61479168.png" >}}
 
 Компьютер подключен к раутеру проводом, {{< fl "Gigabit Ethernet" >}}:
-![](img:4.bp.blogspot.com/-mtBQd0DuPxE/Tf3JifAMxPI/AAAAAAAAIl0/Wku33uGGjTY/s1600/connection-info.picasaweb.jpg)
+{{< imgfig "https://4.bp.blogspot.com/-mtBQd0DuPxE/Tf3JifAMxPI/AAAAAAAAIl0/Wku33uGGjTY/s1600/connection-info.picasaweb.jpg" >}}
 
 ## IP-телевидение {#ip-tv}
 
 Компания безвозмездно дарит малюсенький IPTV-декодер **Amino AmiNET 110**, размерами, и особенно формой напоминающий мыльницу:
-![](img:4.bp.blogspot.com/-jpC4_sVYXvA/Tf3Ei7mBwcI/AAAAAAAAIlw/NAJ-64M2puk/s1600/amino-aminet-110.jpg)
+{{< imgfig "https://4.bp.blogspot.com/-jpC4_sVYXvA/Tf3Ei7mBwcI/AAAAAAAAIlw/NAJ-64M2puk/s1600/amino-aminet-110.jpg" >}}
 
 После первого включения декодер должен был обновить свою прошивку, скачав её с сервера провайдера, но вместо этого он зависал с надписью {{< fl "Loading…" >}}. Через несколько часов созерцания надписи я заподозрил неладное и решил прочитать инструкцию. Подвох, оказывается, заключался в том, что декодер нужно было подключить напрямую в оптоволоконный модем, а не в раутер. Пришлось тянуть от щитка вторую витую пару.
 
 Если подключить всё правильно, работать начинает сразу. Декодер за несколько минут скачал и обновил прошивку.
 
 Выбор каналов можно осуществлять через меню:
-![](img:2.bp.blogspot.com/-g4tdcoUCmoU/Tf3OZ5CQwpI/AAAAAAAAImg/tzk0gkrkgeg/s1600/dsc04100.picasaweb.jpg:a)
+{{< imgfig "https://2.bp.blogspot.com/-g4tdcoUCmoU/Tf3OZ5CQwpI/AAAAAAAAImg/tzk0gkrkgeg/s1600/dsc04100.picasaweb.jpg" >}}
 
 Удобно, что почти по любой передаче можно теперь получить более подробную информацию, включая описание и время начала-окончания:
-![](img:4.bp.blogspot.com/-6EPUHJW0Jn8/Tf3OOWDgirI/AAAAAAAAIl8/ovxhoc2RTnc/s1600/dsc04106.picasaweb.jpg:a)
+{{< imgfig "https://4.bp.blogspot.com/-6EPUHJW0Jn8/Tf3OOWDgirI/AAAAAAAAIl8/ovxhoc2RTnc/s1600/dsc04106.picasaweb.jpg" >}}
 
 «ТВ-гид» позволяет просмотреть расписание нескольких каналов одновременно в наглядной форме:
-![](img:1.bp.blogspot.com/-ZfJWG1gAGzE/Tf3OQTHJxeI/AAAAAAAAImA/9OGBFIdp-UE/s1600/dsc04103.picasaweb.jpg:a)
+{{< imgfig "https://1.bp.blogspot.com/-ZfJWG1gAGzE/Tf3OQTHJxeI/AAAAAAAAImA/9OGBFIdp-UE/s1600/dsc04103.picasaweb.jpg" >}}
 
 Можно также увидеть «мозаику» из 12 каналов, при этом видео идёт на всех двенадцати параллельно:
-![](img:1.bp.blogspot.com/-4iGgEFfl7EQ/Tf3OSqwC-3I/AAAAAAAAImI/Y-2tvVgnsNQ/s1600/dsc04109.picasaweb.jpg:a)
+{{< imgfig "https://1.bp.blogspot.com/-4iGgEFfl7EQ/Tf3OSqwC-3I/AAAAAAAAImI/Y-2tvVgnsNQ/s1600/dsc04109.picasaweb.jpg" >}}
 
 Но особенно удобны и впечатляют интерактивные возможности (video on demand). Сервис {{< fl "Uitzending gemist" >}} («Пропущенная передача») позволяет просматривать популярные передачи, выходившие до недели назад, не заморачиваясь с их записью:
-![](img:1.bp.blogspot.com/-WD0Ff3yZ7f8/Tf3OYGZG3bI/AAAAAAAAImU/cHxpiDL5ZWQ/s1600/dsc04111.picasaweb.jpg:a)
+{{< imgfig "https://1.bp.blogspot.com/-WD0Ff3yZ7f8/Tf3OYGZG3bI/AAAAAAAAImU/cHxpiDL5ZWQ/s1600/dsc04111.picasaweb.jpg" >}}
 
 Имеется возможность просматривать местные амерсфортские новости и сообщения:
-![](img:2.bp.blogspot.com/-FdAnNemqnOc/Tf3OMEWlJDI/AAAAAAAAIl4/uLCmYKR9l6Q/s1600/dsc04114.picasaweb.jpg:a)
+{{< imgfig "https://2.bp.blogspot.com/-FdAnNemqnOc/Tf3OMEWlJDI/AAAAAAAAIl4/uLCmYKR9l6Q/s1600/dsc04114.picasaweb.jpg" >}}
 
 Ну и не особенно полезный для меня сервис проката фильмов «Видеотека»:
-![](img:1.bp.blogspot.com/-rBwk1EBcOn8/Tf3OUfqCwkI/AAAAAAAAImM/bzb2dOpHVtU/s1600/dsc04118.picasaweb.jpg:a)
+{{< imgfig "https://1.bp.blogspot.com/-rBwk1EBcOn8/Tf3OUfqCwkI/AAAAAAAAImM/bzb2dOpHVtU/s1600/dsc04118.picasaweb.jpg" >}}
 
 Работает «мыльница» быстро и вроде бы без глюков. Единственное, что не очень удобно — для включения декодеру требуется с полминуты.

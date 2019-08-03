@@ -8,14 +8,14 @@ tags: ["Интернет", "Нидерланды", "новости", "свето
 
 <!--more-->
 
-![](img:1.bp.blogspot.com/-fAmNTgh_Xvs/WDrCLjmjWBI/AAAAAAAAoVc/Fm3jK0UypYkNZxz_DOEYZJzdX81ACWOwwCPcB/s1600/slim-verkeerslicht-houten.picasaweb.jpg:a "Перекрёсток с поумневшим светофором. Фото из Google Street View.")
+{{< imgfig "https://1.bp.blogspot.com/-fAmNTgh_Xvs/WDrCLjmjWBI/AAAAAAAAoVc/Fm3jK0UypYkNZxz_DOEYZJzdX81ACWOwwCPcB/s1600/slim-verkeerslicht-houten.picasaweb.jpg" "Перекрёсток с поумневшим светофором. Фото из Google Street View." >}}
 
 А в чём, собственно, состоит его умность, спросите вы?
 
 Тут кстати будет упомянуть, что практически все светофоры в Нидерландах и так довольно умные — в хорошем смысле этого слова. Они автоматически включают зелёный свет на тех направлениях, где нужно. А чтобы определять, где нужно, для машин и велосипедов используются датчики под дорогой, для пешеходов — кнопки.
 
 Так вот, возвращаясь к нашему светофору-интеллектуалу: водитель сможет увидеть, через сколько секунд загорится зелёный, с помощью *специального мобильного приложения*. Пока что новая суперфункция доступна только в [iOS-версии](https://itunes.apple.com/nl/app/verkeerplaza-verkeersinformatie/id510339308), которую я не в состоянии проверить по причине её отсутствия, но, согласно [сайту разработчиков](http://www.infoplaza.nl/archives/2420/), выглядит это примерно так:
-![](img:3.bp.blogspot.com/-egBDZPkVLgw/WDrFK8SbQMI/AAAAAAAAoVw/aePL_T1cvLo4mHVUq2YBMWP43l4VInrFwCPcB/s1600/verkeersplaza-app.picasaweb.jpg:a "Как это должно выглядеть. Изображение www.infoplaza.nl.")
+{{< imgfig "https://3.bp.blogspot.com/-egBDZPkVLgw/WDrFK8SbQMI/AAAAAAAAoVw/aePL_T1cvLo4mHVUq2YBMWP43l4VInrFwCPcB/s1600/verkeersplaza-app.picasaweb.jpg" "Как это должно выглядеть. Изображение www.infoplaza.nl." >}}
 
 Никаких подробностей об используемых технологиях в сообщении не приводится, сообщается лишь что «{{< fl "Verkeerplaza" >}} — это первое приложение, связывающееся с умным светофором». Непонятно, подключается ли телефон к светофору напрямую (по {{< fl "Wi-Fi" >}} или {{< fl "Bluetooth" >}}) или же просто получает данные через интернет (что более правдоподобно).
 

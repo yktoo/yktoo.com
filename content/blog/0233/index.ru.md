@@ -10,7 +10,7 @@ tags: ["Linux", "SSD", "Ubuntu", "инструкция", "оптимизация
 
 Есть у них и минусы — высокая цена (тут навряд ли можно чем-то помочь) и ограниченный ресурс работы (точнее, количество циклов перезаписи, поскольку в режиме чтения они могут работать сколь угодно долго). И хотя у современных SSD количество циклов перезаписи измеряется миллионами, всё же имеет смысл адаптировать систему к работе с этим типом накопителя, продлив его жизнь и ускорив работу системы в целом.
 
-![](img:1.bp.blogspot.com/-ZikqqB86Bb4/WK3RKkQQT8I/AAAAAAAApUk/X6V97DAgruk3V6qsal5TFzVysauuzvGoQCPcB/s1600/ubuntu.png)
+{{< imgfig "https://1.bp.blogspot.com/-ZikqqB86Bb4/WK3RKkQQT8I/AAAAAAAApUk/X6V97DAgruk3V6qsal5TFzVysauuzvGoQCPcB/s1600/ubuntu.png" >}}
 
 Довольно много полезных советов дано на [сайте Debian](https://wiki.debian.org/SSDOptimization), я расскажу о том, что я поменял в своей системе (Ubuntu 14.10 Utopic Unicorn).
 

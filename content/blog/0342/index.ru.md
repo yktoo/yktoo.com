@@ -6,7 +6,7 @@ tags: ["2018", "итоги"]
 
 {{< fl "Tjongejonge" >}}, этот год закончился столь же внезапно, как и [начался][post:332], даже на блог времени не было. Этот пост — последний и десятый по счёту в 2018-м (виноват, обещаю исправиться).
 
-![](img:3.bp.blogspot.com/-0yOc98Dr8-k/XCkJayeJeVI/AAAAAAAAuUg/RvMfC0YJQ5EzlG8ZD-RYMHxlqj1hspiSQCKgBGAs/s1600/2019.png)
+{{< imgfig "https://3.bp.blogspot.com/-0yOc98Dr8-k/XCkJayeJeVI/AAAAAAAAuUg/RvMfC0YJQ5EzlG8ZD-RYMHxlqj1hspiSQCKgBGAs/s1600/2019.png" >}}
 
 Зато случилось всего столько, что придётся поднапрячься, чтобы ничего не забыть.
 
@@ -27,43 +27,43 @@ tags: ["2018", "итоги"]
 ## Путешествия {#travel}
 
 В январе мы провели неделю на Фуэртевентуре, одном из Канарских островов. Фуэртевентура запомнилась мне солнцем и сильным ветром.
-![](img:3.bp.blogspot.com/-267Vgg_f5Vk/XCkNWnq1uuI/AAAAAAAAuVA/_Q_HwU1Hbr0YW1ZQGBssYek4HkqGy2WFgCKgBGAs/s1600/dsc07633.picasaweb.jpg:a "Фуэртевентура, вид на остров Лобос.")
+{{< imgfig "https://3.bp.blogspot.com/-267Vgg_f5Vk/XCkNWnq1uuI/AAAAAAAAuVA/_Q_HwU1Hbr0YW1ZQGBssYek4HkqGy2WFgCKgBGAs/s1600/dsc07633.picasaweb.jpg" "Фуэртевентура, вид на остров Лобос." >}}
 
 В марте сгоняли на пару дней в бельгийский Гент, который я очень люблю: там очень уютно и красиво.
 
 В апреле побывали на Майорке, испанском острове в Средиземном море (ну, нравятся нам острова). Там было очень жарко и нереально красиво.
-![](img:2.bp.blogspot.com/-hq_TuS0FEC8/XCkQIYd-lwI/AAAAAAAAuVM/EhZ2ob8hNzgyWao4murHzmI5OhPBZi4vwCKgBGAs/s1600/20180428_155305.picasaweb.jpg:a "Майорка.")
+{{< imgfig "https://2.bp.blogspot.com/-hq_TuS0FEC8/XCkQIYd-lwI/AAAAAAAAuVM/EhZ2ob8hNzgyWao4murHzmI5OhPBZi4vwCKgBGAs/s1600/20180428_155305.picasaweb.jpg" "Майорка." >}}
 
 В июне — ещё один остров, в этот раз голландский Тексел ({{< fl "Texel" >}}), что находится на самом севере страны. Мы провели там несколько ночей в стационарной палатке, а также съездили на главную достопримечательность острова, маяк.
-![](img:3.bp.blogspot.com/-ORDhhSHIuXA/XCkRm4UgwlI/AAAAAAAAuVY/9FWKx0ndX2AuEiukcl8tuzplsx7ozfBmQCKgBGAs/s1600/20180609_115443.picasaweb.jpg:a "Маяк на острове Тексел.")
+{{< imgfig "https://3.bp.blogspot.com/-ORDhhSHIuXA/XCkRm4UgwlI/AAAAAAAAuVY/9FWKx0ndX2AuEiukcl8tuzplsx7ozfBmQCKgBGAs/s1600/20180609_115443.picasaweb.jpg" "Маяк на острове Тексел." >}}
 
 В июле в очередной раз бельгийский Брюгге. Там всё как в Генте, только ещё уютнее и красивее.
 
 В августе — Россия: Питер, Петрозаводск и Кижи, где местный кузнец выковал нам гвоздь:
-![](img:3.bp.blogspot.com/-1Kl8OtW9qfk/XCoYzaXRsGI/AAAAAAAAuW4/0yKH-JsU8i48DImW-sMBDTu6S-JA4axPgCKgBGAs/s1600/20180829_204358.picasaweb.jpg:a "Гвоздь из Кижей.")
+{{< imgfig "https://3.bp.blogspot.com/-1Kl8OtW9qfk/XCoYzaXRsGI/AAAAAAAAuW4/0yKH-JsU8i48DImW-sMBDTu6S-JA4axPgCKgBGAs/s1600/20180829_204358.picasaweb.jpg" "Гвоздь из Кижей." >}}
 
 В ноябре я встретил свой День рождения в Марокко, в курортном городе Агадире. Очень своеобразное место эта африканская страна.
-![](img:3.bp.blogspot.com/-XMi3zn2RHRI/XCoYzaLYsiI/AAAAAAAAuW4/WJEhQzOaPD8gwOG128qDp7Ra7xR2VFMmACKgBGAs/s1600/20181101_192728.picasaweb.jpg:a "Набережная в Агадире, Марокко.")
+{{< imgfig "https://3.bp.blogspot.com/-XMi3zn2RHRI/XCoYzaLYsiI/AAAAAAAAuW4/WJEhQzOaPD8gwOG128qDp7Ra7xR2VFMmACKgBGAs/s1600/20181101_192728.picasaweb.jpg" "Набережная в Агадире, Марокко." >}}
 
 Начало декабря — рождественский рынок в Дуйсбурге, Германия. Ну и только вчера вернулись мы из бельгийского Антверпена, отношение к которому у меня постоянно меняется.
-![](img:2.bp.blogspot.com/-T6Oj99Qcl3w/XCoYzcvYHiI/AAAAAAAAuW4/iDsmfUY1rU4JCCzUKby36mmupdCABw76QCKgBGAs/s1600/dsc08610.picasaweb.jpg:a "Кафедральный собор в Антверпене, Бельгия.")
+{{< imgfig "https://2.bp.blogspot.com/-T6Oj99Qcl3w/XCoYzcvYHiI/AAAAAAAAuW4/iDsmfUY1rU4JCCzUKby36mmupdCABw76QCKgBGAs/s1600/dsc08610.picasaweb.jpg" "Кафедральный собор в Антверпене, Бельгия." >}}
 
 ## О, спорт {#sport}
 
 Что касается спорта, тут я собой доволен. За 2018 год мне довелось пробежать **1060** км (для меня это рекорд) за 64 раза, и последние 20 км я пробежал только что, 31 декабря. В мае обновил ещё один свой рекорд, пробежав полумарафон за **1:45:56** на [De Halve van De Haar][post:335].
 
 Второе достижение: в июле я получил *нидан* (второй дан) по айкидо. А пару недель назад и соответствующий сертификат из рук Марка Йонгстена:
-![](img:1.bp.blogspot.com/-XDGu3m2atBc/XCoblnSwbVI/AAAAAAAAuXU/n4k2TJmfe8wZi1RIOskT7zNQ_eSGLc0JQCKgBGAs/s1600/dsc08574.picasaweb.jpg:a "Марк вручает автору диплом.")
+{{< imgfig "https://1.bp.blogspot.com/-XDGu3m2atBc/XCoblnSwbVI/AAAAAAAAuXU/n4k2TJmfe8wZi1RIOskT7zNQ_eSGLc0JQCKgBGAs/s1600/dsc08574.picasaweb.jpg" "Марк вручает автору диплом." >}}
 
 ## Музыка! {#music}
 
 Концертная жизнь отошла немного на второй план по объективным причинам в виде маленького ребёнка. Тем не менее, на пару концертов сходить всё же удалось.
 
 {{< fl "Arch Echo" >}}, {{< fl "Mestís" >}} и {{< fl "Plini" >}} в Харлеме ([видео][route:/video/event,id:48]):
-![](img:4.bp.blogspot.com/-L55UJt_bELc/XCod9L7rn3I/AAAAAAAAuXg/tnUCDx5wUOowIBYE66tYKs5PUQ1yXZRAQCKgBGAs/s1600/dsc08074.picasaweb.jpg:a "Javier Reyes (Mestís).")
+{{< imgfig "https://4.bp.blogspot.com/-L55UJt_bELc/XCod9L7rn3I/AAAAAAAAuXg/tnUCDx5wUOowIBYE66tYKs5PUQ1yXZRAQCKgBGAs/s1600/dsc08074.picasaweb.jpg" "Javier Reyes (Mestís)." >}}
 
 И ещё {{< fl "Riverside" >}} в Утрехте:
-![](img:2.bp.blogspot.com/-7Y8GTHr-iGk/XCofE0E-jYI/AAAAAAAAuXs/ykU9MD7X6pMOTETy_WicWXiZblwHlRSkgCKgBGAs/s1600/20181112_214426.picasaweb.jpg:a "Riverside.")
+{{< imgfig "https://2.bp.blogspot.com/-7Y8GTHr-iGk/XCofE0E-jYI/AAAAAAAAuXs/ykU9MD7X6pMOTETy_WicWXiZblwHlRSkgCKgBGAs/s1600/20181112_214426.picasaweb.jpg" "Riverside." >}}
 
 К слову, я записал на видео весь концерт целиком, но Ютьюб его удалил по требованию правообладателя. Ирония же заключается в том, что страница концерта на сайте {{< fl "Tivoli" >}} [была иллюстрирована][post:341] именно моим видео с предыдущего выступления.
 
@@ -72,12 +72,12 @@ tags: ["2018", "итоги"]
 ## Прочее {#misc}
 
 Весной я стал обладателем моноколеса, и это оказалась совершенно потрясающая, просто гениальная штука! С тех пор я пользуюсь им практически ежедневно — и не понимаю, почему люди ими не пользуются. Тут есть несколько нюансов, впрочем, так что я планирую рассказать об этом отдельно.
-![](img:2.bp.blogspot.com/-kiXMqYaqeJE/XComD__AwlI/AAAAAAAAuYM/8KndKUbSJ-AKSqW_MHlPv4GwMW9KXJ-6gCKgBGAs/s1600/2018-06-30_DK%2B-%2BMonowheel-2.gif "Автор на моноколесе.")
+{{< imgfig "https://2.bp.blogspot.com/-kiXMqYaqeJE/XComD__AwlI/AAAAAAAAuYM/8KndKUbSJ-AKSqW_MHlPv4GwMW9KXJ-6gCKgBGAs/s1600/2018-06-30_DK%2B-%2BMonowheel-2.gif" "Автор на моноколесе." >}}
 
 В феврале был всеголландский карнавал, который мы посещали в Ден Бош, соседнем городе. Было смешно.
-![](img:4.bp.blogspot.com/-Jv1kBUNZnYM/XConNS7WK6I/AAAAAAAAuYc/528u0aE1LjIQsK8dmA6cHMFWRmnyzPV3QCKgBGAs/s1600/dsc07826.picasaweb.jpg:a "Карнавал в Ден Бош, Нидерланды.")
+{{< imgfig "https://4.bp.blogspot.com/-Jv1kBUNZnYM/XConNS7WK6I/AAAAAAAAuYc/528u0aE1LjIQsK8dmA6cHMFWRmnyzPV3QCKgBGAs/s1600/dsc07826.picasaweb.jpg" "Карнавал в Ден Бош, Нидерланды." >}}
 
 А в августе я впервые за всё время побывал на знаменитом гей-параде в Амстердаме, раньше я в это время обычно был в России. Оказалось, что всё это выглядит очень весело и намного приличнее, чем мне представлялось.
-![](img:3.bp.blogspot.com/-IqDSkB0MVMo/XCooJzFTTrI/AAAAAAAAuYo/zwFryrLxXXUllFLSk-dRBvcNB9HCaDoHwCKgBGAs/s1600/20180804_151002.picasaweb.jpg:a "Амстердамский гей-прайд.")
+{{< imgfig "https://3.bp.blogspot.com/-IqDSkB0MVMo/XCooJzFTTrI/AAAAAAAAuYo/zwFryrLxXXUllFLSk-dRBvcNB9HCaDoHwCKgBGAs/s1600/20180804_151002.picasaweb.jpg" "Амстердамский гей-прайд." >}}
 
 Уфф. На этом раскланиваюсь и до встречи в Новом году!

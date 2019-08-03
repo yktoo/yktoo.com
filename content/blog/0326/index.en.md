@@ -8,7 +8,7 @@ I'm not really into reviewing gadgets, but in this case it's worth doing it. Tod
 
 <!--more-->
 
-![](img:3.bp.blogspot.com/-aKpXFZ3-oIw/WSajHsRGiBI/AAAAAAAAp_I/4NJnW6NuYIgKl85gw0584Iok9YjhpLS4wCKgB/s1600/mi-headphone.picasaweb.jpg:a "Mi In-Ear Headphones Pro HD.")
+{{< imgfig "https://3.bp.blogspot.com/-aKpXFZ3-oIw/WSajHsRGiBI/AAAAAAAAp_I/4NJnW6NuYIgKl85gw0584Iok9YjhpLS4wCKgB/s1600/mi-headphone.picasaweb.jpg" "Mi In-Ear Headphones Pro HD." >}}
 
 I ordered the headphones on *eBay* after a few pretty positive reviews I've heard. The specs looked quite attractive considering the price of only **€21** (shipping to the Netherlands included).
 
@@ -22,10 +22,10 @@ As the name suggests, it's *in-ear headphones*, and they feature a hybrid triple
   * One *balanced armature driver* — for high tones.
 
 This effectively turns the earpiece into a three-band speaker, where each of the three frequency ranges (lows, middles and highs) is handled by a separate driver.
-![](img:3.bp.blogspot.com/-mXD2Px24ztw/WS65HPIak7I/AAAAAAAAqAw/kJcpUi7q_TEWLcN66wWXs1yD05Qr-ph4wCKgB/s1600/mi-headphone-inside.picasaweb.jpg:a "The inside of the earphone.")
+{{< imgfig "https://3.bp.blogspot.com/-mXD2Px24ztw/WS65HPIak7I/AAAAAAAAqAw/kJcpUi7q_TEWLcN66wWXs1yD05Qr-ph4wCKgB/s1600/mi-headphone-inside.picasaweb.jpg" "The inside of the earphone." >}}
 
 All the external elements, i.e. the earpieces, the remote control and the jack, are made of metal, anodised aluminium alloy. This looks and feels great.
-![](img:2.bp.blogspot.com/-2uL-h0gNHwc/WS66PkhCb6I/AAAAAAAAqBM/eBDkqln53dUd8yPQo6WbA4ExmvAslxnCACKgB/s1600/mi-headphones-large.picasaweb.jpg:a "The headphones (Xiaomi's render).")
+{{< imgfig "https://2.bp.blogspot.com/-2uL-h0gNHwc/WS66PkhCb6I/AAAAAAAAqBM/eBDkqln53dUd8yPQo6WbA4ExmvAslxnCACKgB/s1600/mi-headphones-large.picasaweb.jpg" "The headphones (Xiaomi's render)." >}}
 
 Black inserts are made of durable zircon sand blasting.
 
@@ -59,29 +59,29 @@ The headphones also have a somewhat low sensitivity of **98 dB**, which may pose
 ## Unboxing {#unboxing}
 
 The device is shipped in a sturdy cardboard box sealed in plastic.
-![](img:3.bp.blogspot.com/-ceKJmdj6zA4/WSaeJ36WX-I/AAAAAAAAp-U/rh3uAuo2-Pw-IW4UpAcMnQs5167lhoFogCKgB/s1600/dsc05183.picasaweb.jpg:a "The packaging.")
+{{< imgfig "https://3.bp.blogspot.com/-ceKJmdj6zA4/WSaeJ36WX-I/AAAAAAAAp-U/rh3uAuo2-Pw-IW4UpAcMnQs5167lhoFogCKgB/s1600/dsc05183.picasaweb.jpg" "The packaging." >}}
 
 What's inside: a sturdy plastic box and a paper one with a carrying bag inside.
-![](img:2.bp.blogspot.com/-W6SntRfo-Cs/WSaeJyRK84I/AAAAAAAAp-U/p7k9vbabBSka7MlZSAMPBQvlOI-zDPlSwCKgB/s1600/dsc05184.picasaweb.jpg:a "The contents of the package.")
+{{< imgfig "https://2.bp.blogspot.com/-W6SntRfo-Cs/WSaeJyRK84I/AAAAAAAAp-U/p7k9vbabBSka7MlZSAMPBQvlOI-zDPlSwCKgB/s1600/dsc05184.picasaweb.jpg" "The contents of the package." >}}
 
 Here's the net content of the package: a box, a bag and a user's manual in Chinese:
-![](img:3.bp.blogspot.com/-8NV9_yRTeHo/WSaeJ9t61UI/AAAAAAAAp-U/rSfBClc_4acjgs2gdsQx6uVV1BnN45D-gCKgB/s1600/dsc05185.picasaweb.jpg:a "The contents of the package.")
+{{< imgfig "https://3.bp.blogspot.com/-8NV9_yRTeHo/WSaeJ9t61UI/AAAAAAAAp-U/rSfBClc_4acjgs2gdsQx6uVV1BnN45D-gCKgB/s1600/dsc05185.picasaweb.jpg" "The contents of the package." >}}
 
 The plastic box is pretty heavy. It contains headphones intricately wound around a silicone holder and three sets of replacement earbuds beneath it, in the sizes *XS*, *S*, and *L*. Including those already mounted (size *M*) it amounts to four and it should suffice to match any ears:
-![](img:4.bp.blogspot.com/-WInKT2kzwA4/WSaeJ5tWxLI/AAAAAAAAp-U/IgO5cDpB_JkYfLO-mzthzFA_sWBbnnuSwCKgB/s1600/dsc05186.picasaweb.jpg:a "The plastic box and its contents.")
+{{< imgfig "https://4.bp.blogspot.com/-WInKT2kzwA4/WSaeJ5tWxLI/AAAAAAAAp-U/IgO5cDpB_JkYfLO-mzthzFA_sWBbnnuSwCKgB/s1600/dsc05186.picasaweb.jpg" "The plastic box and its contents." >}}
 
 It takes quite a bit of patience to unwind the cable carefully laid out along the grooves of the holder.
-![](img:4.bp.blogspot.com/-CGPnnQ9NcSM/WSaeJ5huZ_I/AAAAAAAAp-U/om-lSDbnn9kLPQgiYCWkAQAvrKXa9av6wCKgB/s1600/dsc05187.picasaweb.jpg:a "Silicone cable holder.")
+{{< imgfig "https://4.bp.blogspot.com/-CGPnnQ9NcSM/WSaeJ5huZ_I/AAAAAAAAp-U/om-lSDbnn9kLPQgiYCWkAQAvrKXa9av6wCKgB/s1600/dsc05187.picasaweb.jpg" "Silicone cable holder." >}}
 
 But winding it back into the holder would obviously take an incredible amount of patience. Moreover, the designer's idea was that the box is to be kept in the carrying bag, judging by the size of the latter.
 
 That leaves me with just one question: is there a human being in this world who would actually store the headphones on the holder by winding the cable around it and inserting the earpieces, the remote, and the jack into the appropriate sockets, then putting the holder into the box, and the box into the bag, and then retracing these steps every time he/she wants to listen to music?
 
 The earpiece itself looks very much like its rendered version, and leaves a good impression in terms of quality. The in-ear part is angled at 45°:
-![](img:1.bp.blogspot.com/-gU9K1bsWVMw/WSaeJ1sG14I/AAAAAAAAp-U/E3VtthXQOTYg13x5Nkx7YMP1l4m_UsudACKgB/s1600/dsc05188.picasaweb.jpg:a "The earpiece.")
+{{< imgfig "https://1.bp.blogspot.com/-gU9K1bsWVMw/WSaeJ1sG14I/AAAAAAAAp-U/E3VtthXQOTYg13x5Nkx7YMP1l4m_UsudACKgB/s1600/dsc05188.picasaweb.jpg" "The earpiece." >}}
 
 The full-metal remote control is located on the right headphone's cable (some **10 cm** below it) and features three buttons:
-![](img:4.bp.blogspot.com/-rbup_CPzg_M/WSaeJy3OzOI/AAAAAAAAp-U/BgwH8rnl6mk1JE5d063500C32i-htvmhACKgB/s1600/dsc05189.picasaweb.jpg:a "The remote control.")
+{{< imgfig "https://4.bp.blogspot.com/-rbup_CPzg_M/WSaeJy3OzOI/AAAAAAAAp-U/BgwH8rnl6mk1JE5d063500C32i-htvmhACKgB/s1600/dsc05189.picasaweb.jpg" "The remote control." >}}
 
 The buttons' functions when attached to my *Samsung Galaxy Note 4* are as follows, top to bottom:
 
@@ -92,7 +92,7 @@ The buttons' functions when attached to my *Samsung Galaxy Note 4* are as follow
 There's also a microphone on the opposite side of the control.
 
 The wire ends with a 3.5-mm jack. It isn't angled, which I think is for the better as it reduces the risk of breaking it off.
-![](img:3.bp.blogspot.com/-VlYiESL6-Tg/WSaeJxBc_VI/AAAAAAAAp-U/dH6YmiGRft46jn1ZyA2hWA0VFKmwu1R3ACKgB/s1600/dsc05190.picasaweb.jpg:a "The jack.")
+{{< imgfig "https://3.bp.blogspot.com/-VlYiESL6-Tg/WSaeJxBc_VI/AAAAAAAAp-U/dH6YmiGRft46jn1ZyA2hWA0VFKmwu1R3ACKgB/s1600/dsc05190.picasaweb.jpg" "The jack." >}}
 
 ## The sound {#sound}
 

@@ -5,7 +5,7 @@ tags: ["Arkady Shilkloper", "Daniel Kramer", "jazz", "music", "Tyumen", "video"]
 ---
 
 I've [published][route:/media/video/event,id:12] rare footage I filmed a few years ago. It was a performance given by two greatest jazz musicians of our time, [Daniel Kramer](http://www.kramerdaniel.com/) (piano) and [Arkady Shilkloper](http://www.shilkloper.com/) (French horn, flugelhorn, alphorn) at [Tyumen Concert Hall](http://www.tgf.ru/) on February 10, 2008.
-![](img:4.bp.blogspot.com/-Ip1MNgW1pOk/UZKntwLjlbI/AAAAAAAAXu8/AuZp8l-zXPw/s1600/kra-shi.picasaweb.jpg)
+{{< imgfig "https://4.bp.blogspot.com/-Ip1MNgW1pOk/UZKntwLjlbI/AAAAAAAAXu8/AuZp8l-zXPw/s1600/kra-shi.picasaweb.jpg" >}}
 
 <!--more-->
 
@@ -16,7 +16,7 @@ In my personal layman's opinion Kramer is by far the best contemporary jazz pian
 Shilkloper is admittedly a genius too. However I'm not really into the wind, so it's hard for me to judge.
 
 Here's the first item from the concert, called Folk Song:
-![](youtube:IntcetFJA6o)
+{{< youtube "IntcetFJA6o" >}}
 
 * [All videos of the concert][route:/media/video/event,id:12] on my website
 * [Playlist on YouTube](http://www.youtube.com/playlist?list=PLRtML0bqZ1imv9g-F-_MJveYRqarPr3e3)

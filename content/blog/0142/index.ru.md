@@ -8,6 +8,6 @@ tags: ["Нидерланды", "политика", "Путин", "Россия"]
 
 <!--more-->
 
-![](img:1.bp.blogspot.com/-xcvQUNUe_7Y/T0_47JoU3XI/AAAAAAAALlQ/J5MCnVYmkkY/s1600/20120301_214958.picasaweb.jpg:a "Надпись на лбу: «Новое лицо России».")
+{{< imgfig "https://1.bp.blogspot.com/-xcvQUNUe_7Y/T0_47JoU3XI/AAAAAAAALlQ/J5MCnVYmkkY/s1600/20120301_214958.picasaweb.jpg" "Надпись на лбу: «Новое лицо России»." >}}
 
 О чём там внутри, я не читал, но догадываюсь. Толерантность и свободу личности голландцы ценят превыше всего, и [дело Магнитского](http://russian-untouchables.com/rus/docs/D396.pdf) «не забудут, не простят».

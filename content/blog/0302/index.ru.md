@@ -10,7 +10,7 @@ tags: ["2016", "Yktoo Solutions", "веб", "итоги", "сайт"]
     <b>Поздравляю всех читателей моего блога с наступающим <big>2017</big> годом и желаю вам оптимизма, настойчивости, везения и хорошей погоды!</b>
 </p>
 
-![](img:3.bp.blogspot.com/-j13YG-30uUo/WGJ6mibiEgI/AAAAAAAAoyk/ZqH9Gi4_Q8c-wVOBGrnz20vIayOMa5AtQCPcB/s1600/2017.png)
+{{< imgfig "https://3.bp.blogspot.com/-j13YG-30uUo/WGJ6mibiEgI/AAAAAAAAoyk/ZqH9Gi4_Q8c-wVOBGrnz20vIayOMa5AtQCPcB/s1600/2017.png" >}}
 
 По уже сложившейся [традиции][route:/blog/tag,tag:итоги] подведу личные итоги минувшего года — у меня он вышел, к счастью, довольно позитивным. В **2016 году** мне удалось:
 

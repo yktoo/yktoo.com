@@ -10,7 +10,7 @@ The turbulent two thousand sixteen has come to an end. The year that has brought
     <b>Happy <big>2017</big> to all the readers of this blog! I wish you lots of optimism, persistence and luck!</b>
 </p>
 
-![](img:3.bp.blogspot.com/-j13YG-30uUo/WGJ6mibiEgI/AAAAAAAAoyk/ZqH9Gi4_Q8c-wVOBGrnz20vIayOMa5AtQCPcB/s1600/2017.png)
+{{< imgfig "https://3.bp.blogspot.com/-j13YG-30uUo/WGJ6mibiEgI/AAAAAAAAoyk/ZqH9Gi4_Q8c-wVOBGrnz20vIayOMa5AtQCPcB/s1600/2017.png" >}}
 
 Following the tradition I'd like to look back on the last year—which has been quite positive on my part. So, in **2016** I managed to:
 

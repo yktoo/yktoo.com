@@ -10,4 +10,4 @@ tags: ["забавное", "Интернет", "посылка"]
 
 <!--more-->
 
-![](img:3.bp.blogspot.com/-IPDSrg5I3y4/V3kVmrtns_I/AAAAAAAAmcs/3B1-4q9YqI4X4R_WchtFu7G_mvrKagqBwCKgB/s1600/20160625_111315.picasaweb.jpg:a "Как не надо упаковывать посылки.")
+{{< imgfig "https://3.bp.blogspot.com/-IPDSrg5I3y4/V3kVmrtns_I/AAAAAAAAmcs/3B1-4q9YqI4X4R_WchtFu7G_mvrKagqBwCKgB/s1600/20160625_111315.picasaweb.jpg" "Как не надо упаковывать посылки." >}}

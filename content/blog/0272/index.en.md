@@ -10,7 +10,7 @@ The band was presenting their new album [The Astonishing][wiki:en:The_Astonishin
 
 <!--more-->
 
-![](img:4.bp.blogspot.com/--joylJaSOs8/Vs96qeUeASI/AAAAAAAAleU/3tOx2k0wt4E/s1600/dsc01729.picasaweb.jpg:a "Dream Theater in Carré. Before the start of the show.")
+{{< imgfig "https://4.bp.blogspot.com/--joylJaSOs8/Vs96qeUeASI/AAAAAAAAleU/3tOx2k0wt4E/s1600/dsc01729.picasaweb.jpg" "Dream Theater in Carré. Before the start of the show." >}}
 
 Like previously with [The Aristocrats][post:267], all photography and filming were banned. Anyone trying to take photos with a camera or a mobile phone (which was every other person in the audience) would be approached by the security and politely, even benevolently, advised not to do it any more. The second occurrence would lead to banishing of the offender. On the photo above you can see one of them also rushing to me through the aisle.
 
@@ -26,11 +26,11 @@ The band had already released a concept album before, *Metropolis Part 2*, but t
 
 In the XXIII century the *Great Northern Empire of the Americas* is ruled by *Emperor Nafaryus*, which happens to own an army of *NOMACS* (*Noise Machines*). Those represent the only entertainment available for the people in the Empire for there is no other music any more.
 
-![](img:4.bp.blogspot.com/-VlcFwYGw7j4/VtX3ZAIz72I/AAAAAAAAlgk/Gamxf_WmyDI/s1600/nomac.png:a "The NOMAC. Source: dreamtheater.net.")
+{{< imgfig "https://4.bp.blogspot.com/-VlcFwYGw7j4/VtX3ZAIz72I/AAAAAAAAlgk/Gamxf_WmyDI/s1600/nomac.png" "The NOMAC. Source: dreamtheater.net." >}}
 
 So the life goes its ordinary course, NOMACS make noise, the people suffer, the Emperor rules, until one day the latter hears a rumour about a musician in the distant village of *Ravenskill* called *Gabriel*, who is capable of playing real music! Nafaryus gets curious (which is quite dangerous for emperors as we know from the history), so he books a ticket for a FLYGIZ (Flying Gizmo) at once and travels to Ravenskill. His daughter *Faythe* follows him (out of curiosity as well) and of course falls in love with the musician at the first sight of him.
 
-![](img:1.bp.blogspot.com/-2yu6jO_vFQ8/VtX8R-wYb6I/AAAAAAAAlhE/XdEhPFIUnDg/s1600/the-astonishing-characters.jpg:a "The characters of The Astonishing.")
+{{< imgfig "https://1.bp.blogspot.com/-2yu6jO_vFQ8/VtX8R-wYb6I/AAAAAAAAlhE/XdEhPFIUnDg/s1600/the-astonishing-characters.jpg" "The characters of The Astonishing." >}}
 
 The Emperor is a true villain so he doesn't give a damn about his daughter's feelings and orders the people of Ravenskill to deliver the bastard to him. However the latter is not so eager to get delivered and that makes things *really* complicated. After a few dramatic episodes including chase, treachery and ~~lightsaber~~ sword fight the Good defeats the Evil, villains are dead, love is triumphant, survivors friend each other on Facebook and Instagram and live happily ever after.
 
@@ -45,9 +45,9 @@ It might be the factor of age or being short of ideas. On the other hand, we all
 I've been bold enough to make a couple of more photos right after the last song—everyone grabbed their mobiles at once to take pictures so the security had no chance.
 
 The guitarist [John Petrucci][wiki:en:John_Petrucci]:
-![](img:2.bp.blogspot.com/-kpDrkCzDrWQ/Vs96qbqDA8I/AAAAAAAAleU/GxiIM7YRshM/s1600/20160223_224231.picasaweb.jpg:a "Dream Theater in Carré. John Petrucci.")
+{{< imgfig "https://2.bp.blogspot.com/-kpDrkCzDrWQ/Vs96qbqDA8I/AAAAAAAAleU/GxiIM7YRshM/s1600/20160223_224231.picasaweb.jpg" "Dream Theater in Carré. John Petrucci." >}}
 
 I was sitting in the second row, literally two metres away from Petrucci. Neither him nor the rest of the band looked too emotional about the gig; only the singer [James LaBrie][wiki:en:James_LaBrie] humbly asked the crowd a couple of times if we liked it.
 
 And finally the most scandalous: the drummer [Mike Mangini][wiki:en:Mike_Mangini] is taking photos with his mobile while the security is turning a blind eye to it! Isn't it double standards?
-![](img:1.bp.blogspot.com/-cwfVlJhAerw/Vs96qR8GwMI/AAAAAAAAleU/Pt3Aclg48ro/s1600/20160223_224229.picasaweb.jpg:a "Dream Theater in Carré. Mike Mangini takes a photo.")
+{{< imgfig "https://1.bp.blogspot.com/-cwfVlJhAerw/Vs96qR8GwMI/AAAAAAAAleU/Pt3Aclg48ro/s1600/20160223_224229.picasaweb.jpg" "Dream Theater in Carré. Mike Mangini takes a photo." >}}

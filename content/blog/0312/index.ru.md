@@ -10,13 +10,13 @@ tags: ["Tesla", "авто", "Гронинген", "Дренте", "Илон Ма
 
 <!--more-->
 
-![](img:4.bp.blogspot.com/-YhfFGRapYn8/WK9FuDfe67I/AAAAAAAApV8/67RTz6mZQ_Yd51Ev-abkSYVbBjqlDScJQCPcB/s1600/top-dutch-tesla.picasaweb.jpg:a "Hi Tesla. We Are Top Dutch.")
+{{< imgfig "https://4.bp.blogspot.com/-YhfFGRapYn8/WK9FuDfe67I/AAAAAAAApV8/67RTz6mZQ_Yd51Ev-abkSYVbBjqlDScJQCPcB/s1600/top-dutch-tesla.picasaweb.jpg" "Hi Tesla. We Are Top Dutch." >}}
 
 Этот веб-сайт, по сути, одно большое интерактивное обращение к {{< fl "Tesla Motors" >}} и лично к Илону Маску. Фраза {{< fl "«We Are Top Dutch»" >}} построена на игре слов: {{< fl "top" >}} переводится и как «верхний» (провинции северные, то есть находятся на карте в самом верху), и как «лучший» (ну а чего скромничать, в самом деле).
 
 Обращение преследует целью заманить {{< fl "Tesla" >}} на север Голландии — убедить их построить там гигафабрику, если таковая потребуется в Европе.
 
-![](img:2.bp.blogspot.com/-f0gfLQDqoEg/WK9L3AsEb-I/AAAAAAAApWM/UFrJWeaQt84Y6WuX59bDoRm-VGbpLgV-gCPcB/s1600/tesla-we-are.png:a)
+{{< imgfig "https://2.bp.blogspot.com/-f0gfLQDqoEg/WK9L3AsEb-I/AAAAAAAApWM/UFrJWeaQt84Y6WuX59bDoRm-VGbpLgV-gCPcB/s1600/tesla-we-are.png" >}}
 
 В 2013 году {{< fl "Tesla Motors" >}} открыла [сборочный цех](https://www.tesla.com/blog/tesla-motors-opens-assembly-plant-tilburg-netherlands) в голландском [Тилбурге][wiki:ru:Тилбург], что на юге страны — в том числе потому, что там рукой подать до Роттердама, одного из крупнейших морских портов в Европе. Логично, что север взревновал и теперь хочет доказать, что он тоже, мол, не провинция!
 

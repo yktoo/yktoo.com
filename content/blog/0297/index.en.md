@@ -8,7 +8,7 @@ Five days ago the mighty [Arjen Lucassen][route:/blog/tag,tag:Arjen Lucassen] [h
 
 <!--more-->
 
-![](img:1.bp.blogspot.com/-yVk8TPQxQOk/WDlcnphdPoI/AAAAAAAAoUs/zHjicNv6JCsXG6jwybTyuaxK_nnGypy4QCPcB/s1600/ayreon-universe-best-of.jpg:a "Ayreon Universe. Image source: arjenlucassen.com.")
+{{< imgfig "https://1.bp.blogspot.com/-yVk8TPQxQOk/WDlcnphdPoI/AAAAAAAAoUs/zHjicNv6JCsXG6jwybTyuaxK_nnGypy4QCPcB/s1600/ayreon-universe-best-of.jpg" "Ayreon Universe. Image source: arjenlucassen.com." >}}
 
 He also invited the fans to subscribe to the project's mailing list (something I've failed to spot on time). Those who did would have received a link to pre-sale that would allow them to buy tickets one day earlier.
 
@@ -18,7 +18,7 @@ According to Arjen, both shows (**6000** tickets in total) have been [sold out](
 
 I was to late for the mailing list, but still fortunate enough to have bought a ticket for this additional show. Which, by the way, has been sold out yesterday, too.
 
-![](img:2.bp.blogspot.com/-ap8Vh2JfIPI/WDlXWOjo5_I/AAAAAAAAoUM/fEx-vzeU4_kqsMr3J1I2xkrsRuBlz3ruwCPcB/s1600/ayreon-universe.jpg:a "Ayreon Universe: all the tickets gone. Photo from Arjen Lucassen's Facebook page.")
+{{< imgfig "https://2.bp.blogspot.com/-ap8Vh2JfIPI/WDlXWOjo5_I/AAAAAAAAoUM/fEx-vzeU4_kqsMr3J1I2xkrsRuBlz3ruwCPcB/s1600/ayreon-universe.jpg" "Ayreon Universe: all the tickets gone. Photo from Arjen Lucassen's Facebook page." >}}
 
 So, a total of **9000** tickets was done with in [less than 48 hours](https://www.facebook.com/ArjenLucassenOfficial/videos/10153850665491152/). The shows will take place at [013](http://www.013.nl/), Tilburg.
 

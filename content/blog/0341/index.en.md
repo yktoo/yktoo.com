@@ -8,9 +8,9 @@ That moment when you find out the [official Riverside event page](https://www.ti
 
 <!--more-->
 
-![](img:4.bp.blogspot.com/-i16LYa9YmX0/W-lbT_gGAHI/AAAAAAAAt8o/qPGJvPycdvY9kOxJEhkkfe1CYPyhdP1QACKgBGAs/s1600/tivoli-vredenburg-riverside-2018-11-12.png:a "The page of Riverside show.")
+{{< imgfig "https://4.bp.blogspot.com/-i16LYa9YmX0/W-lbT_gGAHI/AAAAAAAAt8o/qPGJvPycdvY9kOxJEhkkfe1CYPyhdP1QACKgBGAs/s1600/tivoli-vredenburg-riverside-2018-11-12.png" "The page of Riverside show." >}}
 
 That's today and the tickets are still available!
 
 This is that video:
-![](youtube:9DMpNq6h4_A)
+{{< youtube "9DMpNq6h4_A" >}}

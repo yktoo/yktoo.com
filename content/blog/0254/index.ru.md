@@ -8,6 +8,6 @@ tags: ["благоустройство", "Нидерланды", "техноло
 
 <!--more-->
 
-![](img:4.bp.blogspot.com/-xzCrWNMLE8Q/Vat7YULjCHI/AAAAAAAAjtc/dbLIBLFipIU/s1600/20150630_081438.picasaweb.jpg:a "Трактор-кустостриг.")
+{{< imgfig "https://4.bp.blogspot.com/-xzCrWNMLE8Q/Vat7YULjCHI/AAAAAAAAjtc/dbLIBLFipIU/s1600/20150630_081438.picasaweb.jpg" "Трактор-кустостриг." >}}
 
 Всё оказалось просто: на обычном тракторе смонтирована «рука» производства британской компании [McConnel](http://www.mcconnel.com/). Забавно, кстати, что, поскольку трактор едет по дороге, в районе «лежачего полицейского» контур подстриженной изгороди имеет соответствующий изгиб сверху.

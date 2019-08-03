@@ -8,7 +8,7 @@ tags: ["Samsung", "Samsung 840 EVO", "SSD", "Ubuntu", "yktools", "гаджеты
 
 <!--more-->
 
-![](img:4.bp.blogspot.com/-Gis6J9NzD7c/WK3HNt5lxwI/AAAAAAAApUA/jkJuEgZRkKUEy8PJhDRfC58UA-xBrOw-ACPcB/s1600/samsung-840-evo-ssd.jpg:a "Samsung 840 EVO.")
+{{< imgfig "https://4.bp.blogspot.com/-Gis6J9NzD7c/WK3HNt5lxwI/AAAAAAAApUA/jkJuEgZRkKUEy8PJhDRfC58UA-xBrOw-ACPcB/s1600/samsung-840-evo-ssd.jpg" "Samsung 840 EVO." >}}
 
 Но, как водится, счастье долгим не бывает, и осенью 2014 года в прессе много писали ([статья на Extremetech](http://www.extremetech.com/computing/190746-samsung-840-evo-has-serious-performance-bug-fix-on-the-way), [пост на Гиктаймс](http://geektimes.ru/post/241078/)) о технологическом дефекте, проявлявшемся в постепенном снижении скорости чтения файлов, записанных какое-то время назад. Проблема вызывается «уплыванием» напряжений, выдаваемых ячейками памяти, за пределы нормы, что заставляет контроллер накопителя осуществлять многократные попытки чтения, а это, в свою очередь, выливается в значительное снижение скорости чтения. Причём, чем больше времени прошло с момента записи файла, тем сильнее «уплывают» рабочие уровни ячеек и тем ниже становится скорость чтения этого файла.
 

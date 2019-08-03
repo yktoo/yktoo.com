@@ -6,13 +6,13 @@ tags: ["Нидерланды", "новости", "СМИ"]
 
 О Домодедове у нас говорят в каждом выпуске новостей, и довольно много. Показывают интервью с политиками и аналитиками. Репортажи.
 
-![](img:2.bp.blogspot.com/_PX65_e7vApk/TT3tDEpWOOI/AAAAAAAAH6Y/vIicoGgB3-U/s1600/DSC00813.JPG:a)
+{{< imgfig "https://2.bp.blogspot.com/_PX65_e7vApk/TT3tDEpWOOI/AAAAAAAAH6Y/vIicoGgB3-U/s1600/DSC00813.JPG" >}}
 
 <!--more-->
 
 Показывают кадры российских новостей.
 
-![](img:1.bp.blogspot.com/_PX65_e7vApk/TT3tCWi4ZXI/AAAAAAAAH6U/Jij7JQnIPzo/s1600/DSC00809.JPG:a)
+{{< imgfig "https://1.bp.blogspot.com/_PX65_e7vApk/TT3tCWi4ZXI/AAAAAAAAH6U/Jij7JQnIPzo/s1600/DSC00809.JPG" >}}
 О России в местном телевизоре вспоминают, говоря откровенно, не очень часто. Что в данном случае показывает, какое значение придаётся этому происшествию.
 
 Жалко, что (в очередной раз) от него пострадали не те, кто послужил ему причиной.

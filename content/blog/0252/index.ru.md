@@ -5,24 +5,24 @@ tags: ["Koss", "гаджеты", "гик-порно", "железо", "звук"
 ---
 
 Благодаря неиссякающему иБею мне удалось проапгрейдить бессмертный бестселлер [Koss PortaPro](http://www.koss.com/en/products/headphones/on-ear-headphones/PortaPro__Porta_Pro_On_Ear_Headphone). Им уже лет десять, но они по-прежнему радуют мощным звуком и компактностью, а после двух доработок стали ещё лучше:
-![](img:1.bp.blogspot.com/-zr--d6U3v8Y/VaDimXuMs7I/AAAAAAAAjps/27Ybkhxua90/s1600/dsc09866.picasaweb.jpg:a "Наушники Koss PortaPro после апгрейда.")
+{{< imgfig "https://1.bp.blogspot.com/-zr--d6U3v8Y/VaDimXuMs7I/AAAAAAAAjps/27Ybkhxua90/s1600/dsc09866.picasaweb.jpg" "Наушники Koss PortaPro после апгрейда." >}}
 
 <!--more-->
 
 **Первая доработка** заключалась в замене оригинальных поролоновых амбушюр на новые из серии {{< fl "Luxury Replacement Ear Pad Cushion for Koss Porta Pro" >}}, из кожзаменителя. Они и выглядят намного лучше, и на ушах удобнее:
-![](img:1.bp.blogspot.com/-T-NfzvQMT4I/VaDimWYhTWI/AAAAAAAAjpo/R7dJnwmcRVk/s1600/dsc09867.picasaweb.jpg:a "Амбушюр из кожзаменителя.")
+{{< imgfig "https://1.bp.blogspot.com/-T-NfzvQMT4I/VaDimWYhTWI/AAAAAAAAjpo/R7dJnwmcRVk/s1600/dsc09867.picasaweb.jpg" "Амбушюр из кожзаменителя." >}}
 
 Замена производится тривиально: излучатель снимается с оголовья, старые амбушюры аккуратно снимаются с пластмассовых шипов и на их место натягиваются новые.
 
 **Второе улучшение** — это смена простого комплектного провода на провод с пультом для телефона и микрофоном, превращающий наушники в полноценную гарнитуру (можно найти по запросу {{< fl "DIY Headphone Wire Cable" >}}):
-![](img:2.bp.blogspot.com/-AAm47jp4kLQ/VaDinXFf4wI/AAAAAAAAjqA/VEcx5-QfxLk/s1600/dsc09870.picasaweb.jpg:a "Кабель с микрофоном и пультом управления.")
+{{< imgfig "https://2.bp.blogspot.com/-AAm47jp4kLQ/VaDinXFf4wI/AAAAAAAAjqA/VEcx5-QfxLk/s1600/dsc09870.picasaweb.jpg" "Кабель с микрофоном и пультом управления." >}}
 
 На моём Samsung Galaxy Note 4 всё работает на ура, только клавиши по бокам вместо перемотки меняют громкость, что, впрочем, лично мне намного полезнее.
 
 Здесь всё тоже ненамного сложнее, однако требуется паяльник. Наушник также надо снять с оголовья и поддеть крышечку, закрывающую место ввода кабеля. После этого отпаять старый провод и припаять новый, соблюдая полярность (слева «минус», справа «плюс») и канал (левый канал должен быть подключен к «кончику» штеккера):
-![](img:2.bp.blogspot.com/-ftV16_oPs9s/VaDimatgcPI/AAAAAAAAjpw/XdtpjCM6XFg/s1600/dsc09868.picasaweb.jpg:a "Подключение кабеля к наушнику.")
+{{< imgfig "https://2.bp.blogspot.com/-ftV16_oPs9s/VaDimatgcPI/AAAAAAAAjpw/XdtpjCM6XFg/s1600/dsc09868.picasaweb.jpg" "Подключение кабеля к наушнику." >}}
 
 Потом крышечка ставится на место — и вуаля!
-![](img:3.bp.blogspot.com/-IoviCJtyuB8/VaDinCu0NAI/AAAAAAAAjp8/tJfLWxLlyXI/s1600/dsc09869.picasaweb.jpg:a "Наушник с закрытой крышечкой.")
+{{< imgfig "https://3.bp.blogspot.com/-IoviCJtyuB8/VaDinCu0NAI/AAAAAAAAjp8/tJfLWxLlyXI/s1600/dsc09869.picasaweb.jpg" "Наушник с закрытой крышечкой." >}}
 
 Мне удалось найти лишь кабель красного цвета (вместо оригинального чёрного), но это как раз сейчас модно.

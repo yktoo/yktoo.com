@@ -12,7 +12,7 @@ tags: ["Bryan Beller", "De Boerderij", "Guthrie Govan", "Marco Minnemann", "prog
 
 [Супергруппа][wiki:ru:Супергруппа] {{< fl "The Aristocrats" >}} была основана в 2011 году и в прошлом декабре представляла свой третий альбом [Tres Caballeros][wiki:en:Tres_Caballeros].
 
-![](img:2.bp.blogspot.com/-gqODy41rxV0/Vn7LgKAJaBI/AAAAAAAAk8M/eU2egTbUn-Q/s1600/20151209_222003.picasaweb.jpg:a "The Aristocrats, слева направо: Guthrie Govan, Marco Minnemann, Bryan Beller.")
+{{< imgfig "https://2.bp.blogspot.com/-gqODy41rxV0/Vn7LgKAJaBI/AAAAAAAAk8M/eU2egTbUn-Q/s1600/20151209_222003.picasaweb.jpg" "The Aristocrats, слева направо: Guthrie Govan, Marco Minnemann, Bryan Beller." >}}
 
 К сожалению, продемонстрировать почтенной публике по этому поводу я мало что могу.
 
@@ -28,15 +28,15 @@ tags: ["Bryan Beller", "De Boerderij", "Guthrie Govan", "Marco Minnemann", "prog
 * [Marco Minnemann][wiki:en:Marco_Minnemann] ({{< fl "Steven Wilson" >}}, {{< fl "Kreator" >}}, {{< fl "Joe Satriani" >}}, {{< fl "Paul Gilbert" >}}, {{< fl "Necrophagist" >}}) – **ударные**
 
 По списку проектов каждого можно оценить их уровень. Наиболее ярким из «Аристократов» является, пожалуй, британский гитарист [Гатри Гован][wiki:ru:Гован,_Гатри] ([Guthrie Govan][wiki:en:Guthrie_Govan]) — сказать про которого, что он виртуоз, — всё равно, что ничего не сказать. Это просто нужно слышать (и видеть).
-![](img:1.bp.blogspot.com/-iEJR_3Ip7P4/Vn7Lnv-cGoI/AAAAAAAAk94/ElLzdZoMlEY/s1600/20151209_211058.picasaweb.jpg:a "Guthrie Govan.")
+{{< imgfig "https://1.bp.blogspot.com/-iEJR_3Ip7P4/Vn7Lnv-cGoI/AAAAAAAAk94/ElLzdZoMlEY/s1600/20151209_211058.picasaweb.jpg" "Guthrie Govan." >}}
 
 Из-за дурацких новых правил «Крестьянского хозяйства» мне удалось записать лишь пару видео посредственного качества.
 
 Первое — рассказ басиста Брайана Беллера о проишествии на заправке где-то в Техасе, когда он нечаянно задел машину какой-то несчастной женщины и потом (спойлер!), сжалившись, дал ей немного денег в качестве компенсации:
-![](youtube:n0T48bzWouI)
+{{< youtube "n0T48bzWouI" >}}
 
 Второе — это песня {{< fl "Texas Crazypants" >}} («Чокнутая из Техаса»), написанная по мотивам этого самого происшествия:
-![](youtube:EP7ZwqPw108)
+{{< youtube "EP7ZwqPw108" >}}
 
 Вообще, слушая рассказы «Аристократов», которых в тот вечер было немало, я был удивлён, как бы выразиться помягче… приземлённости событий, лежащих в основе их космической сложности композиций. Бо́льшая их часть происходила «где-то в Штатах, когда мы гастролировали».
 

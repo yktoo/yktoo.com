@@ -5,7 +5,7 @@ tags: ["DIY", "food", "holidays"]
 ---
 
 In the New Year's Eve we've made a fruit tree, a real one:
-![](img:1.bp.blogspot.com/-7txD-LzjEbg/UOR-GB4aRJI/AAAAAAAAWVQ/DEQihbrLBw4/s1600/dsc06430.picasaweb.jpg:a)
+{{< imgfig "https://1.bp.blogspot.com/-7txD-LzjEbg/UOR-GB4aRJI/AAAAAAAAWVQ/DEQihbrLBw4/s1600/dsc06430.picasaweb.jpg" >}}
 
 <!--more-->
 

@@ -11,7 +11,7 @@ To properly answer this seemingly simple question one needs to take a deep dive 
 
 <!--more-->
 
-![](img:2.bp.blogspot.com/-0JS0V8bE70Y/WN97iz2hjLI/AAAAAAAAptQ/pwLDMGHIdfwZcGmcAlyotSDAsc3Yq2OOACPcB/s1600/shapes.picasaweb.png)
+{{< imgfig "https://2.bp.blogspot.com/-0JS0V8bE70Y/WN97iz2hjLI/AAAAAAAAptQ/pwLDMGHIdfwZcGmcAlyotSDAsc3Yq2OOACPcB/s1600/shapes.picasaweb.png" >}}
 
 ## Small business {#mkb}
 

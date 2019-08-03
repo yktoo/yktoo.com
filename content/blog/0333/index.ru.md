@@ -14,10 +14,10 @@ tags: ["Artful Aardvark", "Gnome", "Gnome Control Center", "Ubuntu", "стран
 
 Одна вещь долго выводила меня из себя: очень медленный дефолтный автоповтор при удержании клавиш. Пришлось немало поискать, чтобы найти нужную настройку в {{< fl "Gnome Control Center" >}}: то, что в моём понимании как раз напрямую относится к устройству «клавиатура», гениальные разработчики Гнома запихнули в {{< fl "Universal Access" >}}:
 
-![](img:3.bp.blogspot.com/-w8WkcsTSJdg/Wkyk0No8B4I/AAAAAAAArSw/9CvgDb05oWkWXzFoejugOZ7Ohjr6V4t6QCKgBGAs/s1600/gnome-universal-access.png "Gnome Universal Access.")
+{{< imgfig "https://3.bp.blogspot.com/-w8WkcsTSJdg/Wkyk0No8B4I/AAAAAAAArSw/9CvgDb05oWkWXzFoejugOZ7Ohjr6V4t6QCKgBGAs/s1600/gnome-universal-access.png" "Gnome Universal Access." >}}
 
 Здесь нужно кликнуть на неприметной надписи {{< fl "Repeat Keys" >}}: вам может показаться, что тогда {{< fl "On" >}} сменится на {{< fl "Off" >}}, но нет — вместо этого появится специальный диалог настроек автоповтора:
-![](img:3.bp.blogspot.com/-0mcHHp6aXpI/Wkyk0CGda1I/AAAAAAAArSw/M-lU-DPqdrYC6FrSEG2SaSeR78k9KxePQCKgBGAs/s1600/gnome-universal-access-repeat.png "Gnome: настройки автоповтора клавиш.")
+{{< imgfig "https://3.bp.blogspot.com/-0mcHHp6aXpI/Wkyk0CGda1I/AAAAAAAArSw/M-lU-DPqdrYC6FrSEG2SaSeR78k9KxePQCKgBGAs/s1600/gnome-universal-access-repeat.png" "Gnome: настройки автоповтора клавиш." >}}
 
 Проблема, однако, в том, что как я ни крутил настройку {{< fl "Speed" >}}, лучше не становилось — даже наоборот, визуально автоповтор становился медленнее. Как вы думаете, почему? Мне потребовалось около месяца, чтобы наконец-то решить эту проблему.
 

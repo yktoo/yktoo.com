@@ -8,9 +8,9 @@ tags: ["Riverside", "Tivoli Vredenburg", "музыка", "Нидерланды",
 
 <!--more-->
 
-![](img:4.bp.blogspot.com/-i16LYa9YmX0/W-lbT_gGAHI/AAAAAAAAt8o/qPGJvPycdvY9kOxJEhkkfe1CYPyhdP1QACKgBGAs/s1600/tivoli-vredenburg-riverside-2018-11-12.png:a "Страница концерта.")
+{{< imgfig "https://4.bp.blogspot.com/-i16LYa9YmX0/W-lbT_gGAHI/AAAAAAAAt8o/qPGJvPycdvY9kOxJEhkkfe1CYPyhdP1QACKgBGAs/s1600/tivoli-vredenburg-riverside-2018-11-12.png" "Страница концерта." >}}
 
 Это сегодня, приходите, билеты ещё есть.
 
 А вот это видео:
-![](youtube:9DMpNq6h4_A)
+{{< youtube "9DMpNq6h4_A" >}}

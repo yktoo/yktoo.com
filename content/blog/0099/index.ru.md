@@ -5,7 +5,7 @@ tags: ["Нидерланды"]
 ---
 
 В продолжение [темы о внимательности][post:48]: на днях всем в почтовые ящики опять пришло уведомление, на этот раз о земляных работах.
-![](img:3.bp.blogspot.com/-a9jxqoKoQvE/TgtkS6mlb8I/AAAAAAAAIsM/zKIei5xJrlo/s1600/graafwerkzaamheden.png)
+{{< imgfig "https://3.bp.blogspot.com/-a9jxqoKoQvE/TgtkS6mlb8I/AAAAAAAAIsM/zKIei5xJrlo/s1600/graafwerkzaamheden.png" >}}
 
 <!--more-->
 

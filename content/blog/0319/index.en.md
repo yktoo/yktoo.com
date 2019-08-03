@@ -10,7 +10,7 @@ So I've created a tiny [application indicator](https://unity.ubuntu.com/projects
 
 <!--more-->
 
-![](img:3.bp.blogspot.com/-o3UHJigGfeM/WPMpddaX-kI/AAAAAAAApwQ/ZQ2WLSmSFTYQqL8TQpCd5uL5v58sjHFfgCPcB/s1600/indicator-docker-icon.png "Docker Indicator icon.")
+{{< imgfig "https://3.bp.blogspot.com/-o3UHJigGfeM/WPMpddaX-kI/AAAAAAAApwQ/ZQ2WLSmSFTYQqL8TQpCd5uL5v58sjHFfgCPcB/s1600/indicator-docker-icon.png" "Docker Indicator icon." >}}
 
 ## What is implemented so far {#features}
 
@@ -21,7 +21,7 @@ This is just an early beta that can still prove useful:
 * Whenever a container is started or stopped (not necessarily via the indicator), a desktop notification is shown.
 
 Here's how it looks like:
-![](img:4.bp.blogspot.com/-aU2VIG_F2WA/WPMmyktgqLI/AAAAAAAApvo/K9MERC-7RTEixLhL6RJ8KUKK4WWokZknACPcB/s1600/Screenshot.png "Docker Indicator 0.1.0 screenshot.")
+{{< imgfig "https://4.bp.blogspot.com/-aU2VIG_F2WA/WPMmyktgqLI/AAAAAAAApvo/K9MERC-7RTEixLhL6RJ8KUKK4WWokZknACPcB/s1600/Screenshot.png" "Docker Indicator 0.1.0 screenshot." >}}
 
 ## Installation {#install}
 

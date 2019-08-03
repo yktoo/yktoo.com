@@ -10,4 +10,4 @@ tags: ["git", "Yktoo Solutions", "yktools", "разработка", "софт"]
 
 Продолжение по ссылке ниже (англ.)
 
-<!--![](img:yktoo.solutions/blog/2019/07/19-managing-git-projects-on-a-mass-scale/git.png)-->
+<!--{{< imgfig "https://yktoo.solutions/blog/2019/07/19-managing-git-projects-on-a-mass-scale/git.png" >}}-->

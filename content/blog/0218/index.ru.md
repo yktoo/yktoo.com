@@ -23,7 +23,7 @@ tags: ["Precise Pangolin", "PulseAudio", "Python", "Quantal Quetzal", "Raring Ri
       * **13.10** ({{< fl "Saucy Salamander" >}})
       * **14.04** LTS ({{< fl "Trusty Tahr" >}}) — протестирован в Trusty Alpha 2.
 * Добавлена иконка программы по умолчанию, которая будет отображаться, если используется нестандартная тема оформления. Я сделал её более контрастной, чтобы она была хорошо заметна как в светлых, так и в тёмных темах:
-  ![](img:1.bp.blogspot.com/-p_jKIQD-wJ4/UvZeMTHsmYI/AAAAAAAAb1g/DYm853qnCjw/s1600/indicator-sound-switcher.png)
+  {{< imgfig "https://1.bp.blogspot.com/-p_jKIQD-wJ4/UvZeMTHsmYI/AAAAAAAAb1g/DYm853qnCjw/s1600/indicator-sound-switcher.png" >}}
 
 ## Установка {#installation}
 

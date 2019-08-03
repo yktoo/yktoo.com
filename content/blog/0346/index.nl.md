@@ -15,4 +15,4 @@ Om die reden gaan alle relevante posts voortaan in de blog van Yktoo Solutions g
 
 Via de link hieronder kun je over de details van de nieuwe website implementatie lezen.
 
-<!--![](img:1.bp.blogspot.com/-_oXI-nbfzo0/XTLzssA0-OI/AAAAAAAAwYc/lngDnMSfNEgezpjPHUkODSoPMrP7NGAlQCKgBGAs/s1600/website-main-page.jpg)-->
+<!--{{< imgfig "https://1.bp.blogspot.com/-_oXI-nbfzo0/XTLzssA0-OI/AAAAAAAAwYc/lngDnMSfNEgezpjPHUkODSoPMrP7NGAlQCKgBGAs/s1600/website-main-page.jpg" >}}-->

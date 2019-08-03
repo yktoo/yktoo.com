@@ -11,4 +11,4 @@ As we were planning to extend our operation, a new representation on the web was
 
 There was also another wish, to implement a proper news feed or, rather, a blog, that would inform the general public of current developments and, at the same time, provide some useful technical insights (of which we have plenty).
 
-<!--![](img:1.bp.blogspot.com/-_oXI-nbfzo0/XTLzssA0-OI/AAAAAAAAwYc/lngDnMSfNEgezpjPHUkODSoPMrP7NGAlQCKgBGAs/s1600/website-main-page.jpg)-->
+<!--{{< imgfig "https://1.bp.blogspot.com/-_oXI-nbfzo0/XTLzssA0-OI/AAAAAAAAwYc/lngDnMSfNEgezpjPHUkODSoPMrP7NGAlQCKgBGAs/s1600/website-main-page.jpg" >}}-->

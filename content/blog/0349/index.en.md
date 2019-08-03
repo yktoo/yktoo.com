@@ -6,7 +6,7 @@ tags: ["heatwave", "record", "temperature", "weather"]
 
 We're four days into a [record-breaking][post:229] heatwave here. An "orange alert" ({{< fl "code oranje" >}}) has been declared in almost every province of the Netherlands:
 
-![](img:1.bp.blogspot.com/-UT_YxhgI0Os/XTriejhY54I/AAAAAAAAwg8/4iyYAGe0zP4azsXylGGZQfoyZ3cOWFrAgCKgBGAs/s1600/code-oranje.png "Orange alert on the map of Holland.")
+{{< imgfig "https://1.bp.blogspot.com/-UT_YxhgI0Os/XTriejhY54I/AAAAAAAAwg8/4iyYAGe0zP4azsXylGGZQfoyZ3cOWFrAgCKgBGAs/s1600/code-oranje.png" "Orange alert on the map of Holland." >}}
 
 The **75 years** old absolute temperature record established back in 1944 has been broken yesterday.
 

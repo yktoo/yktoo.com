@@ -8,7 +8,7 @@ tags: ["013", "Arjen Lucassen", "Ayreon", "Ayreon Universe", "progressive metal"
 
 <!--more-->
 
-![](img:1.bp.blogspot.com/-yVk8TPQxQOk/WDlcnphdPoI/AAAAAAAAoUs/zHjicNv6JCsXG6jwybTyuaxK_nnGypy4QCPcB/s1600/ayreon-universe-best-of.jpg:a "Ayreon Universe. Фото с сайта arjenlucassen.com.")
+{{< imgfig "https://1.bp.blogspot.com/-yVk8TPQxQOk/WDlcnphdPoI/AAAAAAAAoUs/zHjicNv6JCsXG6jwybTyuaxK_nnGypy4QCPcB/s1600/ayreon-universe-best-of.jpg" "Ayreon Universe. Фото с сайта arjenlucassen.com." >}}
 
 Там же, в Фейсбуке он призвал подписаться на свой список рассылки (что ваш покорный слуга успешно провафлил) — подписавшимся должны были выслать специальную ссылку, по которой можно было купить билеты на сутки раньше.
 
@@ -18,7 +18,7 @@ tags: ["013", "Arjen Lucassen", "Ayreon", "Ayreon Universe", "progressive metal"
 
 На список рассылки я вовремя не подписался, но мне повезло-таки ухватить билет на дополнительное шоу. Вчера было полностью распродано и оно.
 
-![](img:2.bp.blogspot.com/-ap8Vh2JfIPI/WDlXWOjo5_I/AAAAAAAAoUM/fEx-vzeU4_kqsMr3J1I2xkrsRuBlz3ruwCPcB/s1600/ayreon-universe.jpg:a "Ayreon Universe — все билеты распроданы. Фото со страницы Arjen Lucassen в Facebook.")
+{{< imgfig "https://2.bp.blogspot.com/-ap8Vh2JfIPI/WDlXWOjo5_I/AAAAAAAAoUM/fEx-vzeU4_kqsMr3J1I2xkrsRuBlz3ruwCPcB/s1600/ayreon-universe.jpg" "Ayreon Universe — все билеты распроданы. Фото со страницы Arjen Lucassen в Facebook." >}}
 
 Итого **9000** билетов ушли [менее, чем за 48 часов](https://www.facebook.com/ArjenLucassenOfficial/videos/10153850665491152/). Концерт будет проводиться в клубе [013](http://www.013.nl/) в Тилбурге.
 

@@ -15,12 +15,12 @@ The post was going to be large, so I decided to split it into several parts.
 
 ## Schiphol {#schiphol}
 
-![](img:1.bp.blogspot.com/-RdVoLTHFjn4/TaatEfPBhiI/AAAAAAAAItc/8_sVvU7q7Fw/s1600/dsc01367.picasaweb.jpg:a "Wheel of Energy 365")
+{{< imgfig "https://1.bp.blogspot.com/-RdVoLTHFjn4/TaatEfPBhiI/AAAAAAAAItc/8_sVvU7q7Fw/s1600/dsc01367.picasaweb.jpg" "Wheel of Energy 365" >}}
 
 The ingenious Dutch have constructed an attraction called [Wheel of Energy365](http://www.wheelofenergy.org/). The wheel advertises fund-raising for a cancer research project. It revolves 24 hours a day and, from my point of view, is in itself an interesting thing. Anyone can buy a privilege to run inside for €36.5 per hour. In the meantime a cute blue bird collects money from passers-by.
 
 There are three lanes inside the wheel, so you can invite more people to join. Undoubtedly, it's a noble project and I honour people started it, as well as ones signing up for it.
 
-![](img:2.bp.blogspot.com/-um9X8_oDMOs/TaaukMnFT6I/AAAAAAAAItc/l_KmFgUtTUE/s1600/dsc01369.picasaweb.jpg:a)
+{{< imgfig "https://2.bp.blogspot.com/-um9X8_oDMOs/TaaukMnFT6I/AAAAAAAAItc/l_KmFgUtTUE/s1600/dsc01369.picasaweb.jpg" >}}
 
 Next: [Part 2. Vienna][post:84]

@@ -11,16 +11,16 @@ tags: ["Yktoo Solutions", "бизнес", "налоги", "Нидерланды"
 
 <!--more-->
 
-<!-- ![](img:1.bp.blogspot.com/-XCYqqwYaPbs/WCo7vX_qTiI/AAAAAAAAoPA/hDBojNJO1Pk9pRHGq7L6hQCzTBd_bIaCACPcB/s1600/20161105_211814.picasaweb.jpg) -->
+<!-- {{< imgfig "https://1.bp.blogspot.com/-XCYqqwYaPbs/WCo7vX_qTiI/AAAAAAAAoPA/hDBojNJO1Pk9pRHGq7L6hQCzTBd_bIaCACPcB/s1600/20161105_211814.picasaweb.jpg" >}} -->
 
 Я склонен думать, что лучше жалеть о сделанных вещах, нежели о несделанных, поэтому, взвесив все [«за» и «против»][post:309], решил действовать. 1 октября 2016 года на свет появился мой {{< fl "eenmanszaak" >}}. Роды, проходившие в [Торговой палате](https://www.kvk.nl/), оказались быстрыми и приятными, новорождённого нарекли туземным именем {{< fl "Yktoo Solutions" >}}.
-![](img:1.bp.blogspot.com/-iaEVkAOTeVs/WKlzptmLZ-I/AAAAAAAApQ0/W-rdGWrQhbI0mT6IfVvmr2qhM5F7-YTewCPcB/s1600/Yktoo-Solutions-logo.png)
+{{< imgfig "https://1.bp.blogspot.com/-iaEVkAOTeVs/WKlzptmLZ-I/AAAAAAAApQ0/W-rdGWrQhbI0mT6IfVvmr2qhM5F7-YTewCPcB/s1600/Yktoo-Solutions-logo.png" >}}
 
 Вообще в качестве названия компании можно зарегистрировать что угодно, главное, чтобы оно не вводило в заблуждение и не повторяло какое-либо из существующих. Вводящими в заблуждение считаются, например, названия, использующие чужое имя (типа {{< fl "Johnson & Sons" >}}, когда вы по паспорту вовсе не Джонсон) или создающие неверное впечатление о размере или деятельности компании ({{< fl "Paradise Cleaning Industries" >}} для индивидуального бизнеса по уборке территории).
 
 С моим названием всё было в порядке; слово {{< fl "solutions" >}} («решения») часто используется в названиях ИТ-консалтинговых фирм. Недолго думая, я также зарегистрировал домен `yktoo.solutions` (многие до сих пор удивляются, что есть такой [TLD][wiki:ru:Домен_верхнего_уровня] — `.solutions`), и соорудил на нём [сайт-визитку](https://www.yktoo.solutions/). В общем, приятные такие хлопоты по обустройству собственного новорождённого бизнеса.
 
-![](img:1.bp.blogspot.com/-XCYqqwYaPbs/WCo7vX_qTiI/AAAAAAAAoPA/hDBojNJO1Pk9pRHGq7L6hQCzTBd_bIaCACPcB/s1600/20161105_211814.picasaweb.jpg:a "Визитки Yktoo Solutions.")
+{{< imgfig "https://1.bp.blogspot.com/-XCYqqwYaPbs/WCo7vX_qTiI/AAAAAAAAoPA/hDBojNJO1Pk9pRHGq7L6hQCzTBd_bIaCACPcB/s1600/20161105_211814.picasaweb.jpg" "Визитки Yktoo Solutions." >}}
 
 ## Ученье — свет {#learning}
 
@@ -35,18 +35,18 @@ tags: ["Yktoo Solutions", "бизнес", "налоги", "Нидерланды"
 ## «День стартера» {#startersdag}
 
 Раз в несколько месяцев {{< fl "KvK" >}} проводит бесплатный же «День стартера» ({{< fl "Startersdag" >}}), в котором помимо двух этих организаций участвует множество коммерческих фирм, предоставляющих услуги и сервисы для предпринимателей: банки, страховые компании, студии веб-дизайна, разработчики мобильных приложений, {{< fl "payment" >}}-провайдеры и т.п. Один такой день я посетил в ноябре в Утрехте.
-![](img:1.bp.blogspot.com/-Eki7kXjgv2k/WCo7vUGvE5I/AAAAAAAAoPA/6ehaYzYB0MADbj79jW0RFyptuwQ220B9QCPcB/s1600/20161105_100446.picasaweb.jpg:a "KvK Startersdag.")
+{{< imgfig "https://1.bp.blogspot.com/-Eki7kXjgv2k/WCo7vUGvE5I/AAAAAAAAoPA/6ehaYzYB0MADbj79jW0RFyptuwQ220B9QCPcB/s1600/20161105_100446.picasaweb.jpg" "KvK Startersdag." >}}
 
 ## «Цифровое рабочее место» {#digitale-werkplaats}
 
 А в декабре {{< fl "Google" >}} пригласил меня на организованный ими семинар под названием «Цифровое рабочее место» ([De Digitale Werkplaats](https://digitalewerkplaats.withgoogle.com/)).
-![](img:3.bp.blogspot.com/-bSXnAmKehwc/WKxwnAuMq0I/AAAAAAAApSE/B8VOjKSTTPgyqaseDrU9ifNR0YGkGJLcQCPcB/s1600/20161213_155655.picasaweb.jpg:a "«Цифровое рабочее место» Google: бэдж участника.")
+{{< imgfig "https://3.bp.blogspot.com/-bSXnAmKehwc/WKxwnAuMq0I/AAAAAAAApSE/B8VOjKSTTPgyqaseDrU9ifNR0YGkGJLcQCPcB/s1600/20161213_155655.picasaweb.jpg" "«Цифровое рабочее место» Google: бэдж участника." >}}
 
 Компания прикладывает много усилий для продвижения в массы «поисковой грамотности» и, конечно, своих рекламных сервисов.
-![](img:4.bp.blogspot.com/-Mg6vyN6KDeQ/WKxwnE-Zc6I/AAAAAAAApSE/NYO2PpLXvc4_qVy7mrOm3ue4wjRuwxsOQCPcB/s1600/20161213_155811.picasaweb.jpg:a "Куда пойти учиться.")
+{{< imgfig "https://4.bp.blogspot.com/-Mg6vyN6KDeQ/WKxwnE-Zc6I/AAAAAAAApSE/NYO2PpLXvc4_qVy7mrOm3ue4wjRuwxsOQCPcB/s1600/20161213_155811.picasaweb.jpg" "Куда пойти учиться." >}}
 
 Там нас учили, как правильно строить навигацию на сайте, как пользоваться инструментами вебмастера и аналитикой, как размещать рекламу и т.п. — в целом довольно информативно. Все лекции были на голландском, и вести этот семинар прилетели голландцы из центра разработки {{< fl "Google" >}} в ирландском Дублине.
-![](img:1.bp.blogspot.com/-Pr10Soqileg/WKxwnBmTafI/AAAAAAAApSE/q5pEC34ffVwh3kr7Ld_k7cfB6xnO4UGGwCPcB/s1600/20161213_160002.picasaweb.jpg:a "«Успешный веб-сайт».")
+{{< imgfig "https://1.bp.blogspot.com/-Pr10Soqileg/WKxwnBmTafI/AAAAAAAApSE/q5pEC34ffVwh3kr7Ld_k7cfB6xnO4UGGwCPcB/s1600/20161213_160002.picasaweb.jpg" "«Успешный веб-сайт»." >}}
 
 ## Информации много не бывает {#keep-learning}
 

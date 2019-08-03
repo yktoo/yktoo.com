@@ -15,41 +15,41 @@ tags: ["Австрия", "впервые", "горы", "Зее", "Ишгль", "
 В отличии от нашего вечного межсезонья с +5­–10° C, Австрия встретила снегом и лёгким морозцем около -6° C. Дороги, впрочем, были чистыми, и мы домчали до Зее (около 300 км) меньше, чем за три часа.
 
 Наш номер в Зее был в дополнительном здании отеля, без обслуживающего персонала, где ключи от всех номеров висели на доске в холле — просто бери ключ и заходи. Вид из окна отеля хмурым февральским утром:
-![](img:4.bp.blogspot.com/-0rYugoUMOMc/VN3DUV_bD5I/AAAAAAAAhIk/FXmFol-k1u0/s1600/dsc07992.picasaweb.jpg:a)
+{{< imgfig "https://4.bp.blogspot.com/-0rYugoUMOMc/VN3DUV_bD5I/AAAAAAAAhIk/FXmFol-k1u0/s1600/dsc07992.picasaweb.jpg" >}}
 
 Наш прокатный Volkswagen Golf, новый с иголочки и нашпигованный всем, чем только можно: коробка-автомат, навигация с [TMC][wiki:ru:Канал_автодорожных_сообщений], парковочные сенсоры, [адаптивный круиз-контроль][wiki:ru:Круиз-контроль], боковые фары, вот это всё:
-![](img:2.bp.blogspot.com/-C5ob9G4zo5s/VN3DWBmgNAI/AAAAAAAAhI0/jwrU3Bey23k/s1600/dsc07994.picasaweb.jpg:a)
+{{< imgfig "https://2.bp.blogspot.com/-C5ob9G4zo5s/VN3DWBmgNAI/AAAAAAAAhI0/jwrU3Bey23k/s1600/dsc07994.picasaweb.jpg" >}}
 
 Почти все фотографии в этом посте были сделаны на телефон — таскать с собой в горы камеру как-то несподручно, — так что уж не взыщите.
 
 ## Ишгль {#ischgl}
 
 Горнолыжный курорт в Ишгле (по сути, деревне с полутора тысячами местных жителей), как оказалось, — один из крупнейших в Европе. 45 лифтов, 238 км подготовленных склонов для катания. Кататься можно совершенно бесплатно, но чтобы пользоваться лифтами, необходима карточка, так называемый {{< fl "ski pass" >}}. Так что если вы не хотите карабкаться пару километров по склону (да это практически и невозможно), придётся раскошелиться. В Ишгле ски-пасс стоит около 50 евро в сутки, при этом, если вам не нужен полный день, его можно вернуть и получить часть денег обратно. Карточка, считываемая турникетами на расстоянии и которую поэтому удобнее всего держать в нарукавном кармане, даёт доступ ко всем лифтам курорта. Купить её можно прямо у подножия горы в кассе:
-![](img:2.bp.blogspot.com/-TRT_Ax2T-O8/VN3ClnYMJzI/AAAAAAAAhBc/YzV0XpVChmk/s1600/20150205_095827.picasaweb.jpg:a)
+{{< imgfig "https://2.bp.blogspot.com/-TRT_Ax2T-O8/VN3ClnYMJzI/AAAAAAAAhBc/YzV0XpVChmk/s1600/20150205_095827.picasaweb.jpg" >}}
 
 Повсюду вокруг находятся конторы проката лыж, сноубордов, шлемов и прочего мыслимого инвентаря. В наличии есть также шкафчики (€8/сутки) для хранения, в которые помещаются два комплекта лыж или сноубордов, включая ботинки.
 
 От подножия горы идут лифты канатной дороги A1, A2 и A3, представляющие собой кабинки, в которые помещаются от 4 до 16 человек (в зависимости от лифта). В больших лифтах лыжи и сноуборды заносятся внутрь кабинки и вешаются на специальное крепление на потолке, в меньших они, как правило, вставляются в держатели снаружи на дверях:
-![](img:1.bp.blogspot.com/-TqpHvmtUor8/VN3CnofikVI/AAAAAAAAhBs/X8dZAhr7QzU/s1600/20150205_101948.picasaweb.jpg:a)
+{{< imgfig "https://1.bp.blogspot.com/-TqpHvmtUor8/VN3CnofikVI/AAAAAAAAhBs/X8dZAhr7QzU/s1600/20150205_101948.picasaweb.jpg" >}}
 
 Перед тем как лифт отъезжает от посадочной площадки, двери в нём автоматически закрываются. Внутри тепло и хорошо, в некоторых даже сиденья с подогревом. Длина канатной дороги лифтов A1-A3 около четырёх километров, при этом вверх поднимают они примерно на километр.
-![](img:2.bp.blogspot.com/-s098bE-ASZY/VN3CoRIoIVI/AAAAAAAAhB0/VYjCDeyhHZM/s1600/20150205_102417.picasaweb.jpg:a)
+{{< imgfig "https://2.bp.blogspot.com/-s098bE-ASZY/VN3CoRIoIVI/AAAAAAAAhB0/VYjCDeyhHZM/s1600/20150205_102417.picasaweb.jpg" >}}
 
 Местами высота полёта такая, что дух захватывает. Можно подняться выше облаков:
-![](img:1.bp.blogspot.com/-4vAWTaBhqxw/VN3CqGFnwqI/AAAAAAAAhCE/gVmU59It4Ks/s1600/20150205_103126.picasaweb.jpg:a)
+{{< imgfig "https://1.bp.blogspot.com/-4vAWTaBhqxw/VN3CqGFnwqI/AAAAAAAAhCE/gVmU59It4Ks/s1600/20150205_103126.picasaweb.jpg" >}}
 
 Глядя на всё это, задаёшься вопросом, сколько же это всё стоило построить и как это делалось. Брошюра, взятая мной на кассе, рассказывает, что, когда курорт открылся в 1963 году, там было лишь два лифта (сейчас 45). Склоны разравнивают 36 специальных машин, каждая стоит 400 тыс. евро. За последние десять лет в курорт было инвестировано 259 млн евро.
 
 Вот ещё одна разновидность лифта: скамейка, подвешенная к канату. По желанию на ней можно опустить прозрачный козырёк для защиты от ветра:
-![](img:2.bp.blogspot.com/-xZ58qm7M1ZQ/VN3Csf10NAI/AAAAAAAAhCc/o0lJ6KyfLSk/s1600/20150205_131324.picasaweb.jpg:a)
+{{< imgfig "https://2.bp.blogspot.com/-xZ58qm7M1ZQ/VN3Csf10NAI/AAAAAAAAhCc/o0lJ6KyfLSk/s1600/20150205_131324.picasaweb.jpg" >}}
 
 На такой лифт садятся, не снимая лыж или сноуборда. Сразу после посадки нужно опустить специальный поручень, на котором есть подставка для ног (т.е. лыж).
 
 В крупных узловых точках в горах расположены магазины, учебные центры, рестораны. Перед ресторанами стоят специальные стойки, в которых все оставляют свои лыжи и сноуборды — просто так, без какого-либо контроля. И их там тысячи.
-![](img:3.bp.blogspot.com/-yL_9xs9OeiA/VN3DFpKKFcI/AAAAAAAAhGM/6Q5N6VO4oNo/s1600/20150207_123830.picasaweb.jpg:a)
+{{< imgfig "https://3.bp.blogspot.com/-yL_9xs9OeiA/VN3DFpKKFcI/AAAAAAAAhGM/6Q5N6VO4oNo/s1600/20150207_123830.picasaweb.jpg" >}}
 
 Электронные табло показывают, какие из лифтов и склонов доступны:
-![](img:1.bp.blogspot.com/-1hQoTk3qo8g/VN3CunSzWsI/AAAAAAAAhC0/LP8xXOxTKlU/s1600/20150206_101126.picasaweb.jpg:a)
+{{< imgfig "https://1.bp.blogspot.com/-1hQoTk3qo8g/VN3CunSzWsI/AAAAAAAAhC0/LP8xXOxTKlU/s1600/20150206_101126.picasaweb.jpg" >}}
 
 Температура, как видно, -9° C. Жирные чёрные линии на карте — лифты, тонкие разноцветные — склоны. По сложности они делятся на три категории:
 
@@ -58,95 +58,95 @@ tags: ["Австрия", "впервые", "горы", "Зее", "Ишгль", "
 * чёрные — для «продвинутых».
 
 Я пошёл, разумеется, на один из простых, но очень быстро выяснилось, что, если у тебя нет базовых навыков управления своим полётом с горы, — торможения и разворота — то простотой там и не пахнет. Даже «голубые» склоны могут быть весьма и весьма крутыми.
-![](img:2.bp.blogspot.com/-I_PblQI0oig/VN3Crq7WD8I/AAAAAAAAhCU/PnwaYsDMpmE/s1600/20150205_110054.picasaweb.jpg:a)
+{{< imgfig "https://2.bp.blogspot.com/-I_PblQI0oig/VN3Crq7WD8I/AAAAAAAAhCU/PnwaYsDMpmE/s1600/20150205_110054.picasaweb.jpg" >}}
 
 «Цвет» склона показывается на круглых знаках, расположенных у края.
-![](img:2.bp.blogspot.com/-6LSrpfPUGCE/VN3Cxi4FJTI/AAAAAAAAhDE/nsTJKv6pwe0/s1600/20150206_111314.picasaweb.jpg:a)
+{{< imgfig "https://2.bp.blogspot.com/-6LSrpfPUGCE/VN3Cxi4FJTI/AAAAAAAAhDE/nsTJKv6pwe0/s1600/20150206_111314.picasaweb.jpg" >}}
 
 Иногда лыжня раздваивается, например, влево идёт «голубая», а вправо «красная». При этом, летя вниз по склону, нужно успеть сориентироваться и повернуть в нужное русло.
-![](img:2.bp.blogspot.com/-CtC-bwDqus4/VN3C-XqGVKI/AAAAAAAAhFE/OvYX5eeWMi0/s1600/20150207_112126.picasaweb.jpg:a)
+{{< imgfig "https://2.bp.blogspot.com/-CtC-bwDqus4/VN3C-XqGVKI/AAAAAAAAhFE/OvYX5eeWMi0/s1600/20150207_112126.picasaweb.jpg" >}}
 
 Потому что, если вы окажетесь на «неверном» склоне, единственный путь будет вниз. А там уж крутой-не крутой, никуда не деться. Я так промахнулся в свой первый день — тормозить-то ещё не научился. Пришлось изрядную часть преодолевать на пятой точке, а часть — просто в ботинках, без лыж. Удовольствие сомнительное с учётом длины некоторых склонов.
 
 Под конец первого дня ещё и началась метель — стало почти ничего не видно, просто страсть. Но я не сдавался и катался по одному и тому же маршруту до самого закрытия лифта, до 16:00.
-![](img:3.bp.blogspot.com/-PrVtuw1RVek/VN3C6FijQHI/AAAAAAAAhEc/Ab0a9aFHloA/s1600/20150206_162012.picasaweb.jpg:a)
+{{< imgfig "https://3.bp.blogspot.com/-PrVtuw1RVek/VN3C6FijQHI/AAAAAAAAhEc/Ab0a9aFHloA/s1600/20150206_162012.picasaweb.jpg" >}}
 
 Шесть минут на лифте вверх, три минуты вниз, и так раз двадцать. Лишь раз прервался, поняв, что надо всё-таки что-то съесть, благо ресторанов тут хватает. Обед горнолыжника: варёная картошка под соусом и глинтвейн, который «любит тебя»:
-![](img:1.bp.blogspot.com/-3p7WTqG45tg/VN3CtGmktmI/AAAAAAAAhCk/Ak5aI26ab00/s1600/20150205_140753.picasaweb.jpg:a)
+{{< imgfig "https://1.bp.blogspot.com/-3p7WTqG45tg/VN3CtGmktmI/AAAAAAAAhCk/Ak5aI26ab00/s1600/20150205_140753.picasaweb.jpg" >}}
 
 Встречается снеготворчество народов мира:
-![](img:4.bp.blogspot.com/--QUye2ooII8/VN3C1NEOQ4I/AAAAAAAAhDs/vT7s7kCVQEA/s1600/20150206_140156.picasaweb.jpg:a)
+{{< imgfig "https://4.bp.blogspot.com/--QUye2ooII8/VN3C1NEOQ4I/AAAAAAAAhDs/vT7s7kCVQEA/s1600/20150206_140156.picasaweb.jpg" >}}
 
 В Ишгле любопытно то, что прямо по вершине {{< fl "Greitspitze" >}} проходит государственная граница межды Австрией и Швейцарией. Есть даже пограничный пост, которым, очевидно, пользуются нечасто:
-![](img:4.bp.blogspot.com/-W0rZIqCRFXI/VN3C3phZXwI/AAAAAAAAhEE/OyanDsrVVQo/s1600/20150206_150902.picasaweb.jpg:a)
+{{< imgfig "https://4.bp.blogspot.com/-W0rZIqCRFXI/VN3C3phZXwI/AAAAAAAAhEE/OyanDsrVVQo/s1600/20150206_150902.picasaweb.jpg" >}}
 
 Люди, сходящие с лифта, переходят границу (знак «государственная граница» слева):
-![](img:1.bp.blogspot.com/-jrabladDF5w/VN3DBrykSGI/AAAAAAAAhFk/CkmzYWxErO0/s1600/20150207_114602.picasaweb.jpg:a)
+{{< imgfig "https://1.bp.blogspot.com/-jrabladDF5w/VN3DBrykSGI/AAAAAAAAhFk/CkmzYWxErO0/s1600/20150207_114602.picasaweb.jpg" >}}
 
 Здесь есть даже дьюти-фри-магазины, реклама которых повсюду.
 
 Так что, забравшись на вершину, можете выбирать, в Австрию катиться или в Швейцарию. Хотя, вообще говоря, разницы нет никакой и склоны везде одинаковые.
 
 Меня поразило количество катающегося народу — согласно брошюре, за час лифты в Ишгле перевозят 93 тысячи человек, а за зиму — около 30 миллионов. И при этом такое ощущение, что все они катаются лучше меня!
-![](img:3.bp.blogspot.com/-lFoKnu59o4I/VN3C4eZPPjI/AAAAAAAAhEM/tNgsw6RE-Do/s1600/20150206_152343.picasaweb.jpg:a)
+{{< imgfig "https://3.bp.blogspot.com/-lFoKnu59o4I/VN3C4eZPPjI/AAAAAAAAhEM/tNgsw6RE-Do/s1600/20150206_152343.picasaweb.jpg" >}}
 
 А в выходные, да ещё и в солнечную погоду, здесь полный аншлаг. Впрочем, очередь движется быстро, и на лифт попадаешь в течение нескольких минут.
-![](img:3.bp.blogspot.com/-myIGUsdvyB4/VN3DA59Qu3I/AAAAAAAAhFc/tJtGJiv2SWs/s1600/20150207_113100_1.picasaweb.jpg:a)
+{{< imgfig "https://3.bp.blogspot.com/-myIGUsdvyB4/VN3DA59Qu3I/AAAAAAAAhFc/tJtGJiv2SWs/s1600/20150207_113100_1.picasaweb.jpg" >}}
 
 Время от времени, когда кто-то неудачно упадёт, по склону проносится снегоход с мигалкой и носилками в прицепе. А один раз даже опустился вертолёт, склон при этом перекрыли на какое-то время. Видимо, кто-то совсем неудачливый.
-![](img:3.bp.blogspot.com/-ob9mnhvoAJc/VN3DH2zDlVI/AAAAAAAAhGk/CktM7hzqgLQ/s1600/20150207_135459.picasaweb.jpg:a)
+{{< imgfig "https://3.bp.blogspot.com/-ob9mnhvoAJc/VN3DH2zDlVI/AAAAAAAAhGk/CktM7hzqgLQ/s1600/20150207_135459.picasaweb.jpg" >}}
 
 К счастью, долго ждать не пришлось — минут через пять проезд открыли.
-![](img:3.bp.blogspot.com/-lU22BwWjR6w/VN3DHBTCryI/AAAAAAAAhGc/yGFUwaH-YKc/s1600/20150207_135303.picasaweb.jpg:a)
+{{< imgfig "https://3.bp.blogspot.com/-lU22BwWjR6w/VN3DHBTCryI/AAAAAAAAhGc/yGFUwaH-YKc/s1600/20150207_135303.picasaweb.jpg" >}}
 
 Швейцарские кабинки с защитным стеклом оранжевого цвета:
-![](img:2.bp.blogspot.com/-A5QJnsP7lzc/VN3DCc6lLYI/AAAAAAAAhFs/epgJ5NXg7qQ/s1600/20150207_120122.picasaweb.jpg:a)
+{{< imgfig "https://2.bp.blogspot.com/-A5QJnsP7lzc/VN3DCc6lLYI/AAAAAAAAhFs/epgJ5NXg7qQ/s1600/20150207_120122.picasaweb.jpg" >}}
 
 Частенько встречаются установки искусственного снега:
-![](img:1.bp.blogspot.com/-EMDcfZPc480/VN3C_6TMXKI/AAAAAAAAhFU/azhf2Z2yroY/s1600/20150207_112732.picasaweb.jpg:a)
+{{< imgfig "https://1.bp.blogspot.com/-EMDcfZPc480/VN3C_6TMXKI/AAAAAAAAhFU/azhf2Z2yroY/s1600/20150207_112732.picasaweb.jpg" >}}
 
 В общем, в Ишгле есть где развернуться.
-![](img:2.bp.blogspot.com/-Dg7jgr_qDPk/VN3C7NAyMjI/AAAAAAAAhEk/ZtiW9zmrf1k/s1600/20150207_105523.picasaweb.jpg:a)
-![](img:3.bp.blogspot.com/-AWlu3ya9W9Y/VN3C8yTkx9I/AAAAAAAAhE0/TZmBJe84uhw/s1600/20150207_110840.picasaweb.jpg:a)
-![](img:3.bp.blogspot.com/-5YBnH9wai1Y/VN3C9owkA7I/AAAAAAAAhE8/9w4ScFUb78o/s1600/20150207_110843.picasaweb.jpg:a)
+{{< imgfig "https://2.bp.blogspot.com/-Dg7jgr_qDPk/VN3C7NAyMjI/AAAAAAAAhEk/ZtiW9zmrf1k/s1600/20150207_105523.picasaweb.jpg" >}}
+{{< imgfig "https://3.bp.blogspot.com/-AWlu3ya9W9Y/VN3C8yTkx9I/AAAAAAAAhE0/TZmBJe84uhw/s1600/20150207_110840.picasaweb.jpg" >}}
+{{< imgfig "https://3.bp.blogspot.com/-5YBnH9wai1Y/VN3C9owkA7I/AAAAAAAAhE8/9w4ScFUb78o/s1600/20150207_110843.picasaweb.jpg" >}}
 
 Для любителей экстрима есть склон с уклоном **70%** (!), а также лыжня длиной **11 км**, идущая от вышеупомянутого {{< fl "Greitspitze" >}} до самого центра Ишгля у подножия горы.
-![](img:1.bp.blogspot.com/-ADz0NagbW0w/VN3C_aPB8CI/AAAAAAAAhFM/rW4W2gHiTNM/s1600/20150207_112724.picasaweb.jpg:a)
-![](img:1.bp.blogspot.com/-u-ZUXldWNtY/VN3DEuyWGSI/AAAAAAAAhGE/p3VHJyjxxi0/s1600/20150207_123820.picasaweb.jpg:a)
+{{< imgfig "https://1.bp.blogspot.com/-ADz0NagbW0w/VN3C_aPB8CI/AAAAAAAAhFM/rW4W2gHiTNM/s1600/20150207_112724.picasaweb.jpg" >}}
+{{< imgfig "https://1.bp.blogspot.com/-u-ZUXldWNtY/VN3DEuyWGSI/AAAAAAAAhGE/p3VHJyjxxi0/s1600/20150207_123820.picasaweb.jpg" >}}
 
 Некоторые предпочитают непроторенные дороги ({{< fl "off-piste" >}}, катание «вне лыжни»).
-![](img:3.bp.blogspot.com/-ZVlNMMG5iow/VN3DI40yisI/AAAAAAAAhGs/T45iS4Y5Otw/s1600/20150207_152731_1.picasaweb.jpg:a)
+{{< imgfig "https://3.bp.blogspot.com/-ZVlNMMG5iow/VN3DI40yisI/AAAAAAAAhGs/T45iS4Y5Otw/s1600/20150207_152731_1.picasaweb.jpg" >}}
 
 Ещё здесь можно заметить следы каких-то животных, то зайцев, то ли коз:
-![](img:2.bp.blogspot.com/-tfrqEmfzmdw/VN3DDJQzMrI/AAAAAAAAhF0/f8HU-5sRT5E/s1600/20150207_122745.picasaweb.jpg:a)
+{{< imgfig "https://2.bp.blogspot.com/-tfrqEmfzmdw/VN3DDJQzMrI/AAAAAAAAhF0/f8HU-5sRT5E/s1600/20150207_122745.picasaweb.jpg" >}}
 
 В хорошую погоду красота необычайная.
-![](img:4.bp.blogspot.com/-AJBguVrYacM/VN3DJlZqq-I/AAAAAAAAhG0/_b6dOYOyAok/s1600/20150207_163637.picasaweb.jpg:a)
+{{< imgfig "https://4.bp.blogspot.com/-AJBguVrYacM/VN3DJlZqq-I/AAAAAAAAhG0/_b6dOYOyAok/s1600/20150207_163637.picasaweb.jpg" >}}
 
 Здесь я впервые узнал выражение [après-ski][wiki:en:Après-ski] (дословно с французского «после лыж») — это такая освящённая временем традиция развлекаться после долгого утомительного дня в горах. С применением горячительных напитков, разумеется. [Ишгль](http://www.ischgl.com/) со своим слоганом {{< fl "Relax. If you can…" >}} («расслабься, если можешь») в этом плане довольно знаменит, здесь много баров и стрип-баров, клубов, ресторанов. По традиции, при закрытии лыжного сезона здесь проводится концерт, на котором в разные годы выступали такие звёзды как Боб Дилан, Тина Тёрнер, Элтон Джон, Мерайя Керри, Бейонсе, Рианна, Bon Jovi, Кэти Перри и т.д.
 
 ## Зее {#see}
 
 В последний день нашего пребывания мы решили покататься у себя в Зее. Здесь всё примерно то же самое, только гораздо меньше. Лифтов, например, всего семь. Погода была далеко не солнечной — снег, метель, да ещё и опасность схода лавин 3 из 5.
-![](img:4.bp.blogspot.com/-voiNxgujgro/VN3DPfASfrI/AAAAAAAAhH0/39LiM3IAc9Y/s1600/20150208_123553_1.picasaweb.jpg:a)
+{{< imgfig "https://4.bp.blogspot.com/-voiNxgujgro/VN3DPfASfrI/AAAAAAAAhH0/39LiM3IAc9Y/s1600/20150208_123553_1.picasaweb.jpg" >}}
 
 В таких условиях кажется, что за краем склона вообще ничего нет, обрыв.
-![](img:2.bp.blogspot.com/-pgG6jWu-aus/VN3DKXM4KGI/AAAAAAAAhG8/mV68J-nXfZE/s1600/20150208_094615.picasaweb.jpg:a)
+{{< imgfig "https://2.bp.blogspot.com/-pgG6jWu-aus/VN3DKXM4KGI/AAAAAAAAhG8/mV68J-nXfZE/s1600/20150208_094615.picasaweb.jpg" >}}
 
 Группа смельчаков учится кататься с инструктором:
-![](img:3.bp.blogspot.com/-LnMFbuFt0y4/VN3DN9tPdYI/AAAAAAAAhHk/BO1-iPR6VXM/s1600/20150208_103156.picasaweb.jpg:a)
+{{< imgfig "https://3.bp.blogspot.com/-LnMFbuFt0y4/VN3DN9tPdYI/AAAAAAAAhHk/BO1-iPR6VXM/s1600/20150208_103156.picasaweb.jpg" >}}
 
 Из-за погоды народ постепенно переместился со склонов в рестораны. Временами я, кажется, был на всей канатной дороге совсем один.
-![](img:4.bp.blogspot.com/-BrgvXmkfwsA/VN3DOqJhbsI/AAAAAAAAhHs/fl2528cW0eE/s1600/20150208_113818.picasaweb.jpg:a)
+{{< imgfig "https://4.bp.blogspot.com/-BrgvXmkfwsA/VN3DOqJhbsI/AAAAAAAAhHs/fl2528cW0eE/s1600/20150208_113818.picasaweb.jpg" >}}
 
 Я осмелел настолько, что под конец поехал вниз не на лифте, а по «красному» склону, ведущему туда же, к подножью горы.
-![](img:4.bp.blogspot.com/-lr0AcAjMXgk/VN3DNMeGfyI/AAAAAAAAhHc/RVOUYA-IU4U/s1600/20150208_103151.picasaweb.jpg:a)
+{{< imgfig "https://4.bp.blogspot.com/-lr0AcAjMXgk/VN3DNMeGfyI/AAAAAAAAhHc/RVOUYA-IU4U/s1600/20150208_103151.picasaweb.jpg" >}}
 
 Ощущения необыкновенные — снег, лес, тишина, вокруг почти ни души.
-![](img:1.bp.blogspot.com/-RjjCpKnuiqM/VN3DQAiSq5I/AAAAAAAAhH8/JKDpAcbM9H8/s1600/20150208_124104.picasaweb.jpg:a)
+{{< imgfig "https://1.bp.blogspot.com/-RjjCpKnuiqM/VN3DQAiSq5I/AAAAAAAAhH8/JKDpAcbM9H8/s1600/20150208_124104.picasaweb.jpg" >}}
 
 Один раз, разогнавшись, я чуть было не пролетел поворот и не поехал по «чёрному» склону, но обошлось. Вообще за время всего спуска я даже ни разу не упал, что считаю своим личным достижением.
-![](img:4.bp.blogspot.com/-i-cGwsPwtGI/VN3DRIuVDDI/AAAAAAAAhIE/ooX4slNkA1E/s1600/20150208_124107.picasaweb.jpg:a)
+{{< imgfig "https://4.bp.blogspot.com/-i-cGwsPwtGI/VN3DRIuVDDI/AAAAAAAAhIE/ooX4slNkA1E/s1600/20150208_124107.picasaweb.jpg" >}}
 
 ## Итого {#conclusions}
 

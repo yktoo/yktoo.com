@@ -9,7 +9,7 @@ tags: ["Carré", "балет", "музыка", "Нидерланды", "теат
 Сначала мы посетели итальянский ресторан в Амстердаме, с настоящими итальянцами-поварами и итальянцами-официантами. Всё было очень по-итальянски. Видимо, чтобы проникнуться культурой, положившей начало виду искусства, которому мы предавались остаток вечера.
 
 Потом наступила очередь главного события вечера: в Амстердамском театре [Carré](http://www.theatrecarre.nl/) выступала труппа Большого театра с балетом «Спартак».
-![](img:1.bp.blogspot.com/-aAv2E6Dgeso/T4241lRHrII/AAAAAAAAPA4/aF5ANtsW1Ik/s1600/koninklijk-theater-carre.picasaweb.jpg:a)
+{{< imgfig "https://1.bp.blogspot.com/-aAv2E6Dgeso/T4241lRHrII/AAAAAAAAPA4/aF5ANtsW1Ik/s1600/koninklijk-theater-carre.picasaweb.jpg" >}}
 
 <!--more-->
 

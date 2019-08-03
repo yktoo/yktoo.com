@@ -9,6 +9,6 @@ tags: ["Google", "Google Music", "Linux", "Ubuntu", "музыка"]
 <!--more-->
 
 Правда, в данный момент сервис доступен лишь для жителей США, однако это проверяется только при регистрации, так что желающим — прокси в помощь.
-![](img:3.bp.blogspot.com/-DtrCu7LgidM/TsbQRGG6oMI/AAAAAAAAKXg/YGXNvMbSjeg/s1600/Google-Music.png)
+{{< imgfig "https://3.bp.blogspot.com/-DtrCu7LgidM/TsbQRGG6oMI/AAAAAAAAKXg/YGXNvMbSjeg/s1600/Google-Music.png" >}}
 
 Облака — штука неторопливая: за сутки туда отправилась лишь четверть накопленного непосильным трудом. Но уже только то, что Google выпустил приложение Google Music Manager для Линукса, заслуживает уважения. Спасибо.

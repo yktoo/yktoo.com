@@ -16,4 +16,4 @@ The result is under the cut:
 
 <!--more-->
 
-![](youtube:FpEad5sI-bc)
+{{< youtube "FpEad5sI-bc" >}}

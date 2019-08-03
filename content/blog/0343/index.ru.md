@@ -16,16 +16,16 @@ tags: ["Sound Switcher Indicator", "Ubuntu"]
 * Добавлена поддержка виртуальных устройств ([#48](https://github.com/yktoo/indicator-sound-switcher/issues/48)): сетевых входов ({{< fl "sources" >}}) и выходов ({{< fl "sinks" >}}). Теперь в меню индикатора также отображаются входы-выходы с сетевых серверов {{< fl "PulseAudio" >}}.
 * Наконец-то добавлен визуальный интерфейс для управления настройками индикатора. Он позволяет наглядно изменять всё то, что хранится в файле настроек программы (`$HOME/.config/indicator-sound-switcher.json`). Добавлен соответствующий пункт в меню:
 
-![](img:2.bp.blogspot.com/-BibUCaj-gGQ/XDs5PF-gjFI/AAAAAAAAue4/mIDfV0Llkf8llKjrvFcQm5I9cgQOF47AACKgBGAs/s1600/menu.png "Меню Sound Switcher Indicator.")
+{{< imgfig "https://2.bp.blogspot.com/-BibUCaj-gGQ/XDs5PF-gjFI/AAAAAAAAue4/mIDfV0Llkf8llKjrvFcQm5I9cgQOF47AACKgBGAs/s1600/menu.png" "Меню Sound Switcher Indicator." >}}
 
 ## Диалог настроек {#prefs-dialog}
 
 В диалоге настроек две вкладки:
 
 * **Общие настройки** позволяют полностью скрыть секцию входов и/или выходов:
-![](img:4.bp.blogspot.com/-14n8z6QVISg/XDcOV5WS7PI/AAAAAAAAueQ/-dUR3l-nF7YqQn5YBofHMdyIfRojWQn9QCKgBGAs/s1600/prefs-general.png:a "Общие настройки Sound Switcher Indicator.")
+{{< imgfig "https://4.bp.blogspot.com/-14n8z6QVISg/XDcOV5WS7PI/AAAAAAAAueQ/-dUR3l-nF7YqQn5YBofHMdyIfRojWQn9QCKgBGAs/s1600/prefs-general.png" "Общие настройки Sound Switcher Indicator." >}}
 * **Настройки устройств** — здесь можно поменять параметры отображения каждого устройства, а также любого из его портов:
-![](img:2.bp.blogspot.com/-4kUpg4FKu9E/XDcOV2foTuI/AAAAAAAAueQ/WgnSa9cW0jw8ewbPQMlnzpngIxOS_KNYACKgBGAs/s1600/prefs-devices.png:a "Настройки устройств.")
+{{< imgfig "https://2.bp.blogspot.com/-4kUpg4FKu9E/XDcOV2foTuI/AAAAAAAAueQ/WgnSa9cW0jw8ewbPQMlnzpngIxOS_KNYACKgBGAs/s1600/prefs-devices.png" "Настройки устройств." >}}
 * Кнопка **Обновить** ({{< fl "Refresh" >}}) в правом верхнем углу обновляет списки устройств и портов без необходимости открывать диалог заново.
 
 Все настройки применяются сразу же, после небольшой задержки. Русская локализация присутствует «из коробки».

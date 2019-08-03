@@ -20,7 +20,7 @@ In the ideal world every development environment matches the production one, at 
 
 ## Docker containers {#docker}
 
-![](img:3.bp.blogspot.com/-czrNcwMoyQw/WK3et6P_81I/AAAAAAAApVE/gGCNALgayxA6kT3LmaPIiamtMNY48E88QCPcB/s1600/docker.png)
+{{< imgfig "https://3.bp.blogspot.com/-czrNcwMoyQw/WK3et6P_81I/AAAAAAAApVE/gGCNALgayxA6kT3LmaPIiamtMNY48E88QCPcB/s1600/docker.png" >}}
 
 Using a virtual machine is a possible solution to this problem, but there are issues, too: setting it up can be laborious, it's demanding in terms of RAM and CPU performance, but—most of all—it's hardly reproducible on another machine. That is, of course, unless you copy over the entire virtual disk, which is time consuming, expensive and eventually impractical.
 

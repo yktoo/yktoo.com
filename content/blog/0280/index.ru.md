@@ -9,28 +9,28 @@ tags: ["IKEA", "Samsung", "гаджеты", "гик-порно", "железо",
 <!--more-->
 
 Если же добавить подсветку стены, находящейся за телевизором, то граница между изображением и темнотой размывается, и смотреть на это дело становится намного приятнее.
-![](img:1.bp.blogspot.com/-hm2T5wQ66dc/V1g3T1ndPfI/AAAAAAAAmZ8/0mfL1uF2lSwELRekEY7GEOmCXvWL5M5ywCKgB/s1600/20160606_213812.picasaweb.jpg:a "Финальный результат.")
+{{< imgfig "https://1.bp.blogspot.com/-hm2T5wQ66dc/V1g3T1ndPfI/AAAAAAAAmZ8/0mfL1uF2lSwELRekEY7GEOmCXvWL5M5ywCKgB/s1600/20160606_213812.picasaweb.jpg" "Финальный результат." >}}
 
 Под катом описание процесса, а также гик-порно.
 
 ## Монтаж подсветки {#backlighting}
 
 Для подсветки я купил три набора светодиодных планок [IKEA Dioder](http://www.ikea.com/us/en/catalog/products/20119418/), одноцветных ({{< fl "warm white" >}}), каждый из которых состоит из 12-вольтового драйвера, набора проводов и четырёх планок по 25 см.
-![](img:2.bp.blogspot.com/-t-Y6MbOhNX4/V1vfNanLsmI/AAAAAAAAmbA/_MHqWkIShy48f2xsS7Ia7bh2UtRJvCNBQCKgB/s1600/ikea-dioder.jpg:a "Комплект IKEA Dioder.")
+{{< imgfig "https://2.bp.blogspot.com/-t-Y6MbOhNX4/V1vfNanLsmI/AAAAAAAAmbA/_MHqWkIShy48f2xsS7Ia7bh2UtRJvCNBQCKgB/s1600/ikea-dioder.jpg" "Комплект IKEA Dioder." >}}
 
 Крепятся эти планки либо на кусочки двустороннего скотча, либо с помощью специальных металлических скоб. Я решил использовать второй вариант, задействовав штатные крепёжные винты задней крышки телевизора. Головки винтов утоплены на 2-4 мм (в зависимости от стороны), поэтому я нарезал из алюминиевой трубки (внутренний диаметр 4 мм) соответствующие прокладки:
-![](img:4.bp.blogspot.com/-tPdY3XFy0K0/V1WlYlt8UEI/AAAAAAAAmZA/I_KYNrjYO5seHGfXcptoskC8T0B30SnPQCKgB/s1600/20160527_155446.picasaweb.jpg:a "Прокладки под крепёжные скобы.")
+{{< imgfig "https://4.bp.blogspot.com/-tPdY3XFy0K0/V1WlYlt8UEI/AAAAAAAAmZA/I_KYNrjYO5seHGfXcptoskC8T0B30SnPQCKgB/s1600/20160527_155446.picasaweb.jpg" "Прокладки под крепёжные скобы." >}}
 
 Также, само собой, необходимо использовать несколько более длинные винты — они закрепляют скобу и заодно держат крышку:
-![](img:3.bp.blogspot.com/-fjervnH1r9c/V1WlYqrdbyI/AAAAAAAAmZA/9XdgV9T7uNI6khcxdohjhGP8Arh9-A6fwCKgB/s1600/20160527_155534.picasaweb.jpg:a "Крепёжная скоба.")
+{{< imgfig "https://3.bp.blogspot.com/-fjervnH1r9c/V1WlYqrdbyI/AAAAAAAAmZA/9XdgV9T7uNI6khcxdohjhGP8Arh9-A6fwCKgB/s1600/20160527_155534.picasaweb.jpg" "Крепёжная скоба." >}}
 
 Изначально я планировал разместить планки в виде **6 сегментов** из двух планок каждый — по два сверху и снизу, по одному слева и справа, итого как раз 12 планок (3 набора × 4 шт.). Поэтому я также изготовил пять соединительных проводов. Для этого я взял шедшие в комплекте короткие «патч-корды» и заменил в них провод на более длинный:
-![](img:3.bp.blogspot.com/-VfD37EIco58/V1WlYvxR9MI/AAAAAAAAmZA/a5ls6ygPAqY9dg0knY29b5Yz4dORAszhgCKgB/s1600/20160527_171526.picasaweb.jpg:a "Соединительные провода.")
+{{< imgfig "https://3.bp.blogspot.com/-VfD37EIco58/V1WlYvxR9MI/AAAAAAAAmZA/a5ls6ygPAqY9dg0knY29b5Yz4dORAszhgCKgB/s1600/20160527_171526.picasaweb.jpg" "Соединительные провода." >}}
 
 Боковые грани задней крышки скошены, но винты вкручиваются перпендикулярно, так что планки закреплены под углом к крышке.
 
 Подсветка в сборе — проверяем с внешним источником питания на **12 В** (минимум **1 А**). Чай, не бином Ньютона, всё заработало с первого раза:
-![](img:3.bp.blogspot.com/-NziOWLFbr_A/V1WlYuEuHaI/AAAAAAAAmZA/8dSyhnQLax4-ISFalidiIlZc-fmcaORtgCKgB/s1600/20160527_171950.picasaweb.jpg:a "Проверка светодиодов с внешним БП.")
+{{< imgfig "https://3.bp.blogspot.com/-NziOWLFbr_A/V1WlYuEuHaI/AAAAAAAAmZA/8dSyhnQLax4-ISFalidiIlZc-fmcaORtgCKgB/s1600/20160527_171950.picasaweb.jpg" "Проверка светодиодов с внешним БП." >}}
 
 ## Питание подсветки {#powering}
 
@@ -41,37 +41,37 @@ tags: ["IKEA", "Samsung", "гаджеты", "гик-порно", "железо",
 Дальше будет ~~жёсткое~~ гик-порно!
 
 Снимаем внутреннюю крышку, выкрутив 10 винтов по её периметру и ещё один около блока компонентного входа. Под крышкой довольно-таки пусто, чего и следовало ожидать:
-![](img:1.bp.blogspot.com/-KYaivvFAKZg/V1WlYkDMTRI/AAAAAAAAmZA/xEB_yGHxg4k0pytOegCbWDCpA7_IDApCQCKgB/s1600/20160527_122606.picasaweb.jpg:a "Электроника телевизора.")
+{{< imgfig "https://1.bp.blogspot.com/-KYaivvFAKZg/V1WlYkDMTRI/AAAAAAAAmZA/xEB_yGHxg4k0pytOegCbWDCpA7_IDApCQCKgB/s1600/20160527_122606.picasaweb.jpg" "Электроника телевизора." >}}
 
 **Слева** плата процессора, тюнера и входов-выходов, над ней застыл маленький одинокий вентилятор. Не вполне понятно, что именно он охлаждает, скорее всего, просто обеспечивает циркуляцию воздуха.
-![](img:2.bp.blogspot.com/-DA1ViJiGO70/V1WlYmwjM6I/AAAAAAAAmZA/mtSL-rg-IzwFTls7ydFoLCVz4GV3X3C4QCKgB/s1600/20160527_122654.picasaweb.jpg:a "Плата видеопроцессинга и одинокий вентилятор.")
+{{< imgfig "https://2.bp.blogspot.com/-DA1ViJiGO70/V1WlYmwjM6I/AAAAAAAAmZA/mtSL-rg-IzwFTls7ydFoLCVz4GV3X3C4QCKgB/s1600/20160527_122654.picasaweb.jpg" "Плата видеопроцессинга и одинокий вентилятор." >}}
 
 **В центре** контроллер подсветки экрана и ЖК-матрицы.
-![](img:1.bp.blogspot.com/-ssCO2yDlBLw/V1WlYtE2oaI/AAAAAAAAmZA/hJxD0yoJG_ApISmDTt1DzjyWU3jRma6sQCKgB/s1600/20160527_122704.picasaweb.jpg:a "Плата контроллера матрицы.")
+{{< imgfig "https://1.bp.blogspot.com/-ssCO2yDlBLw/V1WlYtE2oaI/AAAAAAAAmZA/hJxD0yoJG_ApISmDTt1DzjyWU3jRma6sQCKgB/s1600/20160527_122704.picasaweb.jpg" "Плата контроллера матрицы." >}}
 
 **Справа** источник питания всего этого хозяйства, глядя на который, поневоле испытываешь восхищение. Чтобы уменьшить толщину телевизора, все компоненты сделаны максимально плоскими, так что вся плата в сборе вряд ли толще двух сантиметров:
-![](img:2.bp.blogspot.com/-qWI7ObH5iOo/V1WlYk6R8oI/AAAAAAAAmZA/1Lj5sxG8XVYs7znYxTFH1qH8CUq0reXHACKgB/s1600/20160527_130847.picasaweb.jpg:a "Плата источника питания.")
+{{< imgfig "https://2.bp.blogspot.com/-qWI7ObH5iOo/V1WlYk6R8oI/AAAAAAAAmZA/1Lj5sxG8XVYs7znYxTFH1qH8CUq0reXHACKgB/s1600/20160527_130847.picasaweb.jpg" "Плата источника питания." >}}
 
 Платы кажутся маленькими, но не забывайте, что размеры телевизора — почти два на один метр. Так, последняя плата размером примерно соответствует листу формата A3.
 
 Источник питания со стороны дорожек:
-![](img:1.bp.blogspot.com/-DR2Hu_ZQXNY/V1WlYhF3iEI/AAAAAAAAmZA/Lhfy8AQdPfEjFyA-gQAa1tUSwRFEXSk0gCKgB/s1600/20160527_130907.picasaweb.jpg:a "Плата источника питания, вид снизу.")
+{{< imgfig "https://1.bp.blogspot.com/-DR2Hu_ZQXNY/V1WlYhF3iEI/AAAAAAAAmZA/Lhfy8AQdPfEjFyA-gQAa1tUSwRFEXSk0gCKgB/s1600/20160527_130907.picasaweb.jpg" "Плата источника питания, вид снизу." >}}
 
 Внимательное изучения платы обнаружило мощный источник постоянного напряжения 13 В (согласно надписям), в реальности выдающий где-то **12,7 вольт** — в самый раз. По поводу допустимой нагрузки сказать что-то без изучения спецификаций трудно, конечно, но, судя по тому, что оно передаётся на плату контроллера подсветки по шести (!) проволочным перемычкам, сила тока там немаленькая; да и можно представить себе, сколько потребляют светодиоды в матрице, наверняка БП рассчитан на ток 10-12 ампер.
 
 Моя же доморощенная подсветка требовала лишь около 800 мА (один комплект из 4 планок потребляет около 240 мА).
 
 Так что я решил рискнуть и *аккуратно* подпаял провод к выходу источника, помеченному как {{< fl "13V" >}}:
-![](img:3.bp.blogspot.com/-Tl9Klq37WhM/V1WlYtn1uAI/AAAAAAAAmZA/YbE1DiDhjyI6FY8CoYieJCZ0_Vl3W7EzACKgB/s1600/20160527_131736.picasaweb.jpg:a "Подпаянный провод для питания подсветки.")
+{{< imgfig "https://3.bp.blogspot.com/-Tl9Klq37WhM/V1WlYtn1uAI/AAAAAAAAmZA/YbE1DiDhjyI6FY8CoYieJCZ0_Vl3W7EzACKgB/s1600/20160527_131736.picasaweb.jpg" "Подпаянный провод для питания подсветки." >}}
 
 Провод выпустил через щель для монтирования «ноги» телевизора, которую я не использую — ТВ ведь висит на стене:
-![](img:4.bp.blogspot.com/-CLLS6Zf8qRU/V1WlYqbluoI/AAAAAAAAmZA/MUlOKTKZSWoskfE6rtwhjSrO8OfbqjhJQCKgB/s1600/20160527_132351.picasaweb.jpg:a "Провод питания подсветки.")
+{{< imgfig "https://4.bp.blogspot.com/-CLLS6Zf8qRU/V1WlYqbluoI/AAAAAAAAmZA/MUlOKTKZSWoskfE6rtwhjSrO8OfbqjhJQCKgB/s1600/20160527_132351.picasaweb.jpg" "Провод питания подсветки." >}}
 
 Крупным планом:
-![](img:3.bp.blogspot.com/-lTlpGj0aoiA/V1WlYtQOGLI/AAAAAAAAmZA/di4KagjXt7oHL7ARaBahhyVW08nXdkbxQCKgB/s1600/20160527_132358.picasaweb.jpg:a "Провод питания подсветки.")
+{{< imgfig "https://3.bp.blogspot.com/-lTlpGj0aoiA/V1WlYtQOGLI/AAAAAAAAmZA/di4KagjXt7oHL7ARaBahhyVW08nXdkbxQCKgB/s1600/20160527_132358.picasaweb.jpg" "Провод питания подсветки." >}}
 
 Осталось лишь подключить его (я использовал кабель с разъёмом для подключения к светодиодной планке из комплекта), всё работает, как часы:
-![](img:4.bp.blogspot.com/-jGsY6Vuz15k/V1WlYsk6OdI/AAAAAAAAmZA/YVxj14jgmb0x7gKfa_DCQwGUtIneMK7CwCKgB/s1600/20160527_231028.picasaweb.jpg:a "Работающая подсветка.")
+{{< imgfig "https://4.bp.blogspot.com/-jGsY6Vuz15k/V1WlYsk6OdI/AAAAAAAAmZA/YVxj14jgmb0x7gKfa_DCQwGUtIneMK7CwCKgB/s1600/20160527_231028.picasaweb.jpg" "Работающая подсветка." >}}
 
 Мне не очень понравились «разрывы» подсветки сверху и снизу; к тому же, подумал я, можно ещё чуть побольше света. Так что я купил в Икее ещё один «Диодер» из 4 планок: по одной вставил посередине сверху и снизу (сверху — вместо соединительного провода), и ещё по одной добавил по бокам.
 

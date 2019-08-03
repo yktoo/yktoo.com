@@ -10,7 +10,7 @@ tags: ["Docker", "Docker Indicator", "Python 3", "Ubuntu", "Unity", "Yakkety Yak
 
 <!--more-->
 
-![](img:3.bp.blogspot.com/-o3UHJigGfeM/WPMpddaX-kI/AAAAAAAApwQ/ZQ2WLSmSFTYQqL8TQpCd5uL5v58sjHFfgCPcB/s1600/indicator-docker-icon.png "Икона Docker Indicator.")
+{{< imgfig "https://3.bp.blogspot.com/-o3UHJigGfeM/WPMpddaX-kI/AAAAAAAApwQ/ZQ2WLSmSFTYQqL8TQpCd5uL5v58sjHFfgCPcB/s1600/indicator-docker-icon.png" "Икона Docker Indicator." >}}
 
 ## Что мы умеем {#features}
 
@@ -21,7 +21,7 @@ tags: ["Docker", "Docker Indicator", "Python 3", "Ubuntu", "Unity", "Yakkety Yak
 * Также при остановке и запуске любого контейнера — причём необязательно посредством индикатора — выводится всплывающее уведомление.
 
 Вот как это выглядит:
-![](img:4.bp.blogspot.com/-aU2VIG_F2WA/WPMmyktgqLI/AAAAAAAApvo/K9MERC-7RTEixLhL6RJ8KUKK4WWokZknACPcB/s1600/Screenshot.png "Скриншот Docker Indicator 0.1.0.")
+{{< imgfig "https://4.bp.blogspot.com/-aU2VIG_F2WA/WPMmyktgqLI/AAAAAAAApvo/K9MERC-7RTEixLhL6RJ8KUKK4WWokZknACPcB/s1600/Screenshot.png" "Скриншот Docker Indicator 0.1.0." >}}
 
 ## Установка {#install}
 

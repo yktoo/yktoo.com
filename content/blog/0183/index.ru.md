@@ -5,7 +5,7 @@ tags: ["Аркадий Шилклопер", "видео", "Даниил Крам
 ---
 
 [Выложил на YouTube][route:/media/video/event,id:12] одну из своих старых записей: концерт двух — не побоюсь этого слова — гениальных джазовых музыкантов, [Даниила Крамера](http://www.kramerdaniel.com/) (фортепиано) и [Аркадия Шилклопера](http://www.shilkloper.com/) (валторна, флюгельгорн, альпийский рог) в [Тюменской Филармонии](http://www.tgf.ru/) 10 февраля 2008 года.
-![](img:4.bp.blogspot.com/-Ip1MNgW1pOk/UZKntwLjlbI/AAAAAAAAXu8/AuZp8l-zXPw/s1600/kra-shi.picasaweb.jpg)
+{{< imgfig "https://4.bp.blogspot.com/-Ip1MNgW1pOk/UZKntwLjlbI/AAAAAAAAXu8/AuZp8l-zXPw/s1600/kra-shi.picasaweb.jpg" >}}
 
 <!--more-->
 
@@ -16,7 +16,7 @@ tags: ["Аркадий Шилклопер", "видео", "Даниил Крам
 Шилклопер тоже по всеобщему признанию гений, однако тема духовых мне не очень близка, поэтому мне трудно судить.
 
 Вот для затравки первый номер под названием Folk Song:
-![](youtube:IntcetFJA6o)
+{{< youtube "IntcetFJA6o" >}}
 
 * [Список всех видео концерта][route:/media/video/event,id:12] на моём сайте
 * [Плейлист на YouTube](http://www.youtube.com/playlist?list=PLRtML0bqZ1imv9g-F-_MJveYRqarPr3e3)

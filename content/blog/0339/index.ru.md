@@ -11,7 +11,7 @@ tags: ["Docker", "Linux", "MySQL", "контейнеры", "разработка
 После этого я потратил кучу времени, чтобы найти решение, и даже {{< fl "StackOverflow" >}} не мог мне помочь. Но в конце концов разобрался.
 
 <!--more-->
-<!--![](img:3.bp.blogspot.com/-KfGkUuzJYBQ/WzpDheKD1ZI/AAAAAAAAsqo/H970WSIWmPgOu7qEpqPfUHUDIljzALuigCKgBGAs/s1600/mysql.png)-->
+<!--{{< imgfig "https://3.bp.blogspot.com/-KfGkUuzJYBQ/WzpDheKD1ZI/AAAAAAAAsqo/H970WSIWmPgOu7qEpqPfUHUDIljzALuigCKgBGAs/s1600/mysql.png" >}}-->
 
 Всё дело, как я изначально, предполагал, в {{< fl "DNS" >}}: база данных пытается определить, какой хост к ней подключается. В моём случае это совершенно бессмысленная операция. Использование флага Докера `--dns=127.0.0.1` не помогало.
 

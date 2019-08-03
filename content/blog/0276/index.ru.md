@@ -5,7 +5,7 @@ tags: ["гаджеты", "забавное", "мусор", "Нидерланды
 ---
 
 [Закон Мура][wiki:ru:Закон_Мура] на пару с китайским электропромом добавляют всё новые ступеньки в [лестницу Лансинка][post:93]. Отныне помимо секций для использованных батареек и энергосберегающих ламп (относящихся к категории {{< fl "klein chemisch afval" >}}, то есть мелкий химический мусор), в продуктовых магазинах сети {{< fl "Albert Heijn" >}} добавили специальный отсек для использованных телефонов!
-![](img:2.bp.blogspot.com/-jL2wyfC1WDw/VyTmayHUOLI/AAAAAAAAl5I/hBBZ6CFkK18OwexqP5wAcgXIH67pwrB9QCKgB/s1600/20160429_171914.picasaweb.jpg:a "Гаджетоприёмник.")
+{{< imgfig "https://2.bp.blogspot.com/-jL2wyfC1WDw/VyTmayHUOLI/AAAAAAAAl5I/hBBZ6CFkK18OwexqP5wAcgXIH67pwrB9QCKgB/s1600/20160429_171914.picasaweb.jpg" "Гаджетоприёмник." >}}
 
 <!--more-->
 

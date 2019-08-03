@@ -11,7 +11,7 @@ tags: ["Yktoo Solutions", "бизнес", "налоги", "Нидерланды"
 
 <!--more-->
 
-![](img:2.bp.blogspot.com/-0JS0V8bE70Y/WN97iz2hjLI/AAAAAAAAptQ/pwLDMGHIdfwZcGmcAlyotSDAsc3Yq2OOACPcB/s1600/shapes.picasaweb.png)
+{{< imgfig "https://2.bp.blogspot.com/-0JS0V8bE70Y/WN97iz2hjLI/AAAAAAAAptQ/pwLDMGHIdfwZcGmcAlyotSDAsc3Yq2OOACPcB/s1600/shapes.picasaweb.png" >}}
 
 ## Частный бизнес {#mkb}
 

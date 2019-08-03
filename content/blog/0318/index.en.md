@@ -54,7 +54,7 @@ It's also good to know that besides "honest" brokers the freelance job market is
 Interim contracts are often advertised on special freelancing websites. There's a number of them in the Netherlands: [4-freelancers](https://www.4-freelancers.nl/), [IT-contracts](https://www.it-contracts.nl/), [freelance.nl](https://www.freelance.nl/), [Qwery](https://www.qwery.nl/), to name a few. Unfortunately, what often happens is that vacancies posted by "honest" brokers get cross-posted by "scroungers" numerous times on different websites. It makes it difficult to trace back the original advert, not to mention figuring out who the ultimate customer is.
 
 [Observ](https://observ.nu/), a project started a few months ago by a colleague, proved very helpful when I was looking for a contract myself. Observ is a free IT contract aggregator that collects, classifies, and merges all the numerous copies of the same vacancy scattered across various websites. It also marks ones advertised by a "honest" broker (a blue link icon, {{< fl "betrouwbare broker" >}}):
-![](img:4.bp.blogspot.com/-cjUtE071tFg/WN0YRhFH42I/AAAAAAAApr4/WyB_8ceeS0M-JGzjCw6TmK8ZzriLe2wmgCPcB/s1600/observ.nu.picasaweb.png:a "Observ website.")
+{{< imgfig "https://4.bp.blogspot.com/-cjUtE071tFg/WN0YRhFH42I/AAAAAAAApr4/WyB_8ceeS0M-JGzjCw6TmK8ZzriLe2wmgCPcB/s1600/observ.nu.picasaweb.png" "Observ website." >}}
 
 Even if you don't plan to use this service for actual searching, you may want to have a look at it to figure out which brokers are safe to work with.
 

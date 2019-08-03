@@ -15,7 +15,7 @@ Er waren echter een aantal dingen om rekening mee te houden en daar wil ik mee b
 
 *Om eventuele misverstanden te voorkomen wil ik benadrukken dat het onderstaande uitsluitend op **Nederland** betrekking heeft.*
 
-![](img:4.bp.blogspot.com/-f_a4KQVmI1w/WN97i86B4jI/AAAAAAAAptQ/tQHL2EJd3pcyo5NSzzCyPmQuDu3Ls8DlQCPcB/s1600/pros-and-cons.jpg)
+{{< imgfig "https://4.bp.blogspot.com/-f_a4KQVmI1w/WN97i86B4jI/AAAAAAAAptQ/tQHL2EJd3pcyo5NSzzCyPmQuDu3Ls8DlQCPcB/s1600/pros-and-cons.jpg" >}}
 
 ## Nadelen {#contra}
 

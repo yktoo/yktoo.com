@@ -6,7 +6,7 @@ tags: ["GitHub", "indicator", "Launchpad", "Linux", "PulseAudio", "Python", "sou
 ---
 
 I couldn't take it anymore so I created an audio input/output switcher indicator for Ubuntu.
-![](img:3.bp.blogspot.com/-A68LFuAIxlg/UTMgzAqh53I/AAAAAAAAWrg/rlpYgjefo70/s1600/Screenshot.png)
+{{< imgfig "https://3.bp.blogspot.com/-A68LFuAIxlg/UTMgzAqh53I/AAAAAAAAWrg/rlpYgjefo70/s1600/Screenshot.png" >}}
 
 <!--more-->
 
@@ -21,7 +21,7 @@ All that wasn't very neat so I started learning the somewhat intricate [PulseAud
 After a long string of experiments with Python's non-immaculate multithreading implementation (I'd mention [GIL][wiki:en:Global_Interpreter_Lock] to start with), I made the application run smoothly. The menu consists of three sections: input devices (ordered by name), output devices (same) and static items.
 
 The icon was designed in Inkscape:
-![](img:3.bp.blogspot.com/-WRWhSSdMb4w/UTMb99DLYOI/AAAAAAAAWqI/u5v1qpzawqY/s1600/indicator-sound-switcher.png)
+{{< imgfig "https://3.bp.blogspot.com/-WRWhSSdMb4w/UTMb99DLYOI/AAAAAAAAWqI/u5v1qpzawqY/s1600/indicator-sound-switcher.png" >}}
 
 Any changes in PulseAudio daemon state are immediately reflected in menu's contents, even if it's open.
 

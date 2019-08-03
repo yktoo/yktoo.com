@@ -10,6 +10,6 @@ tags: ["погода"]
 
 <!--more-->
 
-![](img:2.bp.blogspot.com/_PX65_e7vApk/TP000GJ7uLI/AAAAAAAAHvA/zadPTthatIc/s1600/DSC00428.JPG:a)
+{{< imgfig "https://2.bp.blogspot.com/_PX65_e7vApk/TP000GJ7uLI/AAAAAAAAHvA/zadPTthatIc/s1600/DSC00428.JPG" >}}
 
 Секрет кроется, конечно, в тёплом одеяле. Зато спится просто замечательно!

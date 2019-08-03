@@ -5,7 +5,7 @@ tags: ["Амерсфорт", "видео", "джаз", "музыка", "флам
 ---
 
 В прошлые выходные (с 16 по 19 мая 2013 г.), как я и [обещал][post:183], у нас в Амерсфорте состоялся традиционный ежегодный джазовый фест. Тридцать четвёртый по счёту, если быть точным. Под предводительством небезызвестного Александра Бейтса:
-![](img:1.bp.blogspot.com/-j2AvSpmVd38/UZ0Lc33S2gI/AAAAAAAAYb8/IZqfcD6m0aE/s1600/dsc08865.picasaweb.jpg:a)
+{{< imgfig "https://1.bp.blogspot.com/-j2AvSpmVd38/UZ0Lc33S2gI/AAAAAAAAYb8/IZqfcD6m0aE/s1600/dsc08865.picasaweb.jpg" >}}
 
 <!--more-->
 
@@ -18,18 +18,18 @@ tags: ["Амерсфорт", "видео", "джаз", "музыка", "флам
 Концерт проводился в нашем городском музее [Flehite](http://www.museumflehite.nl/) в два этапа, поскольку выделенный для этой цели зал был очень маленьким, человек на тридцать от силы. В первую волну зрителей я не попал, пришлось ждать ещё час до начала следующей части.
 
 По итогам концерта могу заключить, что оно того определённо стоило: я вообще впервые вот так перед собой видел исполнение фламенко.
-![](img:3.bp.blogspot.com/-KFzgpbyXSdo/UZ0LVJpd_AI/AAAAAAAAYbc/DzB77sYMgYs/s1600/dsc08853.picasaweb.jpg:a)
+{{< imgfig "https://3.bp.blogspot.com/-KFzgpbyXSdo/UZ0LVJpd_AI/AAAAAAAAYbc/DzB77sYMgYs/s1600/dsc08853.picasaweb.jpg" >}}
 
 Вокалистку зовут довольно непросто: Эрминия Фернандез Кордоба ({{< fl "Erminia Fernández Córdoba" >}}). Она родилась в 1980 году в Аргентине и выросла в Испании (Аликанте). Последние 15 лет живёт в Голландии, исполняя джаз, поп, южноафриканскую музыку и фламенко.
-![](img:1.bp.blogspot.com/-S268gCvZyA0/UZ0LaGEJl6I/AAAAAAAAYb0/IEaZ40D4vKU/s1600/dsc08863.picasaweb.jpg:a)
+{{< imgfig "https://1.bp.blogspot.com/-S268gCvZyA0/UZ0LaGEJl6I/AAAAAAAAYb0/IEaZ40D4vKU/s1600/dsc08863.picasaweb.jpg" >}}
 
 Её муж гитарист Артуро Рамон ([Arturo Ramón](http://www.arturoramon.com/)), несмотря на характерную внешность, родился в 1981 году в Голландии, в городе Гааге. Отец его голландец, а внешностью он обязан матери-испанке. Часто выступает и уже успел записать несколько CD.
 
 Пианист — простой голландский парень Тайс Борстен ({{< fl "Thijs Borsten" >}}) — играет  очень выразительно и свободно. Он — одна из моих находок на этом фестивале, надо будет за ним следить в будущем.
-![](img:4.bp.blogspot.com/-QJo0W8ob7r8/UZ0LYQFIlnI/AAAAAAAAYbs/V0cO9J1cD_s/s1600/dsc08861.picasaweb.jpg:a)
+{{< imgfig "https://4.bp.blogspot.com/-QJo0W8ob7r8/UZ0LYQFIlnI/AAAAAAAAYbs/V0cO9J1cD_s/s1600/dsc08861.picasaweb.jpg" >}}
 
 Вот одна из видеозаписей с концерта:
-![](youtube:TjP-pltU_kw)
+{{< youtube "TjP-pltU_kw" >}}
 
 К слову о качестве видео. В первый день я поленился взять с собой штатив, о чём горько сожалел. Кроме того, сидел я во втором ряду и снимать приходилось через головы ~~ненавистных~~ голландцев. Но зато хоть звук в порядке.
 
@@ -44,13 +44,13 @@ tags: ["Амерсфорт", "видео", "джаз", "музыка", "флам
 ## The Nordanians {#the-nordanians}
 
 [The Nordanians](http://www.nordanians.com/) — группа с забавным звучанием и несколько механичной музыкой.
-![](img:2.bp.blogspot.com/-lxhW-APmGT8/UZ0LMx_CuVI/AAAAAAAAYa8/8i42TLhCt1Y/s1600/dsc08847.picasaweb.jpg:a)
+{{< imgfig "https://2.bp.blogspot.com/-lxhW-APmGT8/UZ0LMx_CuVI/AAAAAAAAYa8/8i42TLhCt1Y/s1600/dsc08847.picasaweb.jpg" >}}
 
 Вшестером играют на гитаре, скрипке, виолончели, табле и всякой прочей всячине. Навряд ли можно назвать это джазом. Смотреть забавно, но влюбить меня в себя не смогли. Вот пример:
-![](youtube:Mnn9f0Ff4QQ)
+{{< youtube "Mnn9f0Ff4QQ" >}}
 
 На фестивале было полным полно детей. Так как джаз им неинтересен, занимались они известно чем.
-![](img:4.bp.blogspot.com/-4XLxqev-60E/UZ0LOgEnWsI/AAAAAAAAYbE/ur2sgMkc70k/s1600/dsc08849.picasaweb.jpg:a)
+{{< imgfig "https://4.bp.blogspot.com/-4XLxqev-60E/UZ0LOgEnWsI/AAAAAAAAYbE/ur2sgMkc70k/s1600/dsc08849.picasaweb.jpg" >}}
 
 ## Анна Кайперс {#anna-cuijpers}
 
@@ -61,12 +61,12 @@ tags: ["Амерсфорт", "видео", "джаз", "музыка", "флам
 ## Ruud Jacobs Tribute Band {#ruud-jacobs}
 
 Ансамбль, сформированный в честь Руда Якобса, контрабасиста, коему недавно стукнуло ни много ни мало семьдесят пять. Я в ансамбле узнал пару физиономий, знакомых по [концерту в De Observant][post:125]: гитариста Мартайна ван Итерсона (играющего в традиционной манере «меня здесь нет») и ударника Гайса Дайкхаузена:
-![](youtube:2wkPAA41OdU)
+{{< youtube "2wkPAA41OdU" >}}
 
 ## International Jazz Summit {#international-jazz-summit}
 
 Так назвали толпу знаменитых джазменов, закрывавших фестиваль.
-![](img:1.bp.blogspot.com/-627Ot11ouyM/UZ0LepMgIyI/AAAAAAAAYcE/HlbTH6_pYms/s1600/dsc08868.picasaweb.jpg:a)
+{{< imgfig "https://1.bp.blogspot.com/-627Ot11ouyM/UZ0LepMgIyI/AAAAAAAAYcE/HlbTH6_pYms/s1600/dsc08868.picasaweb.jpg" >}}
 
 Слева направо с саксофонами наперевес:
 
@@ -76,7 +76,7 @@ tags: ["Амерсфорт", "видео", "джаз", "музыка", "флам
 * И, наконец, директор всея фестиваля, изображённый на самом первом фото в этом посте, не менее [знакомый][post:125] Александр Бейтс.
 
 Вся четвёрка, один другого знаменитее, отрывалась на последнем концерте как могла. Публики на Lieve Vrouwekerkhof было битком, все пищали и визжали. Вот один из номеров, {{< fl "Watermelon Man" >}}:
-![](youtube:tL4l7k3-NRY)
+{{< youtube "tL4l7k3-NRY" >}}
 
 Вот все их номера на видео:
 

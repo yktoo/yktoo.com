@@ -9,17 +9,17 @@ tags: ["деньги", "забавное"]
 Но рассказ не об этом.
 
 Многочисленные обмены денег приносили порой любопытные артефакты, то ли случайно, то ли нет затесавшиеся в пачке донгов или ринггитов. Например, брунейский доллар с забавным прозрачным окошком в банкноте:
-![](img:2.bp.blogspot.com/-mnnKcKFgSho/TYei73m2M-I/AAAAAAAAIFE/aGPO5gSOFXY/s800/brunei-dollar.jpg:a)
+{{< imgfig "https://2.bp.blogspot.com/-mnnKcKFgSho/TYei73m2M-I/AAAAAAAAIFE/aGPO5gSOFXY/s800/brunei-dollar.jpg" >}}
 
 <!--more-->
 
 Или вот, две тысячи индонезийских рупий:
-![](img:2.bp.blogspot.com/-cCHttaCGBbw/TYei_LrlUCI/AAAAAAAAIFI/qze6zibhcXM/s1600/indonesia-rupiah.jpg:a)
+{{< imgfig "https://2.bp.blogspot.com/-cCHttaCGBbw/TYei_LrlUCI/AAAAAAAAIFI/qze6zibhcXM/s1600/indonesia-rupiah.jpg" >}}
 
 Это всё, по крайней мере, понятно и объяснимо — валют там в окрестностях Индокитая крутится множество, люди снуют через границы и меняют деньги.
 
 Но вот это:
-![](img:2.bp.blogspot.com/-wHycciZMD14/TYejCKXu8oI/AAAAAAAAIFM/t4ymxGC9Qhg/s1600/mavrodi-1000.jpg:a)
+{{< imgfig "https://2.bp.blogspot.com/-wHycciZMD14/TYejCKXu8oI/AAAAAAAAIFM/t4ymxGC9Qhg/s1600/mavrodi-1000.jpg" >}}
 
 Всё по-взрослому: серийный номер, защита, водяные знаки.
 

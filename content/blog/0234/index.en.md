@@ -93,9 +93,9 @@ If your garden is not on the southern, south-eastern or south-western side, it'l
 ## No slanting walls! {#walls}
 
 I don't understand why some 90% of Dutch houses have slanting walls. On the top floor it's even a de-facto standard. Apart from the fact they are a waste of space, I find them depressing.
-![](img:2.bp.blogspot.com/-UGfefFXU26A/U_uLNWPet4I/AAAAAAAAfDs/7v1tkbmb18s/s1600/dsc06415.picasaweb.jpg:a)
+{{< imgfig "https://2.bp.blogspot.com/-UGfefFXU26A/U_uLNWPet4I/AAAAAAAAfDs/7v1tkbmb18s/s1600/dsc06415.picasaweb.jpg" >}}
 
 There is a number of houses, though, that have flat roofs and straight walls, which looks much better in my opinion.
-![](img:3.bp.blogspot.com/-svBYavvVIZE/U_uLQBcx1QI/AAAAAAAAfEk/bjvppNz-SgM/s1600/dsc06422.picasaweb.jpg:a "I like it this way.")
+{{< imgfig "https://3.bp.blogspot.com/-svBYavvVIZE/U_uLQBcx1QI/AAAAAAAAfEk/bjvppNz-SgM/s1600/dsc06422.picasaweb.jpg" "I like it this way." >}}
 
 These were our main *hunting* criteria. I'll follow up with more details on mortgages in the Netherlands.

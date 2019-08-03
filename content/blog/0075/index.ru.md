@@ -5,7 +5,7 @@ tags: ["авто", "забавное", "Нидерланды"]
 ---
 
 Чего только не увидишь порой. Например, вот:
-![](img:3.bp.blogspot.com/-u36I53EEwFc/TZt8FQXZOuI/AAAAAAAAIN8/KVAgKBPN7ao/s1600/DSC00997.picasaweb.jpg:a)
+{{< imgfig "https://3.bp.blogspot.com/-u36I53EEwFc/TZt8FQXZOuI/AAAAAAAAIN8/KVAgKBPN7ao/s1600/DSC00997.picasaweb.jpg" >}}
 
 Отлично смотрится в компании «Ламборгини», «Лексуса» и «Лотуса».
 

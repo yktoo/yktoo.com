@@ -8,4 +8,4 @@ Anyone who has been in the software development business for a while, is certain
 
 The routine of keeping and tidying up grows painful very quickly as you clone more and more repositories, either from GitHub or your local server.
 
-<!--![](img:yktoo.solutions/blog/2019/07/19-managing-git-projects-on-a-mass-scale/git.png)-->
+<!--{{< imgfig "https://yktoo.solutions/blog/2019/07/19-managing-git-projects-on-a-mass-scale/git.png" >}}-->

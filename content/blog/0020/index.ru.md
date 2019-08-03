@@ -5,7 +5,7 @@ tags: ["Амерсфорт", "еда", "Нидерланды", "ресторан
 ---
 
 Окончание учебного сезона на айкидо единогласно решено было отметить посещением китайского ресторана со свободной раздачей (то, что у нас принято называть «шведским столом»).
-![](img:2.bp.blogspot.com/-gn2KBmL6DPs/T43K95W9WLI/AAAAAAAAPDo/tsEteruUvR8/s1600/a1plaza.jpg)
+{{< imgfig "https://2.bp.blogspot.com/-gn2KBmL6DPs/T43K95W9WLI/AAAAAAAAPDo/tsEteruUvR8/s1600/a1plaza.jpg" >}}
 
 <!--more-->
 

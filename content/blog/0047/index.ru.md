@@ -5,7 +5,7 @@ tags: ["3D", "кино", "Нидерланды"]
 ---
 
 «Аватар» — это очень круто.
-![](img:1.bp.blogspot.com/-R42TFZCjvwM/T4tDT-7D5fI/AAAAAAAAOtE/l8gjtWkXzIY/s1600/avatar.jpg:a)
+{{< imgfig "https://1.bp.blogspot.com/-R42TFZCjvwM/T4tDT-7D5fI/AAAAAAAAOtE/l8gjtWkXzIY/s1600/avatar.jpg" >}}
 
 Нет, серьёзно. Дважды посмотрел в 3D. Первый раз в каком-то сельском кинотеатре в Wageningen, в маленьком, душном зале и активных очках (XpanD). Второй — в одном из самых крутых [Pathé Arena](http://www.pathe.nl/arena/) (IMAX 3D, само собой).
 

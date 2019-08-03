@@ -8,7 +8,7 @@ tags: ["гаджеты", "забавное", "Нидерланды"]
 
 <!--more-->
 
-![](youtube:HAPcObE1WHU)
+{{< youtube "HAPcObE1WHU" >}}
 
 Цена в районе 50-70 евро.
 

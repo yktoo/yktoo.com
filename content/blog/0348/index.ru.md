@@ -9,4 +9,4 @@ tags: ["Sound Switcher Indicator", "Ubuntu", "индикатор", "разраб
 
 Подробности по ссылке ниже (*англ.*)
 
-<!--![](img:yktoo.solutions/blog/2019/07/21-sound-switcher-indicator-2.2.2/ssi-icon.png)-->
+<!--{{< imgfig "https://yktoo.solutions/blog/2019/07/21-sound-switcher-indicator-2.2.2/ssi-icon.png" >}}-->

@@ -14,17 +14,17 @@ tags: ["Нидерланды", "поезда", "транспорт", "Хауте
 Как вы, вероятно, догадываетесь, эти события довольно тесно связаны.
 
 Теперь я живу уже не в Амерсфорте, мой дом — городок **Хаутен** ({{< fl "Houten" >}}; по-русски его название ещё пишут как «Хоутен», но я уж буду писать его так, как оно произносится).
-![](img:1.bp.blogspot.com/-DIvAaGopwfg/VAMbLP1sN9I/AAAAAAAAfOM/IXEu0uUYwAc/s1600/dsc06624.picasaweb.jpg:a)
+{{< imgfig "https://1.bp.blogspot.com/-DIvAaGopwfg/VAMbLP1sN9I/AAAAAAAAfOM/IXEu0uUYwAc/s1600/dsc06624.picasaweb.jpg" >}}
 
 Хаутен расположен к юго-западу от Утрехта, практически в самом центре страны, численность его населения ровно 48 471 человек (по состоянию на май 2014 г., а с нами, значит, 48 473), и его очертания на карте напоминают бабочку (восьмёрку, гантелю, песочные часы, огрызок яблока — в зависимости от фантазии):
-![](img:3.bp.blogspot.com/-l8F-J_mT-Bs/U-0ELL8_dLI/AAAAAAAAdnA/xvnPWSclwdQ/s1600/houten-topographic-map.picasaweb.png:a)
+{{< imgfig "https://3.bp.blogspot.com/-l8F-J_mT-Bs/U-0ELL8_dLI/AAAAAAAAdnA/xvnPWSclwdQ/s1600/houten-topographic-map.picasaweb.png" >}}
 
 Почему именно Хаутен? Об этом я расскажу в следующей серии, а пока немного информации о самом городе, в котором мне, вероятнее всего, доведётся провести немало лет.
 
 Бабочкообразный контур подчёркивается объездной автодорогой, {{< fl "Rondweg" >}} («круговая дорога»), а в самом узком месте она соединяется перемычкой под названием {{< fl "De Koppeling" >}} («соединение»).
 
 Здесь вообще уйма забавных названий. Как и любой другой населённый пункт в Нидерландах, Хаутен разбит на районы ({{< fl "wijken" >}}), а те, в свою очередь, на ещё более мелкие единицы ([buurten][wiki:nl:Wijken_en_buurten_in_Houten], микрорайоны?):
-![](img:3.bp.blogspot.com/-AUq5EqhIQbQ/U-8aa8rrcDI/AAAAAAAAdnQ/ifHKNKFGu4E/s1600/Houten-indeling.picasaweb.png:a)
+{{< imgfig "https://3.bp.blogspot.com/-AUq5EqhIQbQ/U-8aa8rrcDI/AAAAAAAAdnQ/ifHKNKFGu4E/s1600/Houten-indeling.picasaweb.png" >}}
 
 Эти «микрорайоны» носят такие имена как {{< fl "Poorten" >}} («ворота»), {{< fl "Hoeven" >}} («фермерские дома»), {{< fl "Waters" >}} («воды») и т.д., а улицы в каждом из них имеют соответствующую часть в своём названии. Например, в Poorten это {{< fl "Vikingenpoort" >}} («врата викингов»), {{< fl "Friezenpoort" >}} («фризские врата»), {{< fl "Keltenpoort" >}} («кельтские врата»). В Waters — {{< fl "Dooiwater" >}} («талая вода»), {{< fl "Geiserwater" >}} («гейзерная вода»), {{< fl "Mineraalwater" >}} («минеральная вода») и, наконец, просто {{< fl "Het Water" >}}, «вода».
 
@@ -39,30 +39,30 @@ tags: ["Нидерланды", "поезда", "транспорт", "Хауте
 Хаутен очень удобен в том числе благодаря своей близости к Утрехту, главному железнодорожному узлу страны — ежеутренне «Спринтеры» (аналоги российских электричек) отвозят пассажиров на центральный вокзал Утрехта, а вечером, соответственно, в обратном направлении.
 
 В обоих крыльях хаутенской «бабочки» имеется по железнодорожной станции. В верхнем, северном, станция {{< fl "Houten" >}}, приподнятая над дорогой:
-![](img:4.bp.blogspot.com/-y3T0GUg9osA/U_uLWYyFBnI/AAAAAAAAfIk/JGPYoCRmK5c/s1600/dsc06436.picasaweb.jpg:a)
+{{< imgfig "https://4.bp.blogspot.com/-y3T0GUg9osA/U_uLWYyFBnI/AAAAAAAAfIk/JGPYoCRmK5c/s1600/dsc06436.picasaweb.jpg" >}}
 
 Внутри у неё — объёмистая велопарковка ({{< fl "Transferium" >}}, как их тут модно называть), бесплатная и охраняемая:
-![](img:4.bp.blogspot.com/-SzYYiSV1Aok/U_uLPH1liSI/AAAAAAAAfEE/ycsfKAk5e3M/s1600/dsc06381.picasaweb.jpg:a)
+{{< imgfig "https://4.bp.blogspot.com/-SzYYiSV1Aok/U_uLPH1liSI/AAAAAAAAfEE/ycsfKAk5e3M/s1600/dsc06381.picasaweb.jpg" >}}
 
 К велосипедам мы ещё вернёмся.
 
 Станция Houten расположена на центральной площади, опоясанной торговым комплексом с незамысловатым именем {{< fl "Het Rond" >}} («круг»). За площадью наблюдает мальчик с банкой «колы». Сидящая рядом собака с завистью смотрит на банку:
-![](img:4.bp.blogspot.com/-TCq6sD9gMpQ/U_uLeHL2qlI/AAAAAAAAfH0/DIVujN4di0g/s1600/dsc06437.picasaweb.jpg:a)
+{{< imgfig "https://4.bp.blogspot.com/-TCq6sD9gMpQ/U_uLeHL2qlI/AAAAAAAAfH0/DIVujN4di0g/s1600/dsc06437.picasaweb.jpg" >}}
 
 Вокруг площади проходит классический голландский канал — просто так, для красоты:
-![](img:4.bp.blogspot.com/-TCPK9mzHaPA/U_uLVSMx-aI/AAAAAAAAfIk/dz56mX2csWs/s1600/dsc06434.picasaweb.jpg:a)
+{{< imgfig "https://4.bp.blogspot.com/-TCPK9mzHaPA/U_uLVSMx-aI/AAAAAAAAfIk/dz56mX2csWs/s1600/dsc06434.picasaweb.jpg" >}}
 
 В южной (нижней) части Хаутена — вторая станция, {{< fl "Houten Castellum" >}}:
-![](img:4.bp.blogspot.com/-naX2_xWGK24/U_uLO9PapMI/AAAAAAAAfD4/EcKCOI5ogvc/s1600/dsc06418.picasaweb.jpg:a)
+{{< imgfig "https://4.bp.blogspot.com/-naX2_xWGK24/U_uLO9PapMI/AAAAAAAAfD4/EcKCOI5ogvc/s1600/dsc06418.picasaweb.jpg" >}}
 
 Она была впервые открыта в 2001 г., но в то время вместо поезда отсюда до станции Houten ходил трамвай. В 2007-2008 году здесь были проложены дополнительные пути, так что в конце 2010 г. станция заработала в обычном режиме и трамвай стал не нужен.
 
 От Houten Castellum до Houten поезд идёт минуты две, до Utrecht Centraal — ещё около десяти минут. «Спринтеры» отправляются каждые пятнадцать минут.
 
 Мало кто знает, что между этими двумя современными станциями есть ещё одна, ныне используемая в качестве [ресторана](http://www.hetoudestationhouten.nl/). «Старая станция» ({{< fl "Het oude station" >}}) была построена в 1868 году и выполняла свои функции до 1936 года.
-![](img:3.bp.blogspot.com/-sG8GZD3z-Dg/U_uLRqbQgVI/AAAAAAAAfIk/3AB7ruELakY/s1600/dsc06425.picasaweb.jpg:a)
+{{< imgfig "https://3.bp.blogspot.com/-sG8GZD3z-Dg/U_uLRqbQgVI/AAAAAAAAfIk/3AB7ruELakY/s1600/dsc06425.picasaweb.jpg" >}}
 
 Впоследствии она служила жилым домом и офисным зданием, а в 2007 году, когда железнодорожный путь в Хаутене потребовалось расширить, при помощи государства, компаний и частных пожертвований, был осуществлён невероятный проект по сдвигу здания станции. Согласно табличке, установленной неподалёку, здание установили на колёса и переместили на несколько сотен метров, где оно здравствует и поныне.
-![](img:3.bp.blogspot.com/-krjGa7EIUUs/U_uLS2wIzmI/AAAAAAAAfIk/Zm079fWdqCA/s1600/dsc06427.picasaweb.jpg:a)
+{{< imgfig "https://3.bp.blogspot.com/-krjGa7EIUUs/U_uLS2wIzmI/AAAAAAAAfIk/Zm079fWdqCA/s1600/dsc06427.picasaweb.jpg" >}}
 
 Далее: [Часть 2, велосипедная][post:222]

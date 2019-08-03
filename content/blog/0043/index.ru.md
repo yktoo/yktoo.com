@@ -29,7 +29,7 @@ tags: ["Париж", "путешествия", "Франция"]
 ## Там {#in-paris}
 
 После Голландии Париж кажется адом для автомобилиста. К вышеупомянутому стилю вождения, авариям и пробкам добавляются почти полное отсутствие разметки и множество дорожных ремонтов.
-![](img:2.bp.blogspot.com/-ZfY2B0T66H4/T4wgATEFrpI/AAAAAAAAO2c/_tUvX943Fwc/s1600/imgp2780.picasaweb.jpg:a)
+{{< imgfig "https://2.bp.blogspot.com/-ZfY2B0T66H4/T4wgATEFrpI/AAAAAAAAO2c/_tUvX943Fwc/s1600/imgp2780.picasaweb.jpg" >}}
 
 Когда мы около десяти часов вечера подъехали к гостинице, то кружили по району минут пятнадцать в поисках места, чтобы хотя бы разгрузиться, и в конце концов я попросту заехал на тротуар около автобусной остановки — единственное место, где я никому не мешал. А ведь раньше Амстердам мне казался очень загруженным движением городом…
 
@@ -42,59 +42,59 @@ tags: ["Париж", "путешествия", "Франция"]
 ## Что успели {#what-we-have-seen}
 
 Успели мало. Полноценных дней у нас было примерно один.
-![](img:3.bp.blogspot.com/-1J7sGe3fftw/T4wfZTNxnXI/AAAAAAAAOyw/FcZabpFc-78/s1600/imgp2762.picasaweb.jpg:a)
+{{< imgfig "https://3.bp.blogspot.com/-1J7sGe3fftw/T4wfZTNxnXI/AAAAAAAAOyw/FcZabpFc-78/s1600/imgp2762.picasaweb.jpg" >}}
 
 Начали, разумеется, с неё, с Эйфелевой.
 
 Сама по себе башня — удивительное сооружение. Обзор с неё восхитителен.
-![](img:4.bp.blogspot.com/-RMz8qeLSZyU/T4wgDpmSjhI/AAAAAAAAO2k/amdhkH4_9Jo/s1600/imgp2767.picasaweb.jpg:a)
+{{< imgfig "https://4.bp.blogspot.com/-RMz8qeLSZyU/T4wgDpmSjhI/AAAAAAAAO2k/amdhkH4_9Jo/s1600/imgp2767.picasaweb.jpg" >}}
 
-![](img:3.bp.blogspot.com/-B4GTnjnRVnc/T4wfSliiwwI/AAAAAAAAOyI/NqTlcBQce4k/s1600/imgp2783.picasaweb.jpg:a)
+{{< imgfig "https://3.bp.blogspot.com/-B4GTnjnRVnc/T4wfSliiwwI/AAAAAAAAOyI/NqTlcBQce4k/s1600/imgp2783.picasaweb.jpg" >}}
 
-![](img:4.bp.blogspot.com/-ToShJE_7B9o/T4wfsa36z_I/AAAAAAAAO0c/r_UAUO84bbI/s1600/imgp2782.picasaweb.jpg:a)
+{{< imgfig "https://4.bp.blogspot.com/-ToShJE_7B9o/T4wfsa36z_I/AAAAAAAAO0c/r_UAUO84bbI/s1600/imgp2782.picasaweb.jpg" >}}
 
-![](img:2.bp.blogspot.com/-e7iqw9OFLAc/T4wgF0W1s8I/AAAAAAAAO20/uXZJ9vZBuPc/s1600/imgp2779.picasaweb.jpg:a)
+{{< imgfig "https://2.bp.blogspot.com/-e7iqw9OFLAc/T4wgF0W1s8I/AAAAAAAAO20/uXZJ9vZBuPc/s1600/imgp2779.picasaweb.jpg" >}}
 
 Внутри совершенно бесшумно ходят лифты. Всё продумано. Конструкция оригинальна.
-![](img:2.bp.blogspot.com/-_w_XmjrPQNg/T4wf_OepGKI/AAAAAAAAO2Q/TR_-warTHNI/s1600/imgp2765.picasaweb.jpg:a)
+{{< imgfig "https://2.bp.blogspot.com/-_w_XmjrPQNg/T4wf_OepGKI/AAAAAAAAO2Q/TR_-warTHNI/s1600/imgp2765.picasaweb.jpg" >}}
 
 Цены приемлемые (€ 8 со взрослого носа за второй этаж, € 13 за третий).
 
 Омрачают это великолепие лишь три обстоятельства.
 
 Первое — количество народу. Оно огромно. В каждую из четырёх опор стоит отдельная очередь: сначала досмотр сумок, потом касса, потом лифт на второй этаж. У нас это отняло около часа. Потом ещё примерно столько же, чтобы попасть в лифт на третий. На самом верху народу столько, что порой приходится продираться сквозь толпу.
-![](img:2.bp.blogspot.com/-BDCUQyy434s/T4wnmQxYtsI/AAAAAAAAO5U/Raz-R5GzwGw/s1600/imgp2766.picasaweb.jpg:a)
+{{< imgfig "https://2.bp.blogspot.com/-BDCUQyy434s/T4wnmQxYtsI/AAAAAAAAO5U/Raz-R5GzwGw/s1600/imgp2766.picasaweb.jpg" >}}
 
 Второе — негры. Они вьются вокруг, как комары, бренча связками маленьких Эйфелевых башенок. Они привязчивы, в точности как наши цыгане. Если долго не отвечать на притязания, цена на башенки падает в 5, а то и в 10 раз. Как-то я слышал, как они предлагают 5 штук за евро. Лучшая практика, как и с цыганами, — делать вид, будто ты глухонемой.
 
 Третье — дурацкий белый песок везде вокруг. Если хотя бы просто взять на руки ребёнка, становишься немного побеленным. Крайне неудачная идея, по-моему. Та же ерундовина и вокруг Лувра:
 
-![](img:1.bp.blogspot.com/-w0-s9NTdn8U/T4wfWnhtkPI/AAAAAAAAOyk/Ll0ABsLKCqg/s1600/imgp2799.picasaweb.jpg:a)
+{{< imgfig "https://1.bp.blogspot.com/-w0-s9NTdn8U/T4wfWnhtkPI/AAAAAAAAOyk/Ll0ABsLKCqg/s1600/imgp2799.picasaweb.jpg" >}}
 
 И около брюссельского [Атомиума][wiki:ru:Атомиум], кстати, тоже.
 
 Ещё мы насмотрелись парижских улиц и побывали на Монмартре.
-![](img:2.bp.blogspot.com/-YyeqwxAarHE/T4wf3qwBTrI/AAAAAAAAO1g/CI29Y3Kk2eo/s1600/imgp2834.picasaweb.jpg:a)
+{{< imgfig "https://2.bp.blogspot.com/-YyeqwxAarHE/T4wf3qwBTrI/AAAAAAAAO1g/CI29Y3Kk2eo/s1600/imgp2834.picasaweb.jpg" >}}
 
 Монмартр и базилика Сакре-Кёр, что на его вершине, конечно, сказочно красивы:
-![](img:4.bp.blogspot.com/-Qmixy6H80qc/T4wfVUxbfDI/AAAAAAAAOyY/Ay91QVqInKE/s1600/imgp2828.picasaweb.jpg:a)
+{{< imgfig "https://4.bp.blogspot.com/-Qmixy6H80qc/T4wfVUxbfDI/AAAAAAAAOyY/Ay91QVqInKE/s1600/imgp2828.picasaweb.jpg" >}}
 
-![](img:3.bp.blogspot.com/-_0seTcu2iHw/T4wfpx_sn8I/AAAAAAAAO3w/suMqAMd3jnE/s1600/imgp2858.picasaweb.jpg:a)
+{{< imgfig "https://3.bp.blogspot.com/-_0seTcu2iHw/T4wfpx_sn8I/AAAAAAAAO3w/suMqAMd3jnE/s1600/imgp2858.picasaweb.jpg" >}}
 
 Мы к тому же прокатились по его окрестностям на специальном трамвайчике:
-![](img:1.bp.blogspot.com/-sgzAwy2MVvg/T4wgKDDzBiI/AAAAAAAAO3I/bDGEsXFpftA/s1600/imgp2884.picasaweb.jpg:a)
+{{< imgfig "https://1.bp.blogspot.com/-sgzAwy2MVvg/T4wgKDDzBiI/AAAAAAAAO3I/bDGEsXFpftA/s1600/imgp2884.picasaweb.jpg" >}}
 
 И поглазели на приснопамятный Мулен-Руж:
-![](img:1.bp.blogspot.com/-BeoTeUrNRQI/T4wf7kD6s4I/AAAAAAAAO14/aqC68H_Tp14/s1600/imgp2875.picasaweb.jpg:a)
+{{< imgfig "https://1.bp.blogspot.com/-BeoTeUrNRQI/T4wf7kD6s4I/AAAAAAAAO14/aqC68H_Tp14/s1600/imgp2875.picasaweb.jpg" >}}
 
 Проежали Сену (в следующий раз надо будет прокатиться на таком катере):
-![](img:4.bp.blogspot.com/-xxJn5xtJUas/T4wfu7zV6yI/AAAAAAAAO0s/a6ismEdWKdk/s1600/imgp2792.picasaweb.jpg:a)
+{{< imgfig "https://4.bp.blogspot.com/-xxJn5xtJUas/T4wfu7zV6yI/AAAAAAAAO0s/a6ismEdWKdk/s1600/imgp2792.picasaweb.jpg" >}}
 
 Видели и столь популярные в Европе «живые статуи»:
-![](img:2.bp.blogspot.com/-SuJiT6nBn1s/T4wfkn1ojxI/AAAAAAAAOz4/8xzo21ncQL8/s1600/imgp2862.picasaweb.jpg:a)
+{{< imgfig "https://2.bp.blogspot.com/-SuJiT6nBn1s/T4wfkn1ojxI/AAAAAAAAOz4/8xzo21ncQL8/s1600/imgp2862.picasaweb.jpg" >}}
 
 Париж в целом оставляет приятное впечатление.
-![](img:3.bp.blogspot.com/-dtpDKR0w3oA/T4wfxjsNuWI/AAAAAAAAO04/KzTpNpyY1-A/s1600/imgp2756.picasaweb.jpg:a)
+{{< imgfig "https://3.bp.blogspot.com/-dtpDKR0w3oA/T4wfxjsNuWI/AAAAAAAAO04/KzTpNpyY1-A/s1600/imgp2756.picasaweb.jpg" >}}
 
 Чтобы его не портить, следует не брать с собой ни машину, ни велосипедов, избегать чёрных, не особо благополучных, районов, и отводить себе достаточно времени.
 

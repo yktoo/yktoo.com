@@ -10,9 +10,9 @@ On **20 September** I will be presenting at [IDM Europe](https://whitehallmedia.
 
 <!--more-->
 
-![](img:4.bp.blogspot.com/-LkM0S58F9n0/W5kNeyCNWKI/AAAAAAAAt3I/zzvvTGv0TjkVMD-41BEqjDV-a8uaIHaCgCKgBGAs/s1600/idm-europe-identity-server-comparison.png:a)
+{{< imgfig "https://4.bp.blogspot.com/-LkM0S58F9n0/W5kNeyCNWKI/AAAAAAAAt3I/zzvvTGv0TjkVMD-41BEqjDV-a8uaIHaCgCKgBGAs/s1600/idm-europe-identity-server-comparison.png" >}}
 
 The conference will be held at the [Postillion Convention Center](https://www.postillionhotels.com/en-gb/conferenties-events/amsterdam) in Amsterdam, and my presentation is scheduled at **14:35**. Feel free to drop by should you happen to be in the area; there's a [whole lot more](https://whitehallmedia.co.uk/idmeuropesep2018/programme/) to learn (but don't forget to [register](https://whitehallmedia.co.uk/idmeuropesep2018/registration) first).
 
 **Update:** the video of my presentation has been made available:
-![](youtube:hnjBiGsEDoU)
+{{< youtube "hnjBiGsEDoU" >}}

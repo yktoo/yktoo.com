@@ -9,4 +9,4 @@ De versie **2.2.2** van Sound Switcher Indicator is gereleased. Deze versie volg
 
 Meer details via de link hieronder (Engels).
 
-<!--![](img:yktoo.solutions/blog/2019/07/21-sound-switcher-indicator-2.2.2/ssi-icon.png)-->
+<!--{{< imgfig "https://yktoo.solutions/blog/2019/07/21-sound-switcher-indicator-2.2.2/ssi-icon.png" >}}-->

@@ -5,17 +5,17 @@ tags: ["beautiful", "flowers", "nature", "Netherlands", "spring"]
 ---
 
 Warning: these pictures can make you jealous. Watch with care.
-![](img:2.bp.blogspot.com/-QEZ4ncr1tv4/TZNyGYRDQEI/AAAAAAAAIH4/50bU2tp47ww/s1600/1257917284FCL4Mum.jpg:a)
+{{< imgfig "https://2.bp.blogspot.com/-QEZ4ncr1tv4/TZNyGYRDQEI/AAAAAAAAIH4/50bU2tp47ww/s1600/1257917284FCL4Mum.jpg" >}}
 
 <!--more-->
 
-![](img:1.bp.blogspot.com/-OmMWpw1NBDI/TZNyOjv5ceI/AAAAAAAAIH8/GI4x2uxh2eg/s1600/1218746687lhwQnl1.jpg:a)
+{{< imgfig "https://1.bp.blogspot.com/-OmMWpw1NBDI/TZNyOjv5ceI/AAAAAAAAIH8/GI4x2uxh2eg/s1600/1218746687lhwQnl1.jpg" >}}
 
-![](img:3.bp.blogspot.com/-QaKEQB_Hhxo/TZNzkWSN59I/AAAAAAAAIIA/OUu6jcOe8pA/s1600/tulipfeild.jpg)
+{{< imgfig "https://3.bp.blogspot.com/-QaKEQB_Hhxo/TZNzkWSN59I/AAAAAAAAIIA/OUu6jcOe8pA/s1600/tulipfeild.jpg" >}}
 
-![](img:2.bp.blogspot.com/-YQRsNpvDWPo/TZNzlPBo4zI/AAAAAAAAIIE/2vfxK135SqA/s1600/tulips.jpg)
+{{< imgfig "https://2.bp.blogspot.com/-YQRsNpvDWPo/TZNzlPBo4zI/AAAAAAAAIIE/2vfxK135SqA/s1600/tulips.jpg" >}}
 
-![](img:4.bp.blogspot.com/-X2ZP4X9rSvo/TZNzl2hBwqI/AAAAAAAAIII/hh0sDV8SaG4/s1600/tulips2.jpg)
+{{< imgfig "https://4.bp.blogspot.com/-X2ZP4X9rSvo/TZNzl2hBwqI/AAAAAAAAIII/hh0sDV8SaG4/s1600/tulips2.jpg" >}}
 
 Originally posted at [Pitch Design Union](http://pitchdesignunion.com/?p=4808).
 

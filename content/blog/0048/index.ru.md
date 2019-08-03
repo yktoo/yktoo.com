@@ -7,7 +7,7 @@ tags: ["вежливость", "Нидерланды"]
 Что мне категорически нравится в местных обычаях, так это заведённая внимательность к населению со стороны различных служб, прямо-таки граничащая с вежливостью.
 
 Вот пример уведомления, разосланного жильцам где-то с месяц назад:
-![](img:4.bp.blogspot.com/-ofK9WbwTmPk/S6txAgzFm-I/AAAAAAAAFIY/o-U7wo2JT8I/s1600/image020.jpg:a)
+{{< imgfig "https://4.bp.blogspot.com/-ofK9WbwTmPk/S6txAgzFm-I/AAAAAAAAFIY/o-U7wo2JT8I/s1600/image020.jpg" >}}
 
 <!--more-->
 

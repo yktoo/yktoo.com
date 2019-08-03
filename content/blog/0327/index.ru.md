@@ -8,13 +8,13 @@ tags: ["Ijsselsteinloop", "Айсселстайн", "бег", "Нидерлан�
 
 <!--more-->
 
-![](img:3.bp.blogspot.com/-FaAglU8-2vA/WTMIq7J8EqI/AAAAAAAAqEg/B8JUhHQIXTY9l08MmxNmfVYvvcZoj6_dACKgB/s1600/dsc05191.picasaweb.jpg:a "Медаль Ijsselsteinloop.")
+{{< imgfig "https://3.bp.blogspot.com/-FaAglU8-2vA/WTMIq7J8EqI/AAAAAAAAqEg/B8JUhHQIXTY9l08MmxNmfVYvvcZoj6_dACKgB/s1600/dsc05191.picasaweb.jpg" "Медаль Ijsselsteinloop." >}}
 
 Забег предсказуемо назывался [Ijsselsteinloop](http://www.ijsselsteinloop.nl/) («забег по Айсселстайну»).
 
 Результат не рекордный: **1:49:01**, но это лишь на минуту дольше, чем в [прошлый раз в De Haar][post:320]. Что вовсе не плохо, учитывая жару и влажность, как в финской сауне. Мы ещё и под ливень попали!
 
-![](img:2.bp.blogspot.com/-S9RVAnvCny4/WTMMcAmmucI/AAAAAAAAqEs/yl7cB-nbBOMH2XHALcJxONkr-XG3dxqhwCKgB/s1600/ijsselsteinloop-2017-06-03-10-14-16.929797.picasaweb.jpg:a "Автор на финише.")
+{{< imgfig "https://2.bp.blogspot.com/-S9RVAnvCny4/WTMMcAmmucI/AAAAAAAAqEs/yl7cB-nbBOMH2XHALcJxONkr-XG3dxqhwCKgB/s1600/ijsselsteinloop-2017-06-03-10-14-16.929797.picasaweb.jpg" "Автор на финише." >}}
 
 Итог: **123** место (из **307**) среди мальчиков.
 

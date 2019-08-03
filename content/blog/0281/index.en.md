@@ -5,7 +5,7 @@ tags: ["mass media", "morons", "Russia", "United Russia", "video"]
 ---
 
 Here's one of the reasons:
-![](youtube:awP-blYxOXA)
+{{< youtube "awP-blYxOXA" >}}
 
 The most worrying part is that in Russia that is considered a funny minor incident.
 

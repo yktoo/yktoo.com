@@ -8,7 +8,7 @@ tags: ["In-Ear Headphones Pro HD", "Mi", "Xiaomi", "анбоксинг", "гад
 
 <!--more-->
 
-![](img:3.bp.blogspot.com/-aKpXFZ3-oIw/WSajHsRGiBI/AAAAAAAAp_I/4NJnW6NuYIgKl85gw0584Iok9YjhpLS4wCKgB/s1600/mi-headphone.picasaweb.jpg:a "КДПВ: Mi In-Ear Headphones Pro HD.")
+{{< imgfig "https://3.bp.blogspot.com/-aKpXFZ3-oIw/WSajHsRGiBI/AAAAAAAAp_I/4NJnW6NuYIgKl85gw0584Iok9YjhpLS4wCKgB/s1600/mi-headphone.picasaweb.jpg" "КДПВ: Mi In-Ear Headphones Pro HD." >}}
 
 Наушники я заказал на {{< fl "eBay" >}} после того, как услышал о них несколько очень положительных отзывов. Заявленные характеристики при цене всего лишь около **€21** (вместе с пересылкой в Нидерланды) выглядели любопытно.
 
@@ -22,10 +22,10 @@ tags: ["In-Ear Headphones Pro HD", "Mi", "Xiaomi", "анбоксинг", "гад
   * Один [арматурный драйвер][wiki:ru:Наушники_с_уравновешенным_якорем] — для высоких частот.
 
 Использование такой конструкции фактически превращает наушник в трёхполосный излучатель, где каждый диапазон (низы, средние и верха) обслуживается отдельным драйвером.
-![](img:3.bp.blogspot.com/-mXD2Px24ztw/WS65HPIak7I/AAAAAAAAqAw/kJcpUi7q_TEWLcN66wWXs1yD05Qr-ph4wCKgB/s1600/mi-headphone-inside.picasaweb.jpg:a "Наушник изнутри.")
+{{< imgfig "https://3.bp.blogspot.com/-mXD2Px24ztw/WS65HPIak7I/AAAAAAAAqAw/kJcpUi7q_TEWLcN66wWXs1yD05Qr-ph4wCKgB/s1600/mi-headphone-inside.picasaweb.jpg" "Наушник изнутри." >}}
 
 Все внешние элементы — сами наушники, пульт управления и штекер — сделаны из металла, анодированного алюминиевого сплава, что очень хорошо выглядит и приятно на ощупь.
-![](img:2.bp.blogspot.com/-2uL-h0gNHwc/WS66PkhCb6I/AAAAAAAAqBM/eBDkqln53dUd8yPQo6WbA4ExmvAslxnCACKgB/s1600/mi-headphones-large.picasaweb.jpg:a "Наушники (рендер Xiaomi).")
+{{< imgfig "https://2.bp.blogspot.com/-2uL-h0gNHwc/WS66PkhCb6I/AAAAAAAAqBM/eBDkqln53dUd8yPQo6WbA4ExmvAslxnCACKgB/s1600/mi-headphones-large.picasaweb.jpg" "Наушники (рендер Xiaomi)." >}}
 
 Чёрные вставки-крышечки сделаны из долговечного и прочного циркониевого стекла.
 
@@ -59,29 +59,29 @@ tags: ["In-Ear Headphones Pro HD", "Mi", "Xiaomi", "анбоксинг", "гад
 ## Распаковка {#unboxing}
 
 Поставляется устройство в крепкой картонной коробке, запаянной в пластик. Упаковке явно уделено особое внимание — премиальный продукт, все дела.
-![](img:3.bp.blogspot.com/-ceKJmdj6zA4/WSaeJ36WX-I/AAAAAAAAp-U/rh3uAuo2-Pw-IW4UpAcMnQs5167lhoFogCKgB/s1600/dsc05183.picasaweb.jpg:a "Коробка наушников.")
+{{< imgfig "https://3.bp.blogspot.com/-ceKJmdj6zA4/WSaeJ36WX-I/AAAAAAAAp-U/rh3uAuo2-Pw-IW4UpAcMnQs5167lhoFogCKgB/s1600/dsc05183.picasaweb.jpg" "Коробка наушников." >}}
 
 Внутри пластиковый бокс с собственно наушниками и картонная коробочка, в которой лежит чехол.
-![](img:2.bp.blogspot.com/-W6SntRfo-Cs/WSaeJyRK84I/AAAAAAAAp-U/p7k9vbabBSka7MlZSAMPBQvlOI-zDPlSwCKgB/s1600/dsc05184.picasaweb.jpg:a "Содержимое коробки.")
+{{< imgfig "https://2.bp.blogspot.com/-W6SntRfo-Cs/WSaeJyRK84I/AAAAAAAAp-U/p7k9vbabBSka7MlZSAMPBQvlOI-zDPlSwCKgB/s1600/dsc05184.picasaweb.jpg" "Содержимое коробки." >}}
 
 Вот всё, что идёт в комплекте: бокс, чехол и инструкция на китайском:
-![](img:3.bp.blogspot.com/-8NV9_yRTeHo/WSaeJ9t61UI/AAAAAAAAp-U/rSfBClc_4acjgs2gdsQx6uVV1BnN45D-gCKgB/s1600/dsc05185.picasaweb.jpg:a "Комплект поставки.")
+{{< imgfig "https://3.bp.blogspot.com/-8NV9_yRTeHo/WSaeJ9t61UI/AAAAAAAAp-U/rSfBClc_4acjgs2gdsQx6uVV1BnN45D-gCKgB/s1600/dsc05185.picasaweb.jpg" "Комплект поставки." >}}
 
 В довольно увесистом боксе из толстого пластика лежат хитроумно накрученные на силиконовый держатель наушники, а под ним — три комплекта сменных насадок ({{< fl "XS" >}}, {{< fl "S" >}} и {{< fl "L" >}}). Включая те, что на наушниках ({{< fl "M" >}}), получается целых четыре типоразмера на уши любых габаритов:
-![](img:4.bp.blogspot.com/-WInKT2kzwA4/WSaeJ5tWxLI/AAAAAAAAp-U/IgO5cDpB_JkYfLO-mzthzFA_sWBbnnuSwCKgB/s1600/dsc05186.picasaweb.jpg:a "Пластиковый бокс и его содержимое.")
+{{< imgfig "https://4.bp.blogspot.com/-WInKT2kzwA4/WSaeJ5tWxLI/AAAAAAAAp-U/IgO5cDpB_JkYfLO-mzthzFA_sWBbnnuSwCKgB/s1600/dsc05186.picasaweb.jpg" "Пластиковый бокс и его содержимое." >}}
 
 Требуется немало терпения, чтобы размотать провод, уложенный в канавки держателя.
-![](img:4.bp.blogspot.com/-CGPnnQ9NcSM/WSaeJ5huZ_I/AAAAAAAAp-U/om-lSDbnn9kLPQgiYCWkAQAvrKXa9av6wCKgB/s1600/dsc05187.picasaweb.jpg:a "Силиконовый держатель.")
+{{< imgfig "https://4.bp.blogspot.com/-CGPnnQ9NcSM/WSaeJ5huZ_I/AAAAAAAAp-U/om-lSDbnn9kLPQgiYCWkAQAvrKXa9av6wCKgB/s1600/dsc05187.picasaweb.jpg" "Силиконовый держатель." >}}
 
 Но чтобы его столь же красиво намотать обратно, терпение потребуется просто дьявольское (ангельское). Судя по размерам прилагаемого чехла, мысль конструкторов состояла в том, что наушники будут вкладываться в него именно в боксе.
 
 В связи с чем возникает вопрос: есть ли в мире хоть один человек, который и в самом деле накручивает провод на держатель, тщательно укладывая пульт, штекер и наушники в предназначенные для этого выемки, потом складывает держатель в бокс, а бокс в чехол — для того, чтобы впоследствии все это повторить в обратном порядке, и так каждый раз, когда он хочет послушать музыку?
 
 Сам наушник выглядит очень похоже на рендер, качество исполнения действительно на высоте. Насадка-вкладыш располагается под углом в 45° к корпусу:
-![](img:1.bp.blogspot.com/-gU9K1bsWVMw/WSaeJ1sG14I/AAAAAAAAp-U/E3VtthXQOTYg13x5Nkx7YMP1l4m_UsudACKgB/s1600/dsc05188.picasaweb.jpg:a "Наушник.")
+{{< imgfig "https://1.bp.blogspot.com/-gU9K1bsWVMw/WSaeJ1sG14I/AAAAAAAAp-U/E3VtthXQOTYg13x5Nkx7YMP1l4m_UsudACKgB/s1600/dsc05188.picasaweb.jpg" "Наушник." >}}
 
 Пульт, также изготовленный из анодированного алюминия и расположенный на проводе правого наушника (около **10 см** ниже него), имеет три кнопки:
-![](img:4.bp.blogspot.com/-rbup_CPzg_M/WSaeJy3OzOI/AAAAAAAAp-U/BgwH8rnl6mk1JE5d063500C32i-htvmhACKgB/s1600/dsc05189.picasaweb.jpg:a "Пульт.")
+{{< imgfig "https://4.bp.blogspot.com/-rbup_CPzg_M/WSaeJy3OzOI/AAAAAAAAp-U/BgwH8rnl6mk1JE5d063500C32i-htvmhACKgB/s1600/dsc05189.picasaweb.jpg" "Пульт." >}}
 
 При подключении к моему {{< fl "Samsung Galaxy Note 4" >}} функции кнопок такие, сверху вниз:
 
@@ -92,7 +92,7 @@ tags: ["In-Ear Headphones Pro HD", "Mi", "Xiaomi", "анбоксинг", "гад
 С противоположной стороны пульта расположен микрофон.
 
 Увенчан провод длиной чуть больше метра 3,5-миллиметровым штекером. Штекер прямой, что, на мой взгляд, лучше загнутого — меньше шансов его ненароком поломать.
-![](img:3.bp.blogspot.com/-VlYiESL6-Tg/WSaeJxBc_VI/AAAAAAAAp-U/dH6YmiGRft46jn1ZyA2hWA0VFKmwu1R3ACKgB/s1600/dsc05190.picasaweb.jpg:a "Штекер.")
+{{< imgfig "https://3.bp.blogspot.com/-VlYiESL6-Tg/WSaeJxBc_VI/AAAAAAAAp-U/dH6YmiGRft46jn1ZyA2hWA0VFKmwu1R3ACKgB/s1600/dsc05190.picasaweb.jpg" "Штекер." >}}
 
 ## Звучание {#sound}
 

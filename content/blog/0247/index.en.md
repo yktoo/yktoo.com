@@ -8,7 +8,7 @@ tags: ["gadgets", "hardware", "review", "Samsung", "Smart Hub", "Smart TV", "TV"
 ## Video {#video}
 
 The built-in video player features an impressive list of codecs and containers. It includes modern formats such as FLV and MKV, and even the recently introduced [H.265][wiki:en:High_Efficiency_Video_Coding] and [VP8 (WebM)][wiki:en:WebM]:
-![](img:3.bp.blogspot.com/-eIIk0Sd62Vg/VQR30d7BAQI/AAAAAAAAhRg/i5YLx1xPeFY/s1600/Samsung_video_formats.png)
+{{< imgfig "https://3.bp.blogspot.com/-eIIk0Sd62Vg/VQR30d7BAQI/AAAAAAAAhRg/i5YLx1xPeFY/s1600/Samsung_video_formats.png" >}}
 
 <!--more-->
 
@@ -29,24 +29,24 @@ All in all, at the moment I see the support for 4K as an investment.
 As for 3D video, everything is working smoothly. The TV can recognise a 3D video stream in a Left/Right or Top/Bottom layout and asks about switching to the 3D mode. It also has a 2D-to-3D conversion function, whose usefulness is questionable. In my opinion, all this 3D thingy adds very little to your watching experience.
 
 Back to the video player. Its user interface is as simple as a Kalashnikov.
-![](img:1.bp.blogspot.com/-3lkkkcDHHSQ/VWCKI_EOYMI/AAAAAAAAjeo/2c7IdbmJt-U/s1600/dsc08044.picasaweb.jpg:a "The built-in video player.")
+{{< imgfig "https://1.bp.blogspot.com/-3lkkkcDHHSQ/VWCKI_EOYMI/AAAAAAAAjeo/2c7IdbmJt-U/s1600/dsc08044.picasaweb.jpg" "The built-in video player." >}}
 
 It has full support for subtitles, both embedded and external (.srt, .sub, .psb etc.)
-![](img:1.bp.blogspot.com/-tcgNFfjVlsg/VQQrFyL_dOI/AAAAAAAAhPI/nX_ML9G_n-Q/s1600/dsc08045.picasaweb.jpg:a "Subtitle settings.")
+{{< imgfig "https://1.bp.blogspot.com/-tcgNFfjVlsg/VQQrFyL_dOI/AAAAAAAAhPI/nX_ML9G_n-Q/s1600/dsc08045.picasaweb.jpg" "Subtitle settings." >}}
 
 You can also navigate by title:
-![](img:4.bp.blogspot.com/-_fuI_O5QSF0/VQQrGQMdAUI/AAAAAAAAhPE/Npx-lTMuZlQ/s1600/dsc08047.picasaweb.jpg:a "Title list.")
+{{< imgfig "https://4.bp.blogspot.com/-_fuI_O5QSF0/VQQrGQMdAUI/AAAAAAAAhPE/Npx-lTMuZlQ/s1600/dsc08047.picasaweb.jpg" "Title list." >}}
 
 And, most often, seek to an arbitrary position:
-![](img:1.bp.blogspot.com/-1vBWIMQ6T2U/VQQrGpigPXI/AAAAAAAAhO4/UB3uYjKqIvg/s1600/dsc08048.picasaweb.jpg:a "Player controls.")
+{{< imgfig "https://1.bp.blogspot.com/-1vBWIMQ6T2U/VQQrGpigPXI/AAAAAAAAhO4/UB3uYjKqIvg/s1600/dsc08048.picasaweb.jpg" "Player controls." >}}
 
 ## Audio {#audio}
 
 The supported audio formats:
-![](img:2.bp.blogspot.com/-EfuWLsU5sPQ/VQR5iKklWaI/AAAAAAAAhRw/E1lJV_3YABo/s1600/Samsung_audio_formats.png)
+{{< imgfig "https://2.bp.blogspot.com/-EfuWLsU5sPQ/VQR5iKklWaI/AAAAAAAAhRw/E1lJV_3YABo/s1600/Samsung_audio_formats.png" >}}
 
 The audio player is also not very sophisticated. And it's a bit, erm… bulky for such a screen.
-![](img:1.bp.blogspot.com/-6Cf1Rr_D3UY/VWCKI45zEpI/AAAAAAAAjeg/xe4Nvpu8eoU/s1600/dsc08050.picasaweb.jpg:a "The built-in audio player.")
+{{< imgfig "https://1.bp.blogspot.com/-6Cf1Rr_D3UY/VWCKI45zEpI/AAAAAAAAjeg/xe4Nvpu8eoU/s1600/dsc08050.picasaweb.jpg" "The built-in audio player." >}}
 
 The sound is quite okay for the form factor of a chalkboard. But nothing too fancy, so I plan extending it with a soundbar and a subwoofer.
 

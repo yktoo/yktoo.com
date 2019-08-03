@@ -11,7 +11,7 @@ tags: ["iMac", "Linux", "Mac OS X", "Ubuntu"]
 Основной моей системой на этом компьютере [всегда была Ubuntu](http://habrahabr.ru/blogs/ubuntu/100514/).
 
 В теории установка не должна вызвать больших сложностей: всё, что нужно сделать, это купить Mac OS X Lion в магазине приложений Apple:
-![](img:4.bp.blogspot.com/-rWdtd4OcDSA/TpFwBuwLH9I/AAAAAAAAJ7U/gVWYFQ1qvEQ/s1600/MacOSX-AppStore.picasaweb.png:a)
+{{< imgfig "https://4.bp.blogspot.com/-rWdtd4OcDSA/TpFwBuwLH9I/AAAAAAAAJ7U/gVWYFQ1qvEQ/s1600/MacOSX-AppStore.picasaweb.png" >}}
 
 <!--more-->
 
@@ -22,28 +22,28 @@ tags: ["iMac", "Linux", "Mac OS X", "Ubuntu"]
 Покупка Lion при наличии аккаунта Apple ID с привязанной к нему кредиткой — это самый простой шаг, мало чем отличается от покупки приложения в мобильном AppStore.
 
 Загрузка трёх с половиной гигабайт на моём [не самом медленном][post:100] соединении затянулась: по прошествии нескольких часов индикатор прогресса загрузки так и стоял в районе одной трети. Видимо, сервера Эппла имеют какие-то проблемы с поддержкой соединения, в связи с чем могу дать практический совет: откройте Network Utility, и как только счётчик загруженных пакетов останавливается, кликайте правой кнопкой на значке скачиваемого, выбирайте *Приостановить загрузку* и потом сразу *Возобновить загрузку* — данные тут же вновь начинают бодро литься по проводам — до следующей остановки:
-![](img:1.bp.blogspot.com/--3Epw__Km7s/TpC_hgUYFII/AAAAAAAAJ6Q/YGEfVBaMcUs/s1600/MacOSX-NetworkUtility.png)
+{{< imgfig "https://1.bp.blogspot.com/--3Epw__Km7s/TpC_hgUYFII/AAAAAAAAJ6Q/YGEfVBaMcUs/s1600/MacOSX-NetworkUtility.png" >}}
 
 Умеючи оперируя паузой, можно скачать весь Lion минут за пятнадцать.
 
 Но основная проблема поджидала дальше. Программа установки запустилась, недоверчиво спросила, согласен ли я с условиями лицензии, а потом огорошила известием, что мой диск использует схему разбиения MBR Partition Table, а ей непременно требуется GUID, а так она продолжать не согласна ни под каким видом. Проверить, какая у вашего диска схема разбиения можно с помощью Disk Utility:
-![](img:4.bp.blogspot.com/-5tIVVT6VyqY/TpC_BaxuX9I/AAAAAAAAJ50/MoO9PjCnL_w/s1600/MacOSX-DiskUtility.png:a)
+{{< imgfig "https://4.bp.blogspot.com/-5tIVVT6VyqY/TpC_BaxuX9I/AAAAAAAAJ50/MoO9PjCnL_w/s1600/MacOSX-DiskUtility.png" >}}
 
 Если там написано **GUID Partition Table**, как на скриншоте, то всё у вас будет хорошо. В противном случае нет иного выхода, кроме как переустанавливать систему, потому что при изменении схемы разбиения всё содержимое диска ступает прямиком в Лету. Честно говоря, я не помню, почему у меня была MBR; скорее всего мой компьютер поставлялся уже с ней.
 
 Итак, глубоко вздохнув, я сделал резервные копии данных обеих систем, Mac OS и Ubuntu, откопал инсталляционный диск, шедший в комплекте с айМаком, загрузился с него. Самое забавное, что даже с него система наотрез отказывалась ставиться с имеющейся схемой разбиения. Запустив Disk Utility с этого же диска, я сменил её на GUID и установил размер основного раздела Mac OS в половину имеющегося места — на оставшемся пространстве будет впоследствии установлена Убунту.
 
 Далее всё просто: устанавливается Mac OS 10.6 Snow Leopard, стандартным способом устанавливается обновление системы (загружается около 1 ГБ), в результате чего появляется Магазин приложений, в магазине вновь запускается загрузка Mac OS 10.7 Lion (поскольку она уже куплена мной, второй раз платить не требуется), с помощью вышеописанных трюков загрузка быстро доводится до конца, программа установки более не имеет ко мне претензий и соглашается установить новую версию системы. После перезагрузки видим рабочий стол с новой космической темой:
-![](img:3.bp.blogspot.com/-8C_JqrPpAzU/TpFwFxX44QI/AAAAAAAAJ7g/t2sOw1pi6cA/s1600/MacOSX-Desktop.picasaweb.png:a)
+{{< imgfig "https://3.bp.blogspot.com/-8C_JqrPpAzU/TpFwFxX44QI/AAAAAAAAJ7g/t2sOw1pi6cA/s1600/MacOSX-Desktop.picasaweb.png" >}}
 
 О возможностях и особенностях новой системы уже неоднократно рассказывалось. Среди прочего, в доке появляются ярлыки Mission Control, предоставляющий обзор всех рабочих столов:
-![](img:4.bp.blogspot.com/-Xk0aGRU5sj8/TpFv9nBR4vI/AAAAAAAAJ7M/aGo6WqKPQus/s1600/MacOSX-MissionControl.picasaweb.png:a)
+{{< imgfig "https://4.bp.blogspot.com/-Xk0aGRU5sj8/TpFv9nBR4vI/AAAAAAAAJ7M/aGo6WqKPQus/s1600/MacOSX-MissionControl.picasaweb.png" >}}
 
 Панель запуска Launcher весьма напоминает iOS:
-![](img:3.bp.blogspot.com/-pvTNW6BQEiI/TpFwAK4zoyI/AAAAAAAAJ7Q/jiLL-v8J-fM/s1600/MacOSX-Launcher.picasaweb.png:a)
+{{< imgfig "https://3.bp.blogspot.com/-pvTNW6BQEiI/TpFwAK4zoyI/AAAAAAAAJ7Q/jiLL-v8J-fM/s1600/MacOSX-Launcher.picasaweb.png" >}}
 
 При завершении работы можно указать, что в следующий раз необходимо восстановить все открытые приложения. Удобно.
-![](img:2.bp.blogspot.com/-LyuXpZurNnI/TpC3TI6e4hI/AAAAAAAAJ5Y/Ixi8iTwULcA/s1600/MacOSX-RebootDialog.png)
+{{< imgfig "https://2.bp.blogspot.com/-LyuXpZurNnI/TpC3TI6e4hI/AAAAAAAAJ5Y/Ixi8iTwULcA/s1600/MacOSX-RebootDialog.png" >}}
 
 ## Установка Ubuntu на iMac {#installing-ubuntu-on-imac}
 
@@ -54,7 +54,7 @@ tags: ["iMac", "Linux", "Mac OS X", "Ubuntu"]
 Стандартный инструмент Mac OS X — BootCamp Assistant, к сожалению, предназначен лишь для совместной установки Mac OS и Windows, и он ничего не знает о Linux. Для загрузочного меню нужно установить старый добрый [rEFIt](http://refit.sourceforge.net/): установка его крайне проста, однако нужно иметь в виду, что для того, чтобы при старте системы появилось меню, нужно перезагрузиться дважды.
 
 После этого нужно вставить Ubuntu Live CD (я использовал Ubuntu 11.10 Oneiric Ocelot Beta 2), выбрать этот диск в меню rEFIt и установить Убунту на свободное место на HDD. Никаких проблем при этом не возникло, даже несмотря на то, что это бета-версия.
-![](img:2.bp.blogspot.com/-sRpujUuqDPU/TpFYMTs11EI/AAAAAAAAJ6k/Kj1VRTPJx2U/s1600/Ubuntu-Desktop.picasaweb.png:a)
+{{< imgfig "https://2.bp.blogspot.com/-sRpujUuqDPU/TpFYMTs11EI/AAAAAAAAJ6k/Kj1VRTPJx2U/s1600/Ubuntu-Desktop.picasaweb.png" >}}
 
 Единственная проблема состоит в том, что Убунту зависает при перезагрузке. Чтобы это исправить, нужно отредактировать файл `/etc/default/grub` (как `root`): строку
 
@@ -74,7 +74,7 @@ tags: ["iMac", "Linux", "Mac OS X", "Ubuntu"]
 
     sudo apt-get install fglrx-updates
 
-![](img:2.bp.blogspot.com/-SDtFVod17yQ/TpFcq7bfNZI/AAAAAAAAJ7E/yaOacF3qvb4/s1600/Ubuntu-ATI-CCC.picasaweb.png:a)
+{{< imgfig "https://2.bp.blogspot.com/-SDtFVod17yQ/TpFcq7bfNZI/AAAAAAAAJ7E/yaOacF3qvb4/s1600/Ubuntu-ATI-CCC.picasaweb.png" >}}
 
 В бета-версии, конечно, уйма всяких кочек, ухабов и шероховатостей. Наиболее неустойчив Compiz, будем надеяться, к релизу основная функциональность будет отлажена.
 

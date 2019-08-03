@@ -11,7 +11,7 @@ tags: ["Apple", "iMac", "Samsung", "Samsung 840 EVO", "SSD", "Trusty Tahr", "Ubu
 <!--more-->
 
 Объёма хотелось не меньше, чем было, а именно одного терабайта. Поэтому выбор оказался невелик — **Samsung SSD 840 EVO 1TB**:
-![](img:3.bp.blogspot.com/-xltYgdRdnE8/VHtgOV2coLI/AAAAAAAAgP8/ZtsO1--34Jk/s1600/Samsung-840-EVO-SSD-1TB.picasaweb.jpg:a)
+{{< imgfig "https://3.bp.blogspot.com/-xltYgdRdnE8/VHtgOV2coLI/AAAAAAAAgP8/ZtsO1--34Jk/s1600/Samsung-840-EVO-SSD-1TB.picasaweb.jpg" >}}
 
 Благо, цены на такие SSD уже упали до разумных величин.
 
@@ -29,7 +29,7 @@ tags: ["Apple", "iMac", "Samsung", "Samsung 840 EVO", "SSD", "Trusty Tahr", "Ubu
 4. Снятое стекло лучше убрать куда-нибудь в сторону, подальше от людей и животных. Также неплохо накрыть его тканью от пыли.
 
 И вот корпус без защитного стекла:
-![](img:3.bp.blogspot.com/-OXsMRwMtzAs/VGENsu3yi-I/AAAAAAAAgDw/dhfFbYziOj4/s1600/dsc06333.picasaweb.jpg:a)
+{{< imgfig "https://3.bp.blogspot.com/-OXsMRwMtzAs/VGENsu3yi-I/AAAAAAAAgDw/dhfFbYziOj4/s1600/dsc06333.picasaweb.jpg" >}}
 
 ## 2. Снятие дисплейной матрицы
 
@@ -38,25 +38,25 @@ tags: ["Apple", "iMac", "Samsung", "Samsung 840 EVO", "SSD", "Trusty Tahr", "Ubu
 Ещё раз советую внимательно изучить вышеупомянутое [видео](http://www.youtube.com/watch?v=F8Li_bPDAow), где демонстрируется какие шлейфы и коннекторы нужно отключать, и как именно. Сняв матрицу, уберите её тоже подальше от торговых путей, шаловливых пальцев и пыли.
 
 iMac без дисплея:
-![](img:1.bp.blogspot.com/-HnSY5yBTljw/VGENll70rPI/AAAAAAAAgC4/QNtQTfil0s0/s1600/dsc06326.picasaweb.jpg:a)
+{{< imgfig "https://1.bp.blogspot.com/-HnSY5yBTljw/VGENll70rPI/AAAAAAAAgC4/QNtQTfil0s0/s1600/dsc06326.picasaweb.jpg" >}}
 
 В самом центре мы видим виновника торжества — безвременно почивший **Seagate Barracuda 7200.12**:
-![](img:1.bp.blogspot.com/-3qXCAtH3Cao/VGENmpCF4QI/AAAAAAAAgDA/ZygBkpAZgeg/s1600/dsc06327.picasaweb.jpg:a)
+{{< imgfig "https://1.bp.blogspot.com/-3qXCAtH3Cao/VGENmpCF4QI/AAAAAAAAgDA/ZygBkpAZgeg/s1600/dsc06327.picasaweb.jpg" >}}
 
 ## 3. Извлечение жёсткого диска
 
 Смахнув скупую слезу и прочитав короткую отходную молитву, вывинчиваем два верхних винта и вынимаем покойника. Cнизу он вставлен в направляющие, поэтому из них его просто нужно вынуть. Не забудьте отключить шлейфы данных и питания, а также ещё один — термоинтерфейс, о котором ниже.
-![](img:1.bp.blogspot.com/-SH9ikeve6JU/VGENnslmtPI/AAAAAAAAgDI/WnspvdcJHV0/s1600/dsc06328.picasaweb.jpg:a)
+{{< imgfig "https://1.bp.blogspot.com/-SH9ikeve6JU/VGENnslmtPI/AAAAAAAAgDI/WnspvdcJHV0/s1600/dsc06328.picasaweb.jpg" >}}
 
 ## 4. Подготовка кронштейна для крепления SSD
 
 Самсунговский SSD намного меньше стоявшего там прежде монстра. Но нам не потребуются никакие переходники или дополнительные детали, чтобы закрепить его — достаточно просверлить два отверстия ⌀ 3 мм на оригинальной верхней скобе:
-![](img:1.bp.blogspot.com/-YvAdYG32X1M/VGENoXEO7AI/AAAAAAAAgDQ/H9EmliWL9v4/s1600/dsc06329.picasaweb.jpg:a)
+{{< imgfig "https://1.bp.blogspot.com/-YvAdYG32X1M/VGENoXEO7AI/AAAAAAAAgDQ/H9EmliWL9v4/s1600/dsc06329.picasaweb.jpg" >}}
 
 ## 5. Закрепление SSD в корпусе
 
 Поскольку в SSD нет никаких движущихся частей, а сам он почти ничего не весит, двух винтов более чем достаточно для надёжного крепления:
-![](img:4.bp.blogspot.com/-J7YOrWyXYjg/VGENpVxqqII/AAAAAAAAgDY/FQyqFzloYUk/s1600/dsc06330.picasaweb.jpg:a)
+{{< imgfig "https://4.bp.blogspot.com/-J7YOrWyXYjg/VGENpVxqqII/AAAAAAAAgDY/FQyqFzloYUk/s1600/dsc06330.picasaweb.jpg" >}}
 
 После этого скоба привинчивается оригинальными винтами на исходное место, и к SSD подключаются шлейфы данных и питания.
 
@@ -69,14 +69,14 @@ iMac без дисплея:
 Если его оставить неподключенным, система начинает думать, что диск раскалился до невероятных температур, так что встроенный в корпус вентилятор постоянно работает на максимальных оборотах. Народ предлагает множество решений, например, существуют успокаивающие кулер утилиты (только под Mac OS), некоторые также пытаются воспроизвести схему термодатчика.
 
 Я же последовал другому, тоже попавшемуся где-то, совету — просто закоротил соответствующие контакты:
-![](img:1.bp.blogspot.com/-Aw8QhsE8c1A/VGENqq0ykpI/AAAAAAAAgDg/Vo26DGmSpn4/s1600/dsc06331.picasaweb.jpg:a)
+{{< imgfig "https://1.bp.blogspot.com/-Aw8QhsE8c1A/VGENqq0ykpI/AAAAAAAAgDg/Vo26DGmSpn4/s1600/dsc06331.picasaweb.jpg" >}}
 
 По результатам нескольких месяцев эксплуатации никаких негативных последствий этого варварского решения мной не замечено. Кулер ведёт себя смирно, система вроде тоже не жалуется.
 
 ## 7. Ставим дисплей на место
 
 Воспроизводим шаг №2 в обратном порядке, подключив обратно все коннекторы и закрепив дисплейную матрицу восемью винтами. Если всё сделано правильно, компьютер включится и спросит, как ему теперь жить дальше.
-![](img:1.bp.blogspot.com/-L20OSRj1vrc/VGENrsYfMsI/AAAAAAAAgDo/v8s9gu63rTg/s1600/dsc06332.picasaweb.jpg:a)
+{{< imgfig "https://1.bp.blogspot.com/-L20OSRj1vrc/VGENrsYfMsI/AAAAAAAAgDo/v8s9gu63rTg/s1600/dsc06332.picasaweb.jpg" >}}
 
 ## Вместо эпилога
 

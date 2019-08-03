@@ -21,4 +21,4 @@ tags: ["Запрещённая акустика", "музыка", "Радиол�
 
 Будет больше, стэй тьюнд.
 
-![](img:3.bp.blogspot.com/-PicmdePdRdM/WFcAND_odPI/AAAAAAAAots/92lu4FQLXx8BF2HXPG5LMgss7SnpN4WqgCPcB/s1600/dsc03863.picasaweb.jpg:a "Небо в огне.")
+{{< imgfig "https://3.bp.blogspot.com/-PicmdePdRdM/WFcAND_odPI/AAAAAAAAots/92lu4FQLXx8BF2HXPG5LMgss7SnpN4WqgCPcB/s1600/dsc03863.picasaweb.jpg" "Небо в огне." >}}

@@ -5,7 +5,7 @@ tags: ["День Королевы", "Нидерланды", "праздники"
 ---
 
 Google поражает осведомлённостью — уже поздравляет с Днём Королевы:
-![](img:3.bp.blogspot.com/-PhlZnQq-VwA/Tbs8QyR4TgI/AAAAAAAAIgw/qEis4bQu7eM/s1600/Koninginnedag.png)
+{{< imgfig "https://3.bp.blogspot.com/-PhlZnQq-VwA/Tbs8QyR4TgI/AAAAAAAAIgw/qEis4bQu7eM/s1600/Koninginnedag.png" >}}
 
 <!--more-->
 

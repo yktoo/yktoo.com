@@ -14,12 +14,12 @@ When leaving my house I usually check the weather forecast for today and if ther
 
 **InfoPi** is essentially a display connected to a minuscule single-board computer [Raspberry Pi](https://www.raspberrypi.org/). The computer runs a tiny web server and the Chrome browser in the kiosk mode. The display is mounted behind a mirror (which hangs next to the front door), and here's how it all looks like:
 
-![](img:4.bp.blogspot.com/-D5G4Pn43nqk/VydB2HHGbEI/AAAAAAAAl9Q/eky3gNdNU0wAGHjFxbnwGcreYlwuMP41wCKgB/s1600/dsc02157.picasaweb.jpg:a "InfoPi hiding in a mirror.")
+{{< imgfig "https://4.bp.blogspot.com/-D5G4Pn43nqk/VydB2HHGbEI/AAAAAAAAl9Q/eky3gNdNU0wAGHjFxbnwGcreYlwuMP41wCKgB/s1600/dsc02157.picasaweb.jpg" "InfoPi hiding in a mirror." >}}
 
 On the photo above you can also spot a motion sensor (tucked behind the mirror). It allows for the screen to only turn on once someone gets interested in it, thus avoiding wasting the energy.
 
 This is the display in close-up:
-![](img:1.bp.blogspot.com/-VLEMekxonLc/VyzCp2yC21I/AAAAAAAAl-Q/xXBi09FB4qotl1YDAVLuU7fdPV6hxldVQCKgB/s1600/info-pi-screenshot.picasaweb.png:a "The InfoPi display.")
+{{< imgfig "https://1.bp.blogspot.com/-VLEMekxonLc/VyzCp2yC21I/AAAAAAAAl-Q/xXBi09FB4qotl1YDAVLuU7fdPV6hxldVQCKgB/s1600/info-pi-screenshot.picasaweb.png" "The InfoPi display." >}}
 
 The current implementation displays the following pieces of information (left to right, top to bottom):
 
@@ -40,32 +40,32 @@ Below are the nitty-gritty details.
 A while ago I bought a thin 24 inch LED display **LG 24MP47** (IPS panel with 1920×1080 resolution). Without the control unit and its cover the panel itself is only a centimetre thick. Apart from being thin, it also had to have an HDMI input, because it would be plugged into a Raspberry Pi.
 
 Here's the display with the cover and the control unit taken off:
-![](img:3.bp.blogspot.com/-L49yaaKpEYE/Vyc8sZT3UOI/AAAAAAAAl7Y/lr8BMUSqo7wyPMtMn0enXi2j1yzEi7f3ACKgB/s1600/dsc02103.picasaweb.jpg:a "LG 24MP47 monitor without the control board.")
+{{< imgfig "https://3.bp.blogspot.com/-L49yaaKpEYE/Vyc8sZT3UOI/AAAAAAAAl7Y/lr8BMUSqo7wyPMtMn0enXi2j1yzEi7f3ACKgB/s1600/dsc02103.picasaweb.jpg" "LG 24MP47 monitor without the control board." >}}
 
 And this is the cover:
-![](img:2.bp.blogspot.com/-tyEOiXBZx9w/Vyc8sfdJ24I/AAAAAAAAl7Y/i1MSxyOF0SU_3FkfEyEkX64mOWRJXC48gCKgB/s1600/dsc02104.picasaweb.jpg:a "Control unit cover.")
+{{< imgfig "https://2.bp.blogspot.com/-tyEOiXBZx9w/Vyc8sfdJ24I/AAAAAAAAl7Y/i1MSxyOF0SU_3FkfEyEkX64mOWRJXC48gCKgB/s1600/dsc02104.picasaweb.jpg" "Control unit cover." >}}
 
 The control board, which carries the DC socket, an HDMI input etc., is connected to the panel controller via a flat cable of about four centimetres width.
 
 The mirror (dimensions 50×140 cm) is hanging on the meter cupboard's ({{< fl "meterkast" >}}) door made of wafer-board. My intention was to mount the LED panel *on the front side* of the door (behind the mirror) and the control unit on the inner side, and lead the flat connection cable through an appropriately sized slit in the door.
 
 So let's start off with a pristine {{< fl "meterkast" >}} door:
-![](img:3.bp.blogspot.com/-rPQJ9VY4DB0/Vyc8sa-LvOI/AAAAAAAAl7Y/v_2l81CE7_MOHjWKo3fn4UuL-XUO83HvgCKgB/s1600/dsc02102.picasaweb.jpg:a "Meter cupboard a.k.a. meterkast.")
+{{< imgfig "https://3.bp.blogspot.com/-rPQJ9VY4DB0/Vyc8sa-LvOI/AAAAAAAAl7Y/v_2l81CE7_MOHjWKo3fn4UuL-XUO83HvgCKgB/s1600/dsc02102.picasaweb.jpg" "Meter cupboard a.k.a. meterkast." >}}
 
 Drill a few holes for panel mount screws and cut a cable slit:
-![](img:3.bp.blogspot.com/-Y2cNQ4d-7zg/Vyc8sbX3eXI/AAAAAAAAl7Y/j_hhs0cAEEgwdiumDtOn0BL1SWVkpju1wCKgB/s1600/dsc02106.picasaweb.jpg:a "Slit for the controller cable.")
+{{< imgfig "https://3.bp.blogspot.com/-Y2cNQ4d-7zg/Vyc8sbX3eXI/AAAAAAAAl7Y/j_hhs0cAEEgwdiumDtOn0BL1SWVkpju1wCKgB/s1600/dsc02106.picasaweb.jpg" "Slit for the controller cable." >}}
 
 Then, armed with patience, fix the panel on the door and connect it to the cable, while trying really hard to not accidentally ruin the whole thing:
-![](img:1.bp.blogspot.com/-RxlszMu85zU/Vyc8sXxxUrI/AAAAAAAAl7Y/jHOafxbug6M36Vcpbu2G3yt_gnevcWMFACKgB/s1600/dsc02107.picasaweb.jpg:a "The LED panel is successfully mounted.")
+{{< imgfig "https://1.bp.blogspot.com/-RxlszMu85zU/Vyc8sXxxUrI/AAAAAAAAl7Y/jHOafxbug6M36Vcpbu2G3yt_gnevcWMFACKgB/s1600/dsc02107.picasaweb.jpg" "The LED panel is successfully mounted." >}}
 
 The original mount brace is to be fixed on the inner side of the door, after which the control unit can be also put in place:
-![](img:2.bp.blogspot.com/-MOKpCaz-OOw/Vyc8sWMbSEI/AAAAAAAAl7Y/VoXdmSnDMK85HicA2Nwudoh_kyOFjXbrACKgB/s1600/dsc02108.picasaweb.jpg:a "Control unit on the inner side.")
+{{< imgfig "https://2.bp.blogspot.com/-MOKpCaz-OOw/Vyc8sWMbSEI/AAAAAAAAl7Y/VoXdmSnDMK85HicA2Nwudoh_kyOFjXbrACKgB/s1600/dsc02108.picasaweb.jpg" "Control unit on the inner side." >}}
 
 Finally the original cover is replaced and the cables are arranged nicely, making it all look almost professional:
-![](img:1.bp.blogspot.com/-Qq2xP9AgWRI/Vyc8sYEc0DI/AAAAAAAAl7Y/FlVzmsN4HpM9XD8KQcEfII6GHkOyJM-egCKgB/s1600/dsc02161.picasaweb.jpg:a "The back cover is replaced.")
+{{< imgfig "https://1.bp.blogspot.com/-Qq2xP9AgWRI/Vyc8sYEc0DI/AAAAAAAAl7Y/FlVzmsN4HpM9XD8KQcEfII6GHkOyJM-egCKgB/s1600/dsc02161.picasaweb.jpg" "The back cover is replaced." >}}
 
 The Raspberry Pi is mounted inside the cupboard and connected to DC power (Micro USB), display (HDMI) and network (Ethernet). The monitor's DC adapter is plugged via a wireless receiver controlled by the motion sensor mentioned above:
-![](img:4.bp.blogspot.com/-yluFYfqf8lg/Vyc8sVJbjGI/AAAAAAAAl7Y/IEaEbYQPtZYW39_FGHv6FADr47P6v_c_gCKgB/s1600/dsc02162.picasaweb.jpg:a "The brain, the heart and the lungs of InfoPi.")
+{{< imgfig "https://4.bp.blogspot.com/-yluFYfqf8lg/Vyc8sVJbjGI/AAAAAAAAl7Y/IEaEbYQPtZYW39_FGHv6FADr47P6v_c_gCKgB/s1600/dsc02162.picasaweb.jpg" "The brain, the heart and the lungs of InfoPi." >}}
 
 ## Mirrorware {#mirror}
 
@@ -80,34 +80,34 @@ Any mirror has at least two protective layers, one of regular paint and one of c
 **Step no. 1:** draw a rectangle with the same dimensions as the display's screen.
 
 **Step no. 2:** put a layer of regular sticky tape along the inside of the rectangle to make peeling off of the silicone somewhat easier.
-![](img:1.bp.blogspot.com/-4euAR1CDE0Y/Vyc8scsZqpI/AAAAAAAAl7Y/xqesIdIRsu8_hVyaWdB3T6F47VqhFeztQCKgB/s1600/20160410_164439.picasaweb.jpg:a "Sticky tape along the inside of the rectangle.")
+{{< imgfig "https://1.bp.blogspot.com/-4euAR1CDE0Y/Vyc8scsZqpI/AAAAAAAAl7Y/xqesIdIRsu8_hVyaWdB3T6F47VqhFeztQCKgB/s1600/20160410_164439.picasaweb.jpg" "Sticky tape along the inside of the rectangle." >}}
 
 **Step no. 3:** carefully put the silicone exactly over the rectangle borders, trying to keep the same thickness.
-![](img:3.bp.blogspot.com/-SvBG778w7GQ/Vyc8sQHMzII/AAAAAAAAl7Y/h4wfyASYfV4tiUCl9R-2-g4q4AyBC-MXACKgB/s1600/20160410_165829.picasaweb.jpg:a "Silicone curb.")
-![](img:3.bp.blogspot.com/-Rumjtc5OmQ4/Vyc8sSvK_YI/AAAAAAAAl7Y/RhLm4wDOCjcCRmBjGbgxnLvLF4buCOWwwCKgB/s1600/20160412_200524.picasaweb.jpg:a)
+{{< imgfig "https://3.bp.blogspot.com/-SvBG778w7GQ/Vyc8sQHMzII/AAAAAAAAl7Y/h4wfyASYfV4tiUCl9R-2-g4q4AyBC-MXACKgB/s1600/20160410_165829.picasaweb.jpg" "Silicone curb." >}}
+{{< imgfig "https://3.bp.blogspot.com/-Rumjtc5OmQ4/Vyc8sSvK_YI/AAAAAAAAl7Y/RhLm4wDOCjcCRmBjGbgxnLvLF4buCOWwwCKgB/s1600/20160412_200524.picasaweb.jpg" >}}
 
 **Step no. 4:** let the silicone cure a few hours, carefully cut it along the rectangle border and remove the inner side together with the sticky tape:
-![](img:2.bp.blogspot.com/-Wkpja2qmnEU/Vyc8sYXkrkI/AAAAAAAAl7Y/zF0G34Siwz0-pP5ewpdnogxcAP3eutORQCKgB/s1600/20160412_201054.picasaweb.jpg:a "Silicone is removed.")
-![](img:1.bp.blogspot.com/-gFrYqhiH9SQ/Vyc8sXZV2LI/AAAAAAAAl7Y/A7GfNQNcweUfjPwULH5C_IUGiOnLpsFAwCKgB/s1600/20160412_201105.picasaweb.jpg:a)
+{{< imgfig "https://2.bp.blogspot.com/-Wkpja2qmnEU/Vyc8sYXkrkI/AAAAAAAAl7Y/zF0G34Siwz0-pP5ewpdnogxcAP3eutORQCKgB/s1600/20160412_201054.picasaweb.jpg" "Silicone is removed." >}}
+{{< imgfig "https://1.bp.blogspot.com/-gFrYqhiH9SQ/Vyc8sXZV2LI/AAAAAAAAl7Y/A7GfNQNcweUfjPwULH5C_IUGiOnLpsFAwCKgB/s1600/20160412_201105.picasaweb.jpg" >}}
 
 **Step no. 5:** very carefully pour acetone into the tray we've made:
-![](img:2.bp.blogspot.com/-v085c0z_Nrc/Vyc8saYCY_I/AAAAAAAAl7Y/Vvza11Ieu7Ep1F58GhHHkhFHJmihkkVNgCKgB/s1600/20160412_201218.picasaweb.jpg:a "Pour acetone.")
-![](img:4.bp.blogspot.com/-TZTMognboKI/Vyc8sUSZQgI/AAAAAAAAl7Y/5HLgeCz1JJ4dq4ZIJYjD7ijCw0QZH9NCwCKgB/s1600/20160412_201531.picasaweb.jpg:a)
+{{< imgfig "https://2.bp.blogspot.com/-v085c0z_Nrc/Vyc8saYCY_I/AAAAAAAAl7Y/Vvza11Ieu7Ep1F58GhHHkhFHJmihkkVNgCKgB/s1600/20160412_201218.picasaweb.jpg" "Pour acetone." >}}
+{{< imgfig "https://4.bp.blogspot.com/-TZTMognboKI/Vyc8sUSZQgI/AAAAAAAAl7Y/5HLgeCz1JJ4dq4ZIJYjD7ijCw0QZH9NCwCKgB/s1600/20160412_201531.picasaweb.jpg" >}}
 
 Blimey, it's leaking! But it's okay.
-![](img:3.bp.blogspot.com/-oVkyhgdegoQ/Vyc8sUqr4NI/AAAAAAAAl7Y/Sda78tW8lT0iHN2LCthtG-u4NLahe4WtgCKgB/s1600/20160412_201540.picasaweb.jpg:a "Leakage.")
+{{< imgfig "https://3.bp.blogspot.com/-oVkyhgdegoQ/Vyc8sUqr4NI/AAAAAAAAl7Y/Sda78tW8lT0iHN2LCthtG-u4NLahe4WtgCKgB/s1600/20160412_201540.picasaweb.jpg" "Leakage." >}}
 
 **Step no. 6:** be patient for the next few days, periodically stirring and refilling the acetone. It's also be a good idea to cover the tray to prevent vapourising. After about a week the paint loosens and can be carefully scraped off with a PVC scraped. Which reveals the copper paint, as expected:
-![](img:1.bp.blogspot.com/-EHXtIH6tE14/Vyc8sewLd3I/AAAAAAAAl7Y/IDiHf6-B-8ACG6AlI57AQZxDJUUdKKFLgCKgB/s1600/20160414_204457.picasaweb.jpg:a "The first scratches!")
+{{< imgfig "https://1.bp.blogspot.com/-EHXtIH6tE14/Vyc8sewLd3I/AAAAAAAAl7Y/IDiHf6-B-8ACG6AlI57AQZxDJUUdKKFLgCKgB/s1600/20160414_204457.picasaweb.jpg" "The first scratches!" >}}
 
 **Step no. 7:** scrape all what can be scraped, removing paint flakes from time to time and pour more acetone. At this stage I found out there's yet another, dark protective layer:
-![](img:1.bp.blogspot.com/-QIyaNJCx0bY/Vyc8sV4P9CI/AAAAAAAAl7Y/c7oMPQpMRgIecsaCnmX8uCh6u9a1alJowCKgB/s1600/20160414_215426.picasaweb.jpg:a "Second and third protective layers.")
+{{< imgfig "https://1.bp.blogspot.com/-QIyaNJCx0bY/Vyc8sV4P9CI/AAAAAAAAl7Y/c7oMPQpMRgIecsaCnmX8uCh6u9a1alJowCKgB/s1600/20160414_215426.picasaweb.jpg" "Second and third protective layers." >}}
 
 **Step no. 8:** the last layer is to be washed with acetone for another few days:
-![](img:2.bp.blogspot.com/-5P0e-sesL5s/Vyc8scs5CuI/AAAAAAAAl7Y/TrUwirSPduk-3baZYXLX5ryYLUfsUeprwCKgB/s1600/20160416_222005.picasaweb.jpg:a "Last protective layer.")
+{{< imgfig "https://2.bp.blogspot.com/-5P0e-sesL5s/Vyc8scs5CuI/AAAAAAAAl7Y/TrUwirSPduk-3baZYXLX5ryYLUfsUeprwCKgB/s1600/20160416_222005.picasaweb.jpg" "Last protective layer." >}}
 
 **Step no. 9:** remove that last protective layer as soon as it's submissive enough. This can be better done using paper of cloth wipes to minimise the risk of damaging the reflective layer:
-![](img:4.bp.blogspot.com/-aTkMFYO1lW8/Vyc8scVBnSI/AAAAAAAAl7Y/QwnadZjt4oEB6m4Wmg8TJCxpjPrgrUk8gCKgB/s1600/20160418_205105.picasaweb.jpg:a "Only the reflective layer is left.")
+{{< imgfig "https://4.bp.blogspot.com/-aTkMFYO1lW8/Vyc8scVBnSI/AAAAAAAAl7Y/QwnadZjt4oEB6m4Wmg8TJCxpjPrgrUk8gCKgB/s1600/20160418_205105.picasaweb.jpg" "Only the reflective layer is left." >}}
 
 **Step no. 10:** remove the remaining silicone, trying not to damage the surface it's stuck to.
 

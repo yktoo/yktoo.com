@@ -8,7 +8,7 @@ It's been a while since I [posted][post:231] about replacing an iMac's HDD with 
 
 <!--more-->
 
-![](img:4.bp.blogspot.com/-Gis6J9NzD7c/WK3HNt5lxwI/AAAAAAAApUA/jkJuEgZRkKUEy8PJhDRfC58UA-xBrOw-ACPcB/s1600/samsung-840-evo-ssd.jpg:a "Samsung 840 EVO.")
+{{< imgfig "https://4.bp.blogspot.com/-Gis6J9NzD7c/WK3HNt5lxwI/AAAAAAAApUA/jkJuEgZRkKUEy8PJhDRfC58UA-xBrOw-ACPcB/s1600/samsung-840-evo-ssd.jpg" "Samsung 840 EVO." >}}
 
 You might expect years of care-free enjoyment, but, like always, good things tend to come to an end. There have been quite a few articles about [read speed deterioration](http://www.extremetech.com/computing/190746-samsung-840-evo-has-serious-performance-bug-fix-on-the-way) in Samsung's 840 EVO series since the fall 2014. The adverse effect is caused by a technological flaw in TLC NAND memory cells, which makes their voltage levels drift over time. This, in turn, requires the controller to make numerous passes in order to read the data, hence the performance degradation. The pattern was quite clear: the older the file, the bigger the voltage drift and the slower the reading.
 

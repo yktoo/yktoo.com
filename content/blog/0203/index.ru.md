@@ -7,7 +7,7 @@ tags: ["Баарн", "грибы", "лес", "Нидерланды", "осень
 Не знаю, как у вас, а у нас опять осень. Злые языки понаехавших утверждают, что в Голландии вообще существует только этот один сезон, но это неправда.
 
 Нам повезло жить в живописной местности, забитой лесами под самую завязку. В один из них, расположенный около в равной степени живописной деревни Баарна (см. мой [пост][post:6] пятилетней давности), и оттого прозванный Баарнским лесом ([Baarnse Bos][wiki:nl:Baarnse_Bos]), мы нанесли стремительный визит.
-![](img:3.bp.blogspot.com/-P2PcmAsfPmY/Uphfmo2jE8I/AAAAAAAAauM/IaBuuCISyS8/s1600/dsc01507.picasaweb.jpg:a)
+{{< imgfig "https://3.bp.blogspot.com/-P2PcmAsfPmY/Uphfmo2jE8I/AAAAAAAAauM/IaBuuCISyS8/s1600/dsc01507.picasaweb.jpg" >}}
 
 <!--more-->
 
@@ -18,13 +18,13 @@ tags: ["Баарн", "грибы", "лес", "Нидерланды", "осень
 Наш визит был настолько стремительным, что мы как-то позабыли, что сезон-то — грибной. Да и погода стояла очень для грибов благоприятная. Но поскольку у нас из специнвентаря была только камера, пришлось ограничиться их фотографиями.
 
 Из съедобных грибов преобладали опята — они росли буквально на каждом пне.
-![](img:4.bp.blogspot.com/-Arbq3spabck/UphfxcuNfKI/AAAAAAAAavc/KaWbu_nmGS8/s1600/dsc01519.picasaweb.jpg:a)
+{{< imgfig "https://4.bp.blogspot.com/-Arbq3spabck/UphfxcuNfKI/AAAAAAAAavc/KaWbu_nmGS8/s1600/dsc01519.picasaweb.jpg" >}}
 
 Мы десять, двадцать, сто раз уже пожалели, что не взяли ни тары, ни ножей.
-![](img:2.bp.blogspot.com/-v5UGQCAqRqw/UphfuNC5INI/AAAAAAAAavE/BRYSQR1Dejc/s1600/dsc01515.picasaweb.jpg:a)
+{{< imgfig "https://2.bp.blogspot.com/-v5UGQCAqRqw/UphfuNC5INI/AAAAAAAAavE/BRYSQR1Dejc/s1600/dsc01515.picasaweb.jpg" >}}
 
 Я думаю, за час, не особо напрягаясь, можно было накосить их ведра так с три.
-![](img:3.bp.blogspot.com/-splXjuhBLOM/UphftG3rp0I/AAAAAAAAau8/vQHkM76aG6Q/s1600/dsc01514.picasaweb.jpg:a)
+{{< imgfig "https://3.bp.blogspot.com/-splXjuhBLOM/UphftG3rp0I/AAAAAAAAau8/vQHkM76aG6Q/s1600/dsc01514.picasaweb.jpg" >}}
 
 А сейчас у вас наступит небольшое лирическое отупление. А у нас — отступление.
 
@@ -35,12 +35,12 @@ tags: ["Баарн", "грибы", "лес", "Нидерланды", "осень
 Сами голландцы в подавляющем большинстве вообще не имеют ни малейшего понятия о сортах и съедобности грибов, за исключением тех, что продаются в магазинах (а там, например, сушёные белые грибы стоят, ни много ни мало, € 100 за кило), и сильно удивляются, когда им рассказываешь о том, как ты их собирал: «А вы что, умеете отличать съедобные от ядовитых?!». У других грибы ассоциируются только с галлюциногенными препаратами, продающимися в амстердамских смарт-шопах. Дикари, одним словом.
 
 Для полноты картины добавлю, что «гриб» по-голландски звучит как «стул для жабы» ({{< fl "paddestoel" >}} или {{< fl "paddenstoel" >}}: {{< fl "pad" >}} — жаба, {{< fl "stoel" >}} — стул).
-![](img:3.bp.blogspot.com/-3jePy2rq5aA/Uphf5W9peyI/AAAAAAAAawc/XCfdVwauj-Y/s1600/dsc01535.picasaweb.jpg:a)
+{{< imgfig "https://3.bp.blogspot.com/-3jePy2rq5aA/Uphf5W9peyI/AAAAAAAAawc/XCfdVwauj-Y/s1600/dsc01535.picasaweb.jpg" >}}
 
 Так что смотреть на них, безусловно, безопаснее. Но мучительно.
 
 А в остальном — в лесу очень хорошо. Тихо. А в выходные, в хорошую погоду, многолюдно — голландцы просто обожают прогулки на природе.
-![](img:3.bp.blogspot.com/-_g-BEw3tObQ/Uphf2Ghig3I/AAAAAAAAawE/EKTkm6Qbqtg/s1600/dsc01529.picasaweb.jpg:a)
+{{< imgfig "https://3.bp.blogspot.com/-_g-BEw3tObQ/Uphf2Ghig3I/AAAAAAAAawE/EKTkm6Qbqtg/s1600/dsc01529.picasaweb.jpg" >}}
 
 И, напоследок, панорама культурного, воспитанного голландского леса. Перекрёсток трёх дорог:
-![](img:3.bp.blogspot.com/-vJPyOouie7w/Uphf4XowHnI/AAAAAAAAawU/x1Se6e8jQnQ/s1600/dsc01534.picasaweb.jpg:a)
+{{< imgfig "https://3.bp.blogspot.com/-vJPyOouie7w/Uphf4XowHnI/AAAAAAAAawU/x1Se6e8jQnQ/s1600/dsc01534.picasaweb.jpg" >}}

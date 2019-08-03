@@ -11,16 +11,16 @@ Ik zou willen beginnen met de omstandigheden die me tot mijn besluit hebben aang
 
 <!--more-->
 
-<!-- ![](img:1.bp.blogspot.com/-XCYqqwYaPbs/WCo7vX_qTiI/AAAAAAAAoPA/hDBojNJO1Pk9pRHGq7L6hQCzTBd_bIaCACPcB/s1600/20161105_211814.picasaweb.jpg) -->
+<!-- {{< imgfig "https://1.bp.blogspot.com/-XCYqqwYaPbs/WCo7vX_qTiI/AAAAAAAAoPA/hDBojNJO1Pk9pRHGq7L6hQCzTBd_bIaCACPcB/s1600/20161105_211814.picasaweb.jpg" >}} -->
 
 Ik ben van mening dat je beter spijt kunt hebben van wat je wel hebt gedaan, dan van wat je niet hebt gedaan, en na alle [voor- en nadelen][post:309] te hebben afgewogen ben ik ermee begonnen. Op 1 oktober 2016 is mijn *eenmanszaak* geboren bij de [Kamer van Koophandel](https://www.kvk.nl/). De bevalling is prettig en makkelijk verlopen en het pasgeboren bedrijf kreeg de naam **Yktoo Solutions**.
-![](img:1.bp.blogspot.com/-iaEVkAOTeVs/WKlzptmLZ-I/AAAAAAAApQ0/W-rdGWrQhbI0mT6IfVvmr2qhM5F7-YTewCPcB/s1600/Yktoo-Solutions-logo.png)
+{{< imgfig "https://1.bp.blogspot.com/-iaEVkAOTeVs/WKlzptmLZ-I/AAAAAAAApQ0/W-rdGWrQhbI0mT6IfVvmr2qhM5F7-YTewCPcB/s1600/Yktoo-Solutions-logo.png" >}}
 
 In principe kan je voor elke handelsnaam kiezen die geen verwarring oplevert, niet op een andere handelsnaam lijkt en geen onjuiste indruk wekt over de eigenaar of de omvang van het bedrijf. Je mag je bedrijf bijvoorbeeld niet "Janssen en Zoon" noemen als je geen Janssen heet, of "Paradise Cleaning Industries" als je privé schoonmaker bent.
 
 Mijn bedrijfsnaam was prima in orde. Het woord *solutions* komt vaak voor bij ICT-consulting. Ik heb ook de domeinnaam `yktoo.solutions` geregistreerd (veel mensen reageren verbaasd dat zo'n [TLD][wiki:nl:Topleveldomein] bestaat) en er een eenvoudige [website](https://www.yktoo.solutions/) voor ontwikkeld. Het is uiteraard zo prettig om je pasgeboren zaak te koesteren en te verzorgen.
 
-![](img:1.bp.blogspot.com/-XCYqqwYaPbs/WCo7vX_qTiI/AAAAAAAAoPA/hDBojNJO1Pk9pRHGq7L6hQCzTBd_bIaCACPcB/s1600/20161105_211814.picasaweb.jpg:a "Visitekaartjes Yktoo Solutions.")
+{{< imgfig "https://1.bp.blogspot.com/-XCYqqwYaPbs/WCo7vX_qTiI/AAAAAAAAoPA/hDBojNJO1Pk9pRHGq7L6hQCzTBd_bIaCACPcB/s1600/20161105_211814.picasaweb.jpg" "Visitekaartjes Yktoo Solutions." >}}
 
 ## Leren is allesbeslissend {#learning}
 
@@ -37,18 +37,18 @@ Er wordt tijdens deze sessie verteld over o.a. belastingsoorten, belastingaangif
 Elke paar maanden organiseert de KvK een gratis *Startersdag*. Naast de KvK zelf en de Belastingdienst presenteren veel andere bedrijven hun zakelijke producten en diensten: banken, verzekeraars, webstudio's, mobiele applicatieontwikkelaars, payment providers etc.
 
 Afgelopen november ben ik naar zo'n evenement in Utrecht geweest.
-![](img:1.bp.blogspot.com/-Eki7kXjgv2k/WCo7vUGvE5I/AAAAAAAAoPA/6ehaYzYB0MADbj79jW0RFyptuwQ220B9QCPcB/s1600/20161105_100446.picasaweb.jpg:a "KvK Startersdag.")
+{{< imgfig "https://1.bp.blogspot.com/-Eki7kXjgv2k/WCo7vUGvE5I/AAAAAAAAoPA/6ehaYzYB0MADbj79jW0RFyptuwQ220B9QCPcB/s1600/20161105_100446.picasaweb.jpg" "KvK Startersdag." >}}
 
 ## "De Digitale Werkplaats" {#digitale-werkplaats}
 
 En in december was ik door Google uitgenodigd voor een ander seminar dat [De Digitale Werkplaats](https://digitalewerkplaats.withgoogle.com/) heette.
-![](img:3.bp.blogspot.com/-bSXnAmKehwc/WKxwnAuMq0I/AAAAAAAApSE/B8VOjKSTTPgyqaseDrU9ifNR0YGkGJLcQCPcB/s1600/20161213_155655.picasaweb.jpg:a "Google's Digitale Werkplaats: deelnemers badge.")
+{{< imgfig "https://3.bp.blogspot.com/-bSXnAmKehwc/WKxwnAuMq0I/AAAAAAAApSE/B8VOjKSTTPgyqaseDrU9ifNR0YGkGJLcQCPcB/s1600/20161213_155655.picasaweb.jpg" "Google's Digitale Werkplaats: deelnemers badge." >}}
 
 Google doet veel om "zoekalfabetisme" en natuurlijk ook hun reclamediensten te promoten onder website eigenaren.
-![](img:4.bp.blogspot.com/-Mg6vyN6KDeQ/WKxwnE-Zc6I/AAAAAAAApSE/NYO2PpLXvc4_qVy7mrOm3ue4wjRuwxsOQCPcB/s1600/20161213_155811.picasaweb.jpg:a "Google's Digitale Werkplaats.")
+{{< imgfig "https://4.bp.blogspot.com/-Mg6vyN6KDeQ/WKxwnE-Zc6I/AAAAAAAApSE/NYO2PpLXvc4_qVy7mrOm3ue4wjRuwxsOQCPcB/s1600/20161213_155811.picasaweb.jpg" "Google's Digitale Werkplaats." >}}
 
 Er werden een aantal lezingen over uiteenlopende onderwerpen gegeven: het bouwen van goede websitenavigatie, het gebruiken van de Webmaster's Tools en Google Analytics, hoe je kunt adverteren enz. De lezingen waren in het Nederlands want alle sprekers waren Nederlanders die speciaal voor dat evenement uit Google's ontwikkelcentrum in het Ierse Dublin kwamen.
-![](img:1.bp.blogspot.com/-Pr10Soqileg/WKxwnBmTafI/AAAAAAAApSE/q5pEC34ffVwh3kr7Ld_k7cfB6xnO4UGGwCPcB/s1600/20161213_160002.picasaweb.jpg:a "'Een succesvolle website.'")
+{{< imgfig "https://1.bp.blogspot.com/-Pr10Soqileg/WKxwnBmTafI/AAAAAAAApSE/q5pEC34ffVwh3kr7Ld_k7cfB6xnO4UGGwCPcB/s1600/20161213_160002.picasaweb.jpg" "'Een succesvolle website.'" >}}
 
 ## Blijf leren! {#keep-learning}
 

@@ -8,4 +8,4 @@ tags: ["Нидерланды", "погода", "праздники"]
 
 Я успешно сгорел на пляже за пару часов.
 
-![](img:1.bp.blogspot.com/-SE6Huj2zjjQ/TbV1cwc2ckI/AAAAAAAAItc/B0Hi_UKG_hY/s1600/DSC01261.picasaweb.jpg:a)
+{{< imgfig "https://1.bp.blogspot.com/-SE6Huj2zjjQ/TbV1cwc2ckI/AAAAAAAAItc/B0Hi_UKG_hY/s1600/DSC01261.picasaweb.jpg" >}}

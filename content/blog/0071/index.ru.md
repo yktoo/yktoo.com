@@ -14,4 +14,4 @@ tags: ["Гэри Мур", "музыка", "некрологи", "Нидерла�
 
 R. I. P.
 
-![](img:upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Gary-Moore-at-Pite-Havsbad.jpg/463px-Gary-Moore-at-Pite-Havsbad.jpg "Гэри Мур. Фото Wikimedia.")
+{{< imgfig "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Gary-Moore-at-Pite-Havsbad.jpg/463px-Gary-Moore-at-Pite-Havsbad.jpg" "Гэри Мур. Фото Wikimedia." >}}

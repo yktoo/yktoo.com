@@ -14,13 +14,13 @@ tags: ["забавное", "Нидерланды", "перевод", "разли
 
 ---
 
-![](img:2.bp.blogspot.com/-ig8VNpUWEuA/WNVlTBuRJ8I/AAAAAAAApo4/BBFmUWPKDYkL4Ou_tQPyCqueOn-eRLdsACPcB/s1600/inv_strange_dutch_habits_2.jpg)
+{{< imgfig "https://2.bp.blogspot.com/-ig8VNpUWEuA/WNVlTBuRJ8I/AAAAAAAApo4/BBFmUWPKDYkL4Ou_tQPyCqueOn-eRLdsACPcB/s1600/inv_strange_dutch_habits_2.jpg" >}}
 
 Приехали ли вы в Нидерланды только что, живёте ли уже в стране какое-то время — вы постоянно встречаетесь со странными местными обычаями и традициями. Ниже перечислены лишь девятнадцать самых чудны́х вещей, присущих голландцам.
 
 ## 1. Кататься на велосипеде без шлема {#section-1}
 
-![](img:1.bp.blogspot.com/-TQMaPPfVVWE/WNVlTMUDCxI/AAAAAAAApo4/obDCX_lBWa4-TF4mcJcGuCYTBvgry98IACPcB/s1600/inv_dutch_cycling_2.jpg)
+{{< imgfig "https://1.bp.blogspot.com/-TQMaPPfVVWE/WNVlTMUDCxI/AAAAAAAApo4/obDCX_lBWa4-TF4mcJcGuCYTBvgry98IACPcB/s1600/inv_dutch_cycling_2.jpg" >}}
 
 Видимо, они чувствуют себя так уверенно на велосипеде благодаря тому, что учатся кататься на велосипеде с младых ногтей. Мало того, что они могут заниматься при этом посторонними делами, так они ещё и не считают нужным надевать шлем (и удивляются, когда кто-то его всё же использует).
 
@@ -32,7 +32,7 @@ tags: ["забавное", "Нидерланды", "перевод", "разли
 
 ## 2. Есть очень солёные конфеты из лакрицы {#section-2}
 
-![](img:1.bp.blogspot.com/-wwph4075v_A/WNVlTOijKuI/AAAAAAAApo4/EUH6Km2Ox7AzN_rUlieRDozzniLiCFnxwCPcB/s1600/inv_dutch_drop_2.jpg)
+{{< imgfig "https://1.bp.blogspot.com/-wwph4075v_A/WNVlTOijKuI/AAAAAAAApo4/EUH6Km2Ox7AzN_rUlieRDozzniLiCFnxwCPcB/s1600/inv_dutch_drop_2.jpg" >}}
 
 Если голландец когда-нибудь предложит вам {{< fl "дроп" >}} (конфету из лакрицы), будьте крайне осторожны. Некоторые их сорта настолько солёные, что ваши вкусовые рецепторы просто забьются в истерике. Как они эту пакость могут настолько любить, понять невозможно.
 
@@ -40,7 +40,7 @@ tags: ["забавное", "Нидерланды", "перевод", "разли
 
 ## 3. Игнорировать сирены оповещения (в первый понедельник месяца) {#section-3}
 
-![](img:2.bp.blogspot.com/-7-1EsGH3Zyg/WNVlTFqBiYI/AAAAAAAApo4/oENKB0zRaU44ylT4nPHLGN3Toi77XToSACPcB/s1600/inv_dutch_alarm_2.jpg)
+{{< imgfig "https://2.bp.blogspot.com/-7-1EsGH3Zyg/WNVlTFqBiYI/AAAAAAAApo4/oENKB0zRaU44ylT4nPHLGN3Toi77XToSACPcB/s1600/inv_dutch_alarm_2.jpg" >}}
 
 В полдень первого понедельника каждого месяца надо всей страной внезапно разносятся устрашающие завывания сирен. Голландцы не обращают на них внимания, поскольку это плановая проверка. Но что произойдёт, когда в первый понедельник месяца, в полдень, и впрямь случится чрезвычайная ситуация?
 
@@ -48,7 +48,7 @@ tags: ["забавное", "Нидерланды", "перевод", "разли
 
 ## 4. Использовать слово «dus» для всего подряд {#section-4}
 
-![](img:2.bp.blogspot.com/-HzMbq7Gl9mQ/WNVlTO-Jo2I/AAAAAAAApo4/mkx47m5HGv0kA6npJSkHZpZs224IQLuQACPcB/s1600/inv_dutch_dus_2.jpg)
+{{< imgfig "https://2.bp.blogspot.com/-HzMbq7Gl9mQ/WNVlTO-Jo2I/AAAAAAAApo4/mkx47m5HGv0kA6npJSkHZpZs224IQLuQACPcB/s1600/inv_dutch_dus_2.jpg" >}}
 
 Голландское слово «дюс» (означающее «так» по-русски) весьма универсально. Его применяют для выражения совершенно различных мыслей, чувств и эмоций. Оно может значить что угодно, от сердитого восклицания до приглашения продолжать рассказ (и прочих вещей). Так что желательно понимать, что же именно имеется в виду.
 
@@ -56,7 +56,7 @@ tags: ["забавное", "Нидерланды", "перевод", "разли
 
 ## 5. Отмечать дни рождения, сидя кружком, с чаем и тортом {#section-5}
 
-![](img:2.bp.blogspot.com/-lw0dIwX0fN8/WNVlTIZpZHI/AAAAAAAApo4/EdSpaTPi_HcTVcbUJrATjeHR7Md9znLdwCPcB/s1600/inv_dutch_party_2.jpg)
+{{< imgfig "https://2.bp.blogspot.com/-lw0dIwX0fN8/WNVlTIZpZHI/AAAAAAAApo4/EdSpaTPi_HcTVcbUJrATjeHR7Md9znLdwCPcB/s1600/inv_dutch_party_2.jpg" >}}
 
 Если для вас вечеринка — это когда орёт музыка, трижды приезжала полиция, а в углу кто-то уже лежит в отключке, вас немного разочарует голландское празднование дня рождения. Оно представляет из себя, в основном, сидение кружком и кофе.
 
@@ -64,7 +64,7 @@ tags: ["забавное", "Нидерланды", "перевод", "разли
 
 ## 6. Отдыхать в кемпинге по полной моде {#section-6}
 
-![](img:4.bp.blogspot.com/-_LeJHIzDMko/WNVlTDwVulI/AAAAAAAApo4/MNdfxHfTPjIl4_fgE8TaZYfirV5IJWl1wCPcB/s1600/inv_dutch_camping_2.jpg)
+{{< imgfig "https://4.bp.blogspot.com/-_LeJHIzDMko/WNVlTDwVulI/AAAAAAAApo4/MNdfxHfTPjIl4_fgE8TaZYfirV5IJWl1wCPcB/s1600/inv_dutch_camping_2.jpg" >}}
 
 Когда голландцы едут в кемпинг, у них есть свои правила. Почему, в самом деле, общение с природой должно происходить в отсутствии водопровода, холодильника, стиральной машины, отопления, домашнего кинотеатра и прочих привычных удобств?
 
@@ -72,7 +72,7 @@ tags: ["забавное", "Нидерланды", "перевод", "разли
 
 ## 7. Приветствовать друг друга тремя поцелуями в щёку {#section-7}
 
-![](img:3.bp.blogspot.com/-krGL7UPrDuM/WNVlTCR-9HI/AAAAAAAApo4/2U_8uB66b4wKMFdQyYmus2CLh9OT45PWQCPcB/s1600/inv_dutch_kiss_2.jpg)
+{{< imgfig "https://3.bp.blogspot.com/-krGL7UPrDuM/WNVlTCR-9HI/AAAAAAAApo4/2U_8uB66b4wKMFdQyYmus2CLh9OT45PWQCPcB/s1600/inv_dutch_kiss_2.jpg" >}}
 
 Если голландка внезапно трижды поцелует вас в обе щеки, не впадайте в романтическое настроение. Это они так говорят «привет» (а также «пока»). Такое обращение приберегают только для родственников и близких друзей, так что не пытайтесь использовать этот приём сами, это будет выглядеть странно.
 
@@ -82,7 +82,7 @@ tags: ["забавное", "Нидерланды", "перевод", "разли
 
 ## 8. Понимать, как применять «de» и «het», несмотря на отсутствие логики {#section-8}
 
-![](img:4.bp.blogspot.com/-tcBPTpnnE0g/WNVlTH_ul5I/AAAAAAAApo4/LjxfpmQqL3gW-tUxNHQ6Oi1ohpUADvVSwCPcB/s1600/inv_dutch_de_het_2.jpg)
+{{< imgfig "https://4.bp.blogspot.com/-tcBPTpnnE0g/WNVlTH_ul5I/AAAAAAAApo4/LjxfpmQqL3gW-tUxNHQ6Oi1ohpUADvVSwCPcB/s1600/inv_dutch_de_het_2.jpg" >}}
 
 Любой голландец скажет, что для использования артиклей {{< fl "de" >}} и {{< fl "het" >}} (вместо которых в английском есть лишь {{< fl "the" >}}) есть очень простое правило. Потом он начнёт вспоминать все случаи, когда правило не работает, и в итоге признает, что нужно быть голландцем, чтобы это понять.
 
@@ -90,7 +90,7 @@ tags: ["забавное", "Нидерланды", "перевод", "разли
 
 ## 9. Отмечать День Короля (и всё остальное) во всём оранжевом {#section-9}
 
-![](img:3.bp.blogspot.com/-L_9evp-D1jU/WNVlTCYuhEI/AAAAAAAApo4/ywHKkcq4FvwwnFiQxS84ecQv0E_i8Lj-gCPcB/s1600/inv_dutch_kingsday_2.jpg)
+{{< imgfig "https://3.bp.blogspot.com/-L_9evp-D1jU/WNVlTCYuhEI/AAAAAAAApo4/ywHKkcq4FvwwnFiQxS84ecQv0E_i8Lj-gCPcB/s1600/inv_dutch_kingsday_2.jpg" >}}
 
 Когда в Нидерландах что-нибудь отмечают, у голландцев начинается оранжевое безумие. Что закономерно, потому что оранжевый — это цвет королевской семьи. Для людей, страдающих дальтонизмом, это, наверное, сложное время.
 
@@ -98,7 +98,7 @@ tags: ["забавное", "Нидерланды", "перевод", "разли
 
 ## 10. Заливать картошку фри майонезом {#section-10}
 
-![](img:2.bp.blogspot.com/-qflI0ausQlM/WNVlTBCJTZI/AAAAAAAApo4/MG8g9RQpMwsiBzqTY8NjrbqV5g5nRXiYACPcB/s1600/inv_dutch_mayo_2.jpg)
+{{< imgfig "https://2.bp.blogspot.com/-qflI0ausQlM/WNVlTBCJTZI/AAAAAAAApo4/MG8g9RQpMwsiBzqTY8NjrbqV5g5nRXiYACPcB/s1600/inv_dutch_mayo_2.jpg" >}}
 
 Голландцы обожают майонез. Настолько, что в любой лавке, продающей картошку фри, вам его автоматически добавят в заказ, если вы отдельно не попросите их этого не делать. И если вы этого попросите, будете выглядеть чудаком. В Нидерландах майонез относят, в принципе, в отдельную группу пищевых продуктов.
 
@@ -106,7 +106,7 @@ tags: ["забавное", "Нидерланды", "перевод", "разли
 
 ## 11. Ездить по правой стороне {#section-11}
 
-![](img:4.bp.blogspot.com/-aC7PG1La19Y/WNVlTP-hhrI/AAAAAAAApo4/KZ2eVwcUOWsg-WdCE7qKjHJQ5DbRDnbRgCPcB/s1600/inv_dutch_driving_2.jpg)
+{{< imgfig "https://4.bp.blogspot.com/-aC7PG1La19Y/WNVlTP-hhrI/AAAAAAAApo4/KZ2eVwcUOWsg-WdCE7qKjHJQ5DbRDnbRgCPcB/s1600/inv_dutch_driving_2.jpg" >}}
 
 Никогда не вступайте в спор с голландцем относительно того, в какой стране ездят по правильной стороне, вы потерпите поражение. Они объяснят вам на вашем же собственном языке (английском), почему езда по правой стороне — это правильно, а вы — неправы.
 
@@ -114,7 +114,7 @@ tags: ["забавное", "Нидерланды", "перевод", "разли
 
 ## 12. Жить порой в опасных домах (особенно в Амстердаме) {#section-12}
 
-![](img:3.bp.blogspot.com/-fSfeBYaU60M/WNVlTPZB16I/AAAAAAAApo4/DuQzCqhKOLAl-yasrJfGXCPqkhlZQCqoQCPcB/s1600/inv_dutch_house_2.jpg)
+{{< imgfig "https://3.bp.blogspot.com/-fSfeBYaU60M/WNVlTPZB16I/AAAAAAAApo4/DuQzCqhKOLAl-yasrJfGXCPqkhlZQCqoQCPcB/s1600/inv_dutch_house_2.jpg" >}}
 
 Старые дома в Голландии имеют своё очарование и особый характер. Это, в общем-то, является политкорректным способом сказать, что они крайне опасны. Спиральные лестницы, настолько крутые, что представляют собой, скорее, закрученную стремянку, предохранители, выдерживающие удар молнии, и мыши в качестве домашних животных — лишь несколько примеров того, с чем вы можете встретиться.
 
@@ -122,7 +122,7 @@ tags: ["забавное", "Нидерланды", "перевод", "разли
 
 ## 13. Нарушать все правила стояния в очереди {#section-13}
 
-![](img:1.bp.blogspot.com/-D4ZqmZdu9YM/WNVlTEt7LMI/AAAAAAAApo4/L1MmZA6860ESn9QSdv5hlHJYWynzRWm-wCPcB/s1600/inv_dutch_queue_2.jpg)
+{{< imgfig "https://1.bp.blogspot.com/-D4ZqmZdu9YM/WNVlTEt7LMI/AAAAAAAApo4/L1MmZA6860ESn9QSdv5hlHJYWynzRWm-wCPcB/s1600/inv_dutch_queue_2.jpg" >}}
 
 В голландских очередях нет никаких правил, здесь выживает сильнейший. Мужчина, женщина, ребёнок — каждый сам за себя. Любой, кто пытался сесть на голландский поезд в час пик, знает это (и, наверное, всякий раз вздрагивает, вспоминая).
 
@@ -132,7 +132,7 @@ tags: ["забавное", "Нидерланды", "перевод", "разли
 
 ## 14. Ждать официанта целую вечность {#section-14}
 
-![](img:1.bp.blogspot.com/-zf3MPuAQ5oU/WNVlTJiG36I/AAAAAAAApo4/XLunKAGbG6QPsDGUJQ50mDP6lmJCmYuDACPcB/s1600/inv_dutch_waiter_2.jpg)
+{{< imgfig "https://1.bp.blogspot.com/-zf3MPuAQ5oU/WNVlTJiG36I/AAAAAAAApo4/XLunKAGbG6QPsDGUJQ50mDP6lmJCmYuDACPcB/s1600/inv_dutch_waiter_2.jpg" >}}
 
 Самая большая ваша ошибка, когда вас обслуживает голландский официант, состоит в том, что он вас обслуживает. Потому что они — виртуозы в нахождении других занятий. Они вас обслужат только тогда, когда захотят, и нет в этом мире ничего, что могло бы это изменить.
 
@@ -142,7 +142,7 @@ tags: ["забавное", "Нидерланды", "перевод", "разли
 
 ## 15. Определять момент начала весны по женской моде {#section-15}
 
-![](img:2.bp.blogspot.com/-Ls9ki6q-3zk/WNVlTItHJ2I/AAAAAAAApo4/-z56tWKC3KYu4UU2k7J2JjnxcLd5OkMTwCPcB/s1600/inv_dutch_rokjesdag_2.jpg)
+{{< imgfig "https://2.bp.blogspot.com/-Ls9ki6q-3zk/WNVlTItHJ2I/AAAAAAAApo4/-z56tWKC3KYu4UU2k7J2JjnxcLd5OkMTwCPcB/s1600/inv_dutch_rokjesdag_2.jpg" >}}
 
 Весна в Нидерландах начинается не с появлением первого тюльпана или рождением первого кролика. О её приходе возвещает {{< fl "Rokjesdag" >}} («день юбочек»), в который голландки вновь начинают носить короткие юбки (а голландцы — сталкиваться с фонарными столбами).
 
@@ -150,7 +150,7 @@ tags: ["забавное", "Нидерланды", "перевод", "разли
 
 ## 16. Отмечать Новый Год большим количеством взрывов {#section-16}
 
-![](img:1.bp.blogspot.com/-ddmDwC2mTOU/WNVlTE2ZIWI/AAAAAAAApo4/687w_E7u3s4QM2WvYqMzkv5niPvb4QmMACPcB/s1600/inv_dutch_new_years_2.jpg)
+{{< imgfig "https://1.bp.blogspot.com/-ddmDwC2mTOU/WNVlTE2ZIWI/AAAAAAAApo4/687w_E7u3s4QM2WvYqMzkv5niPvb4QmMACPcB/s1600/inv_dutch_new_years_2.jpg" >}}
 
 В большинстве стран организуют безопасные, централизованные новогодние фейерверки. Голландия же, напротив, пытается взорвать сама себя. Ровно в полночь кто-то как будто бросает зажжённую спичку в весь национальный запас фейерверков (и он не иссякает, по меньшей мере, до двух часов ночи).
 
@@ -158,7 +158,7 @@ tags: ["забавное", "Нидерланды", "перевод", "разли
 
 ## 17. Не придавать значения тому, что некоторые части страны лежат на семь метров ниже уровня моря {#section-17}
 
-![](img:3.bp.blogspot.com/-HqRiXqfipgM/WNVlTDVjFJI/AAAAAAAApo4/uwOdeeuaKm4cwB5yNOCNlDZTPSxTpPoEgCPcB/s1600/inv_dutch_sea_level_2.jpg)
+{{< imgfig "https://3.bp.blogspot.com/-HqRiXqfipgM/WNVlTDVjFJI/AAAAAAAApo4/uwOdeeuaKm4cwB5yNOCNlDZTPSxTpPoEgCPcB/s1600/inv_dutch_sea_level_2.jpg" >}}
 
 Если вам доведётся жить в стране, отвоёванной у моря, вы, наверное, будете ощущать некоторое беспокойство. Голландцы — нет. Большинство из них вообще об этом не вспоминают. Может быть, потому, что для них это не Голландия ниже уровня моря, а море выше уровня Голландии, и они мастерски с этим справляются.
 
@@ -166,7 +166,7 @@ tags: ["забавное", "Нидерланды", "перевод", "разли
 
 ## 18. Потреблять уйму шоколада на завтрак {#section-18}
 
-![](img:1.bp.blogspot.com/-gW6nsiCicvk/WNVlTPw26EI/AAAAAAAApo4/GvV-oBimSTI2MfRE6FiXtbb_UxJpTzR0gCPcB/s1600/inv_dutch_hagaslag_2.jpg)
+{{< imgfig "https://1.bp.blogspot.com/-gW6nsiCicvk/WNVlTPw26EI/AAAAAAAApo4/GvV-oBimSTI2MfRE6FiXtbb_UxJpTzR0gCPcB/s1600/inv_dutch_hagaslag_2.jpg" >}}
 
 Голландцы обожают хлеб со всякими сладостями на завтрак. Шоколадная паста, шоколадная крошка, шоколадная стружка и так далее. Ведь разве может быть неправильным давать детям (и взрослым) жёсткий сахарный удар по утрам?
 
@@ -174,7 +174,7 @@ tags: ["забавное", "Нидерланды", "перевод", "разли
 
 ## 19. Отмечать «Синтеркласа» пятого декабря {#section-19}
 
-![](img:1.bp.blogspot.com/-s_LyklsY2Zs/WNVlTHMgViI/AAAAAAAApo4/lfQUaLZTDKM-daU6qQzFVo8ehCiUNmmOACPcB/s1600/inv_dutch_sint_2.jpg)
+{{< imgfig "https://1.bp.blogspot.com/-s_LyklsY2Zs/WNVlTHMgViI/AAAAAAAApo4/lfQUaLZTDKM-daU6qQzFVo8ehCiUNmmOACPcB/s1600/inv_dutch_sint_2.jpg" >}}
 
 Синтерклас может оказаться подозрительно знакомым тем, кто привык получать подарки от Санты 25 декабря, но не стоит заблуждаться. Синтерклас — это оригинал, Санта — плагиат. В данном случае весь остальной мир — чудаки.
 

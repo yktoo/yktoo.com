@@ -11,7 +11,7 @@ Om deze vraag goed te kunnen beantwoorden moet je je lang en breed verdiepen in 
 
 <!--more-->
 
-![](img:2.bp.blogspot.com/-0JS0V8bE70Y/WN97iz2hjLI/AAAAAAAAptQ/pwLDMGHIdfwZcGmcAlyotSDAsc3Yq2OOACPcB/s1600/shapes.picasaweb.png)
+{{< imgfig "https://2.bp.blogspot.com/-0JS0V8bE70Y/WN97iz2hjLI/AAAAAAAAptQ/pwLDMGHIdfwZcGmcAlyotSDAsc3Yq2OOACPcB/s1600/shapes.picasaweb.png" >}}
 
 ## Midden- en kleinbedrijven {#mkb}
 

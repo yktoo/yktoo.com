@@ -8,9 +8,9 @@ tags: ["видео", "музыка", "пустяки"]
 
 <!--more-->
 
-<!-- ![](img:img.youtube.com/vi/jMNIvLiCnw8/maxresdefault.jpg) -->
+<!-- {{< imgfig "https://img.youtube.com/vi/jMNIvLiCnw8/maxresdefault.jpg" >}} -->
 
-![](youtube:jMNIvLiCnw8)
+{{< youtube "jMNIvLiCnw8" >}}
 
 И хоть меня Майкл наш Джексон ну вообще никак не задевает, но исполнение очень понравилось. Отдельно отмечу актёрскую работу собачек, умело сохраняющих покерфейс на протяжении всего номера.
 

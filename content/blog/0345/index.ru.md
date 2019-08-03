@@ -9,7 +9,7 @@ tags: ["личное", "Нидерланды", "свадьба"]
 <!--more-->
 
 **13 июля 2019** года всё стало официально:
-![](img:1.bp.blogspot.com/-wy6w96RgkKY/XSssvrVGv3I/AAAAAAAAwXM/dQaxNjr7C3QjjWyuGQBZcW2jZ-EGXFYcQCKgBGAs/s1600/a%2526d.picasaweb.jpg:a)
+{{< imgfig "https://1.bp.blogspot.com/-wy6w96RgkKY/XSssvrVGv3I/AAAAAAAAwXM/dQaxNjr7C3QjjWyuGQBZcW2jZ-EGXFYcQCKgBGAs/s1600/a%2526d.picasaweb.jpg" >}}
 
 Церемония была проведена в самом красивом зале, что нам удалось найти: в муниципалитете города {{< fl "Zeist" >}}.
 

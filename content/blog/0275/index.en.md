@@ -21,4 +21,4 @@ So far four new tracks are available, all of them pertain to the sky for some re
 
 Stay tuned for more.
 
-![](img:3.bp.blogspot.com/-PicmdePdRdM/WFcAND_odPI/AAAAAAAAots/92lu4FQLXx8BF2HXPG5LMgss7SnpN4WqgCPcB/s1600/dsc03863.picasaweb.jpg:a "The sky is on fire.")
+{{< imgfig "https://3.bp.blogspot.com/-PicmdePdRdM/WFcAND_odPI/AAAAAAAAots/92lu4FQLXx8BF2HXPG5LMgss7SnpN4WqgCPcB/s1600/dsc03863.picasaweb.jpg" "The sky is on fire." >}}
