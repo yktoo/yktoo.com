@@ -18,5 +18,5 @@ Autumn Amersfoort by night under the cut, as seen by a *sober* driver.
 ![](img:4.bp.blogspot.com/-gxr35CLHQVs/UqOMdZacOyI/AAAAAAAAa5U/GRSSzqcCnhQ/s1600/dsc01738.picasaweb.jpg:a)
 ![](img:3.bp.blogspot.com/-EGvGe6-iGWw/ThiaPqMJjwI/AAAAAAAAI8I/78XcQd-DFKs/s1600/DSC00218.picasaweb.jpg:a)
 
-A bike bridge named //De Oversteek// ("The Crossing"):
+A bike bridge named {{< fl "De Oversteek" >}} ("The Crossing"):
 ![](img:4.bp.blogspot.com/-ar0G02XhqWg/ThibbjKEmwI/AAAAAAAAJAI/7mc8zj4YEPA/s1600/DSC00212.picasaweb.jpg:a)

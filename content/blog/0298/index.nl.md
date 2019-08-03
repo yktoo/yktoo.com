@@ -19,7 +19,7 @@ Om terug te komen op ons intellectuele verkeerslicht, de chauffeur zal in een *s
 Aldus de [ontwikkelaars](http://www.infoplaza.nl/archives/2420/) ziet het er ongeveer zo uit:
 ![](img:3.bp.blogspot.com/-egBDZPkVLgw/WDrFK8SbQMI/AAAAAAAAoVw/aePL_T1cvLo4mHVUq2YBMWP43l4VInrFwCPcB/s1600/verkeersplaza-app.picasaweb.jpg:a "How it's supposed to look like. Image from www.infoplaza.nl.")
 
-Het nieuwsartikel geeft verder geen details over de gebruikte technologieën, maar verklaart dat *"Verkeerplaza app de eerste app in Nederland is die communiceert met een slim verkeerslicht."* Het is onduidelijk of die een directe verbinding met de verkeersregelinstallatie maakt (via //Wi-Fi// of //Bluetooth//), of gewoon updates via internet krijgt (wat aannemelijker klinkt).
+Het nieuwsartikel geeft verder geen details over de gebruikte technologieën, maar verklaart dat *"Verkeerplaza app de eerste app in Nederland is die communiceert met een slim verkeerslicht."* Het is onduidelijk of die een directe verbinding met de verkeersregelinstallatie maakt (via {{< fl "Wi-Fi" >}} of {{< fl "Bluetooth" >}}), of gewoon updates via internet krijgt (wat aannemelijker klinkt).
 
 Ik vraag me af of om die informatie in je mobiel tijdens het autorijden uit te zoeken eigenlijk een goed idee is. Ik denk dat de politie er ook aan zou twijfelen. Een afteller direct op het verkeerslicht zou volgens mij veel handiger uitkomen.
 

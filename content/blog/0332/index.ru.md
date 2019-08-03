@@ -16,7 +16,7 @@ tags: ["2017", "Германия", "итоги", "Рес"]
 
 * Я встретил Новый год во французском Лилле.
 ![](img:4.bp.blogspot.com/-Q0oq4GgfXb8/WkTg5_IMUaI/AAAAAAAArJU/kTt192_hhCwfVFhhRDXy2JkOQm0ILnq7QCKgBGAs/s1600/dsc03914.picasaweb.jpgш:a "Лилль.")
-* Покинул мир корпоративного рабства и отправился [в свободное плавание][route:/blog/group,id:13] — я нынче сам себе матрос, штурман и капитан. Плавание формально началось 1 февраля (в действительности несколько раньше) в нидерландском Министерстве инфраструктуры и окружающей среды (//Ministerie van Infrastructuur en Milieu//), сокращённо //MinIenM//. Об этом я расскажу в отдельном посте.
+* Покинул мир корпоративного рабства и отправился [в свободное плавание][route:/blog/group,id:13] — я нынче сам себе матрос, штурман и капитан. Плавание формально началось 1 февраля (в действительности несколько раньше) в нидерландском Министерстве инфраструктуры и окружающей среды ({{< fl "Ministerie van Infrastructuur en Milieu" >}}), сокращённо {{< fl "MinIenM" >}}. Об этом я расскажу в отдельном посте.
 ![](img:1.bp.blogspot.com/-X2_lDklXUCU/WkYf3TWfTFI/AAAAAAAArKk/NhONEzWuTYwgJHTjQF4s61rUl4k8Tsz7gCKgBGAs/s1600/20170309_103411.picasaweb.jpg:a "MinIenM.")
 * Пробежал чуть более **700 км**, в том числе три полумарафона: [De Halve van De Haar][post:320], [IJsselsteinloop][post:327] и [амерсфортский][post:330].
 ![](img:2.bp.blogspot.com/-5YI57OXZ-V8/WkYhNBMhI2I/AAAAAAAArK0/y0bvHvPHD9cqaZkQhT7G6CCRJD9x5AVNgCKgBGAs/s1600/20170618_102611.picasaweb.jpg:a "Амерсфортский марафон.")
@@ -33,8 +33,8 @@ tags: ["2017", "Германия", "итоги", "Рес"]
 ![](img:4.bp.blogspot.com/-ZKec2DkrKV0/WkY_zWeL3II/AAAAAAAArL4/4sTIDhtTfD0otRJzvNT5n3TrpLYVi47JACKgBGAs/s1600/dsc06791.picasaweb.jpg:a "Эйфелева башня.")
 * … а также в Питере.
 ![](img:3.bp.blogspot.com/-zrPATGx6h3A/Wkd17coNwmI/AAAAAAAArMM/DqXqlH0I7bw5YFPjUtOGgA6LRsTEXFEagCKgBGAs/s1600/dsc05659.picasaweb.jpg:a "Петропавловская крепость.")
-* Побывал на концертах [David Maxim Micic, Disperse, Plini][post:317], [Oddland, Until Rain, Wolverine][post:321], [Riverside][post:328], [Nick Johnston, David Maxim Micic, Animals as Leaders][route:/video/event,id:46], [Nick Johnston, Polyphia, Intervals][route:/video/event,id:47] и //Vuur//. О трёх последних написать времени тоже не хватило.
-![](img:2.bp.blogspot.com/-BDEWNu2GFSI/WkYn6eiNmSI/AAAAAAAArLc/7bEsVOaqKZcIuweXj1a-MlvY2sf5g1sHgCKgBGAs/s1600/dsc07131.picasaweb.jpg:a "Aaron Marshall // Intervals.")
+* Побывал на концертах [David Maxim Micic, Disperse, Plini][post:317], [Oddland, Until Rain, Wolverine][post:321], [Riverside][post:328], [Nick Johnston, David Maxim Micic, Animals as Leaders][route:/video/event,id:46], [Nick Johnston, Polyphia, Intervals][route:/video/event,id:47] и {{< fl "Vuur" >}}. О трёх последних написать времени тоже не хватило.
+![](img:2.bp.blogspot.com/-BDEWNu2GFSI/WkYn6eiNmSI/AAAAAAAArLc/7bEsVOaqKZcIuweXj1a-MlvY2sf5g1sHgCKgBGAs/s1600/dsc07131.picasaweb.jpg:a "Aaron Marshall / Intervals.")
 * Ну и, наконец, самое главное — те самые *обстоятельства*: в июле моя жизнь бесповоротно изменилась. В ней появилась самая эксцентричная особа, которую я когда либо встречал. В таких ситуациях говорят обычно: «Между ними проскочила искра». У нас же так заискрило, что в конце нашей первой недели мы сделали себе парные татуировки:
 ![](img:2.bp.blogspot.com/-TvMtl8HKGhY/WkTBnrFCI9I/AAAAAAAArJE/wK0DweNYJKMKeMv08BQ-Mhq1OkbzAL4LgCKgBGAs/s1600/20170925_213100.picasaweb.jpg:a "Инь-Ян.")
 И это у меня тоже было впервые.

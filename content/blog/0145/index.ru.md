@@ -9,21 +9,21 @@ tags: ["Бельгия", "крепость", "Намюр", "пиво", "путе
 
 <!--more-->
 
-Намюр — и город, и провинция в целом — известен своими замками и крепостями (цитаделями). У него есть своё пиво, //Blanche de Namur//, но прославиться им ему навряд ли удастся.
+Намюр — и город, и провинция в целом — известен своими замками и крепостями (цитаделями). У него есть своё пиво, {{< fl "Blanche de Namur" >}}, но прославиться им ему навряд ли удастся.
 ![](img:2.bp.blogspot.com/-I5qbvP8D4QA/T3Wntt5ndHI/AAAAAAAAOLY/rPVAmP8iCRY/s1600/dsc09238.picasaweb.jpg:a)
 
-Эта мутная желтоватая жидкость лишь слегка лучше нашего «Хайнеккена» и уступает даже повсеместно продаваемому «Хугардену» (//Hoegarden//), для славной бельгийской пивной традиции это явно какой-то ~~внебрачный~~ побочный продукт.
+Эта мутная желтоватая жидкость лишь слегка лучше нашего «Хайнеккена» и уступает даже повсеместно продаваемому «Хугардену» ({{< fl "Hoegarden" >}}), для славной бельгийской пивной традиции это явно какой-то ~~внебрачный~~ побочный продукт.
 
 Особенно красив город ночью.
 ![](img:1.bp.blogspot.com/-qlsCXXYeAJo/T2pcwtLKrVI/AAAAAAAAMv0/4aeyw1_RH_I/s1600/dsc09275.picasaweb.jpg:a)
 
-Знаменитая намюрская [Цитадель](http://www.citadelle.namur.be/) (//Citadelle de Namur//; о ней подробнее позже):
+Знаменитая намюрская [Цитадель](http://www.citadelle.namur.be/) ({{< fl "Citadelle de Namur" >}}; о ней подробнее позже):
 ![](img:1.bp.blogspot.com/-okNrlNK8hco/T2pfkX1nEUI/AAAAAAAANBc/9aqbGq4aGl4/s1600/dsc09271.picasaweb.jpg:a)
 
 Королевский театр ([Théâtre Royal de Namur](http://www.theatredenamur.be/)):
 ![](img:4.bp.blogspot.com/-tODZBMUfS_g/T2pZwWFikEI/AAAAAAAAMcw/-aS3TZcQivE/s1600/dsc09258.picasaweb.jpg:a)
 
-Башня Сен-Жак (//Tour Saint-Jacques//), она же [Beffroi de Namur][wiki:fr:Beffroi_de_Namur], единственная колокольня в городе, построена в 1388 году:
+Башня Сен-Жак ({{< fl "Tour Saint-Jacques" >}}), она же [Beffroi de Namur][wiki:fr:Beffroi_de_Namur], единственная колокольня в городе, построена в 1388 году:
 ![](img:2.bp.blogspot.com/--55j1n4R7U8/T2paktr2b_I/AAAAAAAAMhw/m8wI2Lnp3Xk/s1600/dsc09255.picasaweb.jpg:a)
 
 Помимо мутного пива и прекрасной валлонской архитектуры, Намюр примечателен туристами, совершающими разные странные поступки:

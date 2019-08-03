@@ -17,7 +17,7 @@ It's worth mentioning that the weather has been horrible the last couple of week
 
 Of course, it wasn't as crowded as [back in the day][post:153] since no-one really appreciated the weather. It wasn't very *orange* either, with the reason being that orange coats are much less common among the Dutch then orange T-shirts. That said, it's still been a great day, as it stayed dry and even sunny the most of it.
 
-They crammed a small amusement park into the main square of the city, //Dam//. The attractions were at least twice as high as the surrounding buildings:
+They crammed a small amusement park into the main square of the city, {{< fl "Dam" >}}. The attractions were at least twice as high as the surrounding buildings:
 ![](img:1.bp.blogspot.com/-Glals1Nloc0/VyTma0TArtI/AAAAAAAAl5I/Yr7RcrnjYWoW5lwpemnHBOYHj3NHztaswCKgB/s1600/20160427_145711.picasaweb.jpg:a "Attractions on the Dam square.")
 
 Improvised stages were set at random points in the down-town. Some were playing jazz:

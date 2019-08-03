@@ -23,7 +23,7 @@ Het verhaal kmaw to een happy end na vier dagen wachten. We moesten zelf (!) naa
 
 ## Verhaal twee. The Iron Lady's worst nightmare
 
-Tyumen. Een vriendin stelde voor een borrel te hebben in een nieuwe "leuke" kroeg die //Thatcher// heette.
+Tyumen. Een vriendin stelde voor een borrel te hebben in een nieuwe "leuke" kroeg die {{< fl "Thatcher" >}} heette.
 
 De ontmoeting ging niet door. Ik *mocht* niet naar de kroeg waar ze op mij wachtte.
 

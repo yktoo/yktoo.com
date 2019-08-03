@@ -23,13 +23,13 @@ Also the Portuguese love roundabouts and build them all over the place. To be ab
 The architecture is a mix of shabby and new, ranged from this:
 ![](img:1.bp.blogspot.com/-cHypFJ204P4/Ua4gSGV6BoI/AAAAAAAAYh4/sM1-9x2yOKY/s1600/dsc08914.picasaweb.jpg:a)
 
-To this, aimed at rich Dutchmen (//te koop// means "for sale"):
+To this, aimed at rich Dutchmen ({{< fl "te koop" >}} means "for sale"):
 ![](img:3.bp.blogspot.com/-V8CbZHeR0XA/Ua4fxkXGmQI/AAAAAAAAYfo/XRBIPK7j5ZU/s1600/dsc08891.picasaweb.jpg:a)
 
 Any Portuguese town pays a lot of attention to street name plates, which are sometimes a piece of art:
 ![](img:3.bp.blogspot.com/-zKPlu3BGEVw/Ua4fRwgmUAI/AAAAAAAAYdw/RFMSSVy3nI0/s1600/dsc08875.picasaweb.jpg:a)
 
-Albufeira and Algarve as a whole mainly consist of restaurants and souvernir shops. The latter sell artisanry (//artesanato// in Portuguese). The items get also hung outside to draw public's attention:
+Albufeira and Algarve as a whole mainly consist of restaurants and souvernir shops. The latter sell artisanry ({{< fl "artesanato" >}} in Portuguese). The items get also hung outside to draw public's attention:
 ![](img:2.bp.blogspot.com/-2W7vcmKAgDI/Ua4flg2DMOI/AAAAAAAAYfI/a1iDD4JfyaY/s1600/dsc08887.picasaweb.jpg:a)
 
 Another attribute of a coastal city is meagre cats taking sunbaths:

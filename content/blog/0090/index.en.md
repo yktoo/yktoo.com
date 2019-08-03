@@ -21,12 +21,12 @@ Girls jog along the river towards the Chain Bridge:
 
 We walk in the same direction, towards the Castle Hill full of landmarks. There's the Royal Palace, the residence of the president of Hungary, and many more there.
 
-The earlier mentioned Reformed Church of Buda (//Budahegyvidéki Református Egyházközség//) is also on the quay:
+The earlier mentioned Reformed Church of Buda ({{< fl "Budahegyvidéki Református Egyházközség" >}}) is also on the quay:
 ![](img:3.bp.blogspot.com/-e_rLn-cUMXU/Tan2WBJXy-I/AAAAAAAAItc/rmQZEex12gM/s1600/dsc01751.picasaweb.jpg:a)
 
 There should have been a cable car (Sikló) working in the Castle Hill, but on exactly that day it wasn't for some reason.
 
-We climbed up the hill to the top to find a sculpture of a mythical //Turul// bird. This bird is a part of the story of how the Magyars settled the Hungarian homeland:
+We climbed up the hill to the top to find a sculpture of a mythical {{< fl "Turul" >}} bird. This bird is a part of the story of how the Magyars settled the Hungarian homeland:
 ![](img:3.bp.blogspot.com/-mdeZw3AA2w4/Tan32ReeOMI/AAAAAAAAItc/HFZSdEmbqxw/s1600/dsc01763.picasaweb.jpg:a)
 
 We were also lucky enough to catch the changing of guard ceremony, which happens daily at noon. A red carpet was rolled out before the humble palace, and the guards started changing:
@@ -37,7 +37,7 @@ After they were done, a Russian tourist started his own performance on that same
 
 There's a lot of Russians strolling around there, as I could conclude from Russian-speaking guides.
 
-Finished with the performance, we moved on, to the Matthias Church (//Mátyás-templom//):
+Finished with the performance, we moved on, to the Matthias Church ({{< fl "Mátyás-templom" >}}):
 ![](img:3.bp.blogspot.com/--VzHzVhNXFM/Tan304EoC3I/AAAAAAAAItc/BsC48bwYDM4/s1600/dsc01789.picasaweb.jpg:a)
 
 Policemen are idle at one side:
@@ -49,12 +49,12 @@ Falcons are idle at the other, waiting for their master to finish speaking:
 A bit further a couple of musicians play cheerful Hungarian and Russian tunes:
 ![](img:2.bp.blogspot.com/-XjolJ1h8fN0/Tan25oquCRI/AAAAAAAAItc/2GGdm7nw3P0/s1600/dsc01812.picasaweb.jpg:a)
 
-Even further there's the Fisherman's Bastion (//Halászbástya//), with a restaurant in its tallest tower:
+Even further there's the Fisherman's Bastion ({{< fl "Halászbástya" >}}), with a restaurant in its tallest tower:
 ![](img:3.bp.blogspot.com/-9rkAG_m39VQ/Tan2A1K4UoI/AAAAAAAAItc/90iOrjUCSEc/s1600/dsc01813.picasaweb.jpg:a)
 
 Right beside the Bastion there's the controversial Hilton Budapest Hotel. In my opinion, the hotel is decidedly an eyesore here.
 
-A tiny church is squeezed between the hotel and another building, //MCCCCLXXXVI// denotes 1486:
+A tiny church is squeezed between the hotel and another building, {{< fl "MCCCCLXXXVI" >}} denotes 1486:
 ![](img:2.bp.blogspot.com/-BCUPnQGY6RU/Tan2IBOZjTI/AAAAAAAAItc/mKqg8jURMO0/s1600/dsc01815.picasaweb.jpg:a)
 
 This is a touristic area, full of beautiful restaurants:
@@ -80,7 +80,7 @@ Austrian Volksbank managed to obtain a cute building:
 But the man with a nife between his teeth is climbing up another wall, the one of a gun store:
 ![](img:3.bp.blogspot.com/-_SKzAV0dKnk/Tan4EIRu_GI/AAAAAAAAItc/WD7NabsPXS4/s1600/dsc01836.picasaweb.jpg:a)
 
-We directed our steps towards the Central Market Hall (//Vásárcsarnok//):
+We directed our steps towards the Central Market Hall ({{< fl "Vásárcsarnok" >}}):
 ![](img:3.bp.blogspot.com/--1p7ftHBqTc/Tan1VrKqJ_I/AAAAAAAAItc/Rn2Sv_itCmQ/s1600/dsc01854.picasaweb.jpg:a)
 
 It's an ordinary market, although noteworthy for horrible amounts of hot pepper, hanging in bunches and mixed with garlic:
@@ -98,9 +98,9 @@ We've got the wine, gone outside to the quay:
 What's it at the top of the hill?
 ![](img:2.bp.blogspot.com/-p16IkRQjyLM/Tan34M-xrZI/AAAAAAAAItc/UB8prIpOkSE/s1600/dsc01858.picasaweb.jpg:a)
 
-The city guide advices (in German) that das ist the Liberty Statue (//Szabadság Szobor//) of Budapest. It's visible from nearly any part of the city.
+The city guide advices (in German) that das ist the Liberty Statue ({{< fl "Szabadság Szobor" >}}) of Budapest. It's visible from nearly any part of the city.
 
-The hill it's located upon is called //Gellért Hill//. The Gellért Hill Cave is located within the hill, facing toward the Danube River:
+The hill it's located upon is called {{< fl "Gellért Hill" >}}. The Gellért Hill Cave is located within the hill, facing toward the Danube River:
 ![](img:3.bp.blogspot.com/-KiMGv08A7xs/Tan3vAtPeCI/AAAAAAAAItc/lzhyFHz3w9c/s1600/dsc01884.picasaweb.jpg:a)
 
 Climbing up the hill is a perfect exercise. There's a lot of paths and ladders leading to the top, feel free to pick up any one, but make sure it goes uphill.

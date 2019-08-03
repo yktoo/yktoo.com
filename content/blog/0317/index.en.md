@@ -12,7 +12,7 @@ This time he was himself the headliner, and his support acts were [David Maxim M
 
 <!--![](img:3.bp.blogspot.com/-4ql-Zp3-APE/WNgDhZQK7-I/AAAAAAAApp8/W-4pPcq2MEU9OeNdFGRXA-JLe8_iTxsEgCPcB/s1600/dsc04094.picasaweb.jpg)-->
 
-The tiny venue at //Patronaat// (Haarlem) was packed with probably some hundred people. A friend of mine, who was also willing to come, had at a certain moment discovered the show was sold out.
+The tiny venue at {{< fl "Patronaat" >}} (Haarlem) was packed with probably some hundred people. A friend of mine, who was also willing to come, had at a certain moment discovered the show was sold out.
 ![](img:3.bp.blogspot.com/-AyWrTi1Sm08/WNgDhXozeNI/AAAAAAAApp8/DbcQ_DllLJQQs0hWrm4Ong3SFcLkWaHWwCPcB/s1600/dsc04083.picasaweb.jpg:a "Before the show.")
 
 With the ticket price of **€14** it was no wonder! But eventually he got lucky and found a ticket via TicketSwap.
@@ -51,7 +51,7 @@ The last—but not least—act were [Plini][wiki:en:Plini] (24) from the sunny A
 The band's genre can be described as "melodic progressive fusion", with distinctive, memorable tunes (which sometimes tend to turn into an earworm). Plini's technique is conspicuous, but he's so popular not only because of that I think. His humbleness and visible friendliness are definitely appealing, too, as is his way of making jokes at his fellow musicians.
 ![](youtube:S7XQzEEmD_A)
 
-This time around he reiterated that the Netherlands was "hands downs the best place to be." His affection was returned by the audience in the form of traditional Dutch //drops// and cheese:
+This time around he reiterated that the Netherlands was "hands downs the best place to be." His affection was returned by the audience in the form of traditional Dutch {{< fl "drops" >}} and cheese:
 ![](img:3.bp.blogspot.com/-RK07WTPIFZA/WNgDhWYqYFI/AAAAAAAApp8/eVOQXPS1Qxsu9ZZiXaGp6Tfc0ppsqwpMQCPcB/s1600/dsc04098.picasaweb.jpg:a "Plini holding drops and cheese.")
 
 Once there was a hiccup when one of the snare drums got broken. Plini and Jake started a "chord game" during the forced break: Jake would play a chord and Plini would try to arpeggiate it. Which went fine—mostly, but not always:

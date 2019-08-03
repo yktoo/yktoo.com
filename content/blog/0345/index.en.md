@@ -11,6 +11,6 @@ On this same day, precisely two years ago—July 13, 2017—I've rolled my mouse
 It all became official on **July 13, 2019**:
 ![](img:1.bp.blogspot.com/-wy6w96RgkKY/XSssvrVGv3I/AAAAAAAAwXM/dQaxNjr7C3QjjWyuGQBZcW2jZ-EGXFYcQCKgBGAs/s1600/a%2526d.picasaweb.jpg:a)
 
-The ceremony has been held at the most magnificent place we've managed to find, at //Zeist// city hall.
+The ceremony has been held at the most magnificent place we've managed to find, at {{< fl "Zeist" >}} city hall.
 
 Dreams do sometimes come true.

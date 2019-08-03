@@ -4,7 +4,7 @@ title: "Review: Xiaomi In-Ear Headphones Pro HD"
 tags: ["gadgets", "hardware", "headphones", "In-Ear Headphones Pro HD", "Mi", "review", "sound", "unboxing", "Xiaomi"]
 ---
 
-I'm not really into reviewing gadgets, but in this case it's worth doing it. Today I'd like to review [Mi In-Ear Headphones Pro HD](http://www.mi.com/en/headphonesprohd/) by the well-known Chinese make //Xiaomi//.
+I'm not really into reviewing gadgets, but in this case it's worth doing it. Today I'd like to review [Mi In-Ear Headphones Pro HD](http://www.mi.com/en/headphonesprohd/) by the well-known Chinese make {{< fl "Xiaomi" >}}.
 
 <!--more-->
 
@@ -14,7 +14,7 @@ I ordered the headphones on *eBay* after a few pretty positive reviews I've hear
 
 ## Features {#features}
 
-What's so special about these earphones? Quite a bit according to the item description. The company advertises //Headphones Pro HD// as a premium product, and that is reflected in its specs, materials used, and ~~particularly~~ packaging.
+What's so special about these earphones? Quite a bit according to the item description. The company advertises {{< fl "Headphones Pro HD" >}} as a premium product, and that is reflected in its specs, materials used, and ~~particularly~~ packaging.
 
 As the name suggests, it's *in-ear headphones*, and they feature a hybrid triple driver:
 
@@ -125,4 +125,4 @@ I also use my *Mi In-Ear Headphones Pro HD* as a hands-free, and the mike is rep
 * ![-](http://3.bp.blogspot.com/-Ve0HjsK5vVg/UbCZUZKATYI/AAAAAAAAZKw/LLk4Y6atW4c/s1600/minus.png) The carrying bag and the box are useless unless you're a Buddhist monk
 * ![-](http://3.bp.blogspot.com/-Ve0HjsK5vVg/UbCZUZKATYI/AAAAAAAAZKw/LLk4Y6atW4c/s1600/minus.png) Somewhat low sensitivity
 
-The bottom line is: I'm sure I haven't seen anything matching this model's characteristics at this price. Well done //Xiaomi//! I'm now using the headphones on a daily basis.
+The bottom line is: I'm sure I haven't seen anything matching this model's characteristics at this price. Well done {{< fl "Xiaomi" >}}! I'm now using the headphones on a daily basis.

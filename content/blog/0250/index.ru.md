@@ -6,11 +6,11 @@ tags: ["Anneke van Giersbergen", "Arjen Lucassen", "Ed Warby", "Ferry Duijsens",
 
 А давно не мучал я вас рассказами о голландском роке, надо исправляться. Тем более повод такой, воочию увидел две рок-легенды — аж сам себе завидую.
 
-Проект [The Gentle Storm][wiki:ru:The_Gentle_Storm], которому лишь год от роду, презентовал свой дебютный альбом //The Diary// («Дневник») в амстердамском клубе [Melkweg](http://www.melkweg.nl/) («Млечный путь», где я давеча [созерцал][post:136] Pagan's Mind).
+Проект [The Gentle Storm][wiki:ru:The_Gentle_Storm], которому лишь год от роду, презентовал свой дебютный альбом {{< fl "The Diary" >}} («Дневник») в амстердамском клубе [Melkweg](http://www.melkweg.nl/) («Млечный путь», где я давеча [созерцал][post:136] Pagan's Mind).
 
 <!--more-->
 
-Как я упомянул выше, группа была основана двумя легендарными личностями: [Аннеке ван Гирсберген][wiki:ru:Гирсберген,_Аннеке_ван] (//The Gathering//, //Devin Townsend//, //Anathema//) и [Арьеном нашим Лукассеном][wiki:ru:Люкассен,_Арьен_Антони] (список заслуг которого практически бесконечен, назову лишь //Ayreon//, //Ambeon// и //Stream of Passion//).
+Как я упомянул выше, группа была основана двумя легендарными личностями: [Аннеке ван Гирсберген][wiki:ru:Гирсберген,_Аннеке_ван] ({{< fl "The Gathering" >}}, {{< fl "Devin Townsend" >}}, {{< fl "Anathema" >}}) и [Арьеном нашим Лукассеном][wiki:ru:Люкассен,_Арьен_Антони] (список заслуг которого практически бесконечен, назову лишь {{< fl "Ayreon" >}}, {{< fl "Ambeon" >}} и {{< fl "Stream of Passion" >}}).
 ![](img:2.bp.blogspot.com/-cH_tABt-xDQ/VRf95KVJ0VI/AAAAAAAAhbM/vj3Eldrjaks/s1600/dsc08304.picasaweb.jpg:a "Аннеке ван Гирсберген (Anneke van Giersbergen).")
 
 Под катом картинки, картинки, картинки и немного видео.
@@ -37,7 +37,7 @@ tags: ["Anneke van Giersbergen", "Arjen Lucassen", "Ed Warby", "Ferry Duijsens",
 Хедбэнгинг, как же без него:
 ![](img:3.bp.blogspot.com/-MAv3pySBLXI/VRf9cyn11yI/AAAAAAAAhXA/2gY7U3Gsku0/s1600/dsc08134.picasaweb.jpg:a "Хедбэнгинг.")
 
-Группа исполнила несколько старых хитов (//Monster//, //The Curse//, //Deceiver//, //In the End//, //Street Spirit//), что заняло около получаса.
+Группа исполнила несколько старых хитов ({{< fl "Monster" >}}, {{< fl "The Curse" >}}, {{< fl "Deceiver" >}}, {{< fl "In the End" >}}, {{< fl "Street Spirit" >}}), что заняло около получаса.
 ![](img:2.bp.blogspot.com/-TI1JFXup-18/VRf9YkXqAnI/AAAAAAAAhWg/rbVa4tOwG-k/s1600/dsc08113.picasaweb.jpg:a "Марсела Бовио (Marcela Bovio).")
 
 Фото с залом напоследок:
@@ -59,7 +59,7 @@ tags: ["Anneke van Giersbergen", "Arjen Lucassen", "Ed Warby", "Ferry Duijsens",
 Басиста из Stream of Passion, неутомимого Йохана ван Стратума:
 ![](img:1.bp.blogspot.com/-jLRB0XpzCSY/VRf9nuyX3UI/AAAAAAAAhYY/MNvBlnvZRHM/s1600/dsc08198.picasaweb.jpg:a "Семейная артель Бовио-Ван Стратум.")
 
-А также клавишника Йоста ван ден Брука (//Joost van den Broek// из After Forever), гитариста Ферри Даусенса (//Ferry Duijsens//) и ударника Эда Варби (//Ed Warby//).
+А также клавишника Йоста ван ден Брука ({{< fl "Joost van den Broek" >}} из After Forever), гитариста Ферри Даусенса ({{< fl "Ferry Duijsens" >}}) и ударника Эда Варби ({{< fl "Ed Warby" >}}).
 
 Мерел тоже играла на семиструнке — прям мода какая-то на них.
 ![](img:2.bp.blogspot.com/-RVKEeWPvD7Q/VRf9mhZHmeI/AAAAAAAAhYI/u27M2IW0FGw/s1600/dsc08185.picasaweb.jpg:a "Мерел Бехтолд и её семиструнная гитара.")
@@ -76,7 +76,7 @@ tags: ["Anneke van Giersbergen", "Arjen Lucassen", "Ed Warby", "Ferry Duijsens",
 
 ## Акустика — явление Арьена {#unplugged}
 
-В середине выступления группа ненадолго удалилась, Аннеке вышла одна с акустической гитарой и *внезапно* исполнила бессмертную //Wish You Were Here// за авторством Pink Floyd.
+В середине выступления группа ненадолго удалилась, Аннеке вышла одна с акустической гитарой и *внезапно* исполнила бессмертную {{< fl "Wish You Were Here" >}} за авторством Pink Floyd.
 ![](img:4.bp.blogspot.com/-hwgqNYWDM8c/VRf9z4l4KaI/AAAAAAAAhZg/h31V96igj0c/s1600/dsc08275.picasaweb.jpg:a "Аннеке исполняет Wish You Were Here (Pink Floyd).")
 
 Это я смог нормально записать на видео:
@@ -91,7 +91,7 @@ tags: ["Anneke van Giersbergen", "Arjen Lucassen", "Ed Warby", "Ferry Duijsens",
 Арьен схватил гитару, которая почему-то оказалась неподключенной. «Ну я тогда, пожалуй, пойду», — всё шутил он.
 ![](img:2.bp.blogspot.com/-Y9DPTwh0kZA/VRf922B70cI/AAAAAAAAhZ4/ika-kBMUa0I/s1600/dsc08291.picasaweb.jpg:a "Арьен Лукассен (Arjen Lucassen).")
 
-Но обошлось. Арьен и Аннеке исполнили в акустике ну очень лирическую песню //The Moment// нового альбома The Gentle Storm (Арьен, кстати, прокомментировал это видео у меня в Фейсбуке, что у него от пения Аннеке каждый раз мурашки по коже):
+Но обошлось. Арьен и Аннеке исполнили в акустике ну очень лирическую песню {{< fl "The Moment" >}} нового альбома The Gentle Storm (Арьен, кстати, прокомментировал это видео у меня в Фейсбуке, что у него от пения Аннеке каждый раз мурашки по коже):
 ![](youtube:RjHasZbd1zE "Anneke van Giersbergen, Arjen Lucassen - The Moment")
 
 В конце очень удачно влилась Марсела вторым голосом — публика даже зааплодировала.
@@ -99,18 +99,18 @@ tags: ["Anneke van Giersbergen", "Arjen Lucassen", "Ed Warby", "Ferry Duijsens",
 Дальше вся троица вспомнила молодость и времена Ayreon:
 ![](img:4.bp.blogspot.com/-St62x2bUjIs/VRf94Mm-VsI/AAAAAAAAhaA/h8fNqH3q89g/s1600/dsc08296.picasaweb.jpg:a)
 
-Оптимистическая, как выразился Арьен, песня про человека в коме, //Comatose//:
+Оптимистическая, как выразился Арьен, песня про человека в коме, {{< fl "Comatose" >}}:
 ![](youtube:UEjCL7cl8lI "Anneke van Giersbergen, Arjen Lucassen, Marcela Bovio - Comatose (Ayreon)")
 
-И ещё пара видео акустики из репертуара Ayreon. //Valley of the Queens//:
+И ещё пара видео акустики из репертуара Ayreon. {{< fl "Valley of the Queens" >}}:
 ![](youtube:Gvq8IXUL7ME "Anneke van Giersbergen, Arjen Lucassen, Marcela Bovio - Valley of the Queens (Ayreon)")
 
-//Come Back To Me// (клавиши и гитара поначалу довольно заметно расходятся в ритме. Похоже, Арьен немного перенервничал и взял с места в карьер):
+{{< fl "Come Back To Me" >}} (клавиши и гитара поначалу довольно заметно расходятся в ритме. Похоже, Арьен немного перенервничал и взял с места в карьер):
 ![](youtube:9U-Tf5YCo7s "Anneke van Giersbergen, Arjen Lucassen, Marcela Bovio - Come Back to Me (Ayreon)")
 
 ## И снова {#back}
 
-После акустики Арьена наконец-то отпустили и продолжилась шумная часть. После //Cape of Storms// и //Greatest Love// Аннеке исполнила несколько своих сольных песен (//Witnesses//, //Strange Machines//, //Isis and Osiris//).
+После акустики Арьена наконец-то отпустили и продолжилась шумная часть. После {{< fl "Cape of Storms" >}} и {{< fl "Greatest Love" >}} Аннеке исполнила несколько своих сольных песен ({{< fl "Witnesses" >}}, {{< fl "Strange Machines" >}}, {{< fl "Isis and Osiris" >}}).
 ![](img:1.bp.blogspot.com/-GBtb_SMbY1c/VRf9klaaqKI/AAAAAAAAhX4/qzasJLjjYuw/s1600/dsc08168.picasaweb.jpg:a "Аннеке ван Гирсберген (Anneke van Giersbergen).")
 
 Ещё немного фото:
@@ -120,14 +120,14 @@ tags: ["Anneke van Giersbergen", "Arjen Lucassen", "Ed Warby", "Ferry Duijsens",
 ![](img:4.bp.blogspot.com/--OTeU3QBbMg/VRf9sYuGVSI/AAAAAAAAhYw/zo08Pv60-qw/s1600/dsc08223.picasaweb.jpg:a "Мерел Бехтолд (Merel Bechtold).")
 ![](img:2.bp.blogspot.com/-OdhFDQk4-FE/VRf9tqZ34_I/AAAAAAAAhY4/EGIQ2n_x1W4/s1600/dsc08239.picasaweb.jpg:a "Марсела Бовио (Marcela Bovio).")
 
-Разумеется, их не могли просто так отпустить. Команда исполнила ещё пару песен на «бис» (//Fallout//, //Shores of India//).
+Разумеется, их не могли просто так отпустить. Команда исполнила ещё пару песен на «бис» ({{< fl "Fallout" >}}, {{< fl "Shores of India" >}}).
 ![](img:3.bp.blogspot.com/-mV6KFzDC4bw/VRf96Bsmy0I/AAAAAAAAhaM/Ir7rbA2agi4/s1600/dsc08316.picasaweb.jpg:a "Аннеке ван Гирсберген (Anneke van Giersbergen).")
 ![](img:1.bp.blogspot.com/-csAOA-ZsxHU/VRf985aP12I/AAAAAAAAhac/I0m45WNiCG4/s1600/dsc08322.picasaweb.jpg:a "Мерел Бехтолд (Merel Bechtold).")
 
 Ближе к окончанию Мерел мне показалась какой-то грустной. Наверное, устала девочка.
 ![](img:3.bp.blogspot.com/-wYDZ6yJIW9A/VRf9vUkamSI/AAAAAAAAhZA/RfwXSHEnn3Q/s1600/dsc08245.picasaweb.jpg:a "Мерел Бехтолд (Merel Bechtold).")
 
-Хэппи-энд. Арьен выскочил на сцену со своей любимой собачкой Хоши (//Hoshi//), которая его [«первый ребёнок»](http://www.youtube.com/watch?v=Zke2jaZdgak) и «правитель электрического за́мка»:
+Хэппи-энд. Арьен выскочил на сцену со своей любимой собачкой Хоши ({{< fl "Hoshi" >}}), которая его [«первый ребёнок»](http://www.youtube.com/watch?v=Zke2jaZdgak) и «правитель электрического за́мка»:
 ![](img:4.bp.blogspot.com/-aeDoq3nN6Ig/VRf-AY5XFtI/AAAAAAAAha0/nk7B9EBWS_k/s1600/dsc08342.picasaweb.jpg:a "Arjen Lucassen, Merel Bechtold, Marcela Bovio, Joost van den Broek, Anneke van Giersbergen, Ed Warby, Johan van Stratum, Ferry Duijsens.")
 
 Ему даже пришлось присесть, поскольку он выше остальных как минимум на одну голову.

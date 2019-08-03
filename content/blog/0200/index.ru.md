@@ -4,7 +4,7 @@ title: "Сайт Aikikai Amersfoort"
 tags: ["Yii", "айкидо", "Амерсфорт", "веб", "Нидерланды", "сайт", "спорт"]
 ---
 
-На досуге сделал доброе дело и сваял сайт для своей школы айкидо (по-научному //доджо//) **Aikikai Amersfoort**, ныне расположенный по адресу [aikikai-amersfoort.nl](http://aikikai-amersfoort.nl/).
+На досуге сделал доброе дело и сваял сайт для своей школы айкидо (по-научному {{< fl "доджо" >}}) **Aikikai Amersfoort**, ныне расположенный по адресу [aikikai-amersfoort.nl](http://aikikai-amersfoort.nl/).
 ![](img:1.bp.blogspot.com/-lki9NxKtQqo/UmpsckNYfPI/AAAAAAAAakU/UzI2708drDg/s1600/aikikai-amersfoort.picasaweb.png:a)
 
 Прежний сайт был разработан в глубокой древности, году так в две тыщи четвёртом, и морально совершенно устарел. Например, для просмотра видео предлагалось скачать файл в формате .avi — Ютьюба в те далёкие времена ещё не существовало.

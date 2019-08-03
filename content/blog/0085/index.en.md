@@ -21,13 +21,13 @@ Vienna State Opera offers a free front row seat for the poor. There's a huge scr
 I reckon the Opera one of the most beautiful buildings in Vienna:
 ![](img:2.bp.blogspot.com/-3auBRPH5NZY/TaauY-BSLJI/AAAAAAAAItc/hQi_eslS794/s1600/dsc01487.picasaweb.jpg:a)"
 
-There's always a simple solution to architectural challenges. Two identical buildings on Maria-Theresien-Platz are //Naturhistorisches Museum// and //Kunsthistorisches Museum//, which first opened their doors to the public in 1889. Try to find a difference, here's the [Naturhistorisches Museum](http://www.nhm-wien.ac.at/):
+There's always a simple solution to architectural challenges. Two identical buildings on Maria-Theresien-Platz are {{< fl "Naturhistorisches Museum" >}} and {{< fl "Kunsthistorisches Museum" >}}, which first opened their doors to the public in 1889. Try to find a difference, here's the [Naturhistorisches Museum](http://www.nhm-wien.ac.at/):
 ![](img:2.bp.blogspot.com/-9pnsnfL1Kto/TaatJT4vouI/AAAAAAAAItc/tjr2qRq5cB0/s1600/dsc01490.picasaweb.jpg:a)"
 
 And here's [Kunsthistorisches Museum](http://www.khm.at/):
 ![](img:1.bp.blogspot.com/-2UI_SjpNjrI/TaatCWrv2kI/AAAAAAAAItc/Hp8R72HCucs/s1600/dsc01491.picasaweb.jpg:a)"
 
-There's a known place with a high concentration of museums. The area is called //Museumsquartier//; //Volkstheater// is also nearby:
+There's a known place with a high concentration of museums. The area is called {{< fl "Museumsquartier" >}}; {{< fl "Volkstheater" >}} is also nearby:
 ![](img:3.bp.blogspot.com/-fGZEHKyTlDU/TaatpkDnv0I/AAAAAAAAItc/L0CFnc8MQvU/s1600/dsc01494.picasaweb.jpg:a)"
 
 A little known great curiosity of the city is the Vienna's smallest house (Breite Gasse 20; built in 1872). It's tiny even for Amsterdam's standards: being only a couple of meters wide it forces its residents to be fit:
@@ -42,7 +42,7 @@ Hundertwasser considered the house as one of his best creatures. He is said to h
 
 ## Prater {#prater}
 
-Vienneses have a huge amusement park called  //Prater// (derives from Latin //pratum// meaning meadow). Hauptallee, which is 4.3 km long, is a popular jogging track. You can rotate the globe here:
+Vienneses have a huge amusement park called  {{< fl "Prater" >}} (derives from Latin {{< fl "pratum" >}} meaning meadow). Hauptallee, which is 4.3 km long, is a popular jogging track. You can rotate the globe here:
 ![](img:4.bp.blogspot.com/-qJa9NvjyFQk/Taauh6J27rI/AAAAAAAAItc/5Ii_SpoxCO8/s1600/dsc01504.picasaweb.jpg:a)"
 
 The Planetarium is not so popular, judging by the absence of visitors around:

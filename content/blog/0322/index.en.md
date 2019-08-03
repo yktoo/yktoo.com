@@ -67,13 +67,13 @@ The [Bulgarian language][wiki:en:Bulgarian_language] is hilarious for a Russian 
 I loved the design of these waste bins, just look at them:
 ![](img:4.bp.blogspot.com/-qTj3hF2djKo/WQ3-dxK5MrI/AAAAAAAAp5Q/W_nRz1HAxcwhRh1LVZ0keRL4qriYUic2gCPcB/s1600/dsc04981.picasaweb.jpg:a "'Ям пластмаса и метал' ('I eat plastic and metal').")
 
-//Алкохоландия// (transliterated as 'Alcoholandia') reminded me of my home.
+{{< fl "Алкохоландия" >}} (transliterated as 'Alcoholandia') reminded me of my home.
 ![](img:3.bp.blogspot.com/-ugrsYnDiuj4/WQ3-d7mBMSI/AAAAAAAAp5Y/F5_Ka84hIuQqEJFKSJlAuizPR2jHW9YCQCPcB/s1600/dsc04900.picasaweb.jpg:a "'Алкохоландия'.")
 
 Just like Russians, they have some National Front that's supposed to save the country from someone or something.
 ![](img:1.bp.blogspot.com/-KF1S3GiGiI8/WQ3-d5Nw2FI/AAAAAAAAp5Q/W_-dwgSwd7sOUnig6_6_cel1J8EDHjmQACPcB/s1600/dsc04959.picasaweb.jpg:a "'НФСБ'.")
 
-And last but not least, there's the Great Vladaya River, //Владайска река//:
+And last but not least, there's the Great Vladaya River, {{< fl "Владайска река" >}}:
 ![](img:3.bp.blogspot.com/-wQZVSh4gm9w/WQ3-dwwpKRI/AAAAAAAAp5g/wUIhs_uMLYE8g61MWXbjCxl9IA97oQ3fQCPcB/s1600/20170427_104305.picasaweb.jpg:a "Vladaya river.")
 
 ## Soviet legacy {#legacy}
@@ -83,7 +83,7 @@ Bulgaria is a peculiar mix of old and new. On the one hand you see the influence
 For instance, homeless people and stray dogs.
 ![](img:4.bp.blogspot.com/-OIPxvc1z2WM/WQ3-d7IesRI/AAAAAAAAp5g/UiHhP4zGVOMyQhevxf22zc_Ohi-jbsdLQCPcB/s1600/dsc04901.picasaweb.jpg:a "Afternoon sun-bathing.")
 
-Sometimes you see Russian cars like these Nivas. What's the difference between //Полиция// (Police) and //Жандармерия// (Gendarmerie) anyway?
+Sometimes you see Russian cars like these Nivas. What's the difference between {{< fl "Полиция" >}} (Police) and {{< fl "Жандармерия" >}} (Gendarmerie) anyway?
 ![](img:3.bp.blogspot.com/-tw4KL338cwY/WQ3-d8eZYXI/AAAAAAAAp5Y/87isbDKbGl8NX47F4J_DkOL40_AZxtdvACPcB/s1600/dsc04898.picasaweb.jpg:a "Gendarmes on Nivas.")
 
 This isn't Soviet, but still socialist: a monument to [Trabant][wiki:en:Trabant]:
@@ -120,7 +120,7 @@ They are well worth looking at.
 A large part of this underground complex has been restored, and it's sometimes hard to tell what is original here. The bricks are modern I reckon.
 ![](img:3.bp.blogspot.com/-rzvbn1plPnA/WQ3-dyKqqTI/AAAAAAAAp5g/XSz_yatf0MseQuV_VLWyZoNtTXsRvWmJwCPcB/s1600/dsc04870.picasaweb.jpg:a "Serdica.")
 
-This is a forty-metre long fragment of the central street called //Cardo Maximus//:
+This is a forty-metre long fragment of the central street called {{< fl "Cardo Maximus" >}}:
 ![](img:3.bp.blogspot.com/-WWMGTBM-nq4/WQ3-d59jQsI/AAAAAAAAp5Y/0i0R1HQ2Ot0vrecjoaxBRAhOlU9u1lDnQCPcB/s1600/dsc04871.picasaweb.jpg:a "Serdica. Cardo Maximus.")
 
 It reminds you of Rome as you wander through these ruins. There you also see broken pillars and porticos here and there, but on a larger scale of course.
@@ -139,7 +139,7 @@ Sofia has strikingly many Orthodox churches. I guess that helps to fill the muni
 
 ### St Nedelya Church
 
-Right across the street from Saint Sofia you find the [St Nedelya Church][wiki:en:St_Nedelya_Church] (//Света Неделя//).
+Right across the street from Saint Sofia you find the [St Nedelya Church][wiki:en:St_Nedelya_Church] ({{< fl "Света Неделя" >}}).
 ![](img:4.bp.blogspot.com/-FaNjglTku5Q/WQ3-dwjZxwI/AAAAAAAAp5Y/dGuZAwpk7TcP3pRRs0dAXsBaiUgA_Iy0QCPcB/s1600/dsc04902.picasaweb.jpg:a "St Nedelya Church.")
 
 This church is infamous for the assault of 1925 that claimed over 150 victims.
@@ -161,7 +161,7 @@ The ancient church is surrounded by modern buildings, amongst which the Bulgaria
 ![](img:3.bp.blogspot.com/-EWAgA1mvLdY/WQ3-d9yqOCI/AAAAAAAAp5g/yswAQSMZ7kwxYBK-XBUUhJIxDR5SiHPSQCPcB/s1600/dsc04916.picasaweb.jpg:a "Church of St George.")
 ![](img:3.bp.blogspot.com/-PTHzC0_41-o/WQ3-d8VMW0I/AAAAAAAAp5Y/DKiTlq8Famoo12aC32L7kYoRbLvrV8LHACPcB/s1600/dsc04915.picasaweb.jpg:a "Church of St George.")
 
-And there's a night club called Arbat (//Арбат//) right in front of it!
+And there's a night club called Arbat ({{< fl "Арбат" >}}) right in front of it!
 ![](img:4.bp.blogspot.com/-YVoFB0LCgsw/WQ3-d_GPS9I/AAAAAAAAp5g/Y68P_bAxpzYd2hLcJoeoo7vbrkGrKSkpACPcB/s1600/dsc04917.picasaweb.jpg:a "A hairdresser's and a night club.")
 
 ### Church of St Petka
@@ -269,7 +269,7 @@ The highest concentration of fountains could be found in the park of the [Nation
 
 Whatever you think, you're most likely wrong.
 
-This is *1300 years of Bulgaria* monument! This masterpiece has been unveiled in 1981 to commemorate the 1300<sup>th</sup> anniversary of the Bulgarian state. Years later it turned so ugly that it's been rated [**3** out of **10**](http://www.dark-tourism.com/index.php/15-countries/individual-chapters/292-monument-1300-years-of-bulgaria-sofia) on the //Darkometer// scale.
+This is *1300 years of Bulgaria* monument! This masterpiece has been unveiled in 1981 to commemorate the 1300<sup>th</sup> anniversary of the Bulgarian state. Years later it turned so ugly that it's been rated [**3** out of **10**](http://www.dark-tourism.com/index.php/15-countries/individual-chapters/292-monument-1300-years-of-bulgaria-sofia) on the {{< fl "Darkometer" >}} scale.
 
 And, naturally, the fountains—they stretch along the entire alley up to the National Palace of Culture.
 ![](img:1.bp.blogspot.com/-sJPWuNgMwm8/WQ3-d3aOH5I/AAAAAAAAp5g/1vXcbfmY-9koJ12DNIixMutU6XmNOiNRwCPcB/s1600/dsc05002.picasaweb.jpg:a "Fountains before the NPC.")
@@ -324,7 +324,7 @@ And this is what it protects:
 
 This is made so beautifully and precisely that I really adored it!
 
-And here's another Bulgarian fetish: lions. Lions are all over the place here. Even the national currency is called "lion" (//лев//):
+And here's another Bulgarian fetish: lions. Lions are all over the place here. Even the national currency is called "lion" ({{< fl "лев" >}}):
 ![](img:1.bp.blogspot.com/-A5d-GN6FYNI/WQ3-dzIPY_I/AAAAAAAAp5Q/JzmlXgyecGIbeAhcp9s0uHt4hUEisYuLgCPcB/s1600/dsc04962.picasaweb.jpg:a "Lion next to the Monument to the Unknown Soldier.")
 
 You can also find lions before the Palace of Justice. As well as numerous reporters:
@@ -366,7 +366,7 @@ Instead of a controller we were greeted at the entrance by this furry beast, who
 
 Below I'll show quite a few exhibits from the museum's collection in case someone's interested.
 
-Not really military yet quite historical //Trabant 601//, which commemorates Bulgaria entering NATO in 2004:
+Not really military yet quite historical {{< fl "Trabant 601" >}}, which commemorates Bulgaria entering NATO in 2004:
 ![](img:3.bp.blogspot.com/-JonF2lM6rmg/WQ3-d44nZXI/AAAAAAAAp5Q/g0B_FWok4Qs4qMCoas8jIiX7xs_JMQiogCPcB/s1600/dsc05033.picasaweb.jpg:a "Trabant 601.")
 
 Tank **T-34-85**, 1994. Weight 32 t, road speed up to 55 km/h, operational range 360 km:

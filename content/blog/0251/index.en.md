@@ -13,7 +13,7 @@ For your information, a *USB voltage and current tester* is a device for measuri
 
 The photo above depicts a couple of models I possess. They both look pretty much like a regular USB stick, with the exception of a USB output at the side. In order to get voltage/current readings, you have to plug it between the USB port and the gadget being charged.
 
-The one on the right is labelled //Keweisi//, whatever that means, and there's no further model names to these. Therefore I'll refer to them as "No. 1" and "No. 2".
+The one on the right is labelled {{< fl "Keweisi" >}}, whatever that means, and there's no further model names to these. Therefore I'll refer to them as "No. 1" and "No. 2".
 
 ## Tester No. 1 {#model-1}
 

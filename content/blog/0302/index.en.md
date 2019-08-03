@@ -42,12 +42,12 @@ Following the tradition I'd like to look back on the last year—which has been 
 * Develop the [InfoPi][post:278] system as a part of that smart home.
 * Modify my 75-inch TV by [adding backlight][post:280] without breaking the whole thing.
 * See with my own eyes:
-    * [Dream Theater][post:272] at //Carré//.
-    * [Sun Caged][post:283] & Co at //De Bosuil//.
-    * *Plini*, *Intervals*, and *Animals as Leaders* at //Patronaat//.
-    * *Stream of Passion* at //P60//, for the last time.
-    * [Shadowrise and Myrath][post:296] at //Patronaat//.
-    * *Crisálida*, *Imperial Age*, *Voodoo Kungfu*, and *Orphaned Land* at //Baroeg//.
+    * [Dream Theater][post:272] at {{< fl "Carré" >}}.
+    * [Sun Caged][post:283] & Co at {{< fl "De Bosuil" >}}.
+    * *Plini*, *Intervals*, and *Animals as Leaders* at {{< fl "Patronaat" >}}.
+    * *Stream of Passion* at {{< fl "P60" >}}, for the last time.
+    * [Shadowrise and Myrath][post:296] at {{< fl "Patronaat" >}}.
+    * *Crisálida*, *Imperial Age*, *Voodoo Kungfu*, and *Orphaned Land* at {{< fl "Baroeg" >}}.
     * [Moriteru Ueshiba][post:292], the grandson of the founder of aikido.
 * And last but not least, finally learn to fold T-shirts like in [this video](https://www.youtube.com/watch?v=iyqltFTug1I)!
 

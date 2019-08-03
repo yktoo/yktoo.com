@@ -5,7 +5,7 @@ group: "Vienna and Budapest"
 tags: ["Budapest", "Hungary", "travel"]
 ---
 
-On our last day, (morning, to be precise), we decided to visit St. Stephen's Basilica (//Szent István-bazilika//), a famous Roman Catholic cathedral.
+On our last day, (morning, to be precise), we decided to visit St. Stephen's Basilica ({{< fl "Szent István-bazilika" >}}), a famous Roman Catholic cathedral.
 
 On our way to the cathedral I spotted an interesting mechanism at a building yard:
 ![](img:4.bp.blogspot.com/-GN_9MniZolw/Tan3XtHDKYI/AAAAAAAAItc/88U0pStqmm0/s1600/dsc01925.picasaweb.jpg:a)
@@ -14,7 +14,7 @@ A constructor tried to explain me in signs that I wasn't allowed to photograph t
 
 <!--more-->
 
-St. Stephen's Basilica is situated on the square of the same name in Pest (//Szent István tér//):
+St. Stephen's Basilica is situated on the square of the same name in Pest ({{< fl "Szent István tér" >}}):
 ![](img:3.bp.blogspot.com/-TfzvFumcItc/Tan3rRlmGBI/AAAAAAAAItc/y0qyMj2ktPg/s1600/dsc01938.picasaweb.jpg:a)
 
 Ego sum via veritas et vita (I wouldn't challenge that):
@@ -45,7 +45,7 @@ Stained-glass windows sparkle when it's sunny outside:
 I payed attention to a more contemporary piece located near the exit:
 ![](img:1.bp.blogspot.com/-QeexHxDi7jk/Tan1-XZqcNI/AAAAAAAAItc/HVmVSe4TdhI/s1600/dsc01975.picasaweb.jpg:a)
 
-The composition is named "Mindszenty is crucified on the crosses of the 20th century". It depicts Hungarian cardinal //Jozsef Mindszenty// (1892-1975), who suffered from both fascists and communists. That's why he is crucified on a swastika combined with a hammer-and-sickle symbol.
+The composition is named "Mindszenty is crucified on the crosses of the 20th century". It depicts Hungarian cardinal {{< fl "Jozsef Mindszenty" >}} (1892-1975), who suffered from both fascists and communists. That's why he is crucified on a swastika combined with a hammer-and-sickle symbol.
 
 That's it. We're done and going to the station.
 

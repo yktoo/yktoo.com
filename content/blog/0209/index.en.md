@@ -18,7 +18,7 @@ I've never been to Egypt or even Africa before ([Gran Canaria][post:148] doesn't
 But first things first. Let's start off with the good stuff, the sea.
 ![](img:3.bp.blogspot.com/-WhG2CuTPnhU/UsQKZtFKY4I/AAAAAAAAbFY/BCQ_a_7PuPI/s1600/dsc01946.picasaweb.jpg:a)
 
-Hurghada (//الغردقة‎//) is a very young city, founded in the early 20<sup>th</sup> century. It stretches for about 36 km (22 miles) along the coast of the Red Sea and mainly consists of beaches and hotels.
+Hurghada ({{< fl "الغردقة‎" >}}) is a very young city, founded in the early 20<sup>th</sup> century. It stretches for about 36 km (22 miles) along the coast of the Red Sea and mainly consists of beaches and hotels.
 
 The climate is subtropical-desert, with January being the coldest month (day average is 22° C/72° F). We've been lucky to have almost eight full days of sunshine, with day temperature of 25–28° C (77–82° F). After the sunset, which happens shortly after 5 PM in the winter, the air temperature plummets down to 10–12° C (50–54° F), which is to be considered when choosing one's clothes.
 
@@ -98,7 +98,7 @@ The colour of the water here is as it should be:
 Our steersman is chatting on the mobile, holding its back side to his ear. I think he's using the speaker-phone because the wind is too strong to hear anything from the regular speaker:
 ![](img:3.bp.blogspot.com/-f9tIGST_Tao/UsQK5ClINOI/AAAAAAAAbIA/reTizoJuUkQ/s1600/dsc02066.picasaweb.jpg:a)
 
-We're sailing towards the //Giftun// island, the second largest. The largest island is used for military purposes and tourists are not welcome there.
+We're sailing towards the {{< fl "Giftun" >}} island, the second largest. The largest island is used for military purposes and tourists are not welcome there.
 
 A lot of other boats are going up and down in both directions. I can't take my eyes off the sea, so beautiful its colour is:
 ![](img:3.bp.blogspot.com/-K_UaueBQc7U/UsQK6clIjfI/AAAAAAAAbII/nQ6Rym5Q5II/s1600/dsc02069.picasaweb.jpg:a)

@@ -41,7 +41,7 @@ sudo apt update
 sudo apt install indicator-docker
 ```
 
-At this moment builds are available for //Ubuntu 16.10 Yakkety Yak// and //Ubuntu 17.04 Zesty Zapus//. The application is started automatically after login.
+At this moment builds are available for {{< fl "Ubuntu 16.10 Yakkety Yak" >}} and {{< fl "Ubuntu 17.04 Zesty Zapus" >}}. The application is started automatically after login.
 
 *By the way*, once I've started digging into the subject, I figured out that Docker has a great, fully [documented](https://docker-py.readthedocs.io/en/stable/) Python API, and also that the daemon is interacted with via REST calls to its web server. These calls can be monitored if you start the indicator with the `-vv` option. This is so awesome!
 

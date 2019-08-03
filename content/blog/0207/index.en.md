@@ -18,7 +18,7 @@ You can climb the look-out tower there to really admire the surrounding views—
 
 There is a Chinese restaurant named Sea Palace in the same building, allowing you to admire the same views in less windy circumstances.
 
-But the view from the tower still beats it. The Old Outer Haven (//Oude Buitenhaven//) with passages to inner havens called simply Northern (//Noorderhaven//, on the left) and Southern (//Zuiderhaven//, on the right):
+But the view from the tower still beats it. The Old Outer Haven ({{< fl "Oude Buitenhaven" >}}) with passages to inner havens called simply Northern ({{< fl "Noorderhaven" >}}, on the left) and Southern ({{< fl "Zuiderhaven" >}}, on the right):
 ![](img:1.bp.blogspot.com/-xUkxns1HvlM/UhoJROAGBSI/AAAAAAAAZcY/OCTA_3jetQY/s1600/dsc09738.picasaweb.jpg:a)
 
 The toy-like houses are perfect for post cards:

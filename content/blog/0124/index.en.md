@@ -17,11 +17,11 @@ About the same picture is with wine prices.
 
 But even Dutch rip-off is no close match to Russian prices.
 
-The best wine I've tasted up to now, //Rioja Berberana Crianza 2007//, you can buy for 6 euro from a supermarket:
+The best wine I've tasted up to now, {{< fl "Rioja Berberana Crianza 2007" >}}, you can buy for 6 euro from a supermarket:
 ![](img:4.bp.blogspot.com/-qnHsoCutNEo/VHTyB4aIzgI/AAAAAAAAgFQ/27qqALYfID4/s1600/dsc07228.picasaweb.jpg:a)
 
-Almost the same //Rioja Lagunilla Crianza 2007// costs € 7, but it's on sale now so you have two for the price of one, i.e. € 3.50 a bottle:
+Almost the same {{< fl "Rioja Lagunilla Crianza 2007" >}} costs € 7, but it's on sale now so you have two for the price of one, i.e. € 3.50 a bottle:
 ![](img:4.bp.blogspot.com/-kZ8P2GzGRWg/VHTyA0F12GI/AAAAAAAAgFI/_e3NR16vT-k/s1600/dsc07225.picasaweb.jpg:a)
 
-Cheaper wines are 2–3 euros per bottle. Even the pretentious //Valdepeñas Gran Reserva 2005// in a discounter like //Lidl// costs only five euros:
+Cheaper wines are 2–3 euros per bottle. Even the pretentious {{< fl "Valdepeñas Gran Reserva 2005" >}} in a discounter like {{< fl "Lidl" >}} costs only five euros:
 ![](img:1.bp.blogspot.com/-VcoAUN_QANY/VHTyC7IOAlI/AAAAAAAAgFY/utYRfvRHg34/s1600/dsc07231.picasaweb.jpg:a)

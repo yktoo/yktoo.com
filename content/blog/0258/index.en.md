@@ -4,7 +4,7 @@ title: "Getting a Russian visa"
 tags: ["bureaucracy", "Netherlands", "Russia", "visa"]
 ---
 
-In my [last post][post:257] I offered you some insight into the Hell's Kitchen, usually labelled with a sign //Почта России// (*Russian Post*).
+In my [last post][post:257] I offered you some insight into the Hell's Kitchen, usually labelled with a sign {{< fl "Почта России" >}} (*Russian Post*).
 
 This story is about a quest called "getting a Russian visa". I have to warn you it won't be as dramatic as the previous one. Partly because the main burden is usually on the shoulders of the receiving person.
 
@@ -40,4 +40,4 @@ I got very lucky thanks to my habit of scanning and storing all my documents in 
 
 I've got a visa in five business days, as expected. Nonetheless, you're advised never to expect anything when dealing with Russian officials.
 
-Compared to that, getting a Shengen visa is a breeze. The inviter also sends a guarantee statement (//garantstelling//), but there you may choose whether or not to provide financial support. You simply print out the [statement form](https://ind.nl/EN/documents/1310.pdf) at home and certify your signature at your local town-hall. This takes about five minutes of your time (as opposed to 20 business days) and an ID. The visa is usually ready in 4-7 days.
+Compared to that, getting a Shengen visa is a breeze. The inviter also sends a guarantee statement ({{< fl "garantstelling" >}}), but there you may choose whether or not to provide financial support. You simply print out the [statement form](https://ind.nl/EN/documents/1310.pdf) at home and certify your signature at your local town-hall. This takes about five minutes of your time (as opposed to 20 business days) and an ID. The visa is usually ready in 4-7 days.

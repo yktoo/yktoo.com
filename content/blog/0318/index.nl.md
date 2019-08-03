@@ -33,9 +33,9 @@ Hieronder beschrijf ik uitgebreid elk van deze punten.
 
 ### Referenties van een bekende
 
-Je kennissen (zowel privé als professionele), ofwel je //social network//, is de snelste en de eenvoudigste manier om ingehuurd te worden. Als je cv rechtstreeks aan de manager wordt gegeven is de kans om de opdracht te verkrijgen veel hoger. Er wordt bijvoorbeeld [beweerd](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2441471) dat **30-50%** van alle indienstnemingen in de VS op referenties zijn gebaseerd, terwijl de waarschijnlijkheid om via deze route ingehuurd te worden **vier keer** zo groot is.
+Je kennissen (zowel privé als professionele), ofwel je {{< fl "social network" >}}, is de snelste en de eenvoudigste manier om ingehuurd te worden. Als je cv rechtstreeks aan de manager wordt gegeven is de kans om de opdracht te verkrijgen veel hoger. Er wordt bijvoorbeeld [beweerd](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2441471) dat **30-50%** van alle indienstnemingen in de VS op referenties zijn gebaseerd, terwijl de waarschijnlijkheid om via deze route ingehuurd te worden **vier keer** zo groot is.
 
-Daarom een advies: breid je //social network// uit, neem deel aan [meetups](https://www.meetup.com/) en hackathons, volg IT blogs, leer nieuwe dingen op [Coursera](https://www.coursera.org/), enzovoorts. Dit is onder andere de beste manier om op de hoogte te blijven van ontwikkelingen op je eigen vakgebied.
+Daarom een advies: breid je {{< fl "social network" >}} uit, neem deel aan [meetups](https://www.meetup.com/) en hackathons, volg IT blogs, leer nieuwe dingen op [Coursera](https://www.coursera.org/), enzovoorts. Dit is onder andere de beste manier om op de hoogte te blijven van ontwikkelingen op je eigen vakgebied.
 
 ### Websites van potentiële klanten
 

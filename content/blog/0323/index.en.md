@@ -49,10 +49,10 @@ Another impressive fountain is located in front of the City-Hall:
 
 We came to the centre with a specific goal in mind. We were told about a free guided tour similar to the [Sofian one][post:322#free-sofia-tour], which was called [Free Plovdiv Tour](http://www.freeplovdivtour.com/). Likewise it's also two hours long and is held twice to three times a day.
 
-The tour starts at the above fountain, right in front of the City-Hall (//Община// in Bulgarian):
+The tour starts at the above fountain, right in front of the City-Hall ({{< fl "Община" >}} in Bulgarian):
 ![](img:3.bp.blogspot.com/-_GryGceGaKE/WQ3-d_qJd-I/AAAAAAAAp5I/Kh5qc_E_lgkKz5Wd2fAoT-jBtt9Xh07SACPcB/s1600/dsc05146.picasaweb.jpg:a "Plovdiv City-Hall.")
 
-Our guide was an enthusiast historian and a student [Ilia Iliev](https://www.facebook.com/profile.php?id=100001670580619). Here he is telling us about a mascot of Plovdiv, the feeble-minded yet benevolent Milio (//Мильо//), in the old days known to the whole city:
+Our guide was an enthusiast historian and a student [Ilia Iliev](https://www.facebook.com/profile.php?id=100001670580619). Here he is telling us about a mascot of Plovdiv, the feeble-minded yet benevolent Milio ({{< fl "Мильо" >}}), in the old days known to the whole city:
 ![](img:1.bp.blogspot.com/-woYauLLSy98/WQ3-dxpbYtI/AAAAAAAAp5I/TNbRG8Nx3R4OqIBx6LmXyUS-9qnwyg75ACPcB/s1600/dsc05147.picasaweb.jpg:a "Ilia Iliev.")
 
 Milio died from pneumonia in 1984, in poverty, and was commemorated in 2000's with a monument set at the same place he used to sit:
@@ -71,7 +71,7 @@ The visible part of the original is limited to its round side, which can be seen
 Straight next to it you can see the [Dzhumaya Mosque][wiki:en:Dzhumaya_Mosque] built in **1364**, which makes it the oldest mosque in Europe:
 ![](img:1.bp.blogspot.com/-3cHhBndMz-w/WQ3-d8ODTII/AAAAAAAAp5I/cehzH5dEfyYM0NYtavljhJzedDyyqhhUQCPcB/s1600/dsc05153.picasaweb.jpg:a "Dzhumaya Mosque.")
 
-Then we were led into the historic part of Plovdiv (//Стария Град//, "Old Town").
+Then we were led into the historic part of Plovdiv ({{< fl "Стария Град" >}}, "Old Town").
 ![](img:1.bp.blogspot.com/-cMlmAIEel4I/WQ3-d1SXSeI/AAAAAAAAp5I/kfUwoGVlKGEHrA4bUkKUl2GBdkOmlA8JwCPcB/s1600/dsc05154.picasaweb.jpg:a "Free Plovdiv Tour.")
 
 The tour audience was presented by tourists from all over the world: there were a Turkish couple, a British couple, an Australian, an Argentinian girl living in Spain etc. And, of course, a couple of Russians living in the Netherlands.
@@ -103,7 +103,7 @@ The unremarkable house below has hosted the famous French poet [Alphonse de Lama
 A large part of the history of Plovdiv is linked to the communist period of Bulgaria, which the population is nowadays hardly fond of.
 ![](img:4.bp.blogspot.com/-lrz7g6yvqr8/WQ3-d_NhI9I/AAAAAAAAp5I/HTvrz4RciCs4J2ZgQqANgHIZsRNQ-TiYACPcB/s1600/dsc05139.picasaweb.jpg:a "'Plovdiv-Leningrad 1980.'")
 
-Here's a monument to one of the victims of those years, the jazz musician [Alexander Nikolov][wiki:bg:Александър_Николов] nicknamed //Сашо Сладура// (which can be translated as "Sweet Alex"). He was known because of his derision of communists and the regime, and he has paid a heavy price for it. He was sent to a work camp in 1961, where he was humiliated and killed shortly after:
+Here's a monument to one of the victims of those years, the jazz musician [Alexander Nikolov][wiki:bg:Александър_Николов] nicknamed {{< fl "Сашо Сладура" >}} (which can be translated as "Sweet Alex"). He was known because of his derision of communists and the regime, and he has paid a heavy price for it. He was sent to a work camp in 1961, where he was humiliated and killed shortly after:
 ![](img:4.bp.blogspot.com/-Q1bPv7Q7p9w/WQ3-dx9rGwI/AAAAAAAAp5I/g7GXxHJPtBIVRZi5LjHjq62UkIIKUhCiACPcB/s1600/dsc05165.picasaweb.jpg:a "Alexander Nikolov.")
 
 Ilia also told us that the years immediately after the communist regime collapsed have seen a sharp rise of street crime. Back then it was not so uncommon that someone got shot down on the street in broad daylight. Luckily these days are over and it's quite safe there now. Although you still need to be wary of pickpockets.

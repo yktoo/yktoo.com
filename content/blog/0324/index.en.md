@@ -6,7 +6,7 @@ tags: ["Amersfoort", "architecture", "emoji", "funny", "Netherlands", "Vathorst"
 
 What I like about the Dutch is how they manage to combine classic with contemporary, conservative with conspicuous. For instance, the modern Dutch architecture is usually quite geometrical and sober, with no gaudy elements. As you have a closer look, you suddenly spot emojis on the façade!
 
-//Vathorst//, a young district in Amersfoort (where we once held our [aikido demo][post:224]), has recently got an apartment building with twenty-two emoticons picked from the popular messenger *WhatsApp*. I decided to take a look at this new attraction after I've read about it in the local news.
+{{< fl "Vathorst" >}}, a young district in Amersfoort (where we once held our [aikido demo][post:224]), has recently got an apartment building with twenty-two emoticons picked from the popular messenger *WhatsApp*. I decided to take a look at this new attraction after I've read about it in the local news.
 
 <!--more-->
 
@@ -17,7 +17,7 @@ What I like about the Dutch is how they manage to combine classic with contempor
 The building with shops on the ground level and apartments above was designed by the architect bureau [Attika Architekten](http://www.attika.nl/projecten/plein-rond-de-eik). The concrete emoticons only appear on one of its walls.
 ![](img:3.bp.blogspot.com/-ZI7EXGMDF_g/WQ9rt9ZppyI/AAAAAAAAp6k/9qYkJoUlTbgiHYZeHZH7I2OmZUyEEFfOwCPcB/s1600/dsc05178.picasaweb.jpg:a "Emoticons.")
 
-This house is erected on a square built around a 150-year-old oak, which bears the logical name of //Plein Rond de Eik// ("Square Around the Oak").
+This house is erected on a square built around a 150-year-old oak, which bears the logical name of {{< fl "Plein Rond de Eik" >}} ("Square Around the Oak").
 
 The author of the idea Changiz Tehrani said in his [interview to The Verge](https://www.theverge.com/tldr/2017/4/24/15405402/emoji-emoticon-architecture-facade-netherlands):
 

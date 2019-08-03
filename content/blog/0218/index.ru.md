@@ -16,12 +16,12 @@ tags: ["Precise Pangolin", "PulseAudio", "Python", "Quantal Quetzal", "Raring Ri
 * При установке создаётся ярлык в папке автозагрузки, так что индикатор запускается автоматически после входа в систему.
 * Бэк-порт всех текущих возможностей на GTK+ версии 2 (для этого в репозитории создана отдельная [ветка](https://github.com/yktoo/indicator-sound-switcher/tree/gtk2)), благодаря чему индикатор работает в следующих версиях Убунту:
   * GTK+ версии 2:
-      * **12.04** LTS (//Precise Pangolin//)
-      * **12.10** (//Quantal Quetzal//)
-      * **13.04** (//Raring Ringtail//)
+      * **12.04** LTS ({{< fl "Precise Pangolin" >}})
+      * **12.10** ({{< fl "Quantal Quetzal" >}})
+      * **13.04** ({{< fl "Raring Ringtail" >}})
   * GTK+ версии 3:
-      * **13.10** (//Saucy Salamander//)
-      * **14.04** LTS (//Trusty Tahr//) — протестирован в Trusty Alpha 2.
+      * **13.10** ({{< fl "Saucy Salamander" >}})
+      * **14.04** LTS ({{< fl "Trusty Tahr" >}}) — протестирован в Trusty Alpha 2.
 * Добавлена иконка программы по умолчанию, которая будет отображаться, если используется нестандартная тема оформления. Я сделал её более контрастной, чтобы она была хорошо заметна как в светлых, так и в тёмных темах:
   ![](img:1.bp.blogspot.com/-p_jKIQD-wJ4/UvZeMTHsmYI/AAAAAAAAb1g/DYm853qnCjw/s1600/indicator-sound-switcher.png)
 

@@ -14,7 +14,7 @@ Whether it's a well-maintained old piece or just a mockup, I don't know.
 But a lot of people on the platform grabbed their mobiles to photograph it.
 ![](img:4.bp.blogspot.com/-KJYncmZJysM/UrRpeYfvxqI/AAAAAAAAbBw/_0rzapL_lwg/s1600/img_20131220_123840.picasaweb.jpg:a)
 
-Just for comparison, a typical Dutch //Intercity// looks usually like this:
+Just for comparison, a typical Dutch {{< fl "Intercity" >}} looks usually like this:
 ![](img:3.bp.blogspot.com/-kD2xquIQf-o/UrRrKresnHI/AAAAAAAAbCM/WKb2obBPtPo/s1600/DSC01176.picasaweb.jpg:a)
 
 I'm travelling with the train almost daily. And sometimes see something like this:

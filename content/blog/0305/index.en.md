@@ -6,7 +6,7 @@ tags: ["GitHub", "touchpad", "Ubuntu", "yktools"]
 
 Recently I've been busy learning the esoteric editor called [Vim][wiki:en:Vim] and figured out my laptop's touchpad is causing nuisance when you're working with the keyboard only—which is the whole point of using *Vim*. At the same time, some programs are nearly unusable without the mouse. In other words, I wanted to be able to switch the touchpad on and off—with the keyboard, of course.
 
-Some laptops have a special key combination for it, but my //Dell XPS 13"// doesn't. Ubuntu also provides a switch in the Control Center, but it's hardly reachable without the mouse:
+Some laptops have a special key combination for it, but my {{< fl "Dell XPS 13\"" >}} doesn't. Ubuntu also provides a switch in the Control Center, but it's hardly reachable without the mouse:
 
 <!--more-->
 

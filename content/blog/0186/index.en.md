@@ -6,7 +6,7 @@ tags: ["beautiful", "bloemencorso", "flower parade", "flowers", "Keukenhof"]
 
 So many things have piled up while I was busy with my [website][route:/site/index], not sure I'll be able to handle them.
 
-Let's take the famous flower parade, or //bloemencorso// in Dutch. It's a yearly event, held in late April or early May near [Keukenhof][post:10], the largest flower garden in the world.
+Let's take the famous flower parade, or {{< fl "bloemencorso" >}} in Dutch. It's a yearly event, held in late April or early May near [Keukenhof][post:10], the largest flower garden in the world.
 ![](img:3.bp.blogspot.com/-QR1Jfd12kjI/UZVBs3xvkwI/AAAAAAAAX3I/4zQECmiFdPg/s1600/dsc08203.picasaweb.jpg:a)
 
 *Warning: there's about a hundred photos under the cut.*
@@ -15,7 +15,7 @@ Let's take the famous flower parade, or //bloemencorso// in Dutch. It's a yearly
 
 I've heard about it a lot but always failed to see it. As it turned out, one has simply to open the [website](http://bloemencorso-bollenstreek.nl/) of the event and find out where and when it is to be seen.
 
-The whole procession of twenty motorised platforms sets out on a predefined day (April 20 this year, in 2014 it will be May 3) in the morning at  //Noordwijk// and proceeds in the direction of //Haarlem// at a walking pace. We picked a small town called //Hillegom// where the parade was expected around four in the afternoon.
+The whole procession of twenty motorised platforms sets out on a predefined day (April 20 this year, in 2014 it will be May 3) in the morning at  {{< fl "Noordwijk" >}} and proceeds in the direction of {{< fl "Haarlem" >}} at a walking pace. We picked a small town called {{< fl "Hillegom" >}} where the parade was expected around four in the afternoon.
 
 The down-town is packed with people. The route in fenced all along the way.
 ![](img:4.bp.blogspot.com/-UJR7bbF6gzI/UZU_UA7eB4I/AAAAAAAAXvg/w-dsE3kJ3OQ/s1600/dsc07976.picasaweb.jpg:a)
@@ -28,7 +28,7 @@ The camera crew prepares a motion camera:
 It's sunny but cool. Everyone is awaiting the procession, but it's not coming. A quarter past four. Half past four. Five.
 ![](img:3.bp.blogspot.com/-TJrmAXPgy_k/UZU_YrTDZ2I/AAAAAAAAXvw/BH4_BvV_Ri8/s1600/dsc07984.picasaweb.jpg:a)
 
-Somebody hands out newspapers now and then or sells //stroopwafels//, treacle waffles:
+Somebody hands out newspapers now and then or sells {{< fl "stroopwafels" >}}, treacle waffles:
 ![](img:3.bp.blogspot.com/-F3KoyI-SIIw/UZU_bEJeMxI/AAAAAAAAXv4/_Oy4CzQPk48/s1600/dsc07992.picasaweb.jpg:a)
 
 It's handy to have a street-facing balcony.
@@ -52,7 +52,7 @@ Next is a tractor, decorated with flowers, too. And some more cars blatantly exp
 And finally, at half past five, hour and a half behind the schedule, the first platform appears.
 ![](img:2.bp.blogspot.com/-jDpBVPaDM3k/UZU_0oeGUoI/AAAAAAAAXxQ/8q7MWJ1A9zg/s1600/dsc08029.picasaweb.jpg:a)
 
-It's a creation of De Telegraaf newspaper called //Ontbijten en Genieten//, "have a breakfast and enjoy". It depicts coffee cups, boiled eggs and also something brown, unidentifiable. Buns?
+It's a creation of De Telegraaf newspaper called {{< fl "Ontbijten en Genieten" >}}, "have a breakfast and enjoy". It depicts coffee cups, boiled eggs and also something brown, unidentifiable. Buns?
 ![](img:2.bp.blogspot.com/-fjy-lVtoAZo/UZU_21H9YcI/AAAAAAAAXxY/sNM147cW7gg/s1600/dsc08035.picasaweb.jpg:a)
 
 Its second part displays a glass full of something that's supposed to be orange juice, but is rather looking like beer. And a lemon. Plus a purple box.
@@ -66,7 +66,7 @@ Small ad cars drive between platforms. They even have lighting as the parade wil
 
 At this point we were sick of the wind and hubbub. We decided to move forward with the procession, which was a right idea. Few hundred meters ahead was no fence, more space and no shade.
 
-The second platform: a shoe called //Lekker in je vel//, "nice to be yourself".
+The second platform: a shoe called {{< fl "Lekker in je vel" >}}, "nice to be yourself".
 ![](img:2.bp.blogspot.com/-9W9nupUv7wg/UZVAC46atDI/AAAAAAAAXyA/JBZHVtUs0zQ/s1600/dsc08077.picasaweb.jpg:a)
 
 The decoration is not purely floral. Also leaves, paprika, apples make it look beautiful.
@@ -89,7 +89,7 @@ Girls pretend to sit in a camping:
 ![](img:4.bp.blogspot.com/-nCFpXqmA7fI/UZU__tsgrmI/AAAAAAAAXx4/nSmR_MI_ffU/s1600/dsc08071.picasaweb.jpg:a)
 ![](img:1.bp.blogspot.com/-i93YFaike64/UZVAgKRh_nI/AAAAAAAAXzI/z3BfYQ7QkfE/s1600/dsc08094.picasaweb.jpg:a)
 
-The fourth platform: //Bourgondische maaltijd//, "Burgundian dinner":
+The fourth platform: {{< fl "Bourgondische maaltijd" >}}, "Burgundian dinner":
 ![](img:4.bp.blogspot.com/-DEH7dbxsEEc/UZVAizuWOuI/AAAAAAAAXzQ/q5PWrDjRUT4/s1600/dsc08096.picasaweb.jpg:a)
 
 Burgundian houses:
@@ -102,7 +102,7 @@ Burgundians eat and drink burgundy:
 An Opel Ampera is crawling between platforms. Electric cars come into fashion nowadays:
 ![](img:1.bp.blogspot.com/-4OADfR7B6og/UZVAssbDPVI/AAAAAAAAXzw/sxknWiGzssA/s1600/dsc08107.picasaweb.jpg:a)
 
-The fifth platform: //Heel Holland bakt//, which means "whole Holland bakes". A rolling pin, spoons, cupcakes.
+The fifth platform: {{< fl "Heel Holland bakt" >}}, which means "whole Holland bakes". A rolling pin, spoons, cupcakes.
 ![](img:2.bp.blogspot.com/-fcd6CBHcaMc/UZVAvHw_bLI/AAAAAAAAXz4/96KVZAQlA4o/s1600/dsc08113.picasaweb.jpg:a)
 
 Girls' faces are dusted with flour (why?):
@@ -115,7 +115,7 @@ More cakes:
 Yet another orchestra, this time percussions in red:
 ![](img:3.bp.blogspot.com/-9KnWxIJoMGY/UZVA5hdGA8I/AAAAAAAAX0Y/sZAE4KyFOrM/s1600/dsc08123.picasaweb.jpg:a)
 
-Platform number six: //Een terrasje pikken//, "pick a terrace".
+Platform number six: {{< fl "Een terrasje pikken" >}}, "pick a terrace".
 ![](img:1.bp.blogspot.com/-LLy690eWUN8/UZVA7-xV19I/AAAAAAAAX0g/UgSUniW1yUA/s1600/dsc08124.picasaweb.jpg:a)
 
 I didn't get the link between the terrace and the medieval Dutch painter Frans Hals.
@@ -127,7 +127,7 @@ Still, the terrace is there. Ladies have a drink.
 In other words, something symbolistic.
 ![](img:3.bp.blogspot.com/-005Zjl5LcjU/UZVBDYZXxTI/AAAAAAAAX04/-M9z00cG_74/s1600/dsc08132.picasaweb.jpg:a)
 
-The platform number seven, fishy. //Sild// is something the Dutch really know about.
+The platform number seven, fishy. {{< fl "Sild" >}} is something the Dutch really know about.
 ![](img:2.bp.blogspot.com/-rQKOvIoM7bg/UZVBFh97tSI/AAAAAAAAX1A/hfb8YDFEJZs/s1600/dsc08136.picasaweb.jpg:a)
 
 You need a hand net to catch one.
@@ -143,7 +143,7 @@ A track decorated with garlands.
 The platform number eight, ship-shaped.
 ![](img:3.bp.blogspot.com/-j8jgwAbeM44/UZVBRZ5D6_I/AAAAAAAAX1o/ZNtK_F3pkvI/s1600/dsc08152.picasaweb.jpg:a)
 
-It's about food again: //Captains dinner//.
+It's about food again: {{< fl "Captains dinner" >}}.
 ![](img:2.bp.blogspot.com/-fwooLf6gVX0/UZVBTgSvHKI/AAAAAAAAX1w/eaLw3Exzu4M/s1600/dsc08154.picasaweb.jpg:a)
 
 It has a Dutch flag made of flowers at its stern.
@@ -155,7 +155,7 @@ Yet another ad car, with flower pods on its roof.
 Number nine is a tractor, with a guy making a speech.
 ![](img:3.bp.blogspot.com/-FJ6N6hi_Lmo/UZVBatjZlBI/AAAAAAAAX2I/wwmf4IkrIdI/s1600/dsc08170.picasaweb.jpg:a)
 
-It's called //schooiwagen//, a "begging car", decorated with euro coins. Boys in red T-shirts are gathering contributions.
+It's called {{< fl "schooiwagen" >}}, a "begging car", decorated with euro coins. Boys in red T-shirts are gathering contributions.
 ![](img:3.bp.blogspot.com/-sqXdqpjulL8/UZVBc37W4bI/AAAAAAAAX2Q/bFnp1teqhlg/s1600/dsc08174.picasaweb.jpg:a)
 
 The red arrows explain how the scheme works:
@@ -173,7 +173,7 @@ Enormous strawberries and the Beatles.
 Only three of them, no room for the fourth I guess.
 ![](img:2.bp.blogspot.com/-bMCSqwbgYOg/UZVBqpejq3I/AAAAAAAAX3A/zU4IAc_9D4I/s1600/dsc08200.picasaweb.jpg:a)
 
-The eleventh platform is by the Dutch //Rabobank//. It has won the **third prize** at Bloemencorso. Apple trees:
+The eleventh platform is by the Dutch {{< fl "Rabobank" >}}. It has won the **third prize** at Bloemencorso. Apple trees:
 ![](img:1.bp.blogspot.com/-TolgxVqzWoI/UZVBvF9oBKI/AAAAAAAAX3Q/EFwFbUP1BsA/s1600/dsc08207.picasaweb.jpg:a)
 
 Below are huge sunflowers and peasants. Rabobank is an agricultural bank.
@@ -189,7 +189,7 @@ The pig is followed by another wind band:
 A tiny Kia Picanto, decorated by chilli pepper.
 ![](img:2.bp.blogspot.com/-IRAIJ4fRVzA/UZVB6vAfTOI/AAAAAAAAX34/AMDVFdG0CYk/s1600/dsc08221.picasaweb.jpg:a)
 
-It's time for a dessert. The twelfth platform is called //Mmmm, tijd voor taart// ("Mmmm, time for a cake"). Someone (or something) has turned fifty:
+It's time for a dessert. The twelfth platform is called {{< fl "Mmmm, tijd voor taart" >}} ("Mmmm, time for a cake"). Someone (or something) has turned fifty:
 ![](img:2.bp.blogspot.com/-bnfTfnCs1tE/UZVB8osgHfI/AAAAAAAAX4A/8aRhyGDOALY/s1600/dsc08223.picasaweb.jpg:a)
 
 The cake is compelling:
@@ -207,7 +207,7 @@ A capped Mini.
 The thirteenth, traditional Dutch platform. A cow and a couple in folk costumes.
 ![](img:1.bp.blogspot.com/-iYgKY4kbtzA/UZVCHXcSWhI/AAAAAAAAX4o/jtid3Ijr7ns/s1600/dsc08237.picasaweb.jpg:a)
 
-It's called //streekproducten//, "regional products". And, of course, a milk can.
+It's called {{< fl "streekproducten" >}}, "regional products". And, of course, a milk can.
 ![](img:1.bp.blogspot.com/-AFKOd7zf610/UZVCJfOB_0I/AAAAAAAAX4w/26hUE6HVuCk/s1600/dsc08239.picasaweb.jpg:a)
 ![](img:3.bp.blogspot.com/-xPwpDQR2tG0/UZVCLgxMBwI/AAAAAAAAX44/tYFumCP5BgQ/s1600/dsc08242.picasaweb.jpg:a)
 
@@ -217,7 +217,7 @@ A picturesque tractor, whose driver is commiting a violation of traffic code:
 Number fourteen is something creepy at a distance.
 ![](img:3.bp.blogspot.com/-_fB_nMzlXj4/UZVCQFa3KOI/AAAAAAAAX5I/zxgWUf9gpCI/s1600/dsc08245.picasaweb.jpg:a)
 
-Turned out merely a lobster. The name is //Culinair Lisse//, "culinary Lisse" (Lisse is another nearby town).
+Turned out merely a lobster. The name is {{< fl "Culinair Lisse" >}}, "culinary Lisse" (Lisse is another nearby town).
 ![](img:3.bp.blogspot.com/-zgMKYeZW5PY/UZVCR-4oFII/AAAAAAAAX5Q/lVNV1fDWOZc/s1600/dsc08249.picasaweb.jpg:a)
 
 For safety purposes the monster is cut in the middle.
@@ -226,14 +226,14 @@ For safety purposes the monster is cut in the middle.
 However its tail view is creepy again.
 ![](img:3.bp.blogspot.com/-EGr_HfeYoqM/UZVCVLkfzJI/AAAAAAAAX5g/lEMV1IawJ9M/s1600/dsc08254.picasaweb.jpg:a)
 
-The fifteenth platform is a public's favourite. It's about the film Despicable Me (//Verschrikkelijke ikke 2//), which is out June 26:
+The fifteenth platform is a public's favourite. It's about the film Despicable Me ({{< fl "Verschrikkelijke ikke 2" >}}), which is out June 26:
 ![](img:1.bp.blogspot.com/-XEJB1jC4Hfw/UZVCWxBhn6I/AAAAAAAAX5o/XX8abYzglJQ/s1600/dsc08260.picasaweb.jpg:a)
 
 The minions are charming indeed:
 ![](img:4.bp.blogspot.com/-IjHvbsVUo1s/UZVCZLW8vpI/AAAAAAAAX5w/GtwOg095ycs/s1600/dsc08262.picasaweb.jpg:a)
 ![](img:2.bp.blogspot.com/-ojMpesyA3_I/UZVCamDMp9I/AAAAAAAAX54/kuhzrqi4GMg/s1600/dsc08265.picasaweb.jpg:a)
 
-The sixteenth platform's name is as simple as //Apen eten bananen// ("apes eat bananas"), yet it has won the **first prize** at the parade.
+The sixteenth platform's name is as simple as {{< fl "Apen eten bananen" >}} ("apes eat bananas"), yet it has won the **first prize** at the parade.
 ![](img:4.bp.blogspot.com/-_bi8_dr8qD8/UZVCcIn1ZyI/AAAAAAAAX6A/rSiw2R1-OR4/s1600/dsc08271.picasaweb.jpg:a)
 
 The apes are formidable.
@@ -254,7 +254,7 @@ It's the first green band on this parade:
 Wedding party decoration services. The "bride" doesn't look very enthusiastic though, must be tired:
 ![](img:1.bp.blogspot.com/-8HohX-uwldQ/UZVCmafEGmI/AAAAAAAAX6w/VNuudNXcTUU/s1600/dsc08286.picasaweb.jpg:a)
 
-The seventeenth platform is called //High tea//, got the **second prize**.
+The seventeenth platform is called {{< fl "High tea" >}}, got the **second prize**.
 ![](img:3.bp.blogspot.com/-IhvdGSz9AeQ/UZVCoPZTj_I/AAAAAAAAX64/BLOMlZ1knCo/s1600/dsc08290.picasaweb.jpg:a)
 
 The ladies pretend to drink tea.
@@ -266,7 +266,7 @@ A teapot:
 For some reason it's placed on a couch.
 ![](img:1.bp.blogspot.com/-_pwtPYsj7a4/UZVCz12-c7I/AAAAAAAAX7I/tZ3rIqQa3I0/s1600/dsc08298.picasaweb.jpg:a)
 
-The eighteenth platform is called //Fris en fruitig//, "fresh and fruity" and belongs to //Jale-Gilan Azerbeidzjan//. Girls in Azerbaijan costumes:
+The eighteenth platform is called {{< fl "Fris en fruitig" >}}, "fresh and fruity" and belongs to {{< fl "Jale-Gilan Azerbeidzjan" >}}. Girls in Azerbaijan costumes:
 ![](img:3.bp.blogspot.com/-zZvCtWkaLIQ/UZVC1kgLYfI/AAAAAAAAX7Q/BswB_ZMTTYk/s1600/dsc08303.picasaweb.jpg:a)
 
 Azerbaijan fruits:
@@ -278,14 +278,14 @@ Azerbaijan drinks:
 Next is an old-school fire truck:
 ![](img:1.bp.blogspot.com/-_UflwQ_onRU/UZVC62qmmqI/AAAAAAAAX7o/PWJf6P3WW3E/s1600/dsc08311.picasaweb.jpg:a)
 
-The nineteenth platform, food-related: //Schaften// means "break for lunch". The workers:
+The nineteenth platform, food-related: {{< fl "Schaften" >}} means "break for lunch". The workers:
 ![](img:1.bp.blogspot.com/-p05Z0gIcfzs/UZVC8vQW7hI/AAAAAAAAX7w/m1D4Pkb9AsU/s1600/dsc08314.picasaweb.jpg:a)
 
 They're proud of their achievements:
 ![](img:4.bp.blogspot.com/-UozNMRwrOVk/UZVC-dodu_I/AAAAAAAAX74/Aoaa1wdHT7Q/s1600/dsc08317.picasaweb.jpg:a)
 ![](img:1.bp.blogspot.com/-DOb45XO1l38/UZVDATHlSCI/AAAAAAAAX8A/vvwhScvE9b8/s1600/dsc08318.picasaweb.jpg:a)
 
-The last, twentieth platform. Its name is //Proost//, which means "cheers".
+The last, twentieth platform. Its name is {{< fl "Proost" >}}, which means "cheers".
 ![](img:1.bp.blogspot.com/-bChaGcZbrQw/UZVDB-7oARI/AAAAAAAAX8I/-UYmbPlujiE/s1600/dsc08322.picasaweb.jpg:a)
 
 Glasses of all shapes:

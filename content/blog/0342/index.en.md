@@ -4,7 +4,7 @@ title: "So long two thousand eighteen"
 tags: ["2018", "upshot"]
 ---
 
-//Tjongejonge//, this year ended as suddenly as it [began][post:332], I couldn't even find time to blog. This post is the tenth and the last one in 2018 (but I'm seriously considering improving on that matter).
+{{< fl "Tjongejonge" >}}, this year ended as suddenly as it [began][post:332], I couldn't even find time to blog. This post is the tenth and the last one in 2018 (but I'm seriously considering improving on that matter).
 
 ![](img:3.bp.blogspot.com/-0yOc98Dr8-k/XCkJayeJeVI/AAAAAAAAuUg/RvMfC0YJQ5EzlG8ZD-RYMHxlqj1hspiSQCKgBGAs/s1600/2019.png)
 
@@ -18,7 +18,7 @@ I'll start off with the item that made other activities possible.
 
 And there's plenty to be proud of. I've got a new client: [NS](https://www.ns.nl/) (The Dutch Railways). The job required delving into myriads of new technologies, from autodeployments with *Ansible* and *AWX*, to Linux internals, such as PAM module configuration, multisite Intel video mode and Docker-packaged CUPS print server.
 
-Moreover, I've become a real *freelancer* (or //zzp'er// in Dutch) in April by moving off the payrolling scheme.
+Moreover, I've become a real *freelancer* (or {{< fl "zzp'er" >}} in Dutch) in April by moving off the payrolling scheme.
 
 All in all this year has been quite successful in terms of business; our relationship with the customer is pretty good, I've got nice colleagues, a real good boss (myself), and lots of mind-challenging stuff to research.
 
@@ -34,7 +34,7 @@ We've spent a few days in the Belgian Ghent in March. I like that city a lot for
 April found us in Mallorca, a Spanish island in the Mediterranian sea (yes, we're fond of islands). That was scorching hot and incredibly beautiful.
 ![](img:2.bp.blogspot.com/-hq_TuS0FEC8/XCkQIYd-lwI/AAAAAAAAuVM/EhZ2ob8hNzgyWao4murHzmI5OhPBZi4vwCKgBGAs/s1600/20180428_155305.picasaweb.jpg:a "Mallorca.")
 
-In June yet another island, this time the Dutch //Texel//, which is in the very north of the country. We've spent a few nights in a stationary tent and seen the main attraction of the island, its lighthouse.
+In June yet another island, this time the Dutch {{< fl "Texel" >}}, which is in the very north of the country. We've spent a few nights in a stationary tent and seen the main attraction of the island, its lighthouse.
 ![](img:3.bp.blogspot.com/-ORDhhSHIuXA/XCkRm4UgwlI/AAAAAAAAuVY/9FWKx0ndX2AuEiukcl8tuzplsx7ozfBmQCKgBGAs/s1600/20180609_115443.picasaweb.jpg:a "Texel's lighthouse")
 
 We visited Bruges in Belgium in July. It's just like Ghent, but even more cosy and good-looking.
@@ -54,7 +54,7 @@ As for sport, I'm quite satisfied with myself. In 2018 I've managed to run **106
 
 In May another record has been beaten when I've finished a half marathon in **1:45:56** at [De Halve van De Haar][post:335].
 
-My second achievement this year is that I've qualified as //nidan// (second dan) in aikido. The corresponding certificate has been handed to me a couple of weeks ago by Marc Jongsten:
+My second achievement this year is that I've qualified as {{< fl "nidan" >}} (second dan) in aikido. The corresponding certificate has been handed to me a couple of weeks ago by Marc Jongsten:
 ![](img:1.bp.blogspot.com/-XDGu3m2atBc/XCoblnSwbVI/AAAAAAAAuXU/n4k2TJmfe8wZi1RIOskT7zNQ_eSGLc0JQCKgBGAs/s1600/dsc08574.picasaweb.jpg:a "The author gets his diploma from Marc Jongsten.")
 
 ## Music! {#music}
@@ -67,7 +67,7 @@ The concert life has stepped back a bit because of some objective difficulties r
 And *Riverside* in Utrecht:
 ![](img:2.bp.blogspot.com/-7Y8GTHr-iGk/XCofE0E-jYI/AAAAAAAAuXs/ykU9MD7X6pMOTETy_WicWXiZblwHlRSkgCKgBGAs/s1600/20181112_214426.picasaweb.jpg:a "Riverside.")
 
-By the way, I've filmed the last one in its entirety, but the video has been taken down by YouTube at a copyright owner's demand. The crazy thing is that the gig's page at the website of //Tivoli// [was illustrated][post:341] just by my video from another show.
+By the way, I've filmed the last one in its entirety, but the video has been taken down by YouTube at a copyright owner's demand. The crazy thing is that the gig's page at the website of {{< fl "Tivoli" >}} [was illustrated][post:341] just by my video from another show.
 
 And one more thing, not quite related to music: for the first time in my life I [presented][post:340] in English before an audience of some two hundred people, at IDM Europe. I felt a bit nervous, of course.
 

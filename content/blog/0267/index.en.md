@@ -16,15 +16,15 @@ The Aristocrats is a [supergroup][wiki:en:Supergroup_(music)] founded in 2011. L
 
 Unfortunately I can't share much of it with you this time.
 
-The problem is that //De Boerderij//, where I've seen [Neal Morse][post:95] and [Arena][post:127], has got spoilt: I was disallowed to take my camera in! I find this outrageous, especially considering how many shows I've seen here in Holland.
+The problem is that {{< fl "De Boerderij" >}}, where I've seen [Neal Morse][post:95] and [Arena][post:127], has got spoilt: I was disallowed to take my camera in! I find this outrageous, especially considering how many shows I've seen here in Holland.
 
 I tried to use my mobile for filming as the next best thing, but at a certain moment was approached by a crew member, who told me that shooting videos was not allowed at all. (On a side note, people closer to the stage were filming whatever they wanted with their compact cameras, but that lad couldn't get to them through the crowd.)
 
 On the bright side, I have to say the three play instruments like gods. The line-up is:
 
-* [Guthrie Govan][wiki:en:Guthrie_Govan] (//Steven Wilson//, //Asia//, //GPS//, //The Young Punx//, //The Fellowship//, //Erotic Cakes//) – **guitar**
-* [Bryan Beller][wiki:en:Bryan_Beller] (//Steve Vai//, //Joe Satriani//, //James LaBrie//, //Dweezil Zappa//, //Dethklok//, //Mike Keneally//) – **bass**
-* [Marco Minnemann][wiki:en:Marco_Minnemann] (//Steven Wilson//, //Kreator//, //Joe Satriani//, //Paul Gilbert//, //Necrophagist//) – **drums**
+* [Guthrie Govan][wiki:en:Guthrie_Govan] ({{< fl "Steven Wilson" >}}, {{< fl "Asia" >}}, {{< fl "GPS" >}}, {{< fl "The Young Punx" >}}, {{< fl "The Fellowship" >}}, {{< fl "Erotic Cakes" >}}) – **guitar**
+* [Bryan Beller][wiki:en:Bryan_Beller] ({{< fl "Steve Vai" >}}, {{< fl "Joe Satriani" >}}, {{< fl "James LaBrie" >}}, {{< fl "Dweezil Zappa" >}}, {{< fl "Dethklok" >}}, {{< fl "Mike Keneally" >}}) – **bass**
+* [Marco Minnemann][wiki:en:Marco_Minnemann] ({{< fl "Steven Wilson" >}}, {{< fl "Kreator" >}}, {{< fl "Joe Satriani" >}}, {{< fl "Paul Gilbert" >}}, {{< fl "Necrophagist" >}}) – **drums**
 
 The lists of acts above should give you a hint of how brilliant they are. The brightest band member is arguably the British [Guthrie Govan][wiki:en:Guthrie_Govan], which is a true guitar virtuoso. You must hear that to really appreciate his playing.
 ![](img:1.bp.blogspot.com/-iEJR_3Ip7P4/Vn7Lnv-cGoI/AAAAAAAAk94/ElLzdZoMlEY/s1600/20151209_211058.picasaweb.jpg:a "Guthrie Govan.")
@@ -39,4 +39,4 @@ The second one was the *Texas Crazypants* written after this event:
 
 Listening to their numerous stories I was a bit surprised how trite were the stories that led to their super-intricate compositions. Most of them happened "somewhere in the States during a tour."
 
-The club was packed. However I'll try to avoid //Boerderij// as much as possible from now on.
+The club was packed. However I'll try to avoid {{< fl "Boerderij" >}} as much as possible from now on.

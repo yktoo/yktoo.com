@@ -10,22 +10,22 @@ tags: ["Bryan Beller", "De Boerderij", "Guthrie Govan", "Marco Minnemann", "prog
 
 <!--more-->
 
-[Супергруппа][wiki:ru:Супергруппа] //The Aristocrats// была основана в 2011 году и в прошлом декабре представляла свой третий альбом [Tres Caballeros][wiki:en:Tres_Caballeros].
+[Супергруппа][wiki:ru:Супергруппа] {{< fl "The Aristocrats" >}} была основана в 2011 году и в прошлом декабре представляла свой третий альбом [Tres Caballeros][wiki:en:Tres_Caballeros].
 
 ![](img:2.bp.blogspot.com/-gqODy41rxV0/Vn7LgKAJaBI/AAAAAAAAk8M/eU2egTbUn-Q/s1600/20151209_222003.picasaweb.jpg:a "The Aristocrats, слева направо: Guthrie Govan, Marco Minnemann, Bryan Beller.")
 
 К сожалению, продемонстрировать почтенной публике по этому поводу я мало что могу.
 
-Дело в том, что //De Boerderij//, где я некогда видел [Neal Morse][post:95] и [Arena][post:127], в последнее время испортился: мне запретили пронести на шоу мою камеру! Это что-то совершенно небывалое для Нидерландов, учитывая на скольких концертах я побывал.
+Дело в том, что {{< fl "De Boerderij" >}}, где я некогда видел [Neal Morse][post:95] и [Arena][post:127], в последнее время испортился: мне запретили пронести на шоу мою камеру! Это что-то совершенно небывалое для Нидерландов, учитывая на скольких концертах я побывал.
 
 За неимением лучшего я решил вооружиться мобильником, но не тут-то было. В процессе съёмки ко мне подошёл какой-то чувак из обслуги и рассказал, что там вообще запрещено снимать видео. (При этом народ поближе к сцене снимал всё подряд на обычные «мыльницы» — но туда чуваку было не пробиться.)
 
 
 С положительной стороны можно отметить, что играют все трое просто как боги. Текущий состав команды:
 
-* [Guthrie Govan][wiki:ru:Гован,_Гатри] (//Steven Wilson//, //Asia//, //GPS//, //The Young Punx//, //The Fellowship//, //Erotic Cakes//) – **гитара**
-* [Bryan Beller][wiki:en:Bryan_Beller] (//Steve Vai//, //Joe Satriani//, //James LaBrie//, //Dweezil Zappa//, //Dethklok//, //Mike Keneally//) – **бас**
-* [Marco Minnemann][wiki:en:Marco_Minnemann] (//Steven Wilson//, //Kreator//, //Joe Satriani//, //Paul Gilbert//, //Necrophagist//) – **ударные**
+* [Guthrie Govan][wiki:ru:Гован,_Гатри] ({{< fl "Steven Wilson" >}}, {{< fl "Asia" >}}, {{< fl "GPS" >}}, {{< fl "The Young Punx" >}}, {{< fl "The Fellowship" >}}, {{< fl "Erotic Cakes" >}}) – **гитара**
+* [Bryan Beller][wiki:en:Bryan_Beller] ({{< fl "Steve Vai" >}}, {{< fl "Joe Satriani" >}}, {{< fl "James LaBrie" >}}, {{< fl "Dweezil Zappa" >}}, {{< fl "Dethklok" >}}, {{< fl "Mike Keneally" >}}) – **бас**
+* [Marco Minnemann][wiki:en:Marco_Minnemann] ({{< fl "Steven Wilson" >}}, {{< fl "Kreator" >}}, {{< fl "Joe Satriani" >}}, {{< fl "Paul Gilbert" >}}, {{< fl "Necrophagist" >}}) – **ударные**
 
 По списку проектов каждого можно оценить их уровень. Наиболее ярким из «Аристократов» является, пожалуй, британский гитарист [Гатри Гован][wiki:ru:Гован,_Гатри] ([Guthrie Govan][wiki:en:Guthrie_Govan]) — сказать про которого, что он виртуоз, — всё равно, что ничего не сказать. Это просто нужно слышать (и видеть).
 ![](img:1.bp.blogspot.com/-iEJR_3Ip7P4/Vn7Lnv-cGoI/AAAAAAAAk94/ElLzdZoMlEY/s1600/20151209_211058.picasaweb.jpg:a "Guthrie Govan.")
@@ -35,7 +35,7 @@ tags: ["Bryan Beller", "De Boerderij", "Guthrie Govan", "Marco Minnemann", "prog
 Первое — рассказ басиста Брайана Беллера о проишествии на заправке где-то в Техасе, когда он нечаянно задел машину какой-то несчастной женщины и потом (спойлер!), сжалившись, дал ей немного денег в качестве компенсации:
 ![](youtube:n0T48bzWouI)
 
-Второе — это песня //Texas Crazypants// («Чокнутая из Техаса»), написанная по мотивам этого самого происшествия:
+Второе — это песня {{< fl "Texas Crazypants" >}} («Чокнутая из Техаса»), написанная по мотивам этого самого происшествия:
 ![](youtube:EP7ZwqPw108)
 
 Вообще, слушая рассказы «Аристократов», которых в тот вечер было немало, я был удивлён, как бы выразиться помягче… приземлённости событий, лежащих в основе их космической сложности композиций. Бо́льшая их часть происходила «где-то в Штатах, когда мы гастролировали».

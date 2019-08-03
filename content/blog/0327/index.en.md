@@ -18,6 +18,6 @@ This time my result of **1:49:01** didn't beat the record, but it was just a min
 
 The outcome is the **123<sup>rd</sup>** place (out of **307**) among boys.
 
-The organisation was pretty simple, with timing points at the start and at the finish only (and not every five kilometres like in //De Haar//), and no fences along the route. Thanks to that the price was only **€8** (instead of the usual 20-25 euros).
+The organisation was pretty simple, with timing points at the start and at the finish only (and not every five kilometres like in {{< fl "De Haar" >}}), and no fences along the route. Thanks to that the price was only **€8** (instead of the usual 20-25 euros).
 
 Numerous crossings our route was passing were supervised by the police, who would stop the traffic as soon as they saw someone approaching. That was the case even for a railroad crossing!

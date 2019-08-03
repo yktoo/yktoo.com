@@ -5,7 +5,7 @@ group: "Portugal"
 tags: ["Algarve", "ocean", "Portugal", "promontory", "Sagres", "travel"]
 ---
 
-Sagres is a small town in western Algarve. It is noteworthy mainly for the nearby Sagres Point (//Ponta de Sagres//) and its fortress.
+Sagres is a small town in western Algarve. It is noteworthy mainly for the nearby Sagres Point ({{< fl "Ponta de Sagres" >}}) and its fortress.
 ![](img:3.bp.blogspot.com/-sJIIMRaRCyU/Ua4mS9Nh1_I/AAAAAAAAZCg/JqlpIGIhOZY/s1600/dsc09338.picasaweb.jpg:a)
 
 <!--more-->
@@ -13,7 +13,7 @@ Sagres is a small town in western Algarve. It is noteworthy mainly for the nearb
 If you try to map it, it will look as follows:
 ![](img:1.bp.blogspot.com/-8bPwUEXOGJc/UcRdUN2gEoI/AAAAAAAAZOI/T59ml14qD7M/s1600/sagres.picasaweb.png:a "Map data ©OpenStreetMap.")
 
-The "foot" is the fortress. Romans, who did not have OpenStreetMap, called it //Promontorium Sacrum//, meaning Holy Promontory. They considered it a magical place where the sunset was much larger than anywhere else. They believed the sun sank here hissing into the ocean, marking the edge of their world.
+The "foot" is the fortress. Romans, who did not have OpenStreetMap, called it {{< fl "Promontorium Sacrum" >}}, meaning Holy Promontory. They considered it a magical place where the sunset was much larger than anywhere else. They believed the sun sank here hissing into the ocean, marking the edge of their world.
 
 You can only reach it with a car, as far as I'm concerned. The first thing you notice is the vast open space and constant strong wind.
 
@@ -29,7 +29,7 @@ This is the opposite side of the wall:
 The walls are about one metre thick and have very narrow loopholes, with openings just about two inches wide:
 ![](img:2.bp.blogspot.com/--f00ExxPNSg/Ua4mNML--nI/AAAAAAAAZB4/3TC0nd5bD70/s1600/dsc09325.picasaweb.jpg:a)
 
-There is a small Church of Our Lady of Grace (//Igreja de Nossa Senhora da Graça//) built in XVI century, which is now in a fairly poor condition:
+There is a small Church of Our Lady of Grace ({{< fl "Igreja de Nossa Senhora da Graça" >}}) built in XVI century, which is now in a fairly poor condition:
 ![](img:2.bp.blogspot.com/-si_P7GboulU/Ua4mOCf4ByI/AAAAAAAAZCA/lVjhpTE0WLk/s1600/dsc09326.picasaweb.jpg:a)
 
 And the whole fortress looks somewhat dreary and neglected:
@@ -59,7 +59,7 @@ The north view from the "heel". The ocean surf is roaring below:
 I wouldn't enjoy seafaring here, I'm afraid.
 ![](img:3.bp.blogspot.com/-73fD9bM4mOg/Ua4mhBjKpLI/AAAAAAAAZD4/XglAIhk9HLQ/s1600/dsc09411.picasaweb.jpg:a)
 
-And about the Sagres lighthouse (//farol de Sagres//), which is built on the eminent part of the point:
+And about the Sagres lighthouse ({{< fl "farol de Sagres" >}}), which is built on the eminent part of the point:
 ![](img:3.bp.blogspot.com/-jIrlR6wAsYM/Ua4mdO2C0YI/AAAAAAAAZDg/IK2hK_YurI4/s1600/dsc09403.picasaweb.jpg:a)
 
 There's little information available about it. Portuguese pages state it was first put into operation on March 4, 1894 to celebrate the fifth centenary of Henry the Navigator's birth. The lighthouse was rebuilt several times since, and since 1960 it is present in its current form. It's equipped with a 500-watt lamp, which allows for a light range of 11 nautical miles (ca. 20 km):
@@ -82,9 +82,9 @@ The east rim of the promontory (back of the "foot"):
 ![](img:1.bp.blogspot.com/-K0smUKsfZzY/Ua4mrVs77kI/AAAAAAAAZFA/OvVpgDqNGtM/s1600/dsc09445.picasaweb.jpg:a)
 ![](img:4.bp.blogspot.com/--THlOnW1SHM/Ua4msiLx5dI/AAAAAAAAZFI/JCDUxqrJBpY/s1600/dsc09446.picasaweb.jpg:a)
 
-There's an enigmatic round structure at the east side of the isthmus. It is called //Rosa dos Ventos// and formed by 48 stone tiers, disposed radially on a 50 m circle. One theory claims it's a "mariner's compass", related with the seafaring school allegedly founded here by Henry the Navigator. Another theory presents this as a monumental gnomon, a sundial built in the XVI century for study purposes and to support naval and military activities occurred on this site.
+There's an enigmatic round structure at the east side of the isthmus. It is called {{< fl "Rosa dos Ventos" >}} and formed by 48 stone tiers, disposed radially on a 50 m circle. One theory claims it's a "mariner's compass", related with the seafaring school allegedly founded here by Henry the Navigator. Another theory presents this as a monumental gnomon, a sundial built in the XVI century for study purposes and to support naval and military activities occurred on this site.
 ![](img:4.bp.blogspot.com/-6iNEhG1F7WQ/Ua4mupvaolI/AAAAAAAAZFY/FzgUAN4NxBA/s1600/dsc09448.picasaweb.jpg:a)
 
-We missed the opportunity to visit another, a more popular edge of the world at cape St. Vincent (//Cabo de São Vicente//). It's situated northwest and reaches a bit further into the ocean. It also features a more powerful lighthouse with 60 km range. And, of course, we failed to see the sunset.
+We missed the opportunity to visit another, a more popular edge of the world at cape St. Vincent ({{< fl "Cabo de São Vicente" >}}). It's situated northwest and reaches a bit further into the ocean. It also features a more powerful lighthouse with 60 km range. And, of course, we failed to see the sunset.
 
 All in all, enough reasons to come back.

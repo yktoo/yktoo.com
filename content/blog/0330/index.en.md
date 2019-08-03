@@ -17,13 +17,13 @@ The weather forecast predicted an extremely hot (for the local climate) day with
 Shorter distances (up to 10 km) would start early in the morning, when it was cooler, and the half and the whole marathon at 10:30 AM.
 ![](img:2.bp.blogspot.com/-wp24Ud3JgJs/WVd5o1iLT_I/AAAAAAAAqNE/uEuLQ0GxZoYv5HlwuY4k1Rv-0sY5Ce2cwCKgBGAs/s1600/20170618_092336.picasaweb.jpg:a "Kids run.")
 
-Our run was starting traditionally at the //Eemplein//, next to the quay of the Eem river.
+Our run was starting traditionally at the {{< fl "Eemplein" >}}, next to the quay of the Eem river.
 ![](img:4.bp.blogspot.com/-wBXmiOPT5F0/WVd5o6liomI/AAAAAAAAqNE/vgneHIOyKEMMoPMwPOvOLh2V1Ahn3oklwCKgBGAs/s1600/20170618_093347.picasaweb.jpg:a "The Eem.")
 
 As the time approached the start moment, the air temperature climbed higher and higher. At ten o'clock it was some 25 degrees Celsius.
 ![](img:2.bp.blogspot.com/-4tvkCBcY3SM/WVd5o1kUpdI/AAAAAAAAqNE/yoNDJ7Oo2-cGumHQCcr8bNGPgXpaoQFjgCKgBGAs/s1600/20170618_093418.picasaweb.jpg:a "Making up my mind.")
 
-On the bright side, the organisation was excellent, as always. Girls were handing out bottled water and //Campina// yoghurt (the company was sponsoring the event).
+On the bright side, the organisation was excellent, as always. Girls were handing out bottled water and {{< fl "Campina" >}} yoghurt (the company was sponsoring the event).
 
 A stage was erected on the square, and the participants were warming up to the loud sounds of music (although I'd actually prefer cooling down).
 ![](img:1.bp.blogspot.com/-FbRuomLnLGQ/WVd5o2DxhnI/AAAAAAAAqNE/MrA4JXlLjmoMButvo1UjQRFZ01hF5EPJQCKgBGAs/s1600/20170618_094847.picasaweb.jpg:a "Warming-up.")

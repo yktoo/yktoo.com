@@ -27,7 +27,7 @@ The current implementation displays the following pieces of information (left to
 * Icon and description of the current weather conditions, air temperature
 * Rain map ("shower radar"), wind speed, relative humidity, air pressure, amount of rain, sunrise and sunset times, moon phase
 * Weather forecast for the next five days
-* Train departure times for //Houten Castellum// (that's where we [happen][post:221] to live), train routes to my work (via Utrecht)
+* Train departure times for {{< fl "Houten Castellum" >}} (that's where we [happen][post:221] to live), train routes to my work (via Utrecht)
 * Bus departure times for the nearest bus stop
 * Currency exchange rates relative to Russian ruble
 
@@ -47,9 +47,9 @@ And this is the cover:
 
 The control board, which carries the DC socket, an HDMI input etc., is connected to the panel controller via a flat cable of about four centimetres width.
 
-The mirror (dimensions 50×140 cm) is hanging on the meter cupboard's (//meterkast//) door made of wafer-board. My intention was to mount the LED panel *on the front side* of the door (behind the mirror) and the control unit on the inner side, and lead the flat connection cable through an appropriately sized slit in the door.
+The mirror (dimensions 50×140 cm) is hanging on the meter cupboard's ({{< fl "meterkast" >}}) door made of wafer-board. My intention was to mount the LED panel *on the front side* of the door (behind the mirror) and the control unit on the inner side, and lead the flat connection cable through an appropriately sized slit in the door.
 
-So let's start off with a pristine //meterkast// door:
+So let's start off with a pristine {{< fl "meterkast" >}} door:
 ![](img:3.bp.blogspot.com/-rPQJ9VY4DB0/Vyc8sa-LvOI/AAAAAAAAl7Y/v_2l81CE7_MOHjWKo3fn4UuL-XUO83HvgCKgB/s1600/dsc02102.picasaweb.jpg:a "Meter cupboard a.k.a. meterkast.")
 
 Drill a few holes for panel mount screws and cut a cable slit:
@@ -133,7 +133,7 @@ The current version of **InfoPi** uses the following providers:
 
 * Trains: [Nederlandse Spoorwegen](http://www.ns.nl/)
 
-  The national railway operator //Nederlandse Spoorwegen// (//NS//) provides a [public API](http://www.ns.nl/en/travel-information/ns-api) for train departure times, train routes and so on. To use it a registration key is required (provided on request free of charge). The usage is limited at 50K requests per day.
+  The national railway operator {{< fl "Nederlandse Spoorwegen" >}} ({{< fl "NS" >}}) provides a [public API](http://www.ns.nl/en/travel-information/ns-api) for train departure times, train routes and so on. To use it a registration key is required (provided on request free of charge). The usage is limited at 50K requests per day.
 
 * Bus schedules: [openOV](http://openov.nl/)
 

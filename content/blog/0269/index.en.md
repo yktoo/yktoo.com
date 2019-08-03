@@ -15,10 +15,10 @@ So just before the New Year's eve, on December 27<sup>th</sup>, Marcela Bovio & 
 
 Just like [two years ago][post:175] the show was hosted by a small and cosy club in Utrecht called [Tivoli de Helling](http://www.dehelling.nl/). The concert featured an impressive list of guest singers:
 
-* //Anneke van Giersbergen// (The Gathering, [The Gentle Storm][post:250])
-* //Lisette van den Berg// (Scarlet Stories, Epic Rock Choir, Karmaflow)
-* //Dianne van Giersbergen// (Xandria)
-* //Merijn van Haren// (Navarone)
+* {{< fl "Anneke van Giersbergen" >}} (The Gathering, [The Gentle Storm][post:250])
+* {{< fl "Lisette van den Berg" >}} (Scarlet Stories, Epic Rock Choir, Karmaflow)
+* {{< fl "Dianne van Giersbergen" >}} (Xandria)
+* {{< fl "Merijn van Haren" >}} (Navarone)
 
 Contrary to a popular belief [Anneke][wiki:en:Anneke_van_Giersbergen] and [Dianne van Giersbergen][wiki:en:Dianne_van_Giersbergen] are not related. And no, I don't know why they happened to be on the same stage. Perhaps Marcela has a guest candidate list sorted alphabetically, or something like that.
 
@@ -33,7 +33,7 @@ There was a funny moment when Johan, violently brandishing his guitar, caught an
 Rhythm guitarist Eric Hazebroek, again playing a funny headless guitar. With eight strings it was one more compared to the [previous time][post:250].
 ![](img:1.bp.blogspot.com/-YxAaGjkUZ24/VofESjkSKgI/AAAAAAAAlDU/erAg2uUtwAg/s1600/dsc01519.picasaweb.jpg:a "Eric Hazebroek.")
 
-Marcela Bovio and Dianne van Giersbergen are singing //Abends Will Ich Schlafen Gehn// from [Hansel and Gretel][wiki:en:Hansel_and_Gretel_(opera)] to the accompaniment by Stephan Schultz. That is, supposed to sing, but Marcela is asking Stephan about the dinner instead:
+Marcela Bovio and Dianne van Giersbergen are singing {{< fl "Abends Will Ich Schlafen Gehn" >}} from [Hansel and Gretel][wiki:en:Hansel_and_Gretel_(opera)] to the accompaniment by Stephan Schultz. That is, supposed to sing, but Marcela is asking Stephan about the dinner instead:
 ![](img:1.bp.blogspot.com/-raP71ogtgZA/VofESlX0gvI/AAAAAAAAlDU/j4y8CT8AiPA/s1600/dsc01587.picasaweb.jpg:a "Dianne van Giersbergen, Stephan Schultz, Marcela Bovio.")
 
 As usual, Marcela also played a violin for a short while:
@@ -47,22 +47,22 @@ Drummer Martijn Peters is happy after the gig:
 
 I've filmed the most remarkable items, as always.
 
-The risible Marcela is having hard time trying to begin singing the serious //Abends Will Ich Schlafen Gehn//:
+The risible Marcela is having hard time trying to begin singing the serious {{< fl "Abends Will Ich Schlafen Gehn" >}}:
 ![](youtube:CA4Dm2rVg8I)
 
 A new song called *Powerless* from Marcela Bovio's future solo album, started with making fun of Jeffrey, purportedly checking his e-mail:
 ![](youtube:Q9L6m3FS9Tg)
 
-*Deceiver* with //Lisette van den Berg// of [Scarlet Stories](http://www.scarletstories.nl/):
+*Deceiver* with {{< fl "Lisette van den Berg" >}} of [Scarlet Stories](http://www.scarletstories.nl/):
 ![](youtube:NvVrwayKxR0)
 
-*Earthquake* with //Dianne van Giersbergen// ([Xandria][wiki:en:Xandria]):
+*Earthquake* with {{< fl "Dianne van Giersbergen" >}} ([Xandria][wiki:en:Xandria]):
 ![](youtube:B9AfL2zEilM)
 
-*In Motion #1* by [The Gathering][wiki:en:The_Gathering_(band)] could not be sung without //Anneke van Giersbergen//:
+*In Motion #1* by [The Gathering][wiki:en:The_Gathering_(band)] could not be sung without {{< fl "Anneke van Giersbergen" >}}:
 ![](youtube:NuJB7s3D4kM)
 
-*Lost* featuring //Merijn van Haren// of [Navarone][wiki:en:Navarone_(band)]:
+*Lost* featuring {{< fl "Merijn van Haren" >}} of [Navarone][wiki:en:Navarone_(band)]:
 ![](youtube:XnnqeJxbiJI)
 
 A very nice cover of Queen's *Show Must Go On*, with Marcela and Merijn on vocals:

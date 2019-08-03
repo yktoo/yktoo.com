@@ -210,7 +210,7 @@ Transliteration instead of translation:
 But English is sometimes not perfect here either.
 ![](img:3.bp.blogspot.com/-dC5JIsdwq3I/Us8JhgPpQMI/AAAAAAAAbfo/c8AhjekzyMo/s1600/dsc01943.picasaweb.jpg:a)
 
-Some new spelling variants of the word //coffee-shop//:
+Some new spelling variants of the word {{< fl "coffee-shop" >}}:
 ![](img:3.bp.blogspot.com/--RSn17ld45c/Us8JxXjTlMI/AAAAAAAAbg4/ClKlBY2Krds/s1600/dsc02253.picasaweb.jpg:a)
 ![](img:1.bp.blogspot.com/-Vve7-M6veo8/Us8KKmKItHI/AAAAAAAAbi4/LwvZO6IPwHU/s1600/dsc02309.picasaweb.jpg:a)
 
@@ -228,7 +228,7 @@ And this departure board says "Amsterdam":
 Halva (or halawa) and dates are the two most popular delicacies. Dates are offered in plain cardboard boxes:
 ![](img:4.bp.blogspot.com/-Z3GAix4qQrI/Us8JuQtJ_hI/AAAAAAAAbgo/hj91oBBmefs/s1600/dsc02251.picasaweb.jpg:a)
 
-We've tried once a local wine called //Shahrazade// in a restaurant. The was was decent, but I failed to find it in a store as they sell nothing stronger than beer. Even duty-free stores at the airport offered anything but local wine.
+We've tried once a local wine called {{< fl "Shahrazade" >}} in a restaurant. The was was decent, but I failed to find it in a store as they sell nothing stronger than beer. Even duty-free stores at the airport offered anything but local wine.
 ![](img:1.bp.blogspot.com/-iHy5vHefrPo/Us8KXtYql7I/AAAAAAAAbj4/IHOXgJThQAc/s1600/dsc02332.picasaweb.jpg:a)
 
 Internet connection is quite slow here. Our hotel offered it for 15 Egyptian pounds (€ 1.60) per half-an-hour, so we preferred restaurants with free Wi-Fi. Most of the locals use such a forgotten thing as mobiles with push-buttons, however sometimes you see wealthier compatriots in suits and decent cars (like Hyundai) and even with tablets.

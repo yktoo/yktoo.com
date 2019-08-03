@@ -9,15 +9,15 @@ Another childhood's dream has come true! I've been following the Polish prog ban
 <!--more-->
 <!--![](img:1.bp.blogspot.com/-msPpM_nMqx0/WTRdaD9ey2I/AAAAAAAAqFQ/UsebQnNd-tkdRVkUC9_YfI-h3di78dg-gCKgB/s1600/20170525_210732.picasaweb.jpg)-->
 
-The band has gone through difficult times with the sudden death of their guitarist //Piotr Grudziński//. At the time they took the decision not to replace him and carry on as a trio. //Mariusz Duda//, who played bass and sang, would also play guitar in the studio, and for performances they would invite a guest guitarist.
+The band has gone through difficult times with the sudden death of their guitarist {{< fl "Piotr Grudziński" >}}. At the time they took the decision not to replace him and carry on as a trio. {{< fl "Mariusz Duda" >}}, who played bass and sang, would also play guitar in the studio, and for performances they would invite a guest guitarist.
 
-After Piotr passed away, //Riverside// lay low for a long while, but in the beginning of this year [they decided](https://riversideband.pl/en/news/item/riverside-towards-the-blue-horizon-tour-2017a) to make a comeback:
+After Piotr passed away, {{< fl "Riverside" >}} lay low for a long while, but in the beginning of this year [they decided](https://riversideband.pl/en/news/item/riverside-towards-the-blue-horizon-tour-2017a) to make a comeback:
 
 > 2017 must be a better year. And we have to come back to life. But we won't, unless we come back to the stage… so it is our great pleasure to inform you that Riverside will go back to playing live this year.
 
 The band has played 28 shows in April and May in their [Towards the Blue Horizon Tour](https://riversideband.pl/en/news/item/riverside-towards-the-blue-horizon-tour-2017a).
 
-I happened to witness one of them held at //De Boerderij// club in Zoetermeer. The same place I've watched [Wolverine et al.][post:321] just a month ago. Though this time the show was sold out and the venue was packed.
+I happened to witness one of them held at {{< fl "De Boerderij" >}} club in Zoetermeer. The same place I've watched [Wolverine et al.][post:321] just a month ago. Though this time the show was sold out and the venue was packed.
 ![](img:3.bp.blogspot.com/-fG-wSfirxpI/WTRdaDX4xxI/AAAAAAAAqFQ/fzpeHNvIOcESNlWEY79i8ykHESNr39B2ACKgB/s1600/20170525_201911%25280%2529.picasaweb.jpg:a "De Boerderij.")
 
 And to me it doesn't make any sense, why the attendance was so poor the previous time as I don't think *Wolverine*'s music is any less interesting than Riverside's.
@@ -32,7 +32,7 @@ I also managed to film the first two songs, but was approached by the security a
 
 Even on the video you can see the incredible vibe the band creates, as well as how amazingly the voice agrees with the instruments. Mariusz's bass part was also striking, I wonder how he manages to sing and play these pretty complicated patterns at the same time.
 
-During the tour the guitar part was taken care of by //Maciej Meller//, an old friend of Mariusz's, and it sounded quite authentic. I wouldn't be able to tell the difference by listening.
+During the tour the guitar part was taken care of by {{< fl "Maciej Meller" >}}, an old friend of Mariusz's, and it sounded quite authentic. I wouldn't be able to tell the difference by listening.
 ![](img:1.bp.blogspot.com/-msPpM_nMqx0/WTRdaD9ey2I/AAAAAAAAqFQ/UsebQnNd-tkdRVkUC9_YfI-h3di78dg-gCKgB/s1600/20170525_210732.picasaweb.jpg:a "Riverside: Maciej Meller and Mariusz Duda.")
 
 In one of the songs Mariusz played an acoustic guitar instead of bass (if you can see that on the photo):

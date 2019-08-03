@@ -28,9 +28,9 @@ We had our breakfast at Costa Coffee which was of a luxurios kind here. The pric
 A perfect lunch in the restaurant [Rumbach 7](http://www.rumbach7.hu/) for two, with wine, coffee etc. cost ridiculous € 15. The waiters were so sweet and complaisant that we eventually felt obliged. We repayed with a generous tip and by mentioning in this (massively popular among the Hungarians) blog. I highly recommend this restaurant if you happen to be in Budapest:
 ![](img:4.bp.blogspot.com/-v92jubb9gRQ/Tan2lEjNZgI/AAAAAAAAItc/z9762hIIfIs/s1600/dsc01828.picasaweb.jpg:a)
 
-You can trust everything on their [website](http://www.rumbach7.hu/) (in the event you happen to read that). //Rumbach 7// is the address.
+You can trust everything on their [website](http://www.rumbach7.hu/) (in the event you happen to read that). {{< fl "Rumbach 7" >}} is the address.
 
-Another recommendation is the [Iguana](http://www.iguana.hu/) bar (//Zoltán utca 16//), cozy and decorated in Mexican style. However they close as soon as 11 PM.
+Another recommendation is the [Iguana](http://www.iguana.hu/) bar ({{< fl "Zoltán utca 16" >}}), cozy and decorated in Mexican style. However they close as soon as 11 PM.
 
 And the last observation regarding restaurants and prices. I gave a glance to the menu of Four Seasons hotel's restaurant, an evidently chic one, which I concluded by the appearance of people sitting in there. The most expensive dishes were some 25 000 HUF (less than 10 euros), which is more than average price for Holland.
 
@@ -42,7 +42,7 @@ Impressive, isn't it? Budapest at night is a magnificent view. And the streets, 
 This is the quay of the Danube:
 ![](img:1.bp.blogspot.com/-WAfcErjHRAU/Tan2zwV6_vI/AAAAAAAAItc/69BtjGIEBEY/s1600/dsc01691.picasaweb.jpg:a)
 
-The Chain Bridge, a suspension bridge that spans the River Danube between //Buda// and //Pest//:
+The Chain Bridge, a suspension bridge that spans the River Danube between {{< fl "Buda" >}} and {{< fl "Pest" >}}:
 ![](img:2.bp.blogspot.com/-2qgJ28AdXEk/Tan3MEkV-kI/AAAAAAAAItc/s7mGxxkSs9A/s1600/dsc01712.picasaweb.jpg:a)
 
 Building of the Hungarian Parliament, a very good looking one (because I have no relationship with it, apparently):
@@ -51,21 +51,21 @@ Building of the Hungarian Parliament, a very good looking one (because I have no
 A different view of the same building:
 ![](img:2.bp.blogspot.com/-3mNmjxbab_k/Tan23Mp2oFI/AAAAAAAAItc/h5EsJMDl_Vw/s1600/dsc01699.picasaweb.jpg:a)
 
-The library of the Parliament (//Országgyűlési Könyvtár//):
+The library of the Parliament ({{< fl "Országgyűlési Könyvtár" >}}):
 ![](img:2.bp.blogspot.com/-Q7SOa5baND4/Tan4GJSapuI/AAAAAAAAItc/joT7iL89Nj0/s1600/dsc01708.picasaweb.jpg:a)
 
 There was a photo exhibiton in the Parliament square, nicely forsaken in this late hour:
 ![](img:1.bp.blogspot.com/-4SKe1VjJV4k/Tan3no_IdrI/AAAAAAAAItc/3oQAPrR1Sdo/s1600/dsc01704.picasaweb.jpg:a)
 
-Monument to the first president of Hungary //Mihály Károlyi// (1875-1955):
+Monument to the first president of Hungary {{< fl "Mihály Károlyi" >}} (1875-1955):
 ![](img:3.bp.blogspot.com/-PKDdTmhxCa0/Tan3bV0RGKI/AAAAAAAAItc/uca-MhU2aUo/s1600/dsc01696.picasaweb.jpg:a)
 
 We met a Mexican student living in Paris beside it, who read us quotes from his book about this and nearby monuments.
 
-The Comedy Theatre of Budapest (//Vígszínház//):
+The Comedy Theatre of Budapest ({{< fl "Vígszínház" >}}):
 ![](img:1.bp.blogspot.com/-4XghdbEfkPY/Tan3pT9m7-I/AAAAAAAAItc/G0CtK0ARlzM/s1600/dsc01688.picasaweb.jpg:a)
 
-And, at last, St. Stephen's Basilica (//Szent István-bazilika//):
+And, at last, St. Stephen's Basilica ({{< fl "Szent István-bazilika" >}}):
 ![](img:3.bp.blogspot.com/-zVprLUFFYMA/Tan2jZBT5OI/AAAAAAAAItc/kWmxr9tTfGA/s1600/dsc01718.picasaweb.jpg:a)
 
 I'll come back to it later, in the daytime. Its interiors are simply stunning.

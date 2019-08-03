@@ -21,7 +21,7 @@ In het bijzonder heeft de [Kamer van Koophandel](https://www.kvk.nl/) (*KvK*), d
 
 ## Wat betekent ondernemer zijn? {#who-is-entrepreneur}
 
-Om terug te komen op de originele vraag, het //Ondernemersplein// [legt uit](http://www.ondernemersplein.nl/ondernemen/bedrijf-starten/situatie-ik-wil-weten-of-ik-ondernemer-ben/) dat verschillende overheidsinstanties hun eigen criteria hanteren.
+Om terug te komen op de originele vraag, het {{< fl "Ondernemersplein" >}} [legt uit](http://www.ondernemersplein.nl/ondernemen/bedrijf-starten/situatie-ik-wil-weten-of-ik-ondernemer-ben/) dat verschillende overheidsinstanties hun eigen criteria hanteren.
 
 Zonder in niet zo fascinerende details van de belastingregelgeving te vervallen heb ik de hoofdpunten opgesomd, die de aandacht van de Belastingdienst op jouw activiteiten kunnen vestigen.
 

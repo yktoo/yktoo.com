@@ -14,7 +14,7 @@ So I've decided to write a brief tutorial on setting up a *dockerised* developme
 
 Let's first talk the basics. If your application is small and simple, and changes only happen occasionally, you might venture to modify it on-the-fly on the *production* server. This approach will, however, be disastrous if your application is complex and/or needs numerous changes. A better idea would be to thoroughly test every function before deploying the new version, otherwise you can end up with a broken application and forced downtime.
 
-Many web applications employ a database for data persistence. In the past years [LAMP][wiki:en:LAMP_(software_bundle)] (//Linux//, //Apache//, //MySQL//, //PHP//) has become one of the most frequently used software stacks. This website is also built on this bundle of technologies.
+Many web applications employ a database for data persistence. In the past years [LAMP][wiki:en:LAMP_(software_bundle)] ({{< fl "Linux" >}}, {{< fl "Apache" >}}, {{< fl "MySQL" >}}, {{< fl "PHP" >}}) has become one of the most frequently used software stacks. This website is also built on this bundle of technologies.
 
 In the ideal world every development environment matches the production one, at least in terms of software versions and features (like compilation options etc.) All this can of course be installed on a developer's PC or a development server, but you might run into difficulties with availability of specific software versions, component upgrades and so on. For example, Ubuntu has recently dropped *PHP 5.x* from its repositories, which means you need to compile it yourself.
 
@@ -24,7 +24,7 @@ In the ideal world every development environment matches the production one, at 
 
 Using a virtual machine is a possible solution to this problem, but there are issues, too: setting it up can be laborious, it's demanding in terms of RAM and CPU performance, but—most of all—it's hardly reproducible on another machine. That is, of course, unless you copy over the entire virtual disk, which is time consuming, expensive and eventually impractical.
 
-[Docker containers](https://www.docker.com/) offer a great alternative to all that ado. Docker allows running components, such as //PHP//, //Apache HTTP Server// and //MySQL//, inside standard, lightweight containers, with configurations that are 100% reproducible, and linking those containers using virtual networks. You don't need to install numerous packages anymore, the only thing needed is the Docker engine itself. And, last but not least, Docker is free and open-source.
+[Docker containers](https://www.docker.com/) offer a great alternative to all that ado. Docker allows running components, such as {{< fl "PHP" >}}, {{< fl "Apache HTTP Server" >}} and {{< fl "MySQL" >}}, inside standard, lightweight containers, with configurations that are 100% reproducible, and linking those containers using virtual networks. You don't need to install numerous packages anymore, the only thing needed is the Docker engine itself. And, last but not least, Docker is free and open-source.
 
 Each container is described in a so-called `Dockerfile`, a plain text file containing special [commands](https://docs.docker.com/engine/reference/builder/). A container is always based on an **image**; [Docker repository](https://hub.docker.com/) provides a huge number of ready-to-use images for all kinds of software. Therefore every `Dockerfile` begins with a `FROM` command specifying the image the container will be built upon.
 
@@ -32,12 +32,12 @@ Each container is described in a so-called `Dockerfile`, a plain text file conta
 
 So let's hit the road. As I mentioned above this website is built upon the *LAMP* stack and the [Yii](http://www.yiiframework.com/) PHP framework. In order to run it I use the following two separate containers:
 
-1. `yktoo-app`, which runs //Apache HTTP Server// + //PHP//.
-2. `yktoo-db`, which runs //MySQL//.
+1. `yktoo-app`, which runs {{< fl "Apache HTTP Server" >}} + {{< fl "PHP" >}}.
+2. `yktoo-db`, which runs {{< fl "MySQL" >}}.
 
 The first container is defined using the following file (let's call it `Dockerfile-app` to distinguish it from the other container):
 
-```
+```dockerfile
 # Dockerfile-app
 
 # Use PHP 5.6 with Apache for the base image
@@ -62,7 +62,7 @@ COPY 000-default.conf /etc/apache2/sites-available/
 
 The `COPY` command above copies the virtual host configuration file (`000-default.conf`) into the container; this file looks as follows:
 
-```
+```apacheconfig
 # 000-default.conf
 
 <VirtualHost *:80>
@@ -96,7 +96,7 @@ The usage of `AllowOverride None` is important here, as it prohibits Apache from
 
 The container #2 runs another vital component, the *MySQL* database server. Its configuration file (let's call it `Dockerfile-db`) has the following content:
 
-```
+```dockerfile
 # Dockerfile-db
 
 # Use MySQL 5.7 for the base image
@@ -110,7 +110,7 @@ COPY database.sql /db/
 
 In this file the `COPY` commands bring two SQL scripts into the container. The first one, `init.sql`, performs an initial database bootstrapping:
 
-```
+```sql
 # init.sql
 
 create database yktoo;
@@ -126,9 +126,9 @@ It also calls the second script, `database.sql`, which is merely a dump of the p
 
 ## Starting containers {#starting-containers}
 
-Containers should be started in such a way that the database becomes accessible by the HTTP server. The first thing to fix is the database configuration in //Yii// (`config/db.php`):
+Containers should be started in such a way that the database becomes accessible by the HTTP server. The first thing to fix is the database configuration in {{< fl "Yii" >}} (`config/db.php`):
 
-```
+```php
 <?php // config/db.php
 
 return [
@@ -215,26 +215,26 @@ It's quite easy to manage containers with the above scripts, but why not take it
 In Linux, `docker-compose` is not installed as a part of Docker Engine, so one has to [install](https://docs.docker.com/compose/install/) it separately.
 
 Your `docker-compose.yml` might look like the following:
-
-    version: "3"
-    services:
-        app:
-            build:
-                context: .
-                dockerfile: ./Dockerfile-app
-            container_name: yktoo-app
-            ports:
-                - "80:80"
-            volumes:
-                - .:/var/www/html
-        db:
-            build:
-                context: .
-                dockerfile: ./Dockerfile-db
-            container_name: yktoo-db
-            environment:
-                MYSQL_ROOT_PASSWORD: "root"
-
+```yaml
+version: "3"
+services:
+    app:
+        build:
+            context: .
+            dockerfile: ./Dockerfile-app
+        container_name: yktoo-app
+        ports:
+            - "80:80"
+        volumes:
+            - .:/var/www/html
+    db:
+        build:
+            context: .
+            dockerfile: ./Dockerfile-db
+        container_name: yktoo-db
+        environment:
+            MYSQL_ROOT_PASSWORD: "root"
+```
 
 The paths for `context` and `volumes` have to point to the (relative) path to your source tree root. Once you have this file, the containers can simply be started with:
 

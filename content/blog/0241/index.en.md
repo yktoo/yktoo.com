@@ -6,7 +6,7 @@ tags: ["blog", "web"]
 
 A short announcement about a new subscription option.
 
-If the term //RSS// seems completely foreign to you, there's now a Good Old E-mail [subscription][route:/blog/subscribe] option available for those who want to stay current with my blog. This way you will receive automatic updates by e-mail. Of course, you can unsubscribe at any time.
+If the term {{< fl "RSS" >}} seems completely foreign to you, there's now a Good Old E-mail [subscription][route:/blog/subscribe] option available for those who want to stay current with my blog. This way you will receive automatic updates by e-mail. Of course, you can unsubscribe at any time.
 
 <!--more-->
 

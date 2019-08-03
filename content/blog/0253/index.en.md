@@ -6,7 +6,7 @@ tags: ["aeroplanes", "Diamond DA40", "Germany", "Lelystad", "Netherlands", "Nord
 
 Summertime is the high time for [flying][post:38].
 
-One of my colleagues has got a [Private Pilot Licence][wiki:en:Private_pilot_licence] (//PPL//) and his own share of a light aircraft [Diamond Star DA40-TDI][wiki:en:Diamond_DA40]. Which he offered us to fly.
+One of my colleagues has got a [Private Pilot Licence][wiki:en:Private_pilot_licence] ({{< fl "PPL" >}}) and his own share of a light aircraft [Diamond Star DA40-TDI][wiki:en:Diamond_DA40]. Which he offered us to fly.
 ![](img:3.bp.blogspot.com/-A71m34_NFRk/Vat7yNaJekI/AAAAAAAAj0c/eRczmg86rZc/s1600/dsc09693.picasaweb.jpg:a "Diamond DA40-TDI Diamond Star.")
 
 It's been my first, but hopefully not last, experience with this type of aircraft.
@@ -32,7 +32,7 @@ Here are some technical specs of the plane to give you an impression of what it'
 
 Private aviation is quite an expensive hobby. That's why my colleague shares this DA40 (built in 2008, i.e. seven years old now) with nine other people. So each of the ten has paid a 20,000 euros share to make up for the total price of two hundred thousand.
 
-The aircraft identified as //PH-PCA// is dwelling at a small airport near the town of [Lelystad][wiki:en:Lelystad] in the northern part of the Netherlands.
+The aircraft identified as {{< fl "PH-PCA" >}} is dwelling at a small airport near the town of [Lelystad][wiki:en:Lelystad] in the northern part of the Netherlands.
 
 The first strange thing you notice is the hangar, which is full of planes, is wide open on the runway side:
 ![](img:3.bp.blogspot.com/-gDHgtyYbrGY/Vat7nqnu2BI/AAAAAAAAkBM/WHsO27CxRpM/s1600/dsc09647.picasaweb.jpg:a "Another Diamond DA40.")
@@ -40,7 +40,7 @@ The first strange thing you notice is the hangar, which is full of planes, is wi
 Since there's usually no one there and all the aircrafts' cockpits are unlocked, anyone can jump into any of them, start the engine and fly off. Just like Anakin Skywalker did in the [Star Wars: The Phantom Menace][post:139].
 ![](img:3.bp.blogspot.com/-v_rkdBVnHIU/Vat7ox9qViI/AAAAAAAAjyU/M0PUGN8gRXo/s1600/dsc09653.picasaweb.jpg:a "For any Jedi the cockpit open is.")
 
-Our winged friend //PH-PCA// is parked in the corner, blocked by other aeroplanes. In order to get to it, one has to roll a few others out first.
+Our winged friend {{< fl "PH-PCA" >}} is parked in the corner, blocked by other aeroplanes. In order to get to it, one has to roll a few others out first.
 ![](img:3.bp.blogspot.com/-aoj8SsjMee0/Vat7n29C5xI/AAAAAAAAjxo/FNmf_hwerZo/s1600/dsc09649.picasaweb.jpg:a "Aircraft PH-PCA.")
 
 Weighing only eight hundred kilos, a DA40 can easily be moved by one person with the help of a brace that is attached to the front wheel:

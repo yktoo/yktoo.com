@@ -4,7 +4,7 @@ title: "Santa Run Houten"
 tags: ["Christmas", "festivities", "Houten", "Netherlands", "Rotary International", "running", "Santa Claus", "sport"]
 ---
 
-Yesterday, December 17<sup>th</sup>, Houten hosted a charity event called [Rotary Santa Run](http://houten.rotarysantarun.nl/). For just **€10** every participant got a red Santa Claus outfit, a couple of drink vouchers, and a possibility to take part in a funny and useful event. The collected funds will go to the organisations //Jeugdsportfonds Houten// and //De Nierstichting//.
+Yesterday, December 17<sup>th</sup>, Houten hosted a charity event called [Rotary Santa Run](http://houten.rotarysantarun.nl/). For just **€10** every participant got a red Santa Claus outfit, a couple of drink vouchers, and a possibility to take part in a funny and useful event. The collected funds will go to the organisations {{< fl "Jeugdsportfonds Houten" >}} and {{< fl "De Nierstichting" >}}.
 ![](img:1.bp.blogspot.com/-8Rzu2vJR0rI/WFcANEjwGbI/AAAAAAAAotc/cVdP4yGjlDAIdYGYaQ6HVLglaaJigVC9gCPcB/s1600/dsc03878.picasaweb.jpg:a "Rotary Santa Run Houten: the start.")
 
 A total of about five hundred Santas of all ages and walks of life have gathered at the central square of our Houten.

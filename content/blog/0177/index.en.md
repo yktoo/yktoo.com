@@ -30,7 +30,7 @@ We got their address and started off for the Kroonstraat police station, about t
 
 Yet another victim of the same sort was waiting in the foyer: a lad who also lost his wallet, but it was nicked from his bike bag in a dark passage.
 
-A police officer invited us into her office and began taking down the evidence, //Proces-verbaal// in Dutch, with all the relevant details.
+A police officer invited us into her office and began taking down the evidence, {{< fl "Proces-verbaal" >}} in Dutch, with all the relevant details.
 ![](img:4.bp.blogspot.com/-uHGtmZPxR7g/UQqH7zqk7zI/AAAAAAAAWnc/ZZCr7AXRnv8/s1600/pv.png:a)
 
 Recording all the details took more than an hour. The officer was very friendly and sympathising, and in other circumstances I would really have enjoyed it. She made all the necessary calls to have my stolen cards locked. She also called the restaurant and asked them to make sure the CCTV footage wouldn't get overwritten.

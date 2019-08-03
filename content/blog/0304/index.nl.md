@@ -18,7 +18,7 @@ In Nederland moet je overal een afspraak voor maken. Gezien het winterseizoen zo
 
 Maar ik had mazzel: mijn buurman heeft een garage en hij kon me helpen.
 
-De volgende ochtend stond mijn //Prius// al op de hefbrug.
+De volgende ochtend stond mijn {{< fl "Prius" >}} al op de hefbrug.
 ![](img:4.bp.blogspot.com/-I-F5IwzaVsA/WHDg_xUFogI/AAAAAAAAo-k/ulSvvLCtBbMg8tx2jD0v8BHswJga6UxkgCPcB/s1600/20161230_105253.picasaweb.jpg:a "De patiënt is bereid voor de ingreep.")
 
 Een bout vervangen lijkt wel makkelijk, maar het vergt deskundigheid en kennis van zaken. Ik ben zelf vrij handig met techniek, maar daar ben je zonder ervaring niet toe in staat.

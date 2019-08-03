@@ -19,13 +19,13 @@ tags: ["Autumn", "Ben Mathot", "Charlotte Wessels", "Damian Wilson", "Daniel de 
 Бен играл великолепно. Марсела, впрочем, показала, что не лыком шита и на скрипке тоже умеет:
 ![](img:2.bp.blogspot.com/-ScPErnLtv-k/UN8w238zw0I/AAAAAAAAWRU/-ELsPDdE-FU/s1600/dsc06263.picasaweb.jpg:a)
 
-Гость номер два: Марьян Велман (//Marjan Welman//) из группы [Autumn](http://www.autumn-band.com/). В [прошлый раз][post:170] я был не очень впечатлён, но вдвоём они звучат просто отлично.
+Гость номер два: Марьян Велман ({{< fl "Marjan Welman" >}}) из группы [Autumn](http://www.autumn-band.com/). В [прошлый раз][post:170] я был не очень впечатлён, но вдвоём они звучат просто отлично.
 ![](img:2.bp.blogspot.com/-ZJIR9rFUf0Q/UN8wy8SmUbI/AAAAAAAAWRA/zVqkMbyyfVA/s1600/dsc06216.picasaweb.jpg:a)
 
-Третьей гостьей была Шарлотта Весселс (//Charlotte Wessels//) из [Delain](http://www.delain.nl/). К ней мы ещё вернёмся.
+Третьей гостьей была Шарлотта Весселс ({{< fl "Charlotte Wessels" >}}) из [Delain](http://www.delain.nl/). К ней мы ещё вернёмся.
 ![](img:4.bp.blogspot.com/-HFG-YNAdRlI/UN8w5NQrVSI/AAAAAAAAWRo/WYX2NVLDO2w/s1600/dsc06274.picasaweb.jpg:a)
 
-Был там ещё //Daniel de Jongh// из [Textures](http://texturesband.com/), но что-то он меня никак не задел. Даже Марсела его представила: «Даниел из этой… как её… Textures, кажется» (в шутку, конечно). Хотя их музыка сама по себе довольно интересна. Марсела исполнила их песню //Awake// в акустике, но почему-то без Даниела:
+Был там ещё {{< fl "Daniel de Jongh" >}} из [Textures](http://texturesband.com/), но что-то он меня никак не задел. Даже Марсела его представила: «Даниел из этой… как её… Textures, кажется» (в шутку, конечно). Хотя их музыка сама по себе довольно интересна. Марсела исполнила их песню {{< fl "Awake" >}} в акустике, но почему-то без Даниела:
 ![](youtube:GIry7EZDsTw)
 
 Игра Бена на скрипке впечатляет.
@@ -33,22 +33,22 @@ tags: ["Autumn", "Ben Mathot", "Charlotte Wessels", "Damian Wilson", "Daniel de 
 Потом Марсела долго собиралась с духом и всё-таки решилась.
 ![](img:1.bp.blogspot.com/-8ekqkFSGqgU/UN8whk-J-0I/AAAAAAAAWPQ/REWGpCaOyW8/s1600/dsc06110.picasaweb.jpg:a)
 
-Исполнила //Summertime// — «Колыбельную Клары» из оперы Гершвина «Порги и Бесс», — предварительно перекрестившись:
+Исполнила {{< fl "Summertime" >}} — «Колыбельную Клары» из оперы Гершвина «Порги и Бесс», — предварительно перекрестившись:
 ![](youtube:p0Mbtqo7bfM)
 
 Заметно, что высокая партия даётся ей нелегко.
 ![](img:3.bp.blogspot.com/-E_BezJORAY4/UN8wo2fFM-I/AAAAAAAAWQA/VAbPuFyVBSE/s1600/dsc06152.picasaweb.jpg:a)
 
-Вот кто конкретно понравился, это Дамиан Вилсон ([Damian Wilson](http://www.damian-wilson.net/)), старый и новый вокалист [Threshold](http://www.thresh.net/) и ещё целой груды проектов: тот же //Ayreon//, //Headspace//, //Star One//, //Landmarq//, //Gary Hughes//, //English Rock Ensemble//, //Guy Fletcher//, //Aina//, //After Forever//, //Mostly Autumn//, //Praying Mantis//, он также исполнил главную роль в мюзикле //Les Misérables//.
+Вот кто конкретно понравился, это Дамиан Вилсон ([Damian Wilson](http://www.damian-wilson.net/)), старый и новый вокалист [Threshold](http://www.thresh.net/) и ещё целой груды проектов: тот же {{< fl "Ayreon" >}}, {{< fl "Headspace" >}}, {{< fl "Star One" >}}, {{< fl "Landmarq" >}}, {{< fl "Gary Hughes" >}}, {{< fl "English Rock Ensemble" >}}, {{< fl "Guy Fletcher" >}}, {{< fl "Aina" >}}, {{< fl "After Forever" >}}, {{< fl "Mostly Autumn" >}}, {{< fl "Praying Mantis" >}}, он также исполнил главную роль в мюзикле {{< fl "Les Misérables" >}}.
 ![](img:3.bp.blogspot.com/-YQvS1Yduq0k/UN8w6VF-GuI/AAAAAAAAWRw/QVwn7KMv2Ww/s1600/dsc06279.picasaweb.jpg:a)
 
-Исключительно позитивный чувак, с очень широким диапазоном и сильным голосом. Вся честна компания исполнила один из хитов Ayreon //«Into the Black Hole»//:
+Исключительно позитивный чувак, с очень широким диапазоном и сильным голосом. Вся честна компания исполнила один из хитов Ayreon {{< fl "«Into the Black Hole»" >}}:
 ![](youtube:nJvGlGnOljE)
 
 Шедеврально. Добавить тут, по-моему, просто нечего. В общем, я согласен с басистом Йоханом вам Стратумом:
 ![](img:4.bp.blogspot.com/-AMCb9Ovr3_g/UN8w1pk4sOI/AAAAAAAAWRQ/cL-Ri5w0EKU/s1600/dsc06246.picasaweb.jpg:a)
 
-Ну и отдельно хотелось бы отметить игру Стефана Шульца (//Stephan Schultz//):
+Ну и отдельно хотелось бы отметить игру Стефана Шульца ({{< fl "Stephan Schultz" >}}):
 ![](img:1.bp.blogspot.com/-NXQneD6ft5M/UN8wlQTvxJI/AAAAAAAAWPo/htWBQt79oqA/s1600/dsc06126.picasaweb.jpg:a)
 
 Ещё несколько фото:

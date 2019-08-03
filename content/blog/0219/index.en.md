@@ -31,11 +31,11 @@ First I got a notification somewhere in January that my case was presented to Hi
 
 ## Naturalisation Ceremony {#ceremony}
 
-The naturalisation ceremony (//naturalisatieceremonie//) is strictly mandatory, failure to attend which results in the decision of awarding Dutch nationality being withdrawn. From the procedure point of view, its most important part is a declaration of allegiance ([verklaring van verbondenheid][wiki:nl:Verklaring_van_verbondenheid]).
+The naturalisation ceremony ({{< fl "naturalisatieceremonie" >}}) is strictly mandatory, failure to attend which results in the decision of awarding Dutch nationality being withdrawn. From the procedure point of view, its most important part is a declaration of allegiance ([verklaring van verbondenheid][wiki:nl:Verklaring_van_verbondenheid]).
 
-Such ceremonies are regularly held by every municipality (//gemeente//), so for example in Amersfoort it [happens](http://www.amersfoort.nl/naturalisatieceremonie.html) once a month in the town-hall, //stadhuis//.
+Such ceremonies are regularly held by every municipality ({{< fl "gemeente" >}}), so for example in Amersfoort it [happens](http://www.amersfoort.nl/naturalisatieceremonie.html) once a month in the town-hall, {{< fl "stadhuis" >}}.
 
-As a side note, I'm noticing that I've considerably "turned Dutch" (//ingeburgerd//) over the last few years, and I like it. I've grown so used to having a vast international network of friends, to the relaxed way of everyday life, to well-managed aspects of it, to friendly people and tidy streets, even to occasional minor downsides of it—that I can hardly imagine how it could be possible otherwise. The alternative reality is hard to settle in, but it's even harder to leave.
+As a side note, I'm noticing that I've considerably "turned Dutch" ({{< fl "ingeburgerd" >}}) over the last few years, and I like it. I've grown so used to having a vast international network of friends, to the relaxed way of everyday life, to well-managed aspects of it, to friendly people and tidy streets, even to occasional minor downsides of it—that I can hardly imagine how it could be possible otherwise. The alternative reality is hard to settle in, but it's even harder to leave.
 
 So here you land in a calm and affable Dutch atmosphere, and you're offered a cake with a smile:
 ![](img:1.bp.blogspot.com/-VLrL2ffN43o/U1TMqx_jXyI/AAAAAAAAclM/77cvbH7eiiY/s1600/dsc03568.picasaweb.jpg:a)
@@ -51,10 +51,10 @@ There are 31 people on the list, most of them are of Turkish, Arabic or African 
 
 The official part begins. The mayor, Lucas Bolsius, who once [introduced][post:173] us to Amersfoort, steps up and gives a long speech about the importance of the event, the Dutch culture, its key values and so forth.
 
-Finally he reads out the Declaration of Allegiance and starts the confirmation round. He approaches the candidates one-by-one, who would stand up and say either //"Dat verklaar en beloof ik"// ("That I affirm and promise", the secular version) or //"Zo waarlijk helpe mij God almachtig"// ("So help me God Almighty", the religious version). At exactly that moment you've formally become Dutch.
+Finally he reads out the Declaration of Allegiance and starts the confirmation round. He approaches the candidates one-by-one, who would stand up and say either {{< fl ""Dat verklaar en beloof ik"" >}} ("That I affirm and promise", the secular version) or {{< fl ""Zo waarlijk helpe mij God almachtig"" >}} ("So help me God Almighty", the religious version). At exactly that moment you've formally become Dutch.
 ![](img:2.bp.blogspot.com/-mxIO-9EC7HY/U1TMzVRHWEI/AAAAAAAAcl8/GqUrpZnKoN8/s1600/dsc03574.picasaweb.jpg:a)
 
-Then you shake hands with the mayor and are handed over a Certificate of the Dutch Nationality. Next to that you also get a medal with the inscription //Landgenoot. Stadsgenoot// ("fellow countryman, fellow cityman") and an outline of the Netherlands depicting the location of Amersfoort:
+Then you shake hands with the mayor and are handed over a Certificate of the Dutch Nationality. Next to that you also get a medal with the inscription {{< fl "Landgenoot. Stadsgenoot" >}} ("fellow countryman, fellow cityman") and an outline of the Netherlands depicting the location of Amersfoort:
 ![](img:2.bp.blogspot.com/-Xq9oKAwDNxk/U1TM9ha1C_I/AAAAAAAAcm0/puocXR0pUIM/s1600/dsc03587.picasaweb.jpg:a)
 
 Both versions of the oath are printed on sheets of paper lying on everyone's desks. They are also shown on big wall screens. But some people either didn't listen or couldn't understand the explanations. Somebody would start reading from the title part of the sheet, for instance. But nevermind, the officials must be well used to all kinds of situations.
@@ -62,7 +62,7 @@ Both versions of the oath are printed on sheets of paper lying on everyone's des
 Most people chose the secular version, apparently because it's simpler. Only one man from Indonesia was brave enough to say the long one:
 ![](img:1.bp.blogspot.com/-6ZGcv0n2cQo/U1TM2OcU_2I/AAAAAAAAcmM/XezGo53tICE/s1600/dsc03576.picasaweb.jpg:a)
 
-Once the round was over everybody sang the first verse of Dutch National Anthem (//Wilhelmus//). The text of the [anthem](https://www.youtube.com/watch?v=nTXxFhWllm0) was shown on wall screens like in karaoke.
+Once the round was over everybody sang the first verse of Dutch National Anthem ({{< fl "Wilhelmus" >}}). The text of the [anthem](https://www.youtube.com/watch?v=nTXxFhWllm0) was shown on wall screens like in karaoke.
 
 And at last, everybody gets together for a group photo with the mayor:
 ![](img:2.bp.blogspot.com/-B6KaVXRBQdE/U1TM3ssdJlI/AAAAAAAAcmU/Pq448G3g6JM/s1600/dsc03582.picasaweb.jpg:a)

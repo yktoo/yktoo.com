@@ -39,7 +39,7 @@ She performed Summertime from George Gershwin's opera Porgy and Bess:
 One can notice the high notes are difficult for her.
 ![](img:3.bp.blogspot.com/-E_BezJORAY4/UN8wo2fFM-I/AAAAAAAAWQA/VAbPuFyVBSE/s1600/dsc06152.picasaweb.jpg:a)
 
-Who I liked a lot was [Damian Wilson](http://www.damian-wilson.net/), old and new singer in [Threshold](http://www.thresh.net/) and a lot of other projects: Ayreon, Headspace, Star One, Landmarq, Gary Hughes, English Rock Ensemble, Guy Fletcher, Aina, After Forever, Mostly Autumn, Praying Mantis, he also played the lead role in the musical //Les Misérables//.
+Who I liked a lot was [Damian Wilson](http://www.damian-wilson.net/), old and new singer in [Threshold](http://www.thresh.net/) and a lot of other projects: Ayreon, Headspace, Star One, Landmarq, Gary Hughes, English Rock Ensemble, Guy Fletcher, Aina, After Forever, Mostly Autumn, Praying Mantis, he also played the lead role in the musical {{< fl "Les Misérables" >}}.
 ![](img:3.bp.blogspot.com/-YQvS1Yduq0k/UN8w6VF-GuI/AAAAAAAAWRw/QVwn7KMv2Ww/s1600/dsc06279.picasaweb.jpg:a)
 
 He's an extremely positive guy, with a broad vocal range and a strong voice. The whole gang played one of Ayreon's hits Into the Black Hole:

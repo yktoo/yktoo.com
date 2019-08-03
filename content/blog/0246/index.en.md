@@ -99,7 +99,7 @@ It hasn't been able to find my iron anyway.
 
 ### Buienradar
 
-This is one of the most useful applications in Holland. The "Shower Radar" (//Buienradar//) displays the current and future positions of the rain clouds in the land's sky, up to two hours ahead.
+This is one of the most useful applications in Holland. The "Shower Radar" ({{< fl "Buienradar" >}}) displays the current and future positions of the rain clouds in the land's sky, up to two hours ahead.
 ![](img:4.bp.blogspot.com/-9LEoBeW7s_g/VWCKLL4YCBI/AAAAAAAAjfE/D-U9lBQCXQc/s1600/dsc09563.picasaweb.jpg:a "Buienradar.")
 
 It's an absolute must-have here, as it can start raining any second. Not of much use for other countries though.
@@ -129,7 +129,7 @@ The catalog has lots of other applications, from games to news sites. So I'll st
 
 ## Multi-Link Screen {#multi-link-screen}
 
-To fully employ the two square metres of screen surface, the TV has a so-called //Multi-Link Screen//, or a split-screen, mode. So you can, for instance, have a TV picture side-by-side with a browser window:
+To fully employ the two square metres of screen surface, the TV has a so-called {{< fl "Multi-Link Screen" >}}, or a split-screen, mode. So you can, for instance, have a TV picture side-by-side with a browser window:
 ![](img:2.bp.blogspot.com/--yYIoMQ76Mw/VWCKQEltmwI/AAAAAAAAjgY/i_613BJrAxU/s1600/dsc09575.picasaweb.jpg:a "Multi-Link Screen: TV and a web browser.")
 
 Or, for those multitasking wizards, TV and YouTube (the sound is only played from the currently active window):

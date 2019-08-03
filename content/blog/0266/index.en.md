@@ -16,10 +16,10 @@ First few months I would run a five-kilometre pentagon route resembling the old 
 
 The only annoying thing was that it's 300 metres shorter than the required five kilometres, which I always had to "top up".
 
-As time went by, I've switched to running 10 kilometres, and running the above route twice was even more annoying as then it was 600 m too short. I've found another track along the side of the //Amsterdam-Rijnkanaal//, which is at the bottom left corner on the picture above. This is how it looked like last spring:
+As time went by, I've switched to running 10 kilometres, and running the above route twice was even more annoying as then it was 600 m too short. I've found another track along the side of the {{< fl "Amsterdam-Rijnkanaal" >}}, which is at the bottom left corner on the picture above. This is how it looked like last spring:
 ![](img:1.bp.blogspot.com/-EjT8lpuoqHA/VSwY_3Q2E-I/AAAAAAAAhbs/vnaiRpuyZRg/s1600/20150327_184933.picasaweb.jpg:a "March. The Amsterdam-Rijnkanaal is on the right.")
 
-It was particularly beautiful in the summer. The stretch siding with the channel follows a bike way officially called the *Song bike path* (//zangfietspad//). The corresponding sign depicts a singing cyclist and the following text:
+It was particularly beautiful in the summer. The stretch siding with the channel follows a bike way officially called the *Song bike path* ({{< fl "zangfietspad" >}}). The corresponding sign depicts a singing cyclist and the following text:
 
 > Cyclists are officially allowed to sing here. No more awkward pauses in your song because someone is cycling by!
 
@@ -72,7 +72,7 @@ Merch stands.
 Pedestals for the winners:
 ![](img:3.bp.blogspot.com/-Q4J9BiGA3Hg/VSwZksaqtnI/AAAAAAAAhf8/knvxz55RVVc/s1600/dsc08423.picasaweb.jpg:a "Pedestals.")
 
-Those who wish to finish in a specific time can follow the so-called "hares" (//hazen//) or pacemakers, who run the entire distance at a constant pace. To be better visible, each of them is carrying a balloon, for instance, the green one finishes the quarter marathon in 55 minutes, the white one in an hour, the purple one in 1:10 etc.
+Those who wish to finish in a specific time can follow the so-called "hares" ({{< fl "hazen" >}}) or pacemakers, who run the entire distance at a constant pace. To be better visible, each of them is carrying a balloon, for instance, the green one finishes the quarter marathon in 55 minutes, the white one in an hour, the purple one in 1:10 etc.
 
 Once the run is complete, the balloons are given away to the kids.
 ![](img:1.bp.blogspot.com/-S1m8GN3Qe0Q/VSwaJKvciGI/AAAAAAAAhjU/mf5OXBgXW-8/s1600/dsc08534.picasaweb.jpg:a "Pacemakers' balloons.")
@@ -119,7 +119,7 @@ There's a lot of cameras along the track, so you won't be able to cheat.
 
 There is a big red gate that confusingly looks like a finish, but is some half kilometre before the finish line.
 
-The lady in the pink shirt on the photo below is //Sarah Watson//, a granddaughter of Baron [Van Zuylen van Nijevelt][wiki:en:Van_Zuylen_van_Nievelt], a former owner of the De Haar Castle. It was [her idea](http://www.haarzuilens.net/) to organise a marathon on the premises of the castle.
+The lady in the pink shirt on the photo below is {{< fl "Sarah Watson" >}}, a granddaughter of Baron [Van Zuylen van Nijevelt][wiki:en:Van_Zuylen_van_Nievelt], a former owner of the De Haar Castle. It was [her idea](http://www.haarzuilens.net/) to organise a marathon on the premises of the castle.
 ![](img:4.bp.blogspot.com/-muaxuM3UBw0/VSwaG3TOzkI/AAAAAAAAhjE/Fwq-0WU35bU/s1600/dsc08522.picasaweb.jpg:a "Sarah Watson is on the right.")
 
 The finish line:

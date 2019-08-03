@@ -12,17 +12,17 @@ It's easy to find beautiful places here in Europe, outside of the [desert][post:
 If the dear reader were a swan, they could see the city like this:
 ![](img:2.bp.blogspot.com/-bg6xKCh3Ff8/UtWFDHfO0-I/AAAAAAAAblo/-8ATbDTYMuw/s1600/dsc02731.picasaweb.jpg:a)
 
-This is the Leie river (French: //Lys//), which crosses the city centre.
+This is the Leie river (French: {{< fl "Lys" >}}), which crosses the city centre.
 
-Ghent was largely saved from bombings during the World War II, so its streets are full of history. The right bank of Leie is called //Graslei//. It's a street with quite a few historical buildings, most of which host restaurants:
+Ghent was largely saved from bombings during the World War II, so its streets are full of history. The right bank of Leie is called {{< fl "Graslei" >}}. It's a street with quite a few historical buildings, most of which host restaurants:
 ![](img:2.bp.blogspot.com/-lFGeE2uq-Us/UtWFCjXer5I/AAAAAAAAblk/RNE2hF8tgaY/s1600/dsc02730.picasaweb.jpg:a)
 
-On the left bank there's //Korenlei//, whose main attraction seems to be this dreamy girl in Santa Claus cap, also inviting you to a restaurant:
+On the left bank there's {{< fl "Korenlei" >}}, whose main attraction seems to be this dreamy girl in Santa Claus cap, also inviting you to a restaurant:
 ![](img:4.bp.blogspot.com/-wvj5J9BrNKk/UtWFDqhVhLI/AAAAAAAAbmI/ahwHdb2TShM/s1600/dsc02733.picasaweb.jpg:a)
 
 One of the evenings loitering youth tried to nick the cap, but they were immediately scared off by the restaurant's owner.
 
-The view from the //Sint-Michielsbrug//, St Michael's Bridge is similar:
+The view from the {{< fl "Sint-Michielsbrug" >}}, St Michael's Bridge is similar:
 ![](img:2.bp.blogspot.com/-HaFhjVfpWNQ/UtWFEdP1rBI/AAAAAAAAbl8/KPuQtLc_XlU/s1600/dsc02735.picasaweb.jpg:a)
 ![](img:4.bp.blogspot.com/-BJeBGaEXvAM/UtWFE8jgNqI/AAAAAAAAbmE/ePycLbIixpc/s1600/dsc02736.picasaweb.jpg:a)
 
@@ -49,7 +49,7 @@ Before the belfry there's a Christmas market, where you can buy mulled wine, che
 There are very few new buildings in the city centre.
 ![](img:1.bp.blogspot.com/-C_qCl8sPw-4/UtWFbnx_W6I/AAAAAAAAbuE/xYzRuXLyYkE/s1600/dsc02872.picasaweb.jpg:a)
 
-On the square between the belfry and the church (//Emile Braunplein//) is a slanting structure called //Stadshal//. It is an awning, a steel skeleton encased in the endangered timber of [Afrormosia][wiki:en:Pericopsis_elata]. The construction has only been completed recently, in 2012.
+On the square between the belfry and the church ({{< fl "Emile Braunplein" >}}) is a slanting structure called {{< fl "Stadshal" >}}. It is an awning, a steel skeleton encased in the endangered timber of [Afrormosia][wiki:en:Pericopsis_elata]. The construction has only been completed recently, in 2012.
 ![](img:1.bp.blogspot.com/-sP_3HkDELmM/UtWFHQ67lpI/AAAAAAAAbnE/NJlc5R5y2Y0/s1600/dsc02758.picasaweb.jpg:a)
 
 The encasing also features 1600 tiny windows that "deliver a dynamic incidence of light".
@@ -67,10 +67,10 @@ More peculiarities:
 North of Graslei/Korenlei, where the river forks, is another famous attraction of Ghent, the [Gravensteen](http://www.gravensteengent.be/) castle, hardly changed since my [last visit][post:33].
 ![](img:1.bp.blogspot.com/-jfTdzRifu5E/UtWFWOUeUzI/AAAAAAAAbsI/z3JFq6ZKIPo/s1600/dsc02830.picasaweb.jpg:a)
 
-Next to it there's one of the oldest markets in the city, //De Oude Vismijn// (1689), nowadays converted into a [bar](http://www.oudevismijn.be/):
+Next to it there's one of the oldest markets in the city, {{< fl "De Oude Vismijn" >}} (1689), nowadays converted into a [bar](http://www.oudevismijn.be/):
 ![](img:1.bp.blogspot.com/-_48uogaOKoI/UtWFU7JOuhI/AAAAAAAAbrs/VouP6snmJko/s1600/dsc02824.picasaweb.jpg:a)
 
-And another market that has gone through the vicissitudes of fortunes, //Het Groot Vleeshuis// (lit. The Big Meat House). Its original purpose was the centralisation of meat sale, which could facilitate state control. Even in medieval Belgium attention was paid to quality of products, and home meat trade was forbidden. Later in 1920 it became a marketplace for vegetables and fruits, and in 1960s a fish-market. Since 2000 it hosts the [Promotion Centre for Regional Eastern-Flemish Products](http://www.grootvleeshuis.be/) (//Promotiecentrum voor Oost-Vlaamse streekproducten//):
+And another market that has gone through the vicissitudes of fortunes, {{< fl "Het Groot Vleeshuis" >}} (lit. The Big Meat House). Its original purpose was the centralisation of meat sale, which could facilitate state control. Even in medieval Belgium attention was paid to quality of products, and home meat trade was forbidden. Later in 1920 it became a marketplace for vegetables and fruits, and in 1960s a fish-market. Since 2000 it hosts the [Promotion Centre for Regional Eastern-Flemish Products](http://www.grootvleeshuis.be/) ({{< fl "Promotiecentrum voor Oost-Vlaamse streekproducten" >}}):
 ![](img:4.bp.blogspot.com/-k-DWsW0cQek/UtWFWxIqRVI/AAAAAAAAbsg/c_ENlyMeeHk/s1600/dsc02832.picasaweb.jpg:a)
 
 There's a lot of old houses along the river in various conditions.
@@ -79,7 +79,7 @@ There's a lot of old houses along the river in various conditions.
 ![](img:3.bp.blogspot.com/-f_vtDnBFNyk/UtWFXkFEtOI/AAAAAAAAbso/sPzjS8WWrPc/s1600/dsc02835.picasaweb.jpg:a)
 ![](img:2.bp.blogspot.com/-LbFBs4bV2J8/UtWFX3ycG6I/AAAAAAAAbs4/0qGKalbmyiE/s1600/dsc02836.picasaweb.jpg:a)
 
-A funny artefact of the riverbank, a 12.5-ton Big Canon (//Groot Kanon//). It's been here for more than four hundred years, though it's never fired a shot, and it's commonly known as //Dulle Griet//, [Mad Meg][wiki:en:Dulle_Griet]:
+A funny artefact of the riverbank, a 12.5-ton Big Canon ({{< fl "Groot Kanon" >}}). It's been here for more than four hundred years, though it's never fired a shot, and it's commonly known as {{< fl "Dulle Griet" >}}, [Mad Meg][wiki:en:Dulle_Griet]:
 ![](img:4.bp.blogspot.com/-jtwzHjOwKGw/UtWFYkujf9I/AAAAAAAAbtA/4wqZjtrfBrA/s1600/dsc02838.picasaweb.jpg:a)
 
 If you like hobbits, this place is for rent:
@@ -88,7 +88,7 @@ If you like hobbits, this place is for rent:
 These design white bears can be seen at many places in the city:
 ![](img:4.bp.blogspot.com/-IR0i_sDA_PU/UtWFUHkgtAI/AAAAAAAAbrc/SCIJ3RB9oS0/s1600/dsc02818.picasaweb.jpg:a)
 
-The //Vrijdagmarkt// (Friday Market) is the residence of the statue of [Jacob van Artevelde][wiki:en:Jacob_van_Artevelde], a Flemish statesman.
+The {{< fl "Vrijdagmarkt" >}} (Friday Market) is the residence of the statue of [Jacob van Artevelde][wiki:en:Jacob_van_Artevelde], a Flemish statesman.
 ![](img:1.bp.blogspot.com/-oIGgas3LfCY/UtWFZo_oHeI/AAAAAAAAbtQ/-KXXK8Yk2CI/s1600/dsc02840.picasaweb.jpg:a)
 
 The pedestal is nicely decorated with elaborate colourful signs:

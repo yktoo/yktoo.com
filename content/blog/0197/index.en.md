@@ -11,16 +11,16 @@ In the brochure of [Spoffin][post:196] I found a discount coupon for climbing th
 
 <!--more-->
 
-The //Onze-Lieve-Vrouwetoren// or "The Tower of Our Lady" was built in the 15<sup>th</sup> century and finishied around 1470. The exact date is unknown since the church archive was destroyed in 1579 during the [Beeldenstorm][wiki:en:Beeldenstorm]—apparently the Protestants couldn't distinguish documents from icons.
+The {{< fl "Onze-Lieve-Vrouwetoren" >}} or "The Tower of Our Lady" was built in the 15<sup>th</sup> century and finishied around 1470. The exact date is unknown since the church archive was destroyed in 1579 during the [Beeldenstorm][wiki:en:Beeldenstorm]—apparently the Protestants couldn't distinguish documents from icons.
 
-The tower is 98.33 metres tall, which makes it the [third highest][wiki:nl:Lijst_van_hoogste_kerktorens_in_Nederland] in Holland, preceded by the //Domtoren// in Utrecht (112 m) and the //Nieuwe Kerk// in Delft (109 m). And it's quite fortunate as the //Sint-Vituskerk// (Hilversum) is only three centimetres shorter.
+The tower is 98.33 metres tall, which makes it the [third highest][wiki:nl:Lijst_van_hoogste_kerktorens_in_Nederland] in Holland, preceded by the {{< fl "Domtoren" >}} in Utrecht (112 m) and the {{< fl "Nieuwe Kerk" >}} in Delft (109 m). And it's quite fortunate as the {{< fl "Sint-Vituskerk" >}} (Hilversum) is only three centimetres shorter.
 
 The tower may only be visited with a guided tour, which is spoken in Dutch of course.
 
 Despite its quite massive exterior dimensions, a narrow spiral stairs of 346 steps is leading to its top. At the first "pit-stop" the guide asked the kids to show the point we were standing at in their opinion:
 ![](img:4.bp.blogspot.com/-GFZwbLh3rzo/Uid9vxq5T0I/AAAAAAAAaT4/gUzQymoVgh0/s1600/dsc01080.picasaweb.jpg:a)
 
-A view at the //Lieve Vrouwekerkhof// from the lower terrace of the tower, which is at about one third of its total height:
+A view at the {{< fl "Lieve Vrouwekerkhof" >}} from the lower terrace of the tower, which is at about one third of its total height:
 ![](img:1.bp.blogspot.com/-xZ5LnT7prgk/Uid93_g3itI/AAAAAAAAaUg/By6_yPdnAWE/s1600/dsc01087.picasaweb.jpg:a)
 
 You can see the typical outside cafés and Amersfoorters enjoying the sun.
@@ -41,7 +41,7 @@ You can see solar panels on many roofs—the "green" energy is in fashion nowada
 Renewable energy is actively backed and subsidised by the government. Many make use of it by renting out their rooftop areas:
 ![](img:3.bp.blogspot.com/-fUR8SrGImh0/Uid9_xTnZRI/AAAAAAAAaVQ/AYW6GsAL1AU/s1600/dsc01095.picasaweb.jpg:a)
 
-//Westsingel// and the ubiquitous bikes:
+{{< fl "Westsingel" >}} and the ubiquitous bikes:
 ![](img:3.bp.blogspot.com/-dQTaQ8Lrt7Q/Uid-Cc_bbjI/AAAAAAAAaVg/xwlIVbCa9qo/s1600/dsc01097.picasaweb.jpg:a)
 
 Another trend in this highly Internetised country is QR codes, some of them are some metres large:
@@ -58,9 +58,9 @@ The levers are conneced by wires to bells' clappers:
 
 Amersfoort Tower of Our Lady is special in the sense it's equipped with two carillons: a conventional one built in 1664, with 35 bells, and a modern one of 1997 with 58 bells. The tower also has seven regular bells, making the total of one hundred pieces.
 
-The carilloneur (//beiaardier//), a passionate old man with a strong Belgian accent, played both instruments at our request. Which I filmed, of course.
+The carilloneur ({{< fl "beiaardier" >}}), a passionate old man with a strong Belgian accent, played both instruments at our request. Which I filmed, of course.
 
-//The Hormonious Blacksmith// by //Handel//, played on the young carillon:
+{{< fl "The Hormonious Blacksmith" >}} by {{< fl "Handel" >}}, played on the young carillon:
 ![](youtube:oj1kuBuQMlA)
 
 And some unknown piece on the 17<sup>th</sup> century one:
@@ -84,7 +84,7 @@ Some more views from above:
 All the streets, busy at the moment, will become empty at five, as soon as the shops close.
 ![](img:4.bp.blogspot.com/-uy_eBco6BiE/Uid-V0eYQrI/AAAAAAAAaXQ/2iFE9_p2EXA/s1600/dsc01125.picasaweb.jpg:a)
 
-Another curious fact about the tower is that it used to be the middle point of the Dutch grid reference system (//nulpunt Rijksdriehoeskmeting Kadaster//) thanks to its central location and prominence. This is confirmed by the pointer ring installed in the tower's floor:
+Another curious fact about the tower is that it used to be the middle point of the Dutch grid reference system ({{< fl "nulpunt Rijksdriehoeskmeting Kadaster" >}}) thanks to its central location and prominence. This is confirmed by the pointer ring installed in the tower's floor:
 ![](img:1.bp.blogspot.com/-IRu0peFgnf8/UinWz-KPFKI/AAAAAAAAaY0/NG6BqnWtvLo/s1600/RijksdriehoeksmetingNulpunt.picasaweb.jpg:a "Photo by I, Ceinturion, via Wikimedia Commons.")
 
 But negative coordinate values caused mistakes to occur. Therefore the middle point was moved 155 km Westwards and 463 km Southwards in 1978. Thus the tower's coordinates nowadays are X = 155 000, Y = 463 000.

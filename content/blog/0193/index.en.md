@@ -27,16 +27,16 @@ Some lanes are even too narrow for a normal car:
 But the legendary Lada Niva (a Russian tank-like vehicle) can get anywhere:
 ![](img:2.bp.blogspot.com/-tGxqghxA40c/Ua4hfcNV92I/AAAAAAAAYnI/O9gpgXn3-ak/s1600/dsc08989.picasaweb.jpg:a)
 
-Alte has a river, or maybe a canal. This area is called //Fonte Pequena// ("small fountain"):
+Alte has a river, or maybe a canal. This area is called {{< fl "Fonte Pequena" >}} ("small fountain"):
 ![](img:1.bp.blogspot.com/-CvNEW-x4CFY/Ua4lInTHXEI/AAAAAAAAY7g/yHTYxUqEwy0/s1600/dsc09235.picasaweb.jpg:a)
 
 And this is, apparently, the fountain:
 ![](img:3.bp.blogspot.com/-JTlhzX2gKh4/Ua4lLDppGOI/AAAAAAAAY7w/CjwRyPyobOE/s1600/dsc09239.picasaweb.jpg:a)
 
-A monument covered with azulejo panels, with the poem of //Cândido Guerreiro//, Alte's most celebrated son, on it:
+A monument covered with azulejo panels, with the poem of {{< fl "Cândido Guerreiro" >}}, Alte's most celebrated son, on it:
 ![](img:1.bp.blogspot.com/-nFnWjo8_1nU/Ua4lHWqeKnI/AAAAAAAAY7Y/uoyICPErRtI/s1600/dsc09234.picasaweb.jpg:a)
 
-And this is ~~the other~~ another Alte's attraction, a statue depicting Alte's Muse called //Naia//, which vaguely reminds me of wooden toys from Ikea:
+And this is ~~the other~~ another Alte's attraction, a statue depicting Alte's Muse called {{< fl "Naia" >}}, which vaguely reminds me of wooden toys from Ikea:
 ![](img:3.bp.blogspot.com/-feQenDVJSTY/Ua4lMV3zdoI/AAAAAAAAY74/trARLBlE5uY/s1600/dsc09240.picasaweb.jpg:a)
 
 The birds seem to adore the Muse:

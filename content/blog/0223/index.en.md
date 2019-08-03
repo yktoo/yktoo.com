@@ -14,7 +14,7 @@ In the [previous part][post:222] I mentioned the "Bike Town" award given to Hout
 * "Street Litter Fighter 2012" ([ZwerfAfvalPakker van het jaar](https://www.houten.nl/nieuws/bekijk/archief/2012/maart/artikel/gemeente-houten-winnaar-zwerfafvalpakker-2012/)).
 * "Best Municipality for Kids 2009" ([Leukste gemeente voor kinderen](https://www.houten.nl/nieuws/bekijk/archief/2009/mei/artikel/houten-leukste-gemeente-voor-kinderen/)) in the "Children in Numbers" ([Kinderen in Tel](http://www.kinderenintel.nl/)) rating. The ranking created by [Verwey-Jonker Instituut](http://www.verwey-jonker.nl/) was based on infant mortality, number of teenage mothers, youth unemployment and so on.
 
-In other words, there's something to be proud of for //Houtenaars//. Let's see what distinguishes Houten from other Dutch cities.
+In other words, there's something to be proud of for {{< fl "Houtenaars" >}}. Let's see what distinguishes Houten from other Dutch cities.
 
 ## Old Houten {#old}
 
@@ -30,7 +30,7 @@ It gets especially picturesque in the sunny weather.
 ![](img:1.bp.blogspot.com/-FJpibthxYBw/U_uLT72HTkI/AAAAAAAAfIk/j6tSHCEW1O0/s1600/dsc06430.picasaweb.jpg:a)
 ![](img:3.bp.blogspot.com/-j5L-5OsjwGc/U_uLUQ0A6TI/AAAAAAAAfFM/IIeR2UtBHvs/s1600/dsc06431.picasaweb.jpg:a)
 
-A bench in the shape of the word "HERE" (//HIER//) is apparently only used by birds:
+A bench in the shape of the word "HERE" ({{< fl "HIER" >}}) is apparently only used by birds:
 ![](img:1.bp.blogspot.com/-Je8zUMbHpVw/U_uLUun2Y9I/AAAAAAAAfIk/EkHBKozH7CM/s1600/dsc06432.picasaweb.jpg:a)
 
 There are plently of them, just like anywhere in Holland:
@@ -52,7 +52,7 @@ Besides these, there's a lot of apples, pears, grapes, plums, cherries and even 
 
 It's a self-service counter, the buyer should leave the money in the rusty box down below.
 
-However, the //gratis// fruits are just as good, which we've experimentally proven:
+However, the {{< fl "gratis" >}} fruits are just as good, which we've experimentally proven:
 ![](img:4.bp.blogspot.com/-C0hKpbI_xQ8/U_uFTupGG0I/AAAAAAAAd5w/uHmBguXt60c/s1600/20140824_192312.picasaweb.jpg:a)
 
 The pie is made of apples picked in a nearby grove.
@@ -66,7 +66,7 @@ A fountain, which is… uhm… a symbol of a mandatory fountain before the town-
 Modern technologies in the old town: the Dutch love to invest in *sustainable*, hence the solar panels. Not only is it subsidised by the government, but also reduces your electricity bill:
 ![](img:2.bp.blogspot.com/-cdOZQGzTyco/U_uLTUK8TqI/AAAAAAAAfIk/p4RzVcOy5iE/s1600/dsc06428.picasaweb.jpg:a)
 
-The oldest spot in the town, //Oude Dorp// ("Old Village"), is a tiny square that looks completely authentic:
+The oldest spot in the town, {{< fl "Oude Dorp" >}} ("Old Village"), is a tiny square that looks completely authentic:
 ![](img:2.bp.blogspot.com/-AOPNFtuA300/U_uLYDla6hI/AAAAAAAAfIk/NW_jIimWv1g/s1600/dsc06439.picasaweb.jpg:a)
 
 Apart from restaurants and shops, there's a traditional belfry next to it:
@@ -85,7 +85,7 @@ Architecture of the new part is sometimes different, but you can always tell the
 I'm particularly fond of those yellowish bricks, which resemble houses in [southern Belgium][post:35]:
 ![](img:3.bp.blogspot.com/--l9cDMEGSYM/U_uLOD9iRUI/AAAAAAAAfIk/rGAc_v46UIY/s1600/dsc06417.picasaweb.jpg:a)
 
-One of the eye-catchers of the new part is the three-wing pyramid called //Het Domein// ("The Domain"), the "hill-house" (//heuvelgebouw//) built in 2002 based on the design of [Das brothers][wiki:nl:Robbert_en_Rudolf_Das]:
+One of the eye-catchers of the new part is the three-wing pyramid called {{< fl "Het Domein" >}} ("The Domain"), the "hill-house" ({{< fl "heuvelgebouw" >}}) built in 2002 based on the design of [Das brothers][wiki:nl:Robbert_en_Rudolf_Das]:
 ![](img:2.bp.blogspot.com/-HKIgcg7oMTE/U_uLJ-29-LI/AAAAAAAAfIk/QybmmHbl5NI/s1600/dsc06407.picasaweb.jpg:a)
 
 Each apartment has a terrace, all of them together forming the pyramid:
@@ -94,10 +94,10 @@ Each apartment has a terrace, all of them together forming the pyramid:
 Most of the apartments located right above the water:
 ![](img:3.bp.blogspot.com/-OpNRV_WBoeY/U_uLI_0CO3I/AAAAAAAAfCc/byM0RrDg1sE/s1600/dsc06404.picasaweb.jpg:a)
 
-The nearby city beach on the //Rietplas// pool is not overly crowded in August. The little island on the left is only accessible via a shallow wade (which is about two feet deep):
+The nearby city beach on the {{< fl "Rietplas" >}} pool is not overly crowded in August. The little island on the left is only accessible via a shallow wade (which is about two feet deep):
 ![](img:1.bp.blogspot.com/-w1Bqjc8eDs4/U_uLFQjLkMI/AAAAAAAAfIk/GZEgD9x80-k/s1600/dsc06397.picasaweb.jpg:a)
 
-These kids are fortunate enough to possess a //fluisterboot// (electric boat):
+These kids are fortunate enough to possess a {{< fl "fluisterboot" >}} (electric boat):
 ![](img:3.bp.blogspot.com/-c_Ds9MHxsRk/U_uLGY81RbI/AAAAAAAAfCM/4I1xEWSyfwY/s1600/dsc06400.picasaweb.jpg:a)
 
 The pool is surrounded by houses, which must be pretty damp inside I think:
@@ -106,10 +106,10 @@ The pool is surrounded by houses, which must be pretty damp inside I think:
 This block of toy-like houses is built right above the water surface:
 ![](img:2.bp.blogspot.com/-SoP5ALHplJY/U_uLJnkcC3I/AAAAAAAAfIk/h5rtZGSzzZQ/s1600/dsc06406.picasaweb.jpg:a)
 
-In the medieval times the border of the Roman Empire lay here. This is reflected, for example, in the name of the //Houten Castellum// [train station][post:221]. All the streets in this neighbourhood have Italian names:
+In the medieval times the border of the Roman Empire lay here. This is reflected, for example, in the name of the {{< fl "Houten Castellum" >}} [train station][post:221]. All the streets in this neighbourhood have Italian names:
 ![](img:1.bp.blogspot.com/-qxGHQtBW4Fg/U_uLPgLMWPI/AAAAAAAAfEM/HwrDsdY2jYg/s1600/dsc06421.picasaweb.jpg:a)
 
-//Piazza// means "square" in Italian.
+{{< fl "Piazza" >}} means "square" in Italian.
 
 These new houses are splendid in my opinion:
 ![](img:1.bp.blogspot.com/-Oo65uVvff0A/U_uLW-aUc_I/AAAAAAAAfFw/C4z3sPA5Wy0/s1600/dsc06420.picasaweb.jpg:a)

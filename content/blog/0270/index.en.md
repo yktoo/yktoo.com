@@ -4,7 +4,7 @@ title: "Austria, Sölden, snowboard"
 tags: ["Austria", "Längenfeld", "mountains", "snow", "snowboard", "Sölden", "sport", "travel", "Tyrol"]
 ---
 
-I've been lucky to have had a good deal of //wintersport// this season, as well as to come back in one piece.
+I've been lucky to have had a good deal of {{< fl "wintersport" >}} this season, as well as to come back in one piece.
 
 Our destination was chosen to be the Austrian [Sölden][wiki:en:Sölden], also located in Tyrol like Ischgl where I'd been a [year ago][post:239].
 ![](img:3.bp.blogspot.com/-ypJHKvDbGGA/Vrd2qvWMm6I/AAAAAAAAlVo/7gneIBHSzfE/s1600/20160125_155713.picasaweb.jpg:a "Sölden. Tyrol. Alps.")
@@ -37,12 +37,12 @@ The last thirty or so kilometres you drive along the [Ötztal valley][wiki:en:Ö
 Sölden is another little town down the Ötztal valley, looking very much like Längenfeld but with a vast skiing area. It's smaller than one in [Ischgl][post:239] (**33** vs. **45** ski lifts and **145 km** of pistes vs. **238 km** in Ischgl), but somewhat more intricate.
 ![](img:1.bp.blogspot.com/-0vfBccLPS84/Vri0pDrFXWI/AAAAAAAAlYE/1y_q4EPPPV0/s1600/soelden-ski-map.jpg:a "Ski map of Sölden (source: soelden.com).")
 
-So for example the top left area called [Tiefenbach Glacier](http://www.soelden.com/glacier-skiing) (//Tiefenbach Gletscher//) is only accessible via a chain of lifts and slopes starting at top right.
+So for example the top left area called [Tiefenbach Glacier](http://www.soelden.com/glacier-skiing) ({{< fl "Tiefenbach Gletscher" >}}) is only accessible via a chain of lifts and slopes starting at top right.
 
 The first lift brings you from the altitude of the valley, **1350 m**, to **2284 m** in about ten minutes of ~~ominous~~ silence.
 ![](img:4.bp.blogspot.com/-_6NrsPZYQMQ/Vrd2qmjPJxI/AAAAAAAAlVo/ZhjGxyBv_sE/s1600/20160124_103743.picasaweb.jpg:a "Sölden from the cable car.")
 
-This time I switched from skis to snowboard, just as I [planned][post:239], for the first time in my life. This resulted in a multitude of new sensations in various parts of my body, mostly arising from their contact with the hard piste. Despite the basic training I previously got indoors, I failed even to stand up on that stupid board on the slope. Then I stopped trying and went to find a //skischule//, which are plenty there.
+This time I switched from skis to snowboard, just as I [planned][post:239], for the first time in my life. This resulted in a multitude of new sensations in various parts of my body, mostly arising from their contact with the hard piste. Despite the basic training I previously got indoors, I failed even to stand up on that stupid board on the slope. Then I stopped trying and went to find a {{< fl "skischule" >}}, which are plenty there.
 
 After four hours of tumbling downhill with a small group of Dutch I could finally slide on both *toe* and *heel edges*, as well as switch from one to the other. We practised on a short stretch of the piste, climbing it up all the time. Which proved to be pretty tiresome.
 ![](img:3.bp.blogspot.com/-dDJGbAkjwSY/Vrd2qpUu2NI/AAAAAAAAlVo/hXbfU-rohcQ/s1600/20160124_124825.picasaweb.jpg:a "Our share of the piste.")
@@ -50,7 +50,7 @@ After four hours of tumbling downhill with a small group of Dutch I could finall
 I exercised these basic techniques during the next five days, and quite successfully I must say.
 ![](img:3.bp.blogspot.com/-wCwl_1OeXUg/Vrd2qtEMf9I/AAAAAAAAlVo/H9edzIzkXeo/s1600/20160124_124927.picasaweb.jpg:a "Sölden.")
 
-If you're a beginner like me you can save some euros by buying the //Beginners Pass// (**€26** per day) instead of the full one (**€51**). It only gives you access to one short (//Mini lift Giggijoch//) and one regular piste (number **13**).
+If you're a beginner like me you can save some euros by buying the {{< fl "Beginners Pass" >}} (**€26** per day) instead of the full one (**€51**). It only gives you access to one short ({{< fl "Mini lift Giggijoch" >}}) and one regular piste (number **13**).
 ![](img:2.bp.blogspot.com/-TX_R243N_bo/Vrd2qqGgVpI/AAAAAAAAlVo/y3B0vsW4C7o/s1600/20160128_090432.picasaweb.jpg:a "Mini lift Giggijoch.")
 
 But for practising your falls and rolls it should suffice.
@@ -65,7 +65,7 @@ After five days we got bored by "the Thirteenth", so on our last day we bought a
 First we took the chain of lifts up to the very top, to the Tiefenbach Glacier. That morning was so foggy that one could hardly see anything in a few metres away. That alone gives you an adrenaline rush.
 ![](img:1.bp.blogspot.com/-byBg-83oPuA/Vrd2qreEW8I/AAAAAAAAlVo/nT_ejHH6ElY/s1600/20160129_095435.picasaweb.jpg:a "The lift to the Tiefenbach Gletscher.")
 
-This peculiar place is the //skitunnel// leading right through the mountain:
+This peculiar place is the {{< fl "skitunnel" >}} leading right through the mountain:
 ![](img:3.bp.blogspot.com/-P2UVObPuNzE/Vrd2quNDPyI/AAAAAAAAlVo/mFeBj9vv0OE/s1600/20160129_101443.picasaweb.jpg:a "The ski tunnel on the glacier.")
 
 The pistes on the glacier are immensely wide and long. Going down this one takes some twenty minutes — as compared to 5-7 minutes on "the Thirteenth". And the view is admirable!
@@ -102,7 +102,7 @@ After these six days I know for sure snowboard is better than skis, because:
 4. Snowboard is a single piece of gear, whereas skis and poles are four. They tend to run loose while being carried.
 5. The last but foremost: the boots! I even managed to drive wearing the snowboard boots when I felt too lazy to change. Ski boots are monstrously heavy and rigid.
 
-Of course, //wintersport// is no cheap entertainment, with the most expensive items being the accommodation and ski passes, especially if you come with the family. Driving is tedious but doable, on your way back your body is even delighted with the opportunity to sit still for a few hours in a row.
+Of course, {{< fl "wintersport" >}} is no cheap entertainment, with the most expensive items being the accommodation and ski passes, especially if you come with the family. Driving is tedious but doable, on your way back your body is even delighted with the opportunity to sit still for a few hours in a row.
 
 A few more photos below.
 

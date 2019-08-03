@@ -12,7 +12,7 @@ But [our Houten][post:221] seems to be in the lead here.
 
 <!--more-->
 
-An active growth of Houten municipality began in 1970's. Back then it was just a little village with about four thousand inhabitants. It is around that time that a strategic plan, whose objective was to stimulate the residents to use bikes while discouraging them from driving, has been developed. This was also the time when the butterfly-shaped by-pass road (the //Rondweg//) was built—I mentioned it along with the district breakdown in my [last post][post:221].
+An active growth of Houten municipality began in 1970's. Back then it was just a little village with about four thousand inhabitants. It is around that time that a strategic plan, whose objective was to stimulate the residents to use bikes while discouraging them from driving, has been developed. This was also the time when the butterfly-shaped by-pass road (the {{< fl "Rondweg" >}}) was built—I mentioned it along with the district breakdown in my [last post][post:221].
 
 One of the strategic provision stipulated that with a car one district from another can only be reached using the by-pass road, and there would be no drive-through route. Cyclists don't face this restriction, therefore biking to friends' is often faster than driving.
 ![](img:1.bp.blogspot.com/-4fxInPq3o0g/VAwoGI91qPI/AAAAAAAAfaY/LYUWn2BcW6w/s1600/dsc06644.picasaweb.jpg:a)
@@ -34,7 +34,7 @@ The small light below is supplemented with a round wait gauge and repeating the 
 
 A very convenient feature of Dutch bike traffic-lights is automatic activation at approaching bikes by a sensor fitted under the road surface. The same principle is also used for cars.
 
-The town has an extensive network of "bike streets" (//fietsstraat//). This sign is reminding drivers that cars are "guests" here. Which means they're allowed but should be polite and respectful to cyclists:
+The town has an extensive network of "bike streets" ({{< fl "fietsstraat" >}}). This sign is reminding drivers that cars are "guests" here. Which means they're allowed but should be polite and respectful to cyclists:
 ![](img:3.bp.blogspot.com/-ctOKhlUGF5Q/VAwoIOb52hI/AAAAAAAAfao/P1Jta_mEgVs/s1600/dsc06649.picasaweb.jpg:a)
 
 This sign denotes a detour route in the case of a closed road:
@@ -43,7 +43,7 @@ This sign denotes a detour route in the case of a closed road:
 And this sign is mounted nearby a construction site; it addresses the cyclists: "We pay attention to you, do you pay attention to us?!":
 ![](img:1.bp.blogspot.com/-7KF6_TfH58I/VAwoFEK_vvI/AAAAAAAAfaQ/V-fg5FZTGnY/s1600/dsc06643.picasaweb.jpg:a)
 
-Someone did apparently feel offended by the blatant address and concealed a few letters turning the informal "you", //jou//, into the decent //u//.
+Someone did apparently feel offended by the blatant address and concealed a few letters turning the informal "you", {{< fl "jou" >}}, into the decent {{< fl "u" >}}.
 
 In some places—in new districts mainly—bike paths are in fact bike avenues:
 ![](img:1.bp.blogspot.com/-VytL-8e6o8Q/U_uLQyTLj8I/AAAAAAAAfEY/7U4QvcuxJsM/s1600/dsc06424.picasaweb.jpg:a)
@@ -63,15 +63,15 @@ This bike bridge is a bit of overkill really. It's bent to demonstrate how advan
 This warning sign says that an improperly parked bike will be removed:
 ![](img:2.bp.blogspot.com/-V2EtSntbt2M/VAwn-ylf3sI/AAAAAAAAfZg/Xs9tjbcqBjY/s1600/dsc06635.picasaweb.jpg:a)
 
-To minimise the risk, you may prefer to make use of a //Transferium//. The bike parking in the //Houten// train station I showed you in my last post:
+To minimise the risk, you may prefer to make use of a {{< fl "Transferium" >}}. The bike parking in the {{< fl "Houten" >}} train station I showed you in my last post:
 ![](img:2.bp.blogspot.com/-4-F3qfvpIms/VAwn_6s2t1I/AAAAAAAAfZo/gyCTFcenBic/s1600/dsc06636.picasaweb.jpg:a)
 
-The blue-and-yellow bikes above, //OV-fiets//, are for rent.
+The blue-and-yellow bikes above, {{< fl "OV-fiets" >}}, are for rent.
 
 The parking also serves some odd species:
 ![](img:1.bp.blogspot.com/-uOAKfL5aWms/VAwoBD0BUUI/AAAAAAAAfZw/hhtn28WNYKc/s1600/dsc06637.picasaweb.jpg:a)
 
-This is the //Transferium// in the other station, //Houten Castellum//:
+This is the {{< fl "Transferium" >}} in the other station, {{< fl "Houten Castellum" >}}:
 ![](img:4.bp.blogspot.com/-TCMDRofHqbg/VAwoJ1fWmkI/AAAAAAAAfa4/sN-aN11Ebvg/s1600/dsc06651.picasaweb.jpg:a)
 
 It has another level upstairs and special steps for rolling the bikes up:

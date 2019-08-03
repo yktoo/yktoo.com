@@ -6,7 +6,7 @@ tags: ["France", "La Plagne", "mountains", "snow", "snowboard", "sport", "winter
 
 ## Preface {#preface}
 
-We had planned our trip to the French ski resort [La Plagne][wiki:en:La_Plagne] well in advance, so ever since October last year I've been counting days down. My previous //wintersport// occasion in [Sölden][post:270] had only left good memories (and a couple of bruises, too, but that's unimportant).
+We had planned our trip to the French ski resort [La Plagne][wiki:en:La_Plagne] well in advance, so ever since October last year I've been counting days down. My previous {{< fl "wintersport" >}} occasion in [Sölden][post:270] had only left good memories (and a couple of bruises, too, but that's unimportant).
 
 <!--more-->
 
@@ -21,13 +21,13 @@ We went with a group of eight people. After some calculations we figured out the
 We've reached La Plagne only at dark, around 6 PM. This time round our hotel was special in the sense it was located right next to the ski slope. After the breakfast you go down to the storage room, grab your snowboard, go outside, and slide down straight away. Here's a view from our balcony:
 ![](img:2.bp.blogspot.com/-SEq4ih4b7Ig/WIek9nyM-YI/AAAAAAAApLQ/8vtk5eZjC-0WiRV_NdlRNZa2xHDRfAjoQCPcB/s1600/20170115_094355.picasaweb.jpg:a "La Plagne. View from the hotel's balcony.")
 
-But let me share some figures. According to [Wikipedia][wiki:en:La_Plagne], La Plagne with its average of 2.5 million visitors per season is the most popular ski resort in the world. It's a part of a huge ski area called [Paradiski][wiki:en:Paradiski], which also includes [Les Arcs][wiki:en:Les_Arcs] and [Peisey-Vallandry][wiki:en:Peisey-Vallandry]. All three form a system counting a total of **160 ski lifts** and **425 km** of ski slopes (which makes [Sölden][post:270] with its **33** lifts and **145 km** of slopes, and [Ischgl][post:239] with **45** lifts and **238 km** look pretty modest). Also the village of //Champagny-en-Vanoise// is very close to //Courchevel//, which is massively popular amongst (rich) Russians, perhaps because of its runway for private jets.
+But let me share some figures. According to [Wikipedia][wiki:en:La_Plagne], La Plagne with its average of 2.5 million visitors per season is the most popular ski resort in the world. It's a part of a huge ski area called [Paradiski][wiki:en:Paradiski], which also includes [Les Arcs][wiki:en:Les_Arcs] and [Peisey-Vallandry][wiki:en:Peisey-Vallandry]. All three form a system counting a total of **160 ski lifts** and **425 km** of ski slopes (which makes [Sölden][post:270] with its **33** lifts and **145 km** of slopes, and [Ischgl][post:239] with **45** lifts and **238 km** look pretty modest). Also the village of {{< fl "Champagny-en-Vanoise" >}} is very close to {{< fl "Courchevel" >}}, which is massively popular amongst (rich) Russians, perhaps because of its runway for private jets.
 ![](img:1.bp.blogspot.com/-EbILB9XZfBM/WJr5eANgvJI/AAAAAAAApOs/KQ7D6iw_aqYqJBNnDddVlvNGfJ3MddTqQCPcB/s1600/paradiski-map.jpg:a "Map of Paradiski. Source: winter.la-plagne.com.")
 
-In other words, there's plenty of skiable space there. In fact, there were so many routes that I had to stay mindful of time to make it for the last lift trip to //Belle Plagne 2050// where we were staying (*2050* here is the altitude in metres, as you might have guessed). Fortunately, the most pistes in our area led down to //Plagne Bellecôte 1930//, which was connected to //Belle Plagne// by a cable car that ran until very late.
+In other words, there's plenty of skiable space there. In fact, there were so many routes that I had to stay mindful of time to make it for the last lift trip to {{< fl "Belle Plagne 2050" >}} where we were staying (*2050* here is the altitude in metres, as you might have guessed). Fortunately, the most pistes in our area led down to {{< fl "Plagne Bellecôte 1930" >}}, which was connected to {{< fl "Belle Plagne" >}} by a cable car that ran until very late.
 ![](img:4.bp.blogspot.com/-qmnUji-1dUA/WIT252LmLyI/AAAAAAAApHc/ndEm5AwIk6o_YoT7vL3KP8j-qxH26n_agCPcB/s1600/dsc04068.picasaweb.jpg:a "Plagne Bellecôte 1930.")
 
-Hotels there, all decorated with wood panels, looked very much alike, our //Les Balcons// being no exception to the rule. We'd rented a nice accommodation for eight: in two levels, with four bedrooms, a living room, and a small kitchen. Each bedroom had a private bathroom.
+Hotels there, all decorated with wood panels, looked very much alike, our {{< fl "Les Balcons" >}} being no exception to the rule. We'd rented a nice accommodation for eight: in two levels, with four bedrooms, a living room, and a small kitchen. Each bedroom had a private bathroom.
 ![](img:4.bp.blogspot.com/-diUuPYE5KRI/WIek9rWrE5I/AAAAAAAApLQ/khc92b0tVIgC8u2mAH956sLdqAbJgC8twCPcB/s1600/wp_20170115_09_56_05_pro.picasaweb.jpg:a "Belle Plagne 2050, hotel Les Balcons.")
 
 As you just arrive, it feels pretty chilly. Indeed, if you're used to having **+5 °C** (**41 °F**) throughout the whole winter, the local **-15 °C**/**5 °F** (which got as low as **-27 °C**/**-17 °F** by night) can be quite distressing, but one gets used to it quite quickly. After a couple of days you get comfortable with these temperatures.
@@ -51,7 +51,7 @@ Our day schedule looked like the following:
 
 For some unknown reason, a snowboard is the most difficult to deal with in the morning. Later in the day, as you get the hang of it, it gets so much better that you wouldn't even want to stop.
 
-The last couple of days I enjoyed taking a long descent starting from //L'Arpette// (2385 m) all the way down to the //Montchavin// village (1250 m).
+The last couple of days I enjoyed taking a long descent starting from {{< fl "L'Arpette" >}} (2385 m) all the way down to the {{< fl "Montchavin" >}} village (1250 m).
 ![](img:3.bp.blogspot.com/-y1ja_HM0VV8/WIT25_I4vsI/AAAAAAAApHc/rPeNOEXM150oU98f9aQZUEKioH5u5EvhgCPcB/s1600/20170116_124839.picasaweb.jpg:a "Descent to Montchavin.")
 
 The whole run of about 6 km could be covered in one go in about a quarter of an hour.
@@ -69,11 +69,11 @@ And once you've climbed high enough the view gets truly magnificent!
 
 ## The snow! {#snow}
 
-Despite the frost there was not so much snow this year so that the most peaks stayed bare. It got more noticeable as you went higher, for example to the //La Chiaupe// glacier (**3417 m**).
+Despite the frost there was not so much snow this year so that the most peaks stayed bare. It got more noticeable as you went higher, for example to the {{< fl "La Chiaupe" >}} glacier (**3417 m**).
 ![](img:2.bp.blogspot.com/-kxBp3KVbXAE/WIT25zha5CI/AAAAAAAApHc/E48qBV8WVrwxeGOFKCTNIvxGEejYPhLigCPcB/s1600/2017-01-20t13-07-16%252B01-00.picasaweb.jpg:a "The La Chiaupe glacier.")
 ![](img:4.bp.blogspot.com/-yqKmbbGhzJk/WIT25-keq3I/AAAAAAAApIE/y6vROdm4QOAixt8XwlzBeZn5GQ6N1AR3gCPcB/s1600/2017-01-20t11-54-27%252B01-00.picasaweb.jpg:a "The La Chiaupe glacier.")
 
-The glacier is reachable by the means of the //Bellecôte// ski lift, so long and steep that it makes you feel dizzy.
+The glacier is reachable by the means of the {{< fl "Bellecôte" >}} ski lift, so long and steep that it makes you feel dizzy.
 ![](img:3.bp.blogspot.com/-PFdjrnNJGDc/WIT254UaR3I/AAAAAAAApHc/CBXYGOjwXq01tVhHoCXOlIXCPD3kePhpACPcB/s1600/20170120_113327.picasaweb.jpg:a "The Bellecôte ski lift.")
 
 However most of the pistes had enough snow.
@@ -97,13 +97,13 @@ Not everyone had luck though. Once a skier had run into some trouble right befor
 
 ## Les Arcs {#les-arcs}
 
-One of those days we dedicated to going to the other part of Paradiski, //Les Arcs//, located on the other side of the valley.
+One of those days we dedicated to going to the other part of Paradiski, {{< fl "Les Arcs" >}}, located on the other side of the valley.
 ![](img:1.bp.blogspot.com/-WYse5jgotoc/WIT256ZQQyI/AAAAAAAApHc/92vHOyx57gYB0rZjQW_ng6d1o5htxTZzgCPcB/s1600/20170117_105308.picasaweb.jpg:a "Vanoise Express between La Plagne and Les Arcs.")
 
-//La Plagne// is linked to //Les Arcs// with so-called //Vanoise Express//, a cable car with two huge cabins that alternate between the two ski resorts. Each cabin is a double-decker that accommodates up to 187 people (not easily though), and takes you within five minutes over the distance of about two kilometres.
+{{< fl "La Plagne" >}} is linked to {{< fl "Les Arcs" >}} with so-called {{< fl "Vanoise Express" >}}, a cable car with two huge cabins that alternate between the two ski resorts. Each cabin is a double-decker that accommodates up to 187 people (not easily though), and takes you within five minutes over the distance of about two kilometres.
 ![](img:1.bp.blogspot.com/-GL-TLk4wMQs/WIT256gi1GI/AAAAAAAApHc/soIsjiPCd-EXX7WR5mxjDIgjjXQ2Jyn0gCPcB/s1600/20170117_105329.picasaweb.jpg:a "Vanoise Express between La Plagne and Les Arcs.")
 
-//Les Arcs// looked very much like //La Plagne//, all the same hotels, restaurants and sport stores scattered over the mountainside.
+{{< fl "Les Arcs" >}} looked very much like {{< fl "La Plagne" >}}, all the same hotels, restaurants and sport stores scattered over the mountainside.
 ![](img:3.bp.blogspot.com/-RpjQ1id3X4w/WIT250TnGhI/AAAAAAAApHc/ZKbkbtTqbAgb5lqsvJRjobqN9OHbP5T_gCPcB/s1600/20170117_131525.picasaweb.jpg:a "Les Arcs.")
 
 And of course the ski-tracks.

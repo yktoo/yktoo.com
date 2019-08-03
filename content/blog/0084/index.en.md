@@ -12,7 +12,7 @@ To cut a long story short, we landed in Vienna, we were warmly welcome right in 
 
 <!--more-->
 
-Vienna (Dutch //Wenen//, German //Wien//) is a typical European city. It's clean enough and multinational enough. It looks very differently than Holland, and especially Amsterdam, in terms of architecture. Amsterdam is very compact: streets, sidewalks, tiny cafes, coffee houses and restaurants with a few small tables. Vienna reveals much larger scale of the buildings.
+Vienna (Dutch {{< fl "Wenen" >}}, German {{< fl "Wien" >}}) is a typical European city. It's clean enough and multinational enough. It looks very differently than Holland, and especially Amsterdam, in terms of architecture. Amsterdam is very compact: streets, sidewalks, tiny cafes, coffee houses and restaurants with a few small tables. Vienna reveals much larger scale of the buildings.
 
 Amsterdam is all built with dark red bricks. Vienna is in favour of different colours: white and yellow (which quickly fade to gray under lack of maintenance—that's why I like the Dutch approach better).
 

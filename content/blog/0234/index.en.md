@@ -6,7 +6,7 @@ tags: ["house", "Houten", "mortgage", "Netherlands"]
 
 So we've settled in [Houten][post:221]. It's time to go in particulars on how we sought a house.
 
-Looking for a house has a special name in Dutch: //huizenjacht//, which literally translates as "househunt". During the *hunt* we gradually figured out a number of criteria:
+Looking for a house has a special name in Dutch: {{< fl "huizenjacht" >}}, which literally translates as "househunt". During the *hunt* we gradually figured out a number of criteria:
 
 <!--more-->
 
@@ -36,7 +36,7 @@ It's also much cheaper than renting, since you get almost twice as much for the 
 
 ## New {#new}
 
-The Dutch are always very conscious about the //milieu//. Their houses get greener and more CO<sub>2</sub>-neutral every year.
+The Dutch are always very conscious about the {{< fl "milieu" >}}. Their houses get greener and more CO<sub>2</sub>-neutral every year.
 
 Old houses are substantially worse isolated. Those built before 1940-1950s often have single glazing. That will cost you a lot of money in the winter, while you'll still be feeling cold.
 
@@ -58,9 +58,9 @@ Living in Amersfoort, I used to spend one hour to get to work, with two changes.
 
 ## Near by speedway {#speedway}
 
-All other destinations are usually better to drive to. I wouldn't want to live in a place where reaching a speedway (//snelweg//) would take me some 15-20 minutes.
+All other destinations are usually better to drive to. I wouldn't want to live in a place where reaching a speedway ({{< fl "snelweg" >}}) would take me some 15-20 minutes.
 
-Houten is adjacent to //A27//, which crosses almost the entire country from the north (//Almere//) to the south (//Breda//).
+Houten is adjacent to {{< fl "A27" >}}, which crosses almost the entire country from the north ({{< fl "Almere" >}}) to the south ({{< fl "Breda" >}}).
 
 ## Good neighbourhood {#good-neighbourhood}
 
@@ -74,7 +74,7 @@ Another important factors are safety and crime rate. Sources like [StopDeCrimina
 
 ## "Dutch" neighbourhood {#dutch-neighbourhood}
 
-Big cities have a number of "ethnic" neighbourhoods. I'm no racist whatsoever and have good friends from everywhere in the world, but the statistics shows that in terms of well-being and criminality such areas score significantly lower. That explains why house prices in districts like //Liendert// in Amersfoort or //Bijlmer Arena// in Amsterdam are much lower, too.
+Big cities have a number of "ethnic" neighbourhoods. I'm no racist whatsoever and have good friends from everywhere in the world, but the statistics shows that in terms of well-being and criminality such areas score significantly lower. That explains why house prices in districts like {{< fl "Liendert" >}} in Amersfoort or {{< fl "Bijlmer Arena" >}} in Amsterdam are much lower, too.
 
 I also find somewhat strange to live among foreigners, having settled in Holland, but that's my own preferences.
 

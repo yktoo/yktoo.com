@@ -9,12 +9,12 @@ I managed to upgrade the best-selling [Koss PortaPro](http://www.koss.com/en/pro
 
 <!--more-->
 
-**Enhancement number one** was replacing the original earpads with new ones, labeled //Luxury Replacement Ear Pad Cushion for Koss Porta Pro//, not quite leather, but alike. These look and feel much better:
+**Enhancement number one** was replacing the original earpads with new ones, labeled {{< fl "Luxury Replacement Ear Pad Cushion for Koss Porta Pro" >}}, not quite leather, but alike. These look and feel much better:
 ![](img:1.bp.blogspot.com/-T-NfzvQMT4I/VaDimWYhTWI/AAAAAAAAjpo/R7dJnwmcRVk/s1600/dsc09867.picasaweb.jpg:a "PU leather earpad.")
 
 The procedure is pretty trivial: you detach the earcup from the headband by gently pulling it out, take the old foam earpad off the driver and put the new one on.
 
-**The second enhancement** was upgrading the original oldschool cable to a fancier one, with player control buttons and a mike, thus turning the device into a headset (you can use the search phrase //DIY Headphone Wire Cable//):
+**The second enhancement** was upgrading the original oldschool cable to a fancier one, with player control buttons and a mike, thus turning the device into a headset (you can use the search phrase {{< fl "DIY Headphone Wire Cable" >}}):
 ![](img:2.bp.blogspot.com/-AAm47jp4kLQ/VaDinXFf4wI/AAAAAAAAjqA/VEcx5-QfxLk/s1600/dsc09870.picasaweb.jpg:a "Cable with microphone and remote control.")
 
 It works perfectly with my Samsung Galaxy Note 4, however the Rewind/Fast Forward buttons change the volume instead. Which I don't mind at all as it's exactly what I need.

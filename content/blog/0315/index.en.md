@@ -6,17 +6,17 @@ tags: ["France", "Les Sybelles", "mountains", "snow", "snowboard", "sport", "win
 
 Last time I enjoyed [snowboarding in the mountains][post:306] so much that I've decided to do that once more, straight away. The next season is a year away, so why wait? After all, I'm now a freelancer, ain't I?
 
-There was also another reason to come back to the mountains: I've recently got the //GoPro Hero 5// action camera, which yearned to be used!
+There was also another reason to come back to the mountains: I've recently got the {{< fl "GoPro Hero 5" >}} action camera, which yearned to be used!
 
 <!--more-->
 
-So I've found an affordable accommodation in the ski area of [Les Sybelles][wiki:en:Les_Sybelles], France, for eight days, which included a six-day ski-pass. Remembering how awesome it's been to stay right at a ski slope last time, I've chosen a hotel in the village //Les Bottières//, which claimed to be only 50 metres away from a ski lift. This proved to be not quite accurate, but I'll tell you more on that further on.
+So I've found an affordable accommodation in the ski area of [Les Sybelles][wiki:en:Les_Sybelles], France, for eight days, which included a six-day ski-pass. Remembering how awesome it's been to stay right at a ski slope last time, I've chosen a hotel in the village {{< fl "Les Bottières" >}}, which claimed to be only 50 metres away from a ski lift. This proved to be not quite accurate, but I'll tell you more on that further on.
 
 ![](img:1.bp.blogspot.com/-5NHIMH35n9U/WMWIoD5py3I/AAAAAAAApk0/Fco23XMqZ9YHAYYPrq8lLJPlrkSTQBEKACPcB/s1600/2017-02-26t11-07-59%252B01-00.picasaweb.jpg:a "Les Sybelles, La Toussuire.")
 
 ## Road to Les Sybelles {#way-there}
 
-This time around we went with our car, which was timely [prepared][post:304] for the winter. My past experience also prompted me to buy snow chains, which turned out to be a great idea later on. The distance to //Les Sybelles// is about **1100 km** (**684 mi**), and in theory it could have been covered in ten hours.
+This time around we went with our car, which was timely [prepared][post:304] for the winter. My past experience also prompted me to buy snow chains, which turned out to be a great idea later on. The distance to {{< fl "Les Sybelles" >}} is about **1100 km** (**684 mi**), and in theory it could have been covered in ten hours.
 
 Long before the dawn, around five in the morning, have we loaded our cargo of food, winter gear and clothes and set off for France via Belgium and Luxembourg.
 ![](img:2.bp.blogspot.com/-9Hq9S6HbZYQ/WMWIoFtLmbI/AAAAAAAApkA/G_WnJgALgAs_c4KksFzmRN5_sTrPJGcIQCPcB/s1600/20170225_103411.picasaweb.jpg:a "Morning fog.")
@@ -30,7 +30,7 @@ In total we'd lost about an hour at that spot,—all that hassle just to pay a t
 
 ## Les Bottières {#les-bottieres}
 
-We've reached //Les Bottières// shortly before the sunset, which was great, because driving on a windy mountain road in complete darkness is hardly enjoyable. The entire journey took us some twelve hours.
+We've reached {{< fl "Les Bottières" >}} shortly before the sunset, which was great, because driving on a windy mountain road in complete darkness is hardly enjoyable. The entire journey took us some twelve hours.
 ![](img:1.bp.blogspot.com/-HDI-i1N5-wM/WMWIoJ7AutI/AAAAAAAApk0/9baMELDA4Pkc70EMaDFXXwMdDzv4PYT1ACPcB/s1600/dsc04074.picasaweb.jpg:a "Our hotel in Les Bottières.")
 
 Our hotel was of a miserly sort, with only very basic stuff included. Everything else, like internet access, sauna, TV, even towels and bed linen, had to be paid separately. But that wasn't even the most worrisome part.
@@ -41,7 +41,7 @@ The worst was that there was almost no snow in the village!
 The photo above shows that ski lift 50 metres away. Which is obviously closed because it cannot be operated without snow. That didn't bode well. What in heaven's name are we doing here, I was thinking at the sight of the bare ground.
 ![](img:3.bp.blogspot.com/-TLbwF88_F1A/WMWIoGdvW2I/AAAAAAAApk0/qluMAvxj4ZMkQdizTjRg7d8aIB5NqgeUgCPcB/s1600/20170226_092558.picasaweb.jpg:a "Les Bottières.")
 
-However everything turned out to be quite okay. //Les Bottières// lay at the altitude **1300 m** and indeed had not so much snow, but [Le Corbier][wiki:en:Le_Corbier], which was 250 metres higher (**1550 m**) had plenty of it. And [La Toussuire][wiki:en:Fontcouverte-la-Toussuire] (**1750 m**) situated halfway between us and //Le Corbier// had even more. To compensate for the missing snow, the resort was providing a free shuttle bus service to //Le Corbier// running up and down three times a day.
+However everything turned out to be quite okay. {{< fl "Les Bottières" >}} lay at the altitude **1300 m** and indeed had not so much snow, but [Le Corbier][wiki:en:Le_Corbier], which was 250 metres higher (**1550 m**) had plenty of it. And [La Toussuire][wiki:en:Fontcouverte-la-Toussuire] (**1750 m**) situated halfway between us and {{< fl "Le Corbier" >}} had even more. To compensate for the missing snow, the resort was providing a free shuttle bus service to {{< fl "Le Corbier" >}} running up and down three times a day.
 
 But what an irony: instead of fifty metres the nearest ski lift was eight kilometres away from our hotel! Anyway, such things are impossible to plan around.
 
@@ -59,7 +59,7 @@ The first couple of days the weather was sunny, *exasperatingly* sunny, with the
 The snow didn't take it lightly either. I was noticing more and more bare spots and, in contrast with [La Plagne][post:306], I've never seen the snow guns working here.
 ![](img:2.bp.blogspot.com/-1C61CsIq0QM/WMWIoN0bd9I/AAAAAAAApk0/XWX9slA59pQ5uSndp7_-UJ0TFgeMaaztwCPcB/s1600/20170226_094027.picasaweb.jpg:a "Les Sybelles, La Toussuire.")
 
-The lack of snow caused numerous piste closures, like those leading to //Les Bottières// I mentioned above. Such things were, as usual, presented on interactive ski maps installed in the most popular places.
+The lack of snow caused numerous piste closures, like those leading to {{< fl "Les Bottières" >}} I mentioned above. Such things were, as usual, presented on interactive ski maps installed in the most popular places.
 ![](img:1.bp.blogspot.com/-YD1jVaVHElo/WMWIoBECoFI/AAAAAAAApk0/TbIAcIjDsTQ_WgvCp02Yscmu-ApFq5CPACPcB/s1600/20170228_092333.picasaweb.jpg:a "Interactive ski map.")
 
 Looking at the slowly thawing snow I kept asked myself how our next days will look like.
@@ -72,19 +72,19 @@ Another annoying thing about good weather were crowded slopes and ski lifts. Som
 But despite the bright blue sky and the sun, fiercely shining on us at this altitude, the weather forecast predicted a heavy snowfall on the third day. And—you won't believe it—the forecast came true! That day, February 28<sup>th</sup>, began with cloudy sky, mist and drizzle.
 ![](img:1.bp.blogspot.com/-S9O26yyY8Fo/WMWIoMYH5LI/AAAAAAAApk0/43kphVcHozgn-CZyhGR3zoUIiogkC9shwCPcB/s1600/20170228_080619.picasaweb.jpg:a "Les Bottières.")
 
-We wouldn't take the free shuttle anymore and would prefer driving to //La Toussuire// to enjoy the full mobility.
+We wouldn't take the free shuttle anymore and would prefer driving to {{< fl "La Toussuire" >}} to enjoy the full mobility.
 
 Higher in the mountains the fog was so thick that the visibility plunged to some 200 metres:
 ![](img:3.bp.blogspot.com/-iv7wyZJCSy8/WMWIoA8x8TI/AAAAAAAApk0/eZ_R1V6DOBYEKeakm4VdBj3Co7SYlf9iQCPcB/s1600/20170228_100435.picasaweb.jpg:a "Fog in La Toussuire.")
 
-The sun was finally gone and that considerably spiced up our snowboarding. Meanwhile the wind grew harder, it finally started snowing. Because of all this //La Toussuire// had closed all ski lifts above the 2000 m mark in the afternoon. The upside was, though, that almost everyone was gone by that time.
+The sun was finally gone and that considerably spiced up our snowboarding. Meanwhile the wind grew harder, it finally started snowing. Because of all this {{< fl "La Toussuire" >}} had closed all ski lifts above the 2000 m mark in the afternoon. The upside was, though, that almost everyone was gone by that time.
 ![](img:4.bp.blogspot.com/-9o-M9MWh6TA/WMWIoNjpFHI/AAAAAAAApk0/Y99pACJfwwo_rcEBFZahDqCQkwVvoCQJACPcB/s1600/2017-02-28t11-11-11%252B01-00.picasaweb.jpg:a "Fog in La Toussuire.")
 
-We didn't like the idea of going down the same couple of short slopes all the time, so we jumped into our car and drove further along, to //Le Corbier//, which still had most of its lifts running.
+We didn't like the idea of going down the same couple of short slopes all the time, so we jumped into our car and drove further along, to {{< fl "Le Corbier" >}}, which still had most of its lifts running.
 
 ## Le Corbier {#le-corbier}
 
-Snowboarding in //Le Corbier// was already challenging, and a couple of hours later a real snow storm began.
+Snowboarding in {{< fl "Le Corbier" >}} was already challenging, and a couple of hours later a real snow storm began.
 ![](img:1.bp.blogspot.com/-8XWe9ot5FsY/WMWIoGnQzwI/AAAAAAAApk0/1a4mTounlQMTtyofG88oYIjwL93xcHbMwCPcB/s1600/20170228_164124.picasaweb.jpg:a "Snow storm in Le Corbier.")
 
 The slopes were almost deserted, save for ourselves and a few groups of kids taking skiing lessons. I wondered how the kids could stand the stormwind and the snow, which felt like thorns on my face.
@@ -94,7 +94,7 @@ At the top of the mountain one could barely see anything in twenty metres, so it
 
 Why we have been so persistent? Because I knew: once one can control the snowboard in *such* circumstances, anything else will be a piece of cake.
 
-Eventually //Le Corbier// also closed all the lifts—an hour before the day's end—because the crazy gale made it difficult even to stand still.
+Eventually {{< fl "Le Corbier" >}} also closed all the lifts—an hour before the day's end—because the crazy gale made it difficult even to stand still.
 ![](img:1.bp.blogspot.com/-nwywQGA9z1Q/WMWIoN09HsI/AAAAAAAApk0/DJedmxsbBSEXLgSNIHoNY26Eaw-LU4azgCPcB/s1600/20170228_164132.picasaweb.jpg:a "Snow storm in Le Corbier.")
 
 We pushed our way against the wind back to our car.
@@ -112,7 +112,7 @@ We expected naïvely that the lift would finally run, but it would happen neithe
 It snowed all night long and then another half day, with a total of half-metre fallen snow.
 ![](img:4.bp.blogspot.com/-3yOCgv7yVbo/WMWIoJjdLcI/AAAAAAAApk0/rGTzfuruQ-YKb_1mWd9MK2vLkZ8SXlbhwCPcB/s1600/20170301_080727.picasaweb.jpg:a "Les Bottières, hotel's parking lot.")
 
-All this snow lay virtually untouched in //La Toussuire//. I have the impression no one really cared for snow in //Les Sybelles//: snow guns were never used, bare spots and pits never healed, slopes never groomed with ratracs. Which was in stark contrast with [La Plagne][post:306]. Instead of all that the pistes would simply get closed by the means of a banner across the slope.
+All this snow lay virtually untouched in {{< fl "La Toussuire" >}}. I have the impression no one really cared for snow in {{< fl "Les Sybelles" >}}: snow guns were never used, bare spots and pits never healed, slopes never groomed with ratracs. Which was in stark contrast with [La Plagne][post:306]. Instead of all that the pistes would simply get closed by the means of a banner across the slope.
 
 Anyway, that day we enjoyed lots of off-piste snowboarding on the soft ungroomed snow powder. Which didn't differ that much from the "groomed" one.
 ![](img:3.bp.blogspot.com/-g-qJa7LSBmc/WMWIoHktzNI/AAAAAAAApk0/lNfLeeIwGAElPDBu1X8Z8YTqO6_FixzhwCPcB/s1600/20170301_124725.picasaweb.jpg:a "Off-piste in La Toussuire.")
@@ -122,7 +122,7 @@ That was awesome. As I discovered, the snowboard can easily slide on deep, soft 
 Unfortunately the snow wouldn't stay soft for long with that weather. The next day it got crusted all over, which made off-piste snowboarding somewhat unpleasant.
 ![](img:4.bp.blogspot.com/-08NNIgK9sKE/WMWIoGubAII/AAAAAAAApk0/-A2VEL8IYIQDlQvF60UckO3eqcjUSwBpACPcB/s1600/20170301_124730.picasaweb.jpg:a "Les Sybelles, La Toussuire.")
 
-Also that morning has seen a thick fog. Below in //Le Corbier// it was swirling in small wreaths.
+Also that morning has seen a thick fog. Below in {{< fl "Le Corbier" >}} it was swirling in small wreaths.
 ![](img:1.bp.blogspot.com/-qdXiuCazcE4/WMWIoNfnKpI/AAAAAAAApk0/2qTWjXsCKdo9zxRt_UsFYopnnWbk9mvHQCPcB/s1600/20170302_093151.picasaweb.jpg:a "Fog in Les Sybelles.")
 
 And higher up it got almost opaque. Then our storm-boarding lessons came in handy.
@@ -165,7 +165,7 @@ So here are my conclusions.
 
 * *Freeriding* (or off-piste) is an awesome thing, but it requires a good deal of training and imposes a much higher degree of risk. It's a good idea to first try it out by snowboarding right next to groomed pistes, in which case you'll have a lesser chance of damaging the snowboard or injuring yourself. Moreover, this activity is pretty heavy for your knees. After this intensive week I got pain in my left knee, which was absorbing the shocks from the bumps. On one hand it's good because it means that my weight mostly lay on my front, left, foot. On the other, there's something to work on in terms of my shock-absorption technique.
 
-And a few more words on the subject of //Les Sybelles//. It's well noticeable that this resort has somewhat lower standards than //La Plagne//:
+And a few more words on the subject of {{< fl "Les Sybelles" >}}. It's well noticeable that this resort has somewhat lower standards than {{< fl "La Plagne" >}}:
 
 * The snow and the slopes are hardly maintained. Because of that, in particular, some pistes were constantly out of service.
 
@@ -173,7 +173,7 @@ And a few more words on the subject of //Les Sybelles//. It's well noticeable th
 
 * Individual ski areas are only connected by snowboard-unfriendly [surface lifts][wiki:en:Surface_lift] (ski tows), which drag you with the speed of a snail for a long, long distance, and there's no alternative to them. Moreover, all those inter-area lifts got closed at 4 PM, whereas all the others would run until 5 PM or so.
 
-So to sum this all up, I don't think I'll ever come here again. Not that it's bad in //Les Sybelles//, but there are better places!
+So to sum this all up, I don't think I'll ever come here again. Not that it's bad in {{< fl "Les Sybelles" >}}, but there are better places!
 
 ---
 

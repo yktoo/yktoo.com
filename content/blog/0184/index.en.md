@@ -11,7 +11,7 @@ Yet again, precisely on time, Holland has turned orange on the 30<sup>th</sup> o
 
 On the 28<sup>th</sup> of January Beatrix [announced][post:176] that she would abdicate in favour of her eldest son Willem-Alexander, the heir apparent to the throne. After 33 years of service it's time to say goodbye, said she (to put it in simple temrs, the actual speech was of course more florid). No queen means no Queen's Day, it's that simple.
 
-As of 2014, this holiday will rather be celebrated as King's Day (//Koningsdag//). Willem-Alexander was fortunate to have been born on the 27<sup>th</sup> of April, which is almost the same date. By contrast, Beatrix's birthday is on the 31<sup>th</sup> of January, which means winter and cold. When she ascended the throne in 1980, she decided to keep it as it was on April 30<sup>th</sup>.
+As of 2014, this holiday will rather be celebrated as King's Day ({{< fl "Koningsdag" >}}). Willem-Alexander was fortunate to have been born on the 27<sup>th</sup> of April, which is almost the same date. By contrast, Beatrix's birthday is on the 31<sup>th</sup> of January, which means winter and cold. When she ascended the throne in 1980, she decided to keep it as it was on April 30<sup>th</sup>.
 
 (By the way, Queen's/King's Day is the only public holiday on Holland that is moved if it falls on a Sunday. I'm not certain about the exact reason, but can infer it rides on religious considerations. Sunday is a day for worship and rest, and not for romping around in an orange outfit. So in this case it's usually observed the previous day, on Saturday.)
 
@@ -27,7 +27,7 @@ The idea of turning up to the Dam Square before ten in the morning was considere
 
 ## Museum Square {#museum-square}
 
-All in all, we've decided to make no haste and arrived at the Museum Square (//Museumplein//) in Amsterdam around two o'clock in the afternoon. The inauguration ceremony in the New Church (//Nieuwe Kerk//) has just began.
+All in all, we've decided to make no haste and arrived at the Museum Square ({{< fl "Museumplein" >}}) in Amsterdam around two o'clock in the afternoon. The inauguration ceremony in the New Church ({{< fl "Nieuwe Kerk" >}}) has just began.
 ![](img:4.bp.blogspot.com/-60iYs-N73gg/UZVDPmE7YDI/AAAAAAAAX9A/Z3e8HZVkbXE/s1600/dsc08350.picasaweb.jpg:a)
 
 The weather wasn't as favourable as it was [a year ago][post:153]. It was cloudy and windy most of the time, so there was not so much orange except hats.
@@ -99,10 +99,10 @@ It wasn't that busy at the Dam Square (never trust the mass-media). Here's the R
 A three-storey stand for the press at the opposite side:
 ![](img:1.bp.blogspot.com/-hD2ly8mRPbs/UZVETp6dvkI/AAAAAAAAYAg/Ru1KrvverIw/s1600/dsc08432.picasaweb.jpg:a)
 
-//Bijenkorf// have decorated their roof with huge inflatable crowns:
+{{< fl "Bijenkorf" >}} have decorated their roof with huge inflatable crowns:
 ![](img:1.bp.blogspot.com/-as_Pqpqo-TU/UZVEcaZJhnI/AAAAAAAAYBA/anytpvcb6E0/s1600/dsc08436.picasaweb.jpg:a)
 
-And Madame Tussaud's façade is adorned with //WA// monograms and fitted with screens:
+And Madame Tussaud's façade is adorned with {{< fl "WA" >}} monograms and fitted with screens:
 ![](img:1.bp.blogspot.com/-R3lVQYT004Q/UZVEYDNqUSI/AAAAAAAAYAw/z7zyGMN8nbo/s1600/dsc08434.picasaweb.jpg:a)
 
 Wax figures of Juliana and Wilhelmina, the mother and grandmother of Beatrix, respectively, graciously watch the square from the round window above:

@@ -9,10 +9,10 @@ While euro and dollar are *enjoying* a record growth in Russia, we're enjoying o
 
 <!--more-->
 
-On the 1<sup>st</sup> of November a weather station in //Ell//, which is at the very south of the country, has [registered](http://weerstatistieken.nl/ell/2014/november) the highest temperature ever, 22° C (72° F). Unbelievable.
+On the 1<sup>st</sup> of November a weather station in {{< fl "Ell" >}}, which is at the very south of the country, has [registered](http://weerstatistieken.nl/ell/2014/november) the highest temperature ever, 22° C (72° F). Unbelievable.
 ![](img:1.bp.blogspot.com/-exY0KNFO9hI/VGD0JLYBshI/AAAAAAAAf-M/lcDkSJ81pmw/s1600/dsc06934.picasaweb.jpg:a)
 
-It's a perfect weather to take a walk in nature. The //Heidestein// estate is just about a Buk's throw away from our place. Further on it merges into the Utrecht Hill Ridge (known for their [pyramids][post:157]).
+It's a perfect weather to take a walk in nature. The {{< fl "Heidestein" >}} estate is just about a Buk's throw away from our place. Further on it merges into the Utrecht Hill Ridge (known for their [pyramids][post:157]).
 ![](img:3.bp.blogspot.com/-m-HZbSn6z2w/VGD0OMNaXBI/AAAAAAAAf-0/zX50kixWkKY/s1600/dsc06956.picasaweb.jpg:a)
 
 A similar phenomenon was also on [November 2](http://www.nieuws.nl/algemeen/20141102/Warmste-2-november-ooit), as well as the rest of the autumn 2014.

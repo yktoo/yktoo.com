@@ -11,7 +11,7 @@ Tomasa Quartet, whom I know since [Dias Latinos 2011][post:109], honoured Amersf
 
 They rocked the favourite jazz venue of Amersfoort, city café [De Observant](http://www.observant.nl/).
 
-Not much has changed in the past two years, except that they've got a new drummer. //Elvin Marchena// left and //Ulas﻿ Aksunger// took over. But I was pleasantly surprised that they still remember me and even know my name. They wouldn't expect to see my face there anyway.
+Not much has changed in the past two years, except that they've got a new drummer. {{< fl "Elvin Marchena" >}} left and {{< fl "Ulas﻿ Aksunger" >}} took over. But I was pleasantly surprised that they still remember me and even know my name. They wouldn't expect to see my face there anyway.
 ![](img:3.bp.blogspot.com/-tg0qCRN97e0/UYPgr3y4o2I/AAAAAAAAXnM/u5UGPEoUoVA/s1600/dsc07962.picasaweb.jpg:a)
 
 In the break an Internet news site asked them for an interview, and they took me along.

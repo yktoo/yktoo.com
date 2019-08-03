@@ -8,7 +8,7 @@ I've been looking for quite a while for a USB hub that would match the design of
 
 <!--more-->
 
-At last I found a cute [four-port device](http://www.hema.nl/winkel/school-en-kantoor/media-en-computer/accessoires/usb-hub-20-(39609052)) in a //Hema// store, in an anodised aluminium finish that looked exactly like iMac's:
+At last I found a cute [four-port device](http://www.hema.nl/winkel/school-en-kantoor/media-en-computer/accessoires/usb-hub-20-(39609052)) in a {{< fl "Hema" >}} store, in an anodised aluminium finish that looked exactly like iMac's:
 ![](img:3.bp.blogspot.com/-XqSQEHbfq3A/UugVSXljK0I/AAAAAAAAbzw/fd1VbaC74aw/s1600/hema-usb-hub.png:a)
 
 However it had a major downside. Devices that draw considerable power from the USB port, like USB-powered hard drives, would report read-write errors all the time. That's because the power provided by the hub via its thin cable wasn't sufficient for them to operate properly.

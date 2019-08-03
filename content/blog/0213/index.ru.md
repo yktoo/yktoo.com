@@ -9,7 +9,7 @@ tags: ["Бельгия", "Гент", "красивое", "ночь", "путеш
 
 <!--more-->
 
-//Oude Vismijn// на развилке реки Лейе:
+{{< fl "Oude Vismijn" >}} на развилке реки Лейе:
 ![](img:3.bp.blogspot.com/-y7L-dnfzl6s/UtWFIGQlFzI/AAAAAAAAbnQ/vMU_2e-ar-g/s1600/dsc02767.picasaweb.jpg:a)
 
 Graslei:
@@ -25,12 +25,12 @@ Graslei:
 Церковь Св. Николая и «Гигантское Колесо»:
 ![](img:3.bp.blogspot.com/-Q0semG5NvDo/UtWFKeRrDpI/AAAAAAAAboM/EsVAFGV8C7U/s1600/dsc02779.picasaweb.jpg:a)
 
-Рождественский рынок на Коренмаркт (//Korenmarkt//):
+Рождественский рынок на Коренмаркт ({{< fl "Korenmarkt" >}}):
 ![](img:1.bp.blogspot.com/-nmMpJY7u3Ys/UtWFK8-mH7I/AAAAAAAAboU/JQ9neBwIehw/s1600/dsc02786.picasaweb.jpg:a)
 ![](img:3.bp.blogspot.com/-_qrSQXk4l1Q/UtWFLFGUN7I/AAAAAAAAboc/ScSjdC6cpBE/s1600/dsc02788.picasaweb.jpg:a)
 ![](img:2.bp.blogspot.com/-nsw2uNuzZ9g/UtWFLvqODTI/AAAAAAAAbok/BqrvBpYbg6A/s1600/dsc02789.picasaweb.jpg:a)
 
-Гентская колокольня (нидерл. //Belfort//, англ. //Belfry//):
+Гентская колокольня (нидерл. {{< fl "Belfort" >}}, англ. {{< fl "Belfry" >}}):
 ![](img:3.bp.blogspot.com/-nahV6v9sOMU/UtWFMAec42I/AAAAAAAAboo/a1KKFGgW78A/s1600/dsc02790.picasaweb.jpg:a)
 
 Церковь Богоматери и Святого Петра ([Sint-Pietersabdij](http://www.sintpietersabdijgent.be/), [Вики][wiki:ru:Церковь_Богоматери_и_Святого_Петра_(Гент)]):

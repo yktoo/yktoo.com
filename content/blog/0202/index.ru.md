@@ -17,19 +17,19 @@ tags: ["P60", "progressive metal", "Stream of Passion", "Tivoli Spiegelbar", "Wi
 Британская прогрессив-метал-команда [Winter in Eden](http://www.winterineden.com/), которую я доселе не встречал, выступала на разогреве.
 ![](img:4.bp.blogspot.com/-SKjoo_QXsho/UjBocfrz-iI/AAAAAAAAaZU/SSXcuppuJq4/s1600/dsc01128.picasaweb.jpg:a)
 
-Подобно хедлайнерам, у них тоже девушка на вокале (у меня стойкой ощущение, что рок-вокалистки предпочитают тусоваться вместе) по имени Вики Джонсон (//Vicky Johnson//).
+Подобно хедлайнерам, у них тоже девушка на вокале (у меня стойкой ощущение, что рок-вокалистки предпочитают тусоваться вместе) по имени Вики Джонсон ({{< fl "Vicky Johnson" >}}).
 ![](img:2.bp.blogspot.com/-o0CJ6PlprEk/UjBomZHfnkI/AAAAAAAAaaU/FPDIZJWd50w/s1600/dsc01216.picasaweb.jpg:a)
 ![](img:1.bp.blogspot.com/-I-hDBg_4eJc/UjBoi7NDkxI/AAAAAAAAaZ8/PS5k5ylfl_c/s1600/dsc01150.picasaweb.jpg:a)
 ![](img:4.bp.blogspot.com/-f4lVSk28Bwk/UjBolKZ2bpI/AAAAAAAAaaM/IORBnURNlf8/s1600/dsc01210.picasaweb.jpg:a)
 ![](img:1.bp.blogspot.com/-oqpaC0q2Hdw/UjBoniF16cI/AAAAAAAAaac/RwyW9iGhMdQ/s1600/dsc01239.picasaweb.jpg:a)
 
-Гитарист Сэм Калл (//Sam Cull//) в странной фракоподобной куртке:
+Гитарист Сэм Калл ({{< fl "Sam Cull" >}}) в странной фракоподобной куртке:
 ![](img:1.bp.blogspot.com/-2XYSi7d0dUM/UjBodmk-66I/AAAAAAAAaZc/aaSGsCnu5b8/s1600/dsc01136.picasaweb.jpg:a)
 
-Басист Иан Хеддл (//Ian Heddle//) с модным чёрным маникюром:
+Басист Иан Хеддл ({{< fl "Ian Heddle" >}}) с модным чёрным маникюром:
 ![](img:3.bp.blogspot.com/-YZaK-Rfes7k/UjBoeyh7T7I/AAAAAAAAaZk/jzQRMKYanoo/s1600/dsc01138.picasaweb.jpg:a)
 
-Ещё в команде есть клавишник Стив Джонсон (//Steve Johnson//; муж Вики? брат?) и глубоко засевший в дебрях ударной установки барабанщик Стив Хоксвел (//Steve Hauxwell//). Музыка у них мне понравилась, но заметно, что ~~молодо-зелено~~ ребятам есть, куда расти. Интересно на них взглянуть через несколько лет.
+Ещё в команде есть клавишник Стив Джонсон ({{< fl "Steve Johnson" >}}; муж Вики? брат?) и глубоко засевший в дебрях ударной установки барабанщик Стив Хоксвел ({{< fl "Steve Hauxwell" >}}). Музыка у них мне понравилась, но заметно, что ~~молодо-зелено~~ ребятам есть, куда расти. Интересно на них взглянуть через несколько лет.
 ![](img:3.bp.blogspot.com/-kjvceYmZZEk/UjBogVRpp3I/AAAAAAAAaZs/TlaioC68ZP8/s1600/dsc01143.picasaweb.jpg:a)
 
 Я записал пару их песен на видео:
@@ -97,7 +97,7 @@ tags: ["P60", "progressive metal", "Stream of Passion", "Tivoli Spiegelbar", "Wi
 
 ## Special Acoustic Evening with Stream of Passion {#special-acoustic-evening-with-sop}
 
-Вторым событием, состоявшимся ровно через неделю, 13 сентября, в утрехтском клубе [Tivoli Spiegelbar](http://www.tivoli.nl/Tivoli-Spiegelbar), был «Специальный акустический вечер» (//Special Acoustic Evening with Stream of Passion//). //Spiegelbar// (по-голландски «зеркальный бар», получивший своё название, видимо, благодаря множеству зеркальных шаров под потолком) — это брат другой площадки Tivoli, [De Helling](http://www.tivoli.nl/Tivoli-de-Helling), где я [провёл][post:175] «зимний вечер» всё с теми же.
+Вторым событием, состоявшимся ровно через неделю, 13 сентября, в утрехтском клубе [Tivoli Spiegelbar](http://www.tivoli.nl/Tivoli-Spiegelbar), был «Специальный акустический вечер» ({{< fl "Special Acoustic Evening with Stream of Passion" >}}). {{< fl "Spiegelbar" >}} (по-голландски «зеркальный бар», получивший своё название, видимо, благодаря множеству зеркальных шаров под потолком) — это брат другой площадки Tivoli, [De Helling](http://www.tivoli.nl/Tivoli-de-Helling), где я [провёл][post:175] «зимний вечер» всё с теми же.
 
 Что я могу сказать — я в полном восторге! Голос Марселы, как мне кажется, от акустического исполнения только выигрывает и звучит гораздо полнее и даже как-то проникновеннее.
 
@@ -110,7 +110,7 @@ tags: ["P60", "progressive metal", "Stream of Passion", "Tivoli Spiegelbar", "Wi
 Также она исполнила [The Curse](http://www.youtube.com/watch?v=HLIpq2_GVlM) из ещё не вышедшего альбома и мексиканскую народную песню [La Llorona](http://www.youtube.com/watch?v=JuHW_N2cQW8) («Плакальщица») на испанском.
 ![](img:4.bp.blogspot.com/-N33eXAQbvOg/UjS5oIRDG6I/AAAAAAAAais/36sBu9Sqtog/s1600/dsc01487.picasaweb.jpg:a)
 
-В паре песен подключилась ещё одна дама из рок-тусовки: гречанка //Maxi Nil// из австрийской команды [Visions of Atlantis](http://www.visionsofatlantis.com/) (да, вот такое тут всё интернациональное).
+В паре песен подключилась ещё одна дама из рок-тусовки: гречанка {{< fl "Maxi Nil" >}} из австрийской команды [Visions of Atlantis](http://www.visionsofatlantis.com/) (да, вот такое тут всё интернациональное).
 
 Повсюду в клубе висели предупреждения, что фотографировать можно, а вот видео — ни-ни. Но когда это нас могло остановить? Нет, серьёзно, «акустический вечер» был совершенно чем-то особенным, так что я набрался наглости и записал шесть песен (сидел ряду на восьмом, так что не взыщите за лишние головы в кадре):
 

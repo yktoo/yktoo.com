@@ -37,7 +37,7 @@ Everything is thoroughly wrapped and packed:
 The package contents: two speakers, two sticky foam pads for underneath the speakers, three cables (jack-jack, jack-RCA and a wire to connect speakers to each other), user's manual and a guide to studio monitors:
 ![](img:2.bp.blogspot.com/-PDbkj7nAp2U/Ua90cTk0OmI/AAAAAAAAZIY/755nxVfDspA/s1600/dsc09521.picasaweb.jpg:a)
 
-The left speaker is the main one as it contains a power amplifier. The front side contains LF and HF drivers (or tweeter and woofer, respectively), a volume knob with a blue power LED ring around it, auxiliary input (//Aux In//) and headphone output, both are 3½ mm jacks.
+The left speaker is the main one as it contains a power amplifier. The front side contains LF and HF drivers (or tweeter and woofer, respectively), a volume knob with a blue power LED ring around it, auxiliary input ({{< fl "Aux In" >}}) and headphone output, both are 3½ mm jacks.
 ![](img:2.bp.blogspot.com/-f4AVaUvr-Rw/Ua90dzP8o_I/AAAAAAAAZIg/Rdr4VAQznjk/s1600/dsc09522.picasaweb.jpg:a)
 
 The left speaker, rear view: bass reflex port, balanced (TRS) input (6.3 mm jacks), which you only find on studio equipment, RCA stereo input, spring-clip terminals for the right speaker, power switch and power cable:

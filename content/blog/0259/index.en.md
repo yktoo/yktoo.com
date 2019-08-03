@@ -55,7 +55,7 @@ But there are also more peculiar ones, like this [De Utrecht](http://www.statenj
 Or the deep blue [Zephyr](http://www.marinetraffic.com/ais/nl/shipdetails.aspx?mmsi=245115000) (built 1931):
 ![](img:3.bp.blogspot.com/-XGhKCxjrfEw/VeMqFjmdbnI/AAAAAAAAkRU/nE7RLUcnZ8k/s1600/dsc00679.picasaweb.jpg:a "The Zephyr.")
 
-But the most interesting ones are of course the tall ships moored at the //Oranjehaven//.
+But the most interesting ones are of course the tall ships moored at the {{< fl "Oranjehaven" >}}.
 
 The huge [Atlantis](http://www.marinetraffic.com/nl/ais/details/ships/246253000), 1905 (why would you call a ship "Atlantis", anyway?):
 ![](img:4.bp.blogspot.com/-us__tcNt3HA/VeMqHW5zI5I/AAAAAAAAkRk/C1cw97o-UeA/s1600/dsc00688.picasaweb.jpg:a "The Atlantis.")
@@ -75,7 +75,7 @@ This ninth edition of the festival was [record breaking](http://www.rtvnh.nl/nie
 The sail-in featured ships from all over the world: the USA, Australia, India, Chile etc. And also four Russian ships. The [Kruzenshtern][wiki:en:Kruzenshtern_(ship)] (1926):
 ![](img:3.bp.blogspot.com/-YNRTRGDy2XU/VeMqGPzUAXI/AAAAAAAAkRc/uDrpDxyf3jY/s1600/dsc00686.picasaweb.jpg:a "The Kruzenshtern.")
 
-The [Sedov][wiki:en:STS_Sedov] (1921), originally the //Magdalene Vinnen II//. According to the Wikipedia, the largest training sailing ship in the world:
+The [Sedov][wiki:en:STS_Sedov] (1921), originally the {{< fl "Magdalene Vinnen II" >}}. According to the Wikipedia, the largest training sailing ship in the world:
 ![](img:3.bp.blogspot.com/-nGXiHq002Ds/VeMqSqPTAQI/AAAAAAAAkUU/C3bK89IqqDI/s1600/dsc00734.picasaweb.jpg:a "The Sedov.")
 
 We missed the other two, the [Mir][wiki:en:STS_Mir] (1987) and the Nadezhda (1912). By the way, there was an accident involving the Mir, when [a man fell overboard](http://www.rtlnieuws.nl/nieuws/binnenland/rus-valt-overboord-tijdens-sail) during the sail-in. The details are unknown, but I hope it was not due to booze…
@@ -112,7 +112,7 @@ And its streets are sometimes too busy to walk (not to mention to bike):
 From my experience, the best view you get from a 55-metre tall Ferris wheel erected on the west-end of the island:
 ![](img:3.bp.blogspot.com/-CvsurSyuojk/VeMqI2Ol_nI/AAAAAAAAkSA/6y17YPl5vcY/s1600/dsc00691.picasaweb.jpg:a "Java's Ferris wheel.")
 
-The IJ's south bank and the tall ships at the //Veemkade//. You can see the two streams of boats running in the opposite directions:
+The IJ's south bank and the tall ships at the {{< fl "Veemkade" >}}. You can see the two streams of boats running in the opposite directions:
 ![](img:4.bp.blogspot.com/-dUiVJTpXbEk/VeMqJJdV0hI/AAAAAAAAkSI/pZOKSIfn4dM/s1600/dsc00695.picasaweb.jpg:a "Tall ships on the IJ.")
 
 The west tip of the Java:
@@ -131,16 +131,16 @@ On the other side of the narrow strait is moored another navy ship, the patrol v
 The [Zr. Ms. Bruinvis][wiki:nl:Zr.Ms._Bruinvis_(1994)] submarine (1994):
 ![](img:2.bp.blogspot.com/-2PjHGEKGnX0/VeMqPEcDt4I/AAAAAAAAkTk/c_kuDrCdQnA/s1600/dsc00719.picasaweb.jpg:a "The Zr. Ms. Bruinvis.")
 
-Two sections were removed from the //Jan Schaeferbrug// bridge to allow the ships to enter. Since it's not usable for traffic, it was turned into a restaurant area:
+Two sections were removed from the {{< fl "Jan Schaeferbrug" >}} bridge to allow the ships to enter. Since it's not usable for traffic, it was turned into a restaurant area:
 ![](img:2.bp.blogspot.com/-_gVnSr9xsfE/VeMqL0-2-eI/AAAAAAAAkWg/rF52viYW2GQ/s1600/dsc00709.picasaweb.jpg:a "The Jan Schaeferbrug.")
 ![](img:2.bp.blogspot.com/-z_X9-CoYwks/VeMqR2aXULI/AAAAAAAAkUM/oQLxNV_x9BA/s1600/dsc00733.picasaweb.jpg:a "Restaurants on the Jan Schaeferbrug.")
 
-The famous //I amsterdam// letters, so beloved by the tourists making selfies, were put on a barge moored at the bridge's middle section:
+The famous {{< fl "I amsterdam" >}} letters, so beloved by the tourists making selfies, were put on a barge moored at the bridge's middle section:
 ![](img:3.bp.blogspot.com/-uo24GEw2SU0/VeMqNnzVuJI/AAAAAAAAkTQ/84AL4IfewIk/s1600/dsc00715.picasaweb.jpg:a "I amsterdam.")
 ![](img:4.bp.blogspot.com/-ZI1p-FQgVww/VeMqMLwEXLI/AAAAAAAAkS4/ZDPDH1FHiSo/s1600/dsc00710.picasaweb.jpg:a "The IJ's north side.")
 ![](img:3.bp.blogspot.com/-DtAIcIS2LfQ/VeMqOGKIoGI/AAAAAAAAkTg/pzwfd8mLkEc/s1600/dsc00716.picasaweb.jpg:a "Tall ships at the Veemkade.")
 
-The opposite side of the IJ, the //Amsterdam-Noord// district:
+The opposite side of the IJ, the {{< fl "Amsterdam-Noord" >}} district:
 ![](img:3.bp.blogspot.com/-j5XHNRSIi6U/VeMqM7ZL9_I/AAAAAAAAkTE/Z6Ma0phjuJA/s1600/dsc00712.picasaweb.jpg:a "Amsterdam-Noord.")
 
 Next to the Ferris wheel was a funny attraction, a waterbike:

@@ -4,7 +4,7 @@ title: "How-to: Multiplicity in Gimp"
 tags: ["Gimp", "graphics", "how-to", "Linux", "multiplicity", "Ubuntu"]
 ---
 
-My today's story is about a well-known yet impressive graphic editing technique called //multiplicity//. It allows you to multiply objects on a photo—most commonly people, but it can be just as well kittens or lawn-mowers. Using this technique, you can make pictures like this:
+My today's story is about a well-known yet impressive graphic editing technique called {{< fl "multiplicity" >}}. It allows you to multiply objects on a photo—most commonly people, but it can be just as well kittens or lawn-mowers. Using this technique, you can make pictures like this:
 ![](img:2.bp.blogspot.com/-hg95nA5TCEM/UjLjT3RlumI/AAAAAAAAafw/gAkDwzOZWnw/s1600/2011-11-19+-+rehearsal.picasaweb.jpg:a)
 
 I'm a Linux guy and hence my favourite graphic editing tool is Gimp, but the same can be done with any other editor that supports layers and masks.

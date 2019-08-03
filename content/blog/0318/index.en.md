@@ -39,7 +39,7 @@ Hence the advice: expand and maintain you social network, participate in [meetup
 
 ### Websites of potential customers
 
-From my own observations, I can conclude that the best rates are offered by large organisations: banks (//ING//, //ABN Amro//, //Rabobank//), government institutions (ministries and their subsidiaries like //Rijkswaterstaat//, //(D)ICTU//, police), telecoms and other technology companies (//KPN//, //Philips//), transport operators (//KLM//, //NS//) etc. They often have a separate portal for contractors, although it doesn't mean they can hire you directly. In most cases they outsource hiring administration to external parties, broker agencies, which take care of contracts, invoicing, payments etc. Otherwise the customer would have to deal with every contractor himself, and that's a lot of paperwork.
+From my own observations, I can conclude that the best rates are offered by large organisations: banks ({{< fl "ING" >}}, {{< fl "ABN Amro" >}}, {{< fl "Rabobank" >}}), government institutions (ministries and their subsidiaries like {{< fl "Rijkswaterstaat" >}}, {{< fl "(D)ICTU" >}}, police), telecoms and other technology companies ({{< fl "KPN" >}}, {{< fl "Philips" >}}), transport operators ({{< fl "KLM" >}}, {{< fl "NS" >}}) etc. They often have a separate portal for contractors, although it doesn't mean they can hire you directly. In most cases they outsource hiring administration to external parties, broker agencies, which take care of contracts, invoicing, payments etc. Otherwise the customer would have to deal with every contractor himself, and that's a lot of paperwork.
 
 ### Brokers' websites
 
@@ -53,17 +53,17 @@ It's also good to know that besides "honest" brokers the freelance job market is
 
 Interim contracts are often advertised on special freelancing websites. There's a number of them in the Netherlands: [4-freelancers](https://www.4-freelancers.nl/), [IT-contracts](https://www.it-contracts.nl/), [freelance.nl](https://www.freelance.nl/), [Qwery](https://www.qwery.nl/), to name a few. Unfortunately, what often happens is that vacancies posted by "honest" brokers get cross-posted by "scroungers" numerous times on different websites. It makes it difficult to trace back the original advert, not to mention figuring out who the ultimate customer is.
 
-[Observ](https://observ.nu/), a project started a few months ago by a colleague, proved very helpful when I was looking for a contract myself. Observ is a free IT contract aggregator that collects, classifies, and merges all the numerous copies of the same vacancy scattered across various websites. It also marks ones advertised by a "honest" broker (a blue link icon, //betrouwbare broker//):
+[Observ](https://observ.nu/), a project started a few months ago by a colleague, proved very helpful when I was looking for a contract myself. Observ is a free IT contract aggregator that collects, classifies, and merges all the numerous copies of the same vacancy scattered across various websites. It also marks ones advertised by a "honest" broker (a blue link icon, {{< fl "betrouwbare broker" >}}):
 ![](img:4.bp.blogspot.com/-cjUtE071tFg/WN0YRhFH42I/AAAAAAAApr4/WyB_8ceeS0M-JGzjCw6TmK8ZzriLe2wmgCPcB/s1600/observ.nu.picasaweb.png:a "Observ website.")
 
 Even if you don't plan to use this service for actual searching, you may want to have a look at it to figure out which brokers are safe to work with.
 
 ## Getting in {#getting-in}
 
-Once you've found an attractive vacancy, you start the process of *offering* (//aanbieden//) your candidacy. Just like with a regular vacancy, you are commonly required to send in the following two documents:
+Once you've found an attractive vacancy, you start the process of *offering* ({{< fl "aanbieden" >}}) your candidacy. Just like with a regular vacancy, you are commonly required to send in the following two documents:
 
 * Your CV;
-* A cover letter (//motivatiebrief//).
+* A cover letter ({{< fl "motivatiebrief" >}}).
 
 I won't go into details about a perfect CV here as this topic has already myriads of books dedicated to it. What's the most important is that it must match the described profile as closely as possible, because the recruiters dealing with the torrent of incoming applications are often not aware that *Tomcat* is also a *servlet container*.
 
@@ -85,7 +85,7 @@ Risk management is another complex topic. I already [posted][post:309] about the
 
 Persistence is arguably the most important aspect of running a business, which is always mentioned in relevant publications. You should never give up, be it your first fail or hundred first. It's obviously worth learning lessons from your failures though, and then trying over and over again.
 
-The Chamber of Commerce (//KvK//) often invites successful businessmen and -women for their sessions. Every single of them has had their ups and downs, but what made them successful was exactly that after a slip they would get up and carry on.
+The Chamber of Commerce ({{< fl "KvK" >}}) often invites successful businessmen and -women for their sessions. Every single of them has had their ups and downs, but what made them successful was exactly that after a slip they would get up and carry on.
 
 My knowledge in this respect is pretty theoretical to be honest, yet I'm quite certain about my own persistence.
 

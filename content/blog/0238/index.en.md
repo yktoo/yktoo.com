@@ -14,7 +14,7 @@ The festival, which is held once every three years, proved to be immensely popul
 
 ![](img:1.bp.blogspot.com/-77rTXELjB_w/VM6cY8g72SI/AAAAAAAAg8w/5DyY43WC7Rs/s1600/dsc07954.picasaweb.jpg:a "Ghent invasion of light-worshippers.")
 
-This festival was held for the third time, from Thursday January 29<sup>th</sup> until Sunday February 1<sup>st</sup>, in the Belgian town of Ghent (Dutch: //Gent//), which I've [visited][post:212] about a year ago.
+This festival was held for the third time, from Thursday January 29<sup>th</sup> until Sunday February 1<sup>st</sup>, in the Belgian town of Ghent (Dutch: {{< fl "Gent" >}}), which I've [visited][post:212] about a year ago.
 
 There was no question as whether to go since it's just a two-hour drive. We were lucky enough to book a room in the very central [Hotel Gravensteen](http://www.gravensteen.be/), which is just across the road from the [Gravensteen Castle][wiki:en:Gravensteen].
 ![](img:3.bp.blogspot.com/-PdDIi6H1PV0/VM6b9MzoxVI/AAAAAAAAg4w/G3cxo56ue48/s1600/dsc07915.picasaweb.jpg:a "The Gravensteen Castle.")
@@ -35,7 +35,7 @@ I also have [another video](http://www.youtube.com/watch?v=2Ziwgsx9XSg) from a d
 More to follow. This greenish cobweb by [THEM Sculptures](http://www.themsculptures.com/) is somehow referred to as **Our House Ghent**:
 ![](img:1.bp.blogspot.com/-ODikExRMh0U/VM6b503Z7HI/AAAAAAAAg4Q/hAGHslyFoL0/s1600/dsc07909.picasaweb.jpg:a "THEM Sculptures. Our House Ghent.")
 
-The soundtrack is very much similar to the previous one. Here's a short overhead movie filmed at //Mageleinstraat//:
+The soundtrack is very much similar to the previous one. Here's a short overhead movie filmed at {{< fl "Mageleinstraat" >}}:
 ![](youtube:Qr76VoO4m34)
 
 There were also more traditional things like interactive projections, tailored to a specific building. This one is **Dancing House** by the Austrian [Klaus Obermaier](http://www.exile.at/):
@@ -71,7 +71,7 @@ Anyway, it all seems beautiful in the dark. I especially love the neon lighting 
 An unknown item next to the belfry. I'd call it "Snowmen interrogate a rat":
 ![](img:3.bp.blogspot.com/-FgK1UJM0uLI/VM6b3b3PdPI/AAAAAAAAg34/iRXjIocvvfc/s1600/dsc07901.picasaweb.jpg:a)
 
-The former "Big Meat House" (//Het Groot Vleeshuis//), which is nowadays the [Promotion Centre for Regional Eastern-Flemish Products](http://www.grootvleeshuis.be/):
+The former "Big Meat House" ({{< fl "Het Groot Vleeshuis" >}}), which is nowadays the [Promotion Centre for Regional Eastern-Flemish Products](http://www.grootvleeshuis.be/):
 ![](img:3.bp.blogspot.com/-a-UnnW_uTL4/VM6cPwl0n2I/AAAAAAAAg7Y/yz2OjgBsk5E/s1600/dsc07940.picasaweb.jpg:a)
 
 It's hard to believe these are typical Eastern-Flemish products though:
@@ -111,7 +111,7 @@ It looked interesting but a bit too static. If you walked up to it, you could se
 
 However walking up was no easy task. The exhibit was installed in the darkest yard of Ghent, which received just as many people as it could fit. You can imagine how easily one could walk inside this crowd.
 
-But the worst crowded was the corner of //Nieuwbrugkaai//, where an item was mounted right in the middle of the Leie river. **Mysticète** by [Top'La Design](http://www.topla-design.com/) was a sophisticated fountain system with a picture projected on it. It was close to impossible to get to the front row, maybe only after a couple of hours. Nonetheless I've filmed a video of it by lifting my camera on the tripod above the wall of backs:
+But the worst crowded was the corner of {{< fl "Nieuwbrugkaai" >}}, where an item was mounted right in the middle of the Leie river. **Mysticète** by [Top'La Design](http://www.topla-design.com/) was a sophisticated fountain system with a picture projected on it. It was close to impossible to get to the front row, maybe only after a couple of hours. Nonetheless I've filmed a video of it by lifting my camera on the tripod above the wall of backs:
 ![](youtube:T3FwQfN9KzY)
 
 You can conclude from the video that the exhibit was overrated. It didn't make sense there was that crowded there. Maybe the street was just too narrow.
@@ -119,7 +119,7 @@ You can conclude from the video that the exhibit was overrated. It didn't make s
 A lighted aerial tower on the roof of a nearby building produced some mysterious smoke:
 ![](img:4.bp.blogspot.com/-wiOrpQuuybI/VM6ceeI3nHI/AAAAAAAAg9o/caVGjX_asCs/s1600/dsc07968.picasaweb.jpg:a)
 
-The //Oude Beestenmarkt// was under Huge Lighted Rabbits' guard.
+The {{< fl "Oude Beestenmarkt" >}} was under Huge Lighted Rabbits' guard.
 ![](img:4.bp.blogspot.com/-v7uHl1fde-o/VM6cguMiVVI/AAAAAAAAg-A/7R9Ch6Z4u-4/s1600/dsc07972.picasaweb.jpg:a)
 
 Stupid little people tried to make a photo on their backdrop, but only got silhouettes instead. Because those were Lighted.
@@ -135,7 +135,7 @@ And we've come to the most exciting things! Here's my Top-3.
 
 ## 3<sup>rd</sup> place: Théoriz. Horta {#place-3}
 
-An amazing, quality animated projection **Horta** by [Théoriz](http://www.theoriz.com/), depicting famous inhabitants of Ghent on the façade of //Bisschopshuis//:
+An amazing, quality animated projection **Horta** by [Théoriz](http://www.theoriz.com/), depicting famous inhabitants of Ghent on the façade of {{< fl "Bisschopshuis" >}}:
 ![](youtube:lKWYyZe0wvk)
 
 ## 2<sup>nd</sup> place: Ivo Schoofs. Large Pendulum Wave {#place-2}
@@ -148,7 +148,7 @@ The [Large Pendulum Wave](http://www.largependulumwave.nl/) creates an illusion 
 
 ## 1<sup>st</sup> place: Dirty Monitor. Urban keys {#place-1}
 
-This was a clear winner, which is suggested by its #1 in the [program](http://www.lichtfestivalgent.be/en/programma/). It's a monumental block sized interactive projection mounted on the //Sint-Pietersplein// square and covering three buildings, created by a group with a weird name [Dirty Monitor](http://www.dirtymonitor.com/):
+This was a clear winner, which is suggested by its #1 in the [program](http://www.lichtfestivalgent.be/en/programma/). It's a monumental block sized interactive projection mounted on the {{< fl "Sint-Pietersplein" >}} square and covering three buildings, created by a group with a weird name [Dirty Monitor](http://www.dirtymonitor.com/):
 ![](img:2.bp.blogspot.com/-5DWifHqWxOU/VM6ckl1FWXI/AAAAAAAAg-o/mTqwVlJXnsA/s1600/dsc07984.picasaweb.jpg:a)
 
 Seeing is believing, so:

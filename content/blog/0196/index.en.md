@@ -16,7 +16,7 @@ Most performances were free for everyone. They're given in the open air in the s
 
 ## Sid Bowfin {#sid-bowfin}
 
-The Briton //Sid Bowfin//, who describes himself on his own [website](http://www.sidbowfin.com/) as *"UK’s silliest violinist"*, was, according to the polls, the public's favourite.
+The Briton {{< fl "Sid Bowfin" >}}, who describes himself on his own [website](http://www.sidbowfin.com/) as *"UK’s silliest violinist"*, was, according to the polls, the public's favourite.
 ![](img:2.bp.blogspot.com/-dTRfbdxtAKU/UhoQQy2tiGI/AAAAAAAAaIE/FaVQxkG8oi0/s1600/dsc00987.picasaweb.jpg:a)
 
 What you see on stage (and sometimes out the stage) is only remotely related to music. Sid's show begins with him standing in the crowd, innocently asking who's performing.
@@ -54,7 +54,7 @@ Here's all the footage of the violinist:
 This acrobat duo's name means "hand in hand" in Spanish.
 ![](img:1.bp.blogspot.com/-4ka48vK-xj0/UhoQhD8345I/AAAAAAAAaKc/n3JGR2EIeco/s1600/dsc01043.picasaweb.jpg:a)
 
-The show by the Argentinian duo had the title //Kinematos//. Most of their tricks are done on a special pole mounted on one of the squares. Some of their stunts really amazed the audience.
+The show by the Argentinian duo had the title {{< fl "Kinematos" >}}. Most of their tricks are done on a special pole mounted on one of the squares. Some of their stunts really amazed the audience.
 ![](img:1.bp.blogspot.com/-I18qGHwIdUI/UhoQjbumNrI/AAAAAAAAaKs/hnWoNqB52O0/s1600/dsc01047.picasaweb.jpg:a)
 
 When you look at them you can't help the feeling it's as easy as walking on the ground.
@@ -99,7 +99,7 @@ She had put on the pants on purpose. The last item, which I've recorded, include
 
 ## Deux Sans Trois {#deux-sans-trois}
 
-A bizarre Belgian troupe called //Deux Sans Trois// consists of three acrobats and a musician. Their show named //Typo// began with a pseudo-musical piece for a looper, a turntable (the one that interested Sid in the beginning of the [first video](http://www.youtube.com/watch?v=5L5V0RNkEXs)) and a typewriter. Then a comical part followed: the girl in black tried to claim a seat on the bench, and the other three didn't want to let her do that:
+A bizarre Belgian troupe called {{< fl "Deux Sans Trois" >}} consists of three acrobats and a musician. Their show named {{< fl "Typo" >}} began with a pseudo-musical piece for a looper, a turntable (the one that interested Sid in the beginning of the [first video](http://www.youtube.com/watch?v=5L5V0RNkEXs)) and a typewriter. Then a comical part followed: the girl in black tried to claim a seat on the bench, and the other three didn't want to let her do that:
 ![](img:1.bp.blogspot.com/-Ay_aCtXYP1E/UhoQGDeYL4I/AAAAAAAAaGc/ghdhY-ZuuWs/s1600/dsc00945.picasaweb.jpg:a)
 
 She tried many different ways, including treading on their heads:
@@ -129,7 +129,7 @@ Here's a video of one of their items:
 
 ## Collectif A Part Être {#collectif-a-part-etre}
 
-What proved to be a real psychedelia was //Révélation// by a French hip-hop troupe named //Collectif A Part Être//.
+What proved to be a real psychedelia was {{< fl "Révélation" >}} by a French hip-hop troupe named {{< fl "Collectif A Part Être" >}}.
 
 The five-head female troupe gave a lengthy performance consisting of floundering about on the ground, undressing, scaring the audience and other things of that sort.
 ![](img:4.bp.blogspot.com/-qRBmspHU_0Q/UhoQwg4fdnI/AAAAAAAAaMU/ht9jo9xKVl0/s1600/dsc01069.picasaweb.jpg:a)

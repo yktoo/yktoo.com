@@ -7,7 +7,7 @@ tags: ["Budapest", "Hungary", "travel"]
 
 ![](img:2.bp.blogspot.com/-TT8ijGC6JlM/Tan1xe9HsYI/AAAAAAAAItc/gL4QKmtreoI/s1600/dsc01819.picasaweb.jpg:a)
 
-Budapest is the capital of Hungary (honest). Hungary is a part of the EU (which Hungarians are undoubtedly proud of, because of the number of EU flags hung out everywhere). But it isn't part of eurozone, which was a complete surprise for me. They have their own currency called //forint//, and you exchange it at the rate of ~~one kilo~~ 260 for one euro. Because of that, you usually count them in thousands (1000 HUF ≈ 4 EUR).
+Budapest is the capital of Hungary (honest). Hungary is a part of the EU (which Hungarians are undoubtedly proud of, because of the number of EU flags hung out everywhere). But it isn't part of eurozone, which was a complete surprise for me. They have their own currency called {{< fl "forint" >}}, and you exchange it at the rate of ~~one kilo~~ 260 for one euro. Because of that, you usually count them in thousands (1000 HUF ≈ 4 EUR).
 
 <!--more-->
 
@@ -41,9 +41,9 @@ Budapest doesn't really look like an European city. Many things remind of the So
 
 People are more relaxed and polite than Russians, but at the same time look remarkably more constrained and less open to strangers than the Austrians, not to mention the Dutch.
 
-Now the language: it's a sheer nightmare. It didn't make any shred of sense when we both tried to read it, taking into consideration all the languages we're familiar with. Even reading itself was a pain. Here's an example: //Budahegyvidéki Református Egyházközség// (it's the name of a church in Budapest).
+Now the language: it's a sheer nightmare. It didn't make any shred of sense when we both tried to read it, taking into consideration all the languages we're familiar with. Even reading itself was a pain. Here's an example: {{< fl "Budahegyvidéki Református Egyházközség" >}} (it's the name of a church in Budapest).
 
-Street is //utca// (pronounced //oot-tsa//), but in our ignorance we were saying it wrong, and it sounded like Russian //утка// (which means "duck"), and I found this funny.
+Street is {{< fl "utca" >}} (pronounced {{< fl "oot-tsa" >}}), but in our ignorance we were saying it wrong, and it sounded like Russian {{< fl "утка" >}} (which means "duck"), and I found this funny.
 ![](img:4.bp.blogspot.com/-VIGinjV7CxU/Tan3Gs_dCAI/AAAAAAAAItc/bHPDzMcEMEc/s1600/dsc01753.picasaweb.jpg:a "One of the 'ducks'")
 
 Hungary is the origin of Ikarus busses. At one time they have been ubiquitous on Russian roads (and there are many being used still). It's a part of my own history, like [MMM][post:77] and the bubble gum called "Love Is".

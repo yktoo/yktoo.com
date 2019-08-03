@@ -15,7 +15,7 @@ tags: ["Алгарви", "песок", "Португалия", "путешест
 
 ## FIESA 2013 {#fiesa}
 
-Одно из примечательных мест, о котором мы до приезда ничего даже не слышали — Международный фестиваль песчаных скульптур ([Festival Internacional de Escultura em Areia](http://www.fiesa.org/), сокращённо //FIESA//). Это, по их собственному утверждению, крупнейший в мире песчаный город. Других песчаных городов я не видел, врать не буду, но количество вложенного труда действительно впечатляет.
+Одно из примечательных мест, о котором мы до приезда ничего даже не слышали — Международный фестиваль песчаных скульптур ([Festival Internacional de Escultura em Areia](http://www.fiesa.org/), сокращённо {{< fl "FIESA" >}}). Это, по их собственному утверждению, крупнейший в мире песчаный город. Других песчаных городов я не видел, врать не буду, но количество вложенного труда действительно впечатляет.
 
 Каждый год у «Фиесы» разные темы. В 2013 году это музыка.
 ![](img:3.bp.blogspot.com/-gPst0LcWiAY/Ua4i9aZLi6I/AAAAAAAAYuQ/lcnZc6BUuK8/s1600/dsc09075.picasaweb.jpg:a)
@@ -46,13 +46,13 @@ tags: ["Алгарви", "песок", "Португалия", "путешест
 Чёткость и ровность очертаний букв наводит на мысли об использовании каких-то трафаретов или шаблонов.
 ![](img:1.bp.blogspot.com/-ETQVbsvzkzU/Ua4h-5ZqylI/AAAAAAAAYpQ/klbbGt-rGho/s1600/dsc09017.picasaweb.jpg:a)
 
-Песчаный портрет [Амалии Родригиш][wiki:ru:Родригиш,_Амалия] (//Amália Rodrigues//), «голоса Португалии», португальской исполнительницы фаду и фламенко.
+Песчаный портрет [Амалии Родригиш][wiki:ru:Родригиш,_Амалия] ({{< fl "Amália Rodrigues" >}}), «голоса Португалии», португальской исполнительницы фаду и фламенко.
 ![](img:3.bp.blogspot.com/-qrq31634vko/Ua4iAmoATAI/AAAAAAAAYpY/mpapvtKa0zA/s1600/dsc09018.picasaweb.jpg:a)
 
 Город, хоть и построен на песке, обладает неплохой инфраструктурой. Везде расставлены колонки с музыкой (накрытые плёнкой для защиты от песка и дождя) и лампы подсветки. Кроме того, перед каждой скульптурной композицией стоит табличка с описанием сюжета.
 ![](img:3.bp.blogspot.com/-5KwePDfcZ3c/Ua4iCvpAsbI/AAAAAAAAYpg/SgLZSKIVdRs/s1600/dsc09020.picasaweb.jpg:a)
 
-«Музыка в кино» (//Cinema Musical//):
+«Музыка в кино» ({{< fl "Cinema Musical" >}}):
 ![](img:2.bp.blogspot.com/-v18oOLdv9SA/Ua4iEM5BiYI/AAAAAAAAYpo/DFGVd4MMJfM/s1600/dsc09021.picasaweb.jpg:a)
 ![](img:4.bp.blogspot.com/-e5EEVZMY2h4/Ua4iGXtXCdI/AAAAAAAAYpw/4aidcfsd6q0/s1600/dsc09024.picasaweb.jpg:a)
 ![](img:2.bp.blogspot.com/-2cfzCYURLYs/Ua4iICp-quI/AAAAAAAAYp4/bLCn72ByBZQ/s1600/dsc09025.picasaweb.jpg:a)
@@ -208,7 +208,7 @@ Cirque du Soleil:
 ![](img:4.bp.blogspot.com/-BNj8ULU-baA/Ua4jiQQRYeI/AAAAAAAAYxw/9nyO0Ujhm9s/s1600/dsc09117.picasaweb.jpg:a)
 ![](img:3.bp.blogspot.com/-oXJffJPKlo8/Ua4jj9K2FBI/AAAAAAAAYx4/1iIGDOzj8ho/s1600/dsc09118.picasaweb.jpg:a)
 
-Этот толстенный инструмент (гусары, молчать!) называется //диджериду//, но к диджеям не имеет совершенно никакого отношения. Чем-то напоминает альпийский рог [Шилклопера][post:183]:
+Этот толстенный инструмент (гусары, молчать!) называется {{< fl "диджериду" >}}, но к диджеям не имеет совершенно никакого отношения. Чем-то напоминает альпийский рог [Шилклопера][post:183]:
 ![](img:3.bp.blogspot.com/-0OiN1cwn5AQ/Ua4j08277-I/AAAAAAAAYzg/5zCnXH2WEpk/s1600/dsc09135.picasaweb.jpg:a)
 ![](img:3.bp.blogspot.com/--zEzdBV6YUs/Ua4j10QrabI/AAAAAAAAYzo/T_cj0RjzeZ8/s1600/dsc09136.picasaweb.jpg:a)
 ![](img:3.bp.blogspot.com/-GmbLDRYtMNw/Ua4j287kwvI/AAAAAAAAYzw/OUPTYZwGgeI/s1600/dsc09138.picasaweb.jpg:a)

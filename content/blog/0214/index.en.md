@@ -5,12 +5,12 @@ group: "Belgium. Ghent"
 tags: ["Belgium", "Ghent", "graffiti", "travel"]
 ---
 
-Last time I only briefly [mentioned][post:33] //Werregarenstraat//, the only street in the city where graffiti is officially allowed. It's barely visible from //Hoogpoort// it joins to:
+Last time I only briefly [mentioned][post:33] {{< fl "Werregarenstraat" >}}, the only street in the city where graffiti is officially allowed. It's barely visible from {{< fl "Hoogpoort" >}} it joins to:
 ![](img:1.bp.blogspot.com/-cc65Q2FxLmw/UtWFOf6QknI/AAAAAAAAbpc/a8OMqI3MTKM/s1600/dsc02797.picasaweb.jpg:a)
 
 <!--more-->
 
-This street is about a hundred metres along and two across, all covered with layered paitings by city inhabitants and visitors (I [posted][post:205] about //Ruiterskwartier//, a similar street in Leeuwarden).
+This street is about a hundred metres along and two across, all covered with layered paitings by city inhabitants and visitors (I [posted][post:205] about {{< fl "Ruiterskwartier" >}}, a similar street in Leeuwarden).
 ![](img:3.bp.blogspot.com/-NlQ-8cRRCj0/UtWFPPm46CI/AAAAAAAAbqY/VVDArZmsiQs/s1600/dsc02799.picasaweb.jpg:a)
 
 Right at the entrance are [Jip and Janneke][wiki:en:Jip_and_Janneke], characters from immensely popular books by Annie M. G. Schmidt (I wonder whether this is of Dutch or Belgian authorship):

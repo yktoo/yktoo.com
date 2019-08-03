@@ -4,7 +4,7 @@ title: "Leeuwarden"
 tags: ["graffiti", "Leeuwarden", "Netherlands", "tower"]
 ---
 
-I'd like to show you a bit of northern Dutch summer in our damp off-season. Last June we've visited the city of [Leeuwarden][wiki:en:Leeuwarden] (Frisian: //Ljouwert//), situated in the very north of Holland. It is the capital city of the Friesland province, which is famous for its language that makes very little sense to an average Dutch.
+I'd like to show you a bit of northern Dutch summer in our damp off-season. Last June we've visited the city of [Leeuwarden][wiki:en:Leeuwarden] (Frisian: {{< fl "Ljouwert" >}}), situated in the very north of Holland. It is the capital city of the Friesland province, which is famous for its language that makes very little sense to an average Dutch.
 
 <!--more-->
 
@@ -15,7 +15,7 @@ One of the most noteworthy places in Leeuwarden is the leaning tower of [Oldehov
 
 The tower is leaning more than the famous tower of Pisa. The cause was not discovered until recently, and it seems to be a very unfortunate coincidence.
 
-The history of the Frisian epic fail is as follows. When in 1435 the city of Leeuwarden was formed by a fusion of three villages, //Oldehove//, //Nijehove// and //Hoek//, the demand for a bigger church arose. On May 28, 1529 the city council has given a mandate to the architect //Jacob van Aaken// to build a new church and a tower on the territory of the former Oldehove village.
+The history of the Frisian epic fail is as follows. When in 1435 the city of Leeuwarden was formed by a fusion of three villages, {{< fl "Oldehove" >}}, {{< fl "Nijehove" >}} and {{< fl "Hoek" >}}, the demand for a bigger church arose. On May 28, 1529 the city council has given a mandate to the architect {{< fl "Jacob van Aaken" >}} to build a new church and a tower on the territory of the former Oldehove village.
 
 Van Aaken commenced the construction at once. For him it was a kind of experiment, since he had never dealt with clay Frisian soil before. The legend has it that he began with a deep pit, which was later filled with layers of limestone. Furthermore, he make some other precautions—for instance, the tower had a very wide pediment.
 
@@ -60,13 +60,13 @@ Apart from its ever-leaning tower, Leeuwarden is known as a birth place of the d
 
 ## The Big Church and the Jewish Monument {#big-church-jewish-monument}
 
-From secular concerns to spiritual again. The Big Church (//Grote Kerk// a.k.a. //Jacobijnerkerk//) was built in the end of XIII — beginning of XIV century:
+From secular concerns to spiritual again. The Big Church ({{< fl "Grote Kerk" >}} a.k.a. {{< fl "Jacobijnerkerk" >}}) was built in the end of XIII — beginning of XIV century:
 ![](img:1.bp.blogspot.com/-cQBa1d__g3U/UhoJk-3N8oI/AAAAAAAAZeI/5HH3FsRzZ08/s1600/dsc09759.picasaweb.jpg:a)
 
-Families of the Stadtholders (//stadhouders//) had the privilege of an own church gate, later named "The Orange Tree" (//De Oranjeboom//):
+Families of the Stadtholders ({{< fl "stadhouders" >}}) had the privilege of an own church gate, later named "The Orange Tree" ({{< fl "De Oranjeboom" >}}):
 ![](img:4.bp.blogspot.com/-11cCUc90ih4/UhoJiC0KcMI/AAAAAAAAZd4/UfgAGAppmEQ/s1600/dsc09757.picasaweb.jpg:a)
 
-Near by the church is //Jodenmonument//, the Jewish Monument, commemorating the Jews of Leeuwarden murdered by the nazis during the World War II.
+Near by the church is {{< fl "Jodenmonument" >}}, the Jewish Monument, commemorating the Jews of Leeuwarden murdered by the nazis during the World War II.
 ![](img:4.bp.blogspot.com/-qZvU0HwubLI/UhoJmENEM2I/AAAAAAAAZeQ/f00c-5bZX4k/s1600/dsc09760.picasaweb.jpg:a)
 
 The walls are inscribed with the names of the deceased (550 out of 655 were killed by nazis) and texts from various community's documents.
@@ -79,7 +79,7 @@ One of the oldest houses in the city named Keimpema Stins (1350) looks quite goo
 
 ## Boshuisen Almshouse {#boshuisen-almshouse}
 
-This building (//Het Boshuisengasthuis//) was built by the couple Anna and Philip van Boshuisen in 1651 for old single women, regardless of their religion. It looks much better than what I would imagine at the word "almshouse":
+This building ({{< fl "Het Boshuisengasthuis" >}}) was built by the couple Anna and Philip van Boshuisen in 1651 for old single women, regardless of their religion. It looks much better than what I would imagine at the word "almshouse":
 ![](img:1.bp.blogspot.com/-dzoqIk6Q9O0/UhoJsu0glpI/AAAAAAAAZe4/JoPmyXce6hg/s1600/dsc09765.picasaweb.jpg:a)
 
 Very clean and neat. There are quite a few pets.
@@ -92,7 +92,7 @@ Some of them are well-fed:
 
 ## Blokhuispoort {#blokhuispoort}
 
-This cheerful building (a group of buildings, actually) called //Blokhuispoort// was built in 1499 and then served as a prison for man convicted for five years and more:
+This cheerful building (a group of buildings, actually) called {{< fl "Blokhuispoort" >}} was built in 1499 and then served as a prison for man convicted for five years and more:
 ![](img:4.bp.blogspot.com/-PSnVroaI3P4/UhoJ6UqaGSI/AAAAAAAAZgw/xCzBTA3sxpc/s1600/dsc09787.picasaweb.jpg:a)
 
 It's a museum of 500 years of Frisian jail history. There's also an [online version](http://www.blokhuispoort.nl/) available.
@@ -109,7 +109,7 @@ I was very impressed by the powerful sound these chaps made in such an unstable 
 
 ## Graffiti in Ruiterskwartier {#graffiti}
 
-There's a whole block painted with graffiti—//Ruiterskwartier//.
+There's a whole block painted with graffiti—{{< fl "Ruiterskwartier" >}}.
 ![](img:4.bp.blogspot.com/-UMow_LmJHg8/UhoJ8PR2P6I/AAAAAAAAZhA/QX0dJVreKmM/s1600/dsc09791.picasaweb.jpg:a)
 
 And it's completely deserted. The most impressive things:
@@ -142,16 +142,16 @@ A funny painting on display:
 But this riddle cost me some effort to solve:
 ![](img:1.bp.blogspot.com/-O-9HPf6PsLI/UhoKIKGEefI/AAAAAAAAZiw/rL90K6vSDEM/s1600/dsc09805.picasaweb.jpg:a)
 
-> //'t Is avond in Siberië//
-> //En nergens is een leeuw//
+> {{< fl "'t Is avond in Siberië" >}}
+> {{< fl "En nergens is een leeuw" >}}
 
 Which translates as:
 > It's evening in Siberia,
 > And a lion is nowhere
 
-But some Dutch friends and Google helped me. It's a verse from a very long and old Dutch song called //Dodenrit// ("Suicidal Ride"). It's sung in 1974 by [Drs. P][wiki:nl:Drs._P] ([video](http://www.youtube.com/watch?v=rAaL1pO3qAw)), and it's a quite cynical, or black-humored, piece. It's a story of a family that rides a troika in the direction of the Siberian city of Omsk in a very cold winter. They are being chased by wolves, so they decide to dump their kids one-by-one to get rid of wolves. Yet the plan doesn't work out and the end is anything but happy.
+But some Dutch friends and Google helped me. It's a verse from a very long and old Dutch song called {{< fl "Dodenrit" >}} ("Suicidal Ride"). It's sung in 1974 by [Drs. P][wiki:nl:Drs._P] ([video](http://www.youtube.com/watch?v=rAaL1pO3qAw)), and it's a quite cynical, or black-humored, piece. It's a story of a family that rides a troika in the direction of the Siberian city of Omsk in a very cold winter. They are being chased by wolves, so they decide to dump their kids one-by-one to get rid of wolves. Yet the plan doesn't work out and the end is anything but happy.
 
-Now, the challenge was to find the missing link between the song and this pointer. As far as I could conclude, the idea is that "lion is nowhere", i.e. the name of the city is commonly wrongly associated with "lion" (//leeuw//), though in fact it's derived from the old Frisian //Lintarwde// and later //Liiewardensis//.
+Now, the challenge was to find the missing link between the song and this pointer. As far as I could conclude, the idea is that "lion is nowhere", i.e. the name of the city is commonly wrongly associated with "lion" ({{< fl "leeuw" >}}), though in fact it's derived from the old Frisian {{< fl "Lintarwde" >}} and later {{< fl "Liiewardensis" >}}.
 
 That's all folks. If you happen to be in the north here, do pay a visit to the sunny Leeuwarden.
 ![](img:3.bp.blogspot.com/-nSUhwWzrhCs/UhoKBVtTMXI/AAAAAAAAZhw/BLhGp0V2ngw/s1600/dsc09797.picasaweb.jpg:a)

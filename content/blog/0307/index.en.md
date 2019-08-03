@@ -6,7 +6,7 @@ tags: ["anniversary", "blog", "employment"]
 
 With all that fuss I have missed the important date of **20 years** of my professional experience, which happened on March 22, 2016.
 
-The following scan of the first page of my *Employment Book* (//Трудовая книжка//, an official register of one's work experience, which every employee in Russia is obliged to have) can prove that:
+The following scan of the first page of my *Employment Book* ({{< fl "Трудовая книжка" >}}, an official register of one's work experience, which every employee in Russia is obliged to have) can prove that:
 
 <!--more-->
 

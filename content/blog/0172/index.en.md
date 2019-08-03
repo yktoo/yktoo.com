@@ -4,9 +4,9 @@ title: "How to make a ham holder"
 tags: ["DIY", "ham holder", "IKEA", "jamon", "jamonera"]
 ---
 
-*This is a how-to for making a jamón holder (a.k.a. ham //stand// or //jamonera//) from IKEA household products.*
+*This is a how-to for making a jamón holder (a.k.a. ham {{< fl "stand" >}} or {{< fl "jamonera" >}}) from IKEA household products.*
 
-After all those //jamón// (Spanish dry-cured ham) stories by [Alex Exler](https://www.google.ru/search?q=хамон+site%3Aexler.ru) I've read, I felt an urge to give it a try. And one day I saw one in the local grocery store: //Villar Jamon Serrano Reserva//, weight ca. 7 kg for € 49.95. It is just advisable to get acquainted with jamón by tasting its cheapest varieties.
+After all those {{< fl "jamón" >}} (Spanish dry-cured ham) stories by [Alex Exler](https://www.google.ru/search?q=хамон+site%3Aexler.ru) I've read, I felt an urge to give it a try. And one day I saw one in the local grocery store: {{< fl "Villar Jamon Serrano Reserva" >}}, weight ca. 7 kg for € 49.95. It is just advisable to get acquainted with jamón by tasting its cheapest varieties.
 ![](img:3.bp.blogspot.com/-sXZ0MwSAUzU/UNoCy8DnlEI/AAAAAAAAWDo/IMsnb6DL1XA/s1600/dsc05945.picasaweb.jpg:a)
 
 <!--more-->

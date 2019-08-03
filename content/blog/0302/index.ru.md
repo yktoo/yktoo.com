@@ -4,7 +4,7 @@ title: "Две тысячи шестнадцатый — всё"
 tags: ["2016", "Yktoo Solutions", "веб", "итоги", "сайт"]
 ---
 
-Ну, вот и подошёл к концу довольно неспокойный две тысячи шестнадцатый. Год, в котором в мире случилось столько всего нехорошего. Год, когда [Sun Caged][post:283] и //Stream of Passion// прекратили существование. Так и хочется сказать — хорошо, что он всё-таки кончается!
+Ну, вот и подошёл к концу довольно неспокойный две тысячи шестнадцатый. Год, в котором в мире случилось столько всего нехорошего. Год, когда [Sun Caged][post:283] и {{< fl "Stream of Passion" >}} прекратили существование. Так и хочется сказать — хорошо, что он всё-таки кончается!
 
 <p class="text-center">
     <b>Поздравляю всех читателей моего блога с наступающим <big>2017</big> годом и желаю вам оптимизма, настойчивости, везения и хорошей погоды!</b>
@@ -38,16 +38,16 @@ tags: ["2016", "Yktoo Solutions", "веб", "итоги", "сайт"]
     * [Лондон][post:299]
     * Льеж (Бельгия)
     * Лилль (Франция) — откуда я и пишу этот пост
-* Построить первую версию «умного дома» на основе //Raspberry Pi//, //Z-Wave//, //Philips Hue// и //RFXtrx//.
+* Построить первую версию «умного дома» на основе {{< fl "Raspberry Pi" >}}, {{< fl "Z-Wave" >}}, {{< fl "Philips Hue" >}} и {{< fl "RFXtrx" >}}.
 * Соорудить [InfoPi][post:278] как часть этого умного дома.
 * Разобрать свой 75-дюймовый телевизор и [прикрутить к нему подсветку][post:280], ничего при этом не сломав.
 * Воочию увидеть:
-    * [Dream Theater][post:272] в //Carré//.
-    * [Sun Caged][post:283] и компанию в //De Bosuil//.
-    * //Plini//, //Intervals// и //Animals as Leaders// в //Patronaat//.
-    * //Stream of Passion// в //P60// — в последний раз.
-    * [Shadowrise и Myrath][post:296] в //Patronaat//.
-    * //Crisálida//, //Imperial Age//, //Voodoo Kungfu// и //Orphaned Land// в //Baroeg//.
+    * [Dream Theater][post:272] в {{< fl "Carré" >}}.
+    * [Sun Caged][post:283] и компанию в {{< fl "De Bosuil" >}}.
+    * {{< fl "Plini" >}}, {{< fl "Intervals" >}} и {{< fl "Animals as Leaders" >}} в {{< fl "Patronaat" >}}.
+    * {{< fl "Stream of Passion" >}} в {{< fl "P60" >}} — в последний раз.
+    * [Shadowrise и Myrath][post:296] в {{< fl "Patronaat" >}}.
+    * {{< fl "Crisálida" >}}, {{< fl "Imperial Age" >}}, {{< fl "Voodoo Kungfu" >}} и {{< fl "Orphaned Land" >}} в {{< fl "Baroeg" >}}.
     * [Моритеру Уэсибу][post:292], внука основателя айкидо.
 * Ну и, last but not least, наконец-то научиться складывать футболки, как на [этом видео](https://www.youtube.com/watch?v=iyqltFTug1I)!
 

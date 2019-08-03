@@ -54,6 +54,6 @@ Er werden een aantal lezingen over uiteenlopende onderwerpen gegeven: het bouwen
 
 In Nederland wordt boekhouding vaak uitbesteed aan een extern bedrijf; ook het gebruik van online boekhoudsoftware is vrij populair. Volgens een [onderzoek](https://infogr.am/2ee6f09c-e346-405f-b4c0-3d511d5d3ab7) besteedt **15%** van de zzp'ers de boekhouding volledig uit, doet **51%** dit met behulp van een boekhouder of accountant en doet slechts **34%** de boekhouding geheel zelfstandig. Daarnaast maakt bijna de helft van de ondernemers gebruik van online boekhoudsoftware. Dat betekent dat de concurrentie op deze markt heel groot is. Daarom organiseren boekhoudbureaus en accounting dienstverleners af en toe lezingen voor hun potentiële klanten, wat een goede mogelijkheid biedt om kennis op te doen en nieuwe dingen te leren.
 
-Er bestaan ook belangenbehartigende organisaties voor zzp'ers, die hulp en advies aan ondernemers bieden. Daarvan is [ZZP Nederland](https://www.zzp-nederland.nl/) met haar 40 duizend deelnemers (inclusief //Yktoo Solutions//) de grootste. Voor maar **€20** per jaar krijg je toegang tot helpdesk, modelcontracten, leveringsvoorwaarden enzovoorts.
+Er bestaan ook belangenbehartigende organisaties voor zzp'ers, die hulp en advies aan ondernemers bieden. Daarvan is [ZZP Nederland](https://www.zzp-nederland.nl/) met haar 40 duizend deelnemers (inclusief {{< fl "Yktoo Solutions" >}}) de grootste. Voor maar **€20** per jaar krijg je toegang tot helpdesk, modelcontracten, leveringsvoorwaarden enzovoorts.
 
 *Vervolg:* [Werken en werven][post:318]

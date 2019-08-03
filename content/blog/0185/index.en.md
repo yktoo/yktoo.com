@@ -20,12 +20,12 @@ The venue was our [Flehite](http://www.museumflehite.nl/) city museum. It happen
 But in the end it was decidedly worth it. For the first time in my life I witnessed a flamenco performance right before me.
 ![](img:3.bp.blogspot.com/-KFzgpbyXSdo/UZ0LVJpd_AI/AAAAAAAAYbc/DzB77sYMgYs/s1600/dsc08853.picasaweb.jpg:a)
 
-The singer's name is //Erminia Fernández Córdoba//. She was born in 1980 in Argentina (La Plata) and grew up in Spain (Alicante). Last 15 years she has been living in Holland and is nowadays a singer in genres jazz, pop, South-African and flamenco.
+The singer's name is {{< fl "Erminia Fernández Córdoba" >}}. She was born in 1980 in Argentina (La Plata) and grew up in Spain (Alicante). Last 15 years she has been living in Holland and is nowadays a singer in genres jazz, pop, South-African and flamenco.
 ![](img:1.bp.blogspot.com/-S268gCvZyA0/UZ0LaGEJl6I/AAAAAAAAYb0/IEaZ40D4vKU/s1600/dsc08863.picasaweb.jpg:a)
 
 Her husband [Arturo Ramón](http://www.arturoramon.com/) was born in 1981 in The Hague (Holland) from a Dutch father and a Spanish mother. He performs quite often and has recorded a number of CDs.
 
-The pianist is a Dutch guy called //Thijs Borsten//, very bright and expressive. I liked his play a lot and will keep an eye on him for the future.
+The pianist is a Dutch guy called {{< fl "Thijs Borsten" >}}, very bright and expressive. I liked his play a lot and will keep an eye on him for the future.
 ![](img:4.bp.blogspot.com/-QJo0W8ob7r8/UZ0LYQFIlnI/AAAAAAAAYbs/V0cO9J1cD_s/s1600/dsc08861.picasaweb.jpg:a)
 
 Here's one of the videos I've taken at the concert:
@@ -60,7 +60,7 @@ As for me, she's got a strong voice indeed. [Here's a video](http://www.youtube.
 
 ## Ruud Jacobs Tribute Band {#ruud-jacobs}
 
-It's a band formed on //Ruud Jacobs'// 75<sup>th</sup> birthday. Ruud plays contrabass, and I also recognised a couple of faces I know from a [concert at De Observant][post:125] — guitarist //Martijn van Iterson// (as indifferent as ever) and drummer //Gijs Dijkhuizen//:
+It's a band formed on {{< fl "Ruud Jacobs'" >}} 75<sup>th</sup> birthday. Ruud plays contrabass, and I also recognised a couple of faces I know from a [concert at De Observant][post:125] — guitarist {{< fl "Martijn van Iterson" >}} (as indifferent as ever) and drummer {{< fl "Gijs Dijkhuizen" >}}:
 ![](youtube:2wkPAA41OdU)
 
 ## International Jazz Summit {#international-jazz-summit}
@@ -75,7 +75,7 @@ Left to right, armed by saxes:
 * Already [known][post:134] Ben van den Dungen;
 * And, last but not least, the Director (also pictured on the very first photo), also [known][post:125] Alexander Beets.
 
-The four were rocking the place to the top—the last show, you know. The Lieve Vrouwekerkhof was stuffed with cheering and dancing people. Here's one of their videos called //Watermelon Man//:
+The four were rocking the place to the top—the last show, you know. The Lieve Vrouwekerkhof was stuffed with cheering and dancing people. Here's one of their videos called {{< fl "Watermelon Man" >}}:
 ![](youtube:tL4l7k3-NRY)
 
 Here are all their videos:

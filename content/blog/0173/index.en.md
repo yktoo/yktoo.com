@@ -6,14 +6,14 @@ tags: ["Amersfoort", "Lucas Bolsius", "Netherlands"]
 
 In November last year we and Amersfoort were officially introduced to each other.
 
-The event is held once a year for all newcomers to the city. Its name //Amersfoort Aangenaam//, literally translated as "Pleasant Amersfoort," is a standard expression used for introducing someone. The invitation was on the name of my girlfried as I'm no newcomer anymore.
+The event is held once a year for all newcomers to the city. Its name {{< fl "Amersfoort Aangenaam" >}}, literally translated as "Pleasant Amersfoort," is a standard expression used for introducing someone. The invitation was on the name of my girlfried as I'm no newcomer anymore.
 
 <!--more-->
 
 The reception was held in the local city hall. Everyone was given a tiny, five millimetre wide pin depicting the city's emblem, a [bull](http://www.onzestier.nl/):
 ![](img:2.bp.blogspot.com/-3MsZzhq6_1o/UN8vKhTmYrI/AAAAAAAAWGc/ZfXjjqG5mdQ/s1600/dsc05884.picasaweb.jpg:a)
 
-After that we were taken into a large hall where the city council (//College van B en W//) holds their sessions and stuff. There were a total of about a hundred and fifty souls. On every chair in the hall there lay a baseball cap with a strange inscription //Maak van vuurwerk geen afknapper!// (which translates as something like "Don't turn firework into a letdown") and a picture of a guy carrying a Christmas tree to throw it into the fire (that refers to the tradition of burning Christmas trees in a huge bonfire on December 31). It turned out later the cap lay there for a purpose.
+After that we were taken into a large hall where the city council ({{< fl "College van B en W" >}}) holds their sessions and stuff. There were a total of about a hundred and fifty souls. On every chair in the hall there lay a baseball cap with a strange inscription {{< fl "Maak van vuurwerk geen afknapper!" >}} (which translates as something like "Don't turn firework into a letdown") and a picture of a guy carrying a Christmas tree to throw it into the fire (that refers to the tradition of burning Christmas trees in a huge bonfire on December 31). It turned out later the cap lay there for a purpose.
 ![](img:1.bp.blogspot.com/-wZR28baE58Y/UN8vIw7ogkI/AAAAAAAAWGY/xUpUXQQiKas/s1600/dsc05882.picasaweb.jpg:a)
 
 Our mayor [Lucas Bolsius][wiki:en:Lucas_Bolsius] (a namesake of the Dutch [candle maker](http://www.bolsius.com/)) stepped up to make a looong introduction of city council members.

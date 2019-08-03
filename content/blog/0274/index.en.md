@@ -15,11 +15,11 @@ As I [mentioned][post:266], the event was to happen on March 28, on the second d
 
 But the time runs fast and so do we. At the beginning of this year I decided to run fifteen kilometres instead of the usual ten, and that proved to be not as hard as it seemed. On the contrary, the further you run, the more you like it. Pretty addictive it is.
 
-But then new difficulties arose: I had to find new routes as the [former ones][post:266] did not fit the bill. The 15 km track could still be run at my favourite alongside the //Amsterdam-Rijnkanaal//, but on a twenty-kilometre one I ended up in the centre of the nearby town of //Nieuwegein//, which I didn't find appealing. I strongly prefer uninhabited areas, free of people, cars and dogs. Long story short, I'm still looking for a perfect running route.
+But then new difficulties arose: I had to find new routes as the [former ones][post:266] did not fit the bill. The 15 km track could still be run at my favourite alongside the {{< fl "Amsterdam-Rijnkanaal" >}}, but on a twenty-kilometre one I ended up in the centre of the nearby town of {{< fl "Nieuwegein" >}}, which I didn't find appealing. I strongly prefer uninhabited areas, free of people, cars and dogs. Long story short, I'm still looking for a perfect running route.
 
 Back to the half marathon, we've had there difficulties too.
 
-**Firstly**, traffic jams. Even though various distances started at different times, the event seemed to be more popular this time, and the country roads around //Haarzuilens// could hardly accommodate the traffic. Furthermore, many of the town's streets were closed just because of the run. Luckily, we had plenty of time so it wasn't really an issue.
+**Firstly**, traffic jams. Even though various distances started at different times, the event seemed to be more popular this time, and the country roads around {{< fl "Haarzuilens" >}} could hardly accommodate the traffic. Furthermore, many of the town's streets were closed just because of the run. Luckily, we had plenty of time so it wasn't really an issue.
 
 **Secondly**, parking. The parking lot was a huge grass-field that could fit perhaps ten times as many cars. But it had rained in the morning so the soil's got quite damp here and there. As soon as we drove off the driveway paved with metal sheets, the front wheels got completely stuck, whereas the rear bumper was still protruding on the road. Pushing the car turned out quite futile so I asked the traffic guy for help. He told me to stop worrying and go for my run, as we'd take care of it afterwards. Stopping worrying isn't that easy when you know your rear bumper is blocking half of the driveway.
 
@@ -36,9 +36,9 @@ If you forget the wind, the day was very bright and fairly warm.
 According to the [Wikipedia][wiki:en:Beaufort_scale], winds of 7 Beaufort cause waves up to 5.5 metres high. Luckily, not in this little pond as they would have washed us all away.
 ![](img:2.bp.blogspot.com/-72kmF251LS0/VwFy2wBMsYI/AAAAAAAAlyM/QwnSfpCIsyg0j2jEobnK1TTcWz889-7EQ/s1600/20160328_141704.picasaweb.jpg:a "Photographed on the run.")
 
-It becomes much easier to run once the runners spread along the road. As always, lots of spectators watched at the roadside and gave the runners pep-talk. Once a woman shouted //"Kom op Dmitry, doorzetten!"// ("Come on Dmitry, press ahead!"). I stared at her in a momentary astonishment, trying to remember who she was, until I realised I had my name printed on the number.
+It becomes much easier to run once the runners spread along the road. As always, lots of spectators watched at the roadside and gave the runners pep-talk. Once a woman shouted {{< fl "\"Kom op Dmitry, doorzetten!\"" >}} ("Come on Dmitry, press ahead!"). I stared at her in a momentary astonishment, trying to remember who she was, until I realised I had my name printed on the number.
 
-At another spot I overheard a man, disappointed at the lack of response from the running lot, saying to his neighbour //"Een beetje autistisch gedrag, maar goed"// ("A bit autistic behaviour, but okay").
+At another spot I overheard a man, disappointed at the lack of response from the running lot, saying to his neighbour {{< fl "\"Een beetje autistisch gedrag, maar goed\"" >}} ("A bit autistic behaviour, but okay").
 
 The route consisted of two almost identical laps of about 10 km, leading around the gardens of the [De Haar castle][post:12].
 ![](img:4.bp.blogspot.com/-4zRsSePQ0oY/Vwe_9rmo0nI/AAAAAAAAlz4/NFjo9klZGIEehUpwX5b0xjAepXviGcA_w/s1600/de-halve-van-de-haar-parcour.png:a "The track of the half marathon.")

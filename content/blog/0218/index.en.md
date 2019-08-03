@@ -16,12 +16,12 @@ So I found out, for instance, that the indicator is also popular with old Ubuntu
 * An autostart shortcut is added during the installation so that the indicator starts automatically after logon.
 * All the existing functionality was backported to GTK+2 (a separate [branch](https://github.com/yktoo/indicator-sound-switcher/tree/gtk2) for it was created). Thanks to that the following Ubuntu versions are supported:
   * GTK+ version 2:
-      * **12.04** LTS (//Precise Pangolin//)
-      * **12.10** (//Quantal Quetzal//)
-      * **13.04** (//Raring Ringtail//)
+      * **12.04** LTS ({{< fl "Precise Pangolin" >}})
+      * **12.10** ({{< fl "Quantal Quetzal" >}})
+      * **13.04** ({{< fl "Raring Ringtail" >}})
   * GTK+ version 3:
-      * **13.10** (//Saucy Salamander//)
-      * **14.04** LTS (//Trusty Tahr//) — tested in Trusty Alpha 2.
+      * **13.10** ({{< fl "Saucy Salamander" >}})
+      * **14.04** LTS ({{< fl "Trusty Tahr" >}}) — tested in Trusty Alpha 2.
 * A default program icon has been added. It will be picked up in the case a non-standard desktop theme is used. I've turned up the contrast a little bit to make it work with both light and dark themes:
   ![](img:1.bp.blogspot.com/-p_jKIQD-wJ4/UvZeMTHsmYI/AAAAAAAAb1g/DYm853qnCjw/s1600/indicator-sound-switcher.png)
 

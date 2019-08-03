@@ -12,7 +12,7 @@ I couldn't take it anymore so I created an audio input/output switcher indicator
 
 I've been trying to find one just as long as I've been using Ubuntu and Unity. It had to be an [application indicator](http://unity.ubuntu.com/projects/appindicators/) that would allow for easy switching of the default sound device. There's plenty of indicators for Unity already, including some pretty useless stuff, and yet no such a basic thing as sound selector available. Therefore one has to start the Sound applet, wait for it to open, choose the right tab and then select the required input or output device. Most often I used it to redirect audio to my [Logitech Bluetooth adapter][post:141] to listen to music via decent speakers.
 
-At last I decided to write such an indicator myself, so I began to read up on app indicators. It turned out creating a Unity indicator is pretty simple, especially with Python. So I made the very first prototype that used the `pacmd` command to switch output device (//sink//) and parsed its output to build device list.
+At last I decided to write such an indicator myself, so I began to read up on app indicators. It turned out creating a Unity indicator is pretty simple, especially with Python. So I made the very first prototype that used the `pacmd` command to switch output device ({{< fl "sink" >}}) and parsed its output to build device list.
 
 It was a hundred line Python script, and it worked, but had a number of flaws. Device list wouldn't update automatically, and changing the default defice elsewhere didn't reflect in indicator's menu either. Furthermore, it depended on `pulseaudio-utils`.
 

@@ -24,33 +24,33 @@ So, a total of **9000** tickets was done with in [less than 48 hours](https://ww
 
 ## Why the fuss? {#lineup}
 
-Apart from //Ayreon// being legendary, the line-up is very impressive (the links below lead to corresponding tags in my blog):
+Apart from {{< fl "Ayreon" >}} being legendary, the line-up is very impressive (the links below lead to corresponding tags in my blog):
 
 * **Vocalists**
     * [Floor Jansen][route:/blog/tag,tag:Floor Jansen] ([Nightwish][route:/blog/tag,tag:Nightwish])
-    * //Russell Allen// (//Symphony X//)
-    * [Damian Wilson][route:/blog/tag,tag:Damian Wilson] (//Threshold//)
-    * //Hansi Kürsch// (//Blind Guardian//)
-    * //Tommy Karevik// (//Kamelot//)
+    * {{< fl "Russell Allen" >}} ({{< fl "Symphony X" >}})
+    * [Damian Wilson][route:/blog/tag,tag:Damian Wilson] ({{< fl "Threshold" >}})
+    * {{< fl "Hansi Kürsch" >}} ({{< fl "Blind Guardian" >}})
+    * {{< fl "Tommy Karevik" >}} ({{< fl "Kamelot" >}})
     * [Anneke van Giersbergen][route:/blog/tag,tag:Anneke van Giersbergen] ([The Gentle Storm][route:/blog/tag,tag:The Gentle Storm])
-    * //Marco Hietala// ([Nightwish][route:/blog/tag,tag:Nightwish])
-    * //Jonas Renkse// (//Katatonia//)
-    * //Mike Mills// (//Toehider//)
+    * {{< fl "Marco Hietala" >}} ([Nightwish][route:/blog/tag,tag:Nightwish])
+    * {{< fl "Jonas Renkse" >}} ({{< fl "Katatonia" >}})
+    * {{< fl "Mike Mills" >}} ({{< fl "Toehider" >}})
     * [Marcela Bovio][route:/blog/tag,tag:Marcela Bovio] ([Stream of Passion][route:/blog/tag,tag:Stream of Passion])
-    * //Irene Jansen// (//Ayreon//)
-    * //Robert Soeterboek// (//Star One//)
-    * //Edward Reekers// (//Kayak//)
-    * //Jan van Feggelen// (//Ayreon//)
-    * //Magali Luyten// (//Nightmare//)
-    * [Lisette van den Berg][route:/blog/tag,tag:Lisette van den Berg] (//Scarlet Stories//)
+    * {{< fl "Irene Jansen" >}} ({{< fl "Ayreon" >}})
+    * {{< fl "Robert Soeterboek" >}} ({{< fl "Star One" >}})
+    * {{< fl "Edward Reekers" >}} ({{< fl "Kayak" >}})
+    * {{< fl "Jan van Feggelen" >}} ({{< fl "Ayreon" >}})
+    * {{< fl "Magali Luyten" >}} ({{< fl "Nightmare" >}})
+    * [Lisette van den Berg][route:/blog/tag,tag:Lisette van den Berg] ({{< fl "Scarlet Stories" >}})
 * **Instrumentalists**
-    * //Ed Warby// ([The Gentle Storm][route:/blog/tag,tag:The Gentle Storm]) — drums
-    * //Johan van Stratum// ([Stream of Passion][route:/blog/tag,tag:Stream of Passion]) — bass
+    * {{< fl "Ed Warby" >}} ([The Gentle Storm][route:/blog/tag,tag:The Gentle Storm]) — drums
+    * {{< fl "Johan van Stratum" >}} ([Stream of Passion][route:/blog/tag,tag:Stream of Passion]) — bass
     * [Marcel Coenen][route:/blog/tag,tag:Marcel Coenen] ([Sun Caged][route:/blog/tag,tag:Sun Caged]) — lead guitar
-    * //Ferry Duijsens// ([The Gentle Storm][route:/blog/tag,tag:The Gentle Storm]) — guitar
-    * //Joost van den Broek// — keyboards
-    * [Ben Mathot][route:/blog/tag,tag:Ben Mathot] (//Ayreon//) — violin
-    * //Jeroen Goossens// — flutes, woodwinds
-    * //Maaike Peterse// ([Kingfisher Sky][route:/blog/tag,tag:Kingfisher Sky]) — cello
+    * {{< fl "Ferry Duijsens" >}} ([The Gentle Storm][route:/blog/tag,tag:The Gentle Storm]) — guitar
+    * {{< fl "Joost van den Broek" >}} — keyboards
+    * [Ben Mathot][route:/blog/tag,tag:Ben Mathot] ({{< fl "Ayreon" >}}) — violin
+    * {{< fl "Jeroen Goossens" >}} — flutes, woodwinds
+    * {{< fl "Maaike Peterse" >}} ([Kingfisher Sky][route:/blog/tag,tag:Kingfisher Sky]) — cello
 
-This line-up is subject to change over the remaining time. The project also features an interesting [FAQ](http://www.arjenlucassen.com/universe/faq/) about //Ayreon Universe// concerts. All I need now is a bit of patience for the coming ten months…
+This line-up is subject to change over the remaining time. The project also features an interesting [FAQ](http://www.arjenlucassen.com/universe/faq/) about {{< fl "Ayreon Universe" >}} concerts. All I need now is a bit of patience for the coming ten months…

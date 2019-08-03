@@ -24,7 +24,7 @@ tags: ["Amorphis", "Arch Enemy", "Floor Jansen", "Heineken Music Hall", "Nightwi
 
 ## Amorphis {#amorphis}
 
-Большинство зрителей, едва оказавшись внутри, опрометью бросались к сцене — оно и понятно, иначе ради чего было столько торчать под дождём. Но благодаря тому, что зал в //Heineken Music Hall// довольно большой, места хватало, и мы заполучили местечко в третьем «стоячем ряду».
+Большинство зрителей, едва оказавшись внутри, опрометью бросались к сцене — оно и понятно, иначе ради чего было столько торчать под дождём. Но благодаря тому, что зал в {{< fl "Heineken Music Hall" >}} довольно большой, места хватало, и мы заполучили местечко в третьем «стоячем ряду».
 ![](img:3.bp.blogspot.com/-4dP_DW-FXgw/VlMnH3UO7YI/AAAAAAAAkwE/poUuCmeN8F4/s1600/dsc01104.picasaweb.jpg:a "Перед выступлением Amorphis.")
 
 [Amorphis][wiki:ru:Amorphis], финны по происхождению, ведут свои историю ещё с донайтвишевских времён, с 1990 года. Жанр музыки: Progressive/Melodic Death Metal.
@@ -34,21 +34,21 @@ tags: ["Amorphis", "Arch Enemy", "Floor Jansen", "Heineken Music Hall", "Nightwi
 
 Таким ухватистым он сделан, видимо, для того, чтобы его не сдувало мощным вокалом Томи. Для того же нужны и перчатки — я тоже их использую, когда со штангой работаю.
 
-В глубине сцены, за вокалистом, притаился клавишник //Santeri Kallio// (я его на концерте даже не сразу заметил), а вдали — один из основателей группы соло-гитарист [Esa Holopainen][wiki:en:Esa_Holopainen]:
+В глубине сцены, за вокалистом, притаился клавишник {{< fl "Santeri Kallio" >}} (я его на концерте даже не сразу заметил), а вдали — один из основателей группы соло-гитарист [Esa Holopainen][wiki:en:Esa_Holopainen]:
 ![](img:4.bp.blogspot.com/-LlSo7SxccxA/VlMnH8ToFAI/AAAAAAAAkwE/emYvye95AP4/s1600/dsc01106.picasaweb.jpg:a "Amorphis: Santeri Kallio, Tomi Joutsen, Esa Holopainen.")
 
-Басист //Niclas Etelävuori// и ударник //Jan Rechberger//:
+Басист {{< fl "Niclas Etelävuori" >}} и ударник {{< fl "Jan Rechberger" >}}:
 ![](img:4.bp.blogspot.com/-TzTQ6Q5LxTE/VlMnH6L5CkI/AAAAAAAAkwE/52tK-Rkfb3A/s1600/dsc01108.picasaweb.jpg:a "Amorphis: Niclas Etelävuori и Jan Rechberger.")
 
 Слева неприметно расположился ещё один ветеран, ритм-гитарист [Tomi Koivusaari][wiki:en:Tomi_Koivusaari], играющий в команде со дня её основания:
 ![](img:2.bp.blogspot.com/-9PWUgFUy848/VlMnH2N6BGI/AAAAAAAAkwE/MAHrWht58lc/s1600/dsc01105.picasaweb.jpg:a "Amorphis: Tomi Koivusaari, Niclas Etelävuori, Jan Rechberger.")
 
-Видео одной из песен, //Sacrifice//:
+Видео одной из песен, {{< fl "Sacrifice" >}}:
 ![](youtube:2yYWjWq0yy4)
 
 ## Arch Enemy {#archenemy}
 
-Шведская команда [Arch Enemy][wiki:ru:Arch_Enemy], ровесники хедлайнеров, — намного более известны нежели //Amorphis//. А также заметно тяжелее и эпатажнее.
+Шведская команда [Arch Enemy][wiki:ru:Arch_Enemy], ровесники хедлайнеров, — намного более известны нежели {{< fl "Amorphis" >}}. А также заметно тяжелее и эпатажнее.
 
 Главная фишка группы — это девочка-с-голубыми-волосами, канадка [Alissa White-Gluz][wiki:ru:Уайт-Глаз,_Алисса] на вокале.
 ![](img:1.bp.blogspot.com/-By8SwUSzyz0/VlMnH-Fv5rI/AAAAAAAAkwE/JW3VOCdH6Mw/s1600/dsc01128.picasaweb.jpg:a "Arch Enemy: Michael Amott и Alissa White-Gluz.")
@@ -59,7 +59,7 @@ tags: ["Amorphis", "Arch Enemy", "Floor Jansen", "Heineken Music Hall", "Nightwi
 Голубые волосы используются по прямому назначению:
 ![](img:2.bp.blogspot.com/-KGLuQcI0puA/VlMnH-Dn8QI/AAAAAAAAkwE/lbNiShC9t0k/s1600/dsc01157.picasaweb.jpg:a "Arch Enemy: Класс хэдбэнгинга от Alissa White-Gluz.")
 
-Официально *шведская* группа состоит из канадской вокалистки (в свободное от хэдбэнгинга время марширующей по сцене с флагом //Arch Enemy//) и американцев-гитаристов [Michael Amott][wiki:ru:Эмотт,_Майкл] и [Jeff Loomis][wiki:ru:Лумис,_Джефф]:
+Официально *шведская* группа состоит из канадской вокалистки (в свободное от хэдбэнгинга время марширующей по сцене с флагом {{< fl "Arch Enemy" >}}) и американцев-гитаристов [Michael Amott][wiki:ru:Эмотт,_Майкл] и [Jeff Loomis][wiki:ru:Лумис,_Джефф]:
 ![](img:3.bp.blogspot.com/-w_e3fC1q2_Q/VlMnH4n2CYI/AAAAAAAAkwE/QQDL0jAi8Dg/s1600/dsc01179.picasaweb.jpg:a "Arch Enemy: Michael Amott, Jeff Loomis и девушка с флагом.")
 
 Шведов же в тусовке только два: басист [Sharlee D'Angelo][wiki:ru:Шарли_Д’Анджело] и ударник [Daniel Erlandsson][wiki:ru:Эрландссон,_Даниэль].
@@ -68,7 +68,7 @@ tags: ["Amorphis", "Arch Enemy", "Floor Jansen", "Heineken Music Hall", "Nightwi
 У Эмотта постоянно такой вид, как будто он либо под кайфом (что не исключено), либо жмёт струну из последних сил.
 ![](img:1.bp.blogspot.com/-9EOSkaE_r90/VlMnHw5GdcI/AAAAAAAAkwE/me9EoyLE5YM/s1600/dsc01161.picasaweb.jpg:a "Arch Enemy: Michael Amott, в глубине затаился ударник Daniel Erlandsson.")
 
-Помимо цвета волос и вокала, Алиса Уайт-Глаз также отличается любовью к глаголу //fuck// и его производным, которые в её речи встречаются после каждого второго слова.
+Помимо цвета волос и вокала, Алиса Уайт-Глаз также отличается любовью к глаголу {{< fl "fuck" >}} и его производным, которые в её речи встречаются после каждого второго слова.
 ![](img:3.bp.blogspot.com/-UNBhFr-Z4gA/VlMnH_ZLQgI/AAAAAAAAkwE/hNv5VJQBkFE/s1600/dsc01167.picasaweb.jpg:a "F***ing Alissa White-Gluz!")
 
 Команда отыграла программу минут за пятьдесят, после чего традиционный выход на поклон и селфи с залом.
@@ -79,7 +79,7 @@ tags: ["Amorphis", "Arch Enemy", "Floor Jansen", "Heineken Music Hall", "Nightwi
 
 ## Nightwish {#nightwish}
 
-Сразу после ухода //Arch Enemy// опустили занавес, за которым начались серьёзные приготовления к выступлению хедлайнеров, финской команды [Nightwish][wiki:ru:Nightwish], снискавшей за прошедшие с её основания девятнадцать лет статус легенды симфо-металла. Зал к этому моменту был забит чуть менее, чем полностью.
+Сразу после ухода {{< fl "Arch Enemy" >}} опустили занавес, за которым начались серьёзные приготовления к выступлению хедлайнеров, финской команды [Nightwish][wiki:ru:Nightwish], снискавшей за прошедшие с её основания девятнадцать лет статус легенды симфо-металла. Зал к этому моменту был забит чуть менее, чем полностью.
 
 ![](img:1.bp.blogspot.com/-wXTM96gGX0w/VlMnH9P50_I/AAAAAAAAkwE/eEi0c6d5fls/s1600/dsc01460.picasaweb.jpg:a "Выступление Nightwish: мы где-то там, вдали, у самой сцены.")
 
@@ -109,13 +109,13 @@ tags: ["Amorphis", "Arch Enemy", "Floor Jansen", "Heineken Music Hall", "Nightwi
 ![](img:2.bp.blogspot.com/-VlVJ2ZHQPas/VlMnH54O-lI/AAAAAAAAkwM/Wrwn4JOzb4o/s1600/dsc01327.picasaweb.jpg:a "Nightwish: Floor Jansen и Emppu Vuorinen.")
 ![](img:4.bp.blogspot.com/-cv6C8sgle5g/VlMnH-v8U4I/AAAAAAAAkwE/20onVWQeWeE/s1600/dsc01336.picasaweb.jpg:a "Nightwish: Floor Jansen.")
 
-Держащийся неприметно самый старший участник группы (51 год), британец [Troy Donockley][wiki:ru:Донокли,_Трой], за свою тридцатипятилетнюю карьеру переигравший с огромным количеством групп и музыкантов (включая и //Ayreon// [Арьена Лукассена][post:250]):
+Держащийся неприметно самый старший участник группы (51 год), британец [Troy Donockley][wiki:ru:Донокли,_Трой], за свою тридцатипятилетнюю карьеру переигравший с огромным количеством групп и музыкантов (включая и {{< fl "Ayreon" >}} [Арьена Лукассена][post:250]):
 ![](img:3.bp.blogspot.com/-SSfZZOgreyk/VlMnH5_8yDI/AAAAAAAAkwM/PFqh1gnCm4Y/s1600/dsc01319.picasaweb.jpg:a "Nightwish: Troy Donockley.")
 
-Более всего он известен своей игрой на ирландской волынке, которая изумительно сочетается со звучанием //Nightwish//.
+Более всего он известен своей игрой на ирландской волынке, которая изумительно сочетается со звучанием {{< fl "Nightwish" >}}.
 ![](img:4.bp.blogspot.com/-N2C9MsELnuE/VlMnH58v5VI/AAAAAAAAkwE/MkKcp9G1AYk/s1600/dsc01294.picasaweb.jpg:a "Nightwish: Floor Jansen и волынщик Troy Donockley.")
 
-Вот, например, //I Want My Tears Back// с его соло:
+Вот, например, {{< fl "I Want My Tears Back" >}} с его соло:
 ![](youtube:jtFw5HVMP0U)
 
 И, как говорится, *last but not least*: ударник [Kai Hahto][wiki:en:Kai_Hahto] — мне очень понравилось, как он работал.
@@ -142,19 +142,19 @@ tags: ["Amorphis", "Arch Enemy", "Floor Jansen", "Heineken Music Hall", "Nightwi
 В общем, шоу вышло совершенно *фейеричным*.
 ![](img:4.bp.blogspot.com/-lnLnb0RoZQM/VlMnHyVNTFI/AAAAAAAAkwE/Dw-57D7Wq2g/s1600/dsc01310.picasaweb.jpg:a "Nightwish: Tuomas Holopainen.")
 
-Закончили найтвишевцы композицией //The Greatest Show On Earth// (которая длится около 24 минут). Зал бился в истерике…
+Закончили найтвишевцы композицией {{< fl "The Greatest Show On Earth" >}} (которая длится около 24 минут). Зал бился в истерике…
 ![](img:4.bp.blogspot.com/-bfIboaxIz04/VlMnH-QFWHI/AAAAAAAAkwM/U7ft6YJWWws/s1600/dsc01435.picasaweb.jpg:a "Nightwish: The Greatest Show On Earth.")
 
 Первую её часть я записал на видео:
 ![](youtube:pj-Jk7-ATEQ)
 
-Ещё несколько фото с выступления //Nightwish//:
+Ещё несколько фото с выступления {{< fl "Nightwish" >}}:
 ![](img:2.bp.blogspot.com/-1vEW79pH8Wo/VlMnH-BSJzI/AAAAAAAAkwE/Uv_kfg5eUx0/s1600/dsc01273.picasaweb.jpg:a "Nightwish: Floor Jansen.")
 ![](img:3.bp.blogspot.com/-ukATX3Eu8ww/VlMnH34RRmI/AAAAAAAAkwE/3fERBe8yiU0/s1600/dsc01304.picasaweb.jpg:a "Nightwish: Marco Hietala.")
 ![](img:4.bp.blogspot.com/-2CzVFGosA8M/VlMnH4okjnI/AAAAAAAAkwE/r54_nZtqeGA/s1600/dsc01282.picasaweb.jpg:a "Nightwish: Floor Jansen.")
 ![](img:4.bp.blogspot.com/-LbiiWcf9dUU/VlMnH8U8pfI/AAAAAAAAkwM/iq574XfDYyY/s1600/dsc01340.picasaweb.jpg:a "Nightwish: Floor Jansen.")
 
-Кстати, для Флоор это было первое (!) выступление с //Nightwish// у себя на родине в Голландии. Она даже расстрогалась.
+Кстати, для Флоор это было первое (!) выступление с {{< fl "Nightwish" >}} у себя на родине в Голландии. Она даже расстрогалась.
 ![](img:3.bp.blogspot.com/-kZ6n87SXOEw/VlMnH92hDJI/AAAAAAAAkwE/uR12IAp5g0M/s1600/dsc01357.picasaweb.jpg:a "Nightwish: Floor Jansen.")
 ![](img:1.bp.blogspot.com/-stnt1eOf5FU/VlMnH220KHI/AAAAAAAAkwM/Y3xr514g_kk/s1600/dsc01365.picasaweb.jpg:a "Nightwish: этюд в синих тонах.")
 ![](img:4.bp.blogspot.com/-dmZj8TGV-yM/VlMnH0OOQwI/AAAAAAAAkwE/1eg-0us1Y_w/s1600/dsc01377.picasaweb.jpg:a "Nightwish.")

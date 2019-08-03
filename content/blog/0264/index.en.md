@@ -34,21 +34,21 @@ The vocalist [Tomi Joutsen][wiki:en:Tomi_Joutsen] is fronting the band since 200
 
 A good grip is apparently important to keep the mike stable under Tomi's powerful vocal. The same goes for the gloves, I'm using them too when lifting weights.
 
-The keyboardist //Santeri Kallio// is hiding somewhere at the back (I didn't even spot him for a while), and further to the right you can see one of the founders of the band the lead guitarist [Esa Holopainen][wiki:en:Esa_Holopainen]:
+The keyboardist {{< fl "Santeri Kallio" >}} is hiding somewhere at the back (I didn't even spot him for a while), and further to the right you can see one of the founders of the band the lead guitarist [Esa Holopainen][wiki:en:Esa_Holopainen]:
 ![](img:4.bp.blogspot.com/-LlSo7SxccxA/VlMnH8ToFAI/AAAAAAAAkwE/emYvye95AP4/s1600/dsc01106.picasaweb.jpg:a "Amorphis: Santeri Kallio, Tomi Joutsen, Esa Holopainen.")
 
-//Niclas Etelävuori// on the bass and the drummer //Jan Rechberger//:
+{{< fl "Niclas Etelävuori" >}} on the bass and the drummer {{< fl "Jan Rechberger" >}}:
 ![](img:4.bp.blogspot.com/-TzTQ6Q5LxTE/VlMnH6L5CkI/AAAAAAAAkwE/52tK-Rkfb3A/s1600/dsc01108.picasaweb.jpg:a "Amorphis: Niclas Etelävuori & Jan Rechberger.")
 
 On the left there's another veteran, [Tomi Koivusaari][wiki:en:Tomi_Koivusaari], playing the rhythm guitar since the band's first day:
 ![](img:2.bp.blogspot.com/-9PWUgFUy848/VlMnH2N6BGI/AAAAAAAAkwE/MAHrWht58lc/s1600/dsc01105.picasaweb.jpg:a "Amorphis: Tomi Koivusaari, Niclas Etelävuori, Jan Rechberger.")
 
-Below is a video of //Sacrifice//:
+Below is a video of {{< fl "Sacrifice" >}}:
 ![](youtube:2yYWjWq0yy4)
 
 ## Arch Enemy {#archenemy}
 
-The Swedish death metal band [Arch Enemy][wiki:en:Arch_Enemy] are known much better than //Amorphis//. They are also much heavier and fancier-looking.
+The Swedish death metal band [Arch Enemy][wiki:en:Arch_Enemy] are known much better than {{< fl "Amorphis" >}}. They are also much heavier and fancier-looking.
 
 Its most prominent feature is undoubtedly the blue-haired Canadian vocalist [Alissa White-Gluz][wiki:en:Alissa_White-Gluz].
 ![](img:1.bp.blogspot.com/-By8SwUSzyz0/VlMnH-Fv5rI/AAAAAAAAkwE/JW3VOCdH6Mw/s1600/dsc01128.picasaweb.jpg:a "Arch Enemy: Michael Amott and Alissa White-Gluz.")

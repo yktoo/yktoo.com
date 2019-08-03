@@ -7,7 +7,7 @@ tags: ["Austria", "travel", "Vienna"]
 
 ## Schönbrunn palace {#schonbrunn-palace}
 
-The //Schönbrunn// palace is situated in the //Schlosspark// (which simply means "castle park") and is one of the best spots in Vienna.
+The {{< fl "Schönbrunn" >}} palace is situated in the {{< fl "Schlosspark" >}} (which simply means "castle park") and is one of the best spots in Vienna.
 ![](img:2.bp.blogspot.com/-d_7XkPrTwtE/TaauF-87x1I/AAAAAAAAItc/uory4sWbVyc/s1600/dsc01598.picasaweb.jpg:a)
 
 <!--more-->
@@ -49,7 +49,7 @@ East view:
 What was the most memorable? A bin with a dedicated butt-shaped section for butts (this was the first thing I saw in the city):
 ![](img:1.bp.blogspot.com/-LDKNximk_F8/TaatsPnxfdI/AAAAAAAAItc/yBx4A7iYNsc/s1600/dsc01384.picasaweb.jpg:a)
 
-"Viennese breakfast" (//Wiener Frühstück//) somewhere around noon, sitting in the sun:
+"Viennese breakfast" ({{< fl "Wiener Frühstück" >}}) somewhere around noon, sitting in the sun:
 ![](img:4.bp.blogspot.com/-jXss0br2Jns/TaatdV4hPaI/AAAAAAAAItc/1Mc8r1CJJA4/s1600/dsc01501.picasaweb.jpg:a)
 
 A golden key attached to the wall for unknown purpose:
@@ -62,6 +62,6 @@ And to conclude, a small practical tip: if you plan to go around the city a lot,
 
 It's only € 5.70 and it allows you to travel with all trams, busses and metro within 24 hours from the first ride. Don't forget to stamp it as soon as you're on board.
 
-Hungary is waiting for us. We're going to the //Wien Meidling// station where we can take a train to Budapest.
+Hungary is waiting for us. We're going to the {{< fl "Wien Meidling" >}} station where we can take a train to Budapest.
 
 Next: [Part 5. Train to Budapest][post:87]

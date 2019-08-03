@@ -4,7 +4,7 @@ title: "That Awkward Moment"
 tags: ["music", "Netherlands", "Riverside", "Tivoli Vredenburg", "Utrecht"]
 ---
 
-That moment when you find out the [official Riverside event page](https://www.tivolivredenburg.nl/agenda/riverside-12-11-2018/) at //Tivoli Vredenburg// is illustrated with *your* video.
+That moment when you find out the [official Riverside event page](https://www.tivolivredenburg.nl/agenda/riverside-12-11-2018/) at {{< fl "Tivoli Vredenburg" >}} is illustrated with *your* video.
 
 <!--more-->
 

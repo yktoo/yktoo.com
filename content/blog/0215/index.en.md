@@ -5,11 +5,11 @@ group: "Belgium. Ghent"
 tags: ["beer", "Belgium", "fine arts", "Ghent", "museum", "travel"]
 ---
 
-One day we'd been wandering through the //Citadelpark// (which acquired its name because it's situated on the site where in the XIX century Citadel of Ghent was) and came across two museums located next to each other in the damp and dusky grove (the weather was anything but good and the sky was growing dark, so I won't show you the pictures of the park).
+One day we'd been wandering through the {{< fl "Citadelpark" >}} (which acquired its name because it's situated on the site where in the XIX century Citadel of Ghent was) and came across two museums located next to each other in the damp and dusky grove (the weather was anything but good and the sky was growing dark, so I won't show you the pictures of the park).
 
 <!--more-->
 
-One was the Museum of Fine Arts (//Museum voor Schone Kunsten//) and the other City Museum for Contemporary (literally 'Actual') Art, in Dutch //Stedelijk Museum voor Actuele Kunst// or simply //S.M.A.K.// It was so late that we barely had enough time for one, so we had to choose.
+One was the Museum of Fine Arts ({{< fl "Museum voor Schone Kunsten" >}}) and the other City Museum for Contemporary (literally 'Actual') Art, in Dutch {{< fl "Stedelijk Museum voor Actuele Kunst" >}} or simply {{< fl "S.M.A.K." >}} It was so late that we barely had enough time for one, so we had to choose.
 
 Frankly, I'm not really into museums, and I'm a complete layman in the area of fine arts. But how could I refrain from visiting a S.M.A.K.? And besides, I was very curious about what art is currently actual.
 ![](img:4.bp.blogspot.com/-lnRfRJ3keiM/UtWFd78WDeI/AAAAAAAAbvA/6Jp-aN4Jngk/s1600/dsc02899.picasaweb.jpg:a)
@@ -17,7 +17,7 @@ Frankly, I'm not really into museums, and I'm a complete layman in the area of f
 As I feared, the actual art turned out to be like this:
 ![](img:1.bp.blogspot.com/-q86XZXF4WyM/UtWFeZI7tOI/AAAAAAAAbvE/WsOH8Q2s6Ig/s1600/dsc02900.picasaweb.jpg:a)
 
-This masterpiece by the Danish artist [Asger Jorn][wiki:en:Asger_Jorn] is called //Verlust der Mitte// and dated 1966. I'm now going to say something terribly blasphemous, but I reckon this painting a meaningless nonsense—well, I'm a layman as I warned you.
+This masterpiece by the Danish artist [Asger Jorn][wiki:en:Asger_Jorn] is called {{< fl "Verlust der Mitte" >}} and dated 1966. I'm now going to say something terribly blasphemous, but I reckon this painting a meaningless nonsense—well, I'm a layman as I warned you.
 
 In accordance with the level of my art education I evaluate items of art using an internal scale "like/dislike". The way it works I find obscure myself. Normally I would listen to the response of a certain piece of art in me. In this case the mood indicator didn't move.
 
@@ -47,12 +47,12 @@ Another chef d'œuvre by the Belgian [Pjeroo Roobjee](http://www.roobjee.be/), c
 
 Guess how this picture is called?
 
-You're right, it's "Working clothes of the Belgian hermaphrodite, but not too fanatical" (//Werkkledij van de Belgische hermafrodiet, maar niet te fanatiek//), that was easy.
+You're right, it's "Working clothes of the Belgian hermaphrodite, but not too fanatical" ({{< fl "Werkkledij van de Belgische hermafrodiet, maar niet te fanatiek" >}}), that was easy.
 
-The display "Casino Noir" by young German artist //Florian Auer// (20) on the first floor of the museum I found a bit more appealing. Also because it ~~wasn't all ravings of a madman~~ made a little bit better sense.
+The display "Casino Noir" by young German artist {{< fl "Florian Auer" >}} (20) on the first floor of the museum I found a bit more appealing. Also because it ~~wasn't all ravings of a madman~~ made a little bit better sense.
 ![](img:4.bp.blogspot.com/-70tkgDX2iuQ/UtWFhnFO6vI/AAAAAAAAbwU/hkCSHwLubEE/s1600/dsc02914.picasaweb.jpg:a)
 
-The second floor was dedicated to works by the Venezuelan //Javier Téllez//, most of which explored the subject of mental disorder (I must sarcastically point out this seems also to be relevant for the rest of the exhibition). There was a dozen of roomy film cabins, dark and upholstered in black cloth, which demonstrated various stories from patients' lives.
+The second floor was dedicated to works by the Venezuelan {{< fl "Javier Téllez" >}}, most of which explored the subject of mental disorder (I must sarcastically point out this seems also to be relevant for the rest of the exhibition). There was a dozen of roomy film cabins, dark and upholstered in black cloth, which demonstrated various stories from patients' lives.
 ![](img:3.bp.blogspot.com/-He1pDoix6lA/UtrFOoZyWMI/AAAAAAAAbx8/BXL0yILeDxg/s1600/dsc02922.picasaweb.jpg:a)
 
 They would tell about the hospital, their daydreams and how they were being treated (or rather, tortured) by applying electric current to their heads. All in all this made a somewhat depressing impression and the films weren't really inviting.
@@ -60,10 +60,10 @@ They would tell about the hospital, their daydreams and how they were being trea
 Another part of the exhibition, equally repelling, was a broad collection of medical tools and equipment from the first half of the XX century. This is, for example, a device that was used to "treat" mental disorders by applying alternating currents of various frequency and amplitude to the patient's head:
 ![](img:1.bp.blogspot.com/-0NWe8NASiH4/UtrFP7eN0ZI/AAAAAAAAbyE/XdpA8skYkRQ/s1600/dsc02927.picasaweb.jpg:a)
 
-But one of the films, "Letter on the Blind, for the Use of Those Who See", I found interesting. It was about an experiment where several blind people wound touch a live elephant by turns. They touched its skin, legs, ears, trunk and described what they felt: it's as big as a house, its legs feel like car tyres and the trunk reminds of a coat sleeve. Based on those descriptions the artist created a "tactile elephant model", which he called //Beulah//, with legs made of tyres, muzzle of a coat, two hat ears and even a couple of playful buttons for the eyes:
+But one of the films, "Letter on the Blind, for the Use of Those Who See", I found interesting. It was about an experiment where several blind people wound touch a live elephant by turns. They touched its skin, legs, ears, trunk and described what they felt: it's as big as a house, its legs feel like car tyres and the trunk reminds of a coat sleeve. Based on those descriptions the artist created a "tactile elephant model", which he called {{< fl "Beulah" >}}, with legs made of tyres, muzzle of a coat, two hat ears and even a couple of playful buttons for the eyes:
 ![](img:1.bp.blogspot.com/-2ZqYcqiz96Y/UtWFiZc_2aI/AAAAAAAAbwk/3_zcrj0-9V4/s1600/dsc02924.picasaweb.jpg:a)
 
-At the end of our excursion through pearls of the contemporary art we visited an installation //Ecce Homo / le Poseur// by the American //Jordan Wolfson//. It was a series of almost empty rooms before entering which one had to take their shoes off. A big screen in one of the rooms was showing marching Coca-Cola bottles, rotating as if it was trying to tell us something.
+At the end of our excursion through pearls of the contemporary art we visited an installation {{< fl "Ecce Homo / le Poseur" >}} by the American {{< fl "Jordan Wolfson" >}}. It was a series of almost empty rooms before entering which one had to take their shoes off. A big screen in one of the rooms was showing marching Coca-Cola bottles, rotating as if it was trying to tell us something.
 
 I'm far from being convinced about the value this kind of art delivers. And what I can derive from the number of visitors that day is that Belgians were not convinced either, or maybe it was just a wrong timing. Or it must be something really special and not meant for an average human. In any case, we felt relieved when we left the building of S.M.A.K.
 

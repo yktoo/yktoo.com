@@ -49,7 +49,7 @@ tags: ["Gnome", "Google Picasa", "Linux", "Ubuntu", "yktools", "картинки
 
 ## Требования {#requirements}
 
- * Необходимы //Linux// и `bash`.
+ * Необходимы {{< fl "Linux" >}} и `bash`.
  * Необходимо наличие `ImageMagick` (`sudo apt-get install imagemagick`, или как у вас там это делается).
  * Необходима установленная [googlecl](http://code.google.com/p/googlecl/downloads/list).
  * `getopt` должен поддерживать параметры с пробелами. Иными словами, `getopt -T; echo $?` должно вывести ровно 4. Ни больше, ни меньше.

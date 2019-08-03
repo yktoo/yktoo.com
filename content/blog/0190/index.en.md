@@ -15,7 +15,7 @@ We've decided to go for its south coast, the Algarve region. Where the Atlantic 
 
 ## FIESA 2013 {#fiesa}
 
-One of the noteworthy places we've never heard about before is the International Sand Sculpture Festival ([Festival Internacional de Escultura em Areia](http://www.fiesa.org/) or //FIESA//). Which is, as they put it, the biggest sand city in the world. Since I'm not really into sand cities, I can't comment on it, but the amount of work invested is indeed impressive.
+One of the noteworthy places we've never heard about before is the International Sand Sculpture Festival ([Festival Internacional de Escultura em Areia](http://www.fiesa.org/) or {{< fl "FIESA" >}}). Which is, as they put it, the biggest sand city in the world. Since I'm not really into sand cities, I can't comment on it, but the amount of work invested is indeed impressive.
 
 Each year FIESA introduces a different theme. For 2013 the theme is Music.
 ![](img:3.bp.blogspot.com/-gPst0LcWiAY/Ua4i9aZLi6I/AAAAAAAAYuQ/lcnZc6BUuK8/s1600/dsc09075.picasaweb.jpg:a)
@@ -52,7 +52,7 @@ A sand portrait of [Amália Rodrigues][wiki:en:Amália_Rodrigues], "the voice of
 Even though it's a sand city, it has all the necessary facilities. There are speakers all around (covered with film to protect them) as well as lighting. Every sculpture is accompanied by a description plate.
 ![](img:3.bp.blogspot.com/-5KwePDfcZ3c/Ua4iCvpAsbI/AAAAAAAAYpg/SgLZSKIVdRs/s1600/dsc09020.picasaweb.jpg:a)
 
-Music in cinema (//Cinema Musical//):
+Music in cinema ({{< fl "Cinema Musical" >}}):
 ![](img:2.bp.blogspot.com/-v18oOLdv9SA/Ua4iEM5BiYI/AAAAAAAAYpo/DFGVd4MMJfM/s1600/dsc09021.picasaweb.jpg:a)
 ![](img:4.bp.blogspot.com/-e5EEVZMY2h4/Ua4iGXtXCdI/AAAAAAAAYpw/4aidcfsd6q0/s1600/dsc09024.picasaweb.jpg:a)
 ![](img:2.bp.blogspot.com/-2cfzCYURLYs/Ua4iICp-quI/AAAAAAAAYp4/bLCn72ByBZQ/s1600/dsc09025.picasaweb.jpg:a)
@@ -195,10 +195,10 @@ Alice in Wonderland:
 Mary Poppins:
 ![](img:3.bp.blogspot.com/-O7MSaMUyLS8/Ua4jXir5GII/AAAAAAAAYw4/oyb5223n2L0/s1600/dsc09108.picasaweb.jpg:a)
 
-A Portugese series //Os Mundos de Mia//:
+A Portugese series {{< fl "Os Mundos de Mia" >}}:
 ![](img:3.bp.blogspot.com/-pH5kNzO4qSc/Ua4jc0CWqoI/AAAAAAAAYxY/qyKIHi-E3FA/s1600/dsc09112.picasaweb.jpg:a)
 
-An American series //Noddy//:
+An American series {{< fl "Noddy" >}}:
 ![](img:2.bp.blogspot.com/-Mms6KzBz6cY/Ua4jeW9x62I/AAAAAAAAYxg/VLXL81LR0ck/s1600/dsc09114.picasaweb.jpg:a)
 
 I bet this sow with four piglets is also a character from some series:
@@ -208,7 +208,7 @@ Aboriginal Music:
 ![](img:4.bp.blogspot.com/-BNj8ULU-baA/Ua4jiQQRYeI/AAAAAAAAYxw/9nyO0Ujhm9s/s1600/dsc09117.picasaweb.jpg:a)
 ![](img:3.bp.blogspot.com/-oXJffJPKlo8/Ua4jj9K2FBI/AAAAAAAAYx4/1iIGDOzj8ho/s1600/dsc09118.picasaweb.jpg:a)
 
-This strange instrument is called //didgeridoo//, however has nothing to do with DJs. It resembles [Arkady Shilkloper's][post:183] alphorn:
+This strange instrument is called {{< fl "didgeridoo" >}}, however has nothing to do with DJs. It resembles [Arkady Shilkloper's][post:183] alphorn:
 ![](img:3.bp.blogspot.com/-0OiN1cwn5AQ/Ua4j08277-I/AAAAAAAAYzg/5zCnXH2WEpk/s1600/dsc09135.picasaweb.jpg:a)
 ![](img:3.bp.blogspot.com/--zEzdBV6YUs/Ua4j10QrabI/AAAAAAAAYzo/T_cj0RjzeZ8/s1600/dsc09136.picasaweb.jpg:a)
 ![](img:3.bp.blogspot.com/-GmbLDRYtMNw/Ua4j287kwvI/AAAAAAAAYzw/OUPTYZwGgeI/s1600/dsc09138.picasaweb.jpg:a)

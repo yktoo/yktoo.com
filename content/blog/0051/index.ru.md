@@ -4,7 +4,7 @@ title: "Великий и могу... ужасный"
 tags: ["голландский язык", "забавное", "Нидерланды"]
 ---
 
-Узнал тут одно слово на голландском: //randjongerenhangplekkenbeleidsambtenarensalarisbesprekingsafspraken//.
+Узнал тут одно слово на голландском: {{< fl "randjongerenhangplekkenbeleidsambtenarensalarisbesprekingsafspraken" >}}.
 
 Переводится как *«встречи для обсуждения зарплат общественных представителей, определяющих правила поведения в местах, где собирается безработная молодёжь»*.
 

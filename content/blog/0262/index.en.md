@@ -12,18 +12,18 @@ The cause for such a strange wish is called [Elfstedentocht][wiki:en:Elfstedento
 
 Elfstedentocht is a skating match of about 200 kilometres, starting and finishing in [Leeuwarden][post:205] and leading along frozen rivers and lakes past eleven [Frisian][wiki:en:Friesland] cities. Therefore for the tour to be possible the minimum ice thickness of 15 cm is required.
 
-The problem is, with our average winter temperature of **+7° C** it is a bit unlikely to get any ice at all. There are sometimes cold spells with moderate subzero temperatures, but still: the last //Elfstedentocht// was held in 1997, i.e. eighteen winters ago.
+The problem is, with our average winter temperature of **+7° C** it is a bit unlikely to get any ice at all. There are sometimes cold spells with moderate subzero temperatures, but still: the last {{< fl "Elfstedentocht" >}} was held in 1997, i.e. eighteen winters ago.
 
-I plan to write a separate post about the //tocht//, which is, as far as I'm informed, an event of a huge importance for the whole nation (not to mention Friesland). But this story today is about an artefact that is hardly known even to the Dutch.
+I plan to write a separate post about the {{< fl "tocht" >}}, which is, as far as I'm informed, an event of a huge importance for the whole nation (not to mention Friesland). But this story today is about an artefact that is hardly known even to the Dutch.
 
-The monument of //Elfstedentocht//, [Elfstedenmonument][wiki:nl:Elfstedenmonument], is a bridge over the //Murk// river (Frisian //De Moark//) in the neighbourhood of the [Giekerk][wiki:nl:Giekerk] village. This is the last bridge on the route of the skaters heading for the finish in Leeuwarden.
+The monument of {{< fl "Elfstedentocht" >}}, [Elfstedenmonument][wiki:nl:Elfstedenmonument], is a bridge over the {{< fl "Murk" >}} river (Frisian {{< fl "De Moark" >}}) in the neighbourhood of the [Giekerk][wiki:nl:Giekerk] village. This is the last bridge on the route of the skaters heading for the finish in Leeuwarden.
 
 It looks like a regular bridge at a distance, with an ornament of a line of skaters.
 ![](img:3.bp.blogspot.com/-14jqPNJfBIY/VfmBQ1hN7LI/AAAAAAAAkd4/2Zg9C6TkWGk/s1600/dsc00903.picasaweb.jpg:a "The Elfstedenmonument's northern side from afar.")
 
 But as you come closer, you get to see that it's made of small tiles, each of which is individually painted. Every sportsman reaching the finish line gets one, labelled with their name and tour dates.
 
-The photo below depicts, among others, Willem-Alexander of the Netherlands in 1986, then a Prince of Orange. The fourth row from the top, in the middle (labelled as //Z.K.H. de prins van Oranje//):
+The photo below depicts, among others, Willem-Alexander of the Netherlands in 1986, then a Prince of Orange. The fourth row from the top, in the middle (labelled as {{< fl "Z.K.H. de prins van Oranje" >}}):
 ![](img:1.bp.blogspot.com/-8ojqtXuxLXk/VfmBRCuOHcI/AAAAAAAAkdo/FSooq8eA8FE/s1600/dsc00905.picasaweb.jpg:a "A close-up of the Elfstedenmonument.")
 
 There is also a [short film](https://www.youtube.com/watch?v=6bqPgFaD1jc) about his visiting the monument in 2001.
@@ -54,7 +54,7 @@ Here's another one:
 
 The Wikipedia page even states the weather was rather favourable in 1941-42.
 
-*Errare humanum est*, as the //Elfstedentocht// has been held in 1909 for the first time, in no way Mr. Van Roomen could make it in 1885.
+*Errare humanum est*, as the {{< fl "Elfstedentocht" >}} has been held in 1909 for the first time, in no way Mr. Van Roomen could make it in 1885.
 ![](img:4.bp.blogspot.com/-EsLTWkf8KO8/VfmBU05iOTI/AAAAAAAAke8/mjA_mbPcv0Y/s1600/dsc00912.picasaweb.jpg:a "Apparently a typo.")
 
 The bottom rows are not that fortunate, covered by the waters of Murk.

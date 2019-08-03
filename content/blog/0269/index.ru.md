@@ -13,10 +13,10 @@ tags: ["Anneke van Giersbergen", "Dianne van Giersbergen", "Lisette van den Berg
 
 Как и [два года назад][post:175], концерт проходил в небольшом и уютном утрехтском клубе [Tivoli de Helling](http://www.dehelling.nl/), а самое любопытное — это внушительный список приглашённых музыкантов:
 
-* //Anneke van Giersbergen// (The Gathering, [The Gentle Storm][post:250])
-* //Lisette van den Berg// (Scarlet Stories, Epic Rock Choir, Karmaflow)
-* //Dianne van Giersbergen// (Xandria)
-* //Merijn van Haren// (Navarone)
+* {{< fl "Anneke van Giersbergen" >}} (The Gathering, [The Gentle Storm][post:250])
+* {{< fl "Lisette van den Berg" >}} (Scarlet Stories, Epic Rock Choir, Karmaflow)
+* {{< fl "Dianne van Giersbergen" >}} (Xandria)
+* {{< fl "Merijn van Haren" >}} (Navarone)
 
 Вопреки распространённому мнению, [Аннеке][wiki:ru:Гирсберген,_Аннеке_ван] и [Дианне][wiki:en:Dianne_van_Giersbergen] просто однофамильцы и не состоят в родстве друг с другом. И нет, я не знаю, как они оказались на одной сцене. Может быть, у Марселы алфавитный список кандитатов на участие?
 
@@ -31,7 +31,7 @@ tags: ["Anneke van Giersbergen", "Dianne van Giersbergen", "Lisette van den Berg
 Ритм-гитарист Эрик Хазебрук, вновь с гитарой-обрубком, но количество струн с [последнего раза][post:250] выросло до восьми.
 ![](img:1.bp.blogspot.com/-YxAaGjkUZ24/VofESjkSKgI/AAAAAAAAlDU/erAg2uUtwAg/s1600/dsc01519.picasaweb.jpg:a "Eric Hazebroek.")
 
-Марсела Бовио и Дианне ван Гирсберген исполняют //Abends Will Ich Schlafen Gehn// из оперы [«Гензель и Гретель»][wiki:ru:Гензель_и_Гретель_(опера)] под аккомпанемент гитариста //SoP// Стефана Шульца. Точнее, должны исполнять, но Марсела вместо этого спрашивает Стефана, что он ел на ужин:
+Марсела Бовио и Дианне ван Гирсберген исполняют {{< fl "Abends Will Ich Schlafen Gehn" >}} из оперы [«Гензель и Гретель»][wiki:ru:Гензель_и_Гретель_(опера)] под аккомпанемент гитариста {{< fl "SoP" >}} Стефана Шульца. Точнее, должны исполнять, но Марсела вместо этого спрашивает Стефана, что он ел на ужин:
 ![](img:1.bp.blogspot.com/-raP71ogtgZA/VofESlX0gvI/AAAAAAAAlDU/j4y8CT8AiPA/s1600/dsc01587.picasaweb.jpg:a "Dianne van Giersbergen, Stephan Schultz, Marcela Bovio.")
 
 Ещё она, как обычно, сыграла пару нот на скрипке:
@@ -43,28 +43,28 @@ tags: ["Anneke van Giersbergen", "Dianne van Giersbergen", "Lisette van den Berg
 Ударник Мартайн Петерс по окончании шоу:
 ![](img:3.bp.blogspot.com/-0lWNBcEvIjs/VofESrnJM-I/AAAAAAAAlDU/300oeoCXTVU/s1600/dsc01639.picasaweb.jpg:a "Martijn Peters с пивом.")
 
-Самые интересные номера я, разумеется, записал на видео. Вот смешливая Марсела пытается начать серьёзную //Abends Will Ich Schlafen Gehn//, получается у неё не сразу:
+Самые интересные номера я, разумеется, записал на видео. Вот смешливая Марсела пытается начать серьёзную {{< fl "Abends Will Ich Schlafen Gehn" >}}, получается у неё не сразу:
 ![](youtube:CA4Dm2rVg8I)
 
-Новая песня //Powerless// из будущего сольного альбома Марселы Бовио, предваряемая шуточками над клавишником Джеффри, якобы проверяющим свой е-мэйл:
+Новая песня {{< fl "Powerless" >}} из будущего сольного альбома Марселы Бовио, предваряемая шуточками над клавишником Джеффри, якобы проверяющим свой е-мэйл:
 ![](youtube:Q9L6m3FS9Tg)
 
-//Deceiver// с Лизеттой ван ден Берг (//Lisette van den Berg//) из [Scarlet Stories](http://www.scarletstories.nl/):
+{{< fl "Deceiver" >}} с Лизеттой ван ден Берг ({{< fl "Lisette van den Berg" >}}) из [Scarlet Stories](http://www.scarletstories.nl/):
 ![](youtube:NvVrwayKxR0)
 
-//Earthquake// с Дианне ван Гирсберген (//Dianne van Giersbergen//) из группы [Xandria][wiki:ru:Xandria]:
+{{< fl "Earthquake" >}} с Дианне ван Гирсберген ({{< fl "Dianne van Giersbergen" >}}) из группы [Xandria][wiki:ru:Xandria]:
 ![](youtube:B9AfL2zEilM)
 
-//In Motion #1// из репертуара [The Gathering][wiki:ru:The_Gathering] — тут, конечно, не могло обойтись без Аннеке ван Гирсберген:
+{{< fl "In Motion #1" >}} из репертуара [The Gathering][wiki:ru:The_Gathering] — тут, конечно, не могло обойтись без Аннеке ван Гирсберген:
 ![](youtube:NuJB7s3D4kM)
 
-//Lost// с Мерайном ван Хареном (//Merijn van Haren//) из [Navarone][wiki:en:Navarone_(band)]:
+{{< fl "Lost" >}} с Мерайном ван Хареном ({{< fl "Merijn van Haren" >}}) из [Navarone][wiki:en:Navarone_(band)]:
 ![](youtube:XnnqeJxbiJI)
 
-Очень удачный кавер песни //Queen// — //Show Must Go On// с ними же:
+Очень удачный кавер песни {{< fl "Queen" >}} — {{< fl "Show Must Go On" >}} с ними же:
 ![](youtube:P-T2XxM6JLI)
 
-//The Curse// с Аннеке ван Гирсберген:
+{{< fl "The Curse" >}} с Аннеке ван Гирсберген:
 ![](youtube:ohU76HoZnxU)
 
 Ещё немного фото с концерта:
@@ -82,7 +82,7 @@ tags: ["Anneke van Giersbergen", "Dianne van Giersbergen", "Lisette van den Berg
 
 Кстати, недавно узнал о существовании [setlist.fm](http://www.setlist.fm/), собирающем информацию о песнях, прозвучавших на концертах — вот, например, [список для этого](http://www.setlist.fm/setlist/stream-of-passion/2015/de-helling-utrecht-netherlands-4bf2074a.html).
 
-По моему опыту, эти предновогодние шоу удаются //Stream of Passion// лучше всего — энергия на концерте бьёт ключом, и ещё это отличная возможность познакомиться с новыми именами. Ну и ~~самое главное~~ то, что в этот период (между Рождеством и Новым годом) многие разъезжаются по отпускам, так что народу не так много, даже несмотря на символическую цену билета.
+По моему опыту, эти предновогодние шоу удаются {{< fl "Stream of Passion" >}} лучше всего — энергия на концерте бьёт ключом, и ещё это отличная возможность познакомиться с новыми именами. Ну и ~~самое главное~~ то, что в этот период (между Рождеством и Новым годом) многие разъезжаются по отпускам, так что народу не так много, даже несмотря на символическую цену билета.
 
 ---
 

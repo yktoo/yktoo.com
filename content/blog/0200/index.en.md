@@ -4,7 +4,7 @@ title: "Aikikai Amersfoort website"
 tags: ["aikido", "Amersfoort", "Netherlands", "sport", "web", "website", "Yii"]
 ---
 
-I've done something useful in my spare time. I crafted a website for my aikido school (or //dojo//) called **Aikikai Amersfoort**, which is now located at [aikikai-amersfoort.nl](http://aikikai-amersfoort.nl/).
+I've done something useful in my spare time. I crafted a website for my aikido school (or {{< fl "dojo" >}}) called **Aikikai Amersfoort**, which is now located at [aikikai-amersfoort.nl](http://aikikai-amersfoort.nl/).
 ![](img:1.bp.blogspot.com/-lki9NxKtQqo/UmpsckNYfPI/AAAAAAAAakU/UzI2708drDg/s1600/aikikai-amersfoort.picasaweb.png:a)
 
 The former website was really ancient-looking, built back in 2004 and totally outdated. For example, one had to download an .avi file if they wanted to watch a video. YouTube did not exist at that remote moment.

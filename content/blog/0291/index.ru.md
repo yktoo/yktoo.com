@@ -25,7 +25,7 @@ tags: ["PulseAudio", "Python", "Python 3", "Sound Switcher Indicator", "Ubuntu",
   * Поддержка локализации меню ([#28](https://github.com/yktoo/indicator-sound-switcher/issues/28)).<br />
     Приложение использует стандартный механизм локализации [GNU gettext](https://www.gnu.org/software/gettext/). Новые переводы могут быть легко добавлены в виде файлов `.po`, с помощью пулл-реквестов.
   * Добавлены русский и испанский переводы.
-  * Добавлена страница документации (//manpage//) ([#24](https://github.com/yktoo/indicator-sound-switcher/issues/24)).<br />
+  * Добавлена страница документации ({{< fl "manpage" >}}) ([#24](https://github.com/yktoo/indicator-sound-switcher/issues/24)).<br />
     Вызвать документацию в Ubuntu можно командой `man indicator-sound-switcher` (пока что там довольно мало содержимого, но, как говорится, зато она есть).
 
 ## Файл конфигурации {#config-file}

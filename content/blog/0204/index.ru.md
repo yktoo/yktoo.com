@@ -4,7 +4,7 @@ title: "Как я стал Бобом"
 tags: ["авто", "Амерсфорт", "Боб", "Нидерланды", "ночь", "полиция"]
 ---
 
-Я писал, [было дело][post:37], об особенном человеке по имени Боб (//Bob//) — этом практически святом человеке со всеми удобствами, ну или, как минимум, с машиной.
+Я писал, [было дело][post:37], об особенном человеке по имени Боб ({{< fl "Bob" >}}) — этом практически святом человеке со всеми удобствами, ну или, как минимум, с машиной.
 
 <!--more-->
 
@@ -18,5 +18,5 @@ tags: ["авто", "Амерсфорт", "Боб", "Нидерланды", "но
 ![](img:4.bp.blogspot.com/-gxr35CLHQVs/UqOMdZacOyI/AAAAAAAAa5U/GRSSzqcCnhQ/s1600/dsc01738.picasaweb.jpg:a)
 ![](img:3.bp.blogspot.com/-EGvGe6-iGWw/ThiaPqMJjwI/AAAAAAAAI8I/78XcQd-DFKs/s1600/DSC00218.picasaweb.jpg:a)
 
-Мостик под названием //De Oversteek// («Переход»):
+Мостик под названием {{< fl "De Oversteek" >}} («Переход»):
 ![](img:4.bp.blogspot.com/-ar0G02XhqWg/ThibbjKEmwI/AAAAAAAAJAI/7mc8zj4YEPA/s1600/DSC00212.picasaweb.jpg:a)

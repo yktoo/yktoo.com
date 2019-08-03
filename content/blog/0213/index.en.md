@@ -9,7 +9,7 @@ Ghent inhabitants are very proud of the fact that their city once (in 2004) [won
 
 <!--more-->
 
-//Oude Vismijn// where Leie forks:
+{{< fl "Oude Vismijn" >}} where Leie forks:
 ![](img:3.bp.blogspot.com/-y7L-dnfzl6s/UtWFIGQlFzI/AAAAAAAAbnQ/vMU_2e-ar-g/s1600/dsc02767.picasaweb.jpg:a)
 
 Graslei:
@@ -25,12 +25,12 @@ The Leie river:
 Saint Nicholas' Church and the "Giant Wheel":
 ![](img:3.bp.blogspot.com/-Q0semG5NvDo/UtWFKeRrDpI/AAAAAAAAboM/EsVAFGV8C7U/s1600/dsc02779.picasaweb.jpg:a)
 
-Christmas market on //Korenmarkt//:
+Christmas market on {{< fl "Korenmarkt" >}}:
 ![](img:1.bp.blogspot.com/-nmMpJY7u3Ys/UtWFK8-mH7I/AAAAAAAAboU/JQ9neBwIehw/s1600/dsc02786.picasaweb.jpg:a)
 ![](img:3.bp.blogspot.com/-_qrSQXk4l1Q/UtWFLFGUN7I/AAAAAAAAboc/ScSjdC6cpBE/s1600/dsc02788.picasaweb.jpg:a)
 ![](img:2.bp.blogspot.com/-nsw2uNuzZ9g/UtWFLvqODTI/AAAAAAAAbok/BqrvBpYbg6A/s1600/dsc02789.picasaweb.jpg:a)
 
-The belfry of Ghent (//Belfort//):
+The belfry of Ghent ({{< fl "Belfort" >}}):
 ![](img:3.bp.blogspot.com/-nahV6v9sOMU/UtWFMAec42I/AAAAAAAAboo/a1KKFGgW78A/s1600/dsc02790.picasaweb.jpg:a)
 
 St Peter's Abbey ([Sint-Pietersabdij](http://www.sintpietersabdijgent.be/)):
