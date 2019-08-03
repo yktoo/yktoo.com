@@ -5,7 +5,7 @@ group: "Houten"
 tags: ["Houten", "Netherlands", "water"]
 ---
 
-In the [previous part][post:222] I mentioned the "Bike Town" award given to Houten a few years ago. This tiny geographical object has also won a number of other awards:
+In the [previous part]({{< relref "/blog/0222" >}}) I mentioned the "Bike Town" award given to Houten a few years ago. This tiny geographical object has also won a number of other awards:
 
 <!--more-->
 
@@ -82,7 +82,7 @@ You can find the same setting in any Dutch settlement.
 Architecture of the new part is sometimes different, but you can always tell the new buildings by the exterior walls:
 {{< imgfig "https://2.bp.blogspot.com/-UGfefFXU26A/U_uLNWPet4I/AAAAAAAAfDs/7v1tkbmb18s/s1600/dsc06415.picasaweb.jpg" >}}
 
-I'm particularly fond of those yellowish bricks, which resemble houses in [southern Belgium][post:35]:
+I'm particularly fond of those yellowish bricks, which resemble houses in [southern Belgium]({{< relref path="/blog/0035" lang="ru" >}}):
 {{< imgfig "https://3.bp.blogspot.com/--l9cDMEGSYM/U_uLOD9iRUI/AAAAAAAAfIk/rGAc_v46UIY/s1600/dsc06417.picasaweb.jpg" >}}
 
 One of the eye-catchers of the new part is the three-wing pyramid called {{< fl "Het Domein" >}} ("The Domain"), the "hill-house" ({{< fl "heuvelgebouw" >}}) built in 2002 based on the design of [Das brothers][wiki:nl:Robbert_en_Rudolf_Das]:
@@ -106,7 +106,7 @@ The pool is surrounded by houses, which must be pretty damp inside I think:
 This block of toy-like houses is built right above the water surface:
 {{< imgfig "https://2.bp.blogspot.com/-SoP5ALHplJY/U_uLJnkcC3I/AAAAAAAAfIk/h5rtZGSzzZQ/s1600/dsc06406.picasaweb.jpg" >}}
 
-In the medieval times the border of the Roman Empire lay here. This is reflected, for example, in the name of the {{< fl "Houten Castellum" >}} [train station][post:221]. All the streets in this neighbourhood have Italian names:
+In the medieval times the border of the Roman Empire lay here. This is reflected, for example, in the name of the {{< fl "Houten Castellum" >}} [train station]({{< relref "/blog/0221" >}}). All the streets in this neighbourhood have Italian names:
 {{< imgfig "https://1.bp.blogspot.com/-qxGHQtBW4Fg/U_uLPgLMWPI/AAAAAAAAfEM/HwrDsdY2jYg/s1600/dsc06421.picasaweb.jpg" >}}
 
 {{< fl "Piazza" >}} means "square" in Italian.

@@ -4,7 +4,7 @@ title: "Гаага. Море"
 tags: ["Гаага", "красивое", "море", "Нидерланды", "пляж"]
 ---
 
-Да, [опять][post:25] (в этом году совсем рано)!
+Да, [опять]({{< relref "/blog/0025" >}}) (в этом году совсем рано)!
 {{< imgfig "https://1.bp.blogspot.com/-p0C4-WXuwyc/TZhMdmel9fI/AAAAAAAAItg/OtZLR7eZJJA/s1600/DSC01086.picasaweb.jpg" >}}
 
 {{< imgfig "https://2.bp.blogspot.com/-kH0KUGsuDa4/TZhMRA7Nb1I/AAAAAAAAItg/kjQP8cOMYek/s1600/DSC01079.picasaweb.jpg" >}}

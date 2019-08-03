@@ -4,7 +4,7 @@ title: "So long two thousand eighteen"
 tags: ["2018", "upshot"]
 ---
 
-{{< fl "Tjongejonge" >}}, this year ended as suddenly as it [began][post:332], I couldn't even find time to blog. This post is the tenth and the last one in 2018 (but I'm seriously considering improving on that matter).
+{{< fl "Tjongejonge" >}}, this year ended as suddenly as it [began]({{< relref "/blog/0332" >}}), I couldn't even find time to blog. This post is the tenth and the last one in 2018 (but I'm seriously considering improving on that matter).
 
 {{< imgfig "https://3.bp.blogspot.com/-0yOc98Dr8-k/XCkJayeJeVI/AAAAAAAAuUg/RvMfC0YJQ5EzlG8ZD-RYMHxlqj1hspiSQCKgBGAs/s1600/2019.png" >}}
 
@@ -52,7 +52,7 @@ In early December we've been to the Christmas market in Duisburg, Germany. And j
 
 As for sport, I'm quite satisfied with myself. In 2018 I've managed to run **1060** km (which beats my previous record) in 64 episodes. Peculiarly enough, the last 20 km run has been today, December 31<sup>st</sup>.
 
-In May another record has been beaten when I've finished a half marathon in **1:45:56** at [De Halve van De Haar][post:335].
+In May another record has been beaten when I've finished a half marathon in **1:45:56** at [De Halve van De Haar]({{< relref "/blog/0335" >}}).
 
 My second achievement this year is that I've qualified as {{< fl "nidan" >}} (second dan) in aikido. The corresponding certificate has been handed to me a couple of weeks ago by Marc Jongsten:
 {{< imgfig "https://1.bp.blogspot.com/-XDGu3m2atBc/XCoblnSwbVI/AAAAAAAAuXU/n4k2TJmfe8wZi1RIOskT7zNQ_eSGLc0JQCKgBGAs/s1600/dsc08574.picasaweb.jpg" "The author gets his diploma from Marc Jongsten." >}}
@@ -67,9 +67,9 @@ The concert life has stepped back a bit because of some objective difficulties r
 And *Riverside* in Utrecht:
 {{< imgfig "https://2.bp.blogspot.com/-7Y8GTHr-iGk/XCofE0E-jYI/AAAAAAAAuXs/ykU9MD7X6pMOTETy_WicWXiZblwHlRSkgCKgBGAs/s1600/20181112_214426.picasaweb.jpg" "Riverside." >}}
 
-By the way, I've filmed the last one in its entirety, but the video has been taken down by YouTube at a copyright owner's demand. The crazy thing is that the gig's page at the website of {{< fl "Tivoli" >}} [was illustrated][post:341] just by my video from another show.
+By the way, I've filmed the last one in its entirety, but the video has been taken down by YouTube at a copyright owner's demand. The crazy thing is that the gig's page at the website of {{< fl "Tivoli" >}} [was illustrated]({{< relref "/blog/0341" >}}) just by my video from another show.
 
-And one more thing, not quite related to music: for the first time in my life I [presented][post:340] in English before an audience of some two hundred people, at IDM Europe. I felt a bit nervous, of course.
+And one more thing, not quite related to music: for the first time in my life I [presented]({{< relref "/blog/0340" >}}) in English before an audience of some two hundred people, at IDM Europe. I felt a bit nervous, of course.
 
 ## Other stuff {#misc}
 

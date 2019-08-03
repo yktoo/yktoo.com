@@ -4,7 +4,7 @@ title: "Happy New Year (again)!"
 tags: ["beach", "holidays", "Netherlands", "Nieuwjaarsduik", "The Hague"]
 ---
 
-Exactly one year ago, on January 1, 2012 I was [late][post:138] for the "New Year's dive", {{< fl "Nieuwjaarsduik" >}}, because it took me too long to find a parking space). Then I had to dive in solitude.
+Exactly one year ago, on January 1, 2012 I was [late]({{< relref "/blog/0138" >}}) for the "New Year's dive", {{< fl "Nieuwjaarsduik" >}}, because it took me too long to find a parking space). Then I had to dive in solitude.
 
 In case you have no idea what it is about: [Nieuwjaarsduik](http://www.unox.nl/nl/event/nieuwjaarsduik) is a stunning event when live people plunge into the water of a temperature slightly above the freezing point, organized in Holland nationwide by Unox. The main diving venue is in {{< fl "Scheveningen" >}}, near by the Hague, and people here run right into the North Sea.
 

@@ -5,7 +5,7 @@ group: "Portugal"
 tags: ["Algarve", "Portugal", "sand", "travel"]
 ---
 
-Recently I've visited Portugal for the first time in my life. The everlasting Dutch off-season makes one long for sun, and where else in Europe can you secure a sunny place, except maybe the [Canaries][post:148]? This spring in Europe is particularly poor, full of floods and cold, so Portugal appears to be the best option for the continental part.
+Recently I've visited Portugal for the first time in my life. The everlasting Dutch off-season makes one long for sun, and where else in Europe can you secure a sunny place, except maybe the [Canaries]({{< relref path="/blog/0148" lang="ru" >}})? This spring in Europe is particularly poor, full of floods and cold, so Portugal appears to be the best option for the continental part.
 
 We've decided to go for its south coast, the Algarve region. Where the Atlantic Ocean, endless beaches, real waves and the edge of the world are. But first things first.
 
@@ -208,7 +208,7 @@ Aboriginal Music:
 {{< imgfig "https://4.bp.blogspot.com/-BNj8ULU-baA/Ua4jiQQRYeI/AAAAAAAAYxw/9nyO0Ujhm9s/s1600/dsc09117.picasaweb.jpg" >}}
 {{< imgfig "https://3.bp.blogspot.com/-oXJffJPKlo8/Ua4jj9K2FBI/AAAAAAAAYx4/1iIGDOzj8ho/s1600/dsc09118.picasaweb.jpg" >}}
 
-This strange instrument is called {{< fl "didgeridoo" >}}, however has nothing to do with DJs. It resembles [Arkady Shilkloper's][post:183] alphorn:
+This strange instrument is called {{< fl "didgeridoo" >}}, however has nothing to do with DJs. It resembles [Arkady Shilkloper's]({{< relref "/blog/0183" >}}) alphorn:
 {{< imgfig "https://3.bp.blogspot.com/-0OiN1cwn5AQ/Ua4j08277-I/AAAAAAAAYzg/5zCnXH2WEpk/s1600/dsc09135.picasaweb.jpg" >}}
 {{< imgfig "https://3.bp.blogspot.com/--zEzdBV6YUs/Ua4j10QrabI/AAAAAAAAYzo/T_cj0RjzeZ8/s1600/dsc09136.picasaweb.jpg" >}}
 {{< imgfig "https://3.bp.blogspot.com/-GmbLDRYtMNw/Ua4j287kwvI/AAAAAAAAYzw/OUPTYZwGgeI/s1600/dsc09138.picasaweb.jpg" >}}
@@ -387,4 +387,4 @@ It actually looks like the lighting is set up pretty randomly. But still beautif
 {{< imgfig "https://4.bp.blogspot.com/-4Y1UMxsk3Zo/Ua4lEiaTH_I/AAAAAAAAY7I/7pYIwLOc6pw/s1600/dsc09229.picasaweb.jpg" >}}
 {{< imgfig "https://1.bp.blogspot.com/-YVf2damL0Y0/Ua4lF8lSY4I/AAAAAAAAY7Q/hZlI7u1SvV8/s1600/dsc09231.picasaweb.jpg" >}}
 
-Next: [Part 2. Car and oranges][post:191]
+Next: [Part 2. Car and oranges]({{< relref "/blog/0191" >}})

@@ -5,7 +5,7 @@ group: "My entrepreneurship"
 tags: ["business", "employment", "entrepreneurship", "freelance", "Netherlands", "taxes", "Yktoo Solutions"]
 ---
 
-As a follow-up to the post about my [professional anniversary][post:307] and to fulfill [my promise][post:302] I'd like to elaborate on my reasons and the path of becoming an entrepreneur. The story is going to be quite long so I'll split it up.
+As a follow-up to the post about my [professional anniversary]({{< relref "/blog/0307" >}}) and to fulfill [my promise]({{< relref "/blog/0302" >}}) I'd like to elaborate on my reasons and the path of becoming an entrepreneur. The story is going to be quite long so I'll split it up.
 
 In fact the very idea of freelancing wasn't new at all. Many of my expat friends living in Holland have been doing that for years. That mainly concerns IT specialists as they arguably represent the majority of those who came here from the ex-USSR.
 
@@ -21,7 +21,7 @@ However there was a number of considerations, which I'll start with.
 
 1. First of all, it's simply not allowed to be a freelancer in the status of a "highly skilled migrant" ({{< fl "kennismigrant" >}}). A {{< fl "kennismigrant" >}} that comes to the Netherlands is initially provided with a temporary residence permit (valid for one or five years), which is subject to extension once about to expire. This residence permit only allows working in an appropriate "highly skilled" area, and only in a salaried employment. In other words you can't be self-employed or go pluck tomatoes on a farm.
 <p></p>
-Once you have lived in the Netherlands for five years and [cleared][post:187] a language exam, you can either apply for a permanent residence permit ({{< fl "verblijfsvergunning onbepaalde tijd" >}}) or for Dutch citizenship (like [I did][post:219]). In both cases the employment restriction get lifted for you.
+Once you have lived in the Netherlands for five years and [cleared]({{< relref path="/blog/0187" lang="ru" >}}) a language exam, you can either apply for a permanent residence permit ({{< fl "verblijfsvergunning onbepaalde tijd" >}}) or for Dutch citizenship (like [I did]({{< relref "/blog/0219" >}})). In both cases the employment restriction get lifted for you.
 
 2. Secondly, each {{< fl "kennismigrant" >}} gets an incredibly generous tax relief offer from the Dutch government, when as much as **30%** of all your income is exempt from the income tax. This so-called *30 percent ruling* is currently granted for eight years, back in 2008 it was a full decade. The official explanation for this generosity is that it's supposed to compensate for the migrant's extraterritorial costs.
 <p></p>
@@ -69,4 +69,4 @@ As long as everything you're paying for is in line with your professional activi
 
 I have to admit that the arguments are strong on both sides. I myself haven't made up my mind as of yet. After all, I'm only a couple of months into this business. But I feel I'm getting the hang of being self-employed, so we'll see.
 
-*Next:* [Entities and persons][post:310]
+*Next:* [Entities and persons]({{< relref "/blog/0310" >}})

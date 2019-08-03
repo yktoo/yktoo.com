@@ -4,7 +4,7 @@ title: "Now official: Shodan"
 tags: ["aikido", "Leiden", "Netherlands", "sport"]
 ---
 
-And here we are, almost four months after the [exam][post:273] I officially possess a Shodan Aikido Aikikai:
+And here we are, almost four months after the [exam]({{< relref "/blog/0273" >}}) I officially possess a Shodan Aikido Aikikai:
 {{< imgfig "https://3.bp.blogspot.com/-yDzrlG5D55s/V40yhuRhIlI/AAAAAAAAmqw/-2izHWg62gYwt-aWnN5zlAvVc9TOVbujQCKgB/s1600/dsc02752.picasaweb.jpg" "Shodan certificate." >}}
 
 The diploma has been solemnly granted by *Marc Jongsten* (who also took the exam) during a short ceremony at [Aikido Centrum Leiden](http://aikidoleiden.nl/).

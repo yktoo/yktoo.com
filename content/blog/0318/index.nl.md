@@ -79,7 +79,7 @@ Je vermeldt je uurtarief tijdens het aanbieden en hebt daarna een heel beperkte 
 
 ## Risicomanagement {#risk-management}
 
-Risicomanagement is nog een ingewikkeld onderwerp. De risico's van ondernemerschap heb ik al [genoemd][post:309], in het kort kun je ze zo samenvatten: je krijgt betaald zolang je aan een opdracht werkt en anders krijg je niets. Om die reden moet je je financiën goed in de gaten houden en altijd een behoorlijke buffer hebben om je reguliere lasten in moeilijke tijden op te kunnen vangen. Het is ook slim om ruim van tevoren aan je volgende opdracht te denken vóórdat je huidige contract verloopt.
+Risicomanagement is nog een ingewikkeld onderwerp. De risico's van ondernemerschap heb ik al [genoemd]({{< relref "/blog/0309" >}}), in het kort kun je ze zo samenvatten: je krijgt betaald zolang je aan een opdracht werkt en anders krijg je niets. Om die reden moet je je financiën goed in de gaten houden en altijd een behoorlijke buffer hebben om je reguliere lasten in moeilijke tijden op te kunnen vangen. Het is ook slim om ruim van tevoren aan je volgende opdracht te denken vóórdat je huidige contract verloopt.
 
 ## Doorzettingsvermogen {#persistence}
 

@@ -118,4 +118,4 @@ Traditionally magnificent city views:
 And, to round this part off, a panorama shot at the top of the hill:
 {{< imgfig "https://4.bp.blogspot.com/-sOImrgjw4HE/TaoKhNMWuZI/AAAAAAAAItc/_aVJ7KbNckc/s1600/dsc01901.picasaweb.jpg" >}}
 
-Last: [Part 9. Budapest. St. Stephen's Basilica][post:91]
+Last: [Part 9. Budapest. St. Stephen's Basilica]({{< relref "/blog/0091" >}})

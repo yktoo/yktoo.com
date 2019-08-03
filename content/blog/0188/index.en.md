@@ -4,7 +4,7 @@ title: "Tomasa Quartet in De Observant"
 tags: ["Amersfoort", "jazz", "music", "Observant", "Tomasa Quartet"]
 ---
 
-Tomasa Quartet, whom I know since [Dias Latinos 2011][post:109], honoured Amersfoort with a live gig. I couldn't miss the (quite rare) opportunity of seeing that.
+Tomasa Quartet, whom I know since [Dias Latinos 2011]({{< relref "/blog/0109" >}}), honoured Amersfoort with a live gig. I couldn't miss the (quite rare) opportunity of seeing that.
 {{< imgfig "https://4.bp.blogspot.com/-vDLdFZopQ08/UYPgpy7BqpI/AAAAAAAAXm8/7dCvgEYHktE/s1600/dsc07959.picasaweb.jpg" >}}
 
 <!--more-->

@@ -6,7 +6,7 @@ tags: ["Gnome", "Linux", "Ubuntu", "Unity", "wallpaper", "yktools"]
 
 This bash script picks up a random image file (.jpg, .jpeg or .png) from the predefined directory and sets it as wallpaper.
 
-The [previous version][post:106] of the script worked fine with GNOME 2 and Ubuntu 11.04 (and earlier), but after `GConf` backend was changed to `dconf` in GNOME 3, it stopped working.
+The [previous version]({{< relref "/blog/0106" >}}) of the script worked fine with GNOME 2 and Ubuntu 11.04 (and earlier), but after `GConf` backend was changed to `dconf` in GNOME 3, it stopped working.
 
 <!--more-->
 

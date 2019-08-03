@@ -5,7 +5,7 @@ group: "Sound Switcher Indicator"
 tags: ["indicator", "sound", "Sound Switcher Indicator", "Ubuntu"]
 ---
 
-It's time to fulfil my [promise][post:342], so please meet [Sound Switcher Indicator][route:/software/indicator-sound-switcher] version **2.2.0**.
+It's time to fulfil my [promise]({{< relref "/blog/0342" >}}), so please meet [Sound Switcher Indicator][route:/software/indicator-sound-switcher] version **2.2.0**.
 
 ## What's new {#whats-new}
 

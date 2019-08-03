@@ -4,7 +4,7 @@ title: "Авария Теслы в Баарне"
 tags: ["Tesla", "авто", "Баарн", "Нидерланды", "новости", "происшествия", "СМИ"]
 ---
 
-Дела у {{< fl "Tesla" >}}, до недавних пор гордившейся отсутствием аварий, в последнее время идут неважно. И с финансами [не клеится](http://arstechnica.com/cars/2016/08/tesla-losses-grow-but-musk-says-production-goals-will-be-met-by-year-end/), и аварий уже было порядочно, в том числе и с человеческими жертвами. Вот теперь и до нас добралось: {{< fl "Model S" >}} потерпела крушение в Баарне — городке, где я некогда [работал][post:6].
+Дела у {{< fl "Tesla" >}}, до недавних пор гордившейся отсутствием аварий, в последнее время идут неважно. И с финансами [не клеится](http://arstechnica.com/cars/2016/08/tesla-losses-grow-but-musk-says-production-goals-will-be-met-by-year-end/), и аварий уже было порядочно, в том числе и с человеческими жертвами. Вот теперь и до нас добралось: {{< fl "Model S" >}} потерпела крушение в Баарне — городке, где я некогда [работал]({{< relref "/blog/0006" >}}).
 
 {{< imgfig "https://1.bp.blogspot.com/-OxfxW30uIGs/V9HOPIchCUI/AAAAAAAAnYk/tFYxDxq2kREXZxiJsPnf0gjps48BY0xlgCPcB/s1600/tesla-baarn.jpg" "Авария Tesla Model S в Баарне. Фото nos.nl." >}}
 

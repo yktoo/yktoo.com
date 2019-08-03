@@ -7,7 +7,7 @@ tags: ["Houten", "Netherlands", "trains", "transport"]
 
 The summer is almost over, though I haven't seen much of it. It's been quite busy here, but in a positive sense.
 
-Firstly, I've officially [become a Netherlander][post:219]. Secondly, I've changed job yet again, which I'll tell you about some other time. And finally, I've settled down and ~~got stuck in Holland~~ bought a house.
+Firstly, I've officially [become a Netherlander]({{< relref "/blog/0219" >}}). Secondly, I've changed job yet again, which I'll tell you about some other time. And finally, I've settled down and ~~got stuck in Holland~~ bought a house.
 
 <!--more-->
 
@@ -65,4 +65,4 @@ A curious fact: there's another station between these two, which serves as a [re
 For next few decades it was a family house and an office, and in 2007, when the railroad was to be expanded, the station building was put on wheels and moved a few hundred metres away. According to the information board installed nearby, the unique project was sponsored by the municipality, business and private donations.
 {{< imgfig "https://3.bp.blogspot.com/-krjGa7EIUUs/U_uLS2wIzmI/AAAAAAAAfIk/Zm079fWdqCA/s1600/dsc06427.picasaweb.jpg" >}}
 
-Next: [Part 2. Bikes][post:222]
+Next: [Part 2. Bikes]({{< relref "/blog/0222" >}})

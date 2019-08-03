@@ -5,7 +5,7 @@ group: "Egypt. Hurghada"
 tags: ["belly dance", "desert", "Egypt", "Hurghada", "quad bikes", "sand", "travel"]
 ---
 
-From the [miraculous sea][post:209] we migrate westward, to the desert that spans most of the area at the opposite side of Hurghada city. Desert is something you can always count on here in Africa, it's just a couple of miles away from the city:
+From the [miraculous sea]({{< relref "/blog/0209" >}}) we migrate westward, to the desert that spans most of the area at the opposite side of Hurghada city. Desert is something you can always count on here in Africa, it's just a couple of miles away from the city:
 {{< imgfig "https://4.bp.blogspot.com/-ZIlykVj8p5E/UsQMfrCJGvI/AAAAAAAAbQw/sNulcgz5OQ8/s1600/dsc02394.picasaweb.jpg" >}}
 
 <!--more-->
@@ -79,7 +79,7 @@ Some even got on the roof of the jeep to have a better view:
 The next stop was at that same ridge we saw the mirage before.
 {{< imgfig "https://1.bp.blogspot.com/-N7400Y3JzGU/UsQMiAsVViI/AAAAAAAAbRA/6VwxmiuyIa4/s1600/dsc02396.picasaweb.jpg" >}}
 
-One of them, about thirty metres (100") high, gives a good overview of the surrounding desert. While everyone ascends the hill, all the jeeps drive to the opposite side of it to collect us there. By the way, here in the middle you can see that same Dutch family with six kids I [mentioned][post:209] before:
+One of them, about thirty metres (100") high, gives a good overview of the surrounding desert. While everyone ascends the hill, all the jeeps drive to the opposite side of it to collect us there. By the way, here in the middle you can see that same Dutch family with six kids I [mentioned]({{< relref "/blog/0209" >}}) before:
 {{< imgfig "https://2.bp.blogspot.com/-jW6ISRpb5KI/UsQMmTTvDqI/AAAAAAAAbRY/n9YnZ-0qaxg/s1600/dsc02413.picasaweb.jpg" >}}
 
 Views from the top:
@@ -237,4 +237,4 @@ The very last activity called stargazing was really ridiculous. The stars were o
 
 To conclude, I really liked the programme. But I would personally skip a number of small items, in favour of quad bikes and camel ride, for instance.
 
-The [next part][post:211] is going to be the most interesting: the story about Hurghada city.
+The [next part]({{< relref "/blog/0211" >}}) is going to be the most interesting: the story about Hurghada city.

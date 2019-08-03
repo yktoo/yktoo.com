@@ -45,7 +45,7 @@ As to my losses, they proved to be much more substantial. Besides a few discount
 
  * My Dutch driving license. A replacement cost me € 48 euros and a few days.
  * Public transport card. A duplicate costs just € 11, but I had to wait about three weeks, and buy paper train tickets every day. My expenses on them counted some 250 euros, but that amount was completely reimbursed after I declared them.
- * The worst was my residence permit card. It was incredibly silly to carry it all the time, but I realised that too late. You never need it to identify yourself if you have a driving license, and otherwise a photocopy would do. But it absolutely required when crossing the border, because it replaces a visa. Without it I could leave the country, and we already have planned our [Barcelona trip][post:162] on June 1<sup>st</sup>.
+ * The worst was my residence permit card. It was incredibly silly to carry it all the time, but I realised that too late. You never need it to identify yourself if you have a driving license, and otherwise a photocopy would do. But it absolutely required when crossing the border, because it replaces a visa. Without it I could leave the country, and we already have planned our [Barcelona trip]({{< relref path="/blog/0162" lang="ru" >}}) on June 1<sup>st</sup>.
 
   Do you have an idea how much a replacement of this piece of plastic would cost? You're wrong. The right answer is € 250. But that's not the whole story—you have to patiently wait at least two months to get your hands on it. We didn't possess this much patience. So I went for another alternative, namely a Dutch return visa. It isn't cheap either, € 140, but you get it immediately. And since my residence permit was about to expire anyway, I simply applied for a new one.
 

@@ -8,7 +8,7 @@ layout: single
 
 ## About me
 
-Hello there. My name is Dmitry Kann (Cyrillic: *Дмитрий Канн*). I was born and bred in Russia, but in **2008** I've moved to the Netherlands, which became my new home. I live in a beautiful town called [Houten][post:221].
+Hello there. My name is Dmitry Kann (Cyrillic: {{< fl "Дмитрий Канн" >}}). I was born and bred in Russia, but in **2008** I've moved to the Netherlands, which became my new home. I live in a beautiful town called [Houten]({{< relref "/blog/0221" >}}).
 
 I'm a software developer and the founder of a small software company called [Yktoo Solutions](https://yktoo.solutions).
 

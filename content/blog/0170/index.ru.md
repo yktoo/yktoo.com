@@ -4,7 +4,7 @@ title: "Metal for Mara в P60"
 tags: ["Autumn", "Kingfisher Sky", "P60", "progressive metal", "Sin7sinS", "Stream of Passion", "музыка", "Нидерланды"]
 ---
 
-17 ноября в амстелвейнском клубе [P60](http://www.p60.nl/) (в котором я уже был дважды: [1][post:98], [2][post:101]) состоялся благотворительный концерт под названием {{< fl "Metal for Mara" >}}.
+17 ноября в амстелвейнском клубе [P60](http://www.p60.nl/) (в котором я уже был дважды: [1]({{< relref "/blog/0098" >}}), [2]({{< relref "/blog/0101" >}})) состоялся благотворительный концерт под названием {{< fl "Metal for Mara" >}}.
 
 Участниками концерта были заявлены группы {{< fl "Sin7sinS" >}}, {{< fl "Kingfisher Sky" >}}, {{< fl "Autumn" >}}, {{< fl "My Favorite Scar" >}}, {{< fl "The Gathering '92" >}} и {{< fl "Stream of Passion" >}}. «Надо идти», — подумал я, глядя на состав.
 
@@ -22,7 +22,7 @@ tags: ["Autumn", "Kingfisher Sky", "P60", "progressive metal", "Sin7sinS", "Stre
 
 ## Sin7sinS {#sin7sins}
 
-Первыми были мои старые знакомые по [прошлому][post:98] концерту в том же месте [Sin7sinS](http://www.sin7sins.com/), выступавшие на разогреве у Stream of Passion.
+Первыми были мои старые знакомые по [прошлому]({{< relref "/blog/0098" >}}) концерту в том же месте [Sin7sinS](http://www.sin7sins.com/), выступавшие на разогреве у Stream of Passion.
 {{< imgfig "https://1.bp.blogspot.com/-yhLlfFdkqMg/UK6OO86cRDI/AAAAAAAAV7M/zX4M6SCmqtY/s1600/dsc05619.picasaweb.jpg" >}}
 
 Та же неистовая вокалистка Lotus в той же розовой юбке. Но на этот раз в корсете.

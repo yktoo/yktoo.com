@@ -73,4 +73,4 @@ And, talking about monsters, there's more to be found in the streets of Vienna:
 Some people prefer to save themselves climbing up a wall:
 {{< imgfig "https://2.bp.blogspot.com/-DEGuxz2OZgA/Taat3sDpkDI/AAAAAAAAItc/Gi-V0Xa3bvs/s1600/dsc01446.picasaweb.jpg" >}}
 
-Next: [Part 3. Vienna. Prater][post:85]
+Next: [Part 3. Vienna. Prater]({{< relref "/blog/0085" >}})

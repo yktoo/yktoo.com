@@ -12,6 +12,6 @@ I've finally got to update my [Sound Switcher Indicator][route:/software/indicat
 
 Although this doesn't look like a drastic change, it required a major code rewrite. Which is for the better I hope. I've finally managed to address thread [race conditions][wiki:en:Race_condition] by moving PulseAudio callback handling to the GUI thread and getting rid of the dubious `Gdk.threads_init()`.
 
-I've made most of the implementation during the long flight to [Egypt][post:209], when I suffered from being offline and unable to google. But the final bit required [consulting](http://stackoverflow.com/questions/20844540/handle-a-signal-in-another-thread-in-python) StackOverflow and took much longer.
+I've made most of the implementation during the long flight to [Egypt]({{< relref "/blog/0209" >}}), when I suffered from being offline and unable to google. But the final bit required [consulting](http://stackoverflow.com/questions/20844540/handle-a-signal-in-another-thread-in-python) StackOverflow and took much longer.
 
 You can install or update the application, as usual, via my Launchpad PPA, see the [installation manual][route:/software/indicator-sound-switcher].

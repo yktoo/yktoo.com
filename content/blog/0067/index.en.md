@@ -30,4 +30,4 @@ I ran across a covey of chilled Santa Clauses playing cheerful tunes, what heroi
 Ubiquitous Dutch bikes may now look like this:
 {{< imgfig "https://2.bp.blogspot.com/-TuVEDPPDaOg/ThiaBJDwGlI/AAAAAAAAI7U/WQoMDCsjCcI/s1600/DSC00504.picasaweb.jpg" >}}
 
-Be sure to check [this updated post][post:63] out as well!
+Be sure to check [this updated post]({{< relref "/blog/0063" >}}) out as well!

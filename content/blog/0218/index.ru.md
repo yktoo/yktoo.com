@@ -5,7 +5,7 @@ group: "Sound Switcher Indicator"
 tags: ["Precise Pangolin", "PulseAudio", "Python", "Quantal Quetzal", "Raring Ringtail", "Saucy Salamander", "Sound Switcher Indicator", "Trusty Tahr", "Ubuntu", "Unity", "звук", "индикатор"]
 ---
 
-После [предыдущего][post:217] релиза [Sound Switcher Indicator][route:/software/indicator-sound-switcher] о нём [написал](http://www.webupd8.org/2014/02/sound-switcher-ubuntu-indicator.html) довольно известный ресурс Web Upd8, и я ~~проснулся знаменитым~~ сразу начал получать багрепорты, фичереквесты, вопросы и предложения.
+После [предыдущего]({{< relref "/blog/0217" >}}) релиза [Sound Switcher Indicator][route:/software/indicator-sound-switcher] о нём [написал](http://www.webupd8.org/2014/02/sound-switcher-ubuntu-indicator.html) довольно известный ресурс Web Upd8, и я ~~проснулся знаменитым~~ сразу начал получать багрепорты, фичереквесты, вопросы и предложения.
 
 Так, например, выяснилось, что индикатор используют в предыдущих версиях Убунту (вплоть до 12.04).
 

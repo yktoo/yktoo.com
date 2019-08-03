@@ -37,7 +37,7 @@ And the last observation regarding restaurants and prices. I gave a glance to th
 Here's that hotel:
 {{< imgfig "https://4.bp.blogspot.com/-0pcjBSgkYxg/Tan3A6yUFvI/AAAAAAAAItc/1N1bCoIUzHQ/s1600/dsc01716.picasaweb.jpg" >}}
 
-Impressive, isn't it? Budapest at night is a magnificent view. And the streets, like in [the Netherlands][post:66] are completely deserted after 8 PM.
+Impressive, isn't it? Budapest at night is a magnificent view. And the streets, like in [the Netherlands]({{< relref "/blog/0066" >}}) are completely deserted after 8 PM.
 
 This is the quay of the Danube:
 {{< imgfig "https://1.bp.blogspot.com/-WAfcErjHRAU/Tan2zwV6_vI/AAAAAAAAItc/69BtjGIEBEY/s1600/dsc01691.picasaweb.jpg" >}}
@@ -70,4 +70,4 @@ And, at last, St. Stephen's Basilica ({{< fl "Szent István-bazilika" >}}):
 
 I'll come back to it later, in the daytime. Its interiors are simply stunning.
 
-Next: [Part 8. Budapest by day][post:90]
+Next: [Part 8. Budapest by day]({{< relref "/blog/0090" >}})

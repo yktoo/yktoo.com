@@ -4,7 +4,7 @@ title: "Ubuntu/GNOME 3 XML wallpaper creation"
 tags: ["Gnome", "Linux", "Ubuntu", "Unity", "wallpaper", "yktools"]
 ---
 
-I already [published][post:122] a script that sets a random image file as desktop wallpaper. It has only one downside: you have to run it every time you want to rotate your wallpaper.
+I already [published]({{< relref "/blog/0122" >}}) a script that sets a random image file as desktop wallpaper. It has only one downside: you have to run it every time you want to rotate your wallpaper.
 
 However GNOME since 2.28 allows assigning a slide show as wallpaper by providing an image list in XML format. There you can specify the order and duration for each image. Moreover, you can even define a transition from one image to another.
 

@@ -4,7 +4,7 @@ title: "Harlingen"
 tags: ["Harlingen", "haven", "Netherlands"]
 ---
 
-During our [trip to Leeuwarden][post:205] we have also visited, among other places, the port town of [Harlingen][wiki:en:Harlingen,_Friesland].
+During our [trip to Leeuwarden]({{< relref "/blog/0205" >}}) we have also visited, among other places, the port town of [Harlingen][wiki:en:Harlingen,_Friesland].
 
 The highlights of that visit can be described as: wind, sky, open water and VIEWS. Harlingen is so small that it's barely visible on a map, so but 15 thousand people enjoy these views.
 {{< imgfig "https://2.bp.blogspot.com/-pLASqy3Of8Q/UhoJI6y68HI/AAAAAAAAZbo/TiwV1PaiZ5w/s1600/dsc09727.picasaweb.jpg" >}}

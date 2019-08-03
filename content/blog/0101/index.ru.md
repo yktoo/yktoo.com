@@ -16,7 +16,7 @@ tags: ["Anathema", "Kinkobra", "P60", "progressive metal", "progressive rock", "
 
 Я небольшой любитель описывать музыку буквами, добавлю лишь, что альбом «We're Here Because We're Here», который они представляли, был сведён гениальным Стивеном Вилсоном ({{< fl "Porcupine Tree" >}}, {{< fl "Blackfield" >}}), а журнал {{< fl "Classic Rock" >}} присудил ему звание {{< fl "Prog Album of the Year" >}}. Закономерно, что их музыка всё более приобретает {{< fl "ambience" >}} и становится похожей на «звуковые картины» {{< fl "Porcupine Tree" >}}.
 
-Мероприятие опять проходило в клубе [P60](http://www.p60.nl/), где я две недели назад [созерцал][post:98] {{< fl "Stream of Passion" >}}.
+Мероприятие опять проходило в клубе [P60](http://www.p60.nl/), где я две недели назад [созерцал]({{< relref "/blog/0098" >}}) {{< fl "Stream of Passion" >}}.
 
 ## Kinkobra {#kinkobra}
 

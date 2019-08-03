@@ -6,7 +6,7 @@ tags: ["Amersfoort", "carillon", "music", "Netherlands", "tower", "video"]
 
 Last weekend I've finally got to visit the most eminent, in every meaning, place in Amersfoort. Since I'd come to live here, my country has changed its president twice, one of them has divorced and the other has made quite a few equally destructive achievements, yet I failed to take my time to get to it.
 
-In the brochure of [Spoffin][post:196] I found a discount coupon for climbing the tower for € 2.50 instead of € 4. The coupon was valid until August 31<sup>st</sup>, which conveniently fell on Saturday. This chance we couldn't miss.
+In the brochure of [Spoffin]({{< relref "/blog/0196" >}}) I found a discount coupon for climbing the tower for € 2.50 instead of € 4. The coupon was valid until August 31<sup>st</sup>, which conveniently fell on Saturday. This chance we couldn't miss.
 {{< imgfig "https://4.bp.blogspot.com/-P6mbkylRitg/UimiqwmGXOI/AAAAAAAAaYU/F37sC5luqAs/s1600/Onze_Lieve_Vrouwetoren.picasaweb.jpg" "Photo by Pepijntje, via Wikimedia Commons." >}}
 
 <!--more-->

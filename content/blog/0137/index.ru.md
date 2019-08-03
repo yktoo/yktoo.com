@@ -4,7 +4,7 @@ title: "Йоханнес Хестерс умер"
 tags: ["Амерсфорт", "Йоханнес Хестерс", "некрологи", "Нидерланды"]
 ---
 
-Последнее [ухудшение состояния][post:132] певца родом из Амерсфорта Йоханнеса Хестерса оказалось [фатальным](http://www.washingtonpost.com/world/europe/entertainer-heesters-dies-at-age-108-after-long-career-started-in-nazi-germany/2011/12/24/gIQA8ITkFP_story.html). Хестерс умер утром 24 декабря 2012 года, в канун Рождества, в возрасте 108 лет.
+Последнее [ухудшение состояния]({{< relref "/blog/0132" >}}) певца родом из Амерсфорта Йоханнеса Хестерса оказалось [фатальным](http://www.washingtonpost.com/world/europe/entertainer-heesters-dies-at-age-108-after-long-career-started-in-nazi-germany/2011/12/24/gIQA8ITkFP_story.html). Хестерс умер утром 24 декабря 2012 года, в канун Рождества, в возрасте 108 лет.
 
 <!--more-->
 

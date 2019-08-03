@@ -36,4 +36,4 @@ The belfry of Ghent ({{< fl "Belfort" >}}):
 St Peter's Abbey ([Sint-Pietersabdij](http://www.sintpietersabdijgent.be/)):
 {{< imgfig "https://2.bp.blogspot.com/-msBtFv1nRWQ/UtWFjjrLVhI/AAAAAAAAbw4/BREFEu43ttg/s1600/dsc02932.picasaweb.jpg" >}}
 
-[The next part][post:214] will be about the official Ghent graffiti street.
+[The next part]({{< relref "/blog/0214" >}}) will be about the official Ghent graffiti street.

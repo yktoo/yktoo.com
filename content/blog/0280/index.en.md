@@ -4,7 +4,7 @@ title: "Ambient backlighting for Samsung LED TV"
 tags: ["DIY", "gadgets", "geek porn", "hardware", "IKEA", "light", "Samsung", "TV"]
 ---
 
-Being quite happy with my [75 inch whopper][post:243] {{< fl "Samsung UE75HU7500" >}}, the only thing I wanted to do about it was giving it ambient backlighting. When watching TV in complete darkness your eyes get quickly tired because of the stark contrast between the bright screen and its dark surroundings. Even though this device features an ambient light sensor, which is used to automatically adjust the screen brightness, the contrast is still all too harsh.
+Being quite happy with my [75 inch whopper]({{< relref "/blog/0243" >}}) {{< fl "Samsung UE75HU7500" >}}, the only thing I wanted to do about it was giving it ambient backlighting. When watching TV in complete darkness your eyes get quickly tired because of the stark contrast between the bright screen and its dark surroundings. Even though this device features an ambient light sensor, which is used to automatically adjust the screen brightness, the contrast is still all too harsh.
 
 <!--more-->
 
@@ -82,9 +82,9 @@ Surprisingly enough, it all operates exactly as intended. The backlighting goes 
 ## See also {#see-also}
 
 * **4K UHD TV Samsung UE75HU7500: a complete review**:
-    1. [Specifications and unboxing][post:243]
-    2. [Connect and control][post:244]
-    3. [Accessories][post:245]
-    4. [Smart Hub and applications][post:246]
-    5. [AV format support][post:247]
-    6. [Location, conclusions][post:248]
+    1. [Specifications and unboxing]({{< relref "/blog/0243" >}})
+    2. [Connect and control]({{< relref "/blog/0244" >}})
+    3. [Accessories]({{< relref "/blog/0245" >}})
+    4. [Smart Hub and applications]({{< relref "/blog/0246" >}})
+    5. [AV format support]({{< relref "/blog/0247" >}})
+    6. [Location, conclusions]({{< relref "/blog/0248" >}})

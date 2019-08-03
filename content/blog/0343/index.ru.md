@@ -5,7 +5,7 @@ group: "Sound Switcher Indicator"
 tags: ["Sound Switcher Indicator", "Ubuntu"]
 ---
 
-Пришло время исполнять [обещанное][post:342], так что представляю на ваш суд версию [Sound Switcher Indicator][route:/software/indicator-sound-switcher] **2.2.0**.
+Пришло время исполнять [обещанное]({{< relref "/blog/0342" >}}), так что представляю на ваш суд версию [Sound Switcher Indicator][route:/software/indicator-sound-switcher] **2.2.0**.
 
 ## Что нового {#whats-new}
 

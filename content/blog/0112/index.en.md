@@ -46,4 +46,4 @@ You have to apply antibiotic eye drops during one week, and "artificial tears" o
 The first night I had to sleep with this gear on my face:
 {{< imgfig "https://3.bp.blogspot.com/-ZyRylJxx5P4/Tl5urw7Rw_I/AAAAAAAAJkk/KjzebzclOM0/s1600/dsc06411.picasaweb.jpg" >}}
 
-**Update.** [Here are][post:160] the results a year later.
+**Update.** [Here are]({{< relref "/blog/0160" >}}) the results a year later.

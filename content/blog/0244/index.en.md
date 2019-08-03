@@ -16,7 +16,7 @@ Namely they are:
 
 * Two USB 2.0 ports
 * One USB 3.0 port
-* A socket for [One Connect Box][post:245]
+* A socket for [One Connect Box]({{< relref "/blog/0245" >}})
 * Optical audio output
 * Four HDMI inputs
 * Satellite dish connectors
@@ -32,7 +32,7 @@ Namely they are:
 
 Not that it's a lot, but nowadays HDMI is most common, and there are four of them here.
 
-If you happen to have four hundred euros you don't need, you can spend it on the above-mentioned **One Connect Box**. In this case all the devices can be connected via the box, which in turn connected to the TV with a single cable (more on this in the next part, [Accesories][post:245]).
+If you happen to have four hundred euros you don't need, you can spend it on the above-mentioned **One Connect Box**. In this case all the devices can be connected via the box, which in turn connected to the TV with a single cable (more on this in the next part, [Accesories]({{< relref "/blog/0245" >}})).
 
 Of all these AV inputs I only used HDMI. This device doesn't support the new *HDMI with Ethernet* standard, so you'll have to hook it up to Ethernet (100 Mbps) with a separate cable. On the good side, it does have support for *Anynet+* (also known as [HDMI-CEC][wiki:en:HDMI]), which is a protocol allowing controlling other devices via HDMI.
 
@@ -72,9 +72,9 @@ For this to work you have to be 1.5 to 5 m away from the screen, and well visibl
 
 ## IR extender {#ir-extender}
 
-The infrared blaster mentioned [before][post:243] can transmit commands to various devices, which makes it possible to control them with your TV's remote in most cases. Once set up, the TV will switch your set-top box (STB) on and off automatically. It can also change channels, invoke STB's menu and TV guide:
+The infrared blaster mentioned [before]({{< relref "/blog/0243" >}}) can transmit commands to various devices, which makes it possible to control them with your TV's remote in most cases. Once set up, the TV will switch your set-top box (STB) on and off automatically. It can also change channels, invoke STB's menu and TV guide:
 {{< imgfig "https://1.bp.blogspot.com/-0MuO3X94Xxw/VQQq-l-Z4rI/AAAAAAAAhNY/09W6N1eVgJk/s1600/dsc08029.picasaweb.jpg" "Invoking TV guide from TV's remote." >}}
 
 Of course, this screen doesn't support the mouse mode (the STB knows nothing of it), so you'll have to use the arrow buttons. But it's still quite handy and works well.
 
-*Next:* [Part three. Accessories][post:245]
+*Next:* [Part three. Accessories]({{< relref "/blog/0245" >}})

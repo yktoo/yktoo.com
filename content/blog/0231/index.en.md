@@ -4,7 +4,7 @@ title: "Replacing HDD with SSD in iMac 2010"
 tags: ["Apple", "DIY", "gadgets", "geek porn", "hardware", "iMac", "Samsung", "Samsung 840 EVO", "SSD", "Trusty Tahr", "Ubuntu"]
 ---
 
-It's been exactly four delightful years when the HDD in my [iMac 27"][post:120] informed me it couldn't take it any longer. "Disk I/O error", it said.
+It's been exactly four delightful years when the HDD in my [iMac 27"]({{< relref "/blog/0120" >}}) informed me it couldn't take it any longer. "Disk I/O error", it said.
 
 At that moment I already had plans to upgrade it with an SSD ([solid-state drive][wiki:en:Solid-state_drive]). Those are much snappier and completely silent since there are no moving parts inside.
 
@@ -82,7 +82,7 @@ Now retrace your moves of the step #2 by reconnecting the cables and refixing th
 
 The rest is a usual routine. I had to begin with Mac OS X installation from the original DVD, then repartition the drive and install Ubuntu in a separate partition (installed 14.04 Trusty Tahr without a glitch).
 
-I'm making back-ups regularly, therefore I wasn't affected that much by HDD failure. Even better, I've salvaged the remaining unsaved bits in its last minutes (among which my [post about Houten][post:221], by the way). After that the drive has never been seen alive—after a few hours of [ddrescue](http://www.gnu.org/software/ddrescue/), which I ran out of curiosity, I failed to extort a single byte of data.
+I'm making back-ups regularly, therefore I wasn't affected that much by HDD failure. Even better, I've salvaged the remaining unsaved bits in its last minutes (among which my [post about Houten]({{< relref "/blog/0221" >}}), by the way). After that the drive has never been seen alive—after a few hours of [ddrescue](http://www.gnu.org/software/ddrescue/), which I ran out of curiosity, I failed to extort a single byte of data.
 
 It's been now four months, and everything works like a charm. SSD's performance is absolutely fantastic, so the applications start instantaneously:
 
@@ -99,8 +99,8 @@ $ dd if=tempfile of=/dev/null bs=1M count=1024
 
 It doesn't reach the promised 540 MB/s though (because my iMac only has a 3 Gbps SATA III interface), but I'm happy with what it is.
 
-Continue reading: [how to tune Ubuntu][post:233] for an SSD, there are some useful tricks.
+Continue reading: [how to tune Ubuntu]({{< relref "/blog/0233" >}}) for an SSD, there are some useful tricks.
 
 ## See also
 
-* [Fixing Samsung SSD 840 EVO performance issues in Linux][post:255]
+* [Fixing Samsung SSD 840 EVO performance issues in Linux]({{< relref "/blog/0255" >}})

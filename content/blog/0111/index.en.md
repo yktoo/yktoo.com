@@ -4,7 +4,7 @@ title: "Interview with Daniël de Jong (Desperados)"
 tags: ["Desperados", "interview", "music", "Netherlands"]
 ---
 
-Tonight I surprised myself. It all began when my materials about [Dias Latinos][post:109], the footage in particular, were all of a sudden highly evaluated by the [Desperados](http://www.desperados-music.com/) band, mentioned in the above post. The frontman Daniël de Jong asked me if I could give him the original footage to use it for their promo package. We've met, started chatting and… then I decided I could make an interview out of it.
+Tonight I surprised myself. It all began when my materials about [Dias Latinos]({{< relref "/blog/0109" >}}), the footage in particular, were all of a sudden highly evaluated by the [Desperados](http://www.desperados-music.com/) band, mentioned in the above post. The frontman Daniël de Jong asked me if I could give him the original footage to use it for their promo package. We've met, started chatting and… then I decided I could make an interview out of it.
 
 <!--more-->
 

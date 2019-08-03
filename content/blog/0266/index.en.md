@@ -4,9 +4,9 @@ title: "On the subject of running"
 tags: ["Amersfoort", "Amsterdam-Rhine Canal", "castle", "De Haar", "De Halve van de Haar", "Houten", "Loop door Houten", "Marathon Amersfoort", "Netherlands", "running", "sport", "upshot"]
 ---
 
-The year is coming to an end again, with so much left to run. I can't repeat my [2013's record][post:209] of 800 km this year—in 2015 I've only run some **600 km**. Not because I'm lazy, but due to being more active in aikido.
+The year is coming to an end again, with so much left to run. I can't repeat my [2013's record]({{< relref "/blog/0209" >}}) of 800 km this year—in 2015 I've only run some **600 km**. Not because I'm lazy, but due to being more active in aikido.
 
-Houten's ["bike avenues"][post:222] are great to run on, also because there are not so many bikes using them at the time when I'm running, that is in the evening and during the weekend.
+Houten's ["bike avenues"]({{< relref "/blog/0222" >}}) are great to run on, also because there are not so many bikes using them at the time when I'm running, that is in the evening and during the weekend.
 
 <!--more-->
 
@@ -44,7 +44,7 @@ So far I've taken part in two of such events.
 
 Since almost everyone is running in Holland, there's a high demand for new (half) marathons. One of these new was [De Halve van de Haar](http://www.dehalvevandehaar.nl/) ("The Half of De Haar"). I took part in its very first occurrence on April 6, 2015.
 
-A special thing about it, as the name suggests, is that it's held in the park of the [De Haar Castle][wiki:en:Kasteel_de_Haar], which I [visited][post:12] back in my first days in the country.
+A special thing about it, as the name suggests, is that it's held in the park of the [De Haar Castle][wiki:en:Kasteel_de_Haar], which I [visited]({{< relref path="/blog/0012" lang="ru" >}}) back in my first days in the country.
 
 Every participant is given an individual number equipped with an RFID chip. This chip is read by special scanners at the start and finish. You can also write your personal data on the back side of the number, to be used in the case of emergency. The yellow stripes denote the quarter marathon distance of **10.5 km**.
 {{< imgfig "https://3.bp.blogspot.com/-7WBx_Pj1NWA/VU98tz7mkpI/AAAAAAAAiks/REiX-GBoCuA/s1600/dsc08699.picasaweb.jpg" "Bib number with an RFID chip." >}}

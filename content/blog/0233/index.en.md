@@ -4,7 +4,7 @@ title: "Tuning Ubuntu for SSD"
 tags: ["how-to", "Linux", "optimisation", "SSD", "Ubuntu"]
 ---
 
-In my [last post][post:231] I told you about upgrading an iMac with a solid-state drive (SSD). These drives are very fast (read throughput is usually ca. 500 MB/s if connected via a 6 Gbps SATA III) and completely silent.
+In my [last post]({{< relref "/blog/0231" >}}) I told you about upgrading an iMac with a solid-state drive (SSD). These drives are very fast (read throughput is usually ca. 500 MB/s if connected via a 6 Gbps SATA III) and completely silent.
 
 <!--more-->
 
@@ -130,4 +130,4 @@ You'll need to have the `smartmontools` package installed for that.
 
 ## See also {#see-also}
 
-* [Fixing Samsung SSD 840 EVO performance issues in Linux][post:255]
+* [Fixing Samsung SSD 840 EVO performance issues in Linux]({{< relref "/blog/0255" >}})

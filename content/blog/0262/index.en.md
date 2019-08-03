@@ -10,7 +10,7 @@ The cause for such a strange wish is called [Elfstedentocht][wiki:en:Elfstedento
 
 <!--more-->
 
-Elfstedentocht is a skating match of about 200 kilometres, starting and finishing in [Leeuwarden][post:205] and leading along frozen rivers and lakes past eleven [Frisian][wiki:en:Friesland] cities. Therefore for the tour to be possible the minimum ice thickness of 15 cm is required.
+Elfstedentocht is a skating match of about 200 kilometres, starting and finishing in [Leeuwarden]({{< relref "/blog/0205" >}}) and leading along frozen rivers and lakes past eleven [Frisian][wiki:en:Friesland] cities. Therefore for the tour to be possible the minimum ice thickness of 15 cm is required.
 
 The problem is, with our average winter temperature of **+7° C** it is a bit unlikely to get any ice at all. There are sometimes cold spells with moderate subzero temperatures, but still: the last {{< fl "Elfstedentocht" >}} was held in 1997, i.e. eighteen winters ago.
 

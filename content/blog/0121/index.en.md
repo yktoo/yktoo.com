@@ -4,7 +4,7 @@ title: "Minority report"
 tags: ["Apple", "Richard Stallman", "RIP", "Steve Jobs"]
 ---
 
-In the [groaning and moaning][post:119] on Steve Jobs' passing minority opinions coming from the dissentients get eminent.
+In the [groaning and moaning]({{< relref "/blog/0119" >}}) on Steve Jobs' passing minority opinions coming from the dissentients get eminent.
 
 Ryan Tate wrote a lengthy article [What Everyone Is Too Polite to Say About Steve Jobs](http://gawker.com/5847344/what-everyone-is-too-polite-to-say-about-steve-jobs) for Gawker. Its primary message is:
 

@@ -4,7 +4,7 @@ title: "Johannes Heesters passed away"
 tags: ["Amersfoort", "Johannes Heesters", "Netherlands", "RIP"]
 ---
 
-Johannes Heesters, an entertainer born in Amersfoort, who [felt unwell][post:132] just a few weeks ago, [died](http://www.washingtonpost.com/world/europe/entertainer-heesters-dies-at-age-108-after-long-career-started-in-nazi-germany/2011/12/24/gIQA8ITkFP_story.html) on Christmas Eve, December 24, 2012, aged 108.
+Johannes Heesters, an entertainer born in Amersfoort, who [felt unwell]({{< relref "/blog/0132" >}}) just a few weeks ago, [died](http://www.washingtonpost.com/world/europe/entertainer-heesters-dies-at-age-108-after-long-career-started-in-nazi-germany/2011/12/24/gIQA8ITkFP_story.html) on Christmas Eve, December 24, 2012, aged 108.
 
 <!--more-->
 

@@ -12,7 +12,7 @@ Just before those, very special for both sides, events I've visited two performa
 
 ## Winter in Eden in P60 {#winter-in-eden-in-p60}
 
-The first one happened on September 6<sup>th</sup> in the club [P60](http://www.p60.nl/) of Amstelveen, where I have been many times already. I've also [seen][post:98] Stream of Passion there for the first time.
+The first one happened on September 6<sup>th</sup> in the club [P60](http://www.p60.nl/) of Amstelveen, where I have been many times already. I've also [seen]({{< relref path="/blog/0098" lang="ru" >}}) Stream of Passion there for the first time.
 
 The supporting act was for the British progressive metal band [Winter in Eden](http://www.winterineden.com/), which I never heard about.
 {{< imgfig "https://4.bp.blogspot.com/-SKjoo_QXsho/UjBocfrz-iI/AAAAAAAAaZU/SSXcuppuJq4/s1600/dsc01128.picasaweb.jpg" >}}
@@ -98,7 +98,7 @@ Here's all my footage of Passion:
 
 ## Special Acoustic Evening with Stream of Passion {#special-acoustic-evening-with-sop}
 
-The second event, happened exactly a week later, on September 13<sup>th</sup>, in [Tivoli Spiegelbar](http://www.tivoli.nl/Tivoli-Spiegelbar) of Utrecht was the "Special Acoustic Evening with Stream of Passion". {{< fl "Spiegelbar" >}} ("mirror bar" in Dutch, apparently named after numerous mirror balls hanging there) is a sibling of another Tivoli venue, [De Helling](http://www.tivoli.nl/Tivoli-de-Helling), where I spent the "[Winter Evening][post:175]" with the same crowd.
+The second event, happened exactly a week later, on September 13<sup>th</sup>, in [Tivoli Spiegelbar](http://www.tivoli.nl/Tivoli-Spiegelbar) of Utrecht was the "Special Acoustic Evening with Stream of Passion". {{< fl "Spiegelbar" >}} ("mirror bar" in Dutch, apparently named after numerous mirror balls hanging there) is a sibling of another Tivoli venue, [De Helling](http://www.tivoli.nl/Tivoli-de-Helling), where I spent the "[Winter Evening]({{< relref "/blog/0175" >}})" with the same crowd.
 
 What can I say, I was blown away! Marcela's voice sounds fantastic in acoustic, more colourful and touching in my opinion.
 

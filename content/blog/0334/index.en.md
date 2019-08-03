@@ -4,7 +4,7 @@ title: "Anniversary: ten years in the Netherlands"
 tags: ["anniversary", "Netherlands", "reflections", "upshot"]
 ---
 
-It's been exactly ten years since I've [moved][post:1] to the Netherlands. And it's been an eventful time!
+It's been exactly ten years since I've [moved]({{< relref "/blog/0001" >}}) to the Netherlands. And it's been an eventful time!
 
 <!--more-->
 

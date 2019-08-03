@@ -6,7 +6,7 @@ tags: ["Amersfoort", "Amersfoort Marathon", "half marathon", "Netherlands", "run
 
 Yet another medal in your newsfeed!
 
-It's high time for running, so it seems: I've recently completed the [Ijsselsteinloop][post:327] and now, two weeks later, a half marathon in [Amersfoort](https://www.marathonamersfoort.nl/). It's been my second time on this event.
+It's high time for running, so it seems: I've recently completed the [Ijsselsteinloop]({{< relref "/blog/0327" >}}) and now, two weeks later, a half marathon in [Amersfoort](https://www.marathonamersfoort.nl/). It's been my second time on this event.
 
 <!--more-->
 
@@ -48,7 +48,7 @@ It was quite bearable in the beginning, but as my body got dehydrated, each kilo
 The toughest bit was the last couple of kilometres, when the sun was the highest. Luckily, this stretch of the run went through the old city where I had enough shade. Anyway, I made it to the finish line and collected the deserved medal!
 {{< imgfig "https://3.bp.blogspot.com/-Uaj0gGABPog/WVd5o6TU6tI/AAAAAAAAqNE/EU9t0erDERoAIM9iVGzhvS1jAfWCJLeswCKgBGAs/s1600/20170618_122037.picasaweb.jpg" "Just finished." >}}
 
-I'm quite happy about my [result](https://results.sporthive.com/events/6280399465689907200/races/395734/bib/878) of **1:48:13**, which is only 19 seconds more than my [record time][post:320]. Considering the weather, I deem it a big personal achievement.
+I'm quite happy about my [result](https://results.sporthive.com/events/6280399465689907200/races/395734/bib/878) of **1:48:13**, which is only 19 seconds more than my [record time]({{< relref "/blog/0320" >}}). Considering the weather, I deem it a big personal achievement.
 {{< imgfig "https://4.bp.blogspot.com/-nMFo5vRaEIE/WVeJHSlUWcI/AAAAAAAAqOM/Mx5M1bFY8QcT6nwI5BpW2fk6RGpzNuUdQCKgBGAs/s1600/marathon-amersfoort-2017-results.picasaweb.png" "My result." >}}
 
 At the start I was standing right in the front row, so my gross and net times are the same.

@@ -4,7 +4,7 @@ title: "Amersfoort Jazz Festival 2013"
 tags: ["Amersfoort", "flamenco", "jazz", "music", "video"]
 ---
 
-Last weekend, 16 through 19 May 2013, the traditional yearly jazz festival took place in Amersfoort, as I [announced][post:183]. Its thirty-fourth edition, to be precise. Chaired by the well-known Alexander Beets:
+Last weekend, 16 through 19 May 2013, the traditional yearly jazz festival took place in Amersfoort, as I [announced]({{< relref "/blog/0183" >}}). Its thirty-fourth edition, to be precise. Chaired by the well-known Alexander Beets:
 {{< imgfig "https://1.bp.blogspot.com/-j2AvSpmVd38/UZ0Lc33S2gI/AAAAAAAAYb8/IZqfcD6m0aE/s1600/dsc08865.picasaweb.jpg" >}}
 
 <!--more-->
@@ -60,7 +60,7 @@ As for me, she's got a strong voice indeed. [Here's a video](http://www.youtube.
 
 ## Ruud Jacobs Tribute Band {#ruud-jacobs}
 
-It's a band formed on {{< fl "Ruud Jacobs'" >}} 75<sup>th</sup> birthday. Ruud plays contrabass, and I also recognised a couple of faces I know from a [concert at De Observant][post:125] — guitarist {{< fl "Martijn van Iterson" >}} (as indifferent as ever) and drummer {{< fl "Gijs Dijkhuizen" >}}:
+It's a band formed on {{< fl "Ruud Jacobs'" >}} 75<sup>th</sup> birthday. Ruud plays contrabass, and I also recognised a couple of faces I know from a [concert at De Observant]({{< relref path="/blog/0125" lang="ru" >}}) — guitarist {{< fl "Martijn van Iterson" >}} (as indifferent as ever) and drummer {{< fl "Gijs Dijkhuizen" >}}:
 {{< youtube "2wkPAA41OdU" >}}
 
 ## International Jazz Summit {#international-jazz-summit}
@@ -72,8 +72,8 @@ Left to right, armed by saxes:
 
 * [Coh Mr. Saxman](http://www.kohmrsaxman.com/), a sax virtuoso from the sunny Thailand;
 * A very famous saxophonist from South Africa whose name my memory failed to keep;
-* Already [known][post:134] Ben van den Dungen;
-* And, last but not least, the Director (also pictured on the very first photo), also [known][post:125] Alexander Beets.
+* Already [known]({{< relref path="/blog/0134" lang="ru" >}}) Ben van den Dungen;
+* And, last but not least, the Director (also pictured on the very first photo), also [known]({{< relref path="/blog/0125" lang="ru" >}}) Alexander Beets.
 
 The four were rocking the place to the top—the last show, you know. The Lieve Vrouwekerkhof was stuffed with cheering and dancing people. Here's one of their videos called {{< fl "Watermelon Man" >}}:
 {{< youtube "tL4l7k3-NRY" >}}

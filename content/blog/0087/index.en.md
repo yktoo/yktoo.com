@@ -38,4 +38,4 @@ In other words, it's the cutting edge of German hi-tech.
 
 Meanwhile, we've arrived at Budapest…
 
-Next: [Part 6. Budapest][post:88]
+Next: [Part 6. Budapest]({{< relref "/blog/0088" >}})

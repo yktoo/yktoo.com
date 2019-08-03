@@ -13,7 +13,7 @@ The public has been expecting such a move from her for a while, since the moment
 
 Local newspapers then began speculating about her resignation and yet, as we can see, it only happened now. The queen appeared on the TV tonight at 7:00 PM with a speech, which caused quite a stir. The TV schedule totally changed since—whatever is broadcast now is in this way or another related to Beatrix, her life and family and, naturally, with Willem-Alexander. Twitter and news agencies boil with words of praise coming from all parts of the world. Interestingly, the articles in Wikipedia ([Russian][wiki:ru:Беатрикс], [English][wiki:en:Beatrix_of_the_Netherlands], [Dutch][wiki:nl:Beatrix_der_Nederlanden]) are already up-to-date.
 
-Beatrix was inaugurated as queen on the [Queens Day][post:153] April 30, 1980. Now, precisely thirty three years later, on April 30, 2013 she will leave the throne to king (crown prince in the meantime) Willem-Alexander, while his wife Máxima will become the new queen.
+Beatrix was inaugurated as queen on the [Queen's Day]({{< relref path="/blog/0153" lang="ru" >}}) back on April 30, 1980. Now, precisely thirty three years later, on April 30, 2013 she will leave the throne to king (crown prince in the meantime) Willem-Alexander, while his wife Máxima will become the new queen.
 {{< imgfig "https://1.bp.blogspot.com/-gJqIt4vsd0s/UQbnpzNaPLI/AAAAAAAAWl8/Xzc8gaM3jFw/s1600/willem-alexander-maxima.jpg" >}}
 
 Dutch monarchy turns 200 this year, counting from 1813 when the Netherlands regained freedom after Napoleon's defeat. Beatrix self will also have an anniversary soon: in three days, on January 31, she'll turn 75. She is quite spry for her age, although some deal of tiredness is visible.

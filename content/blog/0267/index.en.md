@@ -4,7 +4,7 @@ title: "The Aristocrats at De Boerderij"
 tags: ["Bryan Beller", "De Boerderij", "fusion", "Guthrie Govan", "jazz", "Marco Minnemann", "music", "Netherlands", "progressive metal", "The Aristocrats", "Zoetermeer"]
 ---
 
-My personal concert season open by the [Nightwish fellas][post:264] is at its climax.
+My personal concert season open by the [Nightwish fellas]({{< relref "/blog/0264" >}}) is at its climax.
 
 I was fortunate to see a very popular (yet kind of underground) band called [The Aristocrats][wiki:en:The_Aristocrats_(band)] on December 9<sup>th</sup>. The band is playing some mindbogglingly complex tunes ranged from Jazz Fusion to Heavy Prog.
 
@@ -16,7 +16,7 @@ The Aristocrats is a [supergroup][wiki:en:Supergroup_(music)] founded in 2011. L
 
 Unfortunately I can't share much of it with you this time.
 
-The problem is that {{< fl "De Boerderij" >}}, where I've seen [Neal Morse][post:95] and [Arena][post:127], has got spoilt: I was disallowed to take my camera in! I find this outrageous, especially considering how many shows I've seen here in Holland.
+The problem is that {{< fl "De Boerderij" >}}, where I've seen [Neal Morse]({{< relref "/blog/0095" >}}) and [Arena]({{< relref path="/blog/0127" lang="ru" >}}), has got spoilt: I was disallowed to take my camera in! I find this outrageous, especially considering how many shows I've seen here in Holland.
 
 I tried to use my mobile for filming as the next best thing, but at a certain moment was approached by a crew member, who told me that shooting videos was not allowed at all. (On a side note, people closer to the stage were filming whatever they wanted with their compact cameras, but that lad couldn't get to them through the crowd.)
 

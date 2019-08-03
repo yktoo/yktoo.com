@@ -5,7 +5,7 @@ group: "Sound Switcher Indicator"
 tags: ["Gtk3", "PulseAudio", "Python", "Saucy Salamander", "Sound Switcher Indicator", "Ubuntu", "Ubuntu 13.10", "Unity", "звук", "индикатор"]
 ---
 
-Приложение-индикатор для Убунту по имени [Sound Switcher Indicator][route:/software/indicator-sound-switcher] (об истории появления коего на свет я [писал][post:178]) обновился до версии **1.1.1**. Функциональности в этом релизе не добавлено никакой, но предыдущая версия отказывалась запускаться в Ubuntu 13.10 (Saucy Salamander) из-за [бага](https://bugs.launchpad.net/glipper/+bug/1203888) в `libdbusmenu`.
+Приложение-индикатор для Убунту по имени [Sound Switcher Indicator][route:/software/indicator-sound-switcher] (об истории появления коего на свет я [писал]({{< relref "/blog/0178" >}})) обновился до версии **1.1.1**. Функциональности в этом релизе не добавлено никакой, но предыдущая версия отказывалась запускаться в Ubuntu 13.10 (Saucy Salamander) из-за [бага](https://bugs.launchpad.net/glipper/+bug/1203888) в `libdbusmenu`.
 
 <!--more-->
 

@@ -19,7 +19,7 @@ The guest no. one: violinist Ben Mathot from the legendary prog metal band [Ayre
 Ben's violin was gorgeous. However Marcela demonstrated she wasn't born yesterday either:
 {{< imgfig "https://2.bp.blogspot.com/-ScPErnLtv-k/UN8w238zw0I/AAAAAAAAWRU/-ELsPDdE-FU/s1600/dsc06263.picasaweb.jpg" >}}
 
-The guest no. two was Marjan Welman from [Autumn](http://www.autumn-band.com/). [Last time][post:170] they didn't really impress me, but as a duo they sound just perfectly.
+The guest no. two was Marjan Welman from [Autumn](http://www.autumn-band.com/). [Last time]({{< relref path="/blog/0170" lang="ru" >}}) they didn't really impress me, but as a duo they sound just perfectly.
 {{< imgfig "https://2.bp.blogspot.com/-ZJIR9rFUf0Q/UN8wy8SmUbI/AAAAAAAAWRA/zVqkMbyyfVA/s1600/dsc06216.picasaweb.jpg" >}}
 
 The third guest was Charlotte Wessels from [Delain](http://www.delain.nl/). We'll come back to her in a bit.

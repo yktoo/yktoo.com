@@ -456,4 +456,4 @@ And their historical ancestors:
 
 Phew. This must be the longest post ever.
 
-*Next:* [Part 2. Plovdiv][post:323]
+*Next:* [Part 2. Plovdiv]({{< relref "/blog/0323" >}})

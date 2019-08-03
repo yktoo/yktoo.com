@@ -19,7 +19,7 @@ You can install free and paid application, for which a Samsung account is requir
 ### Panel two: On TV
 {{< imgfig "https://2.bp.blogspot.com/-hgq56q7Maog/VWCKGYSXdQI/AAAAAAAAjeE/0X3jLSk_P9M/s1600/dsc08032.picasaweb.jpg" "Smart Hub: On TV." >}}
 
-If you've specified your ISP and location during the [setup procedure][post:243], the device can download and display the TV guide. You can browse channels while watching live video from the currently selected source.
+If you've specified your ISP and location during the [setup procedure]({{< relref "/blog/0243" >}}), the device can download and display the TV guide. You can browse channels while watching live video from the currently selected source.
 
 ### Panel three: Films and TV Shows
 {{< imgfig "https://2.bp.blogspot.com/-bVfFvQhFSgE/VWCKGYVOWsI/AAAAAAAAjeI/dddJur8p47I/s1600/dsc08033.picasaweb.jpg" "Smart Hub: Films and TV Shows." >}}
@@ -142,9 +142,9 @@ It also starts very slowly, making you wait some six seconds (with a quad-core C
 
 ## Football mode {#football-mode}
 
-This TV was announced just before the 2014 World Championship, and one of its killer features was the *Football Mode*. It's been even given a *separate* button on the [Smart Touch Control][post:244] remote. Once pushed, it makes the grass turn toxic green, whereas the roar of the stadium becomes notably amplified.
+This TV was announced just before the 2014 World Championship, and one of its killer features was the *Football Mode*. It's been even given a *separate* button on the [Smart Touch Control]({{< relref "/blog/0244" >}}) remote. Once pushed, it makes the grass turn toxic green, whereas the roar of the stadium becomes notably amplified.
 {{< imgfig "https://4.bp.blogspot.com/-jCo7LoxGf9w/VWCKRX6ORSI/AAAAAAAAjgU/KTDzt8Pji2g/s1600/dsc09579.picasaweb.jpg" "Golf in the Football Mode." >}}
 
-In my view, however, what's advertised as "vivid image quality and realistic sound" is as terrible as it gets. So I'm not the first one to declare this feature utterly useless (I'm [not into football][post:53] anyway).
+In my view, however, what's advertised as "vivid image quality and realistic sound" is as terrible as it gets. So I'm not the first one to declare this feature utterly useless (I'm [not into football]({{< relref path="/blog/0053" lang="ru" >}}) anyway).
 
-*Next:* [Part five. AV format support][post:247]
+*Next:* [Part five. AV format support]({{< relref "/blog/0247" >}})

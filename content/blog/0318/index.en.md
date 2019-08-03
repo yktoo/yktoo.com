@@ -79,7 +79,7 @@ You usually specify your desired rate when applying, and possibilities for furth
 
 ## Risk management {#risk-management}
 
-Risk management is another complex topic. I already [posted][post:309] about the risks of entrepreneurship, which in a nutshell can be expressed with the formula: "you get paid while on an assignment and get nothing otherwise." Therefore it takes a good deal of financial planning—and a proper buffer to cater for all current expenses should the situation prove difficult. It's also a good idea to start thinking about available options ahead of the end date of your current contract.
+Risk management is another complex topic. I already [posted]({{< relref "/blog/0309" >}}) about the risks of entrepreneurship, which in a nutshell can be expressed with the formula: "you get paid while on an assignment and get nothing otherwise." Therefore it takes a good deal of financial planning—and a proper buffer to cater for all current expenses should the situation prove difficult. It's also a good idea to start thinking about available options ahead of the end date of your current contract.
 
 ## Persistence {#persistence}
 

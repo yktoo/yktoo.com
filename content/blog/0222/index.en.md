@@ -7,12 +7,12 @@ tags: ["bikes", "Houten", "Netherlands"]
 
 Holland is decidedly and prominently a bike-land. Any Dutch settlement features miles of bike paths, bike traffic-lights, special bike road marking, ubiquitous bike parkings and bike rental at every train station.
 
-But [our Houten][post:221] seems to be in the lead here.
+But [our Houten]({{< relref "/blog/0221" >}}) seems to be in the lead here.
 {{< imgfig "https://1.bp.blogspot.com/-BWYKADytYs4/VAwn806pgmI/AAAAAAAAfZQ/ShyjBlfSzVs/s1600/dsc06631.picasaweb.jpg" >}}
 
 <!--more-->
 
-An active growth of Houten municipality began in 1970's. Back then it was just a little village with about four thousand inhabitants. It is around that time that a strategic plan, whose objective was to stimulate the residents to use bikes while discouraging them from driving, has been developed. This was also the time when the butterfly-shaped by-pass road (the {{< fl "Rondweg" >}}) was built—I mentioned it along with the district breakdown in my [last post][post:221].
+An active growth of Houten municipality began in 1970's. Back then it was just a little village with about four thousand inhabitants. It is around that time that a strategic plan, whose objective was to stimulate the residents to use bikes while discouraging them from driving, has been developed. This was also the time when the butterfly-shaped by-pass road (the {{< fl "Rondweg" >}}) was built—I mentioned it along with the district breakdown in my [last post]({{< relref "/blog/0221" >}}).
 
 One of the strategic provision stipulated that with a car one district from another can only be reached using the by-pass road, and there would be no drive-through route. Cyclists don't face this restriction, therefore biking to friends' is often faster than driving.
 {{< imgfig "https://1.bp.blogspot.com/-4fxInPq3o0g/VAwoGI91qPI/AAAAAAAAfaY/LYUWn2BcW6w/s1600/dsc06644.picasaweb.jpg" >}}
@@ -80,4 +80,4 @@ It has another level upstairs and special steps for rolling the bikes up:
 However, since our town is pretty small, it's not that busy on all these bike roads.
 {{< imgfig "https://3.bp.blogspot.com/-E2IJYlcrToM/U_uLLdEfzmI/AAAAAAAAfDM/5WdUEIHcFRI/s1600/dsc06411.picasaweb.jpg" >}}
 
-Next: [Part 3. Water and Fruits][post:223]
+Next: [Part 3. Water and Fruits]({{< relref "/blog/0223" >}})

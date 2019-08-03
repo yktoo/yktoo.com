@@ -85,7 +85,7 @@ tags: ["Amorphis", "Arch Enemy", "Floor Jansen", "Heineken Music Hall", "Nightwi
 
 Во время антракта на дисплеях, висящих на стенах, отображалось предупреждение, что в шоу используются пиротехника и взрывы, но, по-моему, никто на это внимания не обратил. Так что взрыв, раздавшийся на краю сцены (то есть прямо у нас под носом) одновременно с поднятием занавеса, застал большинство изрядно разогретых металлистов врасплох. После этого взорвался и зал (в переносном смысле, конечно).
 
-С 2013 года в исконно финской группе вокалисткой голландка [Floor Jansen][wiki:ru:Янсен,_Флор] (которую я должен был увидеть ещё четыре года назад с [Pagan's Mind][post:136], но не случилось):
+С 2013 года в исконно финской группе вокалисткой голландка [Floor Jansen][wiki:ru:Янсен,_Флор] (которую я должен был увидеть ещё четыре года назад с [Pagan's Mind]({{< relref "/blog/0136" >}}), но не случилось):
 {{< imgfig "https://2.bp.blogspot.com/-f2jGwSEXA_M/VlMnHztz9tI/AAAAAAAAkwE/jGSdKCPu47s/s1600/dsc01230.picasaweb.jpg" "Nightwish: Floor Jansen." >}}
 
 Основатели симфо-легенды клавишник [Tuomas Holopainen][wiki:ru:Холопайнен,_Туомас] и смешной гитарист [Emppu Vuorinen][wiki:ru:Вуоринен,_Эрно]:
@@ -109,7 +109,7 @@ tags: ["Amorphis", "Arch Enemy", "Floor Jansen", "Heineken Music Hall", "Nightwi
 {{< imgfig "https://2.bp.blogspot.com/-VlVJ2ZHQPas/VlMnH54O-lI/AAAAAAAAkwM/Wrwn4JOzb4o/s1600/dsc01327.picasaweb.jpg" "Nightwish: Floor Jansen и Emppu Vuorinen." >}}
 {{< imgfig "https://4.bp.blogspot.com/-cv6C8sgle5g/VlMnH-v8U4I/AAAAAAAAkwE/20onVWQeWeE/s1600/dsc01336.picasaweb.jpg" "Nightwish: Floor Jansen." >}}
 
-Держащийся неприметно самый старший участник группы (51 год), британец [Troy Donockley][wiki:ru:Донокли,_Трой], за свою тридцатипятилетнюю карьеру переигравший с огромным количеством групп и музыкантов (включая и {{< fl "Ayreon" >}} [Арьена Лукассена][post:250]):
+Держащийся неприметно самый старший участник группы (51 год), британец [Troy Donockley][wiki:ru:Донокли,_Трой], за свою тридцатипятилетнюю карьеру переигравший с огромным количеством групп и музыкантов (включая и {{< fl "Ayreon" >}} [Арьена Лукассена]({{< relref "/blog/0250" >}})):
 {{< imgfig "https://3.bp.blogspot.com/-SSfZZOgreyk/VlMnH5_8yDI/AAAAAAAAkwM/PFqh1gnCm4Y/s1600/dsc01319.picasaweb.jpg" "Nightwish: Troy Donockley." >}}
 
 Более всего он известен своей игрой на ирландской волынке, которая изумительно сочетается со звучанием {{< fl "Nightwish" >}}.

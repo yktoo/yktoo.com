@@ -4,7 +4,7 @@ title: "Gnome/Unity random wallpaper script"
 tags: ["Gnome", "Linux", "Ubuntu", "Unity", "wallpaper"]
 ---
 
-**Note:** this script will not work in GNOME 3 and Ubuntu 11.10; for these systems you have to use [the new version][post:122].
+**Note:** this script will not work in GNOME 3 and Ubuntu 11.10; for these systems you have to use [the new version]({{< relref "/blog/0122" >}}).
 
 This bash script picks up a random image file (.jpg, .jpeg or .png) from the predefined directory and sets it as wallpaper.
 

@@ -4,7 +4,7 @@ title: "M-Audio Studiophile AV 40 review"
 tags: ["gadgets", "hardware", "review", "sound", "speaker", "unboxing"]
 ---
 
-It's been two years of suffering from the speakers built into my [iMac][post:120]. The speakers, despite all Apple's marketing noise and even two 17 Watt power amps, suck big time. I've already [connected][post:141] my AV receiver via Bluetooth, but it's quite a hassle to start it up every time. Another issue is that Logitech Bluetooth adapter gives a very low output level, which requires setting receiver's volume to -20 dB every time I power it up.
+It's been two years of suffering from the speakers built into my [iMac]({{< relref "/blog/0120" >}}). The speakers, despite all Apple's marketing noise and even two 17 Watt power amps, suck big time. I've already [connected]({{< relref "/blog/0141" >}}) my AV receiver via Bluetooth, but it's quite a hassle to start it up every time. Another issue is that Logitech Bluetooth adapter gives a very low output level, which requires setting receiver's volume to -20 dB every time I power it up.
 
 <!--more-->
 
@@ -96,4 +96,4 @@ Nonetheless, I'm pretty satisfied with the result. They sound great on any kind 
 * ![-](http://3.bp.blogspot.com/-Ve0HjsK5vVg/UbCZUZKATYI/AAAAAAAAZKw/LLk4Y6atW4c/s1600/minus.png) Power switch is at the rear side which may not seem handy.
 * ![-](http://3.bp.blogspot.com/-Ve0HjsK5vVg/UbCZUZKATYI/AAAAAAAAZKw/LLk4Y6atW4c/s1600/minus.png) No sound equalisation available (which is not an issue for studio monitors, but some people may need it).
 
-**See also**: [Tackling M-Audio Studiophile speaker power-off popping sound][post:198]
+**See also**: [Tackling M-Audio Studiophile speaker power-off popping sound]({{< relref "/blog/0198" >}})

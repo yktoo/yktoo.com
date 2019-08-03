@@ -4,11 +4,11 @@ title: "Tackling M-Audio Studiophile speaker power-off popping sound"
 tags: ["gadgets", "hardware", "IKEA", "sound", "speaker"]
 ---
 
-Recently I've discovered a peculiar feature of my [M-Audio Studiophile AV 40][post:189] speakers.
+Recently I've discovered a peculiar feature of my [M-Audio Studiophile AV 40]({{< relref "/blog/0189" >}}) speakers.
 
 <!--more-->
 
-As I [wrote][post:189], I'm using a Master/Slave power switch. It allows automatic turning off the power of up to four dependent devices when the master device (a PC in my case) is switched off. After I've rewired my quite complicated device setup, the speakers began to produce a deafening popping sound at the power switch-off. Considering their output power of 15 W per channel, this was far from enjoyable. And interestingly enough, this didn't happen in the beginning.
+As I [wrote]({{< relref "/blog/0189" >}}), I'm using a Master/Slave power switch. It allows automatic turning off the power of up to four dependent devices when the master device (a PC in my case) is switched off. After I've rewired my quite complicated device setup, the speakers began to produce a deafening popping sound at the power switch-off. Considering their output power of 15 W per channel, this was far from enjoyable. And interestingly enough, this didn't happen in the beginning.
 
 One day I felt I was fed up with it so I started experimenting.
 

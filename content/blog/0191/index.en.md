@@ -27,7 +27,7 @@ But Hertz did well, the car was nearly new, 30,000 km on the speedometer and alm
 You certainly noticed orange trees behind the car. If not, here they are:
 {{< imgfig "https://3.bp.blogspot.com/-RsUI30x7XZY/Ua4hu16kO7I/AAAAAAAAYoI/UZ3-kpSKgdU/s1600/dsc09006.picasaweb.jpg" >}}
 
-For the first time in my life I saw them like that ([Canarian mandarines][post:151] don't count). The oranges are huge, bigger than my palm:
+For the first time in my life I saw them like that ([Canarian mandarines]({{< relref path="/blog/0151" lang="ru" >}}) don't count). The oranges are huge, bigger than my palm:
 {{< imgfig "https://1.bp.blogspot.com/-gHpJILlZ3O0/Ua4hq_k5OJI/AAAAAAAAYn4/KWXb0qFTCRo/s1600/dsc08999.picasaweb.jpg" >}}
 
 Here are little ones, hardly recognisable as oranges:
@@ -37,4 +37,4 @@ We found those trees somewhere northwards of Albufeira. We didn't risk to try th
 
 Exactly same oranges you can buy at the roadside. 5 kg (11 lbs) of small oranges costs two euros, the same amount of big ones, like on the photo above, is three, and they are delicious! We've eaten 10 kilos in a week.
 
-Next: [Part 3. Albufeira][post:192]
+Next: [Part 3. Albufeira]({{< relref "/blog/0192" >}})

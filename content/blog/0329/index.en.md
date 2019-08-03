@@ -4,7 +4,7 @@ title: "The biggest gadget: Toyota Prius PHV"
 tags: ["car", "gadgets", "Plug-In Hybrid", "Toyota Prius"]
 ---
 
-My most bulky gadget needed an upgrade. I've been a devoted [Toyota Prius][wiki:en:Toyota_Prius] fan ever since [my first leased car][post:28]. Later I've owned another one, which [almost lost a wheel once][post:304]. The latter turned eight years old last March so I've decided to trade it for something more modern.
+My most bulky gadget needed an upgrade. I've been a devoted [Toyota Prius][wiki:en:Toyota_Prius] fan ever since [my first leased car]({{< relref path="/blog/0028" lang="ru" >}}). Later I've owned another one, which [almost lost a wheel once]({{< relref path="/blog/0304" lang="ru" >}}). The latter turned eight years old last March so I've decided to trade it for something more modern.
 
 <!--more-->
 

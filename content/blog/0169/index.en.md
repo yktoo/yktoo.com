@@ -12,15 +12,15 @@ At the moment the following four scripts are available:
 
 * `generate-wallpaper-xml`
     <p></p>
-    [Creates an XML][post:168] wallpaper file with a slide show.
+    [Creates an XML]({{< relref "/blog/0168" >}}) wallpaper file with a slide show.
 
 * `picasa-upload`
     <p></p>
-    [Advanced picture uploader][post:110] for Google Picasa, capable of watermarking images.
+    [Advanced picture uploader]({{< relref "/blog/0110" >}}) for Google Picasa, capable of watermarking images.
 
 * `rotate-wallpaper`
     <p></p>
-    [A simple script][post:122] that sets a random image as current wallpaper.
+    [A simple script]({{< relref "/blog/0122" >}}) that sets a random image as current wallpaper.
 
 * `update-exif-date`
     <p></p>

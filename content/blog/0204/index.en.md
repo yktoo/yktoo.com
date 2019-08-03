@@ -4,7 +4,7 @@ title: "How I became a Bob"
 tags: ["Amersfoort", "Bob", "car", "Netherlands", "night", "police"]
 ---
 
-I once [posted][post:37] about a special person called **Bob**. It's almost a "saint with all possible benefits" (a quote from a popular Soviet-era film). To be precise, there's at least one benefit with him—a car.
+I once [posted]({{< relref path="/blog/0037" lang="ru" >}}) about a special person called **Bob**. It's almost a "saint with all possible benefits" (a quote from a popular Soviet-era film). To be precise, there's at least one benefit with him—a car.
 
 <!--more-->
 
