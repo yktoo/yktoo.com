@@ -117,8 +117,12 @@ a {
         border-bottom: $primary-light 2px dotted;
         padding: 1rem .5rem 3rem .5rem;
         margin-bottom: 1rem;
-        max-height: 500px;
-        overflow: hidden;
+
+        .blog-post-image {
+            max-width: 100%;
+            height: auto;
+            max-height: 400px;
+        }
     }
 }
 .blog-post-meta {
@@ -151,6 +155,7 @@ a {
         .figure-img {
             max-width: 100%;
             height: auto;
+            max-height: 800px;
         }
 
         .figure-caption {
@@ -158,6 +163,58 @@ a {
         }
     }
 }
+.blog-paginator {
+    display: flex;
+    justify-content: center;
+}
+.blog-post-list {
+
+    th {
+        font-size: 200%;
+        font-weight: $font-weight-bold;
+        padding: 2rem 0 0.7rem 0;
+    }
+
+    td {
+        padding: 0.2rem 1rem;
+
+        &.number, &.date {
+            font-size: 90%;
+        }
+    }
+
+    .post_none:before, .post_en:before, .post_ru:before, .post_nl:before {
+        color: #fff;
+        font-size: 10px;
+        width: 16px;
+        height: 16px;
+        display: inline-block;
+        text-align: center;
+        padding: 2px;
+        margin: 0;
+    }
+
+    .post_none:before {
+        content: "\a0";
+    }
+
+    .post_en:before {
+        background-color: #c06666;
+        content: "En";
+    }
+
+    .post_ru:before {
+        background-color: #6666c0;
+        content: "Ru";
+    }
+
+    .post_nl:before {
+        background-color: #66c066;
+        content: "Nl";
+    }
+}
+
+
 
 
 // Table of contents

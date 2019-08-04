@@ -4,20 +4,20 @@
     <h2><a href="{{ .Permalink }}">{{ with .Params.group }}{{ . }}&nbsp;‣&nbsp;{{ end }}{{ .Title | markdownify | plainify | safeHTML }}</a></h2>
 
     <!-- Post metadata -->
-    {{ $dateFormat := default "Monday Jan 2, 2006" (index .Site.Params "date_format") -}}
+    {{- $dateFormat := default "Monday Jan 2, 2006" (index .Site.Params "date_format") -}}
     <div class="blog-post-meta"><time datetime="{{ .Date.Format `2006-01-02T15:04:05Z07:00` }}">{{ .Date.Format $dateFormat }}</time></div>
 
     <!-- Post body -->
-    <div class="row">
+    <div class="row blog-post-content">
         <!-- Post image -->
-        <div class="col-xs-2 col-md-6">
+        <div class="col-xs-2 col-md-6 text-center mb-3 mb-md-0">
             {{- with .Params.image -}}
                 {{- $url := . -}}
                 <!-- Same logic as in the 'imgfig' shortcode: if it isn't a URL starting with "http(s)://", consider it a page resource -->
                 {{- if not (or (hasPrefix $url "http://") (hasPrefix $url "https://")) -}}
                     {{- $url = ($.Page.Resources.GetMatch $url).RelPermalink -}}
                 {{- end -}}
-                {{- with $url }}<img class="img-fluid" src="{{ . }}" alt="Post image">{{ end -}}
+                {{- with $url }}<img class="img-fluid blog-post-image" src="{{ . }}" alt="Post image">{{ end -}}
             {{- end -}}
         </div>
 

@@ -13,15 +13,19 @@ defaultContentLanguage: en
 defaultContentLanguageInSubdir: true
 languages:
     en:
+        weight: 1
         params:
     ru:
+        weight: 2
         params:
             author: Дмитрий Канн
             copyright:
                 from: 2000
                 by: Дмитрий Канн
-            date_format: Mon, 2 Jan 2006
+            date_format: Mon, 2 Jan 2006 # TODO localise
+            short_date_format: 02.01.2006
     nl:
+        weight: 3
         params:
 
 permalinks:
