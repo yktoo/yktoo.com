@@ -20,6 +20,8 @@ $list-group-action-hover-color: $secondary;
 $navbar-dark-color: #fff;
 $navbar-dark-active-color: #000;
 $navbar-dark-hover-color: $secondary;
+$nav-tabs-link-active-color: #aaa;
+$nav-tabs-link-active-bg: #fff;
 $pagination-hover-bg: $link-hover-bg;
 
 // Enable advanced theming
@@ -75,6 +77,15 @@ a {
         font-family: serif;
         font-size: 65%;
     }
+}
+
+// Tables
+td.number {
+    text-align: right;
+    white-space: nowrap;
+}
+td.date {
+    white-space: nowrap;
 }
 
 // List groups
@@ -177,46 +188,38 @@ a {
     }
 
     td {
-        padding: 0.2rem 1rem;
+        padding: 2px 0 2px 8px;
 
         &.number, &.date {
             font-size: 90%;
         }
     }
-
-    .post_none:before, .post_en:before, .post_ru:before, .post_nl:before {
-        color: #fff;
-        font-size: 10px;
-        width: 16px;
-        height: 16px;
-        display: inline-block;
-        text-align: center;
-        padding: 2px;
-        margin: 0;
-    }
-
-    .post_none:before {
-        content: "\a0";
-    }
-
-    .post_en:before {
-        background-color: #c06666;
-        content: "En";
-    }
-
-    .post_ru:before {
-        background-color: #6666c0;
-        content: "Ru";
-    }
-
-    .post_nl:before {
-        background-color: #66c066;
-        content: "Nl";
-    }
 }
-
-
-
+.post_none:before, .post_en:before, .post_ru:before, .post_nl:before {
+    color: #fff;
+    font-size: 10px;
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+    text-align: center;
+    padding: 2px;
+    margin: 0;
+}
+.post_none:before {
+    content: "\a0";
+}
+.post_en:before {
+    background-color: #c06666;
+    content: "En";
+}
+.post_ru:before {
+    background-color: #6666c0;
+    content: "Ru";
+}
+.post_nl:before {
+    background-color: #66c066;
+    content: "Nl";
+}
 
 // Table of contents
 #TableOfContents {

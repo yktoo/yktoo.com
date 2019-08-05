@@ -67,6 +67,25 @@ menu:
           pre: <i class="fas fa-envelope"></i>
           weight: 101
 
+    blog:
+        - identifier: timeline
+          url: '/blog/archive/'
+          pre: <i class="fas fa-calendar-alt"></i>
+          weight: 1
+        - identifier: map
+          url: '/blog/map/'
+          pre: <i class="fas fa-map-marker-alt"></i>
+          weight: 2
+        - identifier: tags
+          url: '/blog/tags/'
+          pre: <i class="fas fa-tags"></i>
+          weight: 3
+        - identifier: blogSubscribe
+          url: '/blog/subscribe/'
+          pre: <i class="fas fa-rss"></i>
+          weight: 4
+
+
 params:
     author: Dmitry Kann
     postsPerPage: 6

@@ -45,10 +45,11 @@
 <section id="page">
     {{ block "page" . }}
     <div class="container">
+        <!-- Second-level Navbar -->
+        {{ block "secondary-navbar" . }}{{ end }}
+
         <!-- Heading -->
-        {{ block "heading" . }}
-        {{ with .Title }}<h1>{{ . | markdownify }}</h1>{{ end }}
-        {{ end }}
+        {{ block "heading" . }}{{ end }}
 
         <!-- Main content -->
         {{ block "main" . }}

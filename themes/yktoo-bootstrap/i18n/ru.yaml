@@ -1,17 +1,21 @@
 - {id: about,             translation: О сайте}
 - {id: archive,           translation: Архив}
 - {id: authoredBy,        translation: /}
-- {id: blogSubscribe,     translation: Подписаться на обновления}
+- {id: blogSubscribe,     translation: Подписаться}
+- {id: blogSubscribeTo,   translation: Подписаться на обновления}
 - {id: blogSubtitle,      translation: Блог о жизни в Голландии (и многом другом)}
 - {id: blogTitle,         translation: Нидерланды и не только}
 - {id: contact,           translation: Контакт}
 - {id: copyright,         translation: Авторское право ©%.4d—%.4d %s.}
 - {id: faq,               translation: FAQ}
 - {id: home,              translation: Главная}
+- {id: iAmLegend,         translation: Я легенда}
 - {id: locale,            translation: ru_RU}
+- {id: map,               translation: Карта}
 - {id: mySocialLinks,     translation: Мои соцсети}
 - {id: paginatorNext,     translation: Следующая страница}
 - {id: paginatorPrevious, translation: Предыдущая страница}
+- {id: post,              translation: Пост}
 - {id: postAnnouncements, translation: Анонсы блога}
 - {id: postedInGroup,     translation: в}
 - {id: postIn_en,         translation: на английском}
@@ -31,4 +35,6 @@
 - {id: software,          translation: Программы}
 - {id: subscribeByEmail,  translation: Подписаться по е-мэйлу}
 - {id: subscribeByRSS,    translation: Формат RSS 2.0}
+- {id: tags,              translation: Теги}
+- {id: timeline,          translation: Хронология}
 - {id: videos,            translation: Видео}

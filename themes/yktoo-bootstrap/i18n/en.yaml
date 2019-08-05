@@ -1,7 +1,8 @@
 - {id: about,             translation: About}
 - {id: archive,           translation: Archive}
 - {id: authoredBy,        translation: by}
-- {id: blogSubscribe,     translation: Subscribe to updates}
+- {id: blogSubscribe,     translation: Subscribe}
+- {id: blogSubscribeTo,   translation: Subscribe to updates}
 - {id: blogSubtitle,      translation: Blog about life in Holland (and a lot of other stuff)}
 - {id: blogTitle,         translation: Netherlands and more}
 - {id: contact,           translation: Contact}
@@ -11,11 +12,14 @@
 - {id: copyright,         translation: Copyright ©%.4d—%.4d %s.}
 - {id: faq,               translation: FAQ}
 - {id: home,              translation: Home}
+- {id: iAmLegend,         translation: I Am Legend}
 - {id: links,             translation: Links}
 - {id: locale,            translation: en_US}
+- {id: map,               translation: Map}
 - {id: mySocialLinks,     translation: My social links}
 - {id: paginatorNext,     translation: Next page}
 - {id: paginatorPrevious, translation: Previous page}
+- {id: post,              translation: Post}
 - {id: postAnnouncements, translation: Post announcements}
 - {id: postedInGroup,     translation: in}
 - {id: postIn_en,         translation: in English}
@@ -35,4 +39,6 @@
 - {id: software,          translation: Software}
 - {id: subscribeByEmail,  translation: Subscribe by email}
 - {id: subscribeByRSS,    translation: Feed in RSS 2.0 format}
+- {id: tags,              translation: Tags}
+- {id: timeline,          translation: Timeline}
 - {id: videos,            translation: Videos}

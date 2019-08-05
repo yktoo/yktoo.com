@@ -1,7 +1,8 @@
 - {id: about,             translation: Over}
 - {id: archive,           translation: Archief}
 - {id: authoredBy,        translation: door}
-- {id: blogSubscribe,     translation: Abonneer je op updates}
+- {id: blogSubscribe,     translation: Abonneren}
+- {id: blogSubscribeTo,   translation: Abonneer je op updates}
 - {id: blogSubtitle,      translation: Blog over het Nederlandse leven (en veel andere dingen)}
 - {id: blogTitle,         translation: Nederland en verder}
 - {id: contact,           translation: Contact}
@@ -11,11 +12,14 @@
 - {id: copyright,         translation: Auteursrecht ©%.4d—%.4d %s.}
 - {id: faq,               translation: FAQ}
 - {id: home,              translation: Hoofdpagina}
+- {id: iAmLegend,         translation: Ik ben legende}
 - {id: links,             translation: Links}
 - {id: locale,            translation: nl_NL}
+- {id: map,               translation: Kaart}
 - {id: mySocialLinks,     translation: Mijn sociale links}
 - {id: paginatorNext,     translation: Volgende pagina}
 - {id: paginatorPrevious, translation: Vorige pagina}
+- {id: post,              translation: Post}
 - {id: postAnnouncements, translation: Blog updates}
 - {id: postedInGroup,     translation: in}
 - {id: postIn_en,         translation: in het Engels}
@@ -35,4 +39,6 @@
 - {id: software,          translation: Software}
 - {id: subscribeByEmail,  translation: Abonneren via e-mail}
 - {id: subscribeByRSS,    translation: Nieuwsfeed in RSS 2.0-formaat}
+- {id: tags,              translation: Tags}
+- {id: timeline,          translation: Tijdlijn}
 - {id: videos,            translation: Video's}
