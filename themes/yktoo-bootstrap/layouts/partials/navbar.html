@@ -17,7 +17,7 @@
             <!-- Right menu -->
             <ul class="nav navbar-nav ml-lg-5">
                 {{ range .Translations }}
-                    <li><a class="nav-link" href="{{ .Permalink }}">{{ .Lang | upper }}</a></li>
+                    <li><a class="nav-link" href="{{ .Permalink }}" title="{{ .Language.LanguageName }}">{{ .Lang | upper }}</a></li>
                 {{ end }}
                 {{- range where .Site.Menus.nav "Weight" ">=" 100 }}
                 <li><a class="nav-link{{ if $currentPage.IsMenuCurrent `nav` . }} active{{end}}" href="{{ .URL | absLangURL }}" title="{{ if .Pre }}{{ T .Identifier }}{{ end }}">

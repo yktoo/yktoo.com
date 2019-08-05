@@ -14,9 +14,11 @@ defaultContentLanguageInSubdir: true
 languages:
     en:
         weight: 1
+        languageName: English
         params:
     ru:
         weight: 2
+        languageName: Русский
         params:
             author: Дмитрий Канн
             copyright:
@@ -26,6 +28,7 @@ languages:
             short_date_format: 02.01.2006
     nl:
         weight: 3
+        languageName: Nederlands
         params:
 
 permalinks:
