@@ -5,11 +5,12 @@
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbar-collapse">
-            {{- $currentPage := . }}
+            <!-- Compare items' URLs to derive the active status instead of using .IsMenuCurrent as it doesn't seem to work -->
+            {{- $curURL := .RelPermalink -}}
             <!-- Left menu -->
             <ul class="nav navbar-nav mr-lg-5">
                 {{- range where .Site.Menus.nav "Weight" "<" 100 }}
-                <li><a class="nav-link{{ if $currentPage.IsMenuCurrent `nav` . }} active{{end}}" href="{{ .URL | absLangURL }}" title="{{ if .Pre }}{{ T .Identifier }}{{ end }}">
+                <li><a class="nav-link{{ if eq $curURL (.URL | relLangURL | string) }} active{{end}}" href="{{ .URL | absLangURL }}" title="{{ if .Pre }}{{ T .Identifier }}{{ end }}">
                     {{- with .Pre }}{{ . | safeHTML }}{{ else }}{{ T .Identifier }}{{ end -}}
                 </a></li>
                 {{- end }}
@@ -20,7 +21,7 @@
                     <li><a class="nav-link" href="{{ .Permalink }}" title="{{ .Language.LanguageName }}">{{ .Lang | upper }}</a></li>
                 {{ end }}
                 {{- range where .Site.Menus.nav "Weight" ">=" 100 }}
-                <li><a class="nav-link{{ if $currentPage.IsMenuCurrent `nav` . }} active{{end}}" href="{{ .URL | absLangURL }}" title="{{ if .Pre }}{{ T .Identifier }}{{ end }}">
+                <li><a class="nav-link{{ if eq $curURL (.URL | relLangURL | string) }} active{{end}}" href="{{ .URL | absLangURL }}" title="{{ if .Pre }}{{ T .Identifier }}{{ end }}">
                     {{- with .Pre }}{{ . | safeHTML }}{{ else }}{{ T .Identifier }}{{ end -}}
                 </a></li>
                 {{- end }}
