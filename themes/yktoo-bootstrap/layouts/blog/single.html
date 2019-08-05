@@ -11,7 +11,7 @@
     "@type": "ImageObject",
     "url": "{{ . | absURL }}"
     {{- if not (or (hasPrefix . "http://") (hasPrefix . "https://")) -}}
-    {{- with (imageConfig (printf "/static/%s" .)) -}},
+    {{- with $.Page.Resources.GetMatch . -}},
     "height": "{{ .Height }}",
     "width": "{{ .Width }}"
     {{- end -}}
