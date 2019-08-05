@@ -17,6 +17,7 @@
 - {id: paginatorNext,     translation: Volgende pagina}
 - {id: paginatorPrevious, translation: Vorige pagina}
 - {id: postAnnouncements, translation: Blog updates}
+- {id: postedInGroup,     translation: in}
 - {id: postIn_en,         translation: in het Engels}
 - {id: postIn_ru,         translation: in het Russisch}
 - {id: postIn_nl,         translation: in het Nederlands}

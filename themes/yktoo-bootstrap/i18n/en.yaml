@@ -17,6 +17,7 @@
 - {id: paginatorNext,     translation: Next page}
 - {id: paginatorPrevious, translation: Previous page}
 - {id: postAnnouncements, translation: Post announcements}
+- {id: postedInGroup,     translation: in}
 - {id: postIn_en,         translation: in English}
 - {id: postIn_ru,         translation: in Russian}
 - {id: postIn_nl,         translation: in Dutch}
@@ -26,7 +27,6 @@
 - {id: posts_en,          translation: English posts}
 - {id: posts_ru,          translation: Russian posts}
 - {id: posts_nl,          translation: Dutch posts}
-- {id: postedIn,          translation: in}
 - {id: radiolaria,        translation: Radiolaria}
 - {id: readOn,            translation: Read on »}
 - {id: readOnAt,          translation: Continue reading on}
