@@ -32,9 +32,9 @@
   "author": {
     "@type": "Person",
     "name": "{{ .Params.author | default .Site.Params.author }}"
-  }
-  {{- if or (.Params.categories) (.Params.tags) -}},
-  "keywords": "{{ delimit (union .Params.categories .Params.tags) `, ` }}"
+  },
+  {{- if or (.Params.categories) (.Params.tags) }}
+  "keywords": "{{ delimit (union .Params.categories .Params.tags) `, ` }}",
   {{- end }}
   "description": "{{ with .Params.description }}{{ . | markdownify | plainify | safeHTML }}{{ else }}{{ .Summary | plainify | safeHTML }}{{ end }}"
 }
