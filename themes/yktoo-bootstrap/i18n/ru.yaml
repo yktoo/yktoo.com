@@ -17,8 +17,8 @@
 - {id: postIn_ru,         translation: на русском}
 - {id: postIn_nl,         translation: на голландском}
 - {id: postInLangs,       translation: Этот пост}
-- {id: postNext,          translation: ← Туда посты}
-- {id: postPrev,          translation: Сюда посты →}
+- {id: postNext,          translation: ← Следующий пост}
+- {id: postPrev,          translation: Предыдущий пост →}
 - {id: posts_en,          translation: Посты на английском}
 - {id: posts_ru,          translation: Посты на русском}
 - {id: posts_nl,          translation: Посты на голландском}
