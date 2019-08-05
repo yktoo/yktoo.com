@@ -77,7 +77,7 @@ menu:
           pre: <i class="fas fa-map-marker-alt"></i>
           weight: 2
         - identifier: tags
-          url: '/blog/tags/'
+          url: '/tags/'
           pre: <i class="fas fa-tags"></i>
           weight: 3
         - identifier: blogSubscribe

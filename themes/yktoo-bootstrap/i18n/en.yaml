@@ -17,6 +17,7 @@
 - {id: locale,            translation: en_US}
 - {id: map,               translation: Map}
 - {id: mySocialLinks,     translation: My social links}
+- {id: numPages,          translation: {one: '{{ .Count }} page', other: '{{ .Count }} pages'}}
 - {id: paginatorNext,     translation: Next page}
 - {id: paginatorPrevious, translation: Previous page}
 - {id: post,              translation: Post}

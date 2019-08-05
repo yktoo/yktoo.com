@@ -17,6 +17,7 @@
 - {id: locale,            translation: nl_NL}
 - {id: map,               translation: Kaart}
 - {id: mySocialLinks,     translation: Mijn sociale links}
+- {id: numPages,          translation: {one: '{{ .Count }} pagina', other: '{{ .Count }} pagina''s'}}
 - {id: paginatorNext,     translation: Volgende pagina}
 - {id: paginatorPrevious, translation: Vorige pagina}
 - {id: post,              translation: Post}

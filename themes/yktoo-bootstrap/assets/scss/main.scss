@@ -62,6 +62,8 @@ section {
 
 // Anchors
 a {
+    transition: all .2s ease-in;
+
     @include hover-focus {
         background-color: $link-hover-bg;
     }
@@ -219,6 +221,49 @@ td.date {
 .post_nl:before {
     background-color: #66c066;
     content: "Nl";
+}
+
+// Tags
+.tag-cloud {
+    text-align: center;
+
+    li a {
+        padding: 0.2rem 0.4rem;
+        margin: 0.4rem 0;
+        text-align: center;
+        vertical-align: middle;
+        line-height: 2rem;
+        border-radius: 6px;
+    }
+    .tag {
+        white-space: nowrap;
+    }
+    .tag-size-1 {
+        font-size: 80%;
+        opacity: .8;
+    }
+    .tag-size-2 {
+        font-size: 100%;
+        opacity: .9;
+    }
+    .tag-size-3 {
+        font-size: 115%;
+    }
+    .tag-size-4 {
+        font-size: 130%;
+    }
+    .tag-size-5 {
+        font-size: 150%;
+        font-weight: bold;
+    }
+    .tag-size-6 {
+        font-size: 180%;
+        font-weight: bold;
+    }
+    .tag-size-7 {
+        font-size: 220%;
+        font-weight: bold;
+    }
 }
 
 // Table of contents
