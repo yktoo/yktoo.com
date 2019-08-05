@@ -5,7 +5,7 @@
 <!-- Tag cloud -->
 <ul class="list-inline tag-cloud">
     {{- $type := .Type }}
-    {{- range .Data.Terms.Alphabetical }}
+    {{- range .Site.Taxonomies.tags.Alphabetical }}
         <!-- Derive the tag class style based on the number of occurrences   -->
         {{- $cls := "tag-size-1" }}
         {{- if      ge .Count 100 }}{{ $cls = "tag-size-7" }}
