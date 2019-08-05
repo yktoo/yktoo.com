@@ -12,8 +12,6 @@ image: "https://1.bp.blogspot.com/-XCYqqwYaPbs/WCo7vX_qTiI/AAAAAAAAoPA/hDBojNJO1
 
 <!--more-->
 
-<!-- {{< imgfig "https://1.bp.blogspot.com/-XCYqqwYaPbs/WCo7vX_qTiI/AAAAAAAAoPA/hDBojNJO1Pk9pRHGq7L6hQCzTBd_bIaCACPcB/s1600/20161105_211814.picasaweb.jpg" >}} -->
-
 Я склонен думать, что лучше жалеть о сделанных вещах, нежели о несделанных, поэтому, взвесив все [«за» и «против»]({{< relref "/blog/0309" >}}), решил действовать. 1 октября 2016 года на свет появился мой {{< fl "eenmanszaak" >}}. Роды, проходившие в [Торговой палате](https://www.kvk.nl/), оказались быстрыми и приятными, новорождённого нарекли туземным именем {{< fl "Yktoo Solutions" >}}.
 {{< imgfig "https://1.bp.blogspot.com/-iaEVkAOTeVs/WKlzptmLZ-I/AAAAAAAApQ0/W-rdGWrQhbI0mT6IfVvmr2qhM5F7-YTewCPcB/s1600/Yktoo-Solutions-logo.png" >}}
 

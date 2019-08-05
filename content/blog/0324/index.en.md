@@ -11,8 +11,6 @@ What I like about the Dutch is how they manage to combine classic with contempor
 
 <!--more-->
 
-<!-- {{< imgfig "https://3.bp.blogspot.com/-ZI7EXGMDF_g/WQ9rt9ZppyI/AAAAAAAAp6k/9qYkJoUlTbgiHYZeHZH7I2OmZUyEEFfOwCPcB/s1600/dsc05178.picasaweb.jpg" >}} -->
-
 {{< imgfig "https://3.bp.blogspot.com/-4dWDKauaZ9w/WQ9rtxvqnCI/AAAAAAAAp6k/fYOJTXdKz8wp-pkMapkJmduGTb71QhdcgCPcB/s1600/dsc05177.picasaweb.jpg" "Emoji building." >}}
 
 The building with shops on the ground level and apartments above was designed by the architect bureau [Attika Architekten](http://www.attika.nl/projecten/plein-rond-de-eik). The concrete emoticons only appear on one of its walls.

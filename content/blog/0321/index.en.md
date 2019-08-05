@@ -9,8 +9,6 @@ It's been for the first time that a support act was as interesting for me as the
 
 <!--more-->
 
-<!-- {{< imgfig "https://1.bp.blogspot.com/-ldQnc30ApjQ/WQ3-d13FN0I/AAAAAAAAp5I/u0zKGzXBFi83pIRNX4d3DFL9n7JfEHFjgCPcB/s1600/20170429_231240.picasaweb.jpg" >}} -->
-
 It is pretty typical here in Holland to have an international line-up like this:
 
 * [Oddland](http://www.oddlandband.com/) (Finland);

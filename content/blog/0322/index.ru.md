@@ -12,8 +12,6 @@ image: "https://2.bp.blogspot.com/-16FAOSrAES4/WQ3-dwbko-I/AAAAAAAAp5Q/Hfw79Zyud
 
 <!--more-->
 
-<!-- {{< imgfig "https://2.bp.blogspot.com/-16FAOSrAES4/WQ3-dwbko-I/AAAAAAAAp5Q/Hfw79ZyudwoKopjmaeScb4fKGLVPkRgUQCPcB/s1600/dsc04958.picasaweb.jpg" >}} -->
-
 ## Видео {#video}
 
 Если у вас нет времени читать этот довольно объёмный пост, можете посмотреть короткое обзорное видео по мотивам наших софийских похождений:

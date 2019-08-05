@@ -12,8 +12,6 @@ That country is called Bulgaria, and I recently happened to visit its capital So
 
 <!--more-->
 
-<!-- {{< imgfig "https://2.bp.blogspot.com/-16FAOSrAES4/WQ3-dwbko-I/AAAAAAAAp5Q/Hfw79ZyudwoKopjmaeScb4fKGLVPkRgUQCPcB/s1600/dsc04958.picasaweb.jpg" >}} -->
-
 ## Video {#video}
 
 If you don't feel like reading this pretty lengthy article, here's a short video compilation featuring the highlights of our trip:

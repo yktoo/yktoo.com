@@ -11,8 +11,6 @@ image: "https://3.bp.blogspot.com/-ZI7EXGMDF_g/WQ9rt9ZppyI/AAAAAAAAp6k/9qYkJoUlT
 
 <!--more-->
 
-<!-- {{< imgfig "https://3.bp.blogspot.com/-ZI7EXGMDF_g/WQ9rt9ZppyI/AAAAAAAAp6k/9qYkJoUlTbgiHYZeHZH7I2OmZUyEEFfOwCPcB/s1600/dsc05178.picasaweb.jpg" >}} -->
-
 {{< imgfig "https://3.bp.blogspot.com/-4dWDKauaZ9w/WQ9rtxvqnCI/AAAAAAAAp6k/fYOJTXdKz8wp-pkMapkJmduGTb71QhdcgCPcB/s1600/dsc05177.picasaweb.jpg" "Здание со смайлами." >}}
 
 Проект жилого здания с магазинами в цокольном этаже был создан архитекторским бюро [Attika Architekten](http://www.attika.nl/projecten/plein-rond-de-eik). Иконки-смайлы расположены только на одной из его сторон.

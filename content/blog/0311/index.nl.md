@@ -12,8 +12,6 @@ Ik zou willen beginnen met de omstandigheden die me tot mijn besluit hebben aang
 
 <!--more-->
 
-<!-- {{< imgfig "https://1.bp.blogspot.com/-XCYqqwYaPbs/WCo7vX_qTiI/AAAAAAAAoPA/hDBojNJO1Pk9pRHGq7L6hQCzTBd_bIaCACPcB/s1600/20161105_211814.picasaweb.jpg" >}} -->
-
 Ik ben van mening dat je beter spijt kunt hebben van wat je wel hebt gedaan, dan van wat je niet hebt gedaan, en na alle [voor- en nadelen]({{< relref path="/blog/0309" lang="ru" >}}) te hebben afgewogen ben ik ermee begonnen. Op 1 oktober 2016 is mijn *eenmanszaak* geboren bij de [Kamer van Koophandel](https://www.kvk.nl/). De bevalling is prettig en makkelijk verlopen en het pasgeboren bedrijf kreeg de naam **Yktoo Solutions**.
 {{< imgfig "https://1.bp.blogspot.com/-iaEVkAOTeVs/WKlzptmLZ-I/AAAAAAAApQ0/W-rdGWrQhbI0mT6IfVvmr2qhM5F7-YTewCPcB/s1600/Yktoo-Solutions-logo.png" >}}
 

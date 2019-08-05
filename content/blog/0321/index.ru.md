@@ -9,8 +9,6 @@ image: "https://1.bp.blogspot.com/-ldQnc30ApjQ/WQ3-d13FN0I/AAAAAAAAp5I/u0zKGzXBF
 
 <!--more-->
 
-<!-- {{< imgfig "https://1.bp.blogspot.com/-ldQnc30ApjQ/WQ3-d13FN0I/AAAAAAAAp5I/u0zKGzXBFi83pIRNX4d3DFL9n7JfEHFjgCPcB/s1600/20170429_231240.picasaweb.jpg" >}} -->
-
 Как это у нас в ~~Гейро~~ Европах принято, все команды были из разных стран:
 
 * [Oddland](http://www.oddlandband.com/) — Финляндия;

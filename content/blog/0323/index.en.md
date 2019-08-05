@@ -12,8 +12,6 @@ This idea was suggested by Slavyan during the [Free Sofia Tour]({{< relref "/blo
 
 <!--more-->
 
-<!-- {{< imgfig "https://3.bp.blogspot.com/-MUDPcB6Af28/WQ3-d1G4LuI/AAAAAAAAp5I/2Ynf4n8VMY84cFkIKK2nPLV5AzJjSi9SQCPcB/s1600/dsc05140.picasaweb.jpg" >}} -->
-
 {{< imgfig "https://3.bp.blogspot.com/-JOw1uwaquKo/WQ3-d2BE6MI/AAAAAAAAp5I/YcYVakvcID8hwDNB18sAM6eoewLhCc73ACPcB/s1600/dsc05174.picasaweb.jpg" "Bus Sofia-Plovdiv." >}}
 
 ## European Capital of Culture {#ecc-2019}

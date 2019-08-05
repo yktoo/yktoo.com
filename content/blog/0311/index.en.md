@@ -12,8 +12,6 @@ Let me start with circumstances that pushed me in this direction. In 2016, in th
 
 <!--more-->
 
-<!-- {{< imgfig "https://1.bp.blogspot.com/-XCYqqwYaPbs/WCo7vX_qTiI/AAAAAAAAoPA/hDBojNJO1Pk9pRHGq7L6hQCzTBd_bIaCACPcB/s1600/20161105_211814.picasaweb.jpg" >}} -->
-
 I tend to think that it's better to regret what you have done than what you haven't, and after weighing the [pros and cons]({{< relref "/blog/0309" >}}) I've set the wheels in motion. On the 1<sup>st</sup> of October, 2016 my {{< fl "eenmanszaak" >}} was born at the [Chamber of Commerce](https://www.kvk.nl/). The delivery proved nice and easy, the newborn {{< fl "bedrijf" >}} has been christened as **Yktoo Solutions**.
 {{< imgfig "https://1.bp.blogspot.com/-iaEVkAOTeVs/WKlzptmLZ-I/AAAAAAAApQ0/W-rdGWrQhbI0mT6IfVvmr2qhM5F7-YTewCPcB/s1600/Yktoo-Solutions-logo.png" >}}
 
