@@ -2,6 +2,7 @@
 date: "2012-02-20T00:00:00Z"
 title: "Logitech Wireless Adapter for Bluetooth Review"
 tags: ["audio", "Bluetooth", "gadgets", "hardware", "Logitech", "review", "sound", "Ubuntu", "unboxing", "wireless"]
+image: "https://2.bp.blogspot.com/-7kPgAZpnZE0/TwcOSMK88GI/AAAAAAAALRE/4uMELGo2gts/s1600/wireless-speaker-adapter-glamour-images.png"
 ---
 
 I once needed to connect my PC's audio output to the AV receiver to enjoy music played by decent speakers. The distance between the desktop and the receiver is a few meters, and I didn't want to get entangled by wires (it's the third millennium after all).

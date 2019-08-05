@@ -3,6 +3,7 @@ date: "2015-05-25T00:00:00Z"
 title: "Часть 6. Расположение и выводы"
 group: "Полный обзор 75-дюймового 4K-телевизора Samsung UE75HU7500"
 tags: ["Samsung", "Smart TV", "гаджеты", "железо", "обзор", "телевизоры"]
+image: "https://3.bp.blogspot.com/-Io14-rNSbMM/VQQq8W1CZiI/AAAAAAAAhPk/PqjH6gunL3I/s1600/dsc08021.picasaweb.jpg"
 ---
 
 ## Расположение {#location}

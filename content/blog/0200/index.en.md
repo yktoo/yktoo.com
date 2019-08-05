@@ -2,6 +2,7 @@
 date: "2013-10-25T00:00:00Z"
 title: "Aikikai Amersfoort website"
 tags: ["aikido", "Amersfoort", "Netherlands", "sport", "web", "website", "Yii"]
+image: "https://1.bp.blogspot.com/-lki9NxKtQqo/UmpsckNYfPI/AAAAAAAAakU/UzI2708drDg/s1600/aikikai-amersfoort.picasaweb.png"
 ---
 
 I've done something useful in my spare time. I crafted a website for my aikido school (or {{< fl "dojo" >}}) called **Aikikai Amersfoort**, which is now located at [aikikai-amersfoort.nl](http://aikikai-amersfoort.nl/).

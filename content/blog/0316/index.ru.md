@@ -2,6 +2,7 @@
 date: "2017-03-25T00:00:00Z"
 title: "19 странных голландских обычаев"
 tags: ["забавное", "Нидерланды", "перевод", "различия", "размышления", "традиции"]
+image: "https://2.bp.blogspot.com/-ig8VNpUWEuA/WNVlTBuRJ8I/AAAAAAAApo4/BBFmUWPKDYkL4Ou_tQPyCqueOn-eRLdsACPcB/s1600/inv_strange_dutch_habits_2.jpg"
 ---
 
 Это перевод забавной статьи [«19 Strange Dutch Habits»](http://www.invadingholland.com/guides-to-holland/19-strange-dutch-habits) британца по имени {{< fl "Stuart B" >}}, уже много лет живущего в Нидерландах и ведущего блог [Invading Holland](http://www.invadingholland.com/). Он также занимается тем, что рисует неплохие карикатуры — в том числе, и на заказ.

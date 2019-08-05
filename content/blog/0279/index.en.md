@@ -2,6 +2,7 @@
 date: "2016-06-05T00:00:00Z"
 title: "Amersfoort Marathon 2016"
 tags: ["Amersfoort", "Amersfoort Marathon", "half marathon", "Netherlands", "running", "sport"]
+image: "https://3.bp.blogspot.com/-TKezP-4nd-E/V1RAFo-zavI/AAAAAAAAmUg/HxZwxbqPgVUgst5TjQdXEPcbK0z1FTCFQCKgB/s1600/20160605_154447_sgn-4.picasaweb.jpg"
 ---
 
 I'm just back from Amersfoort where I've quite successfully finished a half marathon, **21.1 km**.

@@ -3,6 +3,7 @@ date: "2011-04-20T00:00:00Z"
 title: "Part 8. Budapest by Day"
 group: "Vienna and Budapest"
 tags: ["Budapest", "Hungary", "travel"]
+image: "https://3.bp.blogspot.com/-hOnYvSZyLPA/Tan2sR77hQI/AAAAAAAAItc/0lTKhtBWzWw/s1600/dsc01740.picasaweb.jpg"
 ---
 
 We borrowed a city guide from our Viennese friends (in German, of course).

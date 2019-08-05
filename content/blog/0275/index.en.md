@@ -2,6 +2,7 @@
 date: "2016-04-11T00:00:00Z"
 title: "Sky is no limit"
 tags: ["music", "Radiolaria", "website"]
+image: "https://3.bp.blogspot.com/-PicmdePdRdM/WFcAND_odPI/AAAAAAAAots/92lu4FQLXx8BF2HXPG5LMgss7SnpN4WqgCPcB/s1600/dsc03863.picasaweb.jpg"
 ---
 
 Igor Abakumov, also known as Mr. Raskolnikov, an ex-member of [Radiolaria][route:/radiolaria], has shared some new material with me: tracks that were recorded for his own solo project called [Zapreschennaya Akustika](https://www.realmusic.ru/zapreszennayaakustika/) ("Forbidden Acoustics").  Even though it's a home recording and perhaps you can't really appreciate the Russian lyrics, the musical aspect seemed quite interesting to me.

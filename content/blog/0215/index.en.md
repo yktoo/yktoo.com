@@ -3,6 +3,7 @@ date: "2014-01-20T00:00:00Z"
 title: "Part 4. S.M.A.K."
 group: "Belgium. Ghent"
 tags: ["beer", "Belgium", "fine arts", "Ghent", "museum", "travel"]
+image: "https://4.bp.blogspot.com/-lnRfRJ3keiM/UtWFd78WDeI/AAAAAAAAbvA/6Jp-aN4Jngk/s1600/dsc02899.picasaweb.jpg"
 ---
 
 One day we'd been wandering through the {{< fl "Citadelpark" >}} (which acquired its name because it's situated on the site where in the XIX century Citadel of Ghent was) and came across two museums located next to each other in the damp and dusky grove (the weather was anything but good and the sky was growing dark, so I won't show you the pictures of the park).

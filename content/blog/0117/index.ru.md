@@ -2,6 +2,7 @@
 date: "2011-09-21T00:00:00Z"
 title: "AutoRAI 2011"
 tags: ["AutoRAI", "RAI", "авто", "Амстердам", "девушки", "Нидерланды"]
+image: "https://1.bp.blogspot.com/-lVACOZil50c/Tnj46jSgeOI/AAAAAAAAJwA/ltVOapTmf9U/s1600/dsc02137.picasaweb.jpg"
 ---
 
 Хоть и минуло уж почти полгода, а всё же лучше поздно, чем никогда.

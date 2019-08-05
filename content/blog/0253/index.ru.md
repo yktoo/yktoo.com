@@ -2,6 +2,7 @@
 date: "2015-08-02T00:00:00Z"
 title: "Мне бы в небо"
 tags: ["Diamond DA40", "Германия", "Лелистад", "Нидерланды", "Нордхорн", "самолёты"]
+image: "https://3.bp.blogspot.com/-A71m34_NFRk/Vat7yNaJekI/AAAAAAAAj0c/eRczmg86rZc/s1600/dsc09693.picasaweb.jpg"
 ---
 
 Лето, сезон [воздухоплавания]({{< relref "/blog/0038" >}}), душа просится в небо.

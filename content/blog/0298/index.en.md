@@ -2,6 +2,7 @@
 date: "2016-11-27T00:00:00Z"
 title: "The smartest traffic-light"
 tags: ["Houten", "Internet", "mass media", "Netherlands", "news", "traffic-lights", "transport"]
+image: "https://1.bp.blogspot.com/-fAmNTgh_Xvs/WDrCLjmjWBI/AAAAAAAAoVc/Fm3jK0UypYkNZxz_DOEYZJzdX81ACWOwwCPcB/s1600/slim-verkeerslicht-houten.picasaweb.jpg"
 ---
 
 The present trend of dubbing everything "smart" based on mere presence of Wi-Fi, Bluetooth or Internet connection is a bit annoying. So we have seen smart washing machines, smart watches, [smart smoke detectors]({{< relref "/blog/0265" >}}), smart toothbrushes and so on. Now traffic-lights are next in line, according to our local press. A [news article](http://www.trefpunthouten.nl/nieuws/algemeen/46927/een-slim-stoplicht-voor-de-staart) announces the very first *smart traffic-light* ({{< fl "slim verkeerslicht" >}}) in the country has been installed in Houten.

@@ -3,6 +3,7 @@ date: "2014-02-02T00:00:00Z"
 title: "1.2.0"
 group: "Sound Switcher Indicator"
 tags: ["PulseAudio", "Python", "Saucy Salamander", "Sound Switcher Indicator", "Ubuntu", "Unity", "звук", "индикатор"]
+image: "https://3.bp.blogspot.com/-AcxuT-Iu-fQ/Uu4Qsv-K3qI/AAAAAAAAb1E/sXZ4SsxuFBc/s1600/Screenshot.png"
 ---
 
 Наконец-то дошли руки выпустить обновление моего [Sound Switcher Indicator][route:/software/indicator-sound-switcher] — версия 1.2.0 позволяет выбирать не только входное/выходное устройство, а ещё и конкретный порт в нём:

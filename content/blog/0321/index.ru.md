@@ -2,6 +2,7 @@
 date: "2017-05-07T00:00:00Z"
 title: "Oddland, Until Rain, Wolverine в Бурдерай"
 tags: ["De Boerderij", "Oddland", "progressive metal", "progressive rock", "Until Rain", "Wolverine", "Зутермеер", "музыка", "Нидерланды"]
+image: "https://1.bp.blogspot.com/-ldQnc30ApjQ/WQ3-d13FN0I/AAAAAAAAp5I/u0zKGzXBFi83pIRNX4d3DFL9n7JfEHFjgCPcB/s1600/20170429_231240.picasaweb.jpg"
 ---
 
 Впервые оказался на концерте, где группа «на разогреве» была мне не менее интересна, чем хедлайнеры. Да что говорить, все три команды {{< fl "The Progressive Aspects Tour" >}} оказались весьма на уровне!

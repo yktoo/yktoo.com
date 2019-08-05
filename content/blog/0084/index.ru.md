@@ -3,6 +3,7 @@ date: "2011-04-14T00:00:00Z"
 title: "Часть 2. Вена"
 group: "Вена и Будапешт"
 tags: ["Австрия", "Вена", "путешествия"]
+image: "https://2.bp.blogspot.com/-tE4w8cHUpcw/TaatAgGeuNI/AAAAAAAAItc/AHwilrDY8wY/s1600/dsc01373.picasaweb.jpg"
 ---
 
 ## Вена {#vienna}

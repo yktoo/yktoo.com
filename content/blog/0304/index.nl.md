@@ -2,6 +2,7 @@
 date: "2017-01-07T00:00:00Z"
 title: "Haastige spoed is zelden goed"
 tags: ["auto", "Houten", "Nederland"]
+image: "https://1.bp.blogspot.com/-c3NrLQxYGE0/WHDg_6IRTbI/AAAAAAAAo-k/hI6nUeeeNQYNqxSGhuuGdX02aTUh7qqeACPcB/s1600/20170107_132958.picasaweb.jpg"
 ---
 
 Pal voordat we naar het Franse Lille vertrokken om daar oud en nieuw te vieren, kreeg ik een briljant idee om autobanden te verwisselen. Voor de zekerheid, want we zouden door drie landen heen rijden, en er was een kans op sneeuw.

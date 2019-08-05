@@ -2,6 +2,7 @@
 date: "2011-09-16T00:00:00Z"
 title: "For Dummies"
 tags: ["забавное", "стёб"]
+image: "https://4.bp.blogspot.com/-V0pnFBf1vzg/TnOw52MkR9I/AAAAAAAAJrg/ZalryZOSI9I/s1600/dummies+-+Being+a+dummy.picasaweb.jpg"
 ---
 
 Всякий раз, когда я видел книги из серии «Для чайников» («For Dummies»), у меня непременно возникало желание предложить издательству John Wiley & Sons ряд новых тем.

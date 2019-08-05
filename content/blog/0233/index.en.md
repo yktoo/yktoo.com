@@ -2,6 +2,7 @@
 date: "2014-12-01T00:00:00Z"
 title: "Tuning Ubuntu for SSD"
 tags: ["how-to", "Linux", "optimisation", "SSD", "Ubuntu"]
+image: "https://1.bp.blogspot.com/-ZikqqB86Bb4/WK3RKkQQT8I/AAAAAAAApUk/X6V97DAgruk3V6qsal5TFzVysauuzvGoQCPcB/s1600/ubuntu.png"
 ---
 
 In my [last post]({{< relref "/blog/0231" >}}) I told you about upgrading an iMac with a solid-state drive (SSD). These drives are very fast (read throughput is usually ca. 500 MB/s if connected via a 6 Gbps SATA III) and completely silent.

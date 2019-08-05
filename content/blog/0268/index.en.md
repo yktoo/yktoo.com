@@ -2,6 +2,7 @@
 date: "2016-01-17T00:00:00Z"
 title: "The first snow!"
 tags: ["nature", "Netherlands", "snow", "weather", "winter"]
+image: "https://3.bp.blogspot.com/-WiejJZQ2SBg/VpvUFVSywXI/AAAAAAAAlHI/a4e4gUtO4Go/s1600/20160117_094217.picasaweb.jpg"
 ---
 
 Today, January 17, 2016, the nature has made an unexpected move. Last night a very thin layer of snow lay on the ground, for the first time in this winter.

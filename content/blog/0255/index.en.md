@@ -2,6 +2,7 @@
 date: "2015-07-20T00:00:00Z"
 title: "Fixing Samsung SSD 840 EVO performance issues in Linux"
 tags: ["gadgets", "hardware", "Samsung", "Samsung 840 EVO", "SSD", "Ubuntu", "yktools"]
+image: "https://4.bp.blogspot.com/-Gis6J9NzD7c/WK3HNt5lxwI/AAAAAAAApUA/jkJuEgZRkKUEy8PJhDRfC58UA-xBrOw-ACPcB/s1600/samsung-840-evo-ssd.jpg"
 ---
 
 It's been a while since I [posted]({{< relref "/blog/0231" >}}) about replacing an iMac's HDD with a solid-state drive (SSD) Samsung 840 EVO, and also about [tuning your Ubuntu]({{< relref "/blog/0233" >}}) for it. Once done, you can enjoy the awesome overall responsiveness of your system and instantaneous application startup. And all that at an affordable price.

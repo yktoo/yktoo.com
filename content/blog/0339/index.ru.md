@@ -2,6 +2,7 @@
 date: "2018-07-02T00:00:00Z"
 title: "Медленное подключение к MySQL в Docker"
 tags: ["Docker", "Linux", "MySQL", "контейнеры", "разработка"]
+image: "https://3.bp.blogspot.com/-KfGkUuzJYBQ/WzpDheKD1ZI/AAAAAAAAsqo/H970WSIWmPgOu7qEpqPfUHUDIljzALuigCKgBGAs/s1600/mysql.png"
 ---
 
 На моём текущем проекте я разрабатываю приложение, использующее {{< fl "MySQL" >}} в качестве базы данных. Сама база данных крутится в {{< fl "Docker" >}}-контейнере, что очень удобно.

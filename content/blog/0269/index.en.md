@@ -2,6 +2,7 @@
 date: "2016-01-19T00:00:00Z"
 title: "A Winter Evening with Stream of Passion — 2015"
 tags: ["Anneke van Giersbergen", "Dianne van Giersbergen", "Lisette van den Berg", "Marcela Bovio", "Merijn van Haren", "music", "Navarone", "Netherlands", "progressive metal", "Stream of Passion", "Tivoli de Helling", "Utrecht", "Xandria"]
+image: "https://4.bp.blogspot.com/-6janEBsGWcY/VofESvhUuOI/AAAAAAAAlDU/jFOAGHTBU_g/s1600/dsc01613.picasaweb.jpg"
 ---
 
 If you think I pay too much attention to {{< wiki "Stream_of_Passion" "en" "Stream of Passion" >}}, I can tell you I've seen a man on the show for whom that show of the band was the 94<sup>th</sup>.

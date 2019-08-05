@@ -2,6 +2,7 @@
 date: "2011-08-21T00:00:00Z"
 title: "Dias Latinos 2011"
 tags: ["Amersfoort", "Dias Latinos", "jazz", "music", "Netherlands", "Tomasa Quartet"]
+image: "https://2.bp.blogspot.com/-w1r7MTEUP8I/TlC3YhBv3ZI/AAAAAAAAJbM/1hoy0xTFb48/s1600/dsc06182.picasaweb.jpg"
 ---
 
 From Friday the 19th until Sunday the 21st August 2011 a traditional Latin-American musical festival [Dias Latinos](http://www.diaslatinos.nl/) ("Latin Days") was held in Amersfoort.

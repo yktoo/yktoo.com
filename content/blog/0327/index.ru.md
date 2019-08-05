@@ -2,6 +2,7 @@
 date: "2017-06-03T00:00:00Z"
 title: "Полумарафон Ijsselstijnloop"
 tags: ["Ijsselsteinloop", "Айсселстайн", "бег", "Нидерланды", "полумарафон", "спорт"]
+image: "https://3.bp.blogspot.com/-FaAglU8-2vA/WTMIq7J8EqI/AAAAAAAAqEg/B8JUhHQIXTY9l08MmxNmfVYvvcZoj6_dACKgB/s1600/dsc05191.picasaweb.jpg"
 ---
 
 Пробежал сегодня ещё один полумарафон (**21,1 км**) — в городке Айсселстайн ({{< wiki "IJsselstein" "en" "Ijsselstein" >}}), что неподалёку от нашего Хаутена.

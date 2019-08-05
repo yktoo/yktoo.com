@@ -2,6 +2,7 @@
 date: "2011-12-07T00:00:00Z"
 title: "Джаз: Ben van den Dungen"
 tags: ["Observant", "Амерсфорт", "джаз", "музыка", "Нидерланды"]
+image: "https://1.bp.blogspot.com/-E1BmfmT2IfI/Tt_YmBbF6TI/AAAAAAAAKmA/aZhnCjYqeM0/s1600/dsc07825.picasaweb.jpg"
 ---
 
 В то время, пока Антон Носик [восхищается Машей](http://dolboeb.livejournal.com/2245861.html), наши бравые голландские парни и не думают отставать.

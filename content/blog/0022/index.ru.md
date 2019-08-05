@@ -2,6 +2,7 @@
 date: "2008-07-20T00:00:00Z"
 title: "Iva Nova и Walhalla"
 tags: ["Iva Nova", "OCCII", "progressive metal", "Sun Caged", "Walhalla", "Амстердам", "музыка", "Нидерланды"]
+image: "https://1.bp.blogspot.com/-jH-_ZJdDAo0/T43FEKfbNgI/AAAAAAAAPCg/TR1D7jLWgxM/s1600/P1000701.picasaweb.jpg"
 ---
 
 Довелось мне тут давеча посетить пару музыкальных мероприятий.

@@ -2,6 +2,7 @@
 date: "2015-08-02T00:00:00Z"
 title: "Up in the air"
 tags: ["aeroplanes", "Diamond DA40", "Germany", "Lelystad", "Netherlands", "Nordhorn"]
+image: "https://3.bp.blogspot.com/-A71m34_NFRk/Vat7yNaJekI/AAAAAAAAj0c/eRczmg86rZc/s1600/dsc09693.picasaweb.jpg"
 ---
 
 Summertime is the high time for [flying]({{< relref path="/blog/0038" lang="ru" >}}).

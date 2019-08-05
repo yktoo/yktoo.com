@@ -2,6 +2,7 @@
 date: "2018-07-02T00:00:00Z"
 title: "Slow connection to MySQL in Docker"
 tags: ["containers", "development", "Docker", "Linux", "MySQL"]
+image: "https://3.bp.blogspot.com/-KfGkUuzJYBQ/WzpDheKD1ZI/AAAAAAAAsqo/H970WSIWmPgOu7qEpqPfUHUDIljzALuigCKgBGAs/s1600/mysql.png"
 ---
 
 My current project makes use of the **MySQL** database, which runs in a **Docker** container.

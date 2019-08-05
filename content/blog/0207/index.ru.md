@@ -2,6 +2,7 @@
 date: "2013-12-14T00:00:00Z"
 title: "Харлинген"
 tags: ["гавань", "Нидерланды", "порт", "Харлинген"]
+image: "https://2.bp.blogspot.com/-pLASqy3Of8Q/UhoJI6y68HI/AAAAAAAAZbo/TiwV1PaiZ5w/s1600/dsc09727.picasaweb.jpg"
 ---
 
 Во время нашей [поездки в Леуварден]({{< relref "/blog/0205" >}}) завернули мы, помимо прочего, и в портовый городок {{< wiki "Харлинген_(Нидерланды)" "ru" "Харлинген" >}} ({{< fl "Harlingen" >}}).

@@ -3,6 +3,7 @@ date: "2011-04-20T00:00:00Z"
 title: "Часть 8. Дневной Будапешт"
 group: "Вена и Будапешт"
 tags: ["Будапешт", "Венгрия", "путешествия"]
+image: "https://3.bp.blogspot.com/-hOnYvSZyLPA/Tan2sR77hQI/AAAAAAAAItc/0lTKhtBWzWw/s1600/dsc01740.picasaweb.jpg"
 ---
 
 Мы взяли у знакомых в Вене путеводитель по Будапешту (естественно, на немецком).

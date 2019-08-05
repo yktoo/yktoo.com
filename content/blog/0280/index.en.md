@@ -2,6 +2,7 @@
 date: "2016-06-12T00:00:00Z"
 title: "Ambient backlighting for Samsung LED TV"
 tags: ["DIY", "gadgets", "geek porn", "hardware", "IKEA", "light", "Samsung", "TV"]
+image: "https://1.bp.blogspot.com/-hm2T5wQ66dc/V1g3T1ndPfI/AAAAAAAAmZ8/0mfL1uF2lSwELRekEY7GEOmCXvWL5M5ywCKgB/s1600/20160606_213812.picasaweb.jpg"
 ---
 
 Being quite happy with my [75 inch whopper]({{< relref "/blog/0243" >}}) {{< fl "Samsung UE75HU7500" >}}, the only thing I wanted to do about it was giving it ambient backlighting. When watching TV in complete darkness your eyes get quickly tired because of the stark contrast between the bright screen and its dark surroundings. Even though this device features an ambient light sensor, which is used to automatically adjust the screen brightness, the contrast is still all too harsh.

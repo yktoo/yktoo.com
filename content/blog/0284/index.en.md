@@ -2,6 +2,7 @@
 date: "2016-07-18T00:00:00Z"
 title: "Now official: Shodan"
 tags: ["aikido", "Leiden", "Netherlands", "sport"]
+image: "https://3.bp.blogspot.com/-yDzrlG5D55s/V40yhuRhIlI/AAAAAAAAmqw/-2izHWg62gYwt-aWnN5zlAvVc9TOVbujQCKgB/s1600/dsc02752.picasaweb.jpg"
 ---
 
 And here we are, almost four months after the [exam]({{< relref "/blog/0273" >}}) I officially possess a Shodan Aikido Aikikai:

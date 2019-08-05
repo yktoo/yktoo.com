@@ -2,6 +2,7 @@
 date: "2011-03-20T00:00:00Z"
 title: "Spring!"
 tags: ["flowers", "nature", "Netherlands", "spring"]
+image: "https://lh6.googleusercontent.com/-UUKrvtB_Ps8/TZt5REgo6UI/AAAAAAAAItg/J4lRegX4y1U/s1600/DSC01000.picasaweb.jpg"
 ---
 
 Now that spring has come, we have daffodils flowering! Not so many and yet remarkable:

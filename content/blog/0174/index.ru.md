@@ -2,6 +2,7 @@
 date: "2013-01-16T00:00:00Z"
 title: "Фруктовая ёлка"
 tags: ["еда", "Новый Год", "очумелые ручки", "праздники", "сделай сам"]
+image: "https://1.bp.blogspot.com/-7txD-LzjEbg/UOR-GB4aRJI/AAAAAAAAWVQ/DEQihbrLBw4/s1600/dsc06430.picasaweb.jpg"
 ---
 
 Мы в Новый год сделали вот такое, по-настоящему фруктовое дерево:

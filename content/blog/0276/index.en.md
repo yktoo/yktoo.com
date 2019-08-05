@@ -2,6 +2,7 @@
 date: "2016-04-30T00:00:00Z"
 title: "Separate the sheep from the phones"
 tags: ["funny", "gadgets", "Netherlands", "waste"]
+image: "https://2.bp.blogspot.com/-jL2wyfC1WDw/VyTmayHUOLI/AAAAAAAAl5I/hBBZ6CFkK18OwexqP5wAcgXIH67pwrB9QCKgB/s1600/20160429_171914.picasaweb.jpg"
 ---
 
 {{< wiki "Moore's_law" "en" "Moore's law" >}} teamed up with the Chinese electronic device industry are inserting new steps into the [Lansink's Ladder]({{< relref path="/blog/0093" lang="ru" >}}). Next to the sections for used fluorescent bulbs and batteries, which are classified as {{< fl "klein chemisch afval" >}} (household hazardous waste), {{< fl "Albert Heijn" >}} grocery stores have now added a separate opening for used mobile phones!

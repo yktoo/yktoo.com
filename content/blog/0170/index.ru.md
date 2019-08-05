@@ -2,6 +2,7 @@
 date: "2012-11-23T00:00:00Z"
 title: "Metal for Mara в P60"
 tags: ["Autumn", "Kingfisher Sky", "P60", "progressive metal", "Sin7sinS", "Stream of Passion", "музыка", "Нидерланды"]
+image: "https://1.bp.blogspot.com/-1lq4CAo5qR8/UK9qJepT1GI/AAAAAAAAWAY/ppbt460_VoQ/s1600/sony-nex-ecm-sst1.picasaweb.jpg"
 ---
 
 17 ноября в амстелвейнском клубе [P60](http://www.p60.nl/) (в котором я уже был дважды: [1]({{< relref "/blog/0098" >}}), [2]({{< relref "/blog/0101" >}})) состоялся благотворительный концерт под названием {{< fl "Metal for Mara" >}}.

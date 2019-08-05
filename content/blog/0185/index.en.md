@@ -2,6 +2,7 @@
 date: "2013-05-22T00:00:00Z"
 title: "Amersfoort Jazz Festival 2013"
 tags: ["Amersfoort", "flamenco", "jazz", "music", "video"]
+image: "https://1.bp.blogspot.com/-j2AvSpmVd38/UZ0Lc33S2gI/AAAAAAAAYb8/IZqfcD6m0aE/s1600/dsc08865.picasaweb.jpg"
 ---
 
 Last weekend, 16 through 19 May 2013, the traditional yearly jazz festival took place in Amersfoort, as I [announced]({{< relref "/blog/0183" >}}). Its thirty-fourth edition, to be precise. Chaired by the well-known Alexander Beets:

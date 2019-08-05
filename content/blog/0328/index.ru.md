@@ -2,6 +2,7 @@
 date: "2017-06-06T00:00:00Z"
 title: "Riverside в Бурдерай"
 tags: ["De Boerderij", "progressive metal", "progressive rock", "Riverside", "Зутермеер", "музыка", "Нидерланды"]
+image: "https://1.bp.blogspot.com/-msPpM_nMqx0/WTRdaD9ey2I/AAAAAAAAqFQ/UsebQnNd-tkdRVkUC9_YfI-h3di78dg-gCKgB/s1600/20170525_210732.picasaweb.jpg"
 ---
 
 Ещё одна детская мечта сбылась! Я слушал польскую прогрессив-бригаду {{< wiki "Riverside" "ru" "Riverside" >}} практически с самого момента её основания, — даже, скорее, заслушивался. Эх, прогрессивное детство моё (ну ладно, мне было в то время под тридцать).

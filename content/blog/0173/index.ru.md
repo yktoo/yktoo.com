@@ -2,6 +2,7 @@
 date: "2013-01-15T00:00:00Z"
 title: "Приятный Амерсфорт"
 tags: ["Lucas Bolsius", "Амерсфорт", "Нидерланды"]
+image: "https://2.bp.blogspot.com/-3MsZzhq6_1o/UN8vKhTmYrI/AAAAAAAAWGc/ZfXjjqG5mdQ/s1600/dsc05884.picasaweb.jpg"
 ---
 
 В ноябре минувшего года нас с Амерсфортом официально представили друг другу.

@@ -2,6 +2,7 @@
 date: "2015-11-28T00:00:00Z"
 title: "Nightwish, Arch Enemy, Amorphis at Heineken Music Hall"
 tags: ["Amorphis", "Amsterdam", "Arch Enemy", "Floor Jansen", "Heineken Music Hall", "music", "Netherlands", "Nightwish", "progressive metal"]
+image: "https://3.bp.blogspot.com/-uGHxhkww5bI/VlMnHxE0jmI/AAAAAAAAkwM/sJHdQrBDJhU/s1600/dsc01320.picasaweb.jpg"
 ---
 
 It's now Movember (a.k.a. Musical November), which means — showtime!

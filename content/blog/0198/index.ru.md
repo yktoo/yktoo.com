@@ -2,6 +2,7 @@
 date: "2013-09-07T00:00:00Z"
 title: "Устранение щелчка при выключении колонок M-Audio Studiophile"
 tags: ["IKEA", "гаджеты", "железо", "звук", "колонки"]
+image: "https://1.bp.blogspot.com/-gyclTnBGtwE/Uit7zpz306I/AAAAAAAAaZE/Sz53aBCQC-8/s1600/patrull.picasaweb.jpg"
 ---
 
 У моих колонок [M-Audio Studiophile AV 40]({{< relref "/blog/0189" >}}) недавно обнаружилась забавная особенность.

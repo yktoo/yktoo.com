@@ -2,6 +2,7 @@
 date: "2011-01-20T00:00:00Z"
 title: "A hoot of negative"
 tags: ["interesting", "Netherlands", "Russia"]
+image: "https://2.bp.blogspot.com/_PX65_e7vApk/TTi1SaW5WGI/AAAAAAAAH3I/fi7PBy5kSJQ/s1600/Comparing+Russia+to+Netherlands.png"
 ---
 
 Challenges chased me in my fatherland, and it takes time to recover. Anyway, imagine you were living in Russia. That's how you might see this, [according](http://www.ifitweremyhome.com/compare/RU/NL) to IfItWereMyHome.com:

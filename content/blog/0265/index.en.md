@@ -2,6 +2,7 @@
 date: "2015-12-02T00:00:00Z"
 title: "Nest Protect 2 review"
 tags: ["gadgets", "Google", "hardware", "Nest", "Nest Protect 2", "review"]
+image: "https://4.bp.blogspot.com/-9MqWjRo4DI8/VlrPOWc_hXI/AAAAAAAAk2c/qI6pz9SyOT0/s1600/dsc01093.picasaweb.jpg"
 ---
 
 ## Intro {#intro}

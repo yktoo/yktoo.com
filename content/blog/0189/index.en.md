@@ -2,6 +2,7 @@
 date: "2013-06-05T00:00:00Z"
 title: "M-Audio Studiophile AV 40 review"
 tags: ["gadgets", "hardware", "review", "sound", "speaker", "unboxing"]
+image: "https://3.bp.blogspot.com/-WyvekvLZ7hs/Ua92x_gKFjI/AAAAAAAAZKM/J3h4vfcy9iU/s1600/SPAV40_front.picasaweb.jpg"
 ---
 
 It's been two years of suffering from the speakers built into my [iMac]({{< relref "/blog/0120" >}}). The speakers, despite all Apple's marketing noise and even two 17 Watt power amps, suck big time. I've already [connected]({{< relref "/blog/0141" >}}) my AV receiver via Bluetooth, but it's quite a hassle to start it up every time. Another issue is that Logitech Bluetooth adapter gives a very low output level, which requires setting receiver's volume to -20 dB every time I power it up.

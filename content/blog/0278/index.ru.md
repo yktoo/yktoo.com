@@ -2,6 +2,7 @@
 date: "2016-05-07T00:00:00Z"
 title: "InfoPi, или Сам себе Гугл Нау"
 tags: ["GitHub", "InfoPi", "Python", "Raspberry Pi", "гаджеты", "гик-порно", "домашняя автоматизация", "очумелые ручки", "сделай сам"]
+image: "https://4.bp.blogspot.com/-D5G4Pn43nqk/VydB2HHGbEI/AAAAAAAAl9Q/eky3gNdNU0wAGHjFxbnwGcreYlwuMP41wCKgB/s1600/dsc02157.picasaweb.jpg"
 ---
 
 *Когда гику нечего делать, он начинает заниматься домашней автоматизацией. А когда уже нечего автоматизировать, он пишет об этом в блог.*

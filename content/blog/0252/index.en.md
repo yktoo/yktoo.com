@@ -2,6 +2,7 @@
 date: "2015-07-11T00:00:00Z"
 title: "Upgrade of Koss PortaPro headphones"
 tags: ["DIY", "gadgets", "geek porn", "hardware", "headphones", "Koss", "sound"]
+image: "https://1.bp.blogspot.com/-zr--d6U3v8Y/VaDimXuMs7I/AAAAAAAAjps/27Ybkhxua90/s1600/dsc09866.picasaweb.jpg"
 ---
 
 I managed to upgrade the best-selling [Koss PortaPro](http://www.koss.com/en/products/headphones/on-ear-headphones/PortaPro__Porta_Pro_On_Ear_Headphone) headphones using a couple of items I've bought on eBay. The headphones are some ten years old now, yet sturdy and rocking, and now have become even better:

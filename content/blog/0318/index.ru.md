@@ -3,6 +3,7 @@ date: "2017-03-30T00:00:00Z"
 title: "Поиски и происки"
 group: "Доля предпринимательская"
 tags: ["Observ", "Yktoo Solutions", "налоги", "Нидерланды", "предпринимательство", "работа", "фриланс"]
+image: "https://4.bp.blogspot.com/-cjUtE071tFg/WN0YRhFH42I/AAAAAAAApr4/WyB_8ceeS0M-JGzjCw6TmK8ZzriLe2wmgCPcB/s1600/observ.nu.picasaweb.png"
 ---
 
 Продолжая свой [цикл постов][route:/blog/group,id:13] о нелёгкой, но радостной предпринимательской судьбе, вкратце расскажу об уроках, извлечённых из личного опыта трудоустройства.

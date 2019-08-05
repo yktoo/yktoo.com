@@ -2,6 +2,7 @@
 date: "2013-12-13T00:00:00Z"
 title: "DKLang Localization Package 4.01  5.0"
 tags: ["Delphi", "DKLang", "FireMonkey", "GitHub", "i18n"]
+image: "https://1.bp.blogspot.com/-lQMvt4uzEB4/UqrhQFuH4-I/AAAAAAAAbAE/idD1wDQ5-8c/s1600/dklang-cross-platform.png"
 ---
 
 *Happy Friday the 13th! [Bruce Miller](http://rules-of-thumb.com/), the current maintainer of DKLang, is bringing great news for Delphi developers.*

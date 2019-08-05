@@ -2,6 +2,7 @@
 date: "2015-01-03T00:00:00Z"
 title: "Happy New 2015!"
 tags: ["fireworks", "holidays", "Houten", "Netherlands", "nieuwjaarsduik"]
+image: "https://4.bp.blogspot.com/-47IC2eJZZxE/VKgOQSakNJI/AAAAAAAAgrk/IpqQ-8NckG4/s1600/dsc07741.picasaweb.jpg"
 ---
 
 We had a great time celebrating the New 2015, together with our Russian and Ukrainian friends.

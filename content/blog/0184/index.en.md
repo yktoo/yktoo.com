@@ -2,6 +2,7 @@
 date: "2013-05-17T00:00:00Z"
 title: "The Last Queen's Day"
 tags: ["Amsterdam", "festivities", "Netherlands", "orange fever", "Queen's Day"]
+image: "https://1.bp.blogspot.com/-9iGdLHzZkTc/UZVDNXWR8VI/AAAAAAAAX84/InSw7POOSBE/s1600/dsc08349.picasaweb.jpg"
 ---
 
 Yet again, precisely on time, Holland has turned orange on the 30<sup>th</sup> of April. Queen's day is there, but this time is the last in the modern history of the country.

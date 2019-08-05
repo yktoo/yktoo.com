@@ -2,6 +2,7 @@
 date: "2010-08-20T00:00:00Z"
 title: "Нежная забота о населении"
 tags: ["интересное", "Нидерланды", "Схипхол"]
+image: "https://3.bp.blogspot.com/-YH1X3tNLL_w/VE6YIsXJMiI/AAAAAAAAfpc/EyvvwVKnIh8/s1600/Schiphol.picasaweb.jpg"
 ---
 
 Читаешь местные новости и просто слёзы на глаза наворачиваются от столь трогательной заботы о населении.

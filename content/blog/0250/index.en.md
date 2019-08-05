@@ -2,6 +2,7 @@
 date: "2015-03-29T00:00:00Z"
 title: "The Gentle Storm and Stream of Passion in Melkweg"
 tags: ["Amsterdam", "Anneke van Giersbergen", "Arjen Lucassen", "Ed Warby", "Ferry Duijsens", "Johan van Stratum", "Joost van den Broek", "Marcela Bovio", "Melkweg", "Merel Bechtold", "music", "Netherlands", "progressive metal", "Stream of Passion", "The Gentle Storm"]
+image: "https://2.bp.blogspot.com/-cH_tABt-xDQ/VRf95KVJ0VI/AAAAAAAAhbM/vj3Eldrjaks/s1600/dsc08304.picasaweb.jpg"
 ---
 
 It's been a while since my last gig report, time to catch up with the latest developments in the Dutch rock world. I've a perfect occasion as I've seen two live rock legends.

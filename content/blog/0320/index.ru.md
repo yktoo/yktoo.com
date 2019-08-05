@@ -2,6 +2,7 @@
 date: "2017-04-18T00:00:00Z"
 title: "Замкозабег, третья редакция"
 tags: ["De Haar", "De Halve van de Haar", "бег", "замок", "Нидерланды", "полумарафон", "спорт"]
+image: "https://3.bp.blogspot.com/-PbeqYXL7STA/WPTsB8ySmRI/AAAAAAAApxE/HTDNCie-4w4e-mtovTqYB-mqOn_niBs9ACPcB/s1600/dsc04851.picasaweb.jpg"
 ---
 
 Вчера, во второй день Пасхи, в третий раз пробежал полумарафон [De Halve van De Haar](http://www.dehalvevandehaar.nl/) (**21,1 км**), который проводится на территории парка замка {{< fl "De Haar" >}} под Утрехтом.

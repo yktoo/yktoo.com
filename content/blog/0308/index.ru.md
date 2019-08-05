@@ -2,6 +2,7 @@
 date: "2017-02-18T00:00:00Z"
 title: "Разработка в Yii/PHP/MySQL с использованием Docker"
 tags: ["Docker", "MySQL", "PHP", "Yii2", "веб", "контейнеры", "разработка", "сайт"]
+image: "https://3.bp.blogspot.com/-czrNcwMoyQw/WK3et6P_81I/AAAAAAAApVE/gGCNALgayxA6kT3LmaPIiamtMNY48E88QCPcB/s1600/docker.png"
 ---
 
 Вот уже около года я веду разработку своего веб-сайта (используемый стек технологий: [Yii 2](http://www.yiiframework.com/)/[PHP](http://php.net/)/[MySQL](https://www.mysql.com/)) исключительно с использованием [Docker](https://www.docker.com/). Однажды попробовав, я понял, что {{< fl "Docker" >}} — это лучшее, что могло случиться в сфере разработки. Ну, после {{< fl "Vim" >}}, конечно.

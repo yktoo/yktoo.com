@@ -2,6 +2,7 @@
 date: "2014-12-31T00:00:00Z"
 title: "Две тысячи четырнадцатый — всё"
 tags: ["2014", "итоги", "Нидерланды", "праздники", "Россия"]
+image: "https://1.bp.blogspot.com/-U6zV2ecnbAs/VKO9nYyvkXI/AAAAAAAAgRU/3n5TVXuw7HE/s1600/avatar-who-you-are.jpg"
 ---
 
 Тут все подводят итоги уходящего года, ну и я туда же.

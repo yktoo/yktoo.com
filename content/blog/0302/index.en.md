@@ -2,6 +2,7 @@
 date: "2016-12-31T00:00:00Z"
 title: "So long two thousand sixteen"
 tags: ["2016", "upshot", "web", "website", "Yktoo Solutions"]
+image: "https://3.bp.blogspot.com/-j13YG-30uUo/WGJ6mibiEgI/AAAAAAAAoyk/ZqH9Gi4_Q8c-wVOBGrnz20vIayOMa5AtQCPcB/s1600/2017.png"
 ---
 
 The turbulent two thousand sixteen has come to an end. The year that has brought so much grief to our world. The year in which [Sun Caged]({{< relref "/blog/0283" >}}) and *Stream of Passion* ceased to exist. I'm inclined to think it's good that it's over.

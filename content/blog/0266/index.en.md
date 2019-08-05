@@ -2,6 +2,7 @@
 date: "2015-12-29T00:00:00Z"
 title: "On the subject of running"
 tags: ["Amersfoort", "Amsterdam-Rhine Canal", "castle", "De Haar", "De Halve van de Haar", "Houten", "Loop door Houten", "Marathon Amersfoort", "Netherlands", "running", "sport", "upshot"]
+image: "https://4.bp.blogspot.com/-W8h_qff_EP0/Vn5_gyEPg6I/AAAAAAAAk7I/vJEqV3v_lbk/s1600/Houten-5km-loop.picasaweb.png"
 ---
 
 The year is coming to an end again, with so much left to run. I can't repeat my [2013's record]({{< relref "/blog/0209" >}}) of 800 km this year—in 2015 I've only run some **600 km**. Not because I'm lazy, but due to being more active in aikido.

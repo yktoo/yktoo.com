@@ -3,6 +3,7 @@ date: "2014-10-12T00:00:00Z"
 title: "Part 3. Water and Fruits"
 group: "Houten"
 tags: ["Houten", "Netherlands", "water"]
+image: "https://2.bp.blogspot.com/-bBt-dPzYMUU/U_uLTtKwcpI/AAAAAAAAfFA/CK20pVWHIo4/s1600/dsc06429.picasaweb.jpg"
 ---
 
 In the [previous part]({{< relref "/blog/0222" >}}) I mentioned the "Bike Town" award given to Houten a few years ago. This tiny geographical object has also won a number of other awards:

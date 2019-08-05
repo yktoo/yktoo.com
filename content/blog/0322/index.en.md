@@ -3,6 +3,7 @@ date: "2017-05-13T00:00:00Z"
 title: "Part 1. Sofia"
 group: "Bulgaria"
 tags: ["Bulgaria", "Sofia", "travel"]
+image: "https://2.bp.blogspot.com/-16FAOSrAES4/WQ3-dwbko-I/AAAAAAAAp5Q/Hfw79ZyudwoKopjmaeScb4fKGLVPkRgUQCPcB/s1600/dsc04958.picasaweb.jpg"
 ---
 
 There's this country on our globe that is kind of special for Russian-speaking people, because they use the same alphabet but pretty different words. Which usually results in something either incomprehensible or hilarious.

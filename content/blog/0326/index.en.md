@@ -2,6 +2,7 @@
 date: "2017-06-03T00:00:00Z"
 title: "Review: Xiaomi In-Ear Headphones Pro HD"
 tags: ["gadgets", "hardware", "headphones", "In-Ear Headphones Pro HD", "Mi", "review", "sound", "unboxing", "Xiaomi"]
+image: "https://3.bp.blogspot.com/-aKpXFZ3-oIw/WSajHsRGiBI/AAAAAAAAp_I/4NJnW6NuYIgKl85gw0584Iok9YjhpLS4wCKgB/s1600/mi-headphone.picasaweb.jpg"
 ---
 
 I'm not really into reviewing gadgets, but in this case it's worth doing it. Today I'd like to review [Mi In-Ear Headphones Pro HD](http://www.mi.com/en/headphonesprohd/) by the well-known Chinese make {{< fl "Xiaomi" >}}.

@@ -3,6 +3,7 @@ date: "2011-04-17T00:00:00Z"
 title: "Часть 6. Будапешт"
 group: "Вена и Будапешт"
 tags: ["Будапешт", "Венгрия", "путешествия"]
+image: "https://2.bp.blogspot.com/-TT8ijGC6JlM/Tan1xe9HsYI/AAAAAAAAItc/gL4QKmtreoI/s1600/dsc01819.picasaweb.jpg"
 ---
 
 {{< imgfig "https://2.bp.blogspot.com/-TT8ijGC6JlM/Tan1xe9HsYI/AAAAAAAAItc/gL4QKmtreoI/s1600/dsc01819.picasaweb.jpg" >}}

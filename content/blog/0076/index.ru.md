@@ -2,6 +2,7 @@
 date: "2011-03-20T00:00:00Z"
 title: "Весна!"
 tags: ["весна", "Нидерланды", "природа", "цветы"]
+image: "https://lh6.googleusercontent.com/-UUKrvtB_Ps8/TZt5REgo6UI/AAAAAAAAItg/J4lRegX4y1U/s1600/DSC01000.picasaweb.jpg"
 ---
 
 У нас опять начали цвести нарциссы. Правда, пока в ограниченных количествах:

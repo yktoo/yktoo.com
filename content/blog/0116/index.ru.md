@@ -2,6 +2,7 @@
 date: "2011-09-17T00:00:00Z"
 title: "Достижения беговой науки"
 tags: ["Pellikaan", "бег", "Нидерланды", "спорт"]
+image: "https://4.bp.blogspot.com/-ASGnXYh9Pm4/TnT2mj-KTrI/AAAAAAAAJsQ/oOgKe8qOzz4/s1600/matrix-T7xe-002.picasaweb.jpg"
 ---
 
 Наш спортклуб закупил и установил новые беговые дорожки. Беглый поиск в Интернете показал, что это [Matrix T7xe](http://www.matrixfitness.com/product/view/t7xe-treadmill). Всё в соответствии с веяниями времени, хайтек как он есть:

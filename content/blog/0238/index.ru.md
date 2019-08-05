@@ -2,6 +2,7 @@
 date: "2015-02-03T00:00:00Z"
 title: "Ghent Light Festival — 2015"
 tags: ["Ghent Light Festival", "Бельгия", "Гент", "красивое", "ночь", "свет"]
+image: "https://1.bp.blogspot.com/-YxmmwHkb-qo/VM6ccpInzhI/AAAAAAAAg9Y/Pxihf6qwvMA/s1600/dsc07961.picasaweb.jpg"
 ---
 
 Минул год, и я, как и [обещал]({{< relref "/blog/0213" >}}), нагрянул на гентский фестиваль света ([Ghent Light Festival](http://www.lichtfestivalgent.be/)).

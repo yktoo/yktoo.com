@@ -2,6 +2,7 @@
 date: "2010-11-14T00:00:00Z"
 title: "Дилетанты шутят"
 tags: ["Pellikaan", "бег", "впервые", "Нидерланды", "плавание", "спорт"]
+image: "https://1.bp.blogspot.com/-anVer_Qmpx8/T5vYDBhEE1I/AAAAAAAAPyw/KbOgrx2q4IE/s1600/sportfondsenbad-amersfoort.picasaweb.jpg"
 ---
 
 ## Вступление {#intro}

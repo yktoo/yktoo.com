@@ -2,6 +2,7 @@
 date: "2018-12-31T00:00:00Z"
 title: "So long two thousand eighteen"
 tags: ["2018", "upshot"]
+image: "https://3.bp.blogspot.com/-0yOc98Dr8-k/XCkJayeJeVI/AAAAAAAAuUg/RvMfC0YJQ5EzlG8ZD-RYMHxlqj1hspiSQCKgBGAs/s1600/2019.png"
 ---
 
 {{< fl "Tjongejonge" >}}, this year ended as suddenly as it [began]({{< relref "/blog/0332" >}}), I couldn't even find time to blog. This post is the tenth and the last one in 2018 (but I'm seriously considering improving on that matter).

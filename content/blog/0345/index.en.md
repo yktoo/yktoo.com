@@ -2,6 +2,7 @@
 date: "2019-07-13T00:00:00Z"
 title: "On the subject of inevitable ⚤"
 tags: ["Netherlands", "personal", "wedding"]
+image: "https://1.bp.blogspot.com/-wy6w96RgkKY/XSssvrVGv3I/AAAAAAAAwXM/dQaxNjr7C3QjjWyuGQBZcW2jZ-EGXFYcQCKgBGAs/s1600/a%2526d.picasaweb.jpg"
 ---
 
 On this same day, precisely two years ago—July 13, 2017—I've rolled my mouse pointer over a very beautiful photo of a girl and clicked on *Like*.

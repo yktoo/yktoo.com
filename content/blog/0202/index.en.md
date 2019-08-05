@@ -2,6 +2,7 @@
 date: "2013-11-09T00:00:00Z"
 title: "Two more nights with Stream of Passion"
 tags: ["Amstelveen", "music", "Netherlands", "P60", "progressive metal", "Stream of Passion", "Tivoli Spiegelbar", "Utrecht", "Winter in Eden"]
+image: "https://4.bp.blogspot.com/-SKjoo_QXsho/UjBocfrz-iI/AAAAAAAAaZU/SSXcuppuJq4/s1600/dsc01128.picasaweb.jpg"
 ---
 
 It's been a while since I wrote about the masters of drive and female vocals, one of my favourites, Stream of Passion. They're still there and have even recently toured in Moscow and Saint-Petersburg, which they posted about on their [Facebook page](http://www.facebook.com/StreamOfPassion).

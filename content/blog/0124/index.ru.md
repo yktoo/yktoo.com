@@ -2,6 +2,7 @@
 date: "2011-10-31T00:00:00Z"
 title: "In Vino Veritas"
 tags: ["вино", "цены"]
+image: "https://4.bp.blogspot.com/-9T_gIm_EW3U/Tq3anbRHgpI/AAAAAAAAKVY/X4KDFTzsYH8/s1600/dimple-15.jpg"
 ---
 
 Одна из вещей, которая меня очень удивляет, — это цены на спиртное в Голландии и России, особенно на вино, — и их соотношение с качеством.

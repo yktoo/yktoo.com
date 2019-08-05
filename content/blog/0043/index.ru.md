@@ -2,6 +2,7 @@
 date: "2009-10-10T00:00:00Z"
 title: "Париж"
 tags: ["Париж", "путешествия", "Франция"]
+image: "https://2.bp.blogspot.com/-ZfY2B0T66H4/T4wgATEFrpI/AAAAAAAAO2c/_tUvX943Fwc/s1600/imgp2780.picasaweb.jpg"
 ---
 
 ## Туда {#way-there}

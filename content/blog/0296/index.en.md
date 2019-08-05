@@ -2,6 +2,7 @@
 date: "2016-11-15T00:00:00Z"
 title: "Shadowrise and Myrath at Patronaat"
 tags: ["Haarlem", "music", "Myrath", "Netherlands", "Patronaat", "progressive metal", "progressive rock", "Shadowrise"]
+image: "https://1.bp.blogspot.com/-mVotZz4ZbFY/WCo7veUaz1I/AAAAAAAAoOg/VruPgzEwhboZ2iAJSxIohgPsi1gupE0PwCPcB/s1600/dsc03122.picasaweb.jpg"
 ---
 
 Last Saturday was marked by a show by the prog metal band [Myrath](http://www.myrath.com/) from Tunisia (Northern Africa). The venue was the club [Patronaat](http://www.patronaat.nl/) in Haarlem, Netherlands. {{< fl "Myrath" >}} is unique not only because of its origin, but also thanks to a magnificent combination of heavy sound and Arabic motives and instruments in their music. Furthermore, they have a belly dancer!

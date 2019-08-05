@@ -2,6 +2,7 @@
 date: "2017-02-17T00:00:00Z"
 title: "20 years, and counting"
 tags: ["anniversary", "blog", "employment"]
+image: "https://4.bp.blogspot.com/-e_86xxIb3VY/WKbJN0DAq_I/AAAAAAAApP4/rZ3yDk3r7OY6vOlN0tTsrZ_F_89kPXMgACPcB/s1600/trudovaya-page-1.picasaweb.jpg"
 ---
 
 With all that fuss I have missed the important date of **20 years** of my professional experience, which happened on March 22, 2016.

@@ -2,6 +2,7 @@
 date: "2008-05-21T00:00:00Z"
 title: "Кристиан Тисье и Международное Айкидо"
 tags: ["айкидо", "Амстердам", "Нидерланды", "спорт"]
+image: "https://4.bp.blogspot.com/-2skgzQ66hqw/SDQpu8GPBRI/AAAAAAAAAE4/OjZOPpZFSU4/s1600/CTissier.jpg"
 ---
 
 17—18 мая у нас в Амстердаме был учебный семинар по айкидо с [Кристианом Тисье](http://www.christiantissier.com/) ({{< fl "Christian Tissier" >}}).

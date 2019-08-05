@@ -2,6 +2,7 @@
 date: "2015-02-03T00:00:00Z"
 title: "Ghent Light Festival 2015"
 tags: ["beautiful", "Belgium", "Ghent", "Ghent Light Festival", "light", "night"]
+image: "https://1.bp.blogspot.com/-YxmmwHkb-qo/VM6ccpInzhI/AAAAAAAAg9Y/Pxihf6qwvMA/s1600/dsc07961.picasaweb.jpg"
 ---
 
 This year I've visited [Ghent Light Festival](http://www.lichtfestivalgent.be/), just as I [promised]({{< relref "/blog/0213" >}}) a year ago.

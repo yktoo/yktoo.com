@@ -2,6 +2,7 @@
 date: "2013-09-13T00:00:00Z"
 title: "How-to: Multiplicity in Gimp"
 tags: ["Gimp", "graphics", "how-to", "Linux", "multiplicity", "Ubuntu"]
+image: "https://2.bp.blogspot.com/-hg95nA5TCEM/UjLjT3RlumI/AAAAAAAAafw/gAkDwzOZWnw/s1600/2011-11-19+-+rehearsal.picasaweb.jpg"
 ---
 
 My today's story is about a well-known yet impressive graphic editing technique called {{< fl "multiplicity" >}}. It allows you to multiply objects on a photo—most commonly people, but it can be just as well kittens or lawn-mowers. Using this technique, you can make pictures like this:

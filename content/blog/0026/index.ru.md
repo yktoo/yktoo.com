@@ -2,6 +2,7 @@
 date: "2008-10-14T00:00:00Z"
 title: "Новости из мира айкидо"
 tags: ["Vathorst", "айкидо", "Амерсфорт", "карате", "Нидерланды", "спорт"]
+image: "https://1.bp.blogspot.com/-TdPd_onoFfk/T420CGyYn6I/AAAAAAAAO_0/CnPmP3fiONQ/s1600/Demo+Skatebaan+%252813-09-2008%2529+001.picasaweb.jpg"
 ---
 
 Была парочка интересных мероприятий у нас в айкидо-клубе.

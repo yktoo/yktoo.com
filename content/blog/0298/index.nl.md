@@ -2,6 +2,7 @@
 date: "2016-11-27T00:00:00Z"
 title: "Het slimste verkeerslicht"
 tags: ["Houten", "Internet", "massamedia", "Nederland", "nieuws", "transport", "verkeerslichten"]
+image: "https://1.bp.blogspot.com/-fAmNTgh_Xvs/WDrCLjmjWBI/AAAAAAAAoVc/Fm3jK0UypYkNZxz_DOEYZJzdX81ACWOwwCPcB/s1600/slim-verkeerslicht-houten.picasaweb.jpg"
 ---
 
 Ik vind de huidige tendens om alles wat Wi-Fi, Bluetooth of internetverbinding heeft "slim" te noemen een beetje vervelend. Zo kennen we al slimme wasmachines, slimme horloges, [slimme rookmelders]({{< relref path="/blog/0265" lang="ru" >}}), slimme tandenborstels enzovoort. Nu zijn verkeerslichten aan de beurt volgens onze plaatselijke krant. Een [nieuwsartikel](http://www.trefpunthouten.nl/nieuws/algemeen/46927/een-slim-stoplicht-voor-de-staart) vertelt over het eerste slimme verkeerslicht in ons land dat in Houten is geïnstalleerd.

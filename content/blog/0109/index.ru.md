@@ -2,6 +2,7 @@
 date: "2011-08-21T00:00:00Z"
 title: "Нам сальса строить и жить помогает (Dias Latinos — 2011)"
 tags: ["Dias Latinos", "Tomasa Quartet", "Амерсфорт", "джаз", "музыка", "Нидерланды"]
+image: "https://2.bp.blogspot.com/-w1r7MTEUP8I/TlC3YhBv3ZI/AAAAAAAAJbM/1hoy0xTFb48/s1600/dsc06182.picasaweb.jpg"
 ---
 
 С пятницы 19 по воскресенье 21 августа 2011 года в Амерсфорте прошёл традиционный, а кроме того, юбилейный — пятнадцатый — фестиваль латиноамериканской музыки [Dias Latinos](http://www.diaslatinos.nl/) (переводится как «латинские дни»).

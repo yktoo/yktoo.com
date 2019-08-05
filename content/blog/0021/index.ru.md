@@ -2,6 +2,7 @@
 date: "2008-07-06T00:00:00Z"
 title: "Заансе Сханс"
 tags: ["Заансе Сханс", "красивое", "Нидерланды"]
+image: "https://2.bp.blogspot.com/-KYJY4nlm23c/T3S2dp3MpuI/AAAAAAAAOI8/0lSPx5Y7mv8/s1600/P1000668.picasaweb.jpg"
 ---
 
 Сегодня я побывал в образцово-показательной деревушке с непроизносимым названием Заансе Сханс ({{< fl "Zaanse Schans" >}}).

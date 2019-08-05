@@ -3,6 +3,7 @@ date: "2011-04-14T00:00:00Z"
 title: "Part 2. Vienna"
 group: "Vienna and Budapest"
 tags: ["Austria", "travel", "Vienna"]
+image: "https://2.bp.blogspot.com/-tE4w8cHUpcw/TaatAgGeuNI/AAAAAAAAItc/AHwilrDY8wY/s1600/dsc01373.picasaweb.jpg"
 ---
 
 ## Vienna {#vienna}

@@ -3,6 +3,7 @@ date: "2017-02-20T00:00:00Z"
 title: "Лица и формы"
 group: "Доля предпринимательская"
 tags: ["Yktoo Solutions", "бизнес", "налоги", "Нидерланды", "предпринимательство", "работа", "фриланс"]
+image: "https://2.bp.blogspot.com/-0JS0V8bE70Y/WN97iz2hjLI/AAAAAAAAptQ/pwLDMGHIdfwZcGmcAlyotSDAsc3Yq2OOACPcB/s1600/shapes.picasaweb.png"
 ---
 
 В моём [прошлом посте]({{< relref "/blog/0309" >}}) я вкратце перечислил, чем плохо и чем хорошо быть предпринимателем. Но что это вообще значит, «быть предпринимателем»?

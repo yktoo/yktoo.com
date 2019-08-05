@@ -2,6 +2,7 @@
 date: "2010-01-21T00:00:00Z"
 title: "Аватар"
 tags: ["3D", "кино", "Нидерланды"]
+image: "https://1.bp.blogspot.com/-R42TFZCjvwM/T4tDT-7D5fI/AAAAAAAAOtE/l8gjtWkXzIY/s1600/avatar.jpg"
 ---
 
 «Аватар» — это очень круто.

@@ -2,6 +2,7 @@
 date: "2010-07-27T00:00:00Z"
 title: "Счастливцы"
 tags: ["Нидерланды", "новости", "Россия", "СМИ", "счастье"]
+image: "https://1.bp.blogspot.com/-0BPoYo34MI0/TlUHxHNJmYI/AAAAAAAAJc0/Z3BXmu9-W4Y/s1600/world-happiest-countries.png"
 ---
 
 Gallup World Poll [опубликовал](http://www.forbes.com/2010/07/14/world-happiest-countries-lifestyle-realestate-gallup-table.html) мировую статистику счастья — в зависимости от страны проживания:

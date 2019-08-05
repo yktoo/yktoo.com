@@ -2,6 +2,7 @@
 date: "2011-03-27T00:00:00Z"
 title: "Гаага. Море"
 tags: ["Гаага", "красивое", "море", "Нидерланды", "пляж"]
+image: "https://1.bp.blogspot.com/-p0C4-WXuwyc/TZhMdmel9fI/AAAAAAAAItg/OtZLR7eZJJA/s1600/DSC01086.picasaweb.jpg"
 ---
 
 Да, [опять]({{< relref "/blog/0025" >}}) (в этом году совсем рано)!

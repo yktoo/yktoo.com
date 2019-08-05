@@ -2,6 +2,7 @@
 date: "2014-11-10T00:00:00Z"
 title: "A record autumn"
 tags: ["forest", "Heidestein", "mushrooms", "nature", "Netherlands", "record", "weather"]
+image: "https://3.bp.blogspot.com/-FT_-_funYBI/VGD0HR2HkvI/AAAAAAAAf98/_DvNt9habOo/s1600/dsc06921.picasaweb.jpg"
 ---
 
 While euro and dollar are *enjoying* a record growth in Russia, we're enjoying one of the warmest autumns on record here in Holland, yet [again]({{< relref "/blog/0118" >}}). Whatever caused it, sanctions or global warming.

@@ -2,6 +2,7 @@
 date: "2016-05-07T00:00:00Z"
 title: "InfoPi (a.k.a. DIY Google Now)"
 tags: ["DIY", "gadgets", "geek porn", "GitHub", "home automation", "InfoPi", "Python", "Raspberry Pi"]
+image: "https://4.bp.blogspot.com/-D5G4Pn43nqk/VydB2HHGbEI/AAAAAAAAl9Q/eky3gNdNU0wAGHjFxbnwGcreYlwuMP41wCKgB/s1600/dsc02157.picasaweb.jpg"
 ---
 
 *When a geek gets bored, he usually dives into home automation. And when there's nothing more left to automate, he blogs about it.*

@@ -2,6 +2,7 @@
 date: "2011-01-28T00:00:00Z"
 title: "На живца"
 tags: ["велики", "Нидерланды", "преступность"]
+image: "https://2.bp.blogspot.com/_PX65_e7vApk/TUM2Hwsn6vI/AAAAAAAAH60/AhIsPcSfOfA/s1600/fietsendiefstal.jpg"
 ---
 
 Один из основных видов не особенно буйной нидерландской преступности — угон велосипедов, благо тут [есть из чего]({{< relref "/blog/0008" >}}) выбрать.

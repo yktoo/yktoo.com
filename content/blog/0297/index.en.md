@@ -2,6 +2,7 @@
 date: "2016-11-26T00:00:00Z"
 title: "Ayreonian craze"
 tags: ["013", "Arjen Lucassen", "Ayreon", "Ayreon Universe", "music", "Netherlands", "progressive metal", "progressive rock", "Tilburg"]
+image: "https://1.bp.blogspot.com/-yVk8TPQxQOk/WDlcnphdPoI/AAAAAAAAoUs/zHjicNv6JCsXG6jwybTyuaxK_nnGypy4QCPcB/s1600/ayreon-universe-best-of.jpg"
 ---
 
 Five days ago the mighty [Arjen Lucassen][route:/blog/tag,tag:Arjen Lucassen] [has announced](https://www.facebook.com/ArjenLucassenOfficial/videos/10153840917141152/) on his Facebook page two live shows of his *Ayreon* mega-project, which got the name [Ayreon Universe](http://www.arjenlucassen.com/universe/). The shows were scheduled for **15 and 16 September 2017**, with the official ticket sale starting on 24 November at 10:00 CET.

@@ -2,6 +2,7 @@
 date: "2011-07-09T00:00:00Z"
 title: "Канал крепчал"
 tags: ["интернет", "Нидерланды"]
+image: "https://4.bp.blogspot.com/-YqHXQQFuWho/TheAFtLzhcI/AAAAAAAAIyA/Jn0aPShS5zU/s1600/speedtest.net-2011-08-07.png"
 ---
 
 После прокладки [новых кабелей]({{< relref "/blog/0099" >}}) и продувки лазеров байты заструились по оптоволокну ещё пуще [прежнего]({{< relref "/blog/0096" >}}):

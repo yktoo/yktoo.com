@@ -2,6 +2,7 @@
 date: "2008-10-24T00:00:00Z"
 title: "Ремонт"
 tags: ["Баарн", "Нидерланды"]
+image: "https://1.bp.blogspot.com/-W-npw6iVRZ0/T420DjwmN6I/AAAAAAAAO_4/bXcaZpzWtlE/s1600/24102008%2528001%2529.picasaweb.jpg"
 ---
 
 Которую неделю в нашем Баарнском офисе идёт ремонт.

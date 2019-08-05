@@ -2,6 +2,7 @@
 date: "2016-03-27T00:00:00Z"
 title: "Shodan: 11 years on the way"
 tags: ["aikido", "Amersfoort", "Joginder Singh", "Leiden", "Netherlands", "Peter van Lier", "Rudik Manukyan", "Russia", "sport", "Tyumen", "Woerden"]
+image: "https://3.bp.blogspot.com/-su2SLLy8y3s/Vve2sT1Cj8I/AAAAAAAAlqw/58Ru9alavmM5fvCmk-owX3emVTso_UBaQ/s1600/20160319_195536.picasaweb.jpg"
 ---
 
 Last weekend, on March 19, 2016, the author of these lines has qualified for the first dan {{< wiki "Aikikai" "en" "Aikido Aikikai" >}}.

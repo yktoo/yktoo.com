@@ -2,6 +2,7 @@
 date: "2011-09-17T00:00:00Z"
 title: "The cutting edge of jogging"
 tags: ["Netherlands", "Pellikaan", "running", "sport"]
+image: "https://4.bp.blogspot.com/-ASGnXYh9Pm4/TnT2mj-KTrI/AAAAAAAAJsQ/oOgKe8qOzz4/s1600/matrix-T7xe-002.picasaweb.jpg"
 ---
 
 Our sports club has installed new treadmills, a quick googling showed it's [Matrix T7xe](http://www.matrixfitness.com/product/view/t7xe-treadmill). They are very trendy ones, pure high-tech:

@@ -2,6 +2,7 @@
 date: "2017-04-18T00:00:00Z"
 title: "The castlerun, third edition"
 tags: ["castle", "De Haar", "De Halve van de Haar", "half marathon", "Netherlands", "running", "sport"]
+image: "https://3.bp.blogspot.com/-PbeqYXL7STA/WPTsB8ySmRI/AAAAAAAApxE/HTDNCie-4w4e-mtovTqYB-mqOn_niBs9ACPcB/s1600/dsc04851.picasaweb.jpg"
 ---
 
 Last Easter Monday I've completed my third *castlerun* [De Halve van De Haar](http://www.dehalvevandehaar.nl/), a half marathon (**21.1 km**) held in the park of the {{< fl "De Haar" >}} castle.

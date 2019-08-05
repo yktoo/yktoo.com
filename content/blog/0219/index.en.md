@@ -2,6 +2,7 @@
 date: "2014-05-13T00:00:00Z"
 title: "Netherlander!"
 tags: ["Amersfoort", "mayor", "nationality", "naturalisation ceremony", "Netherlands"]
+image: "https://4.bp.blogspot.com/-Npa6ZmmTZbM/U3EbMhvYXQI/AAAAAAAAdTk/JY3TQ2pmC9c/s1600/IMG_20140512_205856.picasaweb.jpg"
 ---
 
 I haven't been actively blogging lately, and that's not because nothing is happening. Quite the opposite, I can barely find time these days, so let me share the most important stuff with you.

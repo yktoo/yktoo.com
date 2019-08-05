@@ -3,6 +3,7 @@ date: "2017-02-21T00:00:00Z"
 title: "Рождение Yktoo Solutions"
 group: "Доля предпринимательская"
 tags: ["Yktoo Solutions", "бизнес", "налоги", "Нидерланды", "предпринимательство", "работа", "фриланс"]
+image: "https://1.bp.blogspot.com/-XCYqqwYaPbs/WCo7vX_qTiI/AAAAAAAAoPA/hDBojNJO1Pk9pRHGq7L6hQCzTBd_bIaCACPcB/s1600/20161105_211814.picasaweb.jpg"
 ---
 
 Переходя от [отвлечённой теории]({{< relref "/blog/0310" >}}) к насущной практике, остановлюсь на моих личных мотивах в данной связи.

@@ -2,6 +2,7 @@
 date: "2013-09-06T00:00:00Z"
 title: "Onze-Lieve-Vrouwetoren in Amersfoort"
 tags: ["Amersfoort", "carillon", "music", "Netherlands", "tower", "video"]
+image: "https://4.bp.blogspot.com/-P6mbkylRitg/UimiqwmGXOI/AAAAAAAAaYU/F37sC5luqAs/s1600/Onze_Lieve_Vrouwetoren.picasaweb.jpg"
 ---
 
 Last weekend I've finally got to visit the most eminent, in every meaning, place in Amersfoort. Since I'd come to live here, my country has changed its president twice, one of them has divorced and the other has made quite a few equally destructive achievements, yet I failed to take my time to get to it.

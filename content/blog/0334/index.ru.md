@@ -2,6 +2,7 @@
 date: "2018-04-03T00:00:00Z"
 title: "Юбилея пост: десять лет в Нидерландах"
 tags: ["итоги", "Нидерланды", "размышления", "юбилей"]
+image: "https://2.bp.blogspot.com/-DCIYWdV7IJE/WsOU2fStpxI/AAAAAAAAsM4/Y59Y1UQhf1gu6dGaNgLTB5jaY41ZOvV2gCKgBGAs/s1600/Happiness%2Bis%2Ba%2Bjourney%252C%2Bnot%2Ba%2Bdestination.jpg"
 ---
 
 А между тем, сегодня исполнилось ровно десять лет с [момента]({{< relref "/blog/0001" >}}) моего переезда в Нидерланды. Ух, сколько же всего произошло за это время!

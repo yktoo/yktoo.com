@@ -2,6 +2,7 @@
 date: "2011-08-31T00:00:00Z"
 title: "Свежий взгляд"
 tags: ["медицина", "Нидерланды"]
+image: "https://4.bp.blogspot.com/-hVq9hZRxoUQ/Tl5ROA2oAtI/AAAAAAAAJkQ/rLdOOht87LY/s1600/intralasik.jpg"
 ---
 
 Вчера мне сделали лазерную коррекцию зрения, с чем я себя и поздравляю.

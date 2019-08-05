@@ -2,6 +2,7 @@
 date: "2013-12-09T00:00:00Z"
 title: "Leeuwarden"
 tags: ["graffiti", "Leeuwarden", "Netherlands", "tower"]
+image: "https://4.bp.blogspot.com/-aWtU5ZSPtcc/UhoJbb4b6eI/AAAAAAAAZdQ/6GmdcH00mi0/s1600/dsc09752.picasaweb.jpg"
 ---
 
 I'd like to show you a bit of northern Dutch summer in our damp off-season. Last June we've visited the city of {{< wiki "Leeuwarden" "en" "Leeuwarden" >}} (Frisian: {{< fl "Ljouwert" >}}), situated in the very north of Holland. It is the capital city of the Friesland province, which is famous for its language that makes very little sense to an average Dutch.

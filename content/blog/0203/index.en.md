@@ -2,6 +2,7 @@
 date: "2013-12-05T00:00:00Z"
 title: "Autumn and Armillaria Again"
 tags: ["autumn", "Baarn", "forest", "mushrooms", "nature", "Netherlands"]
+image: "https://3.bp.blogspot.com/-P2PcmAsfPmY/Uphfmo2jE8I/AAAAAAAAauM/IaBuuCISyS8/s1600/dsc01507.picasaweb.jpg"
 ---
 
 It's automn here again. Some annoyed expats keep insisting there's only just this season in Holland, but that's not true.

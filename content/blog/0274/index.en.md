@@ -2,6 +2,7 @@
 date: "2016-04-09T00:00:00Z"
 title: "The castlerun, second edition"
 tags: ["castle", "De Haar", "De Halve van de Haar", "half marathon", "Netherlands", "running", "sport"]
+image: "https://2.bp.blogspot.com/-PNk5LFWpieY/VwFmIiB8bOI/AAAAAAAAlxc/6H3_c4Jg7fMcwzIR8XUF1AtnRSenSGMeQ/s1600/dsc02101.picasaweb.jpg"
 ---
 
 This spring is full of sporting activities. First [aikido]({{< relref "/blog/0273" >}}) (I hope my certificate with nice Japanese characters is already on its way), now a half marathon.

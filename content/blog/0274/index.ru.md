@@ -2,6 +2,7 @@
 date: "2016-04-09T00:00:00Z"
 title: "Замкозабег, вторая редакция"
 tags: ["De Haar", "De Halve van de Haar", "бег", "замок", "Нидерланды", "полумарафон", "спорт"]
+image: "https://2.bp.blogspot.com/-PNk5LFWpieY/VwFmIiB8bOI/AAAAAAAAlxc/6H3_c4Jg7fMcwzIR8XUF1AtnRSenSGMeQ/s1600/dsc02101.picasaweb.jpg"
 ---
 
 Весна выдалась спортивной. Сначала [айкидо]({{< relref "/blog/0273" >}}) (надеюсь, мой сертификат с красивыми иероглифами уже летит ко мне из Японии), теперь вот полумарафон.

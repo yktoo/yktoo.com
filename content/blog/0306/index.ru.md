@@ -2,6 +2,7 @@
 date: "2017-02-09T00:00:00Z"
 title: "Горы: Ла-Плань, Франция"
 tags: ["горы", "зима", "Ла-Плань", "снег", "сноуборд", "спорт", "Франция"]
+image: "https://1.bp.blogspot.com/-827H5-EvEWY/WIT25zY66zI/AAAAAAAApHc/77_Uu4Krfj8POL3ohoDmABAtmX6Z3G8VgCPcB/s1600/2017-01-20t11-51-46%252B01-00.picasaweb.jpg"
 ---
 
 ## Пролог {#preface}

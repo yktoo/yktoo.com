@@ -2,6 +2,7 @@
 date: "2017-01-17T00:00:00Z"
 title: "Touchpad toggle script for Ubuntu"
 tags: ["GitHub", "touchpad", "Ubuntu", "yktools"]
+image: "https://4.bp.blogspot.com/-P81ExjwEw5o/WH3AyBShljI/AAAAAAAApBk/UCuTprQSMVsObxhiX2KYkEfn39Cck0xrwCPcB/s1600/unity-ccenter-mouse.png"
 ---
 
 Recently I've been busy learning the esoteric editor called {{< wiki "Vim" "en" "Vim" >}} and figured out my laptop's touchpad is causing nuisance when you're working with the keyboard only—which is the whole point of using *Vim*. At the same time, some programs are nearly unusable without the mouse. In other words, I wanted to be able to switch the touchpad on and off—with the keyboard, of course.

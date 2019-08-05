@@ -3,6 +3,7 @@ date: "2015-05-14T00:00:00Z"
 title: "Part 1. Specs and unboxing"
 group: "4K UHD TV Samsung UE75HU7500: a complete review"
 tags: ["gadgets", "hardware", "review", "Samsung", "Smart TV", "TV", "unboxing"]
+image: "https://3.bp.blogspot.com/-Io14-rNSbMM/VQQq8W1CZiI/AAAAAAAAhPk/PqjH6gunL3I/s1600/dsc08021.picasaweb.jpg"
 ---
 
 As time passes by, TV diagonals grow, so do our appetites. TV screens of 50-55 inch, which seemed huge just a few years ago, are the mainstream nowadays and can be found in any decent electronics store. They also provide the best size to price ratio, as I reckon.

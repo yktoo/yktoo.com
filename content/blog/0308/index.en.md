@@ -2,6 +2,7 @@
 date: "2017-02-18T00:00:00Z"
 title: "Tutorial: development with Yii/PHP/MySQL using Docker"
 tags: ["containers", "development", "Docker", "MySQL", "PHP", "web", "website", "Yii2"]
+image: "https://3.bp.blogspot.com/-czrNcwMoyQw/WK3et6P_81I/AAAAAAAApVE/gGCNALgayxA6kT3LmaPIiamtMNY48E88QCPcB/s1600/docker.png"
 ---
 
 It's been about a year since I've switched to developing this website (built with [Yii 2](http://www.yiiframework.com/)/[PHP](http://php.net/)/[MySQL](https://www.mysql.com/)) using [Docker](https://www.docker.com/). After just one try I realised that *Docker* is the best thing happened to development. Well, after *Vim*, of course.

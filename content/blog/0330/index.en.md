@@ -2,6 +2,7 @@
 date: "2017-07-01T00:00:00Z"
 title: "Amersfoort Marathon 2017"
 tags: ["Amersfoort", "Amersfoort Marathon", "half marathon", "Netherlands", "running", "sport"]
+image: "https://1.bp.blogspot.com/-gyOp8RmGtVk/WVd5owtc6WI/AAAAAAAAqNE/5LQ5NUjPWmsK0X61e9L2E37tBAOt-xyYwCKgBGAs/s1600/dsc05357.picasaweb.jpg"
 ---
 
 Yet another medal in your newsfeed!

@@ -3,6 +3,7 @@ date: "2013-06-14T00:00:00Z"
 title: "Part 3. Albufeira"
 group: "Portugal"
 tags: ["Albufeira", "Algarve", "Portugal", "travel"]
+image: "https://4.bp.blogspot.com/-qxaLu0z4zBw/Ua4fT3IbViI/AAAAAAAAYd4/-nHiDXmm3fI/s1600/dsc08876.picasaweb.jpg"
 ---
 
 Albufeira is a main tourist destination. Fair enough, given its vast ocean beach and three hundred sunny days a year.

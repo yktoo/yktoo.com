@@ -3,6 +3,7 @@ date: "2014-01-12T00:00:00Z"
 title: "Part 3. City"
 group: "Egypt. Hurghada"
 tags: ["Egypt", "funny", "Hurghada", "transport", "travel"]
+image: "https://2.bp.blogspot.com/-6YC0TNdPLuI/Us8KBHRFaaI/AAAAAAAAbiI/GbDj0iAMe_M/s1600/dsc02298.picasaweb.jpg"
 ---
 
 Now that we've been to the [see]({{< relref "/blog/0209" >}}), which is east, and the [desert]({{< relref "/blog/0210" >}}), which is west of Hurghada, it's time to see the most interesting bit, the city itself.

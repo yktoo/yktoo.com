@@ -3,6 +3,7 @@ date: "2011-04-17T00:00:00Z"
 title: "Part 5. Train to Budapest"
 group: "Vienna and Budapest"
 tags: ["Austria", "Budapest", "Hungary", "trains", "transport", "travel", "Vienna"]
+image: "https://4.bp.blogspot.com/-2tYLgiwKeFg/Tan2Y8F4rKI/AAAAAAAAItc/DM8_UHyiWc4/s1600/dsc02005.picasaweb.jpg"
 ---
 
 Train ticket from Vienna to Budapest is about € 35. Railjet trains look modern and hi-tech. It is equipped, as we were told, with 80 displays, which try hard to keep us, the passengers, duly informed. Some 40 in one direction:

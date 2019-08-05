@@ -2,6 +2,7 @@
 date: "2018-09-12T00:00:00Z"
 title: "My presentation at IDM Europe: 20 September 2018"
 tags: ["Amsterdam", "announcement", "IDM Europe", "Netherlands", "presentation"]
+image: "https://4.bp.blogspot.com/-LkM0S58F9n0/W5kNeyCNWKI/AAAAAAAAt3I/zzvvTGv0TjkVMD-41BEqjDV-a8uaIHaCgCKgBGAs/s1600/idm-europe-identity-server-comparison.png"
 ---
 
 A short announcement.

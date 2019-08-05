@@ -2,6 +2,7 @@
 date: "2016-10-30T00:00:00Z"
 title: "Fixing whining noise from a DC adapter"
 tags: ["DIY", "gadgets", "geek porn", "hardware"]
+image: "https://2.bp.blogspot.com/-N4iaQRbUC6M/WBWuYY9ca3I/AAAAAAAAoKI/CxI2CDiqfZ0QxRQfj6EjvF18M4TeAGXhgCPcB/s1600/20161027_140431.picasaweb.jpg"
 ---
 
 I've stumbled upon a cute and convenient DC adapter the other day, with four USB charging ports (up to **4800 mA** total), a power socket, and a tablet stand. All of that for less than **€ 15**.

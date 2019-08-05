@@ -2,6 +2,7 @@
 date: "2013-06-01T00:00:00Z"
 title: "Tomasa Quartet in De Observant"
 tags: ["Amersfoort", "jazz", "music", "Observant", "Tomasa Quartet"]
+image: "https://4.bp.blogspot.com/-vDLdFZopQ08/UYPgpy7BqpI/AAAAAAAAXm8/7dCvgEYHktE/s1600/dsc07959.picasaweb.jpg"
 ---
 
 Tomasa Quartet, whom I know since [Dias Latinos 2011]({{< relref "/blog/0109" >}}), honoured Amersfoort with a live gig. I couldn't miss the (quite rare) opportunity of seeing that.

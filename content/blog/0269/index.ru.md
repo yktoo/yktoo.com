@@ -2,6 +2,7 @@
 date: "2016-01-19T00:00:00Z"
 title: "A Winter Evening with Stream of Passion — 2015"
 tags: ["Anneke van Giersbergen", "Dianne van Giersbergen", "Lisette van den Berg", "Marcela Bovio", "Merijn van Haren", "Navarone", "progressive metal", "Stream of Passion", "Tivoli de Helling", "Xandria", "музыка", "Нидерланды", "Утрехт"]
+image: "https://4.bp.blogspot.com/-6janEBsGWcY/VofESvhUuOI/AAAAAAAAlDU/jFOAGHTBU_g/s1600/dsc01613.picasaweb.jpg"
 ---
 
 Если вы думаете, что я слишком часто удостаиваю вниманием {{< wiki "Stream_of_Passion" "ru" "Stream of Passion" >}}, сообщу вам, что видел на концерте живого *всё ещё* человека, для которого концерт этот был по счёту 94-м (прописью: *девяносто четвёртым*)! Ну а кроме того, билет стоил жалкие **€14**, так что не пойти было бы глупо.

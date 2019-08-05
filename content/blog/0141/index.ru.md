@@ -2,6 +2,7 @@
 date: "2012-02-20T00:00:00Z"
 title: "Обзор Logitech Wireless Adapter for Bluetooth"
 tags: ["Bluetooth", "Logitech", "Ubuntu", "анбоксинг", "аудио", "беспроводная связь", "гаджеты", "железо", "звук", "обзор"]
+image: "https://2.bp.blogspot.com/-7kPgAZpnZE0/TwcOSMK88GI/AAAAAAAALRE/4uMELGo2gts/s1600/wireless-speaker-adapter-glamour-images.png"
 ---
 
 У меня возникла потребность как-то связать звуковой выход компьютера с AV-ресивером, чтобы слушать музыку на нормальной акустике. Расстояние от компьютера до аудиосистемы составляет несколько метров, обвязываться проводами не хотелось (третье тысячелетие, чай).

@@ -2,6 +2,7 @@
 date: "2017-06-03T00:00:00Z"
 title: "Half marathon: Ijsselstijnloop"
 tags: ["half marathon", "Ijsselstijn", "Ijsselstijnloop", "Netherlands", "running", "sport"]
+image: "https://3.bp.blogspot.com/-FaAglU8-2vA/WTMIq7J8EqI/AAAAAAAAqEg/B8JUhHQIXTY9l08MmxNmfVYvvcZoj6_dACKgB/s1600/dsc05191.picasaweb.jpg"
 ---
 
 Today I've run yet another half marathon (**21.1 km**), in the small town of {{< wiki "IJsselstein" "en" "Ijsselstein" >}}, which is near to Houten we live in.

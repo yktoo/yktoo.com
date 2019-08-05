@@ -2,6 +2,7 @@
 date: "2016-11-26T00:00:00Z"
 title: "Ayreon-овое безумие"
 tags: ["013", "Arjen Lucassen", "Ayreon", "Ayreon Universe", "progressive metal", "progressive rock", "музыка", "Нидерланды"]
+image: "https://1.bp.blogspot.com/-yVk8TPQxQOk/WDlcnphdPoI/AAAAAAAAoUs/zHjicNv6JCsXG6jwybTyuaxK_nnGypy4QCPcB/s1600/ayreon-universe-best-of.jpg"
 ---
 
 Пять дней назад [Арьен «Наше Всё» Лукассен][route:/blog/tag,tag:Arjen Lucassen] ({{< fl "Arjen Lucassen" >}}) [объявил](https://www.facebook.com/ArjenLucassenOfficial/videos/10153840917141152/) на своей странице в Фейсбуке об [Ayreon Universe](http://www.arjenlucassen.com/universe/) — двух «живых» концертах своего мегапроекта {{< fl "Ayreon" >}}, запланированных на **15 и 16 сентября 2017** года. Официальная продажа билетов должна была начаться 24 ноября в 10 часов утра.

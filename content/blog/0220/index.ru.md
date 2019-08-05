@@ -2,6 +2,7 @@
 date: "2014-05-24T00:00:00Z"
 title: "Где ступала моя нога"
 tags: ["блог", "веб", "сайт"]
+image: "https://4.bp.blogspot.com/-W1Lp43kTwAM/U4De_mpvaZI/AAAAAAAAdck/zuKIwPEzFjI/s1600/yktoo-blog-map.picasaweb.png"
 ---
 
 Некоторое время назад я запустил на сайте новый подраздел [Блог][route:/blog/index] → [Карта][route:/blog/map], который отображает на карте все места, о которых я когда-либо писал. Если кликнуть на маркере, появляется список постов:

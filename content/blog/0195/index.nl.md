@@ -3,6 +3,7 @@ draft: true
 date: "2013-08-14T00:00:00Z"
 title: "Tyumen verhalen"
 tags: ["Aeroflot", "onzin", "Rusland", "Tyumen"]
+image: "https://3.bp.blogspot.com/-EMIanXUKsvw/Ugvgj5td0YI/AAAAAAAAZRk/-GWutJ9A0JM/s1600/20130809_131834.picasaweb.jpg"
 ---
 Ik wil mijn Russische ervaringen met je delen. Ik herinner me mijn verblijf in Tyumen in verband met een aantal karakteristieke verhalen.
 

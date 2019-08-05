@@ -3,6 +3,7 @@ date: "2014-09-07T00:00:00Z"
 title: "Part 2. Bikes"
 group: "Houten"
 tags: ["bikes", "Houten", "Netherlands"]
+image: "https://1.bp.blogspot.com/-BWYKADytYs4/VAwn806pgmI/AAAAAAAAfZQ/ShyjBlfSzVs/s1600/dsc06631.picasaweb.jpg"
 ---
 
 Holland is decidedly and prominently a bike-land. Any Dutch settlement features miles of bike paths, bike traffic-lights, special bike road marking, ubiquitous bike parkings and bike rental at every train station.

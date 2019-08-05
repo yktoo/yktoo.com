@@ -2,6 +2,7 @@
 date: "2011-04-03T00:00:00Z"
 title: "The Right Way"
 tags: ["beautiful", "flowers", "nature", "Netherlands", "spring"]
+image: "https://4.bp.blogspot.com/-e7HjlCjXzUg/TZhK2fIq7bI/AAAAAAAAItc/GObey9aPiEA/s1600/DSC01214.picasaweb.jpg"
 ---
 
 At last it looks the right way, just like it was. I'm really amazed at indefatigability of the Dutch: would you plant a half kilometer of flowers?

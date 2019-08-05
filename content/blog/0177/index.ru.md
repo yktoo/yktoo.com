@@ -2,6 +2,7 @@
 date: "2013-01-31T00:00:00Z"
 title: "Освобождение от собственности"
 tags: ["неприятное", "Нидерланды", "преступность", "Утрехт"]
+image: "https://1.bp.blogspot.com/-reBIHvtHNVM/UQpoeOHKMFI/AAAAAAAAWm4/nLmjPgqxCOg/s1600/4526206-Charlie_Chius_Utrecht.jpg"
 ---
 
 ## Пролог {#prologue}
