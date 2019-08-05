@@ -1,3 +1,9 @@
+---
+draft: true
+date: "2013-08-14T00:00:00Z"
+title: "Tyumen verhalen"
+tags: ["Aeroflot", "onzin", "Rusland", "Tyumen"]
+---
 Ik wil mijn Russische ervaringen met je delen. Ik herinner me mijn verblijf in Tyumen in verband met een aantal karakteristieke verhalen.
 
 <!--more-->
