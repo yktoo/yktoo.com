@@ -1,7 +1,7 @@
 ---
 date: "2017-02-21T00:00:00Z"
 title: "De geboorte van Yktoo Solutions"
-group: "Mijn ondernemerschap"
+series: "Mijn ondernemerschap"
 tags: ["belastingen", "business", "freelance", "Nederland", "ondernemerschap", "werk", "Yktoo Solutions"]
 image: "https://1.bp.blogspot.com/-XCYqqwYaPbs/WCo7vX_qTiI/AAAAAAAAoPA/hDBojNJO1Pk9pRHGq7L6hQCzTBd_bIaCACPcB/s1600/20161105_211814.picasaweb.jpg"
 ---

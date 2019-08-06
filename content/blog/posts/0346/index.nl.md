@@ -1,7 +1,7 @@
 ---
 date: "2019-07-15T00:00:00Z"
 title: "De vernieuwde website van Yktoo Solutions"
-group: "Mijn ondernemerschap"
+series: "Mijn ondernemerschap"
 tags: ["Hugo", "nieuws", "website", "Yktoo Solutions"]
 image: "https://1.bp.blogspot.com/-_oXI-nbfzo0/XTLzssA0-OI/AAAAAAAAwYc/lngDnMSfNEgezpjPHUkODSoPMrP7NGAlQCKgBGAs/s1600/website-main-page.jpg"
 ---

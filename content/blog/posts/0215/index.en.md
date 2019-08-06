@@ -1,7 +1,7 @@
 ---
 date: "2014-01-20T00:00:00Z"
 title: "Part 4. S.M.A.K."
-group: "Belgium. Ghent"
+series: "Belgium. Ghent"
 tags: ["beer", "Belgium", "fine arts", "Ghent", "museum", "travel"]
 image: "https://4.bp.blogspot.com/-lnRfRJ3keiM/UtWFd78WDeI/AAAAAAAAbvA/6Jp-aN4Jngk/s1600/dsc02899.picasaweb.jpg"
 ---

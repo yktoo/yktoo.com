@@ -1,7 +1,7 @@
 ---
 date: "2012-04-30T00:00:00Z"
 title: "Часть 4. Фатага, Агуимес и пещерные дома"
-group: "Гран-Канария"
+series: "Гран-Канария"
 tags: ["горы", "Гран-Канария", "Испания", "Канарские острова", "остров", "пещеры", "путешествия", "Фатага"]
 image: "https://3.bp.blogspot.com/-0Tv8GrsCr_c/T2pZhGTfjzI/AAAAAAAAMbI/cBC1WuJfwNo/s1600/dsc00376.picasaweb.jpg"
 ---

@@ -1,7 +1,7 @@
 ---
 date: "2016-11-04T00:00:00Z"
 title: "2.1.1"
-group: "Sound Switcher Indicator"
+series: "Sound Switcher Indicator"
 tags: ["PulseAudio", "Python", "Python 3", "Sound Switcher Indicator", "Ubuntu", "Unity", "Yakkety Yak", "звук", "индикатор"]
 ---
 

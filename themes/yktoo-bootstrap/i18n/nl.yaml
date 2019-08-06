@@ -11,8 +11,6 @@
 - {id: cookieMessage,     translation: Deze website gebruikt cookies.}
 - {id: copyright,         translation: Auteursrecht ©%.4d—%.4d %s.}
 - {id: faq,               translation: FAQ}
-- {id: group,             translation: Groep}
-- {id: groups,            translation: Groepen}
 - {id: home,              translation: Hoofdpagina}
 - {id: iAmLegend,         translation: Ik ben legende}
 - {id: links,             translation: Links}
@@ -24,7 +22,7 @@
 - {id: paginatorPrevious, translation: Vorige pagina}
 - {id: post,              translation: Post}
 - {id: postAnnouncements, translation: Blog updates}
-- {id: postedInGroup,     translation: in}
+- {id: postedInSeries,    translation: in}
 - {id: postIn_en,         translation: in het Engels}
 - {id: postIn_ru,         translation: in het Russisch}
 - {id: postIn_nl,         translation: in het Nederlands}
@@ -38,6 +36,8 @@
 - {id: readOn,            translation: Lees verder »}
 - {id: readOnAt,          translation: Verder lezen op}
 - {id: recentPosts,       translation: Recente berichten}
+- {id: series,            translation: Serie}
+- {id: seriesPlural,      translation: Serie's}
 - {id: share,             translation: Delen}
 - {id: software,          translation: Software}
 - {id: subscribeByEmail,  translation: Abonneren via e-mail}

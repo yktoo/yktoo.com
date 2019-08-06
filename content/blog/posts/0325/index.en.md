@@ -5,7 +5,7 @@ tags: ["certificate", "Dutch language", "education", "Netherlands"]
 image: "https://2.bp.blogspot.com/-b8UFCXNT65c/WQ3-0nds71I/AAAAAAAAp5I/4dyGkOr1RDUzqpJ0Nl_5nh8dBsDo-2IMACPcB/s1600/dsc05176.picasaweb.jpg"
 ---
 
-My latest *Dutch language course* has come to an end. It took almost a year to get through, partly due to my [entrepreneurial][route:/blog/group,id:13] adventures. I've started the course, at the time paid by my employer ING, in July last year, and kept getting lessons long after leaving ING.
+My latest *Dutch language course* has come to an end. It took almost a year to get through, partly due to my [entrepreneurial]({{< relref "/series/my-entrepreneurship" >}}) adventures. I've started the course, at the time paid by my employer ING, in July last year, and kept getting lessons long after leaving ING.
 
 <!--more-->
 

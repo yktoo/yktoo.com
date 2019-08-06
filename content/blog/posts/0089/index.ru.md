@@ -1,7 +1,7 @@
 ---
 date: "2011-04-20T00:00:00Z"
 title: "Часть 7. Ночной Будапешт"
-group: "Вена и Будапешт"
+series: "Вена и Будапешт"
 tags: ["Будапешт", "Венгрия", "путешествия"]
 image: "https://3.bp.blogspot.com/--Z559BLUdsM/Tan3CV4zhxI/AAAAAAAAItc/QMKX7luZEiM/s1600/dsc01685.picasaweb.jpg"
 ---

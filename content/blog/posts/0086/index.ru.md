@@ -1,7 +1,7 @@
 ---
 date: "2011-04-17T00:00:00Z"
 title: "Часть 4. Вена. Шёнбрунн"
-group: "Вена и Будапешт"
+series: "Вена и Будапешт"
 tags: ["Австрия", "Вена", "путешествия"]
 image: "https://2.bp.blogspot.com/-d_7XkPrTwtE/TaauF-87x1I/AAAAAAAAItc/uory4sWbVyc/s1600/dsc01598.picasaweb.jpg"
 ---

@@ -1,7 +1,7 @@
 ---
 date: "2015-05-23T00:00:00Z"
 title: "Часть 4. Smart Hub и приложения"
-group: "Полный обзор 75-дюймового 4K-телевизора Samsung UE75HU7500"
+series: "Полный обзор 75-дюймового 4K-телевизора Samsung UE75HU7500"
 tags: ["Samsung", "Smart Hub", "Smart TV", "гаджеты", "железо", "обзор", "телевизоры"]
 image: "https://4.bp.blogspot.com/--cC6k0hJXp0/VWCKGfuCG0I/AAAAAAAAjeA/I8f1CiHUSiI/s1600/dsc08031.picasaweb.jpg"
 ---

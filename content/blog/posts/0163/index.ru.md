@@ -1,7 +1,7 @@
 ---
 date: "2012-10-04T00:00:00Z"
 title: "Часть 2. Дом Мила"
-group: "Барселона"
+series: "Барселона"
 tags: ["Барселона", "Гауди", "Испания", "путешествия"]
 image: "https://3.bp.blogspot.com/-4gRCiZFGoH8/UASAg9yC-LI/AAAAAAAATsU/1A7idbsPFY0/s1600/dsc02915.picasaweb.jpg"
 ---

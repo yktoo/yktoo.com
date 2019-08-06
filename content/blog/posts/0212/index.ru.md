@@ -1,7 +1,7 @@
 ---
 date: "2014-01-17T00:00:00Z"
 title: "Часть 1. День"
-group: " Бельгия. Гент"
+series: " Бельгия. Гент"
 tags: ["Бельгия", "Гент", "красивое", "путешествия"]
 image: "https://2.bp.blogspot.com/-bg6xKCh3Ff8/UtWFDHfO0-I/AAAAAAAAblo/-8ATbDTYMuw/s1600/dsc02731.picasaweb.jpg"
 ---

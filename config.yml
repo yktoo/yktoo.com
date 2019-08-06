@@ -34,13 +34,13 @@ languages:
 permalinks:
     # Arrange blog posts in /blog/post/YYYY/MM/DD-name structure
     blog: /blog/post/:year/:month/:day-:title/
-    # Nest tags and groups under /blog/
+    # Nest tags and series under /blog/
     tags: /blog/tags/:title/
-    group: /blog/group/:title/
+    series: /blog/series/:title/
 
 taxonomies:
     tag: tags
-    group: group
+    series: series
 
 menu:
     nav:
@@ -84,8 +84,8 @@ menu:
           url: '/blog/tags/'
           pre: <i class="fas fa-tags"></i>
           weight: 3
-        - identifier: groups
-          url: '/blog/group/'
+        - identifier: seriesPlural
+          url: '/blog/series/'
           pre: <i class="fas fa-layer-group"></i>
           weight: 4
         - identifier: blogSubscribe

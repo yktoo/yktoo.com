@@ -8,8 +8,6 @@
 - {id: contact,           translation: Контакт}
 - {id: copyright,         translation: Авторское право ©%.4d—%.4d %s.}
 - {id: faq,               translation: FAQ}
-- {id: group,             translation: Группа}
-- {id: groups,            translation: Группы}
 - {id: home,              translation: Главная}
 - {id: iAmLegend,         translation: Я легенда}
 - {id: locale,            translation: ru_RU}
@@ -20,7 +18,7 @@
 - {id: paginatorPrevious, translation: Предыдущая страница}
 - {id: post,              translation: Пост}
 - {id: postAnnouncements, translation: Анонсы блога}
-- {id: postedInGroup,     translation: в}
+- {id: postedInSeries,    translation: в}
 - {id: postIn_en,         translation: на английском}
 - {id: postIn_ru,         translation: на русском}
 - {id: postIn_nl,         translation: на голландском}
@@ -34,6 +32,8 @@
 - {id: readOn,            translation: Далее »}
 - {id: readOnAt,          translation: Читать далее на}
 - {id: recentPosts,       translation: Свежие записи}
+- {id: series,            translation: Подборка}
+- {id: seriesPlural,      translation: Подборки}
 - {id: share,             translation: Поделиться}
 - {id: software,          translation: Программы}
 - {id: subscribeByEmail,  translation: Подписаться по е-мэйлу}

@@ -1,7 +1,7 @@
 ---
 date: "2014-01-18T00:00:00Z"
 title: "Часть 2. Ночь"
-group: " Бельгия. Гент"
+series: " Бельгия. Гент"
 tags: ["Бельгия", "Гент", "красивое", "ночь", "путешествия"]
 image: "https://3.bp.blogspot.com/-y7L-dnfzl6s/UtWFIGQlFzI/AAAAAAAAbnQ/vMU_2e-ar-g/s1600/dsc02767.picasaweb.jpg"
 ---

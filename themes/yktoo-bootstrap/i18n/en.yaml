@@ -11,8 +11,6 @@
 - {id: cookieMessage,     translation: This website uses cookies.}
 - {id: copyright,         translation: Copyright ©%.4d—%.4d %s.}
 - {id: faq,               translation: FAQ}
-- {id: group,             translation: Group}
-- {id: groups,            translation: Groups}
 - {id: home,              translation: Home}
 - {id: iAmLegend,         translation: I Am Legend}
 - {id: links,             translation: Links}
@@ -24,7 +22,7 @@
 - {id: paginatorPrevious, translation: Previous page}
 - {id: post,              translation: Post}
 - {id: postAnnouncements, translation: Post announcements}
-- {id: postedInGroup,     translation: in}
+- {id: postedInSeries,    translation: in}
 - {id: postIn_en,         translation: in English}
 - {id: postIn_ru,         translation: in Russian}
 - {id: postIn_nl,         translation: in Dutch}
@@ -38,6 +36,8 @@
 - {id: readOn,            translation: Read on »}
 - {id: readOnAt,          translation: Continue reading on}
 - {id: recentPosts,       translation: Recent Posts}
+- {id: series,            translation: Series}
+- {id: seriesPlural,      translation: Series}
 - {id: share,             translation: Share}
 - {id: software,          translation: Software}
 - {id: subscribeByEmail,  translation: Subscribe by email}

@@ -1,7 +1,7 @@
 ---
 date: "2014-01-18T00:00:00Z"
 title: "Part 2. Night"
-group: "Belgium. Ghent"
+series: "Belgium. Ghent"
 tags: ["beautiful", "Belgium", "Ghent", "night", "travel"]
 image: "https://3.bp.blogspot.com/-y7L-dnfzl6s/UtWFIGQlFzI/AAAAAAAAbnQ/vMU_2e-ar-g/s1600/dsc02767.picasaweb.jpg"
 ---

@@ -1,7 +1,7 @@
 ---
 date: "2017-05-21T00:00:00Z"
 title: "Часть 2. Пловдив"
-group: "Болгария"
+series: "Болгария"
 tags: ["Болгария", "Пловдив", "путешествия"]
 image: "https://3.bp.blogspot.com/-MUDPcB6Af28/WQ3-d1G4LuI/AAAAAAAAp5I/2Ynf4n8VMY84cFkIKK2nPLV5AzJjSi9SQCPcB/s1600/dsc05140.picasaweb.jpg"
 ---

@@ -1,7 +1,7 @@
 ---
 date: "2017-05-13T00:00:00Z"
 title: "Part 1. Sofia"
-group: "Bulgaria"
+series: "Bulgaria"
 tags: ["Bulgaria", "Sofia", "travel"]
 image: "https://2.bp.blogspot.com/-16FAOSrAES4/WQ3-dwbko-I/AAAAAAAAp5Q/Hfw79ZyudwoKopjmaeScb4fKGLVPkRgUQCPcB/s1600/dsc04958.picasaweb.jpg"
 ---

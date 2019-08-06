@@ -1,7 +1,7 @@
 ---
 date: "2014-01-17T00:00:00Z"
 title: "Part 1. Day"
-group: "Belgium. Ghent"
+series: "Belgium. Ghent"
 tags: ["beautiful", "Belgium", "Ghent", "travel"]
 image: "https://2.bp.blogspot.com/-bg6xKCh3Ff8/UtWFDHfO0-I/AAAAAAAAblo/-8ATbDTYMuw/s1600/dsc02731.picasaweb.jpg"
 ---

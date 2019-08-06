@@ -1,7 +1,7 @@
 ---
 date: "2014-01-19T00:00:00Z"
 title: "Part 3. Graffiti"
-group: "Belgium. Ghent"
+series: "Belgium. Ghent"
 tags: ["Belgium", "Ghent", "graffiti", "travel"]
 image: "https://1.bp.blogspot.com/-cc65Q2FxLmw/UtWFOf6QknI/AAAAAAAAbpc/a8OMqI3MTKM/s1600/dsc02797.picasaweb.jpg"
 ---

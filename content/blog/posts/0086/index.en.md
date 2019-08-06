@@ -1,7 +1,7 @@
 ---
 date: "2011-04-17T00:00:00Z"
 title: "Part 4. Vienna. Schönbrunn"
-group: "Vienna and Budapest"
+series: "Vienna and Budapest"
 tags: ["Austria", "travel", "Vienna"]
 image: "https://2.bp.blogspot.com/-d_7XkPrTwtE/TaauF-87x1I/AAAAAAAAItc/uory4sWbVyc/s1600/dsc01598.picasaweb.jpg"
 ---

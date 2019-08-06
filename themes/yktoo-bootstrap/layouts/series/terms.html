@@ -3,9 +3,9 @@
 {{ end }}
 
 {{ define "main" }}
-<!-- Group list -->
+<!-- Series list -->
 <ul>
-    {{ range .Site.Taxonomies.group }}
+    {{ range .Site.Taxonomies.series }}
     <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
     {{ end }}
 </ul>

@@ -1,7 +1,7 @@
 ---
 date: "2015-05-16T00:00:00Z"
 title: "Часть 3. Аксессуары"
-group: "Полный обзор 75-дюймового 4K-телевизора Samsung UE75HU7500"
+series: "Полный обзор 75-дюймового 4K-телевизора Samsung UE75HU7500"
 tags: ["Samsung", "Smart TV", "гаджеты", "железо", "обзор", "телевизоры"]
 image: "https://1.bp.blogspot.com/-XI3WZxPp01Q/VQQq9cMLcSI/AAAAAAAAhPk/kozQPL8YKPU/s1600/dsc08026.picasaweb.jpg"
 ---

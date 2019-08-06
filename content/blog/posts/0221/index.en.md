@@ -1,7 +1,7 @@
 ---
 date: "2014-08-31T00:00:00Z"
 title: "Part 1. Train stations"
-group: "Houten"
+series: "Houten"
 tags: ["Houten", "Netherlands", "trains", "transport"]
 image: "https://1.bp.blogspot.com/-DIvAaGopwfg/VAMbLP1sN9I/AAAAAAAAfOM/IXEu0uUYwAc/s1600/dsc06624.picasaweb.jpg"
 ---

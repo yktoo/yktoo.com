@@ -1,7 +1,7 @@
 ---
 date: "2013-06-14T00:00:00Z"
 title: "Часть 3. Албуфейра"
-group: "Португалия"
+series: "Португалия"
 tags: ["Албуфейра", "Алгарви", "Португалия", "путешествия"]
 image: "https://4.bp.blogspot.com/-qxaLu0z4zBw/Ua4fT3IbViI/AAAAAAAAYd4/-nHiDXmm3fI/s1600/dsc08876.picasaweb.jpg"
 ---

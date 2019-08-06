@@ -17,7 +17,7 @@ image: "https://4.bp.blogspot.com/-T0pGKdrZB1c/WkYeVgdD1vI/AAAAAAAArKQ/fa8g5Ol1j
 
 * Я встретил Новый год во французском Лилле.
 {{< imgfig "https://4.bp.blogspot.com/-Q0oq4GgfXb8/WkTg5_IMUaI/AAAAAAAArJU/kTt192_hhCwfVFhhRDXy2JkOQm0ILnq7QCKgBGAs/s1600/dsc03914.picasaweb.jpgш" "Лилль." >}}
-* Покинул мир корпоративного рабства и отправился [в свободное плавание][route:/blog/group,id:13] — я нынче сам себе матрос, штурман и капитан. Плавание формально началось 1 февраля (в действительности несколько раньше) в нидерландском Министерстве инфраструктуры и окружающей среды ({{< fl "Ministerie van Infrastructuur en Milieu" >}}), сокращённо {{< fl "MinIenM" >}}. Об этом я расскажу в отдельном посте.
+* Покинул мир корпоративного рабства и отправился [в свободное плавание]({{< relref "/series/доля-предпринимательская" >}}) — я нынче сам себе матрос, штурман и капитан. Плавание формально началось 1 февраля (в действительности несколько раньше) в нидерландском Министерстве инфраструктуры и окружающей среды ({{< fl "Ministerie van Infrastructuur en Milieu" >}}), сокращённо {{< fl "MinIenM" >}}. Об этом я расскажу в отдельном посте.
 {{< imgfig "https://1.bp.blogspot.com/-X2_lDklXUCU/WkYf3TWfTFI/AAAAAAAArKk/NhONEzWuTYwgJHTjQF4s61rUl4k8Tsz7gCKgBGAs/s1600/20170309_103411.picasaweb.jpg" "MinIenM." >}}
 * Пробежал чуть более **700 км**, в том числе три полумарафона: [De Halve van De Haar]({{< relref "0320" >}}), [IJsselsteinloop]({{< relref "0327" >}}) и [амерсфортский]({{< relref "0330" >}}).
 {{< imgfig "https://2.bp.blogspot.com/-5YI57OXZ-V8/WkYhNBMhI2I/AAAAAAAArK0/y0bvHvPHD9cqaZkQhT7G6CCRJD9x5AVNgCKgBGAs/s1600/20170618_102611.picasaweb.jpg" "Амерсфортский марафон." >}}

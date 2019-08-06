@@ -1,7 +1,7 @@
 ---
 date: "2019-07-21T00:00:00Z"
 title: "2.2.2"
-group: "Sound Switcher Indicator"
+series: "Sound Switcher Indicator"
 tags: ["Sound Switcher Indicator", "Ubuntu", "индикатор", "разработка"]
 image: ssi-icon.png
 fulltext_url: "https://yktoo.solutions/blog/2019/07/21-sound-switcher-indicator-2.2.2/"

@@ -1,7 +1,7 @@
 ---
 date: "2016-09-30T00:00:00Z"
 title: "2.1.0"
-group: "Sound Switcher Indicator"
+series: "Sound Switcher Indicator"
 tags: ["indicator", "PulseAudio", "Python", "Python 3", "sound", "Sound Switcher Indicator", "Ubuntu", "Unity", "Utopic Unicorn"]
 ---
 

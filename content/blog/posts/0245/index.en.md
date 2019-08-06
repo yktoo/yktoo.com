@@ -1,7 +1,7 @@
 ---
 date: "2015-05-16T00:00:00Z"
 title: "Part 3. Accessories"
-group: "4K UHD TV Samsung UE75HU7500: a complete review"
+series: "4K UHD TV Samsung UE75HU7500: a complete review"
 tags: ["gadgets", "hardware", "review", "Samsung", "Smart TV", "TV"]
 image: "https://1.bp.blogspot.com/-XI3WZxPp01Q/VQQq9cMLcSI/AAAAAAAAhPk/kozQPL8YKPU/s1600/dsc08026.picasaweb.jpg"
 ---

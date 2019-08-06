@@ -1,7 +1,7 @@
 ---
 date: "2014-10-12T00:00:00Z"
 title: "Часть 3, водно-фруктовая"
-group: "Хаутен"
+series: "Хаутен"
 tags: ["вода", "Нидерланды", "Хаутен"]
 image: "https://2.bp.blogspot.com/-bBt-dPzYMUU/U_uLTtKwcpI/AAAAAAAAfFA/CK20pVWHIo4/s1600/dsc06429.picasaweb.jpg"
 ---

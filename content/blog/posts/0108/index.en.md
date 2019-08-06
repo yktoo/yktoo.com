@@ -1,7 +1,7 @@
 ---
 date: "2011-08-13T00:00:00Z"
 title: "Pt. 2. Innalzamento"
-group: "Post Nubila Sol"
+series: "Post Nubila Sol"
 tags: ["instrumental", "music", "my music", "progressive metal", "Radiolaria"]
 ---
 

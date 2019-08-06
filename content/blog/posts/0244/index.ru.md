@@ -1,7 +1,7 @@
 ---
 date: "2015-05-15T00:00:00Z"
 title: "Часть 2. Подключение и управление"
-group: "Полный обзор 75-дюймового 4K-телевизора Samsung UE75HU7500"
+series: "Полный обзор 75-дюймового 4K-телевизора Samsung UE75HU7500"
 tags: ["Samsung", "Smart TV", "гаджеты", "железо", "обзор", "телевизоры"]
 image: "https://3.bp.blogspot.com/-0CGZRIUxw6Y/VQRWkHJD1bI/AAAAAAAAhRA/0XrRfe5pGQc/s1600/UE75UH7500-rear.jpg"
 ---

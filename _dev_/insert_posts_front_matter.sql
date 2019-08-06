@@ -3,8 +3,8 @@ select concat(
     'date: "', date, '"\\n',
     'title: "', replace(replace(title, '/', '\\/'), '\'', '\'"\'"\''), '"\\n',
     case
-        when group_title is not null
-            then concat('group: "', replace(replace(group_title, '/', '\\/'), '\'', '\'"\'"\''), '"\\n')
+        when series_title is not null
+            then concat('series: "', replace(replace(series_title, '/', '\\/'), '\'', '\'"\'"\''), '"\\n')
         else ''
         end,
     'tags: [', replace(replace(tags, '/', '\\/'), '\'', '\'"\'"\''), ']\\n',
@@ -27,7 +27,7 @@ select concat(
                   then g.name_ru
               when t.lang = 'nl'
                   then g.name_nl
-              end group_title,
+              end series_title,
           DATE_FORMAT(p.pub_date, '%Y-%m-%dT%TZ') date,
           t.lang,
           t.tags

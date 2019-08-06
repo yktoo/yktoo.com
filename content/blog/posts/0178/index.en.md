@@ -1,7 +1,7 @@
 ---
 date: "2013-03-03T00:00:00Z"
 title: "Sound Switcher Indicator for Ubuntu"
-group: "Sound Switcher Indicator"
+series: "Sound Switcher Indicator"
 tags: ["GitHub", "indicator", "Launchpad", "Linux", "PulseAudio", "Python", "sound", "Sound Switcher Indicator", "Ubuntu", "Unity"]
 image: "https://3.bp.blogspot.com/-A68LFuAIxlg/UTMgzAqh53I/AAAAAAAAWrg/rlpYgjefo70/s1600/Screenshot.png"
 ---

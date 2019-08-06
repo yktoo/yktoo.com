@@ -1,7 +1,7 @@
 ---
 date: "2019-07-15T00:00:00Z"
 title: "Meet the all-new Yktoo Solutions website!"
-group: "My entrepreneurship"
+series: "My entrepreneurship"
 tags: ["announcement", "Hugo", "website", "Yktoo Solutions"]
 image: "https://1.bp.blogspot.com/-_oXI-nbfzo0/XTLzssA0-OI/AAAAAAAAwYc/lngDnMSfNEgezpjPHUkODSoPMrP7NGAlQCKgBGAs/s1600/website-main-page.jpg"
 ---

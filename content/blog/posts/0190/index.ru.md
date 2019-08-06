@@ -1,7 +1,7 @@
 ---
 date: "2013-06-07T00:00:00Z"
 title: "Часть 1. Песчаные скульптуры"
-group: "Португалия"
+series: "Португалия"
 tags: ["Алгарви", "песок", "Португалия", "путешествия"]
 image: "https://3.bp.blogspot.com/-gPst0LcWiAY/Ua4i9aZLi6I/AAAAAAAAYuQ/lcnZc6BUuK8/s1600/dsc09075.picasaweb.jpg"
 ---

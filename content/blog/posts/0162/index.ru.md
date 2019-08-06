@@ -1,7 +1,7 @@
 ---
 date: "2012-10-03T00:00:00Z"
 title: "Часть 1. Транспорт"
-group: "Барселона"
+series: "Барселона"
 tags: ["Барселона", "Испания", "путешествия"]
 image: "https://2.bp.blogspot.com/-eD5rhMo9hyo/UASASiBTSiI/AAAAAAAATq8/0hIuc3NvJRg/s1600/dsc02887.picasaweb.jpg"
 ---

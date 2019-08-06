@@ -1,7 +1,7 @@
 ---
 date: "2011-04-20T00:00:00Z"
 title: "Part 7. Budapest at Night"
-group: "Vienna and Budapest"
+series: "Vienna and Budapest"
 tags: ["Budapest", "Hungary", "travel"]
 image: "https://3.bp.blogspot.com/--Z559BLUdsM/Tan3CV4zhxI/AAAAAAAAItc/QMKX7luZEiM/s1600/dsc01685.picasaweb.jpg"
 ---

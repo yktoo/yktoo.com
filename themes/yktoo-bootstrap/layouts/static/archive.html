@@ -15,6 +15,7 @@
 
 <!-- Post list -->
 {{- $dateFormat := default "Jan 2, 2006" (index .Site.Params "short_date_format") -}}
+{{- $page := . -}}
 <table class="blog-post-list"><tbody>
     {{- $year := 0 -}}
     {{- $list := where .Site.RegularPages "Type" "blog" -}}
@@ -35,10 +36,11 @@
         <tr>
             <td class="number">{{ sub $count $idx }}.</td>
             <td class="date"><time datetime="{{ .Date.Format `2006-01-02T15:04:05Z07:00` }}">{{ .Date.Format $dateFormat }}</time></td>
-            <td><a href="{{ .Permalink }}">
+            <td>
                 {{- range .Site.Languages }}<span class="post_{{ cond (in $pageLangs .Lang) .Lang `none` }}"></span>{{ end -}}&nbsp;
-                {{- with .Params.group }}{{ . }} ‣ {{ end }}{{ .Title | markdownify | plainify | safeHTML -}}
-            </a></td>
+                {{- with .Params.series }}<a href="{{ relref $page (print `/series/` (urlize .)) }}">{{ . }}</a> ‣ {{ end -}}
+                <a href="{{ .Permalink }}">{{ .Title | markdownify | plainify | safeHTML -}}</a>
+            </td>
         </tr>
     {{ end }}
 </tbody></table>

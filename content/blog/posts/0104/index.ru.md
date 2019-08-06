@@ -1,7 +1,7 @@
 ---
 date: "2011-07-16T00:00:00Z"
 title: "Часть 1. Ad Libitum"
-group: "Post Nubila Sol"
+series: "Post Nubila Sol"
 tags: ["progressive metal", "инструментал", "моя музыка", "музыка", "Радиолярия"]
 ---
 

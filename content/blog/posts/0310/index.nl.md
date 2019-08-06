@@ -1,7 +1,7 @@
 ---
 date: "2017-02-20T00:00:00Z"
 title: "Vormen en personen"
-group: "Mijn ondernemerschap"
+series: "Mijn ondernemerschap"
 tags: ["belastingen", "business", "freelance", "Nederland", "ondernemerschap", "werk", "Yktoo Solutions"]
 image: "https://2.bp.blogspot.com/-0JS0V8bE70Y/WN97iz2hjLI/AAAAAAAAptQ/pwLDMGHIdfwZcGmcAlyotSDAsc3Yq2OOACPcB/s1600/shapes.picasaweb.png"
 ---

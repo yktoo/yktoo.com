@@ -1,7 +1,7 @@
 ---
 date: "2013-06-10T00:00:00Z"
 title: "Часть 2. Авто и апельсины"
-group: "Португалия"
+series: "Португалия"
 tags: ["авто", "Алгарви", "апельсины", "Португалия", "путешествия"]
 image: "https://3.bp.blogspot.com/-n6kdcRewI_k/Ua4hnOcA5UI/AAAAAAAAYno/COZDdQStsSU/s1600/dsc08993.picasaweb.jpg"
 ---

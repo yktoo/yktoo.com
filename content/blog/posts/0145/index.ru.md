@@ -1,7 +1,7 @@
 ---
 date: "2012-04-02T00:00:00Z"
 title: "Часть 2. Намюр"
-group: "Южная Бельгия"
+series: "Южная Бельгия"
 tags: ["Бельгия", "крепость", "Намюр", "пиво", "путешествия"]
 image: "https://2.bp.blogspot.com/-I5qbvP8D4QA/T3Wntt5ndHI/AAAAAAAAOLY/rPVAmP8iCRY/s1600/dsc09238.picasaweb.jpg"
 ---

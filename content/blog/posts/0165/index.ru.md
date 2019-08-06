@@ -1,7 +1,7 @@
 ---
 date: "2012-10-13T00:00:00Z"
 title: "Часть 4. Парк Гуэля"
-group: "Барселона"
+series: "Барселона"
 tags: ["Барселона", "Гауди", "Испания", "путешествия"]
 image: "https://4.bp.blogspot.com/-F11yKcO_nK4/UASEk7WQGMI/AAAAAAAAUE0/I9blBwsVUC8/s1600/dsc03371.picasaweb.jpg"
 ---

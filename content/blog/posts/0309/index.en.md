@@ -1,7 +1,7 @@
 ---
 date: "2017-02-19T00:00:00Z"
 title: "Pros and cons"
-group: "My entrepreneurship"
+series: "My entrepreneurship"
 tags: ["business", "employment", "entrepreneurship", "freelance", "Netherlands", "taxes", "Yktoo Solutions"]
 image: "https://4.bp.blogspot.com/-f_a4KQVmI1w/WN97i86B4jI/AAAAAAAAptQ/tQHL2EJd3pcyo5NSzzCyPmQuDu3Ls8DlQCPcB/s1600/pros-and-cons.jpg"
 ---

@@ -1,7 +1,7 @@
 ---
 date: "2012-04-05T00:00:00Z"
 title: "Часть 3. Динан, Спа и ***"
-group: "Южная Бельгия"
+series: "Южная Бельгия"
 tags: ["Бельгия", "Динан", "путешествия", "Спа"]
 image: "https://3.bp.blogspot.com/-JA8DSmxAVZ0/T34KAPfoqqI/AAAAAAAAOUg/GHEyGIupO-4/s1600/20120309_201541.picasaweb.jpg"
 ---
