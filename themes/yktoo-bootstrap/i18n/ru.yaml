@@ -36,6 +36,7 @@
 - {id: software,          translation: Программы}
 - {id: subscribeByEmail,  translation: Подписаться по е-мэйлу}
 - {id: subscribeByRSS,    translation: Формат RSS 2.0}
+- {id: tag,               translation: Тег}
 - {id: tags,              translation: Теги}
 - {id: timeline,          translation: Хронология}
 - {id: videos,            translation: Видео}

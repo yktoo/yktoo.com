@@ -40,6 +40,7 @@
 - {id: software,          translation: Software}
 - {id: subscribeByEmail,  translation: Subscribe by email}
 - {id: subscribeByRSS,    translation: Feed in RSS 2.0 format}
+- {id: tag,               translation: Tag}
 - {id: tags,              translation: Tags}
 - {id: timeline,          translation: Timeline}
 - {id: videos,            translation: Videos}
