@@ -1,4 +1,3 @@
-{{ define "secondary-navbar" }}
 <!-- Compare items' URLs to derive the active status instead of using .IsMenuCurrent as it doesn't seem to work -->
 {{- $curURL := .RelPermalink -}}
 <ul class="nav nav-tabs mb-3">
@@ -6,4 +5,3 @@
     <li class="nav-item"><a class="nav-link{{ if eq $curURL (.URL | relLangURL | string) }} active{{ end }}" href="{{ .URL | absLangURL }}">{{ with .Pre }}{{ . | safeHTML }} {{ end }}{{ T .Identifier }}</a></li>
     {{ end }}
 </ul>
-{{ end }}

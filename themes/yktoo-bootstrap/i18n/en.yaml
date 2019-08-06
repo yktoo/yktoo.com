@@ -11,6 +11,8 @@
 - {id: cookieMessage,     translation: This website uses cookies.}
 - {id: copyright,         translation: Copyright ©%.4d—%.4d %s.}
 - {id: faq,               translation: FAQ}
+- {id: group,             translation: Group}
+- {id: groups,            translation: Groups}
 - {id: home,              translation: Home}
 - {id: iAmLegend,         translation: I Am Legend}
 - {id: links,             translation: Links}

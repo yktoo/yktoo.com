@@ -11,6 +11,8 @@
 - {id: cookieMessage,     translation: Deze website gebruikt cookies.}
 - {id: copyright,         translation: Auteursrecht ©%.4d—%.4d %s.}
 - {id: faq,               translation: FAQ}
+- {id: group,             translation: Groep}
+- {id: groups,            translation: Groepen}
 - {id: home,              translation: Hoofdpagina}
 - {id: iAmLegend,         translation: Ik ben legende}
 - {id: links,             translation: Links}

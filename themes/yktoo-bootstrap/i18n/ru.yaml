@@ -8,6 +8,8 @@
 - {id: contact,           translation: Контакт}
 - {id: copyright,         translation: Авторское право ©%.4d—%.4d %s.}
 - {id: faq,               translation: FAQ}
+- {id: group,             translation: Группа}
+- {id: groups,            translation: Группы}
 - {id: home,              translation: Главная}
 - {id: iAmLegend,         translation: Я легенда}
 - {id: locale,            translation: ru_RU}

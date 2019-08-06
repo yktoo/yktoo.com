@@ -1,7 +1,8 @@
-{{ define "main" }}
-<!-- Navigation menu -->
+{{ define "secondary-navbar" }}
 {{ partial "blog/navbar" . }}
+{{ end }}
 
+{{ define "main" }}
 <!-- Tag cloud -->
 <ul class="list-inline tag-cloud">
     {{- $type := .Type }}

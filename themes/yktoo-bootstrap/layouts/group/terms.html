@@ -1,0 +1,12 @@
+{{ define "secondary-navbar" }}
+{{ partial "blog/navbar" . }}
+{{ end }}
+
+{{ define "main" }}
+<!-- Group list -->
+<ul>
+    {{ range .Site.Taxonomies.group }}
+    <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
+    {{ end }}
+</ul>
+{{ end }}
