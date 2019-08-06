@@ -23,7 +23,7 @@ Following the tradition I'd like to look back on the last year—which has been 
 * Have run two half marathons (**21.1 km**): one in [De Haar]({{< relref "0274" >}}) and the [Amersfoort]({{< relref "0279" >}}) one.
 * Finally obtain the [first dan]({{< relref "0273" >}}) in aikido aikikai, as well as the corresponding [certificate]({{< relref "0284" >}}).
 * Follow private Dutch lessons.
-* Add Dutch to this website and translate a [few posts][route:/blog/archive,language:nl] as an additional exercise to the previous item.
+* Add Dutch to this website and translate a [few posts]({{< relref path="/blog/archive" lang="nl" >}}) as an additional exercise to the previous item.
 * Take some important career steps:
     * Have many job interviews in Dutch.
     * Register my own sole proprietorship company [Yktoo Solutions](http://www.yktoo.solutions/) in the Netherlands (more on this subject later) and create a [website](http://www.yktoo.solutions/) in the new shiny `.solutions` domain.

@@ -16,7 +16,7 @@ The total of sixty hours of *individual* lessons (30 two-hour sessions) and innu
 
 I'm personally not convinced my Dutch is that great as I still face enough difficulties with it, but I do trust the teacher. What is certain is that my command of the language has significantly improved during that course. And important part of that progress was due to individual lessons. I've had a few group classes before and there's a world of difference. Being face to face with the teacher, you get all the attention and are not constrained to talk or to read as much as you need.
 
-As part of this course I've translated (and proofread) [several blog posts][route:/blog/archive,language:nl] and almost finished the book [Nederlands naar perfectie](https://shop.coutinho.nl/store_nl/nederlands-naar-perfectie.html) ("Dutch to perfection"):
+As part of this course I've translated (and proofread) [several blog posts]({{< relref path="/blog/archive" lang="nl" >}}) and almost finished the book [Nederlands naar perfectie](https://shop.coutinho.nl/store_nl/nederlands-naar-perfectie.html) ("Dutch to perfection"):
 {{< imgfig "https://3.bp.blogspot.com/-AZPZheblZu8/WQ4KUGhAGiI/AAAAAAAAp50/MZvftSeh2p8NUFt1TYV5_zXOK80t6Y0NwCPcB/s1600/nederlands-naar-perfectie.jpg" "Nederlands naar perfectie." >}}
 
 On a side note, such a course is anything but cheap: ING has paid ca. **€80/hour** for it. Which is in principle a standard rate for private lessons here.

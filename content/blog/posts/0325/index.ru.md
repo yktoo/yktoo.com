@@ -16,7 +16,7 @@ image: "https://2.bp.blogspot.com/-b8UFCXNT65c/WQ3-0nds71I/AAAAAAAAp5I/4dyGkOr1R
 
 Лично мне кажется, что я ещё не настолько крут — проблем с голландским хватает, — но преподавателю, наверное, виднее. Во всяком случае, моё владение голландским заметно улучшилось. Прогресс от индивидуальных занятий несравним с занятиями в группе (групповых курсов у меня уже было несколько): ты можешь говорить или читать столько, сколько требуется.
 
-В рамках этого курса я перевёл (и вычитал с преподавателем) [несколько постов][route:/blog/archive,language:nl] и почти закончил учебник [Nederlands naar perfectie](https://shop.coutinho.nl/store_nl/nederlands-naar-perfectie.html) («Нидерландский язык [на пути] к совершенству»):
+В рамках этого курса я перевёл (и вычитал с преподавателем) [несколько постов]({{< relref path="/blog/archive" lang="nl" >}}) и почти закончил учебник [Nederlands naar perfectie](https://shop.coutinho.nl/store_nl/nederlands-naar-perfectie.html) («Нидерландский язык [на пути] к совершенству»):
 {{< imgfig "https://3.bp.blogspot.com/-AZPZheblZu8/WQ4KUGhAGiI/AAAAAAAAp50/MZvftSeh2p8NUFt1TYV5_zXOK80t6Y0NwCPcB/s1600/nederlands-naar-perfectie.jpg" "Книга «Nederlands naar perfectie»." >}}
 
 Удовольствие это, кстати, не из дешёвых. ING курс обошёлся примерно в **€80/час** — что, в принципе, нормальная местная такса за индивидуальные занятия.

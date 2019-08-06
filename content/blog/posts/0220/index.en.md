@@ -5,7 +5,7 @@ tags: ["blog", "web", "website"]
 image: "https://4.bp.blogspot.com/-W1Lp43kTwAM/U4De_mpvaZI/AAAAAAAAdck/zuKIwPEzFjI/s1600/yktoo-blog-map.picasaweb.png"
 ---
 
-A while ago I've added a new section to my website, [Blog][route:/blog/index] → [Map][route:/blog/map], which shows all places I ever blogged about. You can view related posts by clicking a place marker:
+A while ago I've added a new section to my website, [Blog Map][route:/blog/map], which shows all places I ever blogged about. You can view related posts by clicking a place marker:
 {{< imgfig "https://4.bp.blogspot.com/-W1Lp43kTwAM/U4De_mpvaZI/AAAAAAAAdck/zuKIwPEzFjI/s1600/yktoo-blog-map.picasaweb.png" >}}
 
 <!--more-->
