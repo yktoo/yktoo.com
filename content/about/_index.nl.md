@@ -8,7 +8,7 @@ layout: single
 
 ## Over mezelf
 
-Hallo! Mijn naam is Dmitry Kann (cyrillisch: {{< fl "Дмитрий Канн" >}}). Ik ben geboren en getogen in Rusland, maar in **2008** ben ik naar Nederland verhuisd, waar ik tot nu toe woon, in een prachtig dorp dat [Houten]({{< relref path="/blog/0221" lang="ru" >}}) heet.
+Hallo! Mijn naam is Dmitry Kann (cyrillisch: {{< fl "Дмитрий Канн" >}}). Ik ben geboren en getogen in Rusland, maar in **2008** ben ik naar Nederland verhuisd, waar ik tot nu toe woon, in een prachtig dorp dat [Houten]({{< relref path="0221" lang="ru" >}}) heet.
 
 Ik ben softwareontwikkelaar en oprichter van een klein softwarebedrijf [Yktoo Solutions](https://yktoo.solutions).
 
