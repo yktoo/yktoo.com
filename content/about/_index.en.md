@@ -12,9 +12,9 @@ Hello there. My name is Dmitry Kann (Cyrillic: {{< fl "Дмитрий Канн" 
 
 I'm a software developer and the founder of a small software company called [Yktoo Solutions](https://yktoo.solutions).
 
-I have a number of hobbies to fill up my spare time: [blogging][route:/site/index], open-source [software development][route:/software/index], [music][route:/blog/tag,tag:music], [travelling][route:/blog/tag,tag:travel], [aikido][route:/blog/tag,tag:aikido] and [running][route:/blog/tag,tag:running]. And in the past being a part of the [Radiolaria][route:/radiolaria/index] duo.
+I have a number of hobbies to fill up my spare time: [blogging]({{< relref "/" >}}), open-source [software development]({{TODO< relref "/software" >}}), [music]({{< relref "/tags/music" >}}), [travelling]({{< relref "/tags/travel" >}}), [aikido]({{< relref "/tags/aikido" >}}) and [running]({{< relref "/tags/running" >}}). And in the past being a part of the [Radiolaria]({{TODO< relref "/radiolaria" >}}) duo.
 
-I speak Russian, English, and Dutch. If you feel like contacting me, check out the [Contact]({{< ref "/about/contact" >}}) page.
+I speak Russian, English, and Dutch. If you feel like contacting me, check out the [Contact]({{< relref "/about/contact" >}}) page.
 
 ## About this website
 

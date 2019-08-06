@@ -5,7 +5,7 @@ tags: ["013", "Arjen Lucassen", "Ayreon", "Ayreon Universe", "music", "Netherlan
 image: "https://1.bp.blogspot.com/-yVk8TPQxQOk/WDlcnphdPoI/AAAAAAAAoUs/zHjicNv6JCsXG6jwybTyuaxK_nnGypy4QCPcB/s1600/ayreon-universe-best-of.jpg"
 ---
 
-Five days ago the mighty [Arjen Lucassen][route:/blog/tag,tag:Arjen Lucassen] [has announced](https://www.facebook.com/ArjenLucassenOfficial/videos/10153840917141152/) on his Facebook page two live shows of his *Ayreon* mega-project, which got the name [Ayreon Universe](http://www.arjenlucassen.com/universe/). The shows were scheduled for **15 and 16 September 2017**, with the official ticket sale starting on 24 November at 10:00 CET.
+Five days ago the mighty [Arjen Lucassen]({{< relref "/tags/Arjen-Lucassen" >}}) [has announced](https://www.facebook.com/ArjenLucassenOfficial/videos/10153840917141152/) on his Facebook page two live shows of his *Ayreon* mega-project, which got the name [Ayreon Universe](http://www.arjenlucassen.com/universe/). The shows were scheduled for **15 and 16 September 2017**, with the official ticket sale starting on 24 November at 10:00 CET.
 
 <!--more-->
 
@@ -28,30 +28,30 @@ So, a total of **9000** tickets was done with in [less than 48 hours](https://ww
 Apart from {{< fl "Ayreon" >}} being legendary, the line-up is very impressive (the links below lead to corresponding tags in my blog):
 
 * **Vocalists**
-    * [Floor Jansen][route:/blog/tag,tag:Floor Jansen] ([Nightwish][route:/blog/tag,tag:Nightwish])
-    * {{< fl "Russell Allen" >}} ({{< fl "Symphony X" >}})
-    * [Damian Wilson][route:/blog/tag,tag:Damian Wilson] ({{< fl "Threshold" >}})
+    * [Floor Jansen]({{< relref "/tags/Floor-Jansen" >}}) ([Nightwish]({{< relref "/tags/Nightwish" >}}))
+    * {{< fl "Russell Allen" >}} ({{< fl "Symphony-X" >}})
+    * [Damian Wilson]({{< relref "/tags/Damian-Wilson" >}}) ({{< fl "Threshold" >}})
     * {{< fl "Hansi Kürsch" >}} ({{< fl "Blind Guardian" >}})
     * {{< fl "Tommy Karevik" >}} ({{< fl "Kamelot" >}})
-    * [Anneke van Giersbergen][route:/blog/tag,tag:Anneke van Giersbergen] ([The Gentle Storm][route:/blog/tag,tag:The Gentle Storm])
-    * {{< fl "Marco Hietala" >}} ([Nightwish][route:/blog/tag,tag:Nightwish])
+    * [Anneke van Giersbergen]({{< relref "/tags/Anneke-van-Giersbergen" >}}) ([The Gentle Storm]({{< relref "/tags/The-Gentle-Storm" >}}))
+    * {{< fl "Marco Hietala" >}} ([Nightwish]({{< relref "/tags/Nightwish" >}}))
     * {{< fl "Jonas Renkse" >}} ({{< fl "Katatonia" >}})
     * {{< fl "Mike Mills" >}} ({{< fl "Toehider" >}})
-    * [Marcela Bovio][route:/blog/tag,tag:Marcela Bovio] ([Stream of Passion][route:/blog/tag,tag:Stream of Passion])
+    * [Marcela Bovio]({{< relref "/tags/Marcela-Bovio" >}}) ([Stream of Passion]({{< relref "/tags/Stream-of-Passion" >}}))
     * {{< fl "Irene Jansen" >}} ({{< fl "Ayreon" >}})
     * {{< fl "Robert Soeterboek" >}} ({{< fl "Star One" >}})
     * {{< fl "Edward Reekers" >}} ({{< fl "Kayak" >}})
     * {{< fl "Jan van Feggelen" >}} ({{< fl "Ayreon" >}})
     * {{< fl "Magali Luyten" >}} ({{< fl "Nightmare" >}})
-    * [Lisette van den Berg][route:/blog/tag,tag:Lisette van den Berg] ({{< fl "Scarlet Stories" >}})
+    * [Lisette van den Berg]({{< relref "/tags/Lisette-van-den-Berg" >}}) ({{< fl "Scarlet Stories" >}})
 * **Instrumentalists**
-    * {{< fl "Ed Warby" >}} ([The Gentle Storm][route:/blog/tag,tag:The Gentle Storm]) — drums
-    * {{< fl "Johan van Stratum" >}} ([Stream of Passion][route:/blog/tag,tag:Stream of Passion]) — bass
-    * [Marcel Coenen][route:/blog/tag,tag:Marcel Coenen] ([Sun Caged][route:/blog/tag,tag:Sun Caged]) — lead guitar
-    * {{< fl "Ferry Duijsens" >}} ([The Gentle Storm][route:/blog/tag,tag:The Gentle Storm]) — guitar
+    * {{< fl "Ed Warby" >}} ([The Gentle Storm]({{< relref "/tags/The-Gentle-Storm" >}})) — drums
+    * {{< fl "Johan van Stratum" >}} ([Stream of Passion]({{< relref "/tags/Stream-of-Passion" >}})) — bass
+    * [Marcel Coenen]({{< relref "/tags/Marcel-Coenen" >}}) ([Sun Caged]({{< relref "/tags/Sun-Caged" >}})) — lead guitar
+    * {{< fl "Ferry Duijsens" >}} ([The Gentle Storm]({{< relref "/tags/The-Gentle-Storm" >}})) — guitar
     * {{< fl "Joost van den Broek" >}} — keyboards
-    * [Ben Mathot][route:/blog/tag,tag:Ben Mathot] ({{< fl "Ayreon" >}}) — violin
+    * [Ben Mathot]({{< relref "/tags/Ben-Mathot" >}}) ({{< fl "Ayreon" >}}) — violin
     * {{< fl "Jeroen Goossens" >}} — flutes, woodwinds
-    * {{< fl "Maaike Peterse" >}} ([Kingfisher Sky][route:/blog/tag,tag:Kingfisher Sky]) — cello
+    * {{< fl "Maaike Peterse" >}} ([Kingfisher Sky]({{< relref path="/tags/Kingfisher-Sky" lang="ru" >}})) — cello
 
 This line-up is subject to change over the remaining time. The project also features an interesting [FAQ](http://www.arjenlucassen.com/universe/faq/) about {{< fl "Ayreon Universe" >}} concerts. All I need now is a bit of patience for the coming ten months…

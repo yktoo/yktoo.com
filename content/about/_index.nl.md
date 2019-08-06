@@ -12,9 +12,9 @@ Hallo! Mijn naam is Dmitry Kann (cyrillisch: {{< fl "Дмитрий Канн" >}
 
 Ik ben softwareontwikkelaar en oprichter van een klein softwarebedrijf [Yktoo Solutions](https://yktoo.solutions).
 
-Ik heb een aantal hobby's om mijn vrije tijd aan te besteden: [blogging][route:/site/index], open-source [softwareontwikkeling][route:/software/index], [muziek][route:/blog/tag,tag:music], [reizen][route:/blog/tag,tag:travel], [aikido][route:/blog/tag,tag:aikido] en [hardlopen][route:/blog/tag,tag:running]. Ook was ik ooit een lid van het [Radiolaria][route:/radiolaria/index] duo.
+Ik heb een aantal hobby's om mijn vrije tijd aan te besteden: [blogging]({{< relref "/" >}}), open-source [softwareontwikkeling]({{TODO< relref "/software" >}}), [muziek]({{< relref path="/tags/music" lang="en" >}}), [reizen]({{< relref path="/tags/travel" lang="en" >}}), [aikido]({{< relref path="route:/tags/aikido" lang="en" >}}) en [hardlopen]({{< relref path="route:/tags/running" lang="en" >}}). Ook was ik ooit een lid van het [Radiolaria]({{TODO< relref "/radiolaria" >}}) duo.
 
-Ik spreek Russisch, Engels en Nederlands. Als je contact met me op wilt nemen, dan kun je het beste de [contactpagina]({{< ref "/about/contact" >}}) gebruiken.
+Ik spreek Russisch, Engels en Nederlands. Als je contact met me op wilt nemen, dan kun je het beste de [contactpagina]({{< relref "/about/contact" >}}) gebruiken.
 
 ## Over deze website
 
