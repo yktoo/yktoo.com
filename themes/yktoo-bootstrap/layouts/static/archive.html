@@ -37,7 +37,7 @@
             <td class="date"><time datetime="{{ .Date.Format `2006-01-02T15:04:05Z07:00` }}">{{ .Date.Format $dateFormat }}</time></td>
             <td><a href="{{ .Permalink }}">
                 {{- range .Site.Languages }}<span class="post_{{ cond (in $pageLangs .Lang) .Lang `none` }}"></span>{{ end -}}&nbsp;
-                {{- with .Params.group }}{{ . }}&nbsp;‣&nbsp;{{ end }}{{ .Title | markdownify | plainify | safeHTML -}}
+                {{- with .Params.group }}{{ . }} ‣ {{ end }}{{ .Title | markdownify | plainify | safeHTML -}}
             </a></td>
         </tr>
     {{ end }}
