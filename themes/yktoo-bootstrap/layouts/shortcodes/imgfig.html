@@ -1,4 +1,4 @@
-<figure class="figure blog-image">
+<figure class="figure imgfig">
     {{ $url := .Get 0 -}}
     <!-- If it isn't a URL starting with "http(s)://", consider it a page resource -->
     {{- if not (or (hasPrefix $url "http://") (hasPrefix $url "https://")) -}}

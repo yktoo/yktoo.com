@@ -1,0 +1,4 @@
+items:
+    sound-switcher-indicator:
+        githubUrl: https://github.com/yktoo/indicator-sound-switcher
+        license: gpl3

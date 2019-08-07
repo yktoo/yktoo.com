@@ -11,8 +11,11 @@
 - {id: cookieMessage,     translation: Deze website gebruikt cookies.}
 - {id: copyright,         translation: Auteursrecht ©%.4d—%.4d %s.}
 - {id: faq,               translation: FAQ}
+- {id: githubIssueTrk,    translation: GitHub Issue Tracker}
+- {id: githubRepo,        translation: GitHub repository}
 - {id: home,              translation: Hoofdpagina}
 - {id: iAmLegend,         translation: Ik ben legende}
+- {id: license,           translation: Licentie}
 - {id: links,             translation: Links}
 - {id: locale,            translation: nl_NL}
 - {id: map,               translation: Kaart}
@@ -40,8 +43,12 @@
 - {id: seriesPlural,      translation: Serie's}
 - {id: share,             translation: Delen}
 - {id: software,          translation: Software}
+- {id: softwareFor,       translation: '{{ .Key }}-software'}
+- {id: sourceCode,        translation: Broncode}
+- {id: sourceCodeAvailAt, translation: De broncode kan gedownload worden vanuit de}
 - {id: subscribeByEmail,  translation: Abonneren via e-mail}
 - {id: subscribeByRSS,    translation: Nieuwsfeed in RSS 2.0-formaat}
+- {id: support,           translation: Ondersteuning}
 - {id: tag,               translation: Tag}
 - {id: tags,              translation: Tags}
 - {id: timeline,          translation: Tijdlijn}

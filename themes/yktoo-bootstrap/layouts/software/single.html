@@ -1,0 +1,41 @@
+{{ define "heading" }}
+<div class="jumbotron">
+    <h1 class="display-4">{{ .Title }}</h1>
+    {{ with .Params.subtitle }}<p class="lead">{{ . }}</p>{{ end }}
+</div>
+{{ end }}
+
+{{ define "main" }}
+
+<!-- Render the main page content -->
+{{ .Content }}
+
+<!-- Fetch software properties -->
+{{ $data := index .Site.Data.software.items (urlize .Title) }}
+
+<!-- Downloads -->
+{{ if $data.downloads }}
+<!-- TODO -->
+{{ end }}
+
+<!-- License -->
+{{ with $data.license }}
+    <h2>{{ T "license" }}</h2>
+    {{ partial (printf "software/license/%s.%s.html" . $.Site.Language) }}
+{{ end }}
+
+<!-- Support -->
+{{ with $data.githubUrl }}
+    <h2>{{ T "support" }}</h2>
+    <div class="list-group mb-5">
+        <a class="list-group-item list-group-item-action" href="{{ . }}"><i class="fab fa-github"></i> {{ T "githubIssueTrk" }}</a>
+    </div>
+{{ end }}
+
+<!-- Source code -->
+{{ with $data.githubUrl }}
+    <h2>{{ T "sourceCode" }}</h2>
+    <p>{{ T "sourceCodeAvailAt" }} <a href="{{ . }}">{{ T "githubRepo" }}</a>.</p>
+{{ end }}
+
+{{ end }}

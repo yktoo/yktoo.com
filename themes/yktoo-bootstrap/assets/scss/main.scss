@@ -99,6 +99,23 @@ td.date {
     }
 }
 
+// Figure
+.imgfig {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+
+    .figure-img {
+        max-width: 100%;
+        height: auto;
+        max-height: 800px;
+    }
+
+    .figure-caption {
+        margin-bottom: 1rem;
+    }
+}
+
 // Navbar
 #navbar {
     font-family: 'Roboto Condensed', sans-serif;
@@ -159,22 +176,6 @@ td.date {
         border-bottom: 2px dotted gray;
         color: $gray-600;
         text-align: center;
-    }
-
-    .blog-image {
-        display: block;
-        margin: 0 auto;
-        text-align: center;
-
-        .figure-img {
-            max-width: 100%;
-            height: auto;
-            max-height: 800px;
-        }
-
-        .figure-caption {
-            margin-bottom: 1rem;
-        }
     }
 }
 .blog-paginator {

@@ -8,8 +8,11 @@
 - {id: contact,           translation: Контакт}
 - {id: copyright,         translation: Авторское право ©%.4d—%.4d %s.}
 - {id: faq,               translation: FAQ}
+- {id: githubIssueTrk,    translation: GitHub Issue Tracker}
+- {id: githubRepo,        translation: репозитория GitHub}
 - {id: home,              translation: Главная}
 - {id: iAmLegend,         translation: Я легенда}
+- {id: license,           translation: Лицензия}
 - {id: locale,            translation: ru_RU}
 - {id: map,               translation: Карта}
 - {id: mySocialLinks,     translation: Мои соцсети}
@@ -36,8 +39,12 @@
 - {id: seriesPlural,      translation: Подборки}
 - {id: share,             translation: Поделиться}
 - {id: software,          translation: Программы}
+- {id: softwareFor,       translation: 'ПО для {{ .Key }}'}
+- {id: sourceCode,        translation: Исходный код}
+- {id: sourceCodeAvailAt, translation: Исходный код проекта можно загрузить из}
 - {id: subscribeByEmail,  translation: Подписаться по е-мэйлу}
 - {id: subscribeByRSS,    translation: Формат RSS 2.0}
+- {id: support,           translation: Поддержка}
 - {id: tag,               translation: Тег}
 - {id: tags,              translation: Теги}
 - {id: timeline,          translation: Хронология}
