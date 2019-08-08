@@ -2,3 +2,7 @@ items:
     sound-switcher-indicator:
         githubUrl: https://github.com/yktoo/indicator-sound-switcher
         license: gpl3
+    docker-indicator:
+        githubUrl: https://github.com/yktoo/indicator-docker
+        license: gpl3
+        #fullDocsUrl: https://github.com/yktoo/indicator-sound-switcher

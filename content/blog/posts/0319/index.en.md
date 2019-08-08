@@ -3,6 +3,7 @@ date: "2017-04-16T00:00:00Z"
 title: "Docker Indicator 0.1.0"
 tags: ["Docker", "Docker Indicator", "indicator", "Python 3", "Ubuntu", "Unity", "Yakkety Yak", "Zesty Zapus"]
 image: "https://3.bp.blogspot.com/-o3UHJigGfeM/WPMpddaX-kI/AAAAAAAApwQ/ZQ2WLSmSFTYQqL8TQpCd5uL5v58sjHFfgCPcB/s1600/indicator-docker-icon.png"
+software: docker-indicator
 ---
 
 If you work with [Docker](https://www.docker.com/) a lot, you might have noticed that the list of containers tends to grow out of control over time. Now and then you bump into an abandoned dusty container somewhere in the dark corner of your `/var/lib`.

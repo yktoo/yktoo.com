@@ -15,6 +15,7 @@
 - {id: faq,               translation: FAQ}
 - {id: fullDocsAvail,     translation: De volledige projectdocumentatie is beschikbaar}
 - {id: githubIssueTrk,    translation: GitHub Issue Tracker}
+- {id: githubIssueTrkDet, translation: Dé plek voor al je bugreports en featurerequests!}
 - {id: githubRepo,        translation: GitHub repository}
 - {id: home,              translation: Hoofdpagina}
 - {id: iAmLegend,         translation: Ik ben legende}

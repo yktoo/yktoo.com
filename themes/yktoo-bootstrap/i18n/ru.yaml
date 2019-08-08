@@ -12,6 +12,7 @@
 - {id: faq,               translation: FAQ}
 - {id: fullDocsAvail,     translation: Полная документация проекта доступна}
 - {id: githubIssueTrk,    translation: GitHub Issue Tracker}
+- {id: githubIssueTrkDet, translation: Книга жалоб и предложений}
 - {id: githubRepo,        translation: репозиторий GitHub}
 - {id: home,              translation: Главная}
 - {id: iAmLegend,         translation: Я легенда}

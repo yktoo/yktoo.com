@@ -2,18 +2,27 @@
 <div class="row">
     {{- range .Pages.GroupByParam "platform" }}
     <div class="col-md-6">
-        <h2>{{ T "softwareFor" (dict "value" (title .Key)) }}</h2>
-        <div class="list-group mb-5">
-            {{- range .Pages }}
-            <a class="list-group-item list-group-item-action" href="{{ .Permalink }}">
-                {{- $page := . -}}
-                {{- with .Params.icon }}{{ with $page.Resources.GetMatch . }}
-                <img src="{{ .RelPermalink }}" alt="Icon">
-                {{- end }}{{ end -}}
-                {{- .Title -}}
-            </a>
-            {{- end }}
-        </div>
+        <section>
+            <h2>{{ T "softwareFor" (dict "value" (title .Key)) }}</h2>
+            <div class="list-group">
+                {{- range .Pages }}
+                <a class="list-group-item list-group-item-action list-group-item-iconized" href="{{ .Permalink }}">
+                    <!-- Icon, if any -->
+                    {{- $page := . -}}
+                    {{- with .Params.icon }}{{ with $page.Resources.GetMatch . }}
+                    <div class="list-group-img"><img src="{{ .RelPermalink }}" alt="Icon"></div>
+                    {{- end }}{{ end -}}
+
+                    <div class="list-group-text">
+                        <!-- Title -->
+                        <div class="list-group-heading">{{- .Title -}}</div>
+                        <!-- Subtitle -->
+                        {{- with .Params.subtitle }}<div class="list-group-details">{{ . }}</div>{{ end }}
+                    </div>
+                </a>
+                {{- end }}
+            </div>
+        </section>
     </div>
     {{- end }}
 </div>

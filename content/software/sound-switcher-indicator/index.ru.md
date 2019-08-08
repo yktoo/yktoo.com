@@ -28,4 +28,4 @@ seeAlso:
 
 <!-- TODO List downloads and source code -->
 
-Скачать source tarball или готовый `.deb`-пакет можно на странице [Launchpad PPA packages](https://launchpad.net/~yktooo/+archive/ppa/+packages).
+Скачать {{< fl "source tarball" >}} или готовый `.deb`-пакет можно на странице [Launchpad PPA packages](https://launchpad.net/~yktooo/+archive/ppa/+packages).
