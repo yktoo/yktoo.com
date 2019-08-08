@@ -14,6 +14,7 @@
 
 <!-- Fetch software properties -->
 {{ $data := index .Site.Data.software.items (urlize .Title) }}
+{{ $page := . }}
 
 <!-- Downloads -->
 {{ if $data.downloads }}
@@ -66,8 +67,8 @@
         {{ range .Params.seeAlso }}<li><a href="{{ .url }}">{{ .name }}</a></li>{{ end }}
         {{ with $related }}
         <li><b>{{ T "blogPosts" }}:</b>
-            <ul>
-                {{ range . }}<li><a href="{{ .RelPermalink }}">{{ with .Params.series }}{{ . }} ‣ {{ end }}{{ .Title | markdownify }}</a></li>{{ end }}
+            <ul class="list-unstyled">
+                {{ range . }}<li>{{ partial "blog/post_link.html" (dict "page" $page "post" .) }}</li>{{ end }}
             </ul>
         </li>
         {{ end }}

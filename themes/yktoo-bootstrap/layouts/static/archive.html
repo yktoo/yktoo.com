@@ -28,19 +28,11 @@
             <tr><th colspan="3">{{ $year }}</th></tr>
         {{- end -}}
 
-        <!-- Compile a list of languages the current page is translated to -->
-        {{- $pageLangs := slice .Lang -}}
-        {{- range .Translations }}{{ $pageLangs = $pageLangs | append .Lang }}{{ end -}}
-
         <!-- Output a post row -->
         <tr>
             <td class="number">{{ sub $count $idx }}.</td>
             <td class="date"><time datetime="{{ .Date.Format `2006-01-02T15:04:05Z07:00` }}">{{ .Date.Format $dateFormat }}</time></td>
-            <td>
-                {{- range .Site.Languages }}<span class="post_{{ cond (in $pageLangs .Lang) .Lang `none` }}"></span>{{ end -}}&nbsp;
-                {{- with .Params.series }}<a href="{{ relref $page (print `/series/` (urlize .)) }}">{{ . }}</a> ‣ {{ end -}}
-                <a href="{{ .Permalink }}">{{ .Title | markdownify | plainify | safeHTML -}}</a>
-            </td>
+            <td>{{ partial "blog/post_link.html" (dict "page" $page "post" .) }}</td>
         </tr>
     {{ end }}
 </tbody></table>

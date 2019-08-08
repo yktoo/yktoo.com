@@ -1,0 +1,15 @@
+<!-- Renders a clickable link to the post and, if applicable, its series. Passed context:
+    page - page being rendered.
+    post - post to  output a link for.
+-->
+{{- $page := .page -}}
+{{- $post := .post -}}
+
+<!-- Compile a list of languages the current page is translated to -->
+{{- $pageLangs := slice $post.Lang -}}
+{{- range $post.Translations }}{{ $pageLangs = $pageLangs | append .Lang }}{{ end -}}
+
+<!-- Output a post row -->
+{{- range $page.Site.Languages }}<span class="post_{{ cond (in $pageLangs .Lang) .Lang `none` }}"></span>{{ end -}}&nbsp;
+{{- with $post.Params.series }}<a href="{{ relref $page (print `/series/` (urlize .)) }}">{{ . }}</a> ‣ {{ end -}}
+<a href="{{ $post.Permalink }}">{{ $post.Title | markdownify | plainify | safeHTML -}}</a>
