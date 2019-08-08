@@ -43,7 +43,7 @@
 - {id: seriesPlural,      translation: Подборки}
 - {id: share,             translation: Поделиться}
 - {id: software,          translation: Программы}
-- {id: softwareFor,       translation: 'ПО для {{ .Key }}'}
+- {id: softwareFor,       translation: 'ПО для {{ .value }}'}
 - {id: sourceCode,        translation: Исходный код}
 - {id: sourceCodeClone,   translation: 'Чтобы загрузить самую новую версию исходных кодов, склонируйте мой'}
 - {id: subscribeByEmail,  translation: Подписаться по е-мэйлу}

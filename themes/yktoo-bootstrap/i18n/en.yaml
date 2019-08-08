@@ -47,7 +47,7 @@
 - {id: seriesPlural,      translation: Series}
 - {id: share,             translation: Share}
 - {id: software,          translation: Software}
-- {id: softwareFor,       translation: '{{ .Key }} software'}
+- {id: softwareFor,       translation: '{{ .value }} software'}
 - {id: sourceCode,        translation: Source code}
 - {id: sourceCodeClone,   translation: 'To download the latest source code, clone my'}
 - {id: subscribeByEmail,  translation: Subscribe by email}

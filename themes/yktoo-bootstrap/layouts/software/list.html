@@ -2,7 +2,7 @@
 <div class="row">
     {{- range .Pages.GroupByParam "platform" }}
     <div class="col-md-6">
-        <h2>{{ T "softwareFor" . | humanize }}</h2>
+        <h2>{{ T "softwareFor" (dict "value" (title .Key)) }}</h2>
         <div class="list-group mb-5">
             {{- range .Pages }}
             <a class="list-group-item list-group-item-action" href="{{ .Permalink }}">
