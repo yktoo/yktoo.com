@@ -101,11 +101,20 @@ td.date {
         justify-content: left;
 
     }
-    .list-group-img {
+    .list-group-img-64 {
         padding: 0.5rem 2rem 0.5rem 0.5rem;
+        width: 110px;
 
         .fa, .fas, .fab {
             font-size: 64px;
+        }
+    }
+    .list-group-img-32 {
+        padding: 0.25rem 1rem 0.25rem 0.52rem;
+        width: 64px;
+
+        .fa, .fas, .fab {
+            font-size: 32px;
         }
     }
     .list-group-text {

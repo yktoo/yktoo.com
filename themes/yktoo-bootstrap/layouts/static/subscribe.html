@@ -7,21 +7,28 @@
 {{ .Content }}
 
 <!-- Post announcements -->
-<h2>{{ T "postAnnouncements" }}</h2>
-<div class="list-group mb-5">
-    {{ range .Site.Data.blog.subscribe.feeds }}
-    <a class="list-group-item list-group-item-action" href="{{ .url }}"><i class="{{ .icon }}"></i>{{ .title }}</a>
-    {{ end }}
-</div>
+<section id="blog-subscribe-announcements">
+    <h2>{{ T "postAnnouncements" }}</h2>
+    <div class="list-group">
+        {{ range .Site.Data.blog.subscribe.feeds }}
+        <a class="list-group-item list-group-item-action list-group-item-iconized" href="{{ .url }}">
+            <div class="list-group-img-32"><i class="{{ .icon }}"></i></div>
+            <div class="list-group-text"><div class="list-group-heading">{{ .title }}</div></div>
+        </a>
+        {{ end }}
+    </div>
+</section>
 
 <!-- Subscribe to posts lists -->
-<div class="row">
-    {{ range .AllTranslations }}
-    <div class="col-md-4">
-        <h2>{{ T (print "posts_" .Language) }}</h2>
-        {{ partial "blog/subscribe-list.html" . }}
+<section id="blog-subscribe-options">
+    <div class="row">
+        {{ range .AllTranslations }}
+        <div class="col-md-4">
+            <h2>{{ T (print "posts_" .Language) }}</h2>
+            {{ partial "blog/subscribe-list.html" . }}
+        </div>
+        {{ end }}
     </div>
-    {{ end }}
-</div>
+</section>
 
 {{ end }}

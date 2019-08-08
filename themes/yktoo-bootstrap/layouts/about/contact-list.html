@@ -1,18 +1,23 @@
 {{ define "main" }}
 <div class="row">
 <div class="col-lg-7">
-
-    {{ .Content }}
-    {{ .Render "contact-form" }}
-
+    <section>
+        {{ .Content }}
+        {{ .Render "contact-form" }}
+    </section>
 </div>
 <div class="col-lg-5">
-    <h2>{{ T "mySocialLinks" }}</h2>
-    <div class="list-group">
-        {{ range .Site.Data.contact.details }}
-        <a class="list-group-item list-group-item-action" href="{{ .url }}"><i class="{{ .icon }}"></i>{{ .title }}</a>
-        {{ end }}
-    </div>
+    <section>
+        <h2>{{ T "mySocialLinks" }}</h2>
+        <div class="list-group">
+            {{ range .Site.Data.contact.details }}
+            <a class="list-group-item list-group-item-action list-group-item-iconized" href="{{ .url }}">
+                <div class="list-group-img-32"><i class="{{ .icon }}"></i></div>
+                <div class="list-group-text"><div class="list-group-heading">{{ .title }}</div></div>
+            </a>
+            {{ end }}
+        </div>
+    </section>
 </div>
 </div>
 {{ end }}
