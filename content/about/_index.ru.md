@@ -1,6 +1,7 @@
 ---
 date: "2019-08-01T15:56:13+0200"
 title: Информация
+type: static
 layout: single
 ---
 
