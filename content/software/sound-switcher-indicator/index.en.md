@@ -14,7 +14,11 @@ I created this app because there was just no sound switcher indicator available.
 
 It shows an icon in the indicator area or the system tray (whatever is available in your desktop environment). Icon's menu allows you to switch the current sound input and output (i.e. *source* and *sink* in PulseAudio's terms, respectively) ports with just two clicks:
 
-{{< imgfig "screenshot.png" "Indicator's menu" >}}
+{{< imgfig "screenshot.png" "Indicator's menu." >}}
+
+You can configure various aspects of ports and devices displayed by the menu using the Preferences dialog:
+
+{{< imgfig "prefs-devices.png" "Preferences dialog." >}}
 
 Interested? Read [how to install](https://github.com/yktoo/indicator-sound-switcher/blob/dev/doc/install.md) the indicator.
 

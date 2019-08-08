@@ -16,7 +16,11 @@ seeAlso:
 
 {{< imgfig "screenshot.png" "Меню индикатора" >}}
 
-Нравится? В [этом документе (англ.)](https://github.com/yktoo/indicator-sound-switcher/blob/dev/doc/install.md) объясняется, как его установить.
+Внешний вид устройств и их портов, отображаемых в меню, можно настроить с помощью соответствующего диалога:
+
+{{< imgfig "prefs-devices.png" "Диалог настроек." >}}
+
+Нравится? В [этом документе (англ.)](https://github.com/yktoo/indicator-sound-switcher/blob/dev/doc/install.md) объясняется, как установить это приложение.
 
 ## Скачать
 
