@@ -1,6 +1,7 @@
 - {id: about,             translation: Over}
 - {id: archive,           translation: Archief}
 - {id: authoredBy,        translation: door}
+- {id: blogPosts,         translation: Blogposts}
 - {id: blogSubscribe,     translation: Abonneren}
 - {id: blogSubscribeTo,   translation: Abonneer je op updates}
 - {id: blogSubtitle,      translation: Blog over het Nederlandse leven (en veel andere dingen)}
@@ -10,7 +11,9 @@
 - {id: cookieLink,        translation: Lees hier meer}
 - {id: cookieMessage,     translation: Deze website gebruikt cookies.}
 - {id: copyright,         translation: Auteursrecht ©%.4d—%.4d %s.}
+- {id: docs,              translation: Documentatie}
 - {id: faq,               translation: FAQ}
+- {id: fullDocsAvail,     translation: De volledige projectdocumentatie is beschikbaar}
 - {id: githubIssueTrk,    translation: GitHub Issue Tracker}
 - {id: githubRepo,        translation: GitHub repository}
 - {id: home,              translation: Hoofdpagina}
@@ -39,17 +42,19 @@
 - {id: readOn,            translation: Lees verder »}
 - {id: readOnAt,          translation: Verder lezen op}
 - {id: recentPosts,       translation: Recente berichten}
+- {id: seeAlso,           translation: Zie ook}
 - {id: series,            translation: Serie}
 - {id: seriesPlural,      translation: Serie's}
 - {id: share,             translation: Delen}
 - {id: software,          translation: Software}
 - {id: softwareFor,       translation: '{{ .Key }}-software'}
 - {id: sourceCode,        translation: Broncode}
-- {id: sourceCodeAvailAt, translation: De broncode kan gedownload worden vanuit de}
+- {id: sourceCodeClone,   translation: De meest recente broncode is verkrijgbaar d.m.v. klonen van mijn}
 - {id: subscribeByEmail,  translation: Abonneren via e-mail}
 - {id: subscribeByRSS,    translation: Nieuwsfeed in RSS 2.0-formaat}
 - {id: support,           translation: Ondersteuning}
 - {id: tag,               translation: Tag}
 - {id: tags,              translation: Tags}
 - {id: timeline,          translation: Tijdlijn}
+- {id: viaThisLink,       translation: via deze link}
 - {id: videos,            translation: Video's}

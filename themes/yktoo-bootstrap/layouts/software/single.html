@@ -8,34 +8,71 @@
 {{ define "main" }}
 
 <!-- Render the main page content -->
+<section id="software-content">
 {{ .Content }}
+</section>
 
 <!-- Fetch software properties -->
 {{ $data := index .Site.Data.software.items (urlize .Title) }}
 
 <!-- Downloads -->
 {{ if $data.downloads }}
-<!-- TODO -->
+<section id="software-downloads">
+    <!-- TODO -->
+</section>
+{{ end }}
+
+<!-- Documentation -->
+{{ with $data.fullDocsUrl }}
+<section id="software-docs">
+    <h2>{{ T "docs" }}</h2>
+    <p>{{ T "fullDocsAvail" }} <a href="{{ . }}">{{ T "viaThisLink" }}</a>.</p>
+</section>
 {{ end }}
 
 <!-- License -->
 {{ with $data.license }}
+<section id="software-license">
     <h2>{{ T "license" }}</h2>
     {{ partial (printf "software/license/%s.%s.html" . $.Site.Language) }}
+</section>
 {{ end }}
 
 <!-- Support -->
 {{ with $data.githubUrl }}
+<section id="software-support">
     <h2>{{ T "support" }}</h2>
-    <div class="list-group mb-5">
+    <div class="list-group">
         <a class="list-group-item list-group-item-action" href="{{ . }}"><i class="fab fa-github"></i> {{ T "githubIssueTrk" }}</a>
     </div>
+</section>
 {{ end }}
 
 <!-- Source code -->
 {{ with $data.githubUrl }}
+<section id="software-source">
     <h2>{{ T "sourceCode" }}</h2>
-    <p>{{ T "sourceCodeAvailAt" }} <a href="{{ . }}">{{ T "githubRepo" }}</a>.</p>
+    <p>{{ T "sourceCodeClone" }} <a href="{{ . }}">{{ T "githubRepo" }}</a>:</p>
+    <pre><code>git clone {{ . }}.git</code></pre>
+</section>
+{{ end }}
+
+<!-- See also -->
+{{ $related := .Site.RegularPages.Related . }}
+{{ if or .Params.seeAlso $related }}
+<section id="software-see-also">
+    <h2>{{ T "seeAlso" }}</h2>
+    <ul>
+        {{ range .Params.seeAlso }}<li><a href="{{ .url }}">{{ .name }}</a></li>{{ end }}
+        {{ with $related }}
+        <li><b>{{ T "blogPosts" }}:</b>
+            <ul>
+                {{ range . }}<li><a href="{{ .RelPermalink }}">{{ with .Params.series }}{{ . }} ‣ {{ end }}{{ .Title | markdownify }}</a></li>{{ end }}
+            </ul>
+        </li>
+        {{ end }}
+    </ul>
+</section>
 {{ end }}
 
 {{ end }}

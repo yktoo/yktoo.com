@@ -31,6 +31,15 @@ languages:
         languageName: Nederlands
         params:
 
+# Related indices settings
+related:
+    threshold: 50
+    includeNewer: true
+    toLower: false
+    indices:
+        - name: software
+          weight: 1
+
 permalinks:
     # Arrange blog posts in /blog/post/YYYY/MM/DD-name structure
     blog: /blog/post/:year/:month/:day-:title/

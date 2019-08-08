@@ -1,6 +1,7 @@
 - {id: about,             translation: About}
 - {id: archive,           translation: Archive}
 - {id: authoredBy,        translation: by}
+- {id: blogPosts,         translation: Blog posts}
 - {id: blogSubscribe,     translation: Subscribe}
 - {id: blogSubscribeTo,   translation: Subscribe to updates}
 - {id: blogSubtitle,      translation: Blog about life in Holland (and a lot of other stuff)}
@@ -10,7 +11,9 @@
 - {id: cookieLink,        translation: Learn more.}
 - {id: cookieMessage,     translation: This website uses cookies.}
 - {id: copyright,         translation: Copyright ©%.4d—%.4d %s.}
+- {id: docs,              translation: Documentation}
 - {id: faq,               translation: FAQ}
+- {id: fullDocsAvail,     translation: Full project documentation is available}
 - {id: githubIssueTrk,    translation: GitHub Issue Tracker}
 - {id: githubRepo,        translation: GitHub repository}
 - {id: home,              translation: Home}
@@ -39,17 +42,19 @@
 - {id: readOn,            translation: Read on »}
 - {id: readOnAt,          translation: Continue reading on}
 - {id: recentPosts,       translation: Recent Posts}
+- {id: seeAlso,           translation: See also}
 - {id: series,            translation: Series}
 - {id: seriesPlural,      translation: Series}
 - {id: share,             translation: Share}
 - {id: software,          translation: Software}
 - {id: softwareFor,       translation: '{{ .Key }} software'}
 - {id: sourceCode,        translation: Source code}
-- {id: sourceCodeAvailAt, translation: The source code is available at the project's}
+- {id: sourceCodeClone,   translation: 'To download the latest source code, clone my'}
 - {id: subscribeByEmail,  translation: Subscribe by email}
 - {id: subscribeByRSS,    translation: Feed in RSS 2.0 format}
 - {id: support,           translation: Support}
 - {id: tag,               translation: Tag}
 - {id: tags,              translation: Tags}
 - {id: timeline,          translation: Timeline}
+- {id: viaThisLink,       translation: via this link}
 - {id: videos,            translation: Videos}

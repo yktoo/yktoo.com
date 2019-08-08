@@ -4,6 +4,10 @@ subtitle: Sound input/output selector indicator for Linux.
 platform: linux
 icon: ssi-icon-64.png
 weight: 1
+software: sound-switcher-indicator
+seeAlso:
+    - name: My Launchpad PPA
+      url: 'https://launchpad.net/~yktooo/+archive/ppa'
 ---
 
 I created this app because there was just no sound switcher indicator available.
@@ -21,14 +25,3 @@ If you want to install the indicator, refer to the [installation](https://github
 <!-- TODO List downloads and source code -->
 
 To download the source tarball or a compiled binary package (`.deb`), please check the [Launchpad PPA packages](https://launchpad.net/~yktooo/+archive/ppa/+packages) page.
-
-
-
-
-
-
-
-## See Also
-
-* Мой [Launchpad PPA](https://launchpad.net/~yktooo/+archive/ppa).
-* <?= $this->render('_list_blog_posts', ['download_category_id'=>'snd_sw_indicator']); ?>

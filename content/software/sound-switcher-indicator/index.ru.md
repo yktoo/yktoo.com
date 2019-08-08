@@ -4,6 +4,10 @@ subtitle: Индикатор для выбора входа и выхода зв
 platform: linux
 icon: ssi-icon-64.png
 weight: 1
+software: sound-switcher-indicator
+seeAlso:
+    - name: Мой Launchpad PPA
+      url: 'https://launchpad.net/~yktooo/+archive/ppa'
 ---
 
 Я создал это приложение, потому что не нашёл ни одного существующего решения.
@@ -21,14 +25,3 @@ weight: 1
 <!-- TODO List downloads and source code -->
 
 Скачать source tarball или готовый `.deb`-пакет можно на странице [Launchpad PPA packages](https://launchpad.net/~yktooo/+archive/ppa/+packages).
-
-
-
-
-
-
-
-## См. также
-
-* Мой [Launchpad PPA](https://launchpad.net/~yktooo/+archive/ppa).
-* <?= $this->context->renderPartial('_list_blog_posts', ['download_category_id'=>'snd_sw_indicator']); ?>

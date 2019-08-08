@@ -4,6 +4,7 @@ title: "Sound Switcher Indicator for Ubuntu"
 series: "Sound Switcher Indicator"
 tags: ["GitHub", "indicator", "Launchpad", "Linux", "PulseAudio", "Python", "sound", "Sound Switcher Indicator", "Ubuntu", "Unity"]
 image: "https://3.bp.blogspot.com/-A68LFuAIxlg/UTMgzAqh53I/AAAAAAAAWrg/rlpYgjefo70/s1600/Screenshot.png"
+software: sound-switcher-indicator
 ---
 
 I couldn't take it anymore so I created an audio input/output switcher indicator for Ubuntu.

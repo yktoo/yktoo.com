@@ -3,6 +3,7 @@ date: "2016-09-30T00:00:00Z"
 title: "2.1.0"
 series: "Sound Switcher Indicator"
 tags: ["indicator", "PulseAudio", "Python", "Python 3", "sound", "Sound Switcher Indicator", "Ubuntu", "Unity", "Utopic Unicorn"]
+software: sound-switcher-indicator
 ---
 
 I've been able to pay a bit more attention to the [Sound Switcher Indicator][route:/software/indicator-sound-switcher] and implement some of the long asked-for features.

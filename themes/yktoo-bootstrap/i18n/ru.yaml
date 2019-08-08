@@ -1,15 +1,18 @@
 - {id: about,             translation: О сайте}
 - {id: archive,           translation: Архив}
 - {id: authoredBy,        translation: /}
+- {id: blogPosts,         translation: Посты в блоге}
 - {id: blogSubscribe,     translation: Подписаться}
 - {id: blogSubscribeTo,   translation: Подписаться на обновления}
 - {id: blogSubtitle,      translation: Блог о жизни в Голландии (и многом другом)}
 - {id: blogTitle,         translation: Нидерланды и не только}
 - {id: contact,           translation: Контакт}
 - {id: copyright,         translation: Авторское право ©%.4d—%.4d %s.}
+- {id: docs,              translation: Документация}
 - {id: faq,               translation: FAQ}
+- {id: fullDocsAvail,     translation: Полная документация проекта доступна}
 - {id: githubIssueTrk,    translation: GitHub Issue Tracker}
-- {id: githubRepo,        translation: репозитория GitHub}
+- {id: githubRepo,        translation: репозиторий GitHub}
 - {id: home,              translation: Главная}
 - {id: iAmLegend,         translation: Я легенда}
 - {id: license,           translation: Лицензия}
@@ -35,17 +38,19 @@
 - {id: readOn,            translation: Далее »}
 - {id: readOnAt,          translation: Читать далее на}
 - {id: recentPosts,       translation: Свежие записи}
+- {id: seeAlso,           translation: См. также}
 - {id: series,            translation: Подборка}
 - {id: seriesPlural,      translation: Подборки}
 - {id: share,             translation: Поделиться}
 - {id: software,          translation: Программы}
 - {id: softwareFor,       translation: 'ПО для {{ .Key }}'}
 - {id: sourceCode,        translation: Исходный код}
-- {id: sourceCodeAvailAt, translation: Исходный код проекта можно загрузить из}
+- {id: sourceCodeClone,   translation: 'Чтобы загрузить самую новую версию исходных кодов, склонируйте мой'}
 - {id: subscribeByEmail,  translation: Подписаться по е-мэйлу}
 - {id: subscribeByRSS,    translation: Формат RSS 2.0}
 - {id: support,           translation: Поддержка}
 - {id: tag,               translation: Тег}
 - {id: tags,              translation: Теги}
 - {id: timeline,          translation: Хронология}
+- {id: viaThisLink,       translation: по этой ссылке}
 - {id: videos,            translation: Видео}

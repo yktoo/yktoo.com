@@ -57,7 +57,7 @@ img.article-opener {
     height: auto;
 }
 section {
-    margin-bottom: 1rem;
+    margin-bottom: 2rem;
 }
 
 // Anchors
@@ -114,6 +114,15 @@ td.date {
     .figure-caption {
         margin-bottom: 1rem;
     }
+}
+
+// Pre
+pre {
+    padding: 1rem;
+    margin: 0 0 1rem 0;
+    background-color: #f5f5f5;
+    border: 1px solid $primary-light;
+    border-radius: 4px;
 }
 
 // Navbar
