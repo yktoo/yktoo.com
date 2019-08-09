@@ -20,6 +20,8 @@
 - {id: home,              translation: Home}
 - {id: iAmLegend,         translation: I Am Legend}
 - {id: license,           translation: License}
+- {id: license_gpl3,      translation: GNU General Public License Version 3}
+- {id: license_mpl2,      translation: Mozilla Public License Version 2.0}
 - {id: links,             translation: Links}
 - {id: locale,            translation: en_US}
 - {id: map,               translation: Map}

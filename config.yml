@@ -109,3 +109,6 @@ params:
     copyright:
         from: 2000
         by: Dmitry Kann
+    licenses:
+        gpl3: 'http://www.gnu.org/licenses/gpl.html'
+        mpl2: 'http://mozilla.org/MPL/2.0/'

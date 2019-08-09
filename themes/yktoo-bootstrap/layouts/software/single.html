@@ -53,10 +53,11 @@
 {{ end }}
 
 <!-- License -->
-{{ with $data.license }}
+{{ with $data.licenses }}
 <section id="software-license">
     <h2>{{ T "license" }}</h2>
-    {{ partial (printf "software/license/%s.%s.html" . $.Site.Language) }}
+    <!-- Convert to a slice in case it isn't -->
+    {{ partial (printf "software/license.%s.html" $.Site.Language) (dict "page" $page "licenses" .) }}
 </section>
 {{ end }}
 

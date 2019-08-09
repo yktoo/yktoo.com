@@ -1,15 +1,15 @@
 items:
     sound-switcher-indicator:
         githubUrl: https://github.com/yktoo/indicator-sound-switcher
-        license: gpl3
+        licenses: [gpl3]
 
     docker-indicator:
         githubUrl: https://github.com/yktoo/indicator-docker
-        license: gpl3
+        licenses: [gpl3]
 
     yktools:
         githubUrl: https://github.com/yktoo/yktools
-        license: gpl3
+        licenses: [gpl3]
         fullDocsUrl: https://github.com/yktoo/yktools/wiki
         # All available scripts. NB: hyphens are replaced with a '%E2%80%90' (Unicode hyphen) in Wiki page names,
         # otherwise GitHub would convert them into spaces when displaying.
@@ -68,3 +68,9 @@ items:
                   ru: 'Обновляет дату в EXIF-метаданных JPEG-файлов на основе их имени.'
               url: 'https://github.com/yktoo/yktools/wiki/update%E2%80%90exif%E2%80%90date'
               icon: shell-script-32.png
+
+    phoa:
+        githubUrl: https://github.com/yktoo/phoa
+        licenses:
+            - gpl3
+            - mpl2

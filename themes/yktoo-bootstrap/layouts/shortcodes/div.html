@@ -1,0 +1,4 @@
+<!-- Render a div of the given class(es) -->
+<div class="{{ .Get 0 }}">
+{{ .Inner | markdownify | safeHTML }}
+</div>

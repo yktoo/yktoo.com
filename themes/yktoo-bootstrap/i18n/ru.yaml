@@ -17,6 +17,8 @@
 - {id: home,              translation: Главная}
 - {id: iAmLegend,         translation: Я легенда}
 - {id: license,           translation: Лицензия}
+- {id: license_gpl3,      translation: GNU General Public License версии 3}
+- {id: license_mpl2,      translation: Mozilla Public License версии 2.0}
 - {id: locale,            translation: ru_RU}
 - {id: map,               translation: Карта}
 - {id: mySocialLinks,     translation: Мои соцсети}
