@@ -89,3 +89,7 @@ items:
     oracle-package-editor:
         githubUrl: https://github.com/yktoo/oracle-package-editor
         licenses: [gpl3]
+
+    client-ssi-generator:
+        githubUrl: https://github.com/yktoo/clssigen
+        licenses: [gpl3]
