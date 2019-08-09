@@ -1,4 +1,5 @@
 {{ define "main" }}
+{{ .Content }}
 <div class="row">
     {{- range .Pages.GroupByParam "platform" }}
     <div class="col-md-6">
