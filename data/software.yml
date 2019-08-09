@@ -85,3 +85,7 @@ items:
     dklang-translation-editor:
         githubUrl: https://github.com/yktoo/dkl_traned
         licenses: [lgpl3]
+
+    oracle-package-editor:
+        githubUrl: https://github.com/yktoo/oracle-package-editor
+        licenses: [gpl3]
