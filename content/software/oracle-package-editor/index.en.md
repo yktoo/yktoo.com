@@ -24,7 +24,7 @@ software: oracle-package-editor
 
 {{< imgfig "screenshot-main.png"           "The main program window. The function last clicked in the Navigation pane is highlighted both in the package header and body." >}}
 {{< imgfig "screenshot-connect-dlg.png"    "The Connect to server dialog." >}}
-{{< imgfig "screenshot-replace-dlg.png"    "The Find &amp; Replace dialog." >}}
+{{< imgfig "screenshot-replace-dlg.png"    "The Find & Replace dialog." >}}
 {{< imgfig "screenshot-settings-dlg-1.png" "The program settings dialog, Login tab." >}}
 {{< imgfig "screenshot-settings-dlg-2.png" "The program settings dialog, General tab." >}}
 {{< imgfig "screenshot-settings-dlg-3.png" "The program settings dialog, Editor tab." >}}
