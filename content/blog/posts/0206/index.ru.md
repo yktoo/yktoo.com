@@ -1,8 +1,9 @@
 ---
 date: "2013-12-13T00:00:00Z"
-title: "DKLang Localization Package 4.01  5.0"
+title: "DKLang Localization Package 4.01 и 5.0"
 tags: ["Delphi", "DKLang", "FireMonkey", "GitHub", "интернационализация"]
 image: "https://1.bp.blogspot.com/-lQMvt4uzEB4/UqrhQFuH4-I/AAAAAAAAbAE/idD1wDQ5-8c/s1600/dklang-cross-platform.png"
+software: dklang
 ---
 
 *Поздравляю всех с пятницей, 13-м! [Брюс Миллер](http://rules-of-thumb.com/), текущий мейнтейнер DKLang, принёс отличные новости для дельфистов.*
