@@ -7,14 +7,35 @@
 
 {{ define "main" }}
 
-<!-- Render the main page content -->
-<section id="software-content">
-{{ .Content }}
-</section>
-
 <!-- Fetch software properties -->
 {{ $data := index .Site.Data.software.items (urlize .Title) }}
 {{ $page := . }}
+
+<!-- Render the main page content -->
+<section id="software-content">
+    {{ .Content }}
+
+    <!-- Items -->
+    {{ with $data.items }}
+    <div class="list-group">
+        {{- range . }}
+        <a class="list-group-item list-group-item-action list-group-item-iconized" href="{{ .url }}">
+            <!-- Icon, if any -->
+            {{- with .icon }}{{ with $page.Resources.GetMatch . }}
+            <div class="list-group-img-32"><img src="{{ .RelPermalink }}" alt="Icon"></div>
+            {{- end }}{{ end -}}
+
+            <div class="list-group-text">
+                <!-- Title -->
+                <div class="list-group-heading">{{ .title }}</div>
+                <!-- Subtitle -->
+                {{- with index .description $page.Lang }}<div class="list-group-details">{{ . }}</div>{{ end }}
+            </div>
+        </a>
+        {{- end }}
+    </div>
+    {{ end }}
+</section>
 
 <!-- Downloads -->
 {{ if $data.downloads }}

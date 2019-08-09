@@ -2,6 +2,7 @@
 date: "2012-11-17T00:00:00Z"
 title: "Ubuntu/GNOME 3 XML wallpaper creation"
 tags: ["Gnome", "Linux", "Ubuntu", "Unity", "wallpaper", "yktools"]
+software: yktools
 ---
 
 I already [published]({{< relref "0122" >}}) a script that sets a random image file as desktop wallpaper. It has only one downside: you have to run it every time you want to rotate your wallpaper.

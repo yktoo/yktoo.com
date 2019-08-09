@@ -3,6 +3,7 @@ date: "2011-08-25T00:00:00Z"
 title: "Watermarking pictures for Picasa Web Albums"
 tags: ["Gnome", "Google Picasa", "images", "Linux", "pictures", "Ubuntu", "yktools"]
 image: "https://1.bp.blogspot.com/-oUCn7RhaN3s/TlZ5Mdf-KxI/AAAAAAAAJjE/NlXvkOWxgX4/s1600/56d4c0ff.jpg"
+software: yktools
 ---
 
 ## Preface {#preface}

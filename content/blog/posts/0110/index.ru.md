@@ -3,6 +3,7 @@ date: "2011-08-25T00:00:00Z"
 title: "Надписывание изображений для Picasa Web Albums"
 tags: ["Gnome", "Google Picasa", "Linux", "Ubuntu", "yktools", "картинки"]
 image: "https://1.bp.blogspot.com/-oUCn7RhaN3s/TlZ5Mdf-KxI/AAAAAAAAJjE/NlXvkOWxgX4/s1600/56d4c0ff.jpg"
+software: yktools
 ---
 
 *Несколько переработанная и переведённая [моя статья с Хабра](http://habrahabr.ru/post/122859/).*

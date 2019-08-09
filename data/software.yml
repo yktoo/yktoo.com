@@ -2,7 +2,69 @@ items:
     sound-switcher-indicator:
         githubUrl: https://github.com/yktoo/indicator-sound-switcher
         license: gpl3
+
     docker-indicator:
         githubUrl: https://github.com/yktoo/indicator-docker
         license: gpl3
-        #fullDocsUrl: https://github.com/yktoo/indicator-sound-switcher
+
+    yktools:
+        githubUrl: https://github.com/yktoo/yktools
+        license: gpl3
+        fullDocsUrl: https://github.com/yktoo/yktools/wiki
+        # All available scripts. NB: hyphens are replaced with a '%E2%80%90' (Unicode hyphen) in Wiki page names,
+        # otherwise GitHub would convert them into spaces when displaying.
+        items:
+            - title: generate-wallpaper-xml
+              description:
+                  en: 'Create an XML wallpaper description file for GNOME.'
+                  ru: 'Генерирует XML-файл для автоматической смены обоев в GNOME.'
+              url: 'https://github.com/yktoo/yktools/wiki/generate%E2%80%90wallpaper%E2%80%90xml'
+              icon: shell-script-32.png
+            - title: git-all
+              description:
+                  en: 'Run any Git command on multiple repositories.'
+                  ru: 'Выполняет любую команду Git в нескольких репозиториях сразу.'
+              url: 'https://github.com/yktoo/yktools/wiki/git%E2%80%90all'
+              icon: shell-script-32.png
+            - title: gnome-terminal-profile
+              description:
+                  en: 'Export and import GNOME Terminal profiles.'
+                  ru: 'Инструмент для экспорта и импорта профилей Терминала GNOME.'
+              url: 'https://github.com/yktoo/yktools/wiki/gnome%E2%80%90terminal%E2%80%90profile'
+              icon: shell-script-32.png
+            - title: picasa-upload
+              description:
+                  en: 'Prepare images for publishing on the web (or anywhere else) by scaling and/or watermarking them.'
+                  ru: 'Позволяет массово масштабировать и подписывать изображения, например, для веб-сайта.'
+              url: 'https://github.com/yktoo/yktools/wiki/picasa%E2%80%90upload'
+              icon: shell-script-32.png
+            - title: rewrite-inplace.c
+              description:
+                  en: 'C program to repair performance issues on Samsung 840 EVO SSD.'
+                  ru: 'Программа на C, позволяющая исправлять проблемы со скоростью чтения на Samsung 840 EVO SSD.'
+              url: 'https://github.com/yktoo/yktools/wiki/rewrite%E2%80%90inplace.c'
+              icon: shell-script-32.png
+            - title: rotate-wallpaper
+              description:
+                  en: 'Set a random image file from the predefined directory as a wallpaper.'
+                  ru: 'Устанавливает случайное изображение из заданной папки в качестве обоев.'
+              url: 'https://github.com/yktoo/yktools/wiki/rotate%E2%80%90wallpaper'
+              icon: shell-script-32.png
+            - title: shotwell-thumbs
+              description:
+                  en: '(Re)generate thumbnails for Shotwell.'
+                  ru: '(Пере)создаёт эскизы для Shotwell.'
+              url: 'https://github.com/yktoo/yktools/wiki/shotwell%E2%80%90thumbs'
+              icon: shell-script-32.png
+            - title: touchpad-toggle
+              description:
+                  en: 'Toggle the touchpad on/off.'
+                  ru: 'Включает или выключает тачпад.'
+              url: 'https://github.com/yktoo/yktools/wiki/touchpad%E2%80%90toggle'
+              icon: shell-script-32.png
+            - title: update-exif-date
+              description:
+                  en: 'Updates the EXIF date of a JPEG image according to its file name, for all files in the specified directory.'
+                  ru: 'Обновляет дату в EXIF-метаданных JPEG-файлов на основе их имени.'
+              url: 'https://github.com/yktoo/yktools/wiki/update%E2%80%90exif%E2%80%90date'
+              icon: shell-script-32.png
