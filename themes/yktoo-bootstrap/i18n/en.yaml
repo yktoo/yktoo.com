@@ -21,6 +21,9 @@
 - {id: iAmLegend,         translation: I Am Legend}
 - {id: license,           translation: License}
 - {id: license_gpl3,      translation: GNU General Public License Version 3}
+- {id: license_lgpl21,    translation: GNU Lesser General Public License Version 2.1}
+- {id: license_lgpl3,     translation: GNU Lesser General Public License Version 3}
+- {id: license_mpl11,     translation: Mozilla Public License Version 1.1}
 - {id: license_mpl2,      translation: Mozilla Public License Version 2.0}
 - {id: links,             translation: Links}
 - {id: locale,            translation: en_US}

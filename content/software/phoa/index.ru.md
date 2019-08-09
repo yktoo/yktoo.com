@@ -6,8 +6,8 @@ icon: phoa-icon-64.png
 weight: 1
 software: phoa
 seeAlso:
-    - name: My Launchpad PPA
-      url: 'https://launchpad.net/~yktooo/+archive/ppa'
+    - name: История версий PhoA
+      url: 'https://github.com/yktoo/phoa/blob/master/CHANGELOG.md'
 ---
 
 {{< div "alert alert-warning">}}

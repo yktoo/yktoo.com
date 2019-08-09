@@ -1,0 +1,36 @@
+---
+title: DKLang Translation Editor
+subtitle: Редактор файлов переводов для DKLang Localization Package.
+platform: windows
+icon: dklang-traned-icon-64.png
+weight: 3
+software: dklang
+seeAlso:
+    - name: DKLang Localization Package
+      url: '../dklang-localization-package/'
+---
+
+**DKLang Translation Editor** — графическое приложение для редактирования переводом [DKLang Localization Package]({{< relref "/software/dklang-localization-package" >}}).
+
+## Особенности
+
+* Перевод с использованием словаря (т.&nbsp;н. *Репозитория переводов*).
+* Автоматическая синхронизация записей исходного файла и файла переводов. При открытии проекта отображается информация о добавленных в перевод и удалённых из перевода записях. Также имеется опция автоматического перевода новых записей с помощью Репозитория переводов.
+* Возможность использования дополнительного файла перевода для отображения исходных значений — например, если вы хотите перевести программу, но это удобнее делать не с оригинального языка, а с другого, более близкого к языку перевода.
+* Операции поиска и замены.
+* На любую запись можно поставить закладку, чтобы впоследствии перейти к ней.
+
+## Screenshots
+
+{{< imgfig "screenshot-main.png"                  "Главное окно программы." >}}
+{{< imgfig "screenshot-open-lang-files-dlg.png"   "Диалог открытия языковых файлов." >}}
+{{< imgfig "screenshot-diff-log-dlg.png"          "Диалог обнаруженных различий." >}}
+{{< imgfig "screenshot-find-replace-dlg.png"      "Диалог поиска и замены." >}}
+{{< imgfig "screenshot-replace-prompt-dlg.png"    "Диалог подтверждения замены." >}}
+{{< imgfig "screenshot-translation-props-dlg.png" "Диалог свойств перевода." >}}
+{{< imgfig "screenshot-settings-dlg.png"          "Диалог настроек программы." >}}
+
+## Downloads
+
+<!-- TODO -->
+

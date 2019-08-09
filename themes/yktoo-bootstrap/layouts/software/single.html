@@ -87,7 +87,7 @@
 {{ end }}
 
 <!-- See also -->
-{{ $related := .Site.RegularPages.Related . }}
+{{ $related := where (.Site.RegularPages.Related .) "type" "blog" }}
 {{ if or .Params.seeAlso $related }}
 <section id="software-see-also">
     <h2>{{ T "seeAlso" }}</h2>

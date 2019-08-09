@@ -18,6 +18,9 @@
 - {id: iAmLegend,         translation: Я легенда}
 - {id: license,           translation: Лицензия}
 - {id: license_gpl3,      translation: GNU General Public License версии 3}
+- {id: license_lgpl21,    translation: GNU Lesser General Public License версии 2.1}
+- {id: license_lgpl3,     translation: GNU Lesser General Public License версии 3}
+- {id: license_mpl11,     translation: Mozilla Public License версии 1.1}
 - {id: license_mpl2,      translation: Mozilla Public License версии 2.0}
 - {id: locale,            translation: ru_RU}
 - {id: map,               translation: Карта}

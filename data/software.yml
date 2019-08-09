@@ -74,3 +74,14 @@ items:
         licenses:
             - gpl3
             - mpl2
+
+    dklang-localization-package:
+        githubUrl: https://github.com/yktoo/dklang
+        fullDocsUrl: https://github.com/yktoo/dklang/wiki
+        licenses:
+            - lgpl21
+            - mpl11
+
+    dklang-translation-editor:
+        githubUrl: https://github.com/yktoo/dkl_traned
+        licenses: [lgpl3]

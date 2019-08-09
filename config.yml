@@ -111,4 +111,7 @@ params:
         by: Dmitry Kann
     licenses:
         gpl3: 'http://www.gnu.org/licenses/gpl.html'
+        lgpl21: 'https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html'
+        lgpl3: 'https://www.gnu.org/licenses/lgpl-3.0.html'
+        mpl11: 'http://mozilla.org/MPL/1.1/'
         mpl2: 'http://mozilla.org/MPL/2.0/'
