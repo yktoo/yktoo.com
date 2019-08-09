@@ -35,10 +35,12 @@ Below is a screenshot of Delphi form designer and the new DKLang Translation Sto
 
 [DKLang GitHub repository](https://github.com/yktoo/dklang/) was rearranged into three branches by major version:
 
+{{< table "table" >}}
 | Family | Latest version | GitHub branch                                             | Download                                                                 | IDE support                          | Changelog                                                                          |
 |--------|----------------|-----------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------|------------------------------------------------------------------------------------|
 | 3.x    | 3.01           |[DKLang_v3](https://github.com/yktoo/dklang/tree/DKLang_v3)|[dklang-3.01.zip](https://github.com/yktoo/dklang/archive/dklang-3.01.zip)|Delphi 6; Delphi 7; BDS 2005; BDS 2006|[Changes](https://github.com/yktoo/dklang/wiki/Revision-History#20060822-dklang-301)|
 | 4.x    | 4.01           |[DKLang_v4](https://github.com/yktoo/dklang/tree/DKLang_v4)|[dklang-4.01.zip](https://github.com/yktoo/dklang/archive/dklang-4.01.zip)|Delphi 2009+                          |[Changes](https://github.com/yktoo/dklang/wiki/Revision-History#20131207-dklang-401)|
 | 5.x    | 5.0            |[master](https://github.com/yktoo/dklang/tree/master)      |[dklang-5.0.zip](https://github.com/yktoo/dklang/archive/dklang-5.0.zip)  |Delphi XE5+                           |[Changes](https://github.com/yktoo/dklang/wiki/Revision-History#20131207-dklang-50) |
+{{< /table >}}
 
 The project has also got [wiki-based documentation](https://github.com/yktoo/dklang/wiki). The source code can be downloaded using direct links above or from [GitHub](https://github.com/yktoo/dklang/).

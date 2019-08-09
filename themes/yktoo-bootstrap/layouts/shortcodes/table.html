@@ -1,0 +1,2 @@
+<!-- Render a table of custom class(es), passed as the first argument -->
+{{ replace (markdownify .Inner) "<table>" (printf "<table class=%q>" (.Get 0)) | safeHTML }}

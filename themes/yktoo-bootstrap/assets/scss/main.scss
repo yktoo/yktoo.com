@@ -82,6 +82,14 @@ a {
 }
 
 // Tables
+.table {
+    thead {
+        background-color: $primary-light;
+    }
+}
+.table-narrow {
+    width: auto;
+}
 td.number {
     text-align: right;
     white-space: nowrap;

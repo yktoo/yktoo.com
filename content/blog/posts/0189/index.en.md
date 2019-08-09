@@ -69,6 +69,7 @@ Nonetheless, I'm pretty satisfied with the result. They sound great on any kind 
 
 ## Specifications
 
+{{< table "table" >}}
 | Parameter           | Value                                                                                        |
 |---------------------|----------------------------------------------------------------------------------------------|
 | LF Driver           | 4", polypropylene-coated, magnetically shielded                                              |
@@ -82,6 +83,7 @@ Nonetheless, I'm pretty satisfied with the result. They sound great on any kind 
 | Input sensitivity   | 100 mV pink noise input produces 90 dBA output SPL at 1 meter with volume control at maximum |
 | Dimensions          | 8.75" × 6" × 7.25" (22.2 × 15.2 × 18.4 cm)                                                   |
 | Weight              | 14 lbs. / 6.34 kg                                                                            |
+{{< /table >}}
 
 ## Recap
 

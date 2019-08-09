@@ -47,6 +47,7 @@ But after considering the specifications for *Nest Protect 2* I decided that is 
 
 Since my previous detector was AC-powered, I chose the second option, *Wired*.
 
+{{< table "table" >}}
 |**Sensors**              |
 |-------------------------|---------------------------------------------------------------------------------------------
 |- Smoke sensor           | Split spectrum sensor, 450 and 880 nm wavelength
@@ -64,6 +65,7 @@ Since my previous detector was AC-powered, I chose the second option, *Wired*.
 |Color                    | White, black
 |Dimensions               | 134 × 134 × 38,5 mm (5.3 × 5.3 × 1.5 in)
 |Weight                   | 380 g (14 oz)
+{{< /table >}}
 
 The list of available sensors is impressive. What is it all used for?
 

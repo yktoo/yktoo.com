@@ -38,6 +38,7 @@ The company also mentions the radial pattern with 0.14 mm pitch that "imitates C
 
 The [product page](http://www.mi.com/en/headphonesprohd/specs/) provides the following information:
 
+{{< table "table" >}}
 |Product name             |Mi In-Ear Headphones Pro HD |
 |-------------------------|----------------------------|
 |Model no.                |QTEJ02JY                    |
@@ -52,6 +53,7 @@ The [product page](http://www.mi.com/en/headphonesprohd/specs/) provides the fol
 |Sensitivity              |98 dB                       |
 |Frequency response range |20 - 40,000 Hz              |
 |Standards                |Q / WMSX004-2016            |
+{{< /table >}}
 
 Note the insanely high upper boundary of the frequency range of **40 kHz**. This, however, doesn't mean much because you can only speak of frequency range in the context of the allowed tolerance. It's common to use a tolerance of **±3 dB** (because a volume change of this magnitude is hardly audible), however since it is unspecified, it may be anything, like 6 dB or 12 dB.
 
