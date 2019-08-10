@@ -7,7 +7,7 @@ image: "https://2.bp.blogspot.com/-BibUCaj-gGQ/XDs5PF-gjFI/AAAAAAAAue4/mIDfV0Llk
 software: sound-switcher-indicator
 ---
 
-Пришло время исполнять [обещанное]({{< relref "0342" >}}), так что представляю на ваш суд версию [Sound Switcher Indicator][route:/software/indicator-sound-switcher] **2.2.0**.
+Пришло время исполнять [обещанное]({{< relref "0342" >}}), так что представляю на ваш суд версию [Sound Switcher Indicator]({{< relref "/software/sound-switcher-indicator" >}}) **2.2.0**.
 
 ## Что нового {#whats-new}
 

@@ -6,7 +6,7 @@ tags: ["indicator", "PulseAudio", "Python", "Python 3", "sound", "Sound Switcher
 software: sound-switcher-indicator
 ---
 
-I've been able to pay a bit more attention to the [Sound Switcher Indicator][route:/software/indicator-sound-switcher] and implement some of the long asked-for features.
+I've been able to pay a bit more attention to the [Sound Switcher Indicator]({{< relref "/software/sound-switcher-indicator" >}}) and implement some of the long asked-for features.
 
 <!--more-->
 

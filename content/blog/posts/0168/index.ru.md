@@ -15,7 +15,7 @@ software: yktools
 
 ## Исходный код {#source-code}
 
-Скачать самую свежую версию можно на [странице скрипта][route:/software/yktools,#:generate-wallpaper-xml] на моём сайте.
+Скачать самую свежую версию можно на [странице скрипта]({{< relref "/software/yktools" >}}) на моём сайте.
 
 ## Параметры {#arguments}
 

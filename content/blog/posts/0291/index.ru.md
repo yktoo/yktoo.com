@@ -6,7 +6,7 @@ tags: ["PulseAudio", "Python", "Python 3", "Sound Switcher Indicator", "Ubuntu",
 software: sound-switcher-indicator
 ---
 
-В связи с появлением некоторого количества свободного времени смог уделить больше внимания [Sound Switcher Indicator][route:/software/indicator-sound-switcher] и реализовать ещё кое-что, о чём давно просили.
+В связи с появлением некоторого количества свободного времени смог уделить больше внимания [Sound Switcher Indicator]({{< relref "/software/sound-switcher-indicator" >}}) и реализовать ещё кое-что, о чём давно просили.
 
 <!--more-->
 

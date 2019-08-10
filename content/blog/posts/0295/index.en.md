@@ -6,7 +6,7 @@ tags: ["indicator", "PulseAudio", "Python", "Python 3", "sound", "Sound Switcher
 software: sound-switcher-indicator
 ---
 
-[Sound Switcher Indicator][route:/software/indicator-sound-switcher] is getting more and more intricate and advanced thanks to the never-ending stream of ideas from the users. The majority of changes in the version **2.1.1** pertain to the configuration file (`$HOME/.config/indicator-sound-switcher.json`).
+[Sound Switcher Indicator]({{< relref "/software/sound-switcher-indicator" >}}) is getting more and more intricate and advanced thanks to the never-ending stream of ideas from the users. The majority of changes in the version **2.1.1** pertain to the configuration file (`$HOME/.config/indicator-sound-switcher.json`).
 
 ## What's new
 

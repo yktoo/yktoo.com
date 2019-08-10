@@ -15,7 +15,7 @@ So I decided to create a simple script that generates an XML file for a given se
 
 ## Source code {#source-code}
 
-You can download the latest version at the [script page][route:/software/yktools,#:generate-wallpaper-xml] on my website.
+You can download the latest version at the [script page]({{< relref "/software/yktools" >}}) on my website.
 
 ## Arguments {#arguments}
 

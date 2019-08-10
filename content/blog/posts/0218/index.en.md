@@ -7,7 +7,7 @@ image: "https://1.bp.blogspot.com/-p_jKIQD-wJ4/UvZeMTHsmYI/AAAAAAAAb1g/DYm853qnC
 software: sound-switcher-indicator
 ---
 
-After the [previous]({{< relref "0217" >}}) release of [Sound Switcher Indicator][route:/software/indicator-sound-switcher] an [article](http://www.webupd8.org/2014/02/sound-switcher-ubuntu-indicator.html) about it was posted on Web Upd8. I immediately started getting numerous bug reports, feature requests, questions and comments.
+After the [previous]({{< relref "0217" >}}) release of [Sound Switcher Indicator]({{< relref "/software/sound-switcher-indicator" >}}) an [article](http://www.webupd8.org/2014/02/sound-switcher-ubuntu-indicator.html) about it was posted on Web Upd8. I immediately started getting numerous bug reports, feature requests, questions and comments.
 
 So I found out, for instance, that the indicator is also popular with old Ubuntu versions (up to 12.04).
 
@@ -29,6 +29,6 @@ So I found out, for instance, that the indicator is also popular with old Ubuntu
 
 ## Installation {#installation}
 
-You can install or update the application, as usual, via my Launchpad PPA, see the [installation manual][route:/software/indicator-sound-switcher].
+You can install or update the application, as usual, via my Launchpad PPA, see the [installation manual]({{< relref "/software/sound-switcher-indicator" >}}).
 
 **NB**: since 13.04 (Raring Ringtail) has reached its end-of-life, Launchpad would not accept builds for this system anymore. You can download a GTK+2 based version [here](http://ppa.launchpad.net/yktooo/ppa/ubuntu/pool/main/i/indicator-sound-switcher/).

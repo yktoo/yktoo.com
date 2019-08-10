@@ -7,7 +7,7 @@ image: "https://3.bp.blogspot.com/-atoq96tAwHY/V-f7EJ50TyI/AAAAAAAAnjI/w77tiMI92
 software: sound-switcher-indicator
 ---
 
-It's been more than two years since the last release of the [Sound Switcher Indicator][route:/software/indicator-sound-switcher] (1.2.2). During this period I've been bombarded with [requests](https://github.com/yktoo/indicator-sound-switcher/issues/3) to allow the indicator to switch device profiles, because most sound cards cannot be otherwise switched to their digital ports, like S/PDIF and HDMI.
+It's been more than two years since the last release of the [Sound Switcher Indicator]({{< relref "/software/sound-switcher-indicator" >}}) (1.2.2). During this period I've been bombarded with [requests](https://github.com/yktoo/indicator-sound-switcher/issues/3) to allow the indicator to switch device profiles, because most sound cards cannot be otherwise switched to their digital ports, like S/PDIF and HDMI.
 
 So today I proudly present **Sound Switcher Indicator 2.0.1**, which *finally* supports profile switching:
 
@@ -33,4 +33,4 @@ The above required a lot of reading of [PulseAudio API](https://freedesktop.org/
 
 ## Installation {#installation}
 
-You can install or update the application, as usual, via my Launchpad PPA, see the [installation manual][route:/software/indicator-sound-switcher,#:installation].
+You can install or update the application, as usual, via my Launchpad PPA, see the [installation manual]({{< relref "/software/sound-switcher-indicator" >}}).

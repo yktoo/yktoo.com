@@ -7,7 +7,7 @@ image: "https://3.bp.blogspot.com/-AcxuT-Iu-fQ/Uu4Qsv-K3qI/AAAAAAAAb1E/sXZ4SsxuF
 software: sound-switcher-indicator
 ---
 
-Наконец-то дошли руки выпустить обновление моего [Sound Switcher Indicator][route:/software/indicator-sound-switcher] — версия 1.2.0 позволяет выбирать не только входное/выходное устройство, а ещё и конкретный порт в нём:
+Наконец-то дошли руки выпустить обновление моего [Sound Switcher Indicator]({{< relref "/software/sound-switcher-indicator" >}}) — версия 1.2.0 позволяет выбирать не только входное/выходное устройство, а ещё и конкретный порт в нём:
 {{< imgfig "https://3.bp.blogspot.com/-AcxuT-Iu-fQ/Uu4Qsv-K3qI/AAAAAAAAb1E/sXZ4SsxuFBc/s1600/Screenshot.png" >}}
 
 <!--more-->
@@ -16,4 +16,4 @@ software: sound-switcher-indicator
 
 Основная реализация была написана во время долгого перелёта в [Египет]({{< relref "0209" >}}), в течение которого я очень страдал от отсутствия Интернета и, соответственно, возможности гуглить. Но финальная часть потребовала [консультации](http://stackoverflow.com/questions/20844540/handle-a-signal-in-another-thread-in-python) на StackOverflow и отняла много времени.
 
-Установить или обновить приложение можно, как обычно, через мой Launchpad PPA согласно [инструкции][route:/software/indicator-sound-switcher].
+Установить или обновить приложение можно, как обычно, через мой Launchpad PPA согласно [инструкции]({{< relref "/software/sound-switcher-indicator" >}}).

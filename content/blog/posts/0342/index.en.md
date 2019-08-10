@@ -23,7 +23,7 @@ Moreover, I've become a real *freelancer* (or {{< fl "zzp'er" >}} in Dutch) in A
 
 All in all this year has been quite successful in terms of business; our relationship with the customer is pretty good, I've got nice colleagues, a real good boss (myself), and lots of mind-challenging stuff to research.
 
-Among other things, I've started learning Gnome's {{< wiki "GTK+" "en" "GTK+" >}} widget library, so I'm planning to release an updated [Sound Switcher Indicator][route:software/indicator-sound-switcher] version that features a full-fledged Preferences dialog.
+Among other things, I've started learning Gnome's {{< wiki "GTK+" "en" "GTK+" >}} widget library, so I'm planning to release an updated [Sound Switcher Indicator]({{< relref "/software/sound-switcher-indicator" >}}) version that features a full-fledged Preferences dialog.
 
 ## Travel {#travel}
 

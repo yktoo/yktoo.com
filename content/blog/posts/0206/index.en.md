@@ -8,7 +8,7 @@ software: dklang
 
 *Happy Friday the 13th! [Bruce Miller](http://rules-of-thumb.com/), the current maintainer of DKLang, is bringing great news for Delphi developers.*
 
-It's been five years since [DKLang Localization Package][route:/software/dklang/index] was last revised (time flies!). You might think that it had been abandoned, but no, it did its intended job well enough and it was solid enough that it didn't need an update.
+It's been five years since [DKLang Localization Package]({{< relref "/software/dklang-localization-package" >}}) was last revised (time flies!). You might think that it had been abandoned, but no, it did its intended job well enough and it was solid enough that it didn't need an update.
 
 <!--more-->
 

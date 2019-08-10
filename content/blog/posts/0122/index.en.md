@@ -17,4 +17,4 @@ The only thing to setup in the below script is the path to image files in `dir_w
 
 ## Source code
 
-You can download the latest version on [script page][route:/software/yktools,#:rotate-wallpaper] on my website.
+You can download the latest version on [script page]({{< relref "/software/yktools" >}}) on my website.
