@@ -1,0 +1,23 @@
+{{ define "main" }}
+{{ .Content }}
+
+<!-- List albums -->
+<div class="list-group">
+    {{ range .Pages }}
+    <a class="list-group-item list-group-item-action list-group-item-iconized" href="{{ .RelPermalink }}">
+        <!-- Icon, if any -->
+        {{- $page := . }}
+        {{- with .Params.image }}{{ with $page.Resources.GetMatch . }}
+        <div class="list-group-img-64"><img src="{{ .RelPermalink }}" alt="Icon"></div>
+        {{- end }}{{ end -}}
+
+        <div class="list-group-text">
+            <!-- Title -->
+            <div class="list-group-heading">{{ .Title }}</div>
+            <!-- Subtitle -->
+            <div class="list-group-details">{{ .Params.description }}</div>
+        </div>
+    </a>
+    {{ end }}
+</div>
+{{ end }}

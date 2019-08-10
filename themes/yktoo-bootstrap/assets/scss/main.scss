@@ -113,6 +113,10 @@ td.date {
         padding: 0.5rem 2rem 0.5rem 0.5rem;
         width: 110px;
 
+        img {
+            width: 64px;
+            height: auto;
+        }
         .fa, .fas, .fab {
             font-size: 64px;
         }
@@ -121,6 +125,10 @@ td.date {
         padding: 0.25rem 1rem 0.25rem 0.52rem;
         width: 64px;
 
+        img {
+            width: 32px;
+            height: auto;
+        }
         .fa, .fas, .fab {
             font-size: 32px;
         }
