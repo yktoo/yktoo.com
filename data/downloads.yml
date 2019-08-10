@@ -450,14 +450,14 @@ phoa:
       detail_url: /software/phoa/changelog#1110
       release_date: 2005-08-28
       weight: 1
-      download_url: '/download/phoa/phoa-setup-1.1.10-beta.exe'
+      download_url: 'https://github.com/yktoo/phoa/releases/download/v1.1.10-beta/phoa-setup-1.1.10-beta.exe'
       is_active: true
       is_featured: true
 
     - title:
-          en: '**PhoA** unstable (2005-09-11)'
-          ru: 'Нестабильная версия **PhoA** (2005-09-11)'
-          nl: '**PhoA** unstable (2005-09-11)'
+          en: '**PhoA** unstable 1.1.11-RC'
+          ru: 'Нестабильная версия **PhoA** 1.1.11-RC'
+          nl: '**PhoA** unstable 1.1.11-RC'
       description:
           en: 'The latest development build of **PhoA**. Based on the 1.1.10 beta release. Zip-archived executable.'
           ru: 'Последняя сборка **PhoA**. Основана на версии 1.1.10 beta. Исполняемый файл в архиве zip.'
@@ -465,22 +465,7 @@ phoa:
       detail_url:
       release_date: 2005-09-11
       weight: 100
-      download_url: '/download/phoa/phoa-latest.zip'
-      is_active: true
-      is_featured: false
-
-    - title:
-          en: '**PhoA** 1.1.9'
-          ru: '**PhoA** 1.1.9'
-          nl: '**PhoA** 1.1.9'
-      description:
-          en: 'The stable version of the program. Languages included: **English** (original) and **Russian**.'
-          ru: 'Стабильная версия программы. Содержит языки: **Английский** (основной) и **Русский**.'
-          nl: 'The stable version of the program. Languages included: **English** (original) and **Russian**.'
-      detail_url: /software/phoa/changelog#119
-      release_date: 2005-01-21
-      weight: 3
-      download_url: '/download/phoa/phoa-setup-1.1.9.exe'
+      download_url: 'https://github.com/yktoo/phoa/releases/download/1.1.11-RC/phoa-latest.zip'
       is_active: true
       is_featured: false
 
@@ -504,7 +489,7 @@ phoa:
       detail_url:
       release_date: 2004-06-09
       weight: 4
-      download_url: '/download/phoa/tools/phoadump-0.01.zip'
+      download_url: 'https://github.com/yktoo/phoa/releases/download/1.1.11-RC/phoadump-0.01.zip'
       is_active: true
       is_featured: true
 
@@ -519,7 +504,31 @@ phoa:
       detail_url:
       release_date: 2004-06-09
       weight: 3
-      download_url: '/download/phoa/sdk/phoa-sdk-0.01.zip'
+      download_url: 'https://github.com/yktoo/phoa/releases/download/1.1.11-RC/phoa-sdk-0.01.zip'
+      is_active: true
+      is_featured: true
+
+    - title:
+          en: '**phoaxml** 0.02'
+          ru: '**phoaxml** 0.02'
+          nl: '**phoaxml** 0.02'
+      description:
+          en: |-
+              A simple converter for converting photo album **.phoa** files into **XML** files.
+              Zip-archived executable and source code.
+              Thanks to Max Belugin for writing the initial version.
+          ru: |-
+              Простой конвертер файлов фотоальбома **.phoa** в файлы **XML**.
+              Исполняемый файл и исходный код в архиве zip.
+              Спасибо Максу Белугину за написание начального варианта.
+          nl: |-
+              A simple converter for converting photo album **.phoa** files into **XML** files.
+              Zip-archived executable and source code.
+              Thanks to Max Belugin for writing the initial version.
+      detail_url:
+      release_date: 2004-06-09
+      weight: 6
+      download_url: 'https://github.com/yktoo/phoa/releases/download/1.1.11-RC/phoaxml-0.02.zip'
       is_active: true
       is_featured: true
 
@@ -534,7 +543,7 @@ phoa:
       detail_url:
       release_date: 2004-10-29
       weight: 2
-      download_url: '/download/phoa/tools/phoatrans-setup-1.0.exe'
+      download_url: 'https://github.com/yktoo/phoa/releases/download/1.1.11-RC/phoatrans-setup-1.0.exe'
       is_active: true
       is_featured: true
 
@@ -792,30 +801,6 @@ phoa:
       download_url: '/download/phoa/phoa-deu.chm'
       is_active: true
       is_featured: false
-
-    - title:
-          en: '**phoaxml** 0.02'
-          ru: '**phoaxml** 0.02'
-          nl: '**phoaxml** 0.02'
-      description:
-          en: |-
-              A simple converter for converting photo album **.phoa** files into **XML** files.
-              Zip-archived executable and source code.
-              Thanks to Max Belugin for writing the initial version.
-          ru: |-
-              Простой конвертер файлов фотоальбома **.phoa** в файлы **XML**.
-              Исполняемый файл и исходный код в архиве zip.
-              Спасибо Максу Белугину за написание начального варианта.
-          nl: |-
-              A simple converter for converting photo album **.phoa** files into **XML** files.
-              Zip-archived executable and source code.
-              Thanks to Max Belugin for writing the initial version.
-      detail_url:
-      release_date: 2004-06-09
-      weight: 6
-      download_url: '/download/phoa/tools/phoaxml-0.02.zip'
-      is_active: true
-      is_featured: true
 
 process-explorer:
     - title:
