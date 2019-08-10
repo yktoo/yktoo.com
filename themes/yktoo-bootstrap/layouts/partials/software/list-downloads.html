@@ -19,7 +19,7 @@
             <p class="text-muted">{{ T "releasedOn" }} {{ dateFormat $dateFormat .release_date }}</p>
         </div>
         <div class="col-md-5 text-center">
-            <a class="btn btn-success{{ cond $featured ` btn-lg` `` }}" href="{{ .download_url | absURL }}">
+            <a class="btn btn-success {{ cond $featured `btn-lg` `btn-sm` }}" href="{{ .download_url | absURL }}">
                 <div class="icon"><i class="fas fa-arrow-alt-circle-down"></i></div>
                 <p>{{T "download" }}<br>{{ $title }}</p>
             </a>
