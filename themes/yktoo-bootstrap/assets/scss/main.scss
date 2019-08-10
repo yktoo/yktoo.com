@@ -336,6 +336,36 @@ pre {
     }
 }
 
+// Downloads
+.download {
+    padding: 1.5rem 0.7rem;
+    border-bottom: 1px solid #ccc;
+
+    .btn {
+        min-width: 80%;
+        white-space: normal;
+
+        .icon {
+            font-size: 32px;
+        }
+    }
+
+    &.featured {
+        padding: 1.5rem;
+        background: #f5f5f5;
+        border-top-left-radius: 18px;
+        border-bottom: none;
+
+        .btn {
+            width: 100%;
+
+            .icon {
+                font-size: 64px;
+            }
+        }
+    }
+}
+
 // Misc
 .flang {
     font-style: italic;

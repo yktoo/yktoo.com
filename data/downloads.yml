@@ -1,0 +1,850 @@
+client-ssi-generator:
+    - title:
+          en: '**Client SSI Generator** 1.11'
+          ru: '**Client SSI Generator** 1.11'
+          nl: '**Client SSI Generator** 1.11'
+      description:
+          en: 'The stable version of the program.'
+          ru: 'Стабильная версия программы.'
+          nl: 'The stable version of the program.'
+      detail_url:
+      release_date: 2004-08-12
+      weight: 1
+      download_url: '/download/clssigen/clssigen-setup-1.11.exe'
+      is_active: true
+      is_featured: true
+
+dklang-localization-package:
+    - title:
+          en: 'DKLang Localization Package **5.2**'
+          ru: 'DKLang Localization Package **5.2**'
+          nl: 'DKLang Localization Package **5.2**'
+      description:
+          en: 'Localization API for Delphi XE5+. Supports both VCL and FireMonkey applications (Win32, Win64, iOS, Mac OS X, Android). Zip-archived source code.'
+          ru: 'API для локализации программ, написанных на Delphi XE5+. Поддерживаются как VCL-, так и FireMonkey-приложения (Win32, Win64, iOS, Mac OS X, Android). Исходный код в архиве zip.'
+          nl: 'Localization API for Delphi XE5+. Supports both VCL and FireMonkey applications (Win32, Win64, iOS, Mac OS X, Android). Zip-archived source code.'
+      detail_url: 'https://github.com/yktoo/dklang/wiki/Revision-History#2014521-dklang-52'
+      release_date: 2014-05-21
+      weight: 400
+      download_url: 'https://github.com/yktoo/dklang/archive/dklang-5.2.zip'
+      is_active: true
+      is_featured: true
+
+    - title:
+          en: 'DKLang Localization Package **4.01**'
+          ru: 'DKLang Localization Package **4.01**'
+          nl: 'DKLang Localization Package **4.01**'
+      description:
+          en: 'Localization API for Delphi 2009+. Zip-archived sources.'
+          ru: 'API для локализации программ, написанных на Delphi 2009+. Исходный код в архиве zip.'
+          nl: 'Localization API for Delphi 2009+. Zip-archived sources.'
+      detail_url: 'https://github.com/yktoo/dklang/wiki/Revision-History#20131207-dklang-401'
+      release_date: 2013-12-07
+      weight: 500
+      download_url: 'https://github.com/yktoo/dklang/archive/dklang-4.01.zip'
+      is_active: true
+      is_featured: false
+
+    - title:
+          en: 'Tnt Unicode Controls 2.3.0'
+          ru: 'Tnt Unicode Controls 2.3.0'
+          nl: 'Tnt Unicode Controls 2.3.0'
+      description:
+          en: 'Freeware version of the Tnt Unicode Controls package required by DKLang Localization Package v3.x.'
+          ru: 'Бесплатная версия пакета Tnt Unicode Controls, требуемого DKLang Localization Package v3.x.'
+          nl: 'Freeware version of the Tnt Unicode Controls package required by DKLang Localization Package v3.x.'
+      detail_url:
+      release_date: 2007-09-06
+      weight: 999
+      download_url: '/download/misc/TntUnicodeControls-2.3.0.zip'
+      is_active: true
+      is_featured: false
+
+    - title:
+          en: 'DKLang Localization Package **3.01**'
+          ru: 'DKLang Localization Package **3.01**'
+          nl: 'DKLang Localization Package **3.01**'
+      description:
+          en: |-
+              Localization API for the following versions of Delphi IDE (all with the latest updates applied):
+
+              * Delphi 6
+              * Delphi 7
+              * BDS 2005
+              * BDS 2006
+
+              Zip-archived sources.
+          ru: |-
+              API для локализации программ, написанных следующих версиях Delphi IDE (все с последними доступными обновлениями):
+
+              * Delphi 6
+              * Delphi 7
+              * BDS 2005
+              * BDS 2006
+
+              Исходный код в архиве zip.
+          nl: |-
+              Localization API for the following versions of Delphi IDE (all with the latest updates applied):
+
+              * Delphi 6
+              * Delphi 7
+              * BDS 2005
+              * BDS 2006
+
+              Zip-archived sources.
+      detail_url: 'https://github.com/yktoo/dklang/wiki/Revision-History#20060822-dklang-301'
+      release_date: 2006-08-22
+      weight: 800
+      download_url: 'https://github.com/yktoo/dklang/archive/dklang-3.01.zip'
+      is_active: true
+      is_featured: false
+
+    - title:
+          en: 'Compiled **example applications** from the package 3.0'
+          ru: 'Скомпилированные **приложения-примеры** из пакета 3.0'
+          nl: 'Compiled **example applications** from the package 3.0'
+      description:
+          en: |-
+              Examples compiled from the sources included with the package.
+              Includes translations and source language files so you can try to create your own translations with **DKLang Translation Editor**
+          ru: |-
+              Примеры, скомпилированные из исходных кодов, поставляемых в составе пакета.
+              Включают переводы, а также исходные языковые файлы, на основе которых вы можете пробовать создавать свои переводы с помощью **DKLang Translation Editor**
+          nl: |-
+              Examples compiled from the sources included with the package.
+              Includes translations and source language files so you can try to create your own translations with **DKLang Translation Editor**
+      detail_url:
+      release_date: 2006-08-15
+      weight: 820
+      download_url: '/download/dklang/dklang-examples-3.0.zip'
+      is_active: true
+      is_featured: false
+
+    - title:
+          en: '**Constant converter** from DKLang 2.x'
+          ru: '**Конвертер констант** из DKLang 2.x'
+          nl: '**Constant converter** from DKLang 2.x'
+      description:
+          en: 'Converter for constant resource files saved by package version 2.x. Compiled executable.'
+          ru: 'Конвертер для файлов ресурсов констант, созданных версиями 2.x пакета. Скомпилированный исполняемый файл.'
+          nl: 'Converter for constant resource files saved by package version 2.x. Compiled executable.'
+      detail_url:
+      release_date: 2006-08-12
+      weight: 810
+      download_url: '/download/dklang/DKLang_Converter_v2.exe'
+      is_active: true
+      is_featured: false
+
+dklang-translation-editor:
+    - title:
+          en: '**DKLang Translation Editor** 3.0'
+          ru: '**DKLang Translation Editor** 3.0'
+          nl: '**DKLang Translation Editor** 3.0'
+      description:
+          en: 'Translation editing tool for **DKLang Localization Package**. Setup program.'
+          ru: 'Редактор переводов для **пакета DKLang**. Программа установки.'
+          nl: 'Translation editing tool for **DKLang Localization Package**. Setup program.'
+      detail_url:
+      release_date: 2006-08-12
+      weight: 2
+      download_url: '/download/dklang-traned/dktraned-3.0-setup.exe'
+      is_active: true
+      is_featured: true
+
+    - title:
+          en: '**Slovenian** translation for DKLang Translation Editor v3.0'
+          ru: '**Словенский** перевод для DKLang Translation Editor v3.0'
+          nl: '**Slovenian** translation for DKLang Translation Editor v3.0'
+      description:
+          en: 'Author: Vinko Kastelic'
+          ru: 'Автор: Vinko Kastelic'
+          nl: 'Auteur: Vinko Kastelic'
+      detail_url:
+      release_date: 2017-03-05
+      weight: 1
+      download_url: '/download/dklang-traned/translations/Slovenian.lng'
+      is_active: true
+      is_featured: false
+
+    - title:
+          en: '**Dutch** translation for DKLang Translation Editor v3.0'
+          ru: '**Нидерландский** перевод для DKLang Translation Editor v3.0'
+          nl: '**Dutch** translation for DKLang Translation Editor v3.0'
+      description:
+          en: 'Author: Tom Verlinden'
+          ru: 'Автор: Том Верлинден'
+          nl: 'Auteur: Tom Verlinden'
+      detail_url:
+      release_date: 2016-11-04
+      weight: 1
+      download_url: '/download/dklang-traned/translations/Dutch.lng'
+      is_active: true
+      is_featured: false
+
+    - title:
+          en: '**Portuguese** translation for DKLang Translation Editor v3.0'
+          ru: '**Португальский** перевод для DKLang Translation Editor v3.0'
+          nl: '**Portuguese** translation for DKLang Translation Editor v3.0'
+      description:
+          en: 'Author: Manuela Silva'
+          ru: 'Автор: Manuela Silva'
+          nl: 'Auteur: Manuela Silva'
+      detail_url:
+      release_date: 2014-01-09
+      weight: 1
+      download_url: '/download/dklang-traned/translations/Portuguese.lng'
+      is_active: true
+      is_featured: false
+
+    - title:
+          en: '**Greek** translation for DKLang Translation Editor v3.0'
+          ru: '**Греческий** перевод для DKLang Translation Editor v3.0'
+          nl: '**Greek** translation for DKLang Translation Editor v3.0'
+      description:
+          en: 'Author: <a href="http://www.geogeo.gr/">geogeo.gr</a>'
+          ru: 'Автор: <a href="http://www.geogeo.gr/">geogeo.gr</a>'
+          nl: 'Auteur: <a href="http://www.geogeo.gr/">geogeo.gr</a>'
+      detail_url:
+      release_date: 2013-12-31
+      weight: 1
+      download_url: '/download/dklang-traned/translations/Greek.lng'
+      is_active: true
+      is_featured: false
+
+    - title:
+          en: '**Italian** translation for DKLang Translation Editor v3.0'
+          ru: '**Итальянский** перевод для DKLang Translation Editor v3.0'
+          nl: '**Italian** translation for DKLang Translation Editor v3.0'
+      description:
+          en: 'Authors: Luca Gori, Roberto Boriotti'
+          ru: 'Авторы: Luca Gori, Roberto Boriotti'
+          nl: 'Authors: Luca Gori, Roberto Boriotti'
+      detail_url:
+      release_date: 2013-06-17
+      weight: 1
+      download_url: '/download/dklang-traned/translations/Italian.lng'
+      is_active: true
+      is_featured: false
+
+    - title:
+          en: '**French** translation for DKLang Translation Editor v3.0'
+          ru: '**Французский** перевод для DKLang Translation Editor v3.0'
+          nl: '**French** translation for DKLang Translation Editor v3.0'
+      description:
+          en: 'Author: nickW'
+          ru: 'Автор: nickW'
+          nl: 'Auteur: nickW'
+      detail_url:
+      release_date: 2012-11-18
+      weight: 1
+      download_url: '/download/dklang-traned/translations/French.lng'
+      is_active: true
+      is_featured: false
+
+    - title:
+          en: '**Spanish** translation for DKLang Translation Editor v3.0'
+          ru: '**Испанский** перевод для DKLang Translation Editor v3.0'
+          nl: '**Spanish** translation for DKLang Translation Editor v3.0'
+      description:
+          en: 'Author: Sergi Medina'
+          ru: 'Автор: Sergi Medina'
+          nl: 'Auteur: Sergi Medina'
+      detail_url:
+      release_date: 2010-09-06
+      weight: 1
+      download_url: '/download/dklang-traned/translations/Spanish.lng'
+      is_active: true
+      is_featured: false
+
+    - title:
+          en: '**Slovak** translation for DKLang Translation Editor v3.0'
+          ru: '**Словацкий** перевод для DKLang Translation Editor v3.0'
+          nl: '**Slovak** translation for DKLang Translation Editor v3.0'
+      description:
+          en: 'Author: Maros Susla'
+          ru: 'Автор: Maros Susla'
+          nl: 'Auteur: Maros Susla'
+      detail_url:
+      release_date: 2010-04-25
+      weight: 1
+      download_url: '/download/dklang-traned/translations/Slovak.lng'
+      is_active: true
+      is_featured: false
+
+    - title:
+          en: '**Arabic (Tunisia)** translation for DKLang Translation Editor v3.0'
+          ru: '**Арабский (Тунис)** перевод для DKLang Translation Editor v3.0'
+          nl: '**Arabic (Tunisia)** translation for DKLang Translation Editor v3.0'
+      description:
+          en: 'Author: ali fhoula'
+          ru: 'Автор: ali fhoula'
+          nl: 'Auteur: ali fhoula'
+      detail_url:
+      release_date: 2010-02-19
+      weight: 1
+      download_url: '/download/dklang-traned/translations/Arabic.lng'
+      is_active: true
+      is_featured: false
+
+    - title:
+          en: '**Japanese** translation for DKLang Translation Editor v3.0'
+          ru: '**Японский** перевод для DKLang Translation Editor v3.0'
+          nl: '**Japanese** translation for DKLang Translation Editor v3.0'
+      description:
+          en: 'Author: Naohiko Takasaki'
+          ru: 'Автор: Naohiko Takasaki'
+          nl: 'Auteur: Naohiko Takasaki'
+      detail_url:
+      release_date: 2009-06-10
+      weight: 1
+      download_url: '/download/dklang-traned/translations/Japanese.lng'
+      is_active: true
+      is_featured: false
+
+    - title:
+          en: '**Turkish** translation for DKLang Translation Editor v3.0'
+          ru: '**Турецкий** перевод для DKLang Translation Editor v3.0'
+          nl: '**Turkish** translation for DKLang Translation Editor v3.0'
+      description:
+          en: 'Author: Alper'
+          ru: 'Автор: Alper'
+          nl: 'Auteur: Alper'
+      detail_url:
+      release_date: 2009-02-02
+      weight: 1
+      download_url: '/download/dklang-traned/translations/Turkish.lng'
+      is_active: true
+      is_featured: false
+
+    - title:
+          en: '**Simplified Chinese** translation for DKLang Translation Editor v3.0'
+          ru: '**Китайский (упрощённый)** перевод для DKLang Translation Editor v3.0'
+          nl: '**Simplified Chinese** translation for DKLang Translation Editor v3.0'
+      description:
+          en: 'Author: Yin Zhili'
+          ru: 'Автор: Yin Zhili'
+          nl: 'Auteur: Yin Zhili'
+      detail_url:
+      release_date: 2008-12-01
+      weight: 1
+      download_url: '/download/dklang-traned/translations/zh-ch.lng'
+      is_active: true
+      is_featured: false
+
+    - title:
+          en: '**Catalan** translation for DKLang Translation Editor v3.0'
+          ru: '**Каталанский** перевод для DKLang Translation Editor v3.0'
+          nl: '**Catalan** translation for DKLang Translation Editor v3.0'
+      description:
+          en: 'Author: Juansa'
+          ru: 'Автор: Juansa'
+          nl: 'Auteur: Juansa'
+      detail_url:
+      release_date: 2008-05-06
+      weight: 1
+      download_url: '/download/dklang-traned/translations/Catalan.lng'
+      is_active: true
+      is_featured: false
+
+    - title:
+          en: '**Hungarian** translation for DKLang Translation Editor v3.0'
+          ru: '**Венгерский** перевод для DKLang Translation Editor v3.0'
+          nl: '**Hungarian** translation for DKLang Translation Editor v3.0'
+      description:
+          en: 'Author: Zityi'
+          ru: 'Автор: Zityi'
+          nl: 'Auteur: Zityi'
+      detail_url:
+      release_date: 2008-02-26
+      weight: 1
+      download_url: '/download/dklang-traned/translations/Hungarian.lng'
+      is_active: true
+      is_featured: false
+
+    - title:
+          en: '**Polish** translation for DKLang Translation Editor v3.0'
+          ru: '**Польский** перевод для DKLang Translation Editor v3.0'
+          nl: '**Polish** translation for DKLang Translation Editor v3.0'
+      description:
+          en: 'Author: Everyone'
+          ru: 'Автор: Everyone'
+          nl: 'Auteur: Everyone'
+      detail_url:
+      release_date: 2007-10-31
+      weight: 1
+      download_url: '/download/dklang-traned/translations/Polish.lng'
+      is_active: true
+      is_featured: false
+
+    - title:
+          en: '**German** translation for DKLang Translation Editor v3.0'
+          ru: '**Немецкий** перевод для DKLang Translation Editor v3.0'
+          nl: '**German** translation for DKLang Translation Editor v3.0'
+      description:
+          en: 'Author: Norbert Simon'
+          ru: 'Автор: Norbert Simon'
+          nl: 'Auteur: Norbert Simon'
+      detail_url:
+      release_date: 2007-02-24
+      weight: 1
+      download_url: '/download/dklang-traned/translations/German.lng'
+      is_active: true
+      is_featured: false
+
+    - title:
+          en: '**DKLang Translation Editor** 3.0 Language Source'
+          ru: 'Исходный языковой файл **DKLang Translation Editor** 3.0'
+          nl: '**DKLang Translation Editor** 3.0 Language Source'
+      description:
+          en: 'Source file required for translating **Translation Editor** interface into another language (zip archived). This file is needed for interface translators only.'
+          ru: 'Исходный языковой файл для перевода интерфейса **Translation Editor** на другой язык (архив zip). Файл нужен только переводчикам интерфейса.'
+          nl: 'Source file required for translating **Translation Editor** interface into another language (zip archived). This file is needed for interface translators only.'
+      detail_url:
+      release_date: 2006-08-12
+      weight: 3
+      download_url: '/download/dklang-traned/translations/dktraned-3.0-LangSrc.zip'
+      is_active: true
+      is_featured: false
+
+docker-indicator:
+    - title:
+          en: 'Docker Indicator **0.1.0** source code'
+          ru: 'Исходный код Docker Indicator **0.1.0**'
+          nl: 'Docker Indicator **0.1.0** broncode'
+      description:
+          en: 'A simple application indicator for **Ubuntu** to control Docker containers. Source code in .tar.gz archive.'
+          ru: 'Простое приложение-индикатор для управления контейнерами Docker в **Убунту**. Исходный код в архиве .tar.gz.'
+          nl: 'A simple application indicator for **Ubuntu** to control Docker containers. Source code in .tar.gz archive.'
+      detail_url:
+      release_date: 2017-03-09
+      weight: 100
+      download_url: 'https://github.com/yktoo/indicator-docker/archive/v0.1.0.tar.gz'
+      is_active: true
+      is_featured: true
+
+oracle-package-editor:
+    - title:
+          en: '**PackageEditor** 2.3.0.276'
+          ru: '**PackageEditor** 2.3.0.276'
+          nl: '**PackageEditor** 2.3.0.276'
+      description:
+          en: 'GUI editor for Oracle PL/SQL packages. Setup program.'
+          ru: 'Редактор PL/SQL-пакетов Oracle. Программа установки.'
+          nl: 'GUI editor for Oracle PL/SQL packages. Setup program.'
+      detail_url:
+      release_date: 2002-10-13
+      weight: 1
+      download_url: '/download/oracle-package-editor/pkged-setup-2.3.0.276.exe'
+      is_active: true
+      is_featured: true
+
+phoa:
+    - title:
+          en: '**PhoA** 1.1.10 beta'
+          ru: '**PhoA** 1.1.10 beta'
+          nl: '**PhoA** 1.1.10 beta'
+      description:
+          en: 'The latest beta version of the program. Languages included: **English** (original), **Russian**.'
+          ru: 'Последняя бета-версия программы. Включает языки: **Английский** (основной) и **Русский**.'
+          nl: 'The latest beta version of the program. Languages included: **English** (original), **Russian**.'
+      detail_url: /software/phoa/changelog#1110
+      release_date: 2005-08-28
+      weight: 1
+      download_url: '/download/phoa/phoa-setup-1.1.10-beta.exe'
+      is_active: true
+      is_featured: true
+
+    - title:
+          en: '**PhoA** unstable (2005-09-11)'
+          ru: 'Нестабильная версия **PhoA** (2005-09-11)'
+          nl: '**PhoA** unstable (2005-09-11)'
+      description:
+          en: 'The latest development build of **PhoA**. Based on the 1.1.10 beta release. Zip-archived executable.'
+          ru: 'Последняя сборка **PhoA**. Основана на версии 1.1.10 beta. Исполняемый файл в архиве zip.'
+          nl: 'The latest development build of **PhoA**. Based on the 1.1.10 beta release. Zip-archived executable.'
+      detail_url:
+      release_date: 2005-09-11
+      weight: 100
+      download_url: '/download/phoa/phoa-latest.zip'
+      is_active: true
+      is_featured: false
+
+    - title:
+          en: '**PhoA** 1.1.9'
+          ru: '**PhoA** 1.1.9'
+          nl: '**PhoA** 1.1.9'
+      description:
+          en: 'The stable version of the program. Languages included: **English** (original) and **Russian**.'
+          ru: 'Стабильная версия программы. Содержит языки: **Английский** (основной) и **Русский**.'
+          nl: 'The stable version of the program. Languages included: **English** (original) and **Russian**.'
+      detail_url: /software/phoa/changelog#119
+      release_date: 2005-01-21
+      weight: 3
+      download_url: '/download/phoa/phoa-setup-1.1.9.exe'
+      is_active: true
+      is_featured: false
+
+    - title:
+          en: '**phoadump** 0.01'
+          ru: '**phoadump** 0.01'
+          nl: '**phoadump** 0.01'
+      description:
+          en: |-
+              A simple program that demonstrates the usage of PhoA programming interface (API).
+
+              Zip-archived executable and source code.
+          ru: |-
+              Простейший пример применения программного интерфейса PhoA (API).
+
+              Исполняемый файл и исходный код в архиве zip.
+          nl: |-
+              A simple program that demonstrates the usage of PhoA programming interface (API).
+
+              Zip-archived executable and source code.
+      detail_url:
+      release_date: 2004-06-09
+      weight: 4
+      download_url: '/download/phoa/tools/phoadump-0.01.zip'
+      is_active: true
+      is_featured: true
+
+    - title:
+          en: '**PhoA SDK** 0.01'
+          ru: '**PhoA SDK** 0.01'
+          nl: '**PhoA SDK** 0.01'
+      description:
+          en: 'PhoA Software Development Kit.'
+          ru: 'Комплект для разработки дополнительных инструментов (software development kit).'
+          nl: 'PhoA Software Development Kit.'
+      detail_url:
+      release_date: 2004-06-09
+      weight: 3
+      download_url: '/download/phoa/sdk/phoa-sdk-0.01.zip'
+      is_active: true
+      is_featured: true
+
+    - title:
+          en: '**PhoA Transformer** 1.0'
+          ru: '**PhoA Transformer** 1.0'
+          nl: '**PhoA Transformer** 1.0'
+      description:
+          en: 'A tool for converting PhoA photo albums into XML, HTML and text and back into PhoA using XSLT. Setup program.'
+          ru: 'Инструмент для преобразования фотоальбомов PhoA в XML, HTML и текст и обратно на основе XSLT-шаблонов. Программа установки.'
+          nl: 'A tool for converting PhoA photo albums into XML, HTML and text and back into PhoA using XSLT. Setup program.'
+      detail_url:
+      release_date: 2004-10-29
+      weight: 2
+      download_url: '/download/phoa/tools/phoatrans-setup-1.0.exe'
+      is_active: true
+      is_featured: true
+
+    - title:
+          en: '**Arabic (Tunisia)** translation for PhoA 1.1.10 beta'
+          ru: '**Арабский (Тунис)** перевод для PhoA 1.1.10 beta'
+          nl: '**Arabic (Tunisia)** translation for PhoA 1.1.10 beta'
+      description:
+          en: 'Author: ali fhoula.'
+          ru: 'Автор: ali fhoula.'
+          nl: 'Auteur: ali fhoula.'
+      detail_url:
+      release_date: 2010-01-07
+      weight: 2
+      download_url: '/download/phoa/translations-1.1.10-beta/Arabic-Tunisia.lng'
+      is_active: true
+      is_featured: false
+
+    - title:
+          en: '**Kazakh** translation for PhoA 1.1.10 beta'
+          ru: '**Казахский** перевод для PhoA 1.1.10 beta'
+          nl: '**Kazakh** translation for PhoA 1.1.10 beta'
+      description:
+          en: 'Author: Dauren Sarsenov.'
+          ru: 'Автор: Даурен Сарсенов.'
+          nl: 'Auteur: Dauren Sarsenov.'
+      detail_url:
+      release_date: 2007-05-31
+      weight: 2
+      download_url: '/download/phoa/translations-1.1.10-beta/Kazakh.lng'
+      is_active: true
+      is_featured: false
+
+    - title:
+          en: '**Belarusian** translation for PhoA 1.1.10 beta'
+          ru: '**Белорусский** перевод для PhoA 1.1.10 beta'
+          nl: '**Belarusian** translation for PhoA 1.1.10 beta'
+      description:
+          en: 'Author: dzmitry[li].'
+          ru: 'Автор: dzmitry[li].'
+          nl: 'Auteur: dzmitry[li].'
+      detail_url:
+      release_date: 2006-01-05
+      weight: 2
+      download_url: '/download/phoa/translations-1.1.10-beta/Arabic-Tunisia.lng'
+      is_active: true
+      is_featured: false
+
+    - title:
+          en: '**German** translation for PhoA 1.1.10 beta'
+          ru: '**Немецкий** перевод для PhoA 1.1.10 beta'
+          nl: '**German** translation for PhoA 1.1.10 beta'
+      description:
+          en: 'Author: Arno Krumpholz.'
+          ru: 'Автор: Arno Krumpholz.'
+          nl: 'Auteur: Arno Krumpholz.'
+      detail_url:
+      release_date: 2005-09-08
+      weight: 2
+      download_url: '/download/phoa/translations-1.1.10-beta/German.lng'
+      is_active: true
+      is_featured: false
+
+    - title:
+          en: '**French** translation for PhoA 1.1.10 beta'
+          ru: '**Французский** перевод для PhoA 1.1.10 beta'
+          nl: '**French** translation for PhoA 1.1.10 beta'
+      description:
+          en: 'Author: Dara SARNIRAND.'
+          ru: 'Автор: Dara SARNIRAND.'
+          nl: 'Auteur: Dara SARNIRAND.'
+      detail_url:
+      release_date: 2005-09-07
+      weight: 2
+      download_url: '/download/phoa/translations-1.1.10-beta/French.lng'
+      is_active: true
+      is_featured: false
+
+    - title:
+          en: '**Dutch** translation for PhoA 1.1.10 beta'
+          ru: '**Голландский** перевод для PhoA 1.1.10 beta'
+          nl: '**Dutch** translation for PhoA 1.1.10 beta'
+      description:
+          en: 'Author: Petran Liket.'
+          ru: 'Автор: Petran Liket.'
+          nl: 'Auteur: Petran Liket.'
+      detail_url:
+      release_date: 2005-09-01
+      weight: 2
+      download_url: '/download/phoa/translations-1.1.10-beta/Dutch.lng'
+      is_active: true
+      is_featured: false
+
+    - title:
+          en: '**Italian** translation for PhoA 1.1.10 beta'
+          ru: '**Итальянский** перевод для PhoA 1.1.10 beta'
+          nl: '**Italian** translation for PhoA 1.1.10 beta'
+      description:
+          en: 'Author: Alberto Polizzano.'
+          ru: 'Автор: Alberto Polizzano.'
+          nl: 'Auteur: Alberto Polizzano.'
+      detail_url:
+      release_date: 2005-08-29
+      weight: 2
+      download_url: '/download/phoa/translations-1.1.10-beta/Italian.lng'
+      is_active: true
+      is_featured: false
+
+    - title:
+          en: '**PhoA 1.1.10 beta** Language Source'
+          ru: 'Исходный языковой файл **PhoA 1.1.10 beta**'
+          nl: '**PhoA 1.1.10 beta** Language Source'
+      description:
+          en: 'Source file required for translating **PhoA** interface into another language (zip archived). This file is needed for translators only.'
+          ru: 'Исходный языковой файл для перевода интерфейса **PhoA** на другой язык (архив zip). Файл нужен только переводчикам интерфейса.'
+          nl: 'Source file required for translating **PhoA** interface into another language (zip archived). This file is needed for translators only.'
+      detail_url:
+      release_date: 2005-08-28
+      weight: 1
+      download_url: '/download/phoa/translations-1.1.10-beta/phoa-lang-src-1.1.10-beta.zip'
+      is_active: true
+      is_featured: false
+
+    - title:
+          en: '**French** translation for PhoA 1.1.9'
+          ru: '**Французский** перевод для PhoA 1.1.9'
+          nl: '**French** translation for PhoA 1.1.9'
+      description:
+          en: 'Author: Dara SARNIRAND.'
+          ru: 'Автор: Dara SARNIRAND.'
+          nl: 'Auteur: Dara SARNIRAND.'
+      detail_url:
+      release_date: 2005-08-04
+      weight: 3
+      download_url: '/download/phoa/translations-1.1.9/French.lng'
+      is_active: true
+      is_featured: false
+
+    - title:
+          en: '**Polish** translation for PhoA 1.1.9'
+          ru: '**Польский** перевод для PhoA 1.1.9'
+          nl: '**Polish** translation for PhoA 1.1.9'
+      description:
+          en: 'Author: Zbigniew Pacanowski.'
+          ru: 'Автор: Zbigniew Pacanowski.'
+          nl: 'Auteur: Zbigniew Pacanowski.'
+      detail_url:
+      release_date: 2005-05-14
+      weight: 3
+      download_url: '/download/phoa/translations-1.1.9/Polish.lng'
+      is_active: true
+      is_featured: false
+
+    - title:
+          en: '**German** translation for PhoA 1.1.9'
+          ru: '**Немецкий** перевод для PhoA 1.1.9'
+          nl: '**German** translation for PhoA 1.1.9'
+      description:
+          en: 'Author: Arno Krumpholz.'
+          ru: 'Автор: Arno Krumpholz.'
+          nl: 'Auteur: Arno Krumpholz.'
+      detail_url:
+      release_date: 2005-05-12
+      weight: 3
+      download_url: '/download/phoa/translations-1.1.9/German.lng'
+      is_active: true
+      is_featured: false
+
+    - title:
+          en: '**Czech** translation for PhoA 1.1.9'
+          ru: '**Чешский** перевод для PhoA 1.1.9'
+          nl: '**Czech** translation for PhoA 1.1.9'
+      description:
+          en: 'Author: GVG.'
+          ru: 'Автор: GVG.'
+          nl: 'Auteur: GVG.'
+      detail_url:
+      release_date: 2005-05-03
+      weight: 3
+      download_url: '/download/phoa/translations-1.1.9/Czech.lng'
+      is_active: true
+      is_featured: false
+
+    - title:
+          en: '**Spanish** translation for PhoA 1.1.9'
+          ru: '**Испанский** перевод для PhoA 1.1.9'
+          nl: '**Spanish** translation for PhoA 1.1.9'
+      description:
+          en: 'Author: Jose Antonio.'
+          ru: 'Автор: Jose Antonio.'
+          nl: 'Auteur: Jose Antonio.'
+      detail_url:
+      release_date: 2005-02-28
+      weight: 3
+      download_url: '/download/phoa/translations-1.1.9/Spanish.lng'
+      is_active: true
+      is_featured: false
+
+    - title:
+          en: '**PhoA 1.1.9** Language Source'
+          ru: 'Исходный языковой файл **PhoA 1.1.9**'
+          nl: '**PhoA 1.1.9** Language Source'
+      description:
+          en: 'Source file required for translating **PhoA** interface into another language (zip archived). This file is needed for translators only.'
+          ru: 'Исходный языковой файл для перевода интерфейса **PhoA** на другой язык (архив zip). Файл нужен только переводчикам интерфейса.'
+          nl: 'Source file required for translating **PhoA** interface into another language (zip archived). This file is needed for translators only.'
+      detail_url:
+      release_date: 2005-01-21
+      weight: 2
+      download_url: '/download/phoa/translations-1.1.9/phoa-lang-src-1.1.9.zip'
+      is_active: true
+      is_featured: false
+
+    - title:
+          en: '**Italian** translation for PhoA 1.1.9'
+          ru: '**Итальянский** перевод для PhoA 1.1.9'
+          nl: '**Italian** translation for PhoA 1.1.9'
+      description:
+          en: 'Author: Alberto Polizzano.'
+          ru: 'Автор: Alberto Polizzano.'
+          nl: 'Auteur: Alberto Polizzano.'
+      detail_url:
+      release_date: 2005-01-21
+      weight: 3
+      download_url: '/download/phoa/translations-1.1.9/Italian.lng'
+      is_active: true
+      is_featured: false
+
+    - title:
+          en: '**Dutch** translation for PhoA 1.1.9'
+          ru: '**Голландский** перевод для PhoA 1.1.9'
+          nl: '**Dutch** translation for PhoA 1.1.9'
+      description:
+          en: 'Author: Petran Liket.'
+          ru: 'Автор: Petran Liket.'
+          nl: 'Auteur: Petran Liket.'
+      detail_url:
+      release_date: 2005-01-21
+      weight: 3
+      download_url: '/download/phoa/translations-1.1.9/Dutch.lng'
+      is_active: true
+      is_featured: false
+
+    - title:
+          en: '**PhoA 1.1.1b** help file (*German language*)'
+          ru: 'Файл справки **PhoA 1.1.1b** (*немецкий язык*)'
+          nl: '**PhoA 1.1.1b** help file (*German language*)'
+      description:
+          en: 'Translated by [Peter Sandrini](http://www.petersandrini.net/)'
+          ru: 'Перевод [Peter Sandrini](http://www.petersandrini.net/)'
+          nl: 'Translated by [Peter Sandrini](http://www.petersandrini.net/)'
+      detail_url:
+      release_date: 2004-06-25
+      weight: 1
+      download_url: '/download/phoa/phoa-deu.chm'
+      is_active: true
+      is_featured: false
+
+    - title:
+          en: '**phoaxml** 0.02'
+          ru: '**phoaxml** 0.02'
+          nl: '**phoaxml** 0.02'
+      description:
+          en: |-
+              A simple converter for converting photo album **.phoa** files into **XML** files.
+              Zip-archived executable and source code.
+              Thanks to Max Belugin for writing the initial version.
+          ru: |-
+              Простой конвертер файлов фотоальбома **.phoa** в файлы **XML**.
+              Исполняемый файл и исходный код в архиве zip.
+              Спасибо Максу Белугину за написание начального варианта.
+          nl: |-
+              A simple converter for converting photo album **.phoa** files into **XML** files.
+              Zip-archived executable and source code.
+              Thanks to Max Belugin for writing the initial version.
+      detail_url:
+      release_date: 2004-06-09
+      weight: 6
+      download_url: '/download/phoa/tools/phoaxml-0.02.zip'
+      is_active: true
+      is_featured: true
+
+process-explorer:
+    - title:
+          en: '**ProcessExplorer** 0.02'
+          ru: '**ProcessExplorer** 0.02'
+          nl: '**ProcessExplorer** 0.02'
+      description:
+          en: 'Tool for viewing active processes and modules they use. Zip-archived executable.'
+          ru: 'Инструмент для просмотра запущенных процессов и модулей, ими используемых. Исполняемый файл в архиве zip.'
+          nl: 'Tool for viewing active processes and modules they use. Zip-archived executable.'
+      detail_url:
+      release_date: 2003-04-20
+      weight: 1
+      download_url: '/download/process-explorer/procexp-0.02.zip'
+      is_active: true
+      is_featured: true
+
+sound-switcher-indicator:
+    - title:
+          en: 'Sound Switcher Indicator **2.2.2**'
+          ru: 'Sound Switcher Indicator **2.2.2**'
+          nl: 'Sound Switcher Indicator **2.2.2**'
+      description:
+          en: 'A simple sound input/output switcher indicator application for **Ubuntu 18.04+**. Source code in .tar.gz archive.'
+          ru: 'Простое приложение-индикатор для выбора звукового входа/выхода в **Убунту 18.04 и более поздних**. Исходный код в архиве .tar.gz.'
+          nl: 'A simple sound input/output switcher indicator application for **Ubuntu 18.04+**. Source code in .tar.gz archive.'
+      detail_url: 'https://github.com/yktoo/indicator-sound-switcher/blob/master/debian/changelog'
+      release_date: 2019-07-21
+      weight: 100
+      download_url: 'https://github.com/yktoo/indicator-sound-switcher/archive/v2.2.2.tar.gz'
+      is_active: true
+      is_featured: true

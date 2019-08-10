@@ -22,10 +22,8 @@ seeAlso:
 
 Нравится? В [Этом документе (англ.)](https://github.com/yktoo/indicator-docker/blob/master/INSTALL) объясняется, как его установить.
 
-## Скачать
+## Установка
 
 Если вы хотите установить индикатор, обратитесь к [соответствующему документу](https://github.com/yktoo/indicator-docker/blob/master/INSTALL). Здесь вы можете загрузить последнюю версию исходного кода программы.
-
-<!-- TODO List downloads and source code -->
 
 Скачать {{< fl "source tarball" >}} или готовый `.deb`-пакет можно на странице [Launchpad PPA packages](https://launchpad.net/~yktooo/+archive/ppa/+packages).

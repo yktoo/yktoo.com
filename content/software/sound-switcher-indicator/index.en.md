@@ -22,10 +22,8 @@ You can configure various aspects of ports and devices displayed by the menu usi
 
 Interested? Read [how to install](https://github.com/yktoo/indicator-sound-switcher/blob/dev/doc/install.md) the indicator.
 
-## Download
+## Installation
 
 If you want to install the indicator, refer to the [installation](https://github.com/yktoo/indicator-sound-switcher/blob/dev/doc/install.md) page. Here you can download the latest source code of the application.
-
-<!-- TODO List downloads and source code -->
 
 To download the source tarball or a compiled binary package (`.deb`), please check the [Launchpad PPA packages](https://launchpad.net/~yktooo/+archive/ppa/+packages) page.

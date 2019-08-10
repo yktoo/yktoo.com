@@ -22,10 +22,8 @@ seeAlso:
 
 Нравится? В [этом документе (англ.)](https://github.com/yktoo/indicator-sound-switcher/blob/dev/doc/install.md) объясняется, как установить это приложение.
 
-## Скачать
+## Установка
 
 Если вы хотите установить индикатор, обратитесь к [соответствующему документу](https://github.com/yktoo/indicator-sound-switcher/blob/dev/doc/install.md). Здесь вы можете загрузить последнюю версию исходного кода программы.
-
-<!-- TODO List downloads and source code -->
 
 Скачать {{< fl "source tarball" >}} или готовый `.deb`-пакет можно на странице [Launchpad PPA packages](https://launchpad.net/~yktooo/+archive/ppa/+packages).

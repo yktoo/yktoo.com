@@ -29,8 +29,3 @@ seeAlso:
 {{< imgfig "screenshot-replace-prompt-dlg.png"    "The Replace prompt dialog." >}}
 {{< imgfig "screenshot-translation-props-dlg.png" "The Translation properties dialog." >}}
 {{< imgfig "screenshot-settings-dlg.png"          "The Program settings dialog." >}}
-
-## Downloads
-
-<!-- TODO -->
-

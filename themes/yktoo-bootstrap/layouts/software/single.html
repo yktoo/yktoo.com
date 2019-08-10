@@ -8,8 +8,9 @@
 {{ define "main" }}
 
 <!-- Fetch software properties -->
-{{ $data := index .Site.Data.software.items (urlize .Title) }}
-{{ $page := . }}
+{{- $name := urlize .Title -}}
+{{- $data := index .Site.Data.software.items $name -}}
+{{- $page := . -}}
 
 <!-- Render the main page content -->
 <section id="software-content">
@@ -38,9 +39,10 @@
 </section>
 
 <!-- Downloads -->
-{{ if $data.downloads }}
+{{ if $data.showDownloads }}
 <section id="software-downloads">
-    <!-- TODO -->
+    <h2>{{ T "downloads" }}</h2>
+    {{ partial "software/list-downloads.html" (dict "page" $page "category" $name) }}
 </section>
 {{ end }}
 

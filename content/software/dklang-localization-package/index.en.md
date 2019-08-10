@@ -32,8 +32,3 @@ seeAlso:
 
 * [Dmitry Kann](https://yktoo.com/) — original concept and initial developer.
 * [Bruce J. Miller](http://rules-of-thumb.com/) — current developer (as of version 4).
-
-## Downloads
-
-<!-- TODO -->
-

@@ -9,6 +9,8 @@
 - {id: contact,           translation: Контакт}
 - {id: copyright,         translation: Авторское право ©%.4d—%.4d %s.}
 - {id: docs,              translation: Документация}
+- {id: download,          translation: Скачать}
+- {id: downloads,         translation: Скачать}
 - {id: faq,               translation: FAQ}
 - {id: fullDocsAvail,     translation: Полная документация проекта доступна}
 - {id: githubIssueTrk,    translation: GitHub Issue Tracker}
@@ -44,6 +46,7 @@
 - {id: readOn,            translation: Далее »}
 - {id: readOnAt,          translation: Читать далее на}
 - {id: recentPosts,       translation: Свежие записи}
+- {id: releasedOn,        translation: Опубликовано}
 - {id: seeAlso,           translation: См. также}
 - {id: series,            translation: Подборка}
 - {id: seriesPlural,      translation: Подборки}

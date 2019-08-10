@@ -1,0 +1,30 @@
+<!-- Render downloads for a specific category. Context:
+    page     - page being rendered
+    category - category whose downloads to list
+-->
+{{- $page := .page -}}
+{{- $items := index $page.Site.Data.downloads .category -}}
+{{- $dateFormat := default "Mon Jan 2, 2006" (index $page.Site.Params "date_format") -}}
+
+<!-- First list featured, then others -->
+{{ range slice true false }}
+{{ $featured := . }}
+{{ range where $items "is_featured" $featured }}
+{{ $title := index .title $page.Lang | markdownify }}
+<div class="download{{ cond $featured ` featured` ``}} container-fluid">
+    <div class="row">
+        <div class="col-md-7">
+            <p class="{{ cond $featured `h3` `h4` }}">{{ $title }}</p>
+            <p>{{ index .description $page.Lang | markdownify }}</p>
+            <p class="text-muted">{{ T "releasedOn" }} {{ dateFormat $dateFormat .release_date }}</p>
+        </div>
+        <div class="col-md-5 text-center">
+            <a class="btn btn-success{{ cond $featured ` btn-lg` `` }}" href="{{ .download_url | absURL }}">
+                <div class="icon"><i class="fas fa-arrow-alt-circle-down"></i></div>
+                <p>{{T "download" }}<br>{{ $title }}</p>
+            </a>
+        </div>
+    </div>
+</div>
+{{ end }}
+{{ end }}

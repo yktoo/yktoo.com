@@ -29,8 +29,3 @@ seeAlso:
 {{< imgfig "screenshot-replace-prompt-dlg.png"    "Диалог подтверждения замены." >}}
 {{< imgfig "screenshot-translation-props-dlg.png" "Диалог свойств перевода." >}}
 {{< imgfig "screenshot-settings-dlg.png"          "Диалог настроек программы." >}}
-
-## Downloads
-
-<!-- TODO -->
-

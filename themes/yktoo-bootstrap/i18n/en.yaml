@@ -12,6 +12,8 @@
 - {id: cookieMessage,     translation: This website uses cookies.}
 - {id: copyright,         translation: Copyright ©%.4d—%.4d %s.}
 - {id: docs,              translation: Documentation}
+- {id: download,          translation: Download}
+- {id: downloads,         translation: Downloads}
 - {id: faq,               translation: FAQ}
 - {id: fullDocsAvail,     translation: Full project documentation is available}
 - {id: githubIssueTrk,    translation: GitHub Issue Tracker}
@@ -48,6 +50,7 @@
 - {id: readOn,            translation: Read on »}
 - {id: readOnAt,          translation: Continue reading on}
 - {id: recentPosts,       translation: Recent Posts}
+- {id: releasedOn,        translation: Released on}
 - {id: seeAlso,           translation: See also}
 - {id: series,            translation: Series}
 - {id: seriesPlural,      translation: Series}

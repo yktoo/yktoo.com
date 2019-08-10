@@ -22,10 +22,8 @@ Here's a screenshot:
 
 Interested? Read [how to install](https://github.com/yktoo/indicator-docker/blob/master/INSTALL) the indicator.
 
-## Download
+## Installation
 
 If you want to install the indicator, refer to the [installation](https://github.com/yktoo/indicator-docker/blob/master/INSTALL) page. Here you can download the latest source code of the application.
-
-<!-- TODO List downloads and source code -->
 
 To download the source tarball or a compiled binary package (`.deb`), please check the [Launchpad PPA packages](https://launchpad.net/~yktooo/+archive/ppa/+packages) page.

@@ -2,15 +2,18 @@ items:
     sound-switcher-indicator:
         githubUrl: https://github.com/yktoo/indicator-sound-switcher
         licenses: [gpl3]
+        showDownloads: true
 
     docker-indicator:
         githubUrl: https://github.com/yktoo/indicator-docker
         licenses: [gpl3]
+        showDownloads: true
 
     yktools:
         githubUrl: https://github.com/yktoo/yktools
         licenses: [gpl3]
         fullDocsUrl: https://github.com/yktoo/yktools/wiki
+        showDownloads: false
         # All available scripts. NB: hyphens are replaced with a '%E2%80%90' (Unicode hyphen) in Wiki page names,
         # otherwise GitHub would convert them into spaces when displaying.
         items:
@@ -74,6 +77,7 @@ items:
         licenses:
             - gpl3
             - mpl2
+        showDownloads: true
 
     dklang-localization-package:
         githubUrl: https://github.com/yktoo/dklang
@@ -81,15 +85,19 @@ items:
         licenses:
             - lgpl21
             - mpl11
+        showDownloads: true
 
     dklang-translation-editor:
         githubUrl: https://github.com/yktoo/dkl_traned
         licenses: [lgpl3]
+        showDownloads: true
 
     oracle-package-editor:
         githubUrl: https://github.com/yktoo/oracle-package-editor
         licenses: [gpl3]
+        showDownloads: true
 
     client-ssi-generator:
         githubUrl: https://github.com/yktoo/clssigen
         licenses: [gpl3]
+        showDownloads: true
