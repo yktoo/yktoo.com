@@ -16,6 +16,5 @@ software: process-explorer
 
 ## Requirements
 
-Process Explorer uses ToolHelp API functions, which allows it to run under Windows 95/98/ME/2000/XP, but *not NT 4*.
-
-In order to compile the program from source, you will need a shareware *Toolbar 2000* component library by [Jordan Russel](http://www.jrsoftware.org/).
+* Process Explorer uses ToolHelp API functions, which allows it to run under Windows 95/98/ME/2000/XP, but *not NT 4*.
+* In order to compile the program from source, you will need a shareware *Toolbar 2000* component library by [Jordan Russel](http://www.jrsoftware.org/).

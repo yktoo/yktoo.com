@@ -13,9 +13,11 @@ software: client-ssi-generator
 
 ## Скриншоты
 
-{{< imgfig "screenshot-main.png"                "Главное окно программы." >}}
-{{< imgfig "screenshot-project-options-dlg.png" "Диалог опций проекта." >}}
-{{< imgfig "screenshot-settings-dlg.png"        "Диалог настроек программы." >}}
+{{< carousel >}}
+    screenshot-main.png                Главное окно программы.
+    screenshot-project-options-dlg.png Диалог опций проекта.
+    screenshot-settings-dlg.png        Диалог настроек программы.
+{{< /carousel >}}
 
 ## Системные требования
 

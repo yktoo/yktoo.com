@@ -22,11 +22,13 @@ software: oracle-package-editor
 
 ## Screenshots
 
-{{< imgfig "screenshot-main.png"           "The main program window. The function last clicked in the Navigation pane is highlighted both in the package header and body." >}}
-{{< imgfig "screenshot-connect-dlg.png"    "The Connect to server dialog." >}}
-{{< imgfig "screenshot-replace-dlg.png"    "The Find & Replace dialog." >}}
-{{< imgfig "screenshot-settings-dlg-1.png" "The program settings dialog, Login tab." >}}
-{{< imgfig "screenshot-settings-dlg-2.png" "The program settings dialog, General tab." >}}
-{{< imgfig "screenshot-settings-dlg-3.png" "The program settings dialog, Editor tab." >}}
-{{< imgfig "screenshot-settings-dlg-4.png" "The program settings dialog, Highlight tab." >}}
-{{< imgfig "screenshot-settings-dlg-5.png" "The program settings dialog, Key bindings tab." >}}
+{{< carousel >}}
+    screenshot-main.png           The main program window. The function last clicked in the Navigation pane is highlighted both in the package header and body.
+    screenshot-connect-dlg.png    The Connect to server dialog.
+    screenshot-replace-dlg.png    The Find & Replace dialog.
+    screenshot-settings-dlg-1.png The program settings dialog, Login tab.
+    screenshot-settings-dlg-2.png The program settings dialog, General tab.
+    screenshot-settings-dlg-3.png The program settings dialog, Editor tab.
+    screenshot-settings-dlg-4.png The program settings dialog, Highlight tab.
+    screenshot-settings-dlg-5.png The program settings dialog, Key bindings tab.
+{{< /carousel >}}

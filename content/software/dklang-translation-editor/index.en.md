@@ -22,10 +22,12 @@ seeAlso:
 
 ## Screenshots
 
-{{< imgfig "screenshot-main.png"                  "The main program window." >}}
-{{< imgfig "screenshot-open-lang-files-dlg.png"   "The Open language files dialog." >}}
-{{< imgfig "screenshot-diff-log-dlg.png"          "The Differences found dialog." >}}
-{{< imgfig "screenshot-find-replace-dlg.png"      "The Find & Replace dialog." >}}
-{{< imgfig "screenshot-replace-prompt-dlg.png"    "The Replace prompt dialog." >}}
-{{< imgfig "screenshot-translation-props-dlg.png" "The Translation properties dialog." >}}
-{{< imgfig "screenshot-settings-dlg.png"          "The Program settings dialog." >}}
+{{< carousel >}}
+    screenshot-main.png                  The main program window.
+    screenshot-open-lang-files-dlg.png   The Open language files dialog.
+    screenshot-diff-log-dlg.png          The Differences found dialog.
+    screenshot-find-replace-dlg.png      The Find & Replace dialog.
+    screenshot-replace-prompt-dlg.png    The Replace prompt dialog.
+    screenshot-translation-props-dlg.png The Translation properties dialog.
+    screenshot-settings-dlg.png          The Program settings dialog.
+{{< /carousel >}}

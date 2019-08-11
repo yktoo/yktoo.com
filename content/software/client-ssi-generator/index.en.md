@@ -13,9 +13,11 @@ SSI mechanism is quite useful for creating consistent website design. You define
 
 ## Screenshots
 
-{{< imgfig "screenshot-main.png"                "The main program window." >}}
-{{< imgfig "screenshot-project-options-dlg.png" "The Project options dialog." >}}
-{{< imgfig "screenshot-settings-dlg.png"        "The program settings dialog." >}}
+{{< carousel >}}
+    screenshot-main.png                The main program window.
+    screenshot-project-options-dlg.png The Project options dialog.
+    screenshot-settings-dlg.png        The program settings dialog.
+{{< /carousel >}}
 
 ## Requirements
 

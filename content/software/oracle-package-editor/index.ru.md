@@ -22,11 +22,13 @@ software: oracle-package-editor
 
 ## Скриншоты
 
-{{< imgfig "screenshot-main.png"           "Главное окно программы. Функция, которую выделили в окне навигации, подсвечена жёлтым в заголовке и теле пакета." >}}
-{{< imgfig "screenshot-connect-dlg.png"    "Диалог подключения к серверу." >}}
-{{< imgfig "screenshot-replace-dlg.png"    "Диалог поиска и замены." >}}
-{{< imgfig "screenshot-settings-dlg-1.png" "Диалог настроек программы, вкладка Login." >}}
-{{< imgfig "screenshot-settings-dlg-2.png" "Диалог настроек программы, вкладка General." >}}
-{{< imgfig "screenshot-settings-dlg-3.png" "Диалог настроек программы, вкладка Editor." >}}
-{{< imgfig "screenshot-settings-dlg-4.png" "Диалог настроек программы, вкладка Highlight." >}}
-{{< imgfig "screenshot-settings-dlg-5.png" "Диалог настроек программы, вкладка Key bindings." >}}
+{{< carousel >}}
+    screenshot-main.png           Главное окно программы. Функция, которую выделили в окне навигации, подсвечена жёлтым в заголовке и теле пакета.
+    screenshot-connect-dlg.png    Диалог подключения к серверу.
+    screenshot-replace-dlg.png    Диалог поиска и замены.
+    screenshot-settings-dlg-1.png Диалог настроек программы, вкладка Login.
+    screenshot-settings-dlg-2.png Диалог настроек программы, вкладка General.
+    screenshot-settings-dlg-3.png Диалог настроек программы, вкладка Editor.
+    screenshot-settings-dlg-4.png Диалог настроек программы, вкладка Highlight.
+    screenshot-settings-dlg-5.png Диалог настроек программы, вкладка Key bindings.
+{{< /carousel >}}
