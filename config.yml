@@ -46,13 +46,15 @@ permalinks:
     # Nest tags and series under /blog/
     tags: /blog/tags/:title/
     series: /blog/series/:title/
-    # Radiolaria music tracks
-    music-tracks: /radiolaria/tracks/:title/
+    # Radiolaria music albums and tracks
+    musicAlbums: /radiolaria/:title/
+    musicTracks: /radiolaria/tracks/:title/
 
 taxonomies:
     tag: tags
     series: series
-    music-track: music-tracks
+    musicAlbum: musicAlbums
+    musicTrack: musicTracks
 
 menu:
     nav:

@@ -1,0 +1,34 @@
+{{ define "main" }}
+{{ .Content }}
+
+<!-- List albums -->
+<section id="radiolaria-albums">
+    <div class="list-group">
+        {{ range .Site.Taxonomies.musicAlbums.Pages }}
+        <a class="list-group-item list-group-item-action list-group-item-iconized" href="{{ .RelPermalink }}">
+            <!-- Icon, if any -->
+            {{- $page := . }}
+            {{- with .Params.image }}{{ with $page.Resources.GetMatch . }}
+            <div class="list-group-img-64"><img src="{{ .RelPermalink }}" alt="Icon"></div>
+            {{- end }}{{ end -}}
+
+            <div class="list-group-text">
+                <!-- Title -->
+                <div class="list-group-heading">{{ .Title }}</div>
+                <!-- Subtitle -->
+                <div class="list-group-details">{{ .Params.description }}</div>
+            </div>
+        </a>
+        {{ end }}
+    </div>
+</section>
+
+<section id="radiolaria-see-also">
+    <h2 id="see-also">{{ T "seeAlso" }}</h2>
+    <ul>
+        {{ with .GetPage "/radiolaria/tracks" }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+    </ul>
+</section>
+{{ end }}

@@ -1,0 +1,11 @@
+{{ define "main" }}
+{{ .Content }}
+<ol>
+{{ range .Pages }}
+    <li>
+        {{ .Title }}
+        {{ with .Params.length }}{{ printf "%d:%.2d" (div . 60) (mod . 60) }}{{ end }}
+    </li>
+{{ end }}
+</ol>
+{{ end }}
