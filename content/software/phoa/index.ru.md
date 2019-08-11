@@ -34,23 +34,25 @@ seeAlso:
 
 ## Скриншоты
 
-{{< imgfig "screenshot-browse-mode.png" "Основной режим" >}}
-{{< imgfig "screenshot-browse-mode-view.png" "Режим представления" >}}
-{{< imgfig "screenshot-add-files-pg1.png" "Добавление изображений: выбор файлов и папок" >}}
-{{< imgfig "screenshot-add-files-pg2.png" "Добавление изображений: выбор отдельных файлов" >}}
-{{< imgfig "screenshot-add-files-pg3.png" "Добавление изображений: процесс добавления" >}}
-{{< imgfig "screenshot-pic-props-pg1.png" "Свойства файлов изображений" >}}
-{{< imgfig "screenshot-pic-props-pg2.png" "Метаданные изображений" >}}
-{{< imgfig "screenshot-pic-props-pg3.png" "Просмотр изображений" >}}
-{{< imgfig "screenshot-pic-props-pg4.png" "Данные изображений" >}}
-{{< imgfig "screenshot-pic-props-pg5.png" "Ключевые слова" >}}
-{{< imgfig "screenshot-pic-props-pg6.png" "Принадлежность изображений группам" >}}
-{{< imgfig "screenshot-find.png" "Окно поиска" >}}
-{{< imgfig "screenshot-sort-pics.png" "Критерии сортировки изображений" >}}
-{{< imgfig "screenshot-view-props.png" "Свойства представления" >}}
-{{< imgfig "screenshot-setup-pg1.png" "Общие настройки" >}}
-{{< imgfig "screenshot-setup-pg2.png" "Настройки режима обзора" >}}
-{{< imgfig "screenshot-setup-pg3.png" "Настройки режима просмотра" >}}
-{{< imgfig "screenshot-setup-pg4.png" "Настройки диалогов" >}}
-{{< imgfig "screenshot-rebuild-thumbs.png" "Диалог перестройки эскизов" >}}
-{{< imgfig "screenshot-stats.png" "Диалог статистики" >}}
+{{< carousel >}}
+    screenshot-browse-mode.png      Основной режим
+    screenshot-browse-mode-view.png Режим представления
+    screenshot-add-files-pg1.png    Добавление изображений: выбор файлов и папок
+    screenshot-add-files-pg2.png    Добавление изображений: выбор отдельных файлов
+    screenshot-add-files-pg3.png    Добавление изображений: процесс добавления
+    screenshot-pic-props-pg1.png    Свойства файлов изображений
+    screenshot-pic-props-pg2.png    Метаданные изображений
+    screenshot-pic-props-pg3.png    Просмотр изображений
+    screenshot-pic-props-pg4.png    Данные изображений
+    screenshot-pic-props-pg5.png    Ключевые слова
+    screenshot-pic-props-pg6.png    Принадлежность изображений группам
+    screenshot-find.png             Окно поиска
+    screenshot-sort-pics.png        Критерии сортировки изображений
+    screenshot-view-props.png       Свойства представления
+    screenshot-setup-pg1.png        Общие настройки
+    screenshot-setup-pg2.png        Настройки режима обзора
+    screenshot-setup-pg3.png        Настройки режима просмотра
+    screenshot-setup-pg4.png        Настройки диалогов
+    screenshot-rebuild-thumbs.png   Диалог перестройки эскизов
+    screenshot-stats.png            Диалог статистики
+{{< /carousel >}}

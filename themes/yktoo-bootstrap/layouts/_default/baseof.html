@@ -17,9 +17,7 @@
     <title>{{ block "title" . }}{{ with .Title }}{{ . | markdownify }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
 
     <!-- Stylesheets -->
-    <link href="{{ (resources.Get `scss/main.scss` | toCSS    | minify).Permalink }}" rel="stylesheet">
-    <link href="{{ (resources.Get `fontawesome-5.1.0/all.css` | minify).Permalink }}" rel="stylesheet">
-    <link href="{{ (resources.Get `css/sharingbuttons.css`    | minify).Permalink }}" rel="stylesheet">
+    {{ partial "stylesheets.html" . }}
 
     <!-- RSS feed -->
     {{ with .OutputFormats.Get "rss" -}}

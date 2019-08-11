@@ -1,0 +1,47 @@
+<!-- Render a Bootstrap carousel for images provided as the inner content, in lines, with an optional description after a space -->
+{{ $id := print "carousel-" (md5 .Inner) }}
+<div id="{{ $id }}" class="carousel slide" data-ride="carousel">
+    <div class="carousel-inner">
+        <!-- Iterate the inner text line by line -->
+        {{ $idx := 0 }}
+        {{ range $row := split .Inner "\n" }}
+            <!-- Skip over empty rows -->
+            {{ $row = trim $row " " }}
+            {{ if gt (len $row) 0 }}
+                <!-- Extract and validate the image reference -->
+                {{ $url := findRE "^[^ ]+" $row 1 }}
+                {{ if eq (len $url) 0 }}{{ errorf "Failed to find an image path in %q (line %d)" $row (add $idx 1) }}{{ end }}
+                {{ $url = index $url 0 }}
+
+                <!-- If it isn't a URL starting with "http(s)://", consider it a page resource -->
+                {{- if not (or (hasPrefix $url "http://") (hasPrefix $url "https://")) -}}
+                    {{- $url = ($.Page.Resources.GetMatch $url).RelPermalink -}}
+                {{- end -}}
+
+                <!-- Extract the description, if any -->
+                {{ $desc := findRE " +.*$" $row 1 }}
+                {{ $desc = cond (eq (len $desc) 0) nil (trim (index $desc 0) " ")}}
+
+                <!-- Render a carousel item -->
+                <div class="carousel-item text-center{{ cond (eq $idx 0) ` active` `` }}">
+                    <img src="{{ $url }}" alt="">
+                    <!-- Render the description, if any -->
+                    {{ with $desc }}
+                    <div class="carousel-caption">
+                        <p>{{ . | markdownify }}</p>
+                    </div>
+                    {{ end }}
+                </div>
+                {{ $idx = add $idx 1 }}
+            {{ end }}
+        {{ end }}
+    </div>
+    <a class="carousel-control-prev" href="#{{ $id }}" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#{{ $id }}" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
+</div>
