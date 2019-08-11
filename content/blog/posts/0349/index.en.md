@@ -17,7 +17,7 @@ KNMI, the Royal Netherlands Meteorological Institute, first [reported](https://t
 
 The current official heat record was registered yesterday, 25 July 2019, in {{< fl "Gilze-Rijen" >}} and equals **40.7 °C**:
 
-{{< tweet 1154429975216283648 >}}
+{{< imgfig "tweet-1154429975216283648.png" >}}
 
 The air temperature has surpassed the 40 degrees mark in many places yesterday. This has never happened before.
 
