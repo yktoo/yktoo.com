@@ -27,9 +27,7 @@
                     <img src="{{ $url }}" alt="">
                     <!-- Render the description, if any -->
                     {{ with $desc }}
-                    <div class="carousel-caption">
-                        <p>{{ . | markdownify }}</p>
-                    </div>
+                    <div class="carousel-caption">{{ . | markdownify }}</div>
                     {{ end }}
                 </div>
                 {{ $idx = add $idx 1 }}
