@@ -10,12 +10,6 @@ seeAlso:
       url: 'https://github.com/yktoo/phoa/blob/master/CHANGELOG.md'
 ---
 
-{{< div "alert alert-warning">}}
-#### Important:
-
-This software has been discontinued. Its latest version (**1.1.10 beta**) has been released on August 28, 2005, and it is most likely to remain the last available version, unless someone else will be interested in program development.
-{{< /div >}}
-
 ## Features
 
 * Support for a multitude of image formats.

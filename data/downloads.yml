@@ -345,9 +345,9 @@ phoa:
 
 process-explorer:
     - title:
-          en: '**ProcessExplorer** 0.02'
-          ru: '**ProcessExplorer** 0.02'
-          nl: '**ProcessExplorer** 0.02'
+          en: '**Process Explorer** 0.02'
+          ru: '**Process Explorer** 0.02'
+          nl: '**Process Explorer** 0.02'
       description:
           en: 'Tool for viewing active processes and modules they use. Zip-archived executable.'
           ru: 'Инструмент для просмотра запущенных процессов и модулей, ими используемых. Исполняемый файл в архиве zip.'

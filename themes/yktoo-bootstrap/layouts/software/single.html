@@ -14,6 +14,12 @@
 
 <!-- Render the main page content -->
 <section id="software-content">
+    <!-- Render a discontinuation banner if the project isn't active anymore -->
+    {{- if not $data.is_active }}
+        {{- partial (printf "software/discontinued.%s.html" $.Site.Language) }}
+    {{- end }}
+
+    <!-- Main page content -->
     {{ .Content }}
 
     <!-- Items -->
