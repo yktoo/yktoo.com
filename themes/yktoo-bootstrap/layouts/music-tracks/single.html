@@ -1,0 +1,13 @@
+{{ define "heading" }}
+<h1>{{ .Title | markdownify }}</h1>
+<div class="page-heading-meta">
+    {{- T "author" }}: {{ .Params.author -}}
+    {{- with .Params.album -}}
+    · {{ T "fromAlbum" }} <a href="{{ ($.GetPage (print `/radiolaria/` .)).RelPermalink }}">{{ . }}</a>
+    {{- end -}}
+</div>
+{{ end }}
+
+{{ define "main" }}
+{{ .Content }}
+{{ end }}

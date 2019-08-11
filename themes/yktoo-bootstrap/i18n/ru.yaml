@@ -1,5 +1,6 @@
 - {id: about,             translation: О сайте}
 - {id: archive,           translation: Архив}
+- {id: author,            translation: Автор}
 - {id: authoredBy,        translation: /}
 - {id: blogPosts,         translation: Посты в блоге}
 - {id: blogSubscribe,     translation: Подписаться}
@@ -12,6 +13,7 @@
 - {id: download,          translation: Скачать}
 - {id: downloads,         translation: Скачать}
 - {id: faq,               translation: FAQ}
+- {id: fromAlbum,         translation: Из альбома}
 - {id: fullDocsAvail,     translation: Полная документация проекта доступна}
 - {id: githubIssueTrk,    translation: GitHub Issue Tracker}
 - {id: githubIssueTrkDet, translation: Книга жалоб и предложений}

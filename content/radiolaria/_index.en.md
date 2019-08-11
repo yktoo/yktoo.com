@@ -1,5 +1,5 @@
 ---
-title: Радиолярия
+title: Radiolaria
 ---
 
 {{< img "radiolaria.jpg" "Radiolaria at the 12th anniversary of \"Tyumenskie Izvestiya\", September 2002." "article-opener" >}}

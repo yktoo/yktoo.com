@@ -1,5 +1,6 @@
 - {id: about,             translation: About}
 - {id: archive,           translation: Archive}
+- {id: author,            translation: Author}
 - {id: authoredBy,        translation: by}
 - {id: blogPosts,         translation: Blog posts}
 - {id: blogSubscribe,     translation: Subscribe}
@@ -15,6 +16,7 @@
 - {id: download,          translation: Download}
 - {id: downloads,         translation: Downloads}
 - {id: faq,               translation: FAQ}
+- {id: fromAlbum,         translation: From the album}
 - {id: fullDocsAvail,     translation: Full project documentation is available}
 - {id: githubIssueTrk,    translation: GitHub Issue Tracker}
 - {id: githubIssueTrkDet, translation: Bug reports and feature requests go here!}

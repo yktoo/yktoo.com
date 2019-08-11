@@ -1,5 +1,6 @@
 - {id: about,             translation: Over}
 - {id: archive,           translation: Archief}
+- {id: author,            translation: Auteur}
 - {id: authoredBy,        translation: door}
 - {id: blogPosts,         translation: Blogposts}
 - {id: blogSubscribe,     translation: Abonneren}
@@ -15,6 +16,7 @@
 - {id: download,          translation: Downloaden}
 - {id: downloads,         translation: Downloaden}
 - {id: faq,               translation: FAQ}
+- {id: fromAlbum,         translation: Uit het album}
 - {id: fullDocsAvail,     translation: De volledige projectdocumentatie is beschikbaar}
 - {id: githubIssueTrk,    translation: GitHub Issue Tracker}
 - {id: githubIssueTrkDet, translation: Dé plek voor al je bugreports en featurerequests!}
