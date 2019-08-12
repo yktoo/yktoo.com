@@ -47,14 +47,13 @@ permalinks:
     tags: /blog/tags/:title/
     series: /blog/series/:title/
     # Radiolaria music albums and tracks
-    musicAlbums: /radiolaria/:title/
-    musicTracks: /radiolaria/tracks/:title/
+    musicalbums: /radiolaria/:title/
+    tracks: /radiolaria/tracks/:title/
 
 taxonomies:
     tag: tags
     series: series
-    musicAlbum: musicAlbums
-    musicTrack: musicTracks
+    musicalbum: musicalbums
 
 menu:
     nav:

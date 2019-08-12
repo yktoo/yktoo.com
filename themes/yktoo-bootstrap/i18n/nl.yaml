@@ -52,6 +52,7 @@
 - {id: readOn,            translation: Lees verder »}
 - {id: readOnAt,          translation: Verder lezen op}
 - {id: recentPosts,       translation: Recente berichten}
+- {id: releaseData,       translation: Gegevens}
 - {id: releasedOn,        translation: Gereleased op}
 - {id: seeAlso,           translation: Zie ook}
 - {id: series,            translation: Serie}
@@ -67,5 +68,6 @@
 - {id: tag,               translation: Tag}
 - {id: tags,              translation: Tags}
 - {id: timeline,          translation: Tijdlijn}
+- {id: tracklist,         translation: Tracklijst}
 - {id: viaThisLink,       translation: via deze link}
 - {id: videos,            translation: Video's}

@@ -1,6 +1,6 @@
 ---
 title: Радиолярия
-type: musicAlbums
+type: musicalbums
 layout: terms
 ---
 

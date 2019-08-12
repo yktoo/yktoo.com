@@ -48,6 +48,7 @@
 - {id: readOn,            translation: Далее »}
 - {id: readOnAt,          translation: Читать далее на}
 - {id: recentPosts,       translation: Свежие записи}
+- {id: releaseData,       translation: Информация}
 - {id: releasedOn,        translation: Опубликовано}
 - {id: seeAlso,           translation: См. также}
 - {id: series,            translation: Подборка}
@@ -63,5 +64,6 @@
 - {id: tag,               translation: Тег}
 - {id: tags,              translation: Теги}
 - {id: timeline,          translation: Хронология}
+- {id: tracklist,         translation: Композиции альбома}
 - {id: viaThisLink,       translation: по этой ссылке}
 - {id: videos,            translation: Видео}

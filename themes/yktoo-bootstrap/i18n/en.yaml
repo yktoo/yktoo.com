@@ -52,6 +52,7 @@
 - {id: readOn,            translation: Read on »}
 - {id: readOnAt,          translation: Continue reading on}
 - {id: recentPosts,       translation: Recent Posts}
+- {id: releaseData,       translation: Release data}
 - {id: releasedOn,        translation: Released on}
 - {id: seeAlso,           translation: See also}
 - {id: series,            translation: Series}
@@ -66,6 +67,7 @@
 - {id: support,           translation: Support}
 - {id: tag,               translation: Tag}
 - {id: tags,              translation: Tags}
+- {id: tracklist,         translation: Tracklist}
 - {id: timeline,          translation: Timeline}
 - {id: viaThisLink,       translation: via this link}
 - {id: videos,            translation: Videos}

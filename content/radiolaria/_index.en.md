@@ -1,6 +1,6 @@
 ---
 title: Radiolaria
-type: musicAlbums
+type: musicalbums
 layout: terms
 ---
 
