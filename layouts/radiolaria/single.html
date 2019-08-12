@@ -19,7 +19,7 @@
     {{ with .Params.mediaFileUrl }}
     <!-- Listen button, if there's audio -->
     <audio></audio>
-    <a href="{{ . }}" type="audio/mpeg" class="btn btn-outline-dark"><i class="fas fa-play playbtn"></i> {{ T "listen" }}</a>
+    <a href="{{ . }}" type="audio/mpeg" class="btn btn-outline-dark"><i class="fa playbtn"></i> {{ T "listen" }}</a>
 
     <!-- Download button -->
     <a href="{{ . }}" class="btn btn-outline-dark"><i class="fas fa-download"></i> {{ T "download" }}</a>
@@ -46,7 +46,11 @@
             {{- $line = strings.TrimPrefix "#" $line -}}
         {{- end -}}
 
-        <!-- TODO Render bold whatever is in square brackets -->
+        <!-- Render bold whatever is in square brackets -->
+        {{- if findRE "\\[.+\\]" $line -}}
+            {{- $classes = $classes | append "font-weight-bold" -}}
+            {{- $line = replaceRE "\\[(.+)\\]" "$1" $line -}}
+        {{- end -}}
 
         <!-- Render the line with its classes (replace empty line with a space) -->
         <p class="{{ delimit $classes ` ` }}">{{ with $line }}{{ . | htmlEscape }}{{ else }}&nbsp;{{ end }}</p>

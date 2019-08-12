@@ -2,4 +2,5 @@
 {{- $popper    := resources.Get "js/popper.js" -}}
 {{- $bootstrap := resources.Get "js/bootstrap.js" -}}
 {{- $magnific  := resources.Get "js/magnific.js" -}}
-<script src="{{ (slice $jquery $popper $bootstrap $magnific | resources.Concat `js/bundle.js` | minify).Permalink }}"></script>
+{{- $playa     := resources.Get "js/playa.js" -}}
+<script src="{{ (slice $jquery $popper $bootstrap $magnific $playa | resources.Concat `js/bundle.js` | minify).Permalink }}"></script>

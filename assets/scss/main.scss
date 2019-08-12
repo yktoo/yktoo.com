@@ -405,6 +405,23 @@ pre {
     margin-bottom: 2rem;
 }
 
+// Audio
+a {
+    > .playbtn:before {
+        content: "\f04b"; // = fa-play
+    }
+
+    &.active > .playbtn:before {
+        content: "\f144"; // = fa-play-circle
+    }
+
+    &.paused > .playbtn:before {
+        content: "\f28b"; // = fa-pause-circle
+    }
+}
+
+
+
 // Lyrics
 .lyrics-text {
     margin: 0;
@@ -412,17 +429,19 @@ pre {
     &.indent {
         padding-left: 2rem;
     }
-    &.chord {
+}
+#radiolaria-track-lyrics {
+    .chord {
         color: #660093;
         font-weight: $font-weight-bold;
         white-space: pre;
         display: none;
     }
-}
-.lyrics-chords {
-    font-family: monospace;
+    &.chords {
+        font-family: monospace;
 
-    &.chord {
-        display: block;
+        .chord {
+            display: block;
+        }
     }
 }

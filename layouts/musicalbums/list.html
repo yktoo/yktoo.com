@@ -13,11 +13,12 @@
             <td class="text-right text-nowrap">{{ add $idx 1}}</td>
             <td><a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a></td>
             <td class="text-right text-nowrap">{{ with $page.Params.length }}{{ printf "%d:%.2d" (div . 60) (mod . 60) }}{{ end }}</td>
-            <td>{{ with $page.Params.mediafileurl }}<a type="audio/mpeg" href="{{ . }}"><i class="fas fa-play playbtn"></i></a>{{ end }}</td>
+            <td>{{ with $page.Params.mediafileurl }}<a type="audio/mpeg" href="{{ . }}"><i class="fa playbtn"></i></a>{{ end }}</td>
             <td class="text-center text-nowrap">{{ with $page.Params.mediafileurl }}<a href="{{ . }}"><i class="fas fa-download"></i> {{ T "download" }}</a>{{ end }}</td>
         </tr>
         {{ end }}
     </tbody></table>
+    <audio>Sorry, your browser does not support HTML5 audio.</audio>
 </section>
 
 <!-- Release data -->
