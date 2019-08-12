@@ -11,8 +11,6 @@ This time he was himself the headliner, and his support acts were [David Maxim M
 
 <!--more-->
 
-<!--{{< imgfig "https://3.bp.blogspot.com/-4ql-Zp3-APE/WNgDhZQK7-I/AAAAAAAApp8/W-4pPcq2MEU9OeNdFGRXA-JLe8_iTxsEgCPcB/s1600/dsc04094.picasaweb.jpg" >}}-->
-
 The tiny venue at {{< fl "Patronaat" >}} (Haarlem) was packed with probably some hundred people. A friend of mine, who was also willing to come, had at a certain moment discovered the show was sold out.
 {{< imgfig "https://3.bp.blogspot.com/-AyWrTi1Sm08/WNgDhXozeNI/AAAAAAAApp8/DbcQ_DllLJQQs0hWrm4Ong3SFcLkWaHWwCPcB/s1600/dsc04083.picasaweb.jpg" "Before the show." >}}
 

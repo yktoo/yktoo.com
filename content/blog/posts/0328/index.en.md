@@ -8,7 +8,6 @@ image: "https://1.bp.blogspot.com/-msPpM_nMqx0/WTRdaD9ey2I/AAAAAAAAqFQ/UsebQnNd-
 Another childhood's dream has come true! I've been following the Polish prog band {{< wiki "Riverside_(band)" "en" "Riverside" >}} almost since its birth. Okay, I was in my twenties back then, so strictly speaking it wasn't childhood.
 
 <!--more-->
-<!--{{< imgfig "https://1.bp.blogspot.com/-msPpM_nMqx0/WTRdaD9ey2I/AAAAAAAAqFQ/UsebQnNd-tkdRVkUC9_YfI-h3di78dg-gCKgB/s1600/20170525_210732.picasaweb.jpg" >}}-->
 
 The band has gone through difficult times with the sudden death of their guitarist {{< fl "Piotr Grudziński" >}}. At the time they took the decision not to replace him and carry on as a trio. {{< fl "Mariusz Duda" >}}, who played bass and sang, would also play guitar in the studio, and for performances they would invite a guest guitarist.
 

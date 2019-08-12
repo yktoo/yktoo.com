@@ -14,7 +14,6 @@ The application opens a connection some hundred times, so the startup time had b
 I've spent a lot of time hunting that down, and then even more time looking for a solution as I failed to find any on StackOverflow. But finally I've solved this.
 
 <!--more-->
-<!--{{< imgfig "https://3.bp.blogspot.com/-KfGkUuzJYBQ/WzpDheKD1ZI/AAAAAAAAsqo/H970WSIWmPgOu7qEpqPfUHUDIljzALuigCKgBGAs/s1600/mysql.png" >}}-->
 
 The culprit was, as I initially thought, the DNS lookup: the database was trying to determine the name of the host that is connecting to it, and the DNS was slow. But in my use case it was a pretty useless operation.
 

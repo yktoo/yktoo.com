@@ -11,8 +11,6 @@ image: "https://3.bp.blogspot.com/-4ql-Zp3-APE/WNgDhZQK7-I/AAAAAAAApp8/W-4pPcq2M
 
 <!--more-->
 
-<!--{{< imgfig "https://3.bp.blogspot.com/-4ql-Zp3-APE/WNgDhZQK7-I/AAAAAAAApp8/W-4pPcq2MEU9OeNdFGRXA-JLe8_iTxsEgCPcB/s1600/dsc04094.picasaweb.jpg" >}}-->
-
 Зал в клубе {{< fl "Patronaat" >}} (г. Харлем) был совсем крохотный и забит битком, при этом в нём было, наверное, около сотни человек. Один мой знакомый, слишком долго собиравшийся пойти, хотел купить билет да обнаружил, что всё распродано.
 {{< imgfig "https://3.bp.blogspot.com/-AyWrTi1Sm08/WNgDhXozeNI/AAAAAAAApp8/DbcQ_DllLJQQs0hWrm4Ong3SFcLkWaHWwCPcB/s1600/dsc04083.picasaweb.jpg" "Перед началом концерта." >}}
 

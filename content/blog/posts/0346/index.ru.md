@@ -3,7 +3,8 @@ date: "2019-07-15T00:00:00Z"
 title: "Обновлённый сайт Yktoo Solutions"
 series: "Доля предпринимательская"
 tags: ["Hugo", "Yktoo Solutions", "новости", "сайт"]
-image: "https://1.bp.blogspot.com/-_oXI-nbfzo0/XTLzssA0-OI/AAAAAAAAwYc/lngDnMSfNEgezpjPHUkODSoPMrP7NGAlQCKgBGAs/s1600/website-main-page.jpg"
+image: website-main-page.jpg
+fulltext_url: "https://yktoo.solutions/blog/2019/07/15-meet-the-all-new-yktoo-solutions-website/"
 ---
 
 Минуло почти три года с момента появления первой версии веб-сайта {{< fl "Yktoo Solutions" >}}. Она была написана с использованием того же стека технологий, что и сайт, который вы сейчас читаете, то есть старый добрый {{< fl "LAMP" >}} ({{< fl "Linux" >}}, {{< fl "Apache" >}}, {{< fl "MySQL" >}} и {{< fl "PHP" >}}).
@@ -12,6 +13,4 @@ image: "https://1.bp.blogspot.com/-_oXI-nbfzo0/XTLzssA0-OI/AAAAAAAAwYc/lngDnMSfN
 
 Поэтому отныне технические посты (и прочие релевантные новости) будут публиковаться в блоге {{< fl "Yktoo Solutions" >}} (пока что только на английском) — а здесь будет размещаться лишь короткий анонс.
 
-По ссылке ниже доступны подробности создания нового сайта, а также размышления о пользе статических страниц (англ.).
-
-<!--{{< imgfig "https://1.bp.blogspot.com/-_oXI-nbfzo0/XTLzssA0-OI/AAAAAAAAwYc/lngDnMSfNEgezpjPHUkODSoPMrP7NGAlQCKgBGAs/s1600/website-main-page.jpg" >}}-->
+По ссылке ниже доступны подробности создания нового сайта, а также размышления о пользе статических страниц (*англ.*).

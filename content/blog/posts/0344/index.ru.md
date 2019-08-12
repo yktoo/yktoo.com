@@ -12,7 +12,6 @@ image: "https://4.bp.blogspot.com/-KtbaNrwlhpM/XEduKyWV9LI/AAAAAAAAu_U/WfVuoL31i
 Но вот недавно я набрёл на один из шедевров.
 
 <!--more-->
-<!--{{< imgfig "https://4.bp.blogspot.com/-KtbaNrwlhpM/XEduKyWV9LI/AAAAAAAAu_U/WfVuoL31iKwA1jkhRr_VQswWtLVDJXu_ACKgBGAs/s1600/20190122_181335.picasaweb.jpg" "Центральный вокзал Утрехта (Utrecht Centraal)." >}}-->
 
 Официальный сайт Министерства дорог и инфраструктуры с дорожной информацией: [rijkswaterstaatverkeersinformatie.nl](https://rijkswaterstaatverkeersinformatie.nl/).
 
