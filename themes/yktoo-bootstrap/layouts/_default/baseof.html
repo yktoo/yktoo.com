@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ .Lang }}">
+{{- block "head" . }}
 <head>
     {{ partial "head-meta.html" . }}
 
@@ -34,6 +35,8 @@
 
     {{ partial "head-custom.html" . }}
 </head>
+{{- end }}
+{{- block "body" . }}
 <body>
 
 <!-- Header with a Navbar -->
@@ -60,4 +63,5 @@
 {{ partialCached "footer.html" . }}
 {{ partial "scripts.html" . }}
 </body>
+{{- end }}
 </html>
