@@ -31,6 +31,7 @@
 - {id: license_mpl11,     translation: Mozilla Public License Version 1.1}
 - {id: license_mpl2,      translation: Mozilla Public License Version 2.0}
 - {id: links,             translation: Links}
+- {id: listen,            translation: Listen}
 - {id: locale,            translation: en_US}
 - {id: map,               translation: Map}
 - {id: mySocialLinks,     translation: My social links}
@@ -59,6 +60,7 @@
 - {id: series,            translation: Series}
 - {id: seriesPlural,      translation: Series}
 - {id: share,             translation: Share}
+- {id: showChords,        translation: Show chords}
 - {id: software,          translation: Software}
 - {id: softwareFor,       translation: '{{ .value }} software'}
 - {id: sourceCode,        translation: Source code}

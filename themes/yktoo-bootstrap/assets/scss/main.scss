@@ -404,3 +404,25 @@ pre {
     font-size: 90%;
     margin-bottom: 2rem;
 }
+
+// Lyrics
+.lyrics-text {
+    margin: 0;
+
+    &.indent {
+        padding-left: 2rem;
+    }
+    &.chord {
+        color: #660093;
+        font-weight: $font-weight-bold;
+        white-space: pre;
+        display: none;
+    }
+}
+.lyrics-chords {
+    font-family: monospace;
+
+    &.chord {
+        display: block;
+    }
+}

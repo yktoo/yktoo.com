@@ -27,6 +27,7 @@
 - {id: license_lgpl3,     translation: GNU Lesser General Public License версии 3}
 - {id: license_mpl11,     translation: Mozilla Public License версии 1.1}
 - {id: license_mpl2,      translation: Mozilla Public License версии 2.0}
+- {id: listen,            translation: Слушать}
 - {id: locale,            translation: ru_RU}
 - {id: map,               translation: Карта}
 - {id: mySocialLinks,     translation: Мои соцсети}
@@ -55,6 +56,7 @@
 - {id: series,            translation: Подборка}
 - {id: seriesPlural,      translation: Подборки}
 - {id: share,             translation: Поделиться}
+- {id: showChords,        translation: С аккордами}
 - {id: software,          translation: Программы}
 - {id: softwareFor,       translation: 'ПО для {{ .value }}'}
 - {id: sourceCode,        translation: Исходный код}
