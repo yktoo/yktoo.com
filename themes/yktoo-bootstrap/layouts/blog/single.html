@@ -89,7 +89,7 @@
             <!-- Tags etc. -->
             {{ partial "meta-terms.html" . }}
             <!-- Post ID -->
-            <i class="fas fa-key" aria-hidden="true"></i>&nbsp;<abbr title="{{ T `blogPostId` }}">{{ path.Base .Dir }}</abbr>
+            <i class="fas fa-key" aria-hidden="true"></i>&nbsp;<abbr title="{{ T `blogPostId` }}">{{ path.Base .File.Dir }}</abbr>
         </p>
 
         <!-- Sharing buttons -->
