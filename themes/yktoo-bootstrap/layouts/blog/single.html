@@ -85,8 +85,12 @@
         </p>
         {{ end }}
 
-        <!-- Tags etc. -->
-        {{ partial "meta-terms.html" . }}
+        <p>
+            <!-- Tags etc. -->
+            {{ partial "meta-terms.html" . }}
+            <!-- Post ID -->
+            <i class="fas fa-key" aria-hidden="true"></i>&nbsp;<abbr title="{{ T `blogPostId` }}">{{ path.Base .Dir }}</abbr>
+        </p>
 
         <!-- Sharing buttons -->
         {{ partial "blog/post_share" . }}

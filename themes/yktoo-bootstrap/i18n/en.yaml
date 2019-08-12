@@ -2,6 +2,7 @@
 - {id: archive,           translation: Archive}
 - {id: author,            translation: Author}
 - {id: authoredBy,        translation: by}
+- {id: blogPostId,        translation: Internal post ID}
 - {id: blogPosts,         translation: Blog posts}
 - {id: blogSubscribe,     translation: Subscribe}
 - {id: blogSubscribeTo,   translation: Subscribe to updates}

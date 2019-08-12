@@ -2,6 +2,7 @@
 - {id: archive,           translation: Архив}
 - {id: author,            translation: Автор}
 - {id: authoredBy,        translation: /}
+- {id: blogPostId,        translation: Внутренний идентификатор поста}
 - {id: blogPosts,         translation: Посты в блоге}
 - {id: blogSubscribe,     translation: Подписаться}
 - {id: blogSubscribeTo,   translation: Подписаться на обновления}
