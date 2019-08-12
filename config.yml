@@ -3,7 +3,6 @@ languageCode: en-us
 pygmentsCodeFences: true
 pygmentsStyle: tango
 title: Yktoo
-theme: yktoo-bootstrap
 summaryLength: 15
 googleAnalytics: UA-19569086-3
 enableRobotsTXT: true
