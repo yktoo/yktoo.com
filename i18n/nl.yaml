@@ -47,6 +47,7 @@
 - {id: postInLangs,       translation: Deze post}
 - {id: postNext,          translation: ← Vorige post}
 - {id: postPrev,          translation: Volgende post →}
+- {id: postsCurLang,      translation: Posts in het Nederlands}
 - {id: posts_en,          translation: Posts in het Engels}
 - {id: posts_ru,          translation: Posts in het Russisch}
 - {id: posts_nl,          translation: Posts in het Nederlands}
