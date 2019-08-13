@@ -7,12 +7,11 @@ client-ssi-generator:
           en: 'The stable version of the program.'
           ru: 'Стабильная версия программы.'
           nl: 'The stable version of the program.'
-      detail_url:
-      release_date: 2004-08-12
+      detailUrl:
+      releaseDate: 2004-08-12
       weight: 1
-      download_url: 'https://github.com/yktoo/clssigen/releases/download/v1.11/clssigen-setup-1.11.exe'
-      is_active: true
-      is_featured: true
+      downloadUrl: 'https://github.com/yktoo/clssigen/releases/download/v1.11/clssigen-setup-1.11.exe'
+      isFeatured: true
 
 dklang-localization-package:
     - title:
@@ -32,12 +31,11 @@ dklang-localization-package:
               Localization API for Delphi XE5+. Supports both VCL and FireMonkey applications (Win32, Win64, iOS, Mac OS X, Android).
 
               Zip-archived source code.
-      detail_url: 'https://github.com/yktoo/dklang/wiki/Revision-History#2014521-dklang-52'
-      release_date: 2014-05-21
+      detailUrl: 'https://github.com/yktoo/dklang/wiki/Revision-History#2014521-dklang-52'
+      releaseDate: 2014-05-21
       weight: 400
-      download_url: 'https://github.com/yktoo/dklang/archive/dklang-5.2.zip'
-      is_active: true
-      is_featured: true
+      downloadUrl: 'https://github.com/yktoo/dklang/archive/dklang-5.2.zip'
+      isFeatured: true
 
     - title:
           en: 'DKLang Localization Package **4.01**'
@@ -47,12 +45,11 @@ dklang-localization-package:
           en: 'Localization API for Delphi 2009+. Zip-archived sources.'
           ru: 'API для локализации программ, написанных на Delphi 2009+. Исходный код в архиве zip.'
           nl: 'Localization API for Delphi 2009+. Zip-archived sources.'
-      detail_url: 'https://github.com/yktoo/dklang/wiki/Revision-History#20131207-dklang-401'
-      release_date: 2013-12-07
+      detailUrl: 'https://github.com/yktoo/dklang/wiki/Revision-History#20131207-dklang-401'
+      releaseDate: 2013-12-07
       weight: 500
-      download_url: 'https://github.com/yktoo/dklang/archive/dklang-4.01.zip'
-      is_active: true
-      is_featured: false
+      downloadUrl: 'https://github.com/yktoo/dklang/archive/dklang-4.01.zip'
+      isFeatured: false
 
     - title:
           en: 'Tnt Unicode Controls 2.3.0'
@@ -62,12 +59,11 @@ dklang-localization-package:
           en: 'Freeware version of the Tnt Unicode Controls package required by DKLang Localization Package v3.x.'
           ru: 'Бесплатная версия пакета Tnt Unicode Controls, требуемого DKLang Localization Package v3.x.'
           nl: 'Freeware version of the Tnt Unicode Controls package required by DKLang Localization Package v3.x.'
-      detail_url:
-      release_date: 2007-09-06
+      detailUrl:
+      releaseDate: 2007-09-06
       weight: 999
-      download_url: 'https://github.com/yktoo/dklang/releases/download/dklang-5.2/TntUnicodeControls-2.3.0.zip'
-      is_active: true
-      is_featured: false
+      downloadUrl: 'https://github.com/yktoo/dklang/releases/download/dklang-5.2/TntUnicodeControls-2.3.0.zip'
+      isFeatured: false
 
     - title:
           en: 'DKLang Localization Package **3.01**'
@@ -101,12 +97,11 @@ dklang-localization-package:
               * BDS 2006
 
               Zip-archived sources.
-      detail_url: 'https://github.com/yktoo/dklang/wiki/Revision-History#20060822-dklang-301'
-      release_date: 2006-08-22
+      detailUrl: 'https://github.com/yktoo/dklang/wiki/Revision-History#20060822-dklang-301'
+      releaseDate: 2006-08-22
       weight: 800
-      download_url: 'https://github.com/yktoo/dklang/archive/dklang-3.01.zip'
-      is_active: true
-      is_featured: false
+      downloadUrl: 'https://github.com/yktoo/dklang/archive/dklang-3.01.zip'
+      isFeatured: false
 
     - title:
           en: 'Compiled **example applications** from the package 3.0'
@@ -125,12 +120,11 @@ dklang-localization-package:
               Examples compiled from the sources included with the package.
 
               Includes translations and source language files so you can try to create your own translations with **DKLang Translation Editor**
-      detail_url:
-      release_date: 2006-08-15
+      detailUrl:
+      releaseDate: 2006-08-15
       weight: 820
-      download_url: 'https://github.com/yktoo/dklang/releases/download/dklang-5.2/dklang-examples-3.0.zip'
-      is_active: true
-      is_featured: false
+      downloadUrl: 'https://github.com/yktoo/dklang/releases/download/dklang-5.2/dklang-examples-3.0.zip'
+      isFeatured: false
 
     - title:
           en: '**Constant converter** from DKLang 2.x'
@@ -140,12 +134,11 @@ dklang-localization-package:
           en: 'Converter for constant resource files saved by package version 2.x. Compiled executable.'
           ru: 'Конвертер для файлов ресурсов констант, созданных версиями 2.x пакета. Скомпилированный исполняемый файл.'
           nl: 'Converter for constant resource files saved by package version 2.x. Compiled executable.'
-      detail_url:
-      release_date: 2006-08-12
+      detailUrl:
+      releaseDate: 2006-08-12
       weight: 810
-      download_url: 'https://github.com/yktoo/dklang/releases/download/dklang-5.2/DKLang_Converter_v2.exe'
-      is_active: true
-      is_featured: false
+      downloadUrl: 'https://github.com/yktoo/dklang/releases/download/dklang-5.2/DKLang_Converter_v2.exe'
+      isFeatured: false
 
 dklang-translation-editor:
     - title:
@@ -156,12 +149,11 @@ dklang-translation-editor:
           en: 'Translation editing tool for **DKLang Localization Package**. Setup program.'
           ru: 'Редактор переводов для **пакета DKLang**. Программа установки.'
           nl: 'Translation editing tool for **DKLang Localization Package**. Setup program.'
-      detail_url:
-      release_date: 2006-08-12
+      detailUrl:
+      releaseDate: 2006-08-12
       weight: 2
-      download_url: 'https://github.com/yktoo/dkl_traned/releases/download/dklang-4.0rc1/dktraned-4.0rc1-setup.exe'
-      is_active: true
-      is_featured: true
+      downloadUrl: 'https://github.com/yktoo/dkl_traned/releases/download/dklang-4.0rc1/dktraned-4.0rc1-setup.exe'
+      isFeatured: true
 
     - title:
           en: '**Translations** for DKLang Translation Editor v4.0rc1'
@@ -180,12 +172,11 @@ dklang-translation-editor:
               Translation files for the application UI, zipped.
 
               Includes a language source file, which is to be used for translating **Translation Editor** interface into another language.
-      detail_url:
-      release_date: 2017-03-05
+      detailUrl:
+      releaseDate: 2017-03-05
       weight: 3
-      download_url: 'https://github.com/yktoo/dkl_traned/releases/download/dklang-4.0rc1/dklang_traned-translations.zip'
-      is_active: true
-      is_featured: false
+      downloadUrl: 'https://github.com/yktoo/dkl_traned/releases/download/dklang-4.0rc1/dklang_traned-translations.zip'
+      isFeatured: false
 
 docker-indicator:
     - title:
@@ -205,12 +196,11 @@ docker-indicator:
               A simple application indicator for **Ubuntu** to control Docker containers.
 
               Source code in .tar.gz archive.
-      detail_url:
-      release_date: 2017-03-09
+      detailUrl:
+      releaseDate: 2017-03-09
       weight: 100
-      download_url: 'https://github.com/yktoo/indicator-docker/archive/v0.1.0.tar.gz'
-      is_active: true
-      is_featured: true
+      downloadUrl: 'https://github.com/yktoo/indicator-docker/archive/v0.1.0.tar.gz'
+      isFeatured: true
 
 oracle-package-editor:
     - title:
@@ -221,12 +211,11 @@ oracle-package-editor:
           en: 'GUI editor for Oracle PL/SQL packages. Setup program.'
           ru: 'Редактор PL/SQL-пакетов Oracle. Программа установки.'
           nl: 'GUI editor for Oracle PL/SQL packages. Setup program.'
-      detail_url:
-      release_date: 2002-10-13
+      detailUrl:
+      releaseDate: 2002-10-13
       weight: 1
-      download_url: 'https://github.com/yktoo/oracle-package-editor/releases/download/v2.3.0.276/pkged-setup-2.3.0.276.exe'
-      is_active: true
-      is_featured: true
+      downloadUrl: 'https://github.com/yktoo/oracle-package-editor/releases/download/v2.3.0.276/pkged-setup-2.3.0.276.exe'
+      isFeatured: true
 
 phoa:
     - title:
@@ -237,12 +226,11 @@ phoa:
           en: 'The latest beta version of the program. Languages included: **English** (original), **Russian**.'
           ru: 'Последняя бета-версия программы. Включает языки: **Английский** (основной) и **Русский**.'
           nl: 'The latest beta version of the program. Languages included: **English** (original), **Russian**.'
-      detail_url: /software/phoa/changelog#1110
-      release_date: 2005-08-28
+      detailUrl: /software/phoa/changelog#1110
+      releaseDate: 2005-08-28
       weight: 1
-      download_url: 'https://github.com/yktoo/phoa/releases/download/v1.1.10-beta/phoa-setup-1.1.10-beta.exe'
-      is_active: true
-      is_featured: true
+      downloadUrl: 'https://github.com/yktoo/phoa/releases/download/v1.1.10-beta/phoa-setup-1.1.10-beta.exe'
+      isFeatured: true
 
     - title:
           en: '**PhoA** unstable 1.1.11-RC'
@@ -252,12 +240,11 @@ phoa:
           en: 'The latest development build of **PhoA**. Based on the 1.1.10 beta release. Zip-archived executable.'
           ru: 'Последняя сборка **PhoA**. Основана на версии 1.1.10 beta. Исполняемый файл в архиве zip.'
           nl: 'The latest development build of **PhoA**. Based on the 1.1.10 beta release. Zip-archived executable.'
-      detail_url:
-      release_date: 2005-09-11
+      detailUrl:
+      releaseDate: 2005-09-11
       weight: 100
-      download_url: 'https://github.com/yktoo/phoa/releases/download/1.1.11-RC/phoa-latest.zip'
-      is_active: true
-      is_featured: false
+      downloadUrl: 'https://github.com/yktoo/phoa/releases/download/1.1.11-RC/phoa-latest.zip'
+      isFeatured: false
 
     - title:
           en: '**phoadump** 0.01'
@@ -276,12 +263,11 @@ phoa:
               A simple program that demonstrates the usage of PhoA programming interface (API).
 
               Zip-archived executable and source code.
-      detail_url:
-      release_date: 2004-06-09
+      detailUrl:
+      releaseDate: 2004-06-09
       weight: 4
-      download_url: 'https://github.com/yktoo/phoa/releases/download/1.1.11-RC/phoadump-0.01.zip'
-      is_active: true
-      is_featured: false
+      downloadUrl: 'https://github.com/yktoo/phoa/releases/download/1.1.11-RC/phoadump-0.01.zip'
+      isFeatured: false
 
     - title:
           en: '**PhoA SDK** 0.01'
@@ -291,12 +277,11 @@ phoa:
           en: 'PhoA Software Development Kit.'
           ru: 'Комплект для разработки дополнительных инструментов (software development kit).'
           nl: 'PhoA Software Development Kit.'
-      detail_url:
-      release_date: 2004-06-09
+      detailUrl:
+      releaseDate: 2004-06-09
       weight: 3
-      download_url: 'https://github.com/yktoo/phoa/releases/download/1.1.11-RC/phoa-sdk-0.01.zip'
-      is_active: true
-      is_featured: false
+      downloadUrl: 'https://github.com/yktoo/phoa/releases/download/1.1.11-RC/phoa-sdk-0.01.zip'
+      isFeatured: false
 
     - title:
           en: '**phoaxml** 0.02'
@@ -321,12 +306,11 @@ phoa:
               Zip-archived executable and source code.
 
               Thanks to Max Belugin for writing the initial version.
-      detail_url:
-      release_date: 2004-06-09
+      detailUrl:
+      releaseDate: 2004-06-09
       weight: 6
-      download_url: 'https://github.com/yktoo/phoa/releases/download/1.1.11-RC/phoaxml-0.02.zip'
-      is_active: true
-      is_featured: false
+      downloadUrl: 'https://github.com/yktoo/phoa/releases/download/1.1.11-RC/phoaxml-0.02.zip'
+      isFeatured: false
 
     - title:
           en: '**PhoA Transformer** 1.0'
@@ -336,12 +320,11 @@ phoa:
           en: 'A tool for converting PhoA photo albums into XML, HTML and text and back into PhoA using XSLT. Setup program.'
           ru: 'Инструмент для преобразования фотоальбомов PhoA в XML, HTML и текст и обратно на основе XSLT-шаблонов. Программа установки.'
           nl: 'A tool for converting PhoA photo albums into XML, HTML and text and back into PhoA using XSLT. Setup program.'
-      detail_url:
-      release_date: 2004-10-29
+      detailUrl:
+      releaseDate: 2004-10-29
       weight: 2
-      download_url: 'https://github.com/yktoo/phoa/releases/download/1.1.11-RC/phoatrans-setup-1.0.exe'
-      is_active: true
-      is_featured: false
+      downloadUrl: 'https://github.com/yktoo/phoa/releases/download/1.1.11-RC/phoatrans-setup-1.0.exe'
+      isFeatured: false
 
 process-explorer:
     - title:
@@ -352,12 +335,11 @@ process-explorer:
           en: 'Tool for viewing active processes and modules they use. Zip-archived executable.'
           ru: 'Инструмент для просмотра запущенных процессов и модулей, ими используемых. Исполняемый файл в архиве zip.'
           nl: 'Tool for viewing active processes and modules they use. Zip-archived executable.'
-      detail_url:
-      release_date: 2003-04-20
+      detailUrl:
+      releaseDate: 2003-04-20
       weight: 1
-      download_url: 'https://github.com/yktoo/process-explorer/releases/download/v0.02/procexp-0.02.zip'
-      is_active: true
-      is_featured: true
+      downloadUrl: 'https://github.com/yktoo/process-explorer/releases/download/v0.02/procexp-0.02.zip'
+      isFeatured: true
 
 sound-switcher-indicator:
     - title:
@@ -377,9 +359,8 @@ sound-switcher-indicator:
               A simple sound input/output switcher indicator application for **Ubuntu 18.04+**.
 
               Source code in `.tar.gz` archive.
-      detail_url: 'https://github.com/yktoo/indicator-sound-switcher/blob/master/debian/changelog'
-      release_date: 2019-07-21
+      detailUrl: 'https://github.com/yktoo/indicator-sound-switcher/blob/master/debian/changelog'
+      releaseDate: 2019-07-21
       weight: 100
-      download_url: 'https://github.com/yktoo/indicator-sound-switcher/archive/v2.2.2.tar.gz'
-      is_active: true
-      is_featured: true
+      downloadUrl: 'https://github.com/yktoo/indicator-sound-switcher/archive/v2.2.2.tar.gz'
+      isFeatured: true

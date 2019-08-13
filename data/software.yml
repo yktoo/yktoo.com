@@ -3,13 +3,13 @@ items:
         githubUrl: https://github.com/yktoo/indicator-sound-switcher
         licenses: [gpl3]
         showDownloads: true
-        is_active: true
+        isActive: true
 
     docker-indicator:
         githubUrl: https://github.com/yktoo/indicator-docker
         licenses: [gpl3]
         showDownloads: true
-        is_active: true
+        isActive: true
 
     yktools:
         githubUrl: https://github.com/yktoo/yktools
@@ -73,7 +73,7 @@ items:
                   ru: 'Обновляет дату в EXIF-метаданных JPEG-файлов на основе их имени.'
               url: 'https://github.com/yktoo/yktools/wiki/update%E2%80%90exif%E2%80%90date'
               icon: shell-script-32.png
-        is_active: true
+        isActive: true
 
     phoa:
         githubUrl: https://github.com/yktoo/phoa
@@ -81,7 +81,7 @@ items:
             - gpl3
             - mpl2
         showDownloads: true
-        is_active: false
+        isActive: false
 
     dklang-localization-package:
         githubUrl: https://github.com/yktoo/dklang
@@ -90,28 +90,28 @@ items:
             - lgpl21
             - mpl11
         showDownloads: true
-        is_active: true
+        isActive: true
 
     dklang-translation-editor:
         githubUrl: https://github.com/yktoo/dkl_traned
         licenses: [lgpl3]
         showDownloads: true
-        is_active: true
+        isActive: true
 
     oracle-package-editor:
         githubUrl: https://github.com/yktoo/oracle-package-editor
         licenses: [gpl3]
         showDownloads: true
-        is_active: false
+        isActive: false
 
     client-ssi-generator:
         githubUrl: https://github.com/yktoo/clssigen
         licenses: [gpl3]
         showDownloads: true
-        is_active: false
+        isActive: false
 
     process-explorer:
         githubUrl: https://github.com/yktoo/process-explorer
         licenses: [gpl3]
         showDownloads: true
-        is_active: false
+        isActive: false

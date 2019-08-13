@@ -15,7 +15,7 @@
 <!-- Render the main page content -->
 <section id="software-content">
     <!-- Render a discontinuation banner if the project isn't active anymore -->
-    {{- if not $data.is_active }}
+    {{- if not $data.isActive }}
         {{- partial (printf "software/discontinued.%s.html" $.Site.Language) }}
     {{- end }}
 
@@ -69,7 +69,8 @@
 </section>
 {{ end }}
 
-<!-- Support -->
+<!-- Support - only provided to active projects -->
+{{ if $data.isActive }}
 {{ with $data.githubUrl }}
 <section id="software-support">
     <h2>{{ T "support" }}</h2>
@@ -83,6 +84,7 @@
         </a>
     </div>
 </section>
+{{ end }}
 {{ end }}
 
 <!-- Source code -->

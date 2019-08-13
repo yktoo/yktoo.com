@@ -9,17 +9,17 @@
 <!-- First list featured, then others -->
 {{ range slice true false }}
 {{ $featured := . }}
-{{ range where $items "is_featured" $featured }}
+{{ range where $items "isFeatured" $featured }}
 {{ $title := index .title $page.Lang | markdownify }}
 <div class="download{{ cond $featured ` featured` ``}} container-fluid">
     <div class="row">
         <div class="col-md-7">
             <p class="{{ cond $featured `h3` `h4` }}">{{ $title }}</p>
             <p>{{ index .description $page.Lang | markdownify }}</p>
-            <p class="text-muted">{{ T "releasedOn" }} {{ dateFormat $dateFormat .release_date }}</p>
+            <p class="text-muted">{{ T "releasedOn" }} {{ dateFormat $dateFormat .releaseDate }}</p>
         </div>
         <div class="col-md-5 text-center">
-            <a class="btn btn-success {{ cond $featured `btn-lg` `btn-sm` }}" href="{{ .download_url | absURL }}">
+            <a class="btn btn-success {{ cond $featured `btn-lg` `btn-sm` }}" href="{{ .downloadUrl }}">
                 <div class="icon"><i class="fas fa-arrow-alt-circle-down"></i></div>
                 <p>{{T "download" }}<br>{{ $title }}</p>
             </a>
