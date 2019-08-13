@@ -7,6 +7,7 @@ $secondary: #fc0;
 
 // Our own vars
 $primary-light: fade_out($primary, 0.7);
+$secondary-light: fade_out($secondary, 0.87);
 
 // Secondary elements
 $body-color: #666;
@@ -81,6 +82,16 @@ a {
     }
 }
 
+// Buttons
+.btn-outline-dark:not(.disabled) {
+    &.active {
+        color: $secondary !important;
+    }
+    @include hover-focus {
+        color: #fff;
+    }
+}
+
 // Tables
 .table {
     thead {
@@ -96,6 +107,18 @@ td.number {
 }
 td.date {
     white-space: nowrap;
+}
+
+// Blockquotes
+blockquote {
+    background-color: $secondary-light;
+    border-left: 2px solid $secondary;
+    border-bottom-right-radius: 18px;
+    padding: 1rem;
+
+    p:last-child {
+        margin: 0;
+    }
 }
 
 // List groups
