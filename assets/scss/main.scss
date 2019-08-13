@@ -6,8 +6,9 @@ $primary: #089664;
 $secondary: #fc0;
 
 // Our own vars
-$primary-light: fade_out($primary, 0.7);
-$secondary-light: fade_out($secondary, 0.87);
+$primary-fade: fade_out($primary, 0.7);
+$primary-light: adjust_color($primary, $saturation: -50%, $lightness: 40%);
+$secondary-fade: fade_out($secondary, 0.87);
 
 // Secondary elements
 $body-color: #666;
@@ -15,7 +16,7 @@ $body-bg: #333;
 $link-hover-color: $secondary;
 $link-hover-bg: $body-bg; // Not a Bootstrap variable
 $link-hover-decoration: none;
-$list-group-border-color: $primary-light;
+$list-group-border-color: $primary-fade;
 $list-group-hover-bg: $link-hover-bg;
 $list-group-action-hover-color: $secondary;
 $navbar-dark-color: #fff;
@@ -44,7 +45,22 @@ body {
 #footer {
     padding: 1rem;
     text-align: center;
-    color: #eee;
+    color: $gray-400;
+    font-size: 90%;
+
+    a {
+        color: $primary-light;
+        @include hover-focus {
+            color: $secondary;
+            background-color: transparent;
+        }
+        &.active {
+            color: #fff;
+        }
+    }
+    .nav-link {
+        padding: .25rem .5rem;
+    }
 }
 .jumbotron {
     text-align: center;
@@ -95,7 +111,7 @@ a {
 // Tables
 .table {
     thead {
-        background-color: $primary-light;
+        background-color: $primary-fade;
     }
 }
 .table-narrow {
@@ -111,7 +127,7 @@ td.date {
 
 // Blockquotes
 blockquote {
-    background-color: $secondary-light;
+    background-color: $secondary-fade;
     border-left: 2px solid $secondary;
     border-bottom-right-radius: 18px;
     padding: 1rem;
@@ -225,7 +241,7 @@ pre {
 .blog-feed {
 
     .blog-post {
-        border-bottom: $primary-light 2px dotted;
+        border-bottom: $primary-fade 2px dotted;
         padding: 1rem .5rem 3rem .5rem;
         margin-bottom: 1rem;
 

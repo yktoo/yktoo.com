@@ -20,9 +20,6 @@ languages:
         languageName: Русский
         params:
             author: Дмитрий Канн
-            copyright:
-                from: 2000
-                by: Дмитрий Канн
             date_format: Mon, 2 Jan 2006 # TODO localise
             short_date_format: 02.01.2006
     nl:
@@ -105,13 +102,44 @@ menu:
           pre: <i class="fas fa-rss"></i>
           weight: 5
 
+    footer:
+        - identifier: archive
+          url: '/blog/archive/'
+          weight: 1
+        - identifier: map
+          url: '/blog/map/'
+          weight: 2
+        - identifier: tags
+          url: '/blog/tags/'
+          weight: 3
+        - identifier: seriesPlural
+          url: '/blog/series/'
+          weight: 4
+        - identifier: blogSubscribe
+          url: '/blog/faq/'
+          weight: 5
+        - identifier: blogSubscribe
+          url: '/blog/subscribe/'
+          weight: 6
+        - identifier: about
+          url: '/about/'
+          weight: 7
+        - identifier: contact
+          url: '/about/contact/'
+          weight: 8
+        - identifier: software
+          url: '/software/'
+          weight: 9
+        - identifier: radiolaria
+          url: '/radiolaria/'
+          weight: 10
+        - identifier: videos
+          url: '/video/'
+          weight: 11
 
 params:
     author: Dmitry Kann
     postsPerPage: 6
-    copyright:
-        from: 2000
-        by: Dmitry Kann
     licenses:
         gpl3: 'http://www.gnu.org/licenses/gpl.html'
         lgpl21: 'https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html'
@@ -120,3 +148,4 @@ params:
         mpl2: 'http://mozilla.org/MPL/2.0/'
     # TODO
     cookieConsentInfoUrl: /about
+    copyrightUrl: /about

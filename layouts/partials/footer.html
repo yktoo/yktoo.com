@@ -1,3 +1,13 @@
 <footer id="footer">
-    {{ with .Site.Params.Copyright }}<p>{{ printf (T "copyright") .from now.Year .by }}</p>{{ end }}
+    <div id="footer-nav">
+        <ul class="nav justify-content-center d-none d-lg-flex">
+            {{- $curURL := .RelPermalink -}}
+            {{- range .Site.Menus.footer }}
+            <li class="nav-item"><a class="nav-link{{ if eq $curURL (.URL | relLangURL | string) }} active{{ end }}" href="{{ .URL | absLangURL }}">
+                {{- T .Identifier -}}
+            </a></li>
+            {{- end }}
+        </ul>
+    </div>
+    <p>{{ T "copyright" (dict "year" now.Year "url" (.Site.Params.copyrightUrl | absLangURL)) | markdownify }}</p>
 </footer>

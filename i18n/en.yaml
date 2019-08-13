@@ -12,7 +12,7 @@
 - {id: cookieDismiss,     translation: Got it!}
 - {id: cookieLink,        translation: Learn more »}
 - {id: cookieMessage,     translation: This website uses cookies.}
-- {id: copyright,         translation: Copyright ©%.4d—%.4d %s.}
+- {id: copyright,         translation: 'Copyright ©2000—{{ .year }} [Dmitry Kann]({{ .url }}).'}
 - {id: docs,              translation: Documentation}
 - {id: download,          translation: Download}
 - {id: downloads,         translation: Downloads}

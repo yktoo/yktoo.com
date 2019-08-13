@@ -12,7 +12,7 @@
 - {id: cookieDismiss,     translation: Akkoord}
 - {id: cookieLink,        translation: Lees hier meer »}
 - {id: cookieMessage,     translation: Deze website gebruikt cookies.}
-- {id: copyright,         translation: Auteursrecht ©%.4d—%.4d %s.}
+- {id: copyright,         translation: 'Auteursrecht ©2000—{{ .year }} [Dmitry Kann]({{ .url }}).'}
 - {id: docs,              translation: Documentatie}
 - {id: download,          translation: Downloaden}
 - {id: downloads,         translation: Downloaden}
