@@ -9,8 +9,8 @@
 - {id: blogSubtitle,      translation: Blog over het Nederlandse leven (en veel andere dingen)}
 - {id: blogTitle,         translation: Nederland en verder}
 - {id: contact,           translation: Contact}
-- {id: cookieDismiss,     translation: OK}
-- {id: cookieLink,        translation: Lees hier meer}
+- {id: cookieDismiss,     translation: Akkoord}
+- {id: cookieLink,        translation: Lees hier meer »}
 - {id: cookieMessage,     translation: Deze website gebruikt cookies.}
 - {id: copyright,         translation: Auteursrecht ©%.4d—%.4d %s.}
 - {id: docs,              translation: Documentatie}

@@ -9,6 +9,9 @@
 - {id: blogSubtitle,      translation: Блог о жизни в Голландии (и многом другом)}
 - {id: blogTitle,         translation: Нидерланды и не только}
 - {id: contact,           translation: Контакт}
+- {id: cookieDismiss,     translation: OK}
+- {id: cookieLink,        translation: Подробнее »}
+- {id: cookieMessage,     translation: Этот веб-сайт использует куки.}
 - {id: copyright,         translation: Авторское право ©%.4d—%.4d %s.}
 - {id: docs,              translation: Документация}
 - {id: download,          translation: Скачать}
