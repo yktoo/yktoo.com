@@ -6,9 +6,11 @@
     // Bind onClick handlers
     tracks.click(click);
 
-    // Set up the audio element
-    audio[0].volume = 1;
-    audio.on('ended', next);
+    // Set up the audio element, if any
+    if (audio.length > 0) {
+        audio[0].volume = 1;
+        audio.on('ended', next);
+    }
 
     function click(e) {
         e.preventDefault();
