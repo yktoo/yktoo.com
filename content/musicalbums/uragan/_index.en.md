@@ -3,6 +3,7 @@ title: Uragan
 description: Tracks from an unfinished album (2002-2003).
 image: uragan.jpg
 weight: 3
+isAlbum: true
 credits:
     Lyrics: Igor Abakumov
     Music: "Igor Abakumov, except 3, 5, 7: music by Dmitry Kann"

@@ -3,6 +3,7 @@ title: Понемногу обо всём
 description: Альбом, записанный в 2002 г.
 image: ponemnogu-obo-vsyom.jpg
 weight: 2
+isAlbum: true
 credits:
     Тексты песен: "Игорь Абакумов, кроме **22**: текст И. Тарабаевой"
     Музыка: Игорь Абакумов

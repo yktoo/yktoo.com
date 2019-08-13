@@ -1,10 +1,13 @@
 {{ define "heading" }}
 <h1>{{ .Title | markdownify }}</h1>
 <div class="page-heading-meta">
-    {{- T "author" }}: {{ .Params.author -}}
-    {{- with .Params.album -}}
-    · {{ T "fromAlbum" }} <a href="{{ ($.GetPage (print `/radiolaria/` .)).RelPermalink }}">{{ . }}</a>
-    {{- end -}}
+    <!-- Author -->
+    {{- T "author" }}: {{ .Params.author }}
+
+    <!-- Album, if any -->
+    {{- with .Params.musicalbums }}{{ with $.GetPage (print "/musicalbums/" (urlize .)) }}{{ if .Params.isAlbum }}
+    · {{ T "fromAlbum" }} <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    {{- end }}{{ end }}{{ end }}
 </div>
 {{ end }}
 
@@ -13,16 +16,16 @@
 <section id="radiolaria-track-toolbar">
     <!-- Chords button, if needed -->
     {{ if .Params.hasChords }}
-    <a href="#" id="btnChords" class="btn btn-outline-dark" onclick="toggleChords(event)"><i class="fas fa-music"></i> {{ T "showChords" }}</a>
+    <a href="#" id="btnChords" class="btn btn-outline-dark" onclick="toggleChords(event)"><i class="fas fa-music"></i>&nbsp;{{ T "showChords" }}</a>
     {{ end }}
 
     {{ with .Params.mediaFileUrl }}
     <!-- Listen button, if there's audio -->
     <audio></audio>
-    <a href="{{ . }}" type="audio/mpeg" class="btn btn-outline-dark"><i class="fa playbtn"></i> {{ T "listen" }}</a>
+    <a href="{{ . }}" type="audio/mpeg" class="btn btn-outline-dark"><i class="fa playbtn"></i>&nbsp;{{ T "listen" }}</a>
 
     <!-- Download button -->
-    <a href="{{ . }}" class="btn btn-outline-dark"><i class="fas fa-download"></i> {{ T "download" }}</a>
+    <a href="{{ . }}" class="btn btn-outline-dark"><i class="fas fa-download"></i>&nbsp;{{ T "download" }}</a>
     {{ end }}
 </section>
 
@@ -50,6 +53,12 @@
         {{- if findRE "\\[.+\\]" $line -}}
             {{- $classes = $classes | append "font-weight-bold" -}}
             {{- $line = replaceRE "\\[(.+)\\]" "$1" $line -}}
+        {{- end -}}
+
+        <!-- Render italic whatever is surrounded by '*' -->
+        {{- if findRE "\\*.+\\*" $line -}}
+            {{- $classes = $classes | append "font-italic" -}}
+            {{- $line = replaceRE "\\*(.+)\\*" "$1" $line -}}
         {{- end -}}
 
         <!-- Render the line with its classes (replace empty line with a space) -->

@@ -6,7 +6,7 @@
 
 <!-- Tracklist -->
 <section id="radiolaria-album-tracklist">
-    <h2>{{ T "tracklist" }}</h2>
+    {{ if .Params.isAlbum }}<h2>{{ T "tracklist" }}</h2>{{ end }}
     <table class="table table-striped"><tbody>
         {{ range .Pages.ByParam "trackNumber" }}
         <tr>

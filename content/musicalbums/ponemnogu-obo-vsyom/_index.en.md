@@ -3,6 +3,7 @@ title: Ponemnogu obo Vsyom
 description: Album recorded in 2002.
 image: ponemnogu-obo-vsyom.jpg
 weight: 2
+isAlbum: true
 credits:
     Lyrics: "Igor Abakumov, except **22**: lyrics by I. Tarabaeva"
     Music: Igor Abakumov

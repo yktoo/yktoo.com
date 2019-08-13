@@ -32,9 +32,9 @@
 <section id="radiolaria-see-also">
     <h2 id="see-also">{{ T "seeAlso" }}</h2>
     <ul>
-        {{ with .GetPage "/radiolaria/tracks" }}
-        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-        {{ end }}
+        {{- range slice "/radiolaria/tracks" "/radiolaria/articles" }}
+        {{ with $.GetPage . }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>{{ end }}
+        {{- end }}
     </ul>
 </section>
 {{ end }}

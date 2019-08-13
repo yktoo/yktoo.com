@@ -1,0 +1,10 @@
+{{ define "heading" }}
+<h1>{{ .Title | markdownify }}</h1>
+<div class="page-heading-meta">{{ T "author" }}: {{ .Params.author }}</div>
+{{ end }}
+
+{{ define "main" }}
+<section id="radiolaria-article-main-content">
+    {{ .Content }}
+</section>
+{{ end }}

@@ -3,6 +3,7 @@ title: Ars Nova
 description: Album recorded in 2001.
 image: ars-nova.jpg
 weight: 1
+isAlbum: true
 credits:
     Lyrics: Igor Abakumov    
     Music and arrangement: Radiolaria    

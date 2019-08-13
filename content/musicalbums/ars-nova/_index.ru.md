@@ -3,6 +3,7 @@ title: Ars Nova
 description: Альбом, записанный в 2001 г.
 image: ars-nova.jpg
 weight: 1
+isAlbum: true
 credits:
     Тексты песен: Игорь Абакумов
     Музыка и аранжировка: Радиолярия
