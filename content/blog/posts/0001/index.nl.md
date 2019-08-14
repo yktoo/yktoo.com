@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2008-04-03T00:00:00Z"
 title: "Een soort voorwoord"
 tags: ["blog", "hoe het allemaal begon"]

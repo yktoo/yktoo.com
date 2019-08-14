@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2016-03-04T00:00:00Z"
 title: "Dream Theater presents The Astonishing in Theater Carré"
 tags: ["Amsterdam", "Carré", "Dream Theater", "music", "Netherlands", "progressive metal", "The Astonishing"]

@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2014-01-20T00:00:00Z"
 title: "Part 4. S.M.A.K."
 series: "Belgium. Ghent"

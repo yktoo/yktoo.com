@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2013-11-09T00:00:00Z"
 title: "Ещё два вечера со Stream of Passion"
 tags: ["P60", "progressive metal", "Stream of Passion", "Tivoli Spiegelbar", "Winter in Eden", "Амстелвейн", "музыка", "Нидерланды", "Утрехт"]

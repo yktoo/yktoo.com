@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2013-09-07T00:00:00Z"
 title: "Tackling M-Audio Studiophile speaker power-off popping sound"
 tags: ["gadgets", "hardware", "IKEA", "sound", "speaker"]

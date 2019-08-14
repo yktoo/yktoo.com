@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2014-10-13T00:00:00Z"
 title: "Aikido demo at Vathorstdag 2014"
 tags: ["aikido", "Amersfoort", "Netherlands", "sport", "Vathorst", "video"]

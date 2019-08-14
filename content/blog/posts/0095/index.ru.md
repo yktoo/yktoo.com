@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2011-06-05T00:00:00Z"
 title: "Нил Морз в Бурдерай"
 tags: ["De Boerderij", "progressive metal", "progressive rock", "музыка", "Нидерланды", "Нил Морз"]

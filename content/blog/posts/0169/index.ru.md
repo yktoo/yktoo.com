@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2012-11-18T00:00:00Z"
 title: "Мои скрипты на GitHub"
 tags: ["GitHub", "Linux", "Ubuntu", "yktools"]

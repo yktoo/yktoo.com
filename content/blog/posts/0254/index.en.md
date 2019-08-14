@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2015-07-20T00:00:00Z"
 title: "Trimming big"
 tags: ["Houten", "Netherlands", "technology"]

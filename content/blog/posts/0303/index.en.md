@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2017-01-01T00:00:00Z"
 title: "Frozen beauty"
 tags: ["Amsterdam-Rhine Canal", "beautiful", "Houten", "Netherlands", "water", "weather", "winter"]

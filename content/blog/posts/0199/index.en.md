@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2013-09-13T00:00:00Z"
 title: "How-to: Multiplicity in Gimp"
 tags: ["Gimp", "graphics", "how-to", "Linux", "multiplicity", "Ubuntu"]

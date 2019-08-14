@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2016-11-26T00:00:00Z"
 title: "Ayreonian craze"
 tags: ["013", "Arjen Lucassen", "Ayreon", "Ayreon Universe", "music", "Netherlands", "progressive metal", "progressive rock", "Tilburg"]

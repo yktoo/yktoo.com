@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2019-07-13T00:00:00Z"
 title: "On the subject of inevitable ⚤"
 tags: ["Netherlands", "personal", "wedding"]

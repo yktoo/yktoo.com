@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2013-06-10T00:00:00Z"
 title: "Part 2. Car and oranges"
 series: "Portugal"

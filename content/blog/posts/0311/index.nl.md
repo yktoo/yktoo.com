@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2017-02-21T00:00:00Z"
 title: "De geboorte van Yktoo Solutions"
 series: "Mijn ondernemerschap"

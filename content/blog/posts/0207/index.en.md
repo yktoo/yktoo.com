@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2013-12-14T00:00:00Z"
 title: "Harlingen"
 tags: ["Harlingen", "haven", "Netherlands"]

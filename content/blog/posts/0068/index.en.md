@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2011-01-20T00:00:00Z"
 title: "A hoot of negative"
 tags: ["interesting", "Netherlands", "Russia"]

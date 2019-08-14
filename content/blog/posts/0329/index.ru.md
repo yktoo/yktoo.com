@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2017-09-10T00:00:00Z"
 title: "Самый крупный гаджет: Toyota Prius PHV"
 tags: ["Plug-In Hybrid", "Toyota Prius", "авто", "гаджеты"]

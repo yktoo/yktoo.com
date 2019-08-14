@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2010-12-20T00:00:00Z"
 title: "It Feels Like Winter"
 tags: ["Amersfoort", "beautiful", "nature", "Netherlands", "snow", "winter"]

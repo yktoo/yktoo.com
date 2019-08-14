@@ -1,6 +1,5 @@
 ---
 title: Subscribe
-type: static
 layout: subscribe
 url: /en/blog/subscribe
 ---

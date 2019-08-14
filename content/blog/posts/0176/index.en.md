@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2013-01-28T00:00:00Z"
 title: "Bye Beatrix!"
 tags: ["Beatrix", "Drakensteyn", "media", "Netherlands", "queen", "throne", "Willem-Alexander"]

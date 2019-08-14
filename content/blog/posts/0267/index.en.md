@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2016-01-16T00:00:00Z"
 title: "The Aristocrats at De Boerderij"
 tags: ["Bryan Beller", "De Boerderij", "fusion", "Guthrie Govan", "jazz", "Marco Minnemann", "music", "Netherlands", "progressive metal", "The Aristocrats", "Zoetermeer"]

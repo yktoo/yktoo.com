@@ -1,4 +1,5 @@
 ---
+type: post
 draft: true
 date: "2013-08-14T00:00:00Z"
 title: "Tyumen verhalen"

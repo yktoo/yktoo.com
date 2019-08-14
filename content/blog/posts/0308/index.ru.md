@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2017-02-18T00:00:00Z"
 title: "Разработка в Yii/PHP/MySQL с использованием Docker"
 tags: ["Docker", "MySQL", "PHP", "Yii2", "веб", "контейнеры", "разработка", "сайт"]

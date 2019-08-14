@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2011-03-20T00:00:00Z"
 title: "Spring!"
 tags: ["flowers", "nature", "Netherlands", "spring"]

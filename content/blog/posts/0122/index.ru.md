@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2011-10-14T00:00:00Z"
 title: "Скрипт для смены обоев для Ubuntu/GNOME 3"
 tags: ["Gnome", "Linux", "Ubuntu", "Unity", "yktools", "обои"]

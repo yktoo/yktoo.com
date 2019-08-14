@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2014-01-31T00:00:00Z"
 title: "How to add an external power supply to a USB hub"
 tags: ["Apple", "DIY", "electronics", "gadgets", "hardware", "iMac", "USB"]

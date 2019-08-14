@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2017-03-30T00:00:00Z"
 title: "The quest for work"
 series: "My entrepreneurship"

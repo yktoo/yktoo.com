@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2018-05-13T00:00:00Z"
 title: "The castlerun, fourth edition"
 tags: ["castle", "De Haar", "De Halve van de Haar", "half marathon", "Netherlands", "running", "sport"]

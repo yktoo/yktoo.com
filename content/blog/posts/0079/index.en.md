@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2011-03-27T00:00:00Z"
 title: "The Hague"
 tags: ["beach", "beautiful", "Netherlands", "sea", "The Hague"]

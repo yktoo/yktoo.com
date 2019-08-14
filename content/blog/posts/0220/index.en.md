@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2014-05-24T00:00:00Z"
 title: "Where my foot has trod"
 tags: ["blog", "web", "website"]

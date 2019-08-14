@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2016-10-30T00:00:00Z"
 title: "Fixing whining noise from a DC adapter"
 tags: ["DIY", "gadgets", "geek porn", "hardware"]

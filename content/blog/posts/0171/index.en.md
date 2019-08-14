@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2013-01-02T00:00:00Z"
 title: "Happy New Year (again)!"
 tags: ["beach", "holidays", "Netherlands", "Nieuwjaarsduik", "The Hague"]

@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2014-01-17T00:00:00Z"
 title: "Part 1. Day"
 series: "Belgium. Ghent"

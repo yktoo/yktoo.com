@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2017-05-07T00:00:00Z"
 title: "Oddland, Until Rain, Wolverine в Бурдерай"
 tags: ["De Boerderij", "Oddland", "progressive metal", "progressive rock", "Until Rain", "Wolverine", "Зутермеер", "музыка", "Нидерланды"]

@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2019-07-19T00:00:00Z"
 title: "Managing Git projects on a mass scale"
 tags: ["development", "git", "Yktoo Solutions", "yktools"]

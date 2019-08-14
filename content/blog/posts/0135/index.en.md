@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2011-12-16T00:00:00Z"
 title: "Google Music Integration into Ubuntu"
 tags: ["Google", "Google Music", "Linux", "music", "Ubuntu"]

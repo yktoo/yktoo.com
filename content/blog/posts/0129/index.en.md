@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2011-11-23T00:00:00Z"
 title: "Bus conductors"
 tags: ["transport"]

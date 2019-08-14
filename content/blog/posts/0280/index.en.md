@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2016-06-12T00:00:00Z"
 title: "Ambient backlighting for Samsung LED TV"
 tags: ["DIY", "gadgets", "geek porn", "hardware", "IKEA", "light", "Samsung", "TV"]

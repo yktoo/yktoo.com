@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2016-06-10T00:00:00Z"
 title: "Ever wondered why I left Russia?"
 tags: ["mass media", "morons", "Russia", "United Russia", "video"]

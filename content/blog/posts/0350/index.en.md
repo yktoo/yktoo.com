@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2019-07-28T00:00:00Z"
 title: "Self-hosting Commento with Docker Compose"
 tags: ["cloud", "Commento", "Disqus", "Docker", "Docker Compose", "Linux", "software", "software development"]

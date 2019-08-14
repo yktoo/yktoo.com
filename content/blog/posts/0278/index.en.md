@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2016-05-07T00:00:00Z"
 title: "InfoPi (a.k.a. DIY Google Now)"
 tags: ["DIY", "gadgets", "geek porn", "GitHub", "home automation", "InfoPi", "Python", "Raspberry Pi"]

@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2017-09-10T00:00:00Z"
 title: "The biggest gadget: Toyota Prius PHV"
 tags: ["car", "gadgets", "Plug-In Hybrid", "Toyota Prius"]

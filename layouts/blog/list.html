@@ -41,10 +41,10 @@
 {{ define "main" }}
 <!-- Blog feed -->
 <div class="blog-feed">
-    {{ $numPosts := .Site.Params.postsPerPage }}
-    {{ range (.Paginate (where .Pages "Type" "blog") $numPosts).Pages }}
-    {{ .Render "list-item" }}
-    {{ end }}
+    {{- $numPosts := .Site.Params.postsPerPage }}
+    {{- range (.Paginate (where .Pages "Type" "post") $numPosts).Pages }}
+    {{- .Render "list-item" }}
+    {{- end }}
 </div>
 
 <!-- Paginator -->

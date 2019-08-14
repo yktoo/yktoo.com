@@ -1,7 +1,7 @@
 <!-- Single post item, which is displayed in a list -->
 <article class="blog-post">
     <!-- Post heading -->
-    <h2><a href="{{ .Permalink }}">{{ with .Params.series }}{{ . }} ‣ {{ end }}{{ .Title | markdownify | plainify | safeHTML }}</a></h2>
+    <h2><a href="{{ .Permalink }}">{{ with .Params.series }}{{ . }} ‣ {{ end }}{{ .Title | markdownify }}</a></h2>
 
     <!-- Post metadata -->
     {{- $dateFormat := default "Monday Jan 2, 2006" (index .Site.Params "date_format") -}}

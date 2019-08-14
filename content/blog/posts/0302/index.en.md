@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2016-12-31T00:00:00Z"
 title: "So long two thousand sixteen"
 tags: ["2016", "upshot", "web", "website", "Yktoo Solutions"]

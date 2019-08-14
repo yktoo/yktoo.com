@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2015-05-23T00:00:00Z"
 title: "Part 4. Smart Hub and applications"
 series: "4K UHD TV Samsung UE75HU7500: a complete review"

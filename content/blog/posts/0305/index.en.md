@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2017-01-17T00:00:00Z"
 title: "Touchpad toggle script for Ubuntu"
 tags: ["GitHub", "touchpad", "Ubuntu", "yktools"]

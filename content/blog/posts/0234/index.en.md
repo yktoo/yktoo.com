@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2014-12-12T00:00:00Z"
 title: "Househunt"
 tags: ["house", "Houten", "mortgage", "Netherlands"]

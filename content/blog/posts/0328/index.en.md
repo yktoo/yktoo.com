@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2017-06-06T00:00:00Z"
 title: "Riverside at De Boerderij"
 tags: ["De Boerderij", "music", "Netherlands", "progressive metal", "progressive rock", "Riverside", "Zoetermeer"]

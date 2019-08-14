@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2013-06-14T00:00:00Z"
 title: "Part 3. Albufeira"
 series: "Portugal"

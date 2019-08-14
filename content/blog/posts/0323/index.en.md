@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2017-05-21T00:00:00Z"
 title: "Part 2. Plovdiv"
 series: "Bulgaria"

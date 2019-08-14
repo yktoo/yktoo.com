@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2016-01-16T00:00:00Z"
 title: "The Aristocrats в Бурдерай"
 tags: ["Bryan Beller", "De Boerderij", "Guthrie Govan", "Marco Minnemann", "progressive metal", "The Aristocrats", "джаз", "Зутермеер", "музыка", "Нидерланды", "фьюжн"]

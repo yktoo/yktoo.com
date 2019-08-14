@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2011-07-14T00:00:00Z"
 title: "The new old blog"
 tags: ["blog"]

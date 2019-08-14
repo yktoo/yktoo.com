@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2013-05-22T00:00:00Z"
 title: "Amersfoort Jazz Festival 2013"
 tags: ["Amersfoort", "flamenco", "jazz", "music", "video"]

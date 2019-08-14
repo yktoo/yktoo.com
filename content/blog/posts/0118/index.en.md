@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2011-10-02T00:00:00Z"
 title: "October. Summer"
 tags: ["beach", "Netherlands", "sea", "The Hague", "weather"]

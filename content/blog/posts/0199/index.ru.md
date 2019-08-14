@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2013-09-13T00:00:00Z"
 title: "Размножение объектов на фото в Gimp"
 tags: ["Gimp", "Linux", "multiplicity", "Ubuntu", "графика", "инструкция"]

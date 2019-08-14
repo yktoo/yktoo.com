@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2017-03-28T00:00:00Z"
 title: "David Maxim Micic, Disperse, Plini at Patronaat"
 tags: ["David Maxim Micic", "Disperse", "music", "Patronaat", "Plini", "progressive metal"]

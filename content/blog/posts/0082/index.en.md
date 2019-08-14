@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2011-04-03T00:00:00Z"
 title: "The Right Way"
 tags: ["beautiful", "flowers", "nature", "Netherlands", "spring"]

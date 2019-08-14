@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2014-08-31T00:00:00Z"
 title: "Part 1. Train stations"
 series: "Houten"

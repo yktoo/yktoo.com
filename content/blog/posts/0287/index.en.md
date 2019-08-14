@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2016-08-30T00:00:00Z"
 title: "Russian store experiences"
 tags: ["differences", "frustrating", "Russia", "Saint Petersburg"]

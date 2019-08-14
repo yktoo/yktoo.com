@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2011-04-21T00:00:00Z"
 title: "Part 9. Budapest. St. Stephen's Basilica"
 series: "Vienna and Budapest"

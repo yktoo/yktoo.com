@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2015-07-20T00:00:00Z"
 title: "Лечим скорость чтения Samsung SSD 840 EVO в Linux"
 tags: ["Samsung", "Samsung 840 EVO", "SSD", "Ubuntu", "yktools", "гаджеты", "железо"]

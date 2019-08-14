@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2014-01-19T00:00:00Z"
 title: "Part 3. Graffiti"
 series: "Belgium. Ghent"

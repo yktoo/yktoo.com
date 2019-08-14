@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2016-12-18T00:00:00Z"
 title: "Santa Run Houten"
 tags: ["Christmas", "festivities", "Houten", "Netherlands", "Rotary International", "running", "Santa Claus", "sport"]

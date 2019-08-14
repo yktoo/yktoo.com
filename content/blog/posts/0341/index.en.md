@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2018-11-12T00:00:00Z"
 title: "That Awkward Moment"
 tags: ["music", "Netherlands", "Riverside", "Tivoli Vredenburg", "Utrecht"]

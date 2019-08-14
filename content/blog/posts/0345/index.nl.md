@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2019-07-13T00:00:00Z"
 title: "Aangaande het onderwerp van onvermijdelijk ⚤"
 tags: ["huwelijk", "Nederland", "persoonlijk"]

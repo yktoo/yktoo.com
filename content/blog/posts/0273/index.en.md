@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2016-03-27T00:00:00Z"
 title: "Shodan: 11 years on the way"
 tags: ["aikido", "Amersfoort", "Joginder Singh", "Leiden", "Netherlands", "Peter van Lier", "Rudik Manukyan", "Russia", "sport", "Tyumen", "Woerden"]

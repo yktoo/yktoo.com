@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2013-01-20T00:00:00Z"
 title: "A Winter Evening with Stream of Passion — 2013"
 tags: ["Autumn", "Ben Mathot", "Charlotte Wessels", "Damian Wilson", "Daniel de Jongh", "Delain", "Marcela Bovio", "Marjan Welman", "progressive metal", "Stream of Passion", "Tivoli de Helling", "музыка", "Нидерланды", "Утрехт"]

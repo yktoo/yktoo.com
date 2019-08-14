@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2013-10-25T00:00:00Z"
 title: "Aikikai Amersfoort website"
 tags: ["aikido", "Amersfoort", "Netherlands", "sport", "web", "website", "Yii"]

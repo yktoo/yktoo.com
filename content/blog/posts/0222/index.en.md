@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2014-09-07T00:00:00Z"
 title: "Part 2. Bikes"
 series: "Houten"

@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2013-12-13T00:00:00Z"
 title: "DKLang Localization Package 4.01 и 5.0"
 tags: ["Delphi", "DKLang", "FireMonkey", "GitHub", "интернационализация"]

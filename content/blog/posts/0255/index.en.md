@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2015-07-20T00:00:00Z"
 title: "Fixing Samsung SSD 840 EVO performance issues in Linux"
 tags: ["gadgets", "hardware", "Samsung", "Samsung 840 EVO", "SSD", "Ubuntu", "yktools"]

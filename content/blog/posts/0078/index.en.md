@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2011-03-23T00:00:00Z"
 title: "Uninstalling Dictators: Amended Version"
 tags: ["banter", "corruption", "funny", "Russia"]

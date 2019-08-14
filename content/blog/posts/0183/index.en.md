@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2013-05-15T00:00:00Z"
 title: "Jazz: Kramer  Shilkloper in Tyumen"
 tags: ["Arkady Shilkloper", "Daniel Kramer", "jazz", "music", "Tyumen", "video"]

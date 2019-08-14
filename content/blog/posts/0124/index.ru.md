@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2011-10-31T00:00:00Z"
 title: "In Vino Veritas"
 tags: ["вино", "цены"]

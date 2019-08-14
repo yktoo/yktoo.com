@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2011-08-21T00:00:00Z"
 title: "Нам сальса строить и жить помогает (Dias Latinos — 2011)"
 tags: ["Dias Latinos", "Tomasa Quartet", "Амерсфорт", "джаз", "музыка", "Нидерланды"]

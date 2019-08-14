@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2011-04-03T00:00:00Z"
 title: "Out of service"
 tags: ["funny", "Netherlands"]

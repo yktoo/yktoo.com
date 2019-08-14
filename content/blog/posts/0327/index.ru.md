@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2017-06-03T00:00:00Z"
 title: "Полумарафон Ijsselstijnloop"
 tags: ["Ijsselsteinloop", "Айсселстайн", "бег", "Нидерланды", "полумарафон", "спорт"]

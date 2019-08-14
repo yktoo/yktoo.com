@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2011-08-31T00:00:00Z"
 title: "A new look"
 tags: ["health care", "Netherlands"]

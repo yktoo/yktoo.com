@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2013-06-05T00:00:00Z"
 title: "M-Audio Studiophile AV 40 review"
 tags: ["gadgets", "hardware", "review", "sound", "speaker", "unboxing"]

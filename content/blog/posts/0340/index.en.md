@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2018-09-12T00:00:00Z"
 title: "My presentation at IDM Europe: 20 September 2018"
 tags: ["Amsterdam", "announcement", "IDM Europe", "Netherlands", "presentation"]

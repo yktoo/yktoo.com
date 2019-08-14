@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2016-12-12T00:00:00Z"
 title: "Часть 1"
 series: "Лондон"

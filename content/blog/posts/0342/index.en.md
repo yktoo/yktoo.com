@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2018-12-31T00:00:00Z"
 title: "So long two thousand eighteen"
 tags: ["2018", "upshot"]

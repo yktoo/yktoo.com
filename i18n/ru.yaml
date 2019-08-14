@@ -35,6 +35,7 @@
 - {id: map,               translation: Карта}
 - {id: mySocialLinks,     translation: Мои соцсети}
 - {id: numPages,          translation: {one: '{{ .Count }} страница', few: '{{ .Count }} страницы', many: '{{ .Count }} страниц'}}
+- {id: otherPostsSeries,  translation: Остальные посты из этой серии}
 - {id: paginatorNext,     translation: Следующая страница}
 - {id: paginatorPrevious, translation: Предыдущая страница}
 - {id: post,              translation: Пост}

@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2016-07-15T00:00:00Z"
 title: "Packaging overdone"
 tags: ["funny", "Internet", "parcel"]

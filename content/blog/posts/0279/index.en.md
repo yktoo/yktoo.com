@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2016-06-05T00:00:00Z"
 title: "Amersfoort Marathon 2016"
 tags: ["Amersfoort", "Amersfoort Marathon", "half marathon", "Netherlands", "running", "sport"]

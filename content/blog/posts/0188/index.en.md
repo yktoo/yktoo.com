@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2013-06-01T00:00:00Z"
 title: "Tomasa Quartet in De Observant"
 tags: ["Amersfoort", "jazz", "music", "Observant", "Tomasa Quartet"]

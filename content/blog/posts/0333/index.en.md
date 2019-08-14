@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2018-01-03T00:00:00Z"
 title: "Key repeat settings in Ubuntu 17.10 Artful"
 tags: ["Artful Aardvark", "Gnome", "Gnome Control Center", "Ubuntu", "wacky"]

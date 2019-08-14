@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2013-06-22T00:00:00Z"
 title: "Part 5. Edge of the world in Sagres"
 series: "Portugal"

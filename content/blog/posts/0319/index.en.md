@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2017-04-16T00:00:00Z"
 title: "Docker Indicator 0.1.0"
 tags: ["Docker", "Docker Indicator", "indicator", "Python 3", "Ubuntu", "Unity", "Yakkety Yak", "Zesty Zapus"]

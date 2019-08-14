@@ -1,6 +1,5 @@
 ---
 title: Abonneren op mijn blog
-type: static
 layout: subscribe
 url: /nl/blog/subscribe
 ---

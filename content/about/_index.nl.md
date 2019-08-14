@@ -1,7 +1,6 @@
 ---
-date: "2019-08-01T17:54:54+0200"
 title: Over
-type: static
+showHeading: true
 layout: single
 ---
 

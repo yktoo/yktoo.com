@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2011-09-17T00:00:00Z"
 title: "The cutting edge of jogging"
 tags: ["Netherlands", "Pellikaan", "running", "sport"]

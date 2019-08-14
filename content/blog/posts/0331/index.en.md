@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2017-11-01T00:00:00Z"
 title: "Answer to the Ultimate Question"
 tags: ["birthday"]

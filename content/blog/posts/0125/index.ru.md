@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2011-11-15T00:00:00Z"
 title: "Джаз: Martijn van Iterson  Beets Brothers"
 tags: ["Observant", "Амерсфорт", "джаз", "музыка", "Нидерланды"]

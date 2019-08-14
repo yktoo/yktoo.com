@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2016-02-12T00:00:00Z"
 title: "Austria, Sölden, snowboard"
 tags: ["Austria", "Längenfeld", "mountains", "snow", "snowboard", "Sölden", "sport", "travel", "Tyrol"]

@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2017-02-09T00:00:00Z"
 title: "Wintersport: La Plagne, France"
 tags: ["France", "La Plagne", "mountains", "snow", "snowboard", "sport", "winter", "wintersport"]

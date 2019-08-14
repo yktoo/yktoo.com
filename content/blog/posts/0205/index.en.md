@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2013-12-09T00:00:00Z"
 title: "Leeuwarden"
 tags: ["graffiti", "Leeuwarden", "Netherlands", "tower"]

@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2011-08-13T00:00:00Z"
 title: "Часть 2. Innalzamento"
 series: "Post Nubila Sol"

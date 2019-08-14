@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2015-05-14T00:00:00Z"
 title: "Part 1. Specs and unboxing"
 series: "4K UHD TV Samsung UE75HU7500: a complete review"

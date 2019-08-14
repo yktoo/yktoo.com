@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2013-12-05T00:00:00Z"
 title: "Autumn and Armillaria Again"
 tags: ["autumn", "Baarn", "forest", "mushrooms", "nature", "Netherlands"]

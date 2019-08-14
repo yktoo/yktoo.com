@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2013-05-17T00:00:00Z"
 title: "The Last Queen's Day"
 tags: ["Amsterdam", "festivities", "Netherlands", "orange fever", "Queen's Day"]

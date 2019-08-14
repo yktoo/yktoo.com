@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2015-12-29T00:00:00Z"
 title: "On the subject of running"
 tags: ["Amersfoort", "Amsterdam-Rhine Canal", "castle", "De Haar", "De Halve van de Haar", "Houten", "Loop door Houten", "Marathon Amersfoort", "Netherlands", "running", "sport", "upshot"]

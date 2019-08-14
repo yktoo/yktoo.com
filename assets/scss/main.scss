@@ -433,17 +433,6 @@ pre {
     }
 }
 
-// Misc
-.flang {
-    font-style: italic;
-    color: #4e0070;
-}
-.page-heading-meta {
-    color: #6f8f84;
-    font-size: 90%;
-    margin-bottom: 2rem;
-}
-
 // Audio
 a {
     > .playbtn:before {
@@ -458,8 +447,6 @@ a {
         content: "\f28b"; // = fa-pause-circle
     }
 }
-
-
 
 // Lyrics
 .lyrics-text {
@@ -483,4 +470,26 @@ a {
             display: block;
         }
     }
+}
+
+// Misc
+// A by-icon, icon that precedes some label
+.bycon {
+    padding-right: 0.2em;
+}
+.inline-list-sep {
+    padding-left: 0.25rem;
+    padding-right: 0.25rem;
+    &:before {
+        content: "·";
+    }
+}
+.flang {
+    font-style: italic;
+    color: #4e0070;
+}
+.page-heading-meta {
+    color: #6f8f84;
+    font-size: 90%;
+    margin-bottom: 2rem;
 }

@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2011-02-09T00:00:00Z"
 title: "R. I. P. Gary"
 tags: ["Gary Moore", "music", "Netherlands", "RIP"]

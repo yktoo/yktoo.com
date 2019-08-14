@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2011-09-16T00:00:00Z"
 title: "For Dummies"
 tags: ["banter", "funny"]

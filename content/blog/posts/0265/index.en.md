@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2015-12-02T00:00:00Z"
 title: "Nest Protect 2 review"
 tags: ["gadgets", "Google", "hardware", "Nest", "Nest Protect 2", "review"]

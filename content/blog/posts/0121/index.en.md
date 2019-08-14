@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2011-10-12T00:00:00Z"
 title: "Minority report"
 tags: ["Apple", "Richard Stallman", "RIP", "Steve Jobs"]

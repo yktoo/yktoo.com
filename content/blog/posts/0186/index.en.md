@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2013-05-24T00:00:00Z"
 title: "Flower parade"
 tags: ["beautiful", "bloemencorso", "flower parade", "flowers", "Keukenhof"]

@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2018-07-02T00:00:00Z"
 title: "Медленное подключение к MySQL в Docker"
 tags: ["Docker", "Linux", "MySQL", "контейнеры", "разработка"]

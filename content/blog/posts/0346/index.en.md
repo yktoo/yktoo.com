@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2019-07-15T00:00:00Z"
 title: "Meet the all-new Yktoo Solutions website!"
 series: "My entrepreneurship"

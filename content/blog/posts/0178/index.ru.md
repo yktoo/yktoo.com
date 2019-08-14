@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2013-03-03T00:00:00Z"
 title: "Индикатор-переключатель звукового устройства для Убунту"
 series: "Sound Switcher Indicator"

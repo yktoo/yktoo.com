@@ -5,8 +5,8 @@
 {{/* TODO template "_internal/opengraph.html" . */}}
 {{ template "_internal/twitter_cards.html" . }}
 
-{{- with .Site.Params.google_verify_meta -}}
+{{- with .Site.Params.googleVerifyMeta }}
 <meta name="google-site-verification" content="{{ . }}" />
-{{ end }}
+{{- end }}
 
-{{- .Site.Hugo.Generator -}}
+{{- .Site.Hugo.Generator }}

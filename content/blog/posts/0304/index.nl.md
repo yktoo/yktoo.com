@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2017-01-07T00:00:00Z"
 title: "Haastige spoed is zelden goed"
 tags: ["auto", "Houten", "Nederland"]

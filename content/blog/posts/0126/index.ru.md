@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2011-11-18T00:00:00Z"
 title: "Эта музыка будет вечной"
 tags: ["Google", "Google Music", "Linux", "Ubuntu", "музыка"]

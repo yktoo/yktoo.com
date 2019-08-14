@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2016-11-15T00:00:00Z"
 title: "Shadowrise and Myrath at Patronaat"
 tags: ["Haarlem", "music", "Myrath", "Netherlands", "Patronaat", "progressive metal", "progressive rock", "Shadowrise"]

@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2011-06-26T00:00:00Z"
 title: "Stream of Passion в P60"
 tags: ["P60", "progressive metal", "Sin7sinS", "Stream of Passion", "Амстелвейн", "музыка", "Нидерланды"]

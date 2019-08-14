@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2013-12-20T00:00:00Z"
 title: "Little blue train"
 tags: ["Amersfoort", "interesting", "Netherlands", "trains", "transport"]

@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2010-12-05T00:00:00Z"
 title: "The Land of Change"
 tags: ["Amersfoort", "beautiful", "Netherlands", "weather"]

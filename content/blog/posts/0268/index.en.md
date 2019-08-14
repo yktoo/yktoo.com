@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2016-01-17T00:00:00Z"
 title: "The first snow!"
 tags: ["nature", "Netherlands", "snow", "weather", "winter"]

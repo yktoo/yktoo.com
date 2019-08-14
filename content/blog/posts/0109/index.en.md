@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2011-08-21T00:00:00Z"
 title: "Dias Latinos 2011"
 tags: ["Amersfoort", "Dias Latinos", "jazz", "music", "Netherlands", "Tomasa Quartet"]

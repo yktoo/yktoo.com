@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2011-07-20T00:00:00Z"
 title: "Скрипт для смены обоев Gnome/Unity"
 tags: ["Gnome", "Linux", "Ubuntu", "Unity", "обои"]

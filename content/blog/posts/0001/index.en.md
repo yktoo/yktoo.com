@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2008-04-03T00:00:00Z"
 title: "A kind of preface"
 tags: ["blog", "how it all began"]

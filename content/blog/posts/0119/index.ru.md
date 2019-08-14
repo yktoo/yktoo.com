@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2011-10-06T00:00:00Z"
 title: "iSad"
 tags: ["Apple", "некрологи", "Стив Джобс"]

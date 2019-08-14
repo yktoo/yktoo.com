@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2008-11-11T00:00:00Z"
 title: "Новая железка"
 tags: ["Toyota Prius", "авто", "Нидерланды"]

@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2011-12-18T00:00:00Z"
 title: "Pagan's Mind в Melkweg"
 tags: ["Melkweg", "Pagan's Mind", "progressive metal", "Амстердам", "музыка", "Нидерланды"]

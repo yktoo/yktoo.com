@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2015-01-03T00:00:00Z"
 title: "Happy New 2015!"
 tags: ["fireworks", "holidays", "Houten", "Netherlands", "nieuwjaarsduik"]

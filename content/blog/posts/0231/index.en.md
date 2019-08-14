@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2014-11-30T00:00:00Z"
 title: "Replacing HDD with SSD in iMac 2010"
 tags: ["Apple", "DIY", "gadgets", "geek porn", "hardware", "iMac", "Samsung", "Samsung 840 EVO", "SSD", "Trusty Tahr", "Ubuntu"]

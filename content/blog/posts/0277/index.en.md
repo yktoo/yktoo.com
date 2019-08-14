@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2016-05-01T00:00:00Z"
 title: "King's Day 2016"
 tags: ["Amsterdam", "festivities", "King's Day", "Netherlands", "orange fever"]

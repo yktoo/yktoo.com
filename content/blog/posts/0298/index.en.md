@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2016-11-27T00:00:00Z"
 title: "The smartest traffic-light"
 tags: ["Houten", "Internet", "mass media", "Netherlands", "news", "traffic-lights", "transport"]

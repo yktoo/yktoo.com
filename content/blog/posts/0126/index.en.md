@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2011-11-18T00:00:00Z"
 title: "An ear for music"
 tags: ["Google", "Google Music", "Linux", "music", "Ubuntu"]

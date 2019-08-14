@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2011-12-25T00:00:00Z"
 title: "Johannes Heesters passed away"
 tags: ["Amersfoort", "Johannes Heesters", "Netherlands", "RIP"]

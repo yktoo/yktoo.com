@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2017-06-03T00:00:00Z"
 title: "Review: Xiaomi In-Ear Headphones Pro HD"
 tags: ["gadgets", "hardware", "headphones", "In-Ear Headphones Pro HD", "Mi", "review", "sound", "unboxing", "Xiaomi"]

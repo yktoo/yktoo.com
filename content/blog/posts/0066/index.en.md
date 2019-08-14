@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2010-12-12T00:00:00Z"
 title: "Fog in Amersfoort"
 tags: ["Amersfoort", "beautiful", "fog", "nature", "Netherlands"]

@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2015-09-04T00:00:00Z"
 title: "SAIL Amsterdam 2015"
 tags: ["Amsterdam", "boats", "Ferris wheel", "Netherlands", "SAIL Amsterdam", "ships", "water"]

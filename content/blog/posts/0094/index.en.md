@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2011-04-30T00:00:00Z"
 title: "Queen's Day 2011"
 tags: ["holidays", "Netherlands", "Queen's Day"]

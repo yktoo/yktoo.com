@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2011-10-09T00:00:00Z"
 title: "iMac: Mac OS X Lion + Ubuntu"
 tags: ["iMac", "Linux", "Mac OS X", "Ubuntu"]

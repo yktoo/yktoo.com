@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2017-05-22T00:00:00Z"
 title: "Level C1 reached!"
 tags: ["certificate", "Dutch language", "education", "Netherlands"]

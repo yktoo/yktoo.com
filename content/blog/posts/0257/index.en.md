@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2015-08-04T00:00:00Z"
 title: "Russian Post, or Welcome to Hell"
 tags: ["frustrating", "reflections", "Russia", "Russian Post", "Tyumen"]

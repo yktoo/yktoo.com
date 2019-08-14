@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2017-12-31T00:00:00Z"
 title: "So long two thousand seventeen"
 tags: ["2017", "Germany", "Rees", "upshot"]

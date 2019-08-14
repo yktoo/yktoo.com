@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2014-10-12T00:00:00Z"
 title: "Part 3. Water and Fruits"
 series: "Houten"

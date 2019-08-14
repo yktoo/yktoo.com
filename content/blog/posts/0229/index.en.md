@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2014-11-10T00:00:00Z"
 title: "A record autumn"
 tags: ["forest", "Heidestein", "mushrooms", "nature", "Netherlands", "record", "weather"]

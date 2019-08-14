@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2015-02-03T00:00:00Z"
 title: "Ghent Light Festival — 2015"
 tags: ["Ghent Light Festival", "Бельгия", "Гент", "красивое", "ночь", "свет"]

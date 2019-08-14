@@ -1,6 +1,6 @@
 ---
-title: FAQ
-type: static
+title: ~~Too~~ Frequently Asked Questions
+showHeading: true
 url: /en/blog/faq
 ---
 

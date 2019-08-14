@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2011-12-03T00:00:00Z"
 title: "Johannes Heesters"
 tags: ["Amersfoort", "interesting", "Johannes Heesters", "media", "Netherlands"]

@@ -36,6 +36,7 @@
 - {id: map,               translation: Kaart}
 - {id: mySocialLinks,     translation: Mijn sociale links}
 - {id: numPages,          translation: {one: '{{ .Count }} pagina', other: '{{ .Count }} pagina''s'}}
+- {id: otherPostsSeries,  translation: Andere posts van deze serie}
 - {id: paginatorNext,     translation: Volgende pagina}
 - {id: paginatorPrevious, translation: Vorige pagina}
 - {id: post,              translation: Post}

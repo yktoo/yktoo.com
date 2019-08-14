@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2018-07-02T00:00:00Z"
 title: "Slow connection to MySQL in Docker"
 tags: ["containers", "development", "Docker", "Linux", "MySQL"]

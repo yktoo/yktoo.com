@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2011-08-25T00:00:00Z"
 title: "Watermarking pictures for Picasa Web Albums"
 tags: ["Gnome", "Google Picasa", "images", "Linux", "pictures", "Ubuntu", "yktools"]

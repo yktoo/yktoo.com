@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2012-02-20T00:00:00Z"
 title: "Logitech Wireless Adapter for Bluetooth Review"
 tags: ["audio", "Bluetooth", "gadgets", "hardware", "Logitech", "review", "sound", "Ubuntu", "unboxing", "wireless"]

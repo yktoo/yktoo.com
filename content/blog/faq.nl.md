@@ -1,6 +1,6 @@
 ---
-title: Veelgestelde vragen
-type: static
+title: ~~Te~~Veelgestelde vragen
+showHeading: true
 url: /nl/blog/faq
 ---
 

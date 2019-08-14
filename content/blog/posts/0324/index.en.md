@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2017-05-23T00:00:00Z"
 title: "The architecture of our time: Emoji building"
 tags: ["Amersfoort", "architecture", "emoji", "funny", "Netherlands", "Vathorst"]

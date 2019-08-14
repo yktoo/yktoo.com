@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2011-07-16T00:00:00Z"
 title: "The future is here"
 tags: ["funny"]

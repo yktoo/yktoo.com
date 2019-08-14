@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2015-01-24T00:00:00Z"
 title: "Книга: «Марсианин», Э. Уир"
 tags: ["Andy Weir", "The Martian", "книги", "фантастика"]

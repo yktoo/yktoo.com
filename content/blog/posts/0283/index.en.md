@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2016-07-17T00:00:00Z"
 title: "Sun Caged Farewell Show"
 tags: ["De Bosuil", "Marcel Coenen", "Marcel Coenen  Friends", "music", "Paul Villarreal", "progressive metal", "Sun Caged", "The Barstool Philosophers", "Weert"]

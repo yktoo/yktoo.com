@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2011-09-02T00:00:00Z"
 title: "Видимые изменения в Ubuntu 11.10 Oneiric Ocelot"
 tags: ["Linux", "Ubuntu", "Unity", "перевод"]

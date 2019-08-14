@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2015-11-28T00:00:00Z"
 title: "Nightwish, Arch Enemy, Amorphis в Heineken Music Hall"
 tags: ["Amorphis", "Arch Enemy", "Floor Jansen", "Heineken Music Hall", "Nightwish", "progressive metal", "Амстердам", "музыка"]

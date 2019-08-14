@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2013-01-31T00:00:00Z"
 title: "Liberated from property"
 tags: ["crime", "frustrating", "Netherlands", "Utrecht"]

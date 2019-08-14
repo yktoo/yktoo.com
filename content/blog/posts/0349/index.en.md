@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2019-07-26T00:00:00Z"
 title: "The national temperature record is broken"
 tags: ["heatwave", "record", "temperature", "weather"]

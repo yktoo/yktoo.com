@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2016-04-11T00:00:00Z"
 title: "Sky is no limit"
 tags: ["music", "Radiolaria", "website"]

@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2015-09-09T00:00:00Z"
 title: "Dodgy kiwi"
 tags: ["funny", "garden", "Houten", "Netherlands"]

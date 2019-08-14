@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2017-06-03T00:00:00Z"
 title: "Half marathon: Ijsselstijnloop"
 tags: ["half marathon", "Ijsselstijn", "Ijsselstijnloop", "Netherlands", "running", "sport"]

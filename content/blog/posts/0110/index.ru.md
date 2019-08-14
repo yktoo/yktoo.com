@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2011-08-25T00:00:00Z"
 title: "Надписывание изображений для Picasa Web Albums"
 tags: ["Gnome", "Google Picasa", "Linux", "Ubuntu", "yktools", "картинки"]

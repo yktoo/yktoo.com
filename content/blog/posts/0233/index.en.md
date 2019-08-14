@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2014-12-01T00:00:00Z"
 title: "Tuning Ubuntu for SSD"
 tags: ["how-to", "Linux", "optimisation", "SSD", "Ubuntu"]

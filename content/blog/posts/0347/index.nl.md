@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2019-07-19T00:00:00Z"
 title: "Grootschalig Git projectbeheer"
 tags: ["git", "software", "softwareontwikkeling", "Yktoo Solutions", "yktools"]

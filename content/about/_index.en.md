@@ -1,7 +1,6 @@
 ---
-date: "2019-08-01T15:56:13+0200"
 title: About
-type: static
+showHeading: true
 layout: single
 ---
 

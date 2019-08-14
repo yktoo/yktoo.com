@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2014-01-12T00:00:00Z"
 title: "Part 3. City"
 series: "Egypt. Hurghada"

@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2016-04-30T00:00:00Z"
 title: "Separate the sheep from the phones"
 tags: ["funny", "gadgets", "Netherlands", "waste"]

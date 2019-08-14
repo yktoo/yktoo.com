@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2011-11-20T00:00:00Z"
 title: "Arena в Бурдерай"
 tags: ["Arena", "De Boerderij", "progressive metal", "progressive rock", "Зутермеер", "музыка", "Нидерланды"]

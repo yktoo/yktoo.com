@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2012-05-05T00:00:00Z"
 title: "Within Temptation в Carré"
 tags: ["Carré", "progressive metal", "Within Temptation", "музыка"]

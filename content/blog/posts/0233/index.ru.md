@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2014-12-01T00:00:00Z"
 title: "Настройка Ubuntu для работы с SSD"
 tags: ["Linux", "SSD", "Ubuntu", "инструкция", "оптимизация"]

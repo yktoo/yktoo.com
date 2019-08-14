@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2018-04-03T00:00:00Z"
 title: "Anniversary: ten years in the Netherlands"
 tags: ["anniversary", "Netherlands", "reflections", "upshot"]

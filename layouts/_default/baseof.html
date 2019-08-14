@@ -15,7 +15,7 @@
     <link rel="shortcut icon" type="image/x-icon" href="{{ `favicon.ico` | absURL }}"/>
 
     <!-- Page title -->
-    <title>{{ block "title" . }}{{ with .Title }}{{ . | markdownify }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
+    <title>{{ block "title" . }}{{ with .Title }}{{ . | markdownify | plainify | safeHTML }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
 
     <!-- Stylesheets -->
     {{ partial "stylesheets.html" . }}
@@ -37,20 +37,20 @@
 
 <!-- Main page content -->
 <section id="page">
-    {{ block "page" . }}
     <div class="container">
         <!-- Second-level Navbar -->
-        {{ block "secondary-navbar" . }}{{ end }}
+        {{- block "secondary-navbar" . }}{{ end }}
 
         <!-- Heading -->
-        {{ block "heading" . }}{{ end }}
+        {{- block "heading" . }}
+        {{- if .Params.showHeading }}<h1>{{ .Title | markdownify }}</h1>{{ end }}
+        {{- end }}
 
         <!-- Main content -->
         {{ block "main" . }}
         {{ .Content }}
         {{ end }}
     </div>
-    {{ end }}
 </section>
 
 {{ partial "footer.html" . }}

@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2011-04-17T00:00:00Z"
 title: "Part 4. Vienna. Schönbrunn"
 series: "Vienna and Budapest"

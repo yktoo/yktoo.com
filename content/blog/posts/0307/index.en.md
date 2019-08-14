@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2017-02-17T00:00:00Z"
 title: "20 years, and counting"
 tags: ["anniversary", "blog", "employment"]

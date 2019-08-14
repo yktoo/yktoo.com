@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2016-07-18T00:00:00Z"
 title: "Now official: Shodan"
 tags: ["aikido", "Leiden", "Netherlands", "sport"]

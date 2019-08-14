@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2011-11-21T00:00:00Z"
 title: "Amersfog"
 tags: ["Amersfoort", "beautiful", "fog", "nature", "Netherlands"]

@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2011-09-21T00:00:00Z"
 title: "AutoRAI 2011"
 tags: ["Amsterdam", "AutoRAI", "cars", "girls", "Netherlands", "RAI"]

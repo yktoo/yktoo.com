@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2011-04-20T00:00:00Z"
 title: "Part 7. Budapest at Night"
 series: "Vienna and Budapest"

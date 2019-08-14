@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2011-08-27T00:00:00Z"
 title: "Interview with Daniël de Jong (Desperados)"
 tags: ["Desperados", "interview", "music", "Netherlands"]

@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2015-08-02T00:00:00Z"
 title: "Up in the air"
 tags: ["aeroplanes", "Diamond DA40", "Germany", "Lelystad", "Netherlands", "Nordhorn"]

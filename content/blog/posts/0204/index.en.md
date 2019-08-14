@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2013-12-08T00:00:00Z"
 title: "How I became a Bob"
 tags: ["Amersfoort", "Bob", "car", "Netherlands", "night", "police"]

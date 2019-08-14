@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2013-06-16T00:00:00Z"
 title: "Part 4. Alte"
 series: "Portugal"

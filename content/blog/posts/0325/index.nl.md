@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2017-05-22T00:00:00Z"
 title: "Taalniveau C1 behaald!"
 tags: ["certificaat", "Nederland", "Nederlands", "opleiding"]

@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2016-09-22T00:00:00Z"
 title: "yktoo.com switched to HTTPS"
 tags: ["HTTPS", "web", "website"]

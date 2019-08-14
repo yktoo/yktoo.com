@@ -1,6 +1,0 @@
-{{ if .Params.categories }}
-<i class="fas fa-folder" aria-hidden="true"></i>&nbsp;{{ range $idx, $category := .Params.categories }}{{ if gt $idx 0 }}, {{ end }}<a href="{{ `/categories/` | relLangURL }}{{ . | urlize }}" rel="category tag">{{ . }}</a>{{ end }}
-{{ end }}
-{{ if .Params.tags }}
-<i class="fas fa-tag" aria-hidden="true"></i>&nbsp;{{ range $idx, $tag := .Params.tags }}{{ if gt $idx 0 }}, {{ end }}<a href="{{ `/tags/` | relLangURL }}{{ . | urlize }}" rel="tag">{{ . }}</a>{{ end }}
-{{ end }}

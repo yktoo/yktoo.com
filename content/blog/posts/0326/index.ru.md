@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2017-06-03T00:00:00Z"
 title: "Обзор наушников Xiaomi In-Ear Headphones Pro HD"
 tags: ["In-Ear Headphones Pro HD", "Mi", "Xiaomi", "анбоксинг", "гаджеты", "железо", "звук", "наушники", "обзор"]

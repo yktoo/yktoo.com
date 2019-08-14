@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2016-11-04T00:00:00Z"
 title: "2.1.1"
 series: "Sound Switcher Indicator"

@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2011-04-14T00:00:00Z"
 title: "Part 1. Schiphol"
 series: "Vienna and Budapest"

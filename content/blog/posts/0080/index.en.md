@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2011-03-30T00:00:00Z"
 title: "Dutch Tulip Round-Up"
 tags: ["beautiful", "flowers", "nature", "Netherlands", "spring"]

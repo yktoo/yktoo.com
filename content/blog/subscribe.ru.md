@@ -1,6 +1,5 @@
 ---
 title: Подписаться на мой блог
-type: static
 layout: subscribe
 url: /ru/blog/subscribe
 ---

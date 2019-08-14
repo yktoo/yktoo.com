@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2013-01-16T00:00:00Z"
 title: "A fruit Xmas tree"
 tags: ["DIY", "food", "holidays"]

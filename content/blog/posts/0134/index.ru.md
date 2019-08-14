@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2011-12-07T00:00:00Z"
 title: "Джаз: Ben van den Dungen"
 tags: ["Observant", "Амерсфорт", "джаз", "музыка", "Нидерланды"]

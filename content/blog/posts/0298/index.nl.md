@@ -1,4 +1,5 @@
 ---
+type: post
 date: "2016-11-27T00:00:00Z"
 title: "Het slimste verkeerslicht"
 tags: ["Houten", "Internet", "massamedia", "Nederland", "nieuws", "transport", "verkeerslichten"]
