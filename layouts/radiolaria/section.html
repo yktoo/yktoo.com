@@ -28,6 +28,9 @@
     </div>
 </section>
 
+<!-- No content check -->
+{{ partial "no_content_checker.html" (.GetPage "/musicalbums").Pages }}
+
 <!-- See also -->
 <section id="radiolaria-see-also">
     <h2 id="see-also">{{ T "seeAlso" }}</h2>

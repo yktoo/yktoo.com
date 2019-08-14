@@ -1,7 +1,9 @@
 - {id: about,             translation: About}
 - {id: archive,           translation: Archive}
+- {id: articles,          translation: Articles}
 - {id: author,            translation: Author}
 - {id: authoredBy,        translation: by}
+- {id: blog,              translation: Blog}
 - {id: blogPostId,        translation: Internal post ID}
 - {id: blogPosts,         translation: Blog posts}
 - {id: blogSubscribe,     translation: Subscribe}
@@ -35,10 +37,12 @@
 - {id: locale,            translation: en_US}
 - {id: map,               translation: Map}
 - {id: mySocialLinks,     translation: My social links}
+- {id: noContentCurLang,  translation: 'No English content available.<br><big>¯\_(ツ)_/¯</big><br>Try selecting another language from the menu above.'}
 - {id: numPages,          translation: {one: '{{ .Count }} page', other: '{{ .Count }} pages'}}
 - {id: otherPostsSeries,  translation: Other posts of this series}
 - {id: paginatorNext,     translation: Next page}
 - {id: paginatorPrevious, translation: Previous page}
+- {id: poetryAndLyrics,   translation: Poetry and lyrics}
 - {id: post,              translation: Post}
 - {id: postAnnouncements, translation: Post announcements}
 - {id: postedInSeries,    translation: in}
@@ -52,10 +56,10 @@
 - {id: posts_en,          translation: English posts}
 - {id: posts_ru,          translation: Russian posts}
 - {id: posts_nl,          translation: Dutch posts}
+- {id: privacyPolicy,     translation: Privacy policy}
 - {id: radiolaria,        translation: Radiolaria}
 - {id: readOn,            translation: Read on »}
 - {id: readOnAt,          translation: Continue reading on}
-- {id: recentPosts,       translation: Recent Posts}
 - {id: releaseData,       translation: Release data}
 - {id: releasedOn,        translation: Released on}
 - {id: seeAlso,           translation: See also}
@@ -72,6 +76,7 @@
 - {id: support,           translation: Support}
 - {id: tag,               translation: Tag}
 - {id: tags,              translation: Tags}
+- {id: termsOfService,    translation: Terms of service}
 - {id: tracklist,         translation: Tracklist}
 - {id: timeline,          translation: Timeline}
 - {id: viaThisLink,       translation: via this link}

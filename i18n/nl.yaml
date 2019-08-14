@@ -1,7 +1,9 @@
 - {id: about,             translation: Over}
 - {id: archive,           translation: Archief}
+- {id: articles,          translation: Artikelen}
 - {id: author,            translation: Auteur}
 - {id: authoredBy,        translation: door}
+- {id: blog,              translation: Blog}
 - {id: blogPostId,        translation: Intern post id}
 - {id: blogPosts,         translation: Blogposts}
 - {id: blogSubscribe,     translation: Abonneren}
@@ -35,10 +37,12 @@
 - {id: locale,            translation: nl_NL}
 - {id: map,               translation: Kaart}
 - {id: mySocialLinks,     translation: Mijn sociale links}
+- {id: noContentCurLang,  translation: 'Geen Nederlandstalige inhoud beschikbaar.<br><big>¯\_(ツ)_/¯</big><br>Probeer een andere taal te kiezen bovenaan deze pagina.'}
 - {id: numPages,          translation: {one: '{{ .Count }} pagina', other: '{{ .Count }} pagina''s'}}
 - {id: otherPostsSeries,  translation: Andere posts van deze serie}
 - {id: paginatorNext,     translation: Volgende pagina}
 - {id: paginatorPrevious, translation: Vorige pagina}
+- {id: poetryAndLyrics,   translation: Poëzie en teksten}
 - {id: post,              translation: Post}
 - {id: postAnnouncements, translation: Blog updates}
 - {id: postedInSeries,    translation: in}
@@ -52,10 +56,10 @@
 - {id: posts_en,          translation: Posts in het Engels}
 - {id: posts_ru,          translation: Posts in het Russisch}
 - {id: posts_nl,          translation: Posts in het Nederlands}
+- {id: privacyPolicy,     translation: Privacybeleid}
 - {id: radiolaria,        translation: Radiolaria}
 - {id: readOn,            translation: Lees verder »}
 - {id: readOnAt,          translation: Verder lezen op}
-- {id: recentPosts,       translation: Recente berichten}
 - {id: releaseData,       translation: Gegevens}
 - {id: releasedOn,        translation: Gereleased op}
 - {id: seeAlso,           translation: Zie ook}
@@ -72,6 +76,7 @@
 - {id: support,           translation: Ondersteuning}
 - {id: tag,               translation: Tag}
 - {id: tags,              translation: Tags}
+- {id: termsOfService,    translation: Algemene voorwaarden}
 - {id: timeline,          translation: Tijdlijn}
 - {id: tracklist,         translation: Tracklijst}
 - {id: viaThisLink,       translation: via deze link}

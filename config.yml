@@ -103,39 +103,93 @@ menu:
           weight: 5
 
     footer:
+        # Blog
+        - identifier: blog
+          url: '/'
+          pre: '<b>'
+          post: '</b>'
+          weight: 1
         - identifier: archive
           url: '/blog/archive/'
+          pre: '<span class="dot-sep"></span>'
+          parent: blog
           weight: 1
         - identifier: map
           url: '/blog/map/'
+          pre: '<span class="dot-sep"></span>'
+          parent: blog
           weight: 2
         - identifier: tags
           url: '/blog/tags/'
+          pre: '<span class="dot-sep"></span>'
+          parent: blog
           weight: 3
         - identifier: seriesPlural
           url: '/blog/series/'
+          pre: '<span class="dot-sep"></span>'
+          parent: blog
           weight: 4
-        - identifier: blogSubscribe
+        - identifier: faq
           url: '/blog/faq/'
+          pre: '<span class="dot-sep"></span>'
+          parent: blog
           weight: 5
         - identifier: blogSubscribe
           url: '/blog/subscribe/'
+          pre: '<span class="dot-sep"></span>'
+          parent: blog
           weight: 6
+
+        # About
         - identifier: about
           url: '/about/'
-          weight: 7
+          pre: '<b>'
+          post: '</b>'
+          weight: 2
         - identifier: contact
           url: '/about/contact/'
-          weight: 8
+          pre: '<span class="dot-sep"></span>'
+          parent: about
+        - identifier: privacyPolicy
+          url: '/about/privacy/'
+          pre: '<span class="dot-sep"></span>'
+          parent: about
+        - identifier: termsOfService
+          url: '/about/tos/'
+          pre: '<span class="dot-sep"></span>'
+          parent: about
+
+        # Software
         - identifier: software
           url: '/software/'
-          weight: 9
+          pre: '<b>'
+          post: '</b>'
+          weight: 3
+
+        # Radiolaria
         - identifier: radiolaria
           url: '/radiolaria/'
-          weight: 10
+          pre: '<b>'
+          post: '</b>'
+          parent: software
+          weight: 1
+        - identifier: poetryAndLyrics
+          url: '/radiolaria/tracks/'
+          pre: '<span class="dot-sep"></span>'
+          parent: software
+          weight: 2
+        - identifier: articles
+          url: '/radiolaria/articles/'
+          pre: '<span class="dot-sep"></span>'
+          parent: software
+          weight: 3
+
+        # Videos
         - identifier: videos
           url: '/video/'
-          weight: 11
+          pre: '<b>'
+          post: '</b>'
+          parent: software
 
 params:
     author: Dmitry Kann

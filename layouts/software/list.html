@@ -1,5 +1,9 @@
 {{ define "main" }}
+
+<!-- Main page content -->
 {{ .Content }}
+
+<!-- Software lists, grouped by platform -->
 <div class="row">
     {{- range .Pages.GroupByParam "platform" }}
     <div class="col-md-6">
@@ -27,4 +31,7 @@
     </div>
     {{- end }}
 </div>
+
+<!-- No content check -->
+{{ partial "no_content_checker.html" .Pages }}
 {{ end }}

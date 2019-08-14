@@ -1,7 +1,9 @@
 - {id: about,             translation: О сайте}
 - {id: archive,           translation: Архив}
+- {id: articles,          translation: Статьи}
 - {id: author,            translation: Автор}
 - {id: authoredBy,        translation: /}
+- {id: blog,              translation: Блог}
 - {id: blogPostId,        translation: Внутренний идентификатор поста}
 - {id: blogPosts,         translation: Посты в блоге}
 - {id: blogSubscribe,     translation: Подписаться}
@@ -34,10 +36,12 @@
 - {id: locale,            translation: ru_RU}
 - {id: map,               translation: Карта}
 - {id: mySocialLinks,     translation: Мои соцсети}
+- {id: noContentCurLang,  translation: 'Содержимое на русском недоступно.<br><big>¯\_(ツ)_/¯</big><br>Попробуйте выбрать другой язык в верхнем меню.'}
 - {id: numPages,          translation: {one: '{{ .Count }} страница', few: '{{ .Count }} страницы', many: '{{ .Count }} страниц'}}
 - {id: otherPostsSeries,  translation: Остальные посты из этой серии}
 - {id: paginatorNext,     translation: Следующая страница}
 - {id: paginatorPrevious, translation: Предыдущая страница}
+- {id: poetryAndLyrics,   translation: Стихи и тексты песен}
 - {id: post,              translation: Пост}
 - {id: postAnnouncements, translation: Анонсы блога}
 - {id: postedInSeries,    translation: в}
@@ -51,10 +55,10 @@
 - {id: posts_en,          translation: Посты на английском}
 - {id: posts_ru,          translation: Посты на русском}
 - {id: posts_nl,          translation: Посты на голландском}
+- {id: privacyPolicy,     translation: Политика приватности}
 - {id: radiolaria,        translation: Радиолярия}
 - {id: readOn,            translation: Далее »}
 - {id: readOnAt,          translation: Читать далее на}
-- {id: recentPosts,       translation: Свежие записи}
 - {id: releaseData,       translation: Информация}
 - {id: releasedOn,        translation: Опубликовано}
 - {id: seeAlso,           translation: См. также}
@@ -71,6 +75,7 @@
 - {id: support,           translation: Поддержка}
 - {id: tag,               translation: Тег}
 - {id: tags,              translation: Теги}
+- {id: termsOfService,    translation: Условия предоставления услуг}
 - {id: timeline,          translation: Хронология}
 - {id: tracklist,         translation: Композиции альбома}
 - {id: viaThisLink,       translation: по этой ссылке}

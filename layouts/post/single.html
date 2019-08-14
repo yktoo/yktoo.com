@@ -84,7 +84,7 @@
 
             <!-- Links to translations -->
             {{- if .IsTranslated }}
-                {{- if $items }}<span class="inline-list-sep"></span>{{ else }}{{ $items = true }}{{ end }}
+                {{- if $items }}<span class="dop-sep"></span>{{ else }}{{ $items = true }}{{ end }}
                 {{- T "postInLangs" -}}&nbsp;
                 {{- range $idx, $translation := .Translations }}{{ if $idx }}, {{ end -}}
                 <a href="{{ .Permalink }}">{{ T (print "postIn_" .Lang) }}</a>
@@ -93,18 +93,18 @@
 
             <!-- Categories -->
             {{- if .Params.categories }}
-                {{- if $items }}<span class="inline-list-sep"></span>{{ else }}{{ $items = true }}{{ end }}
+                {{- if $items }}<span class="dot-sep"></span>{{ else }}{{ $items = true }}{{ end }}
                 <i class="fas fa-folder bycon"></i>{{ range $idx, $category := .Params.categories }}{{ if $idx }}, {{ end }}<a href="{{ relref $page (print `/categories/` (urlize .)) }}" rel="category tag">{{ . }}</a>{{ end }}
             {{- end }}
 
             <!-- Tags -->
             {{- if .Params.tags }}
-                {{- if $items }}<span class="inline-list-sep"></span>{{ else }}{{ $items = true }}{{ end }}
+                {{- if $items }}<span class="dot-sep"></span>{{ else }}{{ $items = true }}{{ end }}
                 <i class="fas fa-tag bycon"></i>{{ range $idx, $tag := .Params.tags }}{{ if $idx }}, {{ end }}<a href="{{ relref $page (print `/tags/` (urlize .)) }}" rel="tag">{{ . }}</a>{{ end }}
             {{- end }}
 
             <!-- Post ID -->
-            {{- if $items }}<span class="inline-list-sep"></span>{{ else }}{{ $items = true }}{{ end }}
+            {{- if $items }}<span class="dot-sep"></span>{{ else }}{{ $items = true }}{{ end }}
             <i class="fas fa-key bycon"></i><abbr title="{{ T `blogPostId` }}">{{ path.Base .File.Dir }}</abbr>
         </p>
 
