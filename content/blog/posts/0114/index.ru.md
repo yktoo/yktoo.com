@@ -6,8 +6,8 @@ series: "Post Nubila Sol"
 tags: ["progressive metal", "инструментал", "моя музыка", "музыка", "Радиолярия"]
 ---
 
-Это третья и заключительная часть трилогии **Post Nubila Sol**. Написана, исполнена и сведена мной всё в том же 2002 году. Жанр: Electronic/Dark/Ambient/Progressive Metal.
+Это третья и заключительная часть трилогии **Post Nubila Sol**. Написана, исполнена и сведена мной всё в том же 2002 году. Жанр: {{< fl "Electronic/Dark/Ambient/Progressive Metal" >}}.
 
 <!--more-->
 
-<audio src="/radiolaria/track-listen/54" style="width: 100%;" controls></audio>
+{{< audio_page "/radiolaria/tracks/054" >}}

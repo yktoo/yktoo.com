@@ -10,4 +10,4 @@ This is the third and the last part of the **Post Nubila Sol** trilogy. It's com
 
 <!--more-->
 
-<audio src="/radiolaria/track-listen/54" style="width: 100%;" controls></audio>
+{{< audio_page "/radiolaria/tracks/054" >}}

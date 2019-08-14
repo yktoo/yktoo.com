@@ -9,4 +9,4 @@ tags: ["progressive metal", "инструментал", "моя музыка", "
 
 Жанр: Instrumental Progressive Metal.
 
-<audio src="/radiolaria/track-listen/50" style="width: 100%;" controls></audio>
+{{< audio_page "/radiolaria/tracks/050" >}}

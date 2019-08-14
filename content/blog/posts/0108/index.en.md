@@ -10,4 +10,4 @@ This is the second part of the **Post Nubila Sol** trilogy. It's composed, recor
 
 <!--more-->
 
-<audio src="/radiolaria/track-listen/53" style="width: 100%;" controls></audio>
+{{< audio_page "/radiolaria/tracks/053" >}}

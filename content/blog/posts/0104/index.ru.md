@@ -12,4 +12,4 @@ tags: ["progressive metal", "инструментал", "моя музыка", "
 
 <!--more-->
 
-<audio src="/radiolaria/track-listen/51" style="width: 100%;" controls></audio>
+{{< audio_page "/radiolaria/tracks/051" >}}

@@ -12,4 +12,4 @@ The name is Latin for "After the clouds there is sun", which symbolizes contrast
 
 <!--more-->
 
-<audio src="/radiolaria/track-listen/51" style="width: 100%;" controls></audio>
+{{< audio_page "/radiolaria/tracks/051" >}}

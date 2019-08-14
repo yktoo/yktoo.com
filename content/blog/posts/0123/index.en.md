@@ -9,4 +9,4 @@ tags: ["instrumental", "music", "my music", "progressive metal", "Radiolaria"]
 
 Genre: Instrumental Progressive Metal.
 
-<audio src="/radiolaria/track-listen/50" style="width: 100%;" controls></audio>
+{{< audio_page "/radiolaria/tracks/050" >}}
