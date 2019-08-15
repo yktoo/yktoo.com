@@ -14,18 +14,19 @@ languages:
     en:
         weight: 1
         languageName: English
-        params:
     ru:
         weight: 2
         languageName: Русский
         params:
             author: Дмитрий Канн
-            date_format: Mon, 2 Jan 2006 # TODO localise
-            short_date_format: 02.01.2006
+            dateFormat: Mon, 2 Jan 2006 # TODO localise
+            shortDateFormat: 02.01.2006
     nl:
         weight: 3
         languageName: Nederlands
         params:
+            dateFormat: Mon, 2 Jan 2006 # TODO localise
+            shortDateFormat: 02-01-2006
 
 # Related indices settings
 related:
@@ -203,3 +204,5 @@ params:
     # TODO
     cookieConsentInfoUrl: /about
     copyrightUrl: /about
+    dateFormat: "Mon Jan 2, 2006"
+    shortDateFormat: "Jan 2, 2006"

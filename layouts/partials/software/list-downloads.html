@@ -2,21 +2,21 @@
     page     - page being rendered
     category - category whose downloads to list
 -->
-{{- $page := .page -}}
-{{- $items := index $page.Site.Data.downloads .category -}}
-{{- $dateFormat := default "Mon Jan 2, 2006" (index $page.Site.Params "date_format") -}}
+{{- $page := .page }}
+{{- $items := index $page.Site.Data.downloads .category }}
+{{- $dateFormat := $page.Site.Params.dateFormat }}
 
 <!-- First list featured, then others -->
-{{ range slice true false }}
-{{ $featured := . }}
-{{ range where $items "isFeatured" $featured }}
-{{ $title := index .title $page.Lang | markdownify }}
+{{- range slice true false }}
+{{- $featured := . }}
+{{- range where $items "isFeatured" $featured }}
+{{- $title := index .title $page.Lang | markdownify }}
 <div class="download{{ cond $featured ` featured` ``}} container-fluid">
     <div class="row">
         <div class="col-md-7">
             <p class="{{ cond $featured `h3` `h4` }}">{{ $title }}</p>
             <p>{{ index .description $page.Lang | markdownify }}</p>
-            <p class="text-muted">{{ T "releasedOn" }} {{ dateFormat $dateFormat .releaseDate }}</p>
+            <p class="text-muted">{{ T "releasedOn" }}&nbsp;{{ partial "date" (dict "date" (time .releaseDate) "format" $dateFormat) }}</p>
         </div>
         <div class="col-md-5 text-center">
             <a class="btn btn-success {{ cond $featured `btn-lg` `btn-sm` }}" href="{{ .downloadUrl }}">
@@ -26,5 +26,5 @@
         </div>
     </div>
 </div>
-{{ end }}
+{{- end }}
 {{ end }}

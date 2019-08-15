@@ -1,0 +1,5 @@
+<!-- Render the given date in a short or long format. Context:
+    date   - date to format
+    format - format to use
+ -->
+<time datetime="{{ .date.Format `2006-01-02T15:04:05Z07:00` }}">{{ .date.Format .format }}</time>

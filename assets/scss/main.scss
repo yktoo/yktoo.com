@@ -8,6 +8,7 @@ $secondary: #fc0;
 // Our own vars
 $primary-fade: fade_out($primary, 0.7);
 $primary-light: adjust_color($primary, $saturation: -50%, $lightness: 40%);
+$primary-pale: adjust_color($primary, $saturation: -70%, $lightness: 20%);
 $secondary-fade: fade_out($secondary, 0.87);
 
 // Secondary elements
@@ -255,15 +256,6 @@ pre {
         }
     }
 }
-.blog-post-meta {
-    color: #6f8f84;
-    font-size: 90%;
-    margin-bottom: 2rem;
-
-    time {
-        font-weight: $font-weight-bold;
-    }
-}
 .blog-post-single {
 
     .blog-post-footer {
@@ -487,12 +479,31 @@ a {
         content: "·";
     }
 }
+.dot-separated {
+    display: inline-block;
+    padding-left: 0.25rem;
+    &:before {
+        content: "·";
+        padding-right: 0.25rem;
+    }
+    &:first-child {
+        padding-left: 0;
+        &:before {
+            content: "";
+            padding-right: 0;
+        }
+    }
+}
 .flang {
     font-style: italic;
     color: #4e0070;
 }
 .page-heading-meta {
-    color: #6f8f84;
+    color: $primary-pale;
     font-size: 90%;
     margin-bottom: 2rem;
+
+    time {
+        font-weight: $font-weight-bold;
+    }
 }

@@ -5,7 +5,7 @@
 {{ define "main" }}
 <div class="row">
     <!-- Post list -->
-    {{- $dateFormat := default "Jan 2, 2006" (index .Site.Params "short_date_format") -}}
+    {{- $dateFormat := .Site.Params.shortDateFormat -}}
     {{- $page := . -}}
     <div class="col-md-9">
         <table class="blog-post-list"><tbody>
@@ -23,8 +23,8 @@
         <!-- Output a post row -->
         <tr>
             <td class="number">{{ sub $count $idx }}.</td>
-            <td class="date"><time datetime="{{ .Date.Format `2006-01-02T15:04:05Z07:00` }}">{{ .Date.Format $dateFormat }}</time></td>
-            <td>{{ partial "blog/post_link.html" (dict "page" $page "post" .) }}</td>
+            <td class="date">{{ partial "date" (dict "date" .Date "format" $dateFormat) }}</td>
+            <td>{{ partial "blog/post_link" (dict "page" $page "post" .) }}</td>
         </tr>
         {{ end }}
         </tbody></table>

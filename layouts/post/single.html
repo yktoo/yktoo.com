@@ -52,14 +52,15 @@
 {{ end }}
 
 {{ define "main" }}
-{{ $dateFormat := default "Mon Jan 2, 2006" (index .Site.Params "date_format") }}
-{{ $page := . }}
+{{- $page := . }}
+{{- $seriesLink := "" }}{{ with .Params.series }}{{ $seriesLink = relref $page (print `/series/` (urlize .)) }}{{ end }}
 <article class="blog-post-single">
 
     <!-- Post metadata -->
-    <p class="blog-post-meta">
-        <time datetime="{{ .Date.Format `2006-01-02T15:04:05Z07:00` }}">{{ .Date.Format $dateFormat }}</time>
-        {{ T "authoredBy" }}&nbsp;{{ .Params.author | default .Site.Params.author }}{{ with .Params.series }} {{ T "postedInSeries" }} {{ . }}{{ end -}}
+    <p class="page-heading-meta">
+        {{- partial "date" (dict "date" .Date "format" .Site.Params.dateFormat) -}}
+        <span class="dot-sep"></span>{{ T "authoredBy" }}&nbsp;{{ .Params.author | default .Site.Params.author }}
+        {{- with .Params.series }}<span class="dot-sep"></span>{{ T "postedInSeries" }}&nbsp;<a href="{{ $seriesLink }}">{{ . }}</a>{{ end -}}
     </p>
 
     <!-- Post content -->
@@ -73,43 +74,47 @@
     <!-- Post footer -->
     <div class="blog-post-footer">
 
-        <p>
-            {{- $items := false }}
-
+        <div class="">
             <!-- Link to the post series, if any -->
             {{- with .Params.series }}
-            {{- $items = true }}
-            <i class="fas fa-layer-group bycon"></i><a href="{{ relref $page (print `/series/` (urlize .)) }}">{{ T "otherPostsSeries" }}</a>
+            <p class="dot-separated">
+                <i class="fas fa-layer-group bycon"></i><a href="{{ $seriesLink }}">{{ T "otherPostsSeries" }}</a>
+            </p>
             {{- end }}
 
             <!-- Links to translations -->
             {{- if .IsTranslated }}
-                {{- if $items }}<span class="dop-sep"></span>{{ else }}{{ $items = true }}{{ end }}
-                {{- T "postInLangs" -}}&nbsp;
+            <p class="dot-separated">
+                <i class="fas fa-flag-checkered bycon"></i>{{- T "postInLangs" -}}&nbsp;
                 {{- range $idx, $translation := .Translations }}{{ if $idx }}, {{ end -}}
                 <a href="{{ .Permalink }}">{{ T (print "postIn_" .Lang) }}</a>
                 {{- end -}}
+            </p>
             {{- end }}
 
             <!-- Categories -->
             {{- if .Params.categories }}
-                {{- if $items }}<span class="dot-sep"></span>{{ else }}{{ $items = true }}{{ end }}
+            <p class="dot-separated">
                 <i class="fas fa-folder bycon"></i>{{ range $idx, $category := .Params.categories }}{{ if $idx }}, {{ end }}<a href="{{ relref $page (print `/categories/` (urlize .)) }}" rel="category tag">{{ . }}</a>{{ end }}
+            </p>
             {{- end }}
 
             <!-- Tags -->
             {{- if .Params.tags }}
-                {{- if $items }}<span class="dot-sep"></span>{{ else }}{{ $items = true }}{{ end }}
+            <p class="dot-separated">
                 <i class="fas fa-tag bycon"></i>{{ range $idx, $tag := .Params.tags }}{{ if $idx }}, {{ end }}<a href="{{ relref $page (print `/tags/` (urlize .)) }}" rel="tag">{{ . }}</a>{{ end }}
+            </p>
             {{- end }}
 
             <!-- Post ID -->
-            {{- if $items }}<span class="dot-sep"></span>{{ else }}{{ $items = true }}{{ end }}
-            <i class="fas fa-key bycon"></i><abbr title="{{ T `blogPostId` }}">{{ path.Base .File.Dir }}</abbr>
-        </p>
+            <p class="dot-separated">
+                <i class="fas fa-key bycon"></i><abbr title="{{ T `blogPostId` }}">{{ path.Base .File.Dir }}</abbr>
+            </p>
+        </div>
 
         <!-- Sharing buttons -->
         {{ partial "blog/post_share" . }}
+
 
         <!-- TODO comments -->
 

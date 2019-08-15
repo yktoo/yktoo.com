@@ -7,10 +7,9 @@
 <!-- List of all articles -->
 <section id="radiolaria-articles">
     <table class="table table-striped table-sm">
-        {{- $dateFormat := default "Jan 2, 2006" (index .Site.Params "short_date_format") }}
         {{- range .Pages }}
         <tr>
-            <td class="date"><time datetime="{{ .Date.Format `2006-01-02T15:04:05Z07:00` }}">{{ .Date.Format $dateFormat }}</time></td>
+            <td class="date">{{ partial "date" (dict "date" .Date "format" .Site.Params.shortDateFormat) }}</td>
             <td><a href="{{ .RelPermalink }}">{{ .Title }}</a>{{- with .Params.description }}<br>{{ . | markdownify }}{{ end -}}</td>
         </tr>
         {{- end }}
@@ -18,5 +17,5 @@
 </section>
 
 <!-- No content check -->
-{{ partial "no_content_checker.html" .Pages }}
+{{ partial "no_content_checker" .Pages }}
 {{ end }}

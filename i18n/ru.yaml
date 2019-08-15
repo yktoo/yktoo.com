@@ -2,7 +2,7 @@
 - {id: archive,           translation: Архив}
 - {id: articles,          translation: Статьи}
 - {id: author,            translation: Автор}
-- {id: authoredBy,        translation: /}
+- {id: authoredBy,        translation: 'Автор:'}
 - {id: blog,              translation: Блог}
 - {id: blogPostId,        translation: Внутренний идентификатор поста}
 - {id: blogPosts,         translation: Посты в блоге}
@@ -44,7 +44,7 @@
 - {id: poetryAndLyrics,   translation: Стихи и тексты песен}
 - {id: post,              translation: Пост}
 - {id: postAnnouncements, translation: Анонсы блога}
-- {id: postedInSeries,    translation: в}
+- {id: postedInSeries,    translation: 'Подборка:'}
 - {id: postIn_en,         translation: на английском}
 - {id: postIn_ru,         translation: на русском}
 - {id: postIn_nl,         translation: на голландском}

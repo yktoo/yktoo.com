@@ -2,7 +2,7 @@
 - {id: archive,           translation: Archive}
 - {id: articles,          translation: Articles}
 - {id: author,            translation: Author}
-- {id: authoredBy,        translation: by}
+- {id: authoredBy,        translation: By}
 - {id: blog,              translation: Blog}
 - {id: blogPostId,        translation: Internal post ID}
 - {id: blogPosts,         translation: Blog posts}
@@ -44,7 +44,7 @@
 - {id: poetryAndLyrics,   translation: Poetry and lyrics}
 - {id: post,              translation: Post}
 - {id: postAnnouncements, translation: Post announcements}
-- {id: postedInSeries,    translation: in}
+- {id: postedInSeries,    translation: In}
 - {id: postIn_en,         translation: in English}
 - {id: postIn_ru,         translation: in Russian}
 - {id: postIn_nl,         translation: in Dutch}

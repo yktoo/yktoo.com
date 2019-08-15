@@ -2,7 +2,7 @@
 - {id: archive,           translation: Archief}
 - {id: articles,          translation: Artikelen}
 - {id: author,            translation: Auteur}
-- {id: authoredBy,        translation: door}
+- {id: authoredBy,        translation: Door}
 - {id: blog,              translation: Blog}
 - {id: blogPostId,        translation: Intern post id}
 - {id: blogPosts,         translation: Blogposts}
@@ -44,7 +44,7 @@
 - {id: poetryAndLyrics,   translation: Poëzie en teksten}
 - {id: post,              translation: Post}
 - {id: postAnnouncements, translation: Blog updates}
-- {id: postedInSeries,    translation: in}
+- {id: postedInSeries,    translation: In}
 - {id: postIn_en,         translation: in het Engels}
 - {id: postIn_ru,         translation: in het Russisch}
 - {id: postIn_nl,         translation: in het Nederlands}

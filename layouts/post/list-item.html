@@ -4,8 +4,7 @@
     <h2><a href="{{ .Permalink }}">{{ with .Params.series }}{{ . }} ‣ {{ end }}{{ .Title | markdownify }}</a></h2>
 
     <!-- Post metadata -->
-    {{- $dateFormat := default "Monday Jan 2, 2006" (index .Site.Params "date_format") -}}
-    <div class="blog-post-meta"><time datetime="{{ .Date.Format `2006-01-02T15:04:05Z07:00` }}">{{ .Date.Format $dateFormat }}</time></div>
+    <div class="page-heading-meta">{{ partial "date" (dict "date" .Date "format" .Site.Params.shortDateFormat) }}</div>
 
     <!-- Post body -->
     <div class="row blog-post-content">
