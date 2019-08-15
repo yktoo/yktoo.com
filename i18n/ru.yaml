@@ -12,6 +12,7 @@
 - {id: blogTitle,         translation: Нидерланды и не только}
 - {id: comments,          translation: Комментарии}
 - {id: contact,           translation: Контакт}
+- {id: contents,          translation: Содержание}
 - {id: cookieDismiss,     translation: OK}
 - {id: cookieLink,        translation: Подробнее »}
 - {id: cookieMessage,     translation: Этот веб-сайт использует куки.}

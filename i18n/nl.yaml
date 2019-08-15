@@ -12,6 +12,7 @@
 - {id: blogTitle,         translation: Nederland en verder}
 - {id: comments,          translation: Commentaren}
 - {id: contact,           translation: Contact}
+- {id: contents,          translation: Inhoudsopgave}
 - {id: cookieDismiss,     translation: Akkoord}
 - {id: cookieLink,        translation: Lees hier meer »}
 - {id: cookieMessage,     translation: Deze website gebruikt cookies.}
