@@ -31,13 +31,15 @@
     </div>
 
     <!-- Legend -->
-    <div class="col-md-3">
+    <div class="col-md-3 d-none d-md-block">
+        <div class="sticky-top">
         <h4>{{ T "iAmLegend" }}</h4>
         <ul class="list-unstyled">
             {{- range .Site.Languages }}
             <li><span class="post_{{ .Lang }}"></span>&nbsp;{{ T "post" }} {{ T (print "postIn_" .Lang) }}</li>
             {{ end -}}
         </ul>
+        </div>
     </div>
 </div>
 

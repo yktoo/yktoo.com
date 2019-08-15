@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="{{ .Lang }}">
-{{- block "head" . }}
 <head>
     {{ partial "head-meta.html" . }}
 
@@ -28,12 +27,13 @@
     <!-- Google Analytics -->
     {{ template "_internal/google_analytics_async.html" . }}
 </head>
-{{- end }}
-{{- block "body" . }}
 <body>
 
+<!-- Scroll to top button -->
+<a id="btn-scroll-to-top" class="fas fa-angle-up btn btn-secondary"></a>
+
 <!-- Header with a Navbar -->
-{{ partial "navbar.html" . }}
+{{ partial "navbar" . }}
 
 <!-- Main page content -->
 <section id="page">
@@ -53,8 +53,7 @@
     </div>
 </section>
 
-{{ partial "footer.html" . }}
-{{ partial "scripts.html" . }}
+{{ partial "footer" . }}
+{{ partial "scripts" . }}
 </body>
-{{- end }}
 </html>

@@ -111,6 +111,21 @@ a {
         color: #fff;
     }
 }
+#btn-scroll-to-top {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    transition: all .5s ease-in-out;
+    opacity: 0;
+    visibility: hidden;
+    z-index: 1000;
+    font-size: 2em;
+
+    &.show {
+        opacity: 0.9;
+        visibility: visible;
+    }
+}
 
 // Tables
 .table {
