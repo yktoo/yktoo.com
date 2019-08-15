@@ -40,9 +40,10 @@ related:
 permalinks:
     # Arrange blog posts in /blog/post/YYYY/MM/DD-name structure
     blog: /blog/post/:year/:month/:day-:title/
-    # Nest tags and series under /blog/
+    # Nest tags, series, places under /blog/
     tags: /blog/tags/:title/
     series: /blog/series/:title/
+    places: /blog/places/:title/
     # Radiolaria music albums and tracks
     musicalbums: /radiolaria/:title/
     radiolaria: /radiolaria/tracks/:title/
@@ -50,6 +51,7 @@ permalinks:
 taxonomies:
     tag: tags
     series: series
+    place: places
     musicalbum: musicalbums
 
 menu:
@@ -206,4 +208,5 @@ params:
     cookieConsentInfoUrl: /about
     copyrightUrl: /about
     dateFormat: "Mon Jan 2, 2006"
+    googleMapsApiKey: AIzaSyBJzJgSlmrF2ofMmVt2a7422yDv54Im_Yk
     shortDateFormat: "Jan 2, 2006"

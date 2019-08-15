@@ -1,0 +1,6 @@
+---
+title: Heineken Music Hall
+type: place
+latitude: 52.312093
+longitude: 4.944608
+---
