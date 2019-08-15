@@ -32,7 +32,6 @@
 - {id: license_lgpl3,     translation: GNU Lesser General Public License Version 3}
 - {id: license_mpl11,     translation: Mozilla Public License Version 1.1}
 - {id: license_mpl2,      translation: Mozilla Public License Version 2.0}
-- {id: links,             translation: Links}
 - {id: listen,            translation: Listen}
 - {id: locale,            translation: en_US}
 - {id: map,               translation: Map}
