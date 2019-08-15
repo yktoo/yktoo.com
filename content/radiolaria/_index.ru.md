@@ -1,6 +1,8 @@
 ---
 title: Радиолярия
 showHeading: true
+aliases:
+    - /ru/musicalbums
 ---
 
 {{< img "radiolaria.jpg" "Радиолярия выступает на 12 годовщине «Тюменских известий», сентябрь 2002 г." "article-opener" >}}

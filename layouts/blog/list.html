@@ -42,7 +42,7 @@
 <!-- Blog feed -->
 <div class="blog-feed">
     {{- $numPosts := .Site.Params.postsPerPage }}
-    {{- range (.Paginate (where .Pages "Type" "post") $numPosts).Pages }}
+    {{- range (.Paginate (where $.Site.RegularPages "Type" "post") $numPosts).Pages }}
     {{- .Render "list-item" }}
     {{- end }}
 </div>

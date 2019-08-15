@@ -1,6 +1,8 @@
 ---
 title: Radiolaria
 showHeading: true
+aliases:
+    - /en/musicalbums
 ---
 
 {{< img "radiolaria.jpg" "Radiolaria at the 12th anniversary of \"Tyumenskie Izvestiya\", September 2002." "article-opener" >}}
