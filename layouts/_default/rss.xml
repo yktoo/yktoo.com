@@ -7,18 +7,18 @@
         <generator>Hugo {{ hugo.Version }}</generator>
         {{ with .Site.LanguageCode }}<language>{{ . }}</language>{{ end }}
         {{- with .Site.Params.author -}}
-        <managingEditor>{{ . }}</managingEditor>
-        <webMaster>{{ . }}</webMaster>
+        <managingEditor>noreply@yktoo.com ({{ . }})</managingEditor>
+        <webMaster>noreply@yktoo.com ({{ . }})</webMaster>
         {{- end -}}
         {{ with .Site.Copyright }}<copyright>{{ . }}</copyright>{{ end }}
         {{ if not .Date.IsZero }}<lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>{{ end -}}
         {{ with .OutputFormats.Get "RSS" }}{{ printf `<atom:link href=%q rel="self" type=%q />` .Permalink .MediaType | safeHTML }}{{ end -}}
-        {{ range where .Pages "Type" "blog" -}}
+        {{ range where .Pages "Type" "post" -}}
         <item>
             <title>{{ with .Params.series }}{{ . }} ‣ {{ end }}{{ .Title }}</title>
             <link>{{ .Permalink }}</link>
             <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
-            <author>{{ .Params.author | default .Site.Params.author }}</author>
+            <author>noreply@yktoo.com ({{ .Params.author | default .Site.Params.author }})</author>
             <guid isPermaLink="true">{{ .Permalink }}</guid>
             <description>
                 <!-- If there's an image given -->
@@ -31,13 +31,17 @@
                     {{- end -}}
                     <!-- Insert image tag -->
                     {{- with $url -}}
-                        {{- printf `<img style="width: 500px; height: auto;" src=%q alt="Post image">` . | html -}}
+                        {{- printf `<img style="width: 500px; height: auto;" src=%q alt="Post image">` . -}}
                     {{- end -}}
                 {{- end -}}
                 <!-- Put post summary or description -->
-                {{- cond (isset .Params "description") (markdownify .Params.description) .Summary | html -}}
+                {{- with .Params.description }}
+                {{- . | markdownify }}
+                {{- else }}
+                {{- .Summary | plainify -}}
+                {{- end }}
                 <!-- Read On link -->
-                {{- printf "<hr><p><a href=%q>%s</a></p>" (T "readOn") .Permalink | html -}}
+                {{- printf "<hr><p><a href=%q>%s</a></p>" .Permalink (T "readOn") -}}
             </description>
         </item>
         {{ end -}}
