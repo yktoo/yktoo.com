@@ -10,6 +10,7 @@
 - {id: blogSubscribeTo,   translation: Abonneer je op updates}
 - {id: blogSubtitle,      translation: Blog over het Nederlandse leven (en veel andere dingen)}
 - {id: blogTitle,         translation: Nederland en verder}
+- {id: comments,          translation: Commentaren}
 - {id: contact,           translation: Contact}
 - {id: cookieDismiss,     translation: Akkoord}
 - {id: cookieLink,        translation: Lees hier meer »}

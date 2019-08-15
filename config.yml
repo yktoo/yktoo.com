@@ -201,6 +201,7 @@ params:
         lgpl3: 'https://www.gnu.org/licenses/lgpl-3.0.html'
         mpl11: 'http://mozilla.org/MPL/1.1/'
         mpl2: 'http://mozilla.org/MPL/2.0/'
+    commentoUrl: 'https://comment.yktoo.com/js/commento.js'
     # TODO
     cookieConsentInfoUrl: /about
     copyrightUrl: /about

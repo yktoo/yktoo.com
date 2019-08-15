@@ -315,6 +315,15 @@ pre {
     content: "Nl";
 }
 
+// Pagination
+.paginator-before {
+    padding: 0;
+}
+.paginator-after {
+    padding-top: 3rem;
+    padding-bottom: 1rem;
+}
+
 // Tags
 .tag-cloud {
     text-align: center;
@@ -506,4 +515,10 @@ a {
     time {
         font-weight: $font-weight-bold;
     }
+}
+.placeholder {
+    padding: 1rem;
+    color: $gray-500;
+    border: $gray-500 dashed 1px;
+    border-radius: 8px;
 }

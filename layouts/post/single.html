@@ -74,7 +74,7 @@
     <!-- Post footer -->
     <div class="blog-post-footer">
 
-        <div class="">
+        <div class="blog-post-meta">
             <!-- Link to the post series, if any -->
             {{- with .Params.series }}
             <p class="dot-separated">
@@ -114,13 +114,19 @@
 
         <!-- Sharing buttons -->
         {{ partial "blog/post_share" . }}
-
-
-        <!-- TODO comments -->
-
     </div>
 
-
+    <!-- Comments -->
+    <section class="blog-post-comments">
+        <h3>{{ T "comments" }}</h3>
+        <!-- Do not insert comments block in drafts or when running on localhost -->
+        {{- if or .Draft (in (print $.Site.BaseURL) "localhost") }}
+            <div class="placeholder">(comments will go here)</div>
+        {{- else }}
+            <div id="commento"></div>
+            <script src="{{ .Site.Params.commentoUrl }}"></script>
+        {{- end }}
+    </section>
 </article>
 
 <!-- Bottom previous-next post link bar -->
