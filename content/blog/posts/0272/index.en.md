@@ -4,6 +4,8 @@ date: "2016-03-04T00:00:00Z"
 title: "Dream Theater presents The Astonishing in Theater Carré"
 tags: ["Amsterdam", "Carré", "Dream Theater", "music", "Netherlands", "progressive metal", "The Astonishing"]
 image: "https://4.bp.blogspot.com/--joylJaSOs8/Vs96qeUeASI/AAAAAAAAleU/3tOx2k0wt4E/s1600/dsc01729.picasaweb.jpg"
+places:
+    - place0041
 ---
 
 The band **Dream Theater** is absolutely legendary. They are considered the founders of the {{< wiki "Progressive_metal" "en" "progressive metal" >}} genre, and each of them alone is equally legendary. If you doubt that, just watch their [Instrumedley video](https://www.youtube.com/watch?v=rGN7WchdYa4); not many musicians in the world are capable of playing something like that.

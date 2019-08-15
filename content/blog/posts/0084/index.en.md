@@ -5,6 +5,9 @@ title: "Part 2. Vienna"
 series: "Vienna and Budapest"
 tags: ["Austria", "travel", "Vienna"]
 image: "https://2.bp.blogspot.com/-tE4w8cHUpcw/TaatAgGeuNI/AAAAAAAAItc/AHwilrDY8wY/s1600/dsc01373.picasaweb.jpg"
+places:
+    - place0118
+    - place0119
 ---
 
 ## Vienna {#vienna}

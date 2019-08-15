@@ -4,6 +4,8 @@ date: "2016-11-27T00:00:00Z"
 title: "Самый умный светофор"
 tags: ["Интернет", "Нидерланды", "новости", "светофоры", "СМИ", "транспорт", "Хаутен"]
 image: "https://1.bp.blogspot.com/-fAmNTgh_Xvs/WDrCLjmjWBI/AAAAAAAAoVc/Fm3jK0UypYkNZxz_DOEYZJzdX81ACWOwwCPcB/s1600/slim-verkeerslicht-houten.picasaweb.jpg"
+places:
+    - place0245
 ---
 
 Немного раздражает современная мода давать эпитет *«умный»* всему подряд на основании наличия {{< fl "Wi-Fi" >}}, {{< fl "Bluetooth" >}} или подключения к интернету: стиральным машинам, наручным часам, [датчикам дыма]({{< relref "0265" >}}), зубным щёткам, розеткам. Теперь вот и до светофоров докатились: местная наша пресса [сообщает](http://www.trefpunthouten.nl/nieuws/algemeen/46927/een-slim-stoplicht-voor-de-staart), что в Хаутене установлен первый в стране «умный светофор» ({{< fl "slim verkeerslicht" >}}).

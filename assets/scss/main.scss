@@ -272,7 +272,17 @@ pre {
     }
 }
 .blog-post-single {
+    .blog-post-sidebar {
+        font-size: 90%;
+        background-color: #f8f8f8;
+        margin-top: -20px;
+        padding-top: 20px;
+        padding-bottom: 10px;
 
+        ul {
+            padding-left: 1rem;
+        }
+    }
     .blog-post-footer {
         margin-bottom: 3rem;
         padding: 24px 10px;

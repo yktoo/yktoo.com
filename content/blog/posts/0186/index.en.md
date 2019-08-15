@@ -4,6 +4,8 @@ date: "2013-05-24T00:00:00Z"
 title: "Flower parade"
 tags: ["beautiful", "bloemencorso", "flower parade", "flowers", "Keukenhof"]
 image: "https://3.bp.blogspot.com/-QR1Jfd12kjI/UZVBs3xvkwI/AAAAAAAAX3I/4zQECmiFdPg/s1600/dsc08203.picasaweb.jpg"
+places:
+    - place0009
 ---
 
 So many things have piled up while I was busy with my [website]({{< relref "/" >}}), not sure I'll be able to handle them.

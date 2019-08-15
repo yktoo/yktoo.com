@@ -5,6 +5,17 @@ title: "Part 8. Budapest by Day"
 series: "Vienna and Budapest"
 tags: ["Budapest", "Hungary", "travel"]
 image: "https://3.bp.blogspot.com/-hOnYvSZyLPA/Tan2sR77hQI/AAAAAAAAItc/0lTKhtBWzWw/s1600/dsc01740.picasaweb.jpg"
+places:
+    - place0094
+    - place0095
+    - place0096
+    - place0097
+    - place0098
+    - place0099
+    - place0100
+    - place0101
+    - place0102
+    - place0103
 ---
 
 We borrowed a city guide from our Viennese friends (in German, of course).

@@ -5,6 +5,20 @@ title: "Part 1. Day"
 series: "Belgium. Ghent"
 tags: ["beautiful", "Belgium", "Ghent", "travel"]
 image: "https://2.bp.blogspot.com/-bg6xKCh3Ff8/UtWFDHfO0-I/AAAAAAAAblo/-8ATbDTYMuw/s1600/dsc02731.picasaweb.jpg"
+places:
+    - place0196
+    - place0197
+    - place0198
+    - place0199
+    - place0200
+    - place0201
+    - place0202
+    - place0203
+    - place0204
+    - place0205
+    - place0206
+    - place0207
+    - place0208
 ---
 
 It's easy to find beautiful places here in Europe, outside of the [desert]({{< relref "0210" >}}), even in our damp winter. We stumbled upon a good accommodation offer in Ghent, one of the prettiest Belgian cities. I've been in Ghent [before]({{< relref path="0033" lang="ru" >}}), but only short time so I couldn't see much.

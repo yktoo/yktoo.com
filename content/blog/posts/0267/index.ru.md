@@ -4,6 +4,8 @@ date: "2016-01-16T00:00:00Z"
 title: "The Aristocrats в Бурдерай"
 tags: ["Bryan Beller", "De Boerderij", "Guthrie Govan", "Marco Minnemann", "progressive metal", "The Aristocrats", "джаз", "Зутермеер", "музыка", "Нидерланды", "фьюжн"]
 image: "https://2.bp.blogspot.com/-gqODy41rxV0/Vn7LgKAJaBI/AAAAAAAAk8M/eU2egTbUn-Q/s1600/20151209_222003.picasaweb.jpg"
+places:
+    - place0079
 ---
 
 Концертный сезон, открытый [товарищами из Nightwish]({{< relref "0264" >}}), в самом разгаре.

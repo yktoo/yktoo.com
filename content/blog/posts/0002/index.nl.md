@@ -4,6 +4,8 @@ date: "2008-04-04T00:00:00Z"
 title: "Visum. Moskou"
 tags: ["hoe het allemaal begon", "Moskou", "Rusland"]
 image: "https://2.bp.blogspot.com/-u8Gwo1bQ0zg/WK3AWt8bgXI/AAAAAAAApTA/fIb9sXYq9aUQaT9NpAzsO7BwjHSVmcJUQCPcB/s1600/netherlands-coats-of-arms.png"
+places:
+    - place0173
 ---
 
 In Moskou kwam ik vrij laat aan, om half elf. Documenten bij de Nederlandse ambassade werden in principe tussen 9:00 en 12:00 uur ingenomen, dus ik had de stille hoop dat ik toch op tijd zou kunnen komen om mijn aanvraag in te dienen.

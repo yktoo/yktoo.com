@@ -5,6 +5,8 @@ title: "Part 3. Graffiti"
 series: "Belgium. Ghent"
 tags: ["Belgium", "Ghent", "graffiti", "travel"]
 image: "https://1.bp.blogspot.com/-cc65Q2FxLmw/UtWFOf6QknI/AAAAAAAAbpc/a8OMqI3MTKM/s1600/dsc02797.picasaweb.jpg"
+places:
+    - place0149
 ---
 
 Last time I only briefly [mentioned]({{< relref path="0033" lang="ru" >}}) {{< fl "Werregarenstraat" >}}, the only street in the city where graffiti is officially allowed. It's barely visible from {{< fl "Hoogpoort" >}} it joins to:

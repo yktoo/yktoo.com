@@ -4,6 +4,9 @@ date: "2010-12-12T00:00:00Z"
 title: "Fog in Amersfoort"
 tags: ["Amersfoort", "beautiful", "fog", "nature", "Netherlands"]
 image: "https://4.bp.blogspot.com/-trRtTZPX99k/ThiZ_ZJlUpI/AAAAAAAAI7M/-jpqpykoCYU/s1600/DSC00284.picasaweb.jpg"
+places:
+    - place0087
+    - place0003
 ---
 
 From now on I'm going to make my blog bilingual. Unless I'm too lazy, or the subject is not intended for Western audience.

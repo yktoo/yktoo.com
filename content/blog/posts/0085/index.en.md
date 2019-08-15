@@ -5,6 +5,14 @@ title: "Part 3. Vienna. Prater"
 series: "Vienna and Budapest"
 tags: ["Austria", "travel", "Vienna"]
 image: "https://2.bp.blogspot.com/-WDTX-uwu1fY/TaatuHPcO7I/AAAAAAAAItc/YPGL3C9VIu8/s1600/dsc01473.picasaweb.jpg"
+places:
+    - place0111
+    - place0112
+    - place0113
+    - place0114
+    - place0115
+    - place0116
+    - place0117
 ---
 
 We proceed in the direction of St. Stephen's Cathedral. Restless Austrians demand freedom of religion (as though they lack for it):

@@ -5,6 +5,8 @@ title: "Part 4. Vienna. Schönbrunn"
 series: "Vienna and Budapest"
 tags: ["Austria", "travel", "Vienna"]
 image: "https://2.bp.blogspot.com/-d_7XkPrTwtE/TaauF-87x1I/AAAAAAAAItc/uory4sWbVyc/s1600/dsc01598.picasaweb.jpg"
+places:
+    - place0110
 ---
 
 ## Schönbrunn palace {#schonbrunn-palace}

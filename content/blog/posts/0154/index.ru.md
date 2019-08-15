@@ -4,6 +4,8 @@ date: "2012-05-05T00:00:00Z"
 title: "Within Temptation в Carré"
 tags: ["Carré", "progressive metal", "Within Temptation", "музыка"]
 image: "https://4.bp.blogspot.com/-ncv_i_CSVTA/T6FwyCUq_PI/AAAAAAAAQNQ/ZvEB1m_RYJM/s1600/dsc01608.picasaweb.jpg"
+places:
+    - place0041
 ---
 
 В марте и апреле 2012 года одна из самых известных голландских групп, Within Temptation, давала серию домашних концертов в Нидерландах, объединённых названием {{< fl "Sanctuary Tour" >}}.

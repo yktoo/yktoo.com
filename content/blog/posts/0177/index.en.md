@@ -4,6 +4,8 @@ date: "2013-01-31T00:00:00Z"
 title: "Liberated from property"
 tags: ["crime", "frustrating", "Netherlands", "Utrecht"]
 image: "https://1.bp.blogspot.com/-reBIHvtHNVM/UQpoeOHKMFI/AAAAAAAAWm4/nLmjPgqxCOg/s1600/4526206-Charlie_Chius_Utrecht.jpg"
+places:
+    - place0016
 ---
 
 ## Prologue {#prologue}

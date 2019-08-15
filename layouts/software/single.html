@@ -106,7 +106,9 @@
         {{ with $related }}
         <li><b>{{ T "blogPosts" }}:</b>
             <ul class="list-unstyled">
-                {{ range . }}<li>{{ partial "blog/post_link.html" (dict "page" $page "post" .) }}</li>{{ end }}
+                {{- range . }}
+                <li>{{ .Render "lang-link" }}</li>
+                {{- end }}
             </ul>
         </li>
         {{ end }}

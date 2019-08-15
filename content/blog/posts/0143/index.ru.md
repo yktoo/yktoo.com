@@ -4,6 +4,9 @@ date: "2012-03-29T00:00:00Z"
 title: "Волендам и Маркен"
 tags: ["Волендам", "кломпы", "Маркен", "Нидерланды", "путешествия"]
 image: "https://1.bp.blogspot.com/-o2K3a3T5EI0/T2pZKTZMp1I/AAAAAAAANKw/vA3nVVMtFMg/s1600/dsc08964.picasaweb.jpg"
+places:
+    - place0069
+    - place0070
 ---
 
 Нынешняя весна выдалась богатой на путешествия.

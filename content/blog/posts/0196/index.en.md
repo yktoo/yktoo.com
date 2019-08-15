@@ -4,6 +4,8 @@ date: "2013-08-30T00:00:00Z"
 title: "Spoffin 2013"
 tags: ["Amersfoort", "festival", "music", "Netherlands", "Spoffin", "theater"]
 image: "https://2.bp.blogspot.com/-dTRfbdxtAKU/UhoQQy2tiGI/AAAAAAAAaIE/FaVQxkG8oi0/s1600/dsc00987.picasaweb.jpg"
+places:
+    - place0010
 ---
 
 It's August again, which means festival time in Amersfoort! In the beginning of the month there's usually the world-famous Gay Pride in Holland. The main venue is, of course, Amsterdam, but many other cities, including Amersfoort, hold smaller parades. However in the beginning of August I was [in Tyumen]({{< relref path="0195" lang="ru" >}}), so I won't tell you anything about that.

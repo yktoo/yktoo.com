@@ -4,6 +4,8 @@ date: "2013-01-02T00:00:00Z"
 title: "Happy New Year (again)!"
 tags: ["beach", "holidays", "Netherlands", "Nieuwjaarsduik", "The Hague"]
 image: "https://2.bp.blogspot.com/-gLtBi7n5prk/UOSAVgEEtgI/AAAAAAAAWXg/Av5bMGBKC1w/s1600/dsc06477.picasaweb.jpg"
+places:
+    - place0020
 ---
 
 Exactly one year ago, on January 1, 2012 I was [late]({{< relref "0138" >}}) for the "New Year's dive", {{< fl "Nieuwjaarsduik" >}}, because it took me too long to find a parking space). Then I had to dive in solitude.

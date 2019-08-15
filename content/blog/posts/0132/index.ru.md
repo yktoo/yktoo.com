@@ -4,6 +4,8 @@ date: "2011-12-03T00:00:00Z"
 title: "Йоханнес Хестерс"
 tags: ["Амерсфорт", "интересное", "Йоханнес Хестерс", "Нидерланды", "СМИ"]
 image: "https://1.bp.blogspot.com/--r7wiWdehU4/TtoCKObxlnI/AAAAAAAAKjY/MIB2vVbvCxc/s1600/heesters.jpg"
+places:
+    - place0076
 ---
 
 Родившийся в Амерсфорте певец и актёр {{< wiki "Хестерс,_Йоханнес" "ru" "Йоханнес Хестерс" >}} опять [попал](http://www.destadamersfoort.nl/scripts/edoris/edoris.dll?tem=LN_TEXT_VIEW&doc_id=19867092&pageid=134190&naam=Johan-Heesters-in-ziekenhuis-opgenomen) в местные новости.

@@ -5,6 +5,24 @@ title: "Part 1. Sofia"
 series: "Bulgaria"
 tags: ["Bulgaria", "Sofia", "travel"]
 image: "https://2.bp.blogspot.com/-16FAOSrAES4/WQ3-dwbko-I/AAAAAAAAp5Q/Hfw79ZyudwoKopjmaeScb4fKGLVPkRgUQCPcB/s1600/dsc04958.picasaweb.jpg"
+places:
+    - place0285
+    - place0296
+    - place0120
+    - place0295
+    - place0294
+    - place0287
+    - place0286
+    - place0293
+    - place0291
+    - place0292
+    - place0300
+    - place0299
+    - place0298
+    - place0297
+    - place0290
+    - place0288
+    - place0289
 ---
 
 There's this country on our globe that is kind of special for Russian-speaking people, because they use the same alphabet but pretty different words. Which usually results in something either incomprehensible or hilarious.

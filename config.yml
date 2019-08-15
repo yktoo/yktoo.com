@@ -6,6 +6,7 @@ title: Yktoo
 summaryLength: 15
 googleAnalytics: UA-19569086-3
 enableRobotsTXT: true
+rssLimit: 25
 
 # Language settings
 defaultContentLanguage: en
@@ -27,6 +28,22 @@ languages:
         params:
             dateFormat: Mon, 2 Jan 2006 # TODO localise
             shortDateFormat: 02-01-2006
+params:
+    author: Dmitry Kann
+    postsPerPage: 6
+    licenses:
+        gpl3: 'http://www.gnu.org/licenses/gpl.html'
+        lgpl21: 'https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html'
+        lgpl3: 'https://www.gnu.org/licenses/lgpl-3.0.html'
+        mpl11: 'http://mozilla.org/MPL/1.1/'
+        mpl2: 'http://mozilla.org/MPL/2.0/'
+    commentoUrl: 'https://comment.yktoo.com/js/commento.js'
+    # TODO
+    cookieConsentInfoUrl: /about
+    copyrightUrl: /about
+    dateFormat: "Mon Jan 2, 2006"
+    googleMapsApiKey: AIzaSyBJzJgSlmrF2ofMmVt2a7422yDv54Im_Yk
+    shortDateFormat: "Jan 2, 2006"
 
 # Related indices settings
 related:
@@ -53,6 +70,13 @@ taxonomies:
     series: series
     place: places
     musicalbum: musicalbums
+
+outputs:
+    # Only enable RSS generation on the home page
+    home: [HTML, RSS]
+    section: [HTML]
+    taxonomy: [HTML]
+    taxonomyTerm: [HTML]
 
 menu:
     nav:
@@ -193,20 +217,3 @@ menu:
           pre: '<b>'
           post: '</b>'
           parent: software
-
-params:
-    author: Dmitry Kann
-    postsPerPage: 6
-    licenses:
-        gpl3: 'http://www.gnu.org/licenses/gpl.html'
-        lgpl21: 'https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html'
-        lgpl3: 'https://www.gnu.org/licenses/lgpl-3.0.html'
-        mpl11: 'http://mozilla.org/MPL/1.1/'
-        mpl2: 'http://mozilla.org/MPL/2.0/'
-    commentoUrl: 'https://comment.yktoo.com/js/commento.js'
-    # TODO
-    cookieConsentInfoUrl: /about
-    copyrightUrl: /about
-    dateFormat: "Mon Jan 2, 2006"
-    googleMapsApiKey: AIzaSyBJzJgSlmrF2ofMmVt2a7422yDv54Im_Yk
-    shortDateFormat: "Jan 2, 2006"

@@ -4,6 +4,8 @@ date: "2011-11-15T00:00:00Z"
 title: "Джаз: Martijn van Iterson  Beets Brothers"
 tags: ["Observant", "Амерсфорт", "джаз", "музыка", "Нидерланды"]
 image: "https://1.bp.blogspot.com/-6Asl02Jrn5s/TsLISmej1BI/AAAAAAAAKWk/3KjPmvnXumM/s1600/dsc07258.picasaweb.jpg"
+places:
+    - place0008
 ---
 
 9 ноября 2011 в нашем «городском кафе „Блюститель‟» ([Stadscafé de Observant](http://www.observant.nl/)) состоялся концерт джазового гитариста Мартайна ван Итерсона ([Martijn van Iterson](http://www.martijnvaniterson.com/)) и группы «Бейтс Бразерс» ([The Beets Brothers](http://www.beetsbrothers.nl/)).

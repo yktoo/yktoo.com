@@ -5,6 +5,8 @@ title: "Part 1. Sand sculptures"
 series: "Portugal"
 tags: ["Algarve", "Portugal", "sand", "travel"]
 image: "https://3.bp.blogspot.com/-gPst0LcWiAY/Ua4i9aZLi6I/AAAAAAAAYuQ/lcnZc6BUuK8/s1600/dsc09075.picasaweb.jpg"
+places:
+    - place0007
 ---
 
 Recently I've visited Portugal for the first time in my life. The everlasting Dutch off-season makes one long for sun, and where else in Europe can you secure a sunny place, except maybe the [Canaries]({{< relref path="0148" lang="ru" >}})? This spring in Europe is particularly poor, full of floods and cold, so Portugal appears to be the best option for the continental part.

@@ -4,6 +4,9 @@ date: "2015-11-22T00:00:00Z"
 title: "The monument of Elfstedentocht"
 tags: ["bridge", "Elfstedenmonument", "Elfstedentocht", "Friesland", "ice", "interesting", "Leeuwarden", "Netherlands", "skating", "sport", "water", "Willem-Alexander"]
 image: "https://3.bp.blogspot.com/-14jqPNJfBIY/VfmBQ1hN7LI/AAAAAAAAkd4/2Zg9C6TkWGk/s1600/dsc00903.picasaweb.jpg"
+places:
+    - place0228
+    - place0229
 ---
 
 Every winter an average Dutch casts glances at the thermometer, hoping for a real cold to come.

@@ -4,6 +4,8 @@ date: "2013-06-01T00:00:00Z"
 title: "Tomasa Quartet в De Observant"
 tags: ["Observant", "Tomasa Quartet", "Амерсфорт", "джаз", "музыка"]
 image: "https://4.bp.blogspot.com/-vDLdFZopQ08/UYPgpy7BqpI/AAAAAAAAXm8/7dCvgEYHktE/s1600/dsc07959.picasaweb.jpg"
+places:
+    - place0008
 ---
 
 Мои старые знакомые по фестивалю [Dias Latinos 2011]({{< relref "0109" >}}), Tomasa Quartet, почтили Амерсфорт своим выступлением. Учитывая, что выступают они вообще не особенно часто, я не мог упустить момента встретиться с ними.

@@ -4,6 +4,8 @@ date: "2013-05-15T00:00:00Z"
 title: "Джаз: Крамер и Шилклопер, концерт в Тюмени"
 tags: ["Аркадий Шилклопер", "видео", "Даниил Крамер", "джаз", "музыка", "Тюмень"]
 image: "https://4.bp.blogspot.com/-Ip1MNgW1pOk/UZKntwLjlbI/AAAAAAAAXu8/AuZp8l-zXPw/s1600/kra-shi.picasaweb.jpg"
+places:
+    - place0014
 ---
 
 [Выложил на YouTube][route:/media/video/event,id:12] одну из своих старых записей: концерт двух — не побоюсь этого слова — гениальных джазовых музыкантов, [Даниила Крамера](http://www.kramerdaniel.com/) (фортепиано) и [Аркадия Шилклопера](http://www.shilkloper.com/) (валторна, флюгельгорн, альпийский рог) в [Тюменской Филармонии](http://www.tgf.ru/) 10 февраля 2008 года.

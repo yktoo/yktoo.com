@@ -1,6 +1,7 @@
 select CONCAT(
+       'mkdir place', lpad(p.id, 4, '0'), '\n',
        /* English name */
-       'cat <<EOF >place', lpad(p.id, 4, '0'), '.en.md\n',
+       'cat <<EOF >place', lpad(p.id, 4, '0'), '/_index.en.md\n',
        '---\n',
        'title: ', p.name_en, '\n',
        'type: place\n',
@@ -9,7 +10,7 @@ select CONCAT(
        '---\n',
        'EOF\n',
        /* Russian name */
-       'cat <<EOF >place', lpad(p.id, 4, '0'), '.ru.md\n',
+       'cat <<EOF >place', lpad(p.id, 4, '0'), '/_index.ru.md\n',
        '---\n',
        'title: ', p.name_ru, '\n',
        'type: place\n',
@@ -18,7 +19,7 @@ select CONCAT(
        '---\n',
        'EOF\n',
        /* Dutch name */
-       'cat <<EOF >place', lpad(p.id, 4, '0'), '.nl.md\n',
+       'cat <<EOF >place', lpad(p.id, 4, '0'), '/_index.nl.md\n',
        '---\n',
        'title: ', p.name_nl, '\n',
        'type: place\n',

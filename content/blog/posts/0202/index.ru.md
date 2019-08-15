@@ -4,6 +4,9 @@ date: "2013-11-09T00:00:00Z"
 title: "Ещё два вечера со Stream of Passion"
 tags: ["P60", "progressive metal", "Stream of Passion", "Tivoli Spiegelbar", "Winter in Eden", "Амстелвейн", "музыка", "Нидерланды", "Утрехт"]
 image: "https://4.bp.blogspot.com/-SKjoo_QXsho/UjBocfrz-iI/AAAAAAAAaZU/SSXcuppuJq4/s1600/dsc01128.picasaweb.jpg"
+places:
+    - place0001
+    - place0002
 ---
 
 Что-то давненько не освещал я творческую деятельность местных мастеров драйва и девического вокала, потока страсти, сиречь Stream of Passion. Они никуда не делись, и даже наоборот, недавно посетили с гастролями нашу самую златоглавую, чему неоднократно радовались в своём [уютном Фейсбучике](http://www.facebook.com/StreamOfPassion).

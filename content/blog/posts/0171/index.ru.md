@@ -4,6 +4,8 @@ date: "2013-01-02T00:00:00Z"
 title: "И вновь с Новым годом!"
 tags: ["Nieuwjaarsduik", "Гаага", "Нидерланды", "пляж", "праздники"]
 image: "https://2.bp.blogspot.com/-gLtBi7n5prk/UOSAVgEEtgI/AAAAAAAAWXg/Av5bMGBKC1w/s1600/dsc06477.picasaweb.jpg"
+places:
+    - place0020
 ---
 
 Год назад, 1 января 2012 г. я [опоздал]({{< relref "0138" >}}) на «Новогоднее ныряние» ({{< fl "Nieuwjaarsduik" >}}) из-за того, что не смог найти свободную парковку, поэтому мне пришлось купаться в гордом одиночестве.

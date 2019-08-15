@@ -24,7 +24,7 @@
         <tr>
             <td class="number">{{ sub $count $idx }}.</td>
             <td class="date">{{ partial "date" (dict "date" .Date "format" $dateFormat) }}</td>
-            <td>{{ partial "blog/post_link" (dict "page" $page "post" .) }}</td>
+            <td>{{ .Render "lang-link" }}</td>
         </tr>
         {{ end }}
         </tbody></table>

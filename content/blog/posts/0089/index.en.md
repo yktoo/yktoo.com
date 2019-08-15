@@ -5,6 +5,13 @@ title: "Part 7. Budapest at Night"
 series: "Vienna and Budapest"
 tags: ["Budapest", "Hungary", "travel"]
 image: "https://3.bp.blogspot.com/--Z559BLUdsM/Tan3CV4zhxI/AAAAAAAAItc/QMKX7luZEiM/s1600/dsc01685.picasaweb.jpg"
+places:
+    - place0104
+    - place0105
+    - place0096
+    - place0095
+    - place0108
+    - place0093
 ---
 
 Our accommodation in Budapest was luckily very affordable. It was a two bedroom apartment near the city center, built in the mid twentieth century—with high ceilings, spacious and cozy (we wouldn't have chosen for worse, yeah).

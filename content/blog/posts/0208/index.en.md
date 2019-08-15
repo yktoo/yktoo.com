@@ -4,6 +4,8 @@ date: "2013-12-20T00:00:00Z"
 title: "Little blue train"
 tags: ["Amersfoort", "interesting", "Netherlands", "trains", "transport"]
 image: "https://1.bp.blogspot.com/-Nen1-Mfpyvw/UrRpg0Qq-vI/AAAAAAAAbB4/3ILoWzx4ffA/s1600/img_20131220_123904.picasaweb.jpg"
+places:
+    - place0125
 ---
 
 This cute little blue vintage train was spotted today at the Amersfoort Central train station:

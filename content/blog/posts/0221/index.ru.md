@@ -5,6 +5,9 @@ title: "Часть 1, железнодорожная"
 series: "Хаутен"
 tags: ["Нидерланды", "поезда", "транспорт", "Хаутен"]
 image: "https://1.bp.blogspot.com/-DIvAaGopwfg/VAMbLP1sN9I/AAAAAAAAfOM/IXEu0uUYwAc/s1600/dsc06624.picasaweb.jpg"
+places:
+    - place0217
+    - place0218
 ---
 
 Вот и лето заканчивается, а я за заботами его почти и не заметил. Занятое выдалось времечко, причём в хорошем смысле.

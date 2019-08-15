@@ -4,6 +4,9 @@ date: "2011-03-27T00:00:00Z"
 title: "The Hague"
 tags: ["beach", "beautiful", "Netherlands", "sea", "The Hague"]
 image: "https://1.bp.blogspot.com/-p0C4-WXuwyc/TZhMdmel9fI/AAAAAAAAItg/OtZLR7eZJJA/s1600/DSC01086.picasaweb.jpg"
+places:
+    - place0020
+    - place0122
 ---
 
 My first visit to the see in this year is as early as the spring itself.

@@ -4,6 +4,11 @@ date: "2013-08-14T00:00:00Z"
 title: "Тюменские сюжеты"
 tags: ["Аэрофлот", "маразм", "понты", "Россия", "Тюмень"]
 image: "https://3.bp.blogspot.com/-EMIanXUKsvw/Ugvgj5td0YI/AAAAAAAAZRk/-GWutJ9A0JM/s1600/20130809_131834.picasaweb.jpg"
+places:
+    - place0088
+    - place0175
+    - place0176
+    - place0177
 ---
 
 Прерву свой не особенно бодрый [рассказ о Португалии]({{< relref "0190" >}}) впечатлениями от своей поездки в Россию.

@@ -5,6 +5,8 @@ title: "Часть 4. Замок Reinhardstein"
 series: "Южная Бельгия"
 tags: ["Бельгия", "замок", "путешествия", "Райнхардштайн"]
 image: "https://2.bp.blogspot.com/-USy6u7DJPZI/T2pdr14-_7I/AAAAAAAAM1k/FeUMgqm8ZlQ/s1600/dsc09689.picasaweb.jpg"
+places:
+    - place0062
 ---
 
 Насмотревшись [всякого]({{< relref "0146" >}}), в последний день мы решили заехать в раскрученный замок с совершенно небельгийским названием Райнхардштайн ([Reinhardstein](http://www.reinhardstein.net/), по-французски {{< fl "Château de Reinhardstein" >}}, по-немецки {{< fl "Burg Reinhardstein" >}}). Замок этот был построен в 1354 году вассалом герцога Люксембурга Венцеля I, которого звали Райнхард Вемский ({{< fl "Reinhard von Weismes" >}}) — отсюда и название, у люксембуржцев с этим строго.

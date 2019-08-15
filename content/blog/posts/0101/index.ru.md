@@ -4,6 +4,8 @@ date: "2011-07-12T00:00:00Z"
 title: "Anathema в P60"
 tags: ["Anathema", "Kinkobra", "P60", "progressive metal", "progressive rock", "Амстелвейн", "музыка", "Нидерланды"]
 image: "https://1.bp.blogspot.com/-KnHoLEzUsvk/ThtU1OTSCNI/AAAAAAAAJDw/UIdy9KXNAVI/s1600/dsc04752.picasaweb.jpg"
+places:
+    - place0001
 ---
 
 В эфире очередной выпуск «Нидерландского вестника рок-музыки».

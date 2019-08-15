@@ -4,6 +4,8 @@ date: "2013-01-20T00:00:00Z"
 title: "A Winter Evening with Stream of Passion 2013"
 tags: ["Autumn", "Ben Mathot", "Charlotte Wessels", "Damian Wilson", "Daniel de Jongh", "Delain", "Marcela Bovio", "Marjan Welman", "progressive metal", "Stream of Passion", "Tivoli de Helling", "Utrecht"]
 image: "https://3.bp.blogspot.com/-2VA5ItpKHD4/UN8wi-0DpPI/AAAAAAAAWPY/aGH25OmXyCA/s1600/dsc06117.picasaweb.jpg"
+places:
+    - place0017
 ---
 
 *I realize everyone is alreay sick of my gig reports, but can't really help it. Let's just keep it short…*

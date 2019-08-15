@@ -5,6 +5,8 @@ title: "Часть 9. Будапешт. Базилика Св. Иштвана"
 series: "Вена и Будапешт"
 tags: ["Будапешт", "Венгрия", "путешествия"]
 image: "https://4.bp.blogspot.com/-GN_9MniZolw/Tan3XtHDKYI/AAAAAAAAItc/88U0pStqmm0/s1600/dsc01925.picasaweb.jpg"
+places:
+    - place0093
 ---
 
 В последний день (точнее, утро) мы решили посмотреть Базилику Св. Иштвана ({{< fl "Szent István-bazilika" >}}), знаменитый католический собор.

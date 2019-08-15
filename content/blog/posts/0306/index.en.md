@@ -4,6 +4,13 @@ date: "2017-02-09T00:00:00Z"
 title: "Wintersport: La Plagne, France"
 tags: ["France", "La Plagne", "mountains", "snow", "snowboard", "sport", "winter", "wintersport"]
 image: "https://1.bp.blogspot.com/-827H5-EvEWY/WIT25zY66zI/AAAAAAAApHc/77_Uu4Krfj8POL3ohoDmABAtmX6Z3G8VgCPcB/s1600/2017-01-20t11-51-46%252B01-00.picasaweb.jpg"
+places:
+    - place0277
+    - place0276
+    - place0275
+    - place0272
+    - place0274
+    - place0273
 ---
 
 ## Preface {#preface}

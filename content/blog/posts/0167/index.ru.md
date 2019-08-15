@@ -5,6 +5,11 @@ title: "Часть 6. Аквариум. Замок Монжуик. Тибида�
 series: "Барселона"
 tags: ["Барселона", "интересное", "Испания", "путешествия"]
 image: "https://4.bp.blogspot.com/-ugS8OxGeSPs/UASChNTK7LI/AAAAAAAAT4c/M9b-hKR9nsU/s1600/dsc03132.picasaweb.jpg"
+places:
+    - place0021
+    - place0022
+    - place0023
+    - place0024
 ---
 
 ## Аквариум {#aquarium}

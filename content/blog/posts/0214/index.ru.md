@@ -5,6 +5,8 @@ title: "Часть 3. Граффити"
 series: " Бельгия. Гент"
 tags: ["Бельгия", "Гент", "граффити", "путешествия"]
 image: "https://1.bp.blogspot.com/-cc65Q2FxLmw/UtWFOf6QknI/AAAAAAAAbpc/a8OMqI3MTKM/s1600/dsc02797.picasaweb.jpg"
+places:
+    - place0149
 ---
 
 В прошлый раз я бегло [упомянул]({{< relref "0033" >}}) Веррегаренстраат ({{< fl "Werregarenstraat" >}}), единственную улицу в городе, где официально разрешено граффити. Её едва можно заметить с {{< fl "Hoogpoort" >}}, к которой она примыкает:

@@ -4,6 +4,8 @@ date: "2016-01-16T00:00:00Z"
 title: "The Aristocrats at De Boerderij"
 tags: ["Bryan Beller", "De Boerderij", "fusion", "Guthrie Govan", "jazz", "Marco Minnemann", "music", "Netherlands", "progressive metal", "The Aristocrats", "Zoetermeer"]
 image: "https://2.bp.blogspot.com/-gqODy41rxV0/Vn7LgKAJaBI/AAAAAAAAk8M/eU2egTbUn-Q/s1600/20151209_222003.picasaweb.jpg"
+places:
+    - place0079
 ---
 
 My personal concert season open by the [Nightwish fellas]({{< relref "0264" >}}) is at its climax.

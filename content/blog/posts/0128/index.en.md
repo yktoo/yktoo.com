@@ -4,6 +4,9 @@ date: "2011-11-21T00:00:00Z"
 title: "Amersfog"
 tags: ["Amersfoort", "beautiful", "fog", "nature", "Netherlands"]
 image: "https://3.bp.blogspot.com/-monRec6m3LQ/Tsq4n96AnkI/AAAAAAAAKgI/1-TArn0qa_k/s1600/dsc07631.picasaweb.jpg"
+places:
+    - place0077
+    - place0078
 ---
 
 Holland has been fogged for four days in a row. Sometimes the fog is so thick that one cannot see anything further than a dozen meters.

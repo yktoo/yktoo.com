@@ -19,20 +19,22 @@
             document.getElementById('map-container'),
             {"center": new google.maps.LatLng(45.0, 45.0), "zoom": 3});
         var mapInfoWindow = new google.maps.InfoWindow();
-        // Create markers: {{ range where .Site.RegularPages "Type" "place" }}
+        // Create markers: {{ range .Site.Taxonomies.places.Alphabetical }}{{ with .Page }}
         google.maps.event.addListener(
             new google.maps.Marker({
                 "icon": "/images/map-marker.png",
                 "map": map,
-                // Pass coordinates as strings instead of numbers to not let the IDE go crazy
-                "position": new google.maps.LatLng('{{ .Params.latitude }}', '{{ .Params.longitude }}'),
+                "position": new google.maps.LatLng('{{ .Params.latitude }}', '{{ .Params.longitude }}'), // Coords as strings to not let the IDE go crazy
                 "title": "{{ .Title | markdownify }}"}),
             'click',
             function(event) {
-                mapInfoWindow.setContent('<b>{{ .Title | markdownify }}</b><ul class=\"list-unstyled\"><li>TODO</li></ul>');
+                mapInfoWindow.setContent(
+                    '<b>{{ .Title | markdownify }}</b><ul class=\"list-unstyled\">'+
+                    '{{ range .Pages }}<li>{{ .Render "lang-link" }}</li>{{ end }}' +
+                    '</ul>');
                 mapInfoWindow.open(map, this);
             });
-        // {{ end }}
+        // {{- end }}{{ end }}
     }
 </script>
 {{ end }}

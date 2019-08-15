@@ -4,6 +4,8 @@ date: "2013-05-15T00:00:00Z"
 title: "Jazz: Kramer  Shilkloper in Tyumen"
 tags: ["Arkady Shilkloper", "Daniel Kramer", "jazz", "music", "Tyumen", "video"]
 image: "https://4.bp.blogspot.com/-Ip1MNgW1pOk/UZKntwLjlbI/AAAAAAAAXu8/AuZp8l-zXPw/s1600/kra-shi.picasaweb.jpg"
+places:
+    - place0014
 ---
 
 I've [published][route:/media/video/event,id:12] rare footage I filmed a few years ago. It was a performance given by two greatest jazz musicians of our time, [Daniel Kramer](http://www.kramerdaniel.com/) (piano) and [Arkady Shilkloper](http://www.shilkloper.com/) (French horn, flugelhorn, alphorn) at [Tyumen Concert Hall](http://www.tgf.ru/) on February 10, 2008.

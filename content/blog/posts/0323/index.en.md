@@ -5,6 +5,14 @@ title: "Part 2. Plovdiv"
 series: "Bulgaria"
 tags: ["Bulgaria", "Plovdiv", "travel"]
 image: "https://3.bp.blogspot.com/-MUDPcB6Af28/WQ3-d1G4LuI/AAAAAAAAp5I/2Ynf4n8VMY84cFkIKK2nPLV5AzJjSi9SQCPcB/s1600/dsc05140.picasaweb.jpg"
+places:
+    - place0307
+    - place0306
+    - place0305
+    - place0304
+    - place0303
+    - place0302
+    - place0301
 ---
 
 We decided to dedicate the last day of our [Sophian journey]({{< relref "0322" >}}) to Plovdiv, going there in the morning and returning in the afternoon.

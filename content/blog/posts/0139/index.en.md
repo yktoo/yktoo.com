@@ -3,6 +3,8 @@ type: post
 date: "2012-02-12T00:00:00Z"
 title: "Star Wars I + 3D + D-Box"
 tags: ["3D", "cinema", "D-Box", "interesting", "Netherlands", "Star Wars"]
+places:
+    - place0071
 ---
 
 At last, yesterday I've tried rocking-moving-trembling D-Box chairs I [posted]({{< relref path="0060" lang="ru" >}}) about more than a year ago. I saw an advertisement in a local newspaper about *Star Wars Episode 1: The Phantom Menace* reissued in 3D and with [D-BOX Motion Code](http://www.d-box.com/)™.

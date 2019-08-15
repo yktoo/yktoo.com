@@ -5,6 +5,24 @@ title: "Часть 1. София"
 series: "Болгария"
 tags: ["Болгария", "путешествия", "София"]
 image: "https://2.bp.blogspot.com/-16FAOSrAES4/WQ3-dwbko-I/AAAAAAAAp5Q/Hfw79ZyudwoKopjmaeScb4fKGLVPkRgUQCPcB/s1600/dsc04958.picasaweb.jpg"
+places:
+    - place0285
+    - place0296
+    - place0120
+    - place0295
+    - place0294
+    - place0287
+    - place0286
+    - place0293
+    - place0291
+    - place0292
+    - place0300
+    - place0299
+    - place0298
+    - place0297
+    - place0290
+    - place0288
+    - place0289
 ---
 
 Есть на нашем глобусе такая страна, в которой люди пишут вроде бы знакомыми нам буквами, но у них постоянно получается либо что-то невразумительное, либо же что-нибудь очень смешное. А ещё они сильно злоупотребляют буквой Ъ.

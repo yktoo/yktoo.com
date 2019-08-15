@@ -5,6 +5,9 @@ title: "Part 1. Train stations"
 series: "Houten"
 tags: ["Houten", "Netherlands", "trains", "transport"]
 image: "https://1.bp.blogspot.com/-DIvAaGopwfg/VAMbLP1sN9I/AAAAAAAAfOM/IXEu0uUYwAc/s1600/dsc06624.picasaweb.jpg"
+places:
+    - place0217
+    - place0218
 ---
 
 The summer is almost over, though I haven't seen much of it. It's been quite busy here, but in a positive sense.

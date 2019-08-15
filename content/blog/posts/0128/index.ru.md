@@ -4,6 +4,9 @@ date: "2011-11-21T00:00:00Z"
 title: "Дневной туман"
 tags: ["Амерсфорт", "красивое", "Нидерланды", "туман"]
 image: "https://3.bp.blogspot.com/-monRec6m3LQ/Tsq4n96AnkI/AAAAAAAAKgI/1-TArn0qa_k/s1600/dsc07631.picasaweb.jpg"
+places:
+    - place0077
+    - place0078
 ---
 
 Четвёртый день у нас стоит густой туман. Порой настолько густой, что в десятке метров ничего не разглядеть.

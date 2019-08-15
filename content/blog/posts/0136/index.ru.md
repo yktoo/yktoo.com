@@ -4,6 +4,8 @@ date: "2011-12-18T00:00:00Z"
 title: "Pagan's Mind в Melkweg"
 tags: ["Melkweg", "Pagan's Mind", "progressive metal", "Амстердам", "музыка", "Нидерланды"]
 image: "https://3.bp.blogspot.com/-MC_zRiGDuLg/Tu3WXV_wFwI/AAAAAAAAKpQ/n71hjPATWE8/s1600/dsc07861.picasaweb.jpg"
+places:
+    - place0073
 ---
 
 Позавчера, 16 декабря, мне впервые довелось увидеть норвежскую команду [Pagan's Mind](http://www.pagansmind.com/), играющую в жанре Progressive Power Metal, которую я люблю уже давно. Группа обладает особенным звучанием, а её вокал нельзя спутать ни с чем.

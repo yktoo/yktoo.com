@@ -5,6 +5,23 @@ title: "Часть 2"
 series: "Лондон"
 tags: ["Heron Tower", "HMS Belfast", "London Eye", "The Gherkin", "The Shard", "английский язык", "Биг-Бен", "Брекзит", "велики", "Великобритания", "Даунинг-стрит", "Лондон", "путешествия", "Сити-Холл", "Тауэр", "Тауэрский мост", "Темза", "Трафальгарская площадь"]
 image: "https://4.bp.blogspot.com/-MxkLJP0jeP4/WErogXyCXgI/AAAAAAAAoo4/LjNFcyg5FNgKa4fLYern6LygRxUeh5c6QCPcB/s1600/dsc03705.picasaweb.jpg"
+places:
+    - place0254
+    - place0255
+    - place0256
+    - place0257
+    - place0258
+    - place0259
+    - place0260
+    - place0261
+    - place0262
+    - place0263
+    - place0264
+    - place0265
+    - place0266
+    - place0267
+    - place0268
+    - place0269
 ---
 
 Продолжаем нашу [обзорную экскурсию]({{< relref "0299" >}}) «галопом по достопримечательному Лондону».

@@ -4,6 +4,8 @@ date: "2017-05-07T00:00:00Z"
 title: "Oddland, Until Rain, Wolverine at De Boerderij"
 tags: ["De Boerderij", "music", "Netherlands", "Oddland", "progressive metal", "progressive rock", "Until Rain", "Wolverine", "Zoetermeer"]
 image: "https://1.bp.blogspot.com/-ldQnc30ApjQ/WQ3-d13FN0I/AAAAAAAAp5I/u0zKGzXBFi83pIRNX4d3DFL9n7JfEHFjgCPcB/s1600/20170429_231240.picasaweb.jpg"
+places:
+    - place0079
 ---
 
 It's been for the first time that a support act was as interesting for me as the headliners. At the end of the day, all three participants of *The Progressive Aspects Tour* proved to be up to par!

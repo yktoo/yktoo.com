@@ -5,6 +5,14 @@ title: "Часть 3. Вена. Пратер"
 series: "Вена и Будапешт"
 tags: ["Австрия", "Вена", "путешествия"]
 image: "https://2.bp.blogspot.com/-WDTX-uwu1fY/TaatuHPcO7I/AAAAAAAAItc/YPGL3C9VIu8/s1600/dsc01473.picasaweb.jpg"
+places:
+    - place0111
+    - place0112
+    - place0113
+    - place0114
+    - place0115
+    - place0116
+    - place0117
 ---
 
 А мы продолжаем наш осмотр в сторону собора Св. Стефана. Беспокойные австрийцы митингуют за свободу вероисповедания (как будто у них её там мало):

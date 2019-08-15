@@ -4,6 +4,10 @@ date: "2017-03-14T00:00:00Z"
 title: "Wintersport: Les Sybelles, France"
 tags: ["France", "Les Sybelles", "mountains", "snow", "snowboard", "sport", "winter", "wintersport"]
 image: "https://1.bp.blogspot.com/-5NHIMH35n9U/WMWIoD5py3I/AAAAAAAApk0/Fco23XMqZ9YHAYYPrq8lLJPlrkSTQBEKACPcB/s1600/2017-02-26t11-07-59%252B01-00.picasaweb.jpg"
+places:
+    - place0280
+    - place0279
+    - place0278
 ---
 
 Last time I enjoyed [snowboarding in the mountains]({{< relref "0306" >}}) so much that I've decided to do that once more, straight away. The next season is a year away, so why wait? After all, I'm now a freelancer, ain't I?

@@ -5,6 +5,14 @@ title: "Часть 2. Пловдив"
 series: "Болгария"
 tags: ["Болгария", "Пловдив", "путешествия"]
 image: "https://3.bp.blogspot.com/-MUDPcB6Af28/WQ3-d1G4LuI/AAAAAAAAp5I/2Ynf4n8VMY84cFkIKK2nPLV5AzJjSi9SQCPcB/s1600/dsc05140.picasaweb.jpg"
+places:
+    - place0307
+    - place0306
+    - place0305
+    - place0304
+    - place0303
+    - place0302
+    - place0301
 ---
 
 В последний день нашего [софийского турне]({{< relref "0322" >}}) мы решили сгонять на один день в Пловдив: утром туда, вечером обратно.

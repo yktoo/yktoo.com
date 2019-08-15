@@ -4,6 +4,8 @@ date: "2016-05-01T00:00:00Z"
 title: "King's Day 2016"
 tags: ["Amsterdam", "festivities", "King's Day", "Netherlands", "orange fever"]
 image: "https://2.bp.blogspot.com/-1B4HHpR6VXY/VyTmazdfvJI/AAAAAAAAl5I/QvwQnZYkf0YCjqY7d3CFCQ08tb2Z3SRLACKgB/s1600/20160427_141504.picasaweb.jpg"
+places:
+    - place0013
 ---
 
 The last Queen's Day to date happened [three years ago]({{< relref "0184" >}}), when Princess Beatrix, then still the Queen of the Netherlands, [announced]({{< relref "0176" >}}) her upcoming abdication for her son Willem-Alexander. The latter celebrates his birthday on **April 27<sup>th</sup>**, which is very conveniently near the former date of April 30<sup>th</sup>.

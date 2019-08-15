@@ -5,6 +5,17 @@ title: "Часть 8. Дневной Будапешт"
 series: "Вена и Будапешт"
 tags: ["Будапешт", "Венгрия", "путешествия"]
 image: "https://3.bp.blogspot.com/-hOnYvSZyLPA/Tan2sR77hQI/AAAAAAAAItc/0lTKhtBWzWw/s1600/dsc01740.picasaweb.jpg"
+places:
+    - place0094
+    - place0095
+    - place0096
+    - place0097
+    - place0098
+    - place0099
+    - place0100
+    - place0101
+    - place0102
+    - place0103
 ---
 
 Мы взяли у знакомых в Вене путеводитель по Будапешту (естественно, на немецком).

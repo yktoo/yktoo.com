@@ -4,6 +4,8 @@ date: "2012-01-06T00:00:00Z"
 title: "С Новым годом!"
 tags: ["Nieuwjaarsduik", "Гаага", "море", "Нидерланды", "пляж", "праздники"]
 image: "https://4.bp.blogspot.com/--BvFfK-9VOA/TwcHxOhDDII/AAAAAAAALMc/qNaRRXKKf6A/s1600/dsc08332.picasaweb.jpg"
+places:
+    - place0020
 ---
 
 **Поздравляю всех с наступившим две тысячи двенадцатым!**

@@ -5,6 +5,10 @@ title: "Часть 3. Динан, Спа и ***"
 series: "Южная Бельгия"
 tags: ["Бельгия", "Динан", "путешествия", "Спа"]
 image: "https://3.bp.blogspot.com/-JA8DSmxAVZ0/T34KAPfoqqI/AAAAAAAAOUg/GHEyGIupO-4/s1600/20120309_201541.picasaweb.jpg"
+places:
+    - place0063
+    - place0064
+    - place0065
 ---
 
 В [предыдущей серии]({{< relref "0145" >}}) мы прогулялись по Намюру и намюрской Цитадели. Теперь наш путь лежит через Динан.

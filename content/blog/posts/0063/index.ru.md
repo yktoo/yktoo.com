@@ -4,6 +4,8 @@ date: "2010-12-05T00:00:00Z"
 title: "Голландия — страна контрастов"
 tags: ["Амерсфорт", "красивое", "Нидерланды", "погода"]
 image: "https://2.bp.blogspot.com/-CcFJL8Fnh58/Thias-qOTGI/AAAAAAAAI90/-jq3GElGcyc/s1600/DSC00200.picasaweb.jpg"
+places:
+    - place0129
 ---
 
 Амерсфорт, октябрь:

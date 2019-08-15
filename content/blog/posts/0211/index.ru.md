@@ -5,6 +5,12 @@ title: "Часть 3. Город"
 series: "Египет. Хургада"
 tags: ["Египет", "забавное", "путешествия", "транспорт", "Хургада"]
 image: "https://2.bp.blogspot.com/-6YC0TNdPLuI/Us8KBHRFaaI/AAAAAAAAbiI/GbDj0iAMe_M/s1600/dsc02298.picasaweb.jpg"
+places:
+    - place0190
+    - place0192
+    - place0193
+    - place0194
+    - place0195
 ---
 
 Мы побывали и на [море]({{< relref "0209" >}}), что к востоку, и в [пустыне]({{< relref "0210" >}}), что к западу от Хургады. Теперь о самом интересном и необычном — о самом городе.

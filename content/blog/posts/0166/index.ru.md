@@ -5,6 +5,13 @@ title: "Часть 5. Инопланетное"
 series: "Барселона"
 tags: ["Барселона", "интересное", "Испания", "путешествия", "странное"]
 image: "https://3.bp.blogspot.com/-v1Qfw3KNla8/UASGHqA-p1I/AAAAAAAAUOE/bCCmZ8QUHFQ/s1600/dsc03507.picasaweb.jpg"
+places:
+    - place0025
+    - place0021
+    - place0028
+    - place0029
+    - place0030
+    - place0031
 ---
 
 В Барселоне мне довелось увидеть больше свидетельств посещения нашей планеты инопланетянами, чем где-либо ещё.

@@ -4,6 +4,8 @@ date: "2013-05-24T00:00:00Z"
 title: "Цветочный парад"
 tags: ["bloemencorso", "Кёукенхоф", "красивое", "цветочный парад", "цветы"]
 image: "https://3.bp.blogspot.com/-QR1Jfd12kjI/UZVBs3xvkwI/AAAAAAAAX3I/4zQECmiFdPg/s1600/dsc08203.picasaweb.jpg"
+places:
+    - place0009
 ---
 
 Столько всякого материала накопилось, пока я возился с этим своим [сайтом]({{< relref "/" >}}), уж и не знаю, успею ли разгрести.

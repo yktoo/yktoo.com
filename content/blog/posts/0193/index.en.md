@@ -5,6 +5,8 @@ title: "Part 4. Alte"
 series: "Portugal"
 tags: ["Algarve", "Alte", "beautiful", "Portugal", "travel"]
 image: "https://2.bp.blogspot.com/-2Dw5WyOVLp0/Ua4lRmL96MI/AAAAAAAAY8Y/l7iBHma3GdQ/s1600/dsc09246.picasaweb.jpg"
+places:
+    - place0005
 ---
 
 Our tour guide described Alte, which is 20 km northwards of Albufeira, as "the most picturesque village in Algarve". To verify this statement one would have to travel around all other Algarvian villages, so let's take it on trust.

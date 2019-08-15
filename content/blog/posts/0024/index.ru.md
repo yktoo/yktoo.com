@@ -4,6 +4,8 @@ date: "2008-07-26T00:00:00Z"
 title: "Спартак и К°"
 tags: ["Carré", "балет", "музыка", "Нидерланды", "театр"]
 image: "https://1.bp.blogspot.com/-aAv2E6Dgeso/T4241lRHrII/AAAAAAAAPA4/aF5ANtsW1Ik/s1600/koninklijk-theater-carre.picasaweb.jpg"
+places:
+    - place0041
 ---
 
 Вчера у нас в компании был, что называется, «корпоративный вечер».

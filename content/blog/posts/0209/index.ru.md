@@ -5,6 +5,9 @@ title: "Часть 1. Море"
 series: "Египет. Хургада"
 tags: ["Египет", "итоги", "Красное море", "море", "пляж", "путешествия", "сноркелинг", "Хургада"]
 image: "https://3.bp.blogspot.com/-WhG2CuTPnhU/UsQKZtFKY4I/AAAAAAAAbFY/BCQ_a_7PuPI/s1600/dsc01946.picasaweb.jpg"
+places:
+    - place0188
+    - place0190
 ---
 
 **Всех с Новым Годом!**
