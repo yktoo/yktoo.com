@@ -33,7 +33,7 @@ The service's user data collection is limited to the following:
 
 ## Data storage: location, security, and reliability
 
-The company uses the services of [Render](https://render.com/) (USA), [CloudFlare](https://www.cloudflare.com/) (USA), and [Scaleway](https://www.scaleway.com/) (France) to host all components. All care is taken to securely protect your data, including the encryption of all user data using a secret key accessibly only to the employees of the company (your password is not accessible to anyone as it's cryptographically hashed). Backups of the entire database are regularly made in the event it is necessary to restore user data.
+The company uses the services of [Render](https://render.com/) (USA), [Cloudflare](https://www.cloudflare.com/) (USA), and [Scaleway](https://www.scaleway.com/) (France) to host all components. All care is taken to securely protect your data, including the encryption of all user data using a secret key accessibly only to the employees of the company (your password is not accessible to anyone as it's cryptographically hashed). Backups of the entire database are regularly made in the event it is necessary to restore user data.
 
 When a customer deletes its account through the web dashboard interface, all information related to the domain (including user comments, voting data, and views) is permanently deleted from all servers. Deleted data may be retained in our backups for up to 14 days.
 

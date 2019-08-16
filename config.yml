@@ -6,7 +6,6 @@ title: Yktoo
 summaryLength: 15
 googleAnalytics: UA-19569086-3
 enableRobotsTXT: true
-rssLimit: 25
 
 # Language settings
 defaultContentLanguage: en
@@ -38,11 +37,11 @@ params:
         mpl11: 'http://mozilla.org/MPL/1.1/'
         mpl2: 'http://mozilla.org/MPL/2.0/'
     commentoUrl: 'https://comment.yktoo.com/js/commento.js'
-    # TODO
-    cookieConsentInfoUrl: /about
+    cookieConsentInfoUrl: /about/privacy
     copyrightUrl: /about
     dateFormat: "Mon Jan 2, 2006"
     googleMapsApiKey: AIzaSyBJzJgSlmrF2ofMmVt2a7422yDv54Im_Yk
+    rssLimit: 33
     shortDateFormat: "Jan 2, 2006"
 
 # Related indices settings
