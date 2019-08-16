@@ -23,3 +23,7 @@ Yktoo — это мой ник, отсюда и возник домен <u>yktoo
 Ранее я поддерживал ряд других сайтов (<u>dk-soft.org</u>, <u>phoa.narod.ru</u>, <u>devtools.narod.ru</u>, <u>yktoo.narod.ru</u>, <u>daletech.narod.ru</u>, <u>radiolaria.narod.ru</u>), но в один момент я решил объединить это всё с моим блогом и сотворить из этого нечто целостное.
 
 Этот веб-сайт построен с помощью [Hugo](https://gohugo.io/), [Bootstrap](http://getbootstrap.com/) and [Font Awesome](https://fontawesome.com/).
+
+## Условия использования
+
+Просматривая контент сайта, вы соглашаетесь с [Политикой приватности (англ.)]({{< relref path="/about/privacy" lang="en" >}}) и принимаете [Условия предоставления услуг (англ.)]({{< relref path="/about/tos" lang="en" >}}).

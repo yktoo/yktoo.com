@@ -21,3 +21,7 @@ Ik spreek Russisch, Engels en Nederlands. Als je contact met me op wilt nemen, d
 Yktoo is mijn bijnaam, daarom is <u>yktoo.com</u> ontstaan. Deze naam heeft geen betekenis.
 
 Deze website maakt gebruik van [Hugo](https://gohugo.io/), [Bootstrap](http://getbootstrap.com/) en [Font Awesome](https://fontawesome.com/).
+
+## Voorwaarden
+
+Door deze website te gebruiken gaat u akkoord met het [Privacybeleid (Engels)]({{< relref path="/about/privacy" lang="en" >}}) en de [Algemene voorwaarden (Engels)]({{< relref path="/about/tos" lang="en" >}}).

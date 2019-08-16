@@ -21,3 +21,7 @@ I speak Russian, English, and Dutch. If you feel like contacting me, check out t
 Yktoo is my nickname, which is why <u>yktoo.com</u> came into existence. It doesn't mean anything, really.
 
 This website is powered by [Hugo](https://gohugo.io/), [Bootstrap](http://getbootstrap.com/) and [Font Awesome](https://fontawesome.com/).
+
+## Usage terms
+
+By viewing this website you're consenting to the [Privacy policy]({{< relref "/about/privacy" >}}) and accepting the [Terms of service]({{< relref "/about/tos" >}}).
