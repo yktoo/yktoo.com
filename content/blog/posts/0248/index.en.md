@@ -41,25 +41,25 @@ It's nearly impossible to cover each and every function of this TV. It would tak
 
 At the moment I've been using the device for about four months, which is sufficient to draw some conclusions about its pros and cons.
 
-**Pros:**
+### Pros
 
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png) Big, quality, sharp and contrast screen
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png) Very thin
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png) Stylish design
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png) 4K video support
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png) Huge number of functions
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png) Great support for AV formats
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png) Very high refresh rate (1000 Hz) + quality HD video upscaling
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png) Quality sound
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png) Two remote controls, one of which can work as a mouse
+* Big, quality, sharp and contrast screen
+* Very thin
+* Stylish design
+* 4K video support
+* Huge number of functions
+* Great support for AV formats
+* Very high refresh rate (1000 Hz) + quality HD video upscaling
+* Quality sound
+* Two remote controls, one of which can work as a mouse
 
-**Cons:**
+### Cons
 
-* ![-](http://3.bp.blogspot.com/-Ve0HjsK5vVg/UbCZUZKATYI/AAAAAAAAZKw/LLk4Y6atW4c/s1600/minus.png) Price (recommended €5499 at the moment)
-* ![-](http://3.bp.blogspot.com/-Ve0HjsK5vVg/UbCZUZKATYI/AAAAAAAAZKw/LLk4Y6atW4c/s1600/minus.png) It takes two people to move it around
-* ![-](http://3.bp.blogspot.com/-Ve0HjsK5vVg/UbCZUZKATYI/AAAAAAAAZKw/LLk4Y6atW4c/s1600/minus.png) Some functions are poorly implemented (e.g. voice and gesture control)
-* ![-](http://3.bp.blogspot.com/-Ve0HjsK5vVg/UbCZUZKATYI/AAAAAAAAZKw/LLk4Y6atW4c/s1600/minus.png) Cooling fan noise, audible in silence
-* ![-](http://3.bp.blogspot.com/-Ve0HjsK5vVg/UbCZUZKATYI/AAAAAAAAZKw/LLk4Y6atW4c/s1600/minus.png) Occasional UI lags
-* ![-](http://3.bp.blogspot.com/-Ve0HjsK5vVg/UbCZUZKATYI/AAAAAAAAZKw/LLk4Y6atW4c/s1600/minus.png) Many apps from the catalogue are of a questionable value
+* Price (recommended **€5499** at the moment)
+* It takes two people to move it around
+* Some functions are poorly implemented (e.g. voice and gesture control)
+* Cooling fan noise, audible in silence
+* Occasional UI lags
+* Many apps from the catalogue are of a questionable value
 
 All in all, I'm positive about this TV. It's almost perfect in terms of hardware, but software quality is sometimes lagging behind. Let's hope it'll be improved with firmware updates.

@@ -4,6 +4,8 @@ date: "2015-03-29T00:00:00Z"
 title: "The Gentle Storm and Stream of Passion in Melkweg"
 tags: ["Amsterdam", "Anneke van Giersbergen", "Arjen Lucassen", "Ed Warby", "Ferry Duijsens", "Johan van Stratum", "Joost van den Broek", "Marcela Bovio", "Melkweg", "Merel Bechtold", "music", "Netherlands", "progressive metal", "Stream of Passion", "The Gentle Storm"]
 image: "https://2.bp.blogspot.com/-cH_tABt-xDQ/VRf95KVJ0VI/AAAAAAAAhbM/vj3Eldrjaks/s1600/dsc08304.picasaweb.jpg"
+places:
+    - place0073
 ---
 
 It's been a while since my last gig report, time to catch up with the latest developments in the Dutch rock world. I've a perfect occasion as I've seen two live rock legends.
@@ -81,8 +83,8 @@ In the second act Marcela took some clothes off:
 At a certain moment the band vanished behind the scenes, and Anneke entered holding an acoustic guitar. Out of the blue she started **Wish You Were Here** by Pink Floyd.
 {{< imgfig "https://4.bp.blogspot.com/-hwgqNYWDM8c/VRf9z4l4KaI/AAAAAAAAhZg/h31V96igj0c/s1600/dsc08275.picasaweb.jpg" "Anneke plays Wish You Were Here (Pink Floyd)." >}}
 
-This I have filmed with an acceptable quality:
-![](youtube:2mrhjnIiKQ4 "Anneke van Giersbergen - Wish You Were Here (Pink Floyd)")
+This I have filmed with an acceptable quality. Anneke van Giersbergen singing **Wish You Were Here** (by Pink Floyd):
+{{< youtube "2mrhjnIiKQ4" >}}
 
 And, finally, the mighty Arjen Lucassen, as tall as 2.02 metres (there's an answer on this in the [FAQ section](http://www.arjenlucassen.com/content/info/faq/) on his website):
 {{< imgfig "https://2.bp.blogspot.com/-fvbfTGsc01Q/VRf908DfO6I/AAAAAAAAhZo/z3bQAi_viQw/s1600/dsc08283.picasaweb.jpg" "Arjen Lucassen." >}}
@@ -94,7 +96,7 @@ Arjen grabbed a guitar that turned out to be… totally *unplugged*. "Okay then,
 {{< imgfig "https://2.bp.blogspot.com/-Y9DPTwh0kZA/VRf922B70cI/AAAAAAAAhZ4/ika-kBMUa0I/s1600/dsc08291.picasaweb.jpg" "Arjen Lucassen." >}}
 
 Arjen and Anneke have sung a very very lyrical tune called **The Moment** from the new album (Arjen admitted he even cried when Anneke sang it for the first time):
-![](youtube:RjHasZbd1zE "Anneke van Giersbergen, Arjen Lucassen - The Moment")
+{{< youtube "RjHasZbd1zE" >}}
 
 Marcela joined them towards the end, winning applause.
 
@@ -102,13 +104,13 @@ Next they went back in time, to Ayreon of old days:
 {{< imgfig "https://4.bp.blogspot.com/-St62x2bUjIs/VRf94Mm-VsI/AAAAAAAAhaA/h8fNqH3q89g/s1600/dsc08296.picasaweb.jpg" >}}
 
 An optimistic song about a man in coma, as Arjen put it. **Comatose**:
-![](youtube:UEjCL7cl8lI "Anneke van Giersbergen, Arjen Lucassen, Marcela Bovio - Comatose (Ayreon)")
+{{< youtube "UEjCL7cl8lI" >}}
 
 Another couple of Ayreon tributes. **Valley of the Queens**:
-![](youtube:Gvq8IXUL7ME "Anneke van Giersbergen, Arjen Lucassen, Marcela Bovio - Valley of the Queens (Ayreon)")
+{{< youtube "Gvq8IXUL7ME" >}}
 
 **Come Back To Me**:
-![](youtube:9U-Tf5YCo7s "Anneke van Giersbergen, Arjen Lucassen, Marcela Bovio - Come Back to Me (Ayreon)")
+{{< youtube "9U-Tf5YCo7s" >}}
 
 ## Back on track {#back}
 

@@ -4,6 +4,8 @@ date: "2015-03-29T00:00:00Z"
 title: "The Gentle Storm и Stream of Passion в Melkweg"
 tags: ["Anneke van Giersbergen", "Arjen Lucassen", "Ed Warby", "Ferry Duijsens", "Johan van Stratum", "Joost van den Broek", "Marcela Bovio", "Melkweg", "Merel Bechtold", "progressive metal", "Stream of Passion", "The Gentle Storm", "Амстердам", "музыка", "Нидерланды"]
 image: "https://2.bp.blogspot.com/-cH_tABt-xDQ/VRf95KVJ0VI/AAAAAAAAhbM/vj3Eldrjaks/s1600/dsc08304.picasaweb.jpg"
+places:
+    - place0073
 ---
 
 А давно не мучал я вас рассказами о голландском роке, надо исправляться. Тем более повод такой, воочию увидел две рок-легенды — аж сам себе завидую.
@@ -81,8 +83,8 @@ image: "https://2.bp.blogspot.com/-cH_tABt-xDQ/VRf95KVJ0VI/AAAAAAAAhbM/vj3Eldrja
 В середине выступления группа ненадолго удалилась, Аннеке вышла одна с акустической гитарой и *внезапно* исполнила бессмертную {{< fl "Wish You Were Here" >}} за авторством Pink Floyd.
 {{< imgfig "https://4.bp.blogspot.com/-hwgqNYWDM8c/VRf9z4l4KaI/AAAAAAAAhZg/h31V96igj0c/s1600/dsc08275.picasaweb.jpg" "Аннеке исполняет Wish You Were Here (Pink Floyd)." >}}
 
-Это я смог нормально записать на видео:
-![](youtube:2mrhjnIiKQ4 "Anneke van Giersbergen - Wish You Were Here (Pink Floyd)")
+Это я смог нормально записать на видео. Anneke van Giersbergen, **Wish You Were Here** (Pink Floyd):
+{{< youtube "2mrhjnIiKQ4" >}}
 
 Концерт достиг своего апогея: великий и ужасный Арьен Лукассен, высоченный голландец (на его сайте даже есть ответ на [часто задаваемый вопрос](http://www.arjenlucassen.com/content/info/faq/) о росте: два метра и два сантиметра):
 {{< imgfig "https://2.bp.blogspot.com/-fvbfTGsc01Q/VRf908DfO6I/AAAAAAAAhZo/z3bQAi_viQw/s1600/dsc08283.picasaweb.jpg" "Арьен Лукассен (Arjen Lucassen)." >}}
@@ -94,7 +96,7 @@ image: "https://2.bp.blogspot.com/-cH_tABt-xDQ/VRf95KVJ0VI/AAAAAAAAhbM/vj3Eldrja
 {{< imgfig "https://2.bp.blogspot.com/-Y9DPTwh0kZA/VRf922B70cI/AAAAAAAAhZ4/ika-kBMUa0I/s1600/dsc08291.picasaweb.jpg" "Арьен Лукассен (Arjen Lucassen)." >}}
 
 Но обошлось. Арьен и Аннеке исполнили в акустике ну очень лирическую песню {{< fl "The Moment" >}} нового альбома The Gentle Storm (Арьен, кстати, прокомментировал это видео у меня в Фейсбуке, что у него от пения Аннеке каждый раз мурашки по коже):
-![](youtube:RjHasZbd1zE "Anneke van Giersbergen, Arjen Lucassen - The Moment")
+{{< youtube "RjHasZbd1zE" >}}
 
 В конце очень удачно влилась Марсела вторым голосом — публика даже зааплодировала.
 
@@ -102,13 +104,13 @@ image: "https://2.bp.blogspot.com/-cH_tABt-xDQ/VRf95KVJ0VI/AAAAAAAAhbM/vj3Eldrja
 {{< imgfig "https://4.bp.blogspot.com/-St62x2bUjIs/VRf94Mm-VsI/AAAAAAAAhaA/h8fNqH3q89g/s1600/dsc08296.picasaweb.jpg" >}}
 
 Оптимистическая, как выразился Арьен, песня про человека в коме, {{< fl "Comatose" >}}:
-![](youtube:UEjCL7cl8lI "Anneke van Giersbergen, Arjen Lucassen, Marcela Bovio - Comatose (Ayreon)")
+{{< youtube "UEjCL7cl8lI" >}}
 
 И ещё пара видео акустики из репертуара Ayreon. {{< fl "Valley of the Queens" >}}:
-![](youtube:Gvq8IXUL7ME "Anneke van Giersbergen, Arjen Lucassen, Marcela Bovio - Valley of the Queens (Ayreon)")
+{{< youtube "Gvq8IXUL7ME" >}}
 
 {{< fl "Come Back To Me" >}} (клавиши и гитара поначалу довольно заметно расходятся в ритме. Похоже, Арьен немного перенервничал и взял с места в карьер):
-![](youtube:9U-Tf5YCo7s "Anneke van Giersbergen, Arjen Lucassen, Marcela Bovio - Come Back to Me (Ayreon)")
+{{< youtube "9U-Tf5YCo7s" >}}
 
 ## И снова {#back}
 

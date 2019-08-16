@@ -6,7 +6,7 @@ tags: ["gadgets", "Google", "hardware", "Nest", "Nest Protect 2", "review"]
 image: "https://4.bp.blogspot.com/-9MqWjRo4DI8/VlrPOWc_hXI/AAAAAAAAk2c/qI6pz9SyOT0/s1600/dsc01093.picasaweb.jpg"
 ---
 
-## Intro {#intro}
+## Intro
 
 There was a moment when my {{< wiki "Smoke_detector" "en" "smoke detector" >}}, which is as old as the house it's in, had to be replaced.
 
@@ -23,13 +23,13 @@ To be honest, I never liked it, firstly, for being annoying and secondly, for it
 That is, with a nice exception I came across. After some deliberation I've bought a [Nest Protect 2](https://nest.com/blog/2015/06/17/meet-the-new-nest-protect/), a "smart" smoke and carbon monoxide detector.
 {{< imgfig "https://4.bp.blogspot.com/-9MqWjRo4DI8/VlrPOWc_hXI/AAAAAAAAk2c/qI6pz9SyOT0/s1600/dsc01093.picasaweb.jpg" "Nest Protect 2." >}}
 
-## Nest Labs {#nest-labs}
+## Nest Labs
 
 {{< wiki "Nest_Labs" "en" "Nest Labs" >}}, once a not very well known company founded by two former Apple engineers, got into the spotlight after it was acquired by Google for a stunning sum of $3.2 billion in 2014. Their first and most popular product was the "smart" [Nest Thermostat](https://nest.com/thermostat/meet-nest-thermostat/) featuring an unusual puck-shaped design.
 
 It was followed by the *Nest Protect* smoke and carbon monoxide detector (first generation), which also pretended to be smart and was full of unusual functions. After some difficulties at launch (they had to disable the controversial alarm silencing feature called *Wave Silence* because of doubts about its reliability), it became quite popular in Europe and the US.
 
-## Nest Protect 2 {#nest-protect-2}
+## Nest Protect 2
 
 In June 2015 the second edition of the device, [Nest Protect 2](https://nest.com/blog/2015/06/17/meet-the-new-nest-protect/), was presented. This new version had a bit thinner case, a "split spectrum sensor" (whatever that means), self-test function, "safety temperature" feature and in general more intelligent firmware.
 
@@ -39,7 +39,7 @@ The only problem was the price, in the Netherlands it's as much as **€119**, w
 
 But after considering the specifications for *Nest Protect 2* I decided that is a good value for this money.
 
-## Specifications {#specs}
+## Specifications
 
 *Nest Protect 2* is available in two flavours:
 
@@ -49,23 +49,23 @@ But after considering the specifications for *Nest Protect 2* I decided that is 
 Since my previous detector was AC-powered, I chose the second option, *Wired*.
 
 {{< table "table" >}}
-|**Sensors**              |
-|-------------------------|---------------------------------------------------------------------------------------------
-|- Smoke sensor           | Split spectrum sensor, 450 and 880 nm wavelength
-|- Carbon monoxide sensor | 10 year electrochemical carbon monoxide sensor
-|- Humidity sensor        | ±3% RH
-|- Temperature sensor     | ± 1.8°F (± 1°C)
-|- Occupancy sensor       | 120° field of view to 20 feet
-|- Ambient light sensor   | 1-100k Lux Dynamic Range
-|- Microphone             | Omnidirectional microphone, 70dBA SNR
-|Power                    | 6 long-life lithium L91 AA batteries or 3 long-life lithium L91 AA batteries + 120/230 VAC
-|Sound                    | 2 Watt Speaker, Horn: 85dB SPL at 10 feet (3 m)
-|Indication               | RGB color ring with 6 LEDs
-|Connectivity             | Wi-Fi 802.11 b/g/n 2.4 GHz<br>Wireless Interconnect: 802.15.4 @ 2.4GHz<br>Bluetooth Low Energy (BLE)
-|Operating conditions     | Temperature 40°F (4°C)…100°F (38°C), relative humidity 20…80%
-|Color                    | White, black
-|Dimensions               | 134 × 134 × 38,5 mm (5.3 × 5.3 × 1.5 in)
-|Weight                   | 380 g (14 oz)
+|**Sensors**              |                                                                                                     |
+|-------------------------|-----------------------------------------------------------------------------------------------------|
+|- Smoke sensor           | Split spectrum sensor, 450 and 880 nm wavelength                                                    |
+|- Carbon monoxide sensor | 10 year electrochemical carbon monoxide sensor                                                      |
+|- Humidity sensor        | ±3% RH                                                                                              |
+|- Temperature sensor     | ± 1.8°F (± 1°C)                                                                                     |
+|- Occupancy sensor       | 120° field of view to 20 feet                                                                       |
+|- Ambient light sensor   | 1-100k Lux Dynamic Range                                                                            |
+|- Microphone             | Omnidirectional microphone, 70dBA SNR                                                               |
+|Power                    | 6 long-life lithium L91 AA batteries or 3 long-life lithium L91 AA batteries + 120/230 VAC          |
+|Sound                    | 2 Watt Speaker, Horn: 85dB SPL at 10 feet (3 m)                                                     |
+|Indication               | RGB color ring with 6 LEDs                                                                          |
+|Connectivity             | Wi-Fi 802.11 b/g/n 2.4 GHz<br>Wireless Interconnect: 802.15.4 @ 2.4GHz<br>Bluetooth Low Energy (BLE)|
+|Operating conditions     | Temperature 40°F (4°C)…100°F (38°C), relative humidity 20…80%                                       |
+|Color                    | White, black                                                                                        |
+|Dimensions               | 134 × 134 × 38,5 mm (5.3 × 5.3 × 1.5 in)                                                            |
+|Weight                   | 380 g (14 oz)                                                                                       |
 {{< /table >}}
 
 The list of available sensors is impressive. What is it all used for?
@@ -102,7 +102,7 @@ Used to test the speaker and the horn once a month. It is stated that it's only 
 
 The device runs on the *Freescale Kinetis K60* CPU and uses the {{< wiki "ZigBee" "en" "ZigBee" >}} wireless protocol for the interconnect. With all of the above the price doesn't seem that high anymore.
 
-## Unboxing {#unboxing}
+## Unboxing
 
 So let's unpack the smarty monster.
 
@@ -150,7 +150,7 @@ The backplate has a rubber ring on its face side:
 And also on the back side, which is indicated by a crossed screw:
 {{< imgfig "https://4.bp.blogspot.com/-70NhPGfrSlI/VlrPOdrzdBI/AAAAAAAAk2c/GjZGrKsdzJY/s1600/dsc01099.picasaweb.jpg" "Nest Protect 2, the backplate, reverse side." >}}
 
-## Initial setup {#setup}
+## Initial setup
 
 As per the instructions, the first thing to do is installing the *Nest App* on your phone or tablet (only *Android* and *iOS* are supported at the moment). Apart from that, you'll need Wi-Fi with Internet access and a Nest account.
 
@@ -175,7 +175,7 @@ What I find good about it, is that you can see the status of your *Protects* fro
 
 Another way of initiating a self-test is a double tap on the big button in the centre of your *Protect*.
 
-## Mount {#mount}
+## Mount
 
 Despite all the perfectionism this device is made with, I failed to find a pair of holes that would match the standard Dutch socket box, so I had to improvise:
 {{< imgfig "https://1.bp.blogspot.com/-QtFm6uEXm7s/VlrPOdycoqI/AAAAAAAAk2c/5Y8-Ext56C4/s1600/dsc01100.picasaweb.jpg" "Nest Protect 2. An improvised ceiling mount." >}}
@@ -187,7 +187,7 @@ The power wire is attached to the power/neutral line with the provided wire nuts
 
 After a while it enters stand-by mode, the ring goes out and a small green LED indicates that the device is on mains power.
 
-## My experience {#experience}
+## My experience
 
 So far I'm quite happy about the detector's build and performance. This second generation *Nest Protect* is of high quality and well thought-through. The [website of the manufacturer](https://nest.com/smoke-co-alarm/meet-nest-protect/) also leaves a good impression as you see the customer is put first with Nest (unlike many others).
 
@@ -213,18 +213,23 @@ At the moment *Nest Protect 2* is only officially available in the following cou
 
 However I don't think American smoke and carbon monoxide are any different from Ukrainian ones. So the only real argument against using it elsewhere could be lack of official support (and maybe the local language).
 
-## Conclusions {#conclusions}
+## Conclusions
 
-* ![](icon:plus) High quality build and software
-* ![](icon:plus) Lots of built-in functions
-* ![](icon:plus) Stylish design
-* ![](icon:plus) Well organised user interface
-* ![](icon:plus) Protection against false alarms and annoying reminders
-* ![](icon:plus) Night light function
-* ![](icon:plus) Access to status via the Internet
-* ![](icon:plus) Long-life sensors (10 years)
-* ![](icon:minus) High price
-* ![](icon:minus) Officially sold only in a few countries
-* ![](icon:minus) Potential risk of hacking via Internet
-* ![](icon:minus) No guarantee the microphone is used for what it's stated to be used
-* ![](icon:minus) It's unclear what will happen if *Nest Labs* ceases to exist
+### Pros
+
+* High quality build and software
+* Lots of built-in functions
+* Stylish design
+* Well organised user interface
+* Protection against false alarms and annoying reminders
+* Night light function
+* Access to status via the Internet
+* Long-life sensors (10 years)
+
+### Cons
+
+* High price
+* Officially sold only in a few countries
+* Potential risk of hacking via Internet
+* No guarantee the microphone is used for what it's stated to be used
+* It's unclear what will happen if *Nest Labs* ceases to exist

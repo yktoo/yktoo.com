@@ -41,25 +41,25 @@ image: "https://3.bp.blogspot.com/-Io14-rNSbMM/VQQq8W1CZiI/AAAAAAAAhPk/PqjH6gunL
 
 На данный момент устройство находится в моём пользовании около четырёх месяцев, чего вполне достаточно, чтобы составить мнение о его возможностях, плюсах и минусах. Итак:
 
-**Плюсы:**
+### Плюсы
 
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png) Большой, качественный, чёткий и контрастный экран
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png) Очень тонкий
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png) Стильное исполнение
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png) Поддержка 4K-видео
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png) Большое количество встроенных функций
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png) Отличная поддержка видео- и аудиоформатов
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png) Очень высокая частота обновления (1000 Hz) + качественный апскейлинг HD-видео
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png) Качественный встроенный звук
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png) Два пульта ДУ в комплекте, один из которых может работать в режиме мыши
+* Большой, качественный, чёткий и контрастный экран
+* Очень тонкий
+* Стильное исполнение
+* Поддержка 4K-видео
+* Большое количество встроенных функций
+* Отличная поддержка видео- и аудиоформатов
+* Очень высокая частота обновления (1000 Hz) + качественный апскейлинг HD-видео
+* Качественный встроенный звук
+* Два пульта ДУ в комплекте, один из которых может работать в режиме мыши
 
-**Минусы:**
+### Минусы
 
-* ![-](http://3.bp.blogspot.com/-Ve0HjsK5vVg/UbCZUZKATYI/AAAAAAAAZKw/LLk4Y6atW4c/s1600/minus.png) Цена (в настоящее время по каталогу €5499)
-* ![-](http://3.bp.blogspot.com/-Ve0HjsK5vVg/UbCZUZKATYI/AAAAAAAAZKw/LLk4Y6atW4c/s1600/minus.png) Размер и вес позволяют перемещать устройство только вдвоём
-* ![-](http://3.bp.blogspot.com/-Ve0HjsK5vVg/UbCZUZKATYI/AAAAAAAAZKw/LLk4Y6atW4c/s1600/minus.png) Далеко не все функции пригодны к использованию (например, голосовые команды и управление жестами)
-* ![-](http://3.bp.blogspot.com/-Ve0HjsK5vVg/UbCZUZKATYI/AAAAAAAAZKw/LLk4Y6atW4c/s1600/minus.png) Довольно заметный в тишине шум кулера
-* ![-](http://3.bp.blogspot.com/-Ve0HjsK5vVg/UbCZUZKATYI/AAAAAAAAZKw/LLk4Y6atW4c/s1600/minus.png) Эпизодические подтормаживания интерфейса
-* ![-](http://3.bp.blogspot.com/-Ve0HjsK5vVg/UbCZUZKATYI/AAAAAAAAZKw/LLk4Y6atW4c/s1600/minus.png) Сомнительное качество многих приложений из каталога
+* Цена (в настоящее время по каталогу **€5499**)
+* Размер и вес позволяют перемещать устройство только вдвоём
+* Далеко не все функции пригодны к использованию (например, голосовые команды и управление жестами)
+* Довольно заметный в тишине шум кулера
+* Эпизодические подтормаживания интерфейса
+* Сомнительное качество многих приложений из каталога
 
 В целом опыт эксплуатации телевизора положительный. «Железная» часть сделана, на мой взгляд, безупречно. В плане софта имеются, конечно, некоторые недоработки и шероховатости, но как без них. К тому же телевизор периодически обновляется через интернет.
