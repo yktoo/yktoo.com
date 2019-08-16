@@ -8,30 +8,29 @@
 
     <!-- Contact form -->
     <section id="contact-form-container">
-        <!-- TODO i18n -->
-        <form id="contact-form" action="/en/about/contact" method="post">
-            <div class="form-group field-contactform-email required">
-                <label class="control-label" for="contactform-name">Your name</label>
-                <input type="text" id="contactform-name" class="form-control" name="ContactForm[name]" aria-required="true">
-                <p class="help-block help-block-error"></p>
-            </div>
-            <div class="form-group field-contactform-email required">
-                <label class="control-label" for="contactform-email">Email address</label>
-                <input type="text" id="contactform-email" class="form-control" name="ContactForm[email]" aria-required="true">
-                <p class="help-block help-block-error"></p>
-            </div>
-            <div class="form-group field-contactform-subject required">
-                <label class="control-label" for="contactform-subject">Message subject</label>
-                <input type="text" id="contactform-subject" class="form-control" name="ContactForm[subject]" aria-required="true">
-                <p class="help-block help-block-error"></p>
-            </div>
-            <div class="form-group field-contactform-body required">
-                <label class="control-label" for="contactform-body">Message body</label>
-                <textarea id="contactform-body" class="form-control" name="ContactForm[body]" rows="6" aria-required="true"></textarea>
-                <p class="help-block help-block-error"></p>
+        <form id="contact-form" class="contact-form" method="post" action="{{ .Site.Params.contactAction }}" novalidate>
+            <input type="hidden" name="_language" value="{{ .Site.Language.Lang }}" />
+            <div class="form-group">
+                <label class="control-label" for="contactform-name">{{ T `yourName` }}</label>
+                <input type="text" class="form-control" name="name" id="contactform-name" required  aria-required="true">
+                <div class="invalid-feedback">{{ T "errorNameReq" }}</div>
             </div>
             <div class="form-group">
-                <button type="submit" class="btn btn-primary" name="contact-button">Submit</button>
+                <label class="control-label" for="contactform-email">{{ T `yourEmail` }}</label>
+                <input type="email" class="form-control" name="email" id="contactform-email" required  aria-required="true">
+                <div class="invalid-feedback">{{ T `errorEmailReq` }}</div>
+            </div>
+            <div class="form-group">
+                <label class="control-label" for="contactform-subject">{{ T `messageSubject` }}</label>
+                <input type="text" class="form-control" name="subject" id="contactform-subject">
+            </div>
+            <div class="form-group">
+                <label class="control-label" for="contactform-message">{{ T `messageBody` }}</label>
+                <textarea rows="6" class="form-control" name="message" id="contactform-message" required  aria-required="true"></textarea>
+                <div class="invalid-feedback">{{ T `errorMessageReq` }}</div>
+            </div>
+            <div id="cf-submit" class="form-group">
+                <input type="submit" id="contact-submit-button" class="btn btn-primary" value="{{ T `submit` }}">
             </div>
         </form>
     </section>

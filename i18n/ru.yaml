@@ -20,6 +20,9 @@
 - {id: docs,              translation: Документация}
 - {id: download,          translation: Скачать}
 - {id: downloads,         translation: Скачать}
+- {id: errorEmailReq,     translation: 'Необходим корректный email-адрес.'}
+- {id: errorMessageReq,   translation: 'Пожалуйста, введите текст сообщения.'}
+- {id: errorNameReq,      translation: 'Ваше имя должно быть заполнено.'}
 - {id: faq,               translation: FAQ}
 - {id: fromAlbum,         translation: Из альбома}
 - {id: fullDocsAvail,     translation: Полная документация проекта доступна}
@@ -30,13 +33,15 @@
 - {id: iAmLegend,         translation: Я легенда}
 - {id: license,           translation: Лицензия}
 - {id: license_gpl3,      translation: GNU General Public License версии 3}
-- {id: license_lgpl21,    translation: GNU Lesser General Public License версии 2.1}
 - {id: license_lgpl3,     translation: GNU Lesser General Public License версии 3}
-- {id: license_mpl11,     translation: Mozilla Public License версии 1.1}
+- {id: license_lgpl21,    translation: GNU Lesser General Public License версии 2.1}
 - {id: license_mpl2,      translation: Mozilla Public License версии 2.0}
+- {id: license_mpl11,     translation: Mozilla Public License версии 1.1}
 - {id: listen,            translation: Слушать}
 - {id: locale,            translation: ru_RU}
 - {id: map,               translation: Карта}
+- {id: messageBody,       translation: Текст письма}
+- {id: messageSubject,    translation: Тема письма}
 - {id: mySocialLinks,     translation: Мои соцсети}
 - {id: noContentCurLang,  translation: 'Содержимое на русском недоступно.<br><big>¯\_(ツ)_/¯</big><br>Попробуйте выбрать другой язык в верхнем меню.'}
 - {id: numPages,          translation: {one: '{{ .Count }} страница', few: '{{ .Count }} страницы', many: '{{ .Count }} страниц'}}
@@ -48,15 +53,15 @@
 - {id: postAnnouncements, translation: Анонсы блога}
 - {id: postedInSeries,    translation: 'Подборка:'}
 - {id: postIn_en,         translation: на английском}
-- {id: postIn_ru,         translation: на русском}
 - {id: postIn_nl,         translation: на голландском}
+- {id: postIn_ru,         translation: на русском}
 - {id: postInLangs,       translation: Этот пост}
 - {id: postNext,          translation: ← Следующий пост}
 - {id: postPrev,          translation: Предыдущий пост →}
-- {id: postsCurLang,      translation: Посты на русском}
 - {id: posts_en,          translation: Посты на английском}
-- {id: posts_ru,          translation: Посты на русском}
 - {id: posts_nl,          translation: Посты на голландском}
+- {id: posts_ru,          translation: Посты на русском}
+- {id: postsCurLang,      translation: Посты на русском}
 - {id: privacyPolicy,     translation: Политика приватности}
 - {id: radiolaria,        translation: Радиолярия}
 - {id: readOn,            translation: Далее »}
@@ -72,6 +77,7 @@
 - {id: softwareFor,       translation: 'ПО для {{ .value }}'}
 - {id: sourceCode,        translation: Исходный код}
 - {id: sourceCodeClone,   translation: 'Чтобы загрузить самую новую версию исходных кодов, склонируйте мой'}
+- {id: submit,            translation: Отправить}
 - {id: subscribeByEmail,  translation: Подписаться по е-мэйлу}
 - {id: subscribeByRSS,    translation: Формат RSS 2.0}
 - {id: support,           translation: Поддержка}
@@ -83,3 +89,5 @@
 - {id: viaThisLink,       translation: по этой ссылке}
 - {id: videos,            translation: Видео}
 - {id: whereThisWas,      translation: Где это}
+- {id: yourEmail,         translation: Ваш email-адрес}
+- {id: yourName,          translation: Ваше имя}

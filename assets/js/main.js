@@ -40,6 +40,25 @@ $(document).ready(function () {
     });
 
     /**
+     * Magnific popup
+     */
+    $('.image-popup').magnificPopup({
+        type: 'image',
+        removalDelay: 160, // Delay removal by X to allow out-animation
+        callbacks: {
+            beforeOpen: function () {
+                // Hack that adds mfp-anim class to markup
+                this.st.image.markup = this.st.image.markup.replace('mfp-figure', 'mfp-figure mfp-with-anim');
+                this.st.mainClass = this.st.el.attr('data-effect');
+            }
+        },
+        closeOnContentClick: true,
+        midClick: true,
+        fixedContentPos: false,
+        fixedBgPos: true
+    });
+
+    /**
      * Initialise the audio player.
      */
     (function () {
@@ -92,6 +111,19 @@ $(document).ready(function () {
         }
 
     })();
+
+    /**
+     * Contact form validation.
+     */
+    $('#contact-submit-button').click(function (e) {
+        var contactForm = $('#contact-form');
+        if (contactForm[0].checkValidity() === false) {
+            // Stop the form from being submitted
+            e.preventDefault();
+            e.stopPropagation();
+        }
+        contactForm.addClass('was-validated');
+    });
 
 });
 

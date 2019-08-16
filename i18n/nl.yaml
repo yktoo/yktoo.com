@@ -20,6 +20,9 @@
 - {id: docs,              translation: Documentatie}
 - {id: download,          translation: Downloaden}
 - {id: downloads,         translation: Downloaden}
+- {id: errorEmailReq,     translation: 'Er is een geldig e-mailadres nodig.'}
+- {id: errorMessageReq,   translation: 'Je bericht mag niet leeg zijn.'}
+- {id: errorNameReq,      translation: 'Je naam mag niet leeg zijn.'}
 - {id: faq,               translation: FAQ}
 - {id: fromAlbum,         translation: Uit het album}
 - {id: fullDocsAvail,     translation: De volledige projectdocumentatie is beschikbaar}
@@ -30,13 +33,15 @@
 - {id: iAmLegend,         translation: Ik ben legende}
 - {id: license,           translation: Licentie}
 - {id: license_gpl3,      translation: GNU General Public License Versie 3}
-- {id: license_lgpl21,    translation: GNU Lesser General Public License Versie 2.1}
 - {id: license_lgpl3,     translation: GNU Lesser General Public License Versie 3}
-- {id: license_mpl11,     translation: Mozilla Public License Versie 1.1}
+- {id: license_lgpl21,    translation: GNU Lesser General Public License Versie 2.1}
 - {id: license_mpl2,      translation: Mozilla Public License Versie 2.0}
+- {id: license_mpl11,     translation: Mozilla Public License Versie 1.1}
 - {id: listen,            translation: Luisteren}
 - {id: locale,            translation: nl_NL}
 - {id: map,               translation: Kaart}
+- {id: messageBody,       translation: Je bericht}
+- {id: messageSubject,    translation: Onderwerp}
 - {id: mySocialLinks,     translation: Mijn sociale links}
 - {id: noContentCurLang,  translation: 'Geen Nederlandstalige inhoud beschikbaar.<br><big>¯\_(ツ)_/¯</big><br>Probeer een andere taal te kiezen bovenaan deze pagina.'}
 - {id: numPages,          translation: {one: '{{ .Count }} pagina', other: '{{ .Count }} pagina''s'}}
@@ -48,15 +53,15 @@
 - {id: postAnnouncements, translation: Blog updates}
 - {id: postedInSeries,    translation: In}
 - {id: postIn_en,         translation: in het Engels}
-- {id: postIn_ru,         translation: in het Russisch}
 - {id: postIn_nl,         translation: in het Nederlands}
+- {id: postIn_ru,         translation: in het Russisch}
 - {id: postInLangs,       translation: Deze post}
 - {id: postNext,          translation: ← Vorige post}
 - {id: postPrev,          translation: Volgende post →}
-- {id: postsCurLang,      translation: Posts in het Nederlands}
 - {id: posts_en,          translation: Posts in het Engels}
-- {id: posts_ru,          translation: Posts in het Russisch}
 - {id: posts_nl,          translation: Posts in het Nederlands}
+- {id: posts_ru,          translation: Posts in het Russisch}
+- {id: postsCurLang,      translation: Posts in het Nederlands}
 - {id: privacyPolicy,     translation: Privacybeleid}
 - {id: radiolaria,        translation: Radiolaria}
 - {id: readOn,            translation: Lees verder »}
@@ -72,6 +77,7 @@
 - {id: softwareFor,       translation: '{{ .value }}-software'}
 - {id: sourceCode,        translation: Broncode}
 - {id: sourceCodeClone,   translation: De meest recente broncode is verkrijgbaar d.m.v. klonen van mijn}
+- {id: submit,            translation: Verzenden}
 - {id: subscribeByEmail,  translation: Abonneren via e-mail}
 - {id: subscribeByRSS,    translation: Nieuwsfeed in RSS 2.0-formaat}
 - {id: support,           translation: Ondersteuning}
@@ -83,3 +89,5 @@
 - {id: viaThisLink,       translation: via deze link}
 - {id: videos,            translation: Video's}
 - {id: whereThisWas,      translation: Waar het was}
+- {id: yourEmail,         translation: Je e-mailadres}
+- {id: yourName,          translation: Je naam}

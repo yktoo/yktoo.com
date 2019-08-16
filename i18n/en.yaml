@@ -20,6 +20,9 @@
 - {id: docs,              translation: Documentation}
 - {id: download,          translation: Download}
 - {id: downloads,         translation: Downloads}
+- {id: errorEmailReq,     translation: 'Please enter a valid email address.'}
+- {id: errorMessageReq,   translation: 'Please enter your message.'}
+- {id: errorNameReq,      translation: 'Please provide your name.'}
 - {id: faq,               translation: FAQ}
 - {id: fromAlbum,         translation: From the album}
 - {id: fullDocsAvail,     translation: Full project documentation is available}
@@ -30,13 +33,15 @@
 - {id: iAmLegend,         translation: I Am Legend}
 - {id: license,           translation: License}
 - {id: license_gpl3,      translation: GNU General Public License Version 3}
-- {id: license_lgpl21,    translation: GNU Lesser General Public License Version 2.1}
 - {id: license_lgpl3,     translation: GNU Lesser General Public License Version 3}
-- {id: license_mpl11,     translation: Mozilla Public License Version 1.1}
+- {id: license_lgpl21,    translation: GNU Lesser General Public License Version 2.1}
 - {id: license_mpl2,      translation: Mozilla Public License Version 2.0}
+- {id: license_mpl11,     translation: Mozilla Public License Version 1.1}
 - {id: listen,            translation: Listen}
 - {id: locale,            translation: en_US}
 - {id: map,               translation: Map}
+- {id: messageBody,       translation: Message body}
+- {id: messageSubject,    translation: Message subject}
 - {id: mySocialLinks,     translation: My social links}
 - {id: noContentCurLang,  translation: 'No English content available.<br><big>¯\_(ツ)_/¯</big><br>Try selecting another language from the menu above.'}
 - {id: numPages,          translation: {one: '{{ .Count }} page', other: '{{ .Count }} pages'}}
@@ -48,15 +53,15 @@
 - {id: postAnnouncements, translation: Post announcements}
 - {id: postedInSeries,    translation: In}
 - {id: postIn_en,         translation: in English}
-- {id: postIn_ru,         translation: in Russian}
 - {id: postIn_nl,         translation: in Dutch}
+- {id: postIn_ru,         translation: in Russian}
 - {id: postInLangs,       translation: This post}
 - {id: postNext,          translation: ← Next post}
 - {id: postPrev,          translation: Previous post →}
-- {id: postsCurLang,      translation: English posts}
 - {id: posts_en,          translation: English posts}
-- {id: posts_ru,          translation: Russian posts}
 - {id: posts_nl,          translation: Dutch posts}
+- {id: posts_ru,          translation: Russian posts}
+- {id: postsCurLang,      translation: English posts}
 - {id: privacyPolicy,     translation: Privacy policy}
 - {id: radiolaria,        translation: Radiolaria}
 - {id: readOn,            translation: Read on »}
@@ -72,14 +77,17 @@
 - {id: softwareFor,       translation: '{{ .value }} software'}
 - {id: sourceCode,        translation: Source code}
 - {id: sourceCodeClone,   translation: 'To download the latest source code, clone my'}
+- {id: submit,            translation: Submit}
 - {id: subscribeByEmail,  translation: Subscribe by email}
 - {id: subscribeByRSS,    translation: Feed in RSS 2.0 format}
 - {id: support,           translation: Support}
 - {id: tag,               translation: Tag}
 - {id: tags,              translation: Tags}
 - {id: termsOfService,    translation: Terms of service}
-- {id: tracklist,         translation: Tracklist}
 - {id: timeline,          translation: Timeline}
+- {id: tracklist,         translation: Tracklist}
 - {id: viaThisLink,       translation: via this link}
 - {id: videos,            translation: Videos}
 - {id: whereThisWas,      translation: Where this was}
+- {id: yourEmail,         translation: Your email}
+- {id: yourName,          translation: Your name}

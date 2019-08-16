@@ -220,6 +220,10 @@ blockquote {
     .figure-caption {
         margin-bottom: 1rem;
     }
+
+    a:hover, a:focus {
+        background-color: transparent;
+    }
 }
 
 // Pre

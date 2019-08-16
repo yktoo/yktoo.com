@@ -37,6 +37,7 @@ params:
         mpl11: 'http://mozilla.org/MPL/1.1/'
         mpl2: 'http://mozilla.org/MPL/2.0/'
     commentoUrl: 'https://comment.yktoo.com/js/commento.js'
+    contactAction: 'https://formspree.io/yktooo@gmail.com'
     cookieConsentInfoUrl: /about/privacy
     copyrightUrl: /about
     dateFormat: "Mon Jan 2, 2006"
