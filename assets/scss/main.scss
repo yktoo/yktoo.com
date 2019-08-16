@@ -275,12 +275,18 @@ pre {
     .blog-post-sidebar {
         font-size: 90%;
         background-color: #f8f8f8;
-        margin-top: -20px;
-        padding-top: 20px;
-        padding-bottom: 10px;
+        margin-top: -1rem;
+        padding-bottom: 1rem;
+
+        .sticky-top {
+            padding-top: 1rem;
+        }
 
         ul {
             padding-left: 1rem;
+        }
+        section {
+            margin-bottom: 1rem;
         }
     }
     .blog-post-footer {
@@ -404,7 +410,14 @@ pre {
         -webkit-box-orient: vertical;
         -webkit-box-direction: normal;
         flex-direction: column;
-
+        ul {
+            list-style-type: disc;
+        }
+    }
+}
+// The toc shortcode
+.table-of-contents {
+    #TableOfContents {
         // Make second level links bold
         > li > ul > li > a {
             font-weight: 700;
