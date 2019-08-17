@@ -2,8 +2,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="theme-color" content="#333333">
 
-{{/* TODO template "_internal/opengraph.html" . */}}
-{{ template "_internal/twitter_cards.html" . }}
+<!-- Fix for images used in og: and twitter: that understands page resources  -->
+{{- partial "opengraph" . }}
+{{- partial "twitter-cards" . }}
 
 {{- with .Site.Params.googleVerifyMeta }}
 <meta name="google-site-verification" content="{{ . }}" />

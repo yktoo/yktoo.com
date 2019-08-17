@@ -1,11 +1,9 @@
 <!DOCTYPE html>
 <html lang="{{ .Lang }}">
 <head>
-    {{ partial "head-meta.html" . }}
+    {{- partial "head-meta.html" . }}
 
-    {{ block "schema-dot-org" . }}
-    <!-- schema.org metadata differs for Nodes and Pages -->
-    {{ end }}
+    {{- block "schema-dot-org" . }}{{ end }}
 
     <!-- Link to self -->
     <link rel="canonical" href="{{ .Permalink }}">

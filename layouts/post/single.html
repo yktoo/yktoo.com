@@ -1,44 +1,34 @@
 {{- define "title" }}{{ with .Params.series }}{{ . }} ‣ {{ end }}{{ .Title | markdownify | plainify | safeHTML }} | {{ .Site.Title }}{{ end }}
 
 {{- define "schema-dot-org" }}
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "BlogPosting",
-  "headline": "{{ substr .Title 0 110 }}",
-  {{ with .Params.image -}}
-  "image": {
-    "@type": "ImageObject",
-    "url": "{{ . | absURL }}"
-    {{- if not (or (hasPrefix . "http://") (hasPrefix . "https://")) -}}
-    {{- with $.Page.Resources.GetMatch . -}},
-    "height": "{{ .Height }}",
-    "width": "{{ .Width }}"
-    {{- end -}}
-    {{ end }}
-  },
-  {{- end }}
-  "url": "{{ .Permalink }}",
-  "wordCount": "{{ .WordCount }}",
-  {{- $ISO8601 := "2006-01-02T15:04:05-07:00" }}
-  {{- if not .PublishDate.IsZero }}
-  "datePublished": {{ .PublishDate.Format $ISO8601 }},
-  {{- else }}
-  "datePublished": {{ .Date.Format $ISO8601 }},
-  {{- end }}
-  {{- if not .Lastmod.IsZero }}
-  "dateModified": {{ .Lastmod.Format $ISO8601 }},
-  {{- end }}
-  "author": {
-    "@type": "Person",
-    "name": "{{ .Params.author | default .Site.Params.author }}"
-  },
-  {{- if or (.Params.categories) (.Params.tags) }}
-  "keywords": "{{ delimit (union .Params.categories .Params.tags) `, ` }}",
-  {{- end }}
-  "description": "{{ with .Params.description }}{{ . | markdownify | plainify | safeHTML }}{{ else }}{{ .Summary | plainify | safeHTML }}{{ end }}"
-}
-</script>
+<!-- Basic properties -->
+{{- $ld := dict "@context" "http://schema.org" "@type" "BlogPosting" "headline" (substr .Title 0 110) "url" .Permalink "wordCount" .WordCount "mainEntityOfPage" true}}
+{{- with .Params.image }}
+    {{- $ld_img := dict "@type" "ImageObject" }}
+    {{- if or (hasPrefix . "http://") (hasPrefix . "https://") }}
+        {{- $ld_img = merge $ld_img (dict "url" .) }}
+    {{- else }}{{ with $.Page.Resources.GetMatch . }}
+        {{- $ld_img = merge $ld_img (dict "url" .Permalink "height" .Height "width" .Width) }}
+    {{- end }}{{ end }}
+    {{- $ld = merge $ld (dict "image" $ld_img) }}
+{{- end }}
+<!-- Dates -->
+{{- $ISO8601 := "2006-01-02T15:04:05-07:00" }}
+{{- $ld = merge $ld (dict "datePublished" (cond .PublishDate.IsZero (.Date.Format $ISO8601) (.PublishDate.Format $ISO8601))) }}
+{{- if not .Lastmod.IsZero }}
+    {{- $ld = merge $ld (dict "dateModified" (.Lastmod.Format $ISO8601)) }}
+{{- end }}
+<!-- Author & Publisher -->
+{{- $ld_author := dict "@type" "Person" "name" (default .Site.Params.author .Params.author) }}
+{{- $ld_publisher := dict "@type" "Organization" "name" .Site.Title "url" .Site.BaseURL "logo" (dict "@type" "ImageObject" "url" (absURL .Site.Params.logoUrl)) }}
+{{- $ld = merge $ld (dict "author" $ld_author "publisher" $ld_publisher) }}
+<!-- Keywords -->
+{{- if or (.Params.categories) (.Params.tags) }}
+    {{- $ld = merge $ld (dict "keywords" (union .Params.categories .Params.tags)) }}
+{{- end }}
+<!-- Description -->
+{{- $ld = merge $ld (dict "description" (default .Summary .Params.description)) }}
+<script type="application/ld+json">{{ $ld | jsonify | safeJS }}</script>
 {{- end }}
 
 {{- define "heading" }}

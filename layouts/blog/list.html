@@ -1,31 +1,22 @@
 {{ define "schema-dot-org" }}
-<script type="application/ld+json">
-    {
-        "@context": "http://schema.org",
-        "@type": "Blog",
-    {{- /* Google recommends the headline be no more than 110 characters */}}
-    "headline": "{{ substr .Site.Title 0 110 }}",
-    "url" : "{{ printf "%s" .Permalink }}",
-    "author": {
-    "@type": "Person",
-    "name": "{{ .Site.Params.author }}"
-    },
-    {{- $ISO8601 := "2006-01-02T15:04:05-07:00" }}
-    {{- if not .Date.IsZero }}
-    "dateModified": {{ .Date.Format $ISO8601 }},
-    {{- end }}
-    {{- with .Site.Social.GooglePlus }}
-    "publisher": "{{ printf "%s" . }}",
-    {{- end }}
-    {{- /* all of the site's categories/tags, from Hugo's tpl/template_embedded.go */}}
-    "keywords": "{{ range $plural, $terms := .Site.Taxonomies }}{{ range $term, $val := $terms }}{{ printf "%s," $term }}{{ end }}{{ end }}"
-    {{- with .Site.Params.description -}}
-    ,
-    "description": "{{- . -}}"
-    {{- end }}
-    }
-</script>
-{{ end }}
+<!-- Basic properties -->
+{{- $ld := dict "@context" "http://schema.org" "@type" "Blog" "headline" (substr .Site.Title 0 110) "url" .Permalink}}
+<!-- Author & Publisher -->
+{{- $ld_author := dict "@type" "Person" "name" .Site.Params.author }}
+{{- $ld_publisher := dict "@type" "Organization" "name" .Site.Title "url" .Site.BaseURL "logo" (dict "@type" "ImageObject" "url" (absURL .Site.Params.logoUrl)) }}
+{{- $ld = merge $ld (dict "author" $ld_author "publisher" $ld_publisher) }}
+<!-- Dates -->
+{{- $ISO8601 := "2006-01-02T15:04:05-07:00" }}
+{{- if not .Date.IsZero }}
+    {{- $ld = merge $ld (dict "dateModified" (.Date.Format $ISO8601)) }}
+{{- end }}
+<!-- Keywords -->
+{{- $tags := slice }}{{ range $tag, $term := .Site.Taxonomies.tags }}{{ $tags = append $tag $tags }}{{ end }}
+{{- $ld = merge $ld (dict "keywords" $tags) }}
+<!-- Description -->
+{{- with .Site.Params.description }}{{ $ld = merge $ld (dict "description" .) }}{{ end }}
+<script type="application/ld+json">{{ $ld | jsonify | safeJS }}</script>
+{{- end }}
 
 {{ define "heading" }}
 {{ if .IsHome }}
