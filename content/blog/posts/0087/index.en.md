@@ -2,7 +2,8 @@
 type: post
 date: "2011-04-17T00:00:00Z"
 title: "Part 5. Train to Budapest"
-series: "Vienna and Budapest"
+series:
+    - 'Vienna and Budapest'
 tags: ["Austria", "Budapest", "Hungary", "trains", "transport", "travel", "Vienna"]
 image: "https://4.bp.blogspot.com/-2tYLgiwKeFg/Tan2Y8F4rKI/AAAAAAAAItc/DM8_UHyiWc4/s1600/dsc02005.picasaweb.jpg"
 ---

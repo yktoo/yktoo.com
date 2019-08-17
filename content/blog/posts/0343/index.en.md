@@ -2,7 +2,8 @@
 type: post
 date: "2019-01-13T00:00:00Z"
 title: "2.2.0"
-series: "Sound Switcher Indicator"
+series:
+    - 'Sound Switcher Indicator'
 tags: ["indicator", "sound", "Sound Switcher Indicator", "Ubuntu"]
 image: "https://2.bp.blogspot.com/-BibUCaj-gGQ/XDs5PF-gjFI/AAAAAAAAue4/mIDfV0Llkf8llKjrvFcQm5I9cgQOF47AACKgBGAs/s1600/menu.png"
 software: sound-switcher-indicator

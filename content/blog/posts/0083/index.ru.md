@@ -2,7 +2,8 @@
 type: post
 date: "2011-04-14T00:00:00Z"
 title: "Часть 1. Схипхол"
-series: "Вена и Будапешт"
+series:
+    - 'Вена и Будапешт'
 tags: ["Нидерланды", "путешествия", "Схипхол"]
 image: "https://1.bp.blogspot.com/-RdVoLTHFjn4/TaatEfPBhiI/AAAAAAAAItc/8_sVvU7q7Fw/s1600/dsc01367.picasaweb.jpg"
 places:

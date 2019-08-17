@@ -1,4 +1,4 @@
-{{- define "title" }}{{ with .Params.series }}{{ . }} ‣ {{ end }}{{ .Title | markdownify | plainify | safeHTML }} | {{ .Site.Title }}{{ end }}
+{{- define "title" }}{{ range .Params.series }}{{ . }} ‣ {{ end }}{{ .Title | markdownify | plainify | safeHTML }} | {{ .Site.Title }}{{ end }}
 
 {{- define "schema-dot-org" }}
 <script type="application/ld+json">
@@ -48,14 +48,14 @@
 </div>
 
 <!-- Post title -->
-<h1>{{ with .Params.series }}{{ . }} ‣ {{ end }}{{ .Title | markdownify }}</h1>
+<h1>{{ range .Params.series }}{{ . }} ‣ {{ end }}{{ .Title | markdownify }}</h1>
 
 <!-- Post metadata -->
 <p class="page-heading-meta">
     {{- partial "date" (dict "site" $.Site "date" .Date "long" true) -}}
     <span class="dot-sep"></span>{{ T "authoredBy" }}&nbsp;{{ .Params.author | default .Site.Params.author }}
     {{- $page := . }}
-    {{- with .Params.series }}<span class="dot-sep"></span>{{ T "postedInSeries" }}&nbsp;<a href="{{ relref $page (print `/series/` (urlize .)) }}">{{ . }}</a>{{ end -}}
+    {{- range .Params.series }}<span class="dot-sep"></span>{{ T "postedInSeries" }}&nbsp;<a href="{{ relref $page (print `/series/` (urlize .)) }}">{{ . }}</a>{{ end -}}
 </p>
 {{- end }}
 
@@ -75,7 +75,7 @@
         <div class="col-md-3 blog-post-sidebar">
             <div class="sticky-top">
                 <!-- Links to other posts of same series, if any -->
-                {{- with .Params.series }}
+                {{- range .Params.series }}
                 <section>
                     <h6><i class="fas fa-layer-group bycon"></i>{{ . }}</h6>
                     <ul>
@@ -138,7 +138,7 @@
         <!-- Post metadata block -->
         <div class="blog-post-meta">
             <!-- Link to the post series, if any -->
-            {{- with .Params.series }}
+            {{- range .Params.series }}
             <p class="dot-separated">
                 <i class="fas fa-layer-group bycon"></i><a href="{{ relref $page (print `/series/` (urlize .)) }}">{{ T "otherPostsSeries" }}</a>
             </p>

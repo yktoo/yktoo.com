@@ -2,7 +2,8 @@
 type: post
 date: "2011-04-21T00:00:00Z"
 title: "Part 9. Budapest. St. Stephen's Basilica"
-series: "Vienna and Budapest"
+series:
+    - 'Vienna and Budapest'
 tags: ["Budapest", "Hungary", "travel"]
 image: "https://4.bp.blogspot.com/-GN_9MniZolw/Tan3XtHDKYI/AAAAAAAAItc/88U0pStqmm0/s1600/dsc01925.picasaweb.jpg"
 places:

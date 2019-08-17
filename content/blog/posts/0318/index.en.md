@@ -2,7 +2,8 @@
 type: post
 date: "2017-03-30T00:00:00Z"
 title: "The quest for work"
-series: "My entrepreneurship"
+series:
+    - 'My entrepreneurship'
 tags: ["business", "entrepreneurship", "freelance", "Netherlands", "Observ", "taxes", "work", "Yktoo Solutions"]
 image: "https://4.bp.blogspot.com/-cjUtE071tFg/WN0YRhFH42I/AAAAAAAApr4/WyB_8ceeS0M-JGzjCw6TmK8ZzriLe2wmgCPcB/s1600/observ.nu.picasaweb.png"
 ---

@@ -2,7 +2,8 @@
 type: post
 date: "2014-10-12T00:00:00Z"
 title: "Part 3. Water and Fruits"
-series: "Houten"
+series:
+    - 'Houten'
 tags: ["Houten", "Netherlands", "water"]
 image: "https://2.bp.blogspot.com/-bBt-dPzYMUU/U_uLTtKwcpI/AAAAAAAAfFA/CK20pVWHIo4/s1600/dsc06429.picasaweb.jpg"
 places:

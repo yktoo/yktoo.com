@@ -2,7 +2,8 @@
 type: post
 date: "2019-07-15T00:00:00Z"
 title: "Meet the all-new Yktoo Solutions website!"
-series: "My entrepreneurship"
+series:
+    - 'My entrepreneurship'
 tags: ["announcement", "Hugo", "website", "Yktoo Solutions"]
 image: website-main-page.jpg
 fulltext_url: "https://yktoo.solutions/blog/2019/07/15-meet-the-all-new-yktoo-solutions-website/"

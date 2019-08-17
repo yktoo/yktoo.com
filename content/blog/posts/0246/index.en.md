@@ -2,7 +2,8 @@
 type: post
 date: "2015-05-23T00:00:00Z"
 title: "Part 4. Smart Hub and applications"
-series: "4K UHD TV Samsung UE75HU7500: a complete review"
+series:
+    - '4K UHD TV Samsung UE75HU7500: a complete review'
 tags: ["gadgets", "hardware", "review", "Samsung", "Smart Hub", "Smart TV", "TV"]
 image: "https://4.bp.blogspot.com/--cC6k0hJXp0/VWCKGfuCG0I/AAAAAAAAjeA/I8f1CiHUSiI/s1600/dsc08031.picasaweb.jpg"
 ---

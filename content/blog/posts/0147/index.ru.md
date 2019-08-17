@@ -2,7 +2,8 @@
 type: post
 date: "2012-04-06T00:00:00Z"
 title: "Часть 4. Замок Reinhardstein"
-series: "Южная Бельгия"
+series:
+    - 'Южная Бельгия'
 tags: ["Бельгия", "замок", "путешествия", "Райнхардштайн"]
 image: "https://2.bp.blogspot.com/-USy6u7DJPZI/T2pdr14-_7I/AAAAAAAAM1k/FeUMgqm8ZlQ/s1600/dsc09689.picasaweb.jpg"
 places:

@@ -2,7 +2,8 @@
 type: post
 date: "2015-05-25T00:00:00Z"
 title: "Part 6. Location, conclusions"
-series: "4K UHD TV Samsung UE75HU7500: a complete review"
+series:
+    - '4K UHD TV Samsung UE75HU7500: a complete review'
 tags: ["gadgets", "hardware", "review", "Samsung", "Smart Hub", "Smart TV", "TV"]
 image: "https://3.bp.blogspot.com/-Io14-rNSbMM/VQQq8W1CZiI/AAAAAAAAhPk/PqjH6gunL3I/s1600/dsc08021.picasaweb.jpg"
 ---

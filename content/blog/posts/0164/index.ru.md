@@ -2,7 +2,8 @@
 type: post
 date: "2012-10-12T00:00:00Z"
 title: "Часть 3. Саграда Фамилия"
-series: "Барселона"
+series:
+    - 'Барселона'
 tags: ["Барселона", "Гауди", "Испания", "путешествия"]
 image: "https://2.bp.blogspot.com/-NGz6BhQeeto/UASD3a7ThcI/AAAAAAAAUAs/4jmIfFodI68/s1600/dsc03328.picasaweb.jpg"
 places:

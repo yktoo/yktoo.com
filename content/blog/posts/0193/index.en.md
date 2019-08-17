@@ -2,7 +2,8 @@
 type: post
 date: "2013-06-16T00:00:00Z"
 title: "Part 4. Alte"
-series: "Portugal"
+series:
+    - 'Portugal'
 tags: ["Algarve", "Alte", "beautiful", "Portugal", "travel"]
 image: "https://2.bp.blogspot.com/-2Dw5WyOVLp0/Ua4lRmL96MI/AAAAAAAAY8Y/l7iBHma3GdQ/s1600/dsc09246.picasaweb.jpg"
 places:

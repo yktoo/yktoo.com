@@ -2,7 +2,8 @@
 type: post
 date: "2016-12-14T00:00:00Z"
 title: "Часть 2"
-series: "Лондон"
+series:
+    - 'Лондон'
 tags: ["Heron Tower", "HMS Belfast", "London Eye", "The Gherkin", "The Shard", "английский язык", "Биг-Бен", "Брекзит", "велики", "Великобритания", "Даунинг-стрит", "Лондон", "путешествия", "Сити-Холл", "Тауэр", "Тауэрский мост", "Темза", "Трафальгарская площадь"]
 image: "https://4.bp.blogspot.com/-MxkLJP0jeP4/WErogXyCXgI/AAAAAAAAoo4/LjNFcyg5FNgKa4fLYern6LygRxUeh5c6QCPcB/s1600/dsc03705.picasaweb.jpg"
 places:

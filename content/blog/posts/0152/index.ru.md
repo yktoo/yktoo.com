@@ -2,7 +2,8 @@
 type: post
 date: "2012-05-01T00:00:00Z"
 title: "Часть 5. Бандамский кратер, Роке-Нубло и Терор"
-series: "Гран-Канария"
+series:
+    - 'Гран-Канария'
 tags: ["горы", "Гран-Канария", "Испания", "Канарские острова", "кратер", "остров", "пещеры", "путешествия", "Роке-Нубло", "Терор"]
 image: "https://3.bp.blogspot.com/-zYgRFDKc44U/T2pZ-gJqnhI/AAAAAAAAMeI/hSwcICKXG0Y/s1600/dsc00537.picasaweb.jpg"
 places:

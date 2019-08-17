@@ -2,7 +2,8 @@
 type: post
 date: "2012-10-24T00:00:00Z"
 title: "Часть 5. Инопланетное"
-series: "Барселона"
+series:
+    - 'Барселона'
 tags: ["Барселона", "интересное", "Испания", "путешествия", "странное"]
 image: "https://3.bp.blogspot.com/-v1Qfw3KNla8/UASGHqA-p1I/AAAAAAAAUOE/bCCmZ8QUHFQ/s1600/dsc03507.picasaweb.jpg"
 places:

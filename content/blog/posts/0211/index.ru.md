@@ -2,7 +2,8 @@
 type: post
 date: "2014-01-12T00:00:00Z"
 title: "Часть 3. Город"
-series: "Египет. Хургада"
+series:
+    - 'Египет. Хургада'
 tags: ["Египет", "забавное", "путешествия", "транспорт", "Хургада"]
 image: "https://2.bp.blogspot.com/-6YC0TNdPLuI/Us8KBHRFaaI/AAAAAAAAbiI/GbDj0iAMe_M/s1600/dsc02298.picasaweb.jpg"
 places:

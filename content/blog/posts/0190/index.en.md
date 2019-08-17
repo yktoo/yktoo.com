@@ -2,7 +2,8 @@
 type: post
 date: "2013-06-07T00:00:00Z"
 title: "Part 1. Sand sculptures"
-series: "Portugal"
+series:
+    - 'Portugal'
 tags: ["Algarve", "Portugal", "sand", "travel"]
 image: "https://3.bp.blogspot.com/-gPst0LcWiAY/Ua4i9aZLi6I/AAAAAAAAYuQ/lcnZc6BUuK8/s1600/dsc09075.picasaweb.jpg"
 places:

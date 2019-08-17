@@ -2,7 +2,8 @@
 type: post
 date: "2012-03-30T00:00:00Z"
 title: "Часть 1. Сады Анневуа"
-series: "Южная Бельгия"
+series:
+    - 'Южная Бельгия'
 tags: ["Бельгия", "Намюр", "путешествия", "сады Анневуа"]
 image: "https://2.bp.blogspot.com/-vomHFDsojQk/T2pZ9HgM-ZI/AAAAAAAAMeA/ggHoii13x-A/s1600/dsc09059.picasaweb.jpg"
 places:

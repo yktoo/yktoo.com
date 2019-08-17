@@ -2,7 +2,8 @@
 type: post
 date: "2019-07-15T00:00:00Z"
 title: "Обновлённый сайт Yktoo Solutions"
-series: "Доля предпринимательская"
+series:
+    - 'Доля предпринимательская'
 tags: ["Hugo", "Yktoo Solutions", "новости", "сайт"]
 image: website-main-page.jpg
 fulltext_url: "https://yktoo.solutions/blog/2019/07/15-meet-the-all-new-yktoo-solutions-website/"

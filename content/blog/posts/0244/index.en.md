@@ -2,7 +2,8 @@
 type: post
 date: "2015-05-15T00:00:00Z"
 title: "Part 2. Connect and control"
-series: "4K UHD TV Samsung UE75HU7500: a complete review"
+series:
+    - '4K UHD TV Samsung UE75HU7500: a complete review'
 tags: ["gadgets", "hardware", "review", "Samsung", "Smart TV", "TV"]
 image: "https://3.bp.blogspot.com/-0CGZRIUxw6Y/VQRWkHJD1bI/AAAAAAAAhRA/0XrRfe5pGQc/s1600/UE75UH7500-rear.jpg"
 ---

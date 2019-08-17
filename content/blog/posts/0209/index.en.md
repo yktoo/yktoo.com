@@ -2,7 +2,8 @@
 type: post
 date: "2014-01-01T00:00:00Z"
 title: "Part 1. Sea"
-series: "Egypt. Hurghada"
+series:
+    - 'Egypt. Hurghada'
 tags: ["beach", "Egypt", "Hurghada", "Read Sea", "sea", "snorkeling", "travel", "upshot"]
 image: "https://3.bp.blogspot.com/-WhG2CuTPnhU/UsQKZtFKY4I/AAAAAAAAbFY/BCQ_a_7PuPI/s1600/dsc01946.picasaweb.jpg"
 places:
