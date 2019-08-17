@@ -1,7 +1,7 @@
 {{ define "heading" }}
 <h1>{{ .Title | markdownify }}</h1>
 <div class="page-heading-meta">
-    {{- partial "date" (dict "date" .Date "format" .Site.Params.dateFormat) -}}
+    {{- partial "date" (dict "site" $.Site "date" .Date "long" true) -}}
     <span class="dot-sep"></span>{{ T "authoredBy" }}&nbsp;{{ .Params.author -}}
 </div>
 {{ end }}

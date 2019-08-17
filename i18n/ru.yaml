@@ -67,7 +67,7 @@
 - {id: readOn,            translation: Далее »}
 - {id: readOnAt,          translation: Читать далее на}
 - {id: releaseData,       translation: Информация}
-- {id: releasedOn,        translation: Опубликовано}
+- {id: releasedOn,        translation: 'Опубликовано:'}
 - {id: seeAlso,           translation: См. также}
 - {id: series,            translation: Подборка}
 - {id: seriesPlural,      translation: Подборки}

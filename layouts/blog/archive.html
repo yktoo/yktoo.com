@@ -5,7 +5,6 @@
 {{ define "main" }}
 <div class="row">
     <!-- Post list -->
-    {{- $dateFormat := .Site.Params.shortDateFormat -}}
     {{- $page := . -}}
     <div class="col-md-9">
         <table class="blog-post-list"><tbody>
@@ -23,7 +22,7 @@
         <!-- Output a post row -->
         <tr>
             <td class="number">{{ sub $count $idx }}.</td>
-            <td class="date">{{ partial "date" (dict "date" .Date "format" $dateFormat) }}</td>
+            <td class="date">{{ partial "date" (dict "site" $.Site "date" .Date "long" false) }}</td>
             <td>{{ .Render "lang-link" }}</td>
         </tr>
         {{ end }}

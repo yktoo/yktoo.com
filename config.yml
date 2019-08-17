@@ -19,14 +19,14 @@ languages:
         languageName: Русский
         params:
             author: Дмитрий Канн
-            dateFormat: Mon, 2 Jan 2006 # TODO localise
-            shortDateFormat: 02.01.2006
+            dateFormat: 'DOW, D MONTH YYYY'
+            shortDateFormat: 'DD.MM.YYYY'
     nl:
         weight: 3
         languageName: Nederlands
         params:
-            dateFormat: Mon, 2 Jan 2006 # TODO localise
-            shortDateFormat: 02-01-2006
+            dateFormat: 'DOW, D MONTH YYYY'
+            shortDateFormat: 'DD-MM-YYYY'
 params:
     author: Dmitry Kann
     postsPerPage: 6
@@ -40,10 +40,10 @@ params:
     contactAction: 'https://formspree.io/yktooo@gmail.com'
     cookieConsentInfoUrl: /about/privacy
     copyrightUrl: /about
-    dateFormat: "Mon Jan 2, 2006"
+    dateFormat: 'DOW MONTH D, YYYY'
     googleMapsApiKey: AIzaSyBJzJgSlmrF2ofMmVt2a7422yDv54Im_Yk
     rssLimit: 33
-    shortDateFormat: "Jan 2, 2006"
+    shortDateFormat: 'MON D, YYYY'
 
 # Related indices settings
 related:

@@ -52,7 +52,7 @@
 
 <!-- Post metadata -->
 <p class="page-heading-meta">
-    {{- partial "date" (dict "date" .Date "format" .Site.Params.dateFormat) -}}
+    {{- partial "date" (dict "site" $.Site "date" .Date "long" true) -}}
     <span class="dot-sep"></span>{{ T "authoredBy" }}&nbsp;{{ .Params.author | default .Site.Params.author }}
     {{- $page := . }}
     {{- with .Params.series }}<span class="dot-sep"></span>{{ T "postedInSeries" }}&nbsp;<a href="{{ relref $page (print `/series/` (urlize .)) }}">{{ . }}</a>{{ end -}}
