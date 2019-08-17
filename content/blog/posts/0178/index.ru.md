@@ -2,8 +2,7 @@
 type: post
 date: "2013-03-03T00:00:00Z"
 title: "Индикатор-переключатель звукового устройства для Убунту"
-series:
-    - 'Sound Switcher Indicator'
+series: "Sound Switcher Indicator"
 tags: ["GitHub", "Launchpad", "Linux", "PulseAudio", "Python", "Sound Switcher Indicator", "Ubuntu", "Unity", "звук", "индикатор"]
 image: "https://3.bp.blogspot.com/-A68LFuAIxlg/UTMgzAqh53I/AAAAAAAAWrg/rlpYgjefo70/s1600/Screenshot.png"
 software: sound-switcher-indicator

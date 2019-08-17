@@ -2,8 +2,7 @@
 type: post
 date: "2014-01-05T00:00:00Z"
 title: "Часть 2. Пустыня"
-series:
-    - 'Египет. Хургада'
+series: "Египет. Хургада"
 tags: ["Египет", "квадрациклы", "песок", "пустыня", "путешествия", "танец живота", "Хургада"]
 image: "https://4.bp.blogspot.com/-ZIlykVj8p5E/UsQMfrCJGvI/AAAAAAAAbQw/sNulcgz5OQ8/s1600/dsc02394.picasaweb.jpg"
 places:

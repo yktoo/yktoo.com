@@ -2,8 +2,7 @@
 type: post
 date: "2011-04-15T00:00:00Z"
 title: "Part 3. Vienna. Prater"
-series:
-    - 'Vienna and Budapest'
+series: "Vienna and Budapest"
 tags: ["Austria", "travel", "Vienna"]
 image: "https://2.bp.blogspot.com/-WDTX-uwu1fY/TaatuHPcO7I/AAAAAAAAItc/YPGL3C9VIu8/s1600/dsc01473.picasaweb.jpg"
 places:

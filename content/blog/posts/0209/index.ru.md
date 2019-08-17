@@ -2,8 +2,7 @@
 type: post
 date: "2014-01-01T00:00:00Z"
 title: "Часть 1. Море"
-series:
-    - 'Египет. Хургада'
+series: "Египет. Хургада"
 tags: ["Египет", "итоги", "Красное море", "море", "пляж", "путешествия", "сноркелинг", "Хургада"]
 image: "https://3.bp.blogspot.com/-WhG2CuTPnhU/UsQKZtFKY4I/AAAAAAAAbFY/BCQ_a_7PuPI/s1600/dsc01946.picasaweb.jpg"
 places:

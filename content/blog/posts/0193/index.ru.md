@@ -2,8 +2,7 @@
 type: post
 date: "2013-06-16T00:00:00Z"
 title: "Часть 4. Алте"
-series:
-    - 'Португалия'
+series: "Португалия"
 tags: ["Алгарви", "Алте", "красивое", "Португалия", "путешествия"]
 image: "https://2.bp.blogspot.com/-2Dw5WyOVLp0/Ua4lRmL96MI/AAAAAAAAY8Y/l7iBHma3GdQ/s1600/dsc09246.picasaweb.jpg"
 places:

@@ -2,8 +2,7 @@
 type: post
 date: "2017-03-30T00:00:00Z"
 title: "Werken en werven"
-series:
-    - 'Mijn ondernemerschap'
+series: "Mijn ondernemerschap"
 tags: ["belastingen", "freelance", "Nederland", "Observ", "ondernemerschap", "werk", "Yktoo Solutions"]
 image: "https://4.bp.blogspot.com/-cjUtE071tFg/WN0YRhFH42I/AAAAAAAApr4/WyB_8ceeS0M-JGzjCw6TmK8ZzriLe2wmgCPcB/s1600/observ.nu.picasaweb.png"
 ---

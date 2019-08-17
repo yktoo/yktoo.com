@@ -2,8 +2,7 @@
 type: post
 date: "2013-06-10T00:00:00Z"
 title: "Part 2. Car and oranges"
-series:
-    - 'Portugal'
+series: "Portugal"
 tags: ["Algarve", "car", "Hertz", "oranges", "Portugal", "travel"]
 image: "https://3.bp.blogspot.com/-n6kdcRewI_k/Ua4hnOcA5UI/AAAAAAAAYno/COZDdQStsSU/s1600/dsc08993.picasaweb.jpg"
 ---

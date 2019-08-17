@@ -2,8 +2,7 @@
 type: post
 date: "2017-02-21T00:00:00Z"
 title: "The birth of Yktoo Solutions"
-series:
-    - 'My entrepreneurship'
+series: "My entrepreneurship"
 tags: ["business", "entrepreneurship", "freelance", "Netherlands", "taxes", "work", "Yktoo Solutions"]
 image: "https://1.bp.blogspot.com/-XCYqqwYaPbs/WCo7vX_qTiI/AAAAAAAAoPA/hDBojNJO1Pk9pRHGq7L6hQCzTBd_bIaCACPcB/s1600/20161105_211814.picasaweb.jpg"
 ---

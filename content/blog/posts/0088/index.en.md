@@ -2,8 +2,7 @@
 type: post
 date: "2011-04-17T00:00:00Z"
 title: "Part 6. Budapest"
-series:
-    - 'Vienna and Budapest'
+series: "Vienna and Budapest"
 tags: ["Budapest", "Hungary", "travel"]
 image: "https://2.bp.blogspot.com/-TT8ijGC6JlM/Tan1xe9HsYI/AAAAAAAAItc/gL4QKmtreoI/s1600/dsc01819.picasaweb.jpg"
 ---

@@ -2,8 +2,7 @@
 type: post
 date: "2014-01-20T00:00:00Z"
 title: "Часть 4. S.M.A.K."
-series:
-    - ' Бельгия. Гент'
+series: " Бельгия. Гент"
 tags: ["Бельгия", "Гент", "изобразительные искусства", "музей", "пиво", "путешествия"]
 image: "https://4.bp.blogspot.com/-lnRfRJ3keiM/UtWFd78WDeI/AAAAAAAAbvA/6Jp-aN4Jngk/s1600/dsc02899.picasaweb.jpg"
 places:

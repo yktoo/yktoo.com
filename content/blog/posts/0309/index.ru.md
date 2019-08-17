@@ -2,8 +2,7 @@
 type: post
 date: "2017-02-19T00:00:00Z"
 title: "«За» и «против»"
-series:
-    - 'Доля предпринимательская'
+series: "Доля предпринимательская"
 tags: ["Yktoo Solutions", "бизнес", "налоги", "Нидерланды", "предпринимательство", "работа", "фриланс"]
 image: "https://4.bp.blogspot.com/-f_a4KQVmI1w/WN97i86B4jI/AAAAAAAAptQ/tQHL2EJd3pcyo5NSzzCyPmQuDu3Ls8DlQCPcB/s1600/pros-and-cons.jpg"
 ---

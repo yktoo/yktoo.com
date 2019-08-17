@@ -1,7 +1,7 @@
 <!-- Single post item, which is displayed in a list -->
 <article class="blog-post">
     <!-- Post heading -->
-    <h2><a href="{{ .Permalink }}">{{ range .Params.series }}{{ . }} ‣ {{ end }}{{ .Title | markdownify }}</a></h2>
+    <h2><a href="{{ .Permalink }}">{{ with .Params.series }}{{ . }} ‣ {{ end }}{{ .Title | markdownify }}</a></h2>
 
     <!-- Post metadata -->
     <div class="page-heading-meta">{{ partial "date" (dict "site" $.Site "date" .Date "long" false) }}</div>

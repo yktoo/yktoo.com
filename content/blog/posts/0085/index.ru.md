@@ -2,8 +2,7 @@
 type: post
 date: "2011-04-15T00:00:00Z"
 title: "Часть 3. Вена. Пратер"
-series:
-    - 'Вена и Будапешт'
+series: "Вена и Будапешт"
 tags: ["Австрия", "Вена", "путешествия"]
 image: "https://2.bp.blogspot.com/-WDTX-uwu1fY/TaatuHPcO7I/AAAAAAAAItc/YPGL3C9VIu8/s1600/dsc01473.picasaweb.jpg"
 places:

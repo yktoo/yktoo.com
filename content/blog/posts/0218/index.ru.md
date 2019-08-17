@@ -2,8 +2,7 @@
 type: post
 date: "2014-02-08T00:00:00Z"
 title: "1.2.1"
-series:
-    - 'Sound Switcher Indicator'
+series: "Sound Switcher Indicator"
 tags: ["Precise Pangolin", "PulseAudio", "Python", "Quantal Quetzal", "Raring Ringtail", "Saucy Salamander", "Sound Switcher Indicator", "Trusty Tahr", "Ubuntu", "Unity", "звук", "индикатор"]
 image: "https://1.bp.blogspot.com/-p_jKIQD-wJ4/UvZeMTHsmYI/AAAAAAAAb1g/DYm853qnCjw/s1600/indicator-sound-switcher.png"
 software: sound-switcher-indicator

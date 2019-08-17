@@ -15,7 +15,7 @@
         {{ with .OutputFormats.Get "RSS" }}{{ printf `<atom:link href=%q rel="self" type=%q />` .Permalink .MediaType | safeHTML }}{{ end -}}
         {{ range first .Site.Params.rssLimit (where .Site.RegularPages "Type" "post") -}}
         <item>
-            <title>{{ range .Params.series }}{{ . }} ‣ {{ end }}{{ .Title }}</title>
+            <title>{{ with .Params.series }}{{ . }} ‣ {{ end }}{{ .Title }}</title>
             <link>{{ .Permalink }}</link>
             <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
             <author>noreply@yktoo.com ({{ .Params.author | default .Site.Params.author }})</author>

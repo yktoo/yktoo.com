@@ -2,8 +2,7 @@
 type: post
 date: "2016-12-12T00:00:00Z"
 title: "Часть 1"
-series:
-    - 'Лондон'
+series: "Лондон"
 tags: ["английский язык", "Бейкер-стрит", "Биг-Бен", "Букингемский дворец", "Великобритания", "Вестминстер", "Лондон", "метро", "путешествия", "Темза", "транспорт", "Шерлок Холмс"]
 image: "https://1.bp.blogspot.com/-lcbc2zvmnW0/WErogb8D8pI/AAAAAAAAoo8/Nhtvr8qQzEISsRcTuy7WM8Bf02vOTdTnACPcB/s1600/dsc03485.picasaweb.jpg"
 places:
