@@ -25,7 +25,7 @@ Als je je geabonneerd hebt op updates via e-mail (uitgevoerd door Feedburner), h
 
 ## Waarom deze wijziging?
 
-Net zoals de website van [Yktoo Solutions]({{< relref "0346" >}}), `yktoo.com` is opnieuw geïmplementeerd in de vorm van een statische website met [Hugo](https://gohugo.io/). Ik ben van plan om het migratieprocess in meer technische details toe te lichten in latere post(s).
+Net zoals de website van [Yktoo Solutions]({{< relref "0346" >}}), `yktoo.com` is opnieuw geïmplementeerd in de vorm van een statische website met [Hugo](https://gohugo.io/). Ik ben van plan om het migratieproces in meer technische details toe te lichten in latere post(s).
 
 De voornaamste beweegreden was om zowel administratieve taken als het schrijven van nieuwe blogposts te vereenvoudigen. In de loop der jaren is het namelijk vrij tijdrovend geworden. De complexiteit van het runnen van een maatwerk PHP applicatie is deels verantwoordelijk voor het feit dat ik zo zelden post (en de tweede reden is dat ik waarschijnlijk te lui ben).
 
