@@ -4,6 +4,7 @@ date: "2015-03-22T00:00:00Z"
 title: "Топ-5 различий голландского и российского менталитетов"
 tags: ["менталитет", "Нидерланды", "различия", "размышления", "Россия"]
 image: "https://1.bp.blogspot.com/-6XKs8COySrM/Thialzae2_I/AAAAAAAAI9c/uKLByInvJ34/s1600/DSC00166.picasaweb.jpg"
+series: Разнимся
 aliases:
     - /ru/blog/post/249
 ---
