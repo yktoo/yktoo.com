@@ -10,12 +10,18 @@ aliases:
     - /en/blog/post/351
 ---
 
+> **Update:** the new version of the website is now live; all comments have been retained and copied over from the old version.
+
+*Below is the original message:*
+
+---
+
 A new version of **yktoo.com** will go live on **Monday August 19, 2019**. Not so much has changed in the looks of the site, but inside it's totally different.
 
 In this regard its RSS feed links will change:
 
-* Old: `https://yktoo.com/en/blog/atom` (Atom) or `https://yktoo.com/en/blog/rss` (RSS)
-* **New:** `https://yktoo.com/en/index.xml` (RSS only) — as of 19 August 2019
+* Old: ~~`https://yktoo.com/en/blog/atom` (Atom) or `https://yktoo.com/en/blog/rss` (RSS)~~
+* **Current:** `https://yktoo.com/en/index.xml` (RSS only) — as of 19 August 2019
 
 <!--more-->
 
