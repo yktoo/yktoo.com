@@ -3,6 +3,8 @@ type: post
 date: "2015-03-13T00:00:00Z"
 title: "Subscription to e-mail blog updates"
 tags: ["blog", "web"]
+aliases:
+    - /en/blog/post/241
 ---
 
 A short announcement about a new subscription option.

@@ -6,6 +6,8 @@ tags: ["castle", "De Haar", "De Halve van de Haar", "half marathon", "Netherland
 image: "https://2.bp.blogspot.com/-PNk5LFWpieY/VwFmIiB8bOI/AAAAAAAAlxc/6H3_c4Jg7fMcwzIR8XUF1AtnRSenSGMeQ/s1600/dsc02101.picasaweb.jpg"
 places:
     - place0165
+aliases:
+    - /en/blog/post/274
 ---
 
 This spring is full of sporting activities. First [aikido]({{< relref "0273" >}}) (I hope my certificate with nice Japanese characters is already on its way), now a half marathon.

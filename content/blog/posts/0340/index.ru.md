@@ -4,6 +4,8 @@ date: "2018-09-12T00:00:00Z"
 title: "Мой доклад на IDM Europe — 20 сентября 2018"
 tags: ["IDM Europe", "Амстердам", "анонс", "Нидерланды", "презентация"]
 image: "https://4.bp.blogspot.com/-LkM0S58F9n0/W5kNeyCNWKI/AAAAAAAAt3I/zzvvTGv0TjkVMD-41BEqjDV-a8uaIHaCgCKgBGAs/s1600/idm-europe-identity-server-comparison.png"
+aliases:
+    - /ru/blog/post/340
 ---
 
 Короткий анонс.

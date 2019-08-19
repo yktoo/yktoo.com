@@ -6,6 +6,8 @@ tags: ["Ghent Light Festival", "Бельгия", "Гент", "красивое",
 image: "https://1.bp.blogspot.com/-YxmmwHkb-qo/VM6ccpInzhI/AAAAAAAAg9Y/Pxihf6qwvMA/s1600/dsc07961.picasaweb.jpg"
 places:
     - place0227
+aliases:
+    - /ru/blog/post/238
 ---
 
 Минул год, и я, как и [обещал]({{< relref "0213" >}}), нагрянул на гентский фестиваль света ([Ghent Light Festival](http://www.lichtfestivalgent.be/)).

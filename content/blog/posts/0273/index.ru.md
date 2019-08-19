@@ -6,6 +6,8 @@ tags: ["айкидо", "Амерсфорт", "Вурден", "Джогиндер
 image: "https://3.bp.blogspot.com/-su2SLLy8y3s/Vve2sT1Cj8I/AAAAAAAAlqw/58Ru9alavmM5fvCmk-owX3emVTso_UBaQ/s1600/20160319_195536.picasaweb.jpg"
 places:
     - place0239
+aliases:
+    - /ru/blog/post/273
 ---
 
 В прошлые выходные, 19 марта 2016 года, автор этих строк получил первый дан {{< wiki "Айкидо_Айкикай" "ru" "Айкидо Айкикай" >}}.

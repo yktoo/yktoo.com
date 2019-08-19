@@ -7,6 +7,8 @@ image: "https://3.bp.blogspot.com/-14jqPNJfBIY/VfmBQ1hN7LI/AAAAAAAAkd4/2Zg9C6TkW
 places:
     - place0228
     - place0229
+aliases:
+    - /en/blog/post/262
 ---
 
 Every winter an average Dutch casts glances at the thermometer, hoping for a real cold to come.

@@ -4,6 +4,8 @@ date: "2018-05-13T00:00:00Z"
 title: "Замкозабег, четвёртая редакция"
 tags: ["De Haar", "De Halve van de Haar", "бег", "замок", "Нидерланды", "полумарафон", "спорт"]
 image: "https://1.bp.blogspot.com/-xfX7V8QAYFo/WvgmCbnrrqI/AAAAAAAAsi4/N5OiroxgvyY_OkAsw6LRTGvOdzwQExkxQCKgBGAs/s1600/20180402_191359.picasaweb.jpg"
+aliases:
+    - /ru/blog/post/335
 ---
 
 Прямо накануне моего [десятилетия в Голландии]({{< relref "0334" >}}) — опять во второй день Пасхи — в четвёртый раз состоялся забег по парку замка {{< fl "De Haar" >}}: [De Halve van De Haar](http://www.dehalvevandehaar.nl/), в котором я участвовал с самого начала ([раз]({{< relref "0266#de-halve-van-de-haar" >}}), [два]({{< relref "0274" >}}), [три]({{< relref "0320" >}})).

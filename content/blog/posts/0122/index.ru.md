@@ -4,6 +4,8 @@ date: "2011-10-14T00:00:00Z"
 title: "Скрипт для смены обоев для Ubuntu/GNOME 3"
 tags: ["Gnome", "Linux", "Ubuntu", "Unity", "yktools", "обои"]
 software: yktools
+aliases:
+    - /ru/blog/post/122
 ---
 
 Этот bash-скрипт выбирает случайный файл изображения (.jpg, .jpeg или .png) из заданного каталога и устанавливает его в качестве обоев рабочего стола.

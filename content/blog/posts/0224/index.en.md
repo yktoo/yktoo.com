@@ -3,6 +3,8 @@ type: post
 date: "2014-10-13T00:00:00Z"
 title: "Aikido demo at Vathorstdag 2014"
 tags: ["aikido", "Amersfoort", "Netherlands", "sport", "Vathorst", "video"]
+aliases:
+    - /en/blog/post/224
 ---
 
 Even though I've now settled in [Houten]({{< relref "0221" >}}), I keep visiting Amersfoort now and then. I'm still [doing aikido]({{< relref path="0011" lang="ru" >}}) with Joginder Singh.

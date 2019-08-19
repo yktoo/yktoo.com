@@ -6,6 +6,8 @@ tags: ["development", "git", "Yktoo Solutions", "yktools"]
 image: git.png
 software: yktools
 fulltext_url: "https://yktoo.solutions/blog/2019/07/19-managing-git-projects-on-a-mass-scale/"
+aliases:
+    - /en/blog/post/347
 ---
 
 Anyone who has been in the software development business for a while, is certainly familiar with the hassle of arranging, keeping track of, pulling, committing etc. of dozens of local Git repositories being used or developed.

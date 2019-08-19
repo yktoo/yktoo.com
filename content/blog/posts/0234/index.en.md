@@ -4,6 +4,8 @@ date: "2014-12-12T00:00:00Z"
 title: "Househunt"
 tags: ["house", "Houten", "mortgage", "Netherlands"]
 image: "https://2.bp.blogspot.com/-UGfefFXU26A/U_uLNWPet4I/AAAAAAAAfDs/7v1tkbmb18s/s1600/dsc06415.picasaweb.jpg"
+aliases:
+    - /en/blog/post/234
 ---
 
 So we've settled in [Houten]({{< relref "0221" >}}). It's time to go in particulars on how we sought a house.

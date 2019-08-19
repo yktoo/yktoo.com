@@ -6,6 +6,8 @@ tags: ["Bryan Beller", "De Boerderij", "Guthrie Govan", "Marco Minnemann", "prog
 image: "https://2.bp.blogspot.com/-gqODy41rxV0/Vn7LgKAJaBI/AAAAAAAAk8M/eU2egTbUn-Q/s1600/20151209_222003.picasaweb.jpg"
 places:
     - place0079
+aliases:
+    - /ru/blog/post/267
 ---
 
 Концертный сезон, открытый [товарищами из Nightwish]({{< relref "0264" >}}), в самом разгаре.

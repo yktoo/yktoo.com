@@ -5,6 +5,8 @@ title: "Pros and cons"
 series: "My entrepreneurship"
 tags: ["business", "employment", "entrepreneurship", "freelance", "Netherlands", "taxes", "Yktoo Solutions"]
 image: "https://4.bp.blogspot.com/-f_a4KQVmI1w/WN97i86B4jI/AAAAAAAAptQ/tQHL2EJd3pcyo5NSzzCyPmQuDu3Ls8DlQCPcB/s1600/pros-and-cons.jpg"
+aliases:
+    - /en/blog/post/309
 ---
 
 As a follow-up to the post about my [professional anniversary]({{< relref "0307" >}}) and to fulfill [my promise]({{< relref "0302" >}}) I'd like to elaborate on my reasons and the path of becoming an entrepreneur. The story is going to be quite long so I'll split it up.

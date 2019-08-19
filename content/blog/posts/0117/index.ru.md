@@ -6,6 +6,8 @@ tags: ["AutoRAI", "RAI", "авто", "Амстердам", "девушки", "Н
 image: "https://1.bp.blogspot.com/-lVACOZil50c/Tnj46jSgeOI/AAAAAAAAJwA/ltVOapTmf9U/s1600/dsc02137.picasaweb.jpg"
 places:
     - place0082
+aliases:
+    - /ru/blog/post/117
 ---
 
 Хоть и минуло уж почти полгода, а всё же лучше поздно, чем никогда.

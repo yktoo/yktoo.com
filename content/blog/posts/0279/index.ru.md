@@ -4,6 +4,8 @@ date: "2016-06-05T00:00:00Z"
 title: "Амерсфортский марафон — 2016"
 tags: ["Амерсфорт", "Амерсфортский марафон", "бег", "Нидерланды", "полумарафон", "спорт"]
 image: "https://3.bp.blogspot.com/-TKezP-4nd-E/V1RAFo-zavI/AAAAAAAAmUg/HxZwxbqPgVUgst5TjQdXEPcbK0z1FTCFQCKgB/s1600/20160605_154447_sgn-4.picasaweb.jpg"
+aliases:
+    - /ru/blog/post/279
 ---
 
 Только что вернулся из Амерсфорта, где довольно успешно пробежал полумарафон — **21,1 км**.

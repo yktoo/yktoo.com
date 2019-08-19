@@ -7,6 +7,8 @@ tags: ["Budapest", "Hungary", "travel"]
 image: "https://4.bp.blogspot.com/-GN_9MniZolw/Tan3XtHDKYI/AAAAAAAAItc/88U0pStqmm0/s1600/dsc01925.picasaweb.jpg"
 places:
     - place0093
+aliases:
+    - /en/blog/post/91
 ---
 
 On our last day, (morning, to be precise), we decided to visit St. Stephen's Basilica ({{< fl "Szent István-bazilika" >}}), a famous Roman Catholic cathedral.

@@ -4,6 +4,8 @@ date: "2015-06-14T00:00:00Z"
 title: "USB testers and charging speed"
 tags: ["charging", "gadgets", "geek porn", "review", "USB"]
 image: "https://1.bp.blogspot.com/-MqZjV3rsQvM/VXwZXvZ32vI/AAAAAAAAjmk/9Zt8qmDaahw/s1600/dsc09609.picasaweb.jpg"
+aliases:
+    - /en/blog/post/251
 ---
 
 Out of curiosity I've ordered a couple of USB voltage testers from eBay (there's [plenty of them](http://www.ebay.com/sch/i.html?_nkw=usb+voltage+tester) there).

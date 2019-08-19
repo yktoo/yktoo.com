@@ -6,6 +6,8 @@ series: "Mijn ondernemerschap"
 tags: ["Hugo", "nieuws", "website", "Yktoo Solutions"]
 image: website-main-page.jpg
 fulltext_url: "https://yktoo.solutions/blog/2019/07/15-meet-the-all-new-yktoo-solutions-website/"
+aliases:
+    - /nl/blog/post/346
 ---
 
 Het is bijna drie jaar geweest sinds de eerste versie van de website van Yktoo Solutions het licht had gezien. Die versie was gebaseerd op dezelfde technology stack als mijn paradepaardje [yktoo.com](https://yktoo.com/), de goeie ouwe LAMP (Linux, Apache, MySQL en PHP).

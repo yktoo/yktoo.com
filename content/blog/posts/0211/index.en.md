@@ -11,6 +11,8 @@ places:
     - place0193
     - place0194
     - place0195
+aliases:
+    - /en/blog/post/211
 ---
 
 Now that we've been to the [see]({{< relref "0209" >}}), which is east, and the [desert]({{< relref "0210" >}}), which is west of Hurghada, it's time to see the most interesting bit, the city itself.

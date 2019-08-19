@@ -4,6 +4,8 @@ date: "2011-08-13T00:00:00Z"
 title: "Pt. 2. Innalzamento"
 series: "Post Nubila Sol"
 tags: ["instrumental", "music", "my music", "progressive metal", "Radiolaria"]
+aliases:
+    - /en/blog/post/108
 ---
 
 This is the second part of the **Post Nubila Sol** trilogy. It's composed, recorded and mixed by me in 2002. Genre: Electronic/Ambient/Progressive Metal.

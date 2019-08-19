@@ -3,6 +3,8 @@ type: post
 date: "2011-07-20T00:00:00Z"
 title: "Gnome/Unity random wallpaper script"
 tags: ["Gnome", "Linux", "Ubuntu", "Unity", "wallpaper"]
+aliases:
+    - /en/blog/post/106
 ---
 
 **Note:** this script will not work in GNOME 3 and Ubuntu 11.10; for these systems you have to use [the new version]({{< relref "0122" >}}).

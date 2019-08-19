@@ -4,6 +4,8 @@ date: "2017-03-11T00:00:00Z"
 title: "Когда Пушной был маленький"
 tags: ["Академгородок", "забавное", "Новосибирск", "Пушной", "Россия", "старьё"]
 image: "https://1.bp.blogspot.com/-8itT_e-Bxs8/WMO43KGCn9I/AAAAAAAApcY/m-0-pOKQCbwpsPzGBqvuZPxJjc6n5POIwCPcB/s1600/mr-pushnoy.picasaweb.jpg"
+aliases:
+    - /ru/blog/post/314
 ---
 
 В это трудно поверить, но некогда этот весьма бородатый персонаж был худеньким, бледным, совсем не бородатым мальчиком. Лишь по характерно нависающим бровям можно узнать в нём теперешнюю восходящую [звезду фолк-джента](https://www.youtube.com/watch?v=Ep6SQcMg3Jk).

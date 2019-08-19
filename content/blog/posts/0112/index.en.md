@@ -6,6 +6,8 @@ tags: ["health care", "Netherlands"]
 image: "https://4.bp.blogspot.com/-hVq9hZRxoUQ/Tl5ROA2oAtI/AAAAAAAAJkQ/rLdOOht87LY/s1600/intralasik.jpg"
 places:
     - place0036
+aliases:
+    - /en/blog/post/112
 ---
 
 Yesterday I survived laser eye surgery, which was quite an act for me.

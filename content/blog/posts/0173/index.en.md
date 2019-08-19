@@ -6,6 +6,8 @@ tags: ["Amersfoort", "Lucas Bolsius", "Netherlands"]
 image: "https://2.bp.blogspot.com/-3MsZzhq6_1o/UN8vKhTmYrI/AAAAAAAAWGc/ZfXjjqG5mdQ/s1600/dsc05884.picasaweb.jpg"
 places:
     - place0019
+aliases:
+    - /en/blog/post/173
 ---
 
 In November last year we and Amersfoort were officially introduced to each other.

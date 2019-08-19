@@ -6,6 +6,8 @@ tags: ["De Haar", "De Halve van de Haar", "бег", "замок", "Нидерл�
 image: "https://3.bp.blogspot.com/-PbeqYXL7STA/WPTsB8ySmRI/AAAAAAAApxE/HTDNCie-4w4e-mtovTqYB-mqOn_niBs9ACPcB/s1600/dsc04851.picasaweb.jpg"
 places:
     - place0165
+aliases:
+    - /ru/blog/post/320
 ---
 
 Вчера, во второй день Пасхи, в третий раз пробежал полумарафон [De Halve van De Haar](http://www.dehalvevandehaar.nl/) (**21,1 км**), который проводится на территории парка замка {{< fl "De Haar" >}} под Утрехтом.

@@ -6,6 +6,8 @@ tags: ["Anathema", "Kinkobra", "P60", "progressive metal", "progressive rock", "
 image: "https://1.bp.blogspot.com/-KnHoLEzUsvk/ThtU1OTSCNI/AAAAAAAAJDw/UIdy9KXNAVI/s1600/dsc04752.picasaweb.jpg"
 places:
     - place0001
+aliases:
+    - /ru/blog/post/101
 ---
 
 В эфире очередной выпуск «Нидерландского вестника рок-музыки».

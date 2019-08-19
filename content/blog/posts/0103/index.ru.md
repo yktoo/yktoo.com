@@ -4,6 +4,8 @@ date: "2011-07-14T00:00:00Z"
 title: "Новый старый блог"
 tags: ["блог"]
 image: "https://4.bp.blogspot.com/-bDT2EUCLWxY/Th8_MnB40lI/AAAAAAAAJHQ/F14fig3v1NM/s1600/i-like-to-move-it.jpg"
+aliases:
+    - /ru/blog/post/103
 ---
 
 С блогом произошли некоторые давно запланированные изменения.

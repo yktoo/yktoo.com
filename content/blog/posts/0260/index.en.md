@@ -4,6 +4,8 @@ date: "2015-09-09T00:00:00Z"
 title: "Dodgy kiwi"
 tags: ["funny", "garden", "Houten", "Netherlands"]
 image: "https://3.bp.blogspot.com/-ZgRGq4qWqoA/VcmVSoHwqhI/AAAAAAAAkE0/bRlBGvavJrQ/s1600/dsc00467.picasaweb.jpg"
+aliases:
+    - /en/blog/post/260
 ---
 
 A year ago I [posted]({{< relref "0223" >}}) about fruit groves in Houten. Last summer brought a sudden news on that topic.

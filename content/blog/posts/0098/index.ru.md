@@ -6,6 +6,8 @@ tags: ["P60", "progressive metal", "Sin7sinS", "Stream of Passion", "Амсте�
 image: "https://3.bp.blogspot.com/-NxH64FXDQ6k/VFfLvO0rpFI/AAAAAAAAfqI/G4jx0VZsf2c/s1600/sop-darker-days.picasaweb.jpg"
 places:
     - place0001
+aliases:
+    - /ru/blog/post/98
 ---
 
 24 июня этого, 2011 года, в клубе [P60](http://www.p60.nl/), что в Амстелвейне, я побывал на «домашнем» концерте довольно известной группы [Stream of Passion](http://www.streamofpassion.com/), играющей в жанре Progressive Metal. Группа представляла свой новый альбом {{< wiki "Darker_Days_(Stream_of_Passion_album)" "en" "Darker Days" >}}.

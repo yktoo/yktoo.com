@@ -8,6 +8,8 @@ image: "https://2.bp.blogspot.com/-tE4w8cHUpcw/TaatAgGeuNI/AAAAAAAAItc/AHwilrDY8
 places:
     - place0118
     - place0119
+aliases:
+    - /ru/blog/post/84
 ---
 
 ## Вена {#vienna}

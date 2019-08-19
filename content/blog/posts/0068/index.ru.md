@@ -4,6 +4,8 @@ date: "2011-01-20T00:00:00Z"
 title: "Немного негатива"
 tags: ["интересное", "Нидерланды", "Россия"]
 image: "https://2.bp.blogspot.com/_PX65_e7vApk/TTi1SaW5WGI/AAAAAAAAH3I/fi7PBy5kSJQ/s1600/Comparing+Russia+to+Netherlands.png"
+aliases:
+    - /ru/blog/post/68
 ---
 
 Простите мне моё настроение — я недавно вернулся с Родины :)

@@ -6,6 +6,8 @@ tags: ["Myrath", "Patronaat", "progressive metal", "progressive rock", "Shadowri
 image: "https://1.bp.blogspot.com/-mVotZz4ZbFY/WCo7veUaz1I/AAAAAAAAoOg/VruPgzEwhboZ2iAJSxIohgPsi1gupE0PwCPcB/s1600/dsc03122.picasaweb.jpg"
 places:
     - place0243
+aliases:
+    - /ru/blog/post/296
 ---
 
 В минувшую субботу в клубе [Patronaat](http://www.patronaat.nl/), что в Харлеме, прошёл концерт уникальной прог-метал-группы [Myrath](http://www.myrath.com/) из Туниса (Северная Африка). Уникальны они, помимо происхождения, ещё и тем, что в их музыке тяжёлый саунд очень здорово сочетается с арабскими мелодиями и национальными инструментами. А ещё у них танцовщица исполняет танец живота!

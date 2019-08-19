@@ -4,6 +4,8 @@ date: "2018-01-03T00:00:00Z"
 title: "Key repeat settings in Ubuntu 17.10 Artful"
 tags: ["Artful Aardvark", "Gnome", "Gnome Control Center", "Ubuntu", "wacky"]
 image: "https://3.bp.blogspot.com/-w8WkcsTSJdg/Wkyk0No8B4I/AAAAAAAArSw/9CvgDb05oWkWXzFoejugOZ7Ohjr6V4t6QCKgBGAs/s1600/gnome-universal-access.png"
+aliases:
+    - /en/blog/post/333
 ---
 
 I've been adventurous enough to upgrade my iMac to *Ubuntu 17.10 Artful Aardvark*. That's the one that features *Wayland* instead of *X Window* and *Gnome Shell* instead of *Unity*.

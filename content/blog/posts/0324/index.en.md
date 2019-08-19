@@ -6,6 +6,8 @@ tags: ["Amersfoort", "architecture", "emoji", "funny", "Netherlands", "Vathorst"
 image: "https://3.bp.blogspot.com/-ZI7EXGMDF_g/WQ9rt9ZppyI/AAAAAAAAp6k/9qYkJoUlTbgiHYZeHZH7I2OmZUyEEFfOwCPcB/s1600/dsc05178.picasaweb.jpg"
 places:
     - place0308
+aliases:
+    - /en/blog/post/324
 ---
 
 What I like about the Dutch is how they manage to combine classic with contemporary, conservative with conspicuous. For instance, the modern Dutch architecture is usually quite geometrical and sober, with no gaudy elements. As you have a closer look, you suddenly spot emojis on the façade!

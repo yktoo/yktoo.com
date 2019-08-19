@@ -4,6 +4,8 @@ date: "2010-11-27T00:00:00Z"
 title: "Ложка к обеду"
 tags: ["еда", "интересное", "Нидерланды"]
 image: "https://3.bp.blogspot.com/_PX65_e7vApk/TPD1XuasaAI/AAAAAAAAHro/phpBpcajBX4/s1600/DSC00282.JPG"
+aliases:
+    - /ru/blog/post/62
 ---
 
 Довольно оригинальное нововведение было замечено мной в местном супермаркете:

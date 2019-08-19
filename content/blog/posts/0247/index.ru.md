@@ -5,6 +5,8 @@ title: "Часть 5. Видео и  аудио, поддержка формат
 series: "Полный обзор 75-дюймового 4K-телевизора Samsung UE75HU7500"
 tags: ["Samsung", "Smart TV", "гаджеты", "железо", "обзор", "телевизоры"]
 image: "https://3.bp.blogspot.com/-eIIk0Sd62Vg/VQR30d7BAQI/AAAAAAAAhRg/i5YLx1xPeFY/s1600/Samsung_video_formats.png"
+aliases:
+    - /ru/blog/post/247
 ---
 
 ## Видео {#video}

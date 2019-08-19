@@ -3,6 +3,8 @@ type: post
 date: "2008-11-17T00:00:00Z"
 title: "Фестиваль «Чаша каннабиса»"
 tags: ["Амстердам", "забавное", "марихуана", "Нидерланды", "новости", "СМИ"]
+aliases:
+    - /ru/blog/post/29
 ---
 
 С мест [сообщают](http://rus.nl/rus/news/default.asp?Profile=news&NewsID=15468&LandID=1&CatID=2):

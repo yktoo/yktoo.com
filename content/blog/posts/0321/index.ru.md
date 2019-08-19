@@ -6,6 +6,8 @@ tags: ["De Boerderij", "Oddland", "progressive metal", "progressive rock", "Unti
 image: "https://1.bp.blogspot.com/-ldQnc30ApjQ/WQ3-d13FN0I/AAAAAAAAp5I/u0zKGzXBFi83pIRNX4d3DFL9n7JfEHFjgCPcB/s1600/20170429_231240.picasaweb.jpg"
 places:
     - place0079
+aliases:
+    - /ru/blog/post/321
 ---
 
 Впервые оказался на концерте, где группа «на разогреве» была мне не менее интересна, чем хедлайнеры. Да что говорить, все три команды {{< fl "The Progressive Aspects Tour" >}} оказались весьма на уровне!

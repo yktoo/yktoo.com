@@ -5,6 +5,8 @@ title: "Werken en werven"
 series: "Mijn ondernemerschap"
 tags: ["belastingen", "freelance", "Nederland", "Observ", "ondernemerschap", "werk", "Yktoo Solutions"]
 image: "https://4.bp.blogspot.com/-cjUtE071tFg/WN0YRhFH42I/AAAAAAAApr4/WyB_8ceeS0M-JGzjCw6TmK8ZzriLe2wmgCPcB/s1600/observ.nu.picasaweb.png"
+aliases:
+    - /nl/blog/post/318
 ---
 
 Deze post is de volgende in de [reeks]({{< relref "/series/mijn-ondernemerschap" >}}) over mijn uitdagende maar lonende ondernemerslot. In deze publicatie wil ik mijn ervaringen en bevindingen, die ik tot nu toe heb gehad, met jullie delen.

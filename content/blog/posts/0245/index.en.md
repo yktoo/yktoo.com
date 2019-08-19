@@ -5,6 +5,8 @@ title: "Part 3. Accessories"
 series: "4K UHD TV Samsung UE75HU7500: a complete review"
 tags: ["gadgets", "hardware", "review", "Samsung", "Smart TV", "TV"]
 image: "https://1.bp.blogspot.com/-XI3WZxPp01Q/VQQq9cMLcSI/AAAAAAAAhPk/kozQPL8YKPU/s1600/dsc08026.picasaweb.jpg"
+aliases:
+    - /en/blog/post/245
 ---
 
 Even though this TV is a pricey, it doesn't stop Samsung from trying to earn even more on their customers. Selling accessories with a five hundred percent margin is a popular way to make money among vendors.

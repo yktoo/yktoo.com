@@ -4,6 +4,8 @@ date: "2015-09-04T00:00:00Z"
 title: "SAIL Amsterdam 2015"
 tags: ["Amsterdam", "boats", "Ferris wheel", "Netherlands", "SAIL Amsterdam", "ships", "water"]
 image: "https://3.bp.blogspot.com/-3hQN4sFs-_M/VeMrqsmgrYI/AAAAAAAAkWo/bw5QgS6k-h8/s1600/dsc00701.picasaweb.jpg"
+aliases:
+    - /en/blog/post/259
 ---
 
 Between the 19 and the 23 of August Amsterdam hosted a huge marine event called [SAIL Amsterdam](https://www.sail.nl/). It's held once every five years, and is most known for its {{< wiki "Tall_ship" "en" "tall ships" >}} (apart from hundreds of other ships). During the event they sail in loops around the {{< wiki "IJ_(Amsterdam)" "en" "IJ" >}} lake, giving the area a totally different look and attracting millions (yes, millions) of visitors.

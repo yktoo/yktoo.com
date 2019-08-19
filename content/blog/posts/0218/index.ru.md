@@ -6,6 +6,8 @@ series: "Sound Switcher Indicator"
 tags: ["Precise Pangolin", "PulseAudio", "Python", "Quantal Quetzal", "Raring Ringtail", "Saucy Salamander", "Sound Switcher Indicator", "Trusty Tahr", "Ubuntu", "Unity", "звук", "индикатор"]
 image: "https://1.bp.blogspot.com/-p_jKIQD-wJ4/UvZeMTHsmYI/AAAAAAAAb1g/DYm853qnCjw/s1600/indicator-sound-switcher.png"
 software: sound-switcher-indicator
+aliases:
+    - /ru/blog/post/218
 ---
 
 После [предыдущего]({{< relref "0217" >}}) релиза [Sound Switcher Indicator]({{< relref "/software/sound-switcher-indicator" >}}) о нём [написал](http://www.webupd8.org/2014/02/sound-switcher-ubuntu-indicator.html) довольно известный ресурс Web Upd8, и я ~~проснулся знаменитым~~ сразу начал получать багрепорты, фичереквесты, вопросы и предложения.

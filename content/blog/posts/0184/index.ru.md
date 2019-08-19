@@ -7,6 +7,8 @@ image: "https://1.bp.blogspot.com/-9iGdLHzZkTc/UZVDNXWR8VI/AAAAAAAAX84/InSw7POOS
 places:
     - place0012
     - place0013
+aliases:
+    - /ru/blog/post/184
 ---
 
 И вновь 30 апреля, строго по плану, Нидерланды накрыло оранжевой волной. Нас опять настиг День Королевы, {{< fl "Koninginnedag" >}}, но этот раз — последний в современной истории страны.

@@ -6,6 +6,8 @@ tags: ["Баарн", "Нидерланды"]
 image: "https://4.bp.blogspot.com/-DCfwjA34efE/T5pfVheTa7I/AAAAAAAAPfA/0XTTbAMwGRs/s1600/P1000007.picasaweb.jpg"
 places:
     - place0170
+aliases:
+    - /ru/blog/post/6
 ---
 
 Баарн, где расположен мой офис, так же, как и [Суст]({{< relref "0005" >}}), – небольшая деревня, со всё теми же кирпичными домиками с черепичной крышей и ухоженными садиками.

@@ -6,6 +6,8 @@ tags: ["aikido", "Amersfoort", "Joginder Singh", "Leiden", "Netherlands", "Peter
 image: "https://3.bp.blogspot.com/-su2SLLy8y3s/Vve2sT1Cj8I/AAAAAAAAlqw/58Ru9alavmM5fvCmk-owX3emVTso_UBaQ/s1600/20160319_195536.picasaweb.jpg"
 places:
     - place0239
+aliases:
+    - /en/blog/post/273
 ---
 
 Last weekend, on March 19, 2016, the author of these lines has qualified for the first dan {{< wiki "Aikikai" "en" "Aikido Aikikai" >}}.

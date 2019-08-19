@@ -8,6 +8,8 @@ places:
     - place0280
     - place0279
     - place0278
+aliases:
+    - /en/blog/post/315
 ---
 
 Last time I enjoyed [snowboarding in the mountains]({{< relref "0306" >}}) so much that I've decided to do that once more, straight away. The next season is a year away, so why wait? After all, I'm now a freelancer, ain't I?

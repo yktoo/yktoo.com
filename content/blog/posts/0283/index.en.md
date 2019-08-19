@@ -6,6 +6,8 @@ tags: ["De Bosuil", "Marcel Coenen", "Marcel Coenen  Friends", "music", "Paul Vi
 image: "https://4.bp.blogspot.com/-L3-s4NiT2L4/V1RAFo8gHeI/AAAAAAAAmVw/ufBrvACf9NYhNpMgM9x7M2HwMILFivwJQCKgB/s1600/dsc02329.picasaweb.jpg"
 places:
     - place0241
+aliases:
+    - /en/blog/post/283
 ---
 
 I've finally nerved myself to tell you about a sad development for prog lovers.

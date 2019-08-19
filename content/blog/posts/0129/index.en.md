@@ -3,6 +3,8 @@ type: post
 date: "2011-11-23T00:00:00Z"
 title: "Bus conductors"
 tags: ["transport"]
+aliases:
+    - /en/blog/post/129
 ---
 
 The outcome of a poll just held on BBC says that [81% of the British](http://www.facebook.com/bbcthatsbritain/posts/301768383180739) would be willing to pay 25% more for the ticket, if they could see conductors in buses again.

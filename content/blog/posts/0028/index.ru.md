@@ -4,6 +4,8 @@ date: "2008-11-11T00:00:00Z"
 title: "Новая железка"
 tags: ["Toyota Prius", "авто", "Нидерланды"]
 image: "https://3.bp.blogspot.com/-HoibkPanFp0/T420BAgqzqI/AAAAAAAAO_s/eyuRJT6NOl0/s1600/imgp1525.picasaweb.jpg"
+aliases:
+    - /ru/blog/post/28
 ---
 
 Наконец-то пришла заказанная мной машина — **Toyota Prius 2009**.

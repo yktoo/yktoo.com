@@ -4,6 +4,8 @@ date: "2015-01-03T00:00:00Z"
 title: "Новый, две тысячи пятнадцатый"
 tags: ["nieuwjaarsduik", "Нидерланды", "праздники", "фейерверки", "Хаутен"]
 image: "https://4.bp.blogspot.com/-47IC2eJZZxE/VKgOQSakNJI/AAAAAAAAgrk/IpqQ-8NckG4/s1600/dsc07741.picasaweb.jpg"
+aliases:
+    - /ru/blog/post/236
 ---
 
 2015-й встретился весело, в кругу русско-украинских друзей (мы тут, по эту сторону котлована, по-прежнему друзья):

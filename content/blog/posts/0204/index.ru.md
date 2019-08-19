@@ -6,6 +6,8 @@ tags: ["авто", "Амерсфорт", "Боб", "Нидерланды", "но
 image: "https://2.bp.blogspot.com/-Jy7swQ2rLLI/UqRUv06WJOI/AAAAAAAAa-0/yJAoue3eGlg/s1600/dsc01917.picasaweb.jpg"
 places:
     - place0077
+aliases:
+    - /ru/blog/post/204
 ---
 
 Я писал, [было дело]({{< relref "0037" >}}), об особенном человеке по имени Боб ({{< fl "Bob" >}}) — этом практически святом человеке со всеми удобствами, ну или, как минимум, с машиной.

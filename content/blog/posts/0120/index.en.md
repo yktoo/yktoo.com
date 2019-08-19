@@ -4,6 +4,8 @@ date: "2011-10-09T00:00:00Z"
 title: "iMac: Mac OS X Lion + Ubuntu"
 tags: ["iMac", "Linux", "Mac OS X", "Ubuntu"]
 image: "https://4.bp.blogspot.com/-rWdtd4OcDSA/TpFwBuwLH9I/AAAAAAAAJ7U/gVWYFQ1qvEQ/s1600/MacOSX-AppStore.picasaweb.png"
+aliases:
+    - /en/blog/post/120
 ---
 
 ## Upgrading Mac OS X to Lion {#upgrading-mac-os-x-to-lion}

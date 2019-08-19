@@ -4,6 +4,8 @@ date: "2011-04-03T00:00:00Z"
 title: "Теперь правильно"
 tags: ["весна", "красивое", "Нидерланды", "природа", "цветы"]
 image: "https://4.bp.blogspot.com/-e7HjlCjXzUg/TZhK2fIq7bI/AAAAAAAAItc/GObey9aPiEA/s1600/DSC01214.picasaweb.jpg"
+aliases:
+    - /ru/blog/post/82
 ---
 
 Ну вот, теперь так же, как в прошлом году. Вот не лень полкилометра газона засаживать цветами?

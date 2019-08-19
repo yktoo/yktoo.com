@@ -7,6 +7,8 @@ image: "https://3.bp.blogspot.com/-monRec6m3LQ/Tsq4n96AnkI/AAAAAAAAKgI/1-TArn0qa
 places:
     - place0077
     - place0078
+aliases:
+    - /ru/blog/post/128
 ---
 
 Четвёртый день у нас стоит густой туман. Порой настолько густой, что в десятке метров ничего не разглядеть.

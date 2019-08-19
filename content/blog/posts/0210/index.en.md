@@ -7,6 +7,8 @@ tags: ["belly dance", "desert", "Egypt", "Hurghada", "quad bikes", "sand", "trav
 image: "https://4.bp.blogspot.com/-ZIlykVj8p5E/UsQMfrCJGvI/AAAAAAAAbQw/sNulcgz5OQ8/s1600/dsc02394.picasaweb.jpg"
 places:
     - place0189
+aliases:
+    - /en/blog/post/210
 ---
 
 From the [miraculous sea]({{< relref "0209" >}}) we migrate westward, to the desert that spans most of the area at the opposite side of Hurghada city. Desert is something you can always count on here in Africa, it's just a couple of miles away from the city:

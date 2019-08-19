@@ -9,6 +9,8 @@ places:
     - place0139
     - place0140
     - place0141
+aliases:
+    - /ru/blog/post/43
 ---
 
 ## Туда {#way-there}

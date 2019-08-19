@@ -7,6 +7,8 @@ tags: ["Барселона", "Гауди", "Испания", "путешеств
 image: "https://2.bp.blogspot.com/-NGz6BhQeeto/UASD3a7ThcI/AAAAAAAAUAs/4jmIfFodI68/s1600/dsc03328.picasaweb.jpg"
 places:
     - place0033
+aliases:
+    - /ru/blog/post/164
 ---
 
 Саграда Фамилия ({{< fl "Sagrada Família" >}}) или {{< wiki "Храм_Святого_Семейства_(Барселона)" "ru" "Храм Святого Семейства" >}} — вне сомнения самый знаменитый и выдающийся проект Антонио Гауди.

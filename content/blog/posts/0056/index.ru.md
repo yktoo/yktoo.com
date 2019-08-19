@@ -6,6 +6,8 @@ tags: ["интересное", "Нидерланды", "Схипхол"]
 image: "https://3.bp.blogspot.com/-YH1X3tNLL_w/VE6YIsXJMiI/AAAAAAAAfpc/EyvvwVKnIh8/s1600/Schiphol.picasaweb.jpg"
 places:
     - place0120
+aliases:
+    - /ru/blog/post/56
 ---
 
 Читаешь местные новости и просто слёзы на глаза наворачиваются от столь трогательной заботы о населении.

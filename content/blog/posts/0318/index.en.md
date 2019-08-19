@@ -5,6 +5,8 @@ title: "The quest for work"
 series: "My entrepreneurship"
 tags: ["business", "entrepreneurship", "freelance", "Netherlands", "Observ", "taxes", "work", "Yktoo Solutions"]
 image: "https://4.bp.blogspot.com/-cjUtE071tFg/WN0YRhFH42I/AAAAAAAApr4/WyB_8ceeS0M-JGzjCw6TmK8ZzriLe2wmgCPcB/s1600/observ.nu.picasaweb.png"
+aliases:
+    - /en/blog/post/318
 ---
 
 This post continues the [series]({{< relref "/series/my-entrepreneurship" >}}) about the challenging yet rewarding entrepreneur's way, and I'd like to shed some light on my experience and learned lessons so far.

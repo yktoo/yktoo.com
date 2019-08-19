@@ -10,6 +10,8 @@ places:
     - place0220
     - place0221
     - place0222
+aliases:
+    - /en/blog/post/223
 ---
 
 In the [previous part]({{< relref "0222" >}}) I mentioned the "Bike Town" award given to Houten a few years ago. This tiny geographical object has also won a number of other awards:

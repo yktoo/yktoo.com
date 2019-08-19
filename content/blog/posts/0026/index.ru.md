@@ -6,6 +6,8 @@ tags: ["Vathorst", "айкидо", "Амерсфорт", "карате", "Нид
 image: "https://1.bp.blogspot.com/-TdPd_onoFfk/T420CGyYn6I/AAAAAAAAO_0/CnPmP3fiONQ/s1600/Demo+Skatebaan+%252813-09-2008%2529+001.picasaweb.jpg"
 places:
     - place0153
+aliases:
+    - /ru/blog/post/26
 ---
 
 Была парочка интересных мероприятий у нас в айкидо-клубе.

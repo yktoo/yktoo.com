@@ -4,6 +4,8 @@ date: "2011-03-23T00:00:00Z"
 title: "Uninstalling Dictators: Amended Version"
 tags: ["banter", "corruption", "funny", "Russia"]
 image: "https://2.bp.blogspot.com/-MNQ_glP58UE/TYpDW4pLE3I/AAAAAAAAIFc/9eNjrxBfRxs/s1600/uninstalling-dictators.png"
+aliases:
+    - /en/blog/post/78
 ---
 
 Originally found on the Internet. I amended the picture by including Russia.

@@ -5,6 +5,8 @@ title: "Часть 2. Авто и апельсины"
 series: "Португалия"
 tags: ["авто", "Алгарви", "апельсины", "Португалия", "путешествия"]
 image: "https://3.bp.blogspot.com/-n6kdcRewI_k/Ua4hnOcA5UI/AAAAAAAAYno/COZDdQStsSU/s1600/dsc08993.picasaweb.jpg"
+aliases:
+    - /ru/blog/post/191
 ---
 
 К слову о машине, которую мы брали напрокат в славном городе Албуфейре, где имели честь квартировать.

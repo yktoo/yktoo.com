@@ -4,6 +4,8 @@ date: "2011-06-19T00:00:00Z"
 title: "Интернет в деревне"
 tags: ["Cisco", "Linksys", "анбоксинг", "гаджеты", "железо", "Нидерланды", "обзор", "ТВ", "телефон"]
 image: "https://1.bp.blogspot.com/-CW7nPP-7dOY/Tf3OWKjdIHI/AAAAAAAAImQ/7I2aoFqgAMQ/s1600/dsc04095.picasaweb.jpg"
+aliases:
+    - /ru/blog/post/96
 ---
 
 ## Было {#before}

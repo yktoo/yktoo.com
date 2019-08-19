@@ -5,6 +5,8 @@ title: "Часть 6. Будапешт"
 series: "Вена и Будапешт"
 tags: ["Будапешт", "Венгрия", "путешествия"]
 image: "https://2.bp.blogspot.com/-TT8ijGC6JlM/Tan1xe9HsYI/AAAAAAAAItc/gL4QKmtreoI/s1600/dsc01819.picasaweb.jpg"
+aliases:
+    - /ru/blog/post/88
 ---
 
 {{< imgfig "https://2.bp.blogspot.com/-TT8ijGC6JlM/Tan1xe9HsYI/AAAAAAAAItc/gL4QKmtreoI/s1600/dsc01819.picasaweb.jpg" >}}

@@ -6,14 +6,22 @@ tags:
     - анонс
     - сайт
 image: "https://4.bp.blogspot.com/-bDT2EUCLWxY/Th8_MnB40lI/AAAAAAAAJHQ/F14fig3v1NM/s1600/i-like-to-move-it.jpg"
+aliases:
+    - /ru/blog/post/351
+---
+
+> **Обновлено:** новая версия успешно запущена, все комментарии сохранены и перенесены со старого сайта.
+
+*Ниже исходное сообщение:*
+ 
 ---
 
 Обновлённая версия **yktoo.com** будет запущена в **понедельник 19 августа 2019** г. Хотя внешне изменений довольно мало, изнутри эта новая версия устроена полностью иначе.
 
 В связи с этим также изменятся ссылки на {{< fl "RSS" >}}-подписки:
 
-* Было: `https://yktoo.com/ru/blog/atom` ({{< fl "Atom" >}}) или `https://yktoo.com/ru/blog/rss` ({{< fl "RSS" >}})
-* **Будет:** `https://yktoo.com/ru/index.xml` (только {{< fl "RSS" >}}) — начиная с 19 августа 2019 г.
+* Было: ~~`https://yktoo.com/ru/blog/atom` ({{< fl "Atom" >}}) или `https://yktoo.com/ru/blog/rss` ({{< fl "RSS" >}})~~
+* **Стало:** `https://yktoo.com/ru/index.xml` (только {{< fl "RSS" >}}) — начиная с 19 августа 2019 г.
 
 <!--more-->
 

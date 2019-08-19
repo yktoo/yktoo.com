@@ -4,6 +4,8 @@ date: "2011-03-21T00:00:00Z"
 title: "MMMavrodi"
 tags: ["funny", "money"]
 image: "https://2.bp.blogspot.com/-mnnKcKFgSho/TYei73m2M-I/AAAAAAAAIFE/aGPO5gSOFXY/s800/brunei-dollar.jpg"
+aliases:
+    - /en/blog/post/77
 ---
 
 A friend of mine is recently back from Southeast Asia. His intention originally was to visit Vietnam and Laos, but he ended up visiting also Cambodia, Malaysia and Hong Kong.

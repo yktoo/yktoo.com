@@ -6,6 +6,8 @@ tags: ["Amsterdam-Rijnkanaal", "Houten", "mooi", "Nederland", "water", "weer", "
 image: "https://1.bp.blogspot.com/-cQ3ZUsJt_-U/WGk41bsepjI/AAAAAAAAoz4/C7SYpRmvi0s1a31AFFcBnoWPyFLrl76gACPcB/s1600/20161230_122421.picasaweb.jpg"
 places:
     - place0271
+aliases:
+    - /nl/blog/post/303
 ---
 
 Vlak voor oudejaarsavond kwam er lichte vorst van -2 °C terwijl er nog steeds geen sneeuw lag. Het groene gras was 's ochtends al erg mooi met rijp overdekt.

@@ -6,6 +6,8 @@ tags: ["море", "Нидерланды", "пляж", "погода", "праз
 image: "https://2.bp.blogspot.com/-5VoKL65JaTI/T5p76F9RxPI/AAAAAAAAPjw/ZE7Z3_GCHdI/s1600/DSC01507.picasaweb.jpg"
 places:
     - place0164
+aliases:
+    - /ru/blog/post/13
 ---
 
 Ох уж эти голландцы… И сегодня у них праздник, Пятидесятница, она же Троица, она же Pentecost, она же — 7 недель после Пасхи. Лишь бы не работать, в общем.

@@ -6,6 +6,8 @@ series: "Доля предпринимательская"
 tags: ["Hugo", "Yktoo Solutions", "новости", "сайт"]
 image: website-main-page.jpg
 fulltext_url: "https://yktoo.solutions/blog/2019/07/15-meet-the-all-new-yktoo-solutions-website/"
+aliases:
+    - /ru/blog/post/346
 ---
 
 Минуло почти три года с момента появления первой версии веб-сайта {{< fl "Yktoo Solutions" >}}. Она была написана с использованием того же стека технологий, что и сайт, который вы сейчас читаете, то есть старый добрый {{< fl "LAMP" >}} ({{< fl "Linux" >}}, {{< fl "Apache" >}}, {{< fl "MySQL" >}} и {{< fl "PHP" >}}).

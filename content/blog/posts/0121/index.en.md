@@ -4,6 +4,8 @@ date: "2011-10-12T00:00:00Z"
 title: "Minority report"
 tags: ["Apple", "Richard Stallman", "RIP", "Steve Jobs"]
 image: "https://1.bp.blogspot.com/-nEj2DlhaKyI/TpYFeyg_tjI/AAAAAAAAJ70/6aSt6AXxBDU/s1600/apple-n-jobs.png"
+aliases:
+    - /en/blog/post/121
 ---
 
 In the [groaning and moaning]({{< relref "0119" >}}) on Steve Jobs' passing minority opinions coming from the dissentients get eminent.

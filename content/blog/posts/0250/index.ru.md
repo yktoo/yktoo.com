@@ -6,6 +6,8 @@ tags: ["Anneke van Giersbergen", "Arjen Lucassen", "Ed Warby", "Ferry Duijsens",
 image: "https://2.bp.blogspot.com/-cH_tABt-xDQ/VRf95KVJ0VI/AAAAAAAAhbM/vj3Eldrjaks/s1600/dsc08304.picasaweb.jpg"
 places:
     - place0073
+aliases:
+    - /ru/blog/post/250
 ---
 
 А давно не мучал я вас рассказами о голландском роке, надо исправляться. Тем более повод такой, воочию увидел две рок-легенды — аж сам себе завидую.

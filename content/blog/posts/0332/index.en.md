@@ -4,6 +4,8 @@ date: "2017-12-31T00:00:00Z"
 title: "So long two thousand seventeen"
 tags: ["2017", "Germany", "Rees", "upshot"]
 image: "https://4.bp.blogspot.com/-T0pGKdrZB1c/WkYeVgdD1vI/AAAAAAAArKQ/fa8g5Ol1jG0CaVB-u3_6G3gNvgj0mFp1wCKgBGAs/s1600/2018.png"
+aliases:
+    - /en/blog/post/332
 ---
 
 The fact this year has come to an end was a bit of a surprise for me. I remember myself in July and then—bang—it's Christmas and {{< fl "Sinterklaas" >}} is on his way. There's some explanation for that though, more on which below.

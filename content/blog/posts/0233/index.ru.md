@@ -4,6 +4,8 @@ date: "2014-12-01T00:00:00Z"
 title: "Настройка Ubuntu для работы с SSD"
 tags: ["Linux", "SSD", "Ubuntu", "инструкция", "оптимизация"]
 image: "https://1.bp.blogspot.com/-ZikqqB86Bb4/WK3RKkQQT8I/AAAAAAAApUk/X6V97DAgruk3V6qsal5TFzVysauuzvGoQCPcB/s1600/ubuntu.png"
+aliases:
+    - /ru/blog/post/233
 ---
 
 В [прошлый раз]({{< relref "0231" >}}) я рассказывал об установке твердотельного накопителя ({{< fl "SSD" >}}) в iMac. Такие накопители характеризуются очень высокой скоростью чтения (~500 МБ/с при условии подключения через 6-гигабитный SATA III) и бесшумностью.

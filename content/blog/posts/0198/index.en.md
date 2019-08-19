@@ -4,6 +4,8 @@ date: "2013-09-07T00:00:00Z"
 title: "Tackling M-Audio Studiophile speaker power-off popping sound"
 tags: ["gadgets", "hardware", "IKEA", "sound", "speaker"]
 image: "https://1.bp.blogspot.com/-gyclTnBGtwE/Uit7zpz306I/AAAAAAAAaZE/Sz53aBCQC-8/s1600/patrull.picasaweb.jpg"
+aliases:
+    - /en/blog/post/198
 ---
 
 Recently I've discovered a peculiar feature of my [M-Audio Studiophile AV 40]({{< relref "0189" >}}) speakers.

@@ -6,6 +6,8 @@ tags: ["Amersfoort", "beautiful", "Netherlands", "weather"]
 image: "https://2.bp.blogspot.com/-CcFJL8Fnh58/Thias-qOTGI/AAAAAAAAI90/-jq3GElGcyc/s1600/DSC00200.picasaweb.jpg"
 places:
     - place0129
+aliases:
+    - /en/blog/post/63
 ---
 
 October in Amersfoort:

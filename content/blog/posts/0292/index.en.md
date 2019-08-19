@@ -6,6 +6,8 @@ tags: ["aikido", "Belgium", "Brussels", "Christian Tissier", "Dany Leclerre", "D
 image: "https://4.bp.blogspot.com/-IypI7JiR1E4/WBCrDwOZqWI/AAAAAAAAoGM/grPwdgXx2TgJ1KpljmXUr3idYEnUb4qmgCPcB/s1600/doshu-2016-0008.jpg"
 places:
     - place0242
+aliases:
+    - /en/blog/post/292
 ---
 
 Last weekend, 22-23 October, has been marked by a colossal [event](http://www.doshu2016.be/) in the Belgian Brussels, lead by the *Doshu* (hereditary head) {{< wiki "Moriteru_Ueshiba" "en" "Moriteru Ueshiba" >}}, a grandson of Ōsensei {{< wiki "Morihei_Ueshiba" "en" "Morihei Ueshiba" >}}.

@@ -6,6 +6,8 @@ tags: ["De Boerderij", "progressive metal", "progressive rock", "Riverside", "З
 image: "https://1.bp.blogspot.com/-msPpM_nMqx0/WTRdaD9ey2I/AAAAAAAAqFQ/UsebQnNd-tkdRVkUC9_YfI-h3di78dg-gCKgB/s1600/20170525_210732.picasaweb.jpg"
 places:
     - place0079
+aliases:
+    - /ru/blog/post/328
 ---
 
 Ещё одна детская мечта сбылась! Я слушал польскую прогрессив-бригаду {{< wiki "Riverside" "ru" "Riverside" >}} практически с самого момента её основания, — даже, скорее, заслушивался. Эх, прогрессивное детство моё (ну ладно, мне было в то время под тридцать).

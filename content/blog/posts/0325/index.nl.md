@@ -4,6 +4,8 @@ date: "2017-05-22T00:00:00Z"
 title: "Taalniveau C1 behaald!"
 tags: ["certificaat", "Nederland", "Nederlands", "opleiding"]
 image: "https://2.bp.blogspot.com/-b8UFCXNT65c/WQ3-0nds71I/AAAAAAAAp5I/4dyGkOr1RDUzqpJ0Nl_5nh8dBsDo-2IMACPcB/s1600/dsc05176.picasaweb.jpg"
+aliases:
+    - /nl/blog/post/325
 ---
 
 Mijn laatste *cursus Nederlands* is voorbij. Het heeft bijna een jaar geduurd, deels vanwege mijn [ondernemersavontuur]({{< relref "/series/mijn-ondernemerschap" >}}). Ik ben in juli 2016 met de cursus begonnen. ING, die toen mijn werkgever was, heeft het destijds afbetaald, dus de lessen gingen gewoon door nadat ik wegging bij de ING.

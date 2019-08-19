@@ -5,6 +5,8 @@ title: "Self-hosting Commento with Docker Compose"
 tags: ["cloud", "Commento", "Disqus", "Docker", "Docker Compose", "Linux", "software", "software development"]
 image: commento.png
 fulltext_url: 'https://yktoo.solutions/blog/2019/07/28-self-hosting-commento-with-docker-compose/'
+aliases:
+    - /en/blog/post/350
 ---
 
 A while ago I've made a decision to migrate off Disqus, which is arguably the most popular external commenting system for website owners.

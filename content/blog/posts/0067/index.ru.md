@@ -6,6 +6,8 @@ tags: ["Амерсфорт", "зима", "красивое", "Нидерланд
 image: "https://1.bp.blogspot.com/-WCSNGfdlqAQ/ThibaZVh9mI/AAAAAAAAJAE/N8FvC8APHYw/s1600/DSC00481.picasaweb.jpg"
 places:
     - place0126
+aliases:
+    - /ru/blog/post/67
 ---
 
 Как вы, наверное, слышали, в Европах свирепствуют снегопады. Мы в Нидерландах тоже не могли остаться в стороне. Такой вид открывается с нашего балкона:

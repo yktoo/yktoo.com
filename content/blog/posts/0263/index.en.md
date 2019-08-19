@@ -3,6 +3,8 @@ type: post
 date: "2015-11-14T00:00:00Z"
 title: "yktoo.com 2.0"
 tags: ["Bootstrap", "web", "website", "Yii", "Yii2"]
+aliases:
+    - /en/blog/post/263
 ---
 
 It cost me quite an effort to make myself migrate my website to Yii 2.

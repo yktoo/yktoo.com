@@ -6,6 +6,8 @@ tags: ["Amersfoort", "Bob", "car", "Netherlands", "night", "police"]
 image: "https://2.bp.blogspot.com/-Jy7swQ2rLLI/UqRUv06WJOI/AAAAAAAAa-0/yJAoue3eGlg/s1600/dsc01917.picasaweb.jpg"
 places:
     - place0077
+aliases:
+    - /en/blog/post/204
 ---
 
 I once [posted]({{< relref path="0037" lang="ru" >}}) about a special person called **Bob**. It's almost a "saint with all possible benefits" (a quote from a popular Soviet-era film). To be precise, there's at least one benefit with him—a car.

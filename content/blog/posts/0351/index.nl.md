@@ -6,14 +6,22 @@ tags:
     - aankondiging
     - website
 image: "https://4.bp.blogspot.com/-bDT2EUCLWxY/Th8_MnB40lI/AAAAAAAAJHQ/F14fig3v1NM/s1600/i-like-to-move-it.jpg"
+aliases:
+    - /nl/blog/post/351
+---
+
+> **Update:** de nieuwe website versie is nu live, alle commentaren zijn gekopieerd vanuit de oude versie.
+
+*Hieronder het oorspronkelijke bericht:*
+
 ---
 
 **Maandag 19 augustus 2019** komt er een vernieuwde versie van **yktoo.com**. Al ziet het er niet zo anders uit, is het toch helemaal nieuw van binnen.
 
 Dat betekent ook dat de bestaande RSS links gaan veranderen:
 
-* Voor de migratie: `https://yktoo.com/nl/blog/atom` (Atom) of `https://yktoo.com/nl/blog/rss` (RSS)
-* **Na de migratie:** `https://yktoo.com/nl/index.xml` (alleen RSS) — vanaf 19 augustus 2019
+* Voor de migratie: ~~`https://yktoo.com/nl/blog/atom` (Atom) of `https://yktoo.com/nl/blog/rss` (RSS)~~
+* **Nu:** `https://yktoo.com/nl/index.xml` (alleen RSS) — vanaf 19 augustus 2019
 
 <!--more-->
 

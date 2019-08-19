@@ -8,6 +8,8 @@ image: "https://3.bp.blogspot.com/-WhG2CuTPnhU/UsQKZtFKY4I/AAAAAAAAbFY/BCQ_a_7Pu
 places:
     - place0188
     - place0190
+aliases:
+    - /en/blog/post/209
 ---
 
 **Happy New Year everyone!**

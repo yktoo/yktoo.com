@@ -4,6 +4,8 @@ date: "2011-06-29T00:00:00Z"
 title: "Внимательность — 2"
 tags: ["Нидерланды"]
 image: "https://3.bp.blogspot.com/-a9jxqoKoQvE/TgtkS6mlb8I/AAAAAAAAIsM/zKIei5xJrlo/s1600/graafwerkzaamheden.png"
+aliases:
+    - /ru/blog/post/99
 ---
 
 В продолжение [темы о внимательности]({{< relref "0048" >}}): на днях всем в почтовые ящики опять пришло уведомление, на этот раз о земляных работах.

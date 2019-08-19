@@ -4,6 +4,8 @@ date: "2011-07-14T00:00:00Z"
 title: "The new old blog"
 tags: ["blog"]
 image: "https://4.bp.blogspot.com/-bDT2EUCLWxY/Th8_MnB40lI/AAAAAAAAJHQ/F14fig3v1NM/s1600/i-like-to-move-it.jpg"
+aliases:
+    - /en/blog/post/103
 ---
 
 Some planned changes have been made to the blog.

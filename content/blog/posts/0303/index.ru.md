@@ -6,6 +6,8 @@ tags: ["Амстердам-Рейн-канал", "вода", "зима", "кра
 image: "https://1.bp.blogspot.com/-cQ3ZUsJt_-U/WGk41bsepjI/AAAAAAAAoz4/C7SYpRmvi0s1a31AFFcBnoWPyFLrl76gACPcB/s1600/20161230_122421.picasaweb.jpg"
 places:
     - place0271
+aliases:
+    - /ru/blog/post/303
 ---
 
 Под самый Новый год ударили небывалые морозы в -2 °C. Снега при этом как не было, так и нет, но зелёная трава покрылась инеем.

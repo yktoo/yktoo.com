@@ -5,6 +5,8 @@ title: "Vormen en personen"
 series: "Mijn ondernemerschap"
 tags: ["belastingen", "business", "freelance", "Nederland", "ondernemerschap", "werk", "Yktoo Solutions"]
 image: "https://2.bp.blogspot.com/-0JS0V8bE70Y/WN97iz2hjLI/AAAAAAAAptQ/pwLDMGHIdfwZcGmcAlyotSDAsc3Yq2OOACPcB/s1600/shapes.picasaweb.png"
+aliases:
+    - /nl/blog/post/310
 ---
 
 In mijn [vorige post]({{< relref "0309" >}}) heb ik voor- en nadelen van ondernemerschap op een rijtje gezet. Maar wat houdt dat eigenlijk in — ondernemer zijn?

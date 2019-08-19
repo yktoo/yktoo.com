@@ -7,6 +7,8 @@ image: "https://3.bp.blogspot.com/-ypJHKvDbGGA/Vrd2qvWMm6I/AAAAAAAAlVo/7gneIBHSz
 places:
     - place0235
     - place0236
+aliases:
+    - /en/blog/post/270
 ---
 
 I've been lucky to have had a good deal of {{< fl "wintersport" >}} this season, as well as to come back in one piece.

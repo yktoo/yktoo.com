@@ -4,6 +4,8 @@ date: "2014-12-12T00:00:00Z"
 title: "Охота на дом"
 tags: ["дом", "ипотека", "Нидерланды", "Хаутен"]
 image: "https://2.bp.blogspot.com/-UGfefFXU26A/U_uLNWPet4I/AAAAAAAAfDs/7v1tkbmb18s/s1600/dsc06415.picasaweb.jpg"
+aliases:
+    - /ru/blog/post/234
 ---
 
 Итак, мы осели в [Хаутене]({{< relref "0221" >}}). Расскажу о том, почему именно здесь и чем мы руководствовались при выборе.

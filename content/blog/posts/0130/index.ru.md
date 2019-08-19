@@ -4,6 +4,8 @@ date: "2011-11-25T00:00:00Z"
 title: "Штрафы на дорогах в 2012"
 tags: ["авто", "Нидерланды", "транспорт", "штрафы"]
 image: "https://1.bp.blogspot.com/-9hphZNu9iEU/Ts_uFiDrKbI/AAAAAAAAKic/42DToHhreSw/s1600/verkeersboetes.jpg"
+aliases:
+    - /ru/blog/post/130
 ---
 
 {{< imgfig "https://1.bp.blogspot.com/-9hphZNu9iEU/Ts_uFiDrKbI/AAAAAAAAKic/42DToHhreSw/s1600/verkeersboetes.jpg" "Картинка с сайта fleetmotive.nl" >}}

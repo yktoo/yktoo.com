@@ -4,6 +4,8 @@ date: "2011-12-16T00:00:00Z"
 title: "Google Music Integration into Ubuntu"
 tags: ["Google", "Google Music", "Linux", "music", "Ubuntu"]
 image: "https://3.bp.blogspot.com/-SIWgCWPXado/TutmMgf6TOI/AAAAAAAAKmo/o7lxADgiPyw/s1600/google-music.png"
+aliases:
+    - /en/blog/post/135
 ---
 
 About a month ago I [posted]({{< relref "0126" >}}) about [Google Music](http://music.google.com/) cloud music storage service opening for public (which is still officially available in the US only).

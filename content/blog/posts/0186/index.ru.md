@@ -6,6 +6,8 @@ tags: ["bloemencorso", "Кёукенхоф", "красивое", "цветочн
 image: "https://3.bp.blogspot.com/-QR1Jfd12kjI/UZVBs3xvkwI/AAAAAAAAX3I/4zQECmiFdPg/s1600/dsc08203.picasaweb.jpg"
 places:
     - place0009
+aliases:
+    - /ru/blog/post/186
 ---
 
 Столько всякого материала накопилось, пока я возился с этим своим [сайтом]({{< relref "/" >}}), уж и не знаю, успею ли разгрести.

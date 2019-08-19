@@ -6,6 +6,8 @@ tags: ["Заансе Сханс", "красивое", "Нидерланды"]
 image: "https://2.bp.blogspot.com/-KYJY4nlm23c/T3S2dp3MpuI/AAAAAAAAOI8/0lSPx5Y7mv8/s1600/P1000668.picasaweb.jpg"
 places:
     - place0158
+aliases:
+    - /ru/blog/post/21
 ---
 
 Сегодня я побывал в образцово-показательной деревушке с непроизносимым названием Заансе Сханс ({{< fl "Zaanse Schans" >}}).

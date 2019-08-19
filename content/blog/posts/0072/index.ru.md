@@ -6,6 +6,8 @@ tags: ["интересное", "музыка", "Нидерланды", "поез
 image: "https://4.bp.blogspot.com/-ta4Wf4JAhq4/TVkpFbEOqLI/AAAAAAAAH_0/SKANrC9W4IM/s1600/IMAG0210.jpg"
 places:
     - place0125
+aliases:
+    - /ru/blog/post/72
 ---
 
 Про нидерландский транспорт нужно писать очень много — от российского он разительно отличается во многих аспектах, и я ещё пока собираю материал.

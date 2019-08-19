@@ -4,6 +4,8 @@ date: "2017-02-17T00:00:00Z"
 title: "20 лет безупречной, хе-хе"
 tags: ["блог", "работа", "юбилей"]
 image: "https://4.bp.blogspot.com/-e_86xxIb3VY/WKbJN0DAq_I/AAAAAAAApP4/rZ3yDk3r7OY6vOlN0tTsrZ_F_89kPXMgACPcB/s1600/trudovaya-page-1.picasaweb.jpg"
+aliases:
+    - /ru/blog/post/307
 ---
 
 Во всей этой суматохе пропустил важную дату, **20 лет** своей профессиональной деятельности, пришедшуюся на 22 марта 2016 года.

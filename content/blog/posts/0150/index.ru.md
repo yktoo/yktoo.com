@@ -8,6 +8,8 @@ image: "https://3.bp.blogspot.com/-VrswEhOWSUg/T2pYa1Bz7EI/AAAAAAAAMUk/420Y-rKmI
 places:
     - place0054
     - place0055
+aliases:
+    - /ru/blog/post/150
 ---
 
 ## Опять горы {#mountains-again}

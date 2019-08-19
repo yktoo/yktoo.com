@@ -7,6 +7,8 @@ image: "https://lh6.googleusercontent.com/-UUKrvtB_Ps8/TZt5REgo6UI/AAAAAAAAItg/J
 places:
     - place0123
     - place0077
+aliases:
+    - /ru/blog/post/76
 ---
 
 У нас опять начали цвести нарциссы. Правда, пока в ограниченных количествах:

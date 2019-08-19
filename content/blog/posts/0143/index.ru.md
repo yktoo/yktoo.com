@@ -7,6 +7,8 @@ image: "https://1.bp.blogspot.com/-o2K3a3T5EI0/T2pZKTZMp1I/AAAAAAAANKw/vA3nVVMtF
 places:
     - place0069
     - place0070
+aliases:
+    - /ru/blog/post/143
 ---
 
 Нынешняя весна выдалась богатой на путешествия.

@@ -5,6 +5,8 @@ title: "Entities and persons"
 series: "My entrepreneurship"
 tags: ["business", "entrepreneurship", "freelance", "Netherlands", "taxes", "work", "Yktoo Solutions"]
 image: "https://2.bp.blogspot.com/-0JS0V8bE70Y/WN97iz2hjLI/AAAAAAAAptQ/pwLDMGHIdfwZcGmcAlyotSDAsc3Yq2OOACPcB/s1600/shapes.picasaweb.png"
+aliases:
+    - /en/blog/post/310
 ---
 
 In my [previous post]({{< relref "0309" >}}) I briefly listed pros and cons of being an entrepreneur. The next logical question is—what does it actually mean, to be an entrepreneur?

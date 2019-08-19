@@ -4,6 +4,8 @@ date: "2014-11-30T00:00:00Z"
 title: "Замена жёсткого диска на SSD в iMac 2010"
 tags: ["Apple", "iMac", "Samsung", "Samsung 840 EVO", "SSD", "Trusty Tahr", "Ubuntu", "гаджеты", "гик-порно", "железо", "очумелые ручки", "ремонт", "сделай сам"]
 image: "https://3.bp.blogspot.com/-xltYgdRdnE8/VHtgOV2coLI/AAAAAAAAgP8/ZtsO1--34Jk/s1600/Samsung-840-EVO-SSD-1TB.picasaweb.jpg"
+aliases:
+    - /ru/blog/post/231
 ---
 
 Спустя ровно четыре безоблачных года жёсткий диск в моём [iMac 27"]({{< relref "0120" >}}) сказал «Disk I/O error», что в переводе означает примерно «мир вашему дому».

@@ -4,6 +4,8 @@ date: "2014-01-31T00:00:00Z"
 title: "How to add an external power supply to a USB hub"
 tags: ["Apple", "DIY", "electronics", "gadgets", "hardware", "iMac", "USB"]
 image: "https://3.bp.blogspot.com/-XqSQEHbfq3A/UugVSXljK0I/AAAAAAAAbzw/fd1VbaC74aw/s1600/hema-usb-hub.png"
+aliases:
+    - /en/blog/post/216
 ---
 
 I've been looking for quite a while for a USB hub that would match the design of my [iMac]({{< relref "0120" >}}). For those who own an iMac a USB hub is a must-have, since Apple have moved all available ports, including even the headphone one, to its back side. Which is in my opinion a typical example of design gone totally wrong.

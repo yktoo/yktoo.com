@@ -7,6 +7,8 @@ image: "https://1.bp.blogspot.com/-9iGdLHzZkTc/UZVDNXWR8VI/AAAAAAAAX84/InSw7POOS
 places:
     - place0012
     - place0013
+aliases:
+    - /en/blog/post/184
 ---
 
 Yet again, precisely on time, Holland has turned orange on the 30<sup>th</sup> of April. Queen's day is there, but this time is the last in the modern history of the country.

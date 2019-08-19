@@ -4,6 +4,8 @@ date: "2011-10-14T00:00:00Z"
 title: "Ubuntu/GNOME 3 random wallpaper script"
 tags: ["Gnome", "Linux", "Ubuntu", "Unity", "wallpaper", "yktools"]
 software: yktools
+aliases:
+    - /en/blog/post/122
 ---
 
 This bash script picks up a random image file (.jpg, .jpeg or .png) from the predefined directory and sets it as wallpaper.

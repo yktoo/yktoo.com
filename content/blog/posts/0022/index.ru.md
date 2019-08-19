@@ -7,6 +7,8 @@ image: "https://1.bp.blogspot.com/-jH-_ZJdDAo0/T43FEKfbNgI/AAAAAAAAPCg/TR1D7jLWg
 places:
     - place0156
     - place0157
+aliases:
+    - /ru/blog/post/22
 ---
 
 Довелось мне тут давеча посетить пару музыкальных мероприятий.

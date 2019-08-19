@@ -4,6 +4,8 @@ date: "2015-08-04T00:00:00Z"
 title: "Russian Post, or Welcome to Hell"
 tags: ["frustrating", "reflections", "Russia", "Russian Post", "Tyumen"]
 image: "https://3.bp.blogspot.com/-W6K6Y48Ng78/WK3Ftl6QKHI/AAAAAAAApTw/h87hO4UcsCs9md19g80Di-Ib3RM51bdpgCPcB/s1600/russian-post.png"
+aliases:
+    - /en/blog/post/257
 ---
 
 I have to admit that the Russian Post has well earned its popular nickname "Hell's Office". It's a very good example of the importance of The Rule to the life in the country, as opposed to the common sense. The Rule, one of many, established by those mentals sitting in Russian Duma.
