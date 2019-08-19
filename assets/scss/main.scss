@@ -564,3 +564,12 @@ a {
     border: $gray-500 dashed 1px;
     border-radius: 8px;
 }
+
+// Fixes for Commento
+.commento-markdown-help {
+    pre {
+        background-color: transparent;
+        padding: 0;
+        color: #e83e8c;
+    }
+}
