@@ -1,6 +1,11 @@
 ---
+type: post
+date: "{{ .Date }}"
 title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+tags:
+    - Netherlands
+#image: ""
+#series:
 draft: true
 ---
 
