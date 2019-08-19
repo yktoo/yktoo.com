@@ -4,6 +4,8 @@ date: "2018-05-13T00:00:00Z"
 title: "The castlerun, fourth edition"
 tags: ["castle", "De Haar", "De Halve van de Haar", "half marathon", "Netherlands", "running", "sport"]
 image: "https://1.bp.blogspot.com/-xfX7V8QAYFo/WvgmCbnrrqI/AAAAAAAAsi4/N5OiroxgvyY_OkAsw6LRTGvOdzwQExkxQCKgBGAs/s1600/20180402_191359.picasaweb.jpg"
+aliases:
+    - /en/blog/post/335
 ---
 
 Right before [my ten-year anniversary in Holland]({{< relref "0334" >}}), on Easter Monday, the castlerun [De Halve van De Haar](http://www.dehalvevandehaar.nl/) has taken place. I've been participating in it since the very beginning ([one]({{< relref "0266#de-halve-van-de-haar" >}}), [two]({{< relref "0274" >}}), [three]({{< relref "0320" >}})).

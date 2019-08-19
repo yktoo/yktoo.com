@@ -4,6 +4,8 @@ date: "2019-07-26T00:00:00Z"
 title: "The national temperature record is broken"
 tags: ["heatwave", "record", "temperature", "weather"]
 image: "https://1.bp.blogspot.com/-UT_YxhgI0Os/XTriejhY54I/AAAAAAAAwg8/4iyYAGe0zP4azsXylGGZQfoyZ3cOWFrAgCKgBGAs/s1600/code-oranje.png"
+aliases:
+    - /en/blog/post/349
 ---
 
 We're four days into a [record-breaking]({{< relref "0229" >}}) heatwave here. An "orange alert" ({{< fl "code oranje" >}}) has been declared in almost every province of the Netherlands:

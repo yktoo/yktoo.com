@@ -6,6 +6,8 @@ tags: ["huwelijk", "Nederland", "persoonlijk"]
 image: "https://1.bp.blogspot.com/-wy6w96RgkKY/XSssvrVGv3I/AAAAAAAAwXM/dQaxNjr7C3QjjWyuGQBZcW2jZ-EGXFYcQCKgBGAs/s1600/a%2526d.picasaweb.jpg"
 places:
     - place0310
+aliases:
+    - /nl/blog/post/345
 ---
 
 Precies deze dag maar twee jaar geleden, 13 juli 2017, heb ik mijn muisaanwijzer op een foto van een hele knappe vrouw gericht en op *Like* geclickt.

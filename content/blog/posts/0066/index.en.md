@@ -7,6 +7,8 @@ image: "https://4.bp.blogspot.com/-trRtTZPX99k/ThiZ_ZJlUpI/AAAAAAAAI7M/-jpqpykoC
 places:
     - place0087
     - place0003
+aliases:
+    - /en/blog/post/66
 ---
 
 From now on I'm going to make my blog bilingual. Unless I'm too lazy, or the subject is not intended for Western audience.

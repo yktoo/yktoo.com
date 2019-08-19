@@ -4,6 +4,8 @@ date: "2011-12-16T00:00:00Z"
 title: "Интеграция Google Music с Убунту"
 tags: ["Google", "Google Music", "Linux", "Ubuntu", "музыка"]
 image: "https://3.bp.blogspot.com/-SIWgCWPXado/TutmMgf6TOI/AAAAAAAAKmo/o7lxADgiPyw/s1600/google-music.png"
+aliases:
+    - /ru/blog/post/135
 ---
 
 Месяц назад я [рассказывал]({{< relref "0126" >}}) об открытии облачного сервиса для хранения музыки [Google Music](http://music.google.com/) (сервис по-прежнему формально доступен только для обитателей США, что едва ли вызывает у меня угрызения совести).

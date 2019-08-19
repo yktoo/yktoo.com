@@ -10,6 +10,8 @@ places:
     - place0022
     - place0023
     - place0024
+aliases:
+    - /ru/blog/post/167
 ---
 
 ## Аквариум {#aquarium}

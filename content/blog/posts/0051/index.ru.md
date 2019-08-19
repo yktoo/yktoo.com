@@ -3,6 +3,8 @@ type: post
 date: "2010-04-29T00:00:00Z"
 title: "Великий и могу... ужасный"
 tags: ["голландский язык", "забавное", "Нидерланды"]
+aliases:
+    - /ru/blog/post/51
 ---
 
 Узнал тут одно слово на голландском: {{< fl "randjongerenhangplekkenbeleidsambtenarensalarisbesprekingsafspraken" >}}.

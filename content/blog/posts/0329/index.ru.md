@@ -4,6 +4,8 @@ date: "2017-09-10T00:00:00Z"
 title: "Самый крупный гаджет: Toyota Prius PHV"
 tags: ["Plug-In Hybrid", "Toyota Prius", "авто", "гаджеты"]
 image: "https://3.bp.blogspot.com/-TM5UJH9RL4M/WThoZVX3b8I/AAAAAAAAqGk/ckLR_7A1HCIoEtTm25SVwK7GEvy08_3tgCKgB/s1600/20170527_131723.picasaweb.jpg"
+aliases:
+    - /ru/blog/post/329
 ---
 
 Настало время обновить свой самый увесистый гаджет. Уже лет девять я остаюсь приверженцем гибридов {{< wiki "Toyota_Prius" "ru" "Toyota Prius" >}}, начиная с [первой, лизинговой машины]({{< relref "0028" >}}). Потом была ещё одна — уже своя, которая давеча [чуть не охромела]({{< relref "0304" >}}). В марте этого года старушке стукнуло восемь лет и пора было менять её на что-то более современное.

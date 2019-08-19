@@ -6,6 +6,8 @@ tags: ["Lucas Bolsius", "Амерсфорт", "Нидерланды"]
 image: "https://2.bp.blogspot.com/-3MsZzhq6_1o/UN8vKhTmYrI/AAAAAAAAWGc/ZfXjjqG5mdQ/s1600/dsc05884.picasaweb.jpg"
 places:
     - place0019
+aliases:
+    - /ru/blog/post/173
 ---
 
 В ноябре минувшего года нас с Амерсфортом официально представили друг другу.

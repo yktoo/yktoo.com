@@ -6,6 +6,8 @@ tags: ["море", "Нидерланды", "пляж", "погода"]
 image: "https://3.bp.blogspot.com/-r69asGvQ-yE/T4223YkhpWI/AAAAAAAAPA0/CErzPPIisIM/s1600/p1000882.picasaweb.jpg"
 places:
     - place0154
+aliases:
+    - /ru/blog/post/25
 ---
 
 {{< imgfig "https://3.bp.blogspot.com/-r69asGvQ-yE/T4223YkhpWI/AAAAAAAAPA0/CErzPPIisIM/s1600/p1000882.picasaweb.jpg" >}}

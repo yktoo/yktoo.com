@@ -6,6 +6,8 @@ tags: ["личное", "Нидерланды", "свадьба"]
 image: "https://1.bp.blogspot.com/-wy6w96RgkKY/XSssvrVGv3I/AAAAAAAAwXM/dQaxNjr7C3QjjWyuGQBZcW2jZ-EGXFYcQCKgBGAs/s1600/a%2526d.picasaweb.jpg"
 places:
     - place0310
+aliases:
+    - /ru/blog/post/345
 ---
 
 Ровно два года назад, в этот же самый день 13 июля, я занёс мышь над очень понравившейся мне фотографией девушки и кликнул «лайк».

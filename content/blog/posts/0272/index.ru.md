@@ -6,6 +6,8 @@ tags: ["Carré", "Dream Theater", "progressive metal", "The Astonishing", "Ам�
 image: "https://4.bp.blogspot.com/--joylJaSOs8/Vs96qeUeASI/AAAAAAAAleU/3tOx2k0wt4E/s1600/dsc01729.picasaweb.jpg"
 places:
     - place0041
+aliases:
+    - /ru/blog/post/272
 ---
 
 «Театр грёз» в театре — каково! Но каламбуры в сторону.

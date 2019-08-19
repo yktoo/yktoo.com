@@ -12,6 +12,8 @@ places:
     - place0200
     - place0199
     - place0214
+aliases:
+    - /en/blog/post/213
 ---
 
 Ghent inhabitants are very proud of the fact that their city once (in 2004) [won](http://www.visitgent.be/en/node/8326) the City-People-Light Award and received three stars from the Michelin guide for its lighting. January next year there will be a regular Light Festival in Ghent (held once in three years). In the meantime I'll show you the night city as of January 2014.

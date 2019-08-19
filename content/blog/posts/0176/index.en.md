@@ -4,6 +4,8 @@ date: "2013-01-28T00:00:00Z"
 title: "Bye Beatrix!"
 tags: ["Beatrix", "Drakensteyn", "media", "Netherlands", "queen", "throne", "Willem-Alexander"]
 image: "https://3.bp.blogspot.com/-IT4UO1OgN_s/UQmTyqo5E7I/AAAAAAAAWmY/EaFuypwmxEs/s1600/Beatrix_der_Nederlanden.picasaweb.jpg"
+aliases:
+    - /en/blog/post/176
 ---
 
 Queen Beatrix has just announced she would abdicate from the Dutch throne in favour of her eldest son, 45 years old Willem-Alexander.

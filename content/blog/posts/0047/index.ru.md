@@ -6,6 +6,8 @@ tags: ["3D", "кино", "Нидерланды"]
 image: "https://1.bp.blogspot.com/-R42TFZCjvwM/T4tDT-7D5fI/AAAAAAAAOtE/l8gjtWkXzIY/s1600/avatar.jpg"
 places:
     - place0136
+aliases:
+    - /ru/blog/post/47
 ---
 
 «Аватар» — это очень круто.

@@ -4,6 +4,8 @@ date: "2015-07-20T00:00:00Z"
 title: "Trimming big"
 tags: ["Houten", "Netherlands", "technology"]
 image: "https://4.bp.blogspot.com/-xzCrWNMLE8Q/Vat7YULjCHI/AAAAAAAAjtc/dbLIBLFipIU/s1600/20150630_081438.picasaweb.jpg"
+aliases:
+    - /en/blog/post/254
 ---
 
 I've always wondered how those mile-long roadside hedges get trimmed. And recently witnessed the process, which, expectedly, makes use of technology:

@@ -7,6 +7,8 @@ image: "https://lh6.googleusercontent.com/-UUKrvtB_Ps8/TZt5REgo6UI/AAAAAAAAItg/J
 places:
     - place0123
     - place0077
+aliases:
+    - /en/blog/post/76
 ---
 
 Now that spring has come, we have daffodils flowering! Not so many and yet remarkable:

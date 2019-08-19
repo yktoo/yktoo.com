@@ -6,6 +6,8 @@ series: "Sound Switcher Indicator"
 tags: ["Sound Switcher Indicator", "Ubuntu"]
 image: "https://2.bp.blogspot.com/-BibUCaj-gGQ/XDs5PF-gjFI/AAAAAAAAue4/mIDfV0Llkf8llKjrvFcQm5I9cgQOF47AACKgBGAs/s1600/menu.png"
 software: sound-switcher-indicator
+aliases:
+    - /ru/blog/post/343
 ---
 
 Пришло время исполнять [обещанное]({{< relref "0342" >}}), так что представляю на ваш суд версию [Sound Switcher Indicator]({{< relref "/software/sound-switcher-indicator" >}}) **2.2.0**.

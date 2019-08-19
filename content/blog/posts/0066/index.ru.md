@@ -7,6 +7,8 @@ image: "https://4.bp.blogspot.com/-trRtTZPX99k/ThiZ_ZJlUpI/AAAAAAAAI7M/-jpqpykoC
 places:
     - place0087
     - place0003
+aliases:
+    - /ru/blog/post/66
 ---
 
 Туманы в Нидерландах — явление нередкое. В один из таких туманных дней я, вооружившись камерой, пошёл по фотографии:

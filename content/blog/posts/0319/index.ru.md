@@ -5,6 +5,8 @@ title: "Docker Indicator 0.1.0"
 tags: ["Docker", "Docker Indicator", "Python 3", "Ubuntu", "Unity", "Yakkety Yak", "Zesty Zapus", "индикатор"]
 image: "https://3.bp.blogspot.com/-o3UHJigGfeM/WPMpddaX-kI/AAAAAAAApwQ/ZQ2WLSmSFTYQqL8TQpCd5uL5v58sjHFfgCPcB/s1600/indicator-docker-icon.png"
 software: docker-indicator
+aliases:
+    - /ru/blog/post/319
 ---
 
 Если вы часто работаете с [Docker-контейнерами](https://www.docker.com/), то, наверное, заметили, что плодятся эти контейнеры как кролики по весне. Порой обнаруживаешь неиспользуемый контейнер, которые годами пылится и покрывается паутиной где-то глубоко в списке остановленных.

@@ -5,6 +5,8 @@ title: "Лечим скорость чтения Samsung SSD 840 EVO в Linux"
 tags: ["Samsung", "Samsung 840 EVO", "SSD", "Ubuntu", "yktools", "гаджеты", "железо"]
 image: "https://4.bp.blogspot.com/-Gis6J9NzD7c/WK3HNt5lxwI/AAAAAAAApUA/jkJuEgZRkKUEy8PJhDRfC58UA-xBrOw-ACPcB/s1600/samsung-840-evo-ssd.jpg"
 software: yktools
+aliases:
+    - /ru/blog/post/255
 ---
 
 Некоторое время назад я [рассказывал]({{< relref "0231" >}}) об установке SSD-накопителя серии Samsung 840 EVO вместо штатного в iMac, а также о [настройке Linux]({{< relref "0233" >}}) для эффективной работы с таким накопителем. Сразу же после замены можно наслаждаться исключительной отзывчивостью системы и мгновенным запуском программ. И всё это по цене, наконец-то ставшей относительно доступной.

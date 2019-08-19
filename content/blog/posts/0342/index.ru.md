@@ -4,6 +4,8 @@ date: "2018-12-31T00:00:00Z"
 title: "Две тысячи восемнадцатый — всё"
 tags: ["2018", "итоги"]
 image: "https://3.bp.blogspot.com/-0yOc98Dr8-k/XCkJayeJeVI/AAAAAAAAuUg/RvMfC0YJQ5EzlG8ZD-RYMHxlqj1hspiSQCKgBGAs/s1600/2019.png"
+aliases:
+    - /ru/blog/post/342
 ---
 
 {{< fl "Tjongejonge" >}}, этот год закончился столь же внезапно, как и [начался]({{< relref "0332" >}}), даже на блог времени не было. Этот пост — последний и десятый по счёту в 2018-м (виноват, обещаю исправиться).

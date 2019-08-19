@@ -7,6 +7,8 @@ tags: ["Algarve", "ocean", "Portugal", "promontory", "Sagres", "travel"]
 image: "https://3.bp.blogspot.com/-sJIIMRaRCyU/Ua4mS9Nh1_I/AAAAAAAAZCg/JqlpIGIhOZY/s1600/dsc09338.picasaweb.jpg"
 places:
     - place0004
+aliases:
+    - /en/blog/post/194
 ---
 
 Sagres is a small town in western Algarve. It is noteworthy mainly for the nearby Sagres Point ({{< fl "Ponta de Sagres" >}}) and its fortress.

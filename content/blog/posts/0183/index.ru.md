@@ -6,6 +6,8 @@ tags: ["Аркадий Шилклопер", "видео", "Даниил Крам
 image: "https://4.bp.blogspot.com/-Ip1MNgW1pOk/UZKntwLjlbI/AAAAAAAAXu8/AuZp8l-zXPw/s1600/kra-shi.picasaweb.jpg"
 places:
     - place0014
+aliases:
+    - /ru/blog/post/183
 ---
 
 [Выложил на YouTube][route:/media/video/event,id:12] одну из своих старых записей: концерт двух — не побоюсь этого слова — гениальных джазовых музыкантов, [Даниила Крамера](http://www.kramerdaniel.com/) (фортепиано) и [Аркадия Шилклопера](http://www.shilkloper.com/) (валторна, флюгельгорн, альпийский рог) в [Тюменской Филармонии](http://www.tgf.ru/) 10 февраля 2008 года.

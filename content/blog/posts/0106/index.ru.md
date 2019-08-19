@@ -3,6 +3,8 @@ type: post
 date: "2011-07-20T00:00:00Z"
 title: "Скрипт для смены обоев Gnome/Unity"
 tags: ["Gnome", "Linux", "Ubuntu", "Unity", "обои"]
+aliases:
+    - /ru/blog/post/106
 ---
 
 **Внимание:** этот скрипт не работает в GNOME 3 и Ubuntu 11.10; для этих систем нужно использовать [новую версию скрипта]({{< relref "0122" >}}).

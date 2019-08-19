@@ -13,6 +13,8 @@ places:
     - place0115
     - place0116
     - place0117
+aliases:
+    - /en/blog/post/85
 ---
 
 We proceed in the direction of St. Stephen's Cathedral. Restless Austrians demand freedom of religion (as though they lack for it):

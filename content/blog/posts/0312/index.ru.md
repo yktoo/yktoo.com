@@ -4,6 +4,8 @@ date: "2017-02-23T00:00:00Z"
 title: "Приманка для Tesla"
 tags: ["Tesla", "авто", "Гронинген", "Дренте", "Илон Маск", "Нидерланды", "новости", "Фрисландия"]
 image: "https://4.bp.blogspot.com/-YhfFGRapYn8/WK9FuDfe67I/AAAAAAAApV8/67RTz6mZQ_Yd51Ev-abkSYVbBjqlDScJQCPcB/s1600/top-dutch-tesla.picasaweb.jpg"
+aliases:
+    - /ru/blog/post/312
 ---
 
 Маховик популярности {{< wiki "Tesla_Motors" "ru" "Tesla" >}} всё раскручивается, несмотря на эпизодические [аварии]({{< relref "0288" >}}) и [финансовые неурядицы](http://www.vanityfair.com/news/2016/08/is-elon-musks-tesla-in-trouble). Вчера вот Илон Маск [объявил](https://www.bloomberg.com/news/articles/2017-02-22/tesla-says-model-3-on-track-as-quarterly-loss-beats-estimates) о том, что {{< fl "Model 3" >}} всё-таки начнут производить уже в этом году.

@@ -5,6 +5,8 @@ title: "The birth of Yktoo Solutions"
 series: "My entrepreneurship"
 tags: ["business", "entrepreneurship", "freelance", "Netherlands", "taxes", "work", "Yktoo Solutions"]
 image: "https://1.bp.blogspot.com/-XCYqqwYaPbs/WCo7vX_qTiI/AAAAAAAAoPA/hDBojNJO1Pk9pRHGq7L6hQCzTBd_bIaCACPcB/s1600/20161105_211814.picasaweb.jpg"
+aliases:
+    - /en/blog/post/311
 ---
 
 Following up on the ["Entities vs. persons"]({{< relref "0310" >}}) story, let's make a step from abstract theory to a bit more practical view on entrepreneurship.

@@ -9,6 +9,8 @@ places:
     - place0059
     - place0060
     - place0061
+aliases:
+    - /ru/blog/post/148
 ---
 
 ## Гран-Канария {#gran-canaria}

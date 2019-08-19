@@ -7,6 +7,8 @@ image: "https://3.bp.blogspot.com/-14jqPNJfBIY/VfmBQ1hN7LI/AAAAAAAAkd4/2Zg9C6TkW
 places:
     - place0228
     - place0229
+aliases:
+    - /ru/blog/post/262
 ---
 
 Каждую зиму простой голландец с надеждой смотрит на термометр, мечтая о том, чтобы наконец-то ударил мороз.

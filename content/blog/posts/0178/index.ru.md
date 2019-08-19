@@ -6,6 +6,8 @@ series: "Sound Switcher Indicator"
 tags: ["GitHub", "Launchpad", "Linux", "PulseAudio", "Python", "Sound Switcher Indicator", "Ubuntu", "Unity", "звук", "индикатор"]
 image: "https://3.bp.blogspot.com/-A68LFuAIxlg/UTMgzAqh53I/AAAAAAAAWrg/rlpYgjefo70/s1600/Screenshot.png"
 software: sound-switcher-indicator
+aliases:
+    - /ru/blog/post/178
 ---
 
 Я не выдержал и написал индикатор для переключения звуковых устройств (входа/выхода) в Ubuntu.

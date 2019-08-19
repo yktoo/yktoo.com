@@ -6,6 +6,8 @@ tags: ["Autumn", "Ben Mathot", "Charlotte Wessels", "Damian Wilson", "Daniel de 
 image: "https://3.bp.blogspot.com/-2VA5ItpKHD4/UN8wi-0DpPI/AAAAAAAAWPY/aGH25OmXyCA/s1600/dsc06117.picasaweb.jpg"
 places:
     - place0017
+aliases:
+    - /ru/blog/post/175
 ---
 
 *Понимаю, что всех достал уже с этим голландским роком, но куда деваться. Я тут так, коротенько…*

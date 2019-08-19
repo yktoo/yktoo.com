@@ -6,6 +6,8 @@ tags: ["De Boerderij", "music", "Neal Morse", "Netherlands", "progressive metal"
 image: "https://4.bp.blogspot.com/-ZWJqzKSGU4A/TetVS-AIn1I/AAAAAAAAItc/LyhZ52JDpAA/s1600/dsc03923.picasaweb.jpg"
 places:
     - place0079
+aliases:
+    - /en/blog/post/95
 ---
 
 {{< wiki "Neal_Morse" "en" "Neal Morse" >}}, one of the most famous progressive rock musicians, visited us in Holland. Yesterday, June 4, 2011, he performed in Zoetermeer, which is near the Hague, in the club named [Boerderij](http://www.cultuurpodiumboerderij.nl/) ("farmhouse").

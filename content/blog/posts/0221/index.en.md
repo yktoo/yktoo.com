@@ -8,6 +8,8 @@ image: "https://1.bp.blogspot.com/-DIvAaGopwfg/VAMbLP1sN9I/AAAAAAAAfOM/IXEu0uUYw
 places:
     - place0217
     - place0218
+aliases:
+    - /en/blog/post/221
 ---
 
 The summer is almost over, though I haven't seen much of it. It's been quite busy here, but in a positive sense.

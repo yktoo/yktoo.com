@@ -6,6 +6,8 @@ series: "Sound Switcher Indicator"
 tags: ["indicator", "Precise Pangolin", "PulseAudio", "Python", "Quantal Quetzal", "Raring Ringtail", "Saucy Salamander", "sound", "Sound Switcher Indicator", "Trusty Tahr", "Ubuntu", "Unity"]
 image: "https://1.bp.blogspot.com/-p_jKIQD-wJ4/UvZeMTHsmYI/AAAAAAAAb1g/DYm853qnCjw/s1600/indicator-sound-switcher.png"
 software: sound-switcher-indicator
+aliases:
+    - /en/blog/post/218
 ---
 
 After the [previous]({{< relref "0217" >}}) release of [Sound Switcher Indicator]({{< relref "/software/sound-switcher-indicator" >}}) an [article](http://www.webupd8.org/2014/02/sound-switcher-ubuntu-indicator.html) about it was posted on Web Upd8. I immediately started getting numerous bug reports, feature requests, questions and comments.

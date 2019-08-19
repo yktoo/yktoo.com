@@ -6,6 +6,8 @@ tags: ["Amsterdam", "Carré", "Dream Theater", "music", "Netherlands", "progress
 image: "https://4.bp.blogspot.com/--joylJaSOs8/Vs96qeUeASI/AAAAAAAAleU/3tOx2k0wt4E/s1600/dsc01729.picasaweb.jpg"
 places:
     - place0041
+aliases:
+    - /en/blog/post/272
 ---
 
 The band **Dream Theater** is absolutely legendary. They are considered the founders of the {{< wiki "Progressive_metal" "en" "progressive metal" >}} genre, and each of them alone is equally legendary. If you doubt that, just watch their [Instrumedley video](https://www.youtube.com/watch?v=rGN7WchdYa4); not many musicians in the world are capable of playing something like that.

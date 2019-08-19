@@ -4,6 +4,8 @@ date: "2011-09-16T00:00:00Z"
 title: "For Dummies"
 tags: ["banter", "funny"]
 image: "https://4.bp.blogspot.com/-V0pnFBf1vzg/TnOw52MkR9I/AAAAAAAAJrg/ZalryZOSI9I/s1600/dummies+-+Being+a+dummy.picasaweb.jpg"
+aliases:
+    - /en/blog/post/115
 ---
 
 Each time when I saw books from the "For Dummies" series, I wanted to come up with a broader set of topics for John Wiley & Sons.

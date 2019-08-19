@@ -6,6 +6,8 @@ tags: ["Nieuwjaarsduik", "Гаага", "море", "Нидерланды", "пл
 image: "https://4.bp.blogspot.com/--BvFfK-9VOA/TwcHxOhDDII/AAAAAAAALMc/qNaRRXKKf6A/s1600/dsc08332.picasaweb.jpg"
 places:
     - place0020
+aliases:
+    - /ru/blog/post/138
 ---
 
 **Поздравляю всех с наступившим две тысячи двенадцатым!**

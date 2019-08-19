@@ -4,6 +4,8 @@ date: "2015-01-24T00:00:00Z"
 title: "Книга: «Марсианин», Э. Уир"
 tags: ["Andy Weir", "The Martian", "книги", "фантастика"]
 image: "https://1.bp.blogspot.com/-SZSg3tj1IWs/VMN-PONnroI/AAAAAAAAgxc/0hKQQu6lvRg/s1600/andy-weir-the-martian.picasaweb.jpg"
+aliases:
+    - /ru/blog/post/237
 ---
 
 Прочитал роман американца {{< wiki "Уир,_Энди" "ru" "Энди Уира" >}} ({{< wiki "Andy_Weir_(writer)" "en" "Andy Weir" >}}) под названием {{< wiki "Марсианин_(роман)" "ru" "«Марсианин»" >}} ({{< wiki "The_Martian_(Weir_novel)" "en" "The Martian" >}}). До сих пор нахожусь под впечатлением.

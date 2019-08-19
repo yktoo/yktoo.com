@@ -6,6 +6,8 @@ tags: ["Bryan Beller", "De Boerderij", "fusion", "Guthrie Govan", "jazz", "Marco
 image: "https://2.bp.blogspot.com/-gqODy41rxV0/Vn7LgKAJaBI/AAAAAAAAk8M/eU2egTbUn-Q/s1600/20151209_222003.picasaweb.jpg"
 places:
     - place0079
+aliases:
+    - /en/blog/post/267
 ---
 
 My personal concert season open by the [Nightwish fellas]({{< relref "0264" >}}) is at its climax.

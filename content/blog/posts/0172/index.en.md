@@ -4,6 +4,8 @@ date: "2013-01-11T00:00:00Z"
 title: "How to make a ham holder"
 tags: ["DIY", "ham holder", "IKEA", "jamon", "jamonera"]
 image: "https://3.bp.blogspot.com/-sXZ0MwSAUzU/UNoCy8DnlEI/AAAAAAAAWDo/IMsnb6DL1XA/s1600/dsc05945.picasaweb.jpg"
+aliases:
+    - /en/blog/post/172
 ---
 
 *This is a how-to for making a jamón holder (a.k.a. ham {{< fl "stand" >}} or {{< fl "jamonera" >}}) from IKEA household products.*

@@ -4,6 +4,8 @@ date: "2015-09-10T00:00:00Z"
 title: "Из жизни правил"
 tags: ["бюрократия", "Нидерланды", "размышления", "Россия"]
 image: "https://4.bp.blogspot.com/-tl8WbwNhgeI/Vc5eVvu03MI/AAAAAAAAkFQ/QjAQHcFtOeo/s1600/civil_servant.picasaweb.jpg"
+aliases:
+    - /ru/blog/post/261
 ---
 
 > на родину с чужбины прибыв<br />

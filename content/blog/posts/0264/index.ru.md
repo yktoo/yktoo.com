@@ -6,6 +6,8 @@ tags: ["Amorphis", "Arch Enemy", "Floor Jansen", "Heineken Music Hall", "Nightwi
 image: "https://3.bp.blogspot.com/-uGHxhkww5bI/VlMnHxE0jmI/AAAAAAAAkwM/sJHdQrBDJhU/s1600/dsc01320.picasaweb.jpg"
 places:
     - place0230
+aliases:
+    - /ru/blog/post/264
 ---
 
 Пришёл ноябрь, а это значит — пора концертов настаёт!

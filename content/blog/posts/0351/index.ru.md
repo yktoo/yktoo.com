@@ -6,6 +6,8 @@ tags:
     - анонс
     - сайт
 image: "https://4.bp.blogspot.com/-bDT2EUCLWxY/Th8_MnB40lI/AAAAAAAAJHQ/F14fig3v1NM/s1600/i-like-to-move-it.jpg"
+aliases:
+    - /ru/blog/post/351
 ---
 
 Обновлённая версия **yktoo.com** будет запущена в **понедельник 19 августа 2019** г. Хотя внешне изменений довольно мало, изнутри эта новая версия устроена полностью иначе.

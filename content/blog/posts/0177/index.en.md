@@ -6,6 +6,8 @@ tags: ["crime", "frustrating", "Netherlands", "Utrecht"]
 image: "https://1.bp.blogspot.com/-reBIHvtHNVM/UQpoeOHKMFI/AAAAAAAAWm4/nLmjPgqxCOg/s1600/4526206-Charlie_Chius_Utrecht.jpg"
 places:
     - place0016
+aliases:
+    - /en/blog/post/177
 ---
 
 ## Prologue {#prologue}

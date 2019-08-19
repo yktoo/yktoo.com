@@ -6,6 +6,8 @@ tags: ["Autumn", "Ben Mathot", "Charlotte Wessels", "Damian Wilson", "Daniel de 
 image: "https://3.bp.blogspot.com/-2VA5ItpKHD4/UN8wi-0DpPI/AAAAAAAAWPY/aGH25OmXyCA/s1600/dsc06117.picasaweb.jpg"
 places:
     - place0017
+aliases:
+    - /en/blog/post/175
 ---
 
 *I realize everyone is alreay sick of my gig reports, but can't really help it. Let's just keep it short…*

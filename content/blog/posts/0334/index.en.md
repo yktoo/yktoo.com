@@ -4,6 +4,8 @@ date: "2018-04-03T00:00:00Z"
 title: "Anniversary: ten years in the Netherlands"
 tags: ["anniversary", "Netherlands", "reflections", "upshot"]
 image: "https://2.bp.blogspot.com/-DCIYWdV7IJE/WsOU2fStpxI/AAAAAAAAsM4/Y59Y1UQhf1gu6dGaNgLTB5jaY41ZOvV2gCKgBGAs/s1600/Happiness%2Bis%2Ba%2Bjourney%252C%2Bnot%2Ba%2Bdestination.jpg"
+aliases:
+    - /en/blog/post/334
 ---
 
 It's been exactly ten years since I've [moved]({{< relref "0001" >}}) to the Netherlands. And it's been an eventful time!

@@ -4,6 +4,8 @@ date: "2016-01-17T00:00:00Z"
 title: "Первый снег!"
 tags: ["зима", "Нидерланды", "погода", "природа", "снег"]
 image: "https://3.bp.blogspot.com/-WiejJZQ2SBg/VpvUFVSywXI/AAAAAAAAlHI/a4e4gUtO4Go/s1600/20160117_094217.picasaweb.jpg"
+aliases:
+    - /ru/blog/post/268
 ---
 
 Сегодня, 17 января 2016 года, природа выкинула неожиданный трюк. Ночью выпал первый за эту зиму снег — мы уже, как [в песне поётся]({{< relref "/radiolaria/tracks/032">}}), его не ожидали.

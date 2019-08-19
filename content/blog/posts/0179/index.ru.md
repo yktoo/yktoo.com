@@ -6,6 +6,8 @@ tags: ["Амстердам", "забавное", "Нидерланды"]
 image: "https://1.bp.blogspot.com/-wNA6Q8tcTAs/UUsPA52GzMI/AAAAAAAAWvk/DKA0_5YHrtg/s1600/20130320_132904.picasaweb.jpg"
 places:
     - place0015
+aliases:
+    - /ru/blog/post/179
 ---
 
 Весна у нас что-то задерживается. Видимо, поэтому оголодавшая, а может, стосковавшаяся по общению цапля гуляет по торговому центру {{< fl "Amsterdam Bijlmer Arena" >}}.

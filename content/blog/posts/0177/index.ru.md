@@ -6,6 +6,8 @@ tags: ["неприятное", "Нидерланды", "преступность
 image: "https://1.bp.blogspot.com/-reBIHvtHNVM/UQpoeOHKMFI/AAAAAAAAWm4/nLmjPgqxCOg/s1600/4526206-Charlie_Chius_Utrecht.jpg"
 places:
     - place0016
+aliases:
+    - /ru/blog/post/177
 ---
 
 ## Пролог {#prologue}

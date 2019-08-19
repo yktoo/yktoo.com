@@ -4,6 +4,8 @@ date: "2011-03-17T00:00:00Z"
 title: "Я пришёл к тебе с «Приорой»"
 tags: ["авто", "забавное", "Нидерланды"]
 image: "https://3.bp.blogspot.com/-u36I53EEwFc/TZt8FQXZOuI/AAAAAAAAIN8/KVAgKBPN7ao/s1600/DSC00997.picasaweb.jpg"
+aliases:
+    - /ru/blog/post/75
 ---
 
 Чего только не увидишь порой. Например, вот:

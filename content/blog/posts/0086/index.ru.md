@@ -7,6 +7,8 @@ tags: ["Австрия", "Вена", "путешествия"]
 image: "https://2.bp.blogspot.com/-d_7XkPrTwtE/TaauF-87x1I/AAAAAAAAItc/uory4sWbVyc/s1600/dsc01598.picasaweb.jpg"
 places:
     - place0110
+aliases:
+    - /ru/blog/post/86
 ---
 
 ## Дворец Шёнбрунн {#schonbrunn-palace}

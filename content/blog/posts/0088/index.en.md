@@ -5,6 +5,8 @@ title: "Part 6. Budapest"
 series: "Vienna and Budapest"
 tags: ["Budapest", "Hungary", "travel"]
 image: "https://2.bp.blogspot.com/-TT8ijGC6JlM/Tan1xe9HsYI/AAAAAAAAItc/gL4QKmtreoI/s1600/dsc01819.picasaweb.jpg"
+aliases:
+    - /en/blog/post/88
 ---
 
 {{< imgfig "https://2.bp.blogspot.com/-TT8ijGC6JlM/Tan1xe9HsYI/AAAAAAAAItc/gL4QKmtreoI/s1600/dsc01819.picasaweb.jpg" >}}

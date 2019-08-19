@@ -4,6 +4,8 @@ date: "2014-11-30T00:00:00Z"
 title: "Replacing HDD with SSD in iMac 2010"
 tags: ["Apple", "DIY", "gadgets", "geek porn", "hardware", "iMac", "Samsung", "Samsung 840 EVO", "SSD", "Trusty Tahr", "Ubuntu"]
 image: "https://3.bp.blogspot.com/-xltYgdRdnE8/VHtgOV2coLI/AAAAAAAAgP8/ZtsO1--34Jk/s1600/Samsung-840-EVO-SSD-1TB.picasaweb.jpg"
+aliases:
+    - /en/blog/post/231
 ---
 
 It's been exactly four delightful years when the HDD in my [iMac 27"]({{< relref "0120" >}}) informed me it couldn't take it any longer. "Disk I/O error", it said.

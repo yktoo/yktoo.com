@@ -6,6 +6,8 @@ series: "Sound Switcher Indicator"
 tags: ["Gnome Control Center", "indicator", "PulseAudio", "Python", "Python 3", "sound", "Sound Switcher Indicator", "Ubuntu", "Unity", "Utopic Unicorn"]
 image: "https://3.bp.blogspot.com/-atoq96tAwHY/V-f7EJ50TyI/AAAAAAAAnjI/w77tiMI92RYIMql_kFmmLbE7Twy_WtDQwCPcB/s1600/ssi-2.0.1.png"
 software: sound-switcher-indicator
+aliases:
+    - /en/blog/post/290
 ---
 
 It's been more than two years since the last release of the [Sound Switcher Indicator]({{< relref "/software/sound-switcher-indicator" >}}) (1.2.2). During this period I've been bombarded with [requests](https://github.com/yktoo/indicator-sound-switcher/issues/3) to allow the indicator to switch device profiles, because most sound cards cannot be otherwise switched to their digital ports, like S/PDIF and HDMI.

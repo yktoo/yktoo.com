@@ -4,6 +4,8 @@ date: "2016-12-31T00:00:00Z"
 title: "Две тысячи шестнадцатый — всё"
 tags: ["2016", "Yktoo Solutions", "веб", "итоги", "сайт"]
 image: "https://3.bp.blogspot.com/-j13YG-30uUo/WGJ6mibiEgI/AAAAAAAAoyk/ZqH9Gi4_Q8c-wVOBGrnz20vIayOMa5AtQCPcB/s1600/2017.png"
+aliases:
+    - /ru/blog/post/302
 ---
 
 Ну, вот и подошёл к концу довольно неспокойный две тысячи шестнадцатый. Год, в котором в мире случилось столько всего нехорошего. Год, когда [Sun Caged]({{< relref "0283" >}}) и {{< fl "Stream of Passion" >}} прекратили существование. Так и хочется сказать — хорошо, что он всё-таки кончается!

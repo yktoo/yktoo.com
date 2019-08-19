@@ -7,6 +7,8 @@ image: "https://4.bp.blogspot.com/-SKjoo_QXsho/UjBocfrz-iI/AAAAAAAAaZU/SSXcuppuJ
 places:
     - place0001
     - place0002
+aliases:
+    - /en/blog/post/202
 ---
 
 It's been a while since I wrote about the masters of drive and female vocals, one of my favourites, Stream of Passion. They're still there and have even recently toured in Moscow and Saint-Petersburg, which they posted about on their [Facebook page](http://www.facebook.com/StreamOfPassion).

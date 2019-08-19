@@ -6,6 +6,8 @@ tags:
     - announcement
     - website
 image: "https://4.bp.blogspot.com/-bDT2EUCLWxY/Th8_MnB40lI/AAAAAAAAJHQ/F14fig3v1NM/s1600/i-like-to-move-it.jpg"
+aliases:
+    - /en/blog/post/351
 ---
 
 A new version of **yktoo.com** will go live on **Monday August 19, 2019**. Not so much has changed in the looks of the site, but inside it's totally different.

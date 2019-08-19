@@ -5,6 +5,8 @@ title: "Поиски и происки"
 series: "Доля предпринимательская"
 tags: ["Observ", "Yktoo Solutions", "налоги", "Нидерланды", "предпринимательство", "работа", "фриланс"]
 image: "https://4.bp.blogspot.com/-cjUtE071tFg/WN0YRhFH42I/AAAAAAAApr4/WyB_8ceeS0M-JGzjCw6TmK8ZzriLe2wmgCPcB/s1600/observ.nu.picasaweb.png"
+aliases:
+    - /ru/blog/post/318
 ---
 
 Продолжая свой [цикл постов]({{< relref "/series/доля-предпринимательская" >}}) о нелёгкой, но радостной предпринимательской судьбе, вкратце расскажу об уроках, извлечённых из личного опыта трудоустройства.

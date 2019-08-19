@@ -3,6 +3,8 @@ type: post
 date: "2015-08-06T00:00:00Z"
 title: "Getting a Russian visa"
 tags: ["bureaucracy", "Netherlands", "Russia", "visa"]
+aliases:
+    - /en/blog/post/258
 ---
 
 In my [last post]({{< relref "0257" >}}) I offered you some insight into the Hell's Kitchen, usually labelled with a sign {{< fl "Почта России" >}} (*Russian Post*).

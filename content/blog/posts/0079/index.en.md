@@ -7,6 +7,8 @@ image: "https://1.bp.blogspot.com/-p0C4-WXuwyc/TZhMdmel9fI/AAAAAAAAItg/OtZLR7eZJ
 places:
     - place0020
     - place0122
+aliases:
+    - /en/blog/post/79
 ---
 
 My first visit to the see in this year is as early as the spring itself.

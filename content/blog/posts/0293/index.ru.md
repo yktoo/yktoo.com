@@ -4,6 +4,8 @@ date: "2016-10-29T00:00:00Z"
 title: "Ударно-языковые трудности"
 tags: ["айкидо", "английский язык", "голландский язык", "забавное", "языки"]
 image: "https://1.bp.blogspot.com/-TPMpyZHV9GI/WK3B2mg1p9I/AAAAAAAApTU/hEgRX4X5t0gWbeyvbDmVgK7IdWaa1sGlACPcB/s1600/aikido.png"
+aliases:
+    - /ru/blog/post/293
 ---
 
 Подумалось тут по следам брюссельского [семинара по айкидо]({{< relref "0292" >}}), что даже само это слово — «айкидо» — везде произносят по-разному.

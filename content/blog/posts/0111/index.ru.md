@@ -6,6 +6,8 @@ tags: ["Desperados", "интервью", "музыка", "Нидерланды"]
 image: "https://2.bp.blogspot.com/-Rcclvqp1UlQ/TlkvTe7qw0I/AAAAAAAAJjo/opF66cdStTg/s1600/daniel-de-jong.jpg"
 places:
     - place0084
+aliases:
+    - /ru/blog/post/111
 ---
 
 Сегодня я удивил сам себя. Началось всё с того, что мои материалы про [Dias Latinos]({{< relref "0109" >}}), в частности, видео, неожиданно получили высокую оценку упомянутой мной в том посте группы [Desperados](http://www.desperados-music.com/). Фронтмен группы Daniël de Jong попросил у меня оригиналы видеозаписей для использования в рекламных материалах. Мы встретились, разговорились, и… внезапно у меня родилась идея взять у него интервью.

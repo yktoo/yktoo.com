@@ -6,6 +6,8 @@ tags: ["git", "Yktoo Solutions", "yktools", "разработка", "софт"]
 image: git.png
 software: yktools
 fulltext_url: "https://yktoo.solutions/blog/2019/07/19-managing-git-projects-on-a-mass-scale/"
+aliases:
+    - /ru/blog/post/347
 ---
 
 Любой, кто какое-то время занимается разработкой софта, наверняка знаком с ситуацией, когда многочисленные Git-проекты, используемые или разрабатываемые вами, начинают выходить из-под контроля. Всё больше времени тратится на их сортировку, обновление, коммиты, операции pull-push и т.д.

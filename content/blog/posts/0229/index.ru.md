@@ -6,6 +6,8 @@ tags: ["Heidestein", "грибы", "лес", "Нидерланды", "осень
 image: "https://3.bp.blogspot.com/-FT_-_funYBI/VGD0HR2HkvI/AAAAAAAAf98/_DvNt9habOo/s1600/dsc06921.picasaweb.jpg"
 places:
     - place0224
+aliases:
+    - /ru/blog/post/229
 ---
 
 Пока курс евро *стабильно* бьёт рекорды в Старороссии, у нас в Староголландии — [очередная]({{< relref "0118" >}}) феноменально тёплая осень. То ли санкции, то ли глобальное потепление сказывается.

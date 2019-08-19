@@ -6,6 +6,8 @@ tags: ["Autumn", "Kingfisher Sky", "P60", "progressive metal", "Sin7sinS", "Stre
 image: "https://1.bp.blogspot.com/-1lq4CAo5qR8/UK9qJepT1GI/AAAAAAAAWAY/ppbt460_VoQ/s1600/sony-nex-ecm-sst1.picasaweb.jpg"
 places:
     - place0001
+aliases:
+    - /ru/blog/post/170
 ---
 
 17 ноября в амстелвейнском клубе [P60](http://www.p60.nl/) (в котором я уже был дважды: [1]({{< relref "0098" >}}), [2]({{< relref "0101" >}})) состоялся благотворительный концерт под названием {{< fl "Metal for Mara" >}}.

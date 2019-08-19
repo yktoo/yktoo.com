@@ -7,6 +7,8 @@ image: "https://1.bp.blogspot.com/-p0C4-WXuwyc/TZhMdmel9fI/AAAAAAAAItg/OtZLR7eZJ
 places:
     - place0020
     - place0122
+aliases:
+    - /ru/blog/post/79
 ---
 
 Да, [опять]({{< relref "0025" >}}) (в этом году совсем рано)!

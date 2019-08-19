@@ -6,6 +6,8 @@ tags: ["Harlingen", "haven", "Netherlands"]
 image: "https://2.bp.blogspot.com/-pLASqy3Of8Q/UhoJI6y68HI/AAAAAAAAZbo/TiwV1PaiZ5w/s1600/dsc09727.picasaweb.jpg"
 places:
     - place0186
+aliases:
+    - /en/blog/post/207
 ---
 
 During our [trip to Leeuwarden]({{< relref "0205" >}}) we have also visited, among other places, the port town of {{< wiki "Harlingen,_Friesland" "en" "Harlingen" >}}.

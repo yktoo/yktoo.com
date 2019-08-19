@@ -3,6 +3,8 @@ type: post
 date: "2014-11-09T00:00:00Z"
 title: "The Blog Has Moved"
 tags: ["blog", "Blogger", "web"]
+aliases:
+    - /en/blog/post/228
 ---
 
 I've finally managed to move my blog from Blogger onto a self-developed platform.

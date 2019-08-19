@@ -6,6 +6,8 @@ tags: ["beautiful", "Belgium", "Ghent", "Ghent Light Festival", "light", "night"
 image: "https://1.bp.blogspot.com/-YxmmwHkb-qo/VM6ccpInzhI/AAAAAAAAg9Y/Pxihf6qwvMA/s1600/dsc07961.picasaweb.jpg"
 places:
     - place0227
+aliases:
+    - /en/blog/post/238
 ---
 
 This year I've visited [Ghent Light Festival](http://www.lichtfestivalgent.be/), just as I [promised]({{< relref "0213" >}}) a year ago.

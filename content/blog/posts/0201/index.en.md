@@ -6,6 +6,8 @@ series: "Sound Switcher Indicator"
 tags: ["Gtk3", "indicator", "PulseAudio", "Python", "Saucy Salamander", "sound", "Sound Switcher Indicator", "Ubuntu", "Ubuntu 13.10", "Unity"]
 image: "https://3.bp.blogspot.com/-mMvzn9ftuEM/UhoP0iFj0QI/AAAAAAAAaD0/nH3vnaPzgcM/s1600/dsc00889.picasaweb.jpg"
 software: sound-switcher-indicator
+aliases:
+    - /en/blog/post/201
 ---
 
 The application indicator for Ubuntu called [Sound Switcher Indicator]({{< relref "/software/sound-switcher-indicator" >}}) (which I [blogged]({{< relref "0178" >}}) about) has been updated to version **1.1.1**. There's no new functionality in this release, its main purpose is to make the indicator work in Ubuntu 13.10 (Saucy Salamander). It was broken because of a [bug](https://bugs.launchpad.net/glipper/+bug/1203888) in `libdbusmenu`.

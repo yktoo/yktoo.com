@@ -6,6 +6,8 @@ tags: ["Amsterdam-Rhine Canal", "beautiful", "Houten", "Netherlands", "water", "
 image: "https://1.bp.blogspot.com/-cQ3ZUsJt_-U/WGk41bsepjI/AAAAAAAAoz4/C7SYpRmvi0s1a31AFFcBnoWPyFLrl76gACPcB/s1600/20161230_122421.picasaweb.jpg"
 places:
     - place0271
+aliases:
+    - /en/blog/post/303
 ---
 
 The New Year's Eve has seen a light frost of -2 °C in the total absence of snow. The green grass got beautifully powdered with rime.

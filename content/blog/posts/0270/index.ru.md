@@ -7,6 +7,8 @@ image: "https://3.bp.blogspot.com/-ypJHKvDbGGA/Vrd2qvWMm6I/AAAAAAAAlVo/7gneIBHSz
 places:
     - place0235
     - place0236
+aliases:
+    - /ru/blog/post/270
 ---
 
 Посчастливилось в этом сезоне выбраться на {{< fl "wintersport" >}} (голландский термин, обозначающий горы, снег, тяжёлые физические нагрузки и, в более далёкой перспективе, удовольствие).

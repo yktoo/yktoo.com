@@ -6,6 +6,8 @@ tags:
     - aankondiging
     - website
 image: "https://4.bp.blogspot.com/-bDT2EUCLWxY/Th8_MnB40lI/AAAAAAAAJHQ/F14fig3v1NM/s1600/i-like-to-move-it.jpg"
+aliases:
+    - /nl/blog/post/351
 ---
 
 **Maandag 19 augustus 2019** komt er een vernieuwde versie van **yktoo.com**. Al ziet het er niet zo anders uit, is het toch helemaal nieuw van binnen.

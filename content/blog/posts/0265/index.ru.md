@@ -4,6 +4,8 @@ date: "2015-12-02T00:00:00Z"
 title: "Обзор Nest Protect 2"
 tags: ["Google", "Nest", "Nest Protect 2", "гаджеты", "железо", "обзор"]
 image: "https://4.bp.blogspot.com/-9MqWjRo4DI8/VlrPOWc_hXI/AAAAAAAAk2c/qI6pz9SyOT0/s1600/dsc01093.picasaweb.jpg"
+aliases:
+    - /ru/blog/post/265
 ---
 
 ## Пролог

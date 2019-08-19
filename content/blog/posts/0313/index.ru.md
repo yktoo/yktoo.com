@@ -4,6 +4,8 @@ date: "2017-03-08T00:00:00Z"
 title: "The Way You Make Me Feel: Виртуозный лупинг"
 tags: ["видео", "музыка", "пустяки"]
 image: "https://img.youtube.com/vi/jMNIvLiCnw8/maxresdefault.jpg"
+aliases:
+    - /ru/blog/post/313
 ---
 
 На тему музыки и электроники одновременно: давно хотел поделиться вот этим видео. Это живое исполнение песни {{< fl "The Way You Make Me Feel" >}} Майкла нашего Джексона от девушки по имени [Kawehi](https://www.facebook.com/iamkawehi) — без инструментов, с использованием лишь голоса и *лупера* (устройства для зацикливания звуковых фрагментов):

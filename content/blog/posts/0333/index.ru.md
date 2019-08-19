@@ -4,6 +4,8 @@ date: "2018-01-03T00:00:00Z"
 title: "Автоповтор клавиш в Ubuntu 17.10 Artful"
 tags: ["Artful Aardvark", "Gnome", "Gnome Control Center", "Ubuntu", "странное"]
 image: "https://3.bp.blogspot.com/-w8WkcsTSJdg/Wkyk0No8B4I/AAAAAAAArSw/9CvgDb05oWkWXzFoejugOZ7Ohjr6V4t6QCKgBGAs/s1600/gnome-universal-access.png"
+aliases:
+    - /ru/blog/post/333
 ---
 
 Угораздило меня давеча проапгрейдить свой айМак на Убунту 17.10 {{< fl "Artful Aardvark" >}}. Ту самую, в которой {{< fl "X Window" >}} заменили на {{< fl "Wayland" >}}, а {{< fl "Unity" >}} на {{< fl "Gnome Shell" >}}.

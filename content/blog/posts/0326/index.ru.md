@@ -4,6 +4,8 @@ date: "2017-06-03T00:00:00Z"
 title: "Обзор наушников Xiaomi In-Ear Headphones Pro HD"
 tags: ["In-Ear Headphones Pro HD", "Mi", "Xiaomi", "анбоксинг", "гаджеты", "железо", "звук", "наушники", "обзор"]
 image: "https://3.bp.blogspot.com/-aKpXFZ3-oIw/WSajHsRGiBI/AAAAAAAAp_I/4NJnW6NuYIgKl85gw0584Iok9YjhpLS4wCKgB/s1600/mi-headphone.picasaweb.jpg"
+aliases:
+    - /ru/blog/post/326
 ---
 
 Нечасто пишу обзоры, но наш сегодняшний герой этого заслужил. Знакомьтесь: наушники-вкладыши [Mi In-Ear Headphones Pro HD](http://www.mi.com/en/headphonesprohd/) известного китайского производителя {{< fl "Xiaomi" >}}.

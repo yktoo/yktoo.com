@@ -6,6 +6,8 @@ tags: ["Desperados", "interview", "music", "Netherlands"]
 image: "https://2.bp.blogspot.com/-Rcclvqp1UlQ/TlkvTe7qw0I/AAAAAAAAJjo/opF66cdStTg/s1600/daniel-de-jong.jpg"
 places:
     - place0084
+aliases:
+    - /en/blog/post/111
 ---
 
 Tonight I surprised myself. It all began when my materials about [Dias Latinos]({{< relref "0109" >}}), the footage in particular, were all of a sudden highly evaluated by the [Desperados](http://www.desperados-music.com/) band, mentioned in the above post. The frontman Daniël de Jong asked me if I could give him the original footage to use it for their promo package. We've met, started chatting and… then I decided I could make an interview out of it.

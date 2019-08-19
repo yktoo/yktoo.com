@@ -6,6 +6,8 @@ tags: ["castle", "De Haar", "De Halve van de Haar", "half marathon", "Netherland
 image: "https://3.bp.blogspot.com/-PbeqYXL7STA/WPTsB8ySmRI/AAAAAAAApxE/HTDNCie-4w4e-mtovTqYB-mqOn_niBs9ACPcB/s1600/dsc04851.picasaweb.jpg"
 places:
     - place0165
+aliases:
+    - /en/blog/post/320
 ---
 
 Last Easter Monday I've completed my third *castlerun* [De Halve van De Haar](http://www.dehalvevandehaar.nl/), a half marathon (**21.1 km**) held in the park of the {{< fl "De Haar" >}} castle.

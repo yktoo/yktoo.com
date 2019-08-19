@@ -6,6 +6,8 @@ tags: ["Баарн", "грибы", "лес", "Нидерланды", "осень
 image: "https://3.bp.blogspot.com/-P2PcmAsfPmY/Uphfmo2jE8I/AAAAAAAAauM/IaBuuCISyS8/s1600/dsc01507.picasaweb.jpg"
 places:
     - place0178
+aliases:
+    - /ru/blog/post/203
 ---
 
 Не знаю, как у вас, а у нас опять осень. Злые языки понаехавших утверждают, что в Голландии вообще существует только этот один сезон, но это неправда.

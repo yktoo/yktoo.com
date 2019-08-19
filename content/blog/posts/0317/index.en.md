@@ -6,6 +6,8 @@ tags: ["David Maxim Micic", "Disperse", "music", "Patronaat", "Plini", "progress
 image: "https://3.bp.blogspot.com/-4ql-Zp3-APE/WNgDhZQK7-I/AAAAAAAApp8/W-4pPcq2MEU9OeNdFGRXA-JLe8_iTxsEgCPcB/s1600/dsc04094.picasaweb.jpg"
 places:
     - place0243
+aliases:
+    - /en/blog/post/317
 ---
 
 It was the second time that the surprisingly talented young Australian guitarist {{< wiki "Plini" "en" "Plini" >}} has visited us here. In the show last year, which I didn't get to post about, he was supporting the djent stars {{< wiki "Animals_as_Leaders" "en" "Animals as Leaders" >}}.

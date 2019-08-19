@@ -6,6 +6,8 @@ tags: ["De Boerderij", "progressive metal", "progressive rock", "музыка", 
 image: "https://4.bp.blogspot.com/-ZWJqzKSGU4A/TetVS-AIn1I/AAAAAAAAItc/LyhZ52JDpAA/s1600/dsc03923.picasaweb.jpg"
 places:
     - place0079
+aliases:
+    - /ru/blog/post/95
 ---
 
 Старина Нил Морз ({{< wiki "Neal_Morse" "en" "Neal Morse" >}}, один из самых известных музыкантов, играющих progressive rock) нагрянул к нам в Голландию. Вчера, 04.06.2011 он выступал в Зутермеере ({{< fl "Zoetermeer" >}}), что рядом с Гаагой, в клубе с характерным названием Бурдерай ([Boerderij](http://www.cultuurpodiumboerderij.nl/), «крестьянское хозяйство»).

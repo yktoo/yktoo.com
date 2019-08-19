@@ -6,6 +6,8 @@ tags: ["Arena", "De Boerderij", "progressive metal", "progressive rock", "Зут
 image: "https://2.bp.blogspot.com/-EDtZpF5ICsw/TsknkqctxOI/AAAAAAAAKc8/4PkkFbEOG_s/s1600/dsc07360.picasaweb.jpg"
 places:
     - place0079
+aliases:
+    - /ru/blog/post/127
 ---
 
 Про Anathema я уже [рассказывал]({{< relref "0101" >}}), так что продолжаем наше знакомство с прогрессив-рок-группами на букву **А**. И не просто с группами, а с настоящими легендами — ибо герой нашего сегодняшнего рассказа, британская неопрог-команда **Arena** действительно широко известна в соответствующих узких кругах. Группа представляла свой новый альбом, {{< fl "The Seventh Degree of Separation" >}}, который выходит 28 ноября 2011 г.

@@ -7,6 +7,8 @@ tags: ["Албуфейра", "Алгарви", "Португалия", "путе
 image: "https://4.bp.blogspot.com/-qxaLu0z4zBw/Ua4fT3IbViI/AAAAAAAAYd4/-nHiDXmm3fI/s1600/dsc08876.picasaweb.jpg"
 places:
     - place0006
+aliases:
+    - /ru/blog/post/192
 ---
 
 Албуфейра — это крайне туристическое место. Ещё бы, при наличии собственного океана и трёх сотен солнечных дней в году.

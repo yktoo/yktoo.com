@@ -3,6 +3,8 @@ type: post
 date: "2011-06-22T00:00:00Z"
 title: "Adidas"
 tags: ["забавное", "Нидерланды", "фольклор"]
+aliases:
+    - /ru/blog/post/97
 ---
 
 Мне рассказали о голландской расшифровке слова Adidas: {{< fl "Alle Domme Idioten Doen Aan Sport" >}}, что переводится как «все тупые идиоты занимаются спортом». Попутно обнаружился [сайт](http://www.taalkabaal.nl/afkortingen/) со множеством подобных добрых расшифровок.

@@ -7,6 +7,8 @@ tags: ["Будапешт", "Венгрия", "путешествия"]
 image: "https://4.bp.blogspot.com/-GN_9MniZolw/Tan3XtHDKYI/AAAAAAAAItc/88U0pStqmm0/s1600/dsc01925.picasaweb.jpg"
 places:
     - place0093
+aliases:
+    - /ru/blog/post/91
 ---
 
 В последний день (точнее, утро) мы решили посмотреть Базилику Св. Иштвана ({{< fl "Szent István-bazilika" >}}), знаменитый католический собор.

@@ -6,6 +6,8 @@ tags: ["Amorphis", "Amsterdam", "Arch Enemy", "Floor Jansen", "Heineken Music Ha
 image: "https://3.bp.blogspot.com/-uGHxhkww5bI/VlMnHxE0jmI/AAAAAAAAkwM/sJHdQrBDJhU/s1600/dsc01320.picasaweb.jpg"
 places:
     - place0230
+aliases:
+    - /en/blog/post/264
 ---
 
 It's now Movember (a.k.a. Musical November), which means — showtime!

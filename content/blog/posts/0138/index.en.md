@@ -6,6 +6,8 @@ tags: ["beach", "holidays", "Netherlands", "Nieuwjaarsduik", "sea", "The Hague"]
 image: "https://4.bp.blogspot.com/--BvFfK-9VOA/TwcHxOhDDII/AAAAAAAALMc/qNaRRXKKf6A/s1600/dsc08332.picasaweb.jpg"
 places:
     - place0020
+aliases:
+    - /en/blog/post/138
 ---
 
 **Happy New two thousand twelfth!**

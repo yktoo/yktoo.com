@@ -5,6 +5,8 @@ title: "2.1.1"
 series: "Sound Switcher Indicator"
 tags: ["PulseAudio", "Python", "Python 3", "Sound Switcher Indicator", "Ubuntu", "Unity", "Yakkety Yak", "звук", "индикатор"]
 software: sound-switcher-indicator
+aliases:
+    - /ru/blog/post/295
 ---
 
 [Sound Switcher Indicator]({{< relref "/software/sound-switcher-indicator" >}}) становится всё сложнее и хитрее, благо поток идей у пользователей не иссякает. В версии **2.1.1** изменения коснулись в основном файла конфигурации (`$HOME/.config/indicator-sound-switcher.json`).

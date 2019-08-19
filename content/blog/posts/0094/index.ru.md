@@ -4,6 +4,8 @@ date: "2011-04-30T00:00:00Z"
 title: "День Королевы — 2011"
 tags: ["День Королевы", "Нидерланды", "праздники"]
 image: "https://3.bp.blogspot.com/-PhlZnQq-VwA/Tbs8QyR4TgI/AAAAAAAAIgw/qEis4bQu7eM/s1600/Koninginnedag.png"
+aliases:
+    - /ru/blog/post/94
 ---
 
 Google поражает осведомлённостью — уже поздравляет с Днём Королевы:

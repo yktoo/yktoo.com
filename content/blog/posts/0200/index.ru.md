@@ -4,6 +4,8 @@ date: "2013-10-25T00:00:00Z"
 title: "Сайт Aikikai Amersfoort"
 tags: ["Yii", "айкидо", "Амерсфорт", "веб", "Нидерланды", "сайт", "спорт"]
 image: "https://1.bp.blogspot.com/-lki9NxKtQqo/UmpsckNYfPI/AAAAAAAAakU/UzI2708drDg/s1600/aikikai-amersfoort.picasaweb.png"
+aliases:
+    - /ru/blog/post/200
 ---
 
 На досуге сделал доброе дело и сваял сайт для своей школы айкидо (по-научному {{< fl "доджо" >}}) **Aikikai Amersfoort**, ныне расположенный по адресу [aikikai-amersfoort.nl](http://aikikai-amersfoort.nl/).

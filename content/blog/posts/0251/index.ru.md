@@ -4,6 +4,8 @@ date: "2015-06-14T00:00:00Z"
 title: "USB-тестеры и скорость зарядки"
 tags: ["USB", "гаджеты", "гик-порно", "зарядка", "обзор"]
 image: "https://1.bp.blogspot.com/-MqZjV3rsQvM/VXwZXvZ32vI/AAAAAAAAjmk/9Zt8qmDaahw/s1600/dsc09609.picasaweb.jpg"
+aliases:
+    - /ru/blog/post/251
 ---
 
 Из чистого любопытства заказал пару USB-тестеров с eBay (которых там [видимо-невидимо](http://www.ebay.com/sch/i.html?_nkw=usb+voltage+tester)).

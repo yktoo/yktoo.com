@@ -8,6 +8,8 @@ image: "https://1.bp.blogspot.com/-DIvAaGopwfg/VAMbLP1sN9I/AAAAAAAAfOM/IXEu0uUYw
 places:
     - place0217
     - place0218
+aliases:
+    - /ru/blog/post/221
 ---
 
 Вот и лето заканчивается, а я за заботами его почти и не заметил. Занятое выдалось времечко, причём в хорошем смысле.

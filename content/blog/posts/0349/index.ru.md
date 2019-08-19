@@ -4,6 +4,8 @@ date: "2019-07-26T00:00:00Z"
 title: "Побит абсолютный рекорд температуры в Нидерландах"
 tags: ["жара", "погода", "рекорд", "температура"]
 image: "https://1.bp.blogspot.com/-UT_YxhgI0Os/XTriejhY54I/AAAAAAAAwg8/4iyYAGe0zP4azsXylGGZQfoyZ3cOWFrAgCKgBGAs/s1600/code-oranje.png"
+aliases:
+    - /ru/blog/post/349
 ---
 
 А у нас четвёртый день стоит дикая жара и [бьются рекорды]({{< relref "0229" >}}). Почти по всей стране объявлен «оранжевый уровень опасности» ({{< fl "code oranje" >}}), серьёзнее которого есть лишь красный:

@@ -6,6 +6,8 @@ tags: ["Amersfoort", "interesting", "Johannes Heesters", "media", "Netherlands"]
 image: "https://1.bp.blogspot.com/--r7wiWdehU4/TtoCKObxlnI/AAAAAAAAKjY/MIB2vVbvCxc/s1600/heesters.jpg"
 places:
     - place0076
+aliases:
+    - /en/blog/post/132
 ---
 
 Singer and actor {{< wiki "Johannes_Heesters" "en" "Johannes Heesters" >}}, who was born in Amersfoort, is again in local [news](http://www.destadamersfoort.nl/scripts/edoris/edoris.dll?tem=LN_TEXT_VIEW&doc_id=19867092&pageid=134190&naam=Johan-Heesters-in-ziekenhuis-opgenomen).

@@ -7,6 +7,8 @@ tags: ["Албуфейра", "мыс", "океан", "Португалия", "п
 image: "https://3.bp.blogspot.com/-sJIIMRaRCyU/Ua4mS9Nh1_I/AAAAAAAAZCg/JqlpIGIhOZY/s1600/dsc09338.picasaweb.jpg"
 places:
     - place0004
+aliases:
+    - /ru/blog/post/194
 ---
 
 Сагреш ({{< fl "Sagres" >}}) — это такой посёлок на самом западе Алгарви. Но нам интересен вовсе не он, а близлежащий Сагрешский мыс ({{< fl "Ponta de Sagres" >}}) с уютно расположившейся на нём крепостью.

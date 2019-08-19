@@ -4,6 +4,8 @@ date: "2011-10-31T00:00:00Z"
 title: "In Vino Veritas"
 tags: ["prices", "wine"]
 image: "https://4.bp.blogspot.com/-9T_gIm_EW3U/Tq3anbRHgpI/AAAAAAAAKVY/X4KDFTzsYH8/s1600/dimple-15.jpg"
+aliases:
+    - /en/blog/post/124
 ---
 
 One of the things that make me wonder is comparison of prices for alcohol in Holland and Russia, and especially their relationship with the quality.

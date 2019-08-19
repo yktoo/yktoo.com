@@ -7,6 +7,8 @@ tags: ["Netherlands", "Schiphol", "travel"]
 image: "https://1.bp.blogspot.com/-RdVoLTHFjn4/TaatEfPBhiI/AAAAAAAAItc/8_sVvU7q7Fw/s1600/dsc01367.picasaweb.jpg"
 places:
     - place0120
+aliases:
+    - /en/blog/post/83
 ---
 
 One bright, or maybe cloudy day we've fancied a trip to Vienna. A friend of mine got to know a pretty generous person willing to put up a couple of noisy fellows. (Russians believe in their unique hospitality, but is it indeed unique?)

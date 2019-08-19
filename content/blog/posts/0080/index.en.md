@@ -4,6 +4,8 @@ date: "2011-03-30T00:00:00Z"
 title: "Dutch Tulip Round-Up"
 tags: ["beautiful", "flowers", "nature", "Netherlands", "spring"]
 image: "https://2.bp.blogspot.com/-QEZ4ncr1tv4/TZNyGYRDQEI/AAAAAAAAIH4/50bU2tp47ww/s1600/1257917284FCL4Mum.jpg"
+aliases:
+    - /en/blog/post/80
 ---
 
 Warning: these pictures can make you jealous. Watch with care.

@@ -4,6 +4,8 @@ date: "2017-03-08T00:00:00Z"
 title: "The Way You Make Me Feel: a masterpiece of looping"
 tags: ["music", "trifles", "video"]
 image: "https://img.youtube.com/vi/jMNIvLiCnw8/maxresdefault.jpg"
+aliases:
+    - /en/blog/post/313
 ---
 
 On the subject of music and electronics at the same time: I wanted to share this video with you. It's a live recording of *The Way You Make Me Feel* (originally by Michael Jackson) by a girl who calls herself [Kawehi](https://www.facebook.com/iamkawehi). No instruments, just voice and a looper device:

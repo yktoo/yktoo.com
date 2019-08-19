@@ -16,6 +16,8 @@ places:
     - place0101
     - place0102
     - place0103
+aliases:
+    - /en/blog/post/90
 ---
 
 We borrowed a city guide from our Viennese friends (in German, of course).
