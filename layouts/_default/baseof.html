@@ -48,6 +48,15 @@
         {{ block "main" . }}
         {{ .Content }}
         {{ end }}
+
+        <!-- Bottom Navbar -->
+        {{- block "bottom-navbar" . }}
+        <!-- Sharing buttons -->
+        <section id="page-sharing-buttons">
+            <h5>{{ T "share" }}</h5>
+            {{ partial "sharing-buttons" . }}
+        </section>
+        {{ end }}
     </div>
 </section>
 

@@ -31,12 +31,14 @@
 <script type="application/ld+json">{{ $ld | jsonify | safeJS }}</script>
 {{- end }}
 
-{{- define "heading" }}
+{{- define "secondary-navbar" }}
 <!-- Top previous-next post link bar -->
 <div class="col">
     <nav class="paginator-before" aria-label="Blog navigation">{{ partial "blog/post_nav" . }}</nav>
 </div>
+{{- end }}
 
+{{- define "heading" }}
 <!-- Post title -->
 <h1>{{ with .Params.series }}{{ . }} ‣ {{ end }}{{ .Title | markdownify }}</h1>
 
@@ -149,9 +151,6 @@
                 <i class="fas fa-key bycon"></i><abbr title="{{ T `blogPostId` }}">{{ path.Base .File.Dir }}</abbr>
             </p>
         </div>
-
-        <!-- Sharing buttons -->
-        {{ partial "blog/post_share" . }}
     </div>
 
     <!-- Comments -->
@@ -166,10 +165,17 @@
         {{- end }}
     </section>
 </article>
+{{ end }}
+
+{{- define "bottom-navbar" }}
+<!-- Sharing buttons -->
+<section id="page-sharing-buttons">
+    <h5>{{ T "share" }}</h5>
+    {{ partial "sharing-buttons" . }}
+</section>
 
 <!-- Bottom previous-next post link bar -->
 <div class="col">
     <nav class="paginator-after" aria-label="Blog navigation">{{ partial "blog/post_nav" . }}</nav>
 </div>
-
 {{ end }}
