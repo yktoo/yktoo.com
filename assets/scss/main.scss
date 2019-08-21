@@ -293,16 +293,6 @@ pre {
             margin-bottom: 1rem;
         }
     }
-    .blog-post-footer {
-        margin-bottom: 3rem;
-        padding: 24px 10px;
-        line-height: 1.6;
-        font-size: 85%;
-        border-top: 2px dotted gray;
-        border-bottom: 2px dotted gray;
-        color: $gray-600;
-        text-align: center;
-    }
 }
 .blog-paginator {
     display: flex;
@@ -556,6 +546,16 @@ a {
 
     time {
         font-weight: $font-weight-bold;
+    }
+
+    .meta-hover {
+        visibility: hidden;
+    }
+
+    &:hover {
+        .meta-hover {
+            visibility: visible;
+        }
     }
 }
 .placeholder {

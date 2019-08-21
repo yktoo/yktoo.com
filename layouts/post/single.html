@@ -33,9 +33,7 @@
 
 {{- define "secondary-navbar" }}
 <!-- Top previous-next post link bar -->
-<div class="col">
-    <nav class="paginator-before" aria-label="Blog navigation">{{ partial "blog/post_nav" . }}</nav>
-</div>
+<nav class="paginator-before" aria-label="Blog navigation">{{ partial "blog/post_nav" . }}</nav>
 {{- end }}
 
 {{- define "heading" }}
@@ -44,10 +42,27 @@
 
 <!-- Post metadata -->
 <p class="page-heading-meta">
+    <!-- Date -->
     {{- partial "date" (dict "site" $.Site "date" .Date "long" true) -}}
+
+    <!-- Author -->
     <span class="dot-sep"></span>{{ T "authoredBy" }}&nbsp;{{ .Params.author | default .Site.Params.author }}
+
+    <!-- Post series  -->
     {{- $page := . }}
     {{- with .Params.series }}<span class="dot-sep"></span>{{ T "postedInSeries" }}&nbsp;<a href="{{ relref $page (print `/series/` (urlize .)) }}">{{ . }}</a>{{ end -}}
+
+    <!-- Links to translations -->
+    {{- if .IsTranslated }}
+    <span class="dot-sep"></span>
+    {{- T "postInLangs" -}}&nbsp;
+    {{- range $idx, $translation := .Translations }}{{ if $idx }}, {{ end -}}
+    <a href="{{ .Permalink }}">{{ T (print "postIn_" .Lang) }}</a>
+    {{- end }}
+    {{- end }}
+
+    <!-- Post ID -->
+    <span class="dot-sep meta-hover"></span><abbr title="{{ T `blogPostId` }}" class="meta-hover">{{ path.Base .File.Dir }}</abbr>
 </p>
 {{- end }}
 
@@ -57,12 +72,26 @@
     <div class="row">
         <div class="col-md-9">
             <!-- Post content -->
-            {{- .Content }}
+            <section class="blog-post-content">
+                {{- .Content }}
 
-            <!-- Full-text link, if any -->
-            {{- with .Params.fulltext_url }}
-            <p><a href="{{ . }}" class="btn btn-primary">{{ T "readOnAt" }}&nbsp;{{ (urls.Parse .).Host }}</a></p>
-            {{- end }}
+                <!-- Full-text link, if any -->
+                {{- with .Params.fulltext_url }}
+                <p><a href="{{ . }}" class="btn btn-primary">{{ T "readOnAt" }}&nbsp;{{ (urls.Parse .).Host }}</a></p>
+                {{- end }}
+            </section>
+
+            <!-- Comments -->
+            <section class="blog-post-comments">
+                <h3>{{ T "comments" }}</h3>
+                <!-- Do not insert comments block in drafts or when running on localhost -->
+                {{- if or .Draft (in (print $.Site.BaseURL) "localhost") }}
+                <div class="placeholder">(comments will go here)</div>
+                {{- else }}
+                <div id="commento"></div>
+                <script src="{{ .Site.Params.commentoUrl }}"></script>
+                {{- end }}
+            </section>
         </div>
         <div class="col-md-3 blog-post-sidebar">
             <div class="sticky-top">
@@ -125,45 +154,6 @@
         </div>
     </div>
 
-    <!-- Post footer -->
-    <div class="blog-post-footer">
-        <!-- Post metadata block -->
-        <div class="blog-post-meta">
-            <!-- Link to the post series, if any -->
-            {{- with .Params.series }}
-            <p class="dot-separated">
-                <i class="fas fa-layer-group bycon"></i><a href="{{ relref $page (print `/series/` (urlize .)) }}">{{ T "otherPostsSeries" }}</a>
-            </p>
-            {{- end }}
-
-            <!-- Links to translations -->
-            {{- if .IsTranslated }}
-            <p class="dot-separated">
-                <i class="fas fa-flag-checkered bycon"></i>{{- T "postInLangs" -}}&nbsp;
-                {{- range $idx, $translation := .Translations }}{{ if $idx }}, {{ end -}}
-                <a href="{{ .Permalink }}">{{ T (print "postIn_" .Lang) }}</a>
-                {{- end }}
-            </p>
-            {{- end }}
-
-            <!-- Post ID -->
-            <p class="dot-separated">
-                <i class="fas fa-key bycon"></i><abbr title="{{ T `blogPostId` }}">{{ path.Base .File.Dir }}</abbr>
-            </p>
-        </div>
-    </div>
-
-    <!-- Comments -->
-    <section class="blog-post-comments">
-        <h3>{{ T "comments" }}</h3>
-        <!-- Do not insert comments block in drafts or when running on localhost -->
-        {{- if or .Draft (in (print $.Site.BaseURL) "localhost") }}
-            <div class="placeholder">(comments will go here)</div>
-        {{- else }}
-            <div id="commento"></div>
-            <script src="{{ .Site.Params.commentoUrl }}"></script>
-        {{- end }}
-    </section>
 </article>
 {{ end }}
 
@@ -175,7 +165,5 @@
 </section>
 
 <!-- Bottom previous-next post link bar -->
-<div class="col">
-    <nav class="paginator-after" aria-label="Blog navigation">{{ partial "blog/post_nav" . }}</nav>
-</div>
+<nav class="paginator-after" aria-label="Blog navigation">{{ partial "blog/post_nav" . }}</nav>
 {{ end }}
