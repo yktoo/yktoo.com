@@ -101,4 +101,4 @@ aliases:
 Ну и, конечно, всякому храму положены охранники ~~(а то вдруг всякие в балаклавах набегут)~~:
 {{< imgfig "https://3.bp.blogspot.com/-es3GnErEECw/UASEB14e-xI/AAAAAAAAUBk/9_X3jns9BMA/s1600/dsc03335.picasaweb.jpg" >}}
 
-Далее: [Часть 4. Парк Гуэля]({{< relref "0165" >}})
+Далее: {{< intref "0165" "Часть 4. Парк Гуэля" >}}

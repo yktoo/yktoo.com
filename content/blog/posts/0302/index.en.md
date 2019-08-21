@@ -8,7 +8,7 @@ aliases:
     - /en/blog/post/302
 ---
 
-The turbulent two thousand sixteen has come to an end. The year that has brought so much grief to our world. The year in which [Sun Caged]({{< relref "0283" >}}) and *Stream of Passion* ceased to exist. I'm inclined to think it's good that it's over.
+The turbulent two thousand sixteen has come to an end. The year that has brought so much grief to our world. The year in which {{< intref "0283" "Sun Caged" >}} and *Stream of Passion* ceased to exist. I'm inclined to think it's good that it's over.
 
 <p class="text-center">
     <b>Happy <big>2017</big> to all the readers of this blog! I wish you lots of optimism, persistence and luck!</b>
@@ -20,11 +20,11 @@ Following the tradition I'd like to look back on the last year—which has been 
 
 <!--more-->
 
-* Learn how to [snowboard]({{< relref "0270" >}}).
+* Learn how to {{< intref "0270" "snowboard" >}}.
 * Begin to routinely run **20** km, and got so used to it that my run for this year has totalled exactly **1000** kilometres (that is, a megametre). Up to this moment my best result on a twenty-kilometre distance is one hour and fourty-four minutes.
 * Lost about ten kilos, partially thanks to running.
-* Have run two half marathons (**21.1 km**): one in [De Haar]({{< relref "0274" >}}) and the [Amersfoort]({{< relref "0279" >}}) one.
-* Finally obtain the [first dan]({{< relref "0273" >}}) in aikido aikikai, as well as the corresponding [certificate]({{< relref "0284" >}}).
+* Have run two half marathons (**21.1 km**): one in {{< intref "0274" "De Haar" >}} and the {{< intref "0279" "Amersfoort" >}} one.
+* Finally obtain the {{< intref "0273" "first dan" >}} in aikido aikikai, as well as the corresponding {{< intref "0284" "certificate" >}}.
 * Follow private Dutch lessons.
 * Add Dutch to this website and translate a [few posts]({{< relref path="/blog/archive" lang="nl" >}}) as an additional exercise to the previous item.
 * Take some important career steps:
@@ -33,26 +33,26 @@ Following the tradition I'd like to look back on the last year—which has been 
     * As a consequence, digest a lot of information about taxation rules, accounting etc., as well as visit numerous related events.
     * *Almost* become a freelancer (which is currently a bit delayed due to the holiday period).
 * Visit many interesting destinations:
-    * [Sölden and Längenfeld]({{< relref "0270" >}}) (Austria)
+    * {{< intref "0270" "Sölden and Längenfeld" >}} (Austria)
     * Bruges (Belgium), perhaps for the tenth time
     * the Corfu island (Greece)
     * the Mosel wine region (Germany)
-    * [St Petersburg]({{< relref "0287" >}})
-    * [Brussels]({{< relref "0292" >}}) (Belgium)
+    * {{< intref "0287" "St Petersburg" >}}
+    * {{< intref "0292" "Brussels" >}} (Belgium)
     * [London]({{< relref path="0299" lang="ru" >}})
     * Liege (Belgium)
     * Lille (France), where I'm writing this
 * Build my first smart home version based on *Raspberry Pi*, *Z-Wave*, *Philips Hue*, and *RFXtrx*.
-* Develop the [InfoPi]({{< relref "0278" >}}) system as a part of that smart home.
-* Modify my 75-inch TV by [adding backlight]({{< relref "0280" >}}) without breaking the whole thing.
+* Develop the {{< intref "0278" "InfoPi" >}} system as a part of that smart home.
+* Modify my 75-inch TV by {{< intref "0280" "adding backlight" >}} without breaking the whole thing.
 * See with my own eyes:
-    * [Dream Theater]({{< relref "0272" >}}) at {{< fl "Carré" >}}.
-    * [Sun Caged]({{< relref "0283" >}}) & Co at {{< fl "De Bosuil" >}}.
+    * {{< intref "0272" "Dream Theater" >}} at {{< fl "Carré" >}}.
+    * {{< intref "0283" "Sun Caged" >}} & Co at {{< fl "De Bosuil" >}}.
     * *Plini*, *Intervals*, and *Animals as Leaders* at {{< fl "Patronaat" >}}.
     * *Stream of Passion* at {{< fl "P60" >}}, for the last time.
-    * [Shadowrise and Myrath]({{< relref "0296" >}}) at {{< fl "Patronaat" >}}.
+    * {{< intref "0296" "Shadowrise and Myrath" >}} at {{< fl "Patronaat" >}}.
     * *Crisálida*, *Imperial Age*, *Voodoo Kungfu*, and *Orphaned Land* at {{< fl "Baroeg" >}}.
-    * [Moriteru Ueshiba]({{< relref "0292" >}}), the grandson of the founder of aikido.
+    * {{< intref "0292" "Moriteru Ueshiba" >}}, the grandson of the founder of aikido.
 * And last but not least, finally learn to fold T-shirts like in [this video](https://www.youtube.com/watch?v=iyqltFTug1I)!
 
 In the upshot, 2016 has become a year of the Dutch language and entrepreneurship for me. And there's definitely more to follow!

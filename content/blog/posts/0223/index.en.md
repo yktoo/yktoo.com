@@ -14,7 +14,7 @@ aliases:
     - /en/blog/post/223
 ---
 
-In the [previous part]({{< relref "0222" >}}) I mentioned the "Bike Town" award given to Houten a few years ago. This tiny geographical object has also won a number of other awards:
+In the {{< intref "0222" "previous part" >}} I mentioned the "Bike Town" award given to Houten a few years ago. This tiny geographical object has also won a number of other awards:
 
 <!--more-->
 
@@ -115,7 +115,7 @@ The pool is surrounded by houses, which must be pretty damp inside I think:
 This block of toy-like houses is built right above the water surface:
 {{< imgfig "https://2.bp.blogspot.com/-SoP5ALHplJY/U_uLJnkcC3I/AAAAAAAAfIk/h5rtZGSzzZQ/s1600/dsc06406.picasaweb.jpg" >}}
 
-In the medieval times the border of the Roman Empire lay here. This is reflected, for example, in the name of the {{< fl "Houten Castellum" >}} [train station]({{< relref "0221" >}}). All the streets in this neighbourhood have Italian names:
+In the medieval times the border of the Roman Empire lay here. This is reflected, for example, in the name of the {{< fl "Houten Castellum" >}} {{< intref "0221" "train station" >}}. All the streets in this neighbourhood have Italian names:
 {{< imgfig "https://1.bp.blogspot.com/-qxGHQtBW4Fg/U_uLPgLMWPI/AAAAAAAAfEM/HwrDsdY2jYg/s1600/dsc06421.picasaweb.jpg" >}}
 
 {{< fl "Piazza" >}} means "square" in Italian.

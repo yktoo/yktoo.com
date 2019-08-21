@@ -8,7 +8,7 @@ aliases:
     - /en/blog/post/216
 ---
 
-I've been looking for quite a while for a USB hub that would match the design of my [iMac]({{< relref "0120" >}}). For those who own an iMac a USB hub is a must-have, since Apple have moved all available ports, including even the headphone one, to its back side. Which is in my opinion a typical example of design gone totally wrong.
+I've been looking for quite a while for a USB hub that would match the design of my {{< intref "0120" "iMac" >}}. For those who own an iMac a USB hub is a must-have, since Apple have moved all available ports, including even the headphone one, to its back side. Which is in my opinion a typical example of design gone totally wrong.
 
 <!--more-->
 

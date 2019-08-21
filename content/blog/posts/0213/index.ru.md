@@ -47,4 +47,4 @@ Graslei:
 Церковь Богоматери и Святого Петра ([Sint-Pietersabdij](http://www.sintpietersabdijgent.be/), {{< wiki "Церковь_Богоматери_и_Святого_Петра_(Гент)" "ru" "Вики" >}}):
 {{< imgfig "https://2.bp.blogspot.com/-msBtFv1nRWQ/UtWFjjrLVhI/AAAAAAAAbw4/BREFEu43ttg/s1600/dsc02932.picasaweb.jpg" >}}
 
-[Следующая часть]({{< relref "0214" >}}) будет посвящена легальному городскому граффити.
+{{< intref "0214" "Следующая часть" >}} будет посвящена легальному городскому граффити.

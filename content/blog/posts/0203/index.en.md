@@ -17,7 +17,7 @@ We are fortunate enough to live in a very picturesque woodland area. One of thes
 
 <!--more-->
 
-As you can see on the photo above, the autumn is not really visible yet. Now, a month later, a lot of leaves fell. The autumn in Holland is mostly but more damp than usual (or it can also look [like this]({{< relref "0066" >}})).
+As you can see on the photo above, the autumn is not really visible yet. Now, a month later, a lot of leaves fell. The autumn in Holland is mostly but more damp than usual (or it can also look {{< intref "0066" "like this" >}}).
 
 What one can also notice is that a Dutch forest is very clean and civilised. You can only think of properly paved roads (and a similar forest in Soest does have them).
 

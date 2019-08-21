@@ -16,7 +16,7 @@ Last time I only briefly [mentioned]({{< relref path="0033" lang="ru" >}}) {{< f
 
 <!--more-->
 
-This street is about a hundred metres along and two across, all covered with layered paitings by city inhabitants and visitors (I [posted]({{< relref "0205" >}}) about {{< fl "Ruiterskwartier" >}}, a similar street in Leeuwarden).
+This street is about a hundred metres along and two across, all covered with layered paitings by city inhabitants and visitors (I {{< intref "0205" "posted" >}} about {{< fl "Ruiterskwartier" >}}, a similar street in Leeuwarden).
 {{< imgfig "https://3.bp.blogspot.com/-NlQ-8cRRCj0/UtWFPPm46CI/AAAAAAAAbqY/VVDArZmsiQs/s1600/dsc02799.picasaweb.jpg" >}}
 
 Right at the entrance are {{< wiki "Jip_and_Janneke" "en" "Jip and Janneke" >}}, characters from immensely popular books by Annie M. G. Schmidt (I wonder whether this is of Dutch or Belgian authorship):
@@ -39,4 +39,4 @@ Below are some highlights of the graffiti display:
 {{< imgfig "https://2.bp.blogspot.com/-XYGVqJKq7kM/UtWFS16zawI/AAAAAAAAbrE/VzxuK52TJSc/s1600/dsc02813.picasaweb.jpg" >}}
 {{< imgfig "https://4.bp.blogspot.com/-Ls7UJQu3sNg/UtWFTZVGyfI/AAAAAAAAbrM/ig7l7Ef-3ew/s1600/dsc02814.picasaweb.jpg" >}}
 
-In [the next part]({{< relref "0215" >}}), which will be the last one, I'll tell you about Ghent Contemporary Art Museum, S.M.A.K.
+In {{< intref "0215" "the next part" >}}, which will be the last one, I'll tell you about Ghent Contemporary Art Museum, S.M.A.K.

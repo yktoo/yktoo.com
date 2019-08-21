@@ -7,7 +7,7 @@ aliases:
     - /en/blog/post/224
 ---
 
-Even though I've now settled in [Houten]({{< relref "0221" >}}), I keep visiting Amersfoort now and then. I'm still [doing aikido]({{< relref path="0011" lang="ru" >}}) with Joginder Singh.
+Even though I've now settled in {{< intref "0221" "Houten" >}}, I keep visiting Amersfoort now and then. I'm still [doing aikido]({{< relref path="0011" lang="ru" >}}) with Joginder Singh.
 
 On September 7<sup>th</sup> our dojo gave a demo on a "district day" [Vathorstdag 2014](http://www.vathorstdag.nl/) ({{< fl "Vathorst" >}} is the district in Amersfoort our dojo is in), just like [six years ago]({{< relref path="0026" lang="ru" >}}).
 

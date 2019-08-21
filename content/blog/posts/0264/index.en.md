@@ -114,7 +114,7 @@ Floor, who's some six+ feet tall, is highly prominent on-stage. They look funny 
 {{< imgfig "https://2.bp.blogspot.com/-VlVJ2ZHQPas/VlMnH54O-lI/AAAAAAAAkwM/Wrwn4JOzb4o/s1600/dsc01327.picasaweb.jpg" "Nightwish: Floor Jansen and Emppu Vuorinen." >}}
 {{< imgfig "https://4.bp.blogspot.com/-cv6C8sgle5g/VlMnH-v8U4I/AAAAAAAAkwE/20onVWQeWeE/s1600/dsc01336.picasaweb.jpg" "Nightwish: Floor Jansen." >}}
 
-The oldest member of the band, the British {{< wiki "Troy_Donockley" "en" "Troy Donockley" >}} (51), prefers to keep low profile. In his 35 year career he has played with a huge number of bands and musicians (including [Arjen Lucassen]({{< relref "0250" >}})'s *Ayreon*):
+The oldest member of the band, the British {{< wiki "Troy_Donockley" "en" "Troy Donockley" >}} (51), prefers to keep low profile. In his 35 year career he has played with a huge number of bands and musicians (including {{< intref "0250" "Arjen Lucassen" >}}'s *Ayreon*):
 {{< imgfig "https://3.bp.blogspot.com/-SSfZZOgreyk/VlMnH5_8yDI/AAAAAAAAkwM/PFqh1gnCm4Y/s1600/dsc01319.picasaweb.jpg" "Nightwish: Troy Donockley." >}}
 
 He's best known for his playing of Uilleann pipes, which connects amazingly beautiful to the sound of *Nightwish*.

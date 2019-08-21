@@ -17,9 +17,9 @@ Moreover, with the ticket price of **€14** it would be stupid not to go.
 So just before the New Year's eve, on December 27<sup>th</sup>, Marcela Bovio & Co played a traditional winter gig.
 {{< imgfig "https://4.bp.blogspot.com/-6janEBsGWcY/VofESvhUuOI/AAAAAAAAlDU/jFOAGHTBU_g/s1600/dsc01613.picasaweb.jpg" "Anneke van Giersbergen (clenching her fist) and Marcela Bovio." >}}
 
-Just like [two years ago]({{< relref "0175" >}}) the show was hosted by a small and cosy club in Utrecht called [Tivoli de Helling](http://www.dehelling.nl/). The concert featured an impressive list of guest singers:
+Just like {{< intref "0175" "two years ago" >}} the show was hosted by a small and cosy club in Utrecht called [Tivoli de Helling](http://www.dehelling.nl/). The concert featured an impressive list of guest singers:
 
-* {{< fl "Anneke van Giersbergen" >}} (The Gathering, [The Gentle Storm]({{< relref "0250" >}}))
+* {{< fl "Anneke van Giersbergen" >}} (The Gathering, {{< intref "0250" "The Gentle Storm" >}})
 * {{< fl "Lisette van den Berg" >}} (Scarlet Stories, Epic Rock Choir, Karmaflow)
 * {{< fl "Dianne van Giersbergen" >}} (Xandria)
 * {{< fl "Merijn van Haren" >}} (Navarone)
@@ -34,7 +34,7 @@ The tireless bassist Johan van Stratum, Marcela's hubby:
 
 There was a funny moment when Johan, violently brandishing his guitar, caught and lifted Marcela's skirt with the neck. She turned around, perplexed.
 
-Rhythm guitarist Eric Hazebroek, again playing a funny headless guitar. With eight strings it was one more compared to the [previous time]({{< relref "0250" >}}).
+Rhythm guitarist Eric Hazebroek, again playing a funny headless guitar. With eight strings it was one more compared to the {{< intref "0250" "previous time" >}}.
 {{< imgfig "https://1.bp.blogspot.com/-YxAaGjkUZ24/VofESjkSKgI/AAAAAAAAlDU/erAg2uUtwAg/s1600/dsc01519.picasaweb.jpg" "Eric Hazebroek." >}}
 
 Marcela Bovio and Dianne van Giersbergen are singing {{< fl "Abends Will Ich Schlafen Gehn" >}} from {{< wiki "Hansel_and_Gretel_(opera)" "en" "Hansel and Gretel" >}} to the accompaniment by Stephan Schultz. That is, supposed to sing, but Marcela is asking Stephan about the dinner instead:

@@ -95,7 +95,7 @@ Well, some dreams never come true.
 The entire show was filmed with a number of professional cameras (including one constantly aimed at Marcel).
 {{< imgfig "https://3.bp.blogspot.com/-MjeOoLTh8Qc/V1RAFu_xV3I/AAAAAAAAmU8/FMaXrjc_8rQGBkA3LAMBEYGyanvt5jlhwCKgB/s1600/dsc02394.picasaweb.jpg" "Marcel Coenen." >}}
 
-As I was told, the video will be released in Ultra HD (then I can finally make use of [4K in my TV]({{< relref "0243" >}})). In the meantime you can enjoy somewhat less professional, yet equally impressing material of my own making.
+As I was told, the video will be released in Ultra HD (then I can finally make use of {{< intref "0243" "4K in my TV" >}}). In the meantime you can enjoy somewhat less professional, yet equally impressing material of my own making.
 
 Another challenge for the band was that the bassist *Daniel Kohn* had some health issues not so long before the show, so he was replaced by *Arnold-Dimitry Rerimassie*.
 {{< imgfig "https://1.bp.blogspot.com/-Z3yFciIJIhE/V1RAFrffHVI/AAAAAAAAmVw/VZZ1KQBKXhs8prdcKQmtY-MYHj51uN87gCKgB/s1600/dsc02383.picasaweb.jpg" "Marcel Coenen and Arnold-Dimitry Rerimassie." >}}

@@ -16,7 +16,7 @@ Yet again, precisely on time, Holland has turned orange on the 30<sup>th</sup> o
 
 <!--more-->
 
-On the 28<sup>th</sup> of January Beatrix [announced]({{< relref "0176" >}}) that she would abdicate in favour of her eldest son Willem-Alexander, the heir apparent to the throne. After 33 years of service it's time to say goodbye, said she (to put it in simple temrs, the actual speech was of course more florid). No queen means no Queen's Day, it's that simple.
+On the 28<sup>th</sup> of January Beatrix {{< intref "0176" "announced" >}} that she would abdicate in favour of her eldest son Willem-Alexander, the heir apparent to the throne. After 33 years of service it's time to say goodbye, said she (to put it in simple temrs, the actual speech was of course more florid). No queen means no Queen's Day, it's that simple.
 
 As of 2014, this holiday will rather be celebrated as King's Day ({{< fl "Koningsdag" >}}). Willem-Alexander was fortunate to have been born on the 27<sup>th</sup> of April, which is almost the same date. By contrast, Beatrix's birthday is on the 31<sup>th</sup> of January, which means winter and cold. When she ascended the throne in 1980, she decided to keep it as it was on April 30<sup>th</sup>.
 

@@ -8,7 +8,7 @@ aliases:
     - /en/blog/post/280
 ---
 
-Being quite happy with my [75 inch whopper]({{< relref "0243" >}}) {{< fl "Samsung UE75HU7500" >}}, the only thing I wanted to do about it was giving it ambient backlighting. When watching TV in complete darkness your eyes get quickly tired because of the stark contrast between the bright screen and its dark surroundings. Even though this device features an ambient light sensor, which is used to automatically adjust the screen brightness, the contrast is still all too harsh.
+Being quite happy with my {{< intref "0243" "75 inch whopper" >}} {{< fl "Samsung UE75HU7500" >}}, the only thing I wanted to do about it was giving it ambient backlighting. When watching TV in complete darkness your eyes get quickly tired because of the stark contrast between the bright screen and its dark surroundings. Even though this device features an ambient light sensor, which is used to automatically adjust the screen brightness, the contrast is still all too harsh.
 
 <!--more-->
 
@@ -86,9 +86,9 @@ Surprisingly enough, it all operates exactly as intended. The backlighting goes 
 ## See also {#see-also}
 
 * **4K UHD TV Samsung UE75HU7500: a complete review**:
-    1. [Specifications and unboxing]({{< relref "0243" >}})
-    2. [Connect and control]({{< relref "0244" >}})
-    3. [Accessories]({{< relref "0245" >}})
-    4. [Smart Hub and applications]({{< relref "0246" >}})
-    5. [AV format support]({{< relref "0247" >}})
-    6. [Location, conclusions]({{< relref "0248" >}})
+    1. {{< intref "0243" "Specifications and unboxing" >}}
+    2. {{< intref "0244" "Connect and control" >}}
+    3. {{< intref "0245" "Accessories" >}}
+    4. {{< intref "0246" "Smart Hub and applications" >}}
+    5. {{< intref "0247" "AV format support" >}}
+    6. {{< intref "0248" "Location, conclusions" >}}

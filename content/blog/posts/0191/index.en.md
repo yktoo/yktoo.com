@@ -41,4 +41,4 @@ We found those trees somewhere northwards of Albufeira. We didn't risk to try th
 
 Exactly same oranges you can buy at the roadside. 5 kg (11 lbs) of small oranges costs two euros, the same amount of big ones, like on the photo above, is three, and they are delicious! We've eaten 10 kilos in a week.
 
-Next: [Part 3. Albufeira]({{< relref "0192" >}})
+Next: {{< intref "0192" "Part 3. Albufeira" >}}

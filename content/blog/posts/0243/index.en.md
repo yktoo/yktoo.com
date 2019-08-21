@@ -25,7 +25,7 @@ Loads of pictures under the cut.
 
 ## Preface {#preface}
 
-As soon as we've [moved into our new house]({{< relref "0234" >}}) I've started thinking of a television that would match the new interiors of the living room. I'm a big fan of functional minimalism if it comes to design, so the envisioned layout was as follows: TV hung on the wall and a couch against the opposite wall. However, as the living room is five metres wide, the screen had to be at least 60-65 inch.
+As soon as we've {{< intref "0234" "moved into our new house" >}} I've started thinking of a television that would match the new interiors of the living room. I'm a big fan of functional minimalism if it comes to design, so the envisioned layout was as follows: TV hung on the wall and a couch against the opposite wall. However, as the living room is five metres wide, the screen had to be at least 60-65 inch.
 
 I've immediately discarded all the *curved* models since they look clumsy on the wall.
 
@@ -67,7 +67,7 @@ So let's start off with the specs.
     * 1 aerial input
     * 1 cable input
     * 1 satellite input
-    * [Camera]({{< relref "0245" >}}): sold separately, connected via USB
+    * {{< intref "0245" "Camera" >}}: sold separately, connected via USB
 * **Smart TV**
     * Samsung Smart Hub
     * On TV (program guide) for 15 European countries
@@ -163,4 +163,4 @@ Right below the screen there's a blue operation indicator. It can be configured 
 The back side of the device: a connector area on the left, four VESA mount holes in the middle and a power cable socket on the right. There is also a tiny joystick in the bottom left corner, which can be used to control the TV without a remote.
 {{< imgfig "https://1.bp.blogspot.com/-Vx4r1uWK4Yo/VQRXOzHcR8I/AAAAAAAAhRM/8RhxFM9UNE8/s1600/UE75UH7500-rear-full.jpg" >}}
 
-*Next:* [Part two. Connect and control]({{< relref "0244" >}})
+*Next:* {{< intref "0244" "Part two. Connect and control" >}}

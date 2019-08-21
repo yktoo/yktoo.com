@@ -9,7 +9,7 @@ aliases:
     - /nl/blog/post/311
 ---
 
-Laten we, als vervolg op het ["Vormen vs. personen"]({{< relref "0310" >}}) verhaal, een stap zetten van de abstracte theorie naar een praktischer zicht op ondernemerschap.
+Laten we, als vervolg op het {{< intref "0310" "Vormen vs. personen" >}} verhaal, een stap zetten van de abstracte theorie naar een praktischer zicht op ondernemerschap.
 
 Ik zou willen beginnen met de omstandigheden die me tot mijn besluit hebben aangezet. In 2016 kreeg ik, tijdens een reorganisatie bij de [ING Bank](http://www.ing.com/) die toen mijn werkgever was, de keuze om hetzij voor mijn baas te blijven werken dan wel me op een avontuurlijke freelance weg te begeven.
 
@@ -58,4 +58,4 @@ In Nederland wordt boekhouding vaak uitbesteed aan een extern bedrijf; ook het g
 
 Er bestaan ook belangenbehartigende organisaties voor zzp'ers, die hulp en advies aan ondernemers bieden. Daarvan is [ZZP Nederland](https://www.zzp-nederland.nl/) met haar 40 duizend deelnemers (inclusief {{< fl "Yktoo Solutions" >}}) de grootste. Voor maar **€20** per jaar krijg je toegang tot helpdesk, modelcontracten, leveringsvoorwaarden enzovoorts.
 
-*Vervolg:* [Werken en werven]({{< relref "0318" >}})
+*Vervolg:* {{< intref "0318" "Werken en werven" >}}

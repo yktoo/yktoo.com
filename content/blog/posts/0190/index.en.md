@@ -214,7 +214,7 @@ Aboriginal Music:
 {{< imgfig "https://4.bp.blogspot.com/-BNj8ULU-baA/Ua4jiQQRYeI/AAAAAAAAYxw/9nyO0Ujhm9s/s1600/dsc09117.picasaweb.jpg" >}}
 {{< imgfig "https://3.bp.blogspot.com/-oXJffJPKlo8/Ua4jj9K2FBI/AAAAAAAAYx4/1iIGDOzj8ho/s1600/dsc09118.picasaweb.jpg" >}}
 
-This strange instrument is called {{< fl "didgeridoo" >}}, however has nothing to do with DJs. It resembles [Arkady Shilkloper's]({{< relref "0183" >}}) alphorn:
+This strange instrument is called {{< fl "didgeridoo" >}}, however has nothing to do with DJs. It resembles {{< intref "0183" "Arkady Shilkloper's" >}} alphorn:
 {{< imgfig "https://3.bp.blogspot.com/-0OiN1cwn5AQ/Ua4j08277-I/AAAAAAAAYzg/5zCnXH2WEpk/s1600/dsc09135.picasaweb.jpg" >}}
 {{< imgfig "https://3.bp.blogspot.com/--zEzdBV6YUs/Ua4j10QrabI/AAAAAAAAYzo/T_cj0RjzeZ8/s1600/dsc09136.picasaweb.jpg" >}}
 {{< imgfig "https://3.bp.blogspot.com/-GmbLDRYtMNw/Ua4j287kwvI/AAAAAAAAYzw/OUPTYZwGgeI/s1600/dsc09138.picasaweb.jpg" >}}
@@ -393,4 +393,4 @@ It actually looks like the lighting is set up pretty randomly. But still beautif
 {{< imgfig "https://4.bp.blogspot.com/-4Y1UMxsk3Zo/Ua4lEiaTH_I/AAAAAAAAY7I/7pYIwLOc6pw/s1600/dsc09229.picasaweb.jpg" >}}
 {{< imgfig "https://1.bp.blogspot.com/-YVf2damL0Y0/Ua4lF8lSY4I/AAAAAAAAY7Q/hZlI7u1SvV8/s1600/dsc09231.picasaweb.jpg" >}}
 
-Next: [Part 2. Car and oranges]({{< relref "0191" >}})
+Next: {{< intref "0191" "Part 2. Car and oranges" >}}

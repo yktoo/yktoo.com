@@ -10,7 +10,7 @@ aliases:
     - /ru/blog/post/343
 ---
 
-Пришло время исполнять [обещанное]({{< relref "0342" >}}), так что представляю на ваш суд версию [Sound Switcher Indicator]({{< relref "/software/sound-switcher-indicator" >}}) **2.2.0**.
+Пришло время исполнять {{< intref "0342" "обещанное" >}}, так что представляю на ваш суд версию {{< intref "/software/sound-switcher-indicator" "Sound Switcher Indicator" >}} **2.2.0**.
 
 ## Что нового {#whats-new}
 

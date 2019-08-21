@@ -12,9 +12,9 @@ aliases:
     - /en/blog/post/266
 ---
 
-The year is coming to an end again, with so much left to run. I can't repeat my [2013's record]({{< relref "0209" >}}) of 800 km this year—in 2015 I've only run some **600 km**. Not because I'm lazy, but due to being more active in aikido.
+The year is coming to an end again, with so much left to run. I can't repeat my {{< intref "0209" "2013's record" >}} of 800 km this year—in 2015 I've only run some **600 km**. Not because I'm lazy, but due to being more active in aikido.
 
-Houten's ["bike avenues"]({{< relref "0222" >}}) are great to run on, also because there are not so many bikes using them at the time when I'm running, that is in the evening and during the weekend.
+Houten's {{< intref "0222" ""bike avenues"" >}} are great to run on, also because there are not so many bikes using them at the time when I'm running, that is in the evening and during the weekend.
 
 <!--more-->
 

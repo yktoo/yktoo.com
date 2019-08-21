@@ -41,7 +41,7 @@ The aircraft identified as {{< fl "PH-PCA" >}} is dwelling at a small airport ne
 The first strange thing you notice is the hangar, which is full of planes, is wide open on the runway side:
 {{< imgfig "https://3.bp.blogspot.com/-gDHgtyYbrGY/Vat7nqnu2BI/AAAAAAAAkBM/WHsO27CxRpM/s1600/dsc09647.picasaweb.jpg" "Another Diamond DA40." >}}
 
-Since there's usually no one there and all the aircrafts' cockpits are unlocked, anyone can jump into any of them, start the engine and fly off. Just like Anakin Skywalker did in the [Star Wars: The Phantom Menace]({{< relref "0139" >}}).
+Since there's usually no one there and all the aircrafts' cockpits are unlocked, anyone can jump into any of them, start the engine and fly off. Just like Anakin Skywalker did in the {{< intref "0139" "Star Wars: The Phantom Menace" >}}.
 {{< imgfig "https://3.bp.blogspot.com/-v_rkdBVnHIU/Vat7ox9qViI/AAAAAAAAjyU/M0PUGN8gRXo/s1600/dsc09653.picasaweb.jpg" "For any Jedi the cockpit open is." >}}
 
 Our winged friend {{< fl "PH-PCA" >}} is parked in the corner, blocked by other aeroplanes. In order to get to it, one has to roll a few others out first.

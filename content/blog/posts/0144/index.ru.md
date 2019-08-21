@@ -48,4 +48,4 @@ aliases:
 Ангельское ([путтинское](http://slovari.yandex.ru/~%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8/%D0%91%D0%A1%D0%AD/%D0%9F%D1%83%D1%82%D1%82%D0%B8/)?) место, в общем.
 {{< imgfig "https://1.bp.blogspot.com/-IMKmIZTMv-Q/T2pZARGv3RI/AAAAAAAAMYQ/tvQodk8T9xw/s1600/dsc09228.picasaweb.jpg" >}}
 
-В [следующей серии]({{< relref "0145" >}}) мы поедем исследовать центр провинции — город Намюр.
+В {{< intref "0145" "следующей серии" >}} мы поедем исследовать центр провинции — город Намюр.

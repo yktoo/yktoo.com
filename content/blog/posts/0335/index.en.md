@@ -8,7 +8,7 @@ aliases:
     - /en/blog/post/335
 ---
 
-Right before [my ten-year anniversary in Holland]({{< relref "0334" >}}), on Easter Monday, the castlerun [De Halve van De Haar](http://www.dehalvevandehaar.nl/) has taken place. I've been participating in it since the very beginning ([one]({{< relref "0266#de-halve-van-de-haar" >}}), [two]({{< relref "0274" >}}), [three]({{< relref "0320" >}})).
+Right before {{< intref "0334" "my ten-year anniversary in Holland" >}}, on Easter Monday, the castlerun [De Halve van De Haar](http://www.dehalvevandehaar.nl/) has taken place. I've been participating in it since the very beginning ({{< intref "0266#de-halve-van-de-haar" "one" >}}, {{< intref "0274" "two" >}}, {{< intref "0320" "three" >}}).
 
 <!--more-->
 
@@ -17,7 +17,7 @@ Right before [my ten-year anniversary in Holland]({{< relref "0334" >}}), on Eas
 Yet again I've been lucky to have beaten my previous half marathon (**21.1 km**) record:
 {{< imgfig "https://4.bp.blogspot.com/-cUn3DUVleWs/WvglbqksLfI/AAAAAAAAsis/GO2Hm3EkkfMwTPWoGYl8p70d82QRQF_-QCKgBGAs/s1600/2018-04-02_dhvdh_2018.png" "Half marathon results." >}}
 
-[The outcome](https://evenementen.uitslagen.nl/2018/dehalvevandehaar/details.php?s=21071) is as follows: **1:45:56**, the **271<sup>st</sup> place** out of 794 (which isn't entirely fair because it's based on the gross time, adding 23 seconds to my net result). My previous record [was]({{< relref "0320" >}}) 1:47:54, so it's a two-minute improvement, quite unexpected for me. My average pace was 5:01, which almost corresponds to 12 km/h.
+[The outcome](https://evenementen.uitslagen.nl/2018/dehalvevandehaar/details.php?s=21071) is as follows: **1:45:56**, the **271<sup>st</sup> place** out of 794 (which isn't entirely fair because it's based on the gross time, adding 23 seconds to my net result). My previous record {{< intref "0320" "was" >}} 1:47:54, so it's a two-minute improvement, quite unexpected for me. My average pace was 5:01, which almost corresponds to 12 km/h.
 
 As mentioned before, there was a total of 794 runners. A hundred fewer compared to the previous run, but still pretty crowded at the start line.
 {{< imgfig "https://3.bp.blogspot.com/-B4fMCmfZg0Q/WvgmCRen_5I/AAAAAAAAsi4/LY__QXh9lQMCuPF5GyW9mqWNu2e2vNv9QCKgBGAs/s1600/20180402_125328.picasaweb.jpg" "The start of the half marathon." >}}

@@ -10,7 +10,7 @@ aliases:
     - /en/blog/post/267
 ---
 
-My personal concert season open by the [Nightwish fellas]({{< relref "0264" >}}) is at its climax.
+My personal concert season open by the {{< intref "0264" "Nightwish fellas" >}} is at its climax.
 
 I was fortunate to see a very popular (yet kind of underground) band called {{< wiki "The_Aristocrats_(band)" "en" "The Aristocrats" >}} on December 9<sup>th</sup>. The band is playing some mindbogglingly complex tunes ranged from Jazz Fusion to Heavy Prog.
 
@@ -22,7 +22,7 @@ The Aristocrats is a {{< wiki "Supergroup_(music)" "en" "supergroup" >}} founded
 
 Unfortunately I can't share much of it with you this time.
 
-The problem is that {{< fl "De Boerderij" >}}, where I've seen [Neal Morse]({{< relref "0095" >}}) and [Arena]({{< relref path="0127" lang="ru" >}}), has got spoilt: I was disallowed to take my camera in! I find this outrageous, especially considering how many shows I've seen here in Holland.
+The problem is that {{< fl "De Boerderij" >}}, where I've seen {{< intref "0095" "Neal Morse" >}} and [Arena]({{< relref path="0127" lang="ru" >}}), has got spoilt: I was disallowed to take my camera in! I find this outrageous, especially considering how many shows I've seen here in Holland.
 
 I tried to use my mobile for filming as the next best thing, but at a certain moment was approached by a crew member, who told me that shooting videos was not allowed at all. (On a side note, people closer to the stage were filming whatever they wanted with their compact cameras, but that lad couldn't get to them through the crowd.)
 

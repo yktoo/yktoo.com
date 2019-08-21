@@ -106,7 +106,7 @@ The most important is of course the sound the headphones produce. In my audiophi
 
 The sound of *Mi In-Ear Headphones Pro HD* is peculiar. On the one hand, the high tones are brilliant and well detailed, I'd say these are ones of the best headphones I've ever listened to in that respect. It makes cymbals, for instance, sound perfectly clear.
 
-On the other hand, I'm used to the powerful bass of my good old [Koss Porta Pro]({{< relref "0252" >}}), and the *Mi* device doesn't really shine here. That said, the lack of bass can be somewhat mitigated by equalisation. The good news is that treble still sounds very clear when you pump up the bass.
+On the other hand, I'm used to the powerful bass of my good old {{< intref "0252" "Koss Porta Pro" >}}, and the *Mi* device doesn't really shine here. That said, the lack of bass can be somewhat mitigated by equalisation. The good news is that treble still sounds very clear when you pump up the bass.
 
 Once again I'd mention their not-so-great sensitivity (especially compared to the mindblowing *Koss Porta Pro*), which is the price of having a three-band passive crossover. With these headphones I have to turn the volume of my *Galaxy Note* all the way up to the "safety limit." But there's an upside to it, too: the low sensitivity makes volume steps smaller, which allows for a smoother volume setting.
 

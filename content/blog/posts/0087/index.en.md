@@ -42,4 +42,4 @@ In other words, it's the cutting edge of German hi-tech.
 
 Meanwhile, we've arrived at Budapest…
 
-Next: [Part 6. Budapest]({{< relref "0088" >}})
+Next: {{< intref "0088" "Part 6. Budapest" >}}

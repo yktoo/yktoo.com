@@ -10,7 +10,7 @@ aliases:
     - /ru/blog/post/238
 ---
 
-Минул год, и я, как и [обещал]({{< relref "0213" >}}), нагрянул на гентский фестиваль света ([Ghent Light Festival](http://www.lichtfestivalgent.be/)).
+Минул год, и я, как и {{< intref "0213" "обещал" >}}, нагрянул на гентский фестиваль света ([Ghent Light Festival](http://www.lichtfestivalgent.be/)).
 
 {{< imgfig "https://1.bp.blogspot.com/-YxmmwHkb-qo/VM6ccpInzhI/AAAAAAAAg9Y/Pxihf6qwvMA/s1600/dsc07961.picasaweb.jpg" "Katarzyna Malejka и Joachim Slugocki — «Горизонтальная интерференция»." >}}
 
@@ -20,7 +20,7 @@ aliases:
 
 {{< imgfig "https://1.bp.blogspot.com/-77rTXELjB_w/VM6cY8g72SI/AAAAAAAAg8w/5DyY43WC7Rs/s1600/dsc07954.picasaweb.jpg" "Гентское нашествие светопоклонников." >}}
 
-Этот фестиваль, третий по счёту, проходил с четверга 29 января по воскресенье первого февраля в бельгийском городке Генте (нидерл. {{< fl "Gent" >}}, англ. {{< fl "Ghent" >}}), в котором я [был]({{< relref "0212" >}}) около года назад.
+Этот фестиваль, третий по счёту, проходил с четверга 29 января по воскресенье первого февраля в бельгийском городке Генте (нидерл. {{< fl "Gent" >}}, англ. {{< fl "Ghent" >}}), в котором я {{< intref "0212" "был" >}} около года назад.
 
 Да и грех было там не побывать, от нас это в двух часах езды на машине, если без пробок. Нам повезло заранее разжиться гостиницей в самом центре по какой-то Групоновской акции, в [Hotel Gravensteen](http://www.gravensteen.be/), что находится буквально через дорогу от замка {{< wiki "Замок_графов_Фландрии" "ru" "Gravensteen" >}}.
 {{< imgfig "https://3.bp.blogspot.com/-PdDIi6H1PV0/VM6b9MzoxVI/AAAAAAAAg4w/G3cxo56ue48/s1600/dsc07915.picasaweb.jpg" "Замок Графов Фландрии." >}}
@@ -28,7 +28,7 @@ aliases:
 Несмотря на конец января, на улицах нет ни снежинки, температура держится в диапазоне +2–5° C. В солнечную погоду Гент хорош, как всегда.
 {{< imgfig "https://3.bp.blogspot.com/-UnxQt8vxT7s/VM6b-1vcmWI/AAAAAAAAg5A/EkpoRIbHayI/s1600/dsc07918.picasaweb.jpg" "Река Лейе." >}}
 
-Впрочем, мы это всё уже [видели]({{< relref "0212" >}}). То, ради чего мы здесь оказались, начинается, когда на город спускаются сумерки, около шести часов вечера, и длится до полуночи. В экспозицию входит с [полсотни «экспонатов»](http://www.lichtfestivalgent.be/en/program/) самых различных размеров и принципов действия, расположенных вдоль пятикилометрового маршрута ([PDF](http://www.lichtfestivalgent.be/site/assets/files/1020/lfg-route-en-fr-1.pdf)).
+Впрочем, мы это всё уже {{< intref "0212" "видели" >}}. То, ради чего мы здесь оказались, начинается, когда на город спускаются сумерки, около шести часов вечера, и длится до полуночи. В экспозицию входит с [полсотни «экспонатов»](http://www.lichtfestivalgent.be/en/program/) самых различных размеров и принципов действия, расположенных вдоль пятикилометрового маршрута ([PDF](http://www.lichtfestivalgent.be/site/assets/files/1020/lfg-route-en-fr-1.pdf)).
 
 Вот, например, разбросанные по траве шары некоего [Collectif Coin](http://www.collectif-coin.com/), которые мигают под неизвестно откуда доносящуюся музыку:
 {{< imgfig "https://4.bp.blogspot.com/-siCmXUvqaSY/VM6b0-b_2ZI/AAAAAAAAg3g/elQ-cstm4w0/s1600/dsc07895.picasaweb.jpg" "Collectif Coin — Globoscope." >}}

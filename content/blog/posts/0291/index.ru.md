@@ -9,7 +9,7 @@ aliases:
     - /ru/blog/post/291
 ---
 
-В связи с появлением некоторого количества свободного времени смог уделить больше внимания [Sound Switcher Indicator]({{< relref "/software/sound-switcher-indicator" >}}) и реализовать ещё кое-что, о чём давно просили.
+В связи с появлением некоторого количества свободного времени смог уделить больше внимания {{< intref "/software/sound-switcher-indicator" "Sound Switcher Indicator" >}} и реализовать ещё кое-что, о чём давно просили.
 
 <!--more-->
 

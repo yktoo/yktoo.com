@@ -29,4 +29,4 @@ There are three lanes inside the wheel, so you can invite more people to join. U
 
 {{< imgfig "https://2.bp.blogspot.com/-um9X8_oDMOs/TaaukMnFT6I/AAAAAAAAItc/l_KmFgUtTUE/s1600/dsc01369.picasaweb.jpg" >}}
 
-Next: [Part 2. Vienna]({{< relref "0084" >}})
+Next: {{< intref "0084" "Part 2. Vienna" >}}

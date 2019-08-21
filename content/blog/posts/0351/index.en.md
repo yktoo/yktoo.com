@@ -33,10 +33,10 @@ If you are subscribed to email updates (executed by Feedburner), no action is re
 
 ## Why this change?
 
-Just like the website of [Yktoo Solutions]({{< relref "0346" >}}), `yktoo.com` is reimplemented as a static website with [Hugo](https://gohugo.io/). I plan to provide more insight and technical details on the migration later on.
+Just like the website of {{< intref "0346" "Yktoo Solutions" >}}, `yktoo.com` is reimplemented as a static website with [Hugo](https://gohugo.io/). I plan to provide more insight and technical details on the migration later on.
 
 The main rationale behind the migration was the streamlining and the simplification of site administration tasks, which became quite a pain over time. The complexity of running a home-brewed PHP application is to some extent to blame that I'm posting so rarely these days (apart from my being lazy, that is).
 
 With this change I expect to manage much more frequent postings.
 
-So check back coming Monday on the all-new `yktoo.com` website! And do [let me know]({{< relref "/about/contact" >}}) should you find any errors or typos!
+So check back coming Monday on the all-new `yktoo.com` website! And do {{< intref "/about/contact" "let me know" >}} should you find any errors or typos!

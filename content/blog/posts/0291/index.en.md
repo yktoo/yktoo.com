@@ -9,7 +9,7 @@ aliases:
     - /en/blog/post/291
 ---
 
-I've been able to pay a bit more attention to the [Sound Switcher Indicator]({{< relref "/software/sound-switcher-indicator" >}}) and implement some of the long asked-for features.
+I've been able to pay a bit more attention to the {{< intref "/software/sound-switcher-indicator" "Sound Switcher Indicator" >}} and implement some of the long asked-for features.
 
 <!--more-->
 

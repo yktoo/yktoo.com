@@ -8,7 +8,7 @@ aliases:
     - /en/blog/post/234
 ---
 
-So we've settled in [Houten]({{< relref "0221" >}}). It's time to go in particulars on how we sought a house.
+So we've settled in {{< intref "0221" "Houten" >}}. It's time to go in particulars on how we sought a house.
 
 Looking for a house has a special name in Dutch: {{< fl "huizenjacht" >}}, which literally translates as "househunt". During the *hunt* we gradually figured out a number of criteria:
 
@@ -84,7 +84,7 @@ I also find somewhat strange to live among foreigners, having settled in Holland
 
 ## Cultural life {#cultural-life}
 
-At the same time hiding deeply in the Dutch countryside doesn't seem attractive to me. I like to entertain and be entertained, so Amersfoort was a perfect place in this regard: it had [Jazz Festival]({{< relref "0185" >}}), [Dias Latinos]({{< relref "0109" >}}), [Spoffin]({{< relref "0196" >}}) and so forth. I wanted something similar.
+At the same time hiding deeply in the Dutch countryside doesn't seem attractive to me. I like to entertain and be entertained, so Amersfoort was a perfect place in this regard: it had {{< intref "0185" "Jazz Festival" >}}, {{< intref "0109" "Dias Latinos" >}}, {{< intref "0196" "Spoffin" >}} and so forth. I wanted something similar.
 
 And Houten is a good trade-off: it only takes ten minutes by train to down-town Utrecht, like it was in Amersfoort with the bike. And Utrecht of course has rich entertainment facilities.
 

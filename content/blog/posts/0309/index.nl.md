@@ -73,4 +73,4 @@ Zolang je uitgaven overeenkomen met je professionele activiteiten zal de Belasti
 
 Ik moet toegeven dat aan beide kanten de argumenten sterk zijn. Zelf heb ik nog geen eindbeslissing genomen. Al is het pas de tweede maand van mijn zelfstandigheid, ik krijg steeds beter de slag te pakken van het eigen baas zijn. De tijd zal het uitwijzen.
 
-*Vervolg:* [Vormen en personen]({{< relref "0310" >}})
+*Vervolg:* {{< intref "0310" "Vormen en personen" >}}

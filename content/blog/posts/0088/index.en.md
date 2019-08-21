@@ -50,7 +50,7 @@ Now the language: it's a sheer nightmare. It didn't make any shred of sense when
 Street is {{< fl "utca" >}} (pronounced {{< fl "oot-tsa" >}}), but in our ignorance we were saying it wrong, and it sounded like Russian {{< fl "утка" >}} (which means "duck"), and I found this funny.
 {{< imgfig "https://4.bp.blogspot.com/-VIGinjV7CxU/Tan3Gs_dCAI/AAAAAAAAItc/bHPDzMcEMEc/s1600/dsc01753.picasaweb.jpg" "One of the 'ducks'" >}}
 
-Hungary is the origin of Ikarus busses. At one time they have been ubiquitous on Russian roads (and there are many being used still). It's a part of my own history, like [MMM]({{< relref "0077" >}}) and the bubble gum called "Love Is".
+Hungary is the origin of Ikarus busses. At one time they have been ubiquitous on Russian roads (and there are many being used still). It's a part of my own history, like {{< intref "0077" "MMM" >}} and the bubble gum called "Love Is".
 
 Here you can see some bizarre editions like this open tourist bus:
 {{< imgfig "https://2.bp.blogspot.com/-ckGB0poJIvg/Tan1eOjiQaI/AAAAAAAAItc/WGskN2LSqz8/s1600/dsc01911.picasaweb.jpg" >}}
@@ -67,4 +67,4 @@ But in general they look alright. I'm happy that corruption is here evidently no
 A close-up:
 {{< imgfig "https://3.bp.blogspot.com/-4DN3EGDXGzw/Tan16V3J-eI/AAAAAAAAItc/L9NAUcB6iEw/s1600/dsc01931.picasaweb.jpg" >}}
 
-Next: [Part 7. Budapest at night]({{< relref "0089" >}})
+Next: {{< intref "0089" "Part 7. Budapest at night" >}}

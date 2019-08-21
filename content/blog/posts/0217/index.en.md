@@ -10,13 +10,13 @@ aliases:
     - /en/blog/post/217
 ---
 
-I've finally got to update my [Sound Switcher Indicator]({{< relref "/software/sound-switcher-indicator" >}}). Version 1.2.0 adds support for selecting not only the input/output device, but also a specific port:
+I've finally got to update my {{< intref "/software/sound-switcher-indicator" "Sound Switcher Indicator" >}}. Version 1.2.0 adds support for selecting not only the input/output device, but also a specific port:
 {{< imgfig "https://3.bp.blogspot.com/-AcxuT-Iu-fQ/Uu4Qsv-K3qI/AAAAAAAAb1E/sXZ4SsxuFBc/s1600/Screenshot.png" >}}
 
 <!--more-->
 
 Although this doesn't look like a drastic change, it required a major code rewrite. Which is for the better I hope. I've finally managed to address thread {{< wiki "Race_condition" "en" "race conditions" >}} by moving PulseAudio callback handling to the GUI thread and getting rid of the dubious `Gdk.threads_init()`.
 
-I've made most of the implementation during the long flight to [Egypt]({{< relref "0209" >}}), when I suffered from being offline and unable to google. But the final bit required [consulting](http://stackoverflow.com/questions/20844540/handle-a-signal-in-another-thread-in-python) StackOverflow and took much longer.
+I've made most of the implementation during the long flight to {{< intref "0209" "Egypt" >}}, when I suffered from being offline and unable to google. But the final bit required [consulting](http://stackoverflow.com/questions/20844540/handle-a-signal-in-another-thread-in-python) StackOverflow and took much longer.
 
-You can install or update the application, as usual, via my Launchpad PPA, see the [installation manual]({{< relref "/software/sound-switcher-indicator" >}}).
+You can install or update the application, as usual, via my Launchpad PPA, see the {{< intref "/software/sound-switcher-indicator" "installation manual" >}}.

@@ -10,7 +10,7 @@ aliases:
 
 This bash script picks up a random image file (.jpg, .jpeg or .png) from the predefined directory and sets it as wallpaper.
 
-The [previous version]({{< relref "0106" >}}) of the script worked fine with GNOME 2 and Ubuntu 11.04 (and earlier), but after `GConf` backend was changed to `dconf` in GNOME 3, it stopped working.
+The {{< intref "0106" "previous version" >}} of the script worked fine with GNOME 2 and Ubuntu 11.04 (and earlier), but after `GConf` backend was changed to `dconf` in GNOME 3, it stopped working.
 
 <!--more-->
 
@@ -20,4 +20,4 @@ The only thing to setup in the below script is the path to image files in `dir_w
 
 ## Source code
 
-You can download the latest version on [script page]({{< relref "/software/yktools" >}}) on my website.
+You can download the latest version on {{< intref "/software/yktools" "script page" >}} on my website.

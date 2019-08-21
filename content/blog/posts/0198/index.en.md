@@ -8,11 +8,11 @@ aliases:
     - /en/blog/post/198
 ---
 
-Recently I've discovered a peculiar feature of my [M-Audio Studiophile AV 40]({{< relref "0189" >}}) speakers.
+Recently I've discovered a peculiar feature of my {{< intref "0189" "M-Audio Studiophile AV 40" >}} speakers.
 
 <!--more-->
 
-As I [wrote]({{< relref "0189" >}}), I'm using a Master/Slave power switch. It allows automatic turning off the power of up to four dependent devices when the master device (a PC in my case) is switched off. After I've rewired my quite complicated device setup, the speakers began to produce a deafening popping sound at the power switch-off. Considering their output power of 15 W per channel, this was far from enjoyable. And interestingly enough, this didn't happen in the beginning.
+As I {{< intref "0189" "wrote" >}}, I'm using a Master/Slave power switch. It allows automatic turning off the power of up to four dependent devices when the master device (a PC in my case) is switched off. After I've rewired my quite complicated device setup, the speakers began to produce a deafening popping sound at the power switch-off. Considering their output power of 15 W per channel, this was far from enjoyable. And interestingly enough, this didn't happen in the beginning.
 
 One day I felt I was fed up with it so I started experimenting.
 

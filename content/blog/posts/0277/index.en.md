@@ -10,7 +10,7 @@ aliases:
     - /en/blog/post/277
 ---
 
-The last Queen's Day to date happened [three years ago]({{< relref "0184" >}}), when Princess Beatrix, then still the Queen of the Netherlands, [announced]({{< relref "0176" >}}) her upcoming abdication for her son Willem-Alexander. The latter celebrates his birthday on **April 27<sup>th</sup>**, which is very conveniently near the former date of April 30<sup>th</sup>.
+The last Queen's Day to date happened {{< intref "0184" "three years ago" >}}, when Princess Beatrix, then still the Queen of the Netherlands, {{< intref "0176" "announced" >}} her upcoming abdication for her son Willem-Alexander. The latter celebrates his birthday on **April 27<sup>th</sup>**, which is very conveniently near the former date of April 30<sup>th</sup>.
 
 <!--more-->
 
@@ -41,4 +41,4 @@ The most posh boats were the orange ones of course:
 However not many ventured on hiring a boat in such weather, as you'd have hard time on it once it started raining.
 {{< imgfig "https://1.bp.blogspot.com/-2KY7ysDXTBs/VyTma2Z2_oI/AAAAAAAAl5I/iFt7qneFYoQzuiX7Mf7leQepxvs7Ih3ZQCKgB/s1600/20160427_182859.picasaweb.jpg" "Amsterdam canals." >}}
 
-Certainly, it's pretty much all the same as in [2013]({{< relref "0184" >}}), [2012]({{< relref path="0153" lang="ru" >}}) and [2010]({{< relref path="0052" lang="ru" >}}). But it's a tradition, and quite a good one.
+Certainly, it's pretty much all the same as in {{< intref "0184" "2013" >}}, [2012]({{< relref path="0153" lang="ru" >}}) and [2010]({{< relref path="0052" lang="ru" >}}). But it's a tradition, and quite a good one.

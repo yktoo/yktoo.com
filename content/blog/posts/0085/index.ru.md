@@ -79,4 +79,4 @@ aliases:
 А мы двигаемся дальше.
 {{< imgfig "https://1.bp.blogspot.com/-j57JbjWCxrU/TaauD_VCoLI/AAAAAAAAItc/di06WeVhmuE/s1600/dsc01550.picasaweb.jpg" >}}
 
-Продолжение: [Часть 4. Вена. Шёнбрунн]({{< relref "0086" >}})
+Продолжение: {{< intref "0086" "Часть 4. Вена. Шёнбрунн" >}}

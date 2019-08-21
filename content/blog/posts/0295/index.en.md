@@ -9,7 +9,7 @@ aliases:
     - /en/blog/post/295
 ---
 
-[Sound Switcher Indicator]({{< relref "/software/sound-switcher-indicator" >}}) is getting more and more intricate and advanced thanks to the never-ending stream of ideas from the users. The majority of changes in the version **2.1.1** pertain to the configuration file (`$HOME/.config/indicator-sound-switcher.json`).
+{{< intref "/software/sound-switcher-indicator" "Sound Switcher Indicator" >}} is getting more and more intricate and advanced thanks to the never-ending stream of ideas from the users. The majority of changes in the version **2.1.1** pertain to the configuration file (`$HOME/.config/indicator-sound-switcher.json`).
 
 ## What's new
 

@@ -8,7 +8,7 @@ aliases:
     - /en/blog/post/135
 ---
 
-About a month ago I [posted]({{< relref "0126" >}}) about [Google Music](http://music.google.com/) cloud music storage service opening for public (which is still officially available in the US only).
+About a month ago I {{< intref "0126" "posted" >}} about [Google Music](http://music.google.com/) cloud music storage service opening for public (which is still officially available in the US only).
 
 Uploading 130 GB of music to the cloud has completed in about four days, so now I can enjoy the whole collection online from anywhere—although with some shortcomings (which are perhaps to be eliminated once the service goes out of the beta).
 {{< imgfig "https://3.bp.blogspot.com/-SIWgCWPXado/TutmMgf6TOI/AAAAAAAAKmo/o7lxADgiPyw/s1600/google-music.png" >}}

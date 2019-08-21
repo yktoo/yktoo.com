@@ -105,7 +105,7 @@ Here's all my footage of Passion:
 
 ## Special Acoustic Evening with Stream of Passion {#special-acoustic-evening-with-sop}
 
-The second event, happened exactly a week later, on September 13<sup>th</sup>, in [Tivoli Spiegelbar](http://www.tivoli.nl/Tivoli-Spiegelbar) of Utrecht was the "Special Acoustic Evening with Stream of Passion". {{< fl "Spiegelbar" >}} ("mirror bar" in Dutch, apparently named after numerous mirror balls hanging there) is a sibling of another Tivoli venue, [De Helling](http://www.tivoli.nl/Tivoli-de-Helling), where I spent the "[Winter Evening]({{< relref "0175" >}})" with the same crowd.
+The second event, happened exactly a week later, on September 13<sup>th</sup>, in [Tivoli Spiegelbar](http://www.tivoli.nl/Tivoli-Spiegelbar) of Utrecht was the "Special Acoustic Evening with Stream of Passion". {{< fl "Spiegelbar" >}} ("mirror bar" in Dutch, apparently named after numerous mirror balls hanging there) is a sibling of another Tivoli venue, [De Helling](http://www.tivoli.nl/Tivoli-de-Helling), where I spent the "{{< intref "0175" "Winter Evening" >}}" with the same crowd.
 
 What can I say, I was blown away! Marcela's voice sounds fantastic in acoustic, more colourful and touching in my opinion.
 

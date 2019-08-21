@@ -10,7 +10,7 @@ aliases:
     - /en/blog/post/229
 ---
 
-While euro and dollar are *enjoying* a record growth in Russia, we're enjoying one of the warmest autumns on record here in Holland, yet [again]({{< relref "0118" >}}). Whatever caused it, sanctions or global warming.
+While euro and dollar are *enjoying* a record growth in Russia, we're enjoying one of the warmest autumns on record here in Holland, yet {{< intref "0118" "again" >}}. Whatever caused it, sanctions or global warming.
 {{< imgfig "https://3.bp.blogspot.com/-FT_-_funYBI/VGD0HR2HkvI/AAAAAAAAf98/_DvNt9habOo/s1600/dsc06921.picasaweb.jpg" "Heidestein estate." >}}
 
 <!--more-->
@@ -33,5 +33,5 @@ The last summer was also unusually warm and sunny. On June 19<sup>th</sup>, the 
 However it's back on track now and thermometer readings fall in a customary range of 12-15° C (54-59° F).
 {{< imgfig "https://2.bp.blogspot.com/-TJECabdSAVY/VGDzgskAKtI/AAAAAAAAf5A/OYSHcyIf89s/s1600/dsc06852.picasaweb.jpg" "More autumn colours." >}}
 
-But the humidity is always there. Just as [before]({{< relref "0128" >}}).
+But the humidity is always there. Just as {{< intref "0128" "before" >}}.
 {{< imgfig "https://3.bp.blogspot.com/-ABmiZl5MylY/VGDzSCE7l_I/AAAAAAAAf3Y/i4jxQJSja6s/s1600/20141003_082858.picasaweb.jpg" >}}
