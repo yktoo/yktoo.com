@@ -2,7 +2,12 @@
 type: post
 date: "2011-04-26T00:00:00Z"
 title: "Новости мусора"
-tags: ["интересное", "мусор", "Нидерланды", "почта"]
+tags:
+    - интересное
+    - мусор
+    - Нидерланды
+    - почта
+    - экология
 image: "https://4.bp.blogspot.com/-RKtTfkUxZ7Q/TbbsGAbLDCI/AAAAAAAAIgI/kgo5s35ey3A/s1600/afvalnieuws-1.picasaweb.jpg"
 aliases:
     - /ru/blog/post/93

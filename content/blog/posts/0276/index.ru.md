@@ -2,7 +2,12 @@
 type: post
 date: "2016-04-30T00:00:00Z"
 title: "Отделить телефоны от котлет"
-tags: ["гаджеты", "забавное", "мусор", "Нидерланды"]
+tags: 
+    - гаджеты
+    - забавное
+    - мусор
+    - Нидерланды
+    - экология
 image: "https://2.bp.blogspot.com/-jL2wyfC1WDw/VyTmayHUOLI/AAAAAAAAl5I/hBBZ6CFkK18OwexqP5wAcgXIH67pwrB9QCKgB/s1600/20160429_171914.picasaweb.jpg"
 aliases:
     - /ru/blog/post/276
