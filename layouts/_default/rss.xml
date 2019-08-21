@@ -1,7 +1,7 @@
 {{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\" ?>" | safeHTML }}
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>{{ .Site.Title }} | {{ T "blog" }} {{ T "postsCurLang" }}</title>
+        <title>{{ .Site.Title }} | {{ T "blog" }}: {{ T "postsCurLang" }}</title>
         <link>{{ .Permalink }}</link>
         <description>{{ .Site.Title }} blog</description>
         <generator>Hugo {{ hugo.Version }}</generator>
@@ -31,7 +31,7 @@
                     {{- end -}}
                     <!-- Insert image tag -->
                     {{- with $url -}}
-                        {{- printf `<img style="width: 500px; height: auto;" src=%q alt="Post image">` . -}}
+                        {{- printf `<img style="width: 500px; height: auto;" src=%q alt="Post image"><br><br>` . -}}
                     {{- end -}}
                 {{- end -}}
                 <!-- Put post summary or description -->
