@@ -4,8 +4,8 @@
 {{/* If there's "http(s)://" given, just use it as is, and no internal class added */}}
 {{- if $url.Scheme -}}
     <a href="{{ .Get 0 }}">{{ $text }}</a>
-{{/* Otherwise we consider it an internal link */}}
 {{- else -}}
+    {{/* Otherwise we consider it an internal link */}}
     {{- $pageToLink := false -}}
 
     {{/* If there's language given, iterate all sites to find the one with this language */}}
