@@ -81,9 +81,21 @@
                 {{- end }}
             </section>
 
+            <!-- See also -->
+            {{- with .Site.RegularPages.Related . }}
+            <section class="blog-post-comments">
+                <h2>{{ T "seeAlso" }}</h2>
+                <ul class="list-unstyled">
+                    {{- range first 7 . }}
+                    <li>{{ .Render "lang-link" }}</li>
+                    {{- end }}
+                </ul>
+            </section>
+            {{- end }}
+
             <!-- Comments -->
             <section class="blog-post-comments">
-                <h3>{{ T "comments" }}</h3>
+                <h2>{{ T "comments" }}</h2>
                 <!-- Do not insert comments block in drafts or when running on localhost -->
                 {{- if or .Draft (in (print $.Site.BaseURL) "localhost") }}
                 <div class="placeholder">(comments will go here)</div>

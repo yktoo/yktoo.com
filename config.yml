@@ -53,10 +53,12 @@ params:
 related:
     threshold: 50
     includeNewer: true
-    toLower: false
+    toLower: true
     indices:
         - name: software
           weight: 1
+        - name: tags
+          weight: 10
 
 permalinks:
     # Arrange blog posts in /blog/post/YYYY/MM/DD-name structure
