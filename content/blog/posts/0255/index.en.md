@@ -9,7 +9,7 @@ aliases:
     - /en/blog/post/255
 ---
 
-It's been a while since I {{< intref "0231" "posted" >}} about replacing an iMac's HDD with a solid-state drive (SSD) Samsung 840 EVO, and also about {{< intref "0233" "tuning your Ubuntu" >}} for it. Once done, you can enjoy the awesome overall responsiveness of your system and instantaneous application startup. And all that at an affordable price.
+It's been a while since I {{< a "0231" "posted" >}} about replacing an iMac's HDD with a solid-state drive (SSD) Samsung 840 EVO, and also about {{< a "0233" "tuning your Ubuntu" >}} for it. Once done, you can enjoy the awesome overall responsiveness of your system and instantaneous application startup. And all that at an affordable price.
 
 <!--more-->
 

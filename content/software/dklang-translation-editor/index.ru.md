@@ -10,7 +10,7 @@ seeAlso:
       url: '../dklang-localization-package/'
 ---
 
-**DKLang Translation Editor** — графическое приложение для редактирования переводом {{< intref "/software/dklang-localization-package" "DKLang Localization Package" >}}.
+**DKLang Translation Editor** — графическое приложение для редактирования переводом {{< a "/software/dklang-localization-package" "DKLang Localization Package" >}}.
 
 ## Особенности
 

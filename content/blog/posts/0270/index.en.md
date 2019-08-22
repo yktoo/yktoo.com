@@ -13,7 +13,7 @@ aliases:
 
 I've been lucky to have had a good deal of {{< fl "wintersport" >}} this season, as well as to come back in one piece.
 
-Our destination was chosen to be the Austrian {{< wiki "Sölden" "en" "Sölden" >}}, also located in Tyrol like Ischgl where I'd been a [year ago]({{< relref path="0239" lang="ru" >}}).
+Our destination was chosen to be the Austrian {{< wiki "Sölden" "en" "Sölden" >}}, also located in Tyrol like Ischgl where I'd been a {{< a "0239" "year ago" "ru" >}}.
 {{< imgfig "https://3.bp.blogspot.com/-ypJHKvDbGGA/Vrd2qvWMm6I/AAAAAAAAlVo/7gneIBHSzfE/s1600/20160125_155713.picasaweb.jpg" "Sölden. Tyrol. Alps." >}}
 
 <!--more-->
@@ -41,7 +41,7 @@ The last thirty or so kilometres you drive along the {{< wiki "Ötztal" "en" "Ö
 
 ## Sölden {#solden}
 
-Sölden is another little town down the Ötztal valley, looking very much like Längenfeld but with a vast skiing area. It's smaller than one in [Ischgl]({{< relref path="0239" lang="ru" >}}) (**33** vs. **45** ski lifts and **145 km** of pistes vs. **238 km** in Ischgl), but somewhat more intricate.
+Sölden is another little town down the Ötztal valley, looking very much like Längenfeld but with a vast skiing area. It's smaller than one in {{< a "0239" "Ischgl" "ru" >}} (**33** vs. **45** ski lifts and **145 km** of pistes vs. **238 km** in Ischgl), but somewhat more intricate.
 {{< imgfig "https://1.bp.blogspot.com/-0vfBccLPS84/Vri0pDrFXWI/AAAAAAAAlYE/1y_q4EPPPV0/s1600/soelden-ski-map.jpg" "Ski map of Sölden (source: soelden.com)." >}}
 
 So for example the top left area called [Tiefenbach Glacier](http://www.soelden.com/glacier-skiing) ({{< fl "Tiefenbach Gletscher" >}}) is only accessible via a chain of lifts and slopes starting at top right.
@@ -49,7 +49,7 @@ So for example the top left area called [Tiefenbach Glacier](http://www.soelden.
 The first lift brings you from the altitude of the valley, **1350 m**, to **2284 m** in about ten minutes of ~~ominous~~ silence.
 {{< imgfig "https://4.bp.blogspot.com/-_6NrsPZYQMQ/Vrd2qmjPJxI/AAAAAAAAlVo/ZhjGxyBv_sE/s1600/20160124_103743.picasaweb.jpg" "Sölden from the cable car." >}}
 
-This time I switched from skis to snowboard, just as I [planned]({{< relref path="0239" lang="ru" >}}), for the first time in my life. This resulted in a multitude of new sensations in various parts of my body, mostly arising from their contact with the hard piste. Despite the basic training I previously got indoors, I failed even to stand up on that stupid board on the slope. Then I stopped trying and went to find a {{< fl "skischule" >}}, which are plenty there.
+This time I switched from skis to snowboard, just as I {{< a "0239" "planned" "ru" >}}, for the first time in my life. This resulted in a multitude of new sensations in various parts of my body, mostly arising from their contact with the hard piste. Despite the basic training I previously got indoors, I failed even to stand up on that stupid board on the slope. Then I stopped trying and went to find a {{< fl "skischule" >}}, which are plenty there.
 
 After four hours of tumbling downhill with a small group of Dutch I could finally slide on both *toe* and *heel edges*, as well as switch from one to the other. We practised on a short stretch of the piste, climbing it up all the time. Which proved to be pretty tiresome.
 {{< imgfig "https://3.bp.blogspot.com/-dDJGbAkjwSY/Vrd2qpUu2NI/AAAAAAAAlVo/hXbfU-rohcQ/s1600/20160124_124825.picasaweb.jpg" "Our share of the piste." >}}

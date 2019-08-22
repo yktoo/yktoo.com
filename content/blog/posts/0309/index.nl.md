@@ -9,7 +9,7 @@ aliases:
     - /nl/blog/post/309
 ---
 
-Om het thema van [mijn werkjubileum]({{< relref path="0307" lang="ru" >}}) voort te zetten en [mijn belofte]({{< relref path="0302" lang="ru" >}}) na te komen wil ik de diepte ingaan met een verhaal over de redenen dat ik ondernemer ben geworden. Omdat het verhaal vrij lang blijkt te zijn, ga ik het opsplitsen.
+Om het thema van {{< a "0307" "mijn werkjubileum" "ru" >}} voort te zetten en {{< a "0302" "mijn belofte" "ru" >}} na te komen wil ik de diepte ingaan met een verhaal over de redenen dat ik ondernemer ben geworden. Omdat het verhaal vrij lang blijkt te zijn, ga ik het opsplitsen.
 
 Het idee om freelancer (ofwel zzp'er) te worden was in feite helemaal niet nieuw. Tal van mijn buitenlandse vrienden zijn al jaren zzp'er geweest. Het gaat vooral om ICT-specialisten omdat zij wellicht in de meerderheid zijn onder degene die uit de voormalige Sovjet-Unie komen.
 
@@ -25,7 +25,7 @@ Er waren echter een aantal dingen om rekening mee te houden en daar wil ik mee b
 
 1. In de eerste plaats is het gewoon niet toegestaan om zzp'er te zijn als je *kennismigrant* bent. Een kennismigrant die naar Nederland komt krijgt in het begin een tijdelijke verblijfsvergunning die één of vijf jaar geldig is. Als hij verloopt, moet de migrant hem verlengen. Zo'n verblijfsvergunning staat alleen gekwalificeerde arbeid toe, en enkel in loondienst. Dat wil zeggen, je mag niet zelfstandig zijn en mag niet tomaten gaan plukken in de kas.
 <p></p>
-Nadat je vijf jaar in Nederland hebt gewoond en een [taalexamen]({{< relref path="0187" lang="ru" >}}) hebt gedaan mag je een *verblijfsvergunning onbepaalde tijd* of een Nederlands paspoort aanvragen (wat ik [heb gedaan]({{< relref path="0219" lang="ru" >}})). In beide gevallen vervallen de bovengenoemde arbeidsbeperkingen.
+Nadat je vijf jaar in Nederland hebt gewoond en een {{< a "0187" "taalexamen" "ru" >}} hebt gedaan mag je een *verblijfsvergunning onbepaalde tijd* of een Nederlands paspoort aanvragen (wat ik {{< a "0219" "heb gedaan" "ru" >}}). In beide gevallen vervallen de bovengenoemde arbeidsbeperkingen.
 
 2. Ten tweede krijgt elke kennismigrant een cadeau van de Nederlandse overheid dat **30%-regeling** wordt genoemd. De bedoeling daarvan is dat 30% van al je inkomsten vrijgesteld is van belastingen. Deze vrijstelling wordt tegenwoordig voor acht jaar toegekend en in 2008, toen ik naar Nederland kwam, was het tien jaar. Officieel dient de regeling ter compensatie van extraterritoriale kosten die de kennismigrant maakt.
 <p></p>
@@ -73,4 +73,4 @@ Zolang je uitgaven overeenkomen met je professionele activiteiten zal de Belasti
 
 Ik moet toegeven dat aan beide kanten de argumenten sterk zijn. Zelf heb ik nog geen eindbeslissing genomen. Al is het pas de tweede maand van mijn zelfstandigheid, ik krijg steeds beter de slag te pakken van het eigen baas zijn. De tijd zal het uitwijzen.
 
-*Vervolg:* {{< intref "0310" "Vormen en personen" >}}
+*Vervolg:* {{< a "0310" "Vormen en personen" >}}

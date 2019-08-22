@@ -10,7 +10,7 @@ aliases:
     - /ru/blog/post/218
 ---
 
-После {{< intref "0217" "предыдущего" >}} релиза {{< intref "/software/sound-switcher-indicator" "Sound Switcher Indicator" >}} о нём [написал](http://www.webupd8.org/2014/02/sound-switcher-ubuntu-indicator.html) довольно известный ресурс Web Upd8, и я ~~проснулся знаменитым~~ сразу начал получать багрепорты, фичереквесты, вопросы и предложения.
+После {{< a "0217" "предыдущего" >}} релиза {{< a "/software/sound-switcher-indicator" "Sound Switcher Indicator" >}} о нём [написал](http://www.webupd8.org/2014/02/sound-switcher-ubuntu-indicator.html) довольно известный ресурс Web Upd8, и я ~~проснулся знаменитым~~ сразу начал получать багрепорты, фичереквесты, вопросы и предложения.
 
 Так, например, выяснилось, что индикатор используют в предыдущих версиях Убунту (вплоть до 12.04).
 
@@ -32,6 +32,6 @@ aliases:
 
 ## Установка {#installation}
 
-Установить или обновить приложение можно, как обычно, через мой Launchpad PPA согласно {{< intref "/software/sound-switcher-indicator" "инструкции" >}}.
+Установить или обновить приложение можно, как обычно, через мой Launchpad PPA согласно {{< a "/software/sound-switcher-indicator" "инструкции" >}}.
 
 **Внимание**: поскольку поддержка 13.04 (Raring Ringtail) окончена, Launchpad больше не принимает билдов для неё. Вы можете скачать GTK+2-версию [отсюда](http://ppa.launchpad.net/yktooo/ppa/ubuntu/pool/main/i/indicator-sound-switcher/).

@@ -10,7 +10,7 @@ aliases:
     - /en/blog/post/298
 ---
 
-The present trend of dubbing everything "smart" based on mere presence of Wi-Fi, Bluetooth or Internet connection is a bit annoying. So we have seen smart washing machines, smart watches, {{< intref "0265" "smart smoke detectors" >}}, smart toothbrushes and so on. Now traffic-lights are next in line, according to our local press. A [news article](http://www.trefpunthouten.nl/nieuws/algemeen/46927/een-slim-stoplicht-voor-de-staart) announces the very first *smart traffic-light* ({{< fl "slim verkeerslicht" >}}) in the country has been installed in Houten.
+The present trend of dubbing everything "smart" based on mere presence of Wi-Fi, Bluetooth or Internet connection is a bit annoying. So we have seen smart washing machines, smart watches, {{< a "0265" "smart smoke detectors" >}}, smart toothbrushes and so on. Now traffic-lights are next in line, according to our local press. A [news article](http://www.trefpunthouten.nl/nieuws/algemeen/46927/een-slim-stoplicht-voor-de-staart) announces the very first *smart traffic-light* ({{< fl "slim verkeerslicht" >}}) in the country has been installed in Houten.
 
 <!--more-->
 

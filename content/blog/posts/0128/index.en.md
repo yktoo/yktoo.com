@@ -13,7 +13,7 @@ aliases:
 
 Holland has been fogged for four days in a row. Sometimes the fog is so thick that one cannot see anything further than a dozen meters.
 
-I {{< intref "0066" "published" >}} already fogged Amersfoort by night.
+I {{< a "0066" "published" >}} already fogged Amersfoort by night.
 
 Now I show you pictures of fog by day.
 {{< imgfig "https://3.bp.blogspot.com/-monRec6m3LQ/Tsq4n96AnkI/AAAAAAAAKgI/1-TArn0qa_k/s1600/dsc07631.picasaweb.jpg" >}}
@@ -23,7 +23,7 @@ Now I show you pictures of fog by day.
 {{< imgfig "https://4.bp.blogspot.com/-ceM10rRRhJ0/Tsq4k634NSI/AAAAAAAAKfw/UlhF0F075X4/s1600/dsc07634.picasaweb.jpg" >}}
 {{< imgfig "https://4.bp.blogspot.com/-9yOUhxIseuM/Tsq4hYlJFOI/AAAAAAAAKfY/5MKICw4hi9c/s1600/dsc07642.picasaweb.jpg" >}}
 
-This is the meadow from {{< intref "0066" "this post" >}}. Try to find the house painted red and blue:
+This is the meadow from {{< a "0066" "this post" >}}. Try to find the house painted red and blue:
 {{< imgfig "https://4.bp.blogspot.com/-dKTT0-0shms/Tsq4jrO6S7I/AAAAAAAAKfs/u28zLFyCX_0/s1600/dsc07635.picasaweb.jpg" >}}
 
 A pond and a bike bridge crossing it:

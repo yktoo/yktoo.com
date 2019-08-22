@@ -31,7 +31,7 @@ The current implementation displays the following pieces of information (left to
 * Icon and description of the current weather conditions, air temperature
 * Rain map ("shower radar"), wind speed, relative humidity, air pressure, amount of rain, sunrise and sunset times, moon phase
 * Weather forecast for the next five days
-* Train departure times for {{< fl "Houten Castellum" >}} (that's where we {{< intref "0221" "happen" >}} to live), train routes to my work (via Utrecht)
+* Train departure times for {{< fl "Houten Castellum" >}} (that's where we {{< a "0221" "happen" >}} to live), train routes to my work (via Utrecht)
 * Bus departure times for the nearest bus stop
 * Currency exchange rates relative to Russian ruble
 

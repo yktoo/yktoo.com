@@ -22,7 +22,7 @@ After Piotr passed away, {{< fl "Riverside" >}} lay low for a long while, but in
 
 The band has played 28 shows in April and May in their [Towards the Blue Horizon Tour](https://riversideband.pl/en/news/item/riverside-towards-the-blue-horizon-tour-2017a).
 
-I happened to witness one of them held at {{< fl "De Boerderij" >}} club in Zoetermeer. The same place I've watched {{< intref "0321" "Wolverine et al." >}} just a month ago. Though this time the show was sold out and the venue was packed.
+I happened to witness one of them held at {{< fl "De Boerderij" >}} club in Zoetermeer. The same place I've watched {{< a "0321" "Wolverine et al." >}} just a month ago. Though this time the show was sold out and the venue was packed.
 {{< imgfig "https://3.bp.blogspot.com/-fG-wSfirxpI/WTRdaDX4xxI/AAAAAAAAqFQ/fzpeHNvIOcESNlWEY79i8ykHESNr39B2ACKgB/s1600/20170525_201911%25280%2529.picasaweb.jpg" "De Boerderij." >}}
 
 And to me it doesn't make any sense, why the attendance was so poor the previous time as I don't think *Wolverine*'s music is any less interesting than Riverside's.
@@ -43,7 +43,7 @@ During the tour the guitar part was taken care of by {{< fl "Maciej Meller" >}},
 In one of the songs Mariusz played an acoustic guitar instead of bass (if you can see that on the photo):
 {{< imgfig "https://2.bp.blogspot.com/-CvnU7zYGdzg/WTRdaMB8n2I/AAAAAAAAqFQ/Tq1e9G5E_2ILig6mBgR4IiRXE5DnF6DxQCKgB/s1600/20170525_214100.picasaweb.jpg" "Riverside: Mariusz Duda playing in acoustics." >}}
 
-Mariusz also mentioned about his warm feelings for Holland, just like {{< intref "0317#plini" "Plini" >}} and {{< intref "0321#wolverine" "Wolverine" >}} before. Which is fair enough considering that Riverside's popularity rocketed after their performance at the Progpower festival in the Dutch Baarlo. And, of course, the fact the show had been sold out was flattering for the musicians.
+Mariusz also mentioned about his warm feelings for Holland, just like {{< a "0317#plini" "Plini" >}} and {{< a "0321#wolverine" "Wolverine" >}} before. Which is fair enough considering that Riverside's popularity rocketed after their performance at the Progpower festival in the Dutch Baarlo. And, of course, the fact the show had been sold out was flattering for the musicians.
 {{< imgfig "https://2.bp.blogspot.com/-W0mubM4WoYk/WTRdaLB9HjI/AAAAAAAAqFQ/Wy3zwPetkQMQmHVzycSTCgopMDEcZr09QCKgB/s1600/20170525_223925.picasaweb.jpg" "Riverside." >}}
 
 The gig was professionally filmed by numerous cameras (like the one on the left on the photo above), so I expect the official video will become available soon.

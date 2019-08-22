@@ -20,4 +20,4 @@ There was already no sign of snow later in the afternoon.
 
 This winter is yet again one of the warmest ever. For example, December 22<sup>nd</sup> was this year the [warmest on record](http://nieuws.weeronline.nl/22-december-2015-winter-begint-record-warm/) (**+13.4 °C**, 56.12 °F).
 
-I actually don't mind that, I only like snow [in the mountains]({{< relref path="0239" lang="ru" >}}).
+I actually don't mind that, I only like snow {{< a "0239" "in the mountains" "ru" >}}.

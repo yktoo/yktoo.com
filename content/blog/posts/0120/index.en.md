@@ -25,7 +25,7 @@ In practice however, it is a bit more complicated.
 
 If you have an Apple ID account with a credit card linked to it, buying Lion is the most simple step, and very similar to how you do it in the mobile AppStore.
 
-Downloading three and a half gigabytes even on my [not really slow]({{< relref path="0100" lang="ru" >}}) connection took much longer than I would expect: after a few hours the download progress gauge was still showing about one third of the bar. Apple servers seem to have issues with maintaining connections. Thus a practical advice: start and watch Network Utility, as soon as the *Received Packets* counter stopped spinning, right click the downloading Lion icon, select *Pause download*, and then immediately *Resume download*—data starts streaming through the wires again—until the next choke:
+Downloading three and a half gigabytes even on my {{< a "0100" "not really slow" "ru" >}} connection took much longer than I would expect: after a few hours the download progress gauge was still showing about one third of the bar. Apple servers seem to have issues with maintaining connections. Thus a practical advice: start and watch Network Utility, as soon as the *Received Packets* counter stopped spinning, right click the downloading Lion icon, select *Pause download*, and then immediately *Resume download*—data starts streaming through the wires again—until the next choke:
 {{< imgfig "https://1.bp.blogspot.com/--3Epw__Km7s/TpC_hgUYFII/AAAAAAAAJ6Q/YGEfVBaMcUs/s1600/MacOSX-NetworkUtility.png" >}}
 
 Exercising the pause option you can download Lion in a quarter on an hour.

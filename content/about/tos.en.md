@@ -8,7 +8,7 @@ aliases:
 
 Yktoo.com refers to the service offered by Yktoo Solutions (the "Company" or "We") through the yktoo.com website (the "Service"). We sometimes refer to "You". "You" may be a visitor on one of our websites or a user of one or more of our Services ("User" or "Customer").
 
-The following terms and conditions (“Terms”) govern all use of the yktoo.com website and all content, services, and products available at or through the website. Our Services are offered subject to your acceptance without modification of all of the terms and conditions contained herein and all other operating rules, policies (including, without limitation, {{< intref "/about/privacy" "Yktoo.com Privacy Policy" >}}) and procedures that may be published from time to time by Yktoo Solutions (collectively, the “Agreement”). You agree that we may automatically upgrade our Services, and these Terms will apply to any upgrades.
+The following terms and conditions (“Terms”) govern all use of the yktoo.com website and all content, services, and products available at or through the website. Our Services are offered subject to your acceptance without modification of all of the terms and conditions contained herein and all other operating rules, policies (including, without limitation, {{< a "/about/privacy" "Yktoo.com Privacy Policy" >}}) and procedures that may be published from time to time by Yktoo Solutions (collectively, the “Agreement”). You agree that we may automatically upgrade our Services, and these Terms will apply to any upgrades.
 
 Please read this Agreement carefully before accessing or using our Services. By accessing or using any part of our Services, you agree to become bound by the Terms of this Agreement. If you do not agree to all the Terms of this Agreement, then you may not access or use any of our Services. If these Terms are considered an offer by Yktoo Solutions, acceptance is expressly limited to these Terms.
 
@@ -46,7 +46,7 @@ In no event will Yktoo Solutions, or its suppliers or licensors, be liable with 
 
 ## 8. General Representation and Warranty
 
-You represent and warrant that (i) your use of our Services will be in strict accordance with the Yktoo Solutions {{< intref "/about/privacy" "Privacy Policy" >}}, with this Agreement, and with all applicable laws and regulations (including without limitation any local laws or regulations in your country, state, city, or other governmental area, regarding online conduct and acceptable content, and including all applicable laws regarding the transmission of technical data exported from the United States or the country in which you reside) and (ii) your use of our Services will not infringe or misappropriate the intellectual property rights of any third party.
+You represent and warrant that (i) your use of our Services will be in strict accordance with the Yktoo Solutions {{< a "/about/privacy" "Privacy Policy" >}}, with this Agreement, and with all applicable laws and regulations (including without limitation any local laws or regulations in your country, state, city, or other governmental area, regarding online conduct and acceptable content, and including all applicable laws regarding the transmission of technical data exported from the United States or the country in which you reside) and (ii) your use of our Services will not infringe or misappropriate the intellectual property rights of any third party.
 
 ## 9. Indemnification
 
@@ -66,6 +66,6 @@ You may assign your rights under this Agreement to any party that consents to, a
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy, please contact us via the {{< intref "/about/contact" "contact form" >}}.
+If you have any questions about this Privacy Policy, please contact us via the {{< a "/about/contact" "contact form" >}}.
 
 Because email communications are not always secure, please do not include credit card or other sensitive data (such as racial or ethnic origin, political opinions, religion, health, or the like) in your messages to us.

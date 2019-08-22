@@ -13,7 +13,7 @@ Even though this TV is a pricey, it doesn't stop Samsung from trying to earn eve
 
 ## Camera {#camera}
 
-An {{< intref "0243" "HDMI cable" >}} isn't the only thing Samsung saved on. The TV is also lacking a camera out-of-the-box, which I definitely don't appreciate, considering numerous functions it's required for, like {{< intref "0246" "Skype" >}} or {{< intref "0244" "Motion Control" >}}.
+An {{< a "0243" "HDMI cable" >}} isn't the only thing Samsung saved on. The TV is also lacking a camera out-of-the-box, which I definitely don't appreciate, considering numerous functions it's required for, like {{< a "0246" "Skype" >}} or {{< a "0244" "Motion Control" >}}.
 
 <!--more-->
 
@@ -27,9 +27,9 @@ It's also equipped with a stereo mike and a mechanical shutter, which covers its
 
 The maximal resolution is 1920×1080. The camera is used, among other things, for the following:
 
-* Gesture recognition ({{< intref "0244" "Motion Control" >}});
+* Gesture recognition ({{< a "0244" "Motion Control" >}});
 * Face recognition for signing into Samsung account;
-* {{< intref "0246" "Skype" >}}, both for video calls and face login;
+* {{< a "0246" "Skype" >}}, both for video calls and face login;
 * Virtual Mirror in fitness applications.
 
 A blue LED indicates that the camera is active.
@@ -42,7 +42,7 @@ A bizarre device named *One Connect Box* or *UHD Evolution Kit*, model [SEK-2500
 
 {{< imgfig "https://1.bp.blogspot.com/-Stoatsq183o/VQx5RMfV5BI/AAAAAAAAhS0/W7MaYipO_WE/s1600/Samsung-OneConnectBox.picasaweb.jpg" "Samsung SEK-2500U UHD Evolution Kit, front view." >}}
 
-In addition to the same {{< intref "0244" "connectors already available" >}} on the TV, the Evolution Kit supports HDMI 2.0, {{< wiki "High-bandwidth_Digital_Content_Protection" "en" "HDCP" >}} 2.2 (Intel's version of DRM technology), the {{< wiki "Mobile_High-Definition_Link" "en" "MHL" >}} 3.0 mobile AV interface and the H.265 codec (a.k.a. HEVC, which is already {{< intref "0247" "available" >}} in this TV).
+In addition to the same {{< a "0244" "connectors already available" >}} on the TV, the Evolution Kit supports HDMI 2.0, {{< wiki "High-bandwidth_Digital_Content_Protection" "en" "HDCP" >}} 2.2 (Intel's version of DRM technology), the {{< wiki "Mobile_High-Definition_Link" "en" "MHL" >}} 3.0 mobile AV interface and the H.265 codec (a.k.a. HEVC, which is already {{< a "0247" "available" >}} in this TV).
 
 {{< imgfig "https://2.bp.blogspot.com/-B3P606ktdZ4/VQx5QpGroqI/AAAAAAAAhSs/JHlE8tP87DY/s1600/Samsung-OneConnectBox-2.picasaweb.jpg" "Samsung SEK-2500U UHD Evolution Kit, rear view." >}}
 
@@ -55,7 +55,7 @@ The price tag is staggering four hundred euros.
 
 It also features a tiny touchpad. The price is, like with the camera, about a hundred euros.
 
-As I mentioned in the {{< intref "0244" "previous part" >}}, the TV also supports standard USB and Bluetooth keyboards, but then you'll need to memorise that F8 is Pause and F2 is the "green" key.
+As I mentioned in the {{< a "0244" "previous part" >}}, the TV also supports standard USB and Bluetooth keyboards, but then you'll need to memorise that F8 is Pause and F2 is the "green" key.
 
 ## 3D glasses {#glasses-3d}
 
@@ -77,4 +77,4 @@ The TV can connect to Bluetooth headphones and external speakers. This is pretty
 
 It can also send the audio to *Multiroom Link* compatible devices, such as soundbars and subwoofers. I don't have much to say in this regard as I'm only considering buying some at the moment, so more on this to follow.
 
-*Next:* {{< intref "0246" "Part four. Smart Hub and applications" >}}
+*Next:* {{< a "0246" "Part four. Smart Hub and applications" >}}

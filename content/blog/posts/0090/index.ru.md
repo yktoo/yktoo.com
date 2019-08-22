@@ -133,4 +133,4 @@ aliases:
 И, в завершение этой части, панорама обзора с горы:
 {{< imgfig "https://4.bp.blogspot.com/-sOImrgjw4HE/TaoKhNMWuZI/AAAAAAAAItc/_aVJ7KbNckc/s1600/dsc01901.picasaweb.jpg" >}}
 
-Окончание: {{< intref "0091" "Часть 9. Будапешт. Базилика Св. Иштвана" >}}
+Окончание: {{< a "0091" "Часть 9. Будапешт. Базилика Св. Иштвана" >}}

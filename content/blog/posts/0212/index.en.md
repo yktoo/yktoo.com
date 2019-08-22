@@ -23,7 +23,7 @@ aliases:
     - /en/blog/post/212
 ---
 
-It's easy to find beautiful places here in Europe, outside of the {{< intref "0210" "desert" >}}, even in our damp winter. We stumbled upon a good accommodation offer in Ghent, one of the prettiest Belgian cities. I've been in Ghent [before]({{< relref path="0033" lang="ru" >}}), but only short time so I couldn't see much.
+It's easy to find beautiful places here in Europe, outside of the {{< a "0210" "desert" >}}, even in our damp winter. We stumbled upon a good accommodation offer in Ghent, one of the prettiest Belgian cities. I've been in Ghent {{< a "0033" "before" "ru" >}}, but only short time so I couldn't see much.
 
 <!--more-->
 
@@ -55,7 +55,7 @@ Since the appearance of Saint Bavo's cannot be spoiled any further, the city mou
 
 In return you get a perfect view on the nearby belfry from this "Giant Wheel". For five euros you can enjoy three turns of the wheel.
 
-The belfry is 91 metres (299') high and hence a bit shorter than the {{< intref "0197" "tower of Amersfoort" >}} (98 m or 322'):
+The belfry is 91 metres (299') high and hence a bit shorter than the {{< a "0197" "tower of Amersfoort" >}} (98 m or 322'):
 {{< imgfig "https://1.bp.blogspot.com/-caXipQzPq2A/UtWFagfhvSI/AAAAAAAAbts/1Ef8P5yyYqs/s1600/dsc02860.picasaweb.jpg" >}}
 
 Eighty metres further there's Saint Nicholas' Church, the third attraction of the street:
@@ -82,7 +82,7 @@ More peculiarities:
 {{< imgfig "https://4.bp.blogspot.com/-qPKxpo_SUpQ/UtWFMy0JV6I/AAAAAAAAbo8/IVvV6T4NX_g/s1600/dsc02793.picasaweb.jpg" >}}
 {{< imgfig "https://3.bp.blogspot.com/-342td83UyY8/UtWFNSorm7I/AAAAAAAAbpM/EL38h3JJbAg/s1600/dsc02794.picasaweb.jpg" >}}
 
-North of Graslei/Korenlei, where the river forks, is another famous attraction of Ghent, the [Gravensteen](http://www.gravensteengent.be/) castle, hardly changed since my [last visit]({{< relref path="0033" lang="ru" >}}).
+North of Graslei/Korenlei, where the river forks, is another famous attraction of Ghent, the [Gravensteen](http://www.gravensteengent.be/) castle, hardly changed since my {{< a "0033" "last visit" "ru" >}}.
 {{< imgfig "https://1.bp.blogspot.com/-jfTdzRifu5E/UtWFWOUeUzI/AAAAAAAAbsI/z3JFq6ZKIPo/s1600/dsc02830.picasaweb.jpg" >}}
 
 Next to it there's one of the oldest markets in the city, {{< fl "De Oude Vismijn" >}} (1689), nowadays converted into a [bar](http://www.oudevismijn.be/):
@@ -115,4 +115,4 @@ The pedestal is nicely decorated with elaborate colourful signs:
 And this is, according to our city-guide, "the most beautiful tree in the city". I have to admit it looks all not so impressive in the winter. Have to check back in the summer.
 {{< imgfig "https://3.bp.blogspot.com/-agmPQSp1eJ4/UtWFdZdC-KI/AAAAAAAAbvM/0KuS6j8ZVmI/s1600/dsc02897.picasaweb.jpg" >}}
 
-In the {{< intref "0213" "next part" >}} we will see Ghent by night.
+In the {{< a "0213" "next part" >}} we will see Ghent by night.

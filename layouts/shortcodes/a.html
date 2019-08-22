@@ -1,0 +1,31 @@
+{{  $url := urls.Parse (.Get 0) -}}
+{{- $text := .Get 1 -}}
+{{- $lang := .Get 2 -}}
+{{/* If there's "http(s)://" given, just use it as is, and no internal class added */}}
+{{- if $url.Scheme -}}
+    <a href="{{ .Get 0 }}">{{ $text }}</a>
+{{/* Otherwise we consider it an internal link */}}
+{{- else -}}
+    {{- $pageToLink := false -}}
+
+    {{/* If there's language given, iterate all sites to find the one with this language */}}
+    {{- with $lang -}}
+        {{- range $.Page.Sites -}}
+            {{- if eq .Language.Lang $lang -}}
+                {{/* If a site is found, try to fetch the page */}}
+                {{- with .GetPage $url.Path -}}{{- $pageToLink = . -}}{{- end -}}
+            {{- end -}}
+        {{- end -}}
+
+    {{/* No language given: try to find the page in the current site */}}
+    {{- else -}}
+        {{- with $.Page.GetPage $url.Path -}}{{- $pageToLink = . -}}{{- end -}}
+    {{- end -}}
+
+    {{/* Check if we managed to find anything */}}
+    {{- with $pageToLink -}}
+        <a href="{{ .RelPermalink }}{{ with $url.Fragment }}#{{ . }}{{ end }}" class="internal" title="{{ .Title }}">{{ $text }}</a>
+    {{- else -}}
+        {{- errorf "%s: Failed to find page for path %q and language %q (link text %q)" $.Page.File.Path (.Get 0) $lang $text -}}
+    {{- end -}}
+{{- end }}

@@ -39,7 +39,7 @@ Jakub was handy with the guitar, but preferred to keep a low profile for a while
 After David Maxim Micic made way for Disperse, the project of the just mentioned Pole **Jakub Żytecki** (24). The drums were still being taken care of by **Mike Malyan**, there was no bass, and the keyboardist **Rafał Biernacki** stepped up. He was also singing.
 {{< imgfig "https://4.bp.blogspot.com/-sIKEh18_-0U/WNgDhQy4vGI/AAAAAAAApp8/3HC9oyVUb3wegO1F5_8uGPFzKLnE4_X-QCPcB/s1600/dsc04087.picasaweb.jpg" "Disperse: Jakub Żytecki, Mike Malyan, Rafał Biernacki." >}}
 
-Disperse's genre can probably be described as "David Maxim Micic + vocals". It's a similar mixture of electronics, progressive, and djent. They also remotely resembled the disbanded {{< intref "0283" "Sun Caged" >}} (sigh), but in my humble opinion Disperse lacks their drive and expressiveness. As for Jakub's guitar proficiency, it's an even match with David's as far as I can tell. I had the opportunity to listen to both of them during Plini's "superjam" (more on which below).
+Disperse's genre can probably be described as "David Maxim Micic + vocals". It's a similar mixture of electronics, progressive, and djent. They also remotely resembled the disbanded {{< a "0283" "Sun Caged" >}} (sigh), but in my humble opinion Disperse lacks their drive and expressiveness. As for Jakub's guitar proficiency, it's an even match with David's as far as I can tell. I had the opportunity to listen to both of them during Plini's "superjam" (more on which below).
 
 This is one of Disperse's video:
 {{< youtube "N2TByqw8ELk" >}}

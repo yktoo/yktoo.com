@@ -10,9 +10,9 @@ aliases:
     - /en/blog/post/186
 ---
 
-So many things have piled up while I was busy with my {{< intref "/" "website" >}}, not sure I'll be able to handle them.
+So many things have piled up while I was busy with my {{< a "/" "website" >}}, not sure I'll be able to handle them.
 
-Let's take the famous flower parade, or {{< fl "bloemencorso" >}} in Dutch. It's a yearly event, held in late April or early May near [Keukenhof]({{< relref path="0010" lang="ru" >}}), the largest flower garden in the world.
+Let's take the famous flower parade, or {{< fl "bloemencorso" >}} in Dutch. It's a yearly event, held in late April or early May near {{< a "0010" "Keukenhof" "ru" >}}, the largest flower garden in the world.
 {{< imgfig "https://3.bp.blogspot.com/-QR1Jfd12kjI/UZVBs3xvkwI/AAAAAAAAX3I/4zQECmiFdPg/s1600/dsc08203.picasaweb.jpg" >}}
 
 *Warning: there's about a hundred photos under the cut.*

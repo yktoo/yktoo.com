@@ -8,7 +8,7 @@ aliases:
     - /en/blog/post/121
 ---
 
-In the {{< intref "0119" "groaning and moaning" >}} on Steve Jobs' passing minority opinions coming from the dissentients get eminent.
+In the {{< a "0119" "groaning and moaning" >}} on Steve Jobs' passing minority opinions coming from the dissentients get eminent.
 
 Ryan Tate wrote a lengthy article [What Everyone Is Too Polite to Say About Steve Jobs](http://gawker.com/5847344/what-everyone-is-too-polite-to-say-about-steve-jobs) for Gawker. Its primary message is:
 

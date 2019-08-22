@@ -24,7 +24,7 @@ In this regard our first time in Alte wasn't lucky. It's been one of those rare 
 Because of the drizzle we couldn't get to see the village that time, so we came once again when the sun shone:
 {{< imgfig "https://3.bp.blogspot.com/-O91dbCoWQXg/Ua4lX2Dxr1I/AAAAAAAAY9A/rvStYfrD8-4/s1600/dsc09255.picasaweb.jpg" >}}
 
-Alte is situated on a slope, which makes its streets steep and narrow, like in {{< intref "0192" "Albufeira" >}}, and cobble-paved.
+Alte is situated on a slope, which makes its streets steep and narrow, like in {{< a "0192" "Albufeira" >}}, and cobble-paved.
 {{< imgfig "https://3.bp.blogspot.com/-5p_9biriLq8/Ua4hd4lLCfI/AAAAAAAAYnA/xvR997SlB_g/s1600/dsc08988.picasaweb.jpg" >}}
 
 Some lanes are even too narrow for a normal car:
@@ -51,12 +51,12 @@ The birds seem to adore the Muse:
 The houses are whitewashed according to the tradition. Some are inhabited not only inside, but also outside—notice the eaves. I wonder how swallows manage it upside-down.
 {{< imgfig "https://2.bp.blogspot.com/-pWs1hb4T0rs/Ua4lWqQs-oI/AAAAAAAAY84/0N7yj2gDW-8/s1600/dsc09253.picasaweb.jpg" >}}
 
-Street name plates are also remarkable here. They are not as fancy as in {{< intref "0192" "Albufeira" >}}, but they show a personal touch:
+Street name plates are also remarkable here. They are not as fancy as in {{< a "0192" "Albufeira" >}}, but they show a personal touch:
 {{< imgfig "https://2.bp.blogspot.com/-xwxnWV7iTbw/Ua4lUP5jTLI/AAAAAAAAY8o/ADD8I9_TmEQ/s1600/dsc09250.picasaweb.jpg" >}}
 
 I appreciate the effort put in making them.
 
-Alte has apparently clay soil, which is reddish like it was in the {{< intref "0191" "orange grove" >}}:
+Alte has apparently clay soil, which is reddish like it was in the {{< a "0191" "orange grove" >}}:
 {{< imgfig "https://2.bp.blogspot.com/-Qp3yayNCeVc/Ua4lZJHxu7I/AAAAAAAAY9I/P2fZb4taPWU/s1600/dsc09256.picasaweb.jpg" >}}
 
 Patriotic and enthusiastic locals have painted the coat of arms of Portugal on a nearby cliff:
@@ -64,4 +64,4 @@ Patriotic and enthusiastic locals have painted the coat of arms of Portugal on a
 
 I wouldn't evaluate Alte as an extremely beautiful place, but I liked its native air. But even here you find English on signs and souvenir stores. Meaning, this place is known to tourists.
 
-Next: {{< intref "0194" "Part 5. Edge of the world in Sagres" >}}
+Next: {{< a "0194" "Part 5. Edge of the world in Sagres" >}}

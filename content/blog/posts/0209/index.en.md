@@ -18,9 +18,9 @@ The lucky thirteen has come to an end. One of my achievements in the last year w
 
 <!--more-->
 
-It was necessary because for eight days before that we've been relaxing in the Egyptian resort city Hurghada, one of Russians' favourites. It isn't all about swimming in the {{< intref "0171" "ice cold water" >}}, after all!
+It was necessary because for eight days before that we've been relaxing in the Egyptian resort city Hurghada, one of Russians' favourites. It isn't all about swimming in the {{< a "0171" "ice cold water" >}}, after all!
 
-I've never been to Egypt or even Africa before ([Gran Canaria]({{< relref path="0148" lang="ru" >}}) doesn't count, even though it's close to Africa, European culture dominates there), and I must say, the impressions it makes are very diverse.
+I've never been to Egypt or even Africa before ({{< a "0148" "Gran Canaria" "ru" >}} doesn't count, even though it's close to Africa, European culture dominates there), and I must say, the impressions it makes are very diverse.
 
 But first things first. Let's start off with the good stuff, the sea.
 {{< imgfig "https://3.bp.blogspot.com/-WhG2CuTPnhU/UsQKZtFKY4I/AAAAAAAAbFY/BCQ_a_7PuPI/s1600/dsc01946.picasaweb.jpg" >}}
@@ -51,7 +51,7 @@ Thanks to its salinity, the water of the Red Sea supports you when swimming (not
 A lazy bird is contemplating the surface of the sea:
 {{< imgfig "https://4.bp.blogspot.com/-H8Iif875l8Q/UsQOKY-sCcI/AAAAAAAAbaA/oZwvxitLmMA/s1600/dsc02713.picasaweb.jpg" >}}
 
-The water colours are magnificent, lively, in contrast with our North Sea's, {{< intref "0079" "fulvous-blueish" >}}:
+The water colours are magnificent, lively, in contrast with our North Sea's, {{< a "0079" "fulvous-blueish" >}}:
 {{< imgfig "https://1.bp.blogspot.com/-KNJcXOGUlWc/UsQOOSygicI/AAAAAAAAbaY/AWHUQ2RIIDI/s1600/dsc02720.picasaweb.jpg" >}}
 {{< imgfig "https://4.bp.blogspot.com/-rbg2E57-kxc/UsQOM2IEjBI/AAAAAAAAbaQ/bEBBtG3EPY8/s1600/dsc02719.picasaweb.jpg" >}}
 
@@ -155,4 +155,4 @@ We've planned to make three stops to dive, but only made two. Nobody except me w
 Even at our second stop the sun was already quite low, which made the reefs look much less colourful. Well enough for the first time.
 {{< imgfig "https://2.bp.blogspot.com/-emnnHs5a3eQ/UsQOoGBV_CI/AAAAAAAAbdI/mzYGKhvanQY/s1600/dsc_0450.picasaweb.jpg" >}}
 
-In the {{< intref "0210" "next part" >}} we will move to the opposite side of Hurghada, into the desert.
+In the {{< a "0210" "next part" >}} we will move to the opposite side of Hurghada, into the desert.

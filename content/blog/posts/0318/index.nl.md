@@ -9,7 +9,7 @@ aliases:
     - /nl/blog/post/318
 ---
 
-Deze post is de volgende in de {{< intref "/series/mijn-ondernemerschap" "reeks" >}} over mijn uitdagende maar lonende ondernemerslot. In deze publicatie wil ik mijn ervaringen en bevindingen, die ik tot nu toe heb gehad, met jullie delen.
+Deze post is de volgende in de {{< a "/series/mijn-ondernemerschap" "reeks" >}} over mijn uitdagende maar lonende ondernemerslot. In deze publicatie wil ik mijn ervaringen en bevindingen, die ik tot nu toe heb gehad, met jullie delen.
 
 De eerste vraag die elke zzp'er krijgt is: hoe en waar moet hij naar een opdracht zoeken?
 
@@ -83,7 +83,7 @@ Je vermeldt je uurtarief tijdens het aanbieden en hebt daarna een heel beperkte 
 
 ## Risicomanagement {#risk-management}
 
-Risicomanagement is nog een ingewikkeld onderwerp. De risico's van ondernemerschap heb ik al {{< intref "0309" "genoemd" >}}, in het kort kun je ze zo samenvatten: je krijgt betaald zolang je aan een opdracht werkt en anders krijg je niets. Om die reden moet je je financiën goed in de gaten houden en altijd een behoorlijke buffer hebben om je reguliere lasten in moeilijke tijden op te kunnen vangen. Het is ook slim om ruim van tevoren aan je volgende opdracht te denken vóórdat je huidige contract verloopt.
+Risicomanagement is nog een ingewikkeld onderwerp. De risico's van ondernemerschap heb ik al {{< a "0309" "genoemd" >}}, in het kort kun je ze zo samenvatten: je krijgt betaald zolang je aan een opdracht werkt en anders krijg je niets. Om die reden moet je je financiën goed in de gaten houden en altijd een behoorlijke buffer hebben om je reguliere lasten in moeilijke tijden op te kunnen vangen. Het is ook slim om ruim van tevoren aan je volgende opdracht te denken vóórdat je huidige contract verloopt.
 
 ## Doorzettingsvermogen {#persistence}
 

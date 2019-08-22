@@ -10,18 +10,18 @@ aliases:
     - /en/blog/post/274
 ---
 
-This spring is full of sporting activities. First {{< intref "0273" "aikido" >}} (I hope my certificate with nice Japanese characters is already on its way), now a half marathon.
+This spring is full of sporting activities. First {{< a "0273" "aikido" >}} (I hope my certificate with nice Japanese characters is already on its way), now a half marathon.
 
 <!--more-->
 
-As I {{< intref "0266" "mentioned" >}}, the event was to happen on March 28, on the second day of the Easter, which is a public holiday here in Holland. It's the second edition of [De Halve van de Haar](http://www.dehalvevandehaar.nl/), and half marathon (**21.1 km**) was the longest distance available.
+As I {{< a "0266" "mentioned" >}}, the event was to happen on March 28, on the second day of the Easter, which is a public holiday here in Holland. It's the second edition of [De Halve van de Haar](http://www.dehalvevandehaar.nl/), and half marathon (**21.1 km**) was the longest distance available.
 {{< imgfig "https://2.bp.blogspot.com/-PNk5LFWpieY/VwFmIiB8bOI/AAAAAAAAlxc/6H3_c4Jg7fMcwzIR8XUF1AtnRSenSGMeQ/s1600/dsc02101.picasaweb.jpg" "The medal is actually grey, it's the light that tints it." >}}
 
-{{< intref "0266" "Last time" >}} the distance was only a half of that (10.5 km), and I remember myself looking at the half-marathoners after having finished and being happy I wasn't among them. In fact, I could hardly imagine how one can run such a distance.
+{{< a "0266" "Last time" >}} the distance was only a half of that (10.5 km), and I remember myself looking at the half-marathoners after having finished and being happy I wasn't among them. In fact, I could hardly imagine how one can run such a distance.
 
 But the time runs fast and so do we. At the beginning of this year I decided to run fifteen kilometres instead of the usual ten, and that proved to be not as hard as it seemed. On the contrary, the further you run, the more you like it. Pretty addictive it is.
 
-But then new difficulties arose: I had to find new routes as the {{< intref "0266" "former ones" >}} did not fit the bill. The 15 km track could still be run at my favourite alongside the {{< fl "Amsterdam-Rijnkanaal" >}}, but on a twenty-kilometre one I ended up in the centre of the nearby town of {{< fl "Nieuwegein" >}}, which I didn't find appealing. I strongly prefer uninhabited areas, free of people, cars and dogs. Long story short, I'm still looking for a perfect running route.
+But then new difficulties arose: I had to find new routes as the {{< a "0266" "former ones" >}} did not fit the bill. The 15 km track could still be run at my favourite alongside the {{< fl "Amsterdam-Rijnkanaal" >}}, but on a twenty-kilometre one I ended up in the centre of the nearby town of {{< fl "Nieuwegein" >}}, which I didn't find appealing. I strongly prefer uninhabited areas, free of people, cars and dogs. Long story short, I'm still looking for a perfect running route.
 
 Back to the half marathon, we've had there difficulties too.
 
@@ -46,7 +46,7 @@ It becomes much easier to run once the runners spread along the road. As always,
 
 At another spot I overheard a man, disappointed at the lack of response from the running lot, saying to his neighbour {{< fl "\"Een beetje autistisch gedrag, maar goed\"" >}} ("A bit autistic behaviour, but okay").
 
-The route consisted of two almost identical laps of about 10 km, leading around the gardens of the [De Haar castle]({{< relref path="0012" lang="ru" >}}).
+The route consisted of two almost identical laps of about 10 km, leading around the gardens of the {{< a "0012" "De Haar castle" "ru" >}}.
 {{< imgfig "https://4.bp.blogspot.com/-4zRsSePQ0oY/Vwe_9rmo0nI/AAAAAAAAlz4/NFjo9klZGIEehUpwX5b0xjAepXviGcA_w/s1600/de-halve-van-de-haar-parcour.png" "The track of the half marathon." >}}
 
 After all, what doesn't kill us, makes us stronger. I've made it to the finish line.

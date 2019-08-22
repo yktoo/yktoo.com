@@ -16,7 +16,7 @@ Yet again, precisely on time, Holland has turned orange on the 30<sup>th</sup> o
 
 <!--more-->
 
-On the 28<sup>th</sup> of January Beatrix {{< intref "0176" "announced" >}} that she would abdicate in favour of her eldest son Willem-Alexander, the heir apparent to the throne. After 33 years of service it's time to say goodbye, said she (to put it in simple temrs, the actual speech was of course more florid). No queen means no Queen's Day, it's that simple.
+On the 28<sup>th</sup> of January Beatrix {{< a "0176" "announced" >}} that she would abdicate in favour of her eldest son Willem-Alexander, the heir apparent to the throne. After 33 years of service it's time to say goodbye, said she (to put it in simple temrs, the actual speech was of course more florid). No queen means no Queen's Day, it's that simple.
 
 As of 2014, this holiday will rather be celebrated as King's Day ({{< fl "Koningsdag" >}}). Willem-Alexander was fortunate to have been born on the 27<sup>th</sup> of April, which is almost the same date. By contrast, Beatrix's birthday is on the 31<sup>th</sup> of January, which means winter and cold. When she ascended the throne in 1980, she decided to keep it as it was on April 30<sup>th</sup>.
 
@@ -37,7 +37,7 @@ The idea of turning up to the Dam Square before ten in the morning was considere
 All in all, we've decided to make no haste and arrived at the Museum Square ({{< fl "Museumplein" >}}) in Amsterdam around two o'clock in the afternoon. The inauguration ceremony in the New Church ({{< fl "Nieuwe Kerk" >}}) has just began.
 {{< imgfig "https://4.bp.blogspot.com/-60iYs-N73gg/UZVDPmE7YDI/AAAAAAAAX9A/Z3e8HZVkbXE/s1600/dsc08350.picasaweb.jpg" >}}
 
-The weather wasn't as favourable as it was [a year ago]({{< relref path="0153" lang="ru" >}}). It was cloudy and windy most of the time, so there was not so much orange except hats.
+The weather wasn't as favourable as it was {{< a "0153" "a year ago" "ru" >}}. It was cloudy and windy most of the time, so there was not so much orange except hats.
 
 There were several huge screens mounted at the square, showing what was happening in the church. The public watched standing and sitting on the lawn.
 {{< imgfig "https://4.bp.blogspot.com/-FLlE3uxJVGg/UZVDR42XBTI/AAAAAAAAX9I/SSK1AEkg1nc/s1600/dsc08354.picasaweb.jpg" >}}

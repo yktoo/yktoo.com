@@ -12,12 +12,12 @@ aliases:
 
 It's automn here again. Some annoyed expats keep insisting there's only just this season in Holland, but that's not true.
 
-We are fortunate enough to live in a very picturesque woodland area. One of these days we went on a hike in one of numerous forests called {{< wiki "Baarnse_Bos" "nl" "Baarnse Bos" >}} and situated near the equally picturesque village Baarn (which I [posted]({{< relref path="0006" lang="ru" >}}) about five years ago).
+We are fortunate enough to live in a very picturesque woodland area. One of these days we went on a hike in one of numerous forests called {{< wiki "Baarnse_Bos" "nl" "Baarnse Bos" >}} and situated near the equally picturesque village Baarn (which I {{< a "0006" "posted" "ru" >}} about five years ago).
 {{< imgfig "https://3.bp.blogspot.com/-P2PcmAsfPmY/Uphfmo2jE8I/AAAAAAAAauM/IaBuuCISyS8/s1600/dsc01507.picasaweb.jpg" >}}
 
 <!--more-->
 
-As you can see on the photo above, the autumn is not really visible yet. Now, a month later, a lot of leaves fell. The autumn in Holland is mostly but more damp than usual (or it can also look {{< intref "0066" "like this" >}}).
+As you can see on the photo above, the autumn is not really visible yet. Now, a month later, a lot of leaves fell. The autumn in Holland is mostly but more damp than usual (or it can also look {{< a "0066" "like this" >}}).
 
 What one can also notice is that a Dutch forest is very clean and civilised. You can only think of properly paved roads (and a similar forest in Soest does have them).
 

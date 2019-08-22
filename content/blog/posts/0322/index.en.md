@@ -476,4 +476,4 @@ And their historical ancestors:
 
 Phew. This must be the longest post ever.
 
-*Next:* {{< intref "0323" "Part 2. Plovdiv" >}}
+*Next:* {{< a "0323" "Part 2. Plovdiv" >}}

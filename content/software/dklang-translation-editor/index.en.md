@@ -10,7 +10,7 @@ seeAlso:
       url: '../dklang-localization-package/'
 ---
 
-**DKLang Translation Editor** is a GUI application for editing {{< intref "/software/dklang-localization-package" "DKLang Localization Package" >}} translations.
+**DKLang Translation Editor** is a GUI application for editing {{< a "/software/dklang-localization-package" "DKLang Localization Package" >}} translations.
 
 ## Features
 

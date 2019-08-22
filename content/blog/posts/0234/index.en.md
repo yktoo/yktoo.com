@@ -8,7 +8,7 @@ aliases:
     - /en/blog/post/234
 ---
 
-So we've settled in {{< intref "0221" "Houten" >}}. It's time to go in particulars on how we sought a house.
+So we've settled in {{< a "0221" "Houten" >}}. It's time to go in particulars on how we sought a house.
 
 Looking for a house has a special name in Dutch: {{< fl "huizenjacht" >}}, which literally translates as "househunt". During the *hunt* we gradually figured out a number of criteria:
 
@@ -54,7 +54,7 @@ In terms of area our minimum requirement was 100 m<sup>2</sup> (1076 ft<sup>2</s
 
 ## Next to train station {#train}
 
-Dutch trains, despite occasional [disruptions]({{< relref path="0140" lang="ru" >}}), are still the fastest and the easiest way to reach another part of the country, especially if it allows you to avoid subway, buses and trams.
+Dutch trains, despite occasional {{< a "0140" "disruptions" "ru" >}}, are still the fastest and the easiest way to reach another part of the country, especially if it allows you to avoid subway, buses and trams.
 
 I work in south-east Amsterdam, some 45 km away from the house. In theory, you can drive it in about 40 minutes, but with the traffic it can be as long as 1.5 hours. With the train it's only 25 minutes, which you can spend on reading, learning Dutch, staring at girls and scoffing at those stuck in traffic.
 
@@ -84,7 +84,7 @@ I also find somewhat strange to live among foreigners, having settled in Holland
 
 ## Cultural life {#cultural-life}
 
-At the same time hiding deeply in the Dutch countryside doesn't seem attractive to me. I like to entertain and be entertained, so Amersfoort was a perfect place in this regard: it had {{< intref "0185" "Jazz Festival" >}}, {{< intref "0109" "Dias Latinos" >}}, {{< intref "0196" "Spoffin" >}} and so forth. I wanted something similar.
+At the same time hiding deeply in the Dutch countryside doesn't seem attractive to me. I like to entertain and be entertained, so Amersfoort was a perfect place in this regard: it had {{< a "0185" "Jazz Festival" >}}, {{< a "0109" "Dias Latinos" >}}, {{< a "0196" "Spoffin" >}} and so forth. I wanted something similar.
 
 And Houten is a good trade-off: it only takes ten minutes by train to down-town Utrecht, like it was in Amersfoort with the bike. And Utrecht of course has rich entertainment facilities.
 

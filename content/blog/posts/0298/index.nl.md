@@ -10,7 +10,7 @@ aliases:
     - /nl/blog/post/298
 ---
 
-Ik vind de huidige tendens om alles wat Wi-Fi, Bluetooth of internetverbinding heeft "slim" te noemen een beetje vervelend. Zo kennen we al slimme wasmachines, slimme horloges, [slimme rookmelders]({{< relref path="0265" lang="ru" >}}), slimme tandenborstels enzovoort. Nu zijn verkeerslichten aan de beurt volgens onze plaatselijke krant. Een [nieuwsartikel](http://www.trefpunthouten.nl/nieuws/algemeen/46927/een-slim-stoplicht-voor-de-staart) vertelt over het eerste slimme verkeerslicht in ons land dat in Houten is geïnstalleerd.
+Ik vind de huidige tendens om alles wat Wi-Fi, Bluetooth of internetverbinding heeft "slim" te noemen een beetje vervelend. Zo kennen we al slimme wasmachines, slimme horloges, {{< a "0265" "slimme rookmelders" "ru" >}}, slimme tandenborstels enzovoort. Nu zijn verkeerslichten aan de beurt volgens onze plaatselijke krant. Een [nieuwsartikel](http://www.trefpunthouten.nl/nieuws/algemeen/46927/een-slim-stoplicht-voor-de-staart) vertelt over het eerste slimme verkeerslicht in ons land dat in Houten is geïnstalleerd.
 
 <!--more-->
 

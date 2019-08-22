@@ -9,7 +9,7 @@ aliases:
     - /nl/blog/post/310
 ---
 
-In mijn {{< intref "0309" "vorige post" >}} heb ik voor- en nadelen van ondernemerschap op een rijtje gezet. Maar wat houdt dat eigenlijk in — ondernemer zijn?
+In mijn {{< a "0309" "vorige post" >}} heb ik voor- en nadelen van ondernemerschap op een rijtje gezet. Maar wat houdt dat eigenlijk in — ondernemer zijn?
 
 Om deze vraag goed te kunnen beantwoorden moet je je lang en breed verdiepen in talrijke wettelijke bepalingen, reglementen en voorschriften.
 
@@ -53,7 +53,7 @@ De financiële administratie van zo'n bedrijf is ook rechttoe, rechtaan. Eén ke
 
 Een groot nadeel van een eenmanszaak is dat er geen onderscheid is tussen je privé- en bedrijfsvermogen. Als het bedrijf failliet gaat, dan ga je persoonlijk ook failliet. De schuldeisers van je bedrijf kunnen dus ook aanspraak maken op je privé-bezit, zoals huis, auto, etc. En als je in gemeenschap van goederen getrouwd bent, is je partner ook financieel aansprakelijk voor de schulden.
 
-Omdat deze rechtsvorm geen loondienst is, hoef je geen sociale lasten te betalen, hoewel de {{< intref "0309#contra" "Wet DBA" >}} roet in het eten blijft gooien. Om dezelfde reden is de 30%-regeling niet van toepassing.
+Omdat deze rechtsvorm geen loondienst is, hoef je geen sociale lasten te betalen, hoewel de {{< a "0309#contra" "Wet DBA" >}} roet in het eten blijft gooien. Om dezelfde reden is de 30%-regeling niet van toepassing.
 
 ### Besloten vennootschap (bv) {#bv}
 
@@ -81,4 +81,4 @@ In ruil word je vrijgesteld van al het administratieve gezeik terwijl je je onde
 
 Het is wellicht al duidelijk dat dit onderwerp vrij complex is en dat het een tijdsinvestering vergt om dit allemaal goed te begrijpen. Maar als je geen zin hebt om er je tijd in te steken, dan kun je een externe consultant inhuren. De markt voor dit soort services is enorm in Nederland.
 
-*Vervolg:* {{< intref "0311" "De geboorte van Yktoo Solutions" >}}
+*Vervolg:* {{< a "0311" "De geboorte van Yktoo Solutions" >}}

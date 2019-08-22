@@ -9,13 +9,13 @@ aliases:
     - /nl/blog/post/311
 ---
 
-Laten we, als vervolg op het {{< intref "0310" "Vormen vs. personen" >}} verhaal, een stap zetten van de abstracte theorie naar een praktischer zicht op ondernemerschap.
+Laten we, als vervolg op het {{< a "0310" "Vormen vs. personen" >}} verhaal, een stap zetten van de abstracte theorie naar een praktischer zicht op ondernemerschap.
 
 Ik zou willen beginnen met de omstandigheden die me tot mijn besluit hebben aangezet. In 2016 kreeg ik, tijdens een reorganisatie bij de [ING Bank](http://www.ing.com/) die toen mijn werkgever was, de keuze om hetzij voor mijn baas te blijven werken dan wel me op een avontuurlijke freelance weg te begeven.
 
 <!--more-->
 
-Ik ben van mening dat je beter spijt kunt hebben van wat je wel hebt gedaan, dan van wat je niet hebt gedaan, en na alle [voor- en nadelen]({{< relref path="0309" lang="ru" >}}) te hebben afgewogen ben ik ermee begonnen. Op 1 oktober 2016 is mijn *eenmanszaak* geboren bij de [Kamer van Koophandel](https://www.kvk.nl/). De bevalling is prettig en makkelijk verlopen en het pasgeboren bedrijf kreeg de naam **Yktoo Solutions**.
+Ik ben van mening dat je beter spijt kunt hebben van wat je wel hebt gedaan, dan van wat je niet hebt gedaan, en na alle {{< a "0309" "voor- en nadelen" "ru" >}} te hebben afgewogen ben ik ermee begonnen. Op 1 oktober 2016 is mijn *eenmanszaak* geboren bij de [Kamer van Koophandel](https://www.kvk.nl/). De bevalling is prettig en makkelijk verlopen en het pasgeboren bedrijf kreeg de naam **Yktoo Solutions**.
 {{< imgfig "https://1.bp.blogspot.com/-iaEVkAOTeVs/WKlzptmLZ-I/AAAAAAAApQ0/W-rdGWrQhbI0mT6IfVvmr2qhM5F7-YTewCPcB/s1600/Yktoo-Solutions-logo.png" >}}
 
 In principe kan je voor elke handelsnaam kiezen die geen verwarring oplevert, niet op een andere handelsnaam lijkt en geen onjuiste indruk wekt over de eigenaar of de omvang van het bedrijf. Je mag je bedrijf bijvoorbeeld niet "Janssen en Zoon" noemen als je geen Janssen heet, of "Paradise Cleaning Industries" als je privé schoonmaker bent.
@@ -58,4 +58,4 @@ In Nederland wordt boekhouding vaak uitbesteed aan een extern bedrijf; ook het g
 
 Er bestaan ook belangenbehartigende organisaties voor zzp'ers, die hulp en advies aan ondernemers bieden. Daarvan is [ZZP Nederland](https://www.zzp-nederland.nl/) met haar 40 duizend deelnemers (inclusief {{< fl "Yktoo Solutions" >}}) de grootste. Voor maar **€20** per jaar krijg je toegang tot helpdesk, modelcontracten, leveringsvoorwaarden enzovoorts.
 
-*Vervolg:* {{< intref "0318" "Werken en werven" >}}
+*Vervolg:* {{< a "0318" "Werken en werven" >}}

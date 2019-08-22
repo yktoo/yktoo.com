@@ -10,7 +10,7 @@ aliases:
     - /ru/blog/post/297
 ---
 
-Пять дней назад {{< intref "/tags/Arjen-Lucassen" "Арьен «Наше Всё» Лукассен" >}} ({{< fl "Arjen Lucassen" >}}) [объявил](https://www.facebook.com/ArjenLucassenOfficial/videos/10153840917141152/) на своей странице в Фейсбуке об [Ayreon Universe](http://www.arjenlucassen.com/universe/) — двух «живых» концертах своего мегапроекта {{< fl "Ayreon" >}}, запланированных на **15 и 16 сентября 2017** года. Официальная продажа билетов должна была начаться 24 ноября в 10 часов утра.
+Пять дней назад {{< a "/tags/Arjen-Lucassen" "Арьен «Наше Всё» Лукассен" >}} ({{< fl "Arjen Lucassen" >}}) [объявил](https://www.facebook.com/ArjenLucassenOfficial/videos/10153840917141152/) на своей странице в Фейсбуке об [Ayreon Universe](http://www.arjenlucassen.com/universe/) — двух «живых» концертах своего мегапроекта {{< fl "Ayreon" >}}, запланированных на **15 и 16 сентября 2017** года. Официальная продажа билетов должна была начаться 24 ноября в 10 часов утра.
 
 <!--more-->
 
@@ -33,30 +33,30 @@ aliases:
 Помимо легендарности {{< fl "Ayreon" >}} как проекта, список участников внушает уважение и трепет (ссылки ниже — на соответствующие теги в моём блоге):
 
 * **Вокалисты**
-    * {{< intref "/tags/Floor-Jansen" "Floor Jansen" >}} ({{< intref "/tags/Nightwish" "Nightwish" >}})
+    * {{< a "/tags/Floor-Jansen" "Floor Jansen" >}} ({{< a "/tags/Nightwish" "Nightwish" >}})
     * {{< fl "Russell Allen" >}} ({{< fl "Symphony X" >}})
-    * {{< intref "/tags/Damian-Wilson" "Damian Wilson" >}} ({{< fl "Threshold" >}})
+    * {{< a "/tags/Damian-Wilson" "Damian Wilson" >}} ({{< fl "Threshold" >}})
     * {{< fl "Hansi Kürsch" >}} ({{< fl "Blind Guardian" >}})
     * {{< fl "Tommy Karevik" >}} ({{< fl "Kamelot" >}})
-    * {{< intref "/tags/Anneke-van-Giersbergen" "Anneke van Giersbergen" >}} ({{< intref "/tags/The-Gentle-Storm" "The Gentle Storm" >}})
-    * {{< fl "Marco Hietala" >}} ({{< intref "/tags/Nightwish" "Nightwish" >}})
+    * {{< a "/tags/Anneke-van-Giersbergen" "Anneke van Giersbergen" >}} ({{< a "/tags/The-Gentle-Storm" "The Gentle Storm" >}})
+    * {{< fl "Marco Hietala" >}} ({{< a "/tags/Nightwish" "Nightwish" >}})
     * {{< fl "Jonas Renkse" >}} ({{< fl "Katatonia" >}})
     * {{< fl "Mike Mills" >}} ({{< fl "Toehider" >}})
-    * {{< intref "/tags/Marcela-Bovio" "Marcela Bovio" >}} ({{< intref "/tags/Stream-of-Passion" "Stream of Passion" >}})
+    * {{< a "/tags/Marcela-Bovio" "Marcela Bovio" >}} ({{< a "/tags/Stream-of-Passion" "Stream of Passion" >}})
     * {{< fl "Irene Jansen" >}} ({{< fl "Ayreon" >}})
     * {{< fl "Robert Soeterboek" >}} ({{< fl "Star One" >}})
     * {{< fl "Edward Reekers" >}} ({{< fl "Kayak" >}})
     * {{< fl "Jan van Feggelen" >}} ({{< fl "Ayreon" >}})
     * {{< fl "Magali Luyten" >}} ({{< fl "Nightmare" >}})
-    * {{< intref "/tags/Lisette-van-den-Berg" "Lisette van den Berg" >}} ({{< fl "Scarlet Stories" >}})
+    * {{< a "/tags/Lisette-van-den-Berg" "Lisette van den Berg" >}} ({{< fl "Scarlet Stories" >}})
 * **Музыканты**
-    * {{< fl "Ed Warby" >}} ({{< intref "/tags/The-Gentle-Storm" "The Gentle Storm" >}}) — ударные
-    * {{< fl "Johan van Stratum" >}} ({{< intref "/tags/Stream-of-Passion" "Stream of Passion" >}}) — бас
-    * {{< intref "/tags/Marcel-Coenen" "Marcel Coenen" >}} ({{< intref "/tags/Sun-Caged" "Sun Caged" >}}) — соло-гитара
-    * {{< fl "Ferry Duijsens" >}} ({{< intref "/tags/The-Gentle-Storm" "The Gentle Storm" >}}) — гитара
+    * {{< fl "Ed Warby" >}} ({{< a "/tags/The-Gentle-Storm" "The Gentle Storm" >}}) — ударные
+    * {{< fl "Johan van Stratum" >}} ({{< a "/tags/Stream-of-Passion" "Stream of Passion" >}}) — бас
+    * {{< a "/tags/Marcel-Coenen" "Marcel Coenen" >}} ({{< a "/tags/Sun-Caged" "Sun Caged" >}}) — соло-гитара
+    * {{< fl "Ferry Duijsens" >}} ({{< a "/tags/The-Gentle-Storm" "The Gentle Storm" >}}) — гитара
     * {{< fl "Joost van den Broek" >}} — клавиши
-    * {{< intref "/tags/Ben-Mathot" "Ben Mathot" >}} ({{< fl "Ayreon" >}}) — скрипка
+    * {{< a "/tags/Ben-Mathot" "Ben Mathot" >}} ({{< fl "Ayreon" >}}) — скрипка
     * {{< fl "Jeroen Goossens" >}} — флейта, духовые
-    * {{< fl "Maaike Peterse" >}} ({{< intref "/tags/Kingfisher-Sky" "Kingfisher Sky" >}}) — виолончель
+    * {{< fl "Maaike Peterse" >}} ({{< a "/tags/Kingfisher-Sky" "Kingfisher Sky" >}}) — виолончель
 
 Список предварительный и за оставшееся время, возможно, претерпит изменения. На сайте проекта есть также довольно любопытный [FAQ](http://www.arjenlucassen.com/universe/faq/) на тему концертов {{< fl "Ayreon Universe" >}}. Теперь остаётся только запастись терпением на десять долгих месяцев…

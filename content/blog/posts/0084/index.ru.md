@@ -79,4 +79,4 @@ aliases:
 Есть от чего полезть на стену:
 {{< imgfig "https://2.bp.blogspot.com/-DEGuxz2OZgA/Taat3sDpkDI/AAAAAAAAItc/Gi-V0Xa3bvs/s1600/dsc01446.picasaweb.jpg" >}}
 
-Продолжение: {{< intref "0085" "Часть 3. Вена. Пратер" >}}
+Продолжение: {{< a "0085" "Часть 3. Вена. Пратер" >}}

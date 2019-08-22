@@ -17,9 +17,9 @@ aliases:
     - /en/blog/post/323
 ---
 
-We decided to dedicate the last day of our {{< intref "0322" "Sophian journey" >}} to Plovdiv, going there in the morning and returning in the afternoon.
+We decided to dedicate the last day of our {{< a "0322" "Sophian journey" >}} to Plovdiv, going there in the morning and returning in the afternoon.
 
-This idea was suggested by Slavyan during the {{< intref "0322#free-sofia-tour" "Free Sofia Tour" >}}. Plovdiv is easily reachable by bus departing from the Sofia Bus Station. The direct trip takes two hours and costs 14 leva (**€7**).
+This idea was suggested by Slavyan during the {{< a "0322#free-sofia-tour" "Free Sofia Tour" >}}. Plovdiv is easily reachable by bus departing from the Sofia Bus Station. The direct trip takes two hours and costs 14 leva (**€7**).
 
 <!--more-->
 
@@ -44,7 +44,7 @@ These mannequins seemingly tend to run away:
 
 ## Fountains! {#fountains}
 
-Plovdiv loves fountains, just like {{< intref "0322#fountains-flowers-lions" "Sofia" >}} does.
+Plovdiv loves fountains, just like {{< a "0322#fountains-flowers-lions" "Sofia" >}} does.
 
 This large pool is called the Singing Fountains:
 {{< imgfig "https://1.bp.blogspot.com/-Gc4CZjuYH28/WQ3-d8Zip1I/AAAAAAAAp5I/3BZmOsat25cfy-p8BNyujYYawtGdVg5OACPcB/s1600/dsc05129.picasaweb.jpg" "The Singing Fountains." >}}
@@ -57,7 +57,7 @@ Another impressive fountain is located in front of the City-Hall:
 
 ## Free Plovdiv Tour {#free-plovdiv-tour}
 
-We came to the centre with a specific goal in mind. We were told about a free guided tour similar to the {{< intref "0322#free-sofia-tour" "Sofian one" >}}, which was called [Free Plovdiv Tour](http://www.freeplovdivtour.com/). Likewise it's also two hours long and is held twice to three times a day.
+We came to the centre with a specific goal in mind. We were told about a free guided tour similar to the {{< a "0322#free-sofia-tour" "Sofian one" >}}, which was called [Free Plovdiv Tour](http://www.freeplovdivtour.com/). Likewise it's also two hours long and is held twice to three times a day.
 
 The tour starts at the above fountain, right in front of the City-Hall ({{< fl "Община" >}} in Bulgarian):
 {{< imgfig "https://3.bp.blogspot.com/-_GryGceGaKE/WQ3-d_qJd-I/AAAAAAAAp5I/Kh5qc_E_lgkKz5Wd2fAoT-jBtt9Xh07SACPcB/s1600/dsc05146.picasaweb.jpg" "Plovdiv City-Hall." >}}
@@ -139,7 +139,7 @@ A crazy fact: bus lines departing from the Plovdiv Bus Station are run by a doze
 
 That's about all for my Bulgarian journey.
 
-To summarise my impressions, I really liked {{< intref "0322" "Sofia" >}}: despite some remnants of the Soviet times it's beautiful, pretty affordable, and has friendly people and good beer. As for Plovdiv, one or two days should suffice. But who knows, maybe by 2019 it will flourish?
+To summarise my impressions, I really liked {{< a "0322" "Sofia" >}}: despite some remnants of the Soviet times it's beautiful, pretty affordable, and has friendly people and good beer. As for Plovdiv, one or two days should suffice. But who knows, maybe by 2019 it will flourish?
 
 I also have an idea of snowboarding in the local mountains.
 

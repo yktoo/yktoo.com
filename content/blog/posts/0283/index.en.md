@@ -12,7 +12,7 @@ aliases:
 
 I've finally nerved myself to tell you about a sad development for prog lovers.
 
-I first learned about the Dutch prog band *Sun Caged* when I came to Holland back in 2008. Shortly after I've even seen them playing on [Walhalla]({{< relref path="0022" lang="ru" >}}). I must say I was impressed. But three years later, in 2011, the band has released {{< wiki "The_Lotus_Effect" "en" "The Lotus Effect" >}} (which also happened to be their last album), I was totally blown away as this was absolutely a masterpiece of progressive metal. I can't even explain why, but I deem this album one of the best rock works ever, and I seem to be able to listen to it endlessly.
+I first learned about the Dutch prog band *Sun Caged* when I came to Holland back in 2008. Shortly after I've even seen them playing on {{< a "0022" "Walhalla" "ru" >}}. I must say I was impressed. But three years later, in 2011, the band has released {{< wiki "The_Lotus_Effect" "en" "The Lotus Effect" >}} (which also happened to be their last album), I was totally blown away as this was absolutely a masterpiece of progressive metal. I can't even explain why, but I deem this album one of the best rock works ever, and I seem to be able to listen to it endlessly.
 
 <!--more-->
 
@@ -55,7 +55,7 @@ There were also two support acts: *Marcel Coenen & Friends* and *The Barstool Ph
 The name of the band speaks for itself: it's formed around the guitarist [Marcel Coenen](http://marcelcoenen.com/), who also played in *Sun Caged*.
 {{< imgfig "https://3.bp.blogspot.com/-8nlyrAvXaFE/V1RAFswobOI/AAAAAAAAmVw/nt2ovnT3NZgmky2VC042fx6RzZn9KYZwACKgB/s1600/dsc02304.picasaweb.jpg" "Marcel Coenen." >}}
 
-Since I saw him [last time]({{< relref path="0022" lang="ru" >}}) he has clearly grown, both in proficiency and in size.
+Since I saw him {{< a "0022" "last time" "ru" >}} he has clearly grown, both in proficiency and in size.
 
 The band also features another *Sun Caged* member, the keyboardist *Rene Kroon*.
 {{< imgfig "https://4.bp.blogspot.com/-6j8YU5zoBRg/V1RAFvhm7AI/AAAAAAAAmVw/6k3LTHLpIUkA8jhry8VB3aDGq4s4WprmACKgB/s1600/dsc02317.picasaweb.jpg" "Rene Kroon." >}}
@@ -95,7 +95,7 @@ Well, some dreams never come true.
 The entire show was filmed with a number of professional cameras (including one constantly aimed at Marcel).
 {{< imgfig "https://3.bp.blogspot.com/-MjeOoLTh8Qc/V1RAFu_xV3I/AAAAAAAAmU8/FMaXrjc_8rQGBkA3LAMBEYGyanvt5jlhwCKgB/s1600/dsc02394.picasaweb.jpg" "Marcel Coenen." >}}
 
-As I was told, the video will be released in Ultra HD (then I can finally make use of {{< intref "0243" "4K in my TV" >}}). In the meantime you can enjoy somewhat less professional, yet equally impressing material of my own making.
+As I was told, the video will be released in Ultra HD (then I can finally make use of {{< a "0243" "4K in my TV" >}}). In the meantime you can enjoy somewhat less professional, yet equally impressing material of my own making.
 
 Another challenge for the band was that the bassist *Daniel Kohn* had some health issues not so long before the show, so he was replaced by *Arnold-Dimitry Rerimassie*.
 {{< imgfig "https://1.bp.blogspot.com/-Z3yFciIJIhE/V1RAFrffHVI/AAAAAAAAmVw/VZZ1KQBKXhs8prdcKQmtY-MYHj51uN87gCKgB/s1600/dsc02383.picasaweb.jpg" "Marcel Coenen and Arnold-Dimitry Rerimassie." >}}

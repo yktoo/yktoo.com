@@ -13,7 +13,7 @@ aliases:
 
 Четвёртый день у нас стоит густой туман. Порой настолько густой, что в десятке метров ничего не разглядеть.
 
-Ночной туман в Амерсфорте я уже {{< intref "0066" "показывал" >}}.
+Ночной туман в Амерсфорте я уже {{< a "0066" "показывал" >}}.
 
 Теперь хочу показать дневной.
 {{< imgfig "https://3.bp.blogspot.com/-monRec6m3LQ/Tsq4n96AnkI/AAAAAAAAKgI/1-TArn0qa_k/s1600/dsc07631.picasaweb.jpg" >}}
@@ -23,7 +23,7 @@ aliases:
 {{< imgfig "https://4.bp.blogspot.com/-ceM10rRRhJ0/Tsq4k634NSI/AAAAAAAAKfw/UlhF0F075X4/s1600/dsc07634.picasaweb.jpg" >}}
 {{< imgfig "https://4.bp.blogspot.com/-9yOUhxIseuM/Tsq4hYlJFOI/AAAAAAAAKfY/5MKICw4hi9c/s1600/dsc07642.picasaweb.jpg" >}}
 
-Это — луг из {{< intref "0066" "этого поста" >}}. Попробуйте разглядеть красно-синий дом напротив:
+Это — луг из {{< a "0066" "этого поста" >}}. Попробуйте разглядеть красно-синий дом напротив:
 {{< imgfig "https://4.bp.blogspot.com/-dKTT0-0shms/Tsq4jrO6S7I/AAAAAAAAKfs/u28zLFyCX_0/s1600/dsc07635.picasaweb.jpg" >}}
 
 Пруд и велосипедный мост через него:

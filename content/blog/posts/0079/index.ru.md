@@ -11,7 +11,7 @@ aliases:
     - /ru/blog/post/79
 ---
 
-Да, {{< intref "0025" "опять" >}} (в этом году совсем рано)!
+Да, {{< a "0025" "опять" >}} (в этом году совсем рано)!
 {{< imgfig "https://1.bp.blogspot.com/-p0C4-WXuwyc/TZhMdmel9fI/AAAAAAAAItg/OtZLR7eZJJA/s1600/DSC01086.picasaweb.jpg" >}}
 
 {{< imgfig "https://2.bp.blogspot.com/-kH0KUGsuDa4/TZhMRA7Nb1I/AAAAAAAAItg/kjQP8cOMYek/s1600/DSC01079.picasaweb.jpg" >}}

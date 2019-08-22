@@ -7,7 +7,7 @@ aliases:
     - /en/blog/post/258
 ---
 
-In my {{< intref "0257" "last post" >}} I offered you some insight into the Hell's Kitchen, usually labelled with a sign {{< fl "Почта России" >}} (*Russian Post*).
+In my {{< a "0257" "last post" >}} I offered you some insight into the Hell's Kitchen, usually labelled with a sign {{< fl "Почта России" >}} (*Russian Post*).
 
 This story is about a quest called "getting a Russian visa". I have to warn you it won't be as dramatic as the previous one. Partly because the main burden is usually on the shoulders of the receiving person.
 

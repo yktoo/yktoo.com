@@ -9,13 +9,13 @@ aliases:
     - /en/blog/post/311
 ---
 
-Following up on the {{< intref "0310" "Entities vs. persons" >}} story, let's make a step from abstract theory to a bit more practical view on entrepreneurship.
+Following up on the {{< a "0310" "Entities vs. persons" >}} story, let's make a step from abstract theory to a bit more practical view on entrepreneurship.
 
 Let me start with circumstances that pushed me in this direction. In 2016, in the course of yet another reorganisation at [ING Bank](http://www.ing.com/), which was my employer back then, I was given a choice: keep earning money for someone else—or embark on an adventurous freelance journey.
 
 <!--more-->
 
-I tend to think that it's better to regret what you have done than what you haven't, and after weighing the {{< intref "0309" "pros and cons" >}} I've set the wheels in motion. On the 1<sup>st</sup> of October, 2016 my {{< fl "eenmanszaak" >}} was born at the [Chamber of Commerce](https://www.kvk.nl/). The delivery proved nice and easy, the newborn {{< fl "bedrijf" >}} has been christened as **Yktoo Solutions**.
+I tend to think that it's better to regret what you have done than what you haven't, and after weighing the {{< a "0309" "pros and cons" >}} I've set the wheels in motion. On the 1<sup>st</sup> of October, 2016 my {{< fl "eenmanszaak" >}} was born at the [Chamber of Commerce](https://www.kvk.nl/). The delivery proved nice and easy, the newborn {{< fl "bedrijf" >}} has been christened as **Yktoo Solutions**.
 {{< imgfig "https://1.bp.blogspot.com/-iaEVkAOTeVs/WKlzptmLZ-I/AAAAAAAApQ0/W-rdGWrQhbI0mT6IfVvmr2qhM5F7-YTewCPcB/s1600/Yktoo-Solutions-logo.png" >}}
 
 In general one can pick any name for their business, provided that it isn't misleading or repeating any of the existing ones. An example of a misleading name is one that is based on a name that isn't yours (like "Johnson & Sons" if your name is not Johnson) or misrepresents the size or industry of the business ("Paradise Cleaning Industries" for a private house cleaner).
@@ -58,4 +58,4 @@ In Holland it's quite common to outsource accounting to a professional or use an
 
 There are also a number of organisations representing the interests of {{< fl "zzp'er" >}}s, assisting and consulting them. [ZZP Nederland](https://www.zzp-nederland.nl/) with 40 thousand members (including {{< fl "Yktoo Solutions" >}}) is perhaps the biggest one. For only **€20** a year you get access to their knowledge base, model contracts, help desk etc.
 
-*Next:* {{< intref "0318" "The quest for work" >}}
+*Next:* {{< a "0318" "The quest for work" >}}

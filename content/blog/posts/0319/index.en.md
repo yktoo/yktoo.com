@@ -30,7 +30,7 @@ Here's how it looks like:
 
 ## Installation {#install}
 
-This indicator is written on Python 3, just like the {{< intref "/series/sound-switcher-indicator" "Sound Switcher Indicator" >}}
+This indicator is written on Python 3, just like the {{< a "/series/sound-switcher-indicator" "Sound Switcher Indicator" >}}
 
 **Prerequisite:** you need to manually install [Docker Python API](https://github.com/docker/docker-py)—unfortunately the version available in Ubuntu's repos is fairly outdated. Installation in Ubuntu is pretty straightforward:
 

@@ -11,12 +11,12 @@ aliases:
 
 Holland is decidedly and prominently a bike-land. Any Dutch settlement features miles of bike paths, bike traffic-lights, special bike road marking, ubiquitous bike parkings and bike rental at every train station.
 
-But {{< intref "0221" "our Houten" >}} seems to be in the lead here.
+But {{< a "0221" "our Houten" >}} seems to be in the lead here.
 {{< imgfig "https://1.bp.blogspot.com/-BWYKADytYs4/VAwn806pgmI/AAAAAAAAfZQ/ShyjBlfSzVs/s1600/dsc06631.picasaweb.jpg" >}}
 
 <!--more-->
 
-An active growth of Houten municipality began in 1970's. Back then it was just a little village with about four thousand inhabitants. It is around that time that a strategic plan, whose objective was to stimulate the residents to use bikes while discouraging them from driving, has been developed. This was also the time when the butterfly-shaped by-pass road (the {{< fl "Rondweg" >}}) was built—I mentioned it along with the district breakdown in my {{< intref "0221" "last post" >}}.
+An active growth of Houten municipality began in 1970's. Back then it was just a little village with about four thousand inhabitants. It is around that time that a strategic plan, whose objective was to stimulate the residents to use bikes while discouraging them from driving, has been developed. This was also the time when the butterfly-shaped by-pass road (the {{< fl "Rondweg" >}}) was built—I mentioned it along with the district breakdown in my {{< a "0221" "last post" >}}.
 
 One of the strategic provision stipulated that with a car one district from another can only be reached using the by-pass road, and there would be no drive-through route. Cyclists don't face this restriction, therefore biking to friends' is often faster than driving.
 {{< imgfig "https://1.bp.blogspot.com/-4fxInPq3o0g/VAwoGI91qPI/AAAAAAAAfaY/LYUWn2BcW6w/s1600/dsc06644.picasaweb.jpg" >}}
@@ -84,4 +84,4 @@ It has another level upstairs and special steps for rolling the bikes up:
 However, since our town is pretty small, it's not that busy on all these bike roads.
 {{< imgfig "https://3.bp.blogspot.com/-E2IJYlcrToM/U_uLLdEfzmI/AAAAAAAAfDM/5WdUEIHcFRI/s1600/dsc06411.picasaweb.jpg" >}}
 
-Next: {{< intref "0223" "Part 3. Water and Fruits" >}}
+Next: {{< a "0223" "Part 3. Water and Fruits" >}}

@@ -9,7 +9,7 @@ aliases:
     - /en/blog/post/310
 ---
 
-In my {{< intref "0309" "previous post" >}} I briefly listed pros and cons of being an entrepreneur. The next logical question is—what does it actually mean, to be an entrepreneur?
+In my {{< a "0309" "previous post" >}} I briefly listed pros and cons of being an entrepreneur. The next logical question is—what does it actually mean, to be an entrepreneur?
 
 To properly answer this seemingly simple question one needs to take a deep dive into the swamp of Dutch laws, regulations, stipulations, and definitions.
 
@@ -55,7 +55,7 @@ It's also pretty straightforward in terms of financial reporting. Once a quarter
 
 With all the simplicity this type of business has a significant downside: the owner is *personally liable* for their business. And if he/she is married, so is their spouse, too. In practice it means that if things go sour and the company fails to fulfil its financial obligations to its creditors or, say, employees, then the owner will have to sacrifice his/her possessions, such as car, house etc.
 
-Since this form of business is not seen as employment, the owner doesn't have to pay social contributions (however the complication of the {{< intref "0309#contra" "Wet DBA" >}} is still relevant). For the same reason the 30% tax relief ({{< fl "30%-regeling" >}}) cannot be applied.
+Since this form of business is not seen as employment, the owner doesn't have to pay social contributions (however the complication of the {{< a "0309#contra" "Wet DBA" >}} is still relevant). For the same reason the 30% tax relief ({{< fl "30%-regeling" >}}) cannot be applied.
 
 ### Private limited company (B.V.) {#bv}
 
@@ -83,4 +83,4 @@ In return you get liberated from most of the paperwork while retaining the freed
 
 At this point I believe it's clear that this subject is pretty complicated, and it takes some effort to get acquainted with. Or, if you don't feel like spending your time on it, you may decide to outsource the preparations by hiring a consultant. The market for this type of services is huge in the Netherlands.
 
-*Next:* {{< intref "0311" "The birth of Yktoo Solutions" >}}
+*Next:* {{< a "0311" "The birth of Yktoo Solutions" >}}

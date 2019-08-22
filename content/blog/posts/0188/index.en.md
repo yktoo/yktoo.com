@@ -10,7 +10,7 @@ aliases:
     - /en/blog/post/188
 ---
 
-Tomasa Quartet, whom I know since {{< intref "0109" "Dias Latinos 2011" >}}, honoured Amersfoort with a live gig. I couldn't miss the (quite rare) opportunity of seeing that.
+Tomasa Quartet, whom I know since {{< a "0109" "Dias Latinos 2011" >}}, honoured Amersfoort with a live gig. I couldn't miss the (quite rare) opportunity of seeing that.
 {{< imgfig "https://4.bp.blogspot.com/-vDLdFZopQ08/UYPgpy7BqpI/AAAAAAAAXm8/7dCvgEYHktE/s1600/dsc07959.picasaweb.jpg" >}}
 
 <!--more-->

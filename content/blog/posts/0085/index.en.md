@@ -80,4 +80,4 @@ Madame Tussauds' museums are everywhere:
 But we're moving on.
 {{< imgfig "https://1.bp.blogspot.com/-j57JbjWCxrU/TaauD_VCoLI/AAAAAAAAItc/di06WeVhmuE/s1600/dsc01550.picasaweb.jpg" >}}
 
-Next: {{< intref "0086" "Part 4. Vienna. Schönbrunn" >}}
+Next: {{< a "0086" "Part 4. Vienna. Schönbrunn" >}}

@@ -8,7 +8,7 @@ aliases:
     - /en/blog/post/253
 ---
 
-Summertime is the high time for [flying]({{< relref path="0038" lang="ru" >}}).
+Summertime is the high time for {{< a "0038" "flying" "ru" >}}.
 
 One of my colleagues has got a {{< wiki "Private_pilot_licence" "en" "Private Pilot Licence" >}} ({{< fl "PPL" >}}) and his own share of a light aircraft {{< wiki "Diamond_DA40" "en" "Diamond Star DA40-TDI" >}}. Which he offered us to fly.
 {{< imgfig "https://3.bp.blogspot.com/-A71m34_NFRk/Vat7yNaJekI/AAAAAAAAj0c/eRczmg86rZc/s1600/dsc09693.picasaweb.jpg" "Diamond DA40-TDI Diamond Star." >}}
@@ -41,7 +41,7 @@ The aircraft identified as {{< fl "PH-PCA" >}} is dwelling at a small airport ne
 The first strange thing you notice is the hangar, which is full of planes, is wide open on the runway side:
 {{< imgfig "https://3.bp.blogspot.com/-gDHgtyYbrGY/Vat7nqnu2BI/AAAAAAAAkBM/WHsO27CxRpM/s1600/dsc09647.picasaweb.jpg" "Another Diamond DA40." >}}
 
-Since there's usually no one there and all the aircrafts' cockpits are unlocked, anyone can jump into any of them, start the engine and fly off. Just like Anakin Skywalker did in the {{< intref "0139" "Star Wars: The Phantom Menace" >}}.
+Since there's usually no one there and all the aircrafts' cockpits are unlocked, anyone can jump into any of them, start the engine and fly off. Just like Anakin Skywalker did in the {{< a "0139" "Star Wars: The Phantom Menace" >}}.
 {{< imgfig "https://3.bp.blogspot.com/-v_rkdBVnHIU/Vat7ox9qViI/AAAAAAAAjyU/M0PUGN8gRXo/s1600/dsc09653.picasaweb.jpg" "For any Jedi the cockpit open is." >}}
 
 Our winged friend {{< fl "PH-PCA" >}} is parked in the corner, blocked by other aeroplanes. In order to get to it, one has to roll a few others out first.

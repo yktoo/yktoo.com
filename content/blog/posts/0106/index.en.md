@@ -7,7 +7,7 @@ aliases:
     - /en/blog/post/106
 ---
 
-**Note:** this script will not work in GNOME 3 and Ubuntu 11.10; for these systems you have to use {{< intref "0122" "the new version" >}}.
+**Note:** this script will not work in GNOME 3 and Ubuntu 11.10; for these systems you have to use {{< a "0122" "the new version" >}}.
 
 This bash script picks up a random image file (.jpg, .jpeg or .png) from the predefined directory and sets it as wallpaper.
 

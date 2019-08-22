@@ -90,7 +90,7 @@ Right after Arch Enemy's departure the curtain was lowered, and the preparations
 
 Wall displays were warning the audience about the 'use of pyrotechnics and concussions' during the show, but no one seemed to have paid attention. So the explosion that opened the show came as a big surprise for everyone.
 
-The Dutch vocalist {{< wiki "Floor_Jansen" "en" "Floor Jansen" >}} is with the band since 2013. I should have seen here four years ago with [Pagan's Mind]({{< relref path="0136" lang="ru" >}}), but she didn't show up then:
+The Dutch vocalist {{< wiki "Floor_Jansen" "en" "Floor Jansen" >}} is with the band since 2013. I should have seen here four years ago with {{< a "0136" "Pagan's Mind" "ru" >}}, but she didn't show up then:
 {{< imgfig "https://2.bp.blogspot.com/-f2jGwSEXA_M/VlMnHztz9tI/AAAAAAAAkwE/jGSdKCPu47s/s1600/dsc01230.picasaweb.jpg" "Nightwish: Floor Jansen." >}}
 
 The founders of the band: the keyboardist {{< wiki "Tuomas_Holopainen" "en" "Tuomas Holopainen" >}} and the funny looking guitarist {{< wiki "Emppu_Vuorinen" "en" "Emppu Vuorinen" >}}:
@@ -114,7 +114,7 @@ Floor, who's some six+ feet tall, is highly prominent on-stage. They look funny 
 {{< imgfig "https://2.bp.blogspot.com/-VlVJ2ZHQPas/VlMnH54O-lI/AAAAAAAAkwM/Wrwn4JOzb4o/s1600/dsc01327.picasaweb.jpg" "Nightwish: Floor Jansen and Emppu Vuorinen." >}}
 {{< imgfig "https://4.bp.blogspot.com/-cv6C8sgle5g/VlMnH-v8U4I/AAAAAAAAkwE/20onVWQeWeE/s1600/dsc01336.picasaweb.jpg" "Nightwish: Floor Jansen." >}}
 
-The oldest member of the band, the British {{< wiki "Troy_Donockley" "en" "Troy Donockley" >}} (51), prefers to keep low profile. In his 35 year career he has played with a huge number of bands and musicians (including {{< intref "0250" "Arjen Lucassen" >}}'s *Ayreon*):
+The oldest member of the band, the British {{< wiki "Troy_Donockley" "en" "Troy Donockley" >}} (51), prefers to keep low profile. In his 35 year career he has played with a huge number of bands and musicians (including {{< a "0250" "Arjen Lucassen" >}}'s *Ayreon*):
 {{< imgfig "https://3.bp.blogspot.com/-SSfZZOgreyk/VlMnH5_8yDI/AAAAAAAAkwM/PFqh1gnCm4Y/s1600/dsc01319.picasaweb.jpg" "Nightwish: Troy Donockley." >}}
 
 He's best known for his playing of Uilleann pipes, which connects amazingly beautiful to the sound of *Nightwish*.

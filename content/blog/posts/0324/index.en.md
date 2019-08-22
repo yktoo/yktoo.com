@@ -12,7 +12,7 @@ aliases:
 
 What I like about the Dutch is how they manage to combine classic with contemporary, conservative with conspicuous. For instance, the modern Dutch architecture is usually quite geometrical and sober, with no gaudy elements. As you have a closer look, you suddenly spot emojis on the façade!
 
-{{< fl "Vathorst" >}}, a young district in Amersfoort (where we once held our {{< intref "0224" "aikido demo" >}}), has recently got an apartment building with twenty-two emoticons picked from the popular messenger *WhatsApp*. I decided to take a look at this new attraction after I've read about it in the local news.
+{{< fl "Vathorst" >}}, a young district in Amersfoort (where we once held our {{< a "0224" "aikido demo" >}}), has recently got an apartment building with twenty-two emoticons picked from the popular messenger *WhatsApp*. I decided to take a look at this new attraction after I've read about it in the local news.
 
 <!--more-->
 

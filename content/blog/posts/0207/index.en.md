@@ -10,7 +10,7 @@ aliases:
     - /en/blog/post/207
 ---
 
-During our {{< intref "0205" "trip to Leeuwarden" >}} we have also visited, among other places, the port town of {{< wiki "Harlingen,_Friesland" "en" "Harlingen" >}}.
+During our {{< a "0205" "trip to Leeuwarden" >}} we have also visited, among other places, the port town of {{< wiki "Harlingen,_Friesland" "en" "Harlingen" >}}.
 
 The highlights of that visit can be described as: wind, sky, open water and VIEWS. Harlingen is so small that it's barely visible on a map, so but 15 thousand people enjoy these views.
 {{< imgfig "https://2.bp.blogspot.com/-pLASqy3Of8Q/UhoJI6y68HI/AAAAAAAAZbo/TiwV1PaiZ5w/s1600/dsc09727.picasaweb.jpg" >}}

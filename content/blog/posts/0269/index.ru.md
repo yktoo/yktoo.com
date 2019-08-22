@@ -15,9 +15,9 @@ aliases:
 Так вот, 27 декабря, на излёте две тыщи пятнадцатого, Марсела Бовио и К° провели уже ставший традиционным предновогодний концерт.
 {{< imgfig "https://4.bp.blogspot.com/-6janEBsGWcY/VofESvhUuOI/AAAAAAAAlDU/jFOAGHTBU_g/s1600/dsc01613.picasaweb.jpg" "Anneke van Giersbergen, показывающая кулак, и Marcela Bovio." >}}
 
-Как и {{< intref "0175" "два года назад" >}}, концерт проходил в небольшом и уютном утрехтском клубе [Tivoli de Helling](http://www.dehelling.nl/), а самое любопытное — это внушительный список приглашённых музыкантов:
+Как и {{< a "0175" "два года назад" >}}, концерт проходил в небольшом и уютном утрехтском клубе [Tivoli de Helling](http://www.dehelling.nl/), а самое любопытное — это внушительный список приглашённых музыкантов:
 
-* {{< fl "Anneke van Giersbergen" >}} (The Gathering, {{< intref "0250" "The Gentle Storm" >}})
+* {{< fl "Anneke van Giersbergen" >}} (The Gathering, {{< a "0250" "The Gentle Storm" >}})
 * {{< fl "Lisette van den Berg" >}} (Scarlet Stories, Epic Rock Choir, Karmaflow)
 * {{< fl "Dianne van Giersbergen" >}} (Xandria)
 * {{< fl "Merijn van Haren" >}} (Navarone)
@@ -32,7 +32,7 @@ aliases:
 
 С ним же был связан один забавный момент, когда Йохан, неистово размахивая гитарой, подцепил и приподнял грифом юбку Марселы — она недоумённо обернулась, мол, что там происходит?
 
-Ритм-гитарист Эрик Хазебрук, вновь с гитарой-обрубком, но количество струн с {{< intref "0250" "последнего раза" >}} выросло до восьми.
+Ритм-гитарист Эрик Хазебрук, вновь с гитарой-обрубком, но количество струн с {{< a "0250" "последнего раза" >}} выросло до восьми.
 {{< imgfig "https://1.bp.blogspot.com/-YxAaGjkUZ24/VofESjkSKgI/AAAAAAAAlDU/erAg2uUtwAg/s1600/dsc01519.picasaweb.jpg" "Eric Hazebroek." >}}
 
 Марсела Бовио и Дианне ван Гирсберген исполняют {{< fl "Abends Will Ich Schlafen Gehn" >}} из оперы {{< wiki "Гензель_и_Гретель_(опера)" "ru" "«Гензель и Гретель»" >}} под аккомпанемент гитариста {{< fl "SoP" >}} Стефана Шульца. Точнее, должны исполнять, но Марсела вместо этого спрашивает Стефана, что он ел на ужин:

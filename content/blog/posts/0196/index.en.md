@@ -10,11 +10,11 @@ aliases:
     - /en/blog/post/196
 ---
 
-It's August again, which means festival time in Amersfoort! In the beginning of the month there's usually the world-famous Gay Pride in Holland. The main venue is, of course, Amsterdam, but many other cities, including Amersfoort, hold smaller parades. However in the beginning of August I was [in Tyumen]({{< relref path="0195" lang="ru" >}}), so I won't tell you anything about that.
+It's August again, which means festival time in Amersfoort! In the beginning of the month there's usually the world-famous Gay Pride in Holland. The main venue is, of course, Amsterdam, but many other cities, including Amersfoort, hold smaller parades. However in the beginning of August I was {{< a "0195" "in Tyumen" "ru" >}}, so I won't tell you anything about that.
 
 <!--more-->
 
-Latin music festival Dias Latinos ({{< intref "0109" "here's" >}} my post of two years ago) also usually takes place in Amersfoort in August. Sadly enough, the economy impacted by the financial crisis didn't allow to organise such an event this year. However, an alternative event named [Plazas Latinas](http://www.plazaslatinas.nl/) ("Latin Squares") was organised instead. It has been given a different name to distinguish it from the main, full-blown version. Plazas Latinas has happened in the weekend before (August 17-18), but I didn't see a lot, so there's not much to write about either.
+Latin music festival Dias Latinos ({{< a "0109" "here's" >}} my post of two years ago) also usually takes place in Amersfoort in August. Sadly enough, the economy impacted by the financial crisis didn't allow to organise such an event this year. However, an alternative event named [Plazas Latinas](http://www.plazaslatinas.nl/) ("Latin Squares") was organised instead. It has been given a different name to distinguish it from the main, full-blown version. Plazas Latinas has happened in the weekend before (August 17-18), but I didn't see a lot, so there's not much to write about either.
 
 This post is about the street arts festival called [Spoffin](http://www.spoffin.eu/). This year its second edition ran on 22-25 August. And I must admit, the quality of the shows was as high as ever. The programme consisted of two major sections: **IN** for experienced, professional artists and **OFF** for young and green yet talented.
 

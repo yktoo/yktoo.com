@@ -10,7 +10,7 @@ aliases:
     - /en/blog/post/238
 ---
 
-This year I've visited [Ghent Light Festival](http://www.lichtfestivalgent.be/), just as I {{< intref "0213" "promised" >}} a year ago.
+This year I've visited [Ghent Light Festival](http://www.lichtfestivalgent.be/), just as I {{< a "0213" "promised" >}} a year ago.
 
 {{< imgfig "https://1.bp.blogspot.com/-YxmmwHkb-qo/VM6ccpInzhI/AAAAAAAAg9Y/Pxihf6qwvMA/s1600/dsc07961.picasaweb.jpg" "Katarzyna Malejka and Joachim Slugocki. Horizontal interference." >}}
 
@@ -20,7 +20,7 @@ The festival, which is held once every three years, proved to be immensely popul
 
 {{< imgfig "https://1.bp.blogspot.com/-77rTXELjB_w/VM6cY8g72SI/AAAAAAAAg8w/5DyY43WC7Rs/s1600/dsc07954.picasaweb.jpg" "Ghent invasion of light-worshippers." >}}
 
-This festival was held for the third time, from Thursday January 29<sup>th</sup> until Sunday February 1<sup>st</sup>, in the Belgian town of Ghent (Dutch: {{< fl "Gent" >}}), which I've {{< intref "0212" "visited" >}} about a year ago.
+This festival was held for the third time, from Thursday January 29<sup>th</sup> until Sunday February 1<sup>st</sup>, in the Belgian town of Ghent (Dutch: {{< fl "Gent" >}}), which I've {{< a "0212" "visited" >}} about a year ago.
 
 There was no question as whether to go since it's just a two-hour drive. We were lucky enough to book a room in the very central [Hotel Gravensteen](http://www.gravensteen.be/), which is just across the road from the {{< wiki "Gravensteen" "en" "Gravensteen Castle" >}}.
 {{< imgfig "https://3.bp.blogspot.com/-PdDIi6H1PV0/VM6b9MzoxVI/AAAAAAAAg4w/G3cxo56ue48/s1600/dsc07915.picasaweb.jpg" "The Gravensteen Castle." >}}
@@ -28,7 +28,7 @@ There was no question as whether to go since it's just a two-hour drive. We were
 There's no snow at all in the late January since the air temperature is around +2–5° C (36-41° F). Ghent is as magnificent as ever in the sunny weather.
 {{< imgfig "https://3.bp.blogspot.com/-UnxQt8vxT7s/VM6b-1vcmWI/AAAAAAAAg5A/EkpoRIbHayI/s1600/dsc07918.picasaweb.jpg" "The Leie river." >}}
 
-Anyway, we've {{< intref "0212" "seen" >}} all that before. The main reason we're here is the light show. It begins at dusk, around 6 P.M., and goes on until midnight. The display contains [some fifty exhibits](http://www.lichtfestivalgent.be/en/program/) of various sizes and types, lined up along a five-kilometre route ([PDF](http://www.lichtfestivalgent.be/site/assets/files/1020/lfg-route-en-fr-1.pdf)).
+Anyway, we've {{< a "0212" "seen" >}} all that before. The main reason we're here is the light show. It begins at dusk, around 6 P.M., and goes on until midnight. The display contains [some fifty exhibits](http://www.lichtfestivalgent.be/en/program/) of various sizes and types, lined up along a five-kilometre route ([PDF](http://www.lichtfestivalgent.be/site/assets/files/1020/lfg-route-en-fr-1.pdf)).
 
 Let's start off with the lightballs by [Collectif Coin](http://www.collectif-coin.com/), scattered all around on the lawn. The balls are blinking to the music coming from an unidentified source:
 {{< imgfig "https://4.bp.blogspot.com/-siCmXUvqaSY/VM6b0-b_2ZI/AAAAAAAAg3g/elQ-cstm4w0/s1600/dsc07895.picasaweb.jpg" "Collectif Coin. Globoscope." >}}

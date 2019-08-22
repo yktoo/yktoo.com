@@ -8,13 +8,13 @@ layout: single
 
 ## Over mezelf
 
-Hallo! Mijn naam is Dmitry Kann (cyrillisch: {{< fl "Дмитрий Канн" >}}). Ik ben geboren en getogen in Rusland, maar in **2008** ben ik naar Nederland verhuisd, waar ik tot nu toe woon, in een prachtig dorp dat [Houten]({{< relref path="0221" lang="en" >}}) heet.
+Hallo! Mijn naam is Dmitry Kann (cyrillisch: {{< fl "Дмитрий Канн" >}}). Ik ben geboren en getogen in Rusland, maar in **2008** ben ik naar Nederland verhuisd, waar ik tot nu toe woon, in een prachtig dorp dat {{< a "0221" "Houten" "en" >}} heet.
 
 Ik ben softwareontwikkelaar en oprichter van een klein softwarebedrijf [Yktoo Solutions](https://yktoo.solutions).
 
-Ik heb een aantal hobby's om mijn vrije tijd aan te besteden: {{< intref "/" "blogging" >}}, open-source [softwareontwikkeling]({{< relref path="/software" lang="en" >}}), [muziek]({{< relref path="/tags/music" lang="en" >}}), [reizen]({{< relref path="/tags/travel" lang="en" >}}), [aikido]({{< relref path="/tags/aikido" lang="en" >}}) en [hardlopen]({{< relref path="/tags/running" lang="en" >}}). Ook was ik ooit een lid van het [Radiolaria]({{< relref path="/radiolaria" lang="en" >}}) duo.
+Ik heb een aantal hobby's om mijn vrije tijd aan te besteden: {{< a "/" "blogging" >}}, open-source {{< a "/software" "softwareontwikkeling" "en" >}}, {{< a "/tags/music" "muziek" "en" >}}, {{< a "/tags/travel" "reizen" "en" >}}, {{< a "/tags/aikido" "aikido" "en" >}} en {{< a "/tags/running" "hardlopen" "en" >}}. Ook was ik ooit een lid van het {{< a "/radiolaria" "Radiolaria" "en" >}} duo.
 
-Ik spreek Russisch, Engels en Nederlands. Als je contact met me op wilt nemen, dan kun je het beste de {{< intref "/about/contact" "contactpagina" >}} gebruiken.
+Ik spreek Russisch, Engels en Nederlands. Als je contact met me op wilt nemen, dan kun je het beste de {{< a "/about/contact" "contactpagina" >}} gebruiken.
 
 ## Over deze website
 
@@ -24,4 +24,4 @@ Deze website maakt gebruik van [Hugo](https://gohugo.io/), [Bootstrap](http://ge
 
 ## Voorwaarden
 
-Door deze website te gebruiken gaat u akkoord met het [Privacybeleid (Engels)]({{< relref path="/about/privacy" lang="en" >}}) en de [Algemene voorwaarden (Engels)]({{< relref path="/about/tos" lang="en" >}}).
+Door deze website te gebruiken gaat u akkoord met het {{< a "/about/privacy" "Privacybeleid (Engels)" "en" >}} en de {{< a "/about/tos" "Algemene voorwaarden (Engels)" "en" >}}.

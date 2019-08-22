@@ -56,6 +56,6 @@ We reserve the right to periodically review and change this policy from time to 
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy, please contact us via the {{< intref "/about/contact" "contact form" >}}.
+If you have any questions about this Privacy Policy, please contact us via the {{< a "/about/contact" "contact form" >}}.
 
 Because email communications are not always secure, please do not include credit card or other sensitive data (such as racial or ethnic origin, political opinions, religion, health, or the like) in your messages to us.

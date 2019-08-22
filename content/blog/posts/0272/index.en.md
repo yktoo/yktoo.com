@@ -18,7 +18,7 @@ The band was presenting their new album {{< wiki "The_Astonishing" "en" "The Ast
 
 {{< imgfig "https://4.bp.blogspot.com/--joylJaSOs8/Vs96qeUeASI/AAAAAAAAleU/3tOx2k0wt4E/s1600/dsc01729.picasaweb.jpg" "Dream Theater in Carré. Before the start of the show." >}}
 
-Like previously with {{< intref "0267" "The Aristocrats" >}}, all photography and filming were banned. Anyone trying to take photos with a camera or a mobile phone (which was every other person in the audience) would be approached by the security and politely, even benevolently, advised not to do it any more. The second occurrence would lead to banishing of the offender. On the photo above you can see one of them also rushing to me through the aisle.
+Like previously with {{< a "0267" "The Aristocrats" >}}, all photography and filming were banned. Anyone trying to take photos with a camera or a mobile phone (which was every other person in the audience) would be approached by the security and politely, even benevolently, advised not to do it any more. The second occurrence would lead to banishing of the offender. On the photo above you can see one of them also rushing to me through the aisle.
 
 On the one hand it makes sense, as the show is completely new and the band don't want all of it momentarily landing on YouTube. The concert is also more enjoyable when no one waves their phone before you.
 
@@ -44,7 +44,7 @@ The Emperor is a true villain so he doesn't give a damn about his daughter's fee
 
 The plot is expectedly far from being original: the dystopian future, the bad guys, the good guys, love and, eventually, a happy end. The synopsis reminds of a dozen of other films at once, such as *The Lord of the Rings*, *Game of Thrones*, *Star Wars*. The same holds for the animation created for *The Astonishing*, and there's a problem there.
 
-During the show I couldn't help feeling I was watching yet another fantasy film, only with a soundtrack by Dream Theater. The feeling was aggravated by the fact the audience was seated. And I didn't like that. Furthermore, we love Dream Theater, as opposed to, say, {{< intref "0264" "Nightwish" >}}, not for the visual effects or an intricate plot, but for the MUSIC. And in that regard I think *The Astonishing* is simply weak, especially when it comes to melodic parts.
+During the show I couldn't help feeling I was watching yet another fantasy film, only with a soundtrack by Dream Theater. The feeling was aggravated by the fact the audience was seated. And I didn't like that. Furthermore, we love Dream Theater, as opposed to, say, {{< a "0264" "Nightwish" >}}, not for the visual effects or an intricate plot, but for the MUSIC. And in that regard I think *The Astonishing* is simply weak, especially when it comes to melodic parts.
 
 It might be the factor of age or being short of ideas. On the other hand, we all know Dream Theater's works have been very different throughout its history, so it's very well possible the next one will be a jewel again.
 

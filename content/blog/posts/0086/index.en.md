@@ -70,4 +70,4 @@ It's only € 5.70 and it allows you to travel with all trams, busses and metro 
 
 Hungary is waiting for us. We're going to the {{< fl "Wien Meidling" >}} station where we can take a train to Budapest.
 
-Next: {{< intref "0087" "Part 5. Train to Budapest" >}}
+Next: {{< a "0087" "Part 5. Train to Budapest" >}}

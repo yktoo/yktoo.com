@@ -34,6 +34,6 @@ The neighbours rushed outside to join the cannonade:
 Once they've run out of ammo, they switched to sparklers ({{< fl "sterretjes" >}}, "little stars"):
 {{< imgfig "https://2.bp.blogspot.com/-Qa9149hfVG8/VKgOxtHj_9I/AAAAAAAAgtg/L0kHVzqm5c4/s1600/dsc07775.picasaweb.jpg" >}}
 
-On January 1<sup>st</sup> there was a nation-wide New Year's Plunge ({{< fl "nieuwjaarsduik" >}}) again, just like {{< intref "0171" "before" >}}. It was also held in [Houten](http://www.nieuwjaarsduikhouten.nl/), but I decided to skip it this time. Yet the weather was quite mild, air temperature +4° C and water 8° C.
+On January 1<sup>st</sup> there was a nation-wide New Year's Plunge ({{< fl "nieuwjaarsduik" >}}) again, just like {{< a "0171" "before" >}}. It was also held in [Houten](http://www.nieuwjaarsduikhouten.nl/), but I decided to skip it this time. Yet the weather was quite mild, air temperature +4° C and water 8° C.
 
 **Happy New Year!**

@@ -15,7 +15,7 @@ aliases:
     - /en/blog/post/211
 ---
 
-Now that we've been to the {{< intref "0209" "see" >}}, which is east, and the {{< intref "0210" "desert" >}}, which is west of Hurghada, it's time to see the most interesting bit, the city itself.
+Now that we've been to the {{< a "0209" "see" >}}, which is east, and the {{< a "0210" "desert" >}}, which is west of Hurghada, it's time to see the most interesting bit, the city itself.
 {{< imgfig "https://2.bp.blogspot.com/-6YC0TNdPLuI/Us8KBHRFaaI/AAAAAAAAbiI/GbDj0iAMe_M/s1600/dsc02298.picasaweb.jpg" >}}
 
 <!--more-->
@@ -50,7 +50,7 @@ There are lots of satellite dishes on housetops, and they too look as if they've
 
 Our hotel, as one can guess, wasn't situated at the fashionable part of the city, which could be derived from the buildings, cleanliness of the streets and the appearance of the locals. The only "stores" here were in fact tiny stalls full of cheap rubbish. The nearest more or less decent supermarket was in the downtown, about two miles away. But the good was that the beach was a five minutes walk from our place.
 
-Like I already {{< intref "0209" "said" >}}, the Red Sea is immaculate: perfectly clear, transparent, lukewarm water, sand beaches and beautiful weather even in the winter. There was a public city beach nearby, but we preferred a closed one that belonged to the hotel, which was a bit cleaner and free of random people. Yet the equipment was old and worn-out, like all other things in our hotel:
+Like I already {{< a "0209" "said" >}}, the Red Sea is immaculate: perfectly clear, transparent, lukewarm water, sand beaches and beautiful weather even in the winter. There was a public city beach nearby, but we preferred a closed one that belonged to the hotel, which was a bit cleaner and free of random people. Yet the equipment was old and worn-out, like all other things in our hotel:
 {{< imgfig "https://3.bp.blogspot.com/-zWaZuFOCTug/Us8JjTrtKTI/AAAAAAAAbfw/HvpDNdGTofc/s1600/dsc01996.picasaweb.jpg" >}}
 {{< imgfig "https://2.bp.blogspot.com/-wQ6dGouVzSM/Us8JkzzqlAI/AAAAAAAAbf4/Fs5ZzEIPb6M/s1600/dsc01997.picasaweb.jpg" >}}
 
@@ -114,7 +114,7 @@ It was finally explained by a taxi driver. They use it as a form of greeting for
 
 ## Marina by night {#marina-by-night}
 
-I already {{< intref "0209" "mentioned" >}} Hurghada Marina. This place reveals a sharp contrast with the rest of the city, it's fenced and ordinary locals are not allowed to enter here. It's very beautiful by night, with bars and restaurants at the ground floor:
+I already {{< a "0209" "mentioned" >}} Hurghada Marina. This place reveals a sharp contrast with the rest of the city, it's fenced and ordinary locals are not allowed to enter here. It's very beautiful by night, with bars and restaurants at the ground floor:
 {{< imgfig "https://1.bp.blogspot.com/-kyJHqTK6WIo/UsQKlujevLI/AAAAAAAAbGY/_MmdQrHJWgw/s1600/dsc02024.picasaweb.jpg" >}}
 {{< imgfig "https://2.bp.blogspot.com/-6vHNKY09LWQ/UsQKnBp2_oI/AAAAAAAAbGg/IMSyWvWD86Q/s1600/dsc02025.picasaweb.jpg" >}}
 

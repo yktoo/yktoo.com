@@ -24,7 +24,7 @@ When choosing a wall mount, you need to take into account both size and weight o
 
 Before attaching the braces to your TV you'll need to plug four plastic inserts into the conical pits on the TV's back—I've got no idea why Samsung made them—and then use M10 bolts for fixing.
 
-The layout of the {{< intref "0244" "backside connectors" >}} is another thing to consider: HDMI (one to three) and USB plugs are inserted along the backside, but Ethernet, SCART, composite-component input and IR blaster's jack are attached cross-wise. My wall mount left only a three-centimetre gap between the TV and the wall, so I had to bend the IR blaster connector's sleeve at 90°—it would have been so much easier if Samsung used an angle jack.
+The layout of the {{< a "0244" "backside connectors" >}} is another thing to consider: HDMI (one to three) and USB plugs are inserted along the backside, but Ethernet, SCART, composite-component input and IR blaster's jack are attached cross-wise. My wall mount left only a three-centimetre gap between the TV and the wall, so I had to bend the IR blaster connector's sleeve at 90°—it would have been so much easier if Samsung used an angle jack.
 
 The digital clock above is mounted on a T-brace attached to the stand holes. I also had to extend the power and the IR blaster cables to have a neat and clean setup.
 

@@ -12,7 +12,7 @@ aliases:
     - /en/blog/post/315
 ---
 
-Last time I enjoyed {{< intref "0306" "snowboarding in the mountains" >}} so much that I've decided to do that once more, straight away. The next season is a year away, so why wait? After all, I'm now a freelancer, ain't I?
+Last time I enjoyed {{< a "0306" "snowboarding in the mountains" >}} so much that I've decided to do that once more, straight away. The next season is a year away, so why wait? After all, I'm now a freelancer, ain't I?
 
 There was also another reason to come back to the mountains: I've recently got the {{< fl "GoPro Hero 5" >}} action camera, which yearned to be used!
 
@@ -24,7 +24,7 @@ So I've found an affordable accommodation in the ski area of {{< wiki "Les_Sybel
 
 ## Road to Les Sybelles {#way-there}
 
-This time around we went with our car, which was timely [prepared]({{< relref path="0304" lang="ru" >}}) for the winter. My past experience also prompted me to buy snow chains, which turned out to be a great idea later on. The distance to {{< fl "Les Sybelles" >}} is about **1100 km** (**684 mi**), and in theory it could have been covered in ten hours.
+This time around we went with our car, which was timely {{< a "0304" "prepared" "ru" >}} for the winter. My past experience also prompted me to buy snow chains, which turned out to be a great idea later on. The distance to {{< fl "Les Sybelles" >}} is about **1100 km** (**684 mi**), and in theory it could have been covered in ten hours.
 
 Long before the dawn, around five in the morning, have we loaded our cargo of food, winter gear and clothes and set off for France via Belgium and Luxembourg.
 {{< imgfig "https://2.bp.blogspot.com/-9Hq9S6HbZYQ/WMWIoFtLmbI/AAAAAAAApkA/G_WnJgALgAs_c4KksFzmRN5_sTrPJGcIQCPcB/s1600/20170225_103411.picasaweb.jpg" "Morning fog." >}}
@@ -64,7 +64,7 @@ Did you know that everything hermetically sealed under *normal* air pressure get
 The first couple of days the weather was sunny, *exasperatingly* sunny, with the air temperature hitting **+10-12 °C** (**50-54 °F**) in the shade. Rambling around in a complete winter-sport outfit was a torture at times.
 {{< imgfig "https://4.bp.blogspot.com/-URXHz88u2hc/WMWIoFEV7hI/AAAAAAAApk0/h1xgr2PGdkM490dJx_srfcBwxwxicCnDwCPcB/s1600/20170226_094021.picasaweb.jpg" "Les Sybelles, La Toussuire." >}}
 
-The snow didn't take it lightly either. I was noticing more and more bare spots and, in contrast with {{< intref "0306" "La Plagne" >}}, I've never seen the snow guns working here.
+The snow didn't take it lightly either. I was noticing more and more bare spots and, in contrast with {{< a "0306" "La Plagne" >}}, I've never seen the snow guns working here.
 {{< imgfig "https://2.bp.blogspot.com/-1C61CsIq0QM/WMWIoN0bd9I/AAAAAAAApk0/XWX9slA59pQ5uSndp7_-UJ0TFgeMaaztwCPcB/s1600/20170226_094027.picasaweb.jpg" "Les Sybelles, La Toussuire." >}}
 
 The lack of snow caused numerous piste closures, like those leading to {{< fl "Les Bottières" >}} I mentioned above. Such things were, as usual, presented on interactive ski maps installed in the most popular places.
@@ -120,7 +120,7 @@ We expected naïvely that the lift would finally run, but it would happen neithe
 It snowed all night long and then another half day, with a total of half-metre fallen snow.
 {{< imgfig "https://4.bp.blogspot.com/-3yOCgv7yVbo/WMWIoJjdLcI/AAAAAAAApk0/rGTzfuruQ-YKb_1mWd9MK2vLkZ8SXlbhwCPcB/s1600/20170301_080727.picasaweb.jpg" "Les Bottières, hotel's parking lot." >}}
 
-All this snow lay virtually untouched in {{< fl "La Toussuire" >}}. I have the impression no one really cared for snow in {{< fl "Les Sybelles" >}}: snow guns were never used, bare spots and pits never healed, slopes never groomed with ratracs. Which was in stark contrast with {{< intref "0306" "La Plagne" >}}. Instead of all that the pistes would simply get closed by the means of a banner across the slope.
+All this snow lay virtually untouched in {{< fl "La Toussuire" >}}. I have the impression no one really cared for snow in {{< fl "Les Sybelles" >}}: snow guns were never used, bare spots and pits never healed, slopes never groomed with ratracs. Which was in stark contrast with {{< a "0306" "La Plagne" >}}. Instead of all that the pistes would simply get closed by the means of a banner across the slope.
 
 Anyway, that day we enjoyed lots of off-piste snowboarding on the soft ungroomed snow powder. Which didn't differ that much from the "groomed" one.
 {{< imgfig "https://3.bp.blogspot.com/-g-qJa7LSBmc/WMWIoHktzNI/AAAAAAAApk0/lNfLeeIwGAElPDBu1X8Z8YTqO6_FixzhwCPcB/s1600/20170301_124725.picasaweb.jpg" "Off-piste in La Toussuire." >}}
@@ -148,7 +148,7 @@ I've tried a number of ways of mounting it: on the helmet, on the chest with a s
 
 Initially I had some doubts about how sturdy this mount would be, but I must say that GoPro dudes know very well what they're doing. The adhesive tape is incredibly strong. Despite occasional camera hits against the ski lift brace (which you should be mindful of when boarding and getting off the lift) and one complete roll over my head, the mount is still affixed as firmly as in the beginning.
 
-One problem that arises from the fact the camera's very modern is the huge volume of video files it produces. One hour of **4K-30 fps** video (*fps* stands for *frames per second*) takes about 30 GB of storage. The cam can also record **FullHD** video up to **120 fps**, with about the same appetite. On one hand, I could finally start producing content for my {{< intref "0243" "4K UltraHD TV" >}}. On the other hand, buying appropriately sized MicroSD cards costs a fortune. Especially considering that 4K video recording demands expensive, high-speed, ones. So I've capped the quality at the modest **1080p-30 fps**, which proved to be good enough. The video appearance is great, and the video stabilisation is doing its job pretty well.
+One problem that arises from the fact the camera's very modern is the huge volume of video files it produces. One hour of **4K-30 fps** video (*fps* stands for *frames per second*) takes about 30 GB of storage. The cam can also record **FullHD** video up to **120 fps**, with about the same appetite. On one hand, I could finally start producing content for my {{< a "0243" "4K UltraHD TV" >}}. On the other hand, buying appropriately sized MicroSD cards costs a fortune. Especially considering that 4K video recording demands expensive, high-speed, ones. So I've capped the quality at the modest **1080p-30 fps**, which proved to be good enough. The video appearance is great, and the video stabilisation is doing its job pretty well.
 {{< imgfig "https://4.bp.blogspot.com/-B7xvtGysQjc/WMgwd3mo-bI/AAAAAAAApnA/YTzTb8_Ol0wtp6xkOrL-LQ4lVWCRI6OswCPcB/s1600/dsc04082.picasaweb.jpg" "GoPro Hero 5 Black." >}}
 
 Another commonly mentioned problem of the Five are very tight battery and connector compartment doors. The requirement of being waterproof made them extremely difficult to open.

@@ -19,7 +19,7 @@ seeAlso:
 * Complete Unicode support.
 * Storing property values for string properties. Storing property values of class `TStrings`, `TCollection` item properties and `TPersistent` descendants. Only the properties recognized by Delphi streaming mechanism as *stored* are processed to avoid storing excessive data.
 * A set of string constants can be defined for a project. A constant is referred to by its name (binary name search is implemented). See the <b>Constants</b> example.
-* A translation is stored in a plain-text (ANSI or Unicode) file, which can be edited with any text editor. More than that, a much more convenient translation tool is available: {{< intref "/software/dklang-translation-editor" "DKLang Translation Editor" >}}.
+* A translation is stored in a plain-text (ANSI or Unicode) file, which can be edited with any text editor. More than that, a much more convenient translation tool is available: {{< a "/software/dklang-translation-editor" "DKLang Translation Editor" >}}.
 * Language of all displayed forms is switched at once by changing the current language in the global `TDKLanguageManager` instance.
 * Events that fired in the non-visual component *before* and *after* any language change.
 * Any property can be excluded from entering the language file, and any property can be forced to enter it even though it is recognized as not stored thanks to the `IgnoreList` and `StoreList` properties of `TDKLanguageController`. Both lists are defined using property name masks (eg., `*.Font.Name`).

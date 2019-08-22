@@ -12,7 +12,7 @@ aliases:
 
 It's been a while since my last gig report, time to catch up with the latest developments in the Dutch rock world. I've a perfect occasion as I've seen two live rock legends.
 
-The project called {{< wiki "The_Gentle_Storm" "en" "The Gentle Storm" >}}, which is just one year old, were presenting their debut album **The Diary** in the Amsterdam club [Melkweg](http://www.melkweg.nl/) (I've [seen]({{< relref path="0136" lang="ru" >}}) Pagan's Mind there before).
+The project called {{< wiki "The_Gentle_Storm" "en" "The Gentle Storm" >}}, which is just one year old, were presenting their debut album **The Diary** in the Amsterdam club [Melkweg](http://www.melkweg.nl/) (I've {{< a "0136" "seen" "ru" >}} Pagan's Mind there before).
 
 <!--more-->
 
@@ -37,7 +37,7 @@ and her spouse Johan van Stratum (bass), who's always running around the stage, 
 Eric Hazebroek, hidden under his hair as usual, played a funny stump of a (seven-string) guitar:
 {{< imgfig "https://1.bp.blogspot.com/-dIRI3keYt48/VRf9Z2Y6R3I/AAAAAAAAhWo/tpwxmOyjyrQ/s1600/dsc08119.picasaweb.jpg" "Eric Hazebroek" >}}
 
-I've recorded quite some footage, as always, but my [expensive external mike]({{< relref path="0170" lang="ru" >}}) has failed. Apparently, the camera lost contact with it and fell back to the internal one. The outcome was appalling, everything but the "unplugged" songs has been severely clipped. Which is a great pity, but at least now I'm aware of it.
+I've recorded quite some footage, as always, but my {{< a "0170" "expensive external mike" "ru" >}} has failed. Apparently, the camera lost contact with it and fell back to the internal one. The outcome was appalling, everything but the "unplugged" songs has been severely clipped. Which is a great pity, but at least now I'm aware of it.
 {{< imgfig "https://4.bp.blogspot.com/-hHjRHaGHj3o/VRf9b5mDhoI/AAAAAAAAhW4/tWrjbm62V2s/s1600/dsc08128.picasaweb.jpg" "Marcela Bovio." >}}
 
 Head-banging:

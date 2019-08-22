@@ -10,7 +10,7 @@ aliases:
     - /ru/blog/post/170
 ---
 
-17 ноября в амстелвейнском клубе [P60](http://www.p60.nl/) (в котором я уже был дважды: {{< intref "0098" "1" >}}, {{< intref "0101" "2" >}}) состоялся благотворительный концерт под названием {{< fl "Metal for Mara" >}}.
+17 ноября в амстелвейнском клубе [P60](http://www.p60.nl/) (в котором я уже был дважды: {{< a "0098" "1" >}}, {{< a "0101" "2" >}}) состоялся благотворительный концерт под названием {{< fl "Metal for Mara" >}}.
 
 Участниками концерта были заявлены группы {{< fl "Sin7sinS" >}}, {{< fl "Kingfisher Sky" >}}, {{< fl "Autumn" >}}, {{< fl "My Favorite Scar" >}}, {{< fl "The Gathering '92" >}} и {{< fl "Stream of Passion" >}}. «Надо идти», — подумал я, глядя на состав.
 
@@ -28,7 +28,7 @@ aliases:
 
 ## Sin7sinS {#sin7sins}
 
-Первыми были мои старые знакомые по {{< intref "0098" "прошлому" >}} концерту в том же месте [Sin7sinS](http://www.sin7sins.com/), выступавшие на разогреве у Stream of Passion.
+Первыми были мои старые знакомые по {{< a "0098" "прошлому" >}} концерту в том же месте [Sin7sinS](http://www.sin7sins.com/), выступавшие на разогреве у Stream of Passion.
 {{< imgfig "https://1.bp.blogspot.com/-yhLlfFdkqMg/UK6OO86cRDI/AAAAAAAAV7M/zX4M6SCmqtY/s1600/dsc05619.picasaweb.jpg" >}}
 
 Та же неистовая вокалистка Lotus в той же розовой юбке. Но на этот раз в корсете.

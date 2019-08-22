@@ -77,7 +77,7 @@ aliases:
 
 ## Desperados {#desperados}
 
-Пришло воскресенье, а с ним и знакомые уже мне бравые хлопцы [Desperados](http://www.desperados-music.com/) из приснопамятной деревни {{< intref "0005" "Суст" >}} выступили с прямо-таки недеревенским размахом.
+Пришло воскресенье, а с ним и знакомые уже мне бравые хлопцы [Desperados](http://www.desperados-music.com/) из приснопамятной деревни {{< a "0005" "Суст" >}} выступили с прямо-таки недеревенским размахом.
 {{< imgfig "https://4.bp.blogspot.com/-iiNKHDXtHxc/TlFdG-TNzPI/AAAAAAAAJcI/9E7os7p91mo/s1600/dsc06309.picasaweb.jpg" >}}
 
 Вот несколько видеороликов — музыка незамысловатая, но заводная:

@@ -10,7 +10,7 @@ aliases:
     - /en/blog/post/343
 ---
 
-It's time to fulfil my {{< intref "0342" "promise" >}}, so please meet {{< intref "/software/sound-switcher-indicator" "Sound Switcher Indicator" >}} version **2.2.0**.
+It's time to fulfil my {{< a "0342" "promise" >}}, so please meet {{< a "/software/sound-switcher-indicator" "Sound Switcher Indicator" >}} version **2.2.0**.
 
 ## What's new {#whats-new}
 

@@ -18,4 +18,4 @@ Even though I am not moved at all by Mr. Jackson's music, I really liked this ve
 
 It might be, of course, the take one hundred and eighty, but hey—the final result is what counts.
 
-On a side note, I have to say that looping techniques become popular in live shows. Petrucci used it in *A Life Left Behind* during the {{< intref "0272" "The Astonishing" >}} tour. Also Daniel Cavanagh (*Anathema*) used it in *Thin Air*, as I noticed while watching their latest video, *A Sort of Homecoming*.
+On a side note, I have to say that looping techniques become popular in live shows. Petrucci used it in *A Life Left Behind* during the {{< a "0272" "The Astonishing" >}} tour. Also Daniel Cavanagh (*Anathema*) used it in *Thin Air*, as I noticed while watching their latest video, *A Sort of Homecoming*.
