@@ -1,0 +1,21 @@
+<!-- Single post item, which is displayed in a list as a card -->
+<article class="card uni-height">
+    <!-- Post image -->
+    <div class="top-image">
+        {{- $url := .Params.image -}}
+        {{- with $url -}}
+            {{- if not (or (hasPrefix $url "http://") (hasPrefix $url "https://")) -}}
+                {{- $url = ($.Page.Resources.GetMatch $url).RelPermalink -}}
+            {{- end -}}
+        {{- else -}}
+            {{- $url = "/images/image-placeholder.png" -}}
+        {{- end -}}
+        <a href="{{ .RelPermalink }}"><img class="card-img-top" src="{{ $url }}" alt="Post image"></a>
+    </div>
+
+    <!-- Post body -->
+    <div class="card-body">
+        <p><a href="{{ .RelPermalink }}" class="card-link">{{ with .Params.series }}{{ . }} ‣ {{ end }}{{ .Title | markdownify }}</a></p>
+    </div>
+</article>
+

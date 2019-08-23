@@ -85,11 +85,11 @@
             {{- with .Site.RegularPages.Related . }}
             <section class="blog-post-comments">
                 <h2>{{ T "seeAlso" }}</h2>
-                <ul class="list-unstyled">
-                    {{- range first 7 . }}
-                    <li>{{ .Render "lang-link" }}</li>
-                    {{- end }}
-                </ul>
+                <div class="row">
+                {{- range first 6 . }}
+                    <div class="col-md-6 col-lg-4">{{ .Render "card" }}</div>
+                {{- end }}
+                </div>
             </section>
             {{- end }}
 

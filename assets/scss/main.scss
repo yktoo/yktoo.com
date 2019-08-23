@@ -205,6 +205,26 @@ blockquote {
     }
 }
 
+// Cards
+.card {
+    .top-image {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: #c4c4c4;
+        height: 50%;
+        overflow: hidden;
+
+        a:hover, a:focus {
+            background-color: transparent;
+        }
+    }
+    &.uni-height {
+        padding-bottom: 10%;
+        height: 95%;
+    }
+}
+
 // Figure
 .imgfig {
     display: block;
