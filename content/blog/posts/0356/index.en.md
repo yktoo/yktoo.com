@@ -28,7 +28,7 @@ So it's easily plugged in in both directions, here's the proof:
 
 {{< imgfig "micro-usb-plugged-in.w.jpg" "Symmetrical Micro USB plugged in." >}}
 
-And it isn't charging-only, also the data lines are properly wired so that the data transfer is possible. You can buy one, for example, {{< a "http://ali.pub/3oq7yx" "on AliExpress" >}}.
+And it isn't charging-only, also the data lines are properly wired so that the data transfer is possible. You can buy one, for example, {{< a "http://ali.pub/3oqjf5" "on AliExpress" >}}.
 
 ## USB Type A
 
@@ -40,7 +40,7 @@ And here it is in action:
 
 {{< imgfig "usb-a-plugged-in.w.jpg" "Symmetrical USB A plugged in." >}}
 
-I got this cable {{< a "http://ali.pub/3oq792" "also on AliExpress" >}}.
+I got this cable {{< a "http://ali.pub/3oqjre" "also on AliExpress" >}}.
 
 So one might wonder why aren't we using these just everywhere? That's a perfect solution to unravel the infamous USB superposition problem:
 
