@@ -25,3 +25,8 @@ Deze website maakt gebruik van [Hugo](https://gohugo.io/), [Bootstrap](http://ge
 ## Voorwaarden
 
 Door deze website te gebruiken gaat u akkoord met het {{< a "/about/privacy" "Privacybeleid (Engels)" "en" >}} en de {{< a "/about/tos" "Algemene voorwaarden (Engels)" "en" >}}.
+
+De broncode van deze website is beschikbaar {{< a "https://github.com/yktoo/yktoo.com" "op GitHub" >}}. De broncode en alle bijbehorende content worden gedistribueerd onder de voorwaarden van de {{< a "https://creativecommons.org/licenses/by-sa/4.0/deed.nl" "Creative Commons Attribution-ShareAlike 4.0" >}} licentie.
+
+{{< button "https://creativecommons.org/licenses/by-sa/4.0/deed.nl" "<i class='fab fa-creative-commons'></i><i class='fab fa-creative-commons-by'></i><i class='fab fa-creative-commons-sa bycon'></i>CC-BY-SA 4.0 licentie" >}}
+{{< button "https://github.com/yktoo/yktoo.com" "<i class='fab fa-github bycon'></i>Code op GitHub" >}}

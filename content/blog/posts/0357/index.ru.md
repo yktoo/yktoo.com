@@ -26,10 +26,10 @@ image: website-logo.png
 
 Исходный код и весь сопутствующий контент распространяется на условиях лицензии {{< a "https://creativecommons.org/licenses/by-sa/4.0/deed.ru" "Creative Commons Attribution-ShareAlike 4.0" >}} license.
 
-[![CC-BY-SA](/images/cc-by-sa.png")](https://creativecommons.org/licenses/by-sa/4.0/deed.ru)
-[![View on GitHub](/images/view-on-github.png")](https://github.com/yktoo/yktoo.com)
+{{< button "https://creativecommons.org/licenses/by-sa/4.0/deed.ru" "<i class='fab fa-creative-commons'></i><i class='fab fa-creative-commons-by'></i><i class='fab fa-creative-commons-sa bycon'></i>Лицензия CC-BY-SA 4.0" >}}
+{{< button "https://github.com/yktoo/yktoo.com" "<i class='fab fa-github bycon'></i>Код на GitHub" >}}
 
-Так что если вам любопытно, как тут всё устроено — это ваш шанс!
+Так что если вам любопытно, как тут всё устроено — ловите шанс!
 
 
 ## Нужен лишь Hugo
