@@ -70,12 +70,19 @@ permalinks:
     # Radiolaria music albums and tracks
     musicalbums: /radiolaria/:title/
     radiolaria: /radiolaria/tracks/:title/
+    # Videos
+    videoartists: /video/artists/:title/
+    videoevents: /video/events/:title/
+    videotracks: /video/tracks/:title/
 
 taxonomies:
     tag: tags
     series: series
     place: places
     musicalbum: musicalbums
+    videoartists: videoartist
+    videoevents: videoevent
+    videotracks: videotrack
 
 outputs:
     # Only enable RSS generation on the home page
