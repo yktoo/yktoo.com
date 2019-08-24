@@ -64,6 +64,7 @@
 - {id: postsCurLang,      translation: Посты на русском}
 - {id: privacyPolicy,     translation: Политика приватности}
 - {id: radiolaria,        translation: Радиолярия}
+- {id: readingTime,       translation: {one: 'Чтение на минуту', few: 'Чтение на {{ .Count }} мин', many: 'Чтение на {{ .Count }} мин'}}
 - {id: readOn,            translation: Далее »}
 - {id: readOnAt,          translation: Читать далее на}
 - {id: releaseData,       translation: Информация}

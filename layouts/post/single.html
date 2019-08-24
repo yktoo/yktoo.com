@@ -48,6 +48,9 @@
     <!-- Author -->
     <span class="dot-sep"></span>{{ T "authoredBy" }}&nbsp;{{ .Params.author | default .Site.Params.author }}
 
+    <!-- Time to read -->
+    <span class="dot-sep"></span>{{ T "readingTime" .ReadingTime }}
+
     <!-- Post series  -->
     {{- $page := . }}
     {{- with .Params.series }}<span class="dot-sep"></span>{{ T "postedInSeries" }}&nbsp;<a href="{{ relref $page (print `/series/` (urlize .)) }}">{{ . }}</a>{{ end -}}

@@ -64,6 +64,7 @@
 - {id: postsCurLang,      translation: Posts in het Nederlands}
 - {id: privacyPolicy,     translation: Privacybeleid}
 - {id: radiolaria,        translation: Radiolaria}
+- {id: readingTime,       translation: '{{ .Count }} min te lezen'}
 - {id: readOn,            translation: Lees verder »}
 - {id: readOnAt,          translation: Verder lezen op}
 - {id: releaseData,       translation: Gegevens}

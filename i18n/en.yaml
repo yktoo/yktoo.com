@@ -64,6 +64,7 @@
 - {id: postsCurLang,      translation: English posts}
 - {id: privacyPolicy,     translation: Privacy policy}
 - {id: radiolaria,        translation: Radiolaria}
+- {id: readingTime,       translation: '{{ .Count }} min read'}
 - {id: readOn,            translation: Read on »}
 - {id: readOnAt,          translation: Continue reading on}
 - {id: releaseData,       translation: Release data}
