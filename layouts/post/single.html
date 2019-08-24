@@ -2,7 +2,7 @@
 
 {{- define "schema-dot-org" }}
 <!-- Basic properties -->
-{{- $ld := dict "@context" "http://schema.org" "@type" "BlogPosting" "headline" (substr .Title 0 110) "url" .Permalink "wordCount" .WordCount "mainEntityOfPage" true}}
+{{- $ld := dict "@context" "http://schema.org" "@type" "BlogPosting" "headline" (substr (.Title | markdownify | plainify) 0 110) "url" .Permalink "wordCount" .WordCount "mainEntityOfPage" true}}
 {{- with .Params.image }}
     {{- $ld_img := dict "@type" "ImageObject" }}
     {{- if or (hasPrefix . "http://") (hasPrefix . "https://") }}
@@ -27,7 +27,7 @@
     {{- $ld = merge $ld (dict "keywords" (union .Params.categories .Params.tags)) }}
 {{- end }}
 <!-- Description -->
-{{- $ld = merge $ld (dict "description" (default .Summary .Params.description)) }}
+{{- $ld = merge $ld (dict "description" (default .Summary .Params.description | markdownify | plainify)) }}
 <script type="application/ld+json">{{ $ld | jsonify | safeJS }}</script>
 {{- end }}
 
