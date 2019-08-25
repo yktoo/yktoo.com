@@ -1,5 +1,6 @@
 {{ define "heading" }}
 <div class="jumbotron">
+    {{- with .Params.icon }}{{ with $.Page.Resources.GetMatch . }}<img src="{{ .RelPermalink }}" alt="Icon">{{ end }}{{ end }}
     <h1 class="display-4">{{ .Title }}</h1>
     {{ with .Params.subtitle }}<p class="lead">{{ . }}</p>{{ end }}
 </div>
