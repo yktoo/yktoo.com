@@ -2,7 +2,7 @@
 type: post
 date: "2017-01-17T00:00:00Z"
 title: "Скрипт включения/выключения тачпада в Убунту"
-tags: ["GitHub", "Ubuntu", "yktools", "тачпад"]
+tags: ["GitHub", "Ubuntu", "yktools", "тачпад", "Vim"]
 image: "https://4.bp.blogspot.com/-P81ExjwEw5o/WH3AyBShljI/AAAAAAAApBk/UCuTprQSMVsObxhiX2KYkEfn39Cck0xrwCPcB/s1600/unity-ccenter-mouse.png"
 software: yktools
 aliases:

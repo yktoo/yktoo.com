@@ -2,7 +2,7 @@
 type: post
 date: "2017-01-17T00:00:00Z"
 title: "Touchpad toggle script for Ubuntu"
-tags: ["GitHub", "touchpad", "Ubuntu", "yktools"]
+tags: ["GitHub", "touchpad", "Ubuntu", "yktools", "Vim"]
 image: "https://4.bp.blogspot.com/-P81ExjwEw5o/WH3AyBShljI/AAAAAAAApBk/UCuTprQSMVsObxhiX2KYkEfn39Cck0xrwCPcB/s1600/unity-ccenter-mouse.png"
 software: yktools
 aliases:
