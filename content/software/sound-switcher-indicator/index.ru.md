@@ -22,6 +22,10 @@ seeAlso:
 
 Нравится? В [этом документе (англ.)](https://github.com/yktoo/indicator-sound-switcher/blob/dev/doc/install.md) объясняется, как установить это приложение.
 
+> Разработка Sound Switcher Indicator ведётся при помощи {{< a "/blog/posts/0359" "бесплатной лицензии JetBrains" >}}.
+>
+> {{< button "https://www.jetbrains.com/?from=SoundSwitcherIndicator" "![](jetbrains.png)" >}}
+
 ## Установка
 
 Если вы хотите установить индикатор, обратитесь к [соответствующему документу](https://github.com/yktoo/indicator-sound-switcher/blob/dev/doc/install.md). Здесь вы можете загрузить последнюю версию исходного кода программы.
