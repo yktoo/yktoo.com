@@ -81,9 +81,9 @@ taxonomies:
     series: series
     place: places
     musicalbum: musicalbums
-    videoartists: videoartist
-    videoevents: videoevent
-    videotracks: videotrack
+    videoartist: videoartists
+    videoevent: videoevents
+    videotrack: videotracks
 
 outputs:
     # Only enable RSS generation on the home page

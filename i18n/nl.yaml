@@ -31,6 +31,7 @@
 - {id: githubRepo,        translation: GitHub repository}
 - {id: home,              translation: Hoofdpagina}
 - {id: iAmLegend,         translation: Ik ben legende}
+- {id: inThisVideo,       translation: In deze video}
 - {id: license,           translation: Licentie}
 - {id: license_gpl3,      translation: GNU General Public License Versie 3}
 - {id: license_lgpl3,     translation: GNU Lesser General Public License Versie 3}
@@ -46,6 +47,7 @@
 - {id: mySocialLinks,     translation: Mijn sociale links}
 - {id: noContentCurLang,  translation: 'Geen Nederlandstalige inhoud beschikbaar.<br><big>¯\_(ツ)_/¯</big><br>Probeer een andere taal te kiezen bovenaan deze pagina.'}
 - {id: numPages,          translation: {one: '{{ .Count }} pagina', other: '{{ .Count }} pagina''s'}}
+- {id: numVideos,         translation: {one: '{{ .Count }} video', other: '{{ .Count }} video''s'}}
 - {id: otherPostsSeries,  translation: Andere posts van deze serie}
 - {id: paginatorNext,     translation: Volgende pagina}
 - {id: paginatorPrevious, translation: Vorige pagina}
@@ -89,7 +91,10 @@
 - {id: timeline,          translation: Tijdlijn}
 - {id: tracklist,         translation: Tracklijst}
 - {id: viaThisLink,       translation: via deze link}
+- {id: videoFromEvent,    translation: Uit}
 - {id: videos,            translation: Video's}
+- {id: videosByArtist,    translation: Video's per artiest}
+- {id: videosByCategory,  translation: Video's per categorie}
 - {id: whereThisWas,      translation: Waar het was}
 - {id: yourEmail,         translation: Je e-mailadres}
 - {id: yourName,          translation: Je naam}

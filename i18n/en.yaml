@@ -31,6 +31,7 @@
 - {id: githubRepo,        translation: GitHub repository}
 - {id: home,              translation: Home}
 - {id: iAmLegend,         translation: I Am Legend}
+- {id: inThisVideo,       translation: In this video}
 - {id: license,           translation: License}
 - {id: license_gpl3,      translation: GNU General Public License Version 3}
 - {id: license_lgpl3,     translation: GNU Lesser General Public License Version 3}
@@ -46,6 +47,7 @@
 - {id: mySocialLinks,     translation: My social links}
 - {id: noContentCurLang,  translation: 'No English content available.<br><big>¯\_(ツ)_/¯</big><br>Try selecting another language from the menu above.'}
 - {id: numPages,          translation: {one: '{{ .Count }} page', other: '{{ .Count }} pages'}}
+- {id: numVideos,         translation: {one: '{{ .Count }} video', other: '{{ .Count }} videos'}}
 - {id: otherPostsSeries,  translation: Other posts of this series}
 - {id: paginatorNext,     translation: Next page}
 - {id: paginatorPrevious, translation: Previous page}
@@ -89,7 +91,10 @@
 - {id: timeline,          translation: Timeline}
 - {id: tracklist,         translation: Tracklist}
 - {id: viaThisLink,       translation: via this link}
+- {id: videoFromEvent,    translation: From}
 - {id: videos,            translation: Videos}
+- {id: videosByArtist,    translation: Videos by artist}
+- {id: videosByCategory,  translation: Videos by category}
 - {id: whereThisWas,      translation: Where this was}
 - {id: yourEmail,         translation: Your email}
 - {id: yourName,          translation: Your name}

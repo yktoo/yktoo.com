@@ -31,6 +31,7 @@
 - {id: githubRepo,        translation: репозиторий GitHub}
 - {id: home,              translation: Главная}
 - {id: iAmLegend,         translation: Я легенда}
+- {id: inThisVideo,       translation: В этом видео}
 - {id: license,           translation: Лицензия}
 - {id: license_gpl3,      translation: GNU General Public License версии 3}
 - {id: license_lgpl3,     translation: GNU Lesser General Public License версии 3}
@@ -46,6 +47,7 @@
 - {id: mySocialLinks,     translation: Мои соцсети}
 - {id: noContentCurLang,  translation: 'Содержимое на русском недоступно.<br><big>¯\_(ツ)_/¯</big><br>Попробуйте выбрать другой язык в верхнем меню.'}
 - {id: numPages,          translation: {one: '{{ .Count }} страница', few: '{{ .Count }} страницы', many: '{{ .Count }} страниц'}}
+- {id: numVideos,         translation: '{{ .Count }} видео'}
 - {id: otherPostsSeries,  translation: Остальные посты из этой серии}
 - {id: paginatorNext,     translation: Следующая страница}
 - {id: paginatorPrevious, translation: Предыдущая страница}
@@ -89,7 +91,10 @@
 - {id: timeline,          translation: Хронология}
 - {id: tracklist,         translation: Композиции альбома}
 - {id: viaThisLink,       translation: по этой ссылке}
+- {id: videoFromEvent,    translation: Из}
 - {id: videos,            translation: Видео}
+- {id: videosByArtist,    translation: Видео по участникам}
+- {id: videosByCategory,  translation: Видео по категориям}
 - {id: whereThisWas,      translation: Где это}
 - {id: yourEmail,         translation: Ваш email-адрес}
 - {id: yourName,          translation: Ваше имя}

@@ -1,0 +1,11 @@
+{{ define "main" }}
+{{ .Content }}
+{{- range .Pages.GroupByParam "videoevents" }}
+<h2><a href="{{ relref $ (printf `/videoevents/%s` (urlize .Key)) }}">{{ .Key }}</a></h2>
+<ul>
+{{- range .Pages }}
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+{{- end }}
+</ul>
+{{- end }}
+{{ end }}
