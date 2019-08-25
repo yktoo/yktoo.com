@@ -75,6 +75,12 @@ items:
               icon: shell-script-32.png
         isActive: true
 
+    infopi:
+        githubUrl: https://github.com/yktoo/infopi
+        licenses: [mit1]
+        showDownloads: false
+        isActive: true
+
     phoa:
         githubUrl: https://github.com/yktoo/phoa
         licenses:
