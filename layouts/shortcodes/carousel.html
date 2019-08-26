@@ -24,7 +24,7 @@
 
                 <!-- Render a carousel item -->
                 <div class="carousel-item text-center{{ cond (eq $idx 0) ` active` `` }}">
-                    <img src="{{ $url }}" alt="">
+                    <img src="{{ $url }}" alt="{{ $desc | markdownify | plainify | safeHTMLAttr }}" class="img-fluid">
                     <!-- Render the description, if any -->
                     {{ with $desc }}
                     <div class="carousel-caption">{{ . | markdownify }}</div>
