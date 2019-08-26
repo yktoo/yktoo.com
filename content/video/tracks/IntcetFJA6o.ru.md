@@ -2,6 +2,6 @@
 type: videotrack
 title: "Часть 01 - Folk Song"
 youtubeId: "IntcetFJA6o"
-videoevents: "Даниил Крамер и Аркадий Шилклопер в Тюменской филармонии"
+videoevents: vevt0012
 videoartists: ["Даниил Крамер", "Аркадий Шилклопер"]
 ---

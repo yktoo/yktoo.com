@@ -2,6 +2,6 @@
 type: videotrack
 title: "Jørn Viggo Lofstad's solo spot, pt. 2"
 youtubeId: "SluWjVkrcHI"
-videoevents: "Pagan's Mind at Melkweg"
+videoevents: vevt0006
 videoartists: ["Pagan's Mind"]
 ---

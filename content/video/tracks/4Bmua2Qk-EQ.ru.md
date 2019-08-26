@@ -2,6 +2,6 @@
 type: videotrack
 title: "Часть 10"
 youtubeId: "4Bmua2Qk-EQ"
-videoevents: "Даниил Крамер и Аркадий Шилклопер в Тюменской филармонии"
+videoevents: vevt0012
 videoartists: ["Даниил Крамер", "Аркадий Шилклопер"]
 ---

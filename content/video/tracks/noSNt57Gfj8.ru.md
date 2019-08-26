@@ -2,6 +2,6 @@
 type: videotrack
 title: "Часть 12 - Объявление следующего номера"
 youtubeId: "noSNt57Gfj8"
-videoevents: "Даниил Крамер и Аркадий Шилклопер в Тюменской филармонии"
+videoevents: vevt0012
 videoartists: ["Даниил Крамер", "Аркадий Шилклопер"]
 ---

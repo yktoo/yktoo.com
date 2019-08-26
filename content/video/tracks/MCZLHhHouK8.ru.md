@@ -2,6 +2,6 @@
 type: videotrack
 title: "Latineo, часть 1"
 youtubeId: "MCZLHhHouK8"
-videoevents: "Dias Latinos — 2011"
+videoevents: vevt0008
 videoartists: ["Latineo"]
 ---

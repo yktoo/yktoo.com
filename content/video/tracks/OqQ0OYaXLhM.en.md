@@ -2,6 +2,6 @@
 type: videotrack
 title: "Dario Rossi (street drummer) in Rome"
 youtubeId: "OqQ0OYaXLhM"
-videoevents: "Trip to Italy"
+videoevents: vevt0026
 videoartists: ["Dario Rossi"]
 ---

@@ -2,6 +2,6 @@
 type: videotrack
 title: "06. Nick Johnston - Hypergiant"
 youtubeId: "TfYlvK3kmNc"
-videoevents: "Nick Johnston, Polyphia, Intervals в Patronaat"
+videoevents: vevt0047
 videoartists: ["Ник Джонстон"]
 ---

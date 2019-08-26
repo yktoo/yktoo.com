@@ -2,6 +2,6 @@
 type: videotrack
 title: "Open Your Eyes"
 youtubeId: "JfWXkuGrmwI"
-videoevents: "Special Acoustic Evening with Stream of Passion"
+videoevents: vevt0019
 videoartists: ["Stream of Passion", "Maxi Nil"]
 ---

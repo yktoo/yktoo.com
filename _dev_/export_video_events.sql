@@ -1,0 +1,33 @@
+select concat(
+        'mkdir vevt', lpad(e.id, 4, '0'), '\n',
+        'cat <<EOF >vevt', lpad(e.id, 4, '0'), '/_index.en.md\n',
+        '---\n',
+        'type: videoevent\n',
+        'title: "', replace(coalesce(e.name_en, ''), '"', '\\"'), '"\n',
+        'date_from: ', coalesce(e.date_from, ''), '\n',
+        'date_to: ', coalesce(e.date_to, ''), '\n',
+        'location: "', coalesce(e.location, ''), '"\n',
+        'websiteUrl: "', coalesce(e.website_url, ''), '"\n',
+        'image: "', coalesce(e.pic_url, ''), '"\n',
+        'videocategories: ', e.category_id, '\n',
+        'posts: ', coalesce(lpad(e.blog_post_id, 4, '0'), ''), '\n',
+        '---\n',
+        (case when e.description_en='' or e.description_en is null then '' else concat('\n', e.description_en, '\n') end),
+        'EOF\n',
+        /* Russian */
+        'cat <<EOF >vevt', lpad(e.id, 4, '0'), '/_index.ru.md\n',
+        '---\n',
+        'type: videoevent\n',
+        'title: "', replace(coalesce(e.name_ru, ''), '"', '\\"'), '"\n',
+        'date_from: ', coalesce(e.date_from, ''), '\n',
+        'date_to: ', coalesce(e.date_to, ''), '\n',
+        'location: "', coalesce(e.location, ''), '"\n',
+        'websiteUrl: "', coalesce(e.website_url, ''), '"\n',
+        'image: "', coalesce(e.pic_url, ''), '"\n',
+        'videocategories: ', e.category_id, '\n',
+        'posts: ', coalesce(lpad(e.blog_post_id, 4, '0'), ''), '\n',
+        '---\n',
+        (case when e.description_ru='' or e.description_ru is null then '' else concat('\n', e.description_ru, '\n') end),
+        'EOF\n'
+    ) text
+    from yo_video_events e

@@ -2,6 +2,6 @@
 type: videotrack
 title: "Часть 13 - Кобра"
 youtubeId: "NybR90842fU"
-videoevents: "Даниил Крамер и Аркадий Шилклопер в Тюменской филармонии"
+videoevents: vevt0012
 videoartists: ["Даниил Крамер", "Аркадий Шилклопер"]
 ---

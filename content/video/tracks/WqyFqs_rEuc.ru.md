@@ -2,6 +2,6 @@
 type: videotrack
 title: "Радиолярия, «Голубая звезда»"
 youtubeId: "WqyFqs_rEuc"
-videoevents: "Запись «Радиолярии» на тюменском ТВ «ТНТ-Ладья»"
+videoevents: vevt0023
 videoartists: ["Радиолярия"]
 ---

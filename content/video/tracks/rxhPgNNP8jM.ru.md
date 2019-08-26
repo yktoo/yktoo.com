@@ -2,6 +2,6 @@
 type: videotrack
 title: "Myrath - 10 - Beyond the Stars"
 youtubeId: "rxhPgNNP8jM"
-videoevents: "Shadowrise и Myrath в Patronaat"
+videoevents: vevt0037
 videoartists: ["Myrath", "Kahina Spirit"]
 ---
