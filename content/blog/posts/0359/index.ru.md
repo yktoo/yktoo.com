@@ -6,7 +6,7 @@ tags:
     - софт
     - JetBrains
     - IntelliJ IDEA
-    - оперсорс
+    - опенсорс
     - Sound Switcher Indicator
     - IDE
     - Vim
@@ -19,7 +19,7 @@ image: intellij-about.jpg
 
 {{< imgfig "intellij-about.jpg" "Intellij IDEA 2019.2 Ultimate." >}}
 
-Такая лицензия всегда выдаётся сроком на год, после чего может быть продлена при условии, что проект по-прежнему соответствует требованиям их {{< a "https://www.jetbrains.com/community/opensource/?from=SoundSwitcherIndicator" "программы поддержки оперсорса" >}}.
+Такая лицензия всегда выдаётся сроком на год, после чего может быть продлена при условии, что проект по-прежнему соответствует требованиям их {{< a "https://www.jetbrains.com/community/opensource/?from=SoundSwitcherIndicator" "программы поддержки опенсорса" >}}.
 
 Спасибо, {{< fl "JetBrains" >}}!
 
