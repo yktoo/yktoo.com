@@ -2,14 +2,14 @@
 <div class="list-group">
     <!-- Subscribe by email -->
     <a class="list-group-item list-group-item-action list-group-item-iconized" href="{{ printf .Site.Data.blog.subscribe.by_email_url .Language (T `locale`) }}">
-        <div class="list-group-img-32"><i class="fas fa-envelope"></i></div>
+        <div class="list-group-img-32"><i class="fas fa-envelope colourise"></i></div>
         <div class="list-group-text"><div class="list-group-heading">{{ T "subscribeByEmail" }}</div></div>
     </a>
 
     <!-- Subscribe by RSS -->
     {{ with (.GetPage "/" ).OutputFormats.Get "rss" }}
     <a class="list-group-item list-group-item-action list-group-item-iconized" href="{{ .Permalink }}">
-        <div class="list-group-img-32"><i class="fas fa-rss"></i></div>
+        <div class="list-group-img-32"><i class="fas fa-rss-square colourise"></i></div>
         <div class="list-group-text"><div class="list-group-heading">{{ T "subscribeByRSS" }}</div></div>
     </a>
     {{ end }}

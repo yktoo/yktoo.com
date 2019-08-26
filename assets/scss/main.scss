@@ -528,11 +528,25 @@ a {
     }
 }
 
-// Misc
+// Icons
 // A by-icon, icon that precedes some label
 .bycon {
     padding-right: 0.2em;
 }
+.colourise {
+    &.fa-envelope       {color: #da3838;}
+    &.fa-github         {color: #000000;}
+    &.fa-linkedin       {color: #0077b5;}
+    &.fa-reddit         {color: #f83200;}
+    &.fa-rss-square     {color: #f18222;}
+    &.fa-stack-overflow {color: #f48024;}
+    &.fa-tumblr         {color: #35465c;}
+    &.fa-twitter        {color: #55acee;}
+    &.fa-ubuntu         {color: #d74613;}
+    &.fa-youtube        {color: #ff0101;}
+}
+
+// Misc
 .dot-sep {
     padding-left: 0.25rem;
     padding-right: 0.25rem;

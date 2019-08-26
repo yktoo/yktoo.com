@@ -1,28 +1,28 @@
 details:
     - url: 'https://www.linkedin.com/in/dkann/'
-      icon: fab fa-linkedin
+      icon: fab fa-linkedin colourise
       title: LinkedIn
     - url: 'https://twitter.com/yktoo'
-      icon: fab fa-twitter
+      icon: fab fa-twitter colourise
       title: Twitter
     - url: 'https://www.youtube.com/user/yyktoo'
-      icon: fab fa-youtube
+      icon: fab fa-youtube colourise
       title: YouTube
     - url: 'https://github.com/yktoo'
-      icon: fab fa-github
+      icon: fab fa-github colourise
       title: GitHub
     - url: 'https://launchpad.net/~yktooo'
-      icon: fab fa-ubuntu
+      icon: fab fa-ubuntu colourise
       title: Launchpad
     - url: 'https://stackoverflow.com/users/story/1300654'
-      icon: fab fa-stack-overflow
+      icon: fab fa-stack-overflow colourise
       title: StackOverflow
     - url: 'https://habr.com/users/yktoo/'
-      icon: fas fa-link
+      icon: fas fa-link colourise
       title: Habr
     - url: 'https://www.reddit.com/user/yktoo'
-      icon: fab fa-reddit
+      icon: fab fa-reddit colourise
       title: Reddit
     - url: 'https://yktoo.tumblr.com/'
-      icon: fab fa-tumblr
+      icon: fab fa-tumblr colourise
       title: Tumblr
