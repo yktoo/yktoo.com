@@ -7,6 +7,8 @@ tags:
     - айкидо
     - Ляйден
     - спорт
+    - 合気道
+    - 弐段
 image: "https://1.bp.blogspot.com/-hYsQr5Le9II/XWO8e1JyqKI/AAAAAAAAwjQ/lHIm_JQdrX42aXusW4DyR0w5LnmhgqVtwCKgBGAs/s1600/dsc08602.picasaweb.jpg"
 places:
     - place0239
@@ -30,7 +32,7 @@ places:
 Экзамен я сдал, о чём в декабре прошлого года получил соответствующий документ из Хомбу-додзё:
 {{< imgfig "https://1.bp.blogspot.com/-5JN4RxTI4XA/XWO8e92fW7I/AAAAAAAAwjQ/yO6Ym0xWM1cTo0rBtUFXbt1yaiutmZ23QCKgBGAs/s1600/dsc08574.picasaweb.jpg" "Вручение сертификата." >}}
 
-Сертификат очень похож на предыдущий, только где-то там слово *шодан* заменено на *нидан*:
+Сертификат очень похож на предыдущий, только слово *шодан* ({{< fl "初段" >}}) заменено на *нидан* ({{< fl "弐段" >}}):
 {{< imgfig "https://1.bp.blogspot.com/-hYsQr5Le9II/XWO8e1JyqKI/AAAAAAAAwjQ/lHIm_JQdrX42aXusW4DyR0w5LnmhgqVtwCKgBGAs/s1600/dsc08602.picasaweb.jpg" "Сертификат второго дана Айкидо Айкикай." >}}
 
 Впервые я обратил внимание на то, что он не весь написан от руки, некоторая часть его заранее напечатана — можно разглядеть, что цвет напечатанных символов слегка отличается от рукописных.

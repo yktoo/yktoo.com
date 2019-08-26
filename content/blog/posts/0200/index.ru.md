@@ -2,7 +2,15 @@
 type: post
 date: "2013-10-25T00:00:00Z"
 title: "Сайт Aikikai Amersfoort"
-tags: ["Yii", "айкидо", "Амерсфорт", "веб", "Нидерланды", "сайт", "спорт"]
+tags:
+    - Yii
+    - айкидо
+    - Амерсфорт
+    - веб
+    - Нидерланды
+    - сайт
+    - спорт
+    - 合気道
 image: "https://1.bp.blogspot.com/-lki9NxKtQqo/UmpsckNYfPI/AAAAAAAAakU/UzI2708drDg/s1600/aikikai-amersfoort.picasaweb.png"
 aliases:
     - /ru/blog/post/200

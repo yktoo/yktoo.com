@@ -2,7 +2,13 @@
 type: post
 date: "2008-05-08T00:00:00Z"
 title: "Айкидо"
-tags: ["айкидо", "Амерсфорт", "Наарден", "Нидерланды", "спорт"]
+tags:
+    - айкидо
+    - Амерсфорт
+    - Наарден
+    - Нидерланды
+    - спорт
+    - 合気道
 image: "https://bp2.blogger.com/_PX65_e7vApk/SCgsEcGPAyI/AAAAAAAAABA/687M1nToqW4/s200/joost.jpg"
 places:
     - place0166

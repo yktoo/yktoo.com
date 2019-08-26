@@ -2,7 +2,14 @@
 type: post
 date: "2008-10-14T00:00:00Z"
 title: "Новости из мира айкидо"
-tags: ["Vathorst", "айкидо", "Амерсфорт", "карате", "Нидерланды", "спорт"]
+tags:
+    - Vathorst
+    - айкидо
+    - Амерсфорт
+    - карате
+    - Нидерланды
+    - спорт
+    - 合気道
 image: "https://1.bp.blogspot.com/-TdPd_onoFfk/T420CGyYn6I/AAAAAAAAO_0/CnPmP3fiONQ/s1600/Demo+Skatebaan+%252813-09-2008%2529+001.picasaweb.jpg"
 places:
     - place0153

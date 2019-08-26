@@ -2,7 +2,13 @@
 type: post
 date: "2016-07-18T00:00:00Z"
 title: "Первый дан, теперь официально"
-tags: ["айкидо", "Ляйден", "Нидерланды", "спорт"]
+tags:
+    - айкидо
+    - Ляйден
+    - Нидерланды
+    - спорт
+    - 合気道
+    - 初段
 image: "https://3.bp.blogspot.com/-yDzrlG5D55s/V40yhuRhIlI/AAAAAAAAmqw/-2izHWg62gYwt-aWnN5zlAvVc9TOVbujQCKgB/s1600/dsc02752.picasaweb.jpg"
 aliases:
     - /ru/blog/post/284

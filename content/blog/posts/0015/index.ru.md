@@ -2,7 +2,12 @@
 type: post
 date: "2008-05-21T00:00:00Z"
 title: "Кристиан Тисье и Международное Айкидо"
-tags: ["айкидо", "Амстердам", "Нидерланды", "спорт"]
+tags:
+    - айкидо
+    - Амстердам
+    - Нидерланды
+    - спорт
+    - 合気道
 image: "https://4.bp.blogspot.com/-2skgzQ66hqw/SDQpu8GPBRI/AAAAAAAAAE4/OjZOPpZFSU4/s1600/CTissier.jpg"
 aliases:
     - /ru/blog/post/15
