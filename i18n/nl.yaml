@@ -67,6 +67,7 @@
 - {id: postsCurLang,      translation: Posts in het Nederlands}
 - {id: privacyPolicy,     translation: Privacybeleid}
 - {id: radiolaria,        translation: Radiolaria}
+- {id: readInBlog,        translation: In mijn blog lezen »}
 - {id: readingTime,       translation: '{{ .Count }} min te lezen'}
 - {id: readOn,            translation: Lees verder »}
 - {id: readOnAt,          translation: Verder lezen op}
@@ -91,10 +92,13 @@
 - {id: timeline,          translation: Tijdlijn}
 - {id: tracklist,         translation: Tracklijst}
 - {id: viaThisLink,       translation: via deze link}
+- {id: videoEvInCategory, translation: In}
 - {id: videoFromEvent,    translation: Uit}
 - {id: videos,            translation: Video's}
 - {id: videosByArtist,    translation: Video's per artiest}
 - {id: videosByCategory,  translation: Video's per categorie}
+- {id: videosOfEvent,     translation: Video's van dit evenement}
 - {id: whereThisWas,      translation: Waar het was}
+- {id: withArtists,       translation: Met}
 - {id: yourEmail,         translation: Je e-mailadres}
 - {id: yourName,          translation: Je naam}

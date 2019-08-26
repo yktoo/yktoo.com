@@ -1,13 +1,13 @@
 ---
 type: videoevent
 title: "Запись «Радиолярии» на тюменском ТВ «ТНТ-Ладья»"
-date_from: 2000-02-01
-date_to: 2000-02-01
+dateFrom: 2000-02-01
+dateTo: 2000-02-01
 location: "Tyumen, Russia"
 websiteUrl: ""
 image: ""
 videocategories: music
-posts: 
+posts: ""
 ---
 
 Дуэт «Радиолярия» пригласили на студию ТВ «ТНТ-Ладья» на съёмку видеоролика для фестиваля «С веком наравне».

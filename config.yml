@@ -74,6 +74,7 @@ permalinks:
     # Videos
     videoartists: /video/artists/:title/
     videoevents: /video/events/:title/
+    videocategories: /video/categories/:title/
     videotracks: /video/tracks/:title/
 
 taxonomies:
@@ -83,6 +84,7 @@ taxonomies:
     musicalbum: musicalbums
     videoartist: videoartists
     videoevent: videoevents
+    videocategory: videocategories
     videotrack: videotracks
 
 outputs:

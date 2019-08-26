@@ -67,6 +67,7 @@
 - {id: postsCurLang,      translation: Посты на русском}
 - {id: privacyPolicy,     translation: Политика приватности}
 - {id: radiolaria,        translation: Радиолярия}
+- {id: readInBlog,        translation: Читать в моём блоге »}
 - {id: readingTime,       translation: {one: 'Чтение на минуту', few: 'Чтение на {{ .Count }} мин', many: 'Чтение на {{ .Count }} мин'}}
 - {id: readOn,            translation: Далее »}
 - {id: readOnAt,          translation: Читать далее на}
@@ -91,10 +92,13 @@
 - {id: timeline,          translation: Хронология}
 - {id: tracklist,         translation: Композиции альбома}
 - {id: viaThisLink,       translation: по этой ссылке}
+- {id: videoEvInCategory, translation: В}
 - {id: videoFromEvent,    translation: Из}
 - {id: videos,            translation: Видео}
 - {id: videosByArtist,    translation: Видео по участникам}
 - {id: videosByCategory,  translation: Видео по категориям}
+- {id: videosOfEvent,     translation: Все видео события}
 - {id: whereThisWas,      translation: Где это}
+- {id: withArtists,       translation: С участием}
 - {id: yourEmail,         translation: Ваш email-адрес}
 - {id: yourName,          translation: Ваше имя}
