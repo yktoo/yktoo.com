@@ -12,12 +12,12 @@
             <input type="hidden" name="_language" value="{{ .Site.Language.Lang }}" />
             <div class="form-group">
                 <label class="control-label" for="contactform-name">{{ T `yourName` }}</label>
-                <input type="text" class="form-control" name="name" id="contactform-name" required  aria-required="true">
+                <input type="text" class="form-control" name="name" id="contactform-name" required>
                 <div class="invalid-feedback">{{ T "errorNameReq" }}</div>
             </div>
             <div class="form-group">
                 <label class="control-label" for="contactform-email">{{ T `yourEmail` }}</label>
-                <input type="email" class="form-control" name="email" id="contactform-email" required  aria-required="true">
+                <input type="email" class="form-control" name="email" id="contactform-email" required>
                 <div class="invalid-feedback">{{ T `errorEmailReq` }}</div>
             </div>
             <div class="form-group">
@@ -26,7 +26,7 @@
             </div>
             <div class="form-group">
                 <label class="control-label" for="contactform-message">{{ T `messageBody` }}</label>
-                <textarea rows="6" class="form-control" name="message" id="contactform-message" required  aria-required="true"></textarea>
+                <textarea rows="6" class="form-control" name="message" id="contactform-message" required></textarea>
                 <div class="invalid-feedback">{{ T `errorMessageReq` }}</div>
             </div>
             <div id="cf-submit" class="form-group">
