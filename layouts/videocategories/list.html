@@ -1,5 +1,19 @@
 {{ define "main" }}
-<div class="text-center">
-    <img src="/images/under-construction.png" class="img-fluid" alt="TODO">
+<div class="row">
+    {{- range where (where .Site.Pages "Type" "videoevent") ".Params.videocategories" (urlize .Title) }}
+    <div class="col-md-6 col-lg-4">
+        <div class="card uni-height">
+            <!-- Post image -->
+            <div class="top-image">
+                <a href="{{ .RelPermalink }}"><img class="card-img-top" src="{{ default `/images/image-placeholder.png` .Params.image }}" alt="Event image"></a>
+            </div>
+
+            <!-- Post body -->
+            <div class="card-body">
+                <p><a href="{{ .RelPermalink }}" class="card-link">{{ .Title }}</a></p>
+            </div>
+        </div>
+    </div>
+    {{- end }}
 </div>
 {{ end }}
