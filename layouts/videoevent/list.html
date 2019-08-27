@@ -49,8 +49,8 @@
                 {{- T "withArtists" }}&nbsp;
                 {{- range $idx, $artist := . }}{{ if $idx }}, {{ end }}<b>{{ $artist }}</b>{{ end -}}
             </div>
+            {{- end }}
         </div>
-        {{- end }}
     </a>
     {{- end }}
 </div>

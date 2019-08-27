@@ -1,17 +1,34 @@
 {{ define "main" }}
 <div class="row">
-    {{- range where (where .Site.Pages "Type" "videoevent") ".Params.videocategories" (urlize .Title) }}
+    {{- range where (where .Site.Pages "Type" "videoevent") ".Params.videocategories" (.File.Dir | path.Base) }}
     <div class="col-md-6 col-lg-4">
-        <div class="card uni-height">
-            <!-- Post image -->
+        <div class="card uni-height text-center">
+            <!-- Link overlay -->
+            <a href="{{ .RelPermalink }}" class="card-link-overlay"></a>
+
+            <!-- Event image -->
             <div class="top-image">
-                <a href="{{ .RelPermalink }}"><img class="card-img-top" src="{{ default `/images/image-placeholder.png` .Params.image }}" alt="Event image"></a>
+                <img src="{{ with .Params.image }}{{ . }}{{ else }}{{ range first 1 .Data.Pages }}{{ printf `https://img.youtube.com/vi/%s/maxresdefault.jpg` .Params.youtubeId }}{{ end }}{{ end }}" alt="Event image">
             </div>
 
-            <!-- Post body -->
-            <div class="card-body">
-                <p><a href="{{ .RelPermalink }}" class="card-link">{{ .Title }}</a></p>
+            <!-- Event body -->
+            <div class="card-body mb-5">
+                <!-- Name -->
+                <h5 class="card-title">{{ .Title }}</h5>
+                <!-- Dates -->
+                <p class="card-subtitle text-muted">
+                {{- if eq .Params.dateFrom .Params.dateTo }}
+                    {{- partial "date" (dict "site" $.Site "date" (time .Params.dateFrom) "long" false) -}}
+                {{- else }}
+                    {{- partial "date" (dict "site" $.Site "date" (time .Params.dateFrom) "long" false) -}}&nbsp;—&nbsp;{{ partial "date" (dict "site" $.Site "date" (time .Params.dateTo) "long" false) }}
+                {{- end -}}
+                <!-- Location -->
+                {{- with .Params.location }}<br>{{ . }}{{ end }}
+                </p>
             </div>
+
+            <!-- Number of videos -->
+            <div class="card-footer">{{ T `numVideos` (len .Pages) }}</div>
         </div>
     </div>
     {{- end }}
