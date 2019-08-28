@@ -5,6 +5,7 @@ title: "2.1.0"
 series: "Sound Switcher Indicator"
 tags: ["PulseAudio", "Python", "Python 3", "Sound Switcher Indicator", "Ubuntu", "Unity", "Utopic Unicorn", "звук", "индикатор"]
 software: sound-switcher-indicator
+image: "https://1.bp.blogspot.com/-p_jKIQD-wJ4/UvZeMTHsmYI/AAAAAAAAb1g/DYm853qnCjw/s1600/indicator-sound-switcher.png"
 aliases:
     - /ru/blog/post/291
 ---

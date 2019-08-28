@@ -2,7 +2,15 @@
 type: post
 date: "2014-10-13T00:00:00Z"
 title: "Aikido demo at Vathorstdag 2014"
-tags: ["aikido", "Amersfoort", "Netherlands", "sport", "Vathorst", "video"]
+tags:
+    - aikido
+    - Amersfoort
+    - Netherlands
+    - sport
+    - Vathorst
+    - video
+    - 合気道
+image: "https://img.youtube.com/vi/FpEad5sI-bc/maxresdefault.jpg"
 aliases:
     - /en/blog/post/224
 ---

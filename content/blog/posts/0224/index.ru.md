@@ -10,6 +10,7 @@ tags:
     - Нидерланды
     - спорт
     - 合気道
+image: "https://img.youtube.com/vi/FpEad5sI-bc/maxresdefault.jpg"
 aliases:
     - /ru/blog/post/224
 ---

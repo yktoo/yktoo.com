@@ -5,6 +5,7 @@ title: "2.1.1"
 series: "Sound Switcher Indicator"
 tags: ["indicator", "PulseAudio", "Python", "Python 3", "sound", "Sound Switcher Indicator", "Ubuntu", "Unity", "Yakkety Yak"]
 software: sound-switcher-indicator
+image: "https://1.bp.blogspot.com/-p_jKIQD-wJ4/UvZeMTHsmYI/AAAAAAAAb1g/DYm853qnCjw/s1600/indicator-sound-switcher.png"
 aliases:
     - /en/blog/post/295
 ---
