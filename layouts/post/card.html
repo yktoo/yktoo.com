@@ -17,6 +17,9 @@
     </div>
 
     <!-- Post body -->
-    <div class="card-body"><h5 class="card-title">{{ with .Params.series }}{{ . }} ‣ {{ end }}{{ .Title | markdownify }}</h5></div>
+    <div class="card-body mb-3"><h6 class="card-title">{{ with .Params.series }}{{ . }} ‣ {{ end }}{{ .Title | markdownify }}</h6></div>
+
+    <!-- Post date -->
+    <div class="card-footer small">{{- partial "date" (dict "site" $.Site "date" .Date "long" false) -}}</div>
 </article>
 

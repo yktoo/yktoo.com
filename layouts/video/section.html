@@ -8,7 +8,7 @@
             <div class="list-group">
                 {{- range (.GetPage "/videocategories").Pages.ByWeight }}
                 <a class="list-group-item list-group-item-action list-group-item-iconized" href="{{ .RelPermalink }}">
-                    <div class="list-group-img-64"><i class="fas fa-{{ .Params.icon }}"></i></div>
+                    <div class="list-group-img-32"><i class="fas fa-{{ .Params.icon }}"></i></div>
                     <div class="list-group-text">
                         <div class="list-group-heading">{{ .Title }}</div>
                         <!-- TODO div class="list-group-details">{{ T `numVideos` (.Title | .Site.Taxonomies.videocategories.Count) }}</div-->
