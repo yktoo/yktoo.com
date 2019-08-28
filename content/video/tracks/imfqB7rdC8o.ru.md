@@ -1,6 +1,7 @@
 ---
 type: videotrack
-title: "01. Nick Johnston - 1"
+title: "Nick Johnston - 1"
+weight: 1
 youtubeId: "imfqB7rdC8o"
 videoevents: vevt0046
 videoartists: ["Ник Джонстон"]

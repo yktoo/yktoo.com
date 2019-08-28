@@ -1,6 +1,7 @@
 ---
 type: videotrack
-title: "09 - Orphaned Land - Barakah"
+title: "Orphaned Land - Barakah"
+weight: 9
 youtubeId: "vnxnnNEjTzY"
 videoevents: vevt0038
 videoartists: ["Orphaned Land"]

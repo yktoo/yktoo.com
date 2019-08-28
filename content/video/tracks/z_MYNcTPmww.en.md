@@ -1,6 +1,7 @@
 ---
 type: videotrack
-title: "2. Improvised historical performance"
+title: "Improvised historical performance"
+weight: 2
 youtubeId: "z_MYNcTPmww"
 videoevents: vevt0042
 videoartists: []

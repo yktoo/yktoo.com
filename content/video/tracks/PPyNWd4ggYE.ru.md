@@ -1,6 +1,7 @@
 ---
 type: videotrack
-title: "12. Wolverine - Taste of Sand"
+title: "Wolverine - Taste of Sand"
+weight: 12
 youtubeId: "PPyNWd4ggYE"
 videoevents: vevt0043
 videoartists: ["Wolverine"]

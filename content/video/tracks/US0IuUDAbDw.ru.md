@@ -1,6 +1,7 @@
 ---
 type: videotrack
-title: "11. Polyphia - 5"
+title: "Polyphia - 5"
+weight: 11
 youtubeId: "US0IuUDAbDw"
 videoevents: vevt0047
 videoartists: ["Polyphia"]

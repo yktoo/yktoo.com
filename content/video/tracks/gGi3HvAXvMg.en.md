@@ -1,6 +1,7 @@
 ---
 type: videotrack
-title: "15. Plini - Salt + Charcoal"
+title: "Plini - Salt + Charcoal"
+weight: 15
 youtubeId: "gGi3HvAXvMg"
 videoevents: vevt0048
 videoartists: ["Plini"]

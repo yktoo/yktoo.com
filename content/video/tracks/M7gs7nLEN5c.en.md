@@ -1,6 +1,7 @@
 ---
 type: videotrack
-title: "07. Until Rain - This Solitude"
+title: "Until Rain - This Solitude"
+weight: 7
 youtubeId: "M7gs7nLEN5c"
 videoevents: vevt0043
 videoartists: ["Until Rain"]

@@ -1,6 +1,7 @@
 ---
 type: videotrack
-title: "06 - Voodoo Kungfu"
+title: "Voodoo Kungfu"
+weight: 6
 youtubeId: "aVXBTZmZCLM"
 videoevents: vevt0038
 videoartists: ["Voodoo Kungfu"]

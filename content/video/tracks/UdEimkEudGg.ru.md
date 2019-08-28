@@ -1,6 +1,7 @@
 ---
 type: videotrack
-title: "15. Intervals - I'm Awake"
+title: "Intervals - I'm Awake"
+weight: 15
 youtubeId: "UdEimkEudGg"
 videoevents: vevt0047
 videoartists: ["Intervals"]

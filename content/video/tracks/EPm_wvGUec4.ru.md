@@ -1,6 +1,7 @@
 ---
 type: videotrack
-title: "05. Arch Echo - Spark"
+title: "Arch Echo - Spark"
+weight: 5
 youtubeId: "EPm_wvGUec4"
 videoevents: vevt0048
 videoartists: ["Arch Echo"]

@@ -1,6 +1,7 @@
 ---
 type: videotrack
-title: "11 - Departing Words"
+title: "Departing Words"
+weight: 11
 youtubeId: "0LM_u3quaZs"
 videoevents: vevt0035
 videoartists: ["Sun Caged", "Marcel Coenen", "Paul Adrian Villarreal"]

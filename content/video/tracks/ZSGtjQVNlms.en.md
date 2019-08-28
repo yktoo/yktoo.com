@@ -1,6 +1,7 @@
 ---
 type: videotrack
-title: "01 - Crisálida - Bajo Tierra"
+title: "Crisálida - Bajo Tierra"
+weight: 1
 youtubeId: "ZSGtjQVNlms"
 videoevents: vevt0038
 videoartists: ["Crisálida"]

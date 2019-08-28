@@ -1,6 +1,7 @@
 ---
 type: videotrack
-title: "03. Nick Johnston - Guitar solo"
+title: "Nick Johnston - Guitar solo"
+weight: 3
 youtubeId: "UGtEfZ0a814"
 videoevents: vevt0047
 videoartists: ["Nick Johnston"]

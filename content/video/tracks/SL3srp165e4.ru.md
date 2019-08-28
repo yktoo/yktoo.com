@@ -1,6 +1,7 @@
 ---
 type: videotrack
-title: "06. День четвёртый"
+title: "День четвёртый"
+weight: 6
 youtubeId: "SL3srp165e4"
 videoevents: vevt0044
 videoartists: []

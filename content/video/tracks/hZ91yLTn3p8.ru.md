@@ -1,6 +1,7 @@
 ---
 type: videotrack
-title: "03 - Crisálida - Raco II: Viento Del Sur"
+title: "Crisálida - Raco II: Viento Del Sur"
+weight: 3
 youtubeId: "hZ91yLTn3p8"
 videoevents: vevt0038
 videoartists: ["Crisálida"]

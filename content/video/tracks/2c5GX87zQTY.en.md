@@ -1,6 +1,7 @@
 ---
 type: videotrack
-title: "42 - Ivo Schoofs - Large Pendulum Wave"
+title: "Ivo Schoofs - Large Pendulum Wave"
+weight: 42
 youtubeId: "2c5GX87zQTY"
 videoevents: vevt0028
 videoartists: []

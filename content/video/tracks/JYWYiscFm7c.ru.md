@@ -1,6 +1,7 @@
 ---
 type: videotrack
-title: "20. Plini - Other Things"
+title: "Plini - Other Things"
+weight: 20
 youtubeId: "JYWYiscFm7c"
 videoevents: vevt0048
 videoartists: ["Plini"]

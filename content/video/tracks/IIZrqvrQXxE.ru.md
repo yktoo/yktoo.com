@@ -1,6 +1,7 @@
 ---
 type: videotrack
-title: "03. День второй"
+title: "День второй"
+weight: 3
 youtubeId: "IIZrqvrQXxE"
 videoevents: vevt0044
 videoartists: []

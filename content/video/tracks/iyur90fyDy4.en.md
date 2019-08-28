@@ -1,6 +1,7 @@
 ---
 type: videotrack
-title: "08. Animals as Leaders - Cognitive Contortions"
+title: "Animals as Leaders - Cognitive Contortions"
+weight: 8
 youtubeId: "iyur90fyDy4"
 videoevents: vevt0046
 videoartists: ["Animals as Leaders"]
