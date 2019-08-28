@@ -1,11 +1,10 @@
 <!-- Render the given date in a short or long format. Context:
-    site - the .Site object to fetch formats from
     date - date to format
     long - false to use the 'short' date format, otherwise 'long' is used
 Need to use this totally custom implementation because of lack of date localisation support in Hugo.
 -->
-{{- $cfg := index .site.Data.datefmt .site.Language.Lang }}
-{{- $date := cond .long .site.Params.dateFormat .site.Params.shortDateFormat }}
+{{- $cfg := index site.Data.datefmt site.Language.Lang }}
+{{- $date := cond .long site.Params.dateFormat site.Params.shortDateFormat }}
 {{- $date = replace $date "DOW"   (index $cfg.dow (printf "%d" .date.Weekday)) }}
 {{- $date = replace $date "DD"    (printf "%.2d" .date.Day) }}
 {{- $date = replace $date "D"     (printf "%d"   .date.Day) }}

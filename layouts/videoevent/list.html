@@ -2,13 +2,8 @@
 <h1>{{ .Title }}</h1>
 <div class="page-heading-meta">
     {{- T "videoEvInCategory" }}&nbsp;{{ .Params.videocategories | title }}
-    <span class="dot-sep"></span>
-    {{- if eq .Params.dateFrom .Params.dateTo }}
-        {{- partial "date" (dict "site" $.Site "date" (time .Params.dateFrom) "long" true) -}}
-    {{- else }}
-        {{- partial "date" (dict "site" $.Site "date" (time .Params.dateFrom) "long" true) -}}&nbsp;—&nbsp;{{ partial "date" (dict "site" $.Site "date" (time .Params.dateTo) "long" true) }}
-    {{- end }}
-    {{ with .Params.location }}<span class="dot-sep"></span>{{ . }}{{ end }}
+    <span class="dot-sep"></span>{{ partial "date-range" (dict "dateFrom" (time .Params.dateFrom) "dateTo" (time .Params.dateTo) "long" false) }}
+    {{- with .Params.location }}<span class="dot-sep"></span>{{ . }}{{ end }}
 </div>
 {{ end }}
 

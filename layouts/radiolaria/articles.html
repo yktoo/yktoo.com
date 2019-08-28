@@ -9,7 +9,7 @@
     <table class="table table-striped table-sm">
         {{- range .Pages }}
         <tr>
-            <td class="date">{{ partial "date" (dict "site" $.Site "date" .Date "long" false) }}</td>
+            <td class="date">{{ partial "date" (dict "date" .Date "long" false) }}</td>
             <td><a href="{{ .RelPermalink }}">{{ .Title }}</a>{{- with .Params.description }}<br>{{ . | markdownify }}{{ end -}}</td>
         </tr>
         {{- end }}
