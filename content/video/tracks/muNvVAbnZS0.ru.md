@@ -1,6 +1,7 @@
 ---
 type: videotrack
-title: "03. David Maxim Micic - Milk Tooth"
+title: "David Maxim Micic - Milk Tooth"
+weight: 3
 youtubeId: "muNvVAbnZS0"
 videoevents: vevt0046
 videoartists: ["David Maxim Micic"]

@@ -1,6 +1,7 @@
 ---
 type: videotrack
-title: "10 - Animals as Leaders"
+title: "Animals as Leaders"
+weight: 10
 youtubeId: "Q-RKCHcecVg"
 videoevents: vevt0036
 videoartists: ["Animals as Leaders"]

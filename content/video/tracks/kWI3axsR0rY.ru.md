@@ -1,6 +1,7 @@
 ---
 type: videotrack
-title: "02 - Crisálida - Morir Aquí"
+title: "Crisálida - Morir Aquí"
+weight: 2
 youtubeId: "kWI3axsR0rY"
 videoevents: vevt0038
 videoartists: ["Crisálida"]

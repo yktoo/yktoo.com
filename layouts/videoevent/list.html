@@ -2,13 +2,8 @@
 <h1>{{ .Title }}</h1>
 <div class="page-heading-meta">
     {{- T "videoEvInCategory" }}&nbsp;{{ .Params.videocategories | title }}
-    <span class="dot-sep"></span>
-    {{- if eq .Params.dateFrom .Params.dateTo }}
-        {{- partial "date" (dict "site" $.Site "date" (time .Params.dateFrom) "long" true) -}}
-    {{- else }}
-        {{- partial "date" (dict "site" $.Site "date" (time .Params.dateFrom) "long" true) -}}&nbsp;—&nbsp;{{ partial "date" (dict "site" $.Site "date" (time .Params.dateTo) "long" true) }}
-    {{- end }}
-    {{ with .Params.location }}<span class="dot-sep"></span>{{ . }}{{ end }}
+    <span class="dot-sep"></span>{{ partial "date-range" (dict "dateFrom" (time .Params.dateFrom) "dateTo" (time .Params.dateTo) "long" false) }}
+    {{- with .Params.location }}<span class="dot-sep"></span>{{ . }}{{ end }}
 </div>
 {{ end }}
 
@@ -35,23 +30,23 @@
 <h2>{{ T "videosOfEvent" }}</h2>
 <div class="list-group">
     {{- range $ixp, $track := .Data.Pages }}
-    <a class="list-group-item list-group-item-action list-group-item-iconized" href="{{ $track.Permalink }}">
+    <div class="list-group-item list-group-item-iconized">
         <!-- Video thumbnail -->
         <div class="list-group-img"><img src="https://img.youtube.com/vi/{{ .Params.youtubeId }}/mqdefault.jpg" class="rounded" alt="Thumbnail"></div>
 
         <div class="list-group-text">
             <!-- Title -->
-            <div class="list-group-heading">{{ add $ixp 1 }}. {{ $track.Title }}</div>
+            <div class="list-group-heading"><a href="{{ $track.Permalink }}">{{ add $ixp 1 }}. {{ $track.Title }}</a></div>
 
             <!-- Artists -->
             {{- with $track.Params.videoartists }}
             <div class="list-group-details">
                 {{- T "withArtists" }}&nbsp;
-                {{- range $idx, $artist := . }}{{ if $idx }}, {{ end }}<b>{{ $artist }}</b>{{ end -}}
+                {{- range $idx, $artist := . }}{{ if $idx }}, {{ end }}<a href="{{ relref $ (print `/videoartists/` (urlize .)) }}">{{ $artist }}</a>{{ end -}}
             </div>
             {{- end }}
         </div>
-    </a>
+    </div>
     {{- end }}
 </div>
 {{ end }}

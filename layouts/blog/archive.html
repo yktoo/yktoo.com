@@ -22,7 +22,7 @@
         <!-- Output a post row -->
         <tr>
             <td class="number">{{ sub $count $idx }}.</td>
-            <td class="date">{{ partial "date" (dict "site" $.Site "date" .Date "long" false) }}</td>
+            <td class="date">{{ partial "date" (dict "date" .Date "long" false) }}</td>
             <td>{{ .Render "lang-link" }}</td>
         </tr>
         {{ end }}

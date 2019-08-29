@@ -15,15 +15,10 @@
             <div class="card-body mb-5">
                 <!-- Name -->
                 <h5 class="card-title">{{ .Title }}</h5>
-                <!-- Dates -->
+                <!-- Dates and location -->
                 <p class="card-subtitle text-muted">
-                {{- if eq .Params.dateFrom .Params.dateTo }}
-                    {{- partial "date" (dict "site" $.Site "date" (time .Params.dateFrom) "long" false) -}}
-                {{- else }}
-                    {{- partial "date" (dict "site" $.Site "date" (time .Params.dateFrom) "long" false) -}}&nbsp;—&nbsp;{{ partial "date" (dict "site" $.Site "date" (time .Params.dateTo) "long" false) }}
-                {{- end -}}
-                <!-- Location -->
-                {{- with .Params.location }}<br>{{ . }}{{ end }}
+                    {{- partial "date-range" (dict "dateFrom" (time .Params.dateFrom) "dateTo" (time .Params.dateTo) "long" false) -}}
+                    {{- with .Params.location }}<br>{{ . }}{{ end -}}
                 </p>
             </div>
 

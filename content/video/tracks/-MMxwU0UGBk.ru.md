@@ -1,6 +1,7 @@
 ---
 type: videotrack
-title: "24. Intervals - The Waterfront"
+title: "Intervals - The Waterfront"
+weight: 24
 youtubeId: "-MMxwU0UGBk"
 videoevents: vevt0047
 videoartists: ["Intervals"]

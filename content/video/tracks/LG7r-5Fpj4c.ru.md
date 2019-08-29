@@ -1,6 +1,7 @@
 ---
 type: videotrack
-title: "06 - Intervals - I'm Awake"
+title: "Intervals - I'm Awake"
+weight: 6
 youtubeId: "LG7r-5Fpj4c"
 videoevents: vevt0036
 videoartists: ["Plini", "Аарон Маршалл"]

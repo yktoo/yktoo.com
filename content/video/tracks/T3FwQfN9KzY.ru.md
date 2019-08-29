@@ -1,6 +1,7 @@
 ---
 type: videotrack
-title: "25 - Top'La Design / Cathérine Garret - Mysticète"
+title: "Top'La Design / Cathérine Garret - Mysticète"
+weight: 25
 youtubeId: "T3FwQfN9KzY"
 videoevents: vevt0028
 videoartists: []

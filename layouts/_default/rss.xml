@@ -36,12 +36,12 @@
                 {{- end -}}
                 <!-- Put post summary or description -->
                 {{- with .Params.description }}
-                {{- . | markdownify }}
+                {{- . | markdownify | htmlEscape }}
                 {{- else }}
                 {{- .Summary | plainify -}}
                 {{- end }}
                 <!-- Read On link -->
-                {{- printf "<hr><p><a href=%q>%s</a></p>" .Permalink (T "readOn") -}}
+                {{- printf `<hr><p><a href=%q style="padding: 6px; background-color: #089664; color: #ffffff;">%s</a></p>` .Permalink (T "readOn") -}}
             </description>
         </item>
         {{ end -}}

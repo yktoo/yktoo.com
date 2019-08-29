@@ -1,6 +1,7 @@
 ---
 type: videotrack
-title: "13 - Orphaned Land - Nora El Nora"
+title: "Orphaned Land - Nora El Nora"
+weight: 13
 youtubeId: "fI524MSJOtQ"
 videoevents: vevt0038
 videoartists: ["Orphaned Land"]

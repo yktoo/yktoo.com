@@ -15,7 +15,7 @@
         <div class="col-md-7">
             <p class="{{ cond $featured `h3` `h4` }}">{{ $title }}</p>
             <p>{{ index .description $page.Lang | markdownify }}</p>
-            <p class="text-muted">{{ T "releasedOn" }}&nbsp;{{ partial "date" (dict "site" $page.Site "date" (time .releaseDate) "long" true) }}</p>
+            <p class="text-muted">{{ T "releasedOn" }}&nbsp;{{ partial "date" (dict "date" (time .releaseDate) "long" true) }}</p>
         </div>
         <div class="col-md-5 text-center">
             <a class="btn btn-success {{ cond $featured `btn-lg` `btn-sm` }}" href="{{ .downloadUrl }}">

@@ -1,6 +1,7 @@
 ---
 type: videotrack
-title: "02. Oddland - Above and Beyond"
+title: "Oddland - Above and Beyond"
+weight: 2
 youtubeId: "njbabpD4u_E"
 videoevents: vevt0043
 videoartists: ["Oddland"]

@@ -1,6 +1,7 @@
 ---
 type: videotrack
-title: "01 - Plini - Heart"
+title: "Plini - Heart"
+weight: 1
 youtubeId: "T-uv-MO6k9M"
 videoevents: vevt0036
 videoartists: ["Plini", "Аарон Маршалл", "Трой Райт"]

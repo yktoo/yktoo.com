@@ -1,6 +1,7 @@
 ---
 type: videotrack
-title: "14. Animals as Leaders - Inner Assassins"
+title: "Animals as Leaders - Inner Assassins"
+weight: 14
 youtubeId: "y787fdE6lbk"
 videoevents: vevt0046
 videoartists: ["Animals as Leaders"]

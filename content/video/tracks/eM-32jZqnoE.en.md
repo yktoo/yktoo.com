@@ -1,6 +1,7 @@
 ---
 type: videotrack
-title: "14. Intervals - Touch and Go"
+title: "Intervals - Touch and Go"
+weight: 14
 youtubeId: "eM-32jZqnoE"
 videoevents: vevt0047
 videoartists: ["Intervals"]

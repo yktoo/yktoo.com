@@ -1,6 +1,7 @@
 ---
 type: videotrack
-title: "19. Plini - Paper Moon"
+title: "Plini - Paper Moon"
+weight: 19
 youtubeId: "loDnPR5s-oU"
 videoevents: vevt0041
 videoartists: ["Plini"]

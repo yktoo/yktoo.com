@@ -1,6 +1,7 @@
 ---
 type: videotrack
-title: "01. Teaser"
+title: "Teaser"
+weight: 1
 youtubeId: "MwAGzpplPOk"
 videoevents: vevt0044
 videoartists: []

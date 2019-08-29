@@ -1,6 +1,7 @@
 ---
 type: videotrack
-title: "04. Nick Johnston - Trick Question"
+title: "Nick Johnston - Trick Question"
+weight: 4
 youtubeId: "rlIhIDe0UHg"
 videoevents: vevt0047
 videoartists: ["Nick Johnston"]

@@ -1,6 +1,7 @@
 ---
 type: videotrack
-title: "02. Day one"
+title: "Day one"
+weight: 2
 youtubeId: "Mdvtwj4Tyi4"
 videoevents: vevt0044
 videoartists: []

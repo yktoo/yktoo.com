@@ -1,6 +1,7 @@
 ---
 type: videotrack
-title: "1. Journey Overview"
+title: "Journey Overview"
+weight: 1
 youtubeId: "bhpgSA6vfFQ"
 videoevents: vevt0042
 videoartists: []

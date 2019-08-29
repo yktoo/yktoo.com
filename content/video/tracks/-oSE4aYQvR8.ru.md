@@ -1,6 +1,7 @@
 ---
 type: videotrack
-title: "08. Plini - Electric Sunrise"
+title: "Plini - Electric Sunrise"
+weight: 8
 youtubeId: "-oSE4aYQvR8"
 videoevents: vevt0041
 videoartists: ["Disperse"]

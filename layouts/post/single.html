@@ -43,7 +43,7 @@
 <!-- Post metadata -->
 <p class="page-heading-meta">
     <!-- Date -->
-    {{- partial "date" (dict "site" $.Site "date" .Date "long" true) -}}
+    {{- partial "date" (dict "date" .Date "long" true) -}}
 
     <!-- Author -->
     <span class="dot-sep"></span>{{ T "authoredBy" }}&nbsp;{{ .Params.author | default .Site.Params.author }}

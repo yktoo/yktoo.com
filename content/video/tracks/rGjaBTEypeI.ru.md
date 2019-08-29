@@ -1,6 +1,7 @@
 ---
 type: videotrack
-title: "3. The Legend of Elijah Shade"
+title: "The Legend of Elijah Shade"
+weight: 3
 youtubeId: "rGjaBTEypeI"
 videoevents: vevt0050
 videoartists: ["Arena"]

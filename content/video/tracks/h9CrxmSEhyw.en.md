@@ -1,6 +1,7 @@
 ---
 type: videotrack
-title: "05 - A Fair Trade"
+title: "A Fair Trade"
+weight: 5
 youtubeId: "h9CrxmSEhyw"
 videoevents: vevt0035
 videoartists: ["Sun Caged", "Marcel Coenen", "Paul Adrian Villarreal"]

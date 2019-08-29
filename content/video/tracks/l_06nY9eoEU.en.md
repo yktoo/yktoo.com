@@ -1,6 +1,7 @@
 ---
 type: videotrack
-title: "25. Plini - Electric Sunrise"
+title: "Plini - Electric Sunrise"
+weight: 25
 youtubeId: "l_06nY9eoEU"
 videoevents: vevt0048
 videoartists: ["Plini"]
