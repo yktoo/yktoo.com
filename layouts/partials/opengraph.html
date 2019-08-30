@@ -1,6 +1,6 @@
 <!-- Hugo's _internal/opengraph.html reimplemented to support 'image' (instead of 'images') and page resources -->
-<meta property="og:title" content="{{ with .Params.series }}{{ . }} ‣ {{ end }}{{ default .Site.Title .Title | markdownify | plainify | safeHTMLAttr }}" />
-<meta property="og:description" content="{{ with .Description }}{{ . | markdownify | plainify | safeHTMLAttr }}{{ else }}{{ if .IsPage }}{{ .Summary | markdownify | plainify | safeHTMLAttr }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}" />
+<meta property="og:title" content="{{ with .Params.series }}{{ . }} ‣ {{ end }}{{ default .Site.Title .Title | markdownify | plainify | safeHTML }}" />
+<meta property="og:description" content="{{ with .Description }}{{ . | markdownify | plainify | safeHTML }}{{ else }}{{ if .IsPage }}{{ .Summary | markdownify | plainify | safeHTML }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}" />
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
 {{- with $.Param "image" }}

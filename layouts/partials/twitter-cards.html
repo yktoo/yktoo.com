@@ -1,6 +1,6 @@
 <!-- Hugo's _internal/twitter_cards.html reimplemented to support 'image' (instead of 'images') -->
-<meta name="twitter:title" content="{{ default .Site.Title .Title | markdownify | plainify | safeHTMLAttr }}"/>
-<meta name="twitter:description" content="{{ with .Description }}{{ . | markdownify | plainify | safeHTMLAttr }}{{ else }}{{ if .IsPage }}{{ .Summary | markdownify | plainify | safeHTMLAttr }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end -}}"/>
+<meta name="twitter:title" content="{{ default .Site.Title .Title | markdownify | plainify | safeHTML }}"/>
+<meta name="twitter:description" content="{{ with .Description }}{{ . | markdownify | plainify | safeHTML }}{{ else }}{{ if .IsPage }}{{ .Summary | markdownify | plainify | safeHTML }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end -}}"/>
 
 <!-- Twitter link -->
 {{- with .Site.Social.twitter -}}
