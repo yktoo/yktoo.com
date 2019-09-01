@@ -68,7 +68,7 @@ image: "https://1.bp.blogspot.com/-sA8eK-UDa3s/XWttEpGkS9I/AAAAAAAAwys/lQg7NAu1D
     https://1.bp.blogspot.com/-uvN1lxxlyzQ/XWttEsRQz7I/AAAAAAAAwys/Wt8VwwZUWtEfjPU1u5F5312PUHpSUg6jACKgBGAs/s1600/dsc09064.w.jpg Уличная велопарковка.
 {{< /carousel >}}
 
-Квартал Красных фонарей чуть менее чем полностью состоит, помимо собственно красных окон, из {{< a "0362" "кофешопов" >}}, ресторанов, сувенирных лавок и секс-шопов.
+Квартал Красных фонарей чуть менее, чем полностью состоит, помимо собственно красных окон со жрицами платной любви, из {{< a "0362" "кофешопов" >}}, ресторанов, сувенирных лавок и секс-шопов.
 {{< imgfig "https://1.bp.blogspot.com/-EKZnl46CLzA/XWttElqJaRI/AAAAAAAAwys/BcEdFuAl6XskCJduaLvyEKG7fEg47XsOACKgBGAs/s1600/dsc09055.w.jpg" "Амстердамский «Мулин руж»." >}}
 {{< imgfig "https://1.bp.blogspot.com/-ufN4z9oLXFM/XWttEmc1HrI/AAAAAAAAwys/OCAc6Z2jkF8aT6TkBQWs7RWyo-eYhT4ZwCKgBGAs/s1600/dsc09052.w.jpg" "Бар в здании 1685 года." >}}
 
