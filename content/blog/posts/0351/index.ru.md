@@ -21,7 +21,7 @@ aliases:
 В связи с этим также изменятся ссылки на {{< fl "RSS" >}}-подписки:
 
 * Было: ~~`https://yktoo.com/ru/blog/atom` ({{< fl "Atom" >}}) или `https://yktoo.com/ru/blog/rss` ({{< fl "RSS" >}})~~
-* **Стало:** `https://yktoo.com/ru/index.xml` (только {{< fl "RSS" >}}) — начиная с 19 августа 2019 г.
+* **Стало:** `https://yktoo.com/ru/index.xml` (только {{< fl "RSS" >}}) — начиная с 19 августа {{< year 2019 "этого" >}} года.
 
 <!--more-->
 
