@@ -5,6 +5,8 @@ platform: linux
 icon: ssi-icon-64.png
 weight: 1
 software: sound-switcher-indicator
+aliases:
+    - /ru/software/indicator-sound-switcher
 seeAlso:
     - name: Мой Launchpad PPA
       url: 'https://launchpad.net/~yktooo/+archive/ppa'
