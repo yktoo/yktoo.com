@@ -3,18 +3,18 @@ type: post
 date: "2008-07-28T00:00:00Z"
 title: "И вновь море"
 tags: ["море", "Нидерланды", "пляж", "погода"]
-image: "https://3.bp.blogspot.com/-r69asGvQ-yE/T4223YkhpWI/AAAAAAAAPA0/CErzPPIisIM/s1600/p1000882.picasaweb.jpg"
+image: "https://1.bp.blogspot.com/-s73cAmh6M0k/XW6GDro0fnI/AAAAAAAAxH0/-WMomWthfOkkM4MWjcN_JHIn3UuuN2rDgCKgBGAs/s1600/p1000882.picasaweb.jpg"
 places:
     - place0154
 aliases:
     - /ru/blog/post/25
 ---
 
-{{< imgfig "https://3.bp.blogspot.com/-r69asGvQ-yE/T4223YkhpWI/AAAAAAAAPA0/CErzPPIisIM/s1600/p1000882.picasaweb.jpg" >}}
-
 В этот раз ввиду солнечности погоды было решено, не без некоторых бурных дебатов между крупными знатоками голландских побережий, поехать то ли в {{< fl "Katwijk" >}}, то ли в {{< fl "Noordwijk" >}}, и в процессе передвижения по территории страны победившей марихуаны без примесей остановились на последнем варианте. Точнее, на {{< fl "Nordwijk an Zee" >}} (Нордвяйк-на-Море), это деревушка рядом с обычным Nordwijk-ом.
 
 <!--more-->
+
+{{< imgfig "https://1.bp.blogspot.com/-s73cAmh6M0k/XW6GDro0fnI/AAAAAAAAxH0/-WMomWthfOkkM4MWjcN_JHIn3UuuN2rDgCKgBGAs/s1600/p1000882.picasaweb.jpg" >}}
 
 Морской Нордвяйк был несколько менее запружен машинами, чем Блумендал, в котором я был {{< a "0013" "в прошлый раз" >}}. Правда, все легальные стоянки по-прежнему были заняты напрочь, но удалось найти несильно нелегальный газон, где уже стояло несколько машин любителей дешёвого водного отдыха.
 

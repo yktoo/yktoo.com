@@ -3,7 +3,7 @@ type: post
 date: "2008-04-09T00:00:00Z"
 title: "Суст"
 tags: ["Нидерланды", "Суст"]
-image: "https://2.bp.blogspot.com/-4vj3PmA-unw/T5p7tXvcCKI/AAAAAAAAPiU/1-kXM7fB39w/s1600/P1000521.picasaweb.jpg"
+image: "https://1.bp.blogspot.com/-RkHXyzVjt8o/XW6GogezWhI/AAAAAAAAxH8/X1kYBDliA2sidzP1e4kGLAgCYotRSNa7wCKgBGAs/s1600/P1000521.picasaweb.jpg"
 places:
     - place0171
 aliases:
@@ -14,7 +14,7 @@ aliases:
 
 <!--more-->
 
-{{< imgfig "https://2.bp.blogspot.com/-4vj3PmA-unw/T5p7tXvcCKI/AAAAAAAAPiU/1-kXM7fB39w/s1600/P1000521.picasaweb.jpg" "+1 к населению Суста." >}}
+{{< imgfig "https://1.bp.blogspot.com/-RkHXyzVjt8o/XW6GogezWhI/AAAAAAAAxH8/X1kYBDliA2sidzP1e4kGLAgCYotRSNa7wCKgBGAs/s1600/P1000521.picasaweb.jpg" "+1 к населению Суста." >}}
 
 Кстати, хоть Нидерланды и в европейских лидерах по плотности населения на единицу площади, самый большой город страны – Амстердам – сравним по численности населения с нашей Тюменью, далеко не мегаполисом. И вообще, в глаза здесь бросается какая-то пустынность улиц, особенно в небольших городках вроде Суста, Баарна или Амерсфоорта. Людей на улицах практически нет даже днём, попадаются только штучные экземпляры. А часов в 10 вечера тут обычно вообще пусто. В Тюмени, особенно в центре, такого практически не бывает.
 

@@ -10,7 +10,7 @@ tags:
     - интересное
     - рост
     - медицина
-image: "https://lh3.googleusercontent.com/YfzpxCmigkW-r5pR1SkD0SZDhVjiog5eoqc_x2W0brJFg_ZW_6k7BWy6OUWs2aS0b9qPaIwdfAUqsAV2LlSMmqyE_KmxwsLWNKvLEwLvBhHcKgBQzGICsuc3G-9Bk-jN1Zv9PlExDeo=w1237-h696-no"
+image: "https://1.bp.blogspot.com/-F6OFwJ4Aji8/XW59mee6-aI/AAAAAAAAxFk/bT8vb_qQeCEGfhy-ZEcHoJ3MxjYsV2PGACKgBGAs/s1600/extreem-lange-kinderen.jpg"
 ---
 
 Голландцы, {{< wiki "List_of_average_human_height_worldwide" "en" "как известно" >}}, самая высокая нация на земле: средний рост мужчин **181 см**, женщин **168 см**.
@@ -23,7 +23,7 @@ image: "https://lh3.googleusercontent.com/YfzpxCmigkW-r5pR1SkD0SZDhVjiog5eoqc_x2
 
 В качестве примера упоминается мальчик Янник 13 лет, уже сейчас его рост составляет **196 см**:
 
-{{< imgfig "https://lh3.googleusercontent.com/YfzpxCmigkW-r5pR1SkD0SZDhVjiog5eoqc_x2W0brJFg_ZW_6k7BWy6OUWs2aS0b9qPaIwdfAUqsAV2LlSMmqyE_KmxwsLWNKvLEwLvBhHcKgBQzGICsuc3G-9Bk-jN1Zv9PlExDeo=w1237-h696-no" "13-летний Янник с друзьями: благодаря операции его рост в будущем будет **2,08**, а не **2,15 м** (фото NOS)." >}}
+{{< imgfig "https://1.bp.blogspot.com/-F6OFwJ4Aji8/XW59mee6-aI/AAAAAAAAxFk/bT8vb_qQeCEGfhy-ZEcHoJ3MxjYsV2PGACKgBGAs/s1600/extreem-lange-kinderen.jpg" "13-летний Янник с друзьями: благодаря операции его рост в будущем будет **2,08**, а не **2,15 м** (фото NOS)." >}}
 
 Парень жалуется на множество проблем, возникающих из-за его роста: еле помещается на кровати, брюки постоянно коротки, сидя в кресле, приходится сутулиться, очень часто ударяется обо что-нибудь головой ~~(так вот в чём дело)~~. А его менее рослые сверстники ему завидуют: он пользуется бо́льшим успехом у девочек и выглядит взрослее.
 

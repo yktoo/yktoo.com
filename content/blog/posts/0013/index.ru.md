@@ -3,7 +3,7 @@ type: post
 date: "2008-05-10T00:00:00Z"
 title: "Море!"
 tags: ["море", "Нидерланды", "пляж", "погода", "праздники"]
-image: "https://2.bp.blogspot.com/-5VoKL65JaTI/T5p76F9RxPI/AAAAAAAAPjw/ZE7Z3_GCHdI/s1600/DSC01507.picasaweb.jpg"
+image: "https://1.bp.blogspot.com/-32LyBeO6zvc/XW6BwMFCViI/AAAAAAAAxGg/D_OAXw8zPlEZiGqDFdNLQmUbFWvwjSIQgCKgBGAs/s1600/DSC01507.picasaweb.jpg"
 places:
     - place0164
 aliases:
@@ -13,14 +13,15 @@ aliases:
 Ох уж эти голландцы… И сегодня у них праздник, Пятидесятница, она же Троица, она же Pentecost, она же — 7 недель после Пасхи. Лишь бы не работать, в общем.
 
 Море, если оно недалеко — всегда море. Посему мне, сухопутному, туда хочется. И заявляю ответственно: море тут действительно есть, настоящее. Каких-нибудь 80&nbsp;км на Запад, где-то между {{< fl "Zandvoort" >}} и {{< fl "Bloemendaal" >}}, и вот оно!
-{{< imgfig "https://2.bp.blogspot.com/-5VoKL65JaTI/T5p76F9RxPI/AAAAAAAAPjw/ZE7Z3_GCHdI/s1600/DSC01507.picasaweb.jpg" >}}
 
 <!--more-->
+
+{{< imgfig "https://1.bp.blogspot.com/-32LyBeO6zvc/XW6BwMFCViI/AAAAAAAAxGg/D_OAXw8zPlEZiGqDFdNLQmUbFWvwjSIQgCKgBGAs/s1600/DSC01507.picasaweb.jpg" >}}
 
 Раскинулось широко, но какое-то зеленоватое и пахнет рыбой. Может, последнее и к лучшему, но по мне так лучше бы оно ничем не пахло. Море называется Северное, и вода там соответствующая, градусов 12. Хотя май ещё только начался, подождём, что будет дальше.
 
 А вот чайкам, похоже, ни запах воды, ни её температура не мешают. Ходят такие важные и что-то ищут; у кромки воды полным полно малюсеньких крабиков, не знаю, может, чайки ими и питаются.
-{{< imgfig "https://1.bp.blogspot.com/-ZDpovlztZj4/T5q-R58qn1I/AAAAAAAAPtg/BDVFk3VLFhc/s1600/DSC01500.picasaweb.jpg" >}}
+{{< imgfig "https://1.bp.blogspot.com/-tpZqRWVz0KI/XW6BwGI5UBI/AAAAAAAAxGg/_x4CE0Eux_Q9ybZxU6qGJoknAP_yUTmgQCKgBGAs/s1600/DSC01500.picasaweb.jpg" >}}
 
 А народу на побережье ещё больше, чем тех крабиков. Припарковаться непосредственно у пляжа не представляется возможным совершенно, все стоянки заняты, машин там просто тысячи. Удалось припарковаться в самом городке, метрах в восьмиста от побережья, что в общем-то тоже неплохо.
 

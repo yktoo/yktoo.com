@@ -3,7 +3,7 @@ type: post
 date: "2008-04-11T00:00:00Z"
 title: "Дела дорожные"
 tags: ["авто", "интересное", "Нидерланды"]
-image: "https://1.bp.blogspot.com/-TMp9R4GvBwA/T5p746WhbJI/AAAAAAAAPjo/gJIqm5WGFLE/s1600/Mobile_002.picasaweb.jpg"
+image: "https://1.bp.blogspot.com/-Bet0OT7hxYU/XW5_725fKUI/AAAAAAAAxGE/S1p6-xOOWLoz9S8ByV9pZIaMA5DY0gjswCKgBGAs/s1600/Mobile_002.picasaweb.jpg"
 aliases:
     - /ru/blog/post/7
 ---
@@ -12,7 +12,7 @@ aliases:
 
 <!--more-->
 
-{{< imgfig "https://1.bp.blogspot.com/-TMp9R4GvBwA/T5p746WhbJI/AAAAAAAAPjo/gJIqm5WGFLE/s1600/Mobile_002.picasaweb.jpg" >}}
+{{< imgfig "https://1.bp.blogspot.com/-Bet0OT7hxYU/XW5_725fKUI/AAAAAAAAxGE/S1p6-xOOWLoz9S8ByV9pZIaMA5DY0gjswCKgBGAs/s1600/Mobile_002.picasaweb.jpg" >}}
 
 Это почти новенький Peugeot 107 из проката с 15&nbsp;тыс.&nbsp;км на спидометре. Мне не осталось ничего иного, кроме как забрать ключи и попытаться разобраться в новой машине, новых дорогах новой страны и новой организации дорожного движения, которая почему-то обнаружила самый для меня разительный контраст с отчизной. Ну, про то, что дороги тут все вдоль, поперёк и даже кое-где по диагонали размеченные, я уже упоминал. А про то, что они абсолютно ровные и чистые, и упоминать не стоит, это понятно. Впрочем, о ровности можно говорить весьма относительно, если вести речь о дорогах в жилых зонах – в большинстве своём они мощёные брусчаткой или булыжником; то есть сами по себе они уложены, конечно, ровно, но в силу специфики такого покрытия ехать со скоростью больше законных 30 км/ч некомфортно.
 
