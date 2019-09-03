@@ -16,7 +16,7 @@ image: "https://1.bp.blogspot.com/-g4m_ZWdPzn4/XW4hr5Hrv_I/AAAAAAAAxCg/VHV1GKNxc
 series: "Доля предпринимательская"
 ---
 
-Каждое юридическое лице вскоре после регистрации получает от местной налоговой специальный идентификационный номер, называемый {{< a "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/btw/administratie_bijhouden/btw_nummers_controleren/uw_btw_nummer" "btw-nummer" >}} ({{< fl "btw" >}} — это голландский вариант {{< wiki "Налог_на_добавленную_стоимость" "ru" "НДС" >}}).
+Каждое юридическое лицо в Нидерландах вскоре после регистрации получает от местной налоговой специальный идентификационный номер, называемый {{< a "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/btw/administratie_bijhouden/btw_nummers_controleren/uw_btw_nummer" "btw-nummer" >}} ({{< fl "btw" >}} — это голландский вариант {{< wiki "Налог_на_добавленную_стоимость" "ru" "НДС" >}}).
 
 Этот номер используется для расчётов, в том числе международных, и для оплаты собственно НДС.
 
