@@ -26,7 +26,7 @@ series: "Доля предпринимательская"
 
 ## НДС-номер и проблема с его приватностью
 
-{{< a "0311" "Получив" >}} в своё время регистрацинные документы в Торговой палате, я сразу обратил на это внимание. По {{< a "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/btw/administratie_bijhouden/btw_nummers_controleren/uw_btw_nummer" "правилам" >}} налоговой, НДС-номер имеет длину 14 символов и составляется из:
+{{< a "0311" "Получив" >}} в своё время регистрационные документы в Торговой палате, я сразу обратил на это внимание. По {{< a "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/btw/administratie_bijhouden/btw_nummers_controleren/uw_btw_nummer" "правилам" >}} налоговой, НДС-номер имеет длину 14 символов и составляется из:
 
 * Кода страны ({{< fl "NL" >}})
 * {{< fl "BSN" >}}-номера
