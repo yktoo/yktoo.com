@@ -7,22 +7,23 @@ tags:
     - голландский язык
     - сокращения
 image: "https://1.bp.blogspot.com/-ViyU57KXw_M/XW_QaHKwdRI/AAAAAAAAxPA/-X_oEmpEH-w-JonlY6K5T3eIBILR3BOQgCKgBGAs/s1600/afkortingen.jpg"
-draft: true
 ---
 
 Голландцы просто обожают сокращения. Ещё бы, с {{< a "0051" "такими-то" >}} словами!
 
-Когда я приехал в Нидерланды, я помню, насколько эти сокращения портили мне жизнь — в словарях их, как правило, не было, а догадаться было нереально.
+Когда я приехал в Нидерланды, я помню, насколько эти сокращения портили мне жизнь — в словарях их, как правило, не было, а догадаться, что такое вот значит, было нереально:
 
-Я подготовил список самых ходовых аббревиатур с их расшифровками и переводом на русский.
+> T/m 20 september b.g.g. even geduld A.U.B. i.v.m. werkzaamheden.
+
+Я подготовил список из **650+** самых ходовых аббревиатур с их расшифровками и переводом на русский.
 
 <!--more-->
 
 Список подготовлен по мотивам {{< wiki "Lijst_van_afkortingen_in_het_Nederlands" "nl" "крайне полезной страницы" >}} в Википедии.
 
 {{< table "table table-striped" >}}
-|Сокращение|Значение|Перевод/комментарии|
-|----------|--------|-------------------|
+|Сокращение               |Значение                                                     |Перевод/комментарии|
+|-------------------------|-------------------------------------------------------------|-------------------|
 |**A**|||
 |{{< fl "aav" >}}         |{{< fl "algemene administratievoorschriften" >}}             |Общие административные предписания |
 |{{< fl "a/b" >}}         |{{< fl "aan boord" >}}                                       |На борт (корабля) |
@@ -44,13 +45,13 @@ draft: true
 |{{< fl "a.g.v." >}}      |{{< fl "als gevolg van" >}}                                  |Как следствие *того-то* |
 |{{< fl "a.h.w." >}}      |{{< fl "als het ware" >}}                                    |Так сказать |
 |{{< fl "AI" >}}          |{{< fl "Artificiële Intelligentie" >}}                       |Искусственный интеллект |
-|{{< fl "a.i." >}}        |{{< fl "ad interim" >}}                                      |исполняющий обязанности |
+|{{< fl "a.i." >}}        |{{< fl "ad interim" >}}                                      |исполняющий обязанности (*лат.*) |
 |{{< fl "airco." >}}      |{{< fl "airconditioning" >}}                                 |Кондиционер воздуха |
 |{{< fl "AIVD" >}}        |{{< fl "Algemene Inlichtingen- en Veiligheidsdienst" >}}     |Служба разведки и безопасности |
 |{{< fl "alg." >}}        |{{< fl "algemeen" >}}                                        |Общий (в противоположность специализированному) |
 |{{< fl "ANP" >}}         |{{< fl "Algemeen Nederlands Persbureau" >}}                  |Нидерландское пресс-бюро |
 |{{< fl "anwb" >}}        |{{< fl "Koninklijke Nederlandse Toeristenbond ANWB (algemene wielrijdersbond)" >}}|Нидерландская автомобильная ассоциация |
-|{{< fl "Ao" >}}          |{{< fl "Anno" >}}                                            |В *таком-то* году |
+|{{< fl "Ao" >}}          |{{< fl "Anno" >}}                                            |В *таком-то* году (*лат.*) |
 |{{< fl "aov" >}}         |{{< fl "Arbeidsongeschiktheidsverzekering" >}}               |Страховка по нетрудоспособности |
 |{{< fl "AOW" >}}         |{{< fl "Algemene Ouderdomswet" >}}                           |Общий закон о пенсиях по старости |
 |{{< fl "ap" >}}          |{{< fl "autoriteit persoonsgegevens" >}}                     |Национальный орган по защите персональных данных |
@@ -62,8 +63,8 @@ draft: true
 |{{< fl "a.s." >}}        |{{< fl "aanstaande" >}}                                      |Предстоящий, следующий (о дате) |
 |{{< fl "a.u.b." >}}      |{{< fl "alstublieft" >}}                                     |Пожалуйста |
 |{{< fl "AVG" >}}         |{{< fl "Algemene verordening gegevensbescherming" >}}        |Общий регламент по защите персональных данных |
-|{{< fl "avrotros" >}}    |{{< fl "AVRO (algemene vereniging radio-omroep) /TROS (Televisie Radio Omroep Stichting), AVROTROS" >}}                                      |Национальная телерадиокомпания |
-|{{< fl "azc" >}}         |{{< fl "asielzoekerscentrum" >}}                             |Приют для беженцев |
+|{{< fl "avrotros" >}}    |{{< fl "algemene vereniging radio-omroep/Televisie Radio Omroep Stichting" >}}|Национальная телерадиокомпания |
+|{{< fl "azc" >}}         |{{< fl "asielzoekerscentrum" >}}                             |Центр приёма беженцев |
 |**B**|||
 |{{< fl "b.a." >}}        |{{< fl "bij afwezigheid" >}}                                 |При отсутствии |
 |{{< fl "BAG" >}}         |{{< fl "Basisregistraties Adressen en Gebouwen" >}}          |Национальный реестр адресов и строений |
@@ -99,7 +100,7 @@ draft: true
 |{{< fl "bso" >}}         |{{< fl "buitenschoolse opvang" >}}                           |Продлёнка после школы |
 |{{< fl "btw" >}}         |{{< fl "belasting over de toegevoegde waarde" >}}            |Налог на добавленную стоимость |
 |{{< fl "buma" >}}        |{{< fl "bureau muziekauteursrechten" >}}                     |Бюро по авторским правам на музыку |
-|{{< fl "BuZa" >}}        |{{< fl "(ministerie van) Buitenlandse Zaken" >}}             |Министерство внешних дел |
+|{{< fl "BuZa" >}}        |{{< fl "Buitenlandse Zaken" >}}                              |Министерство внешних дел |
 |{{< fl "bv." >}}         |{{< fl "bijvoorbeeld" >}}                                    |Например |
 |{{< fl "bv" >}}          |{{< fl "besloten vennootschap" >}}                           |Закрытое партнёрство |
 |{{< fl "b.v.d." >}}      |{{< fl "bij voorbaat dank" >}}                               |Заранее благодарен(на) |
@@ -109,7 +110,7 @@ draft: true
 |{{< fl "b.z.a." >}}      |{{< fl "biedt zich aan" >}}                                  |Предлагает услуги |
 |**C**|||
 |{{< fl "C&A" >}}         |{{< fl "Clemens & August" >}}                                |Сеть магазинов C&A |
-|{{< fl "ca." >}}         |{{< fl "circa" >}}                                           |Примерно |
+|{{< fl "ca." >}}         |{{< fl "circa" >}}                                           |Примерно (*лат.*) |
 |{{< fl "cado" >}}        |{{< fl "calamiteitendoorsteek" >}}                           |Открывающаяся секция «отбойника» на трассе для проезда аварийных служб |
 |{{< fl "cao" >}}         |{{< fl "collectieve arbeidsovereenkomst" >}}                 |Коллективное трудовое соглашение |
 |{{< fl "cat." >}}        |{{< fl "catalogus" >}}                                       |Каталог |
@@ -120,7 +121,7 @@ draft: true
 |{{< fl "CITo" >}}        |{{< fl "Centraal Instituut voor Toetsontwikkeling" >}}       |Центральный институт разработки экзаменов |
 |{{< fl "CJIB" >}}        |{{< fl "Centraal Justitieel Incassobureau" >}}               |Сентральное бюро инкассации |
 |{{< fl "CPB" >}}         |{{< fl "Centraal Planbureau" >}}                             |Центральное бюро планирования |
-|{{< fl "c.q." >}}        |{{< fl "casu quo" >}}                                        |И/или |
+|{{< fl "c.q." >}}        |{{< fl "casu quo" >}}                                        |И/или (*лат.*) |
 |{{< fl "CS" >}}          |{{< fl "Centraal station" >}}                                |Центральный вокзал |
 |{{< fl "CT" >}}          |{{< fl "computertomografie" >}}                              |Компьютерная томография |
 |{{< fl "cv" >}}          |{{< fl "commanditaire vennootschap" >}}                      |Товарищество на вере |
@@ -131,7 +132,7 @@ draft: true
 |{{< fl "czs" >}}         |{{< fl "centraal zenuwstelsel" >}}                           |Центральная нервная система |
 |**D**|||
 |{{< fl "D66" >}}         |{{< fl "Democraten 66" >}}                                   |Демократы-66 (политическая партия) |
-|{{< fl "d.d." >}}        |{{< fl "de dato" >}}                                         |Датируемый |
+|{{< fl "d.d." >}}        |{{< fl "de dato" >}}                                         |Датируемый (*лат.*) |
 |{{< fl "DG" >}}          |{{< fl "directeur-generaal" >}}                              |Генеральный директор |
 |{{< fl "dhr." >}}        |{{< fl "de heer" >}}                                         |Господин |
 |{{< fl "d.i." >}}        |{{< fl "dit is" >}}                                          |То есть |
@@ -140,21 +141,21 @@ draft: true
 |{{< fl "DNB" >}}         |{{< fl "De Nederlandsche Bank" >}}                           |Нидерландский центробанк |
 |{{< fl "DR" >}}          |{{< fl "Drenthe" >}}                                         |Дренте (провинция) |
 |{{< fl "dr." >}}         |{{< fl "doctor" >}}                                          |Доктор |
-|{{< fl "drs." >}}        |{{< fl "doctorandus" >}}                                     |Доктор наук |
+|{{< fl "drs." >}}        |{{< fl "doctorandus" >}}                                     |Доктор наук (*лат.*) |
 |{{< fl "ds." >}}         |{{< fl "dominee" >}}                                         |Священник |
 |{{< fl "DUO" >}}         |{{< fl "Dienst Uitvoering Onderwijs" >}}                     |Исполнительная служба образования |
 |{{< fl "DWDD" >}}        |{{< fl "De wereld draait door" >}}                           |De wereld draait door (голландская телепрограмма) |
 |{{< fl "d.w.z." >}}      |{{< fl "dat wil zeggen" >}}                                  |Иными словами |
 |**E**|||
 |{{< fl "e.a." >}}        |{{< fl "en andere(n)" >}}                                    |И другие |
-|{{< fl "e.c." >}}        |{{< fl "exempli causa" >}}                                   |Например |
+|{{< fl "e.c." >}}        |{{< fl "exempli causa" >}}                                   |Например (*лат.*) |
 |{{< fl "ecg" >}}         |{{< fl "elektrocardiogram" >}}                               |Электрокардиограмма |
 |{{< fl "ed." >}}         |{{< fl "editie" >}}                                          |Издание |
 |{{< fl "e.d." >}}        |{{< fl "en dergelijke(n)" >}}                                |И тому подобное |
 |{{< fl "e.e.a." >}}      |{{< fl "een en ander" >}}                                    |Тот или иной |
 |{{< fl "eeg" >}}         |{{< fl "elektro-encefalogram" >}}                            |Электроэнцефалограмма |
 |{{< fl "EEG" >}}         |{{< fl "Europese Economische Gemeenschap" >}}                |ЕЭС |
-|{{< fl "e.g." >}}        |{{< fl "exempli gratia" >}}                                  |Например |
+|{{< fl "e.g." >}}        |{{< fl "exempli gratia" >}}                                  |Например (*лат.*) |
 |{{< fl "EG" >}}          |{{< fl "Europese Gemeenschap" >}}                            |Евросоюз |
 |{{< fl "EHBO" >}}        |{{< fl "Eerste hulp bij ongelukken" >}}                      |Первая помощь при происшествиях |
 |{{< fl "e.i." >}}        |{{< fl "elektrotechnisch ingenieur" >}}                      |Инженер-электротехник |
@@ -163,8 +164,8 @@ draft: true
 |{{< fl "enz." >}}        |{{< fl "enzovoort" >}}                                       |И так далее |
 |{{< fl "e.o." >}}        |{{< fl "en omstreken" >}}                                    |И окрестности |
 |{{< fl "EPD" >}}         |{{< fl "Elektronisch patiëntendossier" >}}                   |Электронное досье пациента |
-|{{< fl "et al." >}}      |{{< fl "et alii" >}}                                         |И другие |
-|{{< fl "etc." >}}        |{{< fl "et cetera" >}}                                       |И так далее |
+|{{< fl "et al." >}}      |{{< fl "et alii" >}}                                         |И другие (*лат.*) |
+|{{< fl "etc." >}}        |{{< fl "et cetera" >}}                                       |И так далее (*лат.*) |
 |{{< fl "e.v." >}}        |{{< fl "en volgende(n)" >}}                                  |И следующие |
 |{{< fl "e.v.a." >}}      |{{< fl "en vele andere(n)" >}}                               |И многие другие |
 |{{< fl "evt." >}}        |{{< fl "eventueel" >}}                                       |Возможно/возможный |
@@ -227,14 +228,14 @@ draft: true
 |{{< fl "i.b.d." >}}      |{{< fl "in buitengewone dienst" >}}                          |На особой службе |
 |{{< fl "i.b.v." >}}      |{{< fl "in bezit van" >}}                                    |Владеющий *тем-то* |
 |{{< fl "IC" >}}          |{{< fl "Intercity" >}}                                       |Интерсити (скоростной поезд) |
-|{{< fl "i.c." >}}        |{{< fl "in casu" >}}                                         |В данном случае |
+|{{< fl "i.c." >}}        |{{< fl "in casu" >}}                                         |В данном случае (*лат.*) |
 |{{< fl "ICE" >}}         |{{< fl "Intercity Express" >}}                               |Интерсити-экспресс (скоростной поезд) |
 |{{< fl "i.c.m." >}}      |{{< fl "in combinatie met" >}}                               |В сочетании с |
 |{{< fl "ICT" >}}         |{{< fl "Informatie- en Communicatietechnologie" >}}          |ИТ (*букв.* «информационные и коммуникационные технологии») |
-|{{< fl "id." >}}         |{{< fl "idem" >}}                                            |То же самое |
+|{{< fl "id." >}}         |{{< fl "idem" >}}                                            |То же самое (*лат.*) |
 |{{< fl "ID-bewijs" >}}   |{{< fl "identiteitsbewijs" >}}                               |Удостоверение личности |
 |{{< fl "idd" >}}         |{{< fl "inderdaad" >}}                                       |Действительно |
-|{{< fl "i.e." >}}        |{{< fl "id est" >}}                                          |То есть |
+|{{< fl "i.e." >}}        |{{< fl "id est" >}}                                          |То есть (*лат.*) |
 |{{< fl "i.g.st." >}}     |{{< fl "in goede staat" >}}                                  |В хорошем состоянии |
 |{{< fl "i.g.v." >}}      |{{< fl "in geval van" >}}                                    |В случае *того-то* |
 |{{< fl "i.h.a." >}}      |{{< fl "in het algemeen" >}}                                 |В целом |
@@ -296,7 +297,7 @@ draft: true
 |{{< fl "l.g." >}}        |{{< fl "laatstgenoemde" >}}                                  |Упомянутый последним |
 |{{< fl "l.i." >}}        |{{< fl "landbouwkundig ingenieur" >}}                        |Сельскохозяйственный инженер |
 |{{< fl "LIO" >}}         |{{< fl "Leraar in opleiding" >}}                             |Учитель-стажёр |
-|{{< fl "ll." >}}         |{{< fl "laatstleden" >}}                                     | |
+|{{< fl "ll." >}}         |{{< fl "laatstleden" >}}                                     |Прошлый (о дате) |
 |{{< fl "LO" >}}          |{{< fl "lager onderwijs" >}}                                 |Низшее образование |
 |{{< fl "LO" >}}          |{{< fl "lichamelijke opvoeding" >}}                          |Физподготовка |
 |{{< fl "LOM" >}}         |{{< fl "Kinderen met leer- en opvoedingsmoeilijkheden" >}}   |Дети с трудностями в обучении или воспитании |
@@ -382,13 +383,12 @@ draft: true
 |{{< fl "NP" >}}          |{{< fl "Niet parkeren" >}}                                   |Парковка запрещена |
 |{{< fl "NPO" >}}         |{{< fl "Nederlandse Publieke Omroep" >}}                     |Нидерландское общественное вещание (телерадиокомпания) |
 |{{< fl "nr." >}}         |{{< fl "nummer" >}}                                          |(Порядковый) номер |
-|{{< fl "nro." >}}        |{{< fl "Nummero" >}}                                         |(Порядковый) номер |
 |{{< fl "nrs." >}}        |{{< fl "nummers" >}}                                         |(Порядковые) номера |
 |{{< fl "NS" >}}          |{{< fl "Nederlandse Spoorwegen" >}}                          |Нидерландские железные дороги (компания) |
 |{{< fl "N.T." >}}        |{{< fl "Nieuwe Testament" >}}                                |Новый Завет |
 |{{< fl "n.t.b." >}}      |{{< fl "nader te bepalen" >}}                                |Подлежит определению |
 |{{< fl "n.t.o." >}}      |{{< fl "nog te ontwikkelen" >}}                              |Подлежит разработке |
-|{{< fl "NTR" >}}         |{{< fl "Nederlands publiek omroepbestel (NPS, Teleac en RVU)" >}}|Нидерландское публичное вещательное правление |
+|{{< fl "NTR" >}}         |{{< fl "Nederlands publiek omroepbestel" >}}                 |Нидерландское публичное вещательное правление (NPS, Teleac и RVU) |
 |{{< fl "Nuffic" >}}      |{{< fl "Netherlands Universities’ Foundation for International Cooperation" >}}|Нидерландский университетский фонд международного сотрудничества |
 |{{< fl "NUHO" >}}        |{{< fl "Niet-Universitair Hoger Onderwijs" >}}               |Вне-университетское высшее образование |
 |{{< fl "nv, N.V." >}}    |{{< fl "Naamloze Vennootschap" >}}                           |Открытое акционерное общество |
@@ -411,7 +411,7 @@ draft: true
 |{{< fl "o.d.a.m." >}}    |{{< fl "om de andere maand" >}}                              |Каждый второй месяц |
 |{{< fl "o.d.t." >}}      |{{< fl "onder de titel" >}}                                  |Озаглавленный |
 |{{< fl "o.d.t." >}}      |{{< fl "onder de toonbank" >}}                               |(Торговля) из-под прилавка |
-|{{< fl "o.d.z." >}}      |{{< fl "onder de zinspreuk" >}}                              | |
+|{{< fl "o.d.z." >}}      |{{< fl "onder de zinspreuk" >}}                              |Под девизом |
 |{{< fl "o.e.r." >}}      |{{< fl "op erewoord retour" >}}                              |Возврат под честное слово |
 |{{< fl "o.g." >}}        |{{< fl "of gelijkwaardig" >}}                                |Либо равноценный |
 |{{< fl "o.g." >}}        |{{< fl "ondergetekende" >}}                                  |Нижеподписавшийся(аяся/иеся) |
@@ -521,7 +521,7 @@ draft: true
 |{{< fl "sec" >}}         |{{< fl "seconde" >}}                                         |Секунда |
 |{{< fl "Secr." >}}       |{{< fl "secretaris" >}}                                      |Секретарь |
 |{{< fl "SH" >}}          |{{< fl "Slechthorend" >}}                                    |Слабослышащий |
-|{{< fl "s.l." >}}        |{{< fl "sensu lato" >}}                                      | |
+|{{< fl "s.l." >}}        |{{< fl "sensu lato" >}}                                      |В широком смысле (*лат.*) |
 |{{< fl "SO" >}}          |{{< fl "speciaal/secundair onderwijs" >}}                    |Специальное/дополнительное образование |
 |{{< fl "soa" >}}         |{{< fl "seksueel overdraagbare aandoening" >}}               |Заболевание, передающееся половым путём |
 |{{< fl "soc." >}}        |{{< fl "sociaal" >}}                                         |Общественный, социальный |
@@ -530,7 +530,7 @@ draft: true
 |{{< fl "SPE" >}}         |{{< fl "Speciale Politie Eenheid" >}}                        |Спецподразделение полиции |
 |{{< fl "Sr." >}}         |{{< fl "senior" >}}                                          |Старший/пожилой (*лат.*) |
 |{{< fl "ss" >}}          |{{< fl "stoomschip" >}}                                      |Паровое судно |
-|{{< fl "s.s." >}}        |{{< fl "sensu stricto" >}}                                   | |
+|{{< fl "s.s." >}}        |{{< fl "sensu stricto" >}}                                   |В узком смысле (*лат.*) |
 |{{< fl "s.s.t.t." >}}    |{{< fl "salvis titulis" >}}                                  |Титулы опущены (*лат.*) |
 |{{< fl "s.t." >}}        |{{< fl "salvo titulo" >}}                                    |Титул опущен (*лат.*) |
 |{{< fl "St." >}}         |{{< fl "Sint" >}}                                            |Святой |
@@ -551,213 +551,177 @@ draft: true
 |{{< fl "tb/tbc" >}}      |{{< fl "Tuberculose" >}}                                     |Туберкулёз |
 |{{< fl "tbs" >}}         |{{< fl "terbeschikkingstelling" >}}                          |Мера пресечения для психически неуравновешенного преступника |
 |{{< fl "TBV" >}}         |{{< fl "taken, bevoegdheden en verantwoordelijkheden" >}}    |Задачи, полномочия и сфера ответственности |
-|{{< fl "t.b.v." >}}      |{{< fl "ten behoeve van" >}}                                 | |
-|{{< fl "t.b.v." >}}      |{{< fl "ten bate van" >}}                                    | |
-|{{< fl "t.b.v." >}}      |{{< fl "ter beschikking van" >}}                             | |
-|{{< fl "t.b.v." >}}      |{{< fl "ten bedrage van" >}}                                 | |
-|{{< fl "TCI" >}}         |{{< fl "Team Criminele Inlichtingen" >}}                     | |
-|{{< fl "TCP" >}}         |{{< fl "Transmission Control Protocol" >}}                   | |
-|{{< fl "TDF" >}}         |{{< fl "Tour de France" >}}                                  | |
-|{{< fl "TDI" >}}         |{{< fl "Tabbed Document Interface" >}}                       | |
-|{{< fl "t.e.a.b." >}}    |{{< fl "tegen elk aannemelijk bedrag" >}}                    | |
-|{{< fl "tel." >}}        |{{< fl "telefoon" >}}                                        | |
-|{{< fl "telw." >}}       |{{< fl "telwoord" >}}                                        | |
-|{{< fl "TEW" >}}         |{{< fl "Toegepaste economische wetenschappen" >}}            | |
-|{{< fl "t.g.t." >}}      |{{< fl "te gebruiken tot" >}}                                | |
-|{{< fl "t.g.t." >}}      |{{< fl "te gelegener tijd" >}}                               | |
-|{{< fl "TGV" >}}         |{{< fl "Train à Grande Vitesse" >}}                          | |
-|{{< fl "t.g.v." >}}      |{{< fl "ten gevolge van" >}}                                 | |
-|{{< fl "t.g.v." >}}      |{{< fl "ter gelegenheid van" >}}                             | |
-|{{< fl "t.g.v." >}}      |{{< fl "ten gunste van" >}}                                  | |
-|{{< fl "th" >}}          |{{< fl "te huur" >}}                                         | |
-|{{< fl "t.h.o.d.n." >}}  |{{< fl "tevens handelend onder de naam" >}}                  | |
-|{{< fl "t.h.t." >}}      |{{< fl "ten minste houdbaar tot" >}}                         | |
-|{{< fl "t.h.v." >}}      |{{< fl "ter hoogte van" >}}                                  | |
-|{{< fl "TIA" >}}         |{{< fl "Transient Ischaemic Attack" >}}                      | |
-|{{< fl "TiB" >}}         |{{< fl "tebibyte" >}}                                        | |
-|{{< fl "T.I.R." >}}      |{{< fl "Transports Internationaux Routiers" >}}              | |
-|{{< fl "tk." >}}         |{{< fl "te koop" >}}                                         | |
-|{{< fl "t.k.g." >}}      |{{< fl "ter kennisgeving" >}}                                | |
-|{{< fl "t.k.n." >}}      |{{< fl "ter kennisneming" >}}                                | |
-|{{< fl "tl" >}}          |{{< fl "tube luminescent (fluorescentielamp)" >}}            | |
-|{{< fl "™" >}}           |{{< fl "Trade mark" >}}                                      | |
-|{{< fl "t/m" >}}         |{{< fl "tot en met" >}}                                      | |
-|{{< fl "TMG" >}}         |{{< fl "Telegraaf Media Groep" >}}                           | |
-|{{< fl "TNO" >}}         |{{< fl "Toegepast Natuurwetenschappelijk Onderzoek" >}}      | |
-|{{< fl "t.n.v." >}}      |{{< fl "ten name van" >}}                                    | |
-|{{< fl "t/o" >}}         |{{< fl "tegenover (bijvoorbeeld in het adres van woonboten)" >}}| |
-|{{< fl "TOAH" >}}        |{{< fl "Tijdelijk onderwijs aan huis" >}}                    | |
-|{{< fl "t.o.v." >}}      |{{< fl "ten opzichte van" >}}                                | |
-|{{< fl "t.o.v." >}}      |{{< fl "ten overstaan van" >}}                               | |
-|{{< fl "TROS" >}}        |{{< fl "Televisie en Radio Omroep Stichting" >}}             | |
-|{{< fl "tto" >}}         |{{< fl "tweetalig onderwijs" >}}                             | |
-|{{< fl "t.t.v." >}}      |{{< fl "ten tijde van" >}}                                   | |
-|{{< fl "t.t.v.v." >}}    |{{< fl "tussentijdse verkoop voorbehouden" >}}               | |
-|{{< fl "t.t.z." >}}      |{{< fl "'t is te zeggen (Belgisch informeel)" >}}            | |
-|{{< fl "TU" >}}          |{{< fl "Technische universiteit" >}}                         | |
-|{{< fl "TU/e" >}}        |{{< fl "Technische Universiteit Eindhoven" >}}               | |
-|{{< fl "TUK" >}}         |{{< fl "Theologische Universiteit Kampen (Broederweg)" >}}   | |
-|{{< fl "tv" >}}          |{{< fl "Televisie" >}}                                       | |
-|{{< fl "t.v." >}}        |{{< fl "te voren" >}}                                        | |
-|{{< fl "tvb" >}}         |{{< fl "taken, verantwoordelijkheden en bevoegdheden" >}}    | |
-|{{< fl "Tvwo" >}}        |{{< fl "Tweetalig Voorbereidend wetenschappelijk onderwijs" >}}| |
-|{{< fl "t.w." >}}        |{{< fl "te weten" >}}                                        | |
-|{{< fl "t.w.v." >}}      |{{< fl "ter waarde van" >}}                                  | |
-|{{< fl "t.z." >}}        |{{< fl "ter zake" >}}                                        | |
-|{{< fl "t.z." >}}        |{{< fl "ter zee (kapitein t.z.)" >}}                         | |
-|{{< fl "t.z.t." >}}      |{{< fl "te zijner tijd" >}}                                  | |
-|{{< fl "t.z.v." >}}      |{{< fl "ter zake van" >}}                                    | |
+|{{< fl "t.b.v." >}}      |{{< fl "ten behoeve van" >}}                                 |Ради *того-то* |
+|{{< fl "t.b.v." >}}      |{{< fl "ten bate van" >}}                                    |От лица *того-то* |
+|{{< fl "t.b.v." >}}      |{{< fl "ter beschikking van" >}}                             |В распоряжение *того-то* |
+|{{< fl "t.b.v." >}}      |{{< fl "ten bedrage van" >}}                                 |На сумму *такую-то* |
+|{{< fl "t.e.a.b." >}}    |{{< fl "tegen elk aannemelijk bedrag" >}}                    |(Продаётся) за любую приемлемую сумму |
+|{{< fl "tel." >}}        |{{< fl "telefoon" >}}                                        |Телефон |
+|{{< fl "telw." >}}       |{{< fl "telwoord" >}}                                        |Числительное |
+|{{< fl "t.g.t." >}}      |{{< fl "te gebruiken tot" >}}                                |Использовать до *даты* |
+|{{< fl "t.g.t." >}}      |{{< fl "te gelegener tijd" >}}                               |В удобное время |
+|{{< fl "t.g.v." >}}      |{{< fl "ten gevolge van" >}}                                 |Вследствие *того-то* |
+|{{< fl "t.g.v." >}}      |{{< fl "ter gelegenheid van" >}}                             |По случаю *того-то* |
+|{{< fl "t.g.v." >}}      |{{< fl "ten gunste van" >}}                                  |В пользу *того-то* |
+|{{< fl "th" >}}          |{{< fl "te huur" >}}                                         |Сдаётся в аренду |
+|{{< fl "t.h.o.d.n." >}}  |{{< fl "tevens handelend onder de naam" >}}                  |Также действующий под именем/названием |
+|{{< fl "t.h.t." >}}      |{{< fl "ten minste houdbaar tot" >}}                         |Как минимум годен то *даты* |
+|{{< fl "t.h.v." >}}      |{{< fl "ter hoogte van" >}}                                  |Вблизи *чего-то* |
+|{{< fl "tk." >}}         |{{< fl "te koop" >}}                                         |Продаётся |
+|{{< fl "t.k.g." >}}      |{{< fl "ter kennisgeving" >}}                                |В целях информирования |
+|{{< fl "t.k.n." >}}      |{{< fl "ter kennisneming" >}}                                |Для вашего сведения |
+|{{< fl "tl" >}}          |{{< fl "tube luminescent" >}}                                |Люминесцентная лампа-трубка |
+|{{< fl "t/m" >}}         |{{< fl "tot en met" >}}                                      |До *даты/номера* включительно |
+|{{< fl "TMG" >}}         |{{< fl "Telegraaf Media Groep" >}}                           |Медиагруппа «Telegraaf» |
+|{{< fl "t.n.v." >}}      |{{< fl "ten name van" >}}                                    |На имя *того-то* |
+|{{< fl "t/o" >}}         |{{< fl "tegenover" >}}                                       |Напротив (например, в адресах жилых лодок) |
+|{{< fl "TOAH" >}}        |{{< fl "Tijdelijk onderwijs aan huis" >}}                    |Временное образование на дому |
+|{{< fl "t.o.v." >}}      |{{< fl "ten opzichte van" >}}                                |В сравнении с |
+|{{< fl "t.o.v." >}}      |{{< fl "ten overstaan van" >}}                               |В присутствии *того-то* |
+|{{< fl "TROS" >}}        |{{< fl "Televisie en Radio Omroep Stichting" >}}             |Нидерландская телерадиовещательная корпорация |
+|{{< fl "tto" >}}         |{{< fl "tweetalig onderwijs" >}}                             |Двуязычное образование |
+|{{< fl "t.t.v." >}}      |{{< fl "ten tijde van" >}}                                   |Во времена/время *того-то* |
+|{{< fl "t.t.v.v." >}}    |{{< fl "tussentijdse verkoop voorbehouden" >}}               |Продаваемый товар временно зарезервирован |
+|{{< fl "TU" >}}          |{{< fl "Technische universiteit" >}}                         |Технический университет |
+|{{< fl "tv" >}}          |{{< fl "Televisie" >}}                                       |Телевидение |
+|{{< fl "t.v." >}}        |{{< fl "te voren" >}}                                        |Ранее/заранее |
+|{{< fl "tvb" >}}         |{{< fl "taken, verantwoordelijkheden en bevoegdheden" >}}    |Задачи, полномочия и сфера ответственности |
+|{{< fl "t.w." >}}        |{{< fl "te weten" >}}                                        |А именно |
+|{{< fl "t.w.v." >}}      |{{< fl "ter waarde van" >}}                                  |Эквивалентный сумме *такой-то* |
+|{{< fl "t.z." >}}        |{{< fl "ter zake" >}}                                        |Относящийся к делу |
+|{{< fl "t.z." >}}        |{{< fl "ter zee" >}}                                         |В море |
+|{{< fl "t.z.t." >}}      |{{< fl "te zijner tijd" >}}                                  |В должное время |
+|{{< fl "t.z.v." >}}      |{{< fl "ter zake van" >}}                                    |Относящийся к *такому-то* делу |
 |**U**|||
-|{{< fl "UA" >}}          |{{< fl "uitgesloten aansprakelijkheid (verzekering)" >}}     | |
-|{{< fl "u.a.n." >}}      |{{< fl "uit aller naam" >}}                                  | |
-|{{< fl "UB" >}}          |{{< fl "Universiteitsbibliotheek" >}}                        | |
-|{{< fl "UBR" >}}         |{{< fl "Unspecified Bit-Rate" >}}                            | |
-|{{< fl "UDP" >}}         |{{< fl "User Datagram Protocol" >}}                          | |
-|{{< fl "Ued." >}}        |{{< fl "U Edele" >}}                                         | |
-|{{< fl "ufo" >}}         |{{< fl "Unidentified Flying Object" >}}                      | |
-|{{< fl "UG" >}}          |{{< fl "Universiteit Groningen" >}}                          | |
-|{{< fl "UGent" >}}       |{{< fl "Universiteit Gent" >}}                               | |
-|{{< fl "uitsl." >}}      |{{< fl "uitsluitend" >}}                                     | |
-|{{< fl "ULB" >}}         |{{< fl "Université Libre de Bruxelles" >}}                   | |
-|{{< fl "ULg" >}}         |{{< fl "Université de Liège" >}}                             | |
-|{{< fl "ulo" >}}         |{{< fl "uitgebreid lager onderwijs" >}}                      | |
-|{{< fl "UMA" >}}         |{{< fl "Upper Memory Area" >}}                               | |
-|{{< fl "UMB" >}}         |{{< fl "Upper Memory Blocks" >}}                             | |
-|{{< fl "UMTS" >}}        |{{< fl "Universal Mobile Telecommunications System" >}}      | |
-|{{< fl "UT" >}}          |{{< fl "provincie Utrecht" >}}                               | |
-|{{< fl "UTANT" >}}       |{{< fl "Utrechtse Taalniveau Test" >}}                       | |
-|{{< fl "UTP" >}}         |{{< fl "Unshielded Twisted Pair" >}}                         | |
-|{{< fl "UU" >}}          |{{< fl "Universiteit Utrecht" >}}                            | |
-|{{< fl "uv" >}}          |{{< fl "ultraviolet" >}}                                     | |
-|{{< fl "UvA" >}}         |{{< fl "Universiteit van Amsterdam" >}}                      | |
-|{{< fl "u.v.d." >}}      |{{< fl "uiterste verkoopdatum" >}}                           | |
-|{{< fl "UvT" >}}         |{{< fl "Universiteit van Tilburg" >}}                        | |
-|{{< fl "UWV" >}}         |{{< fl "Uitvoeringsinstituut Werknemersverzekeringen" >}}    | |
+|{{< fl "UA" >}}          |{{< fl "uitgesloten aansprakelijkheid" >}}                   |Исключённый вид ответственности (в страховке) |
+|{{< fl "u.a.n." >}}      |{{< fl "uit aller naam" >}}                                  |От лица всех |
+|{{< fl "Ued." >}}        |{{< fl "U Edele" >}}                                         |Ваша честь |
+|{{< fl "uitsl." >}}      |{{< fl "uitsluitend" >}}                                     |Исключая |
+|{{< fl "ulo" >}}         |{{< fl "uitgebreid lager onderwijs" >}}                      |Расширенное низшее образование |
+|{{< fl "UT" >}}          |{{< fl "Utrecht" >}}                                         |Утрехт (провинция) |
+|{{< fl "UU" >}}          |{{< fl "Universiteit Utrecht" >}}                            |Утрехтский университет |
+|{{< fl "uv" >}}          |{{< fl "ultraviolet" >}}                                     |Ультрафиолетовое излучение |
+|{{< fl "UvA" >}}         |{{< fl "Universiteit van Amsterdam" >}}                      |Амстердамский университет |
+|{{< fl "u.v.d." >}}      |{{< fl "uiterste verkoopdatum" >}}                           |Максимальная дата продажи |
+|{{< fl "UvT" >}}         |{{< fl "Universiteit van Tilburg" >}}                        |Тилбургский университет |
+|{{< fl "UWV" >}}         |{{< fl "Uitvoeringsinstituut Werknemersverzekeringen" >}}    |Орган, отвечающий за страхование от безработицы |
 |**V**|||
-|{{< fl "v." >}}          |{{< fl "vrouwelijk" >}}                                      | |
-|{{< fl "V&D" >}}         |{{< fl "Vroom & Dreesmann" >}}                               | |
-|{{< fl "v.a." >}}        |{{< fl "vanaf" >}}                                           | |
-|{{< fl "VAE" >}}         |{{< fl "Verenigde Arabische Emiraten" >}}                    | |
-|{{< fl "VAO" >}}         |{{< fl "Voortgezette Academische Opleiding" >}}              | |
-|{{< fl "VAR" >}}         |{{< fl "Verklaring arbeidsrelatie" >}}                       | |
-|{{< fl "VARA" >}}        |{{< fl "Vereniging van Arbeiders Radio Amateurs" >}}         | |
-|{{< fl "VAS" >}}         |{{< fl "Vereenigd Amsterdamsch Schaakgenootschap" >}}        | |
-|{{< fl "vavo" >}}        |{{< fl "voortgezet algemeen volwassenenonderwijs" >}}        | |
-|{{< fl "VAW" >}}         |{{< fl "Violence Against Women" >}}                          | |
-|{{< fl "VAZ" >}}         |{{< fl "Vereniging Academische Ziekenhuizen" >}}             | |
-|{{< fl "Vawo" >}}        |{{< fl "Vakbond voor de wetenschap" >}}                      | |
-|{{< fl "v.C." >}}        |{{< fl "voor Christus" >}}                                   | |
-|{{< fl "ver." >}}        |{{< fl "vereniging" >}}                                      | |
-|{{< fl "VGB" >}}         |{{< fl "Verklaring van geen bezwaar" >}}                     | |
-|{{< fl "vgl." >}}        |{{< fl "vergelijk(ing)" >}}                                  | |
-|{{< fl "vglo" >}}        |{{< fl "voortgezet lager onderwijs" >}}                      | |
-|{{< fl "v.h." >}}        |{{< fl "voorheen" >}}                                        | |
-|{{< fl "vhmo" >}}        |{{< fl "Voorbereidend Hoger en Middelbaar Onderwijs" >}}     | |
-|{{< fl "Vinex" >}}       |{{< fl "Vierde Nota Ruimtelijke Ordening Extra" >}}          | |
-|{{< fl "VK" >}}          |{{< fl "Verenigd Koninkrijk" >}}                             | |
-|{{< fl "VL" >}}          |{{< fl "Verstandelijke leeftijd" >}}                         | |
-|{{< fl "v.l.n.r." >}}    |{{< fl "van links naar rechts" >}}                           | |
-|{{< fl "vmbo" >}}        |{{< fl "Voorbereidend middelbaar beroepsonderwijs" >}}       | |
-|{{< fl "VN" >}}          |{{< fl "Verenigde Naties" >}}                                | |
-|{{< fl "VNG" >}}         |{{< fl "Vereniging van Nederlandse Gemeenten" >}}            | |
-|{{< fl "vnl." >}}        |{{< fl "voornamelijk" >}}                                    | |
-|{{< fl "vnw." >}}        |{{< fl "voornaamwoord" >}}                                   | |
-|{{< fl "vof" >}}         |{{< fl "vennootschap onder firma" >}}                        | |
-|{{< fl "VOG" >}}         |{{< fl "Verklaring omtrent het gedrag" >}}                   | |
-|{{< fl "Vogido" >}}      |{{< fl "Voor ons genoegen is dit opgericht" >}}              | |
-|{{< fl "v.o.n." >}}      |{{< fl "Vrij op naam" >}}                                    | |
-|{{< fl "voorz." >}}      |{{< fl "voorzitter" >}}                                      | |
-|{{< fl "VPB" >}}         |{{< fl "Vennootschapsbelasting" >}}                          | |
-|{{< fl "VRI" >}}         |{{< fl "verkeersregelinstallatie" >}}                        | |
-|{{< fl "VS" >}}          |{{< fl "Verenigde Staten" >}}                                | |
-|{{< fl "vs." >}}         |{{< fl "versus" >}}                                          | |
-|{{< fl "vso" >}}         |{{< fl "voortgezet speciaal onderwijs" >}}                   | |
-|{{< fl "v.t.t." >}}      |{{< fl "voltooid tegenwoordige tijd" >}}                     | |
-|{{< fl "VU" >}}          |{{< fl "Vrije Universiteit Amsterdam" >}}                    | |
-|{{< fl "VUT" >}}         |{{< fl "Vervroegde uittreding" >}}                           | |
-|{{< fl "v.v." >}}        |{{< fl "vice versa (en terug)" >}}                           | |
-|{{< fl "VVD" >}}         |{{< fl "Volkspartij voor Vrijheid en Democratie" >}}         | |
-|{{< fl "VVE" >}}         |{{< fl "Vereniging van Eigenaars" >}}                        | |
-|{{< fl "vvo" >}}         |{{< fl "verhuurbare vloeroppervlakte" >}}                    | |
-|{{< fl "v.v.t." >}}      |{{< fl "voltooid verleden tijd" >}}                          | |
-|{{< fl "V.V.V." >}}      |{{< fl "Vereniging voor Vreemdelingenverkeer" >}}            | |
-|{{< fl "v.w.b." >}}      |{{< fl "voor wat betreft" >}}                                | |
-|{{< fl "vwo" >}}         |{{< fl "voorbereidend wetenschappelijk onderwijs" >}}        | |
-|{{< fl "Vz." >}}         |{{< fl "voorzitter" >}}                                      | |
+|{{< fl "v." >}}          |{{< fl "vrouwelijk" >}}                                      |Женский род |
+|{{< fl "V&D" >}}         |{{< fl "Vroom & Dreesmann" >}}                               |Сеть магазинов «V&D» (ныне обанкротившаяся) |
+|{{< fl "v.a." >}}        |{{< fl "vanaf" >}}                                           |С *даты/места/возраста и т.д.* |
+|{{< fl "VAE" >}}         |{{< fl "Verenigde Arabische Emiraten" >}}                    |ОАЭ |
+|{{< fl "VAO" >}}         |{{< fl "Voortgezette Academische Opleiding" >}}              |Продолженное академическое образование |
+|{{< fl "VAR" >}}         |{{< fl "Verklaring arbeidsrelatie" >}}                       |Заявление о трудовых отношениях (предшественник {{< fl "DBA" >}}) |
+|{{< fl "VARA" >}}        |{{< fl "Vereniging van Arbeiders Radio Amateurs" >}}         |Объединение рабочих-радиолюбителей (телерадиокомпания) |
+|{{< fl "vavo" >}}        |{{< fl "voortgezet algemeen volwassenenonderwijs" >}}        |Продолженное общее взрослое образование |
+|{{< fl "v.C." >}}        |{{< fl "voor Christus" >}}                                   |До нашей эры (*букв.* «до Христа») |
+|{{< fl "ver." >}}        |{{< fl "vereniging" >}}                                      |Объединение |
+|{{< fl "VGB" >}}         |{{< fl "Verklaring van geen bezwaar" >}}                     |Заявление об отсутствии возражений |
+|{{< fl "vgl." >}}        |{{< fl "vergelijk(ing)" >}}                                  |Сравни/сравнение |
+|{{< fl "vglo" >}}        |{{< fl "voortgezet lager onderwijs" >}}                      |Продолженное низшее образование |
+|{{< fl "v.h." >}}        |{{< fl "voorheen" >}}                                        |Ранее |
+|{{< fl "vhmo" >}}        |{{< fl "Voorbereidend Hoger en Middelbaar Onderwijs" >}}     |Подготовительное высшее и среднее образование |
+|{{< fl "Vinex" >}}       |{{< fl "Vierde Nota Ruimtelijke Ordening Extra" >}}          |Дополнение к четвёртой статье положения о градостроительстве |
+|{{< fl "VK" >}}          |{{< fl "Verenigd Koninkrijk" >}}                             |Соединённое королевство Великобритании и Северной Ирландии |
+|{{< fl "VL" >}}          |{{< fl "Verstandelijke leeftijd" >}}                         |Осознанный возраст |
+|{{< fl "v.l.n.r." >}}    |{{< fl "van links naar rechts" >}}                           |Слева направо |
+|{{< fl "vmbo" >}}        |{{< fl "Voorbereidend middelbaar beroepsonderwijs" >}}       |Подготовительное среднее профессиональное образование |
+|{{< fl "VN" >}}          |{{< fl "Verenigde Naties" >}}                                |Организация объединённых наций (ООН) |
+|{{< fl "VNG" >}}         |{{< fl "Vereniging van Nederlandse Gemeenten" >}}            |Объединение нидерландских муниципалитетов |
+|{{< fl "vnl." >}}        |{{< fl "voornamelijk" >}}                                    |Преимущественно |
+|{{< fl "vnw." >}}        |{{< fl "voornaamwoord" >}}                                   |Местоимение |
+|{{< fl "vof" >}}         |{{< fl "vennootschap onder firma" >}}                        |Полное товарищество (организационно-правовая форма) |
+|{{< fl "VOG" >}}         |{{< fl "Verklaring omtrent het gedrag" >}}                   |Заявление о поведении (документ, выдаваемый муниципалитетом для устройства на работу) |
+|{{< fl "v.o.n." >}}      |{{< fl "Vrij op naam" >}}                                    |Без юридических расходов |
+|{{< fl "voorz." >}}      |{{< fl "voorzitter" >}}                                      |Председатель |
+|{{< fl "VPB" >}}         |{{< fl "Vennootschapsbelasting" >}}                          |Налог на товарищество |
+|{{< fl "VRI" >}}         |{{< fl "verkeersregelinstallatie" >}}                        |Светофорная установка |
+|{{< fl "VS" >}}          |{{< fl "Verenigde Staten" >}}                                |США |
+|{{< fl "vs." >}}         |{{< fl "versus" >}}                                          |Против (в сравнениях, матчах и т.д.) |
+|{{< fl "vso" >}}         |{{< fl "voortgezet speciaal onderwijs" >}}                   |Продолженное специальное образование |
+|{{< fl "v.t.t." >}}      |{{< fl "voltooid tegenwoordige tijd" >}}                     |Совершенное настоящее время |
+|{{< fl "VU" >}}          |{{< fl "Vrije Universiteit Amsterdam" >}}                    |Свободный университет Амстердама (вуз) |
+|{{< fl "VUT" >}}         |{{< fl "Vervroegde uittreding" >}}                           |Досрочная отставка |
+|{{< fl "v.v." >}}        |{{< fl "vice versa" >}}                                      |И наоборот |
+|{{< fl "VVD" >}}         |{{< fl "Volkspartij voor Vrijheid en Democratie" >}}         |Народная партия за свободу и демократию |
+|{{< fl "VVE" >}}         |{{< fl "Vereniging van Eigenaars" >}}                        |Товарищество собственников жилья |
+|{{< fl "vvo" >}}         |{{< fl "verhuurbare vloeroppervlakte" >}}                    |Площадь, сдаваемая в аренду |
+|{{< fl "v.v.t." >}}      |{{< fl "voltooid verleden tijd" >}}                          |Совершенное прошлое время |
+|{{< fl "V.V.V." >}}      |{{< fl "Vereniging voor Vreemdelingenverkeer" >}}            |Объединение по Иностранным Путешествиям (туристическая организация) |
+|{{< fl "v.w.b." >}}      |{{< fl "voor wat betreft" >}}                                |Что касается |
+|{{< fl "vwo" >}}         |{{< fl "voorbereidend wetenschappelijk onderwijs" >}}        |Подготовительное научное образование |
+|{{< fl "Vz." >}}         |{{< fl "voorzitter" >}}                                      |Председатель |
 |**W**|||
-|{{< fl "W" >}}           |{{< fl "west" >}}                                            | |
-|{{< fl "W.A." >}}        |{{< fl "Wettelijke aansprakelijkheid" >}}                    | |
-|{{< fl "Wabo" >}}        |{{< fl "Wet algemene bepalingen omgevingsrecht" >}}          | |
-|{{< fl "Wajong" >}}      |{{< fl "Wet werk en arbeidsondersteuning jonggehandicapten" >}}| |
-|{{< fl "WAO" >}}         |{{< fl "Wet op de arbeidsongeschiktheidsverzekering" >}}     | |
-|{{< fl "wc" >}}          |{{< fl "watercloset" >}}                                     | |
-|{{< fl "Wft" >}}         |{{< fl "Wet op het financieel toezicht" >}}                  | |
-|{{< fl "w.g." >}}        |{{< fl "was getekend" >}}                                    | |
-|{{< fl "w.i." >}}        |{{< fl "werktuigkundig ingenieur" >}}                        | |
-|{{< fl "WIA" >}}         |{{< fl "Wet Werk en Inkomen naar Arbeidsvermogen" >}}        | |
-|{{< fl "wk" >}}          |{{< fl "week" >}}                                            | |
-|{{< fl "WK" >}}          |{{< fl "Wereldkampioenschap" >}}                             | |
-|{{< fl "WKA" >}}         |{{< fl "Wet Ketenaansprakelijkheid" >}}                      | |
-|{{< fl "W.L." >}}        |{{< fl "Westerlengte" >}}                                    | |
-|{{< fl "wnd." >}}        |{{< fl "waarnemend" >}}                                      | |
-|{{< fl "wnw" >}}         |{{< fl "westnoordwest" >}}                                   | |
-|{{< fl "wo." >}}         |{{< fl "waaronder" >}}                                       | |
-|{{< fl "w.o." >}}        |{{< fl "wetenschappelijk onderzoek" >}}                      | |
-|{{< fl "WO" >}}          |{{< fl "wetenschappelijk onderwijs" >}}                      | |
-|{{< fl "w.t.b.w." >}}    |{{< fl "wat te bewijzen was" >}}                             | |
-|{{< fl "WvS" >}}         |{{< fl "Wetboek van Strafrecht" >}}                          | |
-|{{< fl "w.v.t.t.k." >}}  |{{< fl "wat verder ter tafel komt" >}}                       | |
-|{{< fl "ww." >}}         |{{< fl "werkwoord" >}}                                       | |
-|{{< fl "WW" >}}          |{{< fl "Wegenwacht" >}}                                      | |
-|{{< fl "wzw" >}}         |{{< fl "westzuidwest" >}}                                    | |
+|{{< fl "W" >}}           |{{< fl "west" >}}                                            |Запад |
+|{{< fl "W.A." >}}        |{{< fl "Wettelijke aansprakelijkheid" >}}                    |Ответственность по закону |
+|{{< fl "WAO" >}}         |{{< fl "Wet op de arbeidsongeschiktheidsverzekering" >}}     |Закон о страховании нетрудоспособности |
+|{{< fl "wc" >}}          |{{< fl "watercloset" >}}                                     |Туалет |
+|{{< fl "w.g." >}}        |{{< fl "was getekend" >}}                                    |Был подписан |
+|{{< fl "w.i." >}}        |{{< fl "werktuigkundig ingenieur" >}}                        |Инженер строительной техники |
+|{{< fl "WIA" >}}         |{{< fl "Wet Werk en Inkomen naar Arbeidsvermogen" >}}        |Закон о работе и доходе в соответствии с рабочими возможностями |
+|{{< fl "wk" >}}          |{{< fl "week" >}}                                            |Неделя |
+|{{< fl "WK" >}}          |{{< fl "Wereldkampioenschap" >}}                             |Чемпионат мира |
+|{{< fl "WKA" >}}         |{{< fl "Wet Ketenaansprakelijkheid" >}}                      |Закон о последовательной ответственности |
+|{{< fl "W.L." >}}        |{{< fl "Westerlengte" >}}                                    |Западной долготы |
+|{{< fl "wnd." >}}        |{{< fl "waarnemend" >}}                                      |Временный, исполянющий обязанности |
+|{{< fl "wnw" >}}         |{{< fl "westnoordwest" >}}                                   |Западо-северо-запад |
+|{{< fl "wo." >}}         |{{< fl "waaronder" >}}                                       |Среди которых |
+|{{< fl "w.o." >}}        |{{< fl "wetenschappelijk onderzoek" >}}                      |Научное исследование |
+|{{< fl "WO" >}}          |{{< fl "wetenschappelijk onderwijs" >}}                      |Научное образование |
+|{{< fl "w.t.b.w." >}}    |{{< fl "wat te bewijzen was" >}}                             |Что и требовалось доказать |
+|{{< fl "WvS" >}}         |{{< fl "Wetboek van Strafrecht" >}}                          |Уголовный кодекс |
+|{{< fl "w.v.t.t.k." >}}  |{{< fl "wat verder ter tafel komt" >}}                       |Темы, предложенные для обсуждения |
+|{{< fl "ww." >}}         |{{< fl "werkwoord" >}}                                       |Глагол |
+|{{< fl "WW" >}}          |{{< fl "Wegenwacht" >}}                                      |Дорожный надзор |
+|{{< fl "wzw" >}}         |{{< fl "westzuidwest" >}}                                    |Западо-юго-запад |
 |**X**|||
-|{{< fl "xtc" >}}         |{{< fl "Extacy" >}}                                          | |
+|{{< fl "xtc" >}}         |{{< fl "Extacy" >}}                                          |«Экстази» (наркотик) |
 |**Z**|||
-|{{< fl "z." >}}          |{{< fl "Zuid" >}}                                            | |
-|{{< fl "z.a." >}}        |{{< fl "zie aldaar" >}}                                      | |
-|{{< fl "zat." >}}        |{{< fl "zaterdag" >}}                                        | |
-|{{< fl "Z.B." >}}        |{{< fl "Zuiderbreedte" >}}                                   | |
-|{{< fl "z.b.b.h.h." >}}  |{{< fl "zijne bezigheden buitenshuis hebbende" >}}           | |
-|{{< fl "zbc" >}}         |{{< fl "zelfstandig behandelcentrum" >}}                     | |
-|{{< fl "zbo" >}}         |{{< fl "zelfstandig bestuursorgaan" >}}                      | |
-|{{< fl "Z.D." >}}        |{{< fl "Zijne Doorluchtigheid" >}}                           | |
-|{{< fl "Z.D.H." >}}      |{{< fl "Zijne Doorluchtige Hoogheid" >}}                     | |
-|{{< fl "Z.E." >}}        |{{< fl "Zijne Edelheid; Zeer Eerwaarde" >}}                  | |
-|{{< fl "Z.Em." >}}       |{{< fl "Zijne Eminentie" >}}                                 | |
-|{{< fl "ZFW" >}}         |{{< fl "Ziekenfondswet" >}}                                  | |
-|{{< fl "zg." >}}         |{{< fl "zogenaamd" >}}                                       | |
-|{{< fl "z.g." >}}        |{{< fl "zaliger gedachtenis" >}}                             | |
-|{{< fl "z.g.a.n." >}}    |{{< fl "zo goed als nieuw" >}}                               | |
-|{{< fl "zgn." >}}        |{{< fl "zogenaamd" >}}                                       | |
-|{{< fl "ZH" >}}          |{{< fl "Zuid-Holland" >}}                                    | |
-|{{< fl "Z.H." >}}        |{{< fl "Zijne Heiligheid; Zijne Hoogheid" >}}                | |
-|{{< fl "z.h.s." >}}      |{{< fl "zonder hoofdelijke stemming" >}}                     | |
-|{{< fl "Z.H.Z." >}}      |{{< fl "Zuid-Holland-Zuid" >}}                               | |
-|{{< fl "z.i." >}}        |{{< fl "zijns inziens" >}}                                   | |
-|{{< fl "ZIS" >}}         |{{< fl "Ziekenhuisinformatiesysteem" >}}                     | |
-|{{< fl "z.j." >}}        |{{< fl "zonder jaartal" >}}                                  | |
-|{{< fl "Z.K.H." >}}      |{{< fl "Zijne Koninklijke Hoogheid" >}}                      | |
-|{{< fl "Z.K.M." >}}      |{{< fl "Zijne Koninklijke Majesteit" >}}                     | |
-|{{< fl "ZM" >}}          |{{< fl "zittende magistratuur" >}}                           | |
-|{{< fl "ZL" >}}          |{{< fl "Zeeland" >}}                                         | |
-|{{< fl "Zm" >}}          |{{< fl "Zettameter" >}}                                      | |
-|{{< fl "Z.M." >}}        |{{< fl "Zijne Majesteit" >}}                                 | |
-|{{< fl "Z.M.L.K." >}}    |{{< fl "Zeer Moeilijk Lerende Kinderen" >}}                  | |
-|{{< fl "Z.M.O.K." >}}    |{{< fl "Zeer Moeilijk Opvoedbare Kinderen" >}}               | |
-|{{< fl "zn." >}}         |{{< fl "zoon, zonen" >}}                                     | |
-|{{< fl "znw." >}}        |{{< fl "zelfstandig naamwoord" >}}                           | |
-|{{< fl "z.o." >}}        |{{< fl "zuidoost" >}}                                        | |
-|{{< fl "ZOA" >}}         |{{< fl "zeer open asfalt" >}}                                | |
-|{{< fl "z.o.z." >}}      |{{< fl "zie ommezijde" >}}                                   | |
-|{{< fl "Zr." >}}         |{{< fl "zuster" >}}                                          | |
-|{{< fl "z.s.m." >}}      |{{< fl "zo spoedig mogelijk" >}}                             | |
-|{{< fl "z.v." >}}        |{{< fl "zoon van" >}}                                        | |
-|{{< fl "z.v.k." >}}      |{{< fl "zonder verdere kosten" >}}                           | |
-|{{< fl "z.v.t." >}}      |{{< fl "zonder volledige titel" >}}                          | |
-|{{< fl "z.v.v.a." >}}    |{{< fl "zonder verlies van algemeenheid" >}}                 | |
-|{{< fl "ZW" >}}          |{{< fl "Ziektewet" >}}                                       | |
-|{{< fl "z.w." >}}        |{{< fl "zuidwest" >}}                                        | |
-|{{< fl "zzo" >}}         |{{< fl "zuidzuidoost" >}}                                    | |
-|{{< fl "zzp" >}}         |{{< fl "zelfstandige zonder personeel" >}}                   | |
-|{{< fl "zzw" >}}         |{{< fl "zuidzuidwest" >}}                                    | |
+|{{< fl "z." >}}          |{{< fl "Zuid" >}}                                            |Юг |
+|{{< fl "z.a." >}}        |{{< fl "zie aldaar" >}}                                      |Смотри *там-то* |
+|{{< fl "zat." >}}        |{{< fl "zaterdag" >}}                                        |Суббота |
+|{{< fl "Z.B." >}}        |{{< fl "Zuiderbreedte" >}}                                   |Южной широты |
+|{{< fl "z.b.b.h.h." >}}  |{{< fl "zijne bezigheden buitenshuis hebbende" >}}           |Исполняющий свои обязанности вне дома |
+|{{< fl "zbo" >}}         |{{< fl "zelfstandig bestuursorgaan" >}}                      |Независимый руководящий орган |
+|{{< fl "Z.D." >}}        |{{< fl "Zijne Doorluchtigheid" >}}                           |Его Светлость |
+|{{< fl "Z.D.H." >}}      |{{< fl "Zijne Doorluchtige Hoogheid" >}}                     |Его Светлое Высочество |
+|{{< fl "Z.E." >}}        |{{< fl "Zijne Edelheid" >}}                                  |Его Благородие |
+|{{< fl "Z.E." >}}        |{{< fl "Zeer Eerwaarde" >}}                                  |Высокопочтенный |
+|{{< fl "Z.Em." >}}       |{{< fl "Zijne Eminentie" >}}                                 |Его Преосвященство |
+|{{< fl "zg." >}}         |{{< fl "zogenaamd" >}}                                       |Так называемый |
+|{{< fl "z.g." >}}        |{{< fl "zaliger gedachtenis" >}}                             |Почивший |
+|{{< fl "z.g.a.n." >}}    |{{< fl "zo goed als nieuw" >}}                               |Совсем как новый |
+|{{< fl "zgn." >}}        |{{< fl "zogenaamd" >}}                                       |Так называемый |
+|{{< fl "ZH" >}}          |{{< fl "Zuid-Holland" >}}                                    |Южная Голландия (провинция) |
+|{{< fl "Z.H." >}}        |{{< fl "Zijne Heiligheid" >}}                                |Его Святейшество |
+|{{< fl "Z.H." >}}        |{{< fl "Zijne Hoogheid" >}}                                  |Его Высочество |
+|{{< fl "z.h.s." >}}      |{{< fl "zonder hoofdelijke stemming" >}}                     |Подавляющим большинством |
+|{{< fl "z.i." >}}        |{{< fl "zijns inziens" >}}                                   |По его мнению |
+|{{< fl "z.j." >}}        |{{< fl "zonder jaartal" >}}                                  |Без указания года |
+|{{< fl "Z.K.H." >}}      |{{< fl "Zijne Koninklijke Hoogheid" >}}                      |Его Королевское Высочество |
+|{{< fl "Z.K.M." >}}      |{{< fl "Zijne Koninklijke Majesteit" >}}                     |Его Королевское Величество |
+|{{< fl "ZM" >}}          |{{< fl "zittende magistratuur" >}}                           |Суд, ведущий заседание |
+|{{< fl "ZL" >}}          |{{< fl "Zeeland" >}}                                         |Зеландия (провинция) |
+|{{< fl "Z.M." >}}        |{{< fl "Zijne Majesteit" >}}                                 |Его Величество |
+|{{< fl "Z.M.L.K." >}}    |{{< fl "Zeer Moeilijk Lerende Kinderen" >}}                  |Дети, с большим трудом поддающиеся обучению |
+|{{< fl "Z.M.O.K." >}}    |{{< fl "Zeer Moeilijk Opvoedbare Kinderen" >}}               |Дети, с большим трудом поддающиеся воспитанию |
+|{{< fl "zn." >}}         |{{< fl "zoon/zonen" >}}                                      |Сын/сыновья |
+|{{< fl "znw." >}}        |{{< fl "zelfstandig naamwoord" >}}                           |Существительное |
+|{{< fl "z.o." >}}        |{{< fl "zuidoost" >}}                                        |Юго-восток |
+|{{< fl "ZOA" >}}         |{{< fl "zeer open asfalt" >}}                                |Водопроницаемый асфальт |
+|{{< fl "ZOAB" >}}        |{{< fl "zeer open asfalt beton" >}}                          |Водопроницаемый асфальтобетон |
+|{{< fl "z.o.z." >}}      |{{< fl "zie ommezijde" >}}                                   |Смотри оборот |
+|{{< fl "Zr." >}}         |{{< fl "zuster" >}}                                          |Сестра |
+|{{< fl "z.s.m." >}}      |{{< fl "zo spoedig mogelijk" >}}                             |Как можно быстрее, при первой возможности |
+|{{< fl "z.v." >}}        |{{< fl "zoon van" >}}                                        |Сын *того-то* |
+|{{< fl "z.v.k." >}}      |{{< fl "zonder verdere kosten" >}}                           |Без дополнительных расходов |
+|{{< fl "z.v.v.a." >}}    |{{< fl "zonder verlies van algemeenheid" >}}                 |Не теряя общности |
+|{{< fl "z.w." >}}        |{{< fl "zuidwest" >}}                                        |Юго-запад |
+|{{< fl "zzo" >}}         |{{< fl "zuidzuidoost" >}}                                    |Юго-юго-восток |
+|{{< fl "zzp" >}}         |{{< fl "zelfstandige zonder personeel" >}}                   |Индивидуальный предприниматель без персонала |
+|{{< fl "zzw" >}}         |{{< fl "zuidzuidwest" >}}                                    |Юго-юго-запад |
 {{< /table >}}
+
+Уфф, ну и работка. О замеченных глупостях просьба {{< a "/about/contact" "писать тут" >}} или создавать {{< a "https://github.com/yktoo/yktoo.com/issues" "багрепорты" >}}.
+
+На будущее, надо будет из этого сделать более удобный сервис, с поиском и ссылками.
