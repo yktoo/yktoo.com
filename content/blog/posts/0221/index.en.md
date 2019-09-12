@@ -3,7 +3,12 @@ type: post
 date: "2014-08-31T00:00:00Z"
 title: "Part 1. Train stations"
 series: "Houten"
-tags: ["Houten", "Netherlands", "trains", "transport"]
+tags:
+    - Houten
+    - Netherlands
+    - trains
+    - transport
+    - railway
 image: "https://1.bp.blogspot.com/-DIvAaGopwfg/VAMbLP1sN9I/AAAAAAAAfOM/IXEu0uUYwAc/s1600/dsc06624.picasaweb.jpg"
 places:
     - place0217

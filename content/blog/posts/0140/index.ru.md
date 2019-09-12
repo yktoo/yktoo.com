@@ -2,7 +2,12 @@
 type: post
 date: "2012-02-19T00:00:00Z"
 title: "Снег и железные дороги"
-tags: ["Нидерланды", "поезда", "снег", "транспорт"]
+tags:
+    - Нидерланды
+    - поезда
+    - снег
+    - транспорт
+    - железные дороги
 image: "https://2.bp.blogspot.com/-ez-FECW0VJ4/T0D9FejXkgI/AAAAAAAALUg/e4csmyxgSIw/s1600/i-love-ns.png"
 aliases:
     - /ru/blog/post/140

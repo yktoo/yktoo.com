@@ -2,7 +2,13 @@
 type: post
 date: "2011-02-14T00:00:00Z"
 title: "Музыкально-железнодорожное"
-tags: ["интересное", "музыка", "Нидерланды", "поезда", "транспорт"]
+tags:
+    - интересное
+    - музыка
+    - Нидерланды
+    - поезда
+    - транспорт
+    - железные дороги
 image: "https://4.bp.blogspot.com/-ta4Wf4JAhq4/TVkpFbEOqLI/AAAAAAAAH_0/SKANrC9W4IM/s1600/IMAG0210.jpg"
 places:
     - place0125
