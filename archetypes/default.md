@@ -1,11 +1,16 @@
 ---
 type: post
 date: "{{ .Date }}"
-title: "{{ replace .Name "-" " " | title }}"
+title: "{{ replace .Name "-" " " | title }}_POST_NAME_HERE"
 tags:
-    - Netherlands
+    - {{ cond (eq .Site.Language.Lang "ru") "Нидерланды" "Netherlands" }}
 #image: ""
 #series:
 draft: true
 ---
 
+...TEXT...
+
+<!--more-->
+
+...MORE...TEXT...
