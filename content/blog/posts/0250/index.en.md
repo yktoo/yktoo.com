@@ -140,4 +140,4 @@ He had to sink quite a bit to get level with the rest of the crew.
 
 The gig was a clear success! It took we a good while to leave the club, as it was really crowded. And the club, obviously, not that big either.
 
-You can watch all the videos on the [event page][route:/media/video/event,id:29].
+You can watch all the videos on the {{< a "/videoevents/vevt0029" "event page" >}}.

@@ -99,5 +99,5 @@ aliases:
 
 Ну и напоследок:
 
-* [Все видео фестиваля][route:/media/video/event,id:13]
+* {{< a "/videoevents/vevt0013" "Все видео фестиваля" >}}
 * [Плейлист на YouTube](http://www.youtube.com/playlist?list=PLRtML0bqZ1ineNeyAPp-7wAvCFWk2mnf9)

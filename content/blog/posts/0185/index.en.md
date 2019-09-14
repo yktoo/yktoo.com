@@ -99,5 +99,5 @@ What I've described is about five percent of the entire festival's programme, bu
 
 And at last:
 
-* [All festival videos][route:/media/video/event,id:13]
+* {{< a "/videoevents/vevt0013" "All festival videos" >}}
 * [Playlist on YouTube](http://www.youtube.com/playlist?list=PLRtML0bqZ1ineNeyAPp-7wAvCFWk2mnf9)

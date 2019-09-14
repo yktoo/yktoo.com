@@ -185,4 +185,4 @@ aliases:
 В обычное время здесь тихо и сказочно красиво.
 {{< imgfig "https://1.bp.blogspot.com/-ixA0KHj8jH4/VM6cAssi_kI/AAAAAAAAg5Q/PEn38j8ocSI/s1600/dsc07920.picasaweb.jpg" >}}
 
-Все видео фестиваля можно [посмотреть на моём сайте][route:/media/video/event,id:28].
+Все видео фестиваля можно {{< a "/videoevents/vevt0028" "посмотреть на моём сайте" >}}.

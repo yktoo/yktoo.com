@@ -179,4 +179,4 @@ The show was definitely a success. And perhaps the most impressive of all I've s
 
 ---
 
-All my videos of the concert are listed at the [event page][route:/video/event,id:31].
+All my videos of the concert are listed at the {{< a "/videoevents/vevt0031" "event page" >}}.

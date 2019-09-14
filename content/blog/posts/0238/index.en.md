@@ -176,4 +176,4 @@ That's about all I managed to photograph. I've skipped some things I didn't find
 It's wonderful and quiet here otherwise.
 {{< imgfig "https://1.bp.blogspot.com/-ixA0KHj8jH4/VM6cAssi_kI/AAAAAAAAg5Q/PEn38j8ocSI/s1600/dsc07920.picasaweb.jpg" >}}
 
-You can see all videos of the festival [on the event page][route:/media/video/event,id:28].
+You can see all videos of the festival {{< a "/videoevents/vevt0028" "on the event page" >}}.

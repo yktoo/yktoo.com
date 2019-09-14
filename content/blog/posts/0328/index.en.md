@@ -53,4 +53,4 @@ To conclude: I really enjoyed them playing so I'm definitely going to see them a
 
 ---
 
-Both my videos are listed in the sidebar on the right; they are also available on the [event page][route:/video/event,id:45].
+Both my videos are listed in the sidebar on the right; they are also available on the {{< a "/videoevents/vevt0045" "event page" >}}.

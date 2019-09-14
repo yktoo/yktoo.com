@@ -65,7 +65,7 @@ My second achievement this year is that I've qualified as {{< fl "nidan" >}} (se
 
 The concert life has stepped back a bit because of some objective difficulties represented by a small kid. Nonetheless I managed to visit two shows.
 
-*Arch Echo*, *Mestís* and *Plini* in Haarlem ([video][route:/video/event,id:48]):
+*Arch Echo*, *Mestís* and *Plini* in Haarlem ({{< a "/videoevents/vevt0048" "video" >}}):
 {{< imgfig "https://4.bp.blogspot.com/-L55UJt_bELc/XCod9L7rn3I/AAAAAAAAuXg/tnUCDx5wUOowIBYE66tYKs5PUQ1yXZRAQCKgBGAs/s1600/dsc08074.picasaweb.jpg" "Javier Reyes (Mestís)." >}}
 
 And *Riverside* in Utrecht:

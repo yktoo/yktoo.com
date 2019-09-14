@@ -109,4 +109,4 @@ Spectators sat wherever they could, like yesterday. On the bridge I spotted viol
 Whatever happened, boat trips went on during the concerts:
 {{< imgfig "https://2.bp.blogspot.com/-jP8u493xJ5Q/TlFdJeIt93I/AAAAAAAAJcQ/RXA1hRgyL-Q/s1600/dsc06386.picasaweb.jpg" >}}
 
-The festival was a success. Largely because of the good weather.
+The festival was a success, the good weather played its role, too.

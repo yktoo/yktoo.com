@@ -187,7 +187,7 @@ It also showed live footage from the marathon:
 Those who finished are giving pep-talk to the finishing runners:
 {{< imgfig "https://3.bp.blogspot.com/-dzlZlenzOtk/Vat7krpyjNI/AAAAAAAAkBM/IYX07w_u2p4/s1600/dsc09604.picasaweb.jpg" "Marathon Amersfoort: finish line." >}}
 
-I've also recorded a [few videos][route:/video/event,id:33] on that event.
+I've also recorded a {{< a "/videoevents/vevt0033" "few videos" >}} on that event.
 
 ---
 

@@ -29,7 +29,7 @@ Claudia the violinist is fronting the band, so she is the one to speak Dutch on 
 
 The guys are playing just as well as before, if not better. I've filmed almost all their pieces.
 
-* [All gig's videos][route:/media/video/event,id:1]
+* {{< a "/videoevents/vevt0001" "All gig's videos" >}}
 * [Playlist on YouTube](http://www.youtube.com/playlist?list=PLRtML0bqZ1ik4EwGEazskw5elqgTRI1wh)
 
 **Update.** Just found out from the newspaper that Dias Latinos is off this year, first time after 16 years. Because of the crisis and lack for financing. Maybe next year.

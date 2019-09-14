@@ -371,7 +371,7 @@ He would also run a quiz now and then, giving away a candy to the winner.
 The climax of the tour was an improvised performance about the modern Bulgarian history, with the tourists as actors (including the author of this text):
 {{< imgfig "https://4.bp.blogspot.com/-OtdoRsxp-m4/WQ3-d05Nx8I/AAAAAAAAp5Q/DAnMMZTW2NYtWNZRS4TjMlpiZJZeG4NnQCPcB/s1600/dsc05019.picasaweb.jpg" "Free Sofia Tour: performance." >}}
 
-If you're interested, [here's a video][route:/video/watch,id:304] of that act.
+If you're interested, {{< a "/video/tracks/z_MYNcTPmww" "here's a video" >}} of that act.
 
 I can definitely recommend this tour. All the necessary details can be found on the [organisation's website](http://www.freesofiatour.com/).
 

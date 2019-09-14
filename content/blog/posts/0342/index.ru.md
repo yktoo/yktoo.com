@@ -63,7 +63,7 @@ aliases:
 
 Концертная жизнь отошла немного на второй план по объективным причинам в виде маленького ребёнка. Тем не менее, на пару концертов сходить всё же удалось.
 
-{{< fl "Arch Echo" >}}, {{< fl "Mestís" >}} и {{< fl "Plini" >}} в Харлеме ([видео][route:/video/event,id:48]):
+{{< fl "Arch Echo" >}}, {{< fl "Mestís" >}} и {{< fl "Plini" >}} в Харлеме ({{< a "/videoevents/vevt0048" "видео" >}}):
 {{< imgfig "https://4.bp.blogspot.com/-L55UJt_bELc/XCod9L7rn3I/AAAAAAAAuXg/tnUCDx5wUOowIBYE66tYKs5PUQ1yXZRAQCKgBGAs/s1600/dsc08074.picasaweb.jpg" "Javier Reyes (Mestís)." >}}
 
 И ещё {{< fl "Riverside" >}} в Утрехте:

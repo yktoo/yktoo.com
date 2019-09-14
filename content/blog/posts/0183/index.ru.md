@@ -10,7 +10,7 @@ aliases:
     - /ru/blog/post/183
 ---
 
-[Выложил на YouTube][route:/media/video/event,id:12] одну из своих старых записей: концерт двух — не побоюсь этого слова — гениальных джазовых музыкантов, [Даниила Крамера](http://www.kramerdaniel.com/) (фортепиано) и [Аркадия Шилклопера](http://www.shilkloper.com/) (валторна, флюгельгорн, альпийский рог) в [Тюменской Филармонии](http://www.tgf.ru/) 10 февраля 2008 года.
+{{< a "/videoevents/vevt0012" "Выложил на YouTube" >}} одну из своих старых записей: концерт двух — не побоюсь этого слова — гениальных джазовых музыкантов, [Даниила Крамера](http://www.kramerdaniel.com/) (фортепиано) и [Аркадия Шилклопера](http://www.shilkloper.com/) (валторна, флюгельгорн, альпийский рог) в [Тюменской Филармонии](http://www.tgf.ru/) 10 февраля 2008 года.
 {{< imgfig "https://4.bp.blogspot.com/-Ip1MNgW1pOk/UZKntwLjlbI/AAAAAAAAXu8/AuZp8l-zXPw/s1600/kra-shi.picasaweb.jpg" >}}
 
 <!--more-->
@@ -24,7 +24,7 @@ aliases:
 Вот для затравки первый номер под названием Folk Song:
 {{< youtube "IntcetFJA6o" >}}
 
-* [Список всех видео концерта][route:/media/video/event,id:12] на моём сайте
+* {{< a "/videoevents/vevt0012" "Список всех видео концерта" >}} на моём сайте
 * [Плейлист на YouTube](http://www.youtube.com/playlist?list=PLRtML0bqZ1imv9g-F-_MJveYRqarPr3e3)
 
 Названия некоторых номеров подсказали на рутрекере, но некоторые так и остались неопознанными. Буду признателен, если кто-нибудь сообщит любую информацию о них.

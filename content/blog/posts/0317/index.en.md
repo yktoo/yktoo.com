@@ -68,4 +68,4 @@ From this I can conclude that all four are pretty damn good with guitars, and I 
 
 To wrap up, the gig was awesome. My haul was a T-shirt and a poster with Plini's signature! And I'm sure Plini has a great future—if he'll be persistent enough, of course.
 
-All of my videos are listed in the sidebar on the right; they are also available on the [event page][route:/video/event,id:41].
+All of my videos are listed in the sidebar on the right; they are also available on the {{< a "/videoevents/vevt0041" "event page" >}}.

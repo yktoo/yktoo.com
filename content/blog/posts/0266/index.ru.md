@@ -188,7 +188,7 @@ aliases:
 Уже добежавшие поддерживают финиширующих:
 {{< imgfig "https://3.bp.blogspot.com/-dzlZlenzOtk/Vat7krpyjNI/AAAAAAAAkBM/IYX07w_u2p4/s1600/dsc09604.picasaweb.jpg" "Marathon Amersfoort: финиш." >}}
 
-Я записал на марафоне [несколько видео][route:/video/event,id:33].
+Я записал на марафоне {{< a "/videoevents/vevt0033" "несколько видео" >}}.
 
 ---
 

@@ -94,4 +94,4 @@ In my humble opinion, these end-year shows by *Stream of Passion* have the best 
 
 ---
 
-All gig videos are available at the [event page][route:/video/event,id:32].
+All gig videos are available at the {{< a "/videoevents/vevt0032" "event page" >}}.

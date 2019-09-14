@@ -121,4 +121,4 @@ Unfortunately the band didn't come out after the performance. Which is a pity as
 
 ---
 
-All of my videos are listed in the sidebar on the right; they are also available on the [event page][route:/video/event,id:43].
+All of my videos are listed in the sidebar on the right; they are also available on the {{< a "/videoevents/vevt0043" "event page" >}}.

@@ -147,4 +147,4 @@ Some more photos:
 
 ---
 
-All concert videos are available on the [event page][route:/video/event,id:35].
+All concert videos are available on the {{< a "/videoevents/vevt0035" "event page" >}}.
