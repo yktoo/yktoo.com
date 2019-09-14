@@ -3,7 +3,17 @@ type: post
 date: "2017-02-19T00:00:00Z"
 title: "Pros and cons"
 series: "My entrepreneurship"
-tags: ["business", "employment", "entrepreneurship", "freelance", "Netherlands", "taxes", "Yktoo Solutions"]
+tags:
+    - business
+    - employment
+    - entrepreneurship
+    - freelance
+    - Netherlands
+    - taxes
+    - Yktoo Solutions
+    - legislation
+    - Wet DBA
+    - work
 image: "https://4.bp.blogspot.com/-f_a4KQVmI1w/WN97i86B4jI/AAAAAAAAptQ/tQHL2EJd3pcyo5NSzzCyPmQuDu3Ls8DlQCPcB/s1600/pros-and-cons.jpg"
 aliases:
     - /en/blog/post/309
@@ -17,7 +27,7 @@ In fact the very idea of freelancing wasn't new at all. Many of my expat friends
 
 However there was a number of considerations, which I'll start with.
 
-*To avoid any possible confusion I'd like to point out that everything here is about **the Netherlands**.*
+> To avoid any possible confusion I'd like to point out that everything here is about **the Netherlands**.
 
 {{< imgfig "https://4.bp.blogspot.com/-f_a4KQVmI1w/WN97i86B4jI/AAAAAAAAptQ/tQHL2EJd3pcyo5NSzzCyPmQuDu3Ls8DlQCPcB/s1600/pros-and-cons.jpg" >}}
 
@@ -37,7 +47,7 @@ Why I'm going into such details about this is because one can enjoy this thirty-
 <p></p>
 Next to that, you have to pay yourself for your vacation, sickness leaves, commuting costs (which are otherwise almost always reimbursed by the employer). The same goes for pension premiums. Another item of expenditure are insurances, with disability insurance being the most costly one.
 
-4. And now about the least obvious. There is a special regulation in the Netherlands called [Wet DBA](https://www.belastingdienst.nl/dba), which means "Employment relationship deregulation law." This pretty obscure title hosts a bunch of even less comprehensible stipulations, which the Dutch Tax Office is charged to enforce.
+4. And now about the least obvious. There is a special regulation in the Netherlands called [Wet DBA](https://www.belastingdienst.nl/dba), which means "Employment relationship assessment deregulation law." This pretty obscure title hosts a bunch of even less comprehensible stipulations, which the Dutch Tax Office is charged to enforce.
 <p></p>
 In a nutshell this can be explained as follows. Any employer is obliged to pay various social premiums ({{< fl "sociale lasten" >}}) for each of its employees, such as insurance premiums for unemployment, illness, disability and so on. These items are quite costly, and being a freelancer is beneficial just because those are exempt from these otherwise compulsory charges.
 <p></p>

@@ -12,6 +12,7 @@ tags:
     - бизнес
     - НДС
     - GDPR
+    - законодательство
 image: "https://1.bp.blogspot.com/-g4m_ZWdPzn4/XW4hr5Hrv_I/AAAAAAAAxCg/VHV1GKNxcq8yCJnCGZNKKH5SJrLdwyHvQCKgBGAs/s1600/bsn-paspoort-voorkant.jpg"
 series: "Доля предпринимательская"
 ---

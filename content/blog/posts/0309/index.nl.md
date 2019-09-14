@@ -3,7 +3,17 @@ type: post
 date: "2017-02-19T00:00:00Z"
 title: "Voor- en nadelen"
 series: "Mijn ondernemerschap"
-tags: ["belastingen", "business", "freelance", "Nederland", "ondernemerschap", "werk", "Wet DBA", "Yktoo Solutions", "zzp'ers"]
+tags:
+    - belastingen
+    - business
+    - freelance
+    - Nederland
+    - ondernemerschap
+    - werk
+    - Wet DBA
+    - Yktoo Solutions
+    - zzp'ers
+    - regelgeving
 image: "https://4.bp.blogspot.com/-f_a4KQVmI1w/WN97i86B4jI/AAAAAAAAptQ/tQHL2EJd3pcyo5NSzzCyPmQuDu3Ls8DlQCPcB/s1600/pros-and-cons.jpg"
 aliases:
     - /nl/blog/post/309
@@ -17,7 +27,7 @@ Het idee om freelancer (ofwel zzp'er) te worden was in feite helemaal niet nieuw
 
 Er waren echter een aantal dingen om rekening mee te houden en daar wil ik mee beginnen.
 
-*Om eventuele misverstanden te voorkomen wil ik benadrukken dat het onderstaande uitsluitend op **Nederland** betrekking heeft.*
+> Om eventuele misverstanden te voorkomen wil ik benadrukken dat het onderstaande uitsluitend op **Nederland** betrekking heeft.
 
 {{< imgfig "https://4.bp.blogspot.com/-f_a4KQVmI1w/WN97i86B4jI/AAAAAAAAptQ/tQHL2EJd3pcyo5NSzzCyPmQuDu3Ls8DlQCPcB/s1600/pros-and-cons.jpg" >}}
 
