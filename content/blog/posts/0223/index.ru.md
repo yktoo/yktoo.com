@@ -3,7 +3,11 @@ type: post
 date: "2014-10-12T00:00:00Z"
 title: "Часть 3, водно-фруктовая"
 series: "Хаутен"
-tags: ["вода", "Нидерланды", "Хаутен"]
+tags:
+    - вода
+    - Нидерланды
+    - Хаутен
+    - яблоки
 image: "https://2.bp.blogspot.com/-bBt-dPzYMUU/U_uLTtKwcpI/AAAAAAAAfFA/CK20pVWHIo4/s1600/dsc06429.picasaweb.jpg"
 places:
     - place0218
