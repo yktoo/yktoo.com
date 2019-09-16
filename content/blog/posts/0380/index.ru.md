@@ -7,7 +7,6 @@ tags:
     - Хаутен
     - яблоки
 image: "https://1.bp.blogspot.com/-LwnafMDbHXs/XX326KX7N7I/AAAAAAAAxdw/SUu89KytvbUei5-P0cr-DOregzOkAR2MwCKgBGAsYHg/s1600/20190914_163124.w.jpg"
-draft: true
 ---
 
 Прошло почти пять лет после предыдущего {{< a "0223" "фруктового поста" >}}.
