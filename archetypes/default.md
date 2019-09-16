@@ -6,7 +6,6 @@ tags:
     - {{ cond (eq .Site.Language.Lang "ru") "Нидерланды" "Netherlands" }}
 #image: ""
 #series:
-draft: true
 ---
 
 ...TEXT...
