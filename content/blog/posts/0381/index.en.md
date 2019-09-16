@@ -1,7 +1,7 @@
 ---
 type: post
 date: "2019-09-16T17:06:59+02:00"
-title: "New website announcement: словарь сокращений afk.best"
+title: "New website announcement: abbreviation dictionary afk.best"
 tags:
     - Netherlands
     - afk.best
