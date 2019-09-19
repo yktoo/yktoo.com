@@ -13,7 +13,7 @@ tags:
 image: afk.best-en.png
 ---
 
-I've made a simple online service for looking up Dutch abbreviations and their English translations (mostly).
+I've made a simple online service for looking up Dutch abbreviations and their English translations.
 
 Please meet **{{< a "https://afk.best/en/" "afk.best" >}}**!
 
@@ -27,7 +27,7 @@ The lookups are performed on-the-fly, without a page reload.
 
 And if you're curious what the new website's domain name means, you can also find it there: {{< a "https://afk.best/en/#afk." "afk" >}}.
 
-Not all English translations are there yet, it's a work in progress. There's also a completed {{< a "https://afk.best/ru/" "Russian section" >}} available.
+There's also a complete {{< a "https://afk.best/ru/" "Russian section" >}} available.
 
 ## Implementation details
 
