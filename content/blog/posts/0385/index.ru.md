@@ -10,7 +10,7 @@ tags:
 image: "https://1.bp.blogspot.com/-JtLSUYf6Z7I/XYNbWP8JngI/AAAAAAAAxno/kTTTsU3-ox0PJIJYU8qGkmZR80dIDfBCACKgBGAsYHg/s1600/2019-09-19_prinsjesdag-2014-wikipedia.jpg"
 ---
 
-Отгремел очередной «{{< a "0382" "День маленького принца" >}}», остались лишь шутки про бороду короля и {{< a "https://www.rijksoverheid.nl/onderwerpen/prinsjesdag/inkomsten-en-uitgaven-van-het-rijk-2020" "Miljoenennota" >}} — документ о бюджете на предстоящий год.
+Отгремел очередной «{{< a "0382" "День маленького принца" >}}», остались лишь {{< a "https://www.ad.nl/show/even-is-de-koning-een-popster-de-baard-maakt-hem-mannelijker~a38dd0b4/" "шутки" >}} про бороду короля и {{< a "https://www.rijksoverheid.nl/onderwerpen/prinsjesdag/inkomsten-en-uitgaven-van-het-rijk-2020" "Miljoenennota" >}} — документ о бюджете на предстоящий год.
 
 Вот что этот документ означает для граждан Нидерландов — изменения, которые коснутся почти каждого из них (нас).
 
