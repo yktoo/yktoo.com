@@ -1,4 +1,5 @@
 - {id: about,             translation: Over}
+- {id: afkBest,           translation: Afkortingen op Afk.best}
 - {id: archive,           translation: Archief}
 - {id: articles,          translation: Artikelen}
 - {id: author,            translation: Auteur}

@@ -193,14 +193,23 @@ menu:
           url: '/about/contact/'
           pre: '<span class="dot-sep"></span>'
           parent: about
+          weight: 21
         - identifier: privacyPolicy
           url: '/about/privacy/'
           pre: '<span class="dot-sep"></span>'
           parent: about
+          weight: 22
         - identifier: termsOfService
           url: '/about/tos/'
           pre: '<span class="dot-sep"></span>'
           parent: about
+          weight: 23
+        - identifier: afkBest
+          url: 'https://afk.best/'
+          pre: '<b>'
+          post: '</b>'
+          parent: about
+          weight: 24
 
         # Software
         - identifier: software
