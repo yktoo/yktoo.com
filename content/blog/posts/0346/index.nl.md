@@ -5,7 +5,7 @@ title: "De vernieuwde website van Yktoo Solutions"
 series: "Mijn ondernemerschap"
 tags: ["Hugo", "nieuws", "website", "Yktoo Solutions"]
 image: website-main-page.jpg
-fulltext_url: "https://yktoo.solutions/blog/2019/07/15-meet-the-all-new-yktoo-solutions-website/"
+fulltextUrl: "https://yktoo.solutions/blog/2019/07/15-meet-the-all-new-yktoo-solutions-website/"
 aliases:
     - /nl/blog/post/346
 ---

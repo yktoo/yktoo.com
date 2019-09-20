@@ -5,7 +5,7 @@ title: "Meet the all-new Yktoo Solutions website!"
 series: "My entrepreneurship"
 tags: ["announcement", "Hugo", "website", "Yktoo Solutions"]
 image: website-main-page.jpg
-fulltext_url: "https://yktoo.solutions/blog/2019/07/15-meet-the-all-new-yktoo-solutions-website/"
+fulltextUrl: "https://yktoo.solutions/blog/2019/07/15-meet-the-all-new-yktoo-solutions-website/"
 aliases:
     - /en/blog/post/346
 ---

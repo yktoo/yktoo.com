@@ -5,7 +5,7 @@ title: "Grootschalig Git projectbeheer"
 tags: ["git", "software", "softwareontwikkeling", "Yktoo Solutions", "yktools"]
 image: git.png
 software: yktools
-fulltext_url: "https://yktoo.solutions/blog/2019/07/19-managing-git-projects-on-a-mass-scale/"
+fulltextUrl: "https://yktoo.solutions/blog/2019/07/19-managing-git-projects-on-a-mass-scale/"
 aliases:
     - /nl/blog/post/347
 ---

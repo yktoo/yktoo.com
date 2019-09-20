@@ -5,7 +5,7 @@ title: "Managing Git projects on a mass scale"
 tags: ["development", "git", "Yktoo Solutions", "yktools"]
 image: git.png
 software: yktools
-fulltext_url: "https://yktoo.solutions/blog/2019/07/19-managing-git-projects-on-a-mass-scale/"
+fulltextUrl: "https://yktoo.solutions/blog/2019/07/19-managing-git-projects-on-a-mass-scale/"
 aliases:
     - /en/blog/post/347
 ---

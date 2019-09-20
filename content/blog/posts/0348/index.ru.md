@@ -6,7 +6,7 @@ series: "Sound Switcher Indicator"
 tags: ["Sound Switcher Indicator", "Ubuntu", "индикатор", "разработка"]
 image: ssi-icon.png
 software: sound-switcher-indicator
-fulltext_url: "https://yktoo.solutions/blog/2019/07/21-sound-switcher-indicator-2.2.2/"
+fulltextUrl: "https://yktoo.solutions/blog/2019/07/21-sound-switcher-indicator-2.2.2/"
 aliases:
     - /ru/blog/post/348
 ---

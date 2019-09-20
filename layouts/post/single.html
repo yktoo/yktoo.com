@@ -79,7 +79,7 @@
                 {{- .Content | replaceRE "\\.</p>$" ". ■</p>" | safeHTML }}
 
                 <!-- Full-text link, if any -->
-                {{- with .Params.fulltext_url }}
+                {{- with .Params.fulltextUrl }}
                 <p><a href="{{ . }}" class="btn btn-primary">{{ T "readOnAt" }}&nbsp;{{ (urls.Parse .).Host }}</a></p>
                 {{- end }}
             </section>
