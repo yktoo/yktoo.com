@@ -2,7 +2,16 @@
 type: post
 date: "2017-02-18T00:00:00Z"
 title: "Tutorial: development with Yii/PHP/MySQL using Docker"
-tags: ["containers", "development", "Docker", "MySQL", "PHP", "web", "website", "Yii2"]
+tags:
+    - containers
+    - development
+    - Docker
+    - MySQL
+    - PHP
+    - web
+    - website
+    - Yii2
+    - databases
 image: "https://3.bp.blogspot.com/-czrNcwMoyQw/WK3et6P_81I/AAAAAAAApVE/gGCNALgayxA6kT3LmaPIiamtMNY48E88QCPcB/s1600/docker.png"
 aliases:
     - /en/blog/post/308

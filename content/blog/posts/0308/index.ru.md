@@ -2,7 +2,16 @@
 type: post
 date: "2017-02-18T00:00:00Z"
 title: "Разработка в Yii/PHP/MySQL с использованием Docker"
-tags: ["Docker", "MySQL", "PHP", "Yii2", "веб", "контейнеры", "разработка", "сайт"]
+tags:
+    - Docker
+    - MySQL
+    - PHP
+    - Yii2
+    - веб
+    - контейнеры
+    - разработка
+    - сайт
+    - БД
 image: "https://3.bp.blogspot.com/-czrNcwMoyQw/WK3et6P_81I/AAAAAAAApVE/gGCNALgayxA6kT3LmaPIiamtMNY48E88QCPcB/s1600/docker.png"
 aliases:
     - /ru/blog/post/308

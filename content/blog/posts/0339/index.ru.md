@@ -2,7 +2,13 @@
 type: post
 date: "2018-07-02T00:00:00Z"
 title: "Медленное подключение к MySQL в Docker"
-tags: ["Docker", "Linux", "MySQL", "контейнеры", "разработка"]
+tags:
+    - Docker
+    - Linux
+    - MySQL
+    - контейнеры
+    - разработка
+    - БД
 image: "https://3.bp.blogspot.com/-KfGkUuzJYBQ/WzpDheKD1ZI/AAAAAAAAsqo/H970WSIWmPgOu7qEpqPfUHUDIljzALuigCKgBGAs/s1600/mysql.png"
 aliases:
     - /ru/blog/post/339
