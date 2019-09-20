@@ -82,6 +82,11 @@
 - {id: softwareFor,       translation: 'ПО для {{ .value }}'}
 - {id: sourceCode,        translation: Исходный код}
 - {id: sourceCodeClone,   translation: 'Чтобы загрузить самую новую версию исходных кодов, склонируйте мой'}
+- {id: statsAllPages,     translation: Всего страниц на сайте}
+- {id: statsBlogPages,    translation: Из них постов блога}
+- {id: statsBuildDate,    translation: Дата последнего обновления}
+- {id: statsCurLangPages, translation: Из них на русском}
+- {id: statsCurLangWords, translation: Количество слов на русских страницах}
 - {id: submit,            translation: Отправить}
 - {id: subscribeByEmail,  translation: Подписаться по е-мэйлу}
 - {id: subscribeByRSS,    translation: Формат RSS 2.0}

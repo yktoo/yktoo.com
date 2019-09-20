@@ -22,6 +22,14 @@ Yktoo is mijn bijnaam, daarom is <u>yktoo.com</u> ontstaan. Deze naam heeft geen
 
 Deze website maakt gebruik van [Hugo](https://gohugo.io/), [Bootstrap](http://getbootstrap.com/) en [Font Awesome](https://fontawesome.com/).
 
+### Over mijn blog
+
+{{< a "/" "Mijn blog" >}} is voornamelijk geconcentreerd op Nederland en het Nederlands leven maar het is niet hiermee beperkt. Ik blog over alles wat ik interessant vind.
+
+Hieronder kun je wat statistiek zien:
+
+{{< stats >}}
+
 ## Voorwaarden
 
 Door deze website te gebruiken gaat u akkoord met het {{< a "/about/privacy" "Privacybeleid (Engels)" "en" >}} en de {{< a "/about/tos" "Algemene voorwaarden (Engels)" "en" >}}.

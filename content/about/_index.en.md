@@ -22,6 +22,14 @@ Yktoo is my nickname, which is why <u>yktoo.com</u> came into existence. It does
 
 This website is powered by [Hugo](https://gohugo.io/), [Bootstrap](http://getbootstrap.com/) and [Font Awesome](https://fontawesome.com/).
 
+### About my blog
+
+{{< a "/" "My blog" >}} is predominantly focused on the Netherlands and the Dutch life, but not limited to that. I post about whatever I find interesting.
+
+Here's some statistics:
+
+{{< stats >}}
+
 ## Usage terms
 
 By viewing this website you're consenting to the {{< a "/about/privacy" "Privacy policy" >}} and accepting the {{< a "/about/tos" "Terms of service" >}}.
