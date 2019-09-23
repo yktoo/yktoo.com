@@ -1,7 +1,7 @@
 ---
 type: post
 date: "2019-09-22T15:16:06+02:00"
-title: "Hoe to pyromark your jo, bokken, or tanto"
+title: "How to pyromark your jo, bokken, or tanto"
 tags:
     - Netherlands
     - DIY
