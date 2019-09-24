@@ -2,7 +2,7 @@
 type: post
 date: "2014-01-19T00:00:00Z"
 title: "Часть 3. Граффити"
-series: " Бельгия. Гент"
+series: "Бельгия. Гент"
 tags: ["Бельгия", "Гент", "граффити", "путешествия"]
 image: "https://1.bp.blogspot.com/-cc65Q2FxLmw/UtWFOf6QknI/AAAAAAAAbpc/a8OMqI3MTKM/s1600/dsc02797.picasaweb.jpg"
 places:

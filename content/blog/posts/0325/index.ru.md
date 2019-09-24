@@ -25,6 +25,6 @@ aliases:
 Удовольствие это, кстати, не из дешёвых. ING курс обошёлся примерно в **€80/час** — что, в принципе, нормальная местная такса за индивидуальные занятия.
 
 Ну и самое главное: огромная благодарность моему замечательному преподавателю [Nanouk Sabel](https://www.linkedin.com/in/nanouksabel/), продемонстрировавшей замечательные терпение и дотошность и не давшей мне потерять мотивацию и интерес к изучению голландского языка в течение всего этого времени!
-{{< imgfig "https://3.bp.blogspot.com/-UqmKfPfv9CA/WSFOZqZMYhI/AAAAAAAAp9I/2_ELofW8pEUQxHsVCj_2oBA-II71Jg1XwCKgB/s1600/nanouk-sabel.picasaweb.jpg" "Nanouk Sabel." >}}
+{{< imgfig "https://1.bp.blogspot.com/-le1SHjfFhEU/XYpZbhcP2oI/AAAAAAAAx-A/Cm58ezWX8WQA3IAdjzaVNILhWcdPj6d1gCKgBGAsYHg/s1600/nanouk-sabel.picasaweb.jpg" "Nanouk Sabel." >}}
 
 В данный момент она преподаёт нидерландский и шведский (она наполовину голландка, наполовину шведка) в [Elycio Talen](http://elyciotalen.nl/), и я смело рекомендую её всем нуждающимся. По её словам, в данный момент она загружена почти полностью, но вдруг вам повезёт.
