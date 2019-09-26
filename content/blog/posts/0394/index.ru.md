@@ -5,6 +5,7 @@ title: "Привет от Роршаха"
 tags:
     - забавное
     - Франция
+    - пустяки
 image: "https://1.bp.blogspot.com/-o5r2uFHywF0/XYsRogK24FI/AAAAAAAAx_I/zIIFk95PP38sHoWB1D6PEtrQn79OzKtZACKgBGAsYHg/s1600/dsc09618.w.jpg"
 ---
 
