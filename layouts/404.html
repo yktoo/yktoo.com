@@ -1,9 +1,10 @@
-{{ define "main"}}
-
-<article class="blog-post">
-    <header>
-        <h2 class="blog-post-title">Page Not Found</h2>
-    </header>
-    <p>Page not found. Go back <a href="{{ `/` | relURL }}">home</a>.</p>
-</article>
+{{ define "main" }}
+<section id="page-not-found" class="text-center">
+    <p><img src="/images/404.jpg" alt="404"></p>
+    <p class="lead">Page not found.</p>
+    <p>You can use the links above, or go to the home page.</p>
+    <p><a href="{{ `/` | relURL }}" class="btn btn-lg btn-primary">Go to the home page</a></p>
+</section>
 {{ end }}
+
+{{ define "bottom-navbar" }}&nbsp;{{ end }}
