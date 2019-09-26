@@ -3,26 +3,27 @@
 
 // Base colours
 $primary: #089664;
-$secondary: #fc0;
+$secondary: #72838a;
 
 // Our own vars
 $primary-fade: fade_out($primary, 0.7);
 $primary-light: adjust_color($primary, $saturation: -50%, $lightness: 40%);
 $primary-pale: adjust_color($primary, $saturation: -70%, $lightness: 20%);
-$secondary-fade: fade_out($secondary, 0.87);
+$primary-alt: #fc0; // Second primary brand colour
+$primary-alt-fade: fade_out($primary-alt, 0.87);
 
 // Secondary elements
 $body-color: #666;
 $body-bg: #333;
-$link-hover-color: $secondary;
+$link-hover-color: $primary-alt;
 $link-hover-bg: $body-bg; // Not a Bootstrap variable
 $link-hover-decoration: none;
 $list-group-border-color: $primary-fade;
 $list-group-hover-bg: $link-hover-bg;
-$list-group-action-hover-color: $secondary;
+$list-group-action-hover-color: $primary-alt;
 $navbar-dark-color: #fff;
 $navbar-dark-active-color: #000;
-$navbar-dark-hover-color: $secondary;
+$navbar-dark-hover-color: $primary-alt;
 $nav-tabs-link-active-color: #aaa;
 $nav-tabs-link-active-bg: #fff;
 $pagination-hover-bg: $link-hover-bg;
@@ -34,6 +35,7 @@ $enable-gradients: true;
 // Import Bootstrap
 @import "../bootstrap-4.3.1/scss/bootstrap";
 
+//noinspection ALL
 body {
     background-image: url(/images/page-bg.png);
     font-family: 'Arimo', sans-serif;
@@ -52,7 +54,7 @@ body {
     a {
         color: $primary-light;
         @include hover-focus {
-            color: $secondary;
+            color: $primary-alt;
             background-color: transparent;
         }
         &.active {
@@ -105,7 +107,7 @@ a {
 // Buttons
 .btn-outline-dark:not(.disabled) {
     &.active {
-        color: $secondary !important;
+        color: $primary-alt !important;
     }
     @include hover-focus {
         color: #fff;
@@ -146,8 +148,8 @@ td.date {
 
 // Blockquotes
 blockquote {
-    background-color: $secondary-fade;
-    border-left: 2px solid $secondary;
+    background-color: $primary-alt-fade;
+    border-left: 2px solid $primary-alt;
     border-bottom-right-radius: 18px;
     padding: 1rem;
 
@@ -305,7 +307,7 @@ pre {
         .active > .nav-link,
         .nav-link.active {
             //noinspection CssInvalidPropertyValue
-            background: $secondary;
+            background: $primary-alt;
             box-shadow: rgba(0, 0, 0, 0.25) 0 3px 9px 0 inset;
         }
     }
@@ -624,6 +626,29 @@ a {
     &:hover {
         .meta-hover {
             visibility: visible;
+        }
+    }
+}
+.spoiler {
+    border-top: 1px solid $primary-light;
+    border-bottom: 1px solid $primary-light;
+
+    .toggler {
+        margin: 1rem;
+
+        button {
+            .fas {
+                padding: 0 1rem;
+                opacity: 0.5;
+                &::before {
+                    content: "\f077";
+                }
+            }
+            &.collapsed {
+                .fas::before {
+                    content: "\f078";
+                }
+            }
         }
     }
 }

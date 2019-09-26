@@ -1,9 +1,12 @@
 <!-- Render the inner content with a button that toggles its visibility -->
-{{- $id := print "spoiler-" (md5 .Inner) -}}
-<p class="mt-4"><button class="btn btn-outline-primary" type="button" data-toggle="collapse" data-target="#{{ $id }}" aria-expanded="false" aria-controls="{{ $id }}">
-    <i class="fas fa-chevron-down bycon"></i>
-    {{- .Get 0 -}}
-</button></p>
-<div class="collapse my-3" id="{{ $id }}"><div class="card card-body">
-    {{- markdownify .Inner -}}
-</div></div>
+<section class="spoiler">
+    {{- $id := print "spoiler-" (md5 .Inner) }}
+    <p class="toggler">
+        <button class="btn btn-secondary btn-block collapsed" type="button" data-toggle="collapse" data-target="#{{ $id }}" aria-expanded="false" aria-controls="{{ $id }}">
+            <i class="fas"></i>
+            {{- .Get 0 -}}
+            <i class="fas"></i>
+        </button>
+    </p>
+    <div class="collapse my-3" id="{{ $id }}">{{ markdownify .Inner }}</div>
+</section>
