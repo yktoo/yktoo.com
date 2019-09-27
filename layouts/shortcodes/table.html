@@ -1,3 +1,3 @@
 <!-- Render a table of custom class(es), passed as the first argument. Also provides support for subheaders, which
  are denoted by a '#' immediately following the leftmost '|' -->
-{{ replace (markdownify .Inner) "<table>" (printf "<table class=%q>" (.Get 0)) | replaceRE "<tr>(\\s*<td>)#" `<tr class="subheading">$1` | safeHTML }}
+{{ replace (markdownify .Inner) "<table>" (printf "<table class=%q>" (.Get 0)) | replaceRE "<tr>(\\s*<td[^>]*>)#" `<tr class="subheading">$1` | safeHTML }}
