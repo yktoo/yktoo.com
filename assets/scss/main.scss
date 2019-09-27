@@ -145,6 +145,11 @@ td.number {
 td.date {
     white-space: nowrap;
 }
+.subheading {
+    font-size: $h6-font-size;
+    font-weight: $font-weight-bold;
+    background-color: rgba($black, .09);
+}
 
 // Blockquotes
 blockquote {
