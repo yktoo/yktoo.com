@@ -50,7 +50,7 @@ image: "https://1.bp.blogspot.com/-BZO5wbwHuD0/XZI9P-KzhLI/AAAAAAAAyQY/zvM9JO4YI
 * Мужчины в среднем работают **36 ч** в неделю,
 * Женщиины — и того меньше, **26 ч** в неделю.
 
-{{< imgfig "https://1.bp.blogspot.com/-YKwXwP0tjXY/XZJDcO64pII/AAAAAAAAyQ4/J6NVqN5zKT4T671PNIHJOdPqYKA6VKB0ACKgBGAsYHg/s1600/gemiddelde-arbeidsduur-in-uren-per-week-2017.png" "Среднее продолжительность рабочей недели для трудоустроенных от 15 до 75 лет (2017).<br>Голубым отмечены мужчины, сиреневым — женщины" >}}
+{{< imgfig "https://1.bp.blogspot.com/-YKwXwP0tjXY/XZJDcO64pII/AAAAAAAAyQ4/J6NVqN5zKT4T671PNIHJOdPqYKA6VKB0ACKgBGAsYHg/s1600/gemiddelde-arbeidsduur-in-uren-per-week-2017.png" "Средняя продолжительность рабочей недели для трудоустроенных от 15 до 75 лет (2017).<br>Голубым отмечены мужчины, сиреневым — женщины." >}}
 
 Эти цифры совпадают с моими наблюдениями. Работать по **36 часов** здесь фактически стандарт; кто-то при этом работает четыре раза по девять, кто-то 4×8 плюс в пятницу 4 часа, кто-то чередует неделю 4×8 и неделю 5×8. Женщины часто начинают работают меньше, когда появляются дети — как правило, 3-4 дня в неделю.
 
