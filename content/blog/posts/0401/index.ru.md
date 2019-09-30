@@ -13,7 +13,6 @@ tags:
     - Netgear
     - Netgear Orbi
 image: "https://1.bp.blogspot.com/-ukNcodfGncM/XZB87QxRB9I/AAAAAAAAyOI/pW_GFRXY7AAswCscTxYTgLH0YpNX9I4bgCKgBGAsYHg/s1600/2019-09-28.jpg"
-draft: true
 ---
 
 ## Предыстория
