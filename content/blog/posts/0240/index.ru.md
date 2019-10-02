@@ -2,7 +2,13 @@
 type: post
 date: "2015-02-18T00:00:00Z"
 title: "От ))) станет всем светлей"
-tags: ["иностранцы", "полезные советы", "различия", "размышления", "смайлик"]
+tags:
+    - иностранцы
+    - полезные советы
+    - различия
+    - размышления
+    - смайлик
+    - менталитет
 image: "https://1.bp.blogspot.com/-TQKMYRYU0CM/VOTv9KpNo3I/AAAAAAAAhJY/70GpXsaVD1Y/s1600/rusmiley.png"
 series: Разнимся
 aliases:

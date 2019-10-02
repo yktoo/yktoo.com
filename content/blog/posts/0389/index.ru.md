@@ -6,6 +6,7 @@ tags:
     - Нидерланды
     - различия
     - электроэнергия
+    - менталитет
 image: "https://1.bp.blogspot.com/-V8fZuU8ARGQ/XYYC_vPlCkI/AAAAAAAAx20/AWqUHl2_dCYVxX13MCKB9Jlh9iWgQvrVQCKgBGAsYHg/s1600/light-bulb-3104355_1280.jpg"
 series: Разнимся
 ---
