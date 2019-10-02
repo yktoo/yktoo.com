@@ -25,6 +25,9 @@
     <p class="lead">{{ T "blogSubtitle" }}</p>
     <hr class="my-4">
     <a class="btn btn-primary btn-lg" href="{{ relLangURL `/blog/subscribe` }}" role="button">{{ T "blogSubscribeTo" }}</a>
+    {{ range .Translations }}
+    <a class="btn btn-outline-dark btn-lg flag {{ .Language.Lang }}" href="{{ .Permalink }}" role="button" title="{{ .Language.LanguageName }}"><span>{{ .Language.Lang | upper }}</span></a>
+    {{ end }}
 </div>
 {{ end }}
 {{ end }}
