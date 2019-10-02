@@ -12,7 +12,7 @@
     <link rel="shortcut icon" type="image/x-icon" href="{{ `favicon.ico` | absURL }}"/>
 
     <!-- Page title -->
-    <title>{{ block "title" . }}{{ with .Title }}{{ . | markdownify | plainify | safeHTML }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
+    <title>{{ block "title" . }}{{ with .Title }}{{ . | markdownify | plainify | safeHTML }} | {{ else }}{{ if .IsHome }}{{ T "blogTitle" }} | {{ i18n "blog" }} | {{ end }}{{ end }}{{ .Site.Title }}{{ end }}</title>
 
     <!-- Stylesheets -->
     {{ partial "stylesheets.html" . }}
