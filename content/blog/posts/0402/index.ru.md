@@ -8,7 +8,7 @@ tags:
     - миф
     - новости
     - законодательство
-image: "https://1.bp.blogspot.com/-BZO5wbwHuD0/XZI9P-KzhLI/AAAAAAAAyQY/zvM9JO4YIsELj_ewcA8wUE_7-FjGwOf-gCKgBGAsYHg/s1600/meduza-werktijden.png"
+image: "https://1.bp.blogspot.com/-4UFvm3Fn2D0/XZRYY5bNvZI/AAAAAAAAyS8/eu4JB3rskUEZhXoFrWrRPCmUp4LHn2yDACKgBGAsYHg/s1600/meduza-original.png"
 ---
 
 > В действительности всё совсем не так, как на самом деле.
@@ -20,7 +20,7 @@ image: "https://1.bp.blogspot.com/-BZO5wbwHuD0/XZI9P-KzhLI/AAAAAAAAyQY/zvM9JO4YI
 <!--more-->
 
 Если же картинку открыть, то там написано нечто слегка иное: «Указаны максимально допустимые значения, разрешённые законом».
-{{< imgfig "https://1.bp.blogspot.com/-BZO5wbwHuD0/XZI9P-KzhLI/AAAAAAAAyQY/zvM9JO4YIsELj_ewcA8wUE_7-FjGwOf-gCKgBGAsYHg/s1600/meduza-werktijden.png" "Максимальное рабочее время в неделю по версии «Медузы»." >}}
+{{< imgfig "https://1.bp.blogspot.com/-4UFvm3Fn2D0/XZRYY5bNvZI/AAAAAAAAyS8/eu4JB3rskUEZhXoFrWrRPCmUp4LHn2yDACKgBGAsYHg/s1600/meduza-original.png" "Максимальное рабочее время в неделю по версии «Медузы»." >}}
 
 На ладно, оставим на совести редакторов то, что заголовок и содержимое *слегка* отличаются по смыслу.
 
