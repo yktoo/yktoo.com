@@ -37,11 +37,11 @@ items:
                   ru: 'Инструмент для экспорта и импорта профилей Терминала GNOME.'
               url: 'https://github.com/yktoo/yktools/wiki/gnome%E2%80%90terminal%E2%80%90profile'
               icon: shell-script-32.png
-            - title: picasa-upload
+            - title: automark
               description:
                   en: 'Prepare images for publishing on the web (or anywhere else) by scaling and/or watermarking them.'
                   ru: 'Позволяет массово масштабировать и подписывать изображения, например, для веб-сайта.'
-              url: 'https://github.com/yktoo/yktools/wiki/picasa%E2%80%90upload'
+              url: 'https://github.com/yktoo/yktools/wiki/automark'
               icon: shell-script-32.png
             - title: rewrite-inplace.c
               description:
