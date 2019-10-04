@@ -116,19 +116,19 @@ aliases:
 
 ### Плюсы
 
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png) Отличное качество исполнения и сборки
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png) Надёжные и долговечные материалы
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png) Превосходная детализация, особенно в области ВЧ
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png) Встроенный пульт позволяет менять громкость и переключать треки
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png) Встроенный микрофон
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png) Четыре типоразмера сменных насадок
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png) Низкая цена (около **€21**)
+* Отличное качество исполнения и сборки
+* Надёжные и долговечные материалы
+* Превосходная детализация, особенно в области ВЧ
+* Встроенный пульт позволяет менять громкость и переключать треки
+* Встроенный микрофон
+* Четыре типоразмера сменных насадок
+* Низкая цена (около **€ 21**)
 
 ### Минусы
 
-* ![-](http://3.bp.blogspot.com/-Ve0HjsK5vVg/UbCZUZKATYI/AAAAAAAAZKw/LLk4Y6atW4c/s1600/minus.png) Бас слабоват для такого количества высоких частот
-* ![-](http://3.bp.blogspot.com/-Ve0HjsK5vVg/UbCZUZKATYI/AAAAAAAAZKw/LLk4Y6atW4c/s1600/minus.png) Инструкция только на китайском
-* ![-](http://3.bp.blogspot.com/-Ve0HjsK5vVg/UbCZUZKATYI/AAAAAAAAZKw/LLk4Y6atW4c/s1600/minus.png) Комплектные бокс и чехол бесполезны, если вы не буддийский монах
-* ![-](http://3.bp.blogspot.com/-Ve0HjsK5vVg/UbCZUZKATYI/AAAAAAAAZKw/LLk4Y6atW4c/s1600/minus.png) Довольно низкая чувствительность
+* Бас слабоват для такого количества высоких частот
+* Инструкция только на китайском
+* Комплектные бокс и чехол бесполезны, если вы не буддийский монах
+* Довольно низкая чувствительность
 
 Моё заключение таково: за эту цену я точно ничего лучше не видел и не слышал. {{< fl "Xiaomi" >}} молодцы, продукт получился замечательный, и наушники эти я теперь использую постоянно.

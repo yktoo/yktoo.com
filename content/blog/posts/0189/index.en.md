@@ -88,18 +88,23 @@ Nonetheless, I'm pretty satisfied with the result. They sound great on any kind 
 | Weight              | 14 lbs. / 6.34 kg                                                                            |
 {{< /table >}}
 
-## Recap
+## Conclusions
 
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png)  Very clean, unsaturated, natural sound.
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png)  Great frequency response (85 Hz — 20 kHz) without a subwoofer.
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png)  Compact and powerful at the same time (15 watts continuous is more than you'll need on your desktop).
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png)  Built-in power supply.
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png)  Auxiliary input and headphone output on the front side.
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png)  Balanced input to hook up with a mixing console.
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png)  A famous make and, consequently, high quality assembly.
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png)  Good price for the above.
-* ![-](http://3.bp.blogspot.com/-Ve0HjsK5vVg/UbCZUZKATYI/AAAAAAAAZKw/LLk4Y6atW4c/s1600/minus.png) Somewhat plain look.
-* ![-](http://3.bp.blogspot.com/-Ve0HjsK5vVg/UbCZUZKATYI/AAAAAAAAZKw/LLk4Y6atW4c/s1600/minus.png) Power switch is at the rear side which may not seem handy.
-* ![-](http://3.bp.blogspot.com/-Ve0HjsK5vVg/UbCZUZKATYI/AAAAAAAAZKw/LLk4Y6atW4c/s1600/minus.png) No sound equalisation available (which is not an issue for studio monitors, but some people may need it).
+### Pros
+
+* Very clean, unsaturated, natural sound.
+* Great frequency response (85 Hz — 20 kHz) without a subwoofer.
+* Compact and powerful at the same time (15 watts continuous is more than you'll need on your desktop).
+* Built-in power supply.
+* Auxiliary input and headphone output on the front side.
+* Balanced input to hook up with a mixing console.
+* A famous make and, consequently, high quality assembly.
+* Good price for the above.
+
+### Cons
+
+* A somewhat plain look.
+* Power switch is at the rear side which may not seem handy.
+* No sound equalisation available (which is not an issue for studio monitors, but some people may need it).
 
 **See also**: {{< a "0198" "Tackling M-Audio Studiophile speaker power-off popping sound" >}}

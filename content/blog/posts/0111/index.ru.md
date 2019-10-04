@@ -21,7 +21,7 @@ aliases:
 
 ## Аудиоверсия {#audio}
 
-<iframe src="http://www.archive.org/embed/InterviewwithDanieldeJong_Desperados_" width="800" height="120" frameborder="0" ></iframe>
+<iframe src="https://www.archive.org/embed/InterviewwithDanieldeJong_Desperados_" width="800" height="120" frameborder="0" ></iframe>
 
 ## Текстовая версия {#transcript}
 

@@ -116,19 +116,19 @@ I also use my *Mi In-Ear Headphones Pro HD* as a hands-free, and the mike is rep
 
 ### Pros
 
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png) Nice design and high quality assembly
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png) Robust and durable materials used
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png) High tones are clear and well detailed
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png) The remote control's functions are useful
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png) Built-in microphone
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png) Shipped with four earbud sizes
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png) Very affordable (ca. **€21**)
+* Nice design and high quality assembly
+* Robust and durable materials used
+* High tones are clear and well detailed
+* The remote control's functions are useful
+* Built-in microphone
+* Shipped with four earbud sizes
+* Very affordable (ca. **€ 21**)
 
 ### Cons
 
-* ![-](http://3.bp.blogspot.com/-Ve0HjsK5vVg/UbCZUZKATYI/AAAAAAAAZKw/LLk4Y6atW4c/s1600/minus.png) The bass is a bit weak for this amount of treble
-* ![-](http://3.bp.blogspot.com/-Ve0HjsK5vVg/UbCZUZKATYI/AAAAAAAAZKw/LLk4Y6atW4c/s1600/minus.png) The user's manual is in Chinese only
-* ![-](http://3.bp.blogspot.com/-Ve0HjsK5vVg/UbCZUZKATYI/AAAAAAAAZKw/LLk4Y6atW4c/s1600/minus.png) The carrying bag and the box are useless unless you're a Buddhist monk
-* ![-](http://3.bp.blogspot.com/-Ve0HjsK5vVg/UbCZUZKATYI/AAAAAAAAZKw/LLk4Y6atW4c/s1600/minus.png) Somewhat low sensitivity
+* The bass is a bit weak for this amount of treble
+* The user's manual is in Chinese only
+* The carrying bag and the box are useless unless you're a Buddhist monk
+* Somewhat low sensitivity
 
 The bottom line is: I'm sure I haven't seen anything matching this model's characteristics at this price. Well done {{< fl "Xiaomi" >}}! I'm now using the headphones on a daily basis.

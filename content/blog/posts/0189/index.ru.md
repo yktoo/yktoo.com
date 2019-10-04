@@ -90,16 +90,21 @@ aliases:
 
 ## Резюме
 
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png)  Очень чистый, естественный, натуральный звук.
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png)  Отличный частотный диапазон (85 Гц — 20 кГц) без сабвуфера.
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png)  Компактные и при этом с хорошим запасом мощности (15 ватт долговременная — более чем достаточно для рабочего стола).
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png)  Встроенный блок питания.
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png)  Дополнительный вход и выход на наушники на передней панели.
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png)  Балансный вход для подключения к микшерной консоли.
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png)  Именитый производитель и (как следствие) отличное качество сборки.
-* ![+](http://1.bp.blogspot.com/-f0b9672pQQI/UbCZUcYdL6I/AAAAAAAAZKs/TxsyRb4nvPY/s1600/plus.png)  Отличная цена для всего вышеперечисленного.
-* ![-](http://3.bp.blogspot.com/-Ve0HjsK5vVg/UbCZUZKATYI/AAAAAAAAZKw/LLk4Y6atW4c/s1600/minus.png) Незамысловатый дизайн.
-* ![-](http://3.bp.blogspot.com/-Ve0HjsK5vVg/UbCZUZKATYI/AAAAAAAAZKw/LLk4Y6atW4c/s1600/minus.png) Выключатель питания на задней стенке может оказаться неудобным.
-* ![-](http://3.bp.blogspot.com/-Ve0HjsK5vVg/UbCZUZKATYI/AAAAAAAAZKw/LLk4Y6atW4c/s1600/minus.png) Отсутствуют средства эквализации звука (для студийных мониторов их и не требуется, но кому-то, возможно, они нужны).
+### Плюсы
+
+* Очень чистый, естественный, натуральный звук.
+* Отличный частотный диапазон (85 Гц — 20 кГц) без сабвуфера.
+* Компактные и при этом с хорошим запасом мощности (15 ватт долговременная — более чем достаточно для рабочего стола).
+* Встроенный блок питания.
+* Дополнительный вход и выход на наушники на передней панели.
+* Балансный вход для подключения к микшерной консоли.
+* Именитый производитель и (как следствие) отличное качество сборки.
+* Отличная цена для всего вышеперечисленного.
+
+### Минусы
+
+* Незамысловатый дизайн.
+* Выключатель питания на задней стенке может оказаться неудобным.
+* Отсутствуют средства эквализации звука (для студийных мониторов их и не требуется, но кому-то, возможно, они нужны).
 
 **См. также**: {{< a "0198" "Устранение щелчка при выключении колонок M-Audio Studiophile" >}}
