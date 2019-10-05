@@ -23,3 +23,5 @@ image: "https://1.bp.blogspot.com/-eUIUzWPGf9w/XYKFJWmlTmI/AAAAAAAAxms/A1PgFeXLJ
 {{< imgfig "https://1.bp.blogspot.com/-ri38OczOifg/XYKFJQMF_WI/AAAAAAAAxms/2O9O6Z2zRNgXGPBR0ceoA59jnSsTMQ_PwCKgBGAsYHg/s1600/20190918_181044.w.jpg" "Компрессор Xiaomi Mijia Electric Pump." >}}
 
 Очень классно, *не по-компрессорному*, выглядит. Попользуюсь и напишу обзор.
+
+> *Продолжение:* {{< a "0411" "Обзор электрического мини-компрессора Xiaomi" >}}

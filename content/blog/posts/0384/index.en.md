@@ -23,3 +23,5 @@ The right answer: it's a battery-powered {{< a "http://ali.pub/3unhyy" "Xiaomi (
 {{< imgfig "https://1.bp.blogspot.com/-ri38OczOifg/XYKFJQMF_WI/AAAAAAAAxms/2O9O6Z2zRNgXGPBR0ceoA59jnSsTMQ_PwCKgBGAsYHg/s1600/20190918_181044.w.jpg" "Xiaomi Mijia Electric Pump." >}}
 
 I have to admit, it's a very good looking one. One might confuse it for a music player. I'm going to write a review after having used it for a while.
+
+> *Follow-up:* {{< a "0411" "Xiaomi Mijia electric portable pump review" >}}
