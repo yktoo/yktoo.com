@@ -12,8 +12,10 @@ tags:
     - Wet DBA
     - VAR
     - законодательство
+    - глоссарий
 image: "https://1.bp.blogspot.com/-J3CwZV1yufM/XXvV9XOpn5I/AAAAAAAAxcI/21z2aiHwE1AuU6AI2Bo3QO1JiTTlZaU_wCKgBGAsYHg/s1600/wet-dba.jpg"
 series: Доля предпринимательская
+glossary: wet-dba
 ---
 
 Уже несколько лет над каждым {{< fl "zzp'er" >}}-ом (индивидуальным предпринимателем) в Нидерландах витает в воздухе зловещий призрак с невнятным именем {{< a "https://www.rijksoverheid.nl/onderwerpen/zelfstandigen-zonder-personeel-zzp/wet-deregulering-beoordeling-arbeidsrelaties-dba" "Wet DBA" >}} («Закон {{< fl "DBA" >}}»).

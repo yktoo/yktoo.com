@@ -80,6 +80,7 @@ permalinks:
 taxonomies:
     tag: tags
     series: series
+    glossary: glossary
     place: places
     musicalbum: musicalbums
     videoartist: videoartists
@@ -204,12 +205,18 @@ menu:
           pre: '<span class="dot-sep"></span>'
           parent: about
           weight: 23
+        - identifier: glossary
+          url: '/glossary/'
+          pre: '<b>'
+          post: '</b>'
+          parent: about
+          weight: 24
         - identifier: afkBest
           url: 'https://afk.best/'
           pre: '<b>'
           post: '</b>'
           parent: about
-          weight: 24
+          weight: 25
 
         # Software
         - identifier: software

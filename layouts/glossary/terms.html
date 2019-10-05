@@ -1,0 +1,22 @@
+{{ define "heading" }}
+<div class="jumbotron">
+    <h1 class="display-4">{{ T "glossary" }}</h1>
+    <p class="lead">{{ T "glossaryDesc" }}</p>
+    <p class="text-muted"><i class="fas fa-exclamation-triangle bycon"></i>{{ T "underConstruction" }}</p>
+</div>
+{{ end }}
+
+{{ define "main" }}
+<section id="glossary">
+    <!-- Iterate all glossary terms -->
+    {{ range sort .Pages "Title" }}
+        <h4>{{ .Title | markdownify }}</h4>
+        <article class="ml-5">
+            <p class="font-weight-bold">{{ with .Params.altTitles }}{{ delimit . ", "}}{{ end }}</p>
+            {{- with .Params.description }}<p>{{ . | markdownify }}</p>{{ end }}
+            <!-- Grab only the first page corresponding to the glossary term   -->
+            {{- range first 1 .Pages }}<p><a href="{{ .Permalink }}" class="btn btn-outline-primary">{{ T "details" }}: {{ .Title | markdownify }}</a></p>{{ end }}
+        </article>
+    {{ end }}
+</section>
+{{ end }}

@@ -18,6 +18,7 @@
 - {id: cookieLink,        translation: Подробнее »}
 - {id: cookieMessage,     translation: Этот веб-сайт использует куки.}
 - {id: copyright,         translation: 'Авторское право ©2000—{{ .year }} [Дмитрий Канн]({{ .url }}).'}
+- {id: details,           translation: Подробнее}
 - {id: docs,              translation: Документация}
 - {id: download,          translation: Скачать}
 - {id: downloads,         translation: Скачать}
@@ -30,6 +31,8 @@
 - {id: githubIssueTrk,    translation: GitHub Issue Tracker}
 - {id: githubIssueTrkDet, translation: Книга жалоб и предложений}
 - {id: githubRepo,        translation: репозиторий GitHub}
+- {id: glossary,          translation: Глоссарий}
+- {id: glossaryDesc,      translation: Словарь наиболее часто употребляемых нидерландских понятий.}
 - {id: home,              translation: Главная}
 - {id: iAmLegend,         translation: Я легенда}
 - {id: inThisVideo,       translation: В этом видео}
@@ -97,6 +100,7 @@
 - {id: termsOfService,    translation: Условия предоставления услуг}
 - {id: timeline,          translation: Хронология}
 - {id: tracklist,         translation: Композиции альбома}
+- {id: underConstruction, translation: Этот раздел сайта находится в разработке.}
 - {id: viaThisLink,       translation: по этой ссылке}
 - {id: videoEvInCategory, translation: В}
 - {id: videoFromEvent,    translation: Из}
