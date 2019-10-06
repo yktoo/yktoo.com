@@ -21,12 +21,14 @@
         </div>
 
         <div class="col-xs-10 col-md-6">
-            <!-- Post summary. Use the explicit description, if any. Otherwise the summary, with figures (images) and divs (videos etc) removed -->
-            {{- with .Params.description }}
-            {{- . | markdownify }}
-            {{- else }}
-            {{- .Summary | replaceRE "(?s)<figure\\b.*?/figure>" "" | replaceRE "(?s)<div\\b.*/div>" "" | safeHTML }}
-            {{- end -}}
+            <!-- Post summary. Use the explicit description, if any, otherwise the summary -->
+            {{- $summary := default (markdownify .Params.description) .Summary }}
+
+            <!-- Remove any figures (images) and divs (videos etc) -->
+            {{- $summary = $summary | replaceRE "(?s)<figure\\b.*?/figure>" "" | replaceRE "(?s)<div\\b.*/div>" "" | safeHTML }}
+
+            <!-- If there's at least one paragraph in the summary, render as is; otherwise wrap it in one -->
+            {{- if in ($summary | string) "<p>" }}{{ $summary }}{{ else }}<p>{{ $summary }}</p>{{ end }}
 
             <!-- Read On link -->
             <p><a href="{{ .Permalink }}" class="btn btn-outline-primary">{{ T "readOn" }}</a></p>
