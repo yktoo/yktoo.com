@@ -104,11 +104,11 @@ menu:
         - identifier: faq
           url: '/blog/faq/'
           weight: 2
+        - identifier: glossary
+          url: '/glossary/'
+          weight: 3
         - identifier: software
           url: '/software/'
-          weight: 3
-        - identifier: radiolaria
-          url: '/radiolaria/'
           weight: 4
         - identifier: videos
           url: '/video/'
