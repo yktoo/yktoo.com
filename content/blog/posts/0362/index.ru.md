@@ -11,6 +11,7 @@ tags:
     - gedogen
     - кофешопы
 image: "https://1.bp.blogspot.com/-Fwpaub1MHAA/XWZqbrH2IrI/AAAAAAAAwkw/HutxLY1YB10wqHn4ThJgo4b7rYD4cJQQACKgBGAs/s1600/weed.jpg"
+glossary: gedogen
 ---
 
 Настало время сорвать очередные покровы!
