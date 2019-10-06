@@ -2,7 +2,13 @@
 type: post
 date: "2016-05-01T00:00:00Z"
 title: "День Короля — 2016"
-tags: ["Амстердам", "День Короля", "Нидерланды", "оранжевая лихорадка", "праздники"]
+tags:
+    - Амстердам
+    - День Короля
+    - Нидерланды
+    - оранжевая лихорадка
+    - праздники
+    - Koningsdag
 image: "https://2.bp.blogspot.com/-1B4HHpR6VXY/VyTmazdfvJI/AAAAAAAAl5I/QvwQnZYkf0YCjqY7d3CFCQ08tb2Z3SRLACKgB/s1600/20160427_141504.picasaweb.jpg"
 places:
     - place0013

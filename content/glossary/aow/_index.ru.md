@@ -1,5 +1,9 @@
 ---
 title: AOW
-description: |-
-    <i class="flang">Algemene Ouderdomswet</i>, «Общий закон о пенсиях по старости».
+seeAlso:
+    - aow-leeftijd
 ---
+
+{{< fl "Algemene Ouderdomswet" >}}, «Общий закон о пенсиях по старости». Также этим термином называют саму пенсию по старости.
+
+<!--more-->

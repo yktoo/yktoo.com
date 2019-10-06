@@ -2,7 +2,15 @@
 type: post
 date: "2013-01-28T00:00:00Z"
 title: "Прощай, Беатрикс!"
-tags: ["Беатрикс", "Виллем-Александр", "Дракенстайн", "королева", "Нидерланды", "СМИ", "трон"]
+tags:
+    - Беатрикс
+    - Виллем-Александр
+    - Дракенстайн
+    - королева
+    - Нидерланды
+    - СМИ
+    - трон
+    - Koninginnedag
 image: "https://3.bp.blogspot.com/-IT4UO1OgN_s/UQmTyqo5E7I/AAAAAAAAWmY/EaFuypwmxEs/s1600/Beatrix_der_Nederlanden.picasaweb.jpg"
 aliases:
     - /ru/blog/post/176

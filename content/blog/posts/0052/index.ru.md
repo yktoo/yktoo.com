@@ -2,7 +2,12 @@
 type: post
 date: "2010-05-06T00:00:00Z"
 title: "Майские праздники"
-tags: ["День Королевы", "Нидерланды", "оранжевая лихорадка", "праздники"]
+tags:
+    - День Королевы
+    - Нидерланды
+    - оранжевая лихорадка
+    - праздники
+    - Koninginnedag
 image: "https://upload.wikimedia.org/wikipedia/commons/3/34/Wilhelmina1898.jpg"
 places:
     - place0013

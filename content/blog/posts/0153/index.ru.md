@@ -2,7 +2,13 @@
 type: post
 date: "2012-05-03T00:00:00Z"
 title: "День Королевы — 2012"
-tags: ["День Королевы", "Нидерланды", "оранжевая лихорадка", "праздники", "Утрехт"]
+tags:
+    - День Королевы
+    - Нидерланды
+    - оранжевая лихорадка
+    - праздники
+    - Утрехт
+    - Koninginnedag
 image: "https://2.bp.blogspot.com/-rZTRaJPFQ3s/T6GC3gL07OI/AAAAAAAAQvs/Y-hWkVTbBE0/s1600/dsc02409.picasaweb.jpg"
 places:
     - place0042

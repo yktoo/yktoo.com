@@ -2,7 +2,13 @@
 type: post
 date: "2013-05-17T00:00:00Z"
 title: "Последний День Королевы"
-tags: ["Амстердам", "День Королевы", "Нидерланды", "оранжевая лихорадка", "праздники"]
+tags:
+    - Амстердам
+    - День Королевы
+    - Нидерланды
+    - оранжевая лихорадка
+    - праздники
+    - Koninginnedag
 image: "https://1.bp.blogspot.com/-9iGdLHzZkTc/UZVDNXWR8VI/AAAAAAAAX84/InSw7POOSBE/s1600/dsc08349.picasaweb.jpg"
 places:
     - place0012

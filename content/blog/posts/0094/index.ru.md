@@ -2,7 +2,11 @@
 type: post
 date: "2011-04-30T00:00:00Z"
 title: "День Королевы — 2011"
-tags: ["День Королевы", "Нидерланды", "праздники"]
+tags:
+    - День Королевы
+    - Нидерланды
+    - праздники
+    - Koninginnedag
 image: "https://3.bp.blogspot.com/-PhlZnQq-VwA/Tbs8QyR4TgI/AAAAAAAAIgw/qEis4bQu7eM/s1600/Koninginnedag.png"
 aliases:
     - /ru/blog/post/94
