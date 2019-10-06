@@ -2,7 +2,9 @@
 <h1>{{ .Title }}</h1>
 <div class="page-heading-meta">
     {{- T "videoEvInCategory" }}&nbsp;{{ .Params.videocategories | title }}
-    <span class="dot-sep"></span>{{ partial "date-range" (dict "dateFrom" (time .Params.dateFrom) "dateTo" (time .Params.dateTo) "long" false) }}
+    {{- if .Params.dateFrom }}
+        <span class="dot-sep"></span>{{ partial "date-range" (dict "dateFrom" (time .Params.dateFrom) "dateTo" (time .Params.dateTo) "long" false) }}
+    {{- end }}
     {{- with .Params.location }}<span class="dot-sep"></span>{{ . }}{{ end }}
 </div>
 {{ end }}

@@ -17,7 +17,9 @@
                 <h5 class="card-title">{{ .Title }}</h5>
                 <!-- Dates and location -->
                 <p class="card-subtitle text-muted">
-                    {{- partial "date-range" (dict "dateFrom" (time .Params.dateFrom) "dateTo" (time .Params.dateTo) "long" false) -}}
+                    {{- if .Params.dateFrom }}
+                        {{- partial "date-range" (dict "dateFrom" (time .Params.dateFrom) "dateTo" (time .Params.dateTo) "long" false) -}}
+                    {{- end }}
                     {{- with .Params.location }}<br>{{ . }}{{ end -}}
                 </p>
             </div>
