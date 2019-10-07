@@ -1,4 +1,4 @@
-{{ define "heading" }}<h1>{{ T "glossary" }}: {{ .Title | markdownify }}</h1>{{ end }}
+{{ define "heading" }}<h1>{{ T "glossary" }}: {{ .Title | markdownify }}{{- with .Params.altTitles }}, {{ delimit . ", "}}{{ end }}</h1>{{ end }}
 
 {{ define "main" }}
 <section id="glossary-term">
