@@ -32,7 +32,6 @@
 - {id: githubIssueTrkDet, translation: Книга жалоб и предложений}
 - {id: githubRepo,        translation: репозиторий GitHub}
 - {id: glossary,          translation: Глоссарий}
-- {id: glossaryDesc,      translation: Словарь наиболее часто употребляемых нидерландских понятий.}
 - {id: home,              translation: Главная}
 - {id: iAmLegend,         translation: Я легенда}
 - {id: inThisVideo,       translation: В этом видео}

@@ -32,7 +32,6 @@
 - {id: githubIssueTrkDet, translation: Bug reports and feature requests go here!}
 - {id: githubRepo,        translation: GitHub repository}
 - {id: glossary,          translation: Glossary}
-- {id: glossarydesc,      translation: Dictionary of terms widely used by the Dutch.}
 - {id: home,              translation: Home}
 - {id: iAmLegend,         translation: I Am Legend}
 - {id: inThisVideo,       translation: In this video}

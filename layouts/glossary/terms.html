@@ -1,7 +1,7 @@
 {{ define "heading" }}
 <div class="jumbotron">
-    <h1 class="display-4">{{ T "glossary" }}</h1>
-    <p class="lead">{{ T "glossaryDesc" }}</p>
+    <h1 class="display-4">{{ .Title }}</h1>
+    <p class="lead">{{ .Params.subtitle }}</p>
     <p class="text-muted"><i class="fas fa-exclamation-triangle bycon"></i>{{ T "underConstruction" }}</p>
 </div>
 {{ end }}
