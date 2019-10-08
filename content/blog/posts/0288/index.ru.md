@@ -2,7 +2,15 @@
 type: post
 date: "2016-09-08T00:00:00Z"
 title: "Авария Теслы в Баарне"
-tags: ["Tesla", "авто", "Баарн", "Нидерланды", "новости", "происшествия", "СМИ"]
+tags:
+    - Tesla
+    - авто
+    - Баарн
+    - Нидерланды
+    - новости
+    - происшествия
+    - СМИ
+    - электромобили
 image: "https://1.bp.blogspot.com/-OxfxW30uIGs/V9HOPIchCUI/AAAAAAAAnYk/tFYxDxq2kREXZxiJsPnf0gjps48BY0xlgCPcB/s1600/tesla-baarn.jpg"
 aliases:
     - /ru/blog/post/288

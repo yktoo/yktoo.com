@@ -2,7 +2,15 @@
 type: post
 date: "2011-09-21T00:00:00Z"
 title: "AutoRAI 2011"
-tags: ["Amsterdam", "AutoRAI", "cars", "girls", "Netherlands", "RAI"]
+tags:
+    - Amsterdam
+    - AutoRAI
+    - cars
+    - girls
+    - Netherlands
+    - RAI
+    - electric cars
+    - Tesla
 image: "https://1.bp.blogspot.com/-lVACOZil50c/Tnj46jSgeOI/AAAAAAAAJwA/ltVOapTmf9U/s1600/dsc02137.picasaweb.jpg"
 places:
     - place0082

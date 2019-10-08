@@ -2,7 +2,16 @@
 type: post
 date: "2017-02-23T00:00:00Z"
 title: "Приманка для Tesla"
-tags: ["Tesla", "авто", "Гронинген", "Дренте", "Илон Маск", "Нидерланды", "новости", "Фрисландия"]
+tags:
+    - Tesla
+    - авто
+    - Гронинген
+    - Дренте
+    - Илон Маск
+    - Нидерланды
+    - новости
+    - Фрисландия
+    - электромобили
 image: "https://4.bp.blogspot.com/-YhfFGRapYn8/WK9FuDfe67I/AAAAAAAApV8/67RTz6mZQ_Yd51Ev-abkSYVbBjqlDScJQCPcB/s1600/top-dutch-tesla.picasaweb.jpg"
 aliases:
     - /ru/blog/post/312
