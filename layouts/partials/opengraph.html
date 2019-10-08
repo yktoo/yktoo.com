@@ -8,7 +8,7 @@
     {{- if not (findRE "^(/|http(s?)://)" $url) }}
         {{- $url = ($.Page.Resources.GetMatch $url).Permalink }}
     {{- end -}}
-    <meta property="og:image" content="{{ $url }}" />
+    <meta property="og:image" content="{{ $url | absURL }}" />
 {{- end -}}
 
 <!-- Dates -->

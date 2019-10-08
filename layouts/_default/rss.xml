@@ -26,7 +26,9 @@
                 {{- with .Params.image -}}
                     {{- $url := . -}}
                     <!-- If it isn't a URL starting with "http(s)://" or an absolute path, consider it a page resource -->
-                    {{- if not (findRE "^(/|http(s?)://)" $url) -}}
+                    {{- if findRE "^(/|http(s?)://)" $url -}}
+                        {{- $url = absURL $url -}}
+                    {{- else -}}
                         {{- $url = ($page.Resources.GetMatch $url).Permalink -}}
                     {{- end -}}
                     <!-- Insert image tag -->

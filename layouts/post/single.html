@@ -6,7 +6,7 @@
 {{- with .Params.image }}
     {{- $ld_img := dict "@type" "ImageObject" }}
     {{- if findRE "^(/|http(s?)://)" . }}
-        {{- $ld_img = merge $ld_img (dict "url" .) }}
+        {{- $ld_img = merge $ld_img (dict "url" (. | absURL)) }}
     {{- else }}{{ with $.Page.Resources.GetMatch . }}
         {{- $ld_img = merge $ld_img (dict "url" .Permalink "height" .Height "width" .Width) }}
     {{- end }}{{ end }}
