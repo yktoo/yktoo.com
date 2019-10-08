@@ -5,11 +5,11 @@
 
     <!-- Post image -->
     <div class="top-image">
-        {{- $url := .Params.image -}}
-        {{- with $url -}}
-            {{- if not (or (hasPrefix $url "http://") (hasPrefix $url "https://")) -}}
-                {{- $url = ($.Page.Resources.GetMatch $url).RelPermalink -}}
-            {{- end -}}
+        {{- $url := .Params.image }}
+        {{- with $url }}
+            {{- if not (findRE "^(/|http(s?)://)" $url) }}
+                {{- $url = ($.Page.Resources.GetMatch $url).RelPermalink }}
+            {{- end }}
         {{- else -}}
             {{- $url = "/images/image-placeholder.png" -}}
         {{- end -}}

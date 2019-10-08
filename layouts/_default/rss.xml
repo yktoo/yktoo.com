@@ -25,14 +25,12 @@
                 {{- $page := . -}}
                 {{- with .Params.image -}}
                     {{- $url := . -}}
-                    <!-- If it isn't a URL starting with "http(s)://", consider it a page resource -->
-                    {{- if not (or (hasPrefix $url "http://") (hasPrefix $url "https://")) -}}
+                    <!-- If it isn't a URL starting with "http(s)://" or an absolute path, consider it a page resource -->
+                    {{- if not (findRE "^(/|http(s?)://)" $url) -}}
                         {{- $url = ($page.Resources.GetMatch $url).Permalink -}}
                     {{- end -}}
                     <!-- Insert image tag -->
-                    {{- with $url -}}
-                        {{- printf `<img style="width: 500px; height: auto;" src=%q alt="Post image"><br><br>` . -}}
-                    {{- end -}}
+                    {{- printf `<img style="width: 500px; height: auto;" src=%q alt="Post image"><br><br>` $url -}}
                 {{- end -}}
                 <!-- Put post summary or description -->
                 {{- with .Params.description }}

@@ -5,7 +5,7 @@
 {{- $ld := dict "@context" "http://schema.org" "@type" "BlogPosting" "headline" (substr (.Title | markdownify | plainify) 0 110) "url" .Permalink "wordCount" .WordCount "mainEntityOfPage" true}}
 {{- with .Params.image }}
     {{- $ld_img := dict "@type" "ImageObject" }}
-    {{- if or (hasPrefix . "http://") (hasPrefix . "https://") }}
+    {{- if findRE "^(/|http(s?)://)" . }}
         {{- $ld_img = merge $ld_img (dict "url" .) }}
     {{- else }}{{ with $.Page.Resources.GetMatch . }}
         {{- $ld_img = merge $ld_img (dict "url" .Permalink "height" .Height "width" .Width) }}

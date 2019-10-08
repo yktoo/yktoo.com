@@ -10,13 +10,12 @@
     <div class="row blog-post-content">
         <!-- Post image -->
         <div class="col-xs-2 col-md-6 text-center mb-3 mb-md-0">
-            {{- with .Params.image -}}
-                {{- $url := . -}}
-                <!-- Same logic as in the 'imgfig' shortcode: if it isn't a URL starting with "http(s)://", consider it a page resource -->
-                {{- if not (or (hasPrefix $url "http://") (hasPrefix $url "https://")) -}}
-                    {{- $url = ($.Page.Resources.GetMatch $url).RelPermalink -}}
+            {{- with .Params.image }}
+                {{- $url := . }}
+                {{- if not (findRE "^(/|http(s?)://)" $url) }}
+                    {{- $url = ($.Page.Resources.GetMatch $url).RelPermalink }}
                 {{- end -}}
-                {{- with $url }}<img class="img-fluid blog-post-image" src="{{ . }}" alt="Post image">{{ end -}}
+                <img class="img-fluid blog-post-image" src="{{ $url }}" alt="Post image">
             {{- end -}}
         </div>
 

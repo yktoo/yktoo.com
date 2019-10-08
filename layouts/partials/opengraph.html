@@ -4,13 +4,12 @@
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
 {{- with $.Param "image" }}
-{{- $url := . }}
-<!-- If it isn't a URL starting with "http(s)://", consider it a page resource -->
-{{- if not (or (hasPrefix $url "http://") (hasPrefix $url "https://")) }}
-    {{- $url = ($.Page.Resources.GetMatch $url).Permalink }}
+    {{- $url := . }}
+    {{- if not (findRE "^(/|http(s?)://)" $url) }}
+        {{- $url = ($.Page.Resources.GetMatch $url).Permalink }}
+    {{- end -}}
+    <meta property="og:image" content="{{ $url }}" />
 {{- end -}}
-<meta property="og:image" content="{{ $url }}" />
-{{- end }}
 
 <!-- Dates -->
 {{- $iso8601 := "2006-01-02T15:04:05-07:00" }}

@@ -12,11 +12,10 @@
 
 <!-- Image, if any -->
 {{- with $.Param "image" }}
-{{- $url := . }}
-<!-- If it isn't a URL starting with "http(s)://", consider it a page resource -->
-{{- if not (or (hasPrefix $url "http://") (hasPrefix $url "https://")) }}
-    {{- $url = ($.Page.Resources.GetMatch $url).Permalink }}
-{{- end }}
-<meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="{{ $url }}"/>
+    {{- $url := . }}
+    {{- if not (findRE "^(/|http(s?)://)" $url) }}
+        {{- $url = ($.Page.Resources.GetMatch $url).Permalink }}
+    {{- end }}
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:image" content="{{ $url }}"/>
 {{- end }}
