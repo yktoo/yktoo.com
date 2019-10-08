@@ -20,14 +20,14 @@ languages:
         params:
             author: Дмитрий Канн
             dateFormat: 'DOW, D MONTH YYYY'
-            description: 'Занимательные истории из жизни экспата в Нидерландах, а также технические статьи за его авторством'
+            description: 'Блог о жизни в Нидерландах: новости о Голландии, менталитет и сравнения, переводы голландских выражений и так далее'
             shortDateFormat: 'DD.MM.YYYY'
     nl:
         weight: 3
         languageName: Nederlands
         params:
             dateFormat: 'DOW, D MONTH YYYY'
-            description: 'Amusante verhalen over het Nederlandse leven van een buitenlander, maar ook zijn technische artikelen'
+            description: 'Blog over het Nederlands leven: nieuws, vergelijkingen, enz.'
             shortDateFormat: 'DD-MM-YYYY'
 params:
     author: Dmitry Kann
@@ -44,7 +44,7 @@ params:
     cookieConsentInfoUrl: /about/privacy
     copyrightUrl: /about
     dateFormat: 'DOW MONTH D, YYYY'
-    description: "Amusing stories of an expat's life in the Netherlands, as well as his technical articles"
+    description: 'Blog about life in the Netherlands: Dutch news, mentality and differences, explanation of Dutch terms and so on'
     googleMapsApiKey: AIzaSyBJzJgSlmrF2ofMmVt2a7422yDv54Im_Yk
     logoUrl: /images/logo.png
     rssLimit: 33
