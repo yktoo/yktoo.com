@@ -7,6 +7,7 @@ tags:
     - бизнес
     - годовщина
 image: "https://yktoo.solutions/blog/2019/10/01-yktoo-solutions-is-three/ys-three-years.jpg"
+imageCredit: "Фото: Annie Spratt."
 series: Доля предпринимательская
 ---
 

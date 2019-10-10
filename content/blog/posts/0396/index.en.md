@@ -9,6 +9,7 @@ tags:
     - funny
     - trifles
 image: "https://1.bp.blogspot.com/-IBt6OOEA52g/XYy9eFyYkgI/AAAAAAAAyCI/BPapx6OdRBsvNAW2vE3dNQah-lfhzDZlACKgBGAsYHg/s1600/bird.jpg"
+imageCredit: "Photo by JillWellington."
 ---
 
 It's a known fact some common words in one language may sound pretty rude or even offensive in another. Furthermore, some words in the same language can be confusing.

@@ -8,6 +8,7 @@ tags:
     - веб
     - Hugo
 image: "https://1.bp.blogspot.com/-9Z3WIJcTGM4/XZrtO7qqs3I/AAAAAAAAyaA/scGKrBn2t8MzIRKJTyAFgAPyI7OupiQxwCKgBGAsYHg/s1600/dictionary.webp"
+imageCredit: "Фото: ActionVance."
 ---
 
 Подумалось тут, что удобно было бы завести специальный раздел с переводами самых распространённых голландских понятий, а также объяснением их значения и ссылками на релевантные посты в блоге. И чтобы можно было ставить на эти понятия ссылки — для тех, кто не знает, например, что такое {{< a "/glossary/aow-leeftijd" "AOW-leeftijd" >}}.

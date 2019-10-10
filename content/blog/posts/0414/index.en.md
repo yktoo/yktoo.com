@@ -7,6 +7,7 @@ tags:
     - glossary
     - gemeente
 image: "https://1.bp.blogspot.com/-5rD60FbABvo/XZryM5LFx3I/AAAAAAAAyag/Gcg5Y-Hwhpw3IYZQMxoWky7VOozExiCjwCKgBGAsYHg/s1600/gemeenten.webp"
+imageCredit: "Map by gemeentenatlas.nl."
 glossary:
     - gemeente
     - gemeentehuis

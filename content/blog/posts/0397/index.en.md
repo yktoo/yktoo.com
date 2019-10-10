@@ -8,6 +8,7 @@ tags:
     - customs
     - AliExpress
 image: "https://1.bp.blogspot.com/-9Y04P2Ub_Sc/XY3NbKKJItI/AAAAAAAAyD8/Xd0CWgjraRwcnSmI6T4bE_ryoJDjwuPeQCKgBGAsYHg/s1600/post_nl.jpg"
+imageCredit: "Photo by PostNL."
 ---
 
 If you like ordering cheap gadgets and other stuff from **AliExpress** (and similar online stores) like I do, you may find this useful.

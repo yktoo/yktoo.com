@@ -9,6 +9,7 @@ tags:
     - забавное
     - пустяки
 image: "https://1.bp.blogspot.com/-IBt6OOEA52g/XYy9eFyYkgI/AAAAAAAAyCI/BPapx6OdRBsvNAW2vE3dNQah-lfhzDZlACKgBGAsYHg/s1600/bird.jpg"
+imageCredit: "Фото: JillWellington."
 ---
 
 Пост о том, что каждый понимает услышанное в меру своей испорченности.

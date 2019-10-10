@@ -11,6 +11,7 @@ tags:
     - стереотипы
     - ВОЗ
 image: "https://1.bp.blogspot.com/-macoyPAu9Ag/XZXsEzHHDQI/AAAAAAAAyWI/u-caEW8wS5cEEEtwKAjl10Si8r8euijywCKgBGAsYHg/s1600/drinking.webp"
+imageCredit: "Фото: Pratik Gupta."
 ---
 
 Среди крайне немногочисленных новостей о России нидерландское онлайн-издание {{< fl "NOS" >}} {{< a "https://nos.nl/artikel/2304493-stereotype-klopt-niet-meer-russen-drinken-fors-minder.html" "сообщает" >}} о недавно вышедшем {{< a "https://apps.who.int/iris/bitstream/handle/10665/328167/9789289054379-eng.pdf?sequence=1&isAllowed=y" "отчёте ВОЗ" >}}, согласно которому потребление алкоголя в стране снизилось за период **2003–2016** гг. на целых **43%**.

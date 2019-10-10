@@ -332,6 +332,10 @@ pre {
             height: auto;
             max-height: 400px;
         }
+        .blog-post-image-credit {
+            font-size: 85%;
+            color: fade_out($body-color, 0.3);
+        }
     }
 }
 .blog-post-single {

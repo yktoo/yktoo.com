@@ -12,6 +12,7 @@ tags:
     - транспорт
     - самолёты
 image: "https://1.bp.blogspot.com/-CosCKyDqVo4/XYJDv6JHyyI/AAAAAAAAxlo/E2qd7X9V8moK14iUMxJUb8dgdttyr8bAACKgBGAsYHg/s1600/schiphol.jpg"
+imageCredit: "Фото: NOS."
 ---
 
 В начале сентября в нидерландском аэропорту Схипхол произошёл инцидент с участием самолёта {{< fl "Transavia" >}}, {{< a "https://www.nhnieuws.nl/nieuws/253082/grote-fout-op-het-nippertje-voorkomen-transavia-boeing-bijna-opgestegen-van-taxibaan" "сообщает" >}} издание {{< fl "NH Nieuws" >}}.

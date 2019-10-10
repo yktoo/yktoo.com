@@ -8,6 +8,7 @@ tags:
     - таможня
     - AliExpress
 image: "https://1.bp.blogspot.com/-9Y04P2Ub_Sc/XY3NbKKJItI/AAAAAAAAyD8/Xd0CWgjraRwcnSmI6T4bE_ryoJDjwuPeQCKgBGAsYHg/s1600/post_nl.jpg"
+imageCredit: "Фото: PostNL."
 ---
 
 Любителям заказывать дешёвые товары с {{< fl "AliExpress" >}} (вроде меня), а также прочих китайских и не очень магазинов посвящается.

@@ -10,6 +10,7 @@ tags:
     - СМИ
     - новости
 image: "https://1.bp.blogspot.com/-vCzv7gIe64Q/XYjJK6cAaVI/AAAAAAAAx7M/79ECPflwkvAKWild9gL-4C619x0SI4vVgCKgBGAsYHg/s1600/banksy-brexit.jpg"
+imageCredit: "Картинка: Banksy."
 ---
 
 В Великобритании по-прежнему идёт нескончаемая мыльная опера под названием «Брекзит» и предводительством ~~пустозвона~~ опытного политика Бо́риса Джонсона.

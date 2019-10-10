@@ -8,7 +8,8 @@ tags:
     - политика
     - Соглашение о климате
     - рекорд
-image: "https://1.bp.blogspot.com/-HDNb-S_p8Vw/XYCHgC8Kt7I/AAAAAAAAxic/09FGIkGr2-cphP8zKNgpRNY9OA932ppkQCKgBGAsYHg/s1600/prinsjesdag-2014.jpg"
+image: "https://1.bp.blogspot.com/-2qe-QMFiLrc/XZ8YIiEgK3I/AAAAAAAAykU/fBr_dR2aHGkoB8bFU5lQvKhCbztvaw5VwCKgBGAsYHg/s1600/prinsjesdag-2019-balkonscene.jpg"
+imageCredit: "Фото: RVD."
 ---
 
 Сегодня третий вторник сентября, один из самых важных дней в политической и экономической жизни Нидерландов: {{< wiki "Prinsjesdag" "en" >}}.
@@ -38,7 +39,7 @@ image: "https://1.bp.blogspot.com/-HDNb-S_p8Vw/XYCHgC8Kt7I/AAAAAAAAxic/09FGIkGr2
 Поскольку основные положения речи утекли заранее, главной интригой дня был вопрос, останется ли у короля борода.
 
 Борода осталась, монеты и марки можно не перевыпускать.
-{{< imgfig "https://1.bp.blogspot.com/-lu1QQe1b7cE/XYDpW3lMvjI/AAAAAAAAxko/4uBopSk581EgeTibXMNPsyi0nXamX_xXgCKgBGAsYHg/s1600/prinsjesdag-2019-troonrede.jpg" "Тронная речь: король Нидерландов Виллем-Александр и королева Максима. Фото ANP." >}}
+{{< imgfig "https://1.bp.blogspot.com/-FtbsEvqt_ok/XZ8W1aPu9bI/AAAAAAAAyjk/_i4NVMU1ARgyKSlf9fJyKtpLs8ACdb_lACKgBGAsYHg/s1600/prinsjesdag-2019-vaandel-ridderzaal.jpg" "Король Нидерландов Виллем-Александр и королева Максима. Фото: Ministerie van Financiën / Martijn Beekman." >}}
 
 Тронная речь ({{< a "http://download.omroep.nl/nos/docs/170919_troonrede.pdf" "пятистраничный PDF" >}}) начинается с упоминания 75-летия начала операции {{< wiki "Голландская_операция_(1944)" "ru" "Market Garden" >}} (1944), в ходе которой была произведена одна из крупнейших в истории высадок воздушного десанта — в голландских городах Эйндховен, Неймеген и Арнем.
 
@@ -76,7 +77,6 @@ image: "https://1.bp.blogspot.com/-HDNb-S_p8Vw/XYCHgC8Kt7I/AAAAAAAAxic/09FGIkGr2
 ## Miljoenennota
 
 Более конкретные цифры содержатся в {{< fl "Miljoenennota" >}}, бюджетном меморандуме, подготовленном министерством финансов и передаваемом министром Парламенту в специальном чемоданчике.
-{{< imgfig "https://1.bp.blogspot.com/-2COHs-l1Btk/XYDivtc192I/AAAAAAAAxkE/YopnJzL0yios6qWK3k00f0bqjAtdrARQwCKgBGAsYHg/s1600/prinsjesdag-2019-koffertje.jpg" "Чемоданчик с Miljoenennota в руках министра финансов В. Хукстра. Фото ANP." >}}
 
 Документ уже {{< a "https://www.rijksoverheid.nl/documenten/begrotingen/2019/09/17/miljoenennota-2020" "опубликован" >}} на сайте правительства.
 
@@ -93,6 +93,8 @@ image: "https://1.bp.blogspot.com/-HDNb-S_p8Vw/XYCHgC8Kt7I/AAAAAAAAxic/09FGIkGr2
 * Безработица составляет **3,5%** — очередной рекорд.
 * Месячная стоимость базовой медстраховки вырастет примерно на **€ 3** и составит в среднем **€ 118,50**.
 * Стоимость пачки сигарет вырастет на **1** евро, все пачки должны будут выглядеть одинаково, в супермаркетах будет запрещено выставлять их на обозрение.
+
+{{< imgfig "https://1.bp.blogspot.com/-2qe-QMFiLrc/XZ8YIiEgK3I/AAAAAAAAykU/fBr_dR2aHGkoB8bFU5lQvKhCbztvaw5VwCKgBGAsYHg/s1600/prinsjesdag-2019-balkonscene.jpg" "Балконная сцена по окончании церемонии. Фото: RVD." >}}
 
 ## Хорошо быть королём
 

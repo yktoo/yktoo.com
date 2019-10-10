@@ -16,6 +16,7 @@
                     {{- $url = ($.Page.Resources.GetMatch $url).RelPermalink }}
                 {{- end -}}
                 <img class="img-fluid blog-post-image" src="{{ $url }}" alt="Post image">
+                {{- with $.Params.imageCredit }}<p class="blog-post-image-credit">{{ . | markdownify }}</p>{{ end }}
             {{- end -}}
         </div>
 

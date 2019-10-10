@@ -10,6 +10,7 @@ tags:
     - railway
     - sustainability
 image: "https://1.bp.blogspot.com/-ys-M4b2t1Ic/XXuq_LMszgI/AAAAAAAAxbo/c-_HbWUx1Ps0JjXGyNlV9guXA6tPuAuZgCKgBGAsYHg/s1600/schommel-oplader.jpg"
+imageCredit: "Photo by Koen Laureij."
 places:
     - place0016
 ---

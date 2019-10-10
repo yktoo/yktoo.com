@@ -8,7 +8,7 @@ tags:
     - рейтинг
     - новости
 image: "https://1.bp.blogspot.com/-SM7n3p5hq60/XZ7bVvB8c1I/AAAAAAAAygc/9hlLOwU4h883YjpRFsbvoH8cp4u8yElPwCKgBGAsYHg/s1600/wef.jpg"
-imageCredit: "Photo by Evangeline Shaw."
+imageCredit: "Фото: Evangeline Shaw."
 ---
 
 Согласно последнему {{< a "https://www.weforum.org/reports/how-to-end-a-decade-of-lost-productivity-growth" "отчёту" >}} {{< fl "World Economic Forum" >}} (**666**-страничный {{< a "http://www3.weforum.org/docs/WEF_TheGlobalCompetitivenessReport2019.pdf" "PDF" >}}), у Нидерландов в настоящий момент наиболее конкурентноспособная экономика в Европе.

@@ -10,6 +10,7 @@ tags:
     - экология
     - электроэнергия
 image: "https://1.bp.blogspot.com/-32wz97J1vSE/XZ4Kg4lirXI/AAAAAAAAyfM/7McAV9qtJuQffZcZ2OhlFXA1APskOrdvgCKgBGAsYHg/s1600/tennet-solar-farm.jpg"
+imageCredit: "Фото: NOS."
 ---
 
 Альтернативная энергетика переживает настоящий бум, и новости в этой сфере появляются буквально ежедневно. Особенно активно развивается солнечная её отрасль, которая растёт такими темпами, что возникают проблемы там, где их не ждали.

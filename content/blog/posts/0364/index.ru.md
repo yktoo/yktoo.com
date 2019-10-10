@@ -8,7 +8,8 @@ tags:
     - СМИ
     - Prinsjesdag
     - правительство
-image: "https://lh3.googleusercontent.com/zM8q7nyV0mtPpHluKftKRU3Kpg7TJosIXxwgmsNDVgrmLgDCRKh2jb_vZP6L40CZEQbzw-au6DkYd7eGzis=s0" 
+image: "https://1.bp.blogspot.com/-Dra4EskRPSY/XZ8Plf60njI/AAAAAAAAyiY/GvMiQKNIqp8eEQWuqAQUlX7gzYnUXFDZACKgBGAsYHg/s1600/rutte.jpg" 
+imageCredit: "Фото: Rijksvoorlichtingsdienst."
 ---
 
 У нас надвигается важный день: ~~выборы в мосгордуму~~ так называемый {{< wiki "Prinsjesdag" "nl" >}} 17 сентября, когда Его Величество король Виллем-Александр огласит официальную политическую стратегию нидерландского правительства на последующий год в своей {{< wiki "Тронная_речь" "ru" "тронной речи">}}.
@@ -17,7 +18,7 @@ image: "https://lh3.googleusercontent.com/zM8q7nyV0mtPpHluKftKRU3Kpg7TJosIXxwgms
 
 <!--more-->
 
-{{< imgfig "https://lh3.googleusercontent.com/zM8q7nyV0mtPpHluKftKRU3Kpg7TJosIXxwgmsNDVgrmLgDCRKh2jb_vZP6L40CZEQbzw-au6DkYd7eGzis=s0" "Премьер-министр Марк Рутте (в центре) на заседании кабинета. Фото ANP." >}}
+{{< imgfig "https://1.bp.blogspot.com/-Dra4EskRPSY/XZ8Plf60njI/AAAAAAAAyiY/GvMiQKNIqp8eEQWuqAQUlX7gzYnUXFDZACKgBGAsYHg/s1600/rutte.jpg" "Премьер-министр Марк Рутте (справа вверху). Фото: Rijksvoorlichtingsdienst." >}}
 
 Идея, {{< a "https://nos.nl/artikel/2250834-rutte-bereid-om-voor-extreme-noodsituaties-designated-survivor-aan-te-wijzen.html" "предложенная" >}} год назад представителем партии {{< fl "D66" >}} (насмотревшимся нетфликсовского {{< wiki "Назначенный Преемник (телесериал)" "ru" "сериала" >}}, ехидничают скептики), заключается в назначении одного из **16** голландских министров возможным преемником на случай «нападения, переворота или катастрофы». Имя преемника держится, разумеется, в секрете. Он (или она) будет находиться в течение всего мероприятия в секретном месте и получит бразды правления, если вдруг случится что-то из вышеперечисленного.
 

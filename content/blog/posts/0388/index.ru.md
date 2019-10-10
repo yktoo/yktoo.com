@@ -12,6 +12,7 @@ tags:
     - законодательство
     - авто
 image: "https://1.bp.blogspot.com/-dY8B133rmTg/XYXtTxhL6oI/AAAAAAAAx2U/4qjey_hUVvALNI5jXDRoW6WAdRGEcGoqQCKgBGAsYHg/s1600/business-3152586_1280.jpg"
+imageCredit: "Фото: rawpixel."
 series: Доля предпринимательская
 ---
 

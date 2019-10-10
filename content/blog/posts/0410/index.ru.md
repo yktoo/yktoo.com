@@ -6,6 +6,7 @@ tags:
     - Нидерланды
     - мошенники
 image: "https://1.bp.blogspot.com/-E_lr_0MMrpY/XZdFbQzQTeI/AAAAAAAAyYg/oUxpPAryrsUAxPk2FJNB4DT2_uuAwUdAgCKgBGAsYHg/s1600/2019-10-04.webp"
+imageCredit: "Фото: vipul uthaiah."
 ---
 
 Какой-то мелкий мошенник нынче пошёл.

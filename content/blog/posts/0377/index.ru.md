@@ -8,7 +8,8 @@ tags:
     - СМИ
     - Prinsjesdag
     - правительство
-image: "https://1.bp.blogspot.com/-R3YwXIihGB0/XXohJ4V_8hI/AAAAAAAAxTs/NpR8oTudNmYS9ahytt8lfcoMS8uNhEacwCKgBGAsYHg/s1600/2019-09-12_minister-blok.jpg"
+image: "https://1.bp.blogspot.com/-QL1kRtUDzN8/XZ8Q5lUTH8I/AAAAAAAAyi4/FJxvEe4wEQgXDCUFdd5_WjW7vGIW75YMQCKgBGAsYHg/s1600/stef-blok.jpg"
+imageCredit: "Фото: Ministerie van Buitenlandse Zaken."
 ---
 
 По следам новости о {{< a "0364" "дежурном преемнике" >}}: кабинет {{< a "https://www.nu.nl/politiek/5991613/minister-blok-is-designated-survivor-op-prinsjesdag.html" "определился" >}} с тем, кто может прогулять {{< fl "Prinsjesdag" >}}.
@@ -17,7 +18,7 @@ image: "https://1.bp.blogspot.com/-R3YwXIihGB0/XXohJ4V_8hI/AAAAAAAAxTs/NpR8oTudN
 
 <!--more-->
 
-{{< imgfig "https://1.bp.blogspot.com/-R3YwXIihGB0/XXohJ4V_8hI/AAAAAAAAxTs/NpR8oTudNmYS9ahytt8lfcoMS8uNhEacwCKgBGAsYHg/s1600/2019-09-12_minister-blok.jpg" "Министр иностранных дел Стеф Блок. Фото ANP." >}}
+{{< imgfig "https://1.bp.blogspot.com/-QL1kRtUDzN8/XZ8Q5lUTH8I/AAAAAAAAyi4/FJxvEe4wEQgXDCUFdd5_WjW7vGIW75YMQCKgBGAsYHg/s1600/stef-blok.jpg" "Министр иностранных дел Стеф Блок. Фото: Ministerie van Buitenlandse Zaken." >}}
 
 Ситуация, когда в {{< fl "Prinsjesdag" >}} 17 сентября какой-то из министров будет отсутствовать, случится впервые ~~а вот при Беатрикс такого не было~~.
 

@@ -14,6 +14,7 @@ tags:
 places:
     - place0186
 image: "https://1.bp.blogspot.com/-A1fBr5MG1RI/XY8ZtbUTBKI/AAAAAAAAyFk/mZwWloVRREoYNuLA5JglyVX6upeSUUOVACKgBGAsYHg/s1600/2019-09-28.jpg"
+imageCredit: "Фото: Rijkswaterstaat."
 ---
 
 Во фризском {{< a "0207" "Харлингене" >}} вчера {{< a "https://www.rijkswaterstaat.nl/nieuws/2019/09/productiefaciliteit-levvel-blocs-in-harlingen-officieel-geopend.aspx" "изготовили" >}} первый «инновационный волнорез», предназначенный для модернизации {{< wiki "Афслёйтдейк" "ru" "дамбы Афслёйтдейк" >}} в Эйсселмеере.

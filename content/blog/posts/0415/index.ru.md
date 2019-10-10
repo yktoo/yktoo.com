@@ -10,6 +10,7 @@ tags:
     - штрафы
     - транспорт
 image: "https://1.bp.blogspot.com/-j-TxD_Rhj18/XZt9QxQalTI/AAAAAAAAybQ/ooMze2n_zXY51dZFo4ZQuNUMBC_gCrKYACKgBGAsYHg/s1600/2019-10-07.webp"
+imageCredit: "Фото: melissa mjoen."
 ---
 
 С **1 июля** {{< year 2019 "этого" >}} года в Нидерландах вступил в силу полный запрет на использование мобильного телефона (и других гаджетов) водителями любых транспортных средств, включая **велосипеды**.

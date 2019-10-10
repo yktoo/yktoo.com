@@ -10,6 +10,7 @@ tags:
     - железные дороги
     - экология
 image: "https://1.bp.blogspot.com/-ys-M4b2t1Ic/XXuq_LMszgI/AAAAAAAAxbo/c-_HbWUx1Ps0JjXGyNlV9guXA6tPuAuZgCKgBGAsYHg/s1600/schommel-oplader.jpg"
+imageCredit: "Фото: Koen Laureij."
 places:
     - place0016
 ---

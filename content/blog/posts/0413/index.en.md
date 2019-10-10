@@ -8,6 +8,7 @@ tags:
     - web
     - Hugo
 image: "https://1.bp.blogspot.com/-9Z3WIJcTGM4/XZrtO7qqs3I/AAAAAAAAyaA/scGKrBn2t8MzIRKJTyAFgAPyI7OupiQxwCKgBGAsYHg/s1600/dictionary.webp"
+imageCredit: "Photo by ActionVance."
 ---
 
 It recently occurred to me that it would be convenient to have a dedicated section that lists the most common Dutch terms. Each term could then provide a brief explanation and references to relevant blog posts, and be linked to.
