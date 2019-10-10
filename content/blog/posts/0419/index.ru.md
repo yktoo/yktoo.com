@@ -11,7 +11,7 @@ image: "https://1.bp.blogspot.com/-SM7n3p5hq60/XZ7bVvB8c1I/AAAAAAAAygc/9hlLOwU4h
 imageCredit: "Фото: Evangeline Shaw."
 ---
 
-Согласно последнему {{< a "https://www.weforum.org/reports/how-to-end-a-decade-of-lost-productivity-growth" "отчёту" >}} {{< fl "World Economic Forum" >}} (**666**-страничный {{< a "http://www3.weforum.org/docs/WEF_TheGlobalCompetitivenessReport2019.pdf" "PDF" >}}), у Нидерландов в настоящий момент наиболее конкурентноспособная экономика в Европе.
+Согласно последнему {{< a "https://www.weforum.org/reports/how-to-end-a-decade-of-lost-productivity-growth" "отчёту" >}} {{< fl "World Economic Forum" >}} (**666**-страничный {{< a "http://www3.weforum.org/docs/WEF_TheGlobalCompetitivenessReport2019.pdf" "PDF" >}}), у Нидерландов в настоящий момент наиболее конкурентоспособная экономика в Европе.
 
 В глобальном списке Нидерланды теперь на четвёртом месте, поднявшись на два строчки и обогнав Германию, которая, наоборот, потеряла четыре позиции.
 
