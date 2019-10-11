@@ -17,6 +17,7 @@ aliases:
 {{< imgfig "https://1.bp.blogspot.com/-R3juWdB8UXM/XW5-HgZiJjI/AAAAAAAAxF0/oHmsO6u-sIQIM4SrTbuRhScZDD8_UEHawCKgBGAs/s1600/IMG_3320.picasaweb.jpg" "Кёукенхоф." >}}
 
 Много фото:
+
 {{< carousel >}}
     https://1.bp.blogspot.com/-xOnARdONomM/XW5-HhBRrWI/AAAAAAAAxF0/g8mYCxwGS3I64zLvpUUAtgVoYgtnoMYbACKgBGAs/s1600/P1000129.picasaweb.jpg Кёукенхоф.
     https://1.bp.blogspot.com/-qaZx2GKHzgw/XW5-HlEhfuI/AAAAAAAAxF0/cj93SB3zNUkx1GEw-MTM-KYJQdvprIxNQCKgBGAs/s1600/P1000122.picasaweb.jpg Кёукенхоф.

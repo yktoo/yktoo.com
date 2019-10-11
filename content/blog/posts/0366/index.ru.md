@@ -19,6 +19,7 @@ image: "https://1.bp.blogspot.com/-sA8eK-UDa3s/XWttEpGkS9I/AAAAAAAAwys/lQg7NAu1D
 <!--more-->
 
 Все мосты через каналы украсили висячими клумбами:
+
 {{< carousel >}}
     https://1.bp.blogspot.com/-mpIMDOz-_dc/XWttEh7AjKI/AAAAAAAAwys/aVYsL_LJEbw5Krc8Bu67LLBbpdYGDOhigCKgBGAs/s1600/dsc09040.w.jpg Амстердамские каналы.
     https://1.bp.blogspot.com/-qHPJKNh2MTA/XWttEkA9LiI/AAAAAAAAwys/Bltygc1s1voJL4qTKMjspLde1lZL7FytQCKgBGAs/s1600/dsc09041.w.jpg Амстердамские каналы.
@@ -65,12 +66,14 @@ image: "https://1.bp.blogspot.com/-sA8eK-UDa3s/XWttEpGkS9I/AAAAAAAAwys/lQg7NAu1D
 {{< imgfig "https://1.bp.blogspot.com/-GVuCxOrJb8s/XWttEkCWKQI/AAAAAAAAwys/bpTMahuBmMYng05rpfnhiqRkN_A5QfqUACKgBGAs/s1600/dsc09048.w.jpg" "Renault Twizy." >}}
 
 Очень стильно выглядят названия мостов прямо на перилах:
+
 {{< carousel >}}
     https://1.bp.blogspot.com/-il8hztIRnW0/XWttEgXeobI/AAAAAAAAwys/nTfAF6FbPzA8v1TFTeunvKdETGKodSxlwCKgBGAs/s1600/dsc09056.w.jpg Bet van Beerenbrug («Мост Бет ва Берен»).
     https://1.bp.blogspot.com/-25vjZzhz_gY/XWttEvPRjoI/AAAAAAAAwys/IbeQuVO_vvQj6y-cajl2TEcJXWnAzagpACKgBGAs/s1600/dsc09081.w.jpg Grimnessesluis («Шлюз Гримнессе»).
 {{< /carousel >}}
 
 Засилье велосипедов:
+
 {{< carousel >}}
     https://1.bp.blogspot.com/-2MB5udhmvhQ/XWttEuLTVPI/AAAAAAAAwys/TOn8zVAW2UwuUh3nKfO0naPeDVsltZUQQCKgBGAs/s1600/dsc09049.w.jpg Уличная велопарковка.
     https://1.bp.blogspot.com/-ZpMXo6Sr1fA/XWttEmUpmpI/AAAAAAAAwys/_58SR9YA_4Ea5DixGd9SOr1aVSShEShTQCKgBGAs/s1600/dsc09050.w.jpg Уличная велопарковка.

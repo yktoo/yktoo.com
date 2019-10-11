@@ -14,7 +14,7 @@
     <div class="row">
         <div class="col-md-7">
             <p class="{{ cond $featured `h3` `h4` }}">{{ $title }}</p>
-            <p>{{ index .description $page.Lang | markdownify }}</p>
+            <div class="download-desc">{{ index .description $page.Lang | markdownify }}</div>
             <p class="text-muted">{{ T "releasedOn" }}&nbsp;{{ partial "date" (dict "date" (time .releaseDate) "long" true) }}</p>
         </div>
         <div class="col-md-5 text-center">

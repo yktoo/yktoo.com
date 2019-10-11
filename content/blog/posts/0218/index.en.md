@@ -14,9 +14,9 @@ After the {{< a "0217" "previous" >}} release of {{< a "/software/sound-switcher
 
 So I found out, for instance, that the indicator is also popular with old Ubuntu versions (up to 12.04).
 
-## What's new {#whats-new}
-
 <!--more-->
+
+## What's new
 
 * An autostart shortcut is added during the installation so that the indicator starts automatically after logon.
 * All the existing functionality was backported to GTK+2 (a separate [branch](https://github.com/yktoo/indicator-sound-switcher/tree/gtk2) for it was created). Thanks to that the following Ubuntu versions are supported:
@@ -30,7 +30,7 @@ So I found out, for instance, that the indicator is also popular with old Ubuntu
 * A default program icon has been added. It will be picked up in the case a non-standard desktop theme is used. I've turned up the contrast a little bit to make it work with both light and dark themes:
   {{< imgfig "https://1.bp.blogspot.com/-p_jKIQD-wJ4/UvZeMTHsmYI/AAAAAAAAb1g/DYm853qnCjw/s1600/indicator-sound-switcher.png" >}}
 
-## Installation {#installation}
+## Installation
 
 You can install or update the application, as usual, via my Launchpad PPA, see the {{< a "/software/sound-switcher-indicator" "installation manual" >}}.
 

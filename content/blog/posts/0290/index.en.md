@@ -18,7 +18,7 @@ So today I proudly present **Sound Switcher Indicator 2.0.1**, which *finally* s
 
 {{< imgfig "https://3.bp.blogspot.com/-atoq96tAwHY/V-f7EJ50TyI/AAAAAAAAnjI/w77tiMI92RYIMql_kFmmLbE7Twy_WtDQwCPcB/s1600/ssi-2.0.1.png" "Sound Switcher Indicator 2.0.1." >}}
 
-## What's changed {#whats-new}
+## What's changed
 
 Visually, not much:
 
@@ -34,6 +34,6 @@ Under the hood, however, almost everything is different:
 
 The above required a lot of reading of [PulseAudio API](https://freedesktop.org/software/pulseaudio/doxygen/) and digging into the source code of [Gnome Control Center](https://github.com/GNOME/gnome-control-center) to understand how it handles devices and profiles. (On a side note: I think developing this pseudo-object-oriented code in C must be a real nightmare. There's huge room for memory leaks!)
 
-## Installation {#installation}
+## Installation
 
 You can install or update the application, as usual, via my Launchpad PPA, see the {{< a "/software/sound-switcher-indicator" "installation manual" >}}.

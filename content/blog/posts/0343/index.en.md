@@ -12,11 +12,11 @@ aliases:
 
 It's time to fulfil my {{< a "0342" "promise" >}}, so please meet {{< a "/software/sound-switcher-indicator" "Sound Switcher Indicator" >}} version **2.2.0**.
 
+<!--more-->
+
 ## What's new
 
 There are the following two major differences with the previous release:
-
-<!--more-->
 
 * Support for virtual devices ([#48](https://github.com/yktoo/indicator-sound-switcher/issues/48)) has been added: network *sources* and *sinks* from other PulseAudio servers are now also displayed in the indicator menu and can be switched to.
 * A *Preferences* dialog has finally arrived. These days you can easily adjust the looks of the menu using a GUI (which was previously only possible by editing `$HOME/.config/indicator-sound-switcher.json`). A corresponding menu item has been planted:

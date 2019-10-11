@@ -12,9 +12,9 @@ aliases:
 
 {{< a "/software/sound-switcher-indicator" "Sound Switcher Indicator" >}} is getting more and more intricate and advanced thanks to the never-ending stream of ideas from the users. The majority of changes in the version **2.1.1** pertain to the configuration file (`$HOME/.config/indicator-sound-switcher.json`).
 
-## What's new
-
 <!--more-->
+
+## What's new
 
 * Originally built for **Ubuntu 16.10 Yakkety Yak** (but builds for other versions supported by Canonical are available, too).
 * Port configuration in the JSON file can now also be an object (previously either string or `false`), which allows to configure:
