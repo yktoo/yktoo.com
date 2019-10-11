@@ -1,0 +1,25 @@
+language: ruby
+
+env:
+    global:
+        - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of HTMLProofer
+
+addons:
+    apt:
+        packages:
+            - libcurl4-openssl-dev # required to avoid SSL errors
+
+install:
+    # Download and install Hugo extended
+    - curl -fSLO https://github.com/gohugoio/hugo/releases/download/v0.58.3/hugo_extended_0.58.3_Linux-64bit.deb
+    - sudo dpkg -i hugo_extended_0.58.3_Linux-64bit.deb
+
+before_script:
+    # Cleanup any generated content
+    - rm -rf public/
+
+script:
+    # Generate a minified (production) version of the site
+    - hugo --minify
+    # Run HTMLProofer
+    - bundle exec rake test

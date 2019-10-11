@@ -1,0 +1,21 @@
+#!/bin/bash
+project_dir="$(dirname "$(dirname "$(realpath "$0")")")"
+
+pushd "$project_dir" >/dev/null
+
+docker image inspect htmlproofer &>/dev/null || docker build -t htmlproofer .
+
+rm -rf public && hugo
+
+docker run \
+    --rm \
+    -v "$project_dir/public/":/site \
+    htmlproofer \
+        /site \
+        --disable-external \
+        --url-ignore '/^mailto:\?body=/' \
+        --check-favicon \
+        --check-html \
+        --check-img-http
+
+popd >/dev/null
