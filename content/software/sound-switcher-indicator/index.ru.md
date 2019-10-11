@@ -26,7 +26,7 @@ seeAlso:
 
 > Разработка Sound Switcher Indicator ведётся при помощи {{< a "/blog/posts/0359" "бесплатной лицензии JetBrains" >}}.
 >
-> {{< button "https://www.jetbrains.com/?from=SoundSwitcherIndicator" "![](jetbrains.png)" >}}
+> {{< button "https://www.jetbrains.com/?from=SoundSwitcherIndicator" "![JetBrains logo](jetbrains.png)" >}}
 
 ## Установка
 

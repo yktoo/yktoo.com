@@ -26,7 +26,7 @@ Interested? Read [how to install](https://github.com/yktoo/indicator-sound-switc
 
 > Sound Switcher Indicator is being developed with a {{< a "/blog/posts/0359" "free JetBrains License" >}}.
 >
-> {{< button "https://www.jetbrains.com/?from=SoundSwitcherIndicator" "![](jetbrains.png)" >}}
+> {{< button "https://www.jetbrains.com/?from=SoundSwitcherIndicator" "![JetBrains logo](jetbrains.png)" >}}
 
 ## Installation
 

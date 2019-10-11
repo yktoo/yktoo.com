@@ -16,7 +16,7 @@
 <section id="radiolaria-track-toolbar">
     <!-- Chords button, if needed -->
     {{ if .Params.hasChords }}
-    <a href="#" id="btnChords" class="btn btn-outline-dark" onclick="toggleChords(event)"><i class="fas fa-music bycon"></i>{{ T "showChords" }}</a>
+    <a href id="btnChords" class="btn btn-outline-dark" onclick="toggleChords(event)"><i class="fas fa-music bycon"></i>{{ T "showChords" }}</a>
     {{ end }}
 
     {{ with .Params.mediaFileUrl }}

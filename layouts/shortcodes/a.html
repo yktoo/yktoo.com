@@ -17,9 +17,17 @@
             {{- end -}}
         {{- end -}}
 
-    {{/* No language given: try to find the page in the current site */}}
+    {{/* No language given: using the current site */}}
     {{- else -}}
-        {{- with $.Page.GetPage $url.Path -}}{{- $pageToLink = . -}}{{- end -}}
+
+        {{/* If there's a path present, use it to find the page */}}
+        {{- with $url.Path -}}
+            {{- with $.Page.GetPage . -}}{{- $pageToLink = . -}}{{- end -}}
+
+        {{/* Otherwise assume we're dealing with the current page */}}
+        {{- else -}}
+            {{- $pageToLink = $.Page -}}
+        {{- end -}}
     {{- end -}}
 
     {{/* Check if we managed to find anything */}}

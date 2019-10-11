@@ -16,7 +16,7 @@ aliases:
 
 <!--more-->
 
->### Запись в журнале: 6 сол
+> **Запись в журнале: 6 сол**
 >
 > Мне вполне определённо кранты.
 >
@@ -55,8 +55,5 @@ aliases:
 В ноябре этого года ожидается {{< wiki "Марсианин_(фильм)" "ru" "экранизация" >}} романа с Мэттом Дэймоном в главной роли.
 
 ## Мой рейтинг
-<img src="/images/icons32/grey-star-filled.png" width="32" height="32">
-<img src="/images/icons32/grey-star-filled.png" width="32" height="32">
-<img src="/images/icons32/grey-star-filled.png" width="32" height="32">
-<img src="/images/icons32/grey-star-filled.png" width="32" height="32">
-<img src="/images/icons32/grey-star-filled.png" width="32" height="32">
+
+★★★★★ 5/5
