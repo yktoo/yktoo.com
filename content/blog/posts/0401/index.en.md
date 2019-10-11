@@ -77,21 +77,26 @@ At this moment, it's on sale on {{< a "https://bit.ly/2nMIMM6" "bol.com" >}} at 
 ## What's in the box
 
 The packaging is a bulky cubic cardboard box.
+
 {{< imgfig "https://1.bp.blogspot.com/-eSS2viLAuOA/XZB87ZGMh9I/AAAAAAAAyOI/0dHtLUFCc700xOQ4NmllhL3reY0iT6jxACKgBGAsYHg/s1600/2019-09-28.jpg" "Netgear Orbi Pro SRK60 is the box." >}}
 
 What's inside: one router, one satellite device, two AC adapters and two mount kits for attaching the devices to a wall or ceiling. And, inexplicably, only a single flat Ethernet cable:
+
 {{< imgfig "https://1.bp.blogspot.com/-1PMHsiM6ZYY/XZB87bXzNqI/AAAAAAAAyOI/hQKnGtrwaBgw71UBBrLxlPNBGVTQDlSUQCKgBGAsYHg/s1600/2019-09-28.jpg" "What Netgear Orbi Pro SRK60 kit consists of." >}}
 
 The twin brothers: the satellite is grey (on the left) and the router is blue (on the right):
+
 {{< imgfig "https://1.bp.blogspot.com/-7yDQTnyX4as/XZB87SxyokI/AAAAAAAAyOI/whcFP8hAxx8Y40uC4WAL57oSMXJJFgMhQCKgBGAsYHg/s1600/2019-09-28.jpg" "SRS60 satellite and SRR60 router." >}}
 
 The two look exactly the same, except for the colour of the top inserts and Ethernet ports on their rear side.
 
 * The **satellite** (left) features a sync button, four gigabit Ethernet ports, a power button, a power socket and a tiny reset button.
 * The **router** (right) has all the same except for the ports. There's a single WAN (Internet) port and three regular LAN ones.
+
 {{< imgfig "https://1.bp.blogspot.com/-WS-Y3_Fpzx4/XZB87YFvOQI/AAAAAAAAyOI/BVQBcRc8nAs5gNLR7w7xgj38ejDjv7QeACKgBGAsYHg/s1600/2019-09-28.jpg" "Rear side controls." >}}
 
 Initially both devices are labeled with a plastic strap providing a QR activation code and default Wi-Fi credentials.
+
 {{< imgfig "https://1.bp.blogspot.com/-lxIj-Clo9n4/XZB87aq9F3I/AAAAAAAAyOI/mpo7HodMMikBe1LMeNLN4Myu7thsHJdTgCKgBGAsYHg/s1600/2019-09-28.jpg" "QR codes and wireless authentication data." >}}
 
 ## Three Wi-Fi networks + LAN
@@ -113,15 +118,23 @@ The web interface has two major sections, **Basic** and **Advanced**.
 ### Basic
 
 This section is for non-tech-savvy folks. Here one can change basic system settings, such as IP addresses, Wi-Fi passwords etc.
+
 {{< imgfig "https://1.bp.blogspot.com/-q0lEB6F8mYg/XZB8xzNzj_I/AAAAAAAAyOA/KQ6cie_NMxEIzBQlfHYkbsFGRnw_l3ceACKgBGAsYHg/s1600/2019-09-29.png" "Basic ⇒ Home." >}}
 
 {{< spoiler "Show Basic interface screenshots" >}}
+
 {{< imgfig "https://1.bp.blogspot.com/-0GmKZ31GdDQ/XZB8xx4JEoI/AAAAAAAAyOA/Z75T-WbDMsEjpfRq8Gu_9Rn7-qy0XqKHwCKgBGAsYHg/s1600/2019-09-29.png" "Basic ⇒ Internet setup." >}}
+
 {{< imgfig "https://1.bp.blogspot.com/-lRRGT-BMo4A/XZB8x396xXI/AAAAAAAAyOA/JSZBJhdpUXo7K1CmsseVXPilytxQXSszwCKgBGAsYHg/s1600/2019-09-29.png" "Basic ⇒ Wireless 1." >}}
+
 {{< imgfig "https://1.bp.blogspot.com/-9y0Z1aeIeFc/XZB8x6MveFI/AAAAAAAAyOA/REN7MZ67vJYMs_coEt9Os0ImuJLeZ5F7ACKgBGAsYHg/s1600/2019-09-29.png" "Basic ⇒ Wireless 2." >}}
+
 {{< imgfig "https://1.bp.blogspot.com/-cQQKDVHxLtw/XZB8x3Whr6I/AAAAAAAAyOA/lxOkGtFnBpM_0GCrygpCblF5DlM8RlffwCKgBGAsYHg/s1600/2019-09-29.png" "Basic ⇒ Attached devices." >}}
+
 {{< imgfig "https://1.bp.blogspot.com/-Z0BvFBAScB8/XZB8xza8wrI/AAAAAAAAyOA/OXn3-ZkGN5o0eUM2lQrP3xaBILPh_pzXgCKgBGAsYHg/s1600/2019-09-29.png" "Basic ⇒ Guest portal settings." >}}
+
 {{< imgfig "https://1.bp.blogspot.com/-T2pq2lwriM8/XZB8xyhklYI/AAAAAAAAyOA/kqri0W0GOakmOTVPIzU-F77ztvoLxfKCACKgBGAsYHg/s1600/2019-09-29.png" "Basic ⇒ Speed test." >}}
+
 {{< imgfig "https://1.bp.blogspot.com/--VZWzLNDTFA/XZB8x2VYKsI/AAAAAAAAyOA/4VavMrUYjhoSIBV_HbxfbNCdzACILgYtwCKgBGAsYHg/s1600/2019-09-29.png" "Basic ⇒ Add satellite." >}}
 {{< /spoiler >}}
 
@@ -130,9 +143,11 @@ This section is for non-tech-savvy folks. Here one can change basic system setti
 Quite predictable, the Advanced section has many more settings, so I'm going to explain it in more detail.
 
 The Home page provides a brief overview of the router's parameters:
+
 {{< imgfig "https://1.bp.blogspot.com/-xa1BJTCFkFU/XZB8x_wY-aI/AAAAAAAAyOA/LVV2V9JkfuoUzZC5nDz3nufu3YGtj87VACKgBGAsYHg/s1600/2019-09-29.png" "Advanced ⇒ Home." >}}
 
 There's also an interactive Setup wizard, which can help you to get the basics right. 
+
 {{< imgfig "https://1.bp.blogspot.com/-vcR6azU7vQc/XZB8x8LGl_I/AAAAAAAAyOA/qys4IKYzhbAhQeClWLWdLCGyPvOWYZ1TQCKgBGAsYHg/s1600/2019-09-29.png" "Advanced ⇒ Setup wizard." >}}
 
 #### Setup section
@@ -142,18 +157,23 @@ Setting for the Internet, WAN, Wi-Fi and the local network.
 {{< imgfig "https://1.bp.blogspot.com/-AO4Z0btb8ug/XZB8x7XCTeI/AAAAAAAAyOA/8OtAqIcTKUQQyEhNd1YgG9Zni2YBNY0nQCKgBGAsYHg/s1600/2019-09-29.png" "Advanced ⇒ Setup ⇒ Internet setup." >}}
 
 The Wi-Fi settings screen looks very much like its counterpart from the Basic mode. It allows you to switch either Wi-Fi on or off, set up the authentication and used radio channels.
+
 {{< imgfig "https://1.bp.blogspot.com/-Xyk_wFgl6KE/XZB8x5sf3RI/AAAAAAAAyOA/XBua8IyeXHoeDWmeMFyhQ3sW13EC-QhlACKgBGAsYHg/s1600/2019-09-29.png" "Advanced ⇒ Setup ⇒ Wireless 1." >}}
 
 Guest portal settings. This one can also be switched on/off, you can specify a password to be entered in the captive portal, guest session duration, and terms and conditions document also shown when authenticating the user on the captive portal: 
+
 {{< imgfig "https://1.bp.blogspot.com/-HiwtMQBYeeM/XZB8x5X_c2I/AAAAAAAAyOA/gOSy1FPRvvAsPOy6GVaZhjmbFKnsa12dwCKgBGAsYHg/s1600/2019-09-29.png" "Advanced ⇒ Setup ⇒ Guest portal settings." >}}
 
 WAN settings allows you, among other things, to activate NAT (network address translation).
+
 {{< imgfig "https://1.bp.blogspot.com/-kyqOuIb54Pw/XZB8x8sif7I/AAAAAAAAyOA/SBZ-nqsGWk4GAIDl8C3GZqPn3JMPjILYgCKgBGAsYHg/s1600/2019-09-29.png" "Advanced ⇒ Setup ⇒ WAN setup." >}}
 
 Local area network settings. You can set up the DHCP server and configure IP address reservation for a specific MAC address.
+
 {{< imgfig "https://1.bp.blogspot.com/--gHif0ZHSNY/XZB8x3a0n6I/AAAAAAAAyOA/39m0fH8MxK40U5MQU3444tdfwt60I5w-gCKgBGAsYHg/s1600/2019-09-29.png" "Advanced ⇒ Setup ⇒ LAN setup." >}}
 
 Device name setting:
+
 {{< imgfig "https://1.bp.blogspot.com/-yRFqIMfP8Nw/XZB8x1G8NSI/AAAAAAAAyOA/9iUUk4WfyrMN-2Jw4HFcQ3h8m43Q7SvegCKgBGAsYHg/s1600/2019-09-29.png" "Advanced ⇒ Setup ⇒ Device name." >}}
 
 #### Security section
@@ -161,6 +181,7 @@ Device name setting:
 The *Security* section is quite an interesting one. It allows you to block individual devices, sites, ports.
 
 Access control page. It shows every device ever connected to any of the networks, and you can allow or deny its Internet access. Also you can choose the global default for newly connected devices.
+
 {{< imgfig "https://1.bp.blogspot.com/-DnS7pHdFAe8/XZB8x2jQXEI/AAAAAAAAyOA/O3JtU286iy8NFDtkdru8Qra6nAohcEitgCKgBGAsYHg/s1600/2019-09-29.png" "Advanced ⇒ Security ⇒ Access control." >}}
 
 On this matter I do have some remarks.
@@ -172,38 +193,49 @@ So I've filed a service ticket with Netgear support. For a couple of weeks they 
 I was totally unwilling to do that so I declined and switched to "Allow all new" by default. It isn't a big issue after all since all wireless networks are password-protected and any new connected device gets immediately spotted and reported upon by my Fingbox.
 
 Site blocking settings:
+
 {{< imgfig "https://1.bp.blogspot.com/-STFKR2fHJfM/XZB8x1HZPQI/AAAAAAAAyOA/1xXEILbwpGUyaBiIlYGETQWTGvS2oSOoACKgBGAsYHg/s1600/2019-09-29.png" "Advanced ⇒ Security ⇒ Block sites." >}}
 
 Next to domain blocking, you can also filter TCP/UDP traffic to specific hosts and ports:
+
 {{< imgfig "https://1.bp.blogspot.com/-HzUmbXVYsMo/XZB8x-Q_BoI/AAAAAAAAyOA/eKVle4edGGcJH9UHaF50wVW3pvP4HcO9gCKgBGAsYHg/s1600/2019-09-29.png" "Advanced ⇒ Security ⇒ Block services." >}}
 
 Blocking scheduler:
+
 {{< imgfig "https://1.bp.blogspot.com/-l9cWpOb4rfI/XZB8x4USNII/AAAAAAAAyOA/K1Zt13qLjB8d4kcVLDyicw0QbYU3MghugCKgBGAsYHg/s1600/2019-09-29.png" "Advanced ⇒ Security ⇒ Schedule." >}}
 
 E-mail notification page:
+
 {{< imgfig "https://1.bp.blogspot.com/-k-mF7rUaXLw/XZB8x5CSddI/AAAAAAAAyOA/_D6J2uUuHJ4ISoV7VRFl2MNZ4TRa6FOyACKgBGAsYHg/s1600/2019-09-29.png" "Advanced ⇒ Security ⇒ E-mail." >}}
 
 #### Administration section
 
 The overview page:
+
 {{< imgfig "https://1.bp.blogspot.com/-n3TY_WzeEcE/XZB8xzHt6qI/AAAAAAAAyOA/G1BwsNchpWEzLy_F62hh1Zqi0KBX8DJ5QCKgBGAsYHg/s1600/2019-09-29.png" "Advanced ⇒ Administration ⇒ Router status." >}}
 
 Access and service logs:
+
 {{< imgfig "https://1.bp.blogspot.com/--Y0GKKjKNEI/XZB8x7rnc9I/AAAAAAAAyOA/JawPcXQpwygNrIdfFymnkDGlf0uLw0VfACKgBGAsYHg/s1600/2019-09-29.png" "Advanced ⇒ Administration ⇒ Logs." >}}
 
 A very useful device overview page shows the satellite's status and, for each device, which network it's connected to:
+
 {{< imgfig "https://1.bp.blogspot.com/-_A_LBh2auS8/XZB8x-kA_BI/AAAAAAAAyOA/AGmkG8mJihMoW5hnryQ65FWTyfcYxYm7gCKgBGAsYHg/s1600/2019-09-29.png" "Advanced ⇒ Administration ⇒ Attached devices." >}}
 
 Settings backup/restore:
+
 {{< imgfig "https://1.bp.blogspot.com/-EAgyQfZp_OE/XZB8x5jUOyI/AAAAAAAAyOA/_o0MdItYDbUotjmoAGUMMAnJChvyKnrhQCKgBGAsYHg/s1600/2019-09-29.png" "Advanced ⇒ Administration ⇒ Backup settings." >}}
 
 Adminstrator password:
+
 {{< imgfig "https://1.bp.blogspot.com/-rmSa9T_TDdA/XZB8xxWUbOI/AAAAAAAAyOA/2OEs5RFQfUMYDH1ve6XSUU5Ki86u4IK_wCKgBGAsYHg/s1600/2019-09-29.png" "Advanced ⇒ Administration ⇒ Set password." >}}
 
 NTP time synchronisation settings:
+
 {{< imgfig "https://1.bp.blogspot.com/-b6ZQtSXXgig/XZB8x82_JPI/AAAAAAAAyOA/JuSG3w9q93MAQs-vZTac2VO5b7By6KboQCKgBGAsYHg/s1600/2019-09-29.png" "Advanced ⇒ Administration ⇒ NTP settings." >}}
 
 Device firmware update. A new firmware get downloaded automatically as soon as you open this page. Then you can choose whether to also install it automatically or manually:
+
 {{< imgfig "https://1.bp.blogspot.com/-r_0fjp6psT0/XZB8x1kXfQI/AAAAAAAAyOA/paKQTRtbRzwX7cY4wIwyLTI-bcP7x1LUwCKgBGAsYHg/s1600/2019-09-29.png" "Advanced ⇒ Administration ⇒ Online update." >}}
 
 #### Advanced setup section
@@ -211,23 +243,36 @@ Device firmware update. A new firmware get downloaded automatically as soon as y
 The {{< fl "Advanced setup" >}} section contains the more hardcore parameters, like the operation mode (router/access point), VPN, UPnP etc.
 
 {{< spoiler "Show Advanced setup screenshots" >}}
+
 {{< imgfig "https://1.bp.blogspot.com/-3DMR8B2M26U/XZB8x2Osi8I/AAAAAAAAyOA/lGDXXcRmlTMxkLY8XB1_28OGzSZOfxsBwCKgBGAsYHg/s1600/2019-09-29.png" "Advanced ⇒ Advanced setup ⇒ Advanced wireless settings." >}}
+
 {{< imgfig "https://1.bp.blogspot.com/-NBcswOaEdz8/XZB8xxmuURI/AAAAAAAAyOA/cuYZzvrahd03crGmBQldV8VgkA3Z56vQwCKgBGAsYHg/s1600/2019-09-29.png" "Advanced ⇒ Advanced setup ⇒ Router/AP mode." >}}
+
 {{< imgfig "https://1.bp.blogspot.com/-j5OP4TSiqx8/XZB8x6RmQRI/AAAAAAAAyOA/XsQZq6UV5ys8hQK10oAn9nRmDU3aGwvPACKgBGAsYHg/s1600/2019-09-29.png" "Advanced ⇒ Advanced setup ⇒ Port forwarding/triggering." >}}
+
 {{< imgfig "https://1.bp.blogspot.com/-B0vmWe23Db8/XZB8xyuGk9I/AAAAAAAAyOA/NcHDp70tljET16XIg-jydizo0_JLHfs3gCKgBGAsYHg/s1600/2019-09-29.png" "Advanced ⇒ Advanced setup ⇒ Dynamic DNS." >}}
+
 {{< imgfig "https://1.bp.blogspot.com/-EtqCt3s7t-A/XZB8x5yJrGI/AAAAAAAAyOA/TNPkoJvOZLkvr8gxWhtdvJXqAcoFUuVQgCKgBGAsYHg/s1600/2019-09-29.png" "Advanced ⇒ Advanced setup ⇒ VPN service." >}}
+
 {{< imgfig "https://1.bp.blogspot.com/-Q7iwQ_EH3Ew/XZB8x4ciyYI/AAAAAAAAyOA/JIoGZloYiIkIW3er_Ysua0L0SsQQrLJrgCKgBGAsYHg/s1600/2019-09-29.png" "Advanced ⇒ Advanced setup ⇒ Static routes." >}}
+
 {{< imgfig "https://1.bp.blogspot.com/-ulUdm5_PJHQ/XZB8x6ySHfI/AAAAAAAAyOA/VzLSFDMLc3svNwT-_abLbqtvnsLTe7TCACKgBGAsYHg/s1600/2019-09-29.png" "Advanced ⇒ Advanced setup ⇒ Remote management." >}}
+
 {{< imgfig "https://1.bp.blogspot.com/-zf4HqdKg9c4/XZB8x15tk9I/AAAAAAAAyOA/Ar-zRS9tMHkDJeOaYqGFXesgTLDWFfKUACKgBGAsYHg/s1600/2019-09-29.png" "Advanced ⇒ Advanced setup ⇒ UPnp." >}}
+
 {{< imgfig "https://1.bp.blogspot.com/-BinZRv3vw10/XZB8x64P0-I/AAAAAAAAyOA/4p8BrCCl_awEiiZIpMdVBZ0lWb39wBwBwCKgBGAsYHg/s1600/2019-09-29.png" "Advanced ⇒ Advanced setup ⇒ IPv6." >}}
+
 {{< imgfig "https://1.bp.blogspot.com/-nkR9yiwPN_Y/XZB8x-9AZHI/AAAAAAAAyOA/yNW9xJmx650I6ZQRKXqo0Eb2ueKLIQV4QCKgBGAsYHg/s1600/2019-09-29.png" "Advanced ⇒ Advanced setup ⇒ Traffic meter." >}}
+
 {{< imgfig "https://1.bp.blogspot.com/-Z41UNtoUnbk/XZB8x1vT_1I/AAAAAAAAyOA/iE9N57Q1oyUa4avZWdQULZCRgMEjC85ZgCKgBGAsYHg/s1600/2019-09-29.png" "Advanced ⇒ Advanced setup ⇒ VLAN/Bridge settings." >}}
+
 {{< imgfig "https://1.bp.blogspot.com/-eV8Y0l1TCCA/XZB8x-WD-VI/AAAAAAAAyOA/cSt5JpNFpaIFUm-gEyB0GHiWj6kgSpszgCKgBGAsYHg/s1600/2019-09-29.png" "Advanced ⇒ Advanced setup ⇒ Sync button." >}}
 {{< /spoiler >}}
 
 ### Debug settings
 
 This router also features a hidden Debug page, which you can see by navigating to `http://<router_address>/debug.htm`.
+
 {{< imgfig "https://1.bp.blogspot.com/-XwayfiBxoLw/XZB8x0WdgkI/AAAAAAAAyOA/DMfV2zgiRXgzkgsgwrl-uPV7s60oj17-ACKgBGAsYHg/s1600/2019-09-29.png" "Debug settings." >}}
 
 ## Wi-Fi speed
@@ -250,13 +295,21 @@ Below is the summary of my readings (the speed is in **Mbps**):
 {{< /table >}}
 
 {{< spoiler "Speed measurement screenshots" >}}
+
 {{< imgfig "https://1.bp.blogspot.com/-WYe0BeCeePk/XZD-C08JuQI/AAAAAAAAyPs/prv3G9YX8ngOYmo5HPEhrG2CthZ_Yu9AwCKgBGAsYHg/s1600/2019-09-29.png" "Wi-Fi speed, next to the router — fast.com." >}}
+
 {{< imgfig "https://1.bp.blogspot.com/-gDlPbJD2XzQ/XZD-CyK1LzI/AAAAAAAAyPs/gOFUNzJ0GjYXCTn34EvkIpnxm_ycWTZjQCKgBGAsYHg/s1600/2019-09-29.png" "Wi-Fi speed, next to the satellite — fast.com." >}}
+
 {{< imgfig "https://1.bp.blogspot.com/-EtTbPEfNRN4/XZD-C7c6FeI/AAAAAAAAyPs/zoH7cNCDo3AKH3j89cCjDqntk1jizw4lQCKgBGAsYHg/s1600/2019-09-29.png" "Wi-Fi speed, away from both router and satellite — fast.com." >}}
+
 {{< imgfig "https://1.bp.blogspot.com/-oR0UA5LAUuE/XZD-C8MpMrI/AAAAAAAAyPs/8sn4Woyok5Y-15IQytEZHz530agueyNpgCKgBGAsYHg/s1600/2019-09-29.png" "LTE speed — fast.com." >}}
+
 {{< imgfig "https://1.bp.blogspot.com/-cllsMCT5a-I/XZD-CyHjL4I/AAAAAAAAyPs/5XJ49TWMW_wIscrgwskBlzHcHwIklFcHQCKgBGAsYHg/s1600/2019-09-29.png" "Wi-Fi speed, next to the router — speedtest.net." >}}
+
 {{< imgfig "https://1.bp.blogspot.com/-fSAixcsFOmQ/XZD-CzgLWjI/AAAAAAAAyPs/v9yK1rAQ7I4trHtZWbTG8_RsTfzcjmJ_wCKgBGAsYHg/s1600/2019-09-29.png" "Wi-Fi speed, next to the satellite — speedtest.net." >}}
+
 {{< imgfig "https://1.bp.blogspot.com/-60JZH18c9SA/XZD-C3I58vI/AAAAAAAAyPs/oMdBF64a5fINXslZcAGM_MPErjLKjxEJACKgBGAsYHg/s1600/2019-09-29.png" "Wi-Fi speed, away from both router and satellite — speedtest.net." >}}
+
 {{< imgfig "https://1.bp.blogspot.com/-MTNs4EtuMCo/XZD-C45qsEI/AAAAAAAAyPs/kUExwUb11AwKrVBiIO7DslraDVUZbuXjwCKgBGAsYHg/s1600/2019-09-29.png" "LTE speed — speedtest.net." >}}
 {{< /spoiler >}}
 

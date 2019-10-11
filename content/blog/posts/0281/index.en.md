@@ -8,6 +8,7 @@ aliases:
 ---
 
 Here's one of the reasons:
+
 {{< youtube "awP-blYxOXA" >}}
 
 The most worrying part is that in Russia that is considered a funny minor incident.

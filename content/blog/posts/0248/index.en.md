@@ -18,6 +18,7 @@ The first option seems arguable to me: because of its huge size (and the related
 <!--more-->
 
 So, apart from looking better, it's simply safer to hang it on the wall—which I did.
+
 {{< imgfig "https://3.bp.blogspot.com/-Io14-rNSbMM/VQQq8W1CZiI/AAAAAAAAhPk/PqjH6gunL3I/s1600/dsc08021.picasaweb.jpg" "TV mounted on the wall." >}}
 
 When choosing a wall mount, you need to take into account both size and weight of the device. There are not so many mounts for a 75" TV on the market. The good thing is it weighs only 36 kg (79 lb), whereas my mount model could bear up to 80 kilos.
@@ -31,6 +32,7 @@ The digital clock above is mounted on a T-brace attached to the stand holes. I a
 There are various opinions as to what height TV is to be hung at. The most common one is that the centre of the screen has to be on the line of your sight, when you're in your *normal* viewing position. After careful consideration I've decided to centre it vertically on the wall as it both feels comfortable and looks well.
 
 As for viewing distance, the opinions vary even more. For instance, The New York Times [deems](http://www.nytimes.com/2012/02/09/technology/personaltech/is-this-living-room-big-enough-for-my-tv.html?_r=0) 1.5 times screen diagonal the perfect distance:
+
 {{< imgfig "https://1.bp.blogspot.com/-AS9RLuOKKCY/VWGYfsdeAOI/AAAAAAAAjiE/mTt4KUCN1Us/s1600/nytimes-tv-height.jpg" "Source: The New York Times." >}}
 
 The diagonal of this TV is 189 cm (6 ft 2.5 in), which results in 189×1,5 ≈ 284 cm (9 ft 3 in), according to the above rule. However, the same article mentions the figure of 1.5 is subject to fervent debate, with opinions ranged from 1.2 to 2.5 and even more. Your vision is also to be taken into account, obviously.

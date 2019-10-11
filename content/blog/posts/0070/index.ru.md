@@ -23,6 +23,7 @@ aliases:
 {{< imgfig "https://4.bp.blogspot.com/_PX65_e7vApk/TUM2HN9MJ-I/AAAAAAAAH6w/blfEjb4ww14/s1600/fietsdepot.jpg" "Fietsdepot Amsterdam: учреждение, собирающее бесхозные и сломанные велосипеды." >}}
 
 С этим, конечно же, борятся всеми возможными средствами.
+
 {{< imgfig "https://1.bp.blogspot.com/_PX65_e7vApk/TUM4KdlzdBI/AAAAAAAAH64/4TczcKypCTQ/s1600/fietsgraveren.jpg" >}}
 
 На велосипеде можно *бесплатно* [выгравировать](http://www.amsterdam.nl/parkeren-verkeer/fiets/fietsdepot/fiets_graveren/) уникальный номер. Этой процедуре ежегодно подвергается около десяти тысяч амстердамских великов. Потом по этому номеру его можно найти в [базе данных](http://www.afac-amsterdam.nl/bikebase/page.php?id=8&amp;category=item).

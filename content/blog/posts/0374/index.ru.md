@@ -26,6 +26,7 @@ image: "https://1.bp.blogspot.com/-ohmRtzMXoqA/XXe0-3kXmUI/AAAAAAAAxQ0/jIv914ESL
 {{< imgfig "https://1.bp.blogspot.com/-0T9oV-MuxwQ/XXe4_Bt2IiI/AAAAAAAAxRc/SCAdVkhV0CIrRciW9-sDO9kq8G-uD1q5gCKgBGAs/s1600/20190907_101315.w.jpg" "Капсулы Nespresso Vertuo." >}}
 
 Стоят они почти вдвое дороже, от **60** евроцентов за штучку против 35-40 за прежние. Для дополнительного удобства, купить их можно лишь в фирменных магазинах {{< fl "Nespresso" >}}, либо заказать через Интернет.
+
 {{< imgfig "https://1.bp.blogspot.com/-pXczPnSzlHA/XXe4_PxedeI/AAAAAAAAxRc/vef9BJHaqqI0u5x1-zH0Sx8esw4GCzL-wCKgBGAs/s1600/20190907_101305.w.jpg" "Капсулы Nespresso Vertuo." >}}
 
 Завлекают они покупателя низкой ценой самой машины: от **€ 79**, так как за кофе для неё вы потом заплатите намного больше.

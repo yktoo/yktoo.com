@@ -34,6 +34,7 @@ image: "https://1.bp.blogspot.com/-zTe63IlyKeQ/XYh32GAe23I/AAAAAAAAx5w/PthvlwG3U
 Качество исполнения оставляет очень приятное впечатление.
 
 Трейлер может прицепляться позади велосипеда или сбоку — на манер мотоциклетной люльки, — но последний вариант я в реальной жизни не встречал ни разу. Думаю, это просто неудобно, так как велосипед становится намного шире.
+
 {{< imgfig "https://1.bp.blogspot.com/-zTe63IlyKeQ/XYh32GAe23I/AAAAAAAAx5w/PthvlwG3UcgYHdMKiWkl95AXpGZzYJXIACKgBGAsYHg/s1600/dsc09646.w.jpg" "Велоприцеп Twinny Load Hera." >}}
 
 ### Оснащение
@@ -41,7 +42,9 @@ image: "https://1.bp.blogspot.com/-zTe63IlyKeQ/XYh32GAe23I/AAAAAAAAx5w/PthvlwG3U
 Внутри у прицепа ремни безопасности, а спереди прочная сетка на молнии, которая открывается только снаружи.
 
 Сзади у него находится поворотная ручка и тормоз, упирающийся в покрышки и фиксирующий колёса. Также сзади расположен объёмистый карман, куда можно спрятать третье колесо (для использования в варианте коляски), дождевик и т.д.
+
 {{< imgfig "https://1.bp.blogspot.com/-Lq65saJruOs/XYh32GBhyeI/AAAAAAAAx5w/6xRWEVUUnace-LF4aiX1jKOBsgE-7oc7ACKgBGAsYHg/s1600/dsc09650.w.jpg" "Велоприцеп Twinny Load Hera, вид сзади." >}}
+
 {{< imgfig "https://1.bp.blogspot.com/-5ZfybJhd9JU/XYh32EF3HyI/AAAAAAAAx5w/jqe0cdXcGbAAUrnaI3RFe2oQlit3InFJQCKgBGAsYHg/s1600/dsc09647.w.jpg" "Противомоскитная сетка." >}}
 
 ### Крепление
@@ -49,6 +52,7 @@ image: "https://1.bp.blogspot.com/-zTe63IlyKeQ/XYh32GAe23I/AAAAAAAAx5w/PthvlwG3U
 Крепление трейлера к велосипеду состоит из трёх компонентов.
 
 Первый — кронштейн, перманентно устанавливаемый на велосипед. Спереди он закрепляется под откидной ножкой, сзади крепится хомутом к раме.
+
 {{< imgfig "https://1.bp.blogspot.com/-ByAr_o9rx_I/XYh32P1D7RI/AAAAAAAAx5w/fGOXiUXN9tgZ3Rge2DWlCsemEwO3ycUOQCKgBGAsYHg/s1600/dsc09649.w.jpg" "Крепление велоприцепа со стороны велика." >}}
 
 На кронштейн надевается второй элемент, металлическая штанга. Передний её конец представляет собой гибкую пружину, так что в точка соединения она может гнуться в обе стороны — это необходимо на поворотах. Фиксируется штанга на кронштейне с помощью шпильки — просто и удобно, устанавливается и разбирается конструкция за считанные секунды.
@@ -56,6 +60,7 @@ image: "https://1.bp.blogspot.com/-zTe63IlyKeQ/XYh32GAe23I/AAAAAAAAx5w/PthvlwG3U
 Также штангу можно дополнительно пристегнуть ремнём в качестве страховки, на случай, если основное крепление вдруг повредится.
 
 Третий элемент — крепление штанги со стороны трейлера.
+
 {{< imgfig "https://1.bp.blogspot.com/-1nvAtkMhLno/XYh32JvtE1I/AAAAAAAAx5w/Aqy4TMN6TyUt6x0dFZzxSZDKK3mGDcxHACKgBGAsYHg/s1600/dsc09648.w.jpg" "Крепление штанги к велоприцепу." >}}
 
 Тут соединение винтовое, разбирается чуть дольше — но это и требуется реже, в основном, для использования в режиме коляски. Аналогично предыдущему, есть здесь и дополнительная страховка ремнём.
@@ -63,6 +68,7 @@ image: "https://1.bp.blogspot.com/-zTe63IlyKeQ/XYh32GAe23I/AAAAAAAAx5w/PthvlwG3U
 ### Режим коляски
 
 Если отцепить штангу от прицепа и вставить дополнительное маленькое колёсико в гнездо в передней его части, то прицеп превращается в коляску. Очень удобная, надо сказать, опция.
+
 {{< imgfig "https://1.bp.blogspot.com/-HOUkobDSUwc/XYh32JAckQI/AAAAAAAAx5w/HSnGWzMl09In7UMbx36YwOhtT4YGD4qtgCKgBGAsYHg/s1600/dsc09653.w.jpg" "Велоприцеп в виде коляски." >}}
 
 ## Опыт использования
@@ -81,11 +87,13 @@ image: "https://1.bp.blogspot.com/-zTe63IlyKeQ/XYh32GAe23I/AAAAAAAAx5w/PthvlwG3U
 Но в плане перевозки цветов жизни, помимо трейлера, популярностью пользуются в основном так называемые {{< wiki "bakfiets" "nl" >}}, буквально «велосипед с баком».
 
 «Бакфитс» бывает двухколёсный:
+
 {{< imgfig "https://1.bp.blogspot.com/-3hqgs15Tizk/XYh4Cvc6qaI/AAAAAAAAx50/xrllbW5jhyEy_UcQd1tNbOiE1PFGLWusQCKgBGAsYHg/s1600/dsc09086.w.jpg" "Двухколёсный bakfiets." >}}
 
 Минусы такой модели, во-первых, в большой длине (труднее парковаться), а во-вторых, непросто будет держать равновесие в момент остановки, например, на светофоре, с крупным выводком в баке.
 
 Встречаются и варианты с тремя колёсами — тогда он и короче, и устойчивей: 
+
 {{< imgfig "https://1.bp.blogspot.com/-r6B3S2gaoqo/XYh4Ch7aLkI/AAAAAAAAx50/KY4IYk7ICjA0sIsECaRxJPSeNyrljt02ACKgBGAsYHg/s1600/dsc09087.w.jpg" "Трёхколёсный bakfiets." >}}
 
 В таких часто возят сразу двоих, троих, а то и четверых детей — сам видел не раз.

@@ -12,6 +12,7 @@ aliases:
 ---
 
 От {{< a "0209" "волшебного моря" >}} плавно переходим к по-своему особенной пустыне, раскинувшейся широ́ко по другую сторону от Хургады. Чего-чего, а пустыни в Африке хватает, надо лишь отъехать от города на пару километров — и вот она во всей своей пыльной красе:
+
 {{< imgfig "https://4.bp.blogspot.com/-ZIlykVj8p5E/UsQMfrCJGvI/AAAAAAAAbQw/sNulcgz5OQ8/s1600/dsc02394.picasaweb.jpg" >}}
 
 <!--more-->
@@ -34,33 +35,41 @@ aliases:
 ## Квадрациклы {#quad-bikes}
 
 Вся эта катавасия под названием «джип-сафари» длится примерно с одиннадцати утра и до восьми вечера, и называется она так потому что передвигаемся мы по пустыне на джипах «Тойота» — целая стая их везёт в сумме человек сорок.
+
 {{< imgfig "https://1.bp.blogspot.com/-NeG62g3aR_4/UsQMeeyPzjI/AAAAAAAAbQo/zI7bbL57GPw/s1600/dsc02391.picasaweb.jpg" >}}
 
 Нас привезли на основное место дислокации по имени «Safari Land». Квадрациклы поднимают в пустыне густые облака пыли, поэтому нам первым делом повязали платки-арафатки.
 
 После краткого инструктажа по технике безопасности и назначению кнопок квадрацикла всем приладили шлемы и рассадили на квадрациклы «Хонда»: женщин на красненькие, а мужиков на брутальные, цвета «мокрый танк». При выезде сфотографировали на ~~памятник~~ память (фото раздали уже вечером, во время ужина):
+
 {{< imgfig "https://2.bp.blogspot.com/-3S5JVvTDirc/UsQKANsPTJI/AAAAAAAAbDY/3yriz_YQ7S8/s1600/2013-12-27+-+dima+-+jeep+safari+-+quad+bike.picasaweb.jpg" >}}
 
 Сначала нас отправили в обязательный тестовый заезд — для проверки на вменяемость. Там мы пару раз проехали цепочкой по кругу и, наконец, выехали в настоящую пустыню.
 
 Во время поездки на квадрацикле не то, что снимать, — вообще руки от руля запрещено убирать. По обе стороны от водителя расположены жизнерадостные предупреждения, что несоблюдение правил ТБ ведёт к неминуемой мучительной смерти (~~а там и фото на памятник пригодится~~):
+
 {{< imgfig "https://1.bp.blogspot.com/-plsRsspdnRE/UshTR07_aAI/AAAAAAAAbfI/87VBb8BIMLg/s1600/img_20131227_121233.picasaweb.jpg" >}}
+
 {{< imgfig "https://2.bp.blogspot.com/-uYmJ8YQgLOQ/UshTTdvJR7I/AAAAAAAAbfQ/6VTg_Kyq364/s1600/img_20131227_121239.picasaweb.jpg" >}}
 
 Квадрацикл — штуковина мощная, развивает скорость в 60–70 км/ч, что на пересечённой пустынной местности ощущается всем организмом, как снаружи, так и изнутри. К этому добавить ещё клубы пыли, поднимаемые впереди идущими машинами — руки от руля убирать не очень-то и хочется на самом деле.
 
 Все едут друг за другом, цепочкой:
+
 {{< imgfig "https://2.bp.blogspot.com/-W6uaaPOrl68/UsQOrR9qqqI/AAAAAAAAbdg/nPKKKgADI04/s1600/img_20131227_122923.picasaweb.jpg" >}}
 
 Фото я сделал на телефон во время перекура:
+
 {{< imgfig "https://1.bp.blogspot.com/-ZU6NSQJgRFY/UsQOpEhL4ZI/AAAAAAAAbdQ/gRDlyMwrf2o/s1600/img_20131227_122528.picasaweb.jpg" >}}
 
 Дамы ехали чуть медленнее, присоединились к нам через несколько минут.
 
 Вдали стоит видеооператор со своей камерой. Он, вопреки всем правилам, сидит вторым на квадрацикле, позади водителя, и снимает наши успехи.
+
 {{< imgfig "https://3.bp.blogspot.com/-8VJ8VSBKo_o/UsQOsh6UhUI/AAAAAAAAbdo/dFG7LT3rF94/s1600/img_20131227_123301.picasaweb.jpg" >}}
 
 Вот семиминутный отрывок из видео — выезд, тест-драйв и основной заезд:
+
 {{< youtube "33KXQvKDxuQ" >}}
 
 Вот, собственно, весь рассказ про квадрациклы. Всё вместе, включая тест-драйв, длилось около часа. Для пустыни это, наверное, самый лучший вид транспорта — если не боишься пыли, конечно.
@@ -68,9 +77,11 @@ aliases:
 ## Мираж {#mirage}
 
 После этого нас вновь рассадили по джипам и повезли вглубь пустыни. Где-то за пару километров от синеющих вдали гор, как оказалось, находится Место, Откуда Видно Мираж. Краткий инструктаж с объяснением принципов возникновения миража:
+
 {{< imgfig "https://3.bp.blogspot.com/-dcWe6BW5SOc/UsQMSwXNyLI/AAAAAAAAbPo/jrdKxzLJamE/s1600/dsc02370.picasaweb.jpg" >}}
 
 А вот и он сам — попробуйте найдите его на фото:
+
 {{< imgfig "https://4.bp.blogspot.com/-FdCAYM8gcqQ/UsQMQUS2l6I/AAAAAAAAbPY/qPTY1T9uKgY/s1600/dsc02367.picasaweb.jpg" >}}
 
 Не получается?
@@ -78,96 +89,130 @@ aliases:
 Если присмотреться, то перед первой грядой невысоких холмов можно заметить некое подобие водоёма — при этом на самом деле там нет ничего, кроме песка. Это и есть мираж — так называют только иллюзию далёкой воды. Все прочие виды пустынных иллюзий — это не миражи.
 
 Некоторые даже взбирались на машину, чтобы получше его разглядеть:
+
 {{< imgfig "https://4.bp.blogspot.com/-mzbHv-kTEVo/UsQMV6lDPtI/AAAAAAAAbP4/YcN-yCBPVQw/s1600/dsc02375.picasaweb.jpg" >}}
 
 ## Гора {#mountain}
 
 Следующая остановка — около той самой гряды холмов, перед которой виднелся мираж.
+
 {{< imgfig "https://1.bp.blogspot.com/-N7400Y3JzGU/UsQMiAsVViI/AAAAAAAAbRA/6VwxmiuyIa4/s1600/dsc02396.picasaweb.jpg" >}}
 
 С одного из них, тридцати метров высоты, можно получить неплохой обзор окружающей местности. Все карабкаются на гору-холм, джипы тем временем объезжают гряду, чтобы встретить нас с противоположной стороны. Кстати, в центре — та самая голландская семья с шестью детьми из {{< a "0209" "предыдущей серии" >}}:
+
 {{< imgfig "https://2.bp.blogspot.com/-jW6ISRpb5KI/UsQMmTTvDqI/AAAAAAAAbRY/n9YnZ-0qaxg/s1600/dsc02413.picasaweb.jpg" >}}
 
 Виды с вершины:
+
 {{< imgfig "https://2.bp.blogspot.com/-3ig8UMBVojM/UsQMjnhqkBI/AAAAAAAAbRI/aSw2qaqU-Xk/s1600/dsc02404.picasaweb.jpg" >}}
+
 {{< imgfig "https://1.bp.blogspot.com/-58UOtGeb4DE/UsQMpP4VMyI/AAAAAAAAbRo/bubNL2YwV-c/s1600/dsc02416.picasaweb.jpg" >}}
+
 {{< imgfig "https://2.bp.blogspot.com/-z2jtYEZgFoc/UsQMr4_ODvI/AAAAAAAAbR4/0kf3n1AoO9k/s1600/dsc02421.picasaweb.jpg" >}}
 
 Парочка панорам:
+
 {{< imgfig "https://3.bp.blogspot.com/-C2z6QnH5bPw/UsQMqvtojDI/AAAAAAAAbRw/N7TsJl2OvRE/s1600/dsc02418.picasaweb.jpg" >}}
+
 {{< imgfig "https://3.bp.blogspot.com/-GdSN1UnDKis/UsQMwWjIDtI/AAAAAAAAbSQ/HL5EhIRlNd8/s1600/dsc02433.picasaweb.jpg" >}}
 
 Джипы уже поджидают нас у противоположного склона:
+
 {{< imgfig "https://2.bp.blogspot.com/-8qZgZ7HPU3A/UsQMn67fkxI/AAAAAAAAbRg/aI2a-9Zdun0/s1600/dsc02415.picasaweb.jpg" >}}
 
 Этот склон, в отличие от первого, не каменистый, а песчаный, спускаться по нему намного веселее. Кто-то делает это бегом, кто-то прыжками, кто-то ­— на пятой точке.
+
 {{< imgfig "https://3.bp.blogspot.com/-DaCYKV2k9cQ/UsQM0jZe4iI/AAAAAAAAbSo/Nx2QGwH1Eq8/s1600/dsc02444.picasaweb.jpg" >}}
 
 ## Багги {#buggy}
 
 Мы едем дальше, в некую бедуинскую деревню под названием «Сахара-Парк». Джип петляет между горами-холмами.
+
 {{< imgfig "https://3.bp.blogspot.com/-jRDR7ggrTdc/UsQM3Qcea8I/AAAAAAAAbS4/r6iqU45uoS0/s1600/dsc02453.picasaweb.jpg" >}}
+
 {{< imgfig "https://1.bp.blogspot.com/-ISJlSeDZjSI/UsQM4_S4m7I/AAAAAAAAbTA/7cHaVHIqVdY/s1600/dsc02460.picasaweb.jpg" >}}
 
 Сахара-Парк — это такой слегка огороженный и немного облагороженный кусок пустыни.
+
 {{< imgfig "https://4.bp.blogspot.com/-eQMj9eQh700/UsQNYXjJ9OI/AAAAAAAAbVw/JA7aA5_c2SM/s1600/dsc02543.picasaweb.jpg" >}}
 
 Нас предупредили, что это не настоящие бедуины, а туристические. Ну ладно, мы не в претензии.
 
 Багги — это такая четырёхколёсная повозка, но в отличие от квадрацикла двухместная и с рамой. И самое главное отличие — едет она со скоростью пешехода, так что даже инструктаж по технике безопасности не требуется.
+
 {{< imgfig "https://3.bp.blogspot.com/--lbfdLhUfDQ/UsQM-mbuHAI/AAAAAAAAbTg/8teOTBRSMlM/s1600/dsc02476.picasaweb.jpg" >}}
 
 Добавить тут, в общем-то, нечего — вся поездка на багги занимает минут пять, в течение которых мы делаем один круг вокруг холма, как обычно, цепочкой.
+
 {{< imgfig "https://1.bp.blogspot.com/-Q1LUIgLHSlk/UsQM7m7wC0I/AAAAAAAAbTQ/p6KsAnJPOgA/s1600/dsc02467.picasaweb.jpg" >}}
 Вот небольшое [видео](http://www.youtube.com/watch?v=5_BzUOrSW3s), снятое изнутри, так сказать, процесса.
 
 ## Террариум {#terrarium}
 
 После «ланча», состоявшего из двух малюсеньких булочек и бутылки воды, нас ~~откормленных~~ повели в террариум, расположенный тут же, в Сахара-Парке.
+
 {{< imgfig "https://1.bp.blogspot.com/-pQ13MK_gtu0/UsQNJtkzoRI/AAAAAAAAbUg/04tLeTjpGXo/s1600/dsc02496.picasaweb.jpg" >}}
 
 Рептилии были в восторге, да и нам тоже понравилось.
+
 {{< imgfig "https://1.bp.blogspot.com/-lEV3X8Ob8oo/UsQNFsJpr9I/AAAAAAAAbUI/6eZFm-Z7poo/s1600/dsc02490.picasaweb.jpg" >}}
+
 {{< imgfig "https://3.bp.blogspot.com/-WbhUZBMtgjI/UsQNBRLiS8I/AAAAAAAAbTw/7T9xlC2-iHM/s1600/dsc02480.picasaweb.jpg" >}}
+
 {{< imgfig "https://4.bp.blogspot.com/-Ak-QZaUSaPk/UsQNHDG_2BI/AAAAAAAAbUQ/ikOkGsz61Cg/s1600/dsc02492.picasaweb.jpg" >}}
+
 {{< imgfig "https://3.bp.blogspot.com/-6EAC-vguI-k/UsQNC13qf3I/AAAAAAAAbT4/vaEf8ifHUVE/s1600/dsc02481.picasaweb.jpg" >}}
+
 {{< imgfig "https://4.bp.blogspot.com/-Uy09phcs9-0/UsQNEemPl3I/AAAAAAAAbUA/L5P_RKDGCN4/s1600/dsc02482.picasaweb.jpg" >}}
+
 {{< imgfig "https://4.bp.blogspot.com/-ThCyCLI4AqI/UsQNIXEJ8LI/AAAAAAAAbUY/fwDP37qvN_Q/s1600/dsc02494.picasaweb.jpg" >}}
+
 {{< imgfig "https://2.bp.blogspot.com/-NS4gf9tiQtQ/UsQNLC-YdPI/AAAAAAAAbUo/OqBepQhsMQw/s1600/dsc02500.picasaweb.jpg" >}}
 
 Самым прикольным было подержать живую египетскую кобру. Она такая прохладноватая и на ощупь напоминает нейлоновый шланг, всё норовила обвиться вокруг моей руки.
+
 {{< imgfig "https://2.bp.blogspot.com/-F6AXMawDxuM/UsQNMnCKokI/AAAAAAAAbUw/Po9Z0QEByG0/s1600/dsc02502.picasaweb.jpg" >}}
 
 А также саламандру:
+
 {{< imgfig "https://1.bp.blogspot.com/-XiXPLABbtzk/UsQNPfApLDI/AAAAAAAAbVA/xORSrUZ4XwU/s1600/dsc02515.picasaweb.jpg" >}}
 
 Кое-какая живность содержится во дворе. Например, трёхсотлетняя черепаха размером с небольшой танк:
+
 {{< imgfig "https://4.bp.blogspot.com/-09hU04QpfLs/UsQNQ5byg-I/AAAAAAAAbVI/vfWIn-0_TUU/s1600/dsc02519.picasaweb.jpg" >}}
 
 Она за свои триста лет наверняка привыкла, что ей в панцирь постоянно стучат.
 
 Страус (точнее, страусиха) и эму, две крупнейшие птицы современной фауны:
+
 {{< imgfig "https://4.bp.blogspot.com/-bCptsxbjO5I/UsQNT1zdFYI/AAAAAAAAbVY/vQ1o7LXTNiQ/s1600/dsc02530.picasaweb.jpg" >}}
+
 {{< imgfig "https://2.bp.blogspot.com/-GmiNIWD4y9w/UsQNdC-JUcI/AAAAAAAAbWI/IfbJu0rWqMY/s1600/dsc02553.picasaweb.jpg" >}}
 
 Даже маркировка туалетов — в птичьей тематике:
+
 {{< imgfig "https://1.bp.blogspot.com/-GSiA_LB2_Yg/UsQNezxEHSI/AAAAAAAAbWQ/UKMCVZF_p3I/s1600/dsc02554.picasaweb.jpg" >}}
 
 Крокодилы, содержащиеся в двойной клетке, забавно рычали, когда их дразнили палкой:
+
 {{< imgfig "https://2.bp.blogspot.com/-J6fVsg5JZtc/UsQNbt4WrDI/AAAAAAAAbWA/wTSL1x6Xuw8/s1600/dsc02550.picasaweb.jpg" >}}
 
 ## Бедуины и верблюды {#bedouins-and-camels}
 
 Дальше мы направились к бедуинам. Хоть они и не взаправдашние, замызганы они вполне по-настоящему, особенно дети.
+
 {{< imgfig "https://2.bp.blogspot.com/-Wfepdfd0DvA/UsQNowqHnZI/AAAAAAAAbXI/gF6V75LKl64/s1600/dsc02579.picasaweb.jpg" >}}
+
 {{< imgfig "https://3.bp.blogspot.com/-XlpBaXMyuMU/UsQNnqtAQgI/AAAAAAAAbXA/kws_uvypCKw/s1600/dsc02575.picasaweb.jpg" >}}
 
 Зарабатывают они в основном тем, что за деньги катают туристов на верблюдах, а также продают всякие народные снадобья.
 
 Тут же припарковано с десяток верблюдов. Сначала, как обычно, лекция от нашего гида о принципах работы верблюдов (у них три желудка, они могут обходиться без воды до двух недель и за раз выпивают до 70 л) и технике безопасной езды. После этого девочки, рулящие этими животными, выхватывают будущих наездников из толпы («Мистер, мистер! Мадам!») и настойчиво приглашают залезть в седло.
+
 {{< imgfig "https://2.bp.blogspot.com/-D6rInKPpzp0/UsQNgMapaEI/AAAAAAAAbWY/neTn4prpa3M/s1600/dsc02556.picasaweb.jpg" >}}
 
 В состоянии покоя верблюд лежит пузом на земле, так что сесть на него не составляет труда. Спереди и сзади от седла у него этакие штырьки, за которые можно (и нужно) держаться при посадке. После этого, по команде хозяйки, верблюд сначала распрямляет задние ноги (поэтому, чтобы не скувыркнуться с него, нужно заранее отклониться назад), а потом передние. И вот —
+
 {{< imgfig "https://1.bp.blogspot.com/-PXp0h4cz7Go/UsQNi1GSZpI/AAAAAAAAbWo/8PQTfAyySao/s1600/dsc02562.picasaweb.jpg" >}}
 
 Вся поездка длится ещё меньше, чем на багги — с пару минут, вот небольшое [видео](http://www.youtube.com/watch?v=MkKUQ4MMHd8) с точки зрения всадника. Через полсотни метров девочки разворачивают транспортное средство и возвращают наездника в исходную точку. Ложится обратно на землю (сначала на передние ноги, потом на задние) верблюд почему-то с большой неохотой, так что владелице приходится колотить ему по шее.
@@ -175,33 +220,41 @@ aliases:
 После этого наступает пора нового заклинания: «Мани, мани!» Любопытно, что наш англоязычный гид сказал нам, что эти девочки зарабатывают только с чаевых, даваемых туристами, в то время как русская, сопровождавшая соотечественников, наоборот утверждала, что с ними делятся компании, проводящие туры, и поэтому ничего им давать не нужно. Кто их разберёт.
 
 Следующий пункт программы: выпечка и последующая дегустация бедуинского хлеба из муки и воды. Одна женщина, помоложе, молниеносно раскатывает блин:
+
 {{< imgfig "https://4.bp.blogspot.com/-uObS_UC0vhs/UsQNqi8gWqI/AAAAAAAAbXQ/vpibYKZWHz4/s1600/dsc02580.picasaweb.jpg" >}}
 
 Другая, довольно зловещего вида вдова, заведует выпечкой и переворачиванием:
+
 {{< imgfig "https://2.bp.blogspot.com/-ScQb-fcqsao/UsQNsI11xEI/AAAAAAAAbXY/yMmwskYrajk/s1600/dsc02586.picasaweb.jpg" >}}
 
 Переворачивание осуществляется проволочкой, которой вдова орудует довольно умело:
+
 {{< imgfig "https://4.bp.blogspot.com/-zY0paQqD3Rk/UsQNvI8z2kI/AAAAAAAAbXo/Wb93l8ZhEH0/s1600/dsc02592.picasaweb.jpg" >}}
 
 Кстати, топливом для этой импровизированной хлебопечи служит — что бы вы думали? — верблюжий помёт. Пустыня всё-таки, дров так просто не найти. Через пару минут хлеб готов:
+
 {{< imgfig "https://2.bp.blogspot.com/-waHEpiVLkwk/UsQNtqJ8fvI/AAAAAAAAbXg/APVF8EW5XUk/s1600/dsc02588.picasaweb.jpg" >}}
 
 На вкус он, как и ожидалось, довольно пресен, но вполне съедобен.
 
 Следующей была выставка народных бедуинских ремёсел и медицины в отдельном шатре.
+
 {{< imgfig "https://4.bp.blogspot.com/-0Gwy2KDGacg/UsQNwrZh8RI/AAAAAAAAbXw/QCaAZZuAWoQ/s1600/dsc02594.picasaweb.jpg" >}}
 
 Наш гид объясняет назначение разных бальзамов и снадобий. Например, палочки, лежащие перед ним — это ни что иное как бедуинские зубные щётки, изготовленные из какое-то хитрой древесины. Достаточно пожевать такую палочку в течение нескольких минут — и зубы как новые.
+
 {{< imgfig "https://2.bp.blogspot.com/-NrQ23RKyjQQ/UsQNyOE9ZQI/AAAAAAAAbX4/cuM5JzRnnoA/s1600/dsc02596.picasaweb.jpg" >}}
 
 Публика, тем не менее, относится к чудодейственным средствам довольно настороженно, спрос на снадобья оказался невысок.
 
 Последний пункт программы в Сахара-Парке — традиционное египетское ремесло, рисование фигурок верблюдов и рыбок в стеклянных колбочках разноцветным песком. На наших глазах мастер за несколько минут создаёт очередную картину в колбе, под конец поливая её каким-то клеящим составом для стабильности ([видео](http://www.youtube.com/watch?v=9dI7XsDshK8)).
+
 {{< imgfig "https://4.bp.blogspot.com/-1q5EoZq9GxQ/UsQM_0OPqNI/AAAAAAAAbTo/txTUxeVOtx0/s1600/dsc02478.picasaweb.jpg" >}}
 
 Колбочки тут же предлагаются на продажу за сумму около 5 евро. Впрочем, их можно сколько угодно найти на улицах Хургады — где-то мы даже видели цену в одно евро.
 
 Время подходит к пяти, солнце начинает садиться за горы — пора обратно на нашу базу. Мы трясёмся минут сорок по ухабам в джипе; смеркается, видны фары квадрациклов, едущих в том же направлении:
+
 {{< imgfig "https://3.bp.blogspot.com/-8NDOq2DMuvw/UsQNzkeu1gI/AAAAAAAAbYA/0RssdSnCjA4/s1600/dsc02608.picasaweb.jpg" >}}
 
 Насколько же надёжными должны быть эти машины, чтобы выдерживать такие поездки!
@@ -213,29 +266,37 @@ aliases:
 Нас ждал ужин, неожиданно приличный, и «восточное шоу». Шоу бы понравилось больше, если бы не звук — организаторы явно считали, что чем громче — тем лучше, а качество записи было ужасным.
 
 Первым номером были два хлопца в длинных юбках. Они как начали крутиться в одно сторону, так и продолжали на протяжении минут пятнадцати — это, собственно, было наиболее впечатляющим в их выступлении. Крутясь, параллельно они делали пассы какими-то штуковинами, напоминающими бубны.
+
 {{< imgfig "https://4.bp.blogspot.com/-mYCXCySuLGI/UsQN2e1ZlEI/AAAAAAAAbYQ/FOMKrSAHXeg/s1600/dsc02618.picasaweb.jpg" >}}
 
 В какой-то момент, когда публика уже немного заскучала, они что-то нажали на своих юбках, и те засветились огоньками — это было довольно неожиданно:
+
 {{< imgfig "https://4.bp.blogspot.com/-4vqQNktmlJU/UsQN3kWkvGI/AAAAAAAAbYY/wryc5ZfiEBM/s1600/dsc02627.picasaweb.jpg" >}}
 
 Следующим номером был танец живота. Девушка развлекала в основном мужскую часть населения. ~~Женская тем временем фыркала.~~
+
 {{< imgfig "https://2.bp.blogspot.com/-Re2USWAr2F0/UsQN6giruII/AAAAAAAAbYo/Cks4ysOQjN8/s1600/dsc02650.picasaweb.jpg" >}}
 
 Как же такое не запечатлеть на видео? Вот оно:
+
 {{< youtube "K1Y3Vkc-jgw" >}}
 
 [Часть 1](http://www.youtube.com/watch?v=K1Y3Vkc-jgw) | [Часть 2](http://www.youtube.com/watch?v=BIBHe8a2pn4) | [Часть 3](http://www.youtube.com/watch?v=mCE3noKBnLE)
 
 Потом было ещё несколько номеров, включая один с участием публики: около половины зрителей водили хоровод по сцене.
+
 {{< imgfig "https://1.bp.blogspot.com/-ILmI0l2ksi4/UsQN-iGdpHI/AAAAAAAAbZA/hC_Dd2jsoRI/s1600/dsc02669.picasaweb.jpg" >}}
 
 Парни продолжали крутить свои юбки — теперь уже над головой:
+
 {{< imgfig "https://2.bp.blogspot.com/-C-yPX5Tl5-o/UsQN9RWFvCI/AAAAAAAAbY4/Iw41kTex3uI/s1600/dsc02667.picasaweb.jpg" >}}
 
 Также присутствовали пара акробатов на трёхметровых ходулях, довольно ловко разгуливающих на них среди публики:
+
 {{< imgfig "https://2.bp.blogspot.com/-O9FGaUOZALk/UsQOADYA7FI/AAAAAAAAbZI/sMOtgvMceUg/s1600/dsc02674.picasaweb.jpg" >}}
 
 Ну, и финальным номером было неимоверно затянутое выступление «египетского йога». Он продемонстрировал своё пренебрежение гвоздями и битым стеклом, что характерно, используя в качестве ассистенток исключительно девушек из аудитории:
+
 {{< imgfig "https://2.bp.blogspot.com/-tYshU0nnNIk/UsQOBtbsn1I/AAAAAAAAbZQ/EnTSVIvjtYA/s1600/dsc02679.picasaweb.jpg" >}}
 
 После этого было ещё «наблюдение за звёздами», но это было уж совсем смешно. Звёзды-то были в полном порядке, в пустыне их видно просто здорово — а наш гид ещё и назвал некоторые созвездия, показывая на них лазерной указкой. Смешной была организация: представьте себе очередь человек в сто к одному-единственному телескопу. У каждого было в распоряжении около двух секунд, чтобы полюбоваться Юпитером и его спутниками. К тому же, телескоп постоянно толкали, сбивая его настройку, и главный звездочёт вынужден был его каждый раз поправлять.

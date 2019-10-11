@@ -23,4 +23,5 @@ aliases:
 Новое счастье станет доступно уже с 17 ноября, и опробуют новинку на новом {{< fl "Harry Potter and the Deathly Hallows Part 1" >}}.
 
 Вот промовидео чудо-технологии:
+
 {{< youtube "lJCD1-85Fnk" >}}

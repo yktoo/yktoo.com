@@ -28,6 +28,7 @@ In my post I'd like to highlight the greediness of {{< fl "Nestlé" >}}. Just re
 {{< imgfig "https://1.bp.blogspot.com/-0T9oV-MuxwQ/XXe4_Bt2IiI/AAAAAAAAxRc/SCAdVkhV0CIrRciW9-sDO9kq8G-uD1q5gCKgBGAs/s1600/20190907_101315.w.jpg" "Nespresso Vertuo cups." >}}
 
 They're almost twice as expensive: starting at **60** eurocents a piece vs. 35-40 eurocents for the previous generation. Furthermore, to really challenge the customers' commitment to *Nespresso*, these cups can *again* be only purchased at Nespresso brand stores or ordered via Internet.
+
 {{< imgfig "https://1.bp.blogspot.com/-pXczPnSzlHA/XXe4_PxedeI/AAAAAAAAxRc/vef9BJHaqqI0u5x1-zH0Sx8esw4GCzL-wCKgBGAs/s1600/20190907_101305.w.jpg" "Nespresso Vertuo cups." >}}
 
 To lure you in they've priced the coffee machine as low as **€ 79**. Which is fine for them I guess, as you're going to spend way more on the cups afterwards.

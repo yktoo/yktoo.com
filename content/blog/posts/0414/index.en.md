@@ -24,6 +24,7 @@ I'd like to start filling my {{< a "0413" "newborn Glossary" >}} with the term {
 A {{< fl "gemeente" >}} is the smallest administrative unit in the Netherlands. The cities of Amsterdam and Rotterdam also had sub-units called {{< wiki "Deelgemeente_(Nederland)" "nl" "deelgemeente" >}} in the past, but in **2014** the number of administrative layers in the country has been reduced to only two.
 
 Currently the Netherlands is divided into *provinces*, which, in turn, are subdivided into *municipalities*, a.k.a. {{< fl "gemeente" >}}s. As of 1 January {{< year 2019 "this year" >}} the European part of the country is {{< wiki "Lijst_van_Nederlandse_gemeenten" "nl" "made up" >}} by **355** municipalities.
+
 {{< imgfig "https://1.bp.blogspot.com/-5rD60FbABvo/XZryM5LFx3I/AAAAAAAAyag/Gcg5Y-Hwhpw3IYZQMxoWky7VOozExiCjwCKgBGAsYHg/s1600/gemeenten.webp" "All continental Dutch provinces and municipalities. Map by gemeentenatlas.nl." >}}
 
 Next to these continental units there are also three Antilles territories, which bear a special status.

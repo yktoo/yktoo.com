@@ -21,6 +21,7 @@ The [savemyday.nl](http://www.savemyday.nl/) website is essentially yet another 
 {{< wiki "Intralasik" "en" "IntraLASIK" >}} laser surgery (claimed to be the most advanced one) in [IRIS Ooglaseren](http://www.irisooglaseren.nl/), regular price € 5000 (includes preliminary examination, the operation itself and subsequent checks), was offered at 60% discount for € 1999. I decided to grab this chance: the discount is substantial, and the advanced technology drastically diminishes a risk of later complications.
 
 The IntraLASIK method is more advanced because instead of the metal surgical knife it engages a femtosecond laser to make a corneal flap. The flap is folded back, revealing the stroma, the middle section of the cornea. Then another, excimer laser remodels the shape of the stroma, and the flap is repositioned:
+
 {{< imgfig "https://4.bp.blogspot.com/-hVq9hZRxoUQ/Tl5ROA2oAtI/AAAAAAAAJkQ/rLdOOht87LY/s1600/intralasik.jpg" >}}
 
 But before that I had to go down a long path of attempts of buying the coupon. As SaveMyDay.nl has just started at that moment, it put a number of odd things on my way. They used MoneyBookers payment system, which can be a really good one on itself, with the only downside that a newly registered user has one-transaction limit of € 500. Whereas I needed, as you remember, to pay € 1999. In order to raise the limit the address of your residence has to be verified. Which is also no problem on itself: the send you a verification code by snail mail, which takes 3 or four days to deliver. Now the problem: a deal is active on SaveMyDay.nl during one day only, before midnight.
@@ -50,6 +51,7 @@ The next morning I had a mandatory check at the clinic: my eyesight improved fro
 You have to apply antibiotic eye drops during one week, and "artificial tears" once every hour during a month after the operation. You're not allowed to swim, do heavy sports or sunbathing for two weeks. You have to refrain from rubbing your eyes for 6 weeks. But the next day you may already read and use computer.
 
 The first night I had to sleep with this gear on my face:
+
 {{< imgfig "https://3.bp.blogspot.com/-ZyRylJxx5P4/Tl5urw7Rw_I/AAAAAAAAJkk/KjzebzclOM0/s1600/dsc06411.picasaweb.jpg" >}}
 
 **Update.** {{< a "0160" "Here are" >}} the results a year later.

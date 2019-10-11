@@ -21,6 +21,7 @@ On March 19, 2016 I've {{< a "0273" "passed" >}} my first dan {{< wiki "Aikikai"
 <!--more-->
 
 Fast forward a year and a half, on **July 7<sup>th</sup>, 2018** I was fortunate to have qualified for the **second dan** (*nidan*) before Marc Jongsten at {{< a "https://aikidoleiden.nl/" "Aikido Centrum Leiden" >}}.
+
 {{< imgfig "https://1.bp.blogspot.com/-QlLyG9o2CoQ/XWPBXGUjxHI/AAAAAAAAwjg/IKBNfLbk-Ug7uU_aC0cyQJbvVS__djelwCKgBGAs/s1600/dsc08130.picasaweb.jpg" "Photo from the July 7<sup>th</sup> seminar. I'm at the bottom right." >}}
 
 Obviously I couldn't refrain from filming this notable event:
@@ -30,9 +31,11 @@ Obviously I couldn't refrain from filming this notable event:
 The exam consisted of two parts: a proper aikido test which verified how well one mastered various aikido techniques, and a bokken (wooden sword) kata demonstration. My *uke* (the attacker) was a bit stiff and gawky, furthermore he had a hard time managing the sword (which is quite noticeable on the video). But alright, nobody's perfect.
 
 I've passed that exam. In December same year a nidan certificate has arrived:
+
 {{< imgfig "https://1.bp.blogspot.com/-5JN4RxTI4XA/XWO8e92fW7I/AAAAAAAAwjQ/yO6Ym0xWM1cTo0rBtUFXbt1yaiutmZ23QCKgBGAs/s1600/dsc08574.picasaweb.jpg" "The presentation of the certificate." >}}
 
 This document looks very much like the previous one, with the word {{< fl "shodan" >}} ({{< fl "初段" >}}) replaced with {{< fl "nidan" >}} ({{< fl "弐段" >}}):
+
 {{< imgfig "https://1.bp.blogspot.com/-hYsQr5Le9II/XWO8e1JyqKI/AAAAAAAAwjQ/lHIm_JQdrX42aXusW4DyR0w5LnmhgqVtwCKgBGAs/s1600/dsc08602.picasaweb.jpg" "Second dan Aikikai certificate." >}}
 
 It's the first time I noticed it's not entirely hand-written as some, printed, characters have a slightly different tint.

@@ -25,9 +25,11 @@ image: "https://1.bp.blogspot.com/-5Itgh2pP_yY/XY4rtDUhZ1I/AAAAAAAAyEY/5RestFWzf
 ## Комплект
 
 Поставляется он в традиционной для {{< fl "Xiaomi" >}} минималистично-белой картонной коробке.
+
 {{< imgfig "https://1.bp.blogspot.com/-5Itgh2pP_yY/XY4rtDUhZ1I/AAAAAAAAyEY/5RestFWzfJYxpXJhkOgGik2SLY43lDk1wCKgBGAsYHg/s1600/20180901_140444.w.jpg" "Девайс в упаковке." >}}
 
 В комплекте, помимо штопора — довольно увесистого — инструкция на китайском, нож для срезания плёнки с горлышка и кабель {{< fl "USB — Micro USB" >}} для зарядки. Собственно {{< fl "USB" >}}-адаптера в коробке нет.
+
 {{< imgfig "https://1.bp.blogspot.com/--biQ6IIYQ-Y/XY4rtJ-UjTI/AAAAAAAAyEY/t05eHAeD2dgJ9gfvypBhRgEVK0dYryEXwCKgBGAsYHg/s1600/20180901_140653.w.jpg" "Комплект поставки штопора." >}}
 
 ## Использование
@@ -39,6 +41,7 @@ image: "https://1.bp.blogspot.com/-5Itgh2pP_yY/XY4rtDUhZ1I/AAAAAAAAyEY/5RestFWzf
 * Потом нужно зажать кнопку «Вверх» — штопор вывинтится из пробки и вытолкнет её прямо в подставленную урну.
 
 Вот как это выглядит в действии:
+
 {{< youtube "6Lf6czo4QCM" >}}
 
 ## Зарядка
@@ -46,6 +49,7 @@ image: "https://1.bp.blogspot.com/-5Itgh2pP_yY/XY4rtDUhZ1I/AAAAAAAAyEY/5RestFWzf
 Уровень заряда встроенного аккумулятора отображается четырьмя традиционными для {{< fl "Xiaomi" >}} белыми светодиодами, загорающимися при нажатии на одну из двух кнопок.
 
 Для зарядки его нужно подключить к любому {{< fl "USB" >}}-адаптеру, гнездо здесь стандарта {{< fl "Micro USB" >}}:
+
 {{< imgfig "https://1.bp.blogspot.com/-53DspUMuQmA/XY4rtECIYOI/AAAAAAAAyEY/H0X5mh_y_44WDFtR_mWyvXkauynZ5_BBACKgBGAsYHg/s1600/20180901_140832.w.jpg" "Зарядка штопора." >}}
 
 Полностью заряжается он за пару часов.

@@ -19,6 +19,7 @@ aliases:
 {{< imgfig "https://3.bp.blogspot.com/-4dWDKauaZ9w/WQ9rtxvqnCI/AAAAAAAAp6k/fYOJTXdKz8wp-pkMapkJmduGTb71QhdcgCPcB/s1600/dsc05177.picasaweb.jpg" "Здание со смайлами." >}}
 
 Проект жилого здания с магазинами в цокольном этаже был создан архитекторским бюро [Attika Architekten](http://www.attika.nl/projecten/plein-rond-de-eik). Иконки-смайлы расположены только на одной из его сторон.
+
 {{< imgfig "https://3.bp.blogspot.com/-ZI7EXGMDF_g/WQ9rt9ZppyI/AAAAAAAAp6k/9qYkJoUlTbgiHYZeHZH7I2OmZUyEEFfOwCPcB/s1600/dsc05178.picasaweb.jpg" "Смайлики." >}}
 
 Здание построено на площади в Ватхорсте, где растёт 150-летний дуб и которая так и называется: {{< fl "Plein Rond de Eik" >}}, «площадь вокруг дуба».
@@ -32,11 +33,13 @@ aliases:
 Он говорит, что идея посетила его в момент, когда он посмотрел на экран своего мобильника (как оригинально). Изначально он хотел сделать смайлики аутентичного жёлтого цвета, или даже позолоченные, но архитекторы этому решительно воспротивились — элементы оформления не должны слишком выделяться, посчитали они.
 
 Его команда отобрала 22 наиболее ходовых смайла, после чего отлила их в ~~граните~~ бетоне. В целях узнаваемости были выбраны лишь иконки с лицами.
+
 {{< imgfig "https://3.bp.blogspot.com/-7JT36cM95JI/WQ9rt__ScYI/AAAAAAAAp6k/DDDdJGZfdBEFOLtlBornTKquhZx2UHnMQCPcB/s1600/dsc05180.picasaweb.jpg" "Смайлики." >}}
 
 «Любопытно, что скажут археологи, когда через много веков откопают это здание», — был один из отзывов на это творение.
 
 Я бы тоже многое отдал за возможность это узнать.
+
 {{< imgfig "https://4.bp.blogspot.com/-H6W_2vbao6g/WQ9s9-6dI1I/AAAAAAAAp6w/oRKgK2FvnMQOmyMvPT3PIrITHkvb6d0nwCPcB/s1600/attika-vathorst-emojigebouw.picasaweb.jpg" "Changiz Tehrani. Фото Attika Architekten." >}}
 
 Терани:

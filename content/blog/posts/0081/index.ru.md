@@ -9,4 +9,5 @@ aliases:
 ---
 
 Вот так всегда…
+
 {{< imgfig "https://2.bp.blogspot.com/-z_ygXD2MGt8/TZhNiweyAJI/AAAAAAAAItc/hKBWjiklp1U/s1600/DSC01356.picasaweb.jpg" "Бедные, бедные пришельцы!" >}}

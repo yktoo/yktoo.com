@@ -113,38 +113,47 @@ As one might notice, it's packed with features. It's very unlikely you'll ever b
 ## Unboxing {#unboxing}
 
 The cardboard box is enormous, some two metres long and one metre high.
+
 {{< imgfig "https://2.bp.blogspot.com/-_RpStDaS4sc/VQQq3QVVtLI/AAAAAAAAhPc/BNSOCUF13qo/s1600/dsc07884.picasaweb.jpg" >}}
 
 Below it's shown beside a chair. It weighs more than fifty kilograms, so don't try to handle it alone. It's also only 25 cm thick, which makes it pretty unstable.
+
 {{< imgfig "https://1.bp.blogspot.com/-z5QJqfYV3NU/VQx1ivTfVQI/AAAAAAAAhSg/Gnsv3NsK45o/s1600/dsc07882_zoomed.picasaweb.jpg" >}}
 
 Notice the small letters—the company spared five euros by not shipping an HDMI cable with a TV of five thousand. Shame on you, Samsung.
 
 The upper part of the box can be easily pulled up after removing plastic latches below.
+
 {{< imgfig "https://1.bp.blogspot.com/-fQuuyUC2ApA/VQQq4M4yBhI/AAAAAAAAhPc/N0ONYD6-8E8/s1600/dsc07885.picasaweb.jpg" >}}
 
 The LED panel is held in place solely by the foam inserts at the opposite corners, so it wouldn't be a good idea to unpack the device during an earthquake.
 
 After removing the unnecessary inserts, we pull out an accessory box and both parts of the stand.
+
 {{< imgfig "https://2.bp.blogspot.com/-fbJN6TFvktA/VQQq4hZbsoI/AAAAAAAAhPc/GYaplj-8RXA/s1600/dsc07886.picasaweb.jpg" >}}
 
 This is the complete box contents: two remotes (with batteries, luckily), plastic inserts for a VESA mount, a power cable, an IR blaster, a CI+ adapter, two pairs of 3D glasses and a user's manual. No HDMI cable indeed, hmmm…
+
 {{< imgfig "https://2.bp.blogspot.com/-3RUMB_Srfm8/VQQq5E41FAI/AAAAAAAAhPc/wzTXkv5y1NU/s1600/dsc07887.picasaweb.jpg" >}}
 
 Let's start by temporarily fixing the TV on the stand. Upon connecting the device to the power, the first thing you notice is noise produced by a cooling fan. Yes, there is a fan in the TV, and you can hear it.
 
 The welcome wizard first asks for an Internet connection. You can choose between Ethernet and wireless, which are both built in.
+
 {{< imgfig "https://2.bp.blogspot.com/-3EYdiRUxvI0/VQQq5gl7waI/AAAAAAAAhPc/01v47yZJ-Gc/s1600/dsc07888.picasaweb.jpg" >}}
 
 After a few other screens with stuff like license agreement and privacy policy, you're asked to connect the IR Extender, a tiny puck-shaped box with a wire having a 3.5 mm jack at the other end.
+
 {{< imgfig "https://1.bp.blogspot.com/-B8zosw162LU/VQQq6lte0pI/AAAAAAAAhPk/zNrBJomypDY/s1600/dsc07890.picasaweb.jpg" >}}
 
 The jack is to be plugged into a special output at TV's back, whereas the extender has to be placed in front of your set-top box:
+
 {{< imgfig "https://1.bp.blogspot.com/-CKu5aqdVJCc/VQQq6-5LpNI/AAAAAAAAhPk/Iwq-9rp0-Rg/s1600/dsc07891.picasaweb.jpg" >}}
 
 With this extender the TV can control the set-top box and other devices, by switching them on and off, changing channels and bringing up the TV guide. Which is quite handy.
 
 The tenth, final screen promises that the device will get smarter with every passing day.
+
 {{< imgfig "https://4.bp.blogspot.com/-w0tBj55d8XM/VQQq7FPjA4I/AAAAAAAAhMk/pMQRR698UPg/s1600/dsc07892.picasaweb.jpg" >}}
 
 ## The look {#look}
@@ -152,15 +161,19 @@ The tenth, final screen promises that the device will get smarter with every pas
 {{< imgfig "https://2.bp.blogspot.com/-yofxPehwKDg/VQRRmuQ8RvI/AAAAAAAAhQY/OSGk2lA7xd0/s1600/UE75UH7500-front.picasaweb.jpg" >}}
 
 The monster looks pretty stylish. A very thin metal framing and no controls on the face side whatsoever. The foot made of pure aluminium weighs seven (!) kilos.
+
 {{< imgfig "https://3.bp.blogspot.com/-vAgojTpaGaI/VQRVNW0TR6I/AAAAAAAAhQw/bbJTmDOOChk/s1600/UE75UH7500-corner.jpg" >}}
 
 At the same time, the panel is incredibly thin, only 38 mm (1.5") without the stand.
+
 {{< imgfig "https://3.bp.blogspot.com/-OoXCJJognTg/VQRR5ymlieI/AAAAAAAAhQk/FFVaNx6XUZg/s1600/UE75UH7500-side.picasaweb.jpg" >}}
 
 Right below the screen there's a blue operation indicator. It can be configured via the TV's menu to be always on, always off or on when the TV is on:
+
 {{< imgfig "https://4.bp.blogspot.com/-qPpQHwPT6Yo/VQQq-PaispI/AAAAAAAAhNM/upoEZG_lU5c/s1600/dsc08028.picasaweb.jpg" >}}
 
 The back side of the device: a connector area on the left, four VESA mount holes in the middle and a power cable socket on the right. There is also a tiny joystick in the bottom left corner, which can be used to control the TV without a remote.
+
 {{< imgfig "https://1.bp.blogspot.com/-Vx4r1uWK4Yo/VQRXOzHcR8I/AAAAAAAAhRM/8RhxFM9UNE8/s1600/UE75UH7500-rear-full.jpg" >}}
 
 *Next:* {{< a "0244" "Part two. Connect and control" >}}

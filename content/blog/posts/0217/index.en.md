@@ -11,6 +11,7 @@ aliases:
 ---
 
 I've finally got to update my {{< a "/software/sound-switcher-indicator" "Sound Switcher Indicator" >}}. Version 1.2.0 adds support for selecting not only the input/output device, but also a specific port:
+
 {{< imgfig "https://3.bp.blogspot.com/-AcxuT-Iu-fQ/Uu4Qsv-K3qI/AAAAAAAAb1E/sXZ4SsxuFBc/s1600/Screenshot.png" >}}
 
 <!--more-->

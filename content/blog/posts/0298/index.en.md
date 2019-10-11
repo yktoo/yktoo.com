@@ -21,6 +21,7 @@ You wonder what's so smart about it?
 It's worth mentioning that almost all traffic-lights in the Netherlands are already fairly smart, in the good meaning of the word. They automatically switch to green based on the presence of various kinds of traffic. For that purpose sensors beneath the road are used for cars and bikes, and pedestrians use old-school buttons.
 
 Back to our intellectual traffic-light, the driver will reportedly be able to see the number of seconds until green light using a *special mobile application*. This super-function is only available in the [iOS version](https://itunes.apple.com/nl/app/verkeerplaza-verkeersinformatie/id510339308) of the app, which I ain't able to test because I don't have any iOS devices in house. But according to the [developers](http://www.infoplaza.nl/archives/2420/), it looks as follows:
+
 {{< imgfig "https://3.bp.blogspot.com/-egBDZPkVLgw/WDrFK8SbQMI/AAAAAAAAoVw/aePL_T1cvLo4mHVUq2YBMWP43l4VInrFwCPcB/s1600/verkeersplaza-app.picasaweb.jpg" "How it's supposed to look like. Image from www.infoplaza.nl." >}}
 
 The article doesn't provide any details about the technologies used, but claims that *"Verkeerplaza is the very first mobile app to connect to the smart traffic-light."* It is unclear though whether it connects to the light directly (via {{< fl "Wi-Fi" >}} or {{< fl "Bluetooth" >}}) or simply gets updates from the Internet (which sounds more plausible).

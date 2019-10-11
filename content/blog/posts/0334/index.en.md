@@ -23,4 +23,5 @@ When I came to the Netherlands on April 3, 2008, I could barely link English wor
 Since that day I've properly learned English and Dutch ~~and forgot Russian~~, found new friends, several times switched jobs, residence and marital status, bought an own house, started this blog, and registered an own business.
 
 That's why I also wish you to never give up, prioritise important things in life, be persistent and press ahead. And, most importantly, enjoy the process, because:
+
 {{< imgfig "https://2.bp.blogspot.com/-DCIYWdV7IJE/WsOU2fStpxI/AAAAAAAAsM4/Y59Y1UQhf1gu6dGaNgLTB5jaY41ZOvV2gCKgBGAs/s1600/Happiness%2Bis%2Ba%2Bjourney%252C%2Bnot%2Ba%2Bdestination.jpg" "Happiness is a journey, not a destination." >}}

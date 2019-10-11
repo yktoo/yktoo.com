@@ -26,6 +26,7 @@ aliases:
 * Также при остановке и запуске любого контейнера — причём необязательно посредством индикатора — выводится всплывающее уведомление.
 
 Вот как это выглядит:
+
 {{< imgfig "https://4.bp.blogspot.com/-aU2VIG_F2WA/WPMmyktgqLI/AAAAAAAApvo/K9MERC-7RTEixLhL6RJ8KUKK4WWokZknACPcB/s1600/Screenshot.png" "Скриншот Docker Indicator 0.1.0." >}}
 
 ## Установка {#install}

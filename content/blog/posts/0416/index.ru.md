@@ -36,9 +36,11 @@ image: "https://1.bp.blogspot.com/-GdDe1vd96iw/XZxrRlOwhkI/AAAAAAAAydA/l6lP9lpzy
 Американские компании {{< fl "Nikola" >}} и {{< fl "Tesla" >}} уже давно обещают запустить электрические грузовики в серию, но пока всё обещаниями и ограничивается.
 
 {{< fl "Nikola" >}} {{< a "https://www.trucks.com/2019/03/25/nikola-land-deal-arizona-truck-plant/" "планирует" >}} ежегодно производить до **35 000** штук с **2023** года.
+
 {{< imgfig "https://1.bp.blogspot.com/-4mjqgj31rp8/XZxrRq7rhBI/AAAAAAAAydA/2GelsiV3jP0iLVfNtxQk9wVIV7Witi1lwCKgBGAsYHg/s1600/nikola-one.jpg" "Nikola One." >}}
 
  {{< fl "Tesla" >}} {{< a "https://electrek.co/2019/06/11/tesla-pickup-semi-truck-timelines-elon-musk/" "утверждает" >}}, что первые {{< fl "Semi" >}} выйдут раньше: уже в конце **2020** года.
+
 {{< imgfig "https://1.bp.blogspot.com/-GdDe1vd96iw/XZxrRlOwhkI/AAAAAAAAydA/l6lP9lpzycsPcxSTghkVbCd_NQkWHt2tgCKgBGAsYHg/s1600/tesla-semi.jpg" "Tesla Semi." >}}
 
 ## Будет тесно

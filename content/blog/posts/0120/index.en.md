@@ -15,6 +15,7 @@ A while ago I made up my mind to upgrade my **Apple iMac 27"** from **Mac OS X 1
 My main system on this machine has always been Ubuntu.
 
 In theory, upgrading should not be a big pain. All you need is to buy Mac OS X Lion in Apple's AppStore:
+
 {{< imgfig "https://4.bp.blogspot.com/-rWdtd4OcDSA/TpFwBuwLH9I/AAAAAAAAJ7U/gVWYFQ1qvEQ/s1600/MacOSX-AppStore.picasaweb.png" >}}
 
 <!--more-->
@@ -26,11 +27,13 @@ In practice however, it is a bit more complicated.
 If you have an Apple ID account with a credit card linked to it, buying Lion is the most simple step, and very similar to how you do it in the mobile AppStore.
 
 Downloading three and a half gigabytes even on my {{< a "0100" "not really slow" "ru" >}} connection took much longer than I would expect: after a few hours the download progress gauge was still showing about one third of the bar. Apple servers seem to have issues with maintaining connections. Thus a practical advice: start and watch Network Utility, as soon as the *Received Packets* counter stopped spinning, right click the downloading Lion icon, select *Pause download*, and then immediately *Resume download*—data starts streaming through the wires again—until the next choke:
+
 {{< imgfig "https://1.bp.blogspot.com/--3Epw__Km7s/TpC_hgUYFII/AAAAAAAAJ6Q/YGEfVBaMcUs/s1600/MacOSX-NetworkUtility.png" >}}
 
 Exercising the pause option you can download Lion in a quarter on an hour.
 
 But the main trouble was still ahead. The setup program attacked me with a news that my hard disk was partitioned using MBR partitining scheme, whereas it would only install on a GUID partitioned disk, and because of that no installation was possible. You can use Disk Utility in order to check out what your disk partitioning scheme is:
+
 {{< imgfig "https://4.bp.blogspot.com/-5tIVVT6VyqY/TpC_BaxuX9I/AAAAAAAAJ50/MoO9PjCnL_w/s1600/MacOSX-DiskUtility.png" >}}
 
 If you see **GUID Partition Table** there, just like on the screenshot, you can feel happy. Otherwise there's no other option than to reinstall the whole system, because repartitioning a disk erases all data on it. And to be honest, I have no idea why my disk was partitioned that way; most likely I bought it already like that.
@@ -38,15 +41,19 @@ If you see **GUID Partition Table** there, just like on the screenshot, you can 
 So, with a deep sigh, I made backups of both Mac OS and Ubuntu, found the recovery DVD that came with my iMac and booted the system from it. The funny thing is that it wouldn't install Mac OS even from that DVD because of, yes,—the partitioning scheme. Therefore I opened Disk Utility from this disk and changed the scheme to GUID Partition Table. I also resized the main Mac OS partition to about a half of the available space, because the rest was meant for Ubuntu.
 
 Remaining steps are simple: you install OS 10.6 Snow Leopard and update it in the standard way (it will download some 1 GB), which creates an AppStore shortcut in the Dock. There you start downloading Mac OS 10.7 Lion again (you don't have to pay again if you've bought it already), with the tricks described above you make it download in a reasonable time, and install it without an issue. After reboot you see the new desktop with a new space theme:
+
 {{< imgfig "https://3.bp.blogspot.com/-8C_JqrPpAzU/TpFwFxX44QI/AAAAAAAAJ7g/t2sOw1pi6cA/s1600/MacOSX-Desktop.picasaweb.png" >}}
 
 There's already a lot of reviews on its new features and improvements. Among other things, the Dock has now got Mission Control, which gives you an overview of the whole desktop:
+
 {{< imgfig "https://4.bp.blogspot.com/-Xk0aGRU5sj8/TpFv9nBR4vI/AAAAAAAAJ7M/aGo6WqKPQus/s1600/MacOSX-MissionControl.picasaweb.png" >}}
 
 Launcher panel resembles iOS:
+
 {{< imgfig "https://3.bp.blogspot.com/-pvTNW6BQEiI/TpFwAK4zoyI/AAAAAAAAJ7Q/jiLL-v8J-fM/s1600/MacOSX-Launcher.picasaweb.png" >}}
 
 Before shutdown you can now opt to restore all open applications on next boot:
+
 {{< imgfig "https://2.bp.blogspot.com/-LyuXpZurNnI/TpC3TI6e4hI/AAAAAAAAJ5Y/Ixi8iTwULcA/s1600/MacOSX-RebootDialog.png" >}}
 
 ## Installing Ubuntu on iMac {#installing-ubuntu-on-imac}
@@ -58,6 +65,7 @@ I allocated required amount of free space on the HDD before installing Mac OS X.
 Unfortunately the standard BootCamp Assistant tool in Mac OS only recognizes Mac OS and Windows, and knows nothing about Linux. To get a boot menu you're going to need the old good [rEFIt](http://refit.sourceforge.net/): it's very easy to install, but note that you have to reboot the system twice before the boot menu shows up.
 
 After that you insert Ubuntu Live CD (I used Ubuntu 11.10 Oneiric Ocelot Beta 2), choose this disk in the rEFIt menu and install Ubuntu into the free space on the hard drive. The installation went smoothly even though it was a beta.
+
 {{< imgfig "https://2.bp.blogspot.com/-sRpujUuqDPU/TpFYMTs11EI/AAAAAAAAJ6k/Kj1VRTPJx2U/s1600/Ubuntu-Desktop.picasaweb.png" >}}
 
 The only issue is that the system hangs if you reboot it. To remedy that you have to edit `/etc/default/grub` (as `root`): the line

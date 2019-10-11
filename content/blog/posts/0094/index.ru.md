@@ -13,6 +13,7 @@ aliases:
 ---
 
 Google поражает осведомлённостью — уже поздравляет с Днём Королевы:
+
 {{< imgfig "https://3.bp.blogspot.com/-PhlZnQq-VwA/Tbs8QyR4TgI/AAAAAAAAIgw/qEis4bQu7eM/s1600/Koninginnedag.png" >}}
 
 <!--more-->

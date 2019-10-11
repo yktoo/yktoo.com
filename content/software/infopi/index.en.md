@@ -17,6 +17,7 @@ My own implementation is specifically crafted for:
 * Full HD monitor (1920&times;1080 pixels) in the portrait orientation.
 
 This is how the information page looks like:
+
 {{< imgfig "screenshot.png" "Screenshot of the application" >}}
 
 ## Getting started

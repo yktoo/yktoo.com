@@ -29,6 +29,7 @@ And Google isn't wrong here because {{< wiki "Great_tit" "en" "great tit" >}} an
 ## Die, mama, die
 
 Another example someone might find shocking at first glance:
+
 {{< imgfig "https://1.bp.blogspot.com/-MB92STzJb-E/XYztmLnu5aI/AAAAAAAAyDE/66Lvsr1D0Jg5ou8lpnLdquAE84dR3oKhwCKgBGAsYHg/s1600/mama-die-die-die.jpg" "Mama, die, die, die…" >}}
 
 Only a Dutch (or a German) will understand the kid is actually saying "Mom, this one, this one, this one please."

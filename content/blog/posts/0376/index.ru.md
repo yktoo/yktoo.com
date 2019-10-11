@@ -22,6 +22,7 @@ image: "https://1.bp.blogspot.com/-xoiEQ3pis2A/XXlcTE7yesI/AAAAAAAAxTI/T_yCx6-0A
 Шелдон Купер, при всей его любви к поездам, не мог даже и мечтать о таком.
 
 Крыльцо крупным планом. Всё сделано на совесть и совершенно по-настоящему:
+
 {{< imgfig "https://1.bp.blogspot.com/-xXPP8ZU133k/XXlcTDyDylI/AAAAAAAAxTI/JHw5MwIUISocpIgvL98xu_OWXXFL_Mv2ACKgBGAsYHg/s1600/20190903_202134.w.jpg" "Рельсокрыльцо покрупнее." >}}
 
 Молодец хозяин(ка), я этакое одобряю! Даже любопытно стало, что там, за этой дверью.

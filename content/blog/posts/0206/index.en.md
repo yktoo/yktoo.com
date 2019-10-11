@@ -16,6 +16,7 @@ It's been five years since {{< a "/software/dklang-localization-package" "DKLang
 <!--more-->
 
 That is, until now. The past couple of years [Embarcadero](http://www.embarcadero.com/) (the current group behind Delphi) have been expanding Delphi to new platforms using a new framework, {{< wiki "FireMonkey" "en" "FireMonkey" >}}. So now was the time to make a major update to DKLang. We've completely rewritten DKLang so that it now works on both 32 and 64 bit VCL projects and all current FireMonkey platforms (Win32, Win64, OSX, iOS and Android).
+
 {{< imgfig "https://1.bp.blogspot.com/-lQMvt4uzEB4/UqrhQFuH4-I/AAAAAAAAbAE/idD1wDQ5-8c/s1600/dklang-cross-platform.png" >}}
 
 As of version **DKLang 5.0** we're cross-platform, both desktop and mobile!
@@ -27,12 +28,15 @@ In the 4.x family there's also a minor **4.01 release**, which fixes handling of
 ## Sample app screenshots {#sample-app-screenshots}
 
 {{< imgfig "https://2.bp.blogspot.com/-bUSzfMcVXCY/UqoVOOMEfxI/AAAAAAAAa_s/OQ8CGF0PnI8/s1600/ConstantsDemoOnMacOS.picasaweb.png" "DKLang Constants Demo on Mac OS X." >}}
+
 {{< imgfig "https://4.bp.blogspot.com/-CFPDkdC6xNQ/UqoVNGWeLoI/AAAAAAAAa_k/9ZEG2mk_tzQ/s1600/ConstantsDemoOniOS.picasaweb.png" "DKLang Constants demo on iOS." >}}
+
 {{< imgfig "https://1.bp.blogspot.com/-w2Jh9X4qxiI/UqoVLwQ9mUI/AAAAAAAAa_c/BbVMe3ZzxDw/s1600/ConstantsDemoOnAndroid.picasaweb.png" "DKLang Constants demo on Android." >}}
 
 ## DKLang in Delphi IDE {#delphi-ide}
 
 Below is a screenshot of Delphi form designer and the new DKLang Translation Storage editor.
+
 {{< imgfig "https://3.bp.blogspot.com/-Ep_RJ3wHNnI/UqoVPBGXpHI/AAAAAAAAa_0/4Xcx3S1iWWU/s1600/IDE.picasaweb.png" "Delphi IDE with the Translation Storage editor." >}}
 
 ## Source code and documentation {#code-and-docs}

@@ -17,4 +17,5 @@ The application indicator for Ubuntu called {{< a "/software/sound-switcher-indi
 The new version makes use of GTK+ 3 and the trendy GObject Introspection (GIRepository). You can {{< a "/software/sound-switcher-indicator" "install" >}} it, as usual, from my [Launchpad PPA](https://launchpad.net/~yktooo/+archive/ppa/).
 
 And, as usual, a picture just to draw your attention:
+
 {{< imgfig "https://3.bp.blogspot.com/-mMvzn9ftuEM/UhoP0iFj0QI/AAAAAAAAaD0/nH3vnaPzgcM/s1600/dsc00889.picasaweb.jpg" >}}

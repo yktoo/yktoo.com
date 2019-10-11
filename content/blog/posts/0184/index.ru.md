@@ -18,6 +18,7 @@ aliases:
 ---
 
 И вновь 30 апреля, строго по плану, Нидерланды накрыло оранжевой волной. Нас опять настиг День Королевы, {{< fl "Koninginnedag" >}}, но этот раз — последний в современной истории страны.
+
 {{< imgfig "https://1.bp.blogspot.com/-9iGdLHzZkTc/UZVDNXWR8VI/AAAAAAAAX84/InSw7POOSBE/s1600/dsc08349.picasaweb.jpg" >}}
 
 <!--more-->
@@ -41,84 +42,113 @@ aliases:
 ## Музейная площадь {#museum-square}
 
 Так что мы решили не торопиться и прибыли на Музейную площадь ({{< fl "Museumplein" >}}) Амстердама в районе двух часов дня, как раз когда там началась трансляция церемонии коронации нового короля из Новой церкви ({{< fl "Nieuwe Kerk" >}}).
+
 {{< imgfig "https://4.bp.blogspot.com/-60iYs-N73gg/UZVDPmE7YDI/AAAAAAAAX9A/Z3e8HZVkbXE/s1600/dsc08350.picasaweb.jpg" >}}
 
 Погода в этот раз выдалась, к сожалению, заметно хуже, чем в {{< a "0153" "прошлый" >}}. Большую часть дня было пасмурно и прохладно, так что оранжевыми были в основном головные уборы.
 
 На площади установили несколько огромных экранов, показывающих происходящее в церкви. Народ наблюдал, комфортно устроившись на лужайке.
+
 {{< imgfig "https://4.bp.blogspot.com/-FLlE3uxJVGg/UZVDR42XBTI/AAAAAAAAX9I/SSK1AEkg1nc/s1600/dsc08354.picasaweb.jpg" >}}
 
 На многих физиономиях традиционно красуется голландский флаг.
+
 {{< imgfig "https://2.bp.blogspot.com/-s6aqH24Q6xI/UZVDUMd86BI/AAAAAAAAX9Q/DSMm8yDnz9s/s1600/dsc08363.picasaweb.jpg" >}}
+
 {{< imgfig "https://3.bp.blogspot.com/-pD-OmwR1DLc/UZVDzh7JaXI/AAAAAAAAX-w/HbEvSL3TlAA/s1600/dsc08400.picasaweb.jpg" >}}
+
 {{< imgfig "https://1.bp.blogspot.com/-JwEa0AadSo4/UZVDnnifyUI/AAAAAAAAX-Q/ZfCVv_AvPQM/s1600/dsc08385.picasaweb.jpg" >}}
 
 Виллем-Александр принимает присягу:
+
 {{< imgfig "https://3.bp.blogspot.com/-6qQor9_FAjs/UZVDWSKtyGI/AAAAAAAAX9Y/CTKvXJESS1w/s1600/dsc08364.picasaweb.jpg" >}}
 
 Среди оранжевой публики немало «сочувствующих»: многие даже не говорят по-голландски, но, как и мы, любопытствуют.
+
 {{< imgfig "https://1.bp.blogspot.com/-dwK3nqOC0Yc/UZVDZlQDF5I/AAAAAAAAX9g/AvUKsygm5rc/s1600/dsc08370.picasaweb.jpg" >}}
 
 Повсюду можно заметить монограмму Виллема-Александра из стилизованных букв WA — вот она над экраном:
+
 {{< imgfig "https://3.bp.blogspot.com/-4PBkgDZyD8w/UZVDcN5e4zI/AAAAAAAAX9o/XgfLu9lR5eA/s1600/dsc08371.picasaweb.jpg" >}}
 
 Она используется повсюду в Амстердаме. Например, во временно заменивших рекламные биллборды указателях для публики:
+
 {{< imgfig "https://2.bp.blogspot.com/-vaVMAv1t4-U/UZVEKNN8-MI/AAAAAAAAYAA/a6ojIs_L8R8/s1600/dsc08423.picasaweb.jpg" >}}
 
 Некоторые проявляют чудеса изобретательности, подбирая себе что-нибудь оранжевое:
+
 {{< imgfig "https://1.bp.blogspot.com/-xBu81FgNbuA/UZVDelqsAOI/AAAAAAAAX9w/jqj2XSAbecM/s1600/dsc08372.picasaweb.jpg" >}}
 
 По телевизору передают короля с королевой:
+
 {{< imgfig "https://3.bp.blogspot.com/-Cj60WY8lA4s/UZVDjAK3aEI/AAAAAAAAX-A/tWFdafCNPeU/s1600/dsc08374.picasaweb.jpg" >}}
 
 Максима в синем, как и три их дочери, стойко переносящие трудности, выпавшие на их долю по вине папы с мамой.
+
 {{< imgfig "https://3.bp.blogspot.com/-PMFenIuyTX0/UZVDqNpR8HI/AAAAAAAAX-Y/qUxPLX3YcSE/s1600/dsc08387.picasaweb.jpg" >}}
 
 Атмосфера очень дружелюбная, люди довольные и радостные, королевская династия по-прежнему суперпопулярна.
+
 {{< imgfig "https://4.bp.blogspot.com/-X3whP1mNxOc/UZVDtk7O7gI/AAAAAAAAX-g/5f3YMFNDCq4/s1600/dsc08392.picasaweb.jpg" >}}
 
 Поздравления виновникам торжества повсюду на зданиях города. Концертный зал Амстердама:
+
 {{< imgfig "https://4.bp.blogspot.com/-xy07I-f7_Bw/UZVD4FeJ60I/AAAAAAAAX_A/dfr5W-2mxoQ/s1600/dsc08402.picasaweb.jpg" >}}
 
 Часам к трём церемония коронации успешно завершилась, и народ начал потихоньку расходиться.
+
 {{< imgfig "https://1.bp.blogspot.com/-z5S7XdMHxu4/UZVDlcLz-mI/AAAAAAAAX-I/l_pldBDumrM/s1600/dsc08383.picasaweb.jpg" >}}
 
 Мы тоже направились в сторону площади Дам, не вняв предупреждению на информационном табло, что там нет места и лучше бы нам двигать к зданию ВТЦ:
+
 {{< imgfig "https://2.bp.blogspot.com/-DM1XRYhfv3Y/UZVD6dnvfLI/AAAAAAAAX_I/Q3ylNK_FsVI/s1600/dsc08403.picasaweb.jpg" >}}
 
 Повсюду традиционные в этот день стихийные блошиные рынки:
+
 {{< imgfig "https://4.bp.blogspot.com/-1_yqFt8sQ-k/UZVDLIx0q1I/AAAAAAAAX8w/WL7U90aHtTc/s1600/dsc08344.picasaweb.jpg" >}}
+
 {{< imgfig "https://2.bp.blogspot.com/-dQsqm-3OXiE/UZVD9PAUP0I/AAAAAAAAX_Q/DPtT08rPYjo/s1600/dsc08405.picasaweb.jpg" >}}
 
 В зените на всякий случай неподвижно висят три полицейских вертолёта. А чтоб не расслаблялись.
+
 {{< imgfig "https://1.bp.blogspot.com/-5wuX-iBkagc/UZVEDlF6npI/AAAAAAAAX_o/ng-FBMnu-TQ/s1600/dsc08413.picasaweb.jpg" >}}
 
 По амстердамским каналам снуют многочисленные лодки, набитые колонками и молодыми ~~пьяными~~ людьми, шумно радующимися новому королю.
+
 {{< imgfig "https://1.bp.blogspot.com/-ZxHVQXTufkI/UZVEBuiW7qI/AAAAAAAAX_g/AKtK3pzAiZQ/s1600/dsc08407.picasaweb.jpg" >}}
+
 {{< imgfig "https://1.bp.blogspot.com/-EludvWNaHis/UZVEF0WBerI/AAAAAAAAX_w/Xbw3QFUvquc/s1600/dsc08419.picasaweb.jpg" >}}
+
 {{< imgfig "https://4.bp.blogspot.com/-6KwWoUo_G-4/UZVEPPqZMII/AAAAAAAAYAQ/Y0dftlLXpHI/s1600/dsc08426.picasaweb.jpg" >}}
 
 Сказать, что в городе много народу — это ничего не сказать. Забито было всё так, что нам несколько раз приходилось менять маршрут, так как прорваться через людскую толпу можно было разве что по головам.
+
 {{< imgfig "https://2.bp.blogspot.com/-jLaORT0eLz0/UZVERiN7rlI/AAAAAAAAYAY/bKj2CXYpCNE/s1600/dsc08428.picasaweb.jpg" >}}
 
 В дополнение к плавучим колонкам, на каждом углу орала какая-нибудь музыка. Вон, например, вдалеке плакаты благотворительной организации War Child, а под ними мощные колонки, изрыгающие хаус:
+
 {{< imgfig "https://4.bp.blogspot.com/-_V1FJ5giT00/UZVEMcu5UFI/AAAAAAAAYAI/VdkZajxS1fo/s1600/dsc08424.picasaweb.jpg" >}}
 
 ## Площадь Дам {#dam-square}
 
 Прибыв на площадь Дам, мы поняли, что СМИ доверять нельзя — места тут было вполне достаточно. Это тот самый Королевский дворец, бывший минувшим утром самым главным зданием страны:
+
 {{< imgfig "https://4.bp.blogspot.com/-cbsi03-2igU/UZVEVyXQAAI/AAAAAAAAYAo/bh-mNu2vS_E/s1600/dsc08433.picasaweb.jpg" >}}
 
 Напротив построена трёхэтажная платформа для прессы:
+
 {{< imgfig "https://1.bp.blogspot.com/-hD2ly8mRPbs/UZVETp6dvkI/AAAAAAAAYAg/Ru1KrvverIw/s1600/dsc08432.picasaweb.jpg" >}}
 
 Магазин {{< fl "Bijenkorf" >}} украсил свои крыши гигантскими надувными коронами:
+
 {{< imgfig "https://1.bp.blogspot.com/-as_Pqpqo-TU/UZVEcaZJhnI/AAAAAAAAYBA/anytpvcb6E0/s1600/dsc08436.picasaweb.jpg" >}}
 
 Перед украшенным монограммами {{< fl "WA" >}} музеем Мадам Тюссо тоже установлены экраны:
+
 {{< imgfig "https://1.bp.blogspot.com/-R3lVQYT004Q/UZVEYDNqUSI/AAAAAAAAYAw/z7zyGMN8nbo/s1600/dsc08434.picasaweb.jpg" >}}
 
 Из круглого окна восковые Юлиана и Вильгельмина, мама и бабушка Беатрикс сверху благосклонно наблюдают за происходящим:
+
 {{< imgfig "https://3.bp.blogspot.com/-Rqm7ENPxGgI/UZVEaceBDdI/AAAAAAAAYA4/ahjDfMG40d8/s1600/dsc08435.picasaweb.jpg" >}}
 
 Последний День Королевы. По крайней мере, пока Амалия не вступит на престол. Если, конечно, монархия до того момента не прекратит своё существование — чего, я практически уверен, не случится.

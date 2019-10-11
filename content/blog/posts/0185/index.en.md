@@ -11,6 +11,7 @@ aliases:
 ---
 
 Last weekend, 16 through 19 May 2013, the traditional yearly jazz festival took place in Amersfoort, as I {{< a "0183" "announced" >}}. Its thirty-fourth edition, to be precise. Chaired by the well-known Alexander Beets:
+
 {{< imgfig "https://1.bp.blogspot.com/-j2AvSpmVd38/UZ0Lc33S2gI/AAAAAAAAYb8/IZqfcD6m0aE/s1600/dsc08865.picasaweb.jpg" >}}
 
 <!--more-->
@@ -24,17 +25,21 @@ I had a deliberate intention of attending this concert. I've always been interes
 The venue was our [Flehite](http://www.museumflehite.nl/) city museum. It happened in two phases because the hall was very small, enough for just thirty people at most. I failed to catch the first wave and had to wait another hour before the second one.
 
 But in the end it was decidedly worth it. For the first time in my life I witnessed a flamenco performance right before me.
+
 {{< imgfig "https://3.bp.blogspot.com/-KFzgpbyXSdo/UZ0LVJpd_AI/AAAAAAAAYbc/DzB77sYMgYs/s1600/dsc08853.picasaweb.jpg" >}}
 
 The singer's name is {{< fl "Erminia Fernández Córdoba" >}}. She was born in 1980 in Argentina (La Plata) and grew up in Spain (Alicante). Last 15 years she has been living in Holland and is nowadays a singer in genres jazz, pop, South-African and flamenco.
+
 {{< imgfig "https://1.bp.blogspot.com/-S268gCvZyA0/UZ0LaGEJl6I/AAAAAAAAYb0/IEaZ40D4vKU/s1600/dsc08863.picasaweb.jpg" >}}
 
 Her husband [Arturo Ramón](http://www.arturoramon.com/) was born in 1981 in The Hague (Holland) from a Dutch father and a Spanish mother. He performs quite often and has recorded a number of CDs.
 
 The pianist is a Dutch guy called {{< fl "Thijs Borsten" >}}, very bright and expressive. I liked his play a lot and will keep an eye on him for the future.
+
 {{< imgfig "https://4.bp.blogspot.com/-QJo0W8ob7r8/UZ0LYQFIlnI/AAAAAAAAYbs/V0cO9J1cD_s/s1600/dsc08861.picasaweb.jpg" >}}
 
 Here's one of the videos I've taken at the concert:
+
 {{< youtube "TjP-pltU_kw" >}}
 
 Sorry for the shaky video. On the first day I didn't have a tripod with me, which was a mistake. Also because I was sitting in the second row, I had to aim between people's heads, arghhhh. However sound quality is okay.
@@ -50,12 +55,15 @@ All videos of that concert:
 ## The Nordanians {#the-nordanians}
 
 [The Nordanians](http://www.nordanians.com/) is a six-headed band with a funny sound and somewhat mechanical music.
+
 {{< imgfig "https://2.bp.blogspot.com/-lxhW-APmGT8/UZ0LMx_CuVI/AAAAAAAAYa8/8i42TLhCt1Y/s1600/dsc08847.picasaweb.jpg" >}}
 
 They play a guitar, a violin, a cello, a tabla and so on. I'd hardly call this jazz, but it's fun to see. Here's one of their tracks:
+
 {{< youtube "Mnn9f0Ff4QQ" >}}
 
 There were a lot of kids on the festival. As they find nothing interesting in jazz, they were doing something like this.
+
 {{< imgfig "https://4.bp.blogspot.com/-4XLxqev-60E/UZ0LOgEnWsI/AAAAAAAAYbE/ur2sgMkc70k/s1600/dsc08849.picasaweb.jpg" >}}
 
 ## Anna Cuijpers {#anna-cuijpers}
@@ -67,11 +75,13 @@ As for me, she's got a strong voice indeed. [Here's a video](http://www.youtube.
 ## Ruud Jacobs Tribute Band {#ruud-jacobs}
 
 It's a band formed on {{< fl "Ruud Jacobs'" >}} 75<sup>th</sup> birthday. Ruud plays contrabass, and I also recognised a couple of faces I know from a {{< a "0125" "concert at De Observant" "ru" >}} — guitarist {{< fl "Martijn van Iterson" >}} (as indifferent as ever) and drummer {{< fl "Gijs Dijkhuizen" >}}:
+
 {{< youtube "2wkPAA41OdU" >}}
 
 ## International Jazz Summit {#international-jazz-summit}
 
 It's a bunch of jazz celebrities who performed in the closing act of the festival.
+
 {{< imgfig "https://1.bp.blogspot.com/-627Ot11ouyM/UZ0LepMgIyI/AAAAAAAAYcE/HlbTH6_pYms/s1600/dsc08868.picasaweb.jpg" >}}
 
 Left to right, armed by saxes:
@@ -82,6 +92,7 @@ Left to right, armed by saxes:
 * And, last but not least, the Director (also pictured on the very first photo), also {{< a "0125" "known" "ru" >}} Alexander Beets.
 
 The four were rocking the place to the top—the last show, you know. The Lieve Vrouwekerkhof was stuffed with cheering and dancing people. Here's one of their videos called {{< fl "Watermelon Man" >}}:
+
 {{< youtube "tL4l7k3-NRY" >}}
 
 Here are all their videos:

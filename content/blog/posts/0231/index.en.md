@@ -15,6 +15,7 @@ At that moment I already had plans to upgrade it with an SSD ({{< wiki "Solid-st
 <!--more-->
 
 My volume preference was the same as before, i.e. one terabyte. Therefore the choice was quite limited, namely **Samsung SSD 840 EVO 1TB**:
+
 {{< imgfig "https://3.bp.blogspot.com/-xltYgdRdnE8/VHtgOV2coLI/AAAAAAAAgP8/ZtsO1--34Jk/s1600/Samsung-840-EVO-SSD-1TB.picasaweb.jpg" >}}
 
 Fortunately, the prices for such SSDs are *kind of* affordable now.
@@ -33,6 +34,7 @@ I didn't have special suction cups as per the instruction, so I used regular car
 4. The removed glass should be hidden somewhere, far from people and pets. It's also advisable to cover it with a piece of cloth to protect it from dust.
 
 So here's the computer with the glass detached:
+
 {{< imgfig "https://3.bp.blogspot.com/-OXsMRwMtzAs/VGENsu3yi-I/AAAAAAAAgDw/dhfFbYziOj4/s1600/dsc06333.picasaweb.jpg" >}}
 
 ## 2. Remove the display module
@@ -42,24 +44,29 @@ The display module is fixed by eight {{< wiki "Torx" "en" "Torx" >}} T10 screws,
 I'd recommend yet again to watch the above mentioned [video](http://www.youtube.com/watch?v=F8Li_bPDAow), to figure out what cables and connectors to unplug, and how. The extracted display is also to be stashed in a secure place, free from fingerprints and dust.
 
 The iMac without the display module:
+
 {{< imgfig "https://1.bp.blogspot.com/-HnSY5yBTljw/VGENll70rPI/AAAAAAAAgC4/QNtQTfil0s0/s1600/dsc06326.picasaweb.jpg" >}}
 
 The victim, prematurely dead **Seagate Barracuda 7200.12**, is at the center:
+
 {{< imgfig "https://1.bp.blogspot.com/-3qXCAtH3Cao/VGENmpCF4QI/AAAAAAAAgDA/ZygBkpAZgeg/s1600/dsc06327.picasaweb.jpg" >}}
 
 ## 3. Take the HDD out
 
 Unscrew two screws at the top and take the corpse out. Its bottom is fixed by pins, so you can simply pull it up and out. Don't forget to unplug the data and the power cable, and also the thermal interface (explained below in more detail).
+
 {{< imgfig "https://1.bp.blogspot.com/-SH9ikeve6JU/VGENnslmtPI/AAAAAAAAgDI/WnspvdcJHV0/s1600/dsc06328.picasaweb.jpg" >}}
 
 ## 4. Prepare the brace for SSD
 
 Samsung's SSD is much smaller than the monster that lived there before. However we won't need any special adapters or mounts. It's enough to drill two holes ⌀ 3 mm in the original brace:
+
 {{< imgfig "https://1.bp.blogspot.com/-YvAdYG32X1M/VGENoXEO7AI/AAAAAAAAgDQ/H9EmliWL9v4/s1600/dsc06329.picasaweb.jpg" >}}
 
 ## 5. Mount the SSD
 
 Since there's no moving part in an SSD and the device itself is very lightweight, two screws are more than enought for a reliable mount:
+
 {{< imgfig "https://4.bp.blogspot.com/-J7YOrWyXYjg/VGENpVxqqII/AAAAAAAAgDY/FQyqFzloYUk/s1600/dsc06330.picasaweb.jpg" >}}
 
 The brace is to be reattached at its original position, then connect the data and the power cables.
@@ -73,6 +80,7 @@ Seagate's Barracudas are equipped with a temperature sensor, normally connected 
 If you leave the thermal interface unplugged, the system assumes the drive temperature is maximal, so it drives the cooling fan at the maximum speed. There is a number of workarounds, like a special fan control utility (only for Mac OS) or a replacement circuit that mimics the original sensor.
 
 But I followed another advice, also found somewhere on the net. I've just jumped the connector with a piece of wire:
+
 {{< imgfig "https://1.bp.blogspot.com/-Aw8QhsE8c1A/VGENqq0ykpI/AAAAAAAAgDg/Vo26DGmSpn4/s1600/dsc06331.picasaweb.jpg" >}}
 
 I didn't see any negative effects of such a blunt solution during the next months of active usage. The fan's behaving well, so is the system as a whole.
@@ -80,6 +88,7 @@ I didn't see any negative effects of such a blunt solution during the next month
 ## 7. Reattach the display module
 
 Now retrace your moves of the step #2 by reconnecting the cables and refixing the display with eight screws. If you've got everything right, the computer will start up and ask you what to do next.
+
 {{< imgfig "https://1.bp.blogspot.com/-L20OSRj1vrc/VGENrsYfMsI/AAAAAAAAgDo/v8s9gu63rTg/s1600/dsc06332.picasaweb.jpg" >}}
 
 ## To conclude

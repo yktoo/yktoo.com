@@ -14,20 +14,16 @@ aliases:
 
 <!--more-->
 
-* `generate-wallpaper-xml`
-    <p></p>
+* `generate-wallpaper-xml`\
     {{< a "0168" "Создаёт XML-файл" >}} обоев рабочего стола со списком изображений для слайд-шоу.
 
-* `picasa-upload`
-    <p></p>
+* `picasa-upload`\
     {{< a "0110" "Продвинутый загрузчик" >}} картинок в Google Picasa, умеющий подписывать изображения.
 
-* `rotate-wallpaper`
-    <p></p>
+* `rotate-wallpaper`\
     {{< a "0122" "Простой скрипт" >}} для установки случайного изображения в качестве обоев.
 
-* `update-exif-date`
-    <p></p>
+* `update-exif-date`\
     Обновляет EXIF-дату в JPEG-изображениях в соответствии с именем файла.
 
 В общем, встречайте: [github.com/yktoo/yktools](https://github.com/yktoo/yktools)

@@ -11,6 +11,7 @@ aliases:
 ---
 
 Я не выдержал и написал индикатор для переключения звуковых устройств (входа/выхода) в Ubuntu.
+
 {{< imgfig "https://3.bp.blogspot.com/-A68LFuAIxlg/UTMgzAqh53I/AAAAAAAAWrg/rlpYgjefo70/s1600/Screenshot.png" >}}
 
 <!--more-->
@@ -26,6 +27,7 @@ aliases:
 После долгих экспериментов с несколько ущербной реализацией многопоточности в Python (один только {{< wiki "Global_Interpreter_Lock" "en" "GIL" >}} чего стоит), я наконец добился полностью стабильной работы индикатора. Меню содержит три секции: входные устройства (отсортированные по имени), выходные устройства (то же самое) и статические пункты.
 
 Значок индикатора сделал в Inkscape:
+
 {{< imgfig "https://3.bp.blogspot.com/-WRWhSSdMb4w/UTMb99DLYOI/AAAAAAAAWqI/u5v1qpzawqY/s1600/indicator-sound-switcher.png" >}}
 
 Любые изменения состояния сервера PulseAudio отражаются на содержимом меню, причём, даже если оно открыто.

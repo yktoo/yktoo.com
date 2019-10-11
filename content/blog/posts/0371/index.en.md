@@ -22,6 +22,7 @@ I've been using their thermo-hygrometer {{< a "http://ali.pub/3qdxv7" "Xiaomi Mi
 You can find perhaps a zillion of similar thermometers, however what is special about this model is an {{< wiki "Electronic_paper" "en" "e-ink display" >}} (also called "electronic paper"). This type of display provides a *way* better contrast compared with conventional LCDs, but is also more expensive.
 
 The thermo-hygrometer can be hung on a wall or put on a desk using the provided stand.
+
 {{< imgfig "https://1.bp.blogspot.com/--iKed159U3s/XW6kGQSzDII/AAAAAAAAxIg/2b1G4aJCRF08c6uNTfnkRcB5pAI0pDxWQCKgBGAs/s1600/20190903_191017.w.jpg" "Xiaomi Mijia thermometer on a wall." >}} 
 
 I bought mine {{< a "http://ali.pub/3qdxv7" "at AliExpress" >}} at a nifty price of **€ 9**, shipping included.

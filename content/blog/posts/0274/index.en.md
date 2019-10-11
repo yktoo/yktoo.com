@@ -15,6 +15,7 @@ This spring is full of sporting activities. First {{< a "0273" "aikido" >}} (I h
 <!--more-->
 
 As I {{< a "0266" "mentioned" >}}, the event was to happen on March 28, on the second day of the Easter, which is a public holiday here in Holland. It's the second edition of [De Halve van de Haar](http://www.dehalvevandehaar.nl/), and half marathon (**21.1 km**) was the longest distance available.
+
 {{< imgfig "https://2.bp.blogspot.com/-PNk5LFWpieY/VwFmIiB8bOI/AAAAAAAAlxc/6H3_c4Jg7fMcwzIR8XUF1AtnRSenSGMeQ/s1600/dsc02101.picasaweb.jpg" "The medal is actually grey, it's the light that tints it." >}}
 
 {{< a "0266" "Last time" >}} the distance was only a half of that (10.5 km), and I remember myself looking at the half-marathoners after having finished and being happy I wasn't among them. In fact, I could hardly imagine how one can run such a distance.
@@ -34,12 +35,15 @@ Back to the half marathon, we've had there difficulties too.
 **Fourthly**, after having completed the track I failed to find my result on the [website](http://www.prorun.nl/uitslagen/de-halve-van-de-haar/), whereas my girlfriend name was there straight after she'd finished. I had to sort it with the timing company myself.
 
 There was a total of [**1117** participants](http://evenementen.uitslagen.nl/2016/dehalvevandehaar/uitslag.php?on=1&p=1&tl=nl) in the half marathon, which is quite a few for such a limited space. Stumbling along in the crowd I didn't even spot where exactly the start line lay.
+
 {{< imgfig "https://3.bp.blogspot.com/-CKFfZfy8qP4/VwFmIhtuIFI/AAAAAAAAlxc/-tjv5zkmHtQywfTvP9I5LpKIfUtBRBDBg/s1600/dsc02091.picasaweb.jpg" "The start of the half marathon." >}}
 
 If you forget the wind, the day was very bright and fairly warm.
+
 {{< imgfig "https://2.bp.blogspot.com/-wwJLWBJF0mo/VwFy24lTDwI/AAAAAAAAlyM/7qyxv5kviD4cq8DPscBmtfAc_3FfIVm_w/s1600/20160328_141702.picasaweb.jpg" "Running with the crowd." >}}
 
 According to the {{< wiki "Beaufort_scale" "en" "Wikipedia" >}}, winds of 7 Beaufort cause waves up to 5.5 metres high. Luckily, not in this little pond as they would have washed us all away.
+
 {{< imgfig "https://2.bp.blogspot.com/-72kmF251LS0/VwFy2wBMsYI/AAAAAAAAlyM/QwnSfpCIsyg0j2jEobnK1TTcWz889-7EQ/s1600/20160328_141704.picasaweb.jpg" "Photographed on the run." >}}
 
 It becomes much easier to run once the runners spread along the road. As always, lots of spectators watched at the roadside and gave the runners pep-talk. Once a woman shouted {{< fl "\"Kom op Dmitry, doorzetten!\"" >}} ("Come on Dmitry, press ahead!"). I stared at her in a momentary astonishment, trying to remember who she was, until I realised I had my name printed on the number.
@@ -47,12 +51,15 @@ It becomes much easier to run once the runners spread along the road. As always,
 At another spot I overheard a man, disappointed at the lack of response from the running lot, saying to his neighbour {{< fl "\"Een beetje autistisch gedrag, maar goed\"" >}} ("A bit autistic behaviour, but okay").
 
 The route consisted of two almost identical laps of about 10 km, leading around the gardens of the {{< a "0012" "De Haar castle" "ru" >}}.
+
 {{< imgfig "https://4.bp.blogspot.com/-4zRsSePQ0oY/Vwe_9rmo0nI/AAAAAAAAlz4/NFjo9klZGIEehUpwX5b0xjAepXviGcA_w/s1600/de-halve-van-de-haar-parcour.png" "The track of the half marathon." >}}
 
 After all, what doesn't kill us, makes us stronger. I've made it to the finish line.
+
 {{< imgfig "https://1.bp.blogspot.com/-sb_ir321Plk/VwFy21cLg0I/AAAAAAAAlyM/ECFeI2NyiyMZOUhy8xacpZWYaQhwvZ6nQ/s1600/20160328_161429.picasaweb.jpg" "The last stretch." >}}
 
 As it turned out later, my results were missing on the website because the time registration point at the finish line failed to read my number. A representative of the timing company inferred I pressed my hand against the number when pushing the stopwatch button, thus blocking the RFID signal. He calculated my total time based on the last measurement, which happened 600 metres before the finish, and it amounted to **2:01:46**, however according to my stopwatch it should be **2:01:03** (which is fair enough as I've did my best covering the last stretch). But okay, the difference is not that big anyway.
+
 {{< imgfig "https://4.bp.blogspot.com/-rQcx-stc3gM/Vwe_9oNR43I/AAAAAAAAlz4/h7efzZ7_pJYW2B3n5ubIhK1CnMes_5iww/s1600/de-halve-van-de-haar-dk-result.png" "My results." >}}
 
 So I've earned the [730th place](http://evenementen.uitslagen.nl/2016/dehalvevandehaar/details.php?t=&s=4528), which is not brilliant, but not too bad either, considering the gale. Certainly there's a lot of room for improvement.
@@ -60,4 +67,5 @@ So I've earned the [730th place](http://evenementen.uitslagen.nl/2016/dehalvevan
 When we got back to the parking lot, our car was still intact and undamaged, what a relief! Moreover, a car nearby was even in a worse position as it got stuck blocking almost the entire driveway. A squad of 6-8 people walked around the lot, helping with getting the cars back on the road, sorting it for us in no time. Which I'm very grateful for.
 
 Here's the official after-movie of the event. You can even spot me running at [1:19](https://youtu.be/ddcPnySIgZc?t=1m19s):
+
 {{< youtube "ddcPnySIgZc" >}}

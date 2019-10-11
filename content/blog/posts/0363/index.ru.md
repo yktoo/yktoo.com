@@ -22,9 +22,11 @@ image: "https://lh3.googleusercontent.com/KWkM5HjDU8F5ZtEjILZcSxxnyW_p3NyhU7Q35u
 ## Например
 
 Возьмём для примера мою {{< a "0028" "лизинговую Тойоту" >}}, фото двенадцатилетней давности:
+
 {{< imgfig "https://3.bp.blogspot.com/-HoibkPanFp0/T420BAgqzqI/AAAAAAAAO_s/eyuRJT6NOl0/s1600/imgp1525.picasaweb.jpg" "Toyota Prius 2009 и я перед ней." >}}
 
 Вбиваем номер `16HDK2` в поле {{< fl "Kenteken" >}} на {{< a "https://ovi.rdw.nl/" "странице OVI" >}} и немедленно получаем следующую информацию:
+
 {{< imgfig "ovi-kentekencheck-16hdk2.png" "Данные «Тойоты» по номерному знаку." >}}
 
 Легко можно проверить, что это действительно {{< fl "Toyota Prius" >}}, цвет серый ({{< fl "Kleur: grijs" >}}), была она зарегистрирована на меня 16 ноября 2017 года в 15:20 ({{< fl "Datum tenaamstelling" >}} в разделе {{< fl "Vervaldata en historie" >}}), и за свою долгую историю была во владении одного владельца-юрлица (которым был я) и после меня ещё двух частников (строчка {{< fl "Aantal eigenaren privé / zakelijk" >}}).

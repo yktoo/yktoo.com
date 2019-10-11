@@ -12,6 +12,7 @@ aliases:
 ## Видео {#video}
 
 Встроенный в телевизор видеоплеер имеет внушительную поддержку форматов и кодеков. Поддерживаются и FLV, и MKV, и даже новомодные кодеки {{< wiki "H.265" "ru" "H.265" >}} и {{< wiki "WebM" "ru" "VP8 (WebM)" >}}:
+
 {{< imgfig "https://3.bp.blogspot.com/-eIIk0Sd62Vg/VQR30d7BAQI/AAAAAAAAhRg/i5YLx1xPeFY/s1600/Samsung_video_formats.png" >}}
 
 <!--more-->
@@ -33,23 +34,29 @@ aliases:
 Что касается 3D-видео, здесь всё ОК. Телевизор распознаёт 3D-видеопоток один-над-другим или бок-о-бок и предлагает переключиться в 3D-режим. Кроме того, у него есть функция автоконверсии 2D в 3D, смысл которой мне не очень ясен. Моё личное мнение, что 3D вообще мало что добавляет к экспириенсу просмотра кино.
 
 Вернёмся к видеоплееру. Его интерфейс прост, как автомат Калашникова.
+
 {{< imgfig "https://1.bp.blogspot.com/-3lkkkcDHHSQ/VWCKI_EOYMI/AAAAAAAAjeo/2c7IdbmJt-U/s1600/dsc08044.picasaweb.jpg" "Встроенный видеоплеер." >}}
 
 Очень хорошо, что поддерживаются субтитры — как встроенные, так и отдельными файлами (.srt, .sub, .psb и т.д.)
+
 {{< imgfig "https://1.bp.blogspot.com/-tcgNFfjVlsg/VQQrFyL_dOI/AAAAAAAAhPI/nX_ML9G_n-Q/s1600/dsc08045.picasaweb.jpg" "Настройки субтитров." >}}
 
 Также можно переходить по главам:
+
 {{< imgfig "https://4.bp.blogspot.com/-_fuI_O5QSF0/VQQrGQMdAUI/AAAAAAAAhPE/Npx-lTMuZlQ/s1600/dsc08047.picasaweb.jpg" "Список глав." >}}
 
 И, чаще всего, перематывать в произвольное место:
+
 {{< imgfig "https://1.bp.blogspot.com/-1vBWIMQ6T2U/VQQrGpigPXI/AAAAAAAAhO4/UB3uYjKqIvg/s1600/dsc08048.picasaweb.jpg" "Управление плеером." >}}
 
 ## Аудио {#audio}
 
 Поддерживаемые аудиоформаты:
+
 {{< imgfig "https://2.bp.blogspot.com/-EfuWLsU5sPQ/VQR5iKklWaI/AAAAAAAAhRw/E1lJV_3YABo/s1600/Samsung_audio_formats.png" >}}
 
 Аудиоплеер тоже довольно незамысловат, и к тому же несколько… э-э… крупноват для такого экрана.
+
 {{< imgfig "https://1.bp.blogspot.com/-6Cf1Rr_D3UY/VWCKI45zEpI/AAAAAAAAjeg/xe4Nvpu8eoU/s1600/dsc08050.picasaweb.jpg" "Встроенный аудиоплеер." >}}
 
 Звуковая система в телевизоре для форм-фактора школьной доски — весьма достойного качества, но для меломанов явно недостаточного. Поэтому я планирую дополнить акустику саундбаром и сабвуфером.

@@ -17,6 +17,7 @@ aliases:
 ---
 
 На досуге сделал доброе дело и сваял сайт для своей школы айкидо (по-научному {{< fl "доджо" >}}) **Aikikai Amersfoort**, ныне расположенный по адресу [aikikai-amersfoort.nl](http://aikikai-amersfoort.nl/).
+
 {{< imgfig "https://1.bp.blogspot.com/-lki9NxKtQqo/UmpsckNYfPI/AAAAAAAAakU/UzI2708drDg/s1600/aikikai-amersfoort.picasaweb.png" >}}
 
 Прежний сайт был разработан в глубокой древности, году так в две тыщи четвёртом, и морально совершенно устарел. Например, для просмотра видео предлагалось скачать файл в формате .avi — Ютьюба в те далёкие времена ещё не существовало.
@@ -28,9 +29,11 @@ aliases:
 Я предложил свои услуги нашему сенсею и начал разбираться в хитросплетениях Джумлы, однако мне это быстро надоело. Кроме того, использованная версия CMS была довольно старой и явно нуждалась в апгрейде. Взвесив все «за» и «против», я за пару часов набросал прототип на [Yii](http://www.yiiframework.com/), взяв за основу {{< a "/" "свой собственный сайт" >}}. Результат меня и его более чем удовлетворил, так что мы приняли решение отправить Джумлу к праотцам, и я за пару вечеров завершил разработку основного функционала сайта (управление пользователями и постами, лента новостей, расписание). Для упрощения жизни себе и владельцу посты пишутся с использованием простого синтаксиса [Markdown](http://daringfireball.net/projects/markdown/syntax), для которого в Yii есть [поддержка](http://www.yiiframework.com/doc/api/1.1/CMarkdown) «из коробки».
 
 Также добавил немного удобства для админа: кнопку создания нового поста в главном меню и служебная строка в нижней части каждого поста:
+
 {{< imgfig "https://4.bp.blogspot.com/-tUoOgp173pM/Ump023odEUI/AAAAAAAAakk/PbkHrzR0uO0/s1600/aikikai-amersfoort-admin-post.picasaweb.png" >}}
 
 Чуть больше усилий потребовалось для встраивания гуглокарты, где отмечены оба наших зала, но с помощью расширения EGMap это оказалось несложно:
+
 {{< imgfig "https://2.bp.blogspot.com/-wiK-KxbqVCM/UmqUxh5BoiI/AAAAAAAAak8/DNfCm9Kr0dI/s1600/aikikai-amersfoort-route.picasaweb.png" >}}
 
 Сайт весь на голландском — для его целевой аудитории другого и не требуется. Ну и, конечно, вся модная социальная шелуха: [Facebook](http://www.facebook.com/pages/Aikikai-Amersfoort/233137963447868), [Twitter](http://twitter.com/aiki_amersfoort), [Google+](http://plus.google.com/112010950208592078236), [YouTube](http://www.youtube.com/user/JoginderSinghAikido).

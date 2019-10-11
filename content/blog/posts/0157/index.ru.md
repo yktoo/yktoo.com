@@ -39,17 +39,23 @@ aliases:
 Реставрация сооружения не завершена и по сей день. Проблем прибавили сильные ливни 2004 года, заметно повредившие склоны пирамиды. Чтобы собрать необходимые для починки средства, с посетителей монумента французского периода взимают скромную плату (€ 2,50).
 
 Впрочем, в свои двести пирамида всё ещё выглядит замечательно. Она стала цветной:
+
 {{< imgfig "https://2.bp.blogspot.com/-j4XgIEc71dw/UASIqsndfHI/AAAAAAAAUdQ/_lUgwJyv8-4/s1600/dsc03879.picasaweb.jpg" >}}
 
 Северный склон, похоже, сохранился лучше всего.
+
 {{< imgfig "https://2.bp.blogspot.com/-hcqr37hZEK4/UASIxpw-CcI/AAAAAAAAUeA/ehkLheOsZ3k/s1600/dsc03912.picasaweb.jpg" >}}
 
 На южном склоне от подножия к вершине ведёт основательная лестница со множеством ступенек.
+
 {{< imgfig "https://1.bp.blogspot.com/-OMg7g0xHYnw/UASIuAvr5sI/AAAAAAAAUdo/uC9_zkzdV-8/s1600/dsc03896.picasaweb.jpg" >}}
 
 Лестница упирается монумент, установленный на обзорной площадке, с которой открывается вид на окружающий лес.
+
 {{< imgfig "https://1.bp.blogspot.com/-u2hawYR65kg/UASIvO9qARI/AAAAAAAAUdw/ELVciqotfP0/s1600/dsc03902.picasaweb.jpg" >}}
 
 Посетителей здесь не особенно много даже в выходные. Добраться до пирамиды можно на машине, общественном транспорте или велосипеде (как мы и сделали), расстояние от Амерсфорта всего лишь около 13 км. Помимо монумента, здесь имеется одноимённый ресторан и парк развлечений.
+
 {{< imgfig "https://1.bp.blogspot.com/--5Z3AqHVFJA/UASIzCCq16I/AAAAAAAAUeI/wYReIFhJTgQ/s1600/dsc03918.picasaweb.jpg" >}}
+
 {{< imgfig "https://4.bp.blogspot.com/-qE1HkW0kPps/UASI0-fBkjI/AAAAAAAAUpg/ky_IAmlbY3A/s1600/dsc03923.picasaweb.jpg" >}}

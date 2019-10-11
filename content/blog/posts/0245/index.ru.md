@@ -20,9 +20,11 @@ aliases:
 При этом с этими телевизорами работают *только* USB-камеры Samsung (изготовитель рекомендует модель [VG-STC4000](http://www.samsung.com/us/video/tvs-accessories/VG-STC4000/ZA)), которые, помимо немалой цены (около 100 евро), почему-то оказались довольно редкой птицей. Найти её в обычных и даже онлайн-магазинах мне не удалось, так что в итоге я заказал требуемую модель на eBay.
 
 Камера смонтирована на этаком «колене» с двумя шарнирами, позволяющими закреплять её на верхнем ребре телевизора в различных положениях:
+
 {{< imgfig "https://1.bp.blogspot.com/-XI3WZxPp01Q/VQQq9cMLcSI/AAAAAAAAhPk/kozQPL8YKPU/s1600/dsc08026.picasaweb.jpg" "ТВ-камера Samsung VG-STC4000 с открытым объективом." >}}
 
 В ней также имеется стереомикрофон и механическая шторка, которой можно закрывать объектив, когда она не используется.
+
 {{< imgfig "https://1.bp.blogspot.com/-2VocQkp8pOk/VQQq9m806JI/AAAAAAAAhNA/QTh6vD1gFUQ/s1600/dsc08027.picasaweb.jpg" "ТВ-камера Samsung VG-STC4000 с закрытым объективом." >}}
 
 Максимальное разрешение камеры 1920×1080. Она используется, помимо прочего, для:
@@ -33,6 +35,7 @@ aliases:
 * «Виртуального зеркала» ({{< fl "Virtual Mirror" >}}) в фитнес-приложениях.
 
 Когда камера активна, на ней загорается синий светодиод.
+
 {{< imgfig "https://2.bp.blogspot.com/-crq0iAw8vN4/VVclTIQjALI/AAAAAAAAjb8/K-n2J5c7RlE/s1600/dsc09504.picasaweb.jpg" "Индикатор активности камеры." >}}
 
 ## One Connect Box (он же Evolution Kit) {#evolution-kit}
@@ -50,6 +53,7 @@ aliases:
 ## Smart Wireless Keyboard {#smart-wireless-keyboard}
 
 [Samsung VG-KDB2000](http://www.samsung.com/us/video/tvs-accessories/VG-KBD2000/ZA) — обычная Bluetooth-клавиатура, но со специфичными написями для Smart TV и некоторыми дополнительными кнопками:
+
 {{< imgfig "https://4.bp.blogspot.com/-Ge9Ll7-OmZU/VQs1ytBslBI/AAAAAAAAhSQ/iKTnI8Ju_XU/s1600/samsung_vgkbd2000.picasaweb.jpg" "Bluetooth-клавиатура Samsung VG-KBD2000." >}}
 
 Также здесь имеется встроенный тачпад. Стоит, как и камера, около ста евро.
@@ -59,11 +63,13 @@ aliases:
 ## 3D-очки {#glasses-3d}
 
 В комплекте с телевизором идут две пары активных 3D-очков [SSG-5100GB](http://www.samsung.com/us/video/tvs-accessories/SSG-5100GB/ZA):
+
 {{< imgfig "https://3.bp.blogspot.com/-YHEJ9q-HxqM/VQx6Z59qCUI/AAAAAAAAhTA/v-REjzaajig/s1600/Samsung-3D-glasses-SSG-5100GB.picasaweb.jpg" "3D-очки Samsung SSG-5100GB." >}}
 
 При необходимости можно докупить ещё, рекомендуемая Самсунгом цена — 25 евро. Очки активные, работают от одной батарейки CR2025, которой, как утверждается, хватает на 150 часов просмотра фильмов. Перед первым использованием их необходимо собрать, так как дужки упакованы отдельно от «тельца».
 
 Включаются очки нажатием крохотной белой кнопки сверху — кнопка начинает светиться зелёным цветом, очки подключаются к телевизору, и на экране появляется соответствующее уведомление.
+
 {{< imgfig "https://4.bp.blogspot.com/-elR_f-HRAM4/VVcyOBPa_rI/AAAAAAAAjcU/_Qmu5aLuAQA/s1600/dsc09505.picasaweb.jpg" "Уведомление о подключении 3D-очков." >}}
 
 Просматривать 3D-видео полагается с расстояния от двух до шести метров.

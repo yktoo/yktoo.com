@@ -28,6 +28,7 @@ imageCredit: "Фото: Evangeline Shaw."
 {{< imgfig "https://1.bp.blogspot.com/-hkhPONGbnIs/XZ8AsNnlDVI/AAAAAAAAyhc/HDzFdiKrySgusye4wGlcGy_R7RIRUdqogCKgBGAsYHg/s1600/wef-report-nl.png" "Индивидуальные показатели Нидерландов." >}}
 
 Ниже приведён полный рейтинг со **141** позицией:
+
 {{< imgfig "https://1.bp.blogspot.com/-tCnE5vZjFD4/XZ7d7d7c6jI/AAAAAAAAyg8/LwtlL133hnY-a6rqlYV9yfle1erwTu5dQCKgBGAsYHg/s1600/wef-report-all.png" "Полный рейтинг Global Competitiveness Index 2019." >}}
 
 Россия в рейтинге находится на прежнем, **43**-м месте.

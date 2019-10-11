@@ -15,6 +15,7 @@ aliases:
 <!--more-->
 
 Так, бутылка Dimple 0,7 15-летней выдержки стоит около €28, в то время как в Германии нормальная цена в супермаркете — € 20­­–22.
+
 {{< imgfig "https://4.bp.blogspot.com/-9T_gIm_EW3U/Tq3anbRHgpI/AAAAAAAAKVY/X4KDFTzsYH8/s1600/dimple-15.jpg" >}}
 
 Примерно такое отношение и с ценами на вино.
@@ -22,10 +23,13 @@ aliases:
 Но даже грабительские голландские цены не идут ни в какое сравнение с ценами в необъятной.
 
 Самое лучшее вино из тех, что мне попадалось на сегодняшний день, {{< fl "Rioja Berberana Crianza 2007" >}}, можно найти в супермаркете (правда, его нужно поискать), за 6 евро:
+
 {{< imgfig "https://4.bp.blogspot.com/-qnHsoCutNEo/VHTyB4aIzgI/AAAAAAAAgFQ/27qqALYfID4/s1600/dsc07228.picasaweb.jpg" >}}
 
 Практически такое же {{< fl "Rioja Lagunilla Crianza 2007" >}} продаётся за € 7, но по акции у нас вторая бутылка бесплатно, т.е. получается € 3,50 за штуку:
+
 {{< imgfig "https://4.bp.blogspot.com/-kZ8P2GzGRWg/VHTyA0F12GI/AAAAAAAAgFI/_e3NR16vT-k/s1600/dsc07225.picasaweb.jpg" >}}
 
 Более дешёвые вина стоят здесь 2–3 евро за бутылку. Даже пафосное {{< fl "Valdepeñas Gran Reserva 2005" >}} в дешёвых магазинах типа {{< fl "Lidl" >}} можно купить за пять евро:
+
 {{< imgfig "https://1.bp.blogspot.com/-VcoAUN_QANY/VHTyC7IOAlI/AAAAAAAAgFY/utYRfvRHg34/s1600/dsc07231.picasaweb.jpg" >}}

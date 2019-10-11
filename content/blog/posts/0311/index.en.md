@@ -16,6 +16,7 @@ Let me start with circumstances that pushed me in this direction. In 2016, in th
 <!--more-->
 
 I tend to think that it's better to regret what you have done than what you haven't, and after weighing the {{< a "0309" "pros and cons" >}} I've set the wheels in motion. On the 1<sup>st</sup> of October, 2016 my {{< fl "eenmanszaak" >}} was born at the [Chamber of Commerce](https://www.kvk.nl/). The delivery proved nice and easy, the newborn {{< fl "bedrijf" >}} has been christened as **Yktoo Solutions**.
+
 {{< imgfig "https://1.bp.blogspot.com/-iaEVkAOTeVs/WKlzptmLZ-I/AAAAAAAApQ0/W-rdGWrQhbI0mT6IfVvmr2qhM5F7-YTewCPcB/s1600/Yktoo-Solutions-logo.png" >}}
 
 In general one can pick any name for their business, provided that it isn't misleading or repeating any of the existing ones. An example of a misleading name is one that is based on a name that isn't yours (like "Johnson & Sons" if your name is not Johnson) or misrepresents the size or industry of the business ("Paradise Cleaning Industries" for a private house cleaner).
@@ -39,17 +40,21 @@ These sessions provide details on such topics as types of taxes, how to declare 
 Every few months the {{< fl "KvK" >}} organises a free "Starter's Day" ({{< fl "Startersdag" >}}). Besides the {{< fl "KvK" >}} and the {{< fl "Belastingdienst" >}} many other companies present their business services: banks, insurance companies, web design studios, mobile application developers, payment providers etc.
 
 Last November I've attended one of such events in Utrecht.
+
 {{< imgfig "https://1.bp.blogspot.com/-Eki7kXjgv2k/WCo7vUGvE5I/AAAAAAAAoPA/6ehaYzYB0MADbj79jW0RFyptuwQ220B9QCPcB/s1600/20161105_100446.picasaweb.jpg" "KvK Startersdag." >}}
 
 ## "The Digital Workplace" {#digitale-werkplaats}
 
 And in December I was invited by Google to another seminar called "The Digital Workplace" ([De Digitale Werkplaats](https://digitalewerkplaats.withgoogle.com/)).
+
 {{< imgfig "https://3.bp.blogspot.com/-bSXnAmKehwc/WKxwnAuMq0I/AAAAAAAApSE/B8VOjKSTTPgyqaseDrU9ifNR0YGkGJLcQCPcB/s1600/20161213_155655.picasaweb.jpg" "Google's Digital Workplace: participant's badge." >}}
 
 The company puts a lot of effort into promoting "search literacy" and, of course, their advertising services.
+
 {{< imgfig "https://4.bp.blogspot.com/-Mg6vyN6KDeQ/WKxwnE-Zc6I/AAAAAAAApSE/NYO2PpLXvc4_qVy7mrOm3ue4wjRuwxsOQCPcB/s1600/20161213_155811.picasaweb.jpg" "Google's Digital Workplace." >}}
 
 There were a number of lectures on various subjects: how to build website navigation in the right way, the effective use of the Webmaster's Tools and Google Analytics, how to advertise etc. That all in Dutch, too—the speakers were Dutch Googlers who came from their development centre in Dublin specifically for this event.
+
 {{< imgfig "https://1.bp.blogspot.com/-Pr10Soqileg/WKxwnBmTafI/AAAAAAAApSE/q5pEC34ffVwh3kr7Ld_k7cfB6xnO4UGGwCPcB/s1600/20161213_160002.picasaweb.jpg" "'A successful website.'" >}}
 
 ## Never stop learning {#keep-learning}

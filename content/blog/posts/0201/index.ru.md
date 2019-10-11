@@ -17,4 +17,5 @@ aliases:
 Новая версия построена на GTK+ 3 и новомодном GObject Introspection (GIRepository). {{< a "/software/sound-switcher-indicator" "Установить" >}} можно, как обычно, из моего [Launchpad PPA](https://launchpad.net/~yktooo/+archive/ppa/).
 
 Ну, и по традиции — картинка для привлечения внимания:
+
 {{< imgfig "https://3.bp.blogspot.com/-mMvzn9ftuEM/UhoP0iFj0QI/AAAAAAAAaD0/nH3vnaPzgcM/s1600/dsc00889.picasaweb.jpg" >}}

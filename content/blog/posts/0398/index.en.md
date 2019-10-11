@@ -25,9 +25,11 @@ Its full name is {{< a "http://ali.pub/3tn9ap" " Xiaomi Mijia Huohou automatic e
 ## What's in the box
 
 It comes in a minimalistic white cardboard box, like many other {{< fl "Xiaomi" >}} products.
+
 {{< imgfig "https://1.bp.blogspot.com/-5Itgh2pP_yY/XY4rtDUhZ1I/AAAAAAAAyEY/5RestFWzfJYxpXJhkOgGik2SLY43lDk1wCKgBGAsYHg/s1600/20180901_140444.w.jpg" "The packaging of the corkscrew." >}}
 
 Apart from the corkscrew (pretty heavy one) there's also a user's manual in Chinese, a foil-cutter, and a USB-to-Micro-USB charging cable, but no USB charger.
+
 {{< imgfig "https://1.bp.blogspot.com/--biQ6IIYQ-Y/XY4rtJ-UjTI/AAAAAAAAyEY/t05eHAeD2dgJ9gfvypBhRgEVK0dYryEXwCKgBGAsYHg/s1600/20180901_140653.w.jpg" "The entire contents of the box." >}}
 
 ## Usage
@@ -39,6 +41,7 @@ The corkscrew is extremely easy to use. The only control it has is an up-down ro
 * Finally, you push *Up* and the motor will reverse and push the cork out of the gadget.
 
 This is a short video demonstration of the action:
+
 {{< youtube "6Lf6czo4QCM" >}}
 
 ## Charging
@@ -46,6 +49,7 @@ This is a short video demonstration of the action:
 The battery level is displayed by four small white LEDs when you hold either button.
 
 In order to charge it, plug it to any USB port or charger using the provided Micro USB cable:
+
 {{< imgfig "https://1.bp.blogspot.com/-53DspUMuQmA/XY4rtECIYOI/AAAAAAAAyEY/H0X5mh_y_44WDFtR_mWyvXkauynZ5_BBACKgBGAsYHg/s1600/20180901_140832.w.jpg" "Charging the corkscrew." >}}
 
 A full charge takes a couple of hours.

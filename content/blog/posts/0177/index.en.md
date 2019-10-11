@@ -15,6 +15,7 @@ aliases:
 The life in Holland, smooth in general, sometimes delivers nasty surprises.
 
 On the last Liberation Day (May 5, 2012), I was liberated from my wallet (and the wallet, respectively, from me). It was stolen in Utrecht, a very nice city otherwise, at the Central Station, in a Chinese restaurant called [Charlie Chiu's](http://www.charliechiu.nl/), where we decided to make a pit-stop before a long and exhausting shopping round.
+
 {{< imgfig "https://1.bp.blogspot.com/-reBIHvtHNVM/UQpoeOHKMFI/AAAAAAAAWm4/nLmjPgqxCOg/s1600/4526206-Charlie_Chius_Utrecht.jpg" "Source: members.virtualtourist.com." >}}
 
 <!--more-->
@@ -32,11 +33,13 @@ We've spent about a quarter of an hour in the restaurant. When we stood up, I ch
 First thing to do was informing the police, of course. Police precinct located at the station, just fifty meters away from the restaurant. We were explained that, since the crime wasn't commited on the railway station territory, we ought to inform the district police instead.
 
 We got their address and started off for the Kroonstraat police station, about ten minutes walk from the station:
+
 {{< imgfig "https://4.bp.blogspot.com/-24ZNZLwPkS8/UQqWDbajAdI/AAAAAAAAWoA/w02l1c5HAt4/s1600/politie-utrecht-kroonstraat.jpg" "Source: Google Street View." >}}
 
 Yet another victim of the same sort was waiting in the foyer: a lad who also lost his wallet, but it was nicked from his bike bag in a dark passage.
 
 A police officer invited us into her office and began taking down the evidence, {{< fl "Proces-verbaal" >}} in Dutch, with all the relevant details.
+
 {{< imgfig "https://4.bp.blogspot.com/-uHGtmZPxR7g/UQqH7zqk7zI/AAAAAAAAWnc/ZZCr7AXRnv8/s1600/pv.png" >}}
 
 Recording all the details took more than an hour. The officer was very friendly and sympathising, and in other circumstances I would really have enjoyed it. She made all the necessary calls to have my stolen cards locked. She also called the restaurant and asked them to make sure the CCTV footage wouldn't get overwritten.

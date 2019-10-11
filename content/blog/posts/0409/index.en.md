@@ -18,6 +18,7 @@ My abbreviation dictionary {{< a "https://afk.best/en/" "afk.best" >}} has recei
 <!--more-->
 
 For that you'll need to tick off the **In abbr. only** check box:
+
 {{< imgfig "afk-best-en.gif" "Searching only abbreviations or all fields on afk.best." >}}
 
 If the check box is cleared, all fields, including the translation, will be sought. Any punctuation or whitespace are ignored just like before.

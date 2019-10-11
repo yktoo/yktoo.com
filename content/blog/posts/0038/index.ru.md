@@ -19,12 +19,15 @@ aliases:
 <!--more-->
 
 Когда он уже в основном надут, включают горелку, и от тёплого воздуха шар начинает подниматься. В это время гондола пока прицеплена верёвками к машине.
+
 {{< imgfig "https://4.bp.blogspot.com/-o6tCUzk77zo/T4w3vHLBeuI/AAAAAAAAO6E/pWuSWA-Dr8I/s1600/imgp2186.picasaweb.jpg" >}}
 
 Потом в тесную гондолу набегают пассажиры:
+
 {{< imgfig "https://4.bp.blogspot.com/-o5jEzpVWEYw/T4w3taJ1_4I/AAAAAAAAO58/Rd7ft7ULNsc/s1600/imgp2188.picasaweb.jpg" >}}
 
 Верёвку отцепляют и поддают ещё тёплого воздуха:
+
 {{< imgfig "https://4.bp.blogspot.com/-A9Q-_HlB9jI/T4w3wlZf-9I/AAAAAAAAO6M/tRcv_77n3gg/s1600/imgp2190.picasaweb.jpg" >}}
 
 Потом час-полтора их гонит куда-нибудь ветром, после чего они снижаются и их подбирает машина сопровождения.
@@ -32,4 +35,5 @@ aliases:
 Поначалу у нас тоже возникло желание покататься, которое растворилось, когда мы узнали цену удовольствия: € 165 с носа. Если повезёт пролезть на незанятое перед стартом место, то «всего» € 135.
 
 А снизу они тоже неплохо выглядят.
+
 {{< imgfig "https://4.bp.blogspot.com/-gVq3_6Gh05Y/T4w3r0p4VRI/AAAAAAAAO50/gQzd8eg2v7s/s1600/imgp2192.picasaweb.jpg" >}}

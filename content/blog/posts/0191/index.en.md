@@ -18,6 +18,7 @@ In the high season you can't expect a great choice of rental cars. So the favour
 In a quarter of an hour we were approached by a Portugese lady in her fourties, holding a Hertz binder. She at once started offering all kinds of insurance, which I never make use of—I've been lucky so far. Apart from that she tried to get us into buying a subscription for some magic windscreen device, which would exempt us from paying for toll roads for one and a half euros a day. Okay,— said I,— so what happens to those not carrying the magic device? The answer was vague and convoluted. In that case,— replied she,— you'll get an invoice, which you'll have to pay immediately at the post office, however you won't be able to since it's a rental car, so there will be an administration fee charged too, but it's important that you pay immediately, which you do at the post office, so it's definitely better to buy a subscription for the magic device. Okay,— said I,— so which motorways are toll roads here? In this area,— said she,— only the A22, but you can take N125 instead, for free. But once you happened to drive on A22, you'll get an invoice by mail, which… Yes, got it,— said I,— we won't need it.
 
 This is that Italian masterpiece called Fiat Punto we were surfing Algarve with:
+
 {{< imgfig "https://3.bp.blogspot.com/-n6kdcRewI_k/Ua4hnOcA5UI/AAAAAAAAYno/COZDdQStsSU/s1600/dsc08993.picasaweb.jpg" >}}
 
 So what about this car? It pinched my finger twice by its door handle, and I strongly believe it's not my fault. At least that had never happened to me before.
@@ -29,12 +30,15 @@ But Hertz did well, the car was nearly new, 30,000 km on the speedometer and alm
 ## The oranges {#oranges}
 
 You certainly noticed orange trees behind the car. If not, here they are:
+
 {{< imgfig "https://3.bp.blogspot.com/-RsUI30x7XZY/Ua4hu16kO7I/AAAAAAAAYoI/UZ3-kpSKgdU/s1600/dsc09006.picasaweb.jpg" >}}
 
 For the first time in my life I saw them like that ({{< a "0151" "Canarian mandarines" "ru" >}} don't count). The oranges are huge, bigger than my palm:
+
 {{< imgfig "https://1.bp.blogspot.com/-gHpJILlZ3O0/Ua4hq_k5OJI/AAAAAAAAYn4/KWXb0qFTCRo/s1600/dsc08999.picasaweb.jpg" >}}
 
 Here are little ones, hardly recognisable as oranges:
+
 {{< imgfig "https://3.bp.blogspot.com/-_Y5cJSiBe8E/Ua4hwmDpxFI/AAAAAAAAYoQ/R-1hg9io76g/s1600/dsc09007.picasaweb.jpg" >}}
 
 We found those trees somewhere northwards of Albufeira. We didn't risk to try them though.

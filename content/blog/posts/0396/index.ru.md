@@ -37,6 +37,7 @@ imageCredit: "Фото: JillWellington."
 ## Die, mama, die
 
 Вот ещё пример: реклама, шокирующая любого англоязычного человека:
+
 {{< imgfig "https://1.bp.blogspot.com/-MB92STzJb-E/XYztmLnu5aI/AAAAAAAAyDE/66Lvsr1D0Jg5ou8lpnLdquAE84dR3oKhwCKgBGAsYHg/s1600/mama-die-die-die.jpg" "Mama, die, die, die…" >}}
 
 И лишь голландец поймёт, что ребёнок говорит не «мама, умри», а всего лишь: «Мама, эту, эту, эту… Пожалуйста».

@@ -16,6 +16,7 @@ aliases:
 <!--more-->
 
 Однако в последние пару лет компания [Embarcadero](http://www.embarcadero.com/) (текущий владелец Delphi) добавила возможность разработки на платформах, отличных от Windows, предоставив в наше распоряжение фреймворк {{< wiki "FireMonkey" "en" "FireMonkey" >}}. Наступила пора выпустить крупное обновление пакета: библиотека была полностью переписана и теперь поддерживает как 32- и 64-битные VCL-проекты, так и все платформы FireMonkey (Win32, Win64, OSX, iOS и Android).
+
 {{< imgfig "https://1.bp.blogspot.com/-lQMvt4uzEB4/UqrhQFuH4-I/AAAAAAAAbAE/idD1wDQ5-8c/s1600/dklang-cross-platform.png" >}}
 
 Начиная с версии **DKLang 5.0**, она полностью кросс-платформенная и поддерживает как десктопные, так и на мобильные ОС.
@@ -27,12 +28,15 @@ aliases:
 ## Скриншоты демо-приложений {#sample-app-screenshots}
 
 {{< imgfig "https://2.bp.blogspot.com/-bUSzfMcVXCY/UqoVOOMEfxI/AAAAAAAAa_s/OQ8CGF0PnI8/s1600/ConstantsDemoOnMacOS.picasaweb.png" "Пример DKLang Constants на Mac OS X." >}}
+
 {{< imgfig "https://4.bp.blogspot.com/-CFPDkdC6xNQ/UqoVNGWeLoI/AAAAAAAAa_k/9ZEG2mk_tzQ/s1600/ConstantsDemoOniOS.picasaweb.png" "Пример DKLang Constants на iOS." >}}
+
 {{< imgfig "https://1.bp.blogspot.com/-w2Jh9X4qxiI/UqoVLwQ9mUI/AAAAAAAAa_c/BbVMe3ZzxDw/s1600/ConstantsDemoOnAndroid.picasaweb.png" "Пример DKLang Constants на Android." >}}
 
 ## DKLang в Delphi IDE {#delphi-ide}
 
 Это скриншот дизайнера форм Delphi и редактора DKLang Translation Storage.
+
 {{< imgfig "https://3.bp.blogspot.com/-Ep_RJ3wHNnI/UqoVPBGXpHI/AAAAAAAAa_0/4Xcx3S1iWWU/s1600/IDE.picasaweb.png" "Delphi IDE с открытым редактором Translation Storage." >}}
 
 ## Код и документация {#code-and-docs}

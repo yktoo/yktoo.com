@@ -20,6 +20,7 @@ image: "https://1.bp.blogspot.com/--iKed159U3s/XW6kGQSzDII/AAAAAAAAxIg/2b1G4aJCR
 Подобных термометров продаются тысячи, но основная фишка данного экземпляра состоит в в дисплее {{< wiki "Электронная_бумага" "ru" "E-Ink" >}} («электронная бумага»). Он *намного* контрастнее традиционных жидкокристаллических дисплеев ({{< fl "LCD" >}}).
 
 Его можно вешать на стену или ставить на стол в комплектную подставку.
+
 {{< imgfig "https://1.bp.blogspot.com/--iKed159U3s/XW6kGQSzDII/AAAAAAAAxIg/2b1G4aJCRF08c6uNTfnkRcB5pAI0pDxWQCKgBGAs/s1600/20190903_191017.w.jpg" "Термометр Xiaomi Mijia на стене." >}} 
 
 Брал, конечно же, {{< a "http://ali.pub/3qdxv7" "на AliExpress" >}}, цена вместе с доставкой **€ 9**.

@@ -14,6 +14,7 @@ aliases:
 Those of you who happen to author pictures and publish them on the Internet, must have thought about being able to claim your authorship for them.
 
 One of the most obvious ways to do that is watermarking pictures by adding your URL, name, copyright and/or copyleft. An average Joe would open his favourite image editor, click the Text tool and write a magnificent message for the generations to come.
+
 {{< imgfig "https://1.bp.blogspot.com/-oUCn7RhaN3s/TlZ5Mdf-KxI/AAAAAAAAJjE/NlXvkOWxgX4/s1600/56d4c0ff.jpg" >}}
 
 <!--more-->

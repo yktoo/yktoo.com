@@ -25,6 +25,7 @@ aliases:
 На фото выше можно также заметить датчик движения (изящно заткнутый за зеркало). Он нужен, чтобы экран не светился впустую, а включался только когда им кто-нибудь заинтересуется.
 
 Дисплей крупным планом:
+
 {{< imgfig "https://1.bp.blogspot.com/-VLEMekxonLc/VyzCp2yC21I/AAAAAAAAl-Q/xXBi09FB4qotl1YDAVLuU7fdPV6hxldVQCKgB/s1600/info-pi-screenshot.picasaweb.png" "Дисплей InfoPi." >}}
 
 Текущая реализация отображает следующие насущные данные (слева направо, сверху вниз):
@@ -46,9 +47,11 @@ aliases:
 По какой-то акции я приобрёл довольно тонкий 24-дюймовый LED-дисплей **LG 24MP47** (матрица IPS 1920×1080 пиксел). Если не учитывать блок управления и его крышку, толщина самого дисплея около одного сантиметра. Помимо малой толщины, важным требованием было наличие входа HDMI, поскольку он должен был подключаться к Raspberry Pi.
 
 Вот дисплей со снятыми крышкой и блоком управления:
+
 {{< imgfig "https://3.bp.blogspot.com/-L49yaaKpEYE/Vyc8sZT3UOI/AAAAAAAAl7Y/lr8BMUSqo7wyPMtMn0enXi2j1yzEi7f3ACKgB/s1600/dsc02103.picasaweb.jpg" "Дисплей LG 24MP47 с демонтированным блоком управления." >}}
 
 А вот снятая задняя крышка:
+
 {{< imgfig "https://2.bp.blogspot.com/-tyEOiXBZx9w/Vyc8sfdJ24I/AAAAAAAAl7Y/i1MSxyOF0SU_3FkfEyEkX64mOWRJXC48gCKgB/s1600/dsc02104.picasaweb.jpg" "Крышка блока управления." >}}
 
 Блок управления дисплея (на котором смонтированы разъёмы питания, HDMI и т. д.) связывается с контроллером матрицы посредством шлейфа шириной сантиметра в четыре.
@@ -56,21 +59,27 @@ aliases:
 Зеркало (размер 50×140 см) у нас висело на деревянной двери распределительного щитка (по-голландски {{< fl "meterkast" >}}, буквально «шкаф со счётчиками»). Моя идея состояла в том, чтобы матрицу дисплея закрепить на двери снаружи, *под* зеркалом, а блок управления — изнутри, пропустив шлейф через прорезанную щель.
 
 Итак, этап номер один. Берём девственно чистую дверь *метеркаста*:
+
 {{< imgfig "https://3.bp.blogspot.com/-rPQJ9VY4DB0/Vyc8sa-LvOI/AAAAAAAAl7Y/v_2l81CE7_MOHjWKo3fn4UuL-XUO83HvgCKgB/s1600/dsc02102.picasaweb.jpg" "Распределительный щиток, он же meterkast." >}}
 
 Сверлим в ней отверстия для крепления матрицы и прорезаем щель для шлейфа:
+
 {{< imgfig "https://3.bp.blogspot.com/-Y2cNQ4d-7zg/Vyc8sbX3eXI/AAAAAAAAl7Y/j_hhs0cAEEgwdiumDtOn0BL1SWVkpju1wCKgB/s1600/dsc02106.picasaweb.jpg" "Щель для шлейфа к контроллеру матрицы." >}}
 
 После этого, запасясь недюжинным терпением, путём сложных акробатических трюков закреплям матрицу на двери и подключаем её к шлейфу, стараясь ничего ненароком не оторвать:
+
 {{< imgfig "https://1.bp.blogspot.com/-RxlszMu85zU/Vyc8sXxxUrI/AAAAAAAAl7Y/jHOafxbug6M36Vcpbu2G3yt_gnevcWMFACKgB/s1600/dsc02107.picasaweb.jpg" "Матрица смонтирована успешно, вроде бы." >}}
 
 Штатную же крепёжную скобу монтируем с внутренней стороны двери, после чего привинчиваем на своё место блок управления:
+
 {{< imgfig "https://2.bp.blogspot.com/-MOKpCaz-OOw/Vyc8sWMbSEI/AAAAAAAAl7Y/VoXdmSnDMK85HicA2Nwudoh_kyOFjXbrACKgB/s1600/dsc02108.picasaweb.jpg" "Блок управления дисплея со внутренней стороны двери." >}}
 
 После этого можно накрыть всё это дело родной крышкой, красиво спрятать кабели, и станет почти что профессионально:
+
 {{< imgfig "https://1.bp.blogspot.com/-Qq2xP9AgWRI/Vyc8sYEc0DI/AAAAAAAAl7Y/FlVzmsN4HpM9XD8KQcEfII6GHkOyJM-egCKgB/s1600/dsc02161.picasaweb.jpg" "Задняя крышка установлена на место." >}}
 
 Компьютер Raspberry Pi установлен внутри щитка, подключен к питанию (Micro USB), дисплею (HDMI) и локальной сети (Ethernet). Блок питания монитора включен через беспроводной приёмник, управляемый вышеупомянутым датчиком движения:
+
 {{< imgfig "https://4.bp.blogspot.com/-yluFYfqf8lg/Vyc8sVJbjGI/AAAAAAAAl7Y/IEaEbYQPtZYW39_FGHv6FADr47P6v_c_gCKgB/s1600/dsc02162.picasaweb.jpg" "Мозг, сердце и лёгкие InfoPi." >}}
 
 ## Зеркальная часть {#mirror}
@@ -86,33 +95,45 @@ aliases:
 **Шаг №1:** размечаем прямоугольник по размерам экрана.
 
 **Шаг №2:** чтобы герметик было легче отклеивать, по внутреннему периметру прямоугольника наклеиваем обычный скотч.
+
 {{< imgfig "https://1.bp.blogspot.com/-4euAR1CDE0Y/Vyc8scsZqpI/AAAAAAAAl7Y/xqesIdIRsu8_hVyaWdB3T6F47VqhFeztQCKgB/s1600/20160410_164439.picasaweb.jpg" "Скотч с внутренней стороны рамки." >}}
 
 **Шаг №3:** наносим герметик, стараясь попадать точно на границу прямоугольника и соблюдать равномерную его высоту.
+
 {{< imgfig "https://3.bp.blogspot.com/-SvBG778w7GQ/Vyc8sQHMzII/AAAAAAAAl7Y/h4wfyASYfV4tiUCl9R-2-g4q4AyBC-MXACKgB/s1600/20160410_165829.picasaweb.jpg" "Силиконовый герметик нанесён." >}}
+
 {{< imgfig "https://3.bp.blogspot.com/-Rumjtc5OmQ4/Vyc8sSvK_YI/AAAAAAAAl7Y/RhLm4wDOCjcCRmBjGbgxnLvLF4buCOWwwCKgB/s1600/20160412_200524.picasaweb.jpg" >}}
 
 **Шаг №4:** после того, как силикон немного затвердеет (несколько часов), аккуратно надрезаем его по линии и удаляем внутреннюю часть вместе со скотчем:
+
 {{< imgfig "https://2.bp.blogspot.com/-Wkpja2qmnEU/Vyc8sYXkrkI/AAAAAAAAl7Y/zF0G34Siwz0-pP5ewpdnogxcAP3eutORQCKgB/s1600/20160412_201054.picasaweb.jpg" "Силикон обрезан и удалён." >}}
+
 {{< imgfig "https://1.bp.blogspot.com/-gFrYqhiH9SQ/Vyc8sXZV2LI/AAAAAAAAl7Y/A7GfNQNcweUfjPwULH5C_IUGiOnLpsFAwCKgB/s1600/20160412_201105.picasaweb.jpg" >}}
 
 **Шаг №5:** столь же аккуратно заливаем ацетон в получившийся бассейн:
+
 {{< imgfig "https://2.bp.blogspot.com/-v085c0z_Nrc/Vyc8saYCY_I/AAAAAAAAl7Y/Vvza11Ieu7Ep1F58GhHHkhFHJmihkkVNgCKgB/s1600/20160412_201218.picasaweb.jpg" "Наливаем ацетон." >}}
+
 {{< imgfig "https://4.bp.blogspot.com/-TZTMognboKI/Vyc8sUSZQgI/AAAAAAAAl7Y/5HLgeCz1JJ4dq4ZIJYjD7ijCw0QZH9NCwCKgB/s1600/20160412_201531.picasaweb.jpg" >}}
 
 Чёрт, немного подтекает в углу, но не страшно:
+
 {{< imgfig "https://3.bp.blogspot.com/-oVkyhgdegoQ/Vyc8sUqr4NI/AAAAAAAAl7Y/Sda78tW8lT0iHN2LCthtG-u4NLahe4WtgCKgB/s1600/20160412_201540.picasaweb.jpg" "Микроавария." >}}
 
 **Шаг №6:** вновь запасаемся терпением — на несколько дней, периодически помешивая ацетон и проверяя состояние краски. Неплохо также ванночку чем-нибудь накрыть, так как иначе ацетон будет испаряться и его придётся подливать. В какой-то момент (где-то через неделю) краска начинает поддаваться предмету умеренной твёрдости (лучше всего использовать какую-нибудь деталь из ПВХ). Под слоем обычной краски, как я упоминал выше, краска на медной основе:
+
 {{< imgfig "https://1.bp.blogspot.com/-EHXtIH6tE14/Vyc8sewLd3I/AAAAAAAAl7Y/IDiHf6-B-8ACG6AlI57AQZxDJUUdKKFLgCKgB/s1600/20160414_204457.picasaweb.jpg" "Первый пошёл!" >}}
 
 **Шаг №7:** скребком из ПВХ соскабливаем всё, что соскабливается, периодически это всё удаляя и подливая свежего ацетона. В этом месте я обнаружил, что под медной краской есть ещё один, третий, тёмный защитный слой:
+
 {{< imgfig "https://1.bp.blogspot.com/-QIyaNJCx0bY/Vyc8sV4P9CI/AAAAAAAAl7Y/c7oMPQpMRgIecsaCnmX8uCh6u9a1alJowCKgB/s1600/20160414_215426.picasaweb.jpg" "Третий и частично второй защитный слои." >}}
 
 **Шаг №8:** остался последний защитный слой. Вновь подливаем ацетон и ждём несколько дней:
+
 {{< imgfig "https://2.bp.blogspot.com/-5P0e-sesL5s/Vyc8scs5CuI/AAAAAAAAl7Y/TrUwirSPduk-3baZYXLX5ryYLUfsUeprwCKgB/s1600/20160416_222005.picasaweb.jpg" "Последний защитный слой." >}}
 
 **Шаг №9:** удаляем этот тёмный слой, как только он к этому готов. Здесь лучше всего действовать тканью или бумажными салфетками, поскольку непосредственно под ним — зеркальное напыление:
+
 {{< imgfig "https://4.bp.blogspot.com/-aTkMFYO1lW8/Vyc8scVBnSI/AAAAAAAAl7Y/QwnadZjt4oEB6m4Wmg8TJCxpjPrgrUk8gCKgB/s1600/20160418_205105.picasaweb.jpg" "Остался только зеркальный слой." >}}
 
 **Шаг №10:** убираем оставшийся герметик, стараясь не повредить то, к чему он намертво приклеился.

@@ -33,14 +33,17 @@ On the bright side, I have to say the three play instruments like gods. The line
 * {{< wiki "Marco_Minnemann" "en" "Marco Minnemann" >}} ({{< fl "Steven Wilson" >}}, {{< fl "Kreator" >}}, {{< fl "Joe Satriani" >}}, {{< fl "Paul Gilbert" >}}, {{< fl "Necrophagist" >}}) – **drums**
 
 The lists of acts above should give you a hint of how brilliant they are. The brightest band member is arguably the British {{< wiki "Guthrie_Govan" "en" "Guthrie Govan" >}}, which is a true guitar virtuoso. You must hear that to really appreciate his playing.
+
 {{< imgfig "https://1.bp.blogspot.com/-iEJR_3Ip7P4/Vn7Lnv-cGoI/AAAAAAAAk94/ElLzdZoMlEY/s1600/20151209_211058.picasaweb.jpg" "Guthrie Govan." >}}
 
 Because of the new stupid rules I was only able to record a couple of videos of a questionable quality.
 
 The first one was a story about an incident at a gas station somewhere in Texas, narrated by the bassist Bryan Beller and going over a minor car accident, a desperate female driver and a happy settlement:
+
 {{< youtube "n0T48bzWouI" >}}
 
 The second one was the *Texas Crazypants* written after this event:
+
 {{< youtube "EP7ZwqPw108" >}}
 
 Listening to their numerous stories I was a bit surprised how trite were the stories that led to their super-intricate compositions. Most of them happened "somewhere in the States during a tour."

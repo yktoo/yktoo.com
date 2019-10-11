@@ -9,6 +9,7 @@ aliases:
 ---
 
 С блогом произошли некоторые давно запланированные изменения.
+
 {{< imgfig "https://4.bp.blogspot.com/-bDT2EUCLWxY/Th8_MnB40lI/AAAAAAAAJHQ/F14fig3v1NM/s1600/i-like-to-move-it.jpg" >}}
 
 Блог повзрослел и переехал на мой собственный домен. Новый адрес блога: **blog.yktoo.com**.

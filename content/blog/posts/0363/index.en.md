@@ -22,9 +22,11 @@ Just for your information, in Holland a number plate is always associated with a
 ## Example
 
 So let's take my first {{< a "0028" "leased Toyota" "ru" >}} from this twelve-year-old photo as an example:
+
 {{< imgfig "https://3.bp.blogspot.com/-HoibkPanFp0/T420BAgqzqI/AAAAAAAAO_s/eyuRJT6NOl0/s1600/imgp1525.picasaweb.jpg" "Toyota Prius 2009 with me posing." >}}
 
 Type in `16HDK2` in the {{< fl "Kenteken" >}} field at the {{< a "https://ovi.rdw.nl/" "OVI page" >}} and you'll get the following:
+
 {{< imgfig "ovi-kentekencheck-16hdk2.png" "The Toyota's registration data." >}}
 
 One can easily verify it's indeed a {{< fl "Toyota Prius" >}}, grey ({{< fl "Kleur: grijs" >}}), first put on my name on November 16, 2017 at 15:20 ({{< fl "Datum tenaamstelling" >}} in the {{< fl "Vervaldata en historie" >}} section), and has had one business (me) and two private owners throughout its twelve year history (the {{< fl "Aantal eigenaren privé / zakelijk" >}} line).

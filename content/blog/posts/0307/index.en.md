@@ -21,4 +21,5 @@ It reads: *"March 22, 1996: Hired as a principal engineer of IT department at th
 And I was indeed motivated. Nonetheless, one year later (the record No. 2 on the scan above), after my graduation, I had to quit to return to my home city Tyumen.
 
 To mark this anniversary I have made a graphical story of my professional path (as frantic as it looks):
+
 {{< imgfig "https://2.bp.blogspot.com/-G9QFlaRMTH0/WKbJN6ifwjI/AAAAAAAApP4/MJ-TjMCNzO0_uwKAZq4BpIdVFH7QX4qpQCPcB/s1600/wordcloud-white.png" >}}

@@ -35,6 +35,7 @@ It's time to fulfil my promise and publish a review of my "{{< a "0384" "inflata
 ## What's in the box
 
 A traditionally sober white cardboard box (which was slightly beaten during shipping):
+
 {{< imgfig "https://1.bp.blogspot.com/-ri38OczOifg/XYKFJQMF_WI/AAAAAAAAxms/2O9O6Z2zRNgXGPBR0ceoA59jnSsTMQ_PwCKgBGAsYHg/s1600/20190918_181044.w.jpg" "Pump in the packaging." >}}
 
 Fortunately the pump itself was perfectly fine and not damaged.
@@ -53,6 +54,7 @@ The contents of the packaging:
 ## Controls
 
 Anyone who ever owned an {{< wiki "iPod Classic" >}} will definitely experience déjà-vu looking at this one:
+
 {{< imgfig "https://1.bp.blogspot.com/-8rnFB4QH818/XZdKZh-vI0I/AAAAAAAAyY0/a6xPIXyyoVAsdYh2ztkerEJkCbKH2JIOwCKgBGAsYHg/s1600/2019-10-04.webp" "Xiaomi Mijia pump." >}}
 
 Well, as someone once said, *"good artists borrow, ~~Chinese~~ great artists steal."*
@@ -65,9 +67,11 @@ The front panel features a large white-LED screen and a five-button ring below i
 * The central button starts and stops the inflation.
 
 The upper side contains a pressure tube, which is to be inserted with its free end into the red-marked hole in times when not in use. There's also a bright white LED in the middle serving as a flash-light.
+
 {{< imgfig "https://1.bp.blogspot.com/-0NL20aXVnVw/XZdKZtUYybI/AAAAAAAAyY0/e49DY5sMYFoA5yaXeDgCAYymw8629UMtgCKgBGAsYHg/s1600/2019-10-04.webp" "Top view." >}}
 
 The bottom side features a Micro USB charging port with a rubber cover, and another white LED next to it used to indicate charging or power-on status.
+
 {{< imgfig "https://1.bp.blogspot.com/-EmJJ9Vvup4w/XZdKZg1FDCI/AAAAAAAAyY0/wuq4NRGQg5wyIwUOy3E6M9CqBUF3K9CjQCKgBGAsYHg/s1600/2019-10-04.webp" "Bottom view: the charging port and the power indicator." >}}
 
 These are all controls this device has.
@@ -77,6 +81,7 @@ These are all controls this device has.
 I find Xiaomi designs principles quite appealing. They clearly focus on ensuring their products are simple to use by making the user interface minimalistic, at the same time using them doesn't make you feel you're assembling a ship through a bottle's mouth.
 
 For example, there's no power button here. The device powers on automatically as soon as you pull the tube's nozzle out of the storage hole. Conversely, it goes off once you put the nozzle back in:
+
 {{< imgfig "https://1.bp.blogspot.com/-X-dZrv2iHp0/XZdKZn_UlBI/AAAAAAAAyY0/Q7glPocYId4oA02K6WxhbkR7yN1kL48GACKgBGAsYHg/s1600/2019-10-04.webp" "Automatic power control on tube pull-out." >}}
 
 Other controls are just as intuitive.
@@ -92,21 +97,25 @@ This is the default power-up mode of the pump, in which you can choose a pressur
 ### Bike tyre mode
 
 Range: **30** through **65** psi.
+
 {{< imgfig "https://1.bp.blogspot.com/-B3rvs9yuc3E/XZdKZi1YuQI/AAAAAAAAyY0/Qqdi9OSgNLcySMV7GgWl3may6mlxkRaDgCKgBGAsYHg/s1600/2019-10-04.webp" "Bike tyre mode." >}}
 
 ### Motorbike tyre mode
 
 Range: **1,8** through **3** bar.
+
 {{< imgfig "https://1.bp.blogspot.com/-JdxYzqpc5JY/XZdKZrRO_6I/AAAAAAAAyY0/NACu4YY-j9MfK5Q_iiAs57VbAWkCevY6QCKgBGAsYHg/s1600/2019-10-04.webp" "Motorbike tyre mode." >}}
 
 ### Car tyre mode
 
 Range: **1,8** through **3,5** bar.
+
 {{< imgfig "https://1.bp.blogspot.com/-FmhgBS7P0E4/XZdKZg9j0pI/AAAAAAAAyY0/s4tAi0gLiRAJ-AAFa3VHAJ0BtjEl8d0BgCKgBGAsYHg/s1600/2019-10-04.webp" "Car tyre mode." >}}
 
 ### Football mode
 
 Range: **4** through **16** psi.
+
 {{< imgfig "https://1.bp.blogspot.com/-1MD4HcM2A4Q/XZdKZoZ0eAI/AAAAAAAAyY0/JaL774fPUnUlY2a1C1-keiHlY0TKhznnwCKgBGAsYHg/s1600/2019-10-04.webp" "Football mode." >}}
 
 ### Starting and stopping the inflation
@@ -122,6 +131,7 @@ The nozzle mounted on the inflation tube's end fits a standard car tyre valve; t
 ## Video demonstration
 
 I've recorded a short video demonstrating the pump in action. I've inflated my *Ninebot One S2* monowheel's tyre up to the recommended **50** psi, having previously completely deflated it. The pumping took exactly one minute.
+
 {{< youtube "bDnWeuYx5i0" >}}
 
 With a hand pump I could have done it probably in 10-15 seconds.

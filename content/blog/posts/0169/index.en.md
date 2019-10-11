@@ -14,20 +14,16 @@ At the moment the following four scripts are available:
 
 <!--more-->
 
-* `generate-wallpaper-xml`
-    <p></p>
+* `generate-wallpaper-xml`\
     {{< a "0168" "Creates an XML" >}} wallpaper file with a slide show.
 
-* `picasa-upload`
-    <p></p>
+* `picasa-upload`\
     {{< a "0110" "Advanced picture uploader" >}} for Google Picasa, capable of watermarking images.
 
-* `rotate-wallpaper`
-    <p></p>
+* `rotate-wallpaper`\
     {{< a "0122" "A simple script" >}} that sets a random image as current wallpaper.
 
-* `update-exif-date`
-    <p></p>
+* `update-exif-date`\
     Updates EXIF date in JPEG images according to the file name.
 
 Please welcome: [github.com/yktoo/yktools](https://github.com/yktoo/yktools)

@@ -26,6 +26,7 @@ This is just an early beta that can still prove useful:
 * Whenever a container is started or stopped (not necessarily via the indicator), a desktop notification is shown.
 
 Here's how it looks like:
+
 {{< imgfig "https://4.bp.blogspot.com/-aU2VIG_F2WA/WPMmyktgqLI/AAAAAAAApvo/K9MERC-7RTEixLhL6RJ8KUKK4WWokZknACPcB/s1600/Screenshot.png" "Docker Indicator 0.1.0 screenshot." >}}
 
 ## Installation {#install}

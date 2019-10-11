@@ -58,6 +58,7 @@ Het is ook goed om te weten dat er naast "eerlijke" brokers veel "klaplopers" op
 Interim contracten worden vaak aangeboden op speciale freelance websites. Er zijn er enkele in Nederland: [4-freelancers](https://www.4-freelancers.nl/), [IT-contracts](https://www.it-contracts.nl/), [freelance.nl](https://www.freelance.nl/), [Qwery](https://www.qwery.nl/), om er maar een paar te noemen. Een veelvoorkomend probleem is echter dat opdrachten die oorspronkelijk door "eerlijke" brokers worden gepubliceerd vaak ook naar andere websites worden gekopieerd door "klaplopers", wat het heel moeilijk maakt om ze naar de originele advertentie te herleiden, laat staan om te achterhalen wie de eindklant is.
 
 Een collega heeft enkele maanden geleden het project [Observ](https://observ.nu/) gestart, dat heel nuttig van pas kwam tijdens het zoeken naar een opdracht. Observ is een gratis ICT contract aggregator die meerdere kopieën van dezelfde vacature uit verschillende websites verzamelt, classificeert en samenstelt in één. Het markeert ook vacatures die door "eerlijke" brokers worden geplaatst (het blauwe keten-icoontje dat *betrouwbare broker* betekent):
+
 {{< imgfig "https://4.bp.blogspot.com/-cjUtE071tFg/WN0YRhFH42I/AAAAAAAApr4/WyB_8ceeS0M-JGzjCw6TmK8ZzriLe2wmgCPcB/s1600/observ.nu.picasaweb.png" "Observ website." >}}
 
 Al ben je niet van plan om opdrachten te zoeken via deze service, het heeft zin om er een keer naar te kijken zodat je weet met welke broker je wel of niet moet werken.

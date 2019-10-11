@@ -15,6 +15,7 @@ Tonight I surprised myself. It all began when my materials about {{< a "0109" "D
 <!--more-->
 
 I have to admit that, since it was my very first experience in interviewing someone, I never prepared for this and I started speaking English only three years ago or so, it wasn't perfect at all. On the other hand, it wasn't too bad either, so I decided to publish it, along with its text, having cut out all the hemming and hawing, where it was possible.
+
 {{< imgfig "https://2.bp.blogspot.com/-Rcclvqp1UlQ/TlkvTe7qw0I/AAAAAAAAJjo/opF66cdStTg/s1600/daniel-de-jong.jpg" >}}
 
 So, here's the interview with Daniël de Jong, Desperados; Bungalowpark 't Eekhoornnest, Soest, the Netherlands; August 26, 2011. Playtime: 25 minutes.

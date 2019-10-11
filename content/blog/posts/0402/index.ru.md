@@ -20,6 +20,7 @@ image: "https://1.bp.blogspot.com/-4UFvm3Fn2D0/XZRYY5bNvZI/AAAAAAAAyS8/eu4JB3rsk
 <!--more-->
 
 Если же картинку открыть, то там написано нечто слегка иное: «Указаны максимально допустимые значения, разрешённые законом».
+
 {{< imgfig "https://1.bp.blogspot.com/-4UFvm3Fn2D0/XZRYY5bNvZI/AAAAAAAAyS8/eu4JB3rskUEZhXoFrWrRPCmUp4LHn2yDACKgBGAsYHg/s1600/meduza-original.png" "Максимальное рабочее время в неделю по версии «Медузы»." >}}
 
 Ну ладно, оставим на совести редакторов то, что заголовок и содержимое *слегка* отличаются по смыслу.

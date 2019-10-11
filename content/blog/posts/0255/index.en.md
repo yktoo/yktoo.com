@@ -45,16 +45,16 @@ The recommended sequence is as follows:
 
 3. Disable screensaver, screen lock, disk suspend etc.
 
-4. Compile the program *on the system you've booted* (because its libraries can differ from the host OS):
-<pre>gcc rewrite-inplace.c -o rewrite-inplace</pre>
+4. Compile the program *on the system you've booted* (because its libraries can differ from the host OS):\
+`gcc rewrite-inplace.c -o rewrite-inplace`
 
 5. Look up partition names using GParted. **Utterly important:** all these partitions must be *unmounted*, which can be checked by their absence in the output of `mount`.
 
-6. Run the program for each partition you want to process, as `root`, for instance:
-<pre>sudo rewrite-inplace /dev/sda1   # This is just an example!</pre>
+6. Run the program for each partition you want to process, as `root`, for instance:\
+`sudo rewrite-inplace /dev/sda1   # This is just an example!`
 
-7. Wait for the program to finish. Once done, verify disk's integrity using:
-<pre>sudo fsck -f /dev/sda<partition></pre>
+7. Wait for the program to finish. Once done, verify disk's integrity using:\
+`sudo fsck -f /dev/sda<partition>`
 
 ## My results {#my-results}
 

@@ -13,6 +13,7 @@ My most bulky gadget needed an upgrade. I've been a devoted {{< wiki "Toyota_Pri
 <!--more-->
 
 Not that I had any issues with it—quite the opposite, it was totally problem-free during the whole time. But I didn't want to wait for issues to arise. And, of course, one wants something new once in a while.
+
 {{< imgfig "https://3.bp.blogspot.com/-TM5UJH9RL4M/WThoZVX3b8I/AAAAAAAAqGk/ckLR_7A1HCIoEtTm25SVwK7GEvy08_3tgCKgB/s1600/20170527_131723.picasaweb.jpg" "Toyota Prius PHV." >}}
 
 ## Toyota Prius {#prius}
@@ -41,9 +42,11 @@ My old, previous generation Prius, had a small nickel-metal hydride battery, and
 A *plug-in hybrid*'s battery can be recharged from a regular mains outlet. My Prius has a lithium-ion battery with the capacity of **4.4 kW⋅h**. Of course it's very little in comparison to, say, {{< wiki "Tesla_Model_S" "en" "Tesla Model S" >}} with its huge battery of 70-90 kW⋅h. A fully charged *Prius PHV* has the range of about **18-20 km** in the fully electric mode. On the one hand it isn't much. On the other, it's enough to buy your groceries or go for shopping to a nearby town. The *EV* mode can be turned on and of with a special button. However, if the battery is depleted or the gas pedal is pushed sharply, the EV mode will be cancelled. It also gets suspended as soon as the car reaches the speed of **90 km/h**.
 
 Toyota has decided to stash this larger battery in the boot, and that left no room for the spare wheel. I can only hope I won't need it.
+
 {{< imgfig "https://2.bp.blogspot.com/-daJva3GhoYY/WUdkliiWcCI/AAAAAAAAqIk/89E4uwXOCOsIDf43CBnXyePql1StJnoegCKgBGAs/s1600/20170530_191011.picasaweb.jpg" "The boot of Prius PHV." >}}
 
 It takes about an hour to fully charge an "empty" battery (with the current of 10 A, that is with the power of 2.3 kW), which means that an "empty" battery still has some 50% remaining charge. Hence a full charge will cost you circa **25** eurocents at our local tariffs (standard **€0.11**, off-peak **0.09**). Which is almost for free in my view. Driving with petrol is about six times more expensive (and that, mind you, with the hybrid car, which takes only **3-4** litres gasoline for 100 km). Nowadays one litre gasoline costs here about **€1.50**.
+
 {{< imgfig "https://1.bp.blogspot.com/-IWuBt7NwwnI/WUdklvofpVI/AAAAAAAAqIk/0M-GcH8zwMMjFmcwZs8Fg5mP02YLUa1EACKgBGAs/s1600/20170530_191020.picasaweb.jpg" "The battery." >}}
 
 You can also program Prius to charge at night, with the off-peak rate.

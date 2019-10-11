@@ -19,6 +19,7 @@ According to {{< a "https://www.hypotheekshop.nl/actueel/wijzigingsvoorstel-hypo
 <!--more-->
 
 Below are the historical rates over the last half a century. This is a chart for a five-year fixed rate:
+
 {{< imgfig "https://1.bp.blogspot.com/-9CP6kSM8ZZQ/XXjnL3UYj3I/AAAAAAAAxSU/Fx1RkXEOj4oNh2985qMVLPXqhlBhiNjkQCKgBGAsYHg/s1600/hypotheek-rentes-vanaf-1965.png" "Historical mortgage interest rates since 1965. Source: www.hypotheekshop.nl, data as of September 17, 2018." >}}
 
 Apart from the record low values, what is also remarkable is their update frequency. Some mortgage providers have reduced them four times during last month. 

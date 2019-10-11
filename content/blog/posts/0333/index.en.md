@@ -21,6 +21,7 @@ Anyway, one thing has been driving me crazy about this Ubuntu version: the excru
 {{< imgfig "https://3.bp.blogspot.com/-w8WkcsTSJdg/Wkyk0No8B4I/AAAAAAAArSw/9CvgDb05oWkWXzFoejugOZ7Ohjr6V4t6QCKgBGAs/s1600/gnome-universal-access.png" "Gnome Universal Access." >}}
 
 Here one has to click the unremarkable bar labelled *Repeat Keys*. One might think that'll turn the value *On* into *Off*, but—surprise!—it brings up the Repeat Keys dialog:
+
 {{< imgfig "https://3.bp.blogspot.com/-0mcHHp6aXpI/Wkyk0CGda1I/AAAAAAAArSw/M-lU-DPqdrYC6FrSEG2SaSeR78k9KxePQCKgBGAs/s1600/gnome-universal-access-repeat.png" "Gnome: Repeat Keys settings." >}}
 
 The problem was, though, that this setting wouldn't visibly change the autorepeat speed, it seemed even it was doing the opposite. Ideas anyone? It took me about a month to figure out what was wrong with this dialog.

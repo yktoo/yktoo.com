@@ -17,6 +17,7 @@ image: "https://1.bp.blogspot.com/-9CP6kSM8ZZQ/XXjnL3UYj3I/AAAAAAAAxSU/Fx1RkXEOj
 <!--more-->
 
 Вот так менялась процентная ставка в последние полвека — пример с фиксацией на пять лет:
+
 {{< imgfig "https://1.bp.blogspot.com/-9CP6kSM8ZZQ/XXjnL3UYj3I/AAAAAAAAxSU/Fx1RkXEOj4oNh2985qMVLPXqhlBhiNjkQCKgBGAsYHg/s1600/hypotheek-rentes-vanaf-1965.png" "График изменения ставок по ипотеке с 1965 года. Источник: www.hypotheekshop.nl, данные на 17.09.2018." >}}
 
 Помимо рекордно низких значений, примечательной является также частота, с которой ипотечные провайдеры снижают свои тарифы: до четырёх раз за последний месяц. 

@@ -51,9 +51,11 @@ It might be the factor of age or being short of ideas. On the other hand, we all
 I've been bold enough to make a couple of more photos right after the last song—everyone grabbed their mobiles at once to take pictures so the security had no chance.
 
 The guitarist {{< wiki "John_Petrucci" "en" "John Petrucci" >}}:
+
 {{< imgfig "https://2.bp.blogspot.com/-kpDrkCzDrWQ/Vs96qbqDA8I/AAAAAAAAleU/GxiIM7YRshM/s1600/20160223_224231.picasaweb.jpg" "Dream Theater in Carré. John Petrucci." >}}
 
 I was sitting in the second row, literally two metres away from Petrucci. Neither him nor the rest of the band looked too emotional about the gig; only the singer {{< wiki "James_LaBrie" "en" "James LaBrie" >}} humbly asked the crowd a couple of times if we liked it.
 
 And finally the most scandalous: the drummer {{< wiki "Mike_Mangini" "en" "Mike Mangini" >}} is taking photos with his mobile while the security is turning a blind eye to it! Isn't it double standards?
+
 {{< imgfig "https://1.bp.blogspot.com/-cwfVlJhAerw/Vs96qR8GwMI/AAAAAAAAleU/Pt3Aclg48ro/s1600/20160223_224229.picasaweb.jpg" "Dream Theater in Carré. Mike Mangini takes a photo." >}}

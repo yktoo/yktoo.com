@@ -36,6 +36,7 @@ There's also a {{< a "https://snapcraft.io/xournalpp" "snap" >}} available.
 *Xournal*'s interface is pretty much a no-brainer.
 
 You can use this program as a notepad for drawings and notes, but in my opinion it's **PDF annotation** feature is where it really shines. All you need to do is open a PDF and there you go:
+
 {{< imgfig "https://1.bp.blogspot.com/-vgNEZhAFYIQ/XZ83SpPbj3I/AAAAAAAAylo/cI3jqDFFntckOursM9-wzxWRXCyLs72wwCKgBGAsYHg/s1600/2019-10-10_xournal.png" "Xournal: annotating PDF has never been simpler." >}}
 
 On the screenshot above, *Xournal* easily manages the **666**-page {{< a "http://www3.weforum.org/docs/WEF_TheGlobalCompetitivenessReport2019.pdf" "WEF report" >}} without a single hiccup.

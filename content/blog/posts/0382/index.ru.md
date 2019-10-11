@@ -39,6 +39,7 @@ imageCredit: "Фото: RVD."
 Поскольку основные положения речи утекли заранее, главной интригой дня был вопрос, останется ли у короля борода.
 
 Борода осталась, монеты и марки можно не перевыпускать.
+
 {{< imgfig "https://1.bp.blogspot.com/-FtbsEvqt_ok/XZ8W1aPu9bI/AAAAAAAAyjk/_i4NVMU1ARgyKSlf9fJyKtpLs8ACdb_lACKgBGAsYHg/s1600/prinsjesdag-2019-vaandel-ridderzaal.jpg" "Король Нидерландов Виллем-Александр и королева Максима. Фото: Ministerie van Financiën / Martijn Beekman." >}}
 
 Тронная речь ({{< a "http://download.omroep.nl/nos/docs/170919_troonrede.pdf" "пятистраничный PDF" >}}) начинается с упоминания 75-летия начала операции {{< wiki "Голландская_операция_(1944)" "ru" "Market Garden" >}} (1944), в ходе которой была произведена одна из крупнейших в истории высадок воздушного десанта — в голландских городах Эйндховен, Неймеген и Арнем.

@@ -27,4 +27,5 @@ I've tried dozens of different options: power and audio wiring, mutual cable loc
 I've solved this eventually. You only get the popping sound if the speaker's power cable is the only device in the power chain. If another device is plugged into the adjacent *Slave* socket, it's completely gone. I had a background lighting plugged into the power switch before, which apparently prevented the speaker from clicking. As for the cause of this, the speaker is definitely equipped with a transformer power supply, which, when unplugged from power, produces a powerful surge. As soon as it's shunted with any other device, even a low-power one, it's not induced anymore.
 
 To cut the long story short, I eliminated the problem by plugging an Ikea's {{< fl "Patrull" >}} night light into the nearby socket. It's very compact and draws negligible power:
+
 {{< imgfig "https://1.bp.blogspot.com/-gyclTnBGtwE/Uit7zpz306I/AAAAAAAAaZE/Sz53aBCQC-8/s1600/patrull.picasaweb.jpg" >}}

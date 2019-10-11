@@ -17,4 +17,5 @@ That moment when you find out the [official Riverside event page](https://www.ti
 That's today and the tickets are still available!
 
 This is that video:
+
 {{< youtube "9DMpNq6h4_A" >}}
