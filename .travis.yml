@@ -23,4 +23,4 @@ script:
     # Generate a minified (production) version of the site
     - hugo --minify
     # Run HTMLProofer
-    - bundle exec rake test
+    - bundle exec htmlproofer public/ --disable-external --url-ignore '/^mailto:\?body=/' --check-favicon --check-html --check-img-http
