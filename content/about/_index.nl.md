@@ -30,6 +30,10 @@ Hieronder kun je wat statistiek zien:
 
 {{< stats >}}
 
+## Mijn andere projecten
+
+{{< button "https://afk.best/en/" "afk.best" >}} — Woordenboek Nederlandse afkortingen
+
 ## Voorwaarden
 
 Door deze website te gebruiken gaat u akkoord met het {{< a "/about/privacy" "Privacybeleid (Engels)" "en" >}} en de {{< a "/about/tos" "Algemene voorwaarden (Engels)" "en" >}}.

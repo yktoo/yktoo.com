@@ -30,6 +30,10 @@ Here's some statistics:
 
 {{< stats >}}
 
+## My other projects
+
+{{< button "https://afk.best/en/" "afk.best" >}} — Dutch abbreviation dictionary
+
 ## Usage terms
 
 By viewing this website you're consenting to the {{< a "/about/privacy" "Privacy policy" >}} and accepting the {{< a "/about/tos" "Terms of service" >}}.

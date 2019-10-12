@@ -41,7 +41,7 @@
     <section id="contact-social-links">
         <h2>{{ T "mySocialLinks" }}</h2>
         <div class="list-group">
-            {{- range .Site.Data.contact.details }}
+            {{- range .Site.Data.about.contacts }}
             <a class="list-group-item list-group-item-action list-group-item-iconized" href="{{ .url }}">
                 <div class="list-group-img-32"><i class="{{ .icon }}"></i></div>
                 <div class="list-group-text"><div class="list-group-heading">{{ .title }}</div></div>
