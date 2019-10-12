@@ -15,6 +15,7 @@ docker run \
         --disable-external \
         --url-ignore '/^mailto:\?body=/' \
         --check-favicon \
+        --check-opengraph \
         --check-html \
         --check-img-http
 
