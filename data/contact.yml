@@ -1,4 +1,7 @@
 details:
+    - url: 'https://www.facebook.com/yktoo'
+      icon: fab fa-facebook colourise
+      title: Facebook
     - url: 'https://www.linkedin.com/in/dkann/'
       icon: fab fa-linkedin colourise
       title: LinkedIn
