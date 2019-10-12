@@ -8,11 +8,11 @@
 
 <!-- Post announcements -->
 <section id="blog-subscribe-announcements">
-    <h2>{{ T "postAnnouncements" }}</h2>
-    <div class="list-group">
+    <h2>{{ T "subscribeSocial" }}</h2>
+    <div class="list-group list-group-horizontal-md">
         {{ range .Site.Data.blog.subscribe.feeds }}
-        <a class="list-group-item list-group-item-action list-group-item-iconized" href="{{ .url }}">
-            <div class="list-group-img-32"><i class="{{ .icon }}"></i></div>
+        <a class="list-group-item list-group-item-action list-group-item-iconized" href="{{ .url }}" target="_blank" rel="noopener">
+            <div class="list-group-img-32"><i class="{{ .icon }} colourise"></i></div>
             <div class="list-group-text"><div class="list-group-heading">{{ .title }}</div></div>
         </a>
         {{ end }}

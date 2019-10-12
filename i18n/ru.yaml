@@ -56,7 +56,6 @@
 - {id: paginatorPrevious, translation: Предыдущая страница}
 - {id: poetryAndLyrics,   translation: Стихи и тексты песен}
 - {id: post,              translation: Пост}
-- {id: postAnnouncements, translation: Анонсы блога}
 - {id: postedInSeries,    translation: 'Подборка:'}
 - {id: postIn_en,         translation: на английском}
 - {id: postIn_nl,         translation: на голландском}
@@ -93,6 +92,7 @@
 - {id: submit,            translation: Отправить}
 - {id: subscribeByEmail,  translation: Подписаться по е-мэйлу}
 - {id: subscribeByRSS,    translation: Формат RSS 2.0}
+- {id: subscribeSocial,   translation: Подписаться в соцсетях}
 - {id: support,           translation: Поддержка}
 - {id: tag,               translation: Тег}
 - {id: tags,              translation: Теги}

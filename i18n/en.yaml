@@ -56,7 +56,6 @@
 - {id: paginatorPrevious, translation: Previous page}
 - {id: poetryAndLyrics,   translation: Poetry and lyrics}
 - {id: post,              translation: Post}
-- {id: postAnnouncements, translation: Post announcements}
 - {id: postedInSeries,    translation: In}
 - {id: postIn_en,         translation: in English}
 - {id: postIn_nl,         translation: in Dutch}
@@ -93,6 +92,7 @@
 - {id: submit,            translation: Submit}
 - {id: subscribeByEmail,  translation: Subscribe by email}
 - {id: subscribeByRSS,    translation: Feed in RSS 2.0 format}
+- {id: subscribeSocial,   translation: Subscribe in social networks}
 - {id: support,           translation: Support}
 - {id: tag,               translation: Tag}
 - {id: tags,              translation: Tags}

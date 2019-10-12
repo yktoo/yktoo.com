@@ -2,7 +2,7 @@
 
     <!-- Footer menu -->
     <div id="footer-nav">
-        <ul class="nav justify-content-center d-none d-lg-flex">
+        <ul class="nav justify-content-center d-flex">
             {{- $curURL := .RelPermalink -}}
             {{- range .Site.Menus.footer }}
             <li class="nav-item">
@@ -19,6 +19,14 @@
                 {{- end }}
             </li>
             {{- end }}
+            <!-- Social links -->
+            <li class="nav-item">
+                <ul class="nav flex-column lead">
+                    {{- range .Site.Data.blog.subscribe.feeds }}
+                    <li class="nav-item"><a href="{{ .url }}" title="{{ .title }}" target="_blank" rel="noopener"><i class="{{ .icon }}"></i></a></li>
+                    {{- end }}
+                </ul>
+            </li>
         </ul>
     </div>
 
