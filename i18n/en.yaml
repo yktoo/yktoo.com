@@ -17,7 +17,7 @@
 - {id: cookieDismiss,     translation: Got it!}
 - {id: cookieLink,        translation: Learn more »}
 - {id: cookieMessage,     translation: This website uses cookies.}
-- {id: copyright,         translation: 'Copyright ©2000—{{ .year }} [Dmitry Kann]({{ .url }}).'}
+- {id: copyright,         translation: 'Copyright ©2000—{{ .year }} [Dmitry Kann]({{ .url }})'}
 - {id: details,           translation: Details}
 - {id: docs,              translation: Documentation}
 - {id: download,          translation: Download}
@@ -52,6 +52,7 @@
 - {id: numPages,          translation: {one: '{{ .Count }} page', other: '{{ .Count }} pages'}}
 - {id: numVideos,         translation: {one: '{{ .Count }} video', other: '{{ .Count }} videos'}}
 - {id: otherPostsSeries,  translation: Other posts of this series}
+- {id: pageSource,        translation: Page source code}
 - {id: paginatorNext,     translation: Next page}
 - {id: paginatorPrevious, translation: Previous page}
 - {id: poetryAndLyrics,   translation: Poetry and lyrics}

@@ -17,7 +17,7 @@
 - {id: cookieDismiss,     translation: OK}
 - {id: cookieLink,        translation: Подробнее »}
 - {id: cookieMessage,     translation: Этот веб-сайт использует куки.}
-- {id: copyright,         translation: 'Авторское право ©2000—{{ .year }} [Дмитрий Канн]({{ .url }}).'}
+- {id: copyright,         translation: 'Авторское право ©2000—{{ .year }} [Дмитрий Канн]({{ .url }})'}
 - {id: details,           translation: Подробнее}
 - {id: docs,              translation: Документация}
 - {id: download,          translation: Скачать}
@@ -52,6 +52,7 @@
 - {id: numPages,          translation: {one: '{{ .Count }} страница', few: '{{ .Count }} страницы', many: '{{ .Count }} страниц'}}
 - {id: numVideos,         translation: '{{ .Count }} видео'}
 - {id: otherPostsSeries,  translation: Остальные посты из этой серии}
+- {id: pageSource,        translation: Исходный код страницы}
 - {id: paginatorNext,     translation: Следующая страница}
 - {id: paginatorPrevious, translation: Предыдущая страница}
 - {id: poetryAndLyrics,   translation: Стихи и тексты песен}

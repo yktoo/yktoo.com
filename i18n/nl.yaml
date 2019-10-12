@@ -17,7 +17,7 @@
 - {id: cookieDismiss,     translation: Akkoord}
 - {id: cookieLink,        translation: Lees hier meer »}
 - {id: cookieMessage,     translation: Deze website gebruikt cookies.}
-- {id: copyright,         translation: 'Auteursrecht ©2000—{{ .year }} [Dmitry Kann]({{ .url }}).'}
+- {id: copyright,         translation: 'Auteursrecht ©2000—{{ .year }} [Dmitry Kann]({{ .url }})'}
 - {id: details,           translation: Details}
 - {id: docs,              translation: Documentatie}
 - {id: download,          translation: Downloaden}
@@ -52,6 +52,7 @@
 - {id: numPages,          translation: {one: '{{ .Count }} pagina', other: '{{ .Count }} pagina''s'}}
 - {id: numVideos,         translation: {one: '{{ .Count }} video', other: '{{ .Count }} video''s'}}
 - {id: otherPostsSeries,  translation: Andere posts van deze serie}
+- {id: pageSource,        translation: Pagina's broncode}
 - {id: paginatorNext,     translation: Volgende pagina}
 - {id: paginatorPrevious, translation: Vorige pagina}
 - {id: poetryAndLyrics,   translation: Poëzie en teksten}
