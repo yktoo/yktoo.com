@@ -7,6 +7,8 @@ tags:
     - offer
     - trains
     - Thalys
+    - France
+    - Paris
 image: "https://1.bp.blogspot.com/-rDd7FYZx3_A/XaLu_Zr8tSI/AAAAAAAAyp8/-NwCL2yLrC8iKz6sMdrDVRxzpJel3kJ6ACKgBGAsYHg/s1600/2019-10-13.jpg"
 imageCredit: "Photo by Pexels/Pixabay."
 ---
