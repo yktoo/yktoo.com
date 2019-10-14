@@ -95,6 +95,9 @@ outputs:
     taxonomy: [HTML]
     taxonomyTerm: [HTML]
 
+sitemap:
+    changefreq: daily
+
 menu:
     nav:
         # Items with weights below 100 go on the left
