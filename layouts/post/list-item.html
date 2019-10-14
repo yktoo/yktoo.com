@@ -22,7 +22,7 @@
 
         <div class="col-xs-10 col-md-6">
             <!-- Post summary. Use the explicit description, if any, otherwise the summary -->
-            {{- $summary := default (markdownify .Params.description) .Summary }}
+            {{- $summary := .Params.description | markdownify | default .Summary }}
 
             <!-- Remove any figures (images) and divs (videos etc) -->
             {{- $summary = $summary | replaceRE "(?s)<figure\\b.*?/figure>" "" | replaceRE "(?s)<div\\b.*/div>" "" | safeHTML }}

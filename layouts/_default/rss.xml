@@ -3,17 +3,17 @@
     <channel>
         <title>{{ .Site.Title }} | {{ T "blog" }}: {{ T "postsCurLang" }}</title>
         <link>{{ .Permalink }}</link>
-        <description>{{ .Site.Title }} blog</description>
+        <description>{{ .Site.Params.description }}</description>
         <generator>Hugo {{ hugo.Version }}</generator>
-        {{ with .Site.LanguageCode }}<language>{{ . }}</language>{{ end }}
-        {{- with .Site.Params.author -}}
+        {{- with .Site.LanguageCode }}<language>{{ . }}</language>{{ end }}
+        {{- with .Site.Params.author }}
         <managingEditor>noreply@yktoo.com ({{ . }})</managingEditor>
         <webMaster>noreply@yktoo.com ({{ . }})</webMaster>
-        {{- end -}}
-        {{ with .Site.Copyright }}<copyright>{{ . }}</copyright>{{ end }}
-        {{ if not .Date.IsZero }}<lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>{{ end -}}
-        {{ with .OutputFormats.Get "RSS" }}{{ printf `<atom:link href=%q rel="self" type=%q />` .Permalink .MediaType | safeHTML }}{{ end -}}
-        {{ range first .Site.Params.rssLimit (where .Site.RegularPages "Type" "post") -}}
+        {{- end }}
+        {{- with .Site.Copyright }}<copyright>{{ . }}</copyright>{{ end }}
+        {{- if not .Date.IsZero }}<lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>{{ end }}
+        {{- with .OutputFormats.Get "RSS" }}{{ printf `<atom:link href=%q rel="self" type=%q />` .Permalink .MediaType | safeHTML }}{{ end }}
+        {{- range first .Site.Params.rssLimit (where .Site.RegularPages "Type" "post") }}
         <item>
             <title>{{ with .Params.series }}{{ . }} ‣ {{ end }}{{ .Title }}</title>
             <link>{{ .Permalink }}</link>
@@ -34,14 +34,11 @@
                     <!-- Insert image tag -->
                     {{- printf `<img style="width: 500px; height: auto;" src=%q alt="Post image"><br><br>` $url -}}
                 {{- end -}}
-                <!-- Put post summary or description -->
-                {{- with .Params.description }}
-                {{- . | markdownify | htmlEscape }}
-                {{- else }}
-                {{- .Summary | plainify -}}
-                {{- end }}
+                <!-- Put post summary or description: logic borrowed from layouts/post/list-item.html -->
+                {{- $summary := .Params.description | markdownify | default .Summary | replaceRE "(?s)<figure\\b.*?/figure>" "" | replaceRE "(?s)<div\\b.*/div>" "" }}
+                {{- if in $summary "<p>" }}{{ $summary }}{{ else }}{{ printf "<p>%s</p>" $summary }}{{ end }}
                 <!-- Read On link -->
-                {{- printf `<hr><p><a href=%q style="padding: 6px; background-color: #089664; color: #ffffff;">%s</a></p>` .Permalink (T "readOn") -}}
+                {{- printf `<p><a href=%q style="padding: 12px; background-color: #089664; color: #ffffff; text-decoration: none;">%s</a></p>` .Permalink (T "readOn") -}}
             </description>
         </item>
         {{ end -}}
