@@ -5,6 +5,9 @@ contacts:
     - url: 'https://www.linkedin.com/in/dkann/'
       icon: fab fa-linkedin colourise
       title: LinkedIn
+    - url: 'https://vk.com/yktoo'
+      icon: fab fa-vk colourise
+      title: VK
     - url: 'https://twitter.com/yktoo'
       icon: fab fa-twitter colourise
       title: Twitter
