@@ -71,6 +71,7 @@ aliases:
 > With few exceptions, the higher you go in Russians society, the ruder the people get. The highest treat their subordinates like dirt, which is why democracy is such a threat to them, and why the country has to be ruled by deception and force.
 
 В переводе:
+
 > За редкими исключениями, чем выше находится человек в российском обществе, тем он грубее. Те, кто на самом верху, обращаются с подчинёнными как с дерьмом — именно поэтому демократия является для них такой угрозой, и поэтому страной приходится управлять с помощью обмана и силы.
 
 (Поспешу отметить, что Митчелл вовсе не русофоб, он вполне адекватен и доброжелательно относится к русским, насколько я могу заключить из его же блога. Риторика, как в этой цитате, для него скорее исключение.)
