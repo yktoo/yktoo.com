@@ -1,6 +1,6 @@
 subscribe:
     feeds:
-        - url: 'https://www.facebook.com/yktoo'
+        - url: 'https://www.facebook.com/yktoo.blog/'
           icon: fab fa-facebook
           title: Facebook
         - url: 'https://www.linkedin.com/in/dkann/'
