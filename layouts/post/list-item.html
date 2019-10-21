@@ -10,14 +10,16 @@
     <div class="row blog-post-content">
         <!-- Post image -->
         <div class="col-xs-2 col-md-6 text-center mb-3 mb-md-0">
-            {{- with .Params.image }}
-                {{- $url := . }}
+            {{- $url := .Params.image }}
+            {{- with $url }}
                 {{- if not (findRE "^(/|http(s?)://)" $url) }}
                     {{- $url = ($.Page.Resources.GetMatch $url).RelPermalink }}
                 {{- end -}}
-                <img class="img-fluid blog-post-image" src="{{ $url }}" alt="Post image">
-                {{- with $.Params.imageCredit }}<p class="blog-post-image-credit">{{ . | markdownify }}</p>{{ end }}
+            {{- else -}}
+                {{- $url = "/images/image-placeholder.png" -}}
             {{- end -}}
+            <img class="img-fluid blog-post-image" src="{{ $url }}" alt="Post image">
+            {{- with $.Params.imageCredit }}<p class="blog-post-image-credit">{{ . | markdownify }}</p>{{ end }}
         </div>
 
         <div class="col-xs-10 col-md-6">
