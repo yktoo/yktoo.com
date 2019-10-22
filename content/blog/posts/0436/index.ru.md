@@ -11,7 +11,7 @@ image: "https://1.bp.blogspot.com/-Fvv7TpND054/Xa8em00zB4I/AAAAAAAAy8g/G48KkpXx1
 
 Дифирамбы Нидерландам не заканчиваются.
 
-То {{< a "0419" "WEF" >}}, то {{< a "0372" "The Economist" >}}, теперь вот издательство {{< fl "Lonely Planet" >}} {{< a "https://lonelyplanet.nl/reistips-and-trends/best-in-travel-2020-top-10-landen" "опубликовало" >}} **Топ-10** лучших стран для туризма на {{< year 2020 "следующий" >}} год.
+То {{< a "0419" "WEF" >}}, то {{< a "0372" "The Economist" >}}, теперь вот издательство {{< fl "Lonely Planet" >}} {{< a "https://lonelyplanet.nl/reistips-and-trends/best-in-travel-2020-top-10-landen" "опубликовало" >}} **Топ-10** лучших стран для туризма на {{< yearn 2020 "следующий" >}} год.
 
 <!--more-->
 
