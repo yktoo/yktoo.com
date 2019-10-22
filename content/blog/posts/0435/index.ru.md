@@ -1,6 +1,6 @@
 ---
 type: post
-date: "2019-10-21T18:00:35+02:00"
+date: "2019-10-22T13:57:18+02:00"
 title: "С 2021 года языковые требования для мигрантов ужесточатся"
 tags:
     - Нидерланды
@@ -12,6 +12,8 @@ tags:
 image: "https://1.bp.blogspot.com/-PlW4flt1MUI/Xa3WM0YsF0I/AAAAAAAAy7Y/9clOSs1rUK8swqMxGa-LTy5Uu7FjZkXmwCKgBGAsYHg/s1600/2019-10-21_inburgering.jpg"
 imageCredit: "Фото: Jan Vašek/Pixabay."
 ---
+
+> **Пост обновлён**: содержавшаяся в нём информация была несколько устаревшей.
 
 Голландское правительство уже довольно давно пытается навести порядок в миграционной политике.
 
