@@ -2,7 +2,11 @@
 type: post
 date: "2019-07-13T00:00:00Z"
 title: "Aangaande het onderwerp van onvermijdelijk ⚤"
-tags: ["huwelijk", "Nederland", "persoonlijk"]
+tags:
+    - huwelijk
+    - Nederland
+    - persoonlijk
+    - Zeist
 image: "https://1.bp.blogspot.com/-wy6w96RgkKY/XSssvrVGv3I/AAAAAAAAwXM/dQaxNjr7C3QjjWyuGQBZcW2jZ-EGXFYcQCKgBGAs/s1600/a%2526d.picasaweb.jpg"
 places:
     - place0310
