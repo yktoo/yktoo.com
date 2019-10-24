@@ -132,7 +132,7 @@ I also use my *Mi In-Ear Headphones Pro HD* as a hands-free, and the mike is rep
 * The remote control's functions are useful
 * Built-in microphone
 * Shipped with four earbud sizes
-* Very affordable (ca. **€ 21**)
+* Very affordable (ca. **€ 21**)
 
 ### Cons
 

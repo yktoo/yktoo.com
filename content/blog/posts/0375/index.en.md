@@ -28,9 +28,9 @@ Apart from the record low values, what is also remarkable is their update freque
 
 You can find a handy overview of applicable rates for various fixed terms {{< a "https://www.eigenhuis.nl/hypotheken/hypotheekrente" "on this page" >}}.
 
-Here's an example calculation for a mortgage of **€ 300,000** (which is approximately the average house price at the moment), with the National Mortgage Guarantee ({{< fl "NHG" >}}) provisioning. Rates start at **0.8%** when you choose for **10-year** fixed: 
+Here's an example calculation for a mortgage of **€ 300,000** (which is approximately the average house price at the moment), with the National Mortgage Guarantee ({{< fl "NHG" >}}) provisioning. Rates start at **0.8%** when you choose for **10-year** fixed: 
 
-{{< imgfig "https://1.bp.blogspot.com/-MrDYtBKDBQQ/XXjnL0OWf2I/AAAAAAAAxSU/1HliVburX3wyjCr5FA-zWh4S2A7FlK-lQCKgBGAsYHg/s1600/hypotheek-rentes-3ton-met-nhg.png" "Example of interest rates on a € 300,000 mortgage + NHG, data as of September 11, 2019." >}}
+{{< imgfig "https://1.bp.blogspot.com/-MrDYtBKDBQQ/XXjnL0OWf2I/AAAAAAAAxSU/1HliVburX3wyjCr5FA-zWh4S2A7FlK-lQCKgBGAsYHg/s1600/hypotheek-rentes-3ton-met-nhg.png" "Example of interest rates on a € 300,000 mortgage + NHG, data as of September 11, 2019." >}}
 
 Withouth the National Mortgage Guarantee the rates start at **1.2%**.
 
@@ -40,6 +40,6 @@ The fact the variable rates are higher than the 10-year fixed indicates the mark
 
 {{< fl "NHG" >}} ({{< fl "Nationale Hypotheek Garantie" >}}) or the {{< a "https://www.nhg.nl/english-summary/Information-for-consumers/What-is-nhg" "National Mortgage Guarantee" >}} is a sort of an insurance policy that provides a safety net for the borrower. The {{< fl "NHG" >}} can pay the difference between the remaining principal and the house sale price, should it prove lower than the debt. It also allows to temporarily reduce the monthly payments if the debtor runs into financial difficulties, but only if it's been an event beyond their control.
 
-The maximum amount covered by the guarantee equals the average house price. In 2019 it's {{< a "https://www.rijksoverheid.nl/onderwerpen/huis-kopen/vraag-en-antwoord/wat-is-de-nationale-hypotheek-garantie-nhg" "defined" >}} at **€ 290,000**. If you, however, plan to make your new house more energy-effective, then the limit is **€ 307,400**.
+The maximum amount covered by the guarantee equals the average house price. In 2019 it's {{< a "https://www.rijksoverheid.nl/onderwerpen/huis-kopen/vraag-en-antwoord/wat-is-de-nationale-hypotheek-garantie-nhg" "defined" >}} at **€ 290,000**. If you, however, plan to make your new house more energy-effective, then the limit is **€ 307,400**.
 
 The credit risk of an {{< fl "NHG" >}}-backed mortgage is lower, hence a lower interest rate.

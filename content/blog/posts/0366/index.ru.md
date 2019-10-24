@@ -35,11 +35,11 @@ image: "https://1.bp.blogspot.com/-sA8eK-UDa3s/XWttEpGkS9I/AAAAAAAAwys/lQg7NAu1D
 
 Из нового я заметил, что по всему центру развесили предупреждающие плакаты. Бросать мусор мимо урны обойдётся в **140 евро**:
 
-{{< imgfig "https://1.bp.blogspot.com/-rJPyLMSDqqQ/XWttEqXmv1I/AAAAAAAAwys/Drso5KC5p3wYsaQUUJ7-uT-RmB_p0m1JgCKgBGAs/s1600/dsc09053.w.jpg" "Мусор в урну, иначе штраф € 140." >}}
+{{< imgfig "https://1.bp.blogspot.com/-rJPyLMSDqqQ/XWttEqXmv1I/AAAAAAAAwys/Drso5KC5p3wYsaQUUJ7-uT-RmB_p0m1JgCKgBGAs/s1600/dsc09053.w.jpg" "Мусор в урну, иначе штраф € 140." >}}
 
 Такой же штраф за ~~недержание~~ нетерпение:
 
-{{< imgfig "https://1.bp.blogspot.com/-bPUq5sphzos/XWttEmRCU_I/AAAAAAAAwys/kmuQ4UzHNokt7pADHBt8V-MyFC1t_bKoACKgBGAs/s1600/dsc09061.w.jpg" "Помочиться на улице тоже обойдётся в € 140." >}}
+{{< imgfig "https://1.bp.blogspot.com/-bPUq5sphzos/XWttEmRCU_I/AAAAAAAAwys/kmuQ4UzHNokt7pADHBt8V-MyFC1t_bKoACKgBGAs/s1600/dsc09061.w.jpg" "Помочиться на улице тоже обойдётся в € 140." >}}
 
 Забавнее всего то, что использование знаменитых *мужских* уличных туалетов, по сути представляющее точно такое же «справление нужды в общественном месте», нарушением не считается! 
 

@@ -20,7 +20,7 @@ It features a rechargeable battery, which means there's one more gadget to charg
 
 <!--more-->
 
-Its full name is {{< a "http://ali.pub/3tn9ap" " Xiaomi Mijia Huohou automatic electric corkscrew" >}} and you can buy one for about **€ 22**.
+Its full name is {{< a "http://ali.pub/3tn9ap" " Xiaomi Mijia Huohou automatic electric corkscrew" >}} and you can buy one for about **€ 22**.
 
 ## What's in the box
 

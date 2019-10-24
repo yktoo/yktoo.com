@@ -23,7 +23,7 @@ image: "https://1.bp.blogspot.com/--iKed159U3s/XW6kGQSzDII/AAAAAAAAxIg/2b1G4aJCR
 
 {{< imgfig "https://1.bp.blogspot.com/--iKed159U3s/XW6kGQSzDII/AAAAAAAAxIg/2b1G4aJCRF08c6uNTfnkRcB5pAI0pDxWQCKgBGAs/s1600/20190903_191017.w.jpg" "Термометр Xiaomi Mijia на стене." >}} 
 
-Брал, конечно же, {{< a "http://ali.pub/3qdxv7" "на AliExpress" >}}, цена вместе с доставкой **€ 9**.
+Брал, конечно же, {{< a "http://ali.pub/3qdxv7" "на AliExpress" >}}, цена вместе с доставкой **€ 9**.
 
 Сначала я взял один, на пробу. Гаджет понравился, особенно разница с ЖК-дисплеем заметна в сумерках. Тогда я купил ещё три.
 

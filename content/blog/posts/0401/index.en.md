@@ -72,7 +72,7 @@ Below are the technical specifications of SRK60 copied from Netgear's {{< a "htt
 |Traffic separation |3 SSIDs                                                 |
 {{< /table >}}
 
-At this moment, it's on sale on {{< a "https://bit.ly/2nMIMM6" "bol.com" >}} at **€ 369**.
+At this moment, it's on sale on {{< a "https://bit.ly/2nMIMM6" "bol.com" >}} at **€ 369**.
 
 ## What's in the box
 
@@ -364,4 +364,4 @@ The latter could use some improvement though. It cannot be WPA-protected, and th
 
 ## Where to buy
 
-The recommended price for SRK60 is **€ 426** (which is also for how much I've bought it), but at this moment it's {{< a "https://bit.ly/2nMIMM6" "available for € 369" >}} on {{< fl "bol.com" >}}.
+The recommended price for SRK60 is **€ 426** (which is also for how much I've bought it), but at this moment it's {{< a "https://bit.ly/2nMIMM6" "available for € 369" >}} on {{< fl "bol.com" >}}.

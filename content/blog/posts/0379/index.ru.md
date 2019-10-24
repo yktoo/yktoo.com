@@ -42,8 +42,8 @@ glossary: wet-dba
 
 Как правительство поощряет эти инициативы?
 
-* Предприниматели, уделяющие достаточно времени своему бизнесу (минимум **1 225 часов** в год) получают право на {{< a "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/winst/inkomstenbelasting/inkomstenbelasting_voor_ondernemers/ondernemersaftrek/zelfstandigenaftrek1/zelfstandigenaftrek" "zelfstandigenaftrek" >}}, налоговый вычет в размере **€ 7 280** (в {{< year 2019 "этом" >}} году) — то есть эта сумма налогом не облагается.
-* Плюс к этому, в первые три года (точнее, три раза в первые пять лет) есть дополнительный вычет для «стартеров» — {{< a "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/winst/inkomstenbelasting/inkomstenbelasting_voor_ondernemers/ondernemersaftrek/startersaftrek" "startersaftrek" >}} на сумму **€ 2 123** (также данные на {{< year 2019 "этот" >}} год).
+* Предприниматели, уделяющие достаточно времени своему бизнесу (минимум **1 225 часов** в год) получают право на {{< a "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/winst/inkomstenbelasting/inkomstenbelasting_voor_ondernemers/ondernemersaftrek/zelfstandigenaftrek1/zelfstandigenaftrek" "zelfstandigenaftrek" >}}, налоговый вычет в размере **€ 7 280** (в {{< year 2019 "этом" >}} году) — то есть эта сумма налогом не облагается.
+* Плюс к этому, в первые три года (точнее, три раза в первые пять лет) есть дополнительный вычет для «стартеров» — {{< a "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/winst/inkomstenbelasting/inkomstenbelasting_voor_ondernemers/ondernemersaftrek/startersaftrek" "startersaftrek" >}} на сумму **€ 2 123** (также данные на {{< year 2019 "этот" >}} год).
 * {{< fl "zzp'er" >}}-ы освобождены от пенсионных взносов и премий для страховки по нетрудоспособности.
 * На государственном и местном уровнях доступны различные субсидии для развития бизнеса, поощрения всевозможных экологических инициатив и т.д.
 
@@ -106,8 +106,8 @@ glossary: wet-dba
 
 24 июня {{< year 2019 "этого" >}} года министерство по работе и социальной политике {{< a "https://www.rijksoverheid.nl/onderwerpen/zelfstandigen-zonder-personeel-zzp/documenten/kamerstukken/2019/06/24/kamerbrief-voortgang-uitwerking-maatregelen-039-werken-als-zelfstandige039" "представило" >}} своё видение будущего закона, включающее следующие положения:
 
-* Введение минимального часового тарифа, равного **€ 16** — таким образом надеются отбить у компаний желание переводить в {{< fl "zzp'er" >}}-ы, платя копейки.
-* С противоположной стороны тарифной шкалы, свыше **€ 75**/час, и при контракте не дольше **одного года** ввести некое совместное заявление заказчика и контрактора ({{< fl "zelfstandigenverklaring" >}}), оговаривающее распределение обязанностей и оплату социальных налогов и страховок.
+* Введение минимального часового тарифа, равного **€ 16** — таким образом надеются отбить у компаний желание переводить в {{< fl "zzp'er" >}}-ы, платя копейки.
+* С противоположной стороны тарифной шкалы, свыше **€ 75**/час, и при контракте не дольше **одного года** ввести некое совместное заявление заказчика и контрактора ({{< fl "zelfstandigenverklaring" >}}), оговаривающее распределение обязанностей и оплату социальных налогов и страховок.
 * По аналогии с приснопамятным {{< fl "VAR" >}}, для регистрации этих заявлений, вероятно, будет создано специальное веб-приложение.
 
 ## «Вопиющие злоупотребления»

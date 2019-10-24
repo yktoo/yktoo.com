@@ -29,7 +29,7 @@ It's time to fulfil my promise and publish a review of my "{{< a "0384" "inflata
 |Charging rating                      |5 V, 2 A                             |
 |Max. charging time                   |3 hours                              |
 |Single charge performance            |41 footballs (1 min each), 8 bike tyres (3 min each), or 5 car tyres (6 min each)|
-|Price                                |About {{< a "http://ali.pub/3unhyy" "**€ 40** on AliExpress" >}}|
+|Price                                |About {{< a "http://ali.pub/3unhyy" "**€ 40** on AliExpress" >}}|
 {{< /table >}}
 
 ## What's in the box
@@ -164,4 +164,4 @@ Otherwise it's perfect to take along "just in case" as it's very compact and bat
 
 ## Where to buy
 
-On AliExpress for {{< a "http://ali.pub/3unhyy" "about € 40" >}}, including shipping.
+On AliExpress for {{< a "http://ali.pub/3unhyy" "about € 40" >}}, including shipping.

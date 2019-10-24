@@ -25,7 +25,7 @@ The thermo-hygrometer can be hung on a wall or put on a desk using the provided 
 
 {{< imgfig "https://1.bp.blogspot.com/--iKed159U3s/XW6kGQSzDII/AAAAAAAAxIg/2b1G4aJCRF08c6uNTfnkRcB5pAI0pDxWQCKgBGAs/s1600/20190903_191017.w.jpg" "Xiaomi Mijia thermometer on a wall." >}} 
 
-I bought mine {{< a "http://ali.pub/3qdxv7" "at AliExpress" >}} at a nifty price of **€ 9**, shipping included.
+I bought mine {{< a "http://ali.pub/3qdxv7" "at AliExpress" >}} at a nifty price of **€ 9**, shipping included.
 
 I've started with one piece to try it out, and it worked out fine. Then I bought another three. The e-ink display is gorgeous, especially in the dusk the difference with a regular LCD is striking.
 

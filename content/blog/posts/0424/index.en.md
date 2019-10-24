@@ -15,7 +15,7 @@ imageCredit: "Photo by Pexels/Pixabay."
 
 Do you love Paris as much as we do?
 
-{{< fl "ActieVanDeDag" >}} has partnered with {{< fl "Thalys" >}} to offer train tickets from the Netherlands to Paris, for the period **12 November 2019** until **20 January 2020**, for only **€ 29** one way or **€ 58** for a round-trip.
+{{< fl "ActieVanDeDag" >}} has partnered with {{< fl "Thalys" >}} to offer train tickets from the Netherlands to Paris, for the period **12 November 2019** until **20 January 2020**, for only **€ 29** one way or **€ 58** for a round-trip.
 
 The action is active until 20 October, but the tickets get sold out at the speed of light, so hurry up! The sale link is under the cut.
 

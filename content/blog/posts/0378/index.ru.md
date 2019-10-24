@@ -33,9 +33,9 @@ places:
 
 {{< imgfig "https://1.bp.blogspot.com/-JtP9Bw_tyuA/XXunCX3vTvI/AAAAAAAAxbA/5BhYV27P_G8odufLzf0ypc4ZgL_8xGO8QCKgBGAsYHg/s1600/20190912_180323.w.jpg" "Цепной привод генератора." >}}
 
-Генератор заряжает увесистый конденсатор на **1 {{< abbr "Ф" "фарад" >}}**, похожий на те, что ставят в цепь питания автомобильных сабвуферов.
+Генератор заряжает увесистый конденсатор на **1 {{< abbr "Ф" "фарад" >}}**, похожий на те, что ставят в цепь питания автомобильных сабвуферов.
 
-{{< imgfig "https://1.bp.blogspot.com/-_0955gy_faY/XXunCd8yc_I/AAAAAAAAxbA/lu4gIKkuT64ATDOgvJtQjwoCz1n7rCZqQCKgBGAsYHg/s1600/20190912_180356.w.jpg" "Конденсатор зарядника (1 Ф)." >}}
+{{< imgfig "https://1.bp.blogspot.com/-_0955gy_faY/XXunCd8yc_I/AAAAAAAAxbA/lu4gIKkuT64ATDOgvJtQjwoCz1n7rCZqQCKgBGAsYHg/s1600/20190912_180356.w.jpg" "Конденсатор зарядника (1 Ф)." >}}
 
 Дальше где-то там, очевидно, спрятан стабилизатор на **5 вольт** и от него идут кабели с коннекторами {{< fl "USB Type C" >}} и {{< fl "Lightning" >}}:
 

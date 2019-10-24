@@ -27,7 +27,7 @@ imageCredit: "Фото: NOS."
 
 {{< imgfig "https://1.bp.blogspot.com/-32wz97J1vSE/XZ4Kg4lirXI/AAAAAAAAyfM/7McAV9qtJuQffZcZ2OhlFXA1APskOrdvgCKgBGAsYHg/s1600/tennet-solar-farm.jpg" "Крупнейшая солнечная электростанция в Бенилюксе (г. Колхам). Фото NOS." >}}
 
-В нём насчитывается, ни много ни мало, **320 000** панелей и занимает он площадь в **103 га**, что эквивалентно **140** футбольным полям.
+В нём насчитывается, ни много ни мало, **320 000** панелей и занимает он площадь в **103 га**, что эквивалентно **140** футбольным полям.
 
 {{< imgfig "https://1.bp.blogspot.com/-MvQw8h2n310/XZ4PUUWtW-I/AAAAAAAAyfs/CrgiPZSOYvUCjKtsQfCpdl47_h0adAAJACKgBGAsYHg/s1600/kolham-solar-park.jpg" "Солнечный парк в Колхаме. Фото NOS." >}}
 

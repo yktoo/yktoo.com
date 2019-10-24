@@ -30,7 +30,7 @@ image: "https://1.bp.blogspot.com/-B3rvs9yuc3E/XZdKZi1YuQI/AAAAAAAAyY0/Qqdi9OSgN
 |Параметры зарядки                    |5 В, 2 А                             |
 |Максимальное время зарядки           |3 ч                                  |
 |Производительность на полном заряде  |41 футбольный мяч (по 1 мин), 8 велоколёс (по 3 мин) или 5 автомобильных (по 6 мин)|
-|Цена                                 |Около {{< a "http://ali.pub/3unhyy" "**€ 40** на AliExpress" >}}|
+|Цена                                 |Около {{< a "http://ali.pub/3unhyy" "**€ 40** на AliExpress" >}}|
 {{< /table >}}
 
 
@@ -166,4 +166,4 @@ image: "https://1.bp.blogspot.com/-B3rvs9yuc3E/XZdKZi1YuQI/AAAAAAAAyY0/Qqdi9OSgN
 
 ## Где купить
 
-На {{< fl "AliExpress" >}} — {{< a "http://ali.pub/3unhyy" "цена около € 40" >}} с доставкой из Китая.
+На {{< fl "AliExpress" >}} — {{< a "http://ali.pub/3unhyy" "цена около € 40" >}} с доставкой из Китая.

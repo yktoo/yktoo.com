@@ -37,7 +37,7 @@ The mechanical energy of swinging is spinning the generator's shaft:
 
 The generator is charging a bulky **1 {{< abbr "F" "farad" >}}** capacitor, which looks very much like those used in the power chain of car subwoofers.
 
-{{< imgfig "https://1.bp.blogspot.com/-_0955gy_faY/XXunCd8yc_I/AAAAAAAAxbA/lu4gIKkuT64ATDOgvJtQjwoCz1n7rCZqQCKgBGAsYHg/s1600/20190912_180356.w.jpg" "The charger's capacitor (1 F)." >}}
+{{< imgfig "https://1.bp.blogspot.com/-_0955gy_faY/XXunCd8yc_I/AAAAAAAAxbA/lu4gIKkuT64ATDOgvJtQjwoCz1n7rCZqQCKgBGAsYHg/s1600/20190912_180356.w.jpg" "The charger's capacitor (1 F)." >}}
 
 Further down the road you'll apparently find a **5-volt** power regulator, whose output is connected to {{< fl "USB Type C" >}} and {{< fl "Lightning" >}} plugs:
 

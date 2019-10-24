@@ -20,7 +20,7 @@ image: "https://1.bp.blogspot.com/-5Itgh2pP_yY/XY4rtDUhZ1I/AAAAAAAAyEY/5RestFWzf
 
 <!--more-->
 
-Полностью он называется {{< a "http://ali.pub/3tn9ap" " Xiaomi Mijia Huohou automatic corkscrew" >}} и стоит около **€ 22**.
+Полностью он называется {{< a "http://ali.pub/3tn9ap" " Xiaomi Mijia Huohou automatic corkscrew" >}} и стоит около **€ 22**.
 
 ## Комплект
 

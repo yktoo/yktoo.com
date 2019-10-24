@@ -31,7 +31,7 @@ Type in `16HDK2` in the {{< fl "Kenteken" >}} field at the {{< a "https://ovi.rd
 
 One can easily verify it's indeed a {{< fl "Toyota Prius" >}}, grey ({{< fl "Kleur: grijs" >}}), first put on my name on November 16, 2017 at 15:20 ({{< fl "Datum tenaamstelling" >}} in the {{< fl "Vervaldata en historie" >}} section), and has had one business (me) and two private owners throughout its twelve year history (the {{< fl "Aantal eigenaren privé / zakelijk" >}} line).
 
-On the {{< fl "Fiscaal" >}} tab you can see the original ("catalogue", {{< fl "Catalogusprijs" >}}) price for most cars, which was **€ 31,915** in my case.
+On the {{< fl "Fiscaal" >}} tab you can see the original ("catalogue", {{< fl "Catalogusprijs" >}}) price for most cars, which was **€ 31,915** in my case.
 
 Obviously, the provided information includes no personal data.
 
@@ -56,7 +56,7 @@ According to {{< a "https://ovi.rdw.nl/colofon.aspx" "RDW's terms" >}}, this ser
 
 There's also a separate {{< a "https://www.rdw.nl/zakelijk/branches/bedrijven/gegevens-bij-de-rdw-raadplegen/grote-hoeveelheden-voertuiggegevens-raadplegen" "paid version" >}} for business customers, which comes in two flavours:
 
-* Browser-based (**€ 0,15** per query), or
-* XML API (**€ 510** to subscribe, afterwards **€ 0,06** per query).
+* Browser-based (**€ 0,15** per query), or
+* XML API (**€ 510** to subscribe, afterwards **€ 0,06** per query).
 
 This one is in demand for as far as I can see since it's being used on numerous car dealer websites, online classified advertising etc.

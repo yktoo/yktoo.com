@@ -56,7 +56,7 @@ That's beause {{< fl "NS" >}}, the Dutch Railway Company, is offering the so-cal
 
 ### Benefits of NS Business Card
 
-* You get a *Business Card* for free, whereas a regular {{< fl "OV-chipkaart" >}}, being in fact exactly the same type of a contactless card, will {{< a "https://www.ov-chipkaart.nl/ov-chip-kopen.htm" "cost" >}} you **€ 7.50** every five years.
+* You get a *Business Card* for free, whereas a regular {{< fl "OV-chipkaart" >}}, being in fact exactly the same type of a contactless card, will {{< a "https://www.ov-chipkaart.nl/ov-chip-kopen.htm" "cost" >}} you **€ 7.50** every five years.
 * It comes with no monthly charge by default, so you can order one and put it on the shelf until it's needed.
 * It's post-paid, so you pay all your trips afterwards, once a month. Until recently it was impossible for regular {{< fl "OV" >}}-cards, but nowadays there's also a post-paid option available with {{< a "https://www.ns.nl/en/flex" "NS Flex" >}}.
 * Fixed-route subscriptions ({{< fl "Traject Vrij" >}}) are significantly cheaper their non-business counterparts.
@@ -72,10 +72,10 @@ If you regularly travel with the train, it's likely you'll be better of buying o
 {{< table "table table-striped" >}}
 |Subscription              |Description                                                                                                                  |Monthly charge      |
 |--------------------------|-----------------------------------------------------------------------------------------------------------------------------|--------------------|
-|{{< fl "Dal" >}}          |**40%** discount on trips outside the rush hours on weekdays (09:00 until 16:00 and after 18:30), and all day in the weekend.|**€ 4**             |
+|{{< fl "Dal" >}}          |**40%** discount on trips outside the rush hours on weekdays (09:00 until 16:00 and after 18:30), and all day in the weekend.|**€ 4**             |
 |{{< fl "Traject Vrij " >}}|Free trips on a fixed route, it also includes all the benefits of {{< fl "Dal" >}} (more on that below).                     |Depends on the route|
-|{{< fl "Trein Vrij" >}}   |Free train trips nationwide                                                                                                  |**€ 317**           |
-|{{< fl "OV Vrij" >}}      |Free trips in all kinds of public transport (train, bus, tram, metro) nationwide.                                            |**€ 370**           |
+|{{< fl "Trein Vrij" >}}   |Free train trips nationwide                                                                                                  |**€ 317**           |
+|{{< fl "OV Vrij" >}}      |Free trips in all kinds of public transport (train, bus, tram, metro) nationwide.                                            |**€ 370**           |
 {{< /table >}}
 
 {{< imgfig "https://1.bp.blogspot.com/-c0xckGyLK68/XamPmrYcOyI/AAAAAAAAyzM/EhCUfjZqKAIPZhXitUp28GIFvQiEPkVewCKgBGAsYHg/s1600/2019-10-18.png" "Choice of subscriptions for NS Business Card." >}}
@@ -90,7 +90,7 @@ Here's a sample calculation for the route Houten—Amsterdam Central Station:
 
 {{< imgfig "https://1.bp.blogspot.com/-vwUaTAWtIHE/XamQut4n_XI/AAAAAAAAyzw/9KHHjuMoFM4AR0ExBQUkXvDRpBx62bsdQCKgBGAsYHg/s1600/2019-10-18.png" "Houten—Amsterdam route subscription." >}}
 
-As you see on the screenshot above, it costs **€ 221** per month. Exactly the same subscription for a private person will cost **€ 301**, which is quite a difference.
+As you see on the screenshot above, it costs **€ 221** per month. Exactly the same subscription for a private person will cost **€ 301**, which is quite a difference.
 
 ### Additional services
 
