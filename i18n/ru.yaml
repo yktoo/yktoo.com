@@ -22,6 +22,8 @@
 - {id: docs,              translation: Документация}
 - {id: download,          translation: Скачать}
 - {id: downloads,         translation: Скачать}
+- {id: error404Title,     translation: Страница не найдена.}
+- {id: error404Subtitle,  translation: 'Вы можете выбрать ссылку из меню выше, либо перейти на главную страницу сайта.'}
 - {id: errorEmailReq,     translation: 'Необходим корректный email-адрес.'}
 - {id: errorMessageReq,   translation: 'Пожалуйста, введите текст сообщения.'}
 - {id: errorNameReq,      translation: 'Ваше имя должно быть заполнено.'}
@@ -32,6 +34,7 @@
 - {id: githubIssueTrkDet, translation: Книга жалоб и предложений}
 - {id: githubRepo,        translation: репозиторий GitHub}
 - {id: glossary,          translation: Глоссарий}
+- {id: goHome,            translation: На главную страницу}
 - {id: home,              translation: Главная}
 - {id: iAmLegend,         translation: Я легенда}
 - {id: inThisVideo,       translation: В этом видео}

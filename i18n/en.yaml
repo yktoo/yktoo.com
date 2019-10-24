@@ -22,6 +22,8 @@
 - {id: docs,              translation: Documentation}
 - {id: download,          translation: Download}
 - {id: downloads,         translation: Downloads}
+- {id: error404Title,     translation: Page not found.}
+- {id: error404Subtitle,  translation: 'You can use the links above, or go to the home page.'}
 - {id: errorEmailReq,     translation: 'Please enter a valid email address.'}
 - {id: errorMessageReq,   translation: 'Please enter your message.'}
 - {id: errorNameReq,      translation: 'Please provide your name.'}
@@ -32,6 +34,7 @@
 - {id: githubIssueTrkDet, translation: Bug reports and feature requests go here!}
 - {id: githubRepo,        translation: GitHub repository}
 - {id: glossary,          translation: Glossary}
+- {id: goHome,            translation: Go to the home page}
 - {id: home,              translation: Home}
 - {id: iAmLegend,         translation: I Am Legend}
 - {id: inThisVideo,       translation: In this video}

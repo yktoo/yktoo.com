@@ -1,9 +1,9 @@
 {{ define "main" }}
 <section id="page-not-found" class="text-center">
-    <p><img src="/images/404.jpg" alt="404"></p>
-    <p class="lead">Page not found.</p>
-    <p>You can use the links above, or go to the home page.</p>
-    <p><a href="{{ `/` | relURL }}" class="btn btn-lg btn-primary">Go to the home page</a></p>
+    <p><img src="/images/404.png" class="img-fluid" alt="404"></p>
+    <p class="lead">{{ T "error404Title" }}</p>
+    <p>{{ T "error404Subtitle" }}</p>
+    <p><a href="{{ `/` | relURL }}" class="btn btn-lg btn-primary"><i class="fas fa-home bycon"></i>{{ T "goHome" }}</a></p>
 </section>
 {{ end }}
 

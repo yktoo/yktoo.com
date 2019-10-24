@@ -22,6 +22,8 @@
 - {id: docs,              translation: Documentatie}
 - {id: download,          translation: Downloaden}
 - {id: downloads,         translation: Downloaden}
+- {id: error404Title,     translation: Pagina bestaat niet.}
+- {id: error404Subtitle,  translation: Gebruik de links bovenaan deze pagina of ga naar de hoofdpagina.}
 - {id: errorEmailReq,     translation: 'Er is een geldig e-mailadres nodig.'}
 - {id: errorMessageReq,   translation: 'Je bericht mag niet leeg zijn.'}
 - {id: errorNameReq,      translation: 'Je naam mag niet leeg zijn.'}
@@ -32,6 +34,7 @@
 - {id: githubIssueTrkDet, translation: Dé plek voor al je bugreports en featurerequests!}
 - {id: githubRepo,        translation: GitHub repository}
 - {id: glossary,          translation: Glossarium}
+- {id: goHome,            translation: Naar de hoofdpagina}
 - {id: home,              translation: Hoofdpagina}
 - {id: iAmLegend,         translation: Ik ben legende}
 - {id: inThisVideo,       translation: In deze video}
