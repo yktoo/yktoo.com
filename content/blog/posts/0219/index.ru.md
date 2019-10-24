@@ -2,7 +2,13 @@
 type: post
 date: "2014-05-13T00:00:00Z"
 title: "Нидерландец!"
-tags: ["Амерсфорт", "бургомистр", "гражданство", "Нидерланды", "церемония натурализации"]
+tags:
+    - Амерсфорт
+    - бургомистр
+    - гражданство
+    - Нидерланды
+    - церемония натурализации
+    - паспорт
 image: "https://4.bp.blogspot.com/-Npa6ZmmTZbM/U3EbMhvYXQI/AAAAAAAAdTk/JY3TQ2pmC9c/s1600/IMG_20140512_205856.picasaweb.jpg"
 aliases:
     - /ru/blog/post/219

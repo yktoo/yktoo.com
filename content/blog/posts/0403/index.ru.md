@@ -7,6 +7,7 @@ tags:
     - законодательство
     - QR-код
     - BSN
+    - паспорт
 image: "https://4.bp.blogspot.com/-Npa6ZmmTZbM/U3EbMhvYXQI/AAAAAAAAdTk/JY3TQ2pmC9c/s1600/IMG_20140512_205856.picasaweb.jpg"
 ---
 
