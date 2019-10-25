@@ -10,11 +10,13 @@ tags:
     - традиции
     - Sinterklaas
     - Zwarte Piet
+    - pakjesavond
 image: "https://1.bp.blogspot.com/-BFzeiDmrjEI/XbMThO41D-I/AAAAAAAAzBQ/tvt6U5Trku0Hh_d-M0ZjnbddcC7RfCE5gCKgBGAsYHg/s1600/2019-10-25.jpg"
 imageCredit: "Фото: Tenorio81/Wikimedia/CC BY 3.0."
 glossary:
     - sinterklaas
     - zwarte-piet
+    - pakjesavond
 ---
 
 Близится **5** декабря — важный день в жизни нидерландской детворы, потому что в этот день они получают подарки от **Синтерклааса** — голландской версии Санта-Клауса.
