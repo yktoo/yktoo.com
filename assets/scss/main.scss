@@ -35,7 +35,7 @@ $enable-gradients: true;
 // Import Bootstrap
 @import "../bootstrap-4.3.1/scss/bootstrap";
 
-//noinspection ALL
+//noinspection CssUnknownTarget
 body {
     background-image: url(/images/page-bg.png);
     font-family: 'Arimo', sans-serif;
@@ -307,7 +307,7 @@ pre {
 
     .navbar-nav {
         .nav-link {
-            padding: 0.7rem 1.4rem;
+            padding: 0.5rem 1rem;
         }
         .active > .nav-link,
         .nav-link.active {

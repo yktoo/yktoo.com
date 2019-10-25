@@ -79,6 +79,7 @@
 - {id: readOnAt,          translation: Читать далее на}
 - {id: releaseData,       translation: Информация}
 - {id: releasedOn,        translation: 'Опубликовано:'}
+- {id: search,            translation: Поиск}
 - {id: seeAlso,           translation: См. также}
 - {id: series,            translation: Подборка}
 - {id: seriesPlural,      translation: Подборки}

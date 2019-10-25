@@ -79,6 +79,7 @@
 - {id: readOnAt,          translation: Verder lezen op}
 - {id: releaseData,       translation: Gegevens}
 - {id: releasedOn,        translation: Gereleased op}
+- {id: search,            translation: Zoeken}
 - {id: seeAlso,           translation: Zie ook}
 - {id: series,            translation: Serie}
 - {id: seriesPlural,      translation: Serie's}

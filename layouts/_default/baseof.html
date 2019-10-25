@@ -57,12 +57,14 @@
 
         <!-- Bottom Navbar -->
         {{- block "bottom-navbar" . }}
+        {{- if not .Params.hideShareButtons }}
         <!-- Sharing buttons -->
         <section id="page-sharing-buttons">
             <h5>{{ T "share" }}</h5>
             {{ partial "sharing-buttons" . }}
         </section>
-        {{ end }}
+        {{- end }}
+        {{- end }}
     </div>
 </section>
 

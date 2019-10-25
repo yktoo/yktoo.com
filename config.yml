@@ -126,6 +126,10 @@ menu:
           url: '/about/contact/'
           pre: <i class="fas fa-envelope"></i>
           weight: 101
+        - identifier: search
+          url: '/about/search/'
+          pre: <i class="fas fa-search"></i>
+          weight: 102
 
     blog:
         - identifier: timeline
@@ -208,18 +212,24 @@ menu:
           pre: '<span class="dot-sep"></span>'
           parent: about
           weight: 23
+        - identifier: search
+          url: '/about/search/'
+          pre: '<b>'
+          post: '</b>'
+          parent: about
+          weight: 24
         - identifier: glossary
           url: '/glossary/'
           pre: '<b>'
           post: '</b>'
           parent: about
-          weight: 24
+          weight: 25
         - identifier: afkBest
           url: 'https://afk.best/'
           pre: '<b>'
           post: '</b>'
           parent: about
-          weight: 25
+          weight: 26
 
         # Software
         - identifier: software
