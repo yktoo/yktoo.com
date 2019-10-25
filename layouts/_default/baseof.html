@@ -22,7 +22,8 @@
         {{ printf "<link rel=%q type=%q href=%q title=%q/>" .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
     {{ end -}}
 
-    <!-- Google Analytics -->
+    <!-- Google Analytics (do not add the code when running locally) -->
+    {{- if not (in (print $.Site.BaseURL) "localhost") }}
     <script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.GoogleAnalytics }}"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -30,6 +31,7 @@
         gtag('js', new Date());
         gtag('config', '{{ .Site.GoogleAnalytics }}');
     </script>
+    {{- end }}
 </head>
 <body>
 
