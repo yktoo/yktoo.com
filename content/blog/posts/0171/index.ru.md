@@ -2,7 +2,13 @@
 type: post
 date: "2013-01-02T00:00:00Z"
 title: "И вновь с Новым годом!"
-tags: ["Nieuwjaarsduik", "Гаага", "Нидерланды", "пляж", "праздники"]
+tags:
+    - Nieuwjaarsduik
+    - Гаага
+    - Нидерланды
+    - пляж
+    - праздники
+    - Схевенинген
 image: "https://2.bp.blogspot.com/-gLtBi7n5prk/UOSAVgEEtgI/AAAAAAAAWXg/Av5bMGBKC1w/s1600/dsc06477.picasaweb.jpg"
 places:
     - place0020

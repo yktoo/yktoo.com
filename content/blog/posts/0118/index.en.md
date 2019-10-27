@@ -2,7 +2,13 @@
 type: post
 date: "2011-10-02T00:00:00Z"
 title: "October. Summer"
-tags: ["beach", "Netherlands", "sea", "The Hague", "weather"]
+tags:
+    - beach
+    - Netherlands
+    - sea
+    - The Hague
+    - weather
+    - Scheveningen
 image: "https://4.bp.blogspot.com/-L9Vpm4JLIzY/TodOw2dLADI/AAAAAAAAJ3k/dL-1odROK8Q/s1600/dsc07115.picasaweb.jpg"
 places:
     - place0020

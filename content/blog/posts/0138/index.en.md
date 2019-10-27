@@ -2,7 +2,14 @@
 type: post
 date: "2012-01-06T00:00:00Z"
 title: "Happy New Year!"
-tags: ["beach", "holidays", "Netherlands", "Nieuwjaarsduik", "sea", "The Hague"]
+tags:
+    - beach
+    - holidays
+    - Netherlands
+    - Nieuwjaarsduik
+    - sea
+    - The Hague
+    - Scheveningen
 image: "https://4.bp.blogspot.com/--BvFfK-9VOA/TwcHxOhDDII/AAAAAAAALMc/qNaRRXKKf6A/s1600/dsc08332.picasaweb.jpg"
 places:
     - place0020
