@@ -7,7 +7,9 @@
     <div class="top-image">
         {{- $url := .Params.image }}
         {{- with $url }}
-            {{- if not (findRE "^(/|http(s?)://)" $url) }}
+            {{- if findRE "^(/|http(s?)://)" $url }}
+                {{- $url = replace $url "/s1600/" "/s320/" }}
+            {{- else }}
                 {{- $url = ($.Page.Resources.GetMatch $url).RelPermalink }}
             {{- end }}
         {{- else -}}
