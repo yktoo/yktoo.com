@@ -217,11 +217,15 @@ class Processor:
                         break
 
                     # Found - replace it if there's a replacement
-                    if match.group() in self.url_map:
-                        line = line[:match.start()] + NEW_URL_BASE + self.url_map[match.group()] + line[match.end():]
+                    str_found = match.group()
+                    if str_found in self.url_map:
+                        str_repl = NEW_URL_BASE + self.url_map[str_found]
+                        line = line[:match.start()] + str_repl + line[match.end():]
                         self.count_replaced += 1
                     else:
                         self.count_skipped += 1
+                        # If failed to make a replacement, move on to the next line (otherwise it'll be an endless loop)
+                        break
                 out_lines.append(line)
 
         # Write the output back
