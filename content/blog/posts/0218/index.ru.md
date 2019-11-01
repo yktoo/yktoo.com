@@ -4,7 +4,7 @@ date: "2014-02-08T00:00:00Z"
 title: "1.2.1"
 series: "Sound Switcher Indicator"
 tags: ["Precise Pangolin", "PulseAudio", "Python", "Quantal Quetzal", "Raring Ringtail", "Saucy Salamander", "Sound Switcher Indicator", "Trusty Tahr", "Ubuntu", "Unity", "звук", "индикатор"]
-image: "https://1.bp.blogspot.com/-p_jKIQD-wJ4/UvZeMTHsmYI/AAAAAAAAb1g/DYm853qnCjw/s1600/indicator-sound-switcher.png"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/64k0x3l8omtq0538.png"
 software: sound-switcher-indicator
 aliases:
     - /ru/blog/post/218
@@ -28,7 +28,7 @@ aliases:
       * **13.10** ({{< fl "Saucy Salamander" >}})
       * **14.04** LTS ({{< fl "Trusty Tahr" >}}) — протестирован в Trusty Alpha 2.
 * Добавлена иконка программы по умолчанию, которая будет отображаться, если используется нестандартная тема оформления. Я сделал её более контрастной, чтобы она была хорошо заметна как в светлых, так и в тёмных темах:
-  {{< imgfig "https://1.bp.blogspot.com/-p_jKIQD-wJ4/UvZeMTHsmYI/AAAAAAAAb1g/DYm853qnCjw/s1600/indicator-sound-switcher.png" >}}
+  {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/64k0x3l8omtq0538.png" >}}
 
 ## Установка
 

@@ -3,7 +3,7 @@ type: post
 date: "2017-06-03T00:00:00Z"
 title: "Half marathon: Ijsselstijnloop"
 tags: ["half marathon", "Ijsselstijn", "Ijsselstijnloop", "Netherlands", "running", "sport"]
-image: "https://3.bp.blogspot.com/-FaAglU8-2vA/WTMIq7J8EqI/AAAAAAAAqEg/B8JUhHQIXTY9l08MmxNmfVYvvcZoj6_dACKgB/s1600/dsc05191.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/elqndv0yg6bk2335.jpg"
 aliases:
     - /en/blog/post/327
 ---
@@ -12,13 +12,13 @@ Today I've run yet another half marathon (**21.1 km**), in the small town of {{<
 
 <!--more-->
 
-{{< imgfig "https://3.bp.blogspot.com/-FaAglU8-2vA/WTMIq7J8EqI/AAAAAAAAqEg/B8JUhHQIXTY9l08MmxNmfVYvvcZoj6_dACKgB/s1600/dsc05191.picasaweb.jpg" "Ijsselsteinloop medal." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/elqndv0yg6bk2335.jpg" "Ijsselsteinloop medal." >}}
 
 The run was expectedly called [Ijsselsteinloop](http://www.ijsselsteinloop.nl/) ("Ijsselstein run").
 
 This time my result of **1:49:01** didn't beat the record, but it was just a minute more than the {{< a "0320" "previous run at De Haar" >}}. Which is not bad, considering sauna-like conditions and even a short rain-shower!
 
-{{< imgfig "https://2.bp.blogspot.com/-S9RVAnvCny4/WTMMcAmmucI/AAAAAAAAqEs/yl7cB-nbBOMH2XHALcJxONkr-XG3dxqhwCKgB/s1600/ijsselsteinloop-2017-06-03-10-14-16.929797.picasaweb.jpg" "The author finishing." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/we8r7srmubcu1120.jpg" "The author finishing." >}}
 
 The outcome is the **123<sup>rd</sup>** place (out of **307**) among boys.
 

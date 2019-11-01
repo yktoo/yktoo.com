@@ -11,14 +11,14 @@ tags:
     - сайт
     - спорт
     - 合気道
-image: "https://1.bp.blogspot.com/-lki9NxKtQqo/UmpsckNYfPI/AAAAAAAAakU/UzI2708drDg/s1600/aikikai-amersfoort.picasaweb.png"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/8ghogu0wxhqr1069.png"
 aliases:
     - /ru/blog/post/200
 ---
 
 На досуге сделал доброе дело и сваял сайт для своей школы айкидо (по-научному {{< fl "доджо" >}}) **Aikikai Amersfoort**, ныне расположенный по адресу [aikikai-amersfoort.nl](http://aikikai-amersfoort.nl/).
 
-{{< imgfig "https://1.bp.blogspot.com/-lki9NxKtQqo/UmpsckNYfPI/AAAAAAAAakU/UzI2708drDg/s1600/aikikai-amersfoort.picasaweb.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/8ghogu0wxhqr1069.png" >}}
 
 Прежний сайт был разработан в глубокой древности, году так в две тыщи четвёртом, и морально совершенно устарел. Например, для просмотра видео предлагалось скачать файл в формате .avi — Ютьюба в те далёкие времена ещё не существовало.
 
@@ -30,11 +30,11 @@ aliases:
 
 Также добавил немного удобства для админа: кнопку создания нового поста в главном меню и служебная строка в нижней части каждого поста:
 
-{{< imgfig "https://4.bp.blogspot.com/-tUoOgp173pM/Ump023odEUI/AAAAAAAAakk/PbkHrzR0uO0/s1600/aikikai-amersfoort-admin-post.picasaweb.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/c6yrswy0p0oy1337.png" >}}
 
 Чуть больше усилий потребовалось для встраивания гуглокарты, где отмечены оба наших зала, но с помощью расширения EGMap это оказалось несложно:
 
-{{< imgfig "https://2.bp.blogspot.com/-wiK-KxbqVCM/UmqUxh5BoiI/AAAAAAAAak8/DNfCm9Kr0dI/s1600/aikikai-amersfoort-route.picasaweb.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pf78ur0lhkg10864.png" >}}
 
 Сайт весь на голландском — для его целевой аудитории другого и не требуется. Ну и, конечно, вся модная социальная шелуха: [Facebook](http://www.facebook.com/pages/Aikikai-Amersfoort/233137963447868), [Twitter](http://twitter.com/aiki_amersfoort), [Google+](http://plus.google.com/112010950208592078236), [YouTube](http://www.youtube.com/user/JoginderSinghAikido).
 

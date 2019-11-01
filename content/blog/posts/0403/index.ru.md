@@ -8,7 +8,7 @@ tags:
     - QR-код
     - BSN
     - паспорт
-image: "https://4.bp.blogspot.com/-Npa6ZmmTZbM/U3EbMhvYXQI/AAAAAAAAdTk/JY3TQ2pmC9c/s1600/IMG_20140512_205856.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/8303fff0jigd0066.jpg"
 ---
 
 Нидерландское правительство продолжает свою священную борьбу с утечками персональных данных.
@@ -21,7 +21,7 @@ image: "https://4.bp.blogspot.com/-Npa6ZmmTZbM/U3EbMhvYXQI/AAAAAAAAdTk/JY3TQ2pmC
 
 Правительство видит проблему в том, что {{< fl "BSN" >}} стоит в открытом виде на основной странице паспорта и ID-карточки. Риск утечки возникает, когда с паспорта делают копию — что происходит довольно часто в гостиницах, при аренде машины, открытии счёта в банке и т.д. — вместе с этим копируется и номер, хотя он в подобных ситуациях не нужен.
 
-{{< imgfig "https://1.bp.blogspot.com/-g4m_ZWdPzn4/XW4hr5Hrv_I/AAAAAAAAxCg/VHV1GKNxcq8yCJnCGZNKKH5SJrLdwyHvQCKgBGAs/s1600/bsn-paspoort-voorkant.jpg" "Образец нидерландского паспорта — BSN-номер обведён. Картинка rijksoverheid.nl." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/tqs476ottiit1062.jpg" "Образец нидерландского паспорта — BSN-номер обведён. Картинка rijksoverheid.nl." >}}
 
 Чтобы снизить риск мошенничества, министерство предлагает переместить {{< fl "BSN" >}} на тыльную сторону карточки и главной страницы паспорта, а также дополнить его машиночитаемым {{< fl "QR" >}}-представлением. Поскольку номер всё равно остаётся видимым, никакого шифрования для него в {{< fl "QR" >}}-коде не предусматривается.
 

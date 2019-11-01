@@ -4,7 +4,7 @@ date: "2015-05-25T00:00:00Z"
 title: "Часть 6. Расположение и выводы"
 series: "Полный обзор 75-дюймового 4K-телевизора Samsung UE75HU7500"
 tags: ["Samsung", "Smart TV", "гаджеты", "железо", "обзор", "телевизоры"]
-image: "https://3.bp.blogspot.com/-Io14-rNSbMM/VQQq8W1CZiI/AAAAAAAAhPk/PqjH6gunL3I/s1600/dsc08021.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/p2m7bcrlfvpq0811.jpg"
 aliases:
     - /ru/blog/post/248
 ---
@@ -19,7 +19,7 @@ aliases:
 
 Так что лучше его повесить на стену, от греха подальше, — что я и сделал.
 
-{{< imgfig "https://3.bp.blogspot.com/-Io14-rNSbMM/VQQq8W1CZiI/AAAAAAAAhPk/PqjH6gunL3I/s1600/dsc08021.picasaweb.jpg" "Расположение телевизора на стене." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/p2m7bcrlfvpq0811.jpg" "Расположение телевизора на стене." >}}
 
 Выбирая кронштейн, необходимо учитывать немалый размер телевизора, а также максимально допустимый вес. На рынке не столь уж много кронштейнов для ТВ в 75". С другой стороны, вес у него довольно скромен, всего 36 кг, — мой кронштейн допускал до восьмидесяти.
 
@@ -33,7 +33,7 @@ aliases:
 
 Что же касается расстояния до него, различных мнений ещё больше. Например, The New York Times [полагает](http://www.nytimes.com/2012/02/09/technology/personaltech/is-this-living-room-big-enough-for-my-tv.html?_r=0), что идеальное расстояние от экрана — это полторы его диагонали:
 
-{{< imgfig "https://1.bp.blogspot.com/-AS9RLuOKKCY/VWGYfsdeAOI/AAAAAAAAjiE/mTt4KUCN1Us/s1600/nytimes-tv-height.jpg" "Источник: The New York Times." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/y1wfh74nsg1n3606.jpg" "Источник: The New York Times." >}}
 
 Данный ТВ (диагональ 189 см), согласно этому правилу, до́лжно разглядывать с 189×1,5 ≈ 284 см, то есть около трёх метров. Впрочем, там же отмечается, что цифра 1,5 вызывает яростные споры, и мнения варьируются от 1,2 до 2,5 и даже больше. Также, очевидно, необходимо учитывать остроту зрения.
 

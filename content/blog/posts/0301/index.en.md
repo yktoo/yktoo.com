@@ -3,7 +3,7 @@ type: post
 date: "2016-12-18T00:00:00Z"
 title: "Santa Run Houten"
 tags: ["Christmas", "festivities", "Houten", "Netherlands", "Rotary International", "running", "Santa Claus", "sport"]
-image: "https://1.bp.blogspot.com/-8Rzu2vJR0rI/WFcANEjwGbI/AAAAAAAAotc/cVdP4yGjlDAIdYGYaQ6HVLglaaJigVC9gCPcB/s1600/dsc03878.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/qcvoj4angkpg0782.jpg"
 places:
     - place0270
 aliases:
@@ -12,7 +12,7 @@ aliases:
 
 Yesterday, December 17<sup>th</sup>, Houten hosted a charity event called [Rotary Santa Run](http://houten.rotarysantarun.nl/). For just **€10** every participant got a red Santa Claus outfit, a couple of drink vouchers, and a possibility to take part in a funny and useful event. The collected funds will go to the organisations {{< fl "Jeugdsportfonds Houten" >}} and {{< fl "De Nierstichting" >}}.
 
-{{< imgfig "https://1.bp.blogspot.com/-8Rzu2vJR0rI/WFcANEjwGbI/AAAAAAAAotc/cVdP4yGjlDAIdYGYaQ6HVLglaaJigVC9gCPcB/s1600/dsc03878.picasaweb.jpg" "Rotary Santa Run Houten: the start." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/qcvoj4angkpg0782.jpg" "Rotary Santa Run Houten: the start." >}}
 
 A total of about five hundred Santas of all ages and walks of life have gathered at the central square of our Houten.
 
@@ -24,7 +24,7 @@ The distance was pretty humble and feasible for anyone capable of running: **3.3
 
 While Santas are away, the crew is busy with unpacking the medals:
 
-{{< imgfig "https://3.bp.blogspot.com/-veIgHO9oqZY/WFcANA8DvRI/AAAAAAAAotc/G_HGcwcLyVkt4u_G-r-3IPGYJ0osuZ8_wCPcB/s1600/dsc03885.picasaweb.jpg" "Rotary Santa Run Houten." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/5ziiimwcbwh72824.jpg" "Rotary Santa Run Houten." >}}
 
 Some thirteen minutes later the fastest ones cross the finish line:
 

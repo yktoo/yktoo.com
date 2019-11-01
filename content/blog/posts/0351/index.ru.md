@@ -5,7 +5,7 @@ title: "Обновите ссылки на RSS — сайт обновляетс
 tags:
     - анонс
     - сайт
-image: "https://4.bp.blogspot.com/-bDT2EUCLWxY/Th8_MnB40lI/AAAAAAAAJHQ/F14fig3v1NM/s1600/i-like-to-move-it.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/8l0mwo2k5qwz1414.jpg"
 aliases:
     - /ru/blog/post/351
 ---
@@ -25,7 +25,7 @@ aliases:
 
 <!--more-->
 
-{{< imgfig "https://4.bp.blogspot.com/-bDT2EUCLWxY/Th8_MnB40lI/AAAAAAAAJHQ/F14fig3v1NM/s1600/i-like-to-move-it.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/8l0mwo2k5qwz1414.jpg" >}}
 
 Новые ссылки нужно использовать в случае, если вы пользуетесь внешним агрегатором новостей типа {{< fl "Feedly" >}}.
 

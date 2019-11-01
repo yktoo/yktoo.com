@@ -8,7 +8,7 @@ tags:
     - политика
     - протесты
     - экология
-image: "https://1.bp.blogspot.com/-7yXNkEpxDSM/XaVvFNV1iFI/AAAAAAAAytQ/p-8L3F8Ru-IOawb5T0aYIHGDWe2BArmLgCKgBGAsYHg/s1600/2019-10-15_boerenprotest-groningen.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/kwsr5gjasamz1608.jpg"
 imageCredit: "Фото: RTV Noord."
 ---
 
@@ -26,7 +26,7 @@ imageCredit: "Фото: RTV Noord."
 
 Это решение Госсовета разом перечеркнуло и все выданные ранее, но ещё не использованные разрешения, что тоже не добавило энтузиазма ни фермерам, ни многим другим — множество строительных проектов также были поставлены на паузу: перестройка аэропорта в Лелистаде, расширение трассы {{< fl "A27" >}} в районе Утрехта, и ещё сотни других.
 
-{{< imgfig "https://1.bp.blogspot.com/-xXpIHIpWl7c/XaVxhiIPevI/AAAAAAAAyt0/hkwI09X61xYlSLJmtr352MsiBzal6O5TACKgBGAsYHg/s1600/2019-10-15_boerenprotest-trekkers.jpg" "Протесты фермеров в Гааге. Фото: NOS." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/gw707c8h74j42370.jpg" "Протесты фермеров в Гааге. Фото: NOS." >}}
 
 ## Новый порядок выдачи разрешений
 
@@ -34,12 +34,12 @@ imageCredit: "Фото: RTV Noord."
 
 **8** октября двенадцать провинций представили новые правила для получения разрешений. Согласно им, реализация проекта не должна приводить к росту загрязнений. То есть, например, если фермер хочет увеличить поголовье стада, он обязан устанавливать специальные фильтры, удерживающие загрязнения от попадания в почву. Кроме того, в этих правилах квота на загрязнение рассчитывалась исходя из реального поголовья, а не из вместимости фермы. Плюс в них содержались многие другие ограничения, — например, при перепродаже фермы покупатель мог получить лишь **70%** исходной квоты.
 
-{{< imgfig "https://1.bp.blogspot.com/-Cd0DKeHmU_0/XaVvFHyPCMI/AAAAAAAAytQ/6HQ_eGL88kc0fJdYhko3GVeB0yI0_PrcgCKgBGAsYHg/s1600/2019-10-15_boerenprotest.jpg" "Протестующий фермер. Фото: Kees Torn/Wikimedia." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fz4rsgv5dtg32488.jpg" "Протестующий фермер. Фото: Kees Torn/Wikimedia." >}}
 
 Массовые протесты фермеров привели к тому, что как минимум четыре провинции (Фрисландия, Дренте, Гелдерланд и Оверэйссел) новые правила отозвали.
 
 А в Гронингене обозлённые фермеры {{< a "https://nos.nl/artikel/2306192-politie-groningen-onderzoekt-twee-incidenten-boerenprotest.html" "сломали" >}} трактором дверь в здании правления провинции — пришлось вмешаться полиции.
 
-{{< imgfig "https://1.bp.blogspot.com/-7yXNkEpxDSM/XaVvFNV1iFI/AAAAAAAAytQ/p-8L3F8Ru-IOawb5T0aYIHGDWe2BArmLgCKgBGAsYHg/s1600/2019-10-15_boerenprotest-groningen.jpg" "Гронинген, Grote Markt, в понедельник 14.10.2019 г. Фото: RTV Noord." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/kwsr5gjasamz1608.jpg" "Гронинген, Grote Markt, в понедельник 14.10.2019 г. Фото: RTV Noord." >}}
 
 На завтра, **16** октября, вновь запланированы акции протеста по всей стране. Похоже, страсти накаляются.

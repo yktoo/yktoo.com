@@ -6,20 +6,20 @@ tags:
     - funny
     - France
     - trifles
-image: "https://1.bp.blogspot.com/-o5r2uFHywF0/XYsRogK24FI/AAAAAAAAx_I/zIIFk95PP38sHoWB1D6PEtrQn79OzKtZACKgBGAsYHg/s1600/dsc09618.w.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/1rwe7bvjcp4r0932.jpg"
 ---
 
 Good morning dear patient! Please tell me, what do you observe on this photo?
 
 <!--more-->
 
-{{< imgfig "https://1.bp.blogspot.com/-o5r2uFHywF0/XYsRogK24FI/AAAAAAAAx_I/zIIFk95PP38sHoWB1D6PEtrQn79OzKtZACKgBGAsYHg/s1600/dsc09618.w.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1rwe7bvjcp4r0932.jpg" >}}
 
 {{< spoiler "Here's what I see" >}}
 
 As for me, I see here an elephant sticking its tongue out.
 
-{{< imgfig "https://1.bp.blogspot.com/-Gfin7HuA3aw/XYsVJEgJbPI/AAAAAAAAx_g/ZZoDeJONWRIcBCwBNrStUnhMyGyHeEbNACKgBGAsYHg/s1600/elephant.jpg" "An elephant!" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/w129402jeli01023.jpg" "An elephant!" >}}
 
 Okay, okay, just kidding about the tongue.
 

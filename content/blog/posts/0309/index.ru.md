@@ -13,7 +13,7 @@ tags:
     - фриланс
     - законодательство
     - Wet DBA
-image: "https://4.bp.blogspot.com/-f_a4KQVmI1w/WN97i86B4jI/AAAAAAAAptQ/tQHL2EJd3pcyo5NSzzCyPmQuDu3Ls8DlQCPcB/s1600/pros-and-cons.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/9lgcssabu4ms0482.jpg"
 aliases:
     - /ru/blog/post/309
 ---
@@ -28,7 +28,7 @@ aliases:
 
 > На всякий случай, во избежание недоразумений, отмечу, что всё нижеперечисленное относится к **Нидерландам**.
 
-{{< imgfig "https://4.bp.blogspot.com/-f_a4KQVmI1w/WN97i86B4jI/AAAAAAAAptQ/tQHL2EJd3pcyo5NSzzCyPmQuDu3Ls8DlQCPcB/s1600/pros-and-cons.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9lgcssabu4ms0482.jpg" >}}
 
 ## Аргументы «против» {#contra}
 

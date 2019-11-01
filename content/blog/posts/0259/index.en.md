@@ -3,7 +3,7 @@ type: post
 date: "2015-09-04T00:00:00Z"
 title: "SAIL Amsterdam 2015"
 tags: ["Amsterdam", "boats", "Ferris wheel", "Netherlands", "SAIL Amsterdam", "ships", "water"]
-image: "https://3.bp.blogspot.com/-3hQN4sFs-_M/VeMrqsmgrYI/AAAAAAAAkWo/bw5QgS6k-h8/s1600/dsc00701.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/mdlfkrk2c6ns2848.jpg"
 aliases:
     - /en/blog/post/259
 ---
@@ -14,7 +14,7 @@ For these days bridges over the IJ are open or even get dismantled to let the ta
 
 <!--more-->
 
-{{< imgfig "https://3.bp.blogspot.com/-3hQN4sFs-_M/VeMrqsmgrYI/AAAAAAAAkWo/bw5QgS6k-h8/s1600/dsc00701.picasaweb.jpg" "Dismantled Jan Schaeferbrug." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/mdlfkrk2c6ns2848.jpg" "Dismantled Jan Schaeferbrug." >}}
 
 The website of SAIL [claims](https://www.sail.nl/en-2015/about-us/sail-organisation) it's the largest free marine event in the world.
 
@@ -22,65 +22,65 @@ The organisational effort put into it is astonishing. The Dutch are highly dilig
 
 Here's what has been done for this *five day* event. Impressive information points assembled in several places in the city, as well as big info displays:
 
-{{< imgfig "https://2.bp.blogspot.com/-zkxbA1FxaZc/VeMp3s0sEaI/AAAAAAAAkOQ/sAUOpP1nRqQ/s1600/dsc00621.picasaweb.jpg" "Information point." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zvglwigga4090504.jpg" "Information point." >}}
 
 Roads and bridges in the centre were closed for transport:
 
-{{< imgfig "https://1.bp.blogspot.com/-ge5DWarIxMw/VeMqT-OL21I/AAAAAAAAkU8/tHkgt3HU8wA/s1600/dsc00736.picasaweb.jpg" "Bridge is closed for traffic." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xh7hcpxps2be2662.jpg" "Bridge is closed for traffic." >}}
 
 Route indicators hung out:
 
-{{< imgfig "https://3.bp.blogspot.com/-mIunc4VU_6Q/VeMqBYO1aRI/AAAAAAAAkQU/Fmoaa2g0vVA/s1600/dsc00654.picasaweb.jpg" "Direction for the \"purple\" route." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vm8yc4vc7cap3262.jpg" "Direction for the \"purple\" route." >}}
 
 Vending machines with batteries and powerbanks placed at several spots:
 
-{{< imgfig "https://1.bp.blogspot.com/-Q3EvWrStFeQ/VeMp-MGapzI/AAAAAAAAkWg/ruYZCKPR5FM/s1600/dsc00646.picasaweb.jpg" "Vending machine for food and gadgets." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/psscu5jepx3v3413.jpg" "Vending machine for food and gadgets." >}}
 
 Narrow bridges over canals on the man-made {{< wiki "Java-eiland" "en" "Java island" >}} were supplemented by temporary four-section bridges to cope with the stream of public:
 
-{{< imgfig "https://3.bp.blogspot.com/-jexjAS45vrA/VeMqTdnMlkI/AAAAAAAAkUs/BFDP-7_gkXg/s1600/dsc00735.picasaweb.jpg" "Temporary canal bridges." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/a5fnawrceepo3214.jpg" "Temporary canal bridges." >}}
 
 They've even come up with specially designed litter-bins!
 
-{{< imgfig "https://2.bp.blogspot.com/-JjBP35JuOs0/VeMp925lPBI/AAAAAAAAkWg/iRDbwSUl9Fo/s1600/dsc00645.picasaweb.jpg" "SAIL Amsterdam litter-bin." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/mwh2mz3l15h02135.jpg" "SAIL Amsterdam litter-bin." >}}
 
 The main activity was around the IJ and the Java and KNSM islands located on it. Here's the official map of the event:
 
-{{< imgfig "https://4.bp.blogspot.com/-yRgtvgV3wdI/VeNB9sDC0pI/AAAAAAAAkXY/ubiRItDnsL4/s1600/Sail-Amsterdam-2015-plan.picasaweb.jpg" "Map of the event. Copyright SAIL Amsterdam." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/c5nz122hgx4a2967.jpg" "Map of the event. Copyright SAIL Amsterdam." >}}
 
 The Amsterdam Central railway station is on the left-hand side. Once you step out of it, you immediately are in the thick of things.
 
-{{< imgfig "https://2.bp.blogspot.com/-VJ5dJ-uL6EA/VeMp4iT7lSI/AAAAAAAAkWg/pjitzEMs4Ws/s1600/dsc00624.picasaweb.jpg" "Exit of the Amsterdam Central station." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ppfh20tk40il2610.jpg" "Exit of the Amsterdam Central station." >}}
 
 The IJ is right beside it.
 
-{{< imgfig "https://1.bp.blogspot.com/-fZPwe0zzUEU/VeMp422e_oI/AAAAAAAAkOc/KHFFeNWvefs/s1600/dsc00626.picasaweb.jpg" "IJ next to the station." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/6d81blz87fno3465.jpg" "IJ next to the station." >}}
 
 The boats go in an never-ending stream, hundreds of them. The speed is capped at six km/h for safety reasons.
 
-{{< imgfig "https://2.bp.blogspot.com/-4YtUdyFq-74/VeMp8oRXMoI/AAAAAAAAkPY/pQpRnx_F8HE/s1600/dsc00641.picasaweb.jpg" "IJ at Amsterdam CS." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/a5lm2j4t6dxu0222.jpg" "IJ at Amsterdam CS." >}}
 
 There are lots of small motor boats, with people relaxing and sunbathing.
 
-{{< imgfig "https://3.bp.blogspot.com/-x-13s1QB-VY/VeMqFDNGYtI/AAAAAAAAkRM/leRDeq2izf8/s1600/dsc00676.picasaweb.jpg" "Motor boats on the IJ." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/w7cx7lb4efq22677.jpg" "Motor boats on the IJ." >}}
 
 But there are also more peculiar ones, like this [De Utrecht](http://www.statenjacht.nl/), a reconstruction of the original XVIII century ship ([leaflet in PDF](http://www.muidercompagnie.nl/images/pdf/brochure-utrecht.pdf)):
 
-{{< imgfig "https://2.bp.blogspot.com/-TXQIhRxKrzg/VeMp5QuzwzI/AAAAAAAAkOs/jRH2CLQox7Y/s1600/dsc00627.picasaweb.jpg" "De Utrecht." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/f9a2x8vj0wr23051.jpg" "De Utrecht." >}}
 
 Or the deep blue [Zephyr](http://www.marinetraffic.com/ais/nl/shipdetails.aspx?mmsi=245115000) (built 1931):
 
-{{< imgfig "https://3.bp.blogspot.com/-XGhKCxjrfEw/VeMqFjmdbnI/AAAAAAAAkRU/nE7RLUcnZ8k/s1600/dsc00679.picasaweb.jpg" "The Zephyr." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/7hyp0l42pnan1304.jpg" "The Zephyr." >}}
 
 But the most interesting ones are of course the tall ships moored at the {{< fl "Oranjehaven" >}}.
 
 The huge [Atlantis](http://www.marinetraffic.com/nl/ais/details/ships/246253000), 1905 (why would you call a ship "Atlantis", anyway?):
 
-{{< imgfig "https://4.bp.blogspot.com/-us__tcNt3HA/VeMqHW5zI5I/AAAAAAAAkRk/C1cw97o-UeA/s1600/dsc00688.picasaweb.jpg" "The Atlantis." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fkr5g4soekm21397.jpg" "The Atlantis." >}}
 
 A sailor on the bowsprit:
 
-{{< imgfig "https://1.bp.blogspot.com/-cOWjfEEbKd4/VeMqH6tK9xI/AAAAAAAAkRs/neL5-0g_3x8/s1600/dsc00689.picasaweb.jpg" "Bouwsprit of the Atlantis." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/qewnvmdbxxlz2939.jpg" "Bouwsprit of the Atlantis." >}}
 
 This ninth edition of the festival was [record breaking](http://www.rtvnh.nl/nieuws/169030/600-schepen-1200-vrijwilligers-en-een-begroting-van-20-miljoen-sail-in-cijfers) in many aspects:
 
@@ -93,145 +93,145 @@ This ninth edition of the festival was [record breaking](http://www.rtvnh.nl/nie
 
 The sail-in featured ships from all over the world: the USA, Australia, India, Chile etc. And also four Russian ships. The {{< wiki "Kruzenshtern_(ship)" "en" "Kruzenshtern" >}} (1926):
 
-{{< imgfig "https://3.bp.blogspot.com/-YNRTRGDy2XU/VeMqGPzUAXI/AAAAAAAAkRc/uDrpDxyf3jY/s1600/dsc00686.picasaweb.jpg" "The Kruzenshtern." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/k9zp5i589kiw2528.jpg" "The Kruzenshtern." >}}
 
 The {{< wiki "STS_Sedov" "en" "Sedov" >}} (1921), originally the {{< fl "Magdalene Vinnen II" >}}. According to the Wikipedia, the largest training sailing ship in the world:
 
-{{< imgfig "https://3.bp.blogspot.com/-nGXiHq002Ds/VeMqSqPTAQI/AAAAAAAAkUU/C3bK89IqqDI/s1600/dsc00734.picasaweb.jpg" "The Sedov." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/2tfp93o0e0qo0544.jpg" "The Sedov." >}}
 
 We missed the other two, the {{< wiki "STS_Mir" "en" "Mir" >}} (1987) and the Nadezhda (1912). By the way, there was an accident involving the Mir, when [a man fell overboard](http://www.rtlnieuws.nl/nieuws/binnenland/rus-valt-overboord-tijdens-sail) during the sail-in. The details are unknown, but I hope it was not due to booze…
 
 The enormous gray {{< wiki "HNLMS_De_Ruyter_(F804)" "en" "Zr. Ms. De Ruyter" >}} (2004) was also very impressive. The displacement of the giant ship is 6050 tonnes:
 
-{{< imgfig "https://1.bp.blogspot.com/-6OFI4JO3_yk/VeMqQO_L_eI/AAAAAAAAkUk/H9Hgcmey2Pw/s1600/dsc00728.picasaweb.jpg" "The frigate Zr. Ms. De Ruyter." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/g9lmlpgyr2yi2025.jpg" "The frigate Zr. Ms. De Ruyter." >}}
 
 One can cross the IJ using a free ferry line. To accommodate the large amount of public, larger ferry-boats were used.
 
-{{< imgfig "https://1.bp.blogspot.com/-_A25TTqvKz0/VeMp7CSU2AI/AAAAAAAAkO8/n3WGWbb6aFk/s1600/dsc00631.picasaweb.jpg" "Ferry-boat is mooring." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/s2jko6dz631k0326.jpg" "Ferry-boat is mooring." >}}
 
 Yet, they were all packed.
 
-{{< imgfig "https://2.bp.blogspot.com/-cFhosxczccc/VeMp7wJgDBI/AAAAAAAAkWg/k-e0jR2d_PU/s1600/dsc00638.picasaweb.jpg" "On the ferry." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/621z29u5r44k2198.jpg" "On the ferry." >}}
 
 The ferry route lies across the stream of vessels, so it takes courage to operate one.
 
-{{< imgfig "https://3.bp.blogspot.com/-z8feAQAiLdU/VeMp6ylw0MI/AAAAAAAAkO4/wKCopekntIk/s1600/dsc00629.picasaweb.jpg" "Crossing the IJ." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1sredn4yq60w3045.jpg" "Crossing the IJ." >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-BjoGpBpuOVE/VeMp7aUbFEI/AAAAAAAAkPE/omMZvtig3iM/s1600/dsc00636.picasaweb.jpg" "Crossing the IJ." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/kcaj81xhjzlm0432.jpg" "Crossing the IJ." >}}
 
-{{< imgfig "https://2.bp.blogspot.com/-sVZCyNH9D8I/VeMp8F9BhfI/AAAAAAAAkPM/fUViSHL_gj0/s1600/dsc00640.picasaweb.jpg" "Crossing the IJ." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9gb47a2z3dbh1146.jpg" "Crossing the IJ." >}}
 
 The IJ's north bank. People hang out and enjoy the sun.
 
-{{< imgfig "https://3.bp.blogspot.com/-WxtIR4SLKkU/VeMp_OTjzcI/AAAAAAAAkP4/ksXHE68hAiY/s1600/dsc00648.picasaweb.jpg" "The audience of SAIL Amsterdam." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/su6zw3rgnq1o2905.jpg" "The audience of SAIL Amsterdam." >}}
 
 Potato chips are a Dutch favourite:
 
-{{< imgfig "https://4.bp.blogspot.com/-4097GVNtoW8/VeMqAqc6hnI/AAAAAAAAkQM/IgmdlF9Yevg/s1600/dsc00653.picasaweb.jpg" "Las Fritas." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vjhoo4mfn9k40839.jpg" "Las Fritas." >}}
 
 Those who don't own a boat can easily rent one, either with or without a skipper. It's especially popular for parties.
 
-{{< imgfig "https://4.bp.blogspot.com/-44tXaB9PIOA/VeMqDOIO_iI/AAAAAAAAkQk/Mc-L9EG7uSk/s1600/dsc00670.picasaweb.jpg" "Party boat." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0nj7udh82bis1466.jpg" "Party boat." >}}
 
 Masts stick out behind every roof on the Java island:
 
-{{< imgfig "https://3.bp.blogspot.com/-T552uZKMlQk/VeMqG-1i81I/AAAAAAAAkRo/-Rd5A2GU71Q/s1600/dsc00687.picasaweb.jpg" "Masts on the Java island." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/bf19n4n1x3u12105.jpg" "Masts on the Java island." >}}
 
 And its streets are sometimes too busy to walk (not to mention to bike):
 
-{{< imgfig "https://4.bp.blogspot.com/-9VgRZLXBhBE/VeMqFziKHCI/AAAAAAAAkRg/8OnF67NGL0s/s1600/dsc00680.picasaweb.jpg" "Java's streets." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/m0ajilwlhzeh1804.jpg" "Java's streets." >}}
 
 From my experience, the best view you get from a 55-metre tall Ferris wheel erected on the west-end of the island:
 
-{{< imgfig "https://3.bp.blogspot.com/-CvsurSyuojk/VeMqI2Ol_nI/AAAAAAAAkSA/6y17YPl5vcY/s1600/dsc00691.picasaweb.jpg" "Java's Ferris wheel." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0jp0ieqaukhw0982.jpg" "Java's Ferris wheel." >}}
 
 The IJ's south bank and the tall ships at the {{< fl "Veemkade" >}}. You can see the two streams of boats running in the opposite directions:
 
-{{< imgfig "https://4.bp.blogspot.com/-dUiVJTpXbEk/VeMqJJdV0hI/AAAAAAAAkSI/pZOKSIfn4dM/s1600/dsc00695.picasaweb.jpg" "Tall ships on the IJ." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/07ordt4ks27p1532.jpg" "Tall ships on the IJ." >}}
 
 The west tip of the Java:
 
-{{< imgfig "https://3.bp.blogspot.com/-Xr9mvGUM-M0/VeMqJdrsl0I/AAAAAAAAkSM/71XFMbmzUiA/s1600/dsc00696.picasaweb.jpg" "West tip of the Java." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ee8yylyg5sii1737.jpg" "West tip of the Java." >}}
 
 The Zr. Ms. De Ruyter frigate mentioned above:
 
-{{< imgfig "https://4.bp.blogspot.com/-8BeHRelD--s/VeMqKvyDTcI/AAAAAAAAkSg/oy6wayMeeNk/s1600/dsc00703.picasaweb.jpg" "The Zr. Ms. De Ruyter frigate." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/u6lp6kq9c3hs1767.jpg" "The Zr. Ms. De Ruyter frigate." >}}
 
 The Dutch {{< wiki "Europa_(ship)" "en" "Europa" >}} (1911), and the Amsterdam Central station afar:
 
-{{< imgfig "https://2.bp.blogspot.com/-4p5g2-3ohcw/VeMqLPjmOVI/AAAAAAAAkWg/w22YncTEvt4/s1600/dsc00707.picasaweb.jpg" "The Europa barque." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/w4v18tp5ielg3665.jpg" "The Europa barque." >}}
 
-{{< imgfig "https://2.bp.blogspot.com/-itk-JZkO-r0/VeMqLbUDPxI/AAAAAAAAkSs/YK1N3xm9cIQ/s1600/dsc00708.picasaweb.jpg" "The Europa barque." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/rxhtqmk2p2fv2791.jpg" "The Europa barque." >}}
 
 On the other side of the narrow strait is moored another navy ship, the patrol vessel {{< wiki "Zr.Ms._Zeeland_(2013)" "nl" "Zr. Ms. Zeeland" >}} (2013):
 
-{{< imgfig "https://2.bp.blogspot.com/-x7RXeiKHfko/VeMqOStOu7I/AAAAAAAAkTc/bgD7LSaj8og/s1600/dsc00717.picasaweb.jpg" "The Zr. Ms. Zeeland." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/t1qj5q9w3e3x0536.jpg" "The Zr. Ms. Zeeland." >}}
 
 The {{< wiki "Zr.Ms._Bruinvis_(1994)" "nl" "Zr. Ms. Bruinvis" >}} submarine (1994):
 
-{{< imgfig "https://2.bp.blogspot.com/-2PjHGEKGnX0/VeMqPEcDt4I/AAAAAAAAkTk/c_kuDrCdQnA/s1600/dsc00719.picasaweb.jpg" "The Zr. Ms. Bruinvis." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/06cvk8nr7qau1765.jpg" "The Zr. Ms. Bruinvis." >}}
 
 Two sections were removed from the {{< fl "Jan Schaeferbrug" >}} bridge to allow the ships to enter. Since it's not usable for traffic, it was turned into a restaurant area:
 
-{{< imgfig "https://2.bp.blogspot.com/-_gVnSr9xsfE/VeMqL0-2-eI/AAAAAAAAkWg/rF52viYW2GQ/s1600/dsc00709.picasaweb.jpg" "The Jan Schaeferbrug." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/gm3a3z9hc8yw2445.jpg" "The Jan Schaeferbrug." >}}
 
-{{< imgfig "https://2.bp.blogspot.com/-z_X9-CoYwks/VeMqR2aXULI/AAAAAAAAkUM/oQLxNV_x9BA/s1600/dsc00733.picasaweb.jpg" "Restaurants on the Jan Schaeferbrug." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/gcccydqpswh51276.jpg" "Restaurants on the Jan Schaeferbrug." >}}
 
 The famous {{< fl "I amsterdam" >}} letters, so beloved by the tourists making selfies, were put on a barge moored at the bridge's middle section:
 
-{{< imgfig "https://3.bp.blogspot.com/-uo24GEw2SU0/VeMqNnzVuJI/AAAAAAAAkTQ/84AL4IfewIk/s1600/dsc00715.picasaweb.jpg" "I amsterdam." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/b3cf7e1ya9au1965.jpg" "I amsterdam." >}}
 
-{{< imgfig "https://4.bp.blogspot.com/-ZI1p-FQgVww/VeMqMLwEXLI/AAAAAAAAkS4/ZDPDH1FHiSo/s1600/dsc00710.picasaweb.jpg" "The IJ's north side." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/huaixm98dcc51834.jpg" "The IJ's north side." >}}
 
-{{< imgfig "https://3.bp.blogspot.com/-DtAIcIS2LfQ/VeMqOGKIoGI/AAAAAAAAkTg/pzwfd8mLkEc/s1600/dsc00716.picasaweb.jpg" "Tall ships at the Veemkade." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/r9jmztnra7uq0695.jpg" "Tall ships at the Veemkade." >}}
 
 The opposite side of the IJ, the {{< fl "Amsterdam-Noord" >}} district:
 
-{{< imgfig "https://3.bp.blogspot.com/-j5XHNRSIi6U/VeMqM7ZL9_I/AAAAAAAAkTE/Z6Ma0phjuJA/s1600/dsc00712.picasaweb.jpg" "Amsterdam-Noord." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/gl0hxbqwl7xx1866.jpg" "Amsterdam-Noord." >}}
 
 Next to the Ferris wheel was a funny attraction, a waterbike:
 
-{{< imgfig "https://1.bp.blogspot.com/-ggkFuuP4rxE/VeMqPwdmd5I/AAAAAAAAkT8/89RXMn0eQaU/s1600/dsc00724.picasaweb.jpg" "Waterbike." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/e46khzwzjttz2180.jpg" "Waterbike." >}}
 
 It's just a normal bike mounted on two pontoons, with a rudder and a propeller attached to its front wheel. The propeller is driven from the rear wheel.
 
 Any event must have a stage, of course:
 
-{{< imgfig "https://3.bp.blogspot.com/-3DBC4MyGMtg/VeMqQ9VTnwI/AAAAAAAAkUE/vWgXCv6_6k8/s1600/dsc00731.picasaweb.jpg" "Stage." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0i8ltjfqguj10847.jpg" "Stage." >}}
 
 The [RTV Noord-Holland](http://www.rtvnh.nl/) radio is broadcasting an interview with a police official live:
 
-{{< imgfig "https://4.bp.blogspot.com/-YiB9gE4kde0/VeMqRdW-MVI/AAAAAAAAkUg/2q1PGz-N8JM/s1600/dsc00732.picasaweb.jpg" "Interview to RTVNH." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/k2v49obnl7po2470.jpg" "Interview to RTVNH." >}}
 
 A parachutist:
 
-{{< imgfig "https://1.bp.blogspot.com/-qTt4CEVjMpQ/VeMp9dVeR4I/AAAAAAAAkPk/ht7ePUoyTnA/s1600/dsc00643.picasaweb.jpg" "Parachutist." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/myu4s3g47ka21152.jpg" "Parachutist." >}}
 
 A few more photos from the event:
 
-{{< imgfig "https://1.bp.blogspot.com/-oW5BL0akSk4/VeMp-yn-z9I/AAAAAAAAkWg/ndEFY8KigeU/s1600/dsc00647.picasaweb.jpg" "SAIL Amsterdam." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/kjxyxx5u4gcp2851.jpg" "SAIL Amsterdam." >}}
 
-{{< imgfig "https://4.bp.blogspot.com/-fdittj210Gs/VeMp_vJeGrI/AAAAAAAAkWg/vzn_JhkvW4s/s1600/dsc00649.picasaweb.jpg" "SAIL Amsterdam." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/z01b7y2vye9c0585.jpg" "SAIL Amsterdam." >}}
 
-{{< imgfig "https://2.bp.blogspot.com/-FD0Iee4FBMQ/VeMqALaIChI/AAAAAAAAkP8/9IIpeN8gWtA/s1600/dsc00650.picasaweb.jpg" "SAIL Amsterdam." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zxaryue2p0ws0762.jpg" "SAIL Amsterdam." >}}
 
-{{< imgfig "https://2.bp.blogspot.com/-sujNPnf8SCI/VeMqAd0MARI/AAAAAAAAkWg/4nKaX81f5pI/s1600/dsc00651.picasaweb.jpg" "SAIL Amsterdam." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ccwhtu3vd9kn3316.jpg" "SAIL Amsterdam." >}}
 
-{{< imgfig "https://2.bp.blogspot.com/-iIqDKO510CQ/VeMqCHGps4I/AAAAAAAAkQg/ZFWoMBrc8vY/s1600/dsc00662.picasaweb.jpg" "SAIL Amsterdam." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0caxp8bokzp52863.jpg" "SAIL Amsterdam." >}}
 
-{{< imgfig "https://3.bp.blogspot.com/-mxHtuuT1WZY/VeMqDoBxPyI/AAAAAAAAkQ0/8QFCEm6S0IM/s1600/dsc00671.picasaweb.jpg" "SAIL Amsterdam." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ffoqty30yspq0215.jpg" "SAIL Amsterdam." >}}
 
 Those boats with brown sails are so-called {{< wiki "Botter" "nl" "botters" >}}, flat-bottom fishing vessels.
 
-{{< imgfig "https://3.bp.blogspot.com/-YgFH2k0KELM/VeMqEVqYVdI/AAAAAAAAkRA/yh7IErNtXSo/s1600/dsc00673.picasaweb.jpg" "SAIL Amsterdam." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/wergf2dc89x92595.jpg" "SAIL Amsterdam." >}}
 
 They use a {{< wiki "Leeboard" "en" "leeboard" >}} instead of a kiel to sail upwind, like on this [BU61](http://www.botterbu61.nl/) (1912):
 
-{{< imgfig "https://1.bp.blogspot.com/-9Wdq-kNVbTc/VeMqEAdtwCI/AAAAAAAAkQs/4j3VCHEFMZA/s1600/dsc00672.picasaweb.jpg" "Botter BU61. SAIL Amsterdam." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hqdhntkje0bt1684.jpg" "Botter BU61. SAIL Amsterdam." >}}
 
-{{< imgfig "https://4.bp.blogspot.com/-4aeljOpXOXA/VeMqE4Nv_-I/AAAAAAAAkRI/yN9mJimIxb4/s1600/dsc00675.picasaweb.jpg" "SAIL Amsterdam." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/nfw3w114xyhz2552.jpg" "SAIL Amsterdam." >}}
 
-{{< imgfig "https://4.bp.blogspot.com/-z5qO5YoErLQ/VeMqIF3HjlI/AAAAAAAAkR8/7L-1m29G8-o/s1600/dsc00690.picasaweb.jpg" "SAIL Amsterdam." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/wdce1hvuneyf3284.jpg" "SAIL Amsterdam." >}}
 
 Some more amusing statistics from the event's {{< wiki "Sail_Amsterdam_2015" "nl" "Wikipedia page" >}}:
 

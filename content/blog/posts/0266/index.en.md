@@ -3,7 +3,7 @@ type: post
 date: "2015-12-29T00:00:00Z"
 title: "On the subject of running"
 tags: ["Amersfoort", "Amsterdam-Rhine Canal", "castle", "De Haar", "De Halve van de Haar", "Houten", "Loop door Houten", "Marathon Amersfoort", "Netherlands", "running", "sport", "upshot"]
-image: "https://4.bp.blogspot.com/-W8h_qff_EP0/Vn5_gyEPg6I/AAAAAAAAk7I/vJEqV3v_lbk/s1600/Houten-5km-loop.picasaweb.png"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/cf6zk8u6aj541247.png"
 places:
     - place0165
     - place0010
@@ -20,23 +20,23 @@ Houten's {{< a "0222" "\"bike avenues\"" >}} are great to run on, also because t
 
 First few months I would run a five-kilometre pentagon route resembling the old {{< wiki "State_quality_mark_of_the_USSR" "en" "Soviet quality mark" >}}. It follows a bike path that goes along an embankment, each side is almost exactly one kilometre.
 
-{{< imgfig "https://4.bp.blogspot.com/-W8h_qff_EP0/Vn5_gyEPg6I/AAAAAAAAk7I/vJEqV3v_lbk/s1600/Houten-5km-loop.picasaweb.png" "Houten 5-kilometre quality mark." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cf6zk8u6aj541247.png" "Houten 5-kilometre quality mark." >}}
 
 The only annoying thing was that it's 300 metres shorter than the required five kilometres, which I always had to "top up".
 
 As time went by, I've switched to running 10 kilometres, and running the above route twice was even more annoying as then it was 600 m too short. I've found another track along the side of the {{< fl "Amsterdam-Rijnkanaal" >}}, which is at the bottom left corner on the picture above. This is how it looked like last spring:
 
-{{< imgfig "https://1.bp.blogspot.com/-EjT8lpuoqHA/VSwY_3Q2E-I/AAAAAAAAhbs/vnaiRpuyZRg/s1600/20150327_184933.picasaweb.jpg" "March. The Amsterdam-Rijnkanaal is on the right." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/h5sspn8x6s722951.jpg" "March. The Amsterdam-Rijnkanaal is on the right." >}}
 
 It was particularly beautiful in the summer. The stretch siding with the channel follows a bike way officially called the *Song bike path* ({{< fl "zangfietspad" >}}). The corresponding sign depicts a singing cyclist and the following text:
 
 > Cyclists are officially allowed to sing here. No more awkward pauses in your song because someone is cycling by!
 
-{{< imgfig "https://4.bp.blogspot.com/-eINLBQ5IX24/Vat7V1XhzNI/AAAAAAAAjsw/p9pyuSNl8JE/s1600/20150607_174848.picasaweb.jpg" "The Amsterdam-Rijnkanaal and the Zangfietspad in June." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/nftj423gssuv2758.jpg" "The Amsterdam-Rijnkanaal and the Zangfietspad in June." >}}
 
 It would all be just perfect had all the poplars growing on the sides not been removed last autumn. As the [local press](http://www.groentje.nl/articles/p-bomenkap-langs-amsterdam-rijnkanaal-en-lekkanaal-p) explained, the trees were ill and weak, so all of them (700 on the east and 925 on the west side) had to be cut and replaced with young ones. So far it looks pretty dismal:
 
-{{< imgfig "https://3.bp.blogspot.com/-KvhJVUykkhs/Vn7LnoSoRPI/AAAAAAAAk94/iEJnMLM69No/s1600/dsc01481.picasaweb.jpg" "The Amsterdam-Rijnkanaal with young trees." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/66yahr0zif9g2936.jpg" "The Amsterdam-Rijnkanaal with young trees." >}}
 
 Of course they should know what they're doing, but it's a pity the shady alley is gone. I'm also impressed by Dutch diligence, as they have laid out a *two kilometre long* stretch with metal sheets to protect the road from the trucks.
 
@@ -58,107 +58,107 @@ A special thing about it, as the name suggests, is that it's held in the park of
 
 Every participant is given an individual number equipped with an RFID chip. This chip is read by special scanners at the start and finish. You can also write your personal data on the back side of the number, to be used in the case of emergency. The yellow stripes denote the quarter marathon distance of **10.5 km**.
 
-{{< imgfig "https://3.bp.blogspot.com/-7WBx_Pj1NWA/VU98tz7mkpI/AAAAAAAAiks/REiX-GBoCuA/s1600/dsc08699.picasaweb.jpg" "Bib number with an RFID chip." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/nep1fb67cbul3588.jpg" "Bib number with an RFID chip." >}}
 
 If we registered up front, we'd also have our names printed on the numbers.
 
 Even though it was the first edition of the event the organisation was fairly good. A very roomy parking:
 
-{{< imgfig "https://2.bp.blogspot.com/-EjIP3tW8yLo/VSwaMFUqnbI/AAAAAAAAhjs/CBpP-W1-iQI/s1600/dsc08541.picasaweb.jpg" "De Haar parking lot." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1pyphmdc02wd1416.jpg" "De Haar parking lot." >}}
 
 Changing rooms:
 
-{{< imgfig "https://4.bp.blogspot.com/-BVAktbdkQDs/VSwZa_NZYgI/AAAAAAAAhe0/bX2_SWjcoFU/s1600/dsc08410.picasaweb.jpg" "Changing room." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/as5ti8rkbmsa2321.jpg" "Changing room." >}}
 
 The marathon has a low profile yet, so it wasn't that crowded. Better known ones, like {{< wiki "Amsterdam_Marathon" "en" "Amsterdam" >}} and {{< wiki "Rotterdam_Marathon" "en" "Rotterdam Marathon" >}}, attract tens of thousands of people. Which is a big challenge from the organisational perspective.
 
-{{< imgfig "https://3.bp.blogspot.com/-Ilm8Hxb5BeI/VSwZcHXW-HI/AAAAAAAAhe8/PT6i-1AjrhM/s1600/dsc08411.picasaweb.jpg" "De Halve van de Haar." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fmav6njdjlx61328.jpg" "De Halve van de Haar." >}}
 
 Number counters:
 
-{{< imgfig "https://1.bp.blogspot.com/-Ti7Rm7lGp9Q/VSwZhaVzIeI/AAAAAAAAhfk/PWGmkygziXk/s1600/dsc08418.picasaweb.jpg" "Bib number counters." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/f3jmxi9pslr40399.jpg" "Bib number counters." >}}
 
 The number is to be fixed on the clothes by its corners using four safety pins.
 
-{{< imgfig "https://2.bp.blogspot.com/-TOkLZ8gACpo/VSwZeEBzHaI/AAAAAAAAhfM/qcKkyOAwSOM/s1600/dsc08413.picasaweb.jpg" "How to wear the number right." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/i4csa73nr4cj2099.jpg" "How to wear the number right." >}}
 
 Merch stands.
 
-{{< imgfig "https://2.bp.blogspot.com/-WIjl_wZgFaU/VSwZjXFDK2I/AAAAAAAAhf0/kB4NU09LrMk/s1600/dsc08422.picasaweb.jpg" "Merchandise." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zdqcvtmoixdf1171.jpg" "Merchandise." >}}
 
 Pedestals for the winners:
 
-{{< imgfig "https://3.bp.blogspot.com/-Q4J9BiGA3Hg/VSwZksaqtnI/AAAAAAAAhf8/knvxz55RVVc/s1600/dsc08423.picasaweb.jpg" "Pedestals." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/13ycmsyyutrc1621.jpg" "Pedestals." >}}
 
 Those who wish to finish in a specific time can follow the so-called "hares" ({{< fl "hazen" >}}) or pacemakers, who run the entire distance at a constant pace. To be better visible, each of them is carrying a balloon, for instance, the green one finishes the quarter marathon in 55 minutes, the white one in an hour, the purple one in 1:10 etc.
 
 Once the run is complete, the balloons are given away to the kids.
 
-{{< imgfig "https://1.bp.blogspot.com/-S1m8GN3Qe0Q/VSwaJKvciGI/AAAAAAAAhjU/mf5OXBgXW-8/s1600/dsc08534.picasaweb.jpg" "Pacemakers' balloons." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/v1ha3fxodkc40791.jpg" "Pacemakers' balloons." >}}
 
 After we've finished our 10.5 km, we went for a walk to see those running the half marathon (**20.1 km**).
 
 The start and the finish:
 
-{{< imgfig "https://4.bp.blogspot.com/-gDL_lNFYzMY/VSwZsI_MRJI/AAAAAAAAhgU/qBUvxgOWboc/s1600/dsc08438.picasaweb.jpg" "The start and the finish." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/wqdidrzsr0921627.jpg" "The start and the finish." >}}
 
 When you run through the gate, a special gun remotely reads the chip in your number. The clock below shows the total run time.
 
-{{< imgfig "https://1.bp.blogspot.com/-wfMu8c_zJIw/VSwaKIHBYBI/AAAAAAAAhjc/s_DY7f5Mq7o/s1600/dsc08535.picasaweb.jpg" "The gate." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/o65xdjo8gfo80398.jpg" "The gate." >}}
 
 As I mentioned above, the track goes around the picturesque castle park, and even crosses the castle yard a couple of times.
 
-{{< imgfig "https://2.bp.blogspot.com/-_b3TIBSnca0/VSwZ4yOOd3I/AAAAAAAAhhc/YvAnF9va4wQ/s1600/dsc08482.picasaweb.jpg" "The park of De Haar Castle." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/gpr5s5r6ppwy1433.jpg" "The park of De Haar Castle." >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-3jqmBUT8yMk/VSwZ58muvFI/AAAAAAAAhhk/EKQxn845ijk/s1600/dsc08489.picasaweb.jpg" "The park of De Haar Castle." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hvimct169o6i0663.jpg" "The park of De Haar Castle." >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-xZpwOR7NWfk/VSwZ1_UUxZI/AAAAAAAAhhU/Be5Ky3vjB1c/s1600/dsc08481.picasaweb.jpg" "De Haar Castle." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/7yqzxy0q7uoc0235.jpg" "De Haar Castle." >}}
 
 Follow the green rabbit!
 
-{{< imgfig "https://1.bp.blogspot.com/-2Cs0el50WSw/VSwZ6xqJvjI/AAAAAAAAhhs/-v0NuJXsZks/s1600/dsc08495.picasaweb.jpg" "Rabbit runner." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/qv2bpmm4tfki0211.jpg" "Rabbit runner." >}}
 
 The garden of the castle is a bit naked in this season, but still beautiful.
 
-{{< imgfig "https://3.bp.blogspot.com/-P68ODPkgmLs/VSwZ82brN1I/AAAAAAAAhh8/29TPs9H-Idg/s1600/dsc08503.picasaweb.jpg" "De Haar Castle." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/js9kiu7cstxs0283.jpg" "De Haar Castle." >}}
 
-{{< imgfig "https://4.bp.blogspot.com/-PSJjO4kox8o/VSwZ9_7lWfI/AAAAAAAAhiE/3fleR9YHvuM/s1600/dsc08505.picasaweb.jpg" "De Haar Castle." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xj8t8p5hpmgx0595.jpg" "De Haar Castle." >}}
 
 Besides the start and the finish, there are a few more intermediate registration points on the track.
 
-{{< imgfig "https://4.bp.blogspot.com/-EWQieBBEWQQ/VSwZzZu7ImI/AAAAAAAAhhE/wqJnpFWh_OU/s1600/dsc08474.picasaweb.jpg" "An intermediate registration point." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ssrpc412xm242222.jpg" "An intermediate registration point." >}}
 
 The timing is performed and published by a separate company, which is quite typical for Holland.
 
 Another company is making photos of each runner. 25 metres before the shooting point you see a request to present a smile (which is not always possible after twenty kilometres):
 
-{{< imgfig "https://2.bp.blogspot.com/-gHANA0zrZwM/VSwaCt920eI/AAAAAAAAhik/0Qx9CtCp5Mw/s1600/dsc08515.picasaweb.jpg" "You're shot in 25 m." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/6lak85qe94xu2551.jpg" "You're shot in 25 m." >}}
 
 Once you cross the beam…
 
-{{< imgfig "https://4.bp.blogspot.com/-zglwrUYRl40/VSwaB3tNKkI/AAAAAAAAhic/4HMlZj_tQAc/s1600/dsc08514.picasaweb.jpg" "Photo camera trigger." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1jz43ymz69a53039.jpg" "Photo camera trigger." >}}
 
 … the cameras automatically register your face for the history:
 
-{{< imgfig "https://2.bp.blogspot.com/-cOUevQJYE9Q/VSwZ06hh7JI/AAAAAAAAhhM/jJr5LE8zGF4/s1600/dsc08478.picasaweb.jpg" "Automatic photo cameras." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1xgwygm71iem0042.jpg" "Automatic photo cameras." >}}
 
 The pictures can be found by your Bib number on the announced website. The price varies from **€12.50** for a single photo to **€45** for the whole package that includes video.
 
 There's a lot of cameras along the track, so you won't be able to cheat.
 
-{{< imgfig "https://2.bp.blogspot.com/-CucQJNwRK8g/VSwaE5gBuKI/AAAAAAAAhi0/xNUwa_rYNng/s1600/dsc08517.picasaweb.jpg" "The old and the new." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/f85a2qfbam0x0565.jpg" "The old and the new." >}}
 
-{{< imgfig "https://4.bp.blogspot.com/-lx-4AMBvmmY/VSwZwmSIRYI/AAAAAAAAhg0/R8buF_MWdKQ/s1600/dsc08461.picasaweb.jpg" "Cameras." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/v82w907nzo8r1986.jpg" "Cameras." >}}
 
 There is a big red gate that confusingly looks like a finish, but is some half kilometre before the finish line.
 
 The lady in the pink shirt on the photo below is {{< fl "Sarah Watson" >}}, a granddaughter of Baron {{< wiki "Van_Zuylen_van_Nievelt" "en" "Van Zuylen van Nijevelt" >}}, a former owner of the De Haar Castle. It was [her idea](http://www.haarzuilens.net/) to organise a marathon on the premises of the castle.
 
-{{< imgfig "https://4.bp.blogspot.com/-muaxuM3UBw0/VSwaG3TOzkI/AAAAAAAAhjE/Fwq-0WU35bU/s1600/dsc08522.picasaweb.jpg" "Sarah Watson is on the right." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/68zbnk0biw9t2725.jpg" "Sarah Watson is on the right." >}}
 
 The finish line:
 
-{{< imgfig "https://1.bp.blogspot.com/-PQCJnCA05BY/VSwaH5xhgxI/AAAAAAAAhjM/Oa0zeG3f5PE/s1600/dsc08533.picasaweb.jpg" "Gimme five!" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/8f5bx6ijaza03434.jpg" "Gimme five!" >}}
 
 My [result](http://www.prorun.nl/uitslagen/de-halve-van-haar/) (number **3160**) was **53:26**, which is a bit better than I expected. My target was to follow the pacemaker finishing in one hour, but I've eventually overtaken him and the one before him (finishing in 55 minutes). So my place was **289** (out of 1325) overall, and **234** (out of 662) among men.
 
@@ -168,17 +168,17 @@ My second ten (and this time exactly 10 km) I've run in my home town of Houten o
 
 Thanks to its very small scale, the entry price was only 4 euros (as opposed to usual €10-20 for 10 km).
 
-{{< imgfig "https://4.bp.blogspot.com/-cQwqOeu40W0/Vat7W-5lwKI/AAAAAAAAjtQ/yQDvfMcNjBQ/s1600/20150612_193229.picasaweb.jpg" "Number 669 is ready to take off." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/mzoby75xbsca3466.jpg" "Number 669 is ready to take off." >}}
 
 It was a scorcher with the temperature of [27 °C](http://www.meteodelfzijl.nl/blog/?p=2608) (which feels like 35 °C in our humidity). Luckily, the run started as late as 8 PM, when the sun was already low.
 
 In total there were **511** kids and **871** adults (out of which **555** ran 5 km, **316** ran 10 km). For Houten it is quite a bit.
 
-{{< imgfig "https://4.bp.blogspot.com/-6TjhbyaAwjk/Vat7X8CFaII/AAAAAAAAjt8/6LlotAWGPvk/s1600/20150612_195340.picasaweb.jpg" "The streets are crowded." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/4b9bofsx05ll2020.jpg" "The streets are crowded." >}}
 
 Waiting for the signal:
 
-{{< imgfig "https://2.bp.blogspot.com/-AbRTLaTrbhg/Vat7YD6XmrI/AAAAAAAAkBM/HOT3-RCtnh4/s1600/20150612_195348.picasaweb.jpg" "At the start line." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/7q8z33f1e7xy3173.jpg" "At the start line." >}}
 
 I liked the local atmosphere a lot. Loads of people stood along the road to cheer up the runners. Many took their garden hoses out to sprinkle those passing by, to help with the heat. Kids were offering us water. And in several places there were DJs playing music.
 
@@ -190,41 +190,41 @@ I've also participated in [Marathon Amersfoort](http://www.marathonamersfoort.nl
 
 The weather was sunny and pretty warm.
 
-{{< imgfig "https://1.bp.blogspot.com/-sgEn9xnx5fs/Vat7giEWeXI/AAAAAAAAjvc/noz0jMaQ6AY/s1600/dsc09580.picasaweb.jpg" "Bridge over the Eem." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/q4fnqg836u8f3649.jpg" "Bridge over the Eem." >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-XbX4cNOSUy8/Vat7hLeonjI/AAAAAAAAjvg/ER1HPAI-Hmw/s1600/dsc09581.picasaweb.jpg" "The Eem river." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/brapa86z5x5u2586.jpg" "The Eem river." >}}
 
 This event is clearly more popular than the other two.
 
-{{< imgfig "https://1.bp.blogspot.com/-eXXPiQy6l1Q/Vat7hqCLE1I/AAAAAAAAjv0/anUTt021ZVw/s1600/dsc09586.picasaweb.jpg" "Marathon Amersfoort." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/mkuiu0d9whkm2371.jpg" "Marathon Amersfoort." >}}
 
 A huge crowd at the start: **1219** half marathon and **121** marathon runners.
 
-{{< imgfig "https://2.bp.blogspot.com/-92ktzHSFfxs/Vat7iw-r96I/AAAAAAAAkBM/tvfEdWS2Z6M/s1600/dsc09594.picasaweb.jpg" "The start of the marathon and the half marathon." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1wl1nbihmi1p2902.jpg" "The start of the marathon and the half marathon." >}}
 
 But not everyone felt like running on such a hot day.
 
-{{< imgfig "https://3.bp.blogspot.com/-hn_JO1YPv64/Vat7iaxbnII/AAAAAAAAjv8/kwnj0Z4gXRQ/s1600/dsc09589.picasaweb.jpg" "What marathon?" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/v2uax16pwgjr0405.jpg" "What marathon?" >}}
 
 The finish:
 
-{{< imgfig "https://4.bp.blogspot.com/-Fw3BxLRP6pk/Vat7jelTvzI/AAAAAAAAjwY/rO2qtGPZa9o/s1600/dsc09596.picasaweb.jpg" "The finish of the marathon and the half marathon." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ufxvfx9jlt3t2585.jpg" "The finish of the marathon and the half marathon." >}}
 
 It's amazing how many elderly people could run 21 in this heat.
 
-{{< imgfig "https://3.bp.blogspot.com/-Pxy0l-JiXew/Vat7jw3CRzI/AAAAAAAAkBM/NE-8ybkHr80/s1600/dsc09599.picasaweb.jpg" "Marathon Amersfoort." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/nrz3jl6x1sh00243.jpg" "Marathon Amersfoort." >}}
 
 Right before the finish line there was a huge screen anyone could send their photos and videos to via WhatsApp.
 
-{{< imgfig "https://1.bp.blogspot.com/-tvmaVBplDuE/Vat7kMDTPiI/AAAAAAAAjws/MJO-PQGb-ls/s1600/dsc09601.picasaweb.jpg" "A WhatsApp-controlled screen." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/jd6prtvcxh6l0092.jpg" "A WhatsApp-controlled screen." >}}
 
 It also showed live footage from the marathon:
 
-{{< imgfig "https://1.bp.blogspot.com/-LaOlk-oN7GY/Vat7kIb4HBI/AAAAAAAAjwg/xFYp-Uue4rI/s1600/dsc09603.picasaweb.jpg" "Video from the track." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/gkbx6qsz4cew1053.jpg" "Video from the track." >}}
 
 Those who finished are giving pep-talk to the finishing runners:
 
-{{< imgfig "https://3.bp.blogspot.com/-dzlZlenzOtk/Vat7krpyjNI/AAAAAAAAkBM/IYX07w_u2p4/s1600/dsc09604.picasaweb.jpg" "Marathon Amersfoort: finish line." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xz345r88gyxe3556.jpg" "Marathon Amersfoort: finish line." >}}
 
 I've also recorded a {{< a "/videoevents/vevt0033" "few videos" >}} on that event.
 

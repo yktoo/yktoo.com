@@ -13,7 +13,7 @@ tags:
     - НДС
     - GDPR
     - законодательство
-image: "https://1.bp.blogspot.com/-g4m_ZWdPzn4/XW4hr5Hrv_I/AAAAAAAAxCg/VHV1GKNxcq8yCJnCGZNKKH5SJrLdwyHvQCKgBGAs/s1600/bsn-paspoort-voorkant.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/tqs476ottiit1062.jpg"
 series: "Доля предпринимательская"
 ---
 
@@ -37,7 +37,7 @@ series: "Доля предпринимательская"
 
 Проблема в том, что {{< wiki "Burgerservicenummer" "nl" "BSN" >}}-номер — это уникальный идентификатор, который есть у любого гражданина, зарегистрированного в национальной базе данных {{< wiki "Basisregistratie_Personen" "nl" "BRP" >}}; это один из самых критичных видов персональных данных, которые столь неистово защищает приснопамятный {{< wiki "Общий_регламент_по_защите_данных" "ru" "GDPR" >}}. Найти его можно, например, в паспорте или водительских правах:
 
-{{< imgfig "https://1.bp.blogspot.com/-g4m_ZWdPzn4/XW4hr5Hrv_I/AAAAAAAAxCg/VHV1GKNxcq8yCJnCGZNKKH5SJrLdwyHvQCKgBGAs/s1600/bsn-paspoort-voorkant.jpg" "Образец нидерландского паспорта — BSN-номер обведён. Картинка rijksoverheid.nl." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/tqs476ottiit1062.jpg" "Образец нидерландского паспорта — BSN-номер обведён. Картинка rijksoverheid.nl." >}}
 
 Когда мы не так давно реализовали в Министерстве инфраструктуры проект для стандартизованной платформы, позволяющей логиниться с {{< wiki "DigiD" "en" >}} (национальным цифровым идентификатором для различных онлайн-сервисов, что-то наподобие российских «Госуслуг»), нам пришлось изобретать целый механизм, скрывающий {{< fl "BSN" >}} в адресе страницы, хотя виден он был лишь самому пользователю.
 

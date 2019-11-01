@@ -3,7 +3,7 @@ type: post
 date: "2012-08-03T00:00:00Z"
 title: "Понаехало тут"
 tags: ["Наполеон", "Нидерланды", "СМИ"]
-image: "https://4.bp.blogspot.com/-F1LzuP8Zs5E/UBr26WRxfHI/AAAAAAAAVLU/5zWNQMtf3dQ/s1600/20120802_234631.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/vkislm2ybd250448.jpg"
 aliases:
     - /ru/blog/post/159
 ---
@@ -24,4 +24,4 @@ aliases:
 
 Ну так вот, возвращаясь к «Nederland is vol»: как может быть иначе, если список родившихся в несколько раз больше списка почивших?
 
-{{< imgfig "https://4.bp.blogspot.com/-F1LzuP8Zs5E/UBr26WRxfHI/AAAAAAAAVLU/5zWNQMtf3dQ/s1600/20120802_234631.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vkislm2ybd250448.jpg" >}}

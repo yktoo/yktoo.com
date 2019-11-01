@@ -3,7 +3,7 @@ type: post
 date: "2011-11-15T00:00:00Z"
 title: "Джаз: Martijn van Iterson  Beets Brothers"
 tags: ["Observant", "Амерсфорт", "джаз", "музыка", "Нидерланды"]
-image: "https://1.bp.blogspot.com/-6Asl02Jrn5s/TsLISmej1BI/AAAAAAAAKWk/3KjPmvnXumM/s1600/dsc07258.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/ui2i68d3opl73136.jpg"
 places:
     - place0008
 aliases:
@@ -12,7 +12,7 @@ aliases:
 
 9 ноября 2011 в нашем «городском кафе „Блюститель‟» ([Stadscafé de Observant](http://www.observant.nl/)) состоялся концерт джазового гитариста Мартайна ван Итерсона ([Martijn van Iterson](http://www.martijnvaniterson.com/)) и группы «Бейтс Бразерс» ([The Beets Brothers](http://www.beetsbrothers.nl/)).
 
-{{< imgfig "https://1.bp.blogspot.com/-6Asl02Jrn5s/TsLISmej1BI/AAAAAAAAKWk/3KjPmvnXumM/s1600/dsc07258.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ui2i68d3opl73136.jpg" >}}
 
 <!--more-->
 
@@ -22,7 +22,7 @@ aliases:
 
 Уж и не знаю, то ли это клиническое высокомерие, то ли просто человек неконтактен и замкнут. А во время выступления, пока в его партии была пауза, он вдруг, похоже, хохмы ради, начал снимать публику на камеру своего мобильника:
 
-{{< imgfig "https://3.bp.blogspot.com/-zyr3ro3U4UA/TsLIRGVhudI/AAAAAAAAKWU/Vk_0lE4XdW0/s1600/dsc07268.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1ej2ic1l0p1e0163.jpg" >}}
 
 Так или иначе, музыканты были на высоте, особенно неистов был пианист. На видео ниже можно наблюдать его неподдельную экспрессию; после его соло стоявший рядом со мной голландец не выдержал и ткнул меня в бок: «Это просто праздник какой-то, скажи?!» (на видео это тоже слышно).
 

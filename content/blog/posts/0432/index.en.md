@@ -11,7 +11,7 @@ tags:
     - zzp
     - NS
     - NS Business Card
-image: "https://1.bp.blogspot.com/-HXerb-yhlf0/Xal8OPDNrQI/AAAAAAAAyyU/HZMFgTAx6rIU9pW-iLxXIwAMHX-U493dgCKgBGAsYHg/s1600/2019-10-18.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/h85x2fqqgel61721.jpg"
 imageCredit: "Photo by NS."
 series: My entrepreneurship
 glossary: ns-business-card
@@ -78,7 +78,7 @@ If you regularly travel with the train, it's likely you'll be better of buying o
 |{{< fl "OV Vrij" >}}      |Free trips in all kinds of public transport (train, bus, tram, metro) nationwide.                                            |**€ 370**           |
 {{< /table >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-c0xckGyLK68/XamPmrYcOyI/AAAAAAAAyzM/EhCUfjZqKAIPZhXitUp28GIFvQiEPkVewCKgBGAsYHg/s1600/2019-10-18.png" "Choice of subscriptions for NS Business Card." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/wpyw59bv1yu60150.png" "Choice of subscriptions for NS Business Card." >}}
 
 ### The Traject Vrij subscription
 
@@ -88,7 +88,7 @@ The only exception are long-distance routes where it might be cheaper to purchas
 
 Here's a sample calculation for the route Houten—Amsterdam Central Station:
 
-{{< imgfig "https://1.bp.blogspot.com/-vwUaTAWtIHE/XamQut4n_XI/AAAAAAAAyzw/9KHHjuMoFM4AR0ExBQUkXvDRpBx62bsdQCKgBGAsYHg/s1600/2019-10-18.png" "Houten—Amsterdam route subscription." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cmfpu8zxom7r1384.png" "Houten—Amsterdam route subscription." >}}
 
 As you see on the screenshot above, it costs **€ 221** per month. Exactly the same subscription for a private person will cost **€ 301**, which is quite a difference.
 

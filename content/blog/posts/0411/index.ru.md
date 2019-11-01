@@ -8,7 +8,7 @@ tags:
     - гаджеты
     - Xiaomi
     - AliExpress
-image: "https://1.bp.blogspot.com/-B3rvs9yuc3E/XZdKZi1YuQI/AAAAAAAAyY0/Qqdi9OSgNLcySMV7GgWl3may6mlxkRaDgCKgBGAsYHg/s1600/2019-10-04.webp"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/0dia9k0gfhbs1940.webp"
 ---
 
 Как и обещал, сделал обзор моего «{{< a "0384" "надувного сокровища" >}}» — или, в просторечии, компрессора {{< a "http://ali.pub/3unhyy" "Xiaomi Mijia Electric Pump" >}}, работающего от аккумулятора.
@@ -38,7 +38,7 @@ image: "https://1.bp.blogspot.com/-B3rvs9yuc3E/XZdKZi1YuQI/AAAAAAAAyY0/Qqdi9OSgN
 
 Традиционно аскетичная коробка из белого картона, слегка пострадавшая в процессе доставки:
 
-{{< imgfig "https://1.bp.blogspot.com/-ri38OczOifg/XYKFJQMF_WI/AAAAAAAAxms/2O9O6Z2zRNgXGPBR0ceoA59jnSsTMQ_PwCKgBGAsYHg/s1600/20190918_181044.w.jpg" "Компрессор в упаковке." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/8glbicne1nyh2849.jpg" "Компрессор в упаковке." >}}
 
 К счастью, сам компрессор был в полном порядке.
 
@@ -51,13 +51,13 @@ image: "https://1.bp.blogspot.com/-B3rvs9yuc3E/XZdKZi1YuQI/AAAAAAAAyY0/Qqdi9OSgN
 * Тканевый чехол для хранения, с отдельным кармашком для аксессуаров
 * Инструкция на китайском (нет на фото)
 
-{{< imgfig "https://1.bp.blogspot.com/-MS4j7Wrto5Y/XZdKZowcxVI/AAAAAAAAyY0/3pzRDVDAG_EnU77g5_rlXhqvFFVyv1TLACKgBGAsYHg/s1600/2019-10-04.webp" "Комплект поставки компрессора." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/243bztuyv3h52136.webp" "Комплект поставки компрессора." >}}
 
 ## Органы управления
 
 Любой, у кого когда-либо был {{< wiki "iPod Classic" >}}, глядя на этот девайс, испытывает дежавю:
 
-{{< imgfig "https://1.bp.blogspot.com/-8rnFB4QH818/XZdKZh-vI0I/AAAAAAAAyY0/a6xPIXyyoVAsdYh2ztkerEJkCbKH2JIOwCKgBGAsYHg/s1600/2019-10-04.webp" "Компрессор Xiaomi Mijia." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ylguy3luey6i3652.webp" "Компрессор Xiaomi Mijia." >}}
 
 Впрочем, по ошибочно приписываемому его создателю выражению, *«хорошие художники копируют, великие воруют»*.
 
@@ -70,11 +70,11 @@ image: "https://1.bp.blogspot.com/-B3rvs9yuc3E/XZdKZi1YuQI/AAAAAAAAyY0/Qqdi9OSgN
 
 На верхней грани корпуса находится патрубок, в свободное от работы время вставляющийся другим концом в отверстие, отмеченное красным кольцом, а также светодиод фонарика белого цвета.
 
-{{< imgfig "https://1.bp.blogspot.com/-0NL20aXVnVw/XZdKZtUYybI/AAAAAAAAyY0/e49DY5sMYFoA5yaXeDgCAYymw8629UMtgCKgBGAsYHg/s1600/2019-10-04.webp" "Компрессор — вид сверху." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xl8g3i4fvrwv2881.webp" "Компрессор — вид сверху." >}}
 
 Снизу расположен разъём {{< fl "Micro USB" >}} для зарядки, прикрытый резиновой заглушкой. Рядом с ним на фаске ещё один светодиод, сигнализирующий о включении питания и о ходе зарядки.
 
-{{< imgfig "https://1.bp.blogspot.com/-EmJJ9Vvup4w/XZdKZg1FDCI/AAAAAAAAyY0/wuq4NRGQg5wyIwUOy3E6M9CqBUF3K9CjQCKgBGAsYHg/s1600/2019-10-04.webp" "Вид снизу — зарядный порт и светодиод." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1p4lxlpxhtvv0919.webp" "Вид снизу — зарядный порт и светодиод." >}}
 
 Это всё, что есть.
 
@@ -84,7 +84,7 @@ image: "https://1.bp.blogspot.com/-B3rvs9yuc3E/XZdKZi1YuQI/AAAAAAAAyY0/Qqdi9OSgN
 
 Так, например, здесь отсутствует кнопка включения. Компрессор включается автоматически, когда вынимаешь патрубок из отверстия держателя, отмеченного красным кольцом. Выключается, разумеется, тоже автоматически, если вставить её обратно:
 
-{{< imgfig "https://1.bp.blogspot.com/-X-dZrv2iHp0/XZdKZn_UlBI/AAAAAAAAyY0/Q7glPocYId4oA02K6WxhbkR7yN1kL48GACKgBGAsYHg/s1600/2019-10-04.webp" "Автовключение компрессора при вынимании трубки." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/7s9pzp2ceoq60821.webp" "Автовключение компрессора при вынимании трубки." >}}
 
 В остальном органы управления тоже совершенно интуитивны.
 
@@ -100,25 +100,25 @@ image: "https://1.bp.blogspot.com/-B3rvs9yuc3E/XZdKZi1YuQI/AAAAAAAAyY0/Qqdi9OSgN
 
 Диапазон: от **30** до **65** {{< fl "psi" >}}.
 
-{{< imgfig "https://1.bp.blogspot.com/-B3rvs9yuc3E/XZdKZi1YuQI/AAAAAAAAyY0/Qqdi9OSgNLcySMV7GgWl3may6mlxkRaDgCKgBGAsYHg/s1600/2019-10-04.webp" "Режим «велосипед»." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0dia9k0gfhbs1940.webp" "Режим «велосипед»." >}}
 
 ### Режим «скутер»
 
 Диапазон: от **1,8** до **3** бар.
 
-{{< imgfig "https://1.bp.blogspot.com/-JdxYzqpc5JY/XZdKZrRO_6I/AAAAAAAAyY0/NACu4YY-j9MfK5Q_iiAs57VbAWkCevY6QCKgBGAsYHg/s1600/2019-10-04.webp" "Режим «скутер»." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9s1tvc5vlduh2607.webp" "Режим «скутер»." >}}
 
 ### Режим «автомобиль»
 
 Диапазон: от **1,8** до **3,5** бар.
 
-{{< imgfig "https://1.bp.blogspot.com/-FmhgBS7P0E4/XZdKZg9j0pI/AAAAAAAAyY0/s4tAi0gLiRAJ-AAFa3VHAJ0BtjEl8d0BgCKgBGAsYHg/s1600/2019-10-04.webp" "Режим «автомобиль»." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/m9w7yaeek14q0543.webp" "Режим «автомобиль»." >}}
 
 ### Режим «мяч»
 
 Диапазон: от **4** до **16** {{< fl "psi" >}}.
 
-{{< imgfig "https://1.bp.blogspot.com/-1MD4HcM2A4Q/XZdKZoZ0eAI/AAAAAAAAyY0/JaL774fPUnUlY2a1C1-keiHlY0TKhznnwCKgBGAsYHg/s1600/2019-10-04.webp" "Режим «мяч»." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/5iqjtl1ruq8f0662.webp" "Режим «мяч»." >}}
 
 ### Запуск и остановка компрессора
 
@@ -128,7 +128,7 @@ image: "https://1.bp.blogspot.com/-B3rvs9yuc3E/XZdKZi1YuQI/AAAAAAAAyY0/Qqdi9OSgN
 
 Штатно установленная на патрубке муфта подходит для автомобильного ниппеля; для велосипеда можно прикрутить к нему прилагаемый переходник. С этим же переходником его можно и хранить, если он постоянно используется — он нормально вставляется в отверстие.
 
-{{< imgfig "https://1.bp.blogspot.com/-LLhtuGsE5j8/XZdKZmV-wqI/AAAAAAAAyY0/0gALGCpLrFkrNfEyXefEc8l-DONNjmluACKgBGAsYHg/s1600/2019-10-04.webp" "Переходник для велосипедного ниппеля." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/jvh3dpiao5tp3288.webp" "Переходник для велосипедного ниппеля." >}}
 
 ## Видеодемонстрация
 

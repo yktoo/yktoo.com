@@ -3,7 +3,7 @@ type: post
 date: "2016-11-27T00:00:00Z"
 title: "The smartest traffic-light"
 tags: ["Houten", "Internet", "mass media", "Netherlands", "news", "traffic-lights", "transport"]
-image: "https://1.bp.blogspot.com/-fAmNTgh_Xvs/WDrCLjmjWBI/AAAAAAAAoVc/Fm3jK0UypYkNZxz_DOEYZJzdX81ACWOwwCPcB/s1600/slim-verkeerslicht-houten.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/kmiiltyoz7zp2777.jpg"
 places:
     - place0245
 aliases:
@@ -14,7 +14,7 @@ The present trend of dubbing everything "smart" based on mere presence of Wi-Fi,
 
 <!--more-->
 
-{{< imgfig "https://1.bp.blogspot.com/-fAmNTgh_Xvs/WDrCLjmjWBI/AAAAAAAAoVc/Fm3jK0UypYkNZxz_DOEYZJzdX81ACWOwwCPcB/s1600/slim-verkeerslicht-houten.picasaweb.jpg" "The crossing with the smart traffic-light. Photo from Google Street View." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/kmiiltyoz7zp2777.jpg" "The crossing with the smart traffic-light. Photo from Google Street View." >}}
 
 You wonder what's so smart about it?
 
@@ -22,7 +22,7 @@ It's worth mentioning that almost all traffic-lights in the Netherlands are alre
 
 Back to our intellectual traffic-light, the driver will reportedly be able to see the number of seconds until green light using a *special mobile application*. This super-function is only available in the [iOS version](https://itunes.apple.com/nl/app/verkeerplaza-verkeersinformatie/id510339308) of the app, which I ain't able to test because I don't have any iOS devices in house. But according to the [developers](http://www.infoplaza.nl/archives/2420/), it looks as follows:
 
-{{< imgfig "https://3.bp.blogspot.com/-egBDZPkVLgw/WDrFK8SbQMI/AAAAAAAAoVw/aePL_T1cvLo4mHVUq2YBMWP43l4VInrFwCPcB/s1600/verkeersplaza-app.picasaweb.jpg" "How it's supposed to look like. Image from www.infoplaza.nl." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/k9ut6arelfi51013.jpg" "How it's supposed to look like. Image from www.infoplaza.nl." >}}
 
 The article doesn't provide any details about the technologies used, but claims that *"Verkeerplaza is the very first mobile app to connect to the smart traffic-light."* It is unclear though whether it connects to the light directly (via {{< fl "Wi-Fi" >}} or {{< fl "Bluetooth" >}}) or simply gets updates from the Internet (which sounds more plausible).
 

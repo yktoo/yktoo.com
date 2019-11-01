@@ -3,7 +3,7 @@ type: post
 date: "2013-05-17T00:00:00Z"
 title: "The Last Queen's Day"
 tags: ["Amsterdam", "festivities", "Netherlands", "orange fever", "Queen's Day"]
-image: "https://1.bp.blogspot.com/-9iGdLHzZkTc/UZVDNXWR8VI/AAAAAAAAX84/InSw7POOSBE/s1600/dsc08349.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/5st6z2kp71p91149.jpg"
 places:
     - place0012
     - place0013
@@ -13,7 +13,7 @@ aliases:
 
 Yet again, precisely on time, Holland has turned orange on the 30<sup>th</sup> of April. Queen's day is there, but this time is the last in the modern history of the country.
 
-{{< imgfig "https://1.bp.blogspot.com/-9iGdLHzZkTc/UZVDNXWR8VI/AAAAAAAAX84/InSw7POOSBE/s1600/dsc08349.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/5st6z2kp71p91149.jpg" >}}
 
 <!--more-->
 
@@ -37,112 +37,112 @@ The idea of turning up to the Dam Square before ten in the morning was considere
 
 All in all, we've decided to make no haste and arrived at the Museum Square ({{< fl "Museumplein" >}}) in Amsterdam around two o'clock in the afternoon. The inauguration ceremony in the New Church ({{< fl "Nieuwe Kerk" >}}) has just began.
 
-{{< imgfig "https://4.bp.blogspot.com/-60iYs-N73gg/UZVDPmE7YDI/AAAAAAAAX9A/Z3e8HZVkbXE/s1600/dsc08350.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/t7hg87mk067l2694.jpg" >}}
 
 The weather wasn't as favourable as it was {{< a "0153" "a year ago" "ru" >}}. It was cloudy and windy most of the time, so there was not so much orange except hats.
 
 There were several huge screens mounted at the square, showing what was happening in the church. The public watched standing and sitting on the lawn.
 
-{{< imgfig "https://4.bp.blogspot.com/-FLlE3uxJVGg/UZVDR42XBTI/AAAAAAAAX9I/SSK1AEkg1nc/s1600/dsc08354.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hmewdp4k37w12501.jpg" >}}
 
 Many faces are traditionally painted in the Dutch flag colours.
 
-{{< imgfig "https://2.bp.blogspot.com/-s6aqH24Q6xI/UZVDUMd86BI/AAAAAAAAX9Q/DSMm8yDnz9s/s1600/dsc08363.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/onrglvagwwsg3620.jpg" >}}
 
-{{< imgfig "https://3.bp.blogspot.com/-pD-OmwR1DLc/UZVDzh7JaXI/AAAAAAAAX-w/HbEvSL3TlAA/s1600/dsc08400.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/z4u1l07s21k00299.jpg" >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-JwEa0AadSo4/UZVDnnifyUI/AAAAAAAAX-Q/ZfCVv_AvPQM/s1600/dsc08385.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/l5mxbdjja9xo1655.jpg" >}}
 
 Willem-Alexander is taking the oath:
 
-{{< imgfig "https://3.bp.blogspot.com/-6qQor9_FAjs/UZVDWSKtyGI/AAAAAAAAX9Y/CTKvXJESS1w/s1600/dsc08364.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/l2p00w1tsoad3256.jpg" >}}
 
 Among the Dutch, there were quite a few foreigners who felt engaged. Just like us.
 
-{{< imgfig "https://1.bp.blogspot.com/-dwK3nqOC0Yc/UZVDZlQDF5I/AAAAAAAAX9g/AvUKsygm5rc/s1600/dsc08370.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/lz1wvijbd3971250.jpg" >}}
 
 The monogram of Willem-Alexander, made up by the letters WA, can be seen everywhere. Here it is above the screen:
 
-{{< imgfig "https://3.bp.blogspot.com/-4PBkgDZyD8w/UZVDcN5e4zI/AAAAAAAAX9o/XgfLu9lR5eA/s1600/dsc08371.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/sc5a63gossj71313.jpg" >}}
 
 It's also displayed elsewhere in Amsterdam. For example on these billboard pointing out the right direction for the public:
 
-{{< imgfig "https://2.bp.blogspot.com/-vaVMAv1t4-U/UZVEKNN8-MI/AAAAAAAAYAA/a6ojIs_L8R8/s1600/dsc08423.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/k04bq8wpkg6q0727.jpg" >}}
 
 Some people are pretty ingenious about orange in their outfits:
 
-{{< imgfig "https://1.bp.blogspot.com/-xBu81FgNbuA/UZVDelqsAOI/AAAAAAAAX9w/jqj2XSAbecM/s1600/dsc08372.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pcj8wf0mszap1138.jpg" >}}
 
 The screen is showing the new king and queen:
 
-{{< imgfig "https://3.bp.blogspot.com/-Cj60WY8lA4s/UZVDjAK3aEI/AAAAAAAAX-A/tWFdafCNPeU/s1600/dsc08374.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/3f2mcegigr353353.jpg" >}}
 
 Máxima is wearing blue, as three their daughters do. Those latter are patiently taking the duties caused by their origin.
 
-{{< imgfig "https://3.bp.blogspot.com/-PMFenIuyTX0/UZVDqNpR8HI/AAAAAAAAX-Y/qUxPLX3YcSE/s1600/dsc08387.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zy5g0ru43syj0058.jpg" >}}
 
 The atmosphere is very friendly, and the people are cheerful. The Dutch royal house is as popular as ever.
 
-{{< imgfig "https://4.bp.blogspot.com/-X3whP1mNxOc/UZVDtk7O7gI/AAAAAAAAX-g/5f3YMFNDCq4/s1600/dsc08392.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/94qyz0wsg3r83541.jpg" >}}
 
 They are congratulated everywhere. This is Amsterdam Concert Hall:
 
-{{< imgfig "https://4.bp.blogspot.com/-xy07I-f7_Bw/UZVD4FeJ60I/AAAAAAAAX_A/dfr5W-2mxoQ/s1600/dsc08402.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/bdifni3q8d0s2781.jpg" >}}
 
 The ceremony finished about three o'clock. People began to leave.
 
-{{< imgfig "https://1.bp.blogspot.com/-z5S7XdMHxu4/UZVDlcLz-mI/AAAAAAAAX-I/l_pldBDumrM/s1600/dsc08383.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/f4kblpkdi2r00860.jpg" >}}
 
 We also headed for the Dam Square, disregarding the warning claiming there's no room left and advicing us to go to WTC instead:
 
-{{< imgfig "https://2.bp.blogspot.com/-DM1XRYhfv3Y/UZVD6dnvfLI/AAAAAAAAX_I/Q3ylNK_FsVI/s1600/dsc08403.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9xp887wmmowx3362.jpg" >}}
 
 Free markets are everywhere in the city on this day:
 
-{{< imgfig "https://4.bp.blogspot.com/-1_yqFt8sQ-k/UZVDLIx0q1I/AAAAAAAAX8w/WL7U90aHtTc/s1600/dsc08344.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hepwh47qck5p0716.jpg" >}}
 
-{{< imgfig "https://2.bp.blogspot.com/-dQsqm-3OXiE/UZVD9PAUP0I/AAAAAAAAX_Q/DPtT08rPYjo/s1600/dsc08405.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/otdmtpnrsu4e1318.jpg" >}}
 
 Three police helicopters hang high in the sky, monitoring public safety.
 
-{{< imgfig "https://1.bp.blogspot.com/-5wuX-iBkagc/UZVEDlF6npI/AAAAAAAAX_o/ng-FBMnu-TQ/s1600/dsc08413.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ducywysesjri0808.jpg" >}}
 
 Every canal in Amsterdam is swarming with boats, full of speakers and ~~drunk~~ youngsters, who greet the new king.
 
-{{< imgfig "https://1.bp.blogspot.com/-ZxHVQXTufkI/UZVEBuiW7qI/AAAAAAAAX_g/AKtK3pzAiZQ/s1600/dsc08407.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/80jneavq65m93479.jpg" >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-EludvWNaHis/UZVEF0WBerI/AAAAAAAAX_w/Xbw3QFUvquc/s1600/dsc08419.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hymuqsmmp31d2803.jpg" >}}
 
-{{< imgfig "https://4.bp.blogspot.com/-6KwWoUo_G-4/UZVEPPqZMII/AAAAAAAAYAQ/Y0dftlLXpHI/s1600/dsc08426.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/oprkds9v0sn33283.jpg" >}}
 
 It's incredibly crowded in the streets. We had to detour several times because it was nearly impossible to squeeze our way through the crowd.
 
-{{< imgfig "https://2.bp.blogspot.com/-jLaORT0eLz0/UZVERiN7rlI/AAAAAAAAYAY/bKj2CXYpCNE/s1600/dsc08428.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pnsp2rox787u1947.jpg" >}}
 
 As an addition to floating speakers, every street was producing some noise. Here are banners of War Child and speakers below them.
 
-{{< imgfig "https://4.bp.blogspot.com/-_V1FJ5giT00/UZVEMcu5UFI/AAAAAAAAYAI/VdkZajxS1fo/s1600/dsc08424.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/nf7gxt51djfm0579.jpg" >}}
 
 ## Dam Square {#dam-square}
 
 It wasn't that busy at the Dam Square (never trust the mass-media). Here's the Royal Palace, which has been the main building of this country just a few hours ago:
 
-{{< imgfig "https://4.bp.blogspot.com/-cbsi03-2igU/UZVEVyXQAAI/AAAAAAAAYAo/bh-mNu2vS_E/s1600/dsc08433.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/nligxl0fn6f21157.jpg" >}}
 
 A three-storey stand for the press at the opposite side:
 
-{{< imgfig "https://1.bp.blogspot.com/-hD2ly8mRPbs/UZVETp6dvkI/AAAAAAAAYAg/Ru1KrvverIw/s1600/dsc08432.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/7lgo2ae4c2yl1711.jpg" >}}
 
 {{< fl "Bijenkorf" >}} have decorated their roof with huge inflatable crowns:
 
-{{< imgfig "https://1.bp.blogspot.com/-as_Pqpqo-TU/UZVEcaZJhnI/AAAAAAAAYBA/anytpvcb6E0/s1600/dsc08436.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/kcl8vb5whboe3519.jpg" >}}
 
 And Madame Tussaud's façade is adorned with {{< fl "WA" >}} monograms and fitted with screens:
 
-{{< imgfig "https://1.bp.blogspot.com/-R3lVQYT004Q/UZVEYDNqUSI/AAAAAAAAYAw/z7zyGMN8nbo/s1600/dsc08434.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hoi7140qc2ed0807.jpg" >}}
 
 Wax figures of Juliana and Wilhelmina, the mother and grandmother of Beatrix, respectively, graciously watch the square from the round window above:
 
-{{< imgfig "https://3.bp.blogspot.com/-Rqm7ENPxGgI/UZVEaceBDdI/AAAAAAAAYA4/ahjDfMG40d8/s1600/dsc08435.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/dj4t5kqgodwg0810.jpg" >}}
 
 The last Queen's Day. At least until Amalia assumes the throne. Unless (and I find this highly improbable) the Dutch Monarchy ceases to exist earlier.

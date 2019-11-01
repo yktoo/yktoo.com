@@ -3,7 +3,7 @@ type: post
 date: "2017-05-23T00:00:00Z"
 title: "Архитектура нашего времени: здание со смайлами"
 tags: ["Vathorst", "Амерсфорт", "архитектура", "забавное", "Нидерланды", "смайлик"]
-image: "https://3.bp.blogspot.com/-ZI7EXGMDF_g/WQ9rt9ZppyI/AAAAAAAAp6k/9qYkJoUlTbgiHYZeHZH7I2OmZUyEEFfOwCPcB/s1600/dsc05178.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/hwar2dw68pb73373.jpg"
 places:
     - place0308
 aliases:
@@ -16,11 +16,11 @@ aliases:
 
 <!--more-->
 
-{{< imgfig "https://3.bp.blogspot.com/-4dWDKauaZ9w/WQ9rtxvqnCI/AAAAAAAAp6k/fYOJTXdKz8wp-pkMapkJmduGTb71QhdcgCPcB/s1600/dsc05177.picasaweb.jpg" "Здание со смайлами." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/3p7rxlfug48p1616.jpg" "Здание со смайлами." >}}
 
 Проект жилого здания с магазинами в цокольном этаже был создан архитекторским бюро [Attika Architekten](http://www.attika.nl/projecten/plein-rond-de-eik). Иконки-смайлы расположены только на одной из его сторон.
 
-{{< imgfig "https://3.bp.blogspot.com/-ZI7EXGMDF_g/WQ9rt9ZppyI/AAAAAAAAp6k/9qYkJoUlTbgiHYZeHZH7I2OmZUyEEFfOwCPcB/s1600/dsc05178.picasaweb.jpg" "Смайлики." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hwar2dw68pb73373.jpg" "Смайлики." >}}
 
 Здание построено на площади в Ватхорсте, где растёт 150-летний дуб и которая так и называется: {{< fl "Plein Rond de Eik" >}}, «площадь вокруг дуба».
 
@@ -28,19 +28,19 @@ aliases:
 
 > В классической архитектуре на фасадах размещали головы королей и подобное, вот мы и подумали, чем бы таким украсить здание, чтобы через десять-двадцать лет люди посмотрели и сказали: «Ага, это здание *тех* лет!»
 
-{{< imgfig "https://3.bp.blogspot.com/-s6CE_EK29tY/WQ9rtz3RF0I/AAAAAAAAp6k/u3o6BDMjZ1g40kEF1zxRZv2mSkO9CkgWwCPcB/s1600/dsc05179.picasaweb.jpg" "Смайлики." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/g9gc020s7h7v2259.jpg" "Смайлики." >}}
 
 Он говорит, что идея посетила его в момент, когда он посмотрел на экран своего мобильника (как оригинально). Изначально он хотел сделать смайлики аутентичного жёлтого цвета, или даже позолоченные, но архитекторы этому решительно воспротивились — элементы оформления не должны слишком выделяться, посчитали они.
 
 Его команда отобрала 22 наиболее ходовых смайла, после чего отлила их в ~~граните~~ бетоне. В целях узнаваемости были выбраны лишь иконки с лицами.
 
-{{< imgfig "https://3.bp.blogspot.com/-7JT36cM95JI/WQ9rt__ScYI/AAAAAAAAp6k/DDDdJGZfdBEFOLtlBornTKquhZx2UHnMQCPcB/s1600/dsc05180.picasaweb.jpg" "Смайлики." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/w660vvvhpnef3092.jpg" "Смайлики." >}}
 
 «Любопытно, что скажут археологи, когда через много веков откопают это здание», — был один из отзывов на это творение.
 
 Я бы тоже многое отдал за возможность это узнать.
 
-{{< imgfig "https://4.bp.blogspot.com/-H6W_2vbao6g/WQ9s9-6dI1I/AAAAAAAAp6w/oRKgK2FvnMQOmyMvPT3PIrITHkvb6d0nwCPcB/s1600/attika-vathorst-emojigebouw.picasaweb.jpg" "Changiz Tehrani. Фото Attika Architekten." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/z3257ssxdw9q0178.jpg" "Changiz Tehrani. Фото Attika Architekten." >}}
 
 Терани:
 
@@ -48,6 +48,6 @@ aliases:
 >
 > Возьмите, например, Фейсбук: раньше пользоваться им было круто, а сейчас он интересен только старшему поколению. И если лет через десять смайлы уже будут не в ходу — ничего страшного, они всё равно принадлежат нашей эпохе.
 
-{{< imgfig "https://1.bp.blogspot.com/-s0N-dM2P6Po/WQ9tbo942gI/AAAAAAAAp7A/y40lqz9irvMN4S9RaP9IeZgBUWo-VxzvACPcB/s1600/attika-vathorst-emojigebouw-2.picasaweb.jpg" "Фото Attika Architekten." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/rzwu4s1ehnkq3118.jpg" "Фото Attika Architekten." >}}
 
 Мне не кажется, что можно вот так прямо провести параллель между веб-сайтом и архитектурным объектом, но идея осовременить городскую среду подобным образом мне импонирует.

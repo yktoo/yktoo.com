@@ -9,7 +9,7 @@ tags:
     - inburgering
 aliases:
     - /ru/blog/post/187
-image: "https://1.bp.blogspot.com/-ReP_AES9rAA/Xa38WRXXYJI/AAAAAAAAy7s/nS01Er1Rk9s3Zu4zDT2TMlTGuoLS5Xn0QCKgBGAsYHg/s1600/dsc02122.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/bql9cxqh0ui30247.jpg"
 ---
 
 14 декабря минувшего года я сдавал языковой экзамен. Это был так называемый короткий тест, {{< fl "korte vrijstellingstoets" >}}.

@@ -10,7 +10,7 @@ tags:
     - пылесосы
     - электроэнергия
     - экология
-image: "https://1.bp.blogspot.com/-S8raVcYO83M/XaRQjXs307I/AAAAAAAAyrM/2m8yu_eZKW0eWfrv8oIdtTvdzNCiMYb0gCKgBGAsYHg/s1600/2019-10-14_vacuuming.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/7bisucacgis71349.jpg"
 imageCredit: "Фото: Viktor Hanacek/picjumbo"
 ---
 

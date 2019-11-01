@@ -3,7 +3,7 @@ type: post
 date: "2017-06-03T00:00:00Z"
 title: "Review: Xiaomi In-Ear Headphones Pro HD"
 tags: ["gadgets", "hardware", "headphones", "In-Ear Headphones Pro HD", "Mi", "review", "sound", "unboxing", "Xiaomi"]
-image: "https://3.bp.blogspot.com/-aKpXFZ3-oIw/WSajHsRGiBI/AAAAAAAAp_I/4NJnW6NuYIgKl85gw0584Iok9YjhpLS4wCKgB/s1600/mi-headphone.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/89594ti5zeur0760.jpg"
 aliases:
     - /en/blog/post/326
 ---
@@ -12,7 +12,7 @@ I'm not really into reviewing gadgets, but in this case it's worth doing it. Tod
 
 <!--more-->
 
-{{< imgfig "https://3.bp.blogspot.com/-aKpXFZ3-oIw/WSajHsRGiBI/AAAAAAAAp_I/4NJnW6NuYIgKl85gw0584Iok9YjhpLS4wCKgB/s1600/mi-headphone.picasaweb.jpg" "Mi In-Ear Headphones Pro HD." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/89594ti5zeur0760.jpg" "Mi In-Ear Headphones Pro HD." >}}
 
 I ordered the headphones on *eBay* after a few pretty positive reviews I've heard. The specs looked quite attractive considering the price of only **€21** (shipping to the Netherlands included).
 
@@ -27,11 +27,11 @@ As the name suggests, it's *in-ear headphones*, and they feature a hybrid triple
 
 This effectively turns the earpiece into a three-band speaker, where each of the three frequency ranges (lows, middles and highs) is handled by a separate driver.
 
-{{< imgfig "https://3.bp.blogspot.com/-mXD2Px24ztw/WS65HPIak7I/AAAAAAAAqAw/kJcpUi7q_TEWLcN66wWXs1yD05Qr-ph4wCKgB/s1600/mi-headphone-inside.picasaweb.jpg" "The inside of the earphone." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xzj3v19hdqzc3585.jpg" "The inside of the earphone." >}}
 
 All the external elements, i.e. the earpieces, the remote control and the jack, are made of metal, anodised aluminium alloy. This looks and feels great.
 
-{{< imgfig "https://2.bp.blogspot.com/-2uL-h0gNHwc/WS66PkhCb6I/AAAAAAAAqBM/eBDkqln53dUd8yPQo6WbA4ExmvAslxnCACKgB/s1600/mi-headphones-large.picasaweb.jpg" "The headphones (Xiaomi's render)." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/3te9opzurkh70051.jpg" "The headphones (Xiaomi's render)." >}}
 
 Black inserts are made of durable zircon sand blasting.
 
@@ -68,23 +68,23 @@ The headphones also have a somewhat low sensitivity of **98 dB**, which may pose
 
 The device is shipped in a sturdy cardboard box sealed in plastic.
 
-{{< imgfig "https://3.bp.blogspot.com/-ceKJmdj6zA4/WSaeJ36WX-I/AAAAAAAAp-U/rh3uAuo2-Pw-IW4UpAcMnQs5167lhoFogCKgB/s1600/dsc05183.picasaweb.jpg" "The packaging." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/i4vezjik6k4y3174.jpg" "The packaging." >}}
 
 What's inside: a sturdy plastic box and a paper one with a carrying bag inside.
 
-{{< imgfig "https://2.bp.blogspot.com/-W6SntRfo-Cs/WSaeJyRK84I/AAAAAAAAp-U/p7k9vbabBSka7MlZSAMPBQvlOI-zDPlSwCKgB/s1600/dsc05184.picasaweb.jpg" "The contents of the package." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zimgh047toy53187.jpg" "The contents of the package." >}}
 
 Here's the net content of the package: a box, a bag and a user's manual in Chinese:
 
-{{< imgfig "https://3.bp.blogspot.com/-8NV9_yRTeHo/WSaeJ9t61UI/AAAAAAAAp-U/rSfBClc_4acjgs2gdsQx6uVV1BnN45D-gCKgB/s1600/dsc05185.picasaweb.jpg" "The contents of the package." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/p6st8zgd9cjx0748.jpg" "The contents of the package." >}}
 
 The plastic box is pretty heavy. It contains headphones intricately wound around a silicone holder and three sets of replacement earbuds beneath it, in the sizes *XS*, *S*, and *L*. Including those already mounted (size *M*) it amounts to four and it should suffice to match any ears:
 
-{{< imgfig "https://4.bp.blogspot.com/-WInKT2kzwA4/WSaeJ5tWxLI/AAAAAAAAp-U/IgO5cDpB_JkYfLO-mzthzFA_sWBbnnuSwCKgB/s1600/dsc05186.picasaweb.jpg" "The plastic box and its contents." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cu4peg55jnvq2801.jpg" "The plastic box and its contents." >}}
 
 It takes quite a bit of patience to unwind the cable carefully laid out along the grooves of the holder.
 
-{{< imgfig "https://4.bp.blogspot.com/-CGPnnQ9NcSM/WSaeJ5huZ_I/AAAAAAAAp-U/om-lSDbnn9kLPQgiYCWkAQAvrKXa9av6wCKgB/s1600/dsc05187.picasaweb.jpg" "Silicone cable holder." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pusover65dr33416.jpg" "Silicone cable holder." >}}
 
 But winding it back into the holder would obviously take an incredible amount of patience. Moreover, the designer's idea was that the box is to be kept in the carrying bag, judging by the size of the latter.
 
@@ -92,11 +92,11 @@ That leaves me with just one question: is there a human being in this world who 
 
 The earpiece itself looks very much like its rendered version, and leaves a good impression in terms of quality. The in-ear part is angled at 45°:
 
-{{< imgfig "https://1.bp.blogspot.com/-gU9K1bsWVMw/WSaeJ1sG14I/AAAAAAAAp-U/E3VtthXQOTYg13x5Nkx7YMP1l4m_UsudACKgB/s1600/dsc05188.picasaweb.jpg" "The earpiece." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/aivxoij5sw442047.jpg" "The earpiece." >}}
 
 The full-metal remote control is located on the right headphone's cable (some **10 cm** below it) and features three buttons:
 
-{{< imgfig "https://4.bp.blogspot.com/-rbup_CPzg_M/WSaeJy3OzOI/AAAAAAAAp-U/BgwH8rnl6mk1JE5d063500C32i-htvmhACKgB/s1600/dsc05189.picasaweb.jpg" "The remote control." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/c02bikgpw9f02197.jpg" "The remote control." >}}
 
 The buttons' functions when attached to my *Samsung Galaxy Note 4* are as follows, top to bottom:
 
@@ -108,7 +108,7 @@ There's also a microphone on the opposite side of the control.
 
 The wire ends with a 3.5-mm jack. It isn't angled, which I think is for the better as it reduces the risk of breaking it off.
 
-{{< imgfig "https://3.bp.blogspot.com/-VlYiESL6-Tg/WSaeJxBc_VI/AAAAAAAAp-U/dH6YmiGRft46jn1ZyA2hWA0VFKmwu1R3ACKgB/s1600/dsc05190.picasaweb.jpg" "The jack." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/o9e0hv4n8qu91967.jpg" "The jack." >}}
 
 ## The sound {#sound}
 

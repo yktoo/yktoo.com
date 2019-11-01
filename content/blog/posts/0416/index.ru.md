@@ -14,7 +14,7 @@ tags:
     - электромобили
     - Tesla
     - Nikola
-image: "https://1.bp.blogspot.com/-GdDe1vd96iw/XZxrRlOwhkI/AAAAAAAAydA/l6lP9lpzycsPcxSTghkVbCd_NQkWHt2tgCKgBGAsYHg/s1600/tesla-semi.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/8f54b4vu3vf03161.jpg"
 ---
 
 Экономисты из {{< fl "ING" >}} {{< a "https://www.ing.nl/zakelijk/kennis-over-de-economie/uw-sector/transport-en-logistiek/electric-heavy-duty-trucks.html" "предсказывают" >}}, что в **2028** году электрогрузовики станут финансово выгоднее дизельных.
@@ -29,7 +29,7 @@ image: "https://1.bp.blogspot.com/-GdDe1vd96iw/XZxrRlOwhkI/AAAAAAAAydA/l6lP9lpzy
 
 В настоящее время электрический вариант грузовика примерно в **3,5** раза дороже дизельного аналога. По расчётам экономистов, чтобы электрогрузовик стал финансово выгоднее дизельного, он должен проезжать около **100 000** км в год, что труднореализуемо. Три года спустя для окупаемости разницы в цене грузовику нужно будет проезжать лишь **60 тыс.** км в год, и это заметно реалистичнее — отсюда и взялась цифра **2028**.
 
-{{< imgfig "https://1.bp.blogspot.com/-oUMf6JqRJ4E/XZxm_37UwjI/AAAAAAAAycY/mAeVssGgd8YFzG1UPOTJ5nW4NBkrTXbGACKgBGAsYHg/s1600/truck-break-even.png" "Изменение годового пробега электрогрузовика для окупаемости разницы в цене с дизельным. Источник: ING." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/q0ke81nili760646.png" "Изменение годового пробега электрогрузовика для окупаемости разницы в цене с дизельным. Источник: ING." >}}
 
 ## Никола с Теслой спешат на помощь
 
@@ -37,11 +37,11 @@ image: "https://1.bp.blogspot.com/-GdDe1vd96iw/XZxrRlOwhkI/AAAAAAAAydA/l6lP9lpzy
 
 {{< fl "Nikola" >}} {{< a "https://www.trucks.com/2019/03/25/nikola-land-deal-arizona-truck-plant/" "планирует" >}} ежегодно производить до **35 000** штук с **2023** года.
 
-{{< imgfig "https://1.bp.blogspot.com/-4mjqgj31rp8/XZxrRq7rhBI/AAAAAAAAydA/2GelsiV3jP0iLVfNtxQk9wVIV7Witi1lwCKgBGAsYHg/s1600/nikola-one.jpg" "Nikola One." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/8l50tqr1kiz52106.jpg" "Nikola One." >}}
 
  {{< fl "Tesla" >}} {{< a "https://electrek.co/2019/06/11/tesla-pickup-semi-truck-timelines-elon-musk/" "утверждает" >}}, что первые {{< fl "Semi" >}} выйдут раньше: уже в конце **2020** года.
 
-{{< imgfig "https://1.bp.blogspot.com/-GdDe1vd96iw/XZxrRlOwhkI/AAAAAAAAydA/l6lP9lpzycsPcxSTghkVbCd_NQkWHt2tgCKgBGAsYHg/s1600/tesla-semi.jpg" "Tesla Semi." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/8f54b4vu3vf03161.jpg" "Tesla Semi." >}}
 
 ## Будет тесно
 

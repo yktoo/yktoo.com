@@ -4,7 +4,7 @@ date: "2013-03-03T00:00:00Z"
 title: "Индикатор-переключатель звукового устройства для Убунту"
 series: "Sound Switcher Indicator"
 tags: ["GitHub", "Launchpad", "Linux", "PulseAudio", "Python", "Sound Switcher Indicator", "Ubuntu", "Unity", "звук", "индикатор"]
-image: "https://3.bp.blogspot.com/-A68LFuAIxlg/UTMgzAqh53I/AAAAAAAAWrg/rlpYgjefo70/s1600/Screenshot.png"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/nxq0nd14z9ut1387.png"
 software: sound-switcher-indicator
 aliases:
     - /ru/blog/post/178
@@ -12,7 +12,7 @@ aliases:
 
 Я не выдержал и написал индикатор для переключения звуковых устройств (входа/выхода) в Ubuntu.
 
-{{< imgfig "https://3.bp.blogspot.com/-A68LFuAIxlg/UTMgzAqh53I/AAAAAAAAWrg/rlpYgjefo70/s1600/Screenshot.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/nxq0nd14z9ut1387.png" >}}
 
 <!--more-->
 
@@ -28,7 +28,7 @@ aliases:
 
 Значок индикатора сделал в Inkscape:
 
-{{< imgfig "https://3.bp.blogspot.com/-WRWhSSdMb4w/UTMb99DLYOI/AAAAAAAAWqI/u5v1qpzawqY/s1600/indicator-sound-switcher.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/lq2uaiz7thp90010.png" >}}
 
 Любые изменения состояния сервера PulseAudio отражаются на содержимом меню, причём, даже если оно открыто.
 

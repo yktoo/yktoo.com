@@ -3,7 +3,7 @@ type: post
 date: "2011-03-21T00:00:00Z"
 title: "MMMavrodi"
 tags: ["funny", "money"]
-image: "https://2.bp.blogspot.com/-mnnKcKFgSho/TYei73m2M-I/AAAAAAAAIFE/aGPO5gSOFXY/s800/brunei-dollar.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/7r9gj2byanw01912.jpg"
 aliases:
     - /en/blog/post/77
 ---
@@ -12,19 +12,19 @@ A friend of mine is recently back from Southeast Asia. His intention originally 
 
 His currency exchanges yielded some peculiar things, whether accidentally or not happened to be in the deck of banknotes, such as this Brunei dollar:
 
-{{< imgfig "https://2.bp.blogspot.com/-mnnKcKFgSho/TYei73m2M-I/AAAAAAAAIFE/aGPO5gSOFXY/s800/brunei-dollar.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/7r9gj2byanw01912.jpg" >}}
 
 <!--more-->
 
 Or like this Indonesian rupiah note:
 
-{{< imgfig "https://2.bp.blogspot.com/-cCHttaCGBbw/TYei_LrlUCI/AAAAAAAAIFI/qze6zibhcXM/s1600/indonesia-rupiah.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/7ep4do7ka8yw2975.jpg" >}}
 
 This all is well conceivable: there are numerous currencies traveling up and down round Indochina.
 
 But that's something:
 
-{{< imgfig "https://2.bp.blogspot.com/-wHycciZMD14/TYejCKXu8oI/AAAAAAAAIFM/t4ymxGC9Qhg/s1600/mavrodi-1000.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ii3g3s9qc3om1184.jpg" >}}
 
 This is one of the banknotes issued by infamous {{< wiki "Sergey_Mavrodi" "en" "Sergey Mavrodi" >}} back in early 90's in Russia. Mavrodi was the founder of one of the biggest scam affairs in modern Russia called "{{< wiki "MMM_(Ponzi_scheme_company)" "en" "MMM" >}}" that cost people involved up to $10 billion.
 

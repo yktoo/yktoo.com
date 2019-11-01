@@ -3,7 +3,7 @@ type: post
 date: "2018-04-03T00:00:00Z"
 title: "Anniversary: ten years in the Netherlands"
 tags: ["anniversary", "Netherlands", "reflections", "upshot"]
-image: "https://2.bp.blogspot.com/-DCIYWdV7IJE/WsOU2fStpxI/AAAAAAAAsM4/Y59Y1UQhf1gu6dGaNgLTB5jaY41ZOvV2gCKgBGAs/s1600/Happiness%2Bis%2Ba%2Bjourney%252C%2Bnot%2Ba%2Bdestination.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/yfaj5f95f50d3310.jpg"
 aliases:
     - /en/blog/post/334
 ---
@@ -24,4 +24,4 @@ Since that day I've properly learned English and Dutch ~~and forgot Russian~~, f
 
 That's why I also wish you to never give up, prioritise important things in life, be persistent and press ahead. And, most importantly, enjoy the process, because:
 
-{{< imgfig "https://2.bp.blogspot.com/-DCIYWdV7IJE/WsOU2fStpxI/AAAAAAAAsM4/Y59Y1UQhf1gu6dGaNgLTB5jaY41ZOvV2gCKgBGAs/s1600/Happiness%2Bis%2Ba%2Bjourney%252C%2Bnot%2Ba%2Bdestination.jpg" "Happiness is a journey, not a destination." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/yfaj5f95f50d3310.jpg" "Happiness is a journey, not a destination." >}}

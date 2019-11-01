@@ -3,14 +3,14 @@ type: post
 date: "2013-09-13T00:00:00Z"
 title: "Размножение объектов на фото в Gimp"
 tags: ["Gimp", "Linux", "multiplicity", "Ubuntu", "графика", "инструкция"]
-image: "https://2.bp.blogspot.com/-hg95nA5TCEM/UjLjT3RlumI/AAAAAAAAafw/gAkDwzOZWnw/s1600/2011-11-19+-+rehearsal.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/9frext482b6h0287.jpg"
 aliases:
     - /ru/blog/post/199
 ---
 
 Сегодня я хочу поведать о старой как мир, но от этого не менее впечатляющей технике ~~тушения пожаров~~ размножения объектов (обычно людей, но это могут быть и котики, и лопаты) с помощью графического редактора. Эту технику часто называют {{< fl "multiplicity" >}}. С её помощью можно делать фотографии наподобие такой:
 
-{{< imgfig "https://2.bp.blogspot.com/-hg95nA5TCEM/UjLjT3RlumI/AAAAAAAAafw/gAkDwzOZWnw/s1600/2011-11-19+-+rehearsal.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9frext482b6h0287.jpg" >}}
 
 Поскольку я пользуюсь Линуксом, мой любимый графический редактор — Gimp, но то же самое можно сделать в любом другом, поддерживающем слои и маски.
 
@@ -18,7 +18,7 @@ aliases:
 
 Приведённое выше фото с пятью копиями меня любимого требует довольно много кропотливого труда, так что я объясню на более простом примере, где меня два:
 
-{{< imgfig "https://1.bp.blogspot.com/-YGBNhJpjqGo/UjLmw1hXaSI/AAAAAAAAaf8/1s2rNmx9aoM/s1600/double_me_balcony.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/4bqpktotoh3a2524.jpg" >}}
 
 ## Шаг первый. Съёмка {#step-1}
 
@@ -38,31 +38,31 @@ aliases:
 
 По сюжету я играл сам с собой в карты на балконе. Однако солнце в этот день то выходило, то пряталось за тучами, так что все фото получились с разной экспозицией. Я выбрал из них пару наиболее близких по этому параметру. Эту:
 
-{{< imgfig "https://4.bp.blogspot.com/-KW9IRHsq58c/UjLm7ge3H7I/AAAAAAAAagE/hvTNAAbxjhw/s1600/dsc01462.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/mnahht71g1kk0472.jpg" >}}
 
 И вот эту (между съёмками неплохо бы переодеваться, для усиления эффекта):
 
-{{< imgfig "https://4.bp.blogspot.com/-rz7uSa9xT88/UjLm8_m3E9I/AAAAAAAAagM/KbMmi95rN8w/s1600/dsc01471.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9iyz28arxn9u2215.jpg" >}}
 
 ## Шаг второй. Открываем фото в Gimp-е {#step-2}
 
 Фотографии надо расположить в виде слоёв одно над другим. Из них нужно выбрать одно, которое будет представлять собой основу (с большинством объектов), и поместить его в самый низ. Остальные будут сверху:
 
-{{< imgfig "https://4.bp.blogspot.com/-qM2RbQtRPJg/UjLyKBSUbAI/AAAAAAAAag4/dpiYi4h8QGU/s1600/gimp-001-1.picasaweb.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vhjpleoxo9p40370.png" >}}
 
 ## Шаг третий. Добавляем маску слоя {#step-3}
 
 Кликаем правой кнопкой в списке слоёв на верхнем слое и выбираем **Add Layer Mask…**:
 
-{{< imgfig "https://3.bp.blogspot.com/-LfiQnXG1pkE/UjLyLyVu_ZI/AAAAAAAAahA/UMOIAMU5-bY/s1600/gimp-001-2.picasaweb.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/u5f8mdnjvzth3232.png" >}}
 
 В открывшемся диалоге выбираем **Black (full transparency)** и жмём **Add**:
 
-{{< imgfig "https://4.bp.blogspot.com/-EfdUhkwiPfk/UjLyNIQdNmI/AAAAAAAAahI/stlzYAG50sM/s1600/gimp-002.picasaweb.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/by52tr2lbisl0473.png" >}}
 
 В слое с картинкой рядом с его эскизом появляется миниатюра маски — изначально она чёрного цвета, как мы и задали. А значит, весь слой становится прозрачным и пропадает с общего изображения:
 
-{{< imgfig "https://2.bp.blogspot.com/-UwiarGBzSUA/UjLyPMVqBuI/AAAAAAAAahQ/5pItACYqZvY/s1600/gimp-003-1.picasaweb.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/lk5shkgq24wx3544.png" >}}
 
 ## Шаг четвёртый. Редактируем маску {#step-4}
 
@@ -70,19 +70,19 @@ aliases:
 
 Итак, проконтролируем, что мы редактируем именно маску, а не сам слой. Для этого нужно кликнуть на миниатюре маски, чтобы вокруг неё появилась белая рамка:
 
-{{< imgfig "https://1.bp.blogspot.com/-gz_13DDoLOQ/UjLyRq_o2TI/AAAAAAAAahY/pB1p3Yv3SPU/s1600/gimp-003-2.picasaweb.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/z03vmfg4sqv61747.png" >}}
 
 Выбираем инструмент «Кисть» (**Paintbrush Tool**):
 
-{{< imgfig "https://1.bp.blogspot.com/-_-t0_SQjvwM/UjLyTB_31DI/AAAAAAAAahg/7zHdVxbqwBw/s1600/gimp-003-3.picasaweb.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/jm0otgd2k1xm1615.png" >}}
 
 И начинаем рисовать белым (маска ведь изначально чёрная) в том месте, где «правый я» должен сидеть в кресле. Получается что-то типа такого:
 
-{{< imgfig "https://4.bp.blogspot.com/-F_Kxyeh7_4s/UjLyU6cWu-I/AAAAAAAAaho/58xEqzDhYUg/s1600/gimp-004.picasaweb.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/q4mryzldl2wz1243.png" >}}
 
 Можно посмотреть, как выглядит получающаяся маска. Для этого нужно кликнуть правой кнопкой на слое и выбрать **Show Layer Mask** или просто нажать `Alt+M`. При этом рамка вокруг миниатюры маски становится зелёной:
 
-{{< imgfig "https://4.bp.blogspot.com/-fRL5EgorcYI/UjLyWJaEjYI/AAAAAAAAahw/_pBaK2XHnCo/s1600/gimp-005.picasaweb.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fb5z0ppa5hp32922.png" >}}
 
 Вот, собственно и вся хитрость, остальное — дело техники. Пользуясь белым и чёрным цветами (для переключения цвета фона и переднего плана пользуемся клавишей `X`), меняя размер и форму кисти, стараемся максимально аккуратно обрисовать требуемую фигуру.
 
@@ -90,10 +90,10 @@ aliases:
 
 Он выглядит следующим образом:
 
-{{< imgfig "https://2.bp.blogspot.com/-CFxqkAquRh0/UjLyXXtWJ6I/AAAAAAAAah4/WCUc4zWA_4I/s1600/gimp-006.picasaweb.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0xrphxou0oyf0422.png" >}}
 
 А соответствующая ему маска так:
 
-{{< imgfig "https://2.bp.blogspot.com/-qtcswdNjEhU/UjLyYtEIBCI/AAAAAAAAaiA/n8LPYj0kOgw/s1600/gimp-007.picasaweb.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/c4exti8502z31155.png" >}}
 
 Теперь остаётся только экспортировать изображение в JPG (**File → Export**) и отправляться удивлять своих друзей «Вконтакте».

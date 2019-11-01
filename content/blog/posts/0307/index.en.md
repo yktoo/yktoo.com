@@ -3,7 +3,7 @@ type: post
 date: "2017-02-17T00:00:00Z"
 title: "20 years, and counting"
 tags: ["anniversary", "blog", "employment"]
-image: "https://4.bp.blogspot.com/-e_86xxIb3VY/WKbJN0DAq_I/AAAAAAAApP4/rZ3yDk3r7OY6vOlN0tTsrZ_F_89kPXMgACPcB/s1600/trudovaya-page-1.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/8qtjm8gvyltq2667.jpg"
 aliases:
     - /en/blog/post/307
 ---
@@ -14,7 +14,7 @@ The following scan of the first page of my *Employment Book* ({{< fl "Трудо
 
 <!--more-->
 
-{{< imgfig "https://4.bp.blogspot.com/-e_86xxIb3VY/WKbJN0DAq_I/AAAAAAAApP4/rZ3yDk3r7OY6vOlN0tTsrZ_F_89kPXMgACPcB/s1600/trudovaya-page-1.picasaweb.jpg" "The first page of my Employment Book." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/8qtjm8gvyltq2667.jpg" "The first page of my Employment Book." >}}
 
 It reads: *"March 22, 1996: Hired as a principal engineer of IT department at the Siberian Branch of the National Public Library for Science and Technology"*. One might wonder how a student with no professional experience could have been hired as a principal enginer. The thing is, at those chaotic times a construction worker might be paid a higher salary than a university professor. In order to motivate me my future boss had offered me the highest available position at the department.
 
@@ -22,4 +22,4 @@ And I was indeed motivated. Nonetheless, one year later (the record No. 2 on the
 
 To mark this anniversary I have made a graphical story of my professional path (as frantic as it looks):
 
-{{< imgfig "https://2.bp.blogspot.com/-G9QFlaRMTH0/WKbJN6ifwjI/AAAAAAAApP4/MJ-TjMCNzO0_uwKAZq4BpIdVFH7QX4qpQCPcB/s1600/wordcloud-white.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/gqdpfub7zg742867.png" >}}

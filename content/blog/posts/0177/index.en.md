@@ -3,7 +3,7 @@ type: post
 date: "2013-01-31T00:00:00Z"
 title: "Liberated from property"
 tags: ["crime", "frustrating", "Netherlands", "Utrecht"]
-image: "https://1.bp.blogspot.com/-reBIHvtHNVM/UQpoeOHKMFI/AAAAAAAAWm4/nLmjPgqxCOg/s1600/4526206-Charlie_Chius_Utrecht.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/8qfyhujyprxe0355.jpg"
 places:
     - place0016
 aliases:
@@ -16,7 +16,7 @@ The life in Holland, smooth in general, sometimes delivers nasty surprises.
 
 On the last Liberation Day (May 5, 2012), I was liberated from my wallet (and the wallet, respectively, from me). It was stolen in Utrecht, a very nice city otherwise, at the Central Station, in a Chinese restaurant called [Charlie Chiu's](http://www.charliechiu.nl/), where we decided to make a pit-stop before a long and exhausting shopping round.
 
-{{< imgfig "https://1.bp.blogspot.com/-reBIHvtHNVM/UQpoeOHKMFI/AAAAAAAAWm4/nLmjPgqxCOg/s1600/4526206-Charlie_Chius_Utrecht.jpg" "Source: members.virtualtourist.com." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/8qfyhujyprxe0355.jpg" "Source: members.virtualtourist.com." >}}
 
 <!--more-->
 
@@ -34,13 +34,13 @@ First thing to do was informing the police, of course. Police precinct located a
 
 We got their address and started off for the Kroonstraat police station, about ten minutes walk from the station:
 
-{{< imgfig "https://4.bp.blogspot.com/-24ZNZLwPkS8/UQqWDbajAdI/AAAAAAAAWoA/w02l1c5HAt4/s1600/politie-utrecht-kroonstraat.jpg" "Source: Google Street View." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/6zemyvkov0ye3327.jpg" "Source: Google Street View." >}}
 
 Yet another victim of the same sort was waiting in the foyer: a lad who also lost his wallet, but it was nicked from his bike bag in a dark passage.
 
 A police officer invited us into her office and began taking down the evidence, {{< fl "Proces-verbaal" >}} in Dutch, with all the relevant details.
 
-{{< imgfig "https://4.bp.blogspot.com/-uHGtmZPxR7g/UQqH7zqk7zI/AAAAAAAAWnc/ZZCr7AXRnv8/s1600/pv.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/s7g7vj0fy4y31212.png" >}}
 
 Recording all the details took more than an hour. The officer was very friendly and sympathising, and in other circumstances I would really have enjoyed it. She made all the necessary calls to have my stolen cards locked. She also called the restaurant and asked them to make sure the CCTV footage wouldn't get overwritten.
 
@@ -73,4 +73,4 @@ Relaxed Dutch atmosphere makes you now and then off your guard. But there's alwa
 
 The restaurant is now closed down, by the way.
 
-{{< imgfig "https://2.bp.blogspot.com/-VQBaHI7Lrfs/UQreo36j8kI/AAAAAAAAWog/Xo3U0YGW59I/s1600/vigilance.picasaweb.jpg" "Source: www.winemaps.com." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/uua5mapjduxj2022.jpg" "Source: www.winemaps.com." >}}

@@ -4,7 +4,7 @@ date: "2014-01-01T00:00:00Z"
 title: "Часть 1. Море"
 series: "Египет. Хургада"
 tags: ["Египет", "итоги", "Красное море", "море", "пляж", "путешествия", "сноркелинг", "Хургада"]
-image: "https://3.bp.blogspot.com/-WhG2CuTPnhU/UsQKZtFKY4I/AAAAAAAAbFY/BCQ_a_7PuPI/s1600/dsc01946.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/yj1wt7c44si22168.jpg"
 places:
     - place0188
     - place0190
@@ -24,7 +24,7 @@ aliases:
 
 Но обо всём по порядку. И начну с хорошего — с моря и пляжей.
 
-{{< imgfig "https://3.bp.blogspot.com/-WhG2CuTPnhU/UsQKZtFKY4I/AAAAAAAAbFY/BCQ_a_7PuPI/s1600/dsc01946.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/yj1wt7c44si22168.jpg" >}}
 
 Хургада ({{< fl "Hurghada" >}} или {{< fl "الغردقة‎" >}}) — очень молодой город, он существует лишь с начала XX века. Он растянут на 36 км вдоль побережья Красного моря и состоит из пляжей и отелей чуть менее чем полностью.
 
@@ -42,29 +42,29 @@ aliases:
 
 И это всё чистая правда. Такой прозрачной воды я ещё никогда не видел.
 
-{{< imgfig "https://3.bp.blogspot.com/-oRnOxNy0LH8/UsQKc-8jEpI/AAAAAAAAbFo/oynpS88-fM8/s1600/dsc01960.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fapzo5kv40kg2362.jpg" >}}
 
 Дно на глубине метров пяти видно совершенно отчётливо:
 
-{{< imgfig "https://3.bp.blogspot.com/-wmh--lFEMoQ/UsQOJOAXlqI/AAAAAAAAbZ4/hNtREbXS7pI/s1600/dsc02710.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ti7uwkmmdr752695.jpg" >}}
 
 Благодаря солёности, вода Красного моря очень хорошо поддерживает, когда плаваешь (не так конечно, как в Мёртвом море, где вообще не тонешь, но вполне заметно). И про разнообразие флоры и фауны — тоже правда. Его, разнообразие, видно прямо на пляже невооружённым глазом — в воде просто невероятное количество рыбы, никого не боящейся — и это у самого берега:
 
-{{< imgfig "https://2.bp.blogspot.com/-0bnOKcInCOc/UsQOLgTmbHI/AAAAAAAAbaI/AJiA4snfo8c/s1600/dsc02716.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/mman6zidsc1i0390.jpg" >}}
 
 В таких условиях не надо особенно напрягаться, чтобы насытиться. Ленивая птица задумчиво созерцает гладь моря:
 
-{{< imgfig "https://4.bp.blogspot.com/-H8Iif875l8Q/UsQOKY-sCcI/AAAAAAAAbaA/oZwvxitLmMA/s1600/dsc02713.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/b75quef2qfwb2886.jpg" >}}
 
 Цвет воды нереально красив — очень жизнерадостный, в отличие от нашего Северного, {{< a "0079" "бурого с голубизной" >}}:
 
-{{< imgfig "https://1.bp.blogspot.com/-KNJcXOGUlWc/UsQOOSygicI/AAAAAAAAbaY/AWHUQ2RIIDI/s1600/dsc02720.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/nbjw0e229whj0135.jpg" >}}
 
-{{< imgfig "https://4.bp.blogspot.com/-rbg2E57-kxc/UsQOM2IEjBI/AAAAAAAAbaQ/bEBBtG3EPY8/s1600/dsc02719.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/u0zfcoemraal1905.jpg" >}}
 
 Просто идиллия.
 
-{{< imgfig "https://2.bp.blogspot.com/-gWQsuHyAuP8/UsQKYKbNksI/AAAAAAAAbFQ/MMS1RupYy_M/s1600/dsc01944.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ms7gypyp95ww2668.jpg" >}}
 
 ## Сноркелинг {#snorkeling}
 
@@ -74,13 +74,13 @@ aliases:
 
 Вот и нас погрузили на автобус и привезли в какой-то отель на юге Хургады. Отель стоял, разумеется, на берегу, но вода была какая-то не по-хургадски мутно-зелёная:
 
-{{< imgfig "https://1.bp.blogspot.com/-j7oGLAw7aFo/UsQKsK1HBFI/AAAAAAAAbG4/_IowSmTpqyY/s1600/dsc02040.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9ertizn649190091.jpg" >}}
 
 Там нам раздали изрядно потрёпанный инвентарь — маски, трубки и ласты, — который после внимательного осмотра пришлось несолько раз заменить. Например, на моей трубке не закрывался клапан, из-за чего в неё тут же натекла бы вода. В конце концов, худо-бедно укомплектованные, мы пришли на причал, готовые к подвигам. Но не тут-то было.
 
 Море в этот день заметно штормило; волны достигали порой метра в высоту, перехлёстывая через причал. Наша разношёрстная толпа с нарастающим беспокойством наблюдала, как матросы-египтяне героически пытались обуздать предназначавшийся нам катер El Princessa Eman и подтянуть его к причалу, сопровождая свои усилия энергичными выражениями на арабском:
 
-{{< imgfig "https://3.bp.blogspot.com/-ze1PMEcIqWo/UsQKpd7nnlI/AAAAAAAAbGo/BzBR2VldANA/s1600/dsc02031.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/utq0liq0hkid1754.jpg" >}}
 
 Я это по своей всегдашней привычке записал на видео:
 
@@ -88,7 +88,7 @@ aliases:
 
 Лодку постоянно разворачивало боком к волне, из-за чего её швыряло из стороны в сторону, как щепку. В конце концов арабам удалось пришвартовать её кормой к пирсу:
 
-{{< imgfig "https://4.bp.blogspot.com/-lRlJVPqqS9k/UsQKqpVTKJI/AAAAAAAAbGw/5Svl-eEXrF8/s1600/dsc02039.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/685mvarorwi93338.jpg" >}}
 
 Но хэппи-энда не случилось. Катер по-прежнему кидало на волнах так ([видео](http://www.youtube.com/watch?v=Hj3bzsgjrXI)), что руководство всей этой сноркелинговой лавочки решило не рисковать. Нас увели обратно, ничего не объяснив и попросив сдать полученный и тщательно проверенный ~~хлам~~ инвентарь обратно, после чего мы ещё минут сорок грелись на солнышке, ожидая обратного автобуса.
 
@@ -96,69 +96,69 @@ aliases:
 
 Хургадский порт, {{< fl "Hurghada Marina" >}}, выглядит уж совсем как на картинке из детской книжки, абсолютно контрастируя с остальным городом (о нём я расскажу в следующих частях):
 
-{{< imgfig "https://2.bp.blogspot.com/-mOWVNnIovNg/UsQMHrqrBVI/AAAAAAAAbOo/AHZs9uSrnDY/s1600/dsc02319.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ekeqoc4xinwn0176.jpg" >}}
 
 Ещё картинка из книжки про райский остров:
 
-{{< imgfig "https://2.bp.blogspot.com/-DLHEwsw8Qf4/UsQKv_HbQiI/AAAAAAAAbHQ/LY7aqzlxJHw/s1600/dsc02043.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xt2nur1hxy041886.jpg" >}}
 
 В марине пришвартовано бессчётное количество лодок.
 
-{{< imgfig "https://2.bp.blogspot.com/-1AjWb-c8CCg/UsQMI6MWa6I/AAAAAAAAbOw/bArA1hOs4WY/s1600/dsc02320.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/l950ewj6glxl3254.jpg" >}}
 
-{{< imgfig "https://2.bp.blogspot.com/-flNH_wZUE48/UsQKuuBnHyI/AAAAAAAAbHI/6hdApL74P9E/s1600/dsc02042.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ldve0zgye9jx2663.jpg" >}}
 
 Вот эта, Salem One, будет нашей. Она выглядит заметно новее той, прежней:
 
-{{< imgfig "https://2.bp.blogspot.com/-dCQfcZI1X6s/UsQKxXKc_2I/AAAAAAAAbHY/7-T-t_hsiaQ/s1600/dsc02044.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/l1e50gw3vke91267.jpg" >}}
 
 Наконец-то мы погрузились, выходим из порта:
 
-{{< imgfig "https://4.bp.blogspot.com/-duZGMhvIKM0/UsQK1Ri3miI/AAAAAAAAbHw/GbRFuIhwfBk/s1600/dsc02053.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vn7cbksns3m12224.jpg" >}}
 
 Вот здесь цвет воды правильный, какой надо:
 
-{{< imgfig "https://2.bp.blogspot.com/-c8AEmCIMFDs/UsQKEFNQB8I/AAAAAAAAbDo/G2yawRkUTH8/s1600/dsc_0003.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/l3b3ywuppvpe3125.jpg" >}}
 
-{{< imgfig "https://4.bp.blogspot.com/-aIm8QgCJWA4/UsQK35h6wNI/AAAAAAAAbH4/Zide-6RnoCs/s1600/dsc02065.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/gfwmj9xabiug0720.jpg" >}}
 
 Наш рулевой всю дорогу болтает по мобильному, держа его дисплеем от себя. Я подозреваю, что он использует динамик громкой связи, потому что ветер на море такой, что иначе ни черта не слышно:
 
-{{< imgfig "https://3.bp.blogspot.com/-f9tIGST_Tao/UsQK5ClINOI/AAAAAAAAbIA/reTizoJuUkQ/s1600/dsc02066.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/x3azwmd8nbgz1087.jpg" >}}
 
 Мы направляемся к острову под названием Гифтун ({{< fl "Giftun" >}}), это второй крупнейший остров около побережья. Самый крупный остров используется для военных целей и туристы там не приветствуются.
 
 Параллельно с нами в обоих направлениях снуёт множество других лодок. От воды невозможно оторвать глаз, её цвет меняется от глубоко-синего до нежно-бирюзового:
 
-{{< imgfig "https://3.bp.blogspot.com/-K_UaueBQc7U/UsQK6clIjfI/AAAAAAAAbII/nQ6Rym5Q5II/s1600/dsc02069.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/04fyqkizkelu1734.jpg" >}}
 
-{{< imgfig "https://4.bp.blogspot.com/-7l-jgJNqm6Y/UsQLMR-qMwI/AAAAAAAAbJo/OvOhLhl5koU/s1600/dsc02177.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/s5z4xhzv4m0s0853.jpg" >}}
 
 Море немного штормит, и лодка заметно раскачивается. На верхней палубе очень ветрено, но мутит намного меньше. Все заворачиваются во все доступные тряпки и любуются видами.
 
-{{< imgfig "https://3.bp.blogspot.com/-QVjLB6-xYzA/UsQK7-t1rzI/AAAAAAAAbIQ/yF2zNqYGlKI/s1600/dsc02074.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/om7zb34jywa71955.jpg" >}}
 
 С нами на борту одна молодая пара с Украины, одна очень хмурая русская пара постарше (ни те, ни другие никак не контактируют с остальными) и с дюжину голландцев, свободно болтающих друг с другом. Среди них — семья с шестью (!!!) детьми (надо определённо быть голландцем, чтобы решиться на такое мероприятие в этом составе). Вот трое их младшеньких, близнецы трёх лет и девочка пяти, с отцом, спокойным, как удав:
 
-{{< imgfig "https://1.bp.blogspot.com/-hxDT8JsZv5o/UsQK-gfgOAI/AAAAAAAAbIg/Dbr8qx5gkN8/s1600/dsc02086.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/uc5z3aqbffb22728.jpg" >}}
 
 Остальным их детям десять, одиннадцать и четырнадцать, они помогают родителям справляться с мелкими бандитами.
 
 Наконец мы на месте, метрах в двухстах от Гифтуна, бросаем якорь. Катера любят швартоваться друг к другу бок-о-бок:
 
-{{< imgfig "https://1.bp.blogspot.com/-F8Bk2uTVJ-g/UsQM2L-EdbI/AAAAAAAAbSw/hCC0SKUL0gc/s1600/dsc_0244.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/m5b57xtldra70081.jpg" >}}
 
 Инструктор-египтянин по имени Монти даёт нам короткий инструктаж на английском (русскоязычным переводят отдельно) и заставляет подписать форму, что в случае чего мы не будем на них в претензии. Он назвал нашу группу «Кобра» (я не мог не скаламбурить: «Раз ты Монти, группу нужно называть Пайтон, а не Кобра»), приладил всем маски и трубки и буквально выпихнул нас в воду.
 
-{{< imgfig "https://4.bp.blogspot.com/-Vl3MS0K1qFU/UsQLAdmigdI/AAAAAAAAbIo/zHUxubNbYMY/s1600/dsc02111.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/yay7wfvf45qi1913.jpg" >}}
 
 С непривычки дышать через трубку очень неудобно. Мгновенно натекает полный рот и нос соленющей воды, которую всё время приходится сплёвывать. Вода как-то умудряется попасть даже под маску, маска запотевает, воздуха всё время не хватает. Впрочем, после некоторой тренировки дыхание успокаивается и жить становится легче. «Кобра» гребёт всеми ластами к рифам.
 
-{{< imgfig "https://1.bp.blogspot.com/-rCQ_SDo-e-I/UsQLB4Did4I/AAAAAAAAbIw/xFJNLPaE4yg/s1600/dsc02114.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/85v155dyhc5s0613.jpg" >}}
 
 Монти показывает нам рифы. Я никогда ничего подобного вживую не видел.
 
-{{< imgfig "https://3.bp.blogspot.com/-754PEYXH0UU/UsQLDgUyIrI/AAAAAAAAbI4/-d0_md06EeI/s1600/dsc02129.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/jis17wlix38t2960.jpg" >}}
 
 Коралловые рифы похожи на растения, но при этом очень твёрдые, поэтому около них нужно быть осмотрительным. Кое-где они подходят почти к самой поверхности воды, так что навигация здесь явно требует немалой сноровки. Среди рифов мириады рыб всех размеров и расцветок, прямо на расстоянии вытянутой руки.
 
@@ -170,26 +170,26 @@ aliases:
 
 Наплескавшись, насмотревшись и наглотавшись морской воды вдоволь, возвращаемся на базу.
 
-{{< imgfig "https://3.bp.blogspot.com/-Ag6OQi5XHyM/UsQLIO5r4fI/AAAAAAAAbJQ/0xBVNwi9xkw/s1600/dsc02151.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/686nadlfigbq1040.jpg" >}}
 
 Выбравшись из воды, Монти тотчас надевает вязаную шапочку: береги мозг смолоду. Кстати, любопытный факт: он очень удивился, узнав, что я русский: «Первый раз, — говорит, — вижу русского, говорящего по-английски».
 
-{{< imgfig "https://2.bp.blogspot.com/-7rd0ylAMOBk/UsQLLJ-hOgI/AAAAAAAAbJg/9y0wwgwA180/s1600/dsc02166.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/03y31aoro7y62629.jpg" >}}
 
 Вот и первая жертва коварных рифов: старшая девочка многодетных голландцев довольно сильно поранила ногу — её ре**монти**руют:
 
-{{< imgfig "https://4.bp.blogspot.com/--K-ON3DQe60/UsRqBMIxBBI/AAAAAAAAbe4/_0KUvhfE7Gg/s1600/dsc02215.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/chkat93izsc81081.jpg" >}}
 
 Рядом швартуется лодка, полная соотечественников — они приплыли на скуба-дайвинг, или, по-понятному, ныряние с аквалангом:
 
-{{< imgfig "https://1.bp.blogspot.com/-aeElyFU4cXw/UsQLN2pU70I/AAAAAAAAbJw/obkjTwNWIkE/s1600/dsc02186.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xf7bqh9tf0q93425.jpg" >}}
 
 У нас было запланировано три остановки для осмотра рифов, но мы сделали только две. На третью никто, кроме меня, уже не захотел — а я не стал настаивать, все умаялись за этот день. Украинцы молча медитируют:
 
-{{< imgfig "https://4.bp.blogspot.com/-MIFYel8x0Qw/UsQLbAmnSMI/AAAAAAAAbK4/KuvIZI9wgCU/s1600/dsc02221.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hxb0mpw0uh7y1756.jpg" >}}
 
 Уже на нашей второй стоянке солнце стояло довольно низко, и рифы от этого довольно сильно проигрывали в красочности. На первый раз хватит.
 
-{{< imgfig "https://2.bp.blogspot.com/-emnnHs5a3eQ/UsQOoGBV_CI/AAAAAAAAbdI/mzYGKhvanQY/s1600/dsc_0450.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/oq7l7kpno6s30229.jpg" >}}
 
 В {{< a "0210" "следующей части" >}} мы перенесёмся по другую сторону от Хургады, в пустыню.

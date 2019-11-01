@@ -9,7 +9,7 @@ tags:
     - размышления
     - смайлик
     - менталитет
-image: "https://1.bp.blogspot.com/-TQKMYRYU0CM/VOTv9KpNo3I/AAAAAAAAhJY/70GpXsaVD1Y/s1600/rusmiley.png"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/jhqcfn9ftecq0705.png"
 series: Разнимся
 aliases:
     - /ru/blog/post/240
@@ -21,7 +21,7 @@ aliases:
 
 <!--more-->
 
-{{< imgfig "https://1.bp.blogspot.com/-TQKMYRYU0CM/VOTv9KpNo3I/AAAAAAAAhJY/70GpXsaVD1Y/s1600/rusmiley.png" "Пример с одного форума." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/jhqcfn9ftecq0705.png" "Пример с одного форума." >}}
 
 Высказываются предположения, что это какие-то буквы, которые неправильно отображаются в нерусской кодовой странице. Или что это означает их вечно нахмуренные брови. Или много подбородков.
 

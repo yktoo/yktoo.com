@@ -5,7 +5,7 @@ dateFrom: 2013-09-06
 dateTo: 2013-09-06
 location: "P60, Amstelveen, Netherlands"
 websiteUrl: ""
-image: "https://lh6.googleusercontent.com/-bnoe5zKQF0M/UjBo-E1aP7I/AAAAAAAAacc/6_UgDRSWMWk/s1600/dsc01320.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/1yq88ms1iefp0445.jpg"
 videocategories: music
 posts: "0202"
 ---

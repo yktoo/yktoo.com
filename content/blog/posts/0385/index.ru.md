@@ -7,7 +7,7 @@ tags:
     - Prinsjesdag
     - ипотека
     - налоги
-image: "https://1.bp.blogspot.com/-JtLSUYf6Z7I/XYNbWP8JngI/AAAAAAAAxno/kTTTsU3-ox0PJIJYU8qGkmZR80dIDfBCACKgBGAsYHg/s1600/2019-09-19_prinsjesdag-2014-wikipedia.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/y6aouu3k4o9r0234.jpg"
 imageCredit: "Фото: Rijksvoorlichtingsdienst."
 ---
 

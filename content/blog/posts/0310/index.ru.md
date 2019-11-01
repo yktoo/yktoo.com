@@ -4,7 +4,7 @@ date: "2017-02-20T00:00:00Z"
 title: "Лица и формы"
 series: "Доля предпринимательская"
 tags: ["Yktoo Solutions", "бизнес", "налоги", "Нидерланды", "предпринимательство", "работа", "фриланс"]
-image: "https://2.bp.blogspot.com/-0JS0V8bE70Y/WN97iz2hjLI/AAAAAAAAptQ/pwLDMGHIdfwZcGmcAlyotSDAsc3Yq2OOACPcB/s1600/shapes.picasaweb.png"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/5l0s6yuhsutm3492.png"
 aliases:
     - /ru/blog/post/310
 ---
@@ -15,7 +15,7 @@ aliases:
 
 <!--more-->
 
-{{< imgfig "https://2.bp.blogspot.com/-0JS0V8bE70Y/WN97iz2hjLI/AAAAAAAAptQ/pwLDMGHIdfwZcGmcAlyotSDAsc3Yq2OOACPcB/s1600/shapes.picasaweb.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/5l0s6yuhsutm3492.png" >}}
 
 ## Частный бизнес {#mkb}
 

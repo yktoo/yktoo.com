@@ -4,7 +4,7 @@ date: "2017-03-30T00:00:00Z"
 title: "Поиски и происки"
 series: "Доля предпринимательская"
 tags: ["Observ", "Yktoo Solutions", "налоги", "Нидерланды", "предпринимательство", "работа", "фриланс"]
-image: "https://4.bp.blogspot.com/-cjUtE071tFg/WN0YRhFH42I/AAAAAAAApr4/WyB_8ceeS0M-JGzjCw6TmK8ZzriLe2wmgCPcB/s1600/observ.nu.picasaweb.png"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/v95wud5j9h2w2271.png"
 aliases:
     - /ru/blog/post/318
 ---
@@ -59,7 +59,7 @@ aliases:
 
 Мне в своё время помог сервис [Observ](https://observ.nu/), несколько месяцев назад запущенный моим знакомым (да, джинса, но бескорыстная!). Это бесплатный агрегатор предложений на рынке ИТ-контрактов, собирающий и сводящий воедино все растиражированные по множеству сайтов варианты одной и той же вакансии, и умеющий к тому же отличать — и отмечать — честных брокеров (значок с цепочкой — {{< fl "betrouwbare broker" >}}).
 
-{{< imgfig "https://4.bp.blogspot.com/-cjUtE071tFg/WN0YRhFH42I/AAAAAAAApr4/WyB_8ceeS0M-JGzjCw6TmK8ZzriLe2wmgCPcB/s1600/observ.nu.picasaweb.png" "Сайт Observ." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/v95wud5j9h2w2271.png" "Сайт Observ." >}}
 
 Даже если не пользоваться этим сервисом для поиска, он, по крайней мере, поможет понять, через каких брокеров стоит работать.
 

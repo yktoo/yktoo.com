@@ -8,7 +8,7 @@ tags:
     - AliExpress
     - thermometer
     - review
-image: "https://1.bp.blogspot.com/--iKed159U3s/XW6kGQSzDII/AAAAAAAAxIg/2b1G4aJCRF08c6uNTfnkRcB5pAI0pDxWQCKgBGAs/s1600/20190903_191017.w.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/9e7brluw405h3500.jpg"
 ---
 
 I like {{< fl "Xiaomi" >}} gadgets and own quite a bunch of them.
@@ -23,7 +23,7 @@ You can find perhaps a zillion of similar thermometers, however what is special 
 
 The thermo-hygrometer can be hung on a wall or put on a desk using the provided stand.
 
-{{< imgfig "https://1.bp.blogspot.com/--iKed159U3s/XW6kGQSzDII/AAAAAAAAxIg/2b1G4aJCRF08c6uNTfnkRcB5pAI0pDxWQCKgBGAs/s1600/20190903_191017.w.jpg" "Xiaomi Mijia thermometer on a wall." >}} 
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9e7brluw405h3500.jpg" "Xiaomi Mijia thermometer on a wall." >}} 
 
 I bought mine {{< a "http://ali.pub/3qdxv7" "at AliExpress" >}} at a nifty price of **€ 9**, shipping included.
 
@@ -33,7 +33,7 @@ I've started with one piece to try it out, and it worked out fine. Then I bought
 
 This thermometer is made of high quality materials and well-built—just like any other {{< fl "Xiaomi" >}} gadget I own. It requires one **CR2032** battery located under the back cover. Apart from the thermometer and the stand, the package includes a piece of double-sided sticky tape and a sticky magnetic pad, which you can use to affix the gadget on the fridge, for instance.
 
-{{< imgfig "https://1.bp.blogspot.com/-f-D-FmagV9Y/XW55w7UPdxI/AAAAAAAAxC0/ThUapxoX3psOVhIQ-bItfyy2xNbb56p1QCKgBGAs/s1600/20180615_091908.picasaweb.jpg" "The readings of all four thermometers are pretty closely aligned." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xsbaocevgeas3079.jpg" "The readings of all four thermometers are pretty closely aligned." >}}
 
 As you can notice on the photo above, all four pieces I have provide very close temperature and humidity readings. The refresh rate is about once a half a minute.
 

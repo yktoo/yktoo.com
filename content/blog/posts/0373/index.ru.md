@@ -6,7 +6,7 @@ tags:
     - Нидерланды
     - голландский язык
     - сокращения
-image: "https://1.bp.blogspot.com/-ViyU57KXw_M/XW_QaHKwdRI/AAAAAAAAxPA/-X_oEmpEH-w-JonlY6K5T3eIBILR3BOQgCKgBGAs/s1600/afkortingen.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/2q7l4or3jh7z2200.jpg"
 ---
 
 Голландцы просто обожают сокращения. Ещё бы, с {{< a "0051" "такими-то" >}} словами!

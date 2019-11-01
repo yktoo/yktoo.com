@@ -3,7 +3,7 @@ type: post
 date: "2016-02-12T00:00:00Z"
 title: "Австрия, Зёльден, сноуборд"
 tags: ["Австрия", "впервые", "горы", "Зёльден", "Ленгенфельд", "путешествия", "снег", "сноуборд", "спорт", "Тироль"]
-image: "https://3.bp.blogspot.com/-ypJHKvDbGGA/Vrd2qvWMm6I/AAAAAAAAlVo/7gneIBHSzfE/s1600/20160125_155713.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/3sk9zs0ru1wz0465.jpg"
 places:
     - place0235
     - place0236
@@ -15,13 +15,13 @@ aliases:
 
 Точкой назначения был выбран австрийский {{< wiki "Зёльден_(Австрия)" "ru" "Зёльден" >}} ({{< wiki "Sölden" "en" "Sölden" >}}), расположенный в Тироле, — так же, как и Ишгль, где я {{< a "0239" "был год назад" >}}.
 
-{{< imgfig "https://3.bp.blogspot.com/-ypJHKvDbGGA/Vrd2qvWMm6I/AAAAAAAAlVo/7gneIBHSzfE/s1600/20160125_155713.picasaweb.jpg" "Зёльден. Тироль. Альпы." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/3sk9zs0ru1wz0465.jpg" "Зёльден. Тироль. Альпы." >}}
 
 <!--more-->
 
 Добирались до Австрии на машине, при этом основная часть маршрута пролегает по территории Германии. Везде вокруг снег, но автобаны в отличном состоянии, и бо́льшая их часть не имеет никакого ограничения скорости. Самое же главное достижение немцев — это бесплатные туалеты, расставленные вдоль трасс.
 
-{{< imgfig "https://4.bp.blogspot.com/-cQjW-rus4n8/Vrd2qr85SdI/AAAAAAAAlVo/gPL09aZGLVU/s1600/20160123_105349.picasaweb.jpg" "Дорога в горы, Германия." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/w9xrkz8if43d2769.jpg" "Дорога в горы, Германия." >}}
 
 Но всё-таки зима, сыро и туман, так что стараешься держаться около 150-160 км/ч. Немного раздражают частые ремонты с лимитом в 80 км/ч и полосами шириной ровно в два метра. Несмотря на сообщения об усилении австрийцами пограничного контроля в связи с наплывом беженцев, никаких препятствий не было ни на голландско-немецкой, ни на немецко-австрийской границах. Просто едешь по трассе и в какой-то момент — бац — и оказываешься в другой стране.
 
@@ -37,23 +37,23 @@ aliases:
 
 Горы начинаются ещё, пока едешь по Германии, по мере приближения к Австрии становясь выше и значительней.
 
-{{< imgfig "https://2.bp.blogspot.com/-_p1Ty_uKKzE/Vrd2quRQzFI/AAAAAAAAlVo/gE23-8J5eFc/s1600/20160123_145947.picasaweb.jpg" "Австрия, берег реки." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/w1u5mths9yc21079.jpg" "Австрия, берег реки." >}}
 
 Последние километров тридцать пролегают по долине {{< wiki "Эцталь" "ru" "Эцталь" >}} ({{< fl "Ötztal" >}}), зажатой с обеих сторон крутыми склонами. Мы остановились в гостинице в небольшом городке {{< wiki "Ленгенфельд_(Тироль)" "ru" "Ленгенфельд" >}} ({{< fl "Längenfeld" >}}), что в пятнадцати минутах горного серпантина от Зёльдена. Апартаменты не то, что с видом на горы — скорее, там кроме гор ничего и не видно.
 
-{{< imgfig "https://3.bp.blogspot.com/-Pg0_atTSQAo/Vrd2qtCbxcI/AAAAAAAAlVo/3Gwcs35Pvtc/s1600/20160124_084309.picasaweb.jpg" "Ленгенфельд. Наша хата с правого краю." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/togy2lizvhag1175.jpg" "Ленгенфельд. Наша хата с правого краю." >}}
 
 ## Зёльден {#solden}
 
 Городок Зёльден, в остальном очень похожий на Ленгенфельд, отличается от него наличием обширной горнолыжной зоны. Она несколько меньше, чем в {{< a "0239" "Ишгле" >}} (**33** подъёмника против **45** и **145 км** склонов против **238 км** в Ишгле), но в целом какая-то более запутанная.
 
-{{< imgfig "https://1.bp.blogspot.com/-0vfBccLPS84/Vri0pDrFXWI/AAAAAAAAlYE/1y_q4EPPPV0/s1600/soelden-ski-map.jpg" "Горнолыжная карта Зёльдена (источник: soelden.com)." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/na93i4ucjazg0266.jpg" "Горнолыжная карта Зёльдена (источник: soelden.com)." >}}
 
 Так, например, вся верхняя левая часть карты, именующаяся «Тифенбахский ледник» ([Tiefenbach Gletscher](http://www.soelden.com/glacier-skiing)), доступна только посредством цепочки лифтов и склонов, начинающейся справа-сверху.
 
 Самый первый лифт поднимает с высоты долины, **1350 м**, до **2284 м** за десять минут ~~зловещей~~ тишины.
 
-{{< imgfig "https://4.bp.blogspot.com/-_6NrsPZYQMQ/Vrd2qmjPJxI/AAAAAAAAlVo/ZhjGxyBv_sE/s1600/20160124_103743.picasaweb.jpg" "Вид на Зёльден из подъёмника канатной дороги." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hk44ggeiv5cr2864.jpg" "Вид на Зёльден из подъёмника канатной дороги." >}}
 
 Теперь о главном.
 
@@ -61,67 +61,67 @@ aliases:
 
 После четырёх часов кувыркания с небольшой группой страдальцев навроде меня (по забавному совпадению все они оказались голландцами) я научился управляемому скольжению на переднем и заднем *кантах*, а также основам разворота с переднего на задний и обратно. Мы практиковались на коротеньком участке склона, каждый раз поднимаясь по нему пешком. Занятие, надо отметить, крайне утомительное.
 
-{{< imgfig "https://3.bp.blogspot.com/-dDJGbAkjwSY/Vrd2qpUu2NI/AAAAAAAAlVo/hXbfU-rohcQ/s1600/20160124_124825.picasaweb.jpg" "Наш тренировочный кусочек склона." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/g4kbvbxhl11s1127.jpg" "Наш тренировочный кусочек склона." >}}
 
 В последующие пять дней я занимался отработкой этих базовых элементов и, скажу без ложной скромности, изрядно в этом преуспел.
 
-{{< imgfig "https://3.bp.blogspot.com/-wCwl_1OeXUg/Vrd2qtEMf9I/AAAAAAAAlVo/H9edzIzkXeo/s1600/20160124_124927.picasaweb.jpg" "Зёльден." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/p0b639qojrfd1722.jpg" "Зёльден." >}}
 
 Новичкам Зёльден предлагает отличный способ сэкономить деньги на пропуске на подъёмники, карточке {{< fl "ski pass" >}}: есть специальная карта {{< fl "Beginners Pass" >}}, которая стоит вдвое дешевле (**€26** в день вместо **€51**), но даёт доступ лишь к одной мини-горке и к одной обычной (склон **№13**).
 
-{{< imgfig "https://2.bp.blogspot.com/-TX_R243N_bo/Vrd2qqGgVpI/AAAAAAAAlVo/y3B0vsW4C7o/s1600/20160128_090432.picasaweb.jpg" "Мини-горка с начинающей сноубордисткой." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/qefb2ttr05u40460.jpg" "Мини-горка с начинающей сноубордисткой." >}}
 
 Для того, чтобы отрабатывать свои падения, ныряния головой в снег и кувыркания вниз по склону, этого вполне достаточно.
 
-{{< imgfig "https://4.bp.blogspot.com/-zGtEl4CfNJ0/Vrd2qkULKiI/AAAAAAAAlVo/auILC-A3qKg/s1600/20160124_160105.picasaweb.jpg" "Склон №13 — как много в этом звуке…" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/38snhmwqgiwh1507.jpg" "Склон №13 — как много в этом звуке…" >}}
 
 Когда мы поднимались на склон около девяти утра, температура обычно была в районе -4…0 °C. Но в ясные дни солнце, едва выйдя из-за вершин на востоке, начинало жарить прямо-таки по-летнему, так что в тени доходило до **+10 °C**, а с учётом высоты в два с лишним километра жжёт оно намного сильнее обычного. Снег на солнце, к счастью, не таял, лишь становясь несколько более липким, но вот в тёплом горнолыжном костюме было ну очень жарко. А ровно в 16:00, когда все подъёмники останавливались, солнце пряталось за западную гряду.
 
-{{< imgfig "https://3.bp.blogspot.com/-7hrVo3Cd7EE/Vrd2qq_ym7I/AAAAAAAAlVo/JlX653n81hk/s1600/20160125_124726.picasaweb.jpg" "Погода была в основном ясной." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/f6x0rt3iqhcf0368.jpg" "Погода была в основном ясной." >}}
 
 За пять дней «тринадцатый» нам порядком осточертел, так что в последний день мы взяли, наконец, полный ски-пасс и пошли смотреть всё остальное.
 
-{{< imgfig "https://2.bp.blogspot.com/-QF38YQtH8So/Vrd2qnLPwrI/AAAAAAAAlVo/mEwKaPN_hhI/s1600/20160125_155718.picasaweb.jpg" "Зёльден." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/53wqax3drx373250.jpg" "Зёльден." >}}
 
 Первым делом мы поднялись по цепочке лифтов на самый верх — на Тифенбахский ледник. С утра там стоял такой туман, что едва ли в десяти метрах можно было что-то различить. Уже это само по себе добавляло адреналинчику.
 
-{{< imgfig "https://1.bp.blogspot.com/-byBg-83oPuA/Vrd2qreEW8I/AAAAAAAAlVo/nT_ejHH6ElY/s1600/20160129_095435.picasaweb.jpg" "Подъёмник на Tiefenbach Gletscher." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/8fyjloro9dwa3430.jpg" "Подъёмник на Tiefenbach Gletscher." >}}
 
 Это любопытное место — лыжный туннель ({{< fl "skitunnel" >}}), проложенный сквозь гору, — пришлось искать почти что наощупь:
 
-{{< imgfig "https://3.bp.blogspot.com/-P2UVObPuNzE/Vrd2quNDPyI/AAAAAAAAlVo/mFeBj9vv0OE/s1600/20160129_101443.picasaweb.jpg" "Лыжный туннель на леднике." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/lfeiqkzbsykfqpe8g3m0.jpg" "Лыжный туннель на леднике." >}}
 
 На леднике оказалось очень просторно — широченные и очень длинные склоны, спуск занимает минут двадцать. Это тебе не 5-7 минут на «тринадцатом». А виды какие!
 
-{{< imgfig "https://3.bp.blogspot.com/-8kAzPpJnDbs/Vrd2qubW3SI/AAAAAAAAlVo/M0DyDz1wGtg/s1600/20160129_114238.picasaweb.jpg" "Тифенбахский ледник." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/2wgbwq9bmzkp3495.jpg" "Тифенбахский ледник." >}}
 
-{{< imgfig "https://2.bp.blogspot.com/-rMrozcg8BwU/Vrd2qvw5MHI/AAAAAAAAlVo/rr8PGtUoWDk/s1600/20160129_113507.picasaweb.jpg" "Тифенбахский ледник." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ct7i132agtdt2048.jpg" "Тифенбахский ледник." >}}
 
 Специально для селфи-филов построили прозрачный мостик, нависающий над пропастью. Иные не могли на него ступить без дрожи в коленках.
 
-{{< imgfig "https://2.bp.blogspot.com/-wuwCGBI_4hk/Vrd2que_mZI/AAAAAAAAlVo/7DWk8vF6NSY/s1600/20160129_113654.picasaweb.jpg" "Селфи-мост." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/nxjba9qv4nfg1836.jpg" "Селфи-мост." >}}
 
 По ту сторону пропасти раскинулись девственные горы. Даже страшно себе представить, сколько метров снега в этих сугробах:
 
-{{< imgfig "https://3.bp.blogspot.com/-Y3W87ZNj6gw/Vrd2qknyGBI/AAAAAAAAlVo/Tz9Hj6TIroI/s1600/20160129_113703.picasaweb.jpg" "Горная целина." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/urd1pph3mvnz0083.jpg" "Горная целина." >}}
 
 Между нами, голландцами, говоря, конец января — самое лучшее время, чтобы быть в тирольских Альпах: превосходная солнечная погода, довольно снега и умеренное количество народу, поскольку самый сезон наступает в начале февраля (хотя первые два фактора, конечно, зависят от везения).
 
 Насчёт же публики — несмотря на вроде бы большое количество людей, очередь на ски-лифты движется очень быстро, и вряд ли приходилось стоять дольше 3-5 минут. Ну а на склонах места хватает с лихвой.
 
-{{< imgfig "https://3.bp.blogspot.com/-Q9VLuERLnuM/Vrd2qqJR_aI/AAAAAAAAlVo/JzGhTD60vTA/s1600/20160129_113532.picasaweb.jpg" "Тифенбахский ледник, 3309 м." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/yoz64vg53hdi0489.jpg" "Тифенбахский ледник, 3309 м." >}}
 
 Накатавшись вдоволь по множеству незнакомых доселе маршрутов, под конец я настолько обнаглел, что решил спуститься в город не на подъёмнике, а своим ходом, по «красному» склону. Тот меня не разочаровал: очень крутое начало без каких либо ограждений, много льда и попадающиеся на пути камни.
 
-{{< imgfig "https://1.bp.blogspot.com/-GHm46gOEjsQ/Vrd2qqJ98gI/AAAAAAAAlVo/XHytxBveT8E/s1600/20160129_161348.picasaweb.jpg" "Спуск в город." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/93ogv6ninfn02522.jpg" "Спуск в город." >}}
 
 В горах, как известно, самые опасные маршруты открывают самые захватывающие виды:
 
-{{< imgfig "https://2.bp.blogspot.com/-cLwcExxn9f0/Vrd2qo_OV-I/AAAAAAAAlVo/B9Yx7Yre7Ao/s1600/20160129_161615.picasaweb.jpg" "Спуск в город." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/g86o6oga14bt1971.jpg" "Спуск в город." >}}
 
 И опять я по ошибке едва не свернул на «чёрный» склон — вовремя вернулся.
 
-{{< imgfig "https://2.bp.blogspot.com/-wnmmNnkfr6M/Vrd2qo7UnoI/AAAAAAAAlVo/q6Hrf4DKC3M/s1600/20160129_162608.picasaweb.jpg" "Спуск в город: развилка." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/iqc5m8qpen1j3290.jpg" "Спуск в город: развилка." >}}
 
 Самым жёстким был участок непосредственно у подножия горы: настолько крутой, что многие лыжники спускались чуть ли не четвереньках, к тому же весь в сугробах, которые для меня были как естественные трамплины. Всё обошлось.
 
@@ -139,34 +139,34 @@ aliases:
 
 И напоследок — ещё немного фото.
 
-{{< imgfig "https://2.bp.blogspot.com/-Ii4FSq-9IxI/Vrd2qrNyuYI/AAAAAAAAlVo/kF-Y4hQ5jG4/s1600/20160126_095436.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/id5miy3skqni1916.jpg" >}}
 
-{{< imgfig "https://3.bp.blogspot.com/-hSOwB-QFqTk/Vrd2qijQvKI/AAAAAAAAlVo/_Qde71fNp7g/s1600/20160128_101736.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/phkze5x738aq1536.jpg" >}}
 
-{{< imgfig "https://4.bp.blogspot.com/-bly_YRKEJzM/Vrd2qjX5b9I/AAAAAAAAlVo/Rni57h4wALE/s1600/20160128_101741.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1wn5312ymbre3451.jpg" >}}
 
-{{< imgfig "https://3.bp.blogspot.com/-Ii0yIno4GjE/Vrd2qiPzauI/AAAAAAAAlVo/1Hfll7LQQlo/s1600/20160128_104805.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/8d38h9vmjs2c3576.jpg" >}}
 
-{{< imgfig "https://4.bp.blogspot.com/-ZFWezKkJO3k/Vrd2qmnjgxI/AAAAAAAAlVo/H1jOzii-b6s/s1600/20160129_113520.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/f7clf3xhpuam3437.jpg" >}}
 
-{{< imgfig "https://1.bp.blogspot.com/--Fkyh1YcYAI/Vrd2qmkKgjI/AAAAAAAAlVo/mE45gLrC_nI/s1600/20160129_113528.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/tufslldiswx10991.jpg" >}}
 
-{{< imgfig "https://4.bp.blogspot.com/-IG6WVSEcp8E/Vrd2qv3EjUI/AAAAAAAAlVo/7Y9Yy9iBpwg/s1600/20160129_113700.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ps84qmdi2kvy3664.jpg" >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-HaPzasd5Uik/Vrd2qpw3mQI/AAAAAAAAlVo/0duu_XBoH-Y/s1600/20160129_114245.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/l5hwcatjicih1689.jpg" >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-VdcRFwVkcxI/Vrd2qmn7XLI/AAAAAAAAlVo/2qqomP37TgU/s1600/20160129_114559.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/t30sjbe2bkzz2287.jpg" >}}
 
-{{< imgfig "https://3.bp.blogspot.com/-cFZBz3bz7HA/Vrd2qmP9g7I/AAAAAAAAlVo/UXqiasBdwoc/s1600/20160129_133902.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/m58m2xpipi9f2572.jpg" >}}
 
-{{< imgfig "https://2.bp.blogspot.com/-T0jgh7KOKi4/Vrd2qva2KwI/AAAAAAAAlVo/-rnb3DU7hnA/s1600/20160129_134858.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/6d5a9axb9as93191.jpg" >}}
 
-{{< imgfig "https://4.bp.blogspot.com/-kifq4A1i_gU/Vrd2qrqEVBI/AAAAAAAAlVo/dDINmGUatJw/s1600/20160129_140223.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/lcuw16i4ru9g2072.jpg" >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-rp1F8-rRW1Y/Vrd2qv_WLNI/AAAAAAAAlVo/2dSwsjYL_O0/s1600/20160129_140231.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xpjzv3kmuiab2011.jpg" >}}
 
-{{< imgfig "https://3.bp.blogspot.com/-tSzauMI45cI/Vrd2qmtvKOI/AAAAAAAAlVo/Su9R_aNOPpo/s1600/20160129_140236.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/3p5owbl8c4r90255.jpg" >}}
 
-{{< imgfig "https://4.bp.blogspot.com/-kETuptLyhUE/Vrd2qqsSwtI/AAAAAAAAlVo/HaX1hVRqdvM/s1600/20160129_143230.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/82i3z2rdqo033184.jpg" >}}
 
-{{< imgfig "https://3.bp.blogspot.com/-4ZrzDjdN-2w/Vrd2qgVcYmI/AAAAAAAAlVo/FZiAd1axTSQ/s1600/20160129_143240.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cxdtk27p5sam2380.jpg" >}}

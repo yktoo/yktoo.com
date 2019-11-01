@@ -3,7 +3,7 @@ type: post
 date: "2013-09-07T00:00:00Z"
 title: "Tackling M-Audio Studiophile speaker power-off popping sound"
 tags: ["gadgets", "hardware", "IKEA", "sound", "speaker"]
-image: "https://1.bp.blogspot.com/-gyclTnBGtwE/Uit7zpz306I/AAAAAAAAaZE/Sz53aBCQC-8/s1600/patrull.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/d4vo7lbyib4g3157.jpg"
 aliases:
     - /en/blog/post/198
 ---
@@ -28,4 +28,4 @@ I've solved this eventually. You only get the popping sound if the speaker's pow
 
 To cut the long story short, I eliminated the problem by plugging an Ikea's {{< fl "Patrull" >}} night light into the nearby socket. It's very compact and draws negligible power:
 
-{{< imgfig "https://1.bp.blogspot.com/-gyclTnBGtwE/Uit7zpz306I/AAAAAAAAaZE/Sz53aBCQC-8/s1600/patrull.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/d4vo7lbyib4g3157.jpg" >}}

@@ -3,7 +3,7 @@ type: post
 date: "2016-05-07T00:00:00Z"
 title: "InfoPi, или Сам себе Гугл Нау"
 tags: ["GitHub", "InfoPi", "Python", "Raspberry Pi", "гаджеты", "гик-порно", "домашняя автоматизация", "очумелые ручки", "сделай сам"]
-image: "https://4.bp.blogspot.com/-D5G4Pn43nqk/VydB2HHGbEI/AAAAAAAAl9Q/eky3gNdNU0wAGHjFxbnwGcreYlwuMP41wCKgB/s1600/dsc02157.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/mppchq6tdmwm1119.jpg"
 aliases:
     - /ru/blog/post/278
 ---
@@ -20,13 +20,13 @@ aliases:
 
 **InfoPi** — это дисплей, подключенный к одноплатному микрокомпьютеру [Raspberry Pi](https://www.raspberrypi.org/). На компьютере запущены крохотный веб-сервер и браузер Chrome в полноэкранном режиме. Дисплей расположен за зеркалом в прихожей, и выглядит всё это примерно так:
 
-{{< imgfig "https://4.bp.blogspot.com/-D5G4Pn43nqk/VydB2HHGbEI/AAAAAAAAl9Q/eky3gNdNU0wAGHjFxbnwGcreYlwuMP41wCKgB/s1600/dsc02157.picasaweb.jpg" "InfoPi в зазеркалье." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/mppchq6tdmwm1119.jpg" "InfoPi в зазеркалье." >}}
 
 На фото выше можно также заметить датчик движения (изящно заткнутый за зеркало). Он нужен, чтобы экран не светился впустую, а включался только когда им кто-нибудь заинтересуется.
 
 Дисплей крупным планом:
 
-{{< imgfig "https://1.bp.blogspot.com/-VLEMekxonLc/VyzCp2yC21I/AAAAAAAAl-Q/xXBi09FB4qotl1YDAVLuU7fdPV6hxldVQCKgB/s1600/info-pi-screenshot.picasaweb.png" "Дисплей InfoPi." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/f64uyzrh4mnb2515.png" "Дисплей InfoPi." >}}
 
 Текущая реализация отображает следующие насущные данные (слева направо, сверху вниз):
 
@@ -48,11 +48,11 @@ aliases:
 
 Вот дисплей со снятыми крышкой и блоком управления:
 
-{{< imgfig "https://3.bp.blogspot.com/-L49yaaKpEYE/Vyc8sZT3UOI/AAAAAAAAl7Y/lr8BMUSqo7wyPMtMn0enXi2j1yzEi7f3ACKgB/s1600/dsc02103.picasaweb.jpg" "Дисплей LG 24MP47 с демонтированным блоком управления." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/uyw2wekja1kt0586.jpg" "Дисплей LG 24MP47 с демонтированным блоком управления." >}}
 
 А вот снятая задняя крышка:
 
-{{< imgfig "https://2.bp.blogspot.com/-tyEOiXBZx9w/Vyc8sfdJ24I/AAAAAAAAl7Y/i1MSxyOF0SU_3FkfEyEkX64mOWRJXC48gCKgB/s1600/dsc02104.picasaweb.jpg" "Крышка блока управления." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/783fwg1az6az0054.jpg" "Крышка блока управления." >}}
 
 Блок управления дисплея (на котором смонтированы разъёмы питания, HDMI и т. д.) связывается с контроллером матрицы посредством шлейфа шириной сантиметра в четыре.
 
@@ -60,27 +60,27 @@ aliases:
 
 Итак, этап номер один. Берём девственно чистую дверь *метеркаста*:
 
-{{< imgfig "https://3.bp.blogspot.com/-rPQJ9VY4DB0/Vyc8sa-LvOI/AAAAAAAAl7Y/v_2l81CE7_MOHjWKo3fn4UuL-XUO83HvgCKgB/s1600/dsc02102.picasaweb.jpg" "Распределительный щиток, он же meterkast." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/rhrbzcgam1sj0469.jpg" "Распределительный щиток, он же meterkast." >}}
 
 Сверлим в ней отверстия для крепления матрицы и прорезаем щель для шлейфа:
 
-{{< imgfig "https://3.bp.blogspot.com/-Y2cNQ4d-7zg/Vyc8sbX3eXI/AAAAAAAAl7Y/j_hhs0cAEEgwdiumDtOn0BL1SWVkpju1wCKgB/s1600/dsc02106.picasaweb.jpg" "Щель для шлейфа к контроллеру матрицы." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/l8e0mm4vld2c1178.jpg" "Щель для шлейфа к контроллеру матрицы." >}}
 
 После этого, запасясь недюжинным терпением, путём сложных акробатических трюков закреплям матрицу на двери и подключаем её к шлейфу, стараясь ничего ненароком не оторвать:
 
-{{< imgfig "https://1.bp.blogspot.com/-RxlszMu85zU/Vyc8sXxxUrI/AAAAAAAAl7Y/jHOafxbug6M36Vcpbu2G3yt_gnevcWMFACKgB/s1600/dsc02107.picasaweb.jpg" "Матрица смонтирована успешно, вроде бы." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/mwt49387q5h22944.jpg" "Матрица смонтирована успешно, вроде бы." >}}
 
 Штатную же крепёжную скобу монтируем с внутренней стороны двери, после чего привинчиваем на своё место блок управления:
 
-{{< imgfig "https://2.bp.blogspot.com/-MOKpCaz-OOw/Vyc8sWMbSEI/AAAAAAAAl7Y/VoXdmSnDMK85HicA2Nwudoh_kyOFjXbrACKgB/s1600/dsc02108.picasaweb.jpg" "Блок управления дисплея со внутренней стороны двери." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/gx4svr0mhebf0253.jpg" "Блок управления дисплея со внутренней стороны двери." >}}
 
 После этого можно накрыть всё это дело родной крышкой, красиво спрятать кабели, и станет почти что профессионально:
 
-{{< imgfig "https://1.bp.blogspot.com/-Qq2xP9AgWRI/Vyc8sYEc0DI/AAAAAAAAl7Y/FlVzmsN4HpM9XD8KQcEfII6GHkOyJM-egCKgB/s1600/dsc02161.picasaweb.jpg" "Задняя крышка установлена на место." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/876wagj0hjtc3647.jpg" "Задняя крышка установлена на место." >}}
 
 Компьютер Raspberry Pi установлен внутри щитка, подключен к питанию (Micro USB), дисплею (HDMI) и локальной сети (Ethernet). Блок питания монитора включен через беспроводной приёмник, управляемый вышеупомянутым датчиком движения:
 
-{{< imgfig "https://4.bp.blogspot.com/-yluFYfqf8lg/Vyc8sVJbjGI/AAAAAAAAl7Y/IEaEbYQPtZYW39_FGHv6FADr47P6v_c_gCKgB/s1600/dsc02162.picasaweb.jpg" "Мозг, сердце и лёгкие InfoPi." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cdyhvaxzae7w3489.jpg" "Мозг, сердце и лёгкие InfoPi." >}}
 
 ## Зеркальная часть {#mirror}
 
@@ -96,45 +96,45 @@ aliases:
 
 **Шаг №2:** чтобы герметик было легче отклеивать, по внутреннему периметру прямоугольника наклеиваем обычный скотч.
 
-{{< imgfig "https://1.bp.blogspot.com/-4euAR1CDE0Y/Vyc8scsZqpI/AAAAAAAAl7Y/xqesIdIRsu8_hVyaWdB3T6F47VqhFeztQCKgB/s1600/20160410_164439.picasaweb.jpg" "Скотч с внутренней стороны рамки." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/2xvpo12lumvr0351.jpg" "Скотч с внутренней стороны рамки." >}}
 
 **Шаг №3:** наносим герметик, стараясь попадать точно на границу прямоугольника и соблюдать равномерную его высоту.
 
-{{< imgfig "https://3.bp.blogspot.com/-SvBG778w7GQ/Vyc8sQHMzII/AAAAAAAAl7Y/h4wfyASYfV4tiUCl9R-2-g4q4AyBC-MXACKgB/s1600/20160410_165829.picasaweb.jpg" "Силиконовый герметик нанесён." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xbpwvroqtao21672.jpg" "Силиконовый герметик нанесён." >}}
 
-{{< imgfig "https://3.bp.blogspot.com/-Rumjtc5OmQ4/Vyc8sSvK_YI/AAAAAAAAl7Y/RhLm4wDOCjcCRmBjGbgxnLvLF4buCOWwwCKgB/s1600/20160412_200524.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/7czr67opn4qm1015.jpg" >}}
 
 **Шаг №4:** после того, как силикон немного затвердеет (несколько часов), аккуратно надрезаем его по линии и удаляем внутреннюю часть вместе со скотчем:
 
-{{< imgfig "https://2.bp.blogspot.com/-Wkpja2qmnEU/Vyc8sYXkrkI/AAAAAAAAl7Y/zF0G34Siwz0-pP5ewpdnogxcAP3eutORQCKgB/s1600/20160412_201054.picasaweb.jpg" "Силикон обрезан и удалён." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/r0ptishlz47j3656.jpg" "Силикон обрезан и удалён." >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-gFrYqhiH9SQ/Vyc8sXZV2LI/AAAAAAAAl7Y/A7GfNQNcweUfjPwULH5C_IUGiOnLpsFAwCKgB/s1600/20160412_201105.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/5y04cl7hs8jy1856.jpg" >}}
 
 **Шаг №5:** столь же аккуратно заливаем ацетон в получившийся бассейн:
 
-{{< imgfig "https://2.bp.blogspot.com/-v085c0z_Nrc/Vyc8saYCY_I/AAAAAAAAl7Y/Vvza11Ieu7Ep1F58GhHHkhFHJmihkkVNgCKgB/s1600/20160412_201218.picasaweb.jpg" "Наливаем ацетон." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/g38d1kwq929t3269.jpg" "Наливаем ацетон." >}}
 
-{{< imgfig "https://4.bp.blogspot.com/-TZTMognboKI/Vyc8sUSZQgI/AAAAAAAAl7Y/5HLgeCz1JJ4dq4ZIJYjD7ijCw0QZH9NCwCKgB/s1600/20160412_201531.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zdkt34qvn6u83291.jpg" >}}
 
 Чёрт, немного подтекает в углу, но не страшно:
 
-{{< imgfig "https://3.bp.blogspot.com/-oVkyhgdegoQ/Vyc8sUqr4NI/AAAAAAAAl7Y/Sda78tW8lT0iHN2LCthtG-u4NLahe4WtgCKgB/s1600/20160412_201540.picasaweb.jpg" "Микроавария." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0zyaxwa4m9gd1075.jpg" "Микроавария." >}}
 
 **Шаг №6:** вновь запасаемся терпением — на несколько дней, периодически помешивая ацетон и проверяя состояние краски. Неплохо также ванночку чем-нибудь накрыть, так как иначе ацетон будет испаряться и его придётся подливать. В какой-то момент (где-то через неделю) краска начинает поддаваться предмету умеренной твёрдости (лучше всего использовать какую-нибудь деталь из ПВХ). Под слоем обычной краски, как я упоминал выше, краска на медной основе:
 
-{{< imgfig "https://1.bp.blogspot.com/-EHXtIH6tE14/Vyc8sewLd3I/AAAAAAAAl7Y/IDiHf6-B-8ACG6AlI57AQZxDJUUdKKFLgCKgB/s1600/20160414_204457.picasaweb.jpg" "Первый пошёл!" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/wg3nr6hzn6cy1631.jpg" "Первый пошёл!" >}}
 
 **Шаг №7:** скребком из ПВХ соскабливаем всё, что соскабливается, периодически это всё удаляя и подливая свежего ацетона. В этом месте я обнаружил, что под медной краской есть ещё один, третий, тёмный защитный слой:
 
-{{< imgfig "https://1.bp.blogspot.com/-QIyaNJCx0bY/Vyc8sV4P9CI/AAAAAAAAl7Y/c7oMPQpMRgIecsaCnmX8uCh6u9a1alJowCKgB/s1600/20160414_215426.picasaweb.jpg" "Третий и частично второй защитный слои." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/nklphbsr1bmo1198.jpg" "Третий и частично второй защитный слои." >}}
 
 **Шаг №8:** остался последний защитный слой. Вновь подливаем ацетон и ждём несколько дней:
 
-{{< imgfig "https://2.bp.blogspot.com/-5P0e-sesL5s/Vyc8scs5CuI/AAAAAAAAl7Y/TrUwirSPduk-3baZYXLX5ryYLUfsUeprwCKgB/s1600/20160416_222005.picasaweb.jpg" "Последний защитный слой." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/nmcgx1755uue0002.jpg" "Последний защитный слой." >}}
 
 **Шаг №9:** удаляем этот тёмный слой, как только он к этому готов. Здесь лучше всего действовать тканью или бумажными салфетками, поскольку непосредственно под ним — зеркальное напыление:
 
-{{< imgfig "https://4.bp.blogspot.com/-aTkMFYO1lW8/Vyc8scVBnSI/AAAAAAAAl7Y/QwnadZjt4oEB6m4Wmg8TJCxpjPrgrUk8gCKgB/s1600/20160418_205105.picasaweb.jpg" "Остался только зеркальный слой." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/muglpwsbqr3q2754.jpg" "Остался только зеркальный слой." >}}
 
 **Шаг №10:** убираем оставшийся герметик, стараясь не повредить то, к чему он намертво приклеился.
 

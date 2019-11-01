@@ -4,7 +4,7 @@ date: "2015-05-15T00:00:00Z"
 title: "Part 2. Connect and control"
 series: "4K UHD TV Samsung UE75HU7500: a complete review"
 tags: ["gadgets", "hardware", "review", "Samsung", "Smart TV", "TV"]
-image: "https://3.bp.blogspot.com/-0CGZRIUxw6Y/VQRWkHJD1bI/AAAAAAAAhRA/0XrRfe5pGQc/s1600/UE75UH7500-rear.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/vv5r1islwn8x1421.jpg"
 aliases:
     - /en/blog/post/244
 ---
@@ -13,7 +13,7 @@ aliases:
 
 All available connectors in this TV are located at its rear side:
 
-{{< imgfig "https://3.bp.blogspot.com/-0CGZRIUxw6Y/VQRWkHJD1bI/AAAAAAAAhRA/0XrRfe5pGQc/s1600/UE75UH7500-rear.jpg" "Connector panel." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vv5r1islwn8x1421.jpg" "Connector panel." >}}
 
 Namely they are:
 
@@ -49,7 +49,7 @@ There is also a satellite decoder, and the TV even supports dish positioning sys
 
 This TV is shipped with a pair of remotes, a conventional one and an innovative *Smart Touch Control*, which looks very much like a soap bar.
 
-{{< imgfig "https://4.bp.blogspot.com/-bQX0VwHEZo8/VQQrD0tswxI/AAAAAAAAhOQ/_wC-QEMtOeg/s1600/dsc08040.picasaweb.jpg" "Remotes shipped with the TV." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ccpetwtdhlnb0937.jpg" "Remotes shipped with the TV." >}}
 
 The conventional remote needs no additional explanation, it uses regular infrared (IR) transmission to send commands to the TV.
 
@@ -57,13 +57,13 @@ The "soap bar" is a more peculiar piece of technology. It only uses IR to send o
 
 Apart from the minimal set of buttons, it features a big touchpad button in the middle. By putting you finger on it you turn the remote into a mouse, when a light spot that appears on the screen serves as a cursor:
 
-{{< imgfig "https://1.bp.blogspot.com/-g_oguiQkB04/VQQrEUet_nI/AAAAAAAAhPU/OgDCwdv8rNk/s1600/dsc08042.picasaweb.jpg" "Smart Touch pointer." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1fei3fjfqtaz2235.jpg" "Smart Touch pointer." >}}
 
 You move the spot by tilting the remote, which has gyroscopes to track its orientation. To "click" the mouse you just press the button. And if you lift your finger off the button, the spot disappears. This is quite a handy feature, and well implemented.
 
 It's especially handy for typing on the on-screen keyboard:
 
-{{< imgfig "https://4.bp.blogspot.com/-9hABg2lEx5Y/VQQrC3Ry4iI/AAAAAAAAhPY/op1LbT7udwY/s1600/dsc08038.picasaweb.jpg" "The on-screen keyboard." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/j4qnt7p4fugg2050.jpg" "The on-screen keyboard." >}}
 
 As mentioned above, the button is also a touchpad that allows horizontal and vertical scrolling, for example, in the web browser. But I found this function quite difficult to use, since the touchpad was always either over- or irresponsive.
 
@@ -75,7 +75,7 @@ In addition to the two remote controls, you can connect a regular keyboard and/o
 
 And one more thing to mention is *Motion Control*, which allows controlling the device using gestures and requires a camera. With the Motion Control on you can move a screen cursor with your index finger and "click" by bending the finger. As soon as the TV notices it's being pointed at, it displays big screen buttons and a finger cursor:
 
-{{< imgfig "https://3.bp.blogspot.com/-S6qeqFdPFMA/VVSxgXjZJdI/AAAAAAAAjbo/j898un8hh3w/s1600/dsc09503.picasaweb.jpg" "Motion Control." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/v1yky1ixjgja1619.jpg" "Motion Control." >}}
 
 For this to work you have to be 1.5 to 5 m away from the screen, and well visible. So it won't work in the darkness, for example. Also the convenience of this way of controlling the TV is questionable in my opinion. It's just way faster to grab a remote and push a button.
 
@@ -83,7 +83,7 @@ For this to work you have to be 1.5 to 5 m away from the screen, and well visibl
 
 The infrared blaster mentioned {{< a "0243" "before" >}} can transmit commands to various devices, which makes it possible to control them with your TV's remote in most cases. Once set up, the TV will switch your set-top box (STB) on and off automatically. It can also change channels, invoke STB's menu and TV guide:
 
-{{< imgfig "https://1.bp.blogspot.com/-0MuO3X94Xxw/VQQq-l-Z4rI/AAAAAAAAhNY/09W6N1eVgJk/s1600/dsc08029.picasaweb.jpg" "Invoking TV guide from TV's remote." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xm13glpjcd2c0840.jpg" "Invoking TV guide from TV's remote." >}}
 
 Of course, this screen doesn't support the mouse mode (the STB knows nothing of it), so you'll have to use the arrow buttons. But it's still quite handy and works well.
 

@@ -3,7 +3,7 @@ type: post
 date: "2011-03-21T00:00:00Z"
 title: "Мавроди, ммм..."
 tags: ["деньги", "забавное"]
-image: "https://2.bp.blogspot.com/-mnnKcKFgSho/TYei73m2M-I/AAAAAAAAIFE/aGPO5gSOFXY/s800/brunei-dollar.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/7r9gj2byanw01912.jpg"
 aliases:
     - /ru/blog/post/77
 ---
@@ -14,19 +14,19 @@ aliases:
 
 Многочисленные обмены денег приносили порой любопытные артефакты, то ли случайно, то ли нет затесавшиеся в пачке донгов или ринггитов. Например, брунейский доллар с забавным прозрачным окошком в банкноте:
 
-{{< imgfig "https://2.bp.blogspot.com/-mnnKcKFgSho/TYei73m2M-I/AAAAAAAAIFE/aGPO5gSOFXY/s800/brunei-dollar.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/7r9gj2byanw01912.jpg" >}}
 
 <!--more-->
 
 Или вот, две тысячи индонезийских рупий:
 
-{{< imgfig "https://2.bp.blogspot.com/-cCHttaCGBbw/TYei_LrlUCI/AAAAAAAAIFI/qze6zibhcXM/s1600/indonesia-rupiah.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/7ep4do7ka8yw2975.jpg" >}}
 
 Это всё, по крайней мере, понятно и объяснимо — валют там в окрестностях Индокитая крутится множество, люди снуют через границы и меняют деньги.
 
 Но вот это:
 
-{{< imgfig "https://2.bp.blogspot.com/-wHycciZMD14/TYejCKXu8oI/AAAAAAAAIFM/t4ymxGC9Qhg/s1600/mavrodi-1000.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ii3g3s9qc3om1184.jpg" >}}
 
 Всё по-взрослому: серийный номер, защита, водяные знаки.
 

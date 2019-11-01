@@ -4,7 +4,7 @@ date: "2015-05-24T00:00:00Z"
 title: "Часть 5. Видео и  аудио, поддержка форматов"
 series: "Полный обзор 75-дюймового 4K-телевизора Samsung UE75HU7500"
 tags: ["Samsung", "Smart TV", "гаджеты", "железо", "обзор", "телевизоры"]
-image: "https://3.bp.blogspot.com/-eIIk0Sd62Vg/VQR30d7BAQI/AAAAAAAAhRg/i5YLx1xPeFY/s1600/Samsung_video_formats.png"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/rhtzlfix5mvx2539.png"
 aliases:
     - /ru/blog/post/247
 ---
@@ -13,7 +13,7 @@ aliases:
 
 Встроенный в телевизор видеоплеер имеет внушительную поддержку форматов и кодеков. Поддерживаются и FLV, и MKV, и даже новомодные кодеки {{< wiki "H.265" "ru" "H.265" >}} и {{< wiki "WebM" "ru" "VP8 (WebM)" >}}:
 
-{{< imgfig "https://3.bp.blogspot.com/-eIIk0Sd62Vg/VQR30d7BAQI/AAAAAAAAhRg/i5YLx1xPeFY/s1600/Samsung_video_formats.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/rhtzlfix5mvx2539.png" >}}
 
 <!--more-->
 
@@ -35,29 +35,29 @@ aliases:
 
 Вернёмся к видеоплееру. Его интерфейс прост, как автомат Калашникова.
 
-{{< imgfig "https://1.bp.blogspot.com/-3lkkkcDHHSQ/VWCKI_EOYMI/AAAAAAAAjeo/2c7IdbmJt-U/s1600/dsc08044.picasaweb.jpg" "Встроенный видеоплеер." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xt56z2ebh53d3554.jpg" "Встроенный видеоплеер." >}}
 
 Очень хорошо, что поддерживаются субтитры — как встроенные, так и отдельными файлами (.srt, .sub, .psb и т.д.)
 
-{{< imgfig "https://1.bp.blogspot.com/-tcgNFfjVlsg/VQQrFyL_dOI/AAAAAAAAhPI/nX_ML9G_n-Q/s1600/dsc08045.picasaweb.jpg" "Настройки субтитров." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/62ene4h7q8ik3607.jpg" "Настройки субтитров." >}}
 
 Также можно переходить по главам:
 
-{{< imgfig "https://4.bp.blogspot.com/-_fuI_O5QSF0/VQQrGQMdAUI/AAAAAAAAhPE/Npx-lTMuZlQ/s1600/dsc08047.picasaweb.jpg" "Список глав." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/qtkaez0w507r1703.jpg" "Список глав." >}}
 
 И, чаще всего, перематывать в произвольное место:
 
-{{< imgfig "https://1.bp.blogspot.com/-1vBWIMQ6T2U/VQQrGpigPXI/AAAAAAAAhO4/UB3uYjKqIvg/s1600/dsc08048.picasaweb.jpg" "Управление плеером." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1yyombjko2bb1786.jpg" "Управление плеером." >}}
 
 ## Аудио {#audio}
 
 Поддерживаемые аудиоформаты:
 
-{{< imgfig "https://2.bp.blogspot.com/-EfuWLsU5sPQ/VQR5iKklWaI/AAAAAAAAhRw/E1lJV_3YABo/s1600/Samsung_audio_formats.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vlumlb5i5j2p2111.png" >}}
 
 Аудиоплеер тоже довольно незамысловат, и к тому же несколько… э-э… крупноват для такого экрана.
 
-{{< imgfig "https://1.bp.blogspot.com/-6Cf1Rr_D3UY/VWCKI45zEpI/AAAAAAAAjeg/xe4Nvpu8eoU/s1600/dsc08050.picasaweb.jpg" "Встроенный аудиоплеер." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/2bewux2vorlb0894.jpg" "Встроенный аудиоплеер." >}}
 
 Звуковая система в телевизоре для форм-фактора школьной доски — весьма достойного качества, но для меломанов явно недостаточного. Поэтому я планирую дополнить акустику саундбаром и сабвуфером.
 

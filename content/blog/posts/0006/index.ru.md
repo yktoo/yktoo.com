@@ -3,7 +3,7 @@ type: post
 date: "2008-04-10T00:00:00Z"
 title: "Баарн"
 tags: ["Баарн", "Нидерланды"]
-image: "https://1.bp.blogspot.com/-1Rr9ioJXb7w/XW6G4ntHdYI/AAAAAAAAxIA/qcM_h09DsmI8LZr5hfSXX6zlED1D9lzeQCKgBGAs/s1600/P1000007.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/hl13ooo36dl53390.jpg"
 places:
     - place0170
 aliases:
@@ -12,27 +12,27 @@ aliases:
 
 Баарн, где расположен мой офис, так же, как и {{< a "0005" "Суст" >}}, – небольшая деревня, со всё теми же кирпичными домиками с черепичной крышей и ухоженными садиками.
 
-{{< imgfig "https://1.bp.blogspot.com/-1Rr9ioJXb7w/XW6G4ntHdYI/AAAAAAAAxIA/qcM_h09DsmI8LZr5hfSXX6zlED1D9lzeQCKgBGAs/s1600/P1000007.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hl13ooo36dl53390.jpg" >}}
 
 <!--more-->
 
 Попадаются и чуть более крупные дома.
 
-{{< imgfig "https://1.bp.blogspot.com/-k4zuLcpwBsg/XW6G4njtp2I/AAAAAAAAxIA/9kU9NzjP7Zkl0JcWn5AOa8sqTWqNAyicgCKgBGAs/s1600/P1000009.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9ye6c2w0c9582123.jpg" >}}
 
 На фото выше можно заметить «распятые деревья» — голландцы считают, что это красиво, когда ветви растопырены и растут горизонтально.
 
 Время от времени слышны крики петухов и по-прежнему на улицах почти никого. Деревня ведь.
 
-{{< imgfig "https://1.bp.blogspot.com/-11S7b8y9jFE/XW6HKsGAMvI/AAAAAAAAxIM/8gxwYS2BBQ0RIJTBJEmPkZU2fp0fYVt9ACKgBGAs/s1600/P1000006.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/rjqnyajz8qfz0654.jpg" >}}
 
 В офисе тоже обычно не сильно людно, почти все работают в офисах заказчиков. Вот оно, здание нашего офиса:
 
-{{< imgfig "https://1.bp.blogspot.com/-91EOmNu9U5c/XW6HKsjdApI/AAAAAAAAxIM/KnAo49aRA9Emq60jhhc8iigN2hIqrByzwCKgBGAs/s1600/P1000005.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/qhw79sniik302431.jpg" >}}
 
 Первым делом секретарша устроила мне экскурсию по офису и популярно объяснила назначение того или иного помещения и всего остального. Офис состоит из двух больших комнат, на втором этаже и в мансарде. В первой сидят все разработчики, а за перегородкой есть ещё и неплохая кухня с мойкой, холодильником, микроволновкой и т. п.
 
-{{< imgfig "https://1.bp.blogspot.com/-JBzeJE4Gtkg/XW6G4hxclcI/AAAAAAAAxIA/9fWkD9-1oMUP0e3ZadPK5Wq5VOwBU03iQCKgBGAs/s1600/P1000011.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/y801pmnsz7zx2066.jpg" >}}
 
 В мансарде, на третьем этаже, обычно проводятся всякие встречи и собрания, а также работает босс – скромно так, за столиком, никаких отдельных кабинетов и кожаных диванов. То есть в целом всё довольно демократично, чего и следовало ожидать. Холодильник ломится от всяких «Севен-Апов» и «Фант», которые здесь доступны за счёт фирмы. Кроме того, есть великое многообразие сортов чая и кофе, для заваривания последнего имеется кофемашина. А воду все – вы только представьте! – наливают прямо из-под крана, серьёзно. У неё нет цвета и даже запаха нет. То есть я подозреваю, что в отличии от продуктов отечественного водоканала, местная вода вместо всей таблицы Менделеева содержит только пару самых необходимых компонентов.
 

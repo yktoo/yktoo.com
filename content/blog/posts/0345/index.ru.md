@@ -7,7 +7,7 @@ tags:
     - Нидерланды
     - свадьба
     - Зейст
-image: "https://1.bp.blogspot.com/-wy6w96RgkKY/XSssvrVGv3I/AAAAAAAAwXM/dQaxNjr7C3QjjWyuGQBZcW2jZ-EGXFYcQCKgBGAs/s1600/a%2526d.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/n3b9b8u7cza33324.jpg"
 places:
     - place0310
 aliases:
@@ -20,7 +20,7 @@ aliases:
 
 **13 июля 2019** года всё стало официально:
 
-{{< imgfig "https://1.bp.blogspot.com/-wy6w96RgkKY/XSssvrVGv3I/AAAAAAAAwXM/dQaxNjr7C3QjjWyuGQBZcW2jZ-EGXFYcQCKgBGAs/s1600/a%2526d.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/n3b9b8u7cza33324.jpg" >}}
 
 Церемония была проведена в самом красивом зале, что нам удалось найти: в муниципалитете города {{< fl "Zeist" >}}.
 

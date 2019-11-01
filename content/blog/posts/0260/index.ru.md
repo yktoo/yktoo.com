@@ -3,7 +3,7 @@ type: post
 date: "2015-09-09T00:00:00Z"
 title: "Ирония киви"
 tags: ["забавное", "Нидерланды", "сад", "Хаутен"]
-image: "https://3.bp.blogspot.com/-ZgRGq4qWqoA/VcmVSoHwqhI/AAAAAAAAkE0/bRlBGvavJrQ/s1600/dsc00467.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/04bvdttax8aq0077.jpg"
 aliases:
     - /ru/blog/post/260
 ---
@@ -12,7 +12,7 @@ aliases:
 
 Лет десять назад наша соседка посадила киви. Киви рос-рос, разросся на оба наших сада, но так и не принёс ни одного плода — до последнего лета. В середине августа на растении было замечено самое настоящее киви! Но, по иронии судьбы, глупый фрукт вырос с нашей стороны изгороди, чем немало огорчил соседку (хоть она и не сознаётся).
 
-{{< imgfig "https://3.bp.blogspot.com/-ZgRGq4qWqoA/VcmVSoHwqhI/AAAAAAAAkE0/bRlBGvavJrQ/s1600/dsc00467.picasaweb.jpg" "Хаутенский киви." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/04bvdttax8aq0077.jpg" "Хаутенский киви." >}}
 
 <!--more-->
 

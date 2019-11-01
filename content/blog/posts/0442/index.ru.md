@@ -9,7 +9,7 @@ tags:
     - мото
     - пробки
     - ПДД
-image: "https://1.bp.blogspot.com/-7ukqpMe0fTY/XbcEhbpb14I/AAAAAAAAzEM/n0FdonsF__Y1N0ho5YC3a1FttK-NOxsBwCKgBGAsYHg/s1600/2019-10-28_motorcycle-traffic-jam-2.w.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/vkxtjrtz7t1l3281.jpg"
 imageCredit: "Фото: ANWB."
 ---
 
@@ -27,7 +27,7 @@ imageCredit: "Фото: ANWB."
 
 Мотоциклисту *разрешено* в пробке проезжать между полосами движения. При этом его скорость не должна отличаться от скорости потока более, чем на **10 км/ч**. Также он обязан ехать *между двумя крайними левыми* полосами. Когда поток машин вновь начинает двигаться, он должен встроиться в него, показав перестроение поворотником.
 
-{{< imgfig "https://1.bp.blogspot.com/-7ukqpMe0fTY/XbcEhbpb14I/AAAAAAAAzEM/n0FdonsF__Y1N0ho5YC3a1FttK-NOxsBwCKgBGAsYHg/s1600/2019-10-28_motorcycle-traffic-jam-2.w.jpg" "Как разрешено проезжать пробку. Фото: ANWB." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vkxtjrtz7t1l3281.jpg" "Как разрешено проезжать пробку. Фото: ANWB." >}}
 
 ## 2. Почему они не могут просто ехать между машинами вместе со всеми?
 

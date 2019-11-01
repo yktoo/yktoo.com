@@ -3,14 +3,14 @@ type: post
 date: "2015-06-14T00:00:00Z"
 title: "USB-тестеры и скорость зарядки"
 tags: ["USB", "гаджеты", "гик-порно", "зарядка", "обзор"]
-image: "https://1.bp.blogspot.com/-MqZjV3rsQvM/VXwZXvZ32vI/AAAAAAAAjmk/9Zt8qmDaahw/s1600/dsc09609.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/r54xwb1o2p410736.jpg"
 aliases:
     - /ru/blog/post/251
 ---
 
 Из чистого любопытства заказал пару USB-тестеров с eBay (которых там [видимо-невидимо](http://www.ebay.com/sch/i.html?_nkw=usb+voltage+tester)).
 
-{{< imgfig "https://1.bp.blogspot.com/-MqZjV3rsQvM/VXwZXvZ32vI/AAAAAAAAjmk/9Zt8qmDaahw/s1600/dsc09609.picasaweb.jpg" "USB-тестеры." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/r54xwb1o2p410736.jpg" "USB-тестеры." >}}
 
 Для справки: *USB-тестер* ({{< fl "USB voltage and current tester" >}}) — устройство для измерения напряжения и тока, поступающего с USB-порта в какой-либо гаджет, чаще всего от этого порта заряжаемый.
 
@@ -24,11 +24,11 @@ aliases:
 
 Модель №1 совсем простая, и обошлась она в пару евро с учётом пересылки. Она снабжена 4-разрядным светодиодным индикатором, который попеременно, с интервалом примерно в 4 секунды, показывает напряжение в вольтах:
 
-{{< imgfig "https://1.bp.blogspot.com/-Z-VJQ3B-Obw/VXwZXhg4S8I/AAAAAAAAjmo/gRc79ZLu_-8/s1600/dsc09610.picasaweb.jpg" "Модель №1: режим измерения напряжения." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/19h5as2qdqev0859.jpg" "Модель №1: режим измерения напряжения." >}}
 
 И ток в амперах:
 
-{{< imgfig "https://3.bp.blogspot.com/-BNz0vvL6czo/VXwZXpR_H9I/AAAAAAAAjkg/9GSDFZBmt1U/s1600/dsc09611.picasaweb.jpg" "Модель №1: режим измерения тока." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/epinzvi3rlnp2794.jpg" "Модель №1: режим измерения тока." >}}
 
 ### Характеристики
 
@@ -44,7 +44,7 @@ aliases:
 
 Модель №2 — более продвинутая и стоила уже около пяти евро (тоже с учётом пересылки). В ней ЖК-дисплей с приятной белой подсветкой, отображающий сразу четыре параметра: напряжение, ток, время заряда (часы:минуты) и заряд:
 
-{{< imgfig "https://1.bp.blogspot.com/-s-8y55VRUeU/VXwZYGP-wXI/AAAAAAAAjmc/WtRk_F2vWfw/s1600/dsc09612.picasaweb.jpg" "Модель №2." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/m2dzwc9kpuqa0360.jpg" "Модель №2." >}}
 
 Счётчик времени увеличивается только в процессе заряда.
 
@@ -63,7 +63,7 @@ aliases:
 
 Этот тестер способен сохранять значения времени и заряда даже при отключенном питании. Сбрасываются они в ноль специальной кнопкой:
 
-{{< imgfig "https://1.bp.blogspot.com/-rWvPnV2-mUk/VXwZY7tVHtI/AAAAAAAAjk0/V5uVVrRA-cs/s1600/dsc09617.picasaweb.jpg" "Кнопка сброса показаний времени и заряда." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xh2fzp18u2hh2792.jpg" "Кнопка сброса показаний времени и заряда." >}}
 
 ## Сравнение тестеров: напряжение {#comparison-voltage}
 
@@ -71,11 +71,11 @@ aliases:
 
 Начнём со сравнения показаний напряжения — для обоих заявлена погрешность не более 1%, что для 5 вольт составляет 50 мВ.
 
-{{< imgfig "https://1.bp.blogspot.com/-U7jynNboKFE/VXwZYTZJEOI/AAAAAAAAjks/f9oMvbXzwNs/s1600/dsc09613.picasaweb.jpg" "Сравнение показаний напряжения." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/4jmoboj1702k1928.jpg" "Сравнение показаний напряжения." >}}
 
 Нетрудно заметить, что показания отличаются больше, чем на 0,05 В (5,29 vs. 5,22). Мультиметр сообщает, что истина, как всегда, где-то посередине:
 
-{{< imgfig "https://1.bp.blogspot.com/-JWFayL2k0YI/VXwZYsaFLYI/AAAAAAAAjms/QrpWk1rT3SY/s1600/dsc09616.picasaweb.jpg" "Контролируем напряжение мультиметром." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/x3sm3cxty9792683.jpg" "Контролируем напряжение мультиметром." >}}
 
 Так что оба устройства, строго говоря, вписываются в вилку ±50 мВ.
 
@@ -83,23 +83,23 @@ aliases:
 
 Теперь сравним показания тока. На предыдущем фото можно заметить, что модель №1 сама потребляет около 10 мА. Если поменять их местами, то первая модель вообще не обнаруживает ток, потребляемый второй (видимо, он меньше 10 мА):
 
-{{< imgfig "https://4.bp.blogspot.com/--gEf-Sk8zxY/VX3D85xNN1I/AAAAAAAAjoQ/CKT8xCF7-YQ/s1600/dsc09638.picasaweb.jpg" "Ток, потребляемый моделью №2." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/lupbmq8ittf72714.jpg" "Ток, потребляемый моделью №2." >}}
 
 Будем учитывать это при сравнении их показаний.
 
 Итак, подключаем нагрузку, в качестве которой выступает телефон Samsung Galaxy Note 4, к источнику питания (адаптер от Apple iPad, максимальный выходной ток 2 А):
 
-{{< imgfig "https://4.bp.blogspot.com/-rNd4zTx0IUM/VX3D87Rwu0I/AAAAAAAAjng/XM95EdEjPDg/s1600/dsc09639.picasaweb.jpg" "Измерение тока обоими тестерами, адаптер Apple iPod." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/dkx79jnvvykv1094.jpg" "Измерение тока обоими тестерами, адаптер Apple iPod." >}}
 
 Показания слегка различаются. Самое любопытное, что, если поменять тестеры местами, ток заметно падает:
 
-{{< imgfig "https://2.bp.blogspot.com/-5x2LWWySYwY/VX3D8769igI/AAAAAAAAjoI/DKX7nL71hLs/s1600/dsc09640.picasaweb.jpg" "Измерение тока обоими тестерами, адаптер Apple iPod." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/sid1qcvcf1e52557.jpg" "Измерение тока обоими тестерами, адаптер Apple iPod." >}}
 
 При этом показания модели №1 стабильно ниже. Впрочем, разница не столь велика.
 
 Ещё один любопытный эксперимент: заменим блок питания на китайский «4-в-1», максимальный выходной ток 2,1 А. Ток возрастает:
 
-{{< imgfig "https://3.bp.blogspot.com/-A8WcYwUhBko/VX3D9zT_fWI/AAAAAAAAjnw/YgmXoj8C5ow/s1600/dsc09642.picasaweb.jpg" "Измерение тока обоими тестерами, адаптер ноунейм 2,1 А." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/tfzc3a3ad7qg2800.jpg" "Измерение тока обоими тестерами, адаптер ноунейм 2,1 А." >}}
 
 В этот раз показания очень близки, а если учесть ток, потребляемый тестером справа, так и вообще идентичные. Тест можно считать пройденным.
 
@@ -113,7 +113,7 @@ aliases:
 
 С одним-единственным тестером эппловский адаптер отдаёт 1,57 ампера, напряжение при этом проседает до 4,97 В:
 
-{{< imgfig "https://1.bp.blogspot.com/-N9Gm-yNoizk/VX3D-JfnzfI/AAAAAAAAjn4/iqETHzW53gI/s1600/dsc09643.picasaweb.jpg" "Адаптер Apple: ток 1,57 А." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/o7kcbsq48uve2505.jpg" "Адаптер Apple: ток 1,57 А." >}}
 
 В общем, ток он отдаёт нехотя, и полный свой потенциал может раскрыть лишь с одноимёнными устройствами.
 
@@ -123,41 +123,41 @@ aliases:
 
 Родной качественный самсунговский кабель от Galaxy Note 4, длина около метра:
 
-{{< imgfig "https://4.bp.blogspot.com/-FSb6Engcpso/VXwZZpn8VwI/AAAAAAAAjlM/ywSe0LsVhUw/s1600/dsc09620.picasaweb.jpg" "Кабель от Samsung Galaxy Note 4." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/5ndvci2iz3hy2616.jpg" "Кабель от Samsung Galaxy Note 4." >}}
 
 Подключаем телефон — ток заряда 1,74 ампера:
 
-{{< imgfig "https://1.bp.blogspot.com/-2jQr7gpU848/VXwZZFB5YbI/AAAAAAAAjlA/z-p_FuJDvi4/s1600/dsc09618.picasaweb.jpg" "Кабель Samsung: ток 1,74 А." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/wun77yfe94ta1336.jpg" "Кабель Samsung: ток 1,74 А." >}}
 
 Неродной, но добротный кабель [Hema](http://www.hema.nl/winkel/school-en-kantoor/media-en-computer/accessoires/micro-usb-usb-laadkabel-(60300009)) длиной два метра — ток падает до 1,22 А:
 
-{{< imgfig "https://1.bp.blogspot.com/-hJiWdy6C2-Y/VX3D-Wfy-LI/AAAAAAAAjoM/-Nnp0vZUQro/s1600/dsc09644.picasaweb.jpg" "Кабель Hema: 2 м, ток 1,22 А." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/veemyrtyfxhh0430.jpg" "Кабель Hema: 2 м, ток 1,22 А." >}}
 
 Совсем неродной, очень китайский, но чертовски удобный Muvit Retractable Micro USB, длина в растянутом виде около 70 см:
 
-{{< imgfig "https://2.bp.blogspot.com/-8klp0zAHlfE/VXwZaPyrViI/AAAAAAAAjmU/12gdTE_TIE0/s1600/dsc09621.picasaweb.jpg" "Кабель Muvit Retractable." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ld4nc9gfyclg3049.jpg" "Кабель Muvit Retractable." >}}
 
 С ним ток падает ещё сильнее, до 1,11 А:
 
-{{< imgfig "https://2.bp.blogspot.com/-1VkGZUIy77c/VXwZZR6PREI/AAAAAAAAjmY/CLUI5IyRGUo/s1600/dsc09619.picasaweb.jpg" "Кабель Muvit Retractable: ток 1,11 А." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/shgwx2ip3l4f3372.jpg" "Кабель Muvit Retractable: ток 1,11 А." >}}
 
 Столь же китайский, тоже очень удобный, но уже совершенно безымянный суперкомпакт длиною 20 см. Стоят они на том же Ибее пару евро за пучок, а фишка в том, что его концы примагничиваются друг к другу:
 
-{{< imgfig "https://4.bp.blogspot.com/-uFylho9Cfx0/VXwZahQ5HLI/AAAAAAAAjmQ/flgVhtnmEHY/s1600/dsc09623.picasaweb.jpg" "Кабель 20 см." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/5mmteur05o0y2998.jpg" "Кабель 20 см." >}}
 
 А теперь сюрприз — ток заряда с ним точно такой же, как и с оригинальным, 1,74 А:
 
-{{< imgfig "https://1.bp.blogspot.com/-xezanMGziLQ/VXwZa8-WqOI/AAAAAAAAjmI/tZqzR6m7BSQ/s1600/dsc09624.picasaweb.jpg" "Кабель 20 см: ток 1,74 А." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/7y9kmh0e9dbw1089.jpg" "Кабель 20 см: ток 1,74 А." >}}
 
 Но основной сюрприз впереди. Совершенный и окончательный китайский ноунейм, прибывший с каким-то копеечным гаджетом — кабель Micro USB длиной около полуметра, на вид совершенно обычный. Но внешность, как выяснилось, обманчива: ток заряда с ним падает до 220 мА, то есть почти в *восемь раз*!
 
-{{< imgfig "https://3.bp.blogspot.com/-N1-65s4I2j0/VX3D_DAXOAI/AAAAAAAAjn8/UK3a33oS274/s1600/dsc09646.picasaweb.jpg" "Кабель ноунейм: ток 0,22 А." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/j845yljluj4c1525.jpg" "Кабель ноунейм: ток 0,22 А." >}}
 
 Телефон через это чудесное изделие будет заряжаться, соответственно, в восемь раз дольше. Такие дела.
 
 Теперь проверим одновременную зарядку двух устройств. Суммарный ток даже слегка превысил обещанные 2,1 А:
 
-{{< imgfig "https://1.bp.blogspot.com/-HKWyta1yP0Q/VXwZcfYmNAI/AAAAAAAAjmM/TLhdjP8UqyQ/s1600/dsc09630.picasaweb.jpg" "Зарядка двух устройств одновременно: суммарный ток 2,19 А." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vqh6baliq7ue0560.jpg" "Зарядка двух устройств одновременно: суммарный ток 2,19 А." >}}
 
 ### Активный USB-хаб
 
@@ -165,27 +165,27 @@ aliases:
 
 Заменим адаптер на активный USB-хаб (оснащённый двухамперным блоком питания):
 
-{{< imgfig "https://4.bp.blogspot.com/-JLRk0gnGvyw/VXwZbCFCu-I/AAAAAAAAjlo/Jh55Nkd84nY/s1600/dsc09625.picasaweb.jpg" "Зарядка от USB-хаба, ток 0,94 А." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/sf3vb30nq48i0388.jpg" "Зарядка от USB-хаба, ток 0,94 А." >}}
 
 С нашим референсным розовым шнурком ток падает почти вдвое. Модель №1 с этим согласна:
 
-{{< imgfig "https://4.bp.blogspot.com/-g9dE7HUR_lk/VXwZbMQ7kUI/AAAAAAAAjl4/HjVTXaaetak/s1600/dsc09626.picasaweb.jpg" "Зарядка от USB-хаба, ток 0,92 А." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fxpatbdphzbe1837.jpg" "Зарядка от USB-хаба, ток 0,92 А." >}}
 
 ### Адаптер Samsung Galaxy Note 4
 
 Теперь самое экзотичное. Последний писк моды, адаптер от Samsung Galaxy Note 4 (макс. выходной ток 2,1 А), украшенный надписью {{< fl "Adaptive Fast Charging" >}}, на вид похож на миллион других USB-адаптеров, и на холостом ходу выдаёт ожидаемые 5 вольт.
 
-{{< imgfig "https://4.bp.blogspot.com/-T7yKE_d1B-0/VXwZb1urnSI/AAAAAAAAjmE/h5uiWs36At8/s1600/dsc09628.picasaweb.jpg" "Адаптер Samsung, напряжение 5 В." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/bjvpip27f7m91796.jpg" "Адаптер Samsung, напряжение 5 В." >}}
 
 Однако если к нему подключить именно тот девайс, для которого он предназначен, то он ВНЕЗАПНО начинает выдавать напряжение 9 вольт!
 
-{{< imgfig "https://2.bp.blogspot.com/-IVziVIqIxRo/VXwZbsJ8TzI/AAAAAAAAjl0/oi_RT6URe1I/s1600/dsc09627.picasaweb.jpg" "Адаптер Samsung, напряжение 9 В." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/u626i74a25vd2986.jpg" "Адаптер Samsung, напряжение 9 В." >}}
 
 Ток при этом почти такой же, соответственно, аккумулятор должен заряжаться почти вдвое быстрее. Остаётся надеяться, что схема адаптивной зарядки не ошибается в выборе напряжения и для других устройств будет выдавать нормальные пять вольт.
 
 Судя по всему, самсунговцы засунули в него ещё и немаленький конденсатор, поскольку, отключенный от сети, он ещё продолжает питать тестер с полминуты:
 
-{{< imgfig "https://4.bp.blogspot.com/-JuRTRHWPoPg/VXwZbykx5bI/AAAAAAAAjmA/o3LQnJbGeqc/s1600/dsc09629.picasaweb.jpg" "Остаточный заряд в адаптере." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/4pe7mcbd1ngi0001.jpg" "Остаточный заряд в адаптере." >}}
 
 ## Выводы {#conclusions}
 

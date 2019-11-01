@@ -3,7 +3,7 @@ type: post
 date: "2017-06-03T00:00:00Z"
 title: "Обзор наушников Xiaomi In-Ear Headphones Pro HD"
 tags: ["In-Ear Headphones Pro HD", "Mi", "Xiaomi", "анбоксинг", "гаджеты", "железо", "звук", "наушники", "обзор"]
-image: "https://3.bp.blogspot.com/-aKpXFZ3-oIw/WSajHsRGiBI/AAAAAAAAp_I/4NJnW6NuYIgKl85gw0584Iok9YjhpLS4wCKgB/s1600/mi-headphone.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/89594ti5zeur0760.jpg"
 aliases:
     - /ru/blog/post/326
 ---
@@ -12,7 +12,7 @@ aliases:
 
 <!--more-->
 
-{{< imgfig "https://3.bp.blogspot.com/-aKpXFZ3-oIw/WSajHsRGiBI/AAAAAAAAp_I/4NJnW6NuYIgKl85gw0584Iok9YjhpLS4wCKgB/s1600/mi-headphone.picasaweb.jpg" "КДПВ: Mi In-Ear Headphones Pro HD." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/89594ti5zeur0760.jpg" "КДПВ: Mi In-Ear Headphones Pro HD." >}}
 
 Наушники я заказал на {{< fl "eBay" >}} после того, как услышал о них несколько очень положительных отзывов. Заявленные характеристики при цене всего лишь около **€21** (вместе с пересылкой в Нидерланды) выглядели любопытно.
 
@@ -27,11 +27,11 @@ aliases:
 
 Использование такой конструкции фактически превращает наушник в трёхполосный излучатель, где каждый диапазон (низы, средние и верха) обслуживается отдельным драйвером.
 
-{{< imgfig "https://3.bp.blogspot.com/-mXD2Px24ztw/WS65HPIak7I/AAAAAAAAqAw/kJcpUi7q_TEWLcN66wWXs1yD05Qr-ph4wCKgB/s1600/mi-headphone-inside.picasaweb.jpg" "Наушник изнутри." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xzj3v19hdqzc3585.jpg" "Наушник изнутри." >}}
 
 Все внешние элементы — сами наушники, пульт управления и штекер — сделаны из металла, анодированного алюминиевого сплава, что очень хорошо выглядит и приятно на ощупь.
 
-{{< imgfig "https://2.bp.blogspot.com/-2uL-h0gNHwc/WS66PkhCb6I/AAAAAAAAqBM/eBDkqln53dUd8yPQo6WbA4ExmvAslxnCACKgB/s1600/mi-headphones-large.picasaweb.jpg" "Наушники (рендер Xiaomi)." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/3te9opzurkh70051.jpg" "Наушники (рендер Xiaomi)." >}}
 
 Чёрные вставки-крышечки сделаны из долговечного и прочного циркониевого стекла.
 
@@ -68,23 +68,23 @@ aliases:
 
 Поставляется устройство в крепкой картонной коробке, запаянной в пластик. Упаковке явно уделено особое внимание — премиальный продукт, все дела.
 
-{{< imgfig "https://3.bp.blogspot.com/-ceKJmdj6zA4/WSaeJ36WX-I/AAAAAAAAp-U/rh3uAuo2-Pw-IW4UpAcMnQs5167lhoFogCKgB/s1600/dsc05183.picasaweb.jpg" "Коробка наушников." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/i4vezjik6k4y3174.jpg" "Коробка наушников." >}}
 
 Внутри пластиковый бокс с собственно наушниками и картонная коробочка, в которой лежит чехол.
 
-{{< imgfig "https://2.bp.blogspot.com/-W6SntRfo-Cs/WSaeJyRK84I/AAAAAAAAp-U/p7k9vbabBSka7MlZSAMPBQvlOI-zDPlSwCKgB/s1600/dsc05184.picasaweb.jpg" "Содержимое коробки." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zimgh047toy53187.jpg" "Содержимое коробки." >}}
 
 Вот всё, что идёт в комплекте: бокс, чехол и инструкция на китайском:
 
-{{< imgfig "https://3.bp.blogspot.com/-8NV9_yRTeHo/WSaeJ9t61UI/AAAAAAAAp-U/rSfBClc_4acjgs2gdsQx6uVV1BnN45D-gCKgB/s1600/dsc05185.picasaweb.jpg" "Комплект поставки." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/p6st8zgd9cjx0748.jpg" "Комплект поставки." >}}
 
 В довольно увесистом боксе из толстого пластика лежат хитроумно накрученные на силиконовый держатель наушники, а под ним — три комплекта сменных насадок ({{< fl "XS" >}}, {{< fl "S" >}} и {{< fl "L" >}}). Включая те, что на наушниках ({{< fl "M" >}}), получается целых четыре типоразмера на уши любых габаритов:
 
-{{< imgfig "https://4.bp.blogspot.com/-WInKT2kzwA4/WSaeJ5tWxLI/AAAAAAAAp-U/IgO5cDpB_JkYfLO-mzthzFA_sWBbnnuSwCKgB/s1600/dsc05186.picasaweb.jpg" "Пластиковый бокс и его содержимое." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cu4peg55jnvq2801.jpg" "Пластиковый бокс и его содержимое." >}}
 
 Требуется немало терпения, чтобы размотать провод, уложенный в канавки держателя.
 
-{{< imgfig "https://4.bp.blogspot.com/-CGPnnQ9NcSM/WSaeJ5huZ_I/AAAAAAAAp-U/om-lSDbnn9kLPQgiYCWkAQAvrKXa9av6wCKgB/s1600/dsc05187.picasaweb.jpg" "Силиконовый держатель." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pusover65dr33416.jpg" "Силиконовый держатель." >}}
 
 Но чтобы его столь же красиво намотать обратно, терпение потребуется просто дьявольское (ангельское). Судя по размерам прилагаемого чехла, мысль конструкторов состояла в том, что наушники будут вкладываться в него именно в боксе.
 
@@ -92,11 +92,11 @@ aliases:
 
 Сам наушник выглядит очень похоже на рендер, качество исполнения действительно на высоте. Насадка-вкладыш располагается под углом в 45° к корпусу:
 
-{{< imgfig "https://1.bp.blogspot.com/-gU9K1bsWVMw/WSaeJ1sG14I/AAAAAAAAp-U/E3VtthXQOTYg13x5Nkx7YMP1l4m_UsudACKgB/s1600/dsc05188.picasaweb.jpg" "Наушник." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/aivxoij5sw442047.jpg" "Наушник." >}}
 
 Пульт, также изготовленный из анодированного алюминия и расположенный на проводе правого наушника (около **10 см** ниже него), имеет три кнопки:
 
-{{< imgfig "https://4.bp.blogspot.com/-rbup_CPzg_M/WSaeJy3OzOI/AAAAAAAAp-U/BgwH8rnl6mk1JE5d063500C32i-htvmhACKgB/s1600/dsc05189.picasaweb.jpg" "Пульт." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/c02bikgpw9f02197.jpg" "Пульт." >}}
 
 При подключении к моему {{< fl "Samsung Galaxy Note 4" >}} функции кнопок такие, сверху вниз:
 
@@ -108,7 +108,7 @@ aliases:
 
 Увенчан провод длиной чуть больше метра 3,5-миллиметровым штекером. Штекер прямой, что, на мой взгляд, лучше загнутого — меньше шансов его ненароком поломать.
 
-{{< imgfig "https://3.bp.blogspot.com/-VlYiESL6-Tg/WSaeJxBc_VI/AAAAAAAAp-U/dH6YmiGRft46jn1ZyA2hWA0VFKmwu1R3ACKgB/s1600/dsc05190.picasaweb.jpg" "Штекер." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/o9e0hv4n8qu91967.jpg" "Штекер." >}}
 
 ## Звучание {#sound}
 

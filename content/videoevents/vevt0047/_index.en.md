@@ -5,7 +5,7 @@ dateFrom: 2017-11-07
 dateTo: 2017-11-07
 location: "Patronaat, Haarlem, Netherlands"
 websiteUrl: ""
-image: "https://3.bp.blogspot.com/-UoCLu__BjpE/WlyLaFkdTWI/AAAAAAAArjg/wwjHJlXV6LIfFTAvuQUcnlZRztnk5gjEACKgBGAs/s1600/dsc07131.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/ntd6fci3j8641268.jpg"
 videocategories: music
 posts: ""
 ---

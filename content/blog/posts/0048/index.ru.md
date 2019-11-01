@@ -3,7 +3,7 @@ type: post
 date: "2010-03-25T00:00:00Z"
 title: "Внимательность"
 tags: ["вежливость", "Нидерланды"]
-image: "https://4.bp.blogspot.com/-ofK9WbwTmPk/S6txAgzFm-I/AAAAAAAAFIY/o-U7wo2JT8I/s1600/image020.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/tqbix8gyq8gd3008.jpg"
 aliases:
     - /ru/blog/post/48
 ---
@@ -12,7 +12,7 @@ aliases:
 
 Вот пример уведомления, разосланного жильцам где-то с месяц назад:
 
-{{< imgfig "https://4.bp.blogspot.com/-ofK9WbwTmPk/S6txAgzFm-I/AAAAAAAAFIY/o-U7wo2JT8I/s1600/image020.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/tqbix8gyq8gd3008.jpg" >}}
 
 <!--more-->
 

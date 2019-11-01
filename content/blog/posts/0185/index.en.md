@@ -3,7 +3,7 @@ type: post
 date: "2013-05-22T00:00:00Z"
 title: "Amersfoort Jazz Festival 2013"
 tags: ["Amersfoort", "flamenco", "jazz", "music", "video"]
-image: "https://1.bp.blogspot.com/-j2AvSpmVd38/UZ0Lc33S2gI/AAAAAAAAYb8/IZqfcD6m0aE/s1600/dsc08865.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/0o3yv6u8ib7v2787.jpg"
 places:
     - place0010
 aliases:
@@ -12,7 +12,7 @@ aliases:
 
 Last weekend, 16 through 19 May 2013, the traditional yearly jazz festival took place in Amersfoort, as I {{< a "0183" "announced" >}}. Its thirty-fourth edition, to be precise. Chaired by the well-known Alexander Beets:
 
-{{< imgfig "https://1.bp.blogspot.com/-j2AvSpmVd38/UZ0Lc33S2gI/AAAAAAAAYb8/IZqfcD6m0aE/s1600/dsc08865.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0o3yv6u8ib7v2787.jpg" >}}
 
 <!--more-->
 
@@ -26,17 +26,17 @@ The venue was our [Flehite](http://www.museumflehite.nl/) city museum. It happen
 
 But in the end it was decidedly worth it. For the first time in my life I witnessed a flamenco performance right before me.
 
-{{< imgfig "https://3.bp.blogspot.com/-KFzgpbyXSdo/UZ0LVJpd_AI/AAAAAAAAYbc/DzB77sYMgYs/s1600/dsc08853.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xbbph2a7yvc30566.jpg" >}}
 
 The singer's name is {{< fl "Erminia Fernández Córdoba" >}}. She was born in 1980 in Argentina (La Plata) and grew up in Spain (Alicante). Last 15 years she has been living in Holland and is nowadays a singer in genres jazz, pop, South-African and flamenco.
 
-{{< imgfig "https://1.bp.blogspot.com/-S268gCvZyA0/UZ0LaGEJl6I/AAAAAAAAYb0/IEaZ40D4vKU/s1600/dsc08863.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/gzlqg8nwtor70995.jpg" >}}
 
 Her husband [Arturo Ramón](http://www.arturoramon.com/) was born in 1981 in The Hague (Holland) from a Dutch father and a Spanish mother. He performs quite often and has recorded a number of CDs.
 
 The pianist is a Dutch guy called {{< fl "Thijs Borsten" >}}, very bright and expressive. I liked his play a lot and will keep an eye on him for the future.
 
-{{< imgfig "https://4.bp.blogspot.com/-QJo0W8ob7r8/UZ0LYQFIlnI/AAAAAAAAYbs/V0cO9J1cD_s/s1600/dsc08861.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/si9byfa4etuc2289.jpg" >}}
 
 Here's one of the videos I've taken at the concert:
 
@@ -56,7 +56,7 @@ All videos of that concert:
 
 [The Nordanians](http://www.nordanians.com/) is a six-headed band with a funny sound and somewhat mechanical music.
 
-{{< imgfig "https://2.bp.blogspot.com/-lxhW-APmGT8/UZ0LMx_CuVI/AAAAAAAAYa8/8i42TLhCt1Y/s1600/dsc08847.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/dmk15d3iombv2496.jpg" >}}
 
 They play a guitar, a violin, a cello, a tabla and so on. I'd hardly call this jazz, but it's fun to see. Here's one of their tracks:
 
@@ -64,7 +64,7 @@ They play a guitar, a violin, a cello, a tabla and so on. I'd hardly call this j
 
 There were a lot of kids on the festival. As they find nothing interesting in jazz, they were doing something like this.
 
-{{< imgfig "https://4.bp.blogspot.com/-4XLxqev-60E/UZ0LOgEnWsI/AAAAAAAAYbE/ur2sgMkc70k/s1600/dsc08849.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cgy480n9r08t1045.jpg" >}}
 
 ## Anna Cuijpers {#anna-cuijpers}
 
@@ -82,7 +82,7 @@ It's a band formed on {{< fl "Ruud Jacobs'" >}} 75<sup>th</sup> birthday. Ruud p
 
 It's a bunch of jazz celebrities who performed in the closing act of the festival.
 
-{{< imgfig "https://1.bp.blogspot.com/-627Ot11ouyM/UZ0LepMgIyI/AAAAAAAAYcE/HlbTH6_pYms/s1600/dsc08868.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ljb2tcrzrcbx1541.jpg" >}}
 
 Left to right, armed by saxes:
 

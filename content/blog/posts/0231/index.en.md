@@ -3,7 +3,7 @@ type: post
 date: "2014-11-30T00:00:00Z"
 title: "Replacing HDD with SSD in iMac 2010"
 tags: ["Apple", "DIY", "gadgets", "geek porn", "hardware", "iMac", "Samsung", "Samsung 840 EVO", "SSD", "Trusty Tahr", "Ubuntu"]
-image: "https://3.bp.blogspot.com/-xltYgdRdnE8/VHtgOV2coLI/AAAAAAAAgP8/ZtsO1--34Jk/s1600/Samsung-840-EVO-SSD-1TB.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/kong7rdm7e450507.jpg"
 aliases:
     - /en/blog/post/231
 ---
@@ -16,7 +16,7 @@ At that moment I already had plans to upgrade it with an SSD ({{< wiki "Solid-st
 
 My volume preference was the same as before, i.e. one terabyte. Therefore the choice was quite limited, namely **Samsung SSD 840 EVO 1TB**:
 
-{{< imgfig "https://3.bp.blogspot.com/-xltYgdRdnE8/VHtgOV2coLI/AAAAAAAAgP8/ZtsO1--34Jk/s1600/Samsung-840-EVO-SSD-1TB.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/kong7rdm7e450507.jpg" >}}
 
 Fortunately, the prices for such SSDs are *kind of* affordable now.
 
@@ -35,7 +35,7 @@ I didn't have special suction cups as per the instruction, so I used regular car
 
 So here's the computer with the glass detached:
 
-{{< imgfig "https://3.bp.blogspot.com/-OXsMRwMtzAs/VGENsu3yi-I/AAAAAAAAgDw/dhfFbYziOj4/s1600/dsc06333.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/wvmp7r4qm5h23389.jpg" >}}
 
 ## 2. Remove the display module
 
@@ -45,29 +45,29 @@ I'd recommend yet again to watch the above mentioned [video](http://www.youtube.
 
 The iMac without the display module:
 
-{{< imgfig "https://1.bp.blogspot.com/-HnSY5yBTljw/VGENll70rPI/AAAAAAAAgC4/QNtQTfil0s0/s1600/dsc06326.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/v5jty8np50vd1877.jpg" >}}
 
 The victim, prematurely dead **Seagate Barracuda 7200.12**, is at the center:
 
-{{< imgfig "https://1.bp.blogspot.com/-3qXCAtH3Cao/VGENmpCF4QI/AAAAAAAAgDA/ZygBkpAZgeg/s1600/dsc06327.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/lrugy90clov00820.jpg" >}}
 
 ## 3. Take the HDD out
 
 Unscrew two screws at the top and take the corpse out. Its bottom is fixed by pins, so you can simply pull it up and out. Don't forget to unplug the data and the power cable, and also the thermal interface (explained below in more detail).
 
-{{< imgfig "https://1.bp.blogspot.com/-SH9ikeve6JU/VGENnslmtPI/AAAAAAAAgDI/WnspvdcJHV0/s1600/dsc06328.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/i8p9emve10os2463.jpg" >}}
 
 ## 4. Prepare the brace for SSD
 
 Samsung's SSD is much smaller than the monster that lived there before. However we won't need any special adapters or mounts. It's enough to drill two holes ⌀ 3 mm in the original brace:
 
-{{< imgfig "https://1.bp.blogspot.com/-YvAdYG32X1M/VGENoXEO7AI/AAAAAAAAgDQ/H9EmliWL9v4/s1600/dsc06329.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/w2airpr85u2l1366.jpg" >}}
 
 ## 5. Mount the SSD
 
 Since there's no moving part in an SSD and the device itself is very lightweight, two screws are more than enought for a reliable mount:
 
-{{< imgfig "https://4.bp.blogspot.com/-J7YOrWyXYjg/VGENpVxqqII/AAAAAAAAgDY/FQyqFzloYUk/s1600/dsc06330.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/2qh7flr1iwl00063.jpg" >}}
 
 The brace is to be reattached at its original position, then connect the data and the power cables.
 
@@ -81,7 +81,7 @@ If you leave the thermal interface unplugged, the system assumes the drive tempe
 
 But I followed another advice, also found somewhere on the net. I've just jumped the connector with a piece of wire:
 
-{{< imgfig "https://1.bp.blogspot.com/-Aw8QhsE8c1A/VGENqq0ykpI/AAAAAAAAgDg/Vo26DGmSpn4/s1600/dsc06331.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/bdp35753gnzw0532.jpg" >}}
 
 I didn't see any negative effects of such a blunt solution during the next months of active usage. The fan's behaving well, so is the system as a whole.
 
@@ -89,7 +89,7 @@ I didn't see any negative effects of such a blunt solution during the next month
 
 Now retrace your moves of the step #2 by reconnecting the cables and refixing the display with eight screws. If you've got everything right, the computer will start up and ask you what to do next.
 
-{{< imgfig "https://1.bp.blogspot.com/-L20OSRj1vrc/VGENrsYfMsI/AAAAAAAAgDo/v8s9gu63rTg/s1600/dsc06332.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/bim5m90lifwv0987.jpg" >}}
 
 ## To conclude
 

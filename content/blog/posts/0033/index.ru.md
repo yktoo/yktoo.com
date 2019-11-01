@@ -3,7 +3,7 @@ type: post
 date: "2009-01-11T00:00:00Z"
 title: "Бельгия: Антверпен, Гент, Брюгге"
 tags: ["Антверпен", "Бельгия", "Брюгге", "Гент", "путешествия"]
-image: "https://2.bp.blogspot.com/-yhURGXvi90Q/T4nsHkz_qMI/AAAAAAAAOnw/46paXtsboVU/s1600/imgp1822.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/wi4s25c2o3z60518.jpg"
 places:
     - place0146
     - place0147
@@ -19,7 +19,7 @@ aliases:
 
 ## Антверпен {#antwerp}
 
-{{< imgfig "https://2.bp.blogspot.com/-yhURGXvi90Q/T4nsHkz_qMI/AAAAAAAAOnw/46paXtsboVU/s1600/imgp1822.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/wi4s25c2o3z60518.jpg" >}}
 
 <!--more-->
 
@@ -27,7 +27,7 @@ aliases:
 
 Что же до упомянутого исторического центра, то там есть впечатляющие, в основном, при вечернем освещении, вещи.
 
-{{< imgfig "https://2.bp.blogspot.com/-bg9PvReuDdA/T4nr4ZmkmKI/AAAAAAAAOmU/zjAFVP4-oEw/s1600/imgp1817.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pscbmu1s0fcn1578.jpg" >}}
 
 Кроме того, здесь проходит множество музыкальных мероприятий: рок- и джаз-концерты (в том числе и бесплатные), различные шоу и выступления, но всё это подразумевает свободу от мелкого, но подрастающего поколения, чего мы были лишены.
 
@@ -35,81 +35,81 @@ aliases:
 
 Недалеко от центральной площади, на набережной, расположен небольшой парк аттракционов с большим колесом обозрения.
 
-{{< imgfig "https://2.bp.blogspot.com/-ElU9l-OZE5E/T4nsQPc0ndI/AAAAAAAAOok/iVjCvVb9P6I/s1600/imgp1819.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/x1qndtbs6vrm0856.jpg" >}}
 
 Оно, в отличие от тех, что я видел, крутится весьма быстро и останавливается, когда нужно кого-то посадить или высадить. Кабинки закрываются от ветра стеклянными дверьми, а за €50 можно арендовать кабинку с отоплением и шампанским.
 
 Ещё тем вечером мы прогуливались по доку под названием {{< fl "Willemdok" >}}, и мне захотелось сфотографировать этот вид. Как только я приладил фотоаппарат и сделал снимок, из пришвартованной лодки выскочил хозяин и стал мне что-то втирать про его privacy и гражданские права. Я его уверил, что для меня его прайваси священна, вот подтверждение:
 
-{{< imgfig "https://3.bp.blogspot.com/-X_pt14CAnxo/T4nslS6WD6I/AAAAAAAAOqs/cQ5akydu9aY/s1600/imgp1834.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zi9cw37yzsv01699.jpg" >}}
 
 Поняв, что договориться со мной не удастся, мужик заскочил в лодку и зашторил все окна. Правильно — раз уж так переживает.
 
 ## Гент {#ghent}
 
-{{< imgfig "https://4.bp.blogspot.com/-Axs3Ork_mao/T4nr73uJK-I/AAAAAAAAOmo/-gwp6FaksbY/s1600/imgp1828.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/m2uy0k3ioqr22982.jpg" >}}
 
 Гент ({{< fl "Ghent" >}}) уже был ближе к теме. Городок поменьше и почище. Было холодно, и масштабной прогулки не получилось.
 
 Из того, что мы увидели, примечательным был замок графов Фландрии, построенный аж в 1180 г., с любопытной паутинкой в углу, предназначение которой, как я подозреваю, в укреплении стен:
 
-{{< imgfig "https://3.bp.blogspot.com/-LjOup4YqObI/T4nsJ7P84pI/AAAAAAAAOoE/sU8uAqp-GOQ/s1600/imgp1832+%2528Modified%2529.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/gq81grau3fc41153.jpg" >}}
 
 Ещё одно любопытное место — улица {{< fl "Werregarenstraat" >}}. Это единственная улица в городе, где граффити официально разрешено, и граффитисты там отрываются по полной:
 
-{{< imgfig "https://4.bp.blogspot.com/-v-89GQddXL0/T4nsGAHRyRI/AAAAAAAAOns/7CaJTKmgIZY/s1600/imgp1829.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/v4p9kikv2s3x1452.jpg" >}}
 
 Вечером мы встретили в нашей гостинице русских туристов, пару из Архангельска. Они нам поведали о своих странствиях и невзгодах в Бельгии (например, о штрафе за неправильную парковку — обычное дело, т.&nbsp;к. разобраться в европейских правилах парковки с непривычки непросто), а также помогли определиться с выбором города, который мы посмотрим в последний день. Среди кандидатов были Мехелен ({{< fl "Mechelen" >}}), Брюгге ({{< fl "Brugge" >}}) и Брюссель. Поскольку нас интересовала в основном красивая архитектура, место было выбрано быстро.
 
 ## Брюгге {#bruges}
 
-{{< imgfig "https://4.bp.blogspot.com/-CSXsKVnZI8w/T4nsiJV-A9I/AAAAAAAAOqQ/Zob2a3D6g94/s1600/imgp1867.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/8mz2n2g2rktz0079.jpg" >}}
 
 Вышеупомянутых туристов сподвиг на поездку фильм «Залечь на дно в Брюгге» ({{< fl "In Bruges" >}}, так себе фильмец, по-моему). И действительно, он впечатляет, что косвенно подтверждают полчища туристов на его улицах:
 
-{{< imgfig "https://4.bp.blogspot.com/-PzXG6rRhtAM/T4nsD2u-ibI/AAAAAAAAOnY/DaVq9gBp5Uk/s1600/imgp1847.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9q0lr6ju7nma1614.jpg" >}}
 
 Их столько, что даже за едой очереди:
 
-{{< imgfig "https://4.bp.blogspot.com/-yoQxP1vOdYo/T4nsg-M_CxI/AAAAAAAAOqM/E3qGI9KVQ-M/s1600/imgp1846.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/j2a5fbzt8p3d0078.jpg" >}}
 
 Замёрзшие каналы ослепительно красивы:
 
-{{< imgfig "https://4.bp.blogspot.com/-lF4Z68b8ySQ/T4nsANbTliI/AAAAAAAAOnE/UA-OqzwPtvQ/s1600/imgp1835.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zn5aq3wti6yx1027.jpg" >}}
 
-{{< imgfig "https://4.bp.blogspot.com/-VXhtJyYdd98/T4nsSTzHrbI/AAAAAAAAOo0/S7B3-_t4W8o/s1600/imgp1862.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0xcvqvvj7t0y0519.jpg" >}}
 
 В галерее проходит выставка очень смешных кошек:
 
-{{< imgfig "https://3.bp.blogspot.com/-ukDgrLFB8a8/T4nr3D2gVrI/AAAAAAAAOmM/M2cmzJzztms/s1600/imgp1845.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ybejxt6jit1e1122.jpg" >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-oaILtkLHHvI/T4nsjF0ju6I/AAAAAAAAOqc/Ir9KU9AeUo8/s1600/imgp1843.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/5izibqdyx61e2212.jpg" >}}
 
 На самое высокое здание — башню высотой 107 метров — мы не попали, так как в очереди там пришлось бы стоять с час, если не больше.
 
-{{< imgfig "https://1.bp.blogspot.com/-w762HIhIBYo/T4nsLFoyosI/AAAAAAAAOoM/5dyUCWRLzaM/s1600/imgp1848.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vr4529lpp4e31273.jpg" >}}
 
 Исторические здания, каналы, мощёные булыжником улицы, как принято писать в путеводителях, «создают неповторимый колорит старой Европы».
 
-{{< imgfig "https://3.bp.blogspot.com/-aHv20V9FL7g/T4nsYyGVnnI/AAAAAAAAOpQ/qNwxVzbelpQ/s1600/imgp1854.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/a3tqa8koybhp1707.jpg" >}}
 
-{{< imgfig "https://2.bp.blogspot.com/-ZTuUL-TSfNU/T4nsaINNyHI/AAAAAAAAOpc/2qOSV4BUcEc/s1600/imgp1863.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/bv6ll9dh5rba3447.jpg" >}}
 
 Привожу здесь некоторое количество фотографий, которые этот колорит передают лишь частично. Highly, как говорится, recommended.
 
-{{< imgfig "https://3.bp.blogspot.com/-VR_X8zWdIU0/T4nske9zirI/AAAAAAAAOqk/YY7J6V5z4PA/s1600/imgp1860.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/smwtesqtivss0061.jpg" >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-yRBEu-2-fd4/T4nr-ByYD4I/AAAAAAAAOm8/qmYS6jQ7JVs/s1600/imgp1857.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/gx5g9623y1a51077.jpg" >}}
 
-{{< imgfig "https://4.bp.blogspot.com/-sH_RNVgdkUg/T4nsW_2noLI/AAAAAAAAOpE/7QUy20GrBhw/s1600/imgp1855.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/usp9v778lsuq0356.jpg" >}}
 
-{{< imgfig "https://3.bp.blogspot.com/-Y-UmqRP-Esw/T4nsTvv9PAI/AAAAAAAAOo8/apu19LeE2R4/s1600/imgp1851.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1kg7pa9tb0s12359.jpg" >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-WzxNTfsXqV8/T4nsbdREWOI/AAAAAAAAOpk/Z2t3t0wQHJw/s1600/imgp1841.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/nrfd7dk7tal81880.jpg" >}}
 
-{{< imgfig "https://4.bp.blogspot.com/-34rEBTg9RrA/T4nscZNnPdI/AAAAAAAAOps/Uci7IDQgvuo/s1600/imgp1837.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/mo7sablx9cjf2645.jpg" >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-PeUGs8eLTPQ/T4nsNk69MpI/AAAAAAAAOoU/1gOI3nkZtZ8/s1600/imgp1836.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/l1bb1e0y92tq3129.jpg" >}}
 
 В целом от поездки в Бельгию впечатление осталось положительное — во многом благодаря именно Брюгге. Из неприятного было неважное состояние бельгийских дорог и трудности с парковкой в центре (или хотя бы недалеко от него).
 

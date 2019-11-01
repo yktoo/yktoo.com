@@ -5,7 +5,7 @@ dateFrom: 2011-11-19
 dateTo: 2011-11-19
 location: "Cultuurpodium Boerderij, Zoetermeer, Netherlands"
 websiteUrl: "http://www.cultuurpodiumboerderij.nl/content/view/653/2/"
-image: "https://2.bp.blogspot.com/-KujvaiwOPxU/TsknewagOvI/AAAAAAAAKcU/exxbJb9hpXM/s1600/dsc07561.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/nhx8fwbakxdw2115.jpg"
 videocategories: music
 posts: ""
 ---

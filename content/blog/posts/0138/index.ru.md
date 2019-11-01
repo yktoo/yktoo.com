@@ -3,7 +3,7 @@ type: post
 date: "2012-01-06T00:00:00Z"
 title: "С Новым годом!"
 tags: ["Nieuwjaarsduik", "Гаага", "море", "Нидерланды", "пляж", "праздники"]
-image: "https://4.bp.blogspot.com/--BvFfK-9VOA/TwcHxOhDDII/AAAAAAAALMc/qNaRRXKKf6A/s1600/dsc08332.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/obvjp3oi10g70182.jpg"
 places:
     - place0020
 aliases:
@@ -20,14 +20,14 @@ aliases:
 
 Основное же место для «ныряния» — пирс в Гааге, точнее в Схевенингене. Мы выехали вовремя, и приехали в общем-то тоже, но найти свободный паркинг поблизости оказалось совершенно нереально — пришлось парковаться в порту, и оттуда пешком добираться до пирса, что заняло около получаса. Навстречу нам брели толпы людей со спутанными волосами и в оранжевых Юноксовских шапках.
 
-{{< imgfig "https://4.bp.blogspot.com/--BvFfK-9VOA/TwcHxOhDDII/AAAAAAAALMc/qNaRRXKKf6A/s1600/dsc08332.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/obvjp3oi10g70182.jpg" >}}
 
 Количество участников в Схевенингене было ограничено десятью тысячами, и, поскольку мы опоздали на полчаса, нам билета уже не досталось. С другой стороны, море везде одинаковое — я просто пошёл купаться рядом, вместе с другими «опоздальцами».
 
-{{< imgfig "https://3.bp.blogspot.com/-HUkJC88So4Y/TwcHpMEdLYI/AAAAAAAALNM/KXiMqLeCCA0/s1600/dsc08242.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/u4fa4ksk1k7z2424.jpg" >}}
 
-{{< imgfig "https://3.bp.blogspot.com/-NIsG0oqK3LM/TwcHwT2BX-I/AAAAAAAALO8/pQHPdP-EqpI/s1600/dsc08328.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/4vema8rnz0uv0455.jpg" >}}
 
 Ветер на побережье просто сумасшедший. Было даже любопытно, что в ледяной воде (5-6° C) теплее, чем на суше. Я не смог отказать себе в удовольствии искупаться дважды. А вокруг бродили сочувствующие в пуховиках и шапках.
 
-{{< imgfig "https://1.bp.blogspot.com/-xBh-Ccn5Mvg/TwcH19FMiHI/AAAAAAAALNQ/ORTMS1AbL1Q/s1600/dsc08286.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/kqqg9dynvorh3486.jpg" >}}

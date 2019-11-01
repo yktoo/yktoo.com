@@ -4,7 +4,7 @@ date: "2013-03-03T00:00:00Z"
 title: "Sound Switcher Indicator for Ubuntu"
 series: "Sound Switcher Indicator"
 tags: ["GitHub", "indicator", "Launchpad", "Linux", "PulseAudio", "Python", "sound", "Sound Switcher Indicator", "Ubuntu", "Unity"]
-image: "https://3.bp.blogspot.com/-A68LFuAIxlg/UTMgzAqh53I/AAAAAAAAWrg/rlpYgjefo70/s1600/Screenshot.png"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/nxq0nd14z9ut1387.png"
 software: sound-switcher-indicator
 aliases:
     - /en/blog/post/178
@@ -12,7 +12,7 @@ aliases:
 
 I couldn't take it anymore so I created an audio input/output switcher indicator for Ubuntu.
 
-{{< imgfig "https://3.bp.blogspot.com/-A68LFuAIxlg/UTMgzAqh53I/AAAAAAAAWrg/rlpYgjefo70/s1600/Screenshot.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/nxq0nd14z9ut1387.png" >}}
 
 <!--more-->
 
@@ -28,7 +28,7 @@ After a long string of experiments with Python's non-immaculate multithreading i
 
 The icon was designed in Inkscape:
 
-{{< imgfig "https://3.bp.blogspot.com/-WRWhSSdMb4w/UTMb99DLYOI/AAAAAAAAWqI/u5v1qpzawqY/s1600/indicator-sound-switcher.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/lq2uaiz7thp90010.png" >}}
 
 Any changes in PulseAudio daemon state are immediately reflected in menu's contents, even if it's open.
 

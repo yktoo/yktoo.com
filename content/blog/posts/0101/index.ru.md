@@ -3,7 +3,7 @@ type: post
 date: "2011-07-12T00:00:00Z"
 title: "Anathema в P60"
 tags: ["Anathema", "Kinkobra", "P60", "progressive metal", "progressive rock", "Амстелвейн", "музыка", "Нидерланды"]
-image: "https://1.bp.blogspot.com/-KnHoLEzUsvk/ThtU1OTSCNI/AAAAAAAAJDw/UIdy9KXNAVI/s1600/dsc04752.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/5ll317trbc081828.jpg"
 places:
     - place0001
 aliases:
@@ -30,19 +30,19 @@ aliases:
 
 Все кинкобристы — молодые парни. Вокалист всячески заводил публику:
 
-{{< imgfig "https://1.bp.blogspot.com/-KnHoLEzUsvk/ThtU1OTSCNI/AAAAAAAAJDw/UIdy9KXNAVI/s1600/dsc04752.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/5ll317trbc081828.jpg" >}}
 
 Ещё у них флегматичный басист:
 
-{{< imgfig "https://2.bp.blogspot.com/-i9zliB_J2Sk/ThtU7zWR9II/AAAAAAAAJEM/H3cLkI5A5Bs/s1600/dsc04757.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/81xhhpokepam1936.jpg" >}}
 
 Гитарист, усиленно делавший серьёзный вид:
 
-{{< imgfig "https://4.bp.blogspot.com/-_NwmklutDDo/ThtU8ybLUoI/AAAAAAAAJEQ/95UHXSu3tL8/s1600/dsc04774.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/drcuw86cmfam1579.jpg" >}}
 
 Неистовый ударник:
 
-{{< imgfig "https://3.bp.blogspot.com/-zV8vq5Y9BYg/ThtU53Y6fHI/AAAAAAAAJEE/iHxpa5z7Rus/s1600/dsc04778.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0hfllum9clzz2571.jpg" >}}
 
 Музыка у Кинкобры весьма незамысловатая, и стиль при этом варьируется в диапазоне от U2-подобного до рок-н-ролла с рэповым вокалом. Больше, собственно, добавить нечего, да и публика собралась явно не за этим.
 
@@ -56,75 +56,75 @@ aliases:
 
 После долгой паузы семейная артель вышла на сцену. Фронтмен {{< fl "Vincent Cavanagh" >}} заиграл вступление к {{< fl "Thin Air" >}}:
 
-{{< imgfig "https://2.bp.blogspot.com/-TM_q_Th8js4/ThtUqbCwWJI/AAAAAAAAJDE/3cmJhZ_3BDE/s1600/dsc04806.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ytyyav4rdgz43336.jpg" >}}
 
 Голос у Винсента очень характерный и довольно высокий, типичный фальцет. Даже не верится, что раньше они играли {{< fl "Doom Metal" >}}.
 
-{{< imgfig "https://1.bp.blogspot.com/-zKQUYI7wAJE/ThtU3BMI6qI/AAAAAAAAJD4/oEpokVDIxgI/s1600/dsc04833.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zet0la7aanue2943.jpg" >}}
 
 Его брат Daniel Cavanagh отлично играет на гитаре и поёт.
 
-{{< imgfig "https://3.bp.blogspot.com/-ShIGeixV8Dg/ThtUzLbkwsI/AAAAAAAAJDo/utTMExzFs3M/s1600/dsc04822.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/56dh6sc3wiik3342.jpg" >}}
 
 Я всё смотрел и не верил своим глазам — та самая {{< fl "Anathema" >}}, которую я слушал часами, живая, передо мной на расстоянии вытянутой руки:
 
-{{< imgfig "https://3.bp.blogspot.com/-pzZ-P_XY3uE/ThtUxMBDMLI/AAAAAAAAJDg/p6Zk8LkrSJU/s1600/dsc05056.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/76q32xsz1oqf3057.jpg" >}}
 
 Как и подобает настоящим профессионалам, которые просто играют, а не понтуются, музыканты были одеты без всяких претензий, однако бэк-вокалистка {{< fl "Lee Douglas" >}} меня удивила — она выглядела уж совсем обычно и просто:
 
-{{< imgfig "https://2.bp.blogspot.com/-7xQ7OrJmuvQ/ThtU48WgU4I/AAAAAAAAJEA/eO5z4wdwwtE/s1600/dsc04843.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/df2jvr55jgpn1857.jpg" >}}
 
 С другой стороны, пела она от этого ведь не хуже?
 
-{{< imgfig "https://1.bp.blogspot.com/-F1NuVRqyYjc/ThtU_qlU5WI/AAAAAAAAJEc/Tmz-qUPtuAI/s1600/dsc04916.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/o0k32q6qaboz2358.jpg" >}}
 
 Её брат {{< fl "John Douglas" >}} за ударной установкой:
 
-{{< imgfig "https://3.bp.blogspot.com/-CauK71gfoHI/ThtUu3Qcl6I/AAAAAAAAJDY/sK2FGWQS-Y0/s1600/dsc04867.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/qr9ndvmgqqpr0311.jpg" >}}
 
 Басист {{< fl "Jamie Cavanagh" >}} просил его не фоткать и вообще всё время держался в тени, но мы народ упрямый:
 
-{{< imgfig "https://2.bp.blogspot.com/--BT649digk4/ThtVCouEr5I/AAAAAAAAJEo/nzAS_vSdq-0/s1600/dsc04866.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/e3fl4xlix1d93427.jpg" >}}
 
 Клавишник {{< fl "Les Smith" >}}:
 
-{{< imgfig "https://3.bp.blogspot.com/-ckUAmBFRoDc/ThtUoYU1aHI/AAAAAAAAJC8/5Pq4SRO9oCE/s1600/dsc05093.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/otce0qa1b6ol1004.jpg" >}}
 
 Дэнни заводил публику, и пытался что-то говорить по-голландски, что выглядело забавно.
 
-{{< imgfig "https://4.bp.blogspot.com/-7nzsZpURnec/ThtUwHg-KlI/AAAAAAAAJDc/I_6TCX4vR_Y/s1600/dsc05078.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/7ah29f9tqrdt2316.jpg" >}}
 
-{{< imgfig "https://2.bp.blogspot.com/--mtatojEDLI/ThtVDYGpjZI/AAAAAAAAJEs/LXZFSXLbbWE/s1600/dsc04957.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vxph225g4rt60848.jpg" >}}
 
 Публика заводилась и настолько хорошо подпевала группе, что я даже удивлялся. Дэнни заигрывал с детьми, дети показывали Дэнни «козу»:
 
-{{< imgfig "https://4.bp.blogspot.com/-P2XwB38SsFw/ThtU9ylP3aI/AAAAAAAAJEU/i6zT_uQtu8M/s1600/dsc05036.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vzez1jfbxp3h1312.jpg" >}}
 
 В перерывах между игрой он успевал подстраивать гитару:
 
-{{< imgfig "https://3.bp.blogspot.com/-_o2M3nCqXdQ/ThtUlu60IUI/AAAAAAAAJCw/ixSQNY0tYS4/s1600/dsc05007.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/3gdee3tnpd8c1570.jpg" >}}
 
 Подстраивал, видимо, по тюнеру у него в пульте, отключив гитару от комбика {{< fl "Hughes & Kettner" >}}, красиво светящегося в темноте:
 
-{{< imgfig "https://3.bp.blogspot.com/-JOMII2XhTNM/ThtVEcXXXOI/AAAAAAAAJEw/8OaEoq9TJqs/s1600/dsc05006.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/tm9u030p0hny1975.jpg" >}}
 
 Дым-машина стояла где-то прямо рядом с Джоном, что было очень забавно, так как казалось, что дымится сама ударная установка:
 
-{{< imgfig "https://2.bp.blogspot.com/-6vZJNkW6Gdw/ThtVAc9gAhI/AAAAAAAAJEg/00VoGjnrYes/s1600/dsc04995.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/o2z6al9eq1w30133.jpg" >}}
 
 Винсент постоянно менял гитары, играя порой на акустике:
 
-{{< imgfig "https://1.bp.blogspot.com/-SfFmtg5WKBg/ThtUpehHmAI/AAAAAAAAJDA/pl7JX5OJ7qA/s1600/dsc05091.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vni5qp7qd2hz2184.jpg" >}}
 
 Пир звука продолжался больше двух часов, но я этого не заметил.
 
 После того, как группа отыграла программу, их вызвали на бис. Дэнни сыграл номер в одиночку:
 
-{{< imgfig "https://2.bp.blogspot.com/-_Ibb-t7vdCg/ThtU0GtaI1I/AAAAAAAAJDs/e-FytZtfI5g/s1600/dsc05119.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/i50zowj0n5wb0772.jpg" >}}
 
 Ли, половину концерта просидевшая за кулисами, тоже не смогла остаться в стороне:
 
-{{< imgfig "https://2.bp.blogspot.com/-RUX06LjqP18/ThtUnUpIBNI/AAAAAAAAJC4/8W8HEfxzgZ4/s1600/dsc05064.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/t0u3ad0jo3qr1333.jpg" >}}
 
 В сумме концерт длился более четырёх часов. Если учесть, что мы подъехали на час пораньше, чтобы занять места в партере, тренировка для ног получилась отличная.
 

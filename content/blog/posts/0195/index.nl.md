@@ -4,7 +4,7 @@ draft: true
 date: "2013-08-14T00:00:00Z"
 title: "Tyumen verhalen"
 tags: ["Aeroflot", "onzin", "Rusland", "Tyumen"]
-image: "https://3.bp.blogspot.com/-EMIanXUKsvw/Ugvgj5td0YI/AAAAAAAAZRk/-GWutJ9A0JM/s1600/20130809_131834.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/5ubhb4w0wbj31168.jpg"
 places:
     - place0088
     - place0175
@@ -62,7 +62,7 @@ De oorzaak was dat ik bij hun dresscode niet paste. De dresscode die ervoor zorg
 
 Но в предпоследний день строители соскребли экскаватором старый асфальт около дома и так всё и оставили. Оцените:
 
-{{< imgfig "https://3.bp.blogspot.com/-EMIanXUKsvw/Ugvgj5td0YI/AAAAAAAAZRk/-GWutJ9A0JM/s1600/20130809_131834.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/5ubhb4w0wbj31168.jpg" >}}
 
 По этому невозможно даже ходить. А что, например, делать людям с детьми, колясками, или, упаси Боже, инвалидам?
 
@@ -70,7 +70,7 @@ De oorzaak was dat ik bij hun dresscode niet paste. De dresscode die ervoor zorg
 
 Водосток, усовершенствованный строителями. Просто фото:
 
-{{< imgfig "https://4.bp.blogspot.com/-kGpG6OdzV3g/UgvglABe2TI/AAAAAAAAZRs/jSZYcIqSgTU/s1600/20130809_131942.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ed6c8ud12kgz0168.jpg" >}}
 
 Россия, XXI век. Нанотехнологии бороздят Большой театр.
 
@@ -80,7 +80,7 @@ De oorzaak was dat ik bij hun dresscode niet paste. De dresscode die ervoor zorg
 
 В самом центре Тюмени есть дом с нехорошей репутацией и народным названием «муравейник». Спешу поздравить его жильцов — эта репутация получила официальное подтверждение:
 
-{{< imgfig "https://3.bp.blogspot.com/-2soWdjsZ7W4/UgvgiOdMDiI/AAAAAAAAZRc/AcTIVsTRymw/s1600/20130807_182104.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/25no999slmjw0227.jpg" >}}
 
 Вы ошибётесь, если подумаете, что дом обнесён забором, ну или хотя бы ленточкой с предупреждающими надписями. А эта табличка как бы говорит нам: если интересно и не трус — подойди и прочитай. А подойти придётся, так как табличка маленькая. А над ней балконы. Ну и, разумеется, в нём живут. На всех тринадцати этажах.
 

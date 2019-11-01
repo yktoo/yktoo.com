@@ -3,7 +3,7 @@ type: post
 date: "2008-07-28T00:00:00Z"
 title: "И вновь море"
 tags: ["море", "Нидерланды", "пляж", "погода"]
-image: "https://1.bp.blogspot.com/-s73cAmh6M0k/XW6GDro0fnI/AAAAAAAAxH0/-WMomWthfOkkM4MWjcN_JHIn3UuuN2rDgCKgBGAs/s1600/p1000882.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/xn52af4d9zb61996.jpg"
 places:
     - place0154
 aliases:
@@ -14,7 +14,7 @@ aliases:
 
 <!--more-->
 
-{{< imgfig "https://1.bp.blogspot.com/-s73cAmh6M0k/XW6GDro0fnI/AAAAAAAAxH0/-WMomWthfOkkM4MWjcN_JHIn3UuuN2rDgCKgBGAs/s1600/p1000882.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xn52af4d9zb61996.jpg" >}}
 
 Морской Нордвяйк был несколько менее запружен машинами, чем Блумендал, в котором я был {{< a "0013" "в прошлый раз" >}}. Правда, все легальные стоянки по-прежнему были заняты напрочь, но удалось найти несильно нелегальный газон, где уже стояло несколько машин любителей дешёвого водного отдыха.
 

@@ -3,7 +3,7 @@ type: post
 date: "2010-07-03T00:00:00Z"
 title: "И снова про футбол"
 tags: ["Нидерланды", "оранжевая лихорадка", "футбол"]
-image: "https://lh3.googleusercontent.com/-tMH0WGjLhpQ/TFcI7es-RuI/AAAAAAAAIts/6qdYvsfPrzY/s1600/IMAG0257.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/25f8rkldz7ah1430.jpg"
 aliases:
     - /ru/blog/post/53
 ---
@@ -14,7 +14,7 @@ aliases:
 
 <!--more-->
 
-{{< imgfig "https://lh3.googleusercontent.com/-tMH0WGjLhpQ/TFcI7es-RuI/AAAAAAAAIts/6qdYvsfPrzY/s1600/IMAG0257.jpg" "Симптомы: «Наша улица… ОРАНЖЕВАЯ!!»" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/25f8rkldz7ah1430.jpg" "Симптомы: «Наша улица… ОРАНЖЕВАЯ!!»" >}}
 
 На улице словно всё вымерло. В магазине тоже — кроме продавцов и меня не было никого. Причём первые на второго смотрели, мягко выражаясь, с удивлением. Потом один из продавцов сказал другому: «Может, он футбол не любит?», а тот, подумав, ответил: «Может, он *голландский* футбол не любит?» (видимо, первая возможность представляется им уж совсем нереальной). Я в дискуссию обо мне вмешиваться не стал — всё равно бы не поверили. У нас на районе ведь все симптомы {{< a "0052" "оранжевого сумасшествия" >}} налицо.
 

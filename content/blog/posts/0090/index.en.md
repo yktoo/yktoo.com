@@ -4,7 +4,7 @@ date: "2011-04-20T00:00:00Z"
 title: "Part 8. Budapest by Day"
 series: "Vienna and Budapest"
 tags: ["Budapest", "Hungary", "travel"]
-image: "https://3.bp.blogspot.com/-hOnYvSZyLPA/Tan2sR77hQI/AAAAAAAAItc/0lTKhtBWzWw/s1600/dsc01740.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/w78ab2wwycqx3424.jpg"
 places:
     - place0094
     - place0095
@@ -30,136 +30,136 @@ However, it's not always as challenging as it seems. Sometimes you can try to as
 
 Here's the quay of the River Danube and the Parliament by day:
 
-{{< imgfig "https://3.bp.blogspot.com/-hOnYvSZyLPA/Tan2sR77hQI/AAAAAAAAItc/0lTKhtBWzWw/s1600/dsc01740.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/w78ab2wwycqx3424.jpg" >}}
 
 Girls jog along the river towards the Chain Bridge:
 
-{{< imgfig "https://4.bp.blogspot.com/-GQOLzNBFZ2E/Tan3ZU1vLCI/AAAAAAAAItc/UP2jKbQZJWg/s1600/dsc01743.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/wogut2tccqgb2516.jpg" >}}
 
 We walk in the same direction, towards the Castle Hill full of landmarks. There's the Royal Palace, the residence of the president of Hungary, and many more there.
 
 The earlier mentioned Reformed Church of Buda ({{< fl "Budahegyvidéki Református Egyházközség" >}}) is also on the quay:
 
-{{< imgfig "https://3.bp.blogspot.com/-e_rLn-cUMXU/Tan2WBJXy-I/AAAAAAAAItc/rmQZEex12gM/s1600/dsc01751.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/m4bshgu3y86m0582.jpg" >}}
 
 There should have been a cable car (Sikló) working in the Castle Hill, but on exactly that day it wasn't for some reason.
 
 We climbed up the hill to the top to find a sculpture of a mythical {{< fl "Turul" >}} bird. This bird is a part of the story of how the Magyars settled the Hungarian homeland:
 
-{{< imgfig "https://3.bp.blogspot.com/-mdeZw3AA2w4/Tan32ReeOMI/AAAAAAAAItc/HFZSdEmbqxw/s1600/dsc01763.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0iyz8fqhf7qh1365.jpg" >}}
 
 We were also lucky enough to catch the changing of guard ceremony, which happens daily at noon. A red carpet was rolled out before the humble palace, and the guards started changing:
 
-{{< imgfig "https://4.bp.blogspot.com/-31Prb4Hhnng/Tan2d4pCgYI/AAAAAAAAItc/ac7iTt9gtZQ/s1600/dsc01771.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ncjbdt3q8toi1468.jpg" >}}
 
 After they were done, a Russian tourist started his own performance on that same carpet:
 
-{{< imgfig "https://3.bp.blogspot.com/-9HlGl80zxGc/Tan2pkNUiWI/AAAAAAAAItc/T4Tjap6cEXE/s1600/dsc01779.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/d7hz9jtjk43c2326.jpg" >}}
 
 There's a lot of Russians strolling around there, as I could conclude from Russian-speaking guides.
 
 Finished with the performance, we moved on, to the Matthias Church ({{< fl "Mátyás-templom" >}}):
 
-{{< imgfig "https://3.bp.blogspot.com/--VzHzVhNXFM/Tan304EoC3I/AAAAAAAAItc/BsC48bwYDM4/s1600/dsc01789.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xqivm0cgpkcl2830.jpg" >}}
 
 Policemen are idle at one side:
 
-{{< imgfig "https://4.bp.blogspot.com/-FMwFUWafJc8/Tan2hrjSrBI/AAAAAAAAItc/E_urzOtkVYI/s1600/dsc01798.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/y4w3xkn14sia0741.jpg" >}}
 
 Falcons are idle at the other, waiting for their master to finish speaking:
 
-{{< imgfig "https://3.bp.blogspot.com/-AeHBDB3jOtc/Tan1aHyKdHI/AAAAAAAAItc/m1pGLq87x00/s1600/dsc01793.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/53djdxjpxaek2394.jpg" >}}
 
 A bit further a couple of musicians play cheerful Hungarian and Russian tunes:
 
-{{< imgfig "https://2.bp.blogspot.com/-XjolJ1h8fN0/Tan25oquCRI/AAAAAAAAItc/2GGdm7nw3P0/s1600/dsc01812.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1oiz9xpnf4np1758.jpg" >}}
 
 Even further there's the Fisherman's Bastion ({{< fl "Halászbástya" >}}), with a restaurant in its tallest tower:
 
-{{< imgfig "https://3.bp.blogspot.com/-9rkAG_m39VQ/Tan2A1K4UoI/AAAAAAAAItc/90iOrjUCSEc/s1600/dsc01813.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/2vwl6h08gli53081.jpg" >}}
 
 Right beside the Bastion there's the controversial Hilton Budapest Hotel. In my opinion, the hotel is decidedly an eyesore here.
 
 A tiny church is squeezed between the hotel and another building, {{< fl "MCCCCLXXXVI" >}} denotes 1486:
 
-{{< imgfig "https://2.bp.blogspot.com/-BCUPnQGY6RU/Tan2IBOZjTI/AAAAAAAAItc/mKqg8jURMO0/s1600/dsc01815.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/mcl5z92vl2652596.jpg" >}}
 
 This is a touristic area, full of beautiful restaurants:
 
-{{< imgfig "https://3.bp.blogspot.com/-mvx_qAh4Zt4/Tan3VqRCueI/AAAAAAAAItc/k1GTOERNj4U/s1600/dsc01816.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/p0cf1dtaes082342.jpg" >}}
 
 and souvenir stores:
 
-{{< imgfig "https://4.bp.blogspot.com/-BGDBHKEu9-4/Tan3-b8QlGI/AAAAAAAAItc/1Z8Ktsuz_t0/s1600/dsc01821.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/d3mb9jhlr8jx1022.jpg" >}}
 
 Judging by his face, this sly Dutch is about to filch something. For an unknown reason, it's not allowed to make photos in these stores. Is there anything sensitive there?
 
 We're done with the Castle Hill and moving back to the city. The small synagogue is being renovated, but the dome is fine:
 
-{{< imgfig "https://2.bp.blogspot.com/-LJ5QnaCmwaM/Tan2NCxUD2I/AAAAAAAAItc/zep6465H3EQ/s1600/dsc01823.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/6g6w8gb3amco2270.jpg" >}}
 
 The big synagogue is nearby, but we didn't go inside, only had a look from outside:
 
-{{< imgfig "https://1.bp.blogspot.com/-IilogZglelQ/Tan2PzM4m2I/AAAAAAAAItc/UOSuLFaS1Gw/s1600/dsc01830.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/nqbhcjb8y6r10467.jpg" >}}
 
 Pizzeria "The Hague" must have made some of us very nostalgic:
 
-{{< imgfig "https://1.bp.blogspot.com/-WTtYoFPxtcM/Tan3EmA7pFI/AAAAAAAAItc/XhML3jJaGxg/s1600/dsc01834.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xyf3yq1kad3a2317.jpg" >}}
 
 Austrian Volksbank managed to obtain a cute building:
 
-{{< imgfig "https://1.bp.blogspot.com/-E7J6cx11RGI/Tan1qKWjxbI/AAAAAAAAItc/HnnKGwImBjE/s1600/dsc01835.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/byflfwx2oc613116.jpg" >}}
 
 But the man with a nife between his teeth is climbing up another wall, the one of a gun store:
 
-{{< imgfig "https://3.bp.blogspot.com/-_SKzAV0dKnk/Tan4EIRu_GI/AAAAAAAAItc/WD7NabsPXS4/s1600/dsc01836.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/s0jk08cmfd682214.jpg" >}}
 
 We directed our steps towards the Central Market Hall ({{< fl "Vásárcsarnok" >}}):
 
-{{< imgfig "https://3.bp.blogspot.com/--1p7ftHBqTc/Tan1VrKqJ_I/AAAAAAAAItc/Rn2Sv_itCmQ/s1600/dsc01854.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cqt4gmkhl4nx0380.jpg" >}}
 
 It's an ordinary market, although noteworthy for horrible amounts of hot pepper, hanging in bunches and mixed with garlic:
 
-{{< imgfig "https://1.bp.blogspot.com/-A77jugfMoJc/Tan2UH-gxZI/AAAAAAAAItc/ajG1wLRbE8Q/s1600/dsc01841.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/r59ykph7ojh41335.jpg" >}}
 
 In the basement of the Market Hall there's a regular supermarket. We went down there to give a glance at local beer (a good deal of which are of German and Austrian brands):
 
-{{< imgfig "https://4.bp.blogspot.com/-oJyzPxSaeJM/Tan3T8TZiOI/AAAAAAAAItc/KQmVBjnA-mA/s1600/dsc01853.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/bkxwt7e3t2w13309.jpg" >}}
 
 as well as at famous Tokaji wines. It is very important to have a serious look when choosing wine:
 
-{{< imgfig "https://2.bp.blogspot.com/-VzS1DJsT_f8/Tan3Kkr3hAI/AAAAAAAAItc/XOWl7t_kWWY/s1600/dsc01852.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/8dc5joo16llz2708.jpg" >}}
 
 We've got the wine, gone outside to the quay:
 
-{{< imgfig "https://2.bp.blogspot.com/-dg4Z7a5-bvg/Tan4ALqCBkI/AAAAAAAAItc/D453XgElMWM/s1600/dsc01857.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vs9zuibzcczs0345.jpg" >}}
 
 What's it at the top of the hill?
 
-{{< imgfig "https://2.bp.blogspot.com/-p16IkRQjyLM/Tan34M-xrZI/AAAAAAAAItc/UB8prIpOkSE/s1600/dsc01858.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/94o8fnrudc8p1529.jpg" >}}
 
 The city guide advices (in German) that das ist the Liberty Statue ({{< fl "Szabadság Szobor" >}}) of Budapest. It's visible from nearly any part of the city.
 
 The hill it's located upon is called {{< fl "Gellért Hill" >}}. The Gellért Hill Cave is located within the hill, facing toward the Danube River:
 
-{{< imgfig "https://3.bp.blogspot.com/-KiMGv08A7xs/Tan3vAtPeCI/AAAAAAAAItc/lzhyFHz3w9c/s1600/dsc01884.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fv55v8i4nbc92309.jpg" >}}
 
 Climbing up the hill is a perfect exercise. There's a lot of paths and ladders leading to the top, feel free to pick up any one, but make sure it goes uphill.
 
 And here we are finally, at the top. Only the statue is higher (40 m high):
 
-{{< imgfig "https://3.bp.blogspot.com/-UFIFAvAxsIk/Tan2q9umAiI/AAAAAAAAItc/DJ8jk0r-cFM/s1600/dsc01893.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/h06eosgjfoox1121.jpg" >}}
 
 Traditionally magnificent city views:
 
-{{< imgfig "https://4.bp.blogspot.com/-HkP9iUsPVHI/Tan2FduDWfI/AAAAAAAAItc/GoxcKWODIvc/s1600/dsc01902.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/592fm86p20cg1514.jpg" >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-RVHaIkY3_B8/Tan1gl1dIhI/AAAAAAAAItc/riLvXVuWcCY/s1600/dsc01903.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/tpop2pmzxvkk2492.jpg" >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-qo8rAF69DWY/Tan2nVLIvYI/AAAAAAAAItc/Y-TGg8VBpsg/s1600/dsc01908.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fsjcubqp44md3099.jpg" >}}
 
 And, to round this part off, a panorama shot at the top of the hill:
 
-{{< imgfig "https://4.bp.blogspot.com/-sOImrgjw4HE/TaoKhNMWuZI/AAAAAAAAItc/_aVJ7KbNckc/s1600/dsc01901.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/jxi8cn2phh111270.jpg" >}}
 
 Last: {{< a "0091" "Part 9. Budapest. St. Stephen's Basilica" >}}

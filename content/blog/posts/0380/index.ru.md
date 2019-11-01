@@ -6,7 +6,7 @@ tags:
     - Нидерланды
     - Хаутен
     - яблоки
-image: "https://1.bp.blogspot.com/-LwnafMDbHXs/XX326KX7N7I/AAAAAAAAxdw/SUu89KytvbUei5-P0cr-DOregzOkAR2MwCKgBGAsYHg/s1600/20190914_163124.w.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/yy8vlfchymcu2328.jpg"
 ---
 
 Прошло почти пять лет после предыдущего {{< a "0223" "фруктового поста" >}}.
@@ -17,34 +17,34 @@ image: "https://1.bp.blogspot.com/-LwnafMDbHXs/XX326KX7N7I/AAAAAAAAxdw/SUu89Kytv
 
 Заметили оживление в одном из дворов и зашли, так сказать, на огонёк. В центре рощи был накрыт стол, а жители окрестных домов со стремянками собирали яблоки с деревьев и складывали в большие деревянные ящики.
 
-{{< imgfig "https://1.bp.blogspot.com/-qCER4sTEL6U/XX326AWnOFI/AAAAAAAAxdw/sBI6IOm3FqUYhDCYTZat8_Ta3D6MRRcBgCKgBGAsYHg/s1600/20190914_162112.w.jpg" "Хаутен: сбор яблок." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/yd8ohod6iqdk0499.jpg" "Хаутен: сбор яблок." >}}
 
 Нам стало любопытно, мы разговорились с ними. Я прежде не видел, чтобы сбор здесь, в городе, был таким массовым — обычно подобные мероприятия под названием {{< fl "plukdag" >}} (буквально «день срывания») организуют на фруктовых фермах.
 
 Оказалось, несколько жителей района проявили инициативу и обратились в муниципалитет, где им официально разрешили собирать плоды в их районе (да, на это в Нидерландах требуется разрешение, так же, как и {{< a "0203" "с грибами" >}}), а также выделили средства на стремянки и специальные инструменты для сбора, напоминающие сачки:
 
-{{< imgfig "https://1.bp.blogspot.com/-t3cwdWdSRLY/XX326Fx7JaI/AAAAAAAAxdw/2IyjzhUNHuoyC3erWg0Z6rLWickVd8YNACKgBGAsYHg/s1600/20190914_163110.w.jpg" "Телескопическая яблокосрывалка." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/5rtjlhpsyl0t3672.jpg" "Телескопическая яблокосрывалка." >}}
 
 Помимо спонсорской помощи муниципалитета, преимущества организованного сбора в том, что выбирается день, когда яблоки дозрели — вместо того, чтобы каждый срывал когда ни попадя.
 
 Большу́ю часть яблок к этому времени уже собрали, остались в основном те, что висели на самом верху.
 
-{{< imgfig "https://1.bp.blogspot.com/-OlnaIeHfe1s/XX326NkSubI/AAAAAAAAxdw/LI73_BUnTFM5cdF21qNdURGrtnXh1soPQCKgBGAsYHg/s1600/20190914_163020.w.jpg" "Яблоня." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/f072l25juuk62889.jpg" "Яблоня." >}}
 
 Самое замечательное, что собранные яблоки не принадлежат никому — нам предложили взять столько, сколько захотим. Они в основном довольно кислые, но на яблочный пирог самое то.
 
-{{< imgfig "https://1.bp.blogspot.com/-3nt9WyDf_YI/XX326FOHlcI/AAAAAAAAxdw/RFv4EJfMoPgUdvBE8QwEE3dJ5opPLF9CgCKgBGAsYHg/s1600/20190914_162135.w.jpg" "Яблоки «на пирог»." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/h1hsoeos006m0809.jpg" "Яблоки «на пирог»." >}}
 
 И пара яблонь сорта «Золотой ранет».
 
-{{< imgfig "https://1.bp.blogspot.com/-9ol4uzH_UOQ/XX326JMR9MI/AAAAAAAAxdw/q45JgzdyAPEgo3xOyfOxoew7v4ANPkDLACKgBGAsYHg/s1600/20190914_162120.w.jpg" "Золотой ранет." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ykft9ew04jju3497.jpg" "Золотой ранет." >}}
 
 Кто-то из местных также принёс пресс для изготовления пюре — я впервые увидел, как его делают.
 
-{{< imgfig "https://1.bp.blogspot.com/-nf9dvBwNqJc/XX326DjhgrI/AAAAAAAAxdw/XWwKhS5x7T45K32Dq7eRt9nkanJv6vAqwCKgBGAsYHg/s1600/20190914_162801.w.jpg" "Яблочный пресс." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pct33bu32ssn1176.jpg" "Яблочный пресс." >}}
 
 На мероприятие забрели даже утки, судя по всему, питавшиеся упавшими плодами:
 
-{{< imgfig "https://1.bp.blogspot.com/-8ViTIr39o_o/XX326OdJEPI/AAAAAAAAxdw/svd_YzZKJzsYWRc632BjyztL3n8CS__LQCKgBGAsYHg/s1600/20190914_163446.w.jpg" "Утки." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/7drxlqkqtsos0973.jpg" "Утки." >}}
 
 Как мне сообщили, день сбора проводится раз в год, так что это мы удачно проехали.

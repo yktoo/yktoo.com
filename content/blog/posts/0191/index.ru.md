@@ -4,7 +4,7 @@ date: "2013-06-10T00:00:00Z"
 title: "Часть 2. Авто и апельсины"
 series: "Португалия"
 tags: ["авто", "Алгарви", "апельсины", "Португалия", "путешествия"]
-image: "https://3.bp.blogspot.com/-n6kdcRewI_k/Ua4hnOcA5UI/AAAAAAAAYno/COZDdQStsSU/s1600/dsc08993.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/nlby2sddb4xz2829.jpg"
 aliases:
     - /ru/blog/post/191
 ---
@@ -19,7 +19,7 @@ aliases:
 
 Вот это творение итальянского автопрома по прозвищу Fiat Punto, на котором мы бороздили просторы Алгарви:
 
-{{< imgfig "https://3.bp.blogspot.com/-n6kdcRewI_k/Ua4hnOcA5UI/AAAAAAAAYno/COZDdQStsSU/s1600/dsc08993.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/nlby2sddb4xz2829.jpg" >}}
 
 Что я могу сказать про это авто? Оно дважды прищемило мне палец ручкой на дверце, причём мне кажется, что проблема не во мне. Ни с одной машиной, во всяком случае, такого не случалось.
 
@@ -31,15 +31,15 @@ aliases:
 
 Вы, безусловно, заметили апельсинные деревья позади машины. Что, нет? Ну так вот они:
 
-{{< imgfig "https://3.bp.blogspot.com/-RsUI30x7XZY/Ua4hu16kO7I/AAAAAAAAYoI/UZ3-kpSKgdU/s1600/dsc09006.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/q3a1q9ip3w0o2705.jpg" >}}
 
 Впервые видел их прямо вот так, живьём ({{< a "0151" "мандарины" >}} на Гран-Канарии не считаются). Причём апельсины исключительно крупные, крупнее ладони:
 
-{{< imgfig "https://1.bp.blogspot.com/-gHpJILlZ3O0/Ua4hq_k5OJI/AAAAAAAAYn4/KWXb0qFTCRo/s1600/dsc08999.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/5cu09dzg7bmb1577.jpg" >}}
 
 Несовершеннолетние дети этих апельсинов выглядят совсем непохоже:
 
-{{< imgfig "https://3.bp.blogspot.com/-_Y5cJSiBe8E/Ua4hwmDpxFI/AAAAAAAAYoQ/R-1hg9io76g/s1600/dsc09007.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/g2ubvjsvuj1v2529.jpg" >}}
 
 Мы наткнулись на эти кущи где-то в полях к северу от Албуфейры. Пробовать мы их, помня свой канарский опыт, не стали — мало ли что…
 

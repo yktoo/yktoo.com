@@ -3,7 +3,7 @@ type: post
 date: "2018-04-03T00:00:00Z"
 title: "Юбилея пост: десять лет в Нидерландах"
 tags: ["итоги", "Нидерланды", "размышления", "юбилей"]
-image: "https://2.bp.blogspot.com/-DCIYWdV7IJE/WsOU2fStpxI/AAAAAAAAsM4/Y59Y1UQhf1gu6dGaNgLTB5jaY41ZOvV2gCKgBGAs/s1600/Happiness%2Bis%2Ba%2Bjourney%252C%2Bnot%2Ba%2Bdestination.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/yfaj5f95f50d3310.jpg"
 aliases:
     - /ru/blog/post/334
 ---
@@ -22,4 +22,4 @@ aliases:
 
 С тех пор я выучил английский и голландский, ~~забыл русский,~~ обзавёлся друзьями, несколько раз сменил работу, место жительства и семейное положение, купил дом, создал этот блог и зарегистрировал собственную компанию. В связи с чем желаю и вам никогда не унывать, сортировать вещи в жизни по важности, прокачивать силу воли и двигаться дальше. И между всем этим не забывать получать удовольствие от процесса, потому что:
 
-{{< imgfig "https://2.bp.blogspot.com/-DCIYWdV7IJE/WsOU2fStpxI/AAAAAAAAsM4/Y59Y1UQhf1gu6dGaNgLTB5jaY41ZOvV2gCKgBGAs/s1600/Happiness%2Bis%2Ba%2Bjourney%252C%2Bnot%2Ba%2Bdestination.jpg" "«Счастье — это путешествие, а не точка назначения»" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/yfaj5f95f50d3310.jpg" "«Счастье — это путешествие, а не точка назначения»" >}}

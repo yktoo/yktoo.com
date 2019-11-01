@@ -3,7 +3,7 @@ type: post
 date: "2017-05-07T00:00:00Z"
 title: "Oddland, Until Rain, Wolverine at De Boerderij"
 tags: ["De Boerderij", "music", "Netherlands", "Oddland", "progressive metal", "progressive rock", "Until Rain", "Wolverine", "Zoetermeer"]
-image: "https://1.bp.blogspot.com/-ldQnc30ApjQ/WQ3-d13FN0I/AAAAAAAAp5I/u0zKGzXBFi83pIRNX4d3DFL9n7JfEHFjgCPcB/s1600/20170429_231240.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/phb347i2ec531920.jpg"
 places:
     - place0079
 aliases:
@@ -28,21 +28,21 @@ So please don't mind the quality of the photos taken with my mobile. The video q
 
 Despite the low ticket price, the hall in {{< fl "De Boerderij" >}} was as good as empty. Perhaps it was caused by school holidays in Holland, during which many families leave the country.
 
-{{< imgfig "https://2.bp.blogspot.com/-3Eypfb3qfHw/WQ3-d9nh9AI/AAAAAAAAp5I/HvXtS3EvbdEGGe9E36Rc_z6OtH9l0HLBQCPcB/s1600/20170429_193437.picasaweb.jpg" "Before the show." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/aacxaqpumr8w2672.jpg" "Before the show." >}}
 
 The not-so-large {{< fl "CreativeColors Zaal" >}} hosted some thirty people of audience. A bunch of photographers, who didn't seem to be carried away by the music, would jump around with their shotgun-like cameras, trying to make their best shot. Which I found quite annoying (and no, I ain't jealous).
 
-{{< imgfig "https://4.bp.blogspot.com/-nZt2pxOJxZk/WQ3-dyrSEkI/AAAAAAAAp5I/IfwkF0WSNE4ZjGpnqs_EejPp2KnaFHLyACPcB/s1600/20170429_221613.picasaweb.jpg" "The audience." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/7xb2nadea1bs3093.jpg" "The audience." >}}
 
 [One of the reviews](http://rockmuzine.nl/2017/05/02/progressive-aspects-tour-met-wolverine-rain-en-oddland-daalt-neer-de-boerderrij/) reports of two hundred spectators of this show, but you can see on the photo above that doesn't check out.
 
 ## Oddland {#oddland}
 
-{{< imgfig "https://4.bp.blogspot.com/-Bv5VbbT1TDM/WQ3-dx-xXFI/AAAAAAAAp5I/hAkBAAeIgLkkJj2oblyRKVK3RVa8WvAmACPcB/s1600/20170429_193854.picasaweb.jpg" " Before Oddland's performance: seven string guitars of Sakari Ojanen." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/rlj6b9h1m5t62730.jpg" " Before Oddland's performance: seven string guitars of Sakari Ojanen." >}}
 
 For me the almost-empty room was pretty flattering, but I felt a bit bad for the musicians. I remember from my own staging experience how disconcerting that might be. Even the sturdy [Oddland](http://www.oddlandband.com/) dudes seemed to be upset by that.
 
-{{< imgfig "https://4.bp.blogspot.com/-PorAYvRhlhQ/WQ3-d5el1oI/AAAAAAAAp5I/u3pEOs5Ug_UyXJcJ9WV9Q9d4mYbncbw3gCPcB/s1600/20170429_200835.picasaweb.jpg" "Oddland." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vsrnh9rw3lwl2368.jpg" "Oddland." >}}
 
 The band's frontman and singer {{< fl "Sakari Ojanen" >}} opened the show with a disclaimer that he wasn't in his best shape and that two days ago he couldn't even speak.
 
@@ -52,17 +52,17 @@ But to his credit I must say I didn't catch any false note or a break-off. On th
 
 Both guitarists, {{< fl "Sakari Ojanen" >}} and {{< fl "Jussi Poikonen" >}}, play seven-string guitars, which are usually used to expand the sound into the lows. Combined with the rich baritone of {{< fl "Sakari" >}} it gives the music some *doom*-ish tint, as you feel it resonate somewhere inside your stomach.
 
-{{< imgfig "https://1.bp.blogspot.com/-urkLF6yBR-E/WQ3-dx54u2I/AAAAAAAAp5I/wzhLLdLYQKM_EcY04Xyx-2c1Cg8-0TwBQCPcB/s1600/20170429_201125.picasaweb.jpg" "Oddland: Jussi Poikonen and Sakari Ojanen." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zrlgr5ma2y8c2280.jpg" "Oddland: Jussi Poikonen and Sakari Ojanen." >}}
 
 Their music sounded like heavier versions of {{< fl "Sieges Even" >}} (and {{< fl "Subsignal" >}}).
 
-{{< imgfig "https://4.bp.blogspot.com/-QsPd5cOKbE0/WQ3-d1LaXtI/AAAAAAAAp5I/OefX7iAE3vALEYlq195fFpuRmKhX9m8vwCPcB/s1600/20170429_201135.picasaweb.jpg" "Oddland: Sakari Ojanen." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/wtjsd22jjhod0022.jpg" "Oddland: Sakari Ojanen." >}}
 
 Brawny and utterly serious {{< fl "Joni Palmroth" >}} played five-string bass, time to time contributing his growls to the sound.
 
 Here's a moment when all three use tapping technique:
 
-{{< imgfig "https://1.bp.blogspot.com/-V6pTy6l3_gY/WQ3-d0fwZDI/AAAAAAAAp5I/vaPcke6CNrofuldvAMp2w92fT1ktmpSJQCPcB/s1600/20170429_203650.picasaweb.jpg" "Oddland: tapping." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/qpwn1wt8nngo1465.jpg" "Oddland: tapping." >}}
 
 My conclusion is that this band is well worth listening to, so it goes to my progressive piggy bank.
 
@@ -70,7 +70,7 @@ My conclusion is that this band is well worth listening to, so it goes to my pro
 
 I've been listening to these guys for about a year now, and I was looking forward to seeing them live. The band only has three full-length albums to date, with the most recent *Inure* being out just a day before the show.
 
-{{< imgfig "https://3.bp.blogspot.com/--9YwMRbKMyE/WQ3-dzeptGI/AAAAAAAAp5I/VFC9XqUZ-TEf51iHDBl7zbcTFt0X8A9xACPcB/s1600/20170429_211135.picasaweb.jpg" "Until Rain." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vviunt2gje9g1226.jpg" "Until Rain." >}}
 
 The live line-up of *Until Rain* is diverse:
 
@@ -80,7 +80,7 @@ The live line-up of *Until Rain* is diverse:
 * {{< fl "Denis Efimenko" >}} — bass (Ukraine).
 * {{< fl "Matthew Vella" >}} — drums (Malta).
 
-{{< imgfig "https://4.bp.blogspot.com/-ZHE8Jq0phSI/WQ3-dw7_33I/AAAAAAAAp5I/ecaESV51BpE_NXQdEa7CDqUcP4zp2VyUQCPcB/s1600/20170429_212748.picasaweb.jpg" "Until Rain: Theodore Amaxopoulos, Cons Marg, Matthew Vella, Denis Efimenko." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ipvmkwrit6p43042.jpg" "Until Rain: Theodore Amaxopoulos, Cons Marg, Matthew Vella, Denis Efimenko." >}}
 
 {{< fl "Until Rain" >}} are a cheerful and positive lot, which anyone can verify by watching their *Because Something Might Happen*, stuffed with horror and BDSM scenes, from the band's latest album:
 
@@ -88,21 +88,21 @@ The live line-up of *Until Rain* is diverse:
 
 I must also mention the vocals by *Cons Marg* possessing an incredible vocal range. I wish *Dream Theater* had a singer like him!
 
-{{< imgfig "https://4.bp.blogspot.com/-e7hxPv4bdek/WQ3-dxmTEEI/AAAAAAAAp5I/LXtN491tmJsuLRWBsvhN19XUIMjsv3OjACPcB/s1600/20170429_213301.picasaweb.jpg" "Until Rain: Cons Marg." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pf9as9uxrffe0393.jpg" "Until Rain: Cons Marg." >}}
 
 I managed to talk to *Theodore Amaxopoulos* (30), a very friendly person, after the show. I expressed my regrets in connection with the poor attendance, which he reacted on by saying they had to play for 11 people once and that they didn't mind.
 
-{{< imgfig "https://3.bp.blogspot.com/-J1JfHp35lrQ/WQ3-d5w7DzI/AAAAAAAAp5I/68FZKJb5iJMtCOgG88hMJoK_0YRECK9kACPcB/s1600/20170429_212854.picasaweb.jpg" "Until Rain: Theodore Amaxopoulos, Cons Marg." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/09nmfx9lvp2n2534.jpg" "Until Rain: Theodore Amaxopoulos, Cons Marg." >}}
 
 Anyway, I must admit the band's performance was amazing. Theodore also said he started playing guitar when he was fourteen years old, and that he also plays acoustic one.
 
 *Denis Efimenko* (29) on the bass stands out because of the gloves he's wearing during playing. Although that didn't seem to negatively impact his play as far as I could tell.
 
-{{< imgfig "https://4.bp.blogspot.com/-GYvDnpehKyA/WQ3-d3MUbwI/AAAAAAAAp5I/ZZ_Dv1nEWOoYLMcvQUamWJyVZKc8j0HGQCPcB/s1600/20170429_213611.picasaweb.jpg" "Until Rain: Denis Efimenko." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1y0lx1q2rvw53406.jpg" "Until Rain: Denis Efimenko." >}}
 
 Thanks to the low attendance it was easy to chat with the musicians after the show. And to make a traditional dark photo with the band:
 
-{{< imgfig "https://2.bp.blogspot.com/-VTYfB5ZrpJs/WQ3-d0KiD2I/AAAAAAAAp5I/KWYRsCiGKawjDd3QfpbpQSnasazbtipTgCPcB/s1600/20170429_234839.picasaweb.jpg" "Until Rain fronted by the author." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/jr7d11a98u5y1462.jpg" "Until Rain fronted by the author." >}}
 
 ## Wolverine {#wolverine}
 
@@ -112,17 +112,17 @@ What's curious is that one gets some graphic image in his head as he listens to 
 
 I wouldn't probably recognise the singer {{< fl "Stefan Zell" >}} if I bumped into him on the street.
 
-{{< imgfig "https://1.bp.blogspot.com/-ldQnc30ApjQ/WQ3-d13FN0I/AAAAAAAAp5I/u0zKGzXBFi83pIRNX4d3DFL9n7JfEHFjgCPcB/s1600/20170429_231240.picasaweb.jpg" "Wolverine: Stefan Zell." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/phb347i2ec531920.jpg" "Wolverine: Stefan Zell." >}}
 
 No long hair, no flashy outfits, the musicians looked much like typical office workers.
 
 {{< fl "Per Henriksson" >}} on keyboard, notable for his bicepses, and {{< fl "Thomas Jansson" >}} on bass:
 
-{{< imgfig "https://3.bp.blogspot.com/-7ondeCoRGNA/WQ3-d8-HcJI/AAAAAAAAp5I/qFdDYE8-xJksGVt0SAmomviI3aoybfUjACPcB/s1600/20170429_231032.picasaweb.jpg" "Wolverine: Per Henriksson and Thomas Jansson." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hgh5ewueydj92580.jpg" "Wolverine: Per Henriksson and Thomas Jansson." >}}
 
 The imperturbable {{< fl "Jonas Jonsson" >}} on guitar:
 
-{{< imgfig "https://2.bp.blogspot.com/-_36rSl5M1Mc/WQ3-dyLYzsI/AAAAAAAAp5I/wR6dMGsZ_IsWKrvA4vViiUd8zi-eOQnxgCPcB/s1600/20170429_231227.picasaweb.jpg" "Wolverine: Jonas Jonsson." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ujcsmm97mzm73251.jpg" "Wolverine: Jonas Jonsson." >}}
 
 (The drummer {{< fl "Marcus Losbjer" >}} is unfortunately nowhere on my photos.)
 

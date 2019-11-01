@@ -3,7 +3,7 @@ type: post
 date: "2015-07-20T00:00:00Z"
 title: "Fixing Samsung SSD 840 EVO performance issues in Linux"
 tags: ["gadgets", "hardware", "Samsung", "Samsung 840 EVO", "SSD", "Ubuntu", "yktools"]
-image: "https://4.bp.blogspot.com/-Gis6J9NzD7c/WK3HNt5lxwI/AAAAAAAApUA/jkJuEgZRkKUEy8PJhDRfC58UA-xBrOw-ACPcB/s1600/samsung-840-evo-ssd.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/vehbela1sh2q2506.jpg"
 software: yktools
 aliases:
     - /en/blog/post/255
@@ -13,7 +13,7 @@ It's been a while since I {{< a "0231" "posted" >}} about replacing an iMac's HD
 
 <!--more-->
 
-{{< imgfig "https://4.bp.blogspot.com/-Gis6J9NzD7c/WK3HNt5lxwI/AAAAAAAApUA/jkJuEgZRkKUEy8PJhDRfC58UA-xBrOw-ACPcB/s1600/samsung-840-evo-ssd.jpg" "Samsung 840 EVO." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vehbela1sh2q2506.jpg" "Samsung 840 EVO." >}}
 
 You might expect years of care-free enjoyment, but, like always, good things tend to come to an end. There have been quite a few articles about [read speed deterioration](http://www.extremetech.com/computing/190746-samsung-840-evo-has-serious-performance-bug-fix-on-the-way) in Samsung's 840 EVO series since the fall 2014. The adverse effect is caused by a technological flaw in TLC NAND memory cells, which makes their voltage levels drift over time. This, in turn, requires the controller to make numerous passes in order to read the data, hence the performance degradation. The pattern was quite clear: the older the file, the bigger the voltage drift and the slower the reading.
 

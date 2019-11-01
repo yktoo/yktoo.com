@@ -9,7 +9,7 @@ tags:
     - пляж
     - праздники
     - Схевенинген
-image: "https://2.bp.blogspot.com/-gLtBi7n5prk/UOSAVgEEtgI/AAAAAAAAWXg/Av5bMGBKC1w/s1600/dsc06477.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/j75wq1vub1hp2349.jpg"
 places:
     - place0020
 aliases:
@@ -26,23 +26,23 @@ aliases:
 
 А там…
 
-{{< imgfig "https://2.bp.blogspot.com/-gLtBi7n5prk/UOSAVgEEtgI/AAAAAAAAWXg/Av5bMGBKC1w/s1600/dsc06477.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/j75wq1vub1hp2349.jpg" >}}
 
 Чтобы попасть на огороженную территорию, необходимо приобрести билет. Он стоит два евро, из которых одно будет направлено на благотворительность.
 
-{{< imgfig "https://4.bp.blogspot.com/-eammWSvR_HY/UOSBgBFX08I/AAAAAAAAWZE/XtBkkbgy1dE/s1600/dsc06534.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0rr89eht5y9d0616.jpg" >}}
 
 Каждому при входе выдаётся пакет, в котором оранжевая шапка с помпончиком, здоровая банка с традиционным голландским гороховым супом (1,3 л) и какие-то брошюрки с полезными советами по выживанию в холодной воде. Предупреждается, что тебя могут снимать в любых ракурсах на фото и видео, и тебе никто за это ничего не должен.
 
 Параметры окружающей среды следующие: температура воздуха: +8° C, воды: +7° C, скорость ветра: сумасшедшая, как обычно, количество народу в оранжевых шапках — около 10 тысяч. Наблюдаются пингвины и местное телевидение.
 
-{{< imgfig "https://1.bp.blogspot.com/-KQZXmR18n48/UOSAZ08o30I/AAAAAAAAWX8/zEXRPLDB0ug/s1600/dsc06492.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/q2ygomfgg3vt0868.jpg" >}}
 
 Основную массу смельчаков составляет, конечно, молодёжь. Неподалёку установлена небольшая сцена, с которой кто-то что-то диджеит.
 
 Начало забега всегда в полдень. По мере приближения часа «Ч» люди начинают раздеваться. Везде, как обычно, шныряют голландские морозоустойчивые дети.
 
-{{< imgfig "https://1.bp.blogspot.com/-HzsJRycqREM/UOSAccEGV_I/AAAAAAAAWYM/C0ZmdNWA-hg/s1600/dsc06502.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/f0s47a6y3c200523.jpg" >}}
 
 Ну и по команде из громкоговорителей все с дикими воплями устремляются в хладные воды моря. Выглядит это так:
 
@@ -50,6 +50,6 @@ aliases:
 
 Ну, а те, кто выжил, получают почётное право именовать себя {{< fl "duikheld" >}} — «герой-ныряльщик».
 
-{{< imgfig "https://2.bp.blogspot.com/-LgX2XMhIANI/UOSbdSriy8I/AAAAAAAAWZ0/iJXKNki5lUI/s1600/dsc06535.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/4twl6gn59kg73410.jpg" >}}
 
 **С Новым годом!**

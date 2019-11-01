@@ -3,7 +3,7 @@ type: post
 date: "2011-07-13T00:00:00Z"
 title: "Adieu, Tele2!"
 tags: ["боксинг", "гаджеты", "интернет", "Нидерланды"]
-image: "https://4.bp.blogspot.com/-V1z3DGuXKD0/Th3mrxwxPZI/AAAAAAAAJF8/gCfroavkuy8/s1600/dsc05123.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/iyotgn5t64rb2691.jpg"
 aliases:
     - /ru/blog/post/102
 ---
@@ -16,34 +16,34 @@ aliases:
 
 Итак, я обнаружил в почтовом ящике новую, с иголочки, коробку фирмы {{< fl "Janssen Packaging" >}}. В исходном, сжатом виде коробка выглядит так:
 
-{{< imgfig "https://4.bp.blogspot.com/-V1z3DGuXKD0/Th3mrxwxPZI/AAAAAAAAJF8/gCfroavkuy8/s1600/dsc05123.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/iyotgn5t64rb2691.jpg" >}}
 
 Инструкция по сборке не прилагалась, но я разобрался сам. Сначала коробку нужно немного расправить:
 
-{{< imgfig "https://2.bp.blogspot.com/-7x-YvR75D2c/Th3mslzPBPI/AAAAAAAAJGA/MvU70tiXuQk/s1600/dsc05125.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/f3dubjh8lvum3659.jpg" >}}
 
 Потом распрямить дно:
 
-{{< imgfig "https://2.bp.blogspot.com/-B-ICRaadpX8/Th3mvOwH_zI/AAAAAAAAJGM/gqJSRPyCmyY/s1600/dsc05130.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/09aqic9v5rzz0617.jpg" >}}
 Коробка снабжена клейкой полоской, защищённой бумагой (белого цвета), для того, чтобы её можно было легко заклеить. Также она оснащена усилительной полоской (красного цвета), которая позволяет открыть заклеенную коробку, разорвав её по полоске.
 
 И вот, коробка в сборе:
 
-{{< imgfig "https://1.bp.blogspot.com/-0PR51l3XtpA/Th3muQxUuzI/AAAAAAAAJGI/xxpJJjnWY-E/s1600/dsc05135.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/8qyoe7mx9vg11943.jpg" >}}
 В глаза сразу бросается классическая, геометрически правильная форма, столь популярная у современных гаджетов.
 
 Окидываем содержимое прощальным взглядом:
 
-{{< imgfig "https://4.bp.blogspot.com/--Jb2FYzxbVs/Th3myB9wzVI/AAAAAAAAJGY/FV4-DGaZ4Wg/s1600/dsc05138.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/mqu8lqk21kft1899.jpg" >}}
 (Тут я в первый раз заметил, что блок питания модема произведён легендарной компанией OEM®.)
 
 Помещаем второе в первую:
 
-{{< imgfig "https://2.bp.blogspot.com/-Zt0XJl7xmp4/Th3mxIqOhAI/AAAAAAAAJGU/miL25lLrmVU/s1600/dsc05134.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/8hbcbsjr9h273224.jpg" >}}
 Коробка, надо признать, немного не по размеру, и содержимое в ней несколько болтается, но это не моя печаль, моё дело отправить.
 
 Всё предусмотрено для самых ленивых: вместе с коробкой прислали наклейку с обратным адресом, которую нужно разместить на видном месте.
 
-{{< imgfig "https://1.bp.blogspot.com/-hAArTTBW-68/Th3yI_78tRI/AAAAAAAAJGo/qkiRBwn_MiU/s1600/dsc05143.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/qj170debvxyc2940.jpg" >}}
 
 Мишн комплит. Осталось сдать коробку в ближайшем почтовом отделении.

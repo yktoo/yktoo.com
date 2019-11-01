@@ -3,20 +3,20 @@ type: post
 date: "2011-01-24T00:00:00Z"
 title: "О теракте в Домодедове"
 tags: ["Нидерланды", "новости", "СМИ"]
-image: "https://2.bp.blogspot.com/_PX65_e7vApk/TT3tDEpWOOI/AAAAAAAAH6Y/vIicoGgB3-U/s1600/DSC00813.JPG"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/w1u3e30kcryj0599.JPG"
 aliases:
     - /ru/blog/post/69
 ---
 
 О Домодедове у нас говорят в каждом выпуске новостей, и довольно много. Показывают интервью с политиками и аналитиками. Репортажи.
 
-{{< imgfig "https://2.bp.blogspot.com/_PX65_e7vApk/TT3tDEpWOOI/AAAAAAAAH6Y/vIicoGgB3-U/s1600/DSC00813.JPG" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/w1u3e30kcryj0599.JPG" >}}
 
 <!--more-->
 
 Показывают кадры российских новостей.
 
-{{< imgfig "https://1.bp.blogspot.com/_PX65_e7vApk/TT3tCWi4ZXI/AAAAAAAAH6U/Jij7JQnIPzo/s1600/DSC00809.JPG" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/mb5gw2v87mi32132.JPG" >}}
 О России в местном телевизоре вспоминают, говоря откровенно, не очень часто. Что в данном случае показывает, какое значение придаётся этому происшествию.
 
 Жалко, что (в очередной раз) от него пострадали не те, кто послужил ему причиной.

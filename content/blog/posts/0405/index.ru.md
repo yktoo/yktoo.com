@@ -8,7 +8,7 @@ tags:
     - миф
     - новости
     - законодательство
-image: "https://1.bp.blogspot.com/-pveE-580DWg/XZRYY1h7KFI/AAAAAAAAyS8/OVA_6cEJBB8tyq7LJvLfPbQjrVR3fg6YwCKgBGAsYHg/s1600/meduza-fixed.png"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/eq6gefcmhfk82577.png"
 ---
 
 Это любопытно: после моей {{< a "0402" "публикации" >}} на тему некоторого искажения Медузой фактов (о чём я им тоже сообщил), журналисты издания, видимо, провели должный факт-чекинг и выполнили работу над ошибками.
@@ -17,7 +17,7 @@ image: "https://1.bp.blogspot.com/-pveE-580DWg/XZRYY1h7KFI/AAAAAAAAyS8/OVA_6cEJB
 
 Слева — то, что было, справа — стало:
 
-{{< imgfig "https://1.bp.blogspot.com/-fTTuHzSb3r4/XZRapNPF8BI/AAAAAAAAyTc/Vx51kdP0ubY6eovccJsIVWWrEz2cHagHgCKgBGAsYHg/s1600/meduza-before-after.png" "Было — стало." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ndvn2gyplqyw3412.png" "Было — стало." >}}
 
 Германия и Нидерланды (самые преуспевающие, кстати, страны Евросоюза) переехали в самый низ.
 

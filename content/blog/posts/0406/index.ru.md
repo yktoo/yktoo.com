@@ -8,7 +8,7 @@ tags:
     - страховка
     - статистика
     - CBS
-image: "https://1.bp.blogspot.com/-RoD5xh_sRic/XZSKdGsGqPI/AAAAAAAAyVI/uE6F2rfjW1U6glTzAHquH4xymDtLTgMWwCKgBGAsYHg/s1600/euros.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/zico9nui0g7q2201.jpg"
 ---
 
 Система здравоохранения в Нидерландах базируется на *принципе солидарности*, что означает, что каждый совершеннолетний житель страны платит одинаковую сумму за базовую медицинскую страховку ({{< fl "basisverzekering" >}}), невзирая на пол, возраст, род занятий, образ жизни и состояние здоровья.
@@ -30,7 +30,7 @@ image: "https://1.bp.blogspot.com/-RoD5xh_sRic/XZSKdGsGqPI/AAAAAAAAyVI/uE6F2rfjW
 
 Вот как выглядит сводная статистика по категориям:
 
-{{< imgfig "https://1.bp.blogspot.com/-HoU0Tq0PNZ8/XZSHKnpmDSI/AAAAAAAAyUg/lUrtojEy43IHrHq70rrNdBQOMMZXV2drACKgBGAsYHg/s1600/2019-10-02_cbs-cijfers.png" "Сводные результаты опроса. Источник: CBS. Перевод: yktoo.com." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/n71d71aeavem3046.png" "Сводные результаты опроса. Источник: CBS. Перевод: yktoo.com." >}}
 
 В целом по результатам исследования можно отметить, что принцип солидарности, похоже, начинает несколько сдавать позиции. Не удивлюсь, если в один прекрасный {{< a "0382" "Prinsjesdag" >}} нам объявят, что отныне в стоимость страховки будут заложены вредные привычки.
 

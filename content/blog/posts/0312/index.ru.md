@@ -12,7 +12,7 @@ tags:
     - новости
     - Фрисландия
     - электромобили
-image: "https://4.bp.blogspot.com/-YhfFGRapYn8/WK9FuDfe67I/AAAAAAAApV8/67RTz6mZQ_Yd51Ev-abkSYVbBjqlDScJQCPcB/s1600/top-dutch-tesla.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/2ajnwa9mqugz2517.jpg"
 aliases:
     - /ru/blog/post/312
 ---
@@ -23,13 +23,13 @@ aliases:
 
 <!--more-->
 
-{{< imgfig "https://4.bp.blogspot.com/-YhfFGRapYn8/WK9FuDfe67I/AAAAAAAApV8/67RTz6mZQ_Yd51Ev-abkSYVbBjqlDScJQCPcB/s1600/top-dutch-tesla.picasaweb.jpg" "Hi Tesla. We Are Top Dutch." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/2ajnwa9mqugz2517.jpg" "Hi Tesla. We Are Top Dutch." >}}
 
 Этот веб-сайт, по сути, одно большое интерактивное обращение к {{< fl "Tesla Motors" >}} и лично к Илону Маску. Фраза {{< fl "«We Are Top Dutch»" >}} построена на игре слов: {{< fl "top" >}} переводится и как «верхний» (провинции северные, то есть находятся на карте в самом верху), и как «лучший» (ну а чего скромничать, в самом деле).
 
 Обращение преследует целью заманить {{< fl "Tesla" >}} на север Голландии — убедить их построить там гигафабрику, если таковая потребуется в Европе.
 
-{{< imgfig "https://2.bp.blogspot.com/-f0gfLQDqoEg/WK9L3AsEb-I/AAAAAAAApWM/UFrJWeaQt84Y6WuX59bDoRm-VGbpLgV-gCPcB/s1600/tesla-we-are.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pxfv1bd3ozsb1708.png" >}}
 
 В 2013 году {{< fl "Tesla Motors" >}} открыла [сборочный цех](https://www.tesla.com/blog/tesla-motors-opens-assembly-plant-tilburg-netherlands) в голландском {{< wiki "Тилбург" "ru" "Тилбурге" >}}, что на юге страны — в том числе потому, что там рукой подать до Роттердама, одного из крупнейших морских портов в Европе. Логично, что север взревновал и теперь хочет доказать, что он тоже, мол, не провинция!
 

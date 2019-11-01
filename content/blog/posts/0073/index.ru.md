@@ -3,7 +3,7 @@ type: post
 date: "2011-03-08T00:00:00Z"
 title: "Международный женский день"
 tags: ["забавное", "Нидерланды", "праздники"]
-image: "https://1.bp.blogspot.com/--Zw_day-C2g/TXZqJNBAP3I/AAAAAAAAIBU/MyRlfp9bNVQ/s1600/vrouwendag.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/2fnx7vvje0if2836.jpg"
 aliases:
     - /ru/blog/post/73
 ---
@@ -16,6 +16,6 @@ aliases:
 
 Но поскольку ничего святого для них в этом дне нет, неудивительно, что всё это сопровождается подобными картинками:
 
-{{< imgfig "https://1.bp.blogspot.com/--Zw_day-C2g/TXZqJNBAP3I/AAAAAAAAIBU/MyRlfp9bNVQ/s1600/vrouwendag.jpg" "Международный женский день: Я уже сделал это с негритянкой и китаянкой" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/2fnx7vvje0if2836.jpg" "Международный женский день: Я уже сделал это с негритянкой и китаянкой" >}}
 
 В общем, с праздником, дорогие дамы!

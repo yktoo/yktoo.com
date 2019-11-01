@@ -15,6 +15,6 @@ series: Доля предпринимательская
 
 <!--more-->
 
-{{< imgfig "https://yktoo.solutions/blog/2019/10/01-yktoo-solutions-is-three/ys-three-years.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/gz8cannutwxngj9u1e62.jpg" >}}
 
 Столько всего хорошего случилось за эти три года, и столько ещё предстоит!

@@ -5,7 +5,7 @@ dateFrom: 2018-09-20
 dateTo: 2018-09-20
 location: "Postillion Convention Center, Amsterdam, Netherlands"
 websiteUrl: ""
-image: "https://4.bp.blogspot.com/-LkM0S58F9n0/W5kNeyCNWKI/AAAAAAAAt3I/zzvvTGv0TjkVMD-41BEqjDV-a8uaIHaCgCKgBGAs/s1600/idm-europe-identity-server-comparison.png"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/ifxy8h5p3u732468.png"
 videocategories: it
 posts: "0340"
 ---

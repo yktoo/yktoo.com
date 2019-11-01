@@ -3,7 +3,7 @@ type: post
 date: "2016-12-31T00:00:00Z"
 title: "Две тысячи шестнадцатый — всё"
 tags: ["2016", "Yktoo Solutions", "веб", "итоги", "сайт"]
-image: "https://3.bp.blogspot.com/-j13YG-30uUo/WGJ6mibiEgI/AAAAAAAAoyk/ZqH9Gi4_Q8c-wVOBGrnz20vIayOMa5AtQCPcB/s1600/2017.png"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/41diu1z68uu63471.png"
 aliases:
     - /ru/blog/post/302
 ---
@@ -14,7 +14,7 @@ aliases:
     <b>Поздравляю всех читателей моего блога с наступающим <big>2017</big> годом и желаю вам оптимизма, настойчивости, везения и хорошей погоды!</b>
 </p>
 
-{{< imgfig "https://3.bp.blogspot.com/-j13YG-30uUo/WGJ6mibiEgI/AAAAAAAAoyk/ZqH9Gi4_Q8c-wVOBGrnz20vIayOMa5AtQCPcB/s1600/2017.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/41diu1z68uu63471.png" >}}
 
 По уже сложившейся {{< a "/tags/итоги" "традиции" >}} подведу личные итоги минувшего года — у меня он вышел, к счастью, довольно позитивным. В **2016 году** мне удалось:
 

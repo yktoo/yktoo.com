@@ -3,7 +3,7 @@ type: post
 date: "2014-05-13T00:00:00Z"
 title: "Netherlander!"
 tags: ["Amersfoort", "mayor", "nationality", "naturalisation ceremony", "Netherlands"]
-image: "https://4.bp.blogspot.com/-Npa6ZmmTZbM/U3EbMhvYXQI/AAAAAAAAdTk/JY3TQ2pmC9c/s1600/IMG_20140512_205856.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/8303fff0jigd0066.jpg"
 aliases:
     - /en/blog/post/219
 ---
@@ -12,7 +12,7 @@ I haven't been actively blogging lately, and that's not because nothing is happe
 
 Inevitable happened: my journey into an alternative reality I've {{< a "0001" "embarked on" >}} exactly six years ago is now complete. A few days ago I've oficially become Dutch, a citizen of the Kingdom of the Netherlands.
 
-{{< imgfig "https://4.bp.blogspot.com/-Npa6ZmmTZbM/U3EbMhvYXQI/AAAAAAAAdTk/JY3TQ2pmC9c/s1600/IMG_20140512_205856.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/8303fff0jigd0066.jpg" >}}
 
 <!--more-->
 
@@ -44,44 +44,44 @@ As a side note, I'm noticing that I've considerably "turned Dutch" ({{< fl "inge
 
 So here you land in a calm and affable Dutch atmosphere, and you're offered a cake with a smile:
 
-{{< imgfig "https://1.bp.blogspot.com/-VLrL2ffN43o/U1TMqx_jXyI/AAAAAAAAclM/77cvbH7eiiY/s1600/dsc03568.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/qfc69d95elbx2897.jpg" >}}
 
 The Dutch are coffee-driven, so the town-hall has even arranged special mugs:
 
-{{< imgfig "https://3.bp.blogspot.com/-MOdYTDUSfnM/U1TMsadoU5I/AAAAAAAAclU/X88OeESJcjw/s1600/dsc03569.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/p8rvdao3ures0491.jpg" >}}
 
 At a certain moment the Dutchies-to-be are lead into the council chamber. The desks there are marked with their names in the alphabetical order. A town-hall official explains the procedure to the audience, the latter pretends to be listening.
 
-{{< imgfig "https://2.bp.blogspot.com/-FExOIwy1d-E/U1TMtv0h2MI/AAAAAAAAclc/sNsXPIfYm_c/s1600/dsc03570.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/3v4z9nn0s4cp1731.jpg" >}}
 
 There are 31 people on the list, most of them are of Turkish, Arabic or African origin. I'm the only one from the ex-USSR.
 
-{{< imgfig "https://4.bp.blogspot.com/-NSWDOltzEYY/U1TMxxiNRlI/AAAAAAAAcl0/h8x_oo4Fj4o/s1600/dsc03573.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/uxzr6l49lt9i0547.jpg" >}}
 
 The official part begins. The mayor, Lucas Bolsius, who once {{< a "0173" "introduced" >}} us to Amersfoort, steps up and gives a long speech about the importance of the event, the Dutch culture, its key values and so forth.
 
 Finally he reads out the Declaration of Allegiance and starts the confirmation round. He approaches the candidates one-by-one, who would stand up and say either {{< fl ""Dat verklaar en beloof ik"" >}} ("That I affirm and promise", the secular version) or {{< fl ""Zo waarlijk helpe mij God almachtig"" >}} ("So help me God Almighty", the religious version). At exactly that moment you've formally become Dutch.
 
-{{< imgfig "https://2.bp.blogspot.com/-mxIO-9EC7HY/U1TMzVRHWEI/AAAAAAAAcl8/GqUrpZnKoN8/s1600/dsc03574.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zqsf2g11nynb0895.jpg" >}}
 
 Then you shake hands with the mayor and are handed over a Certificate of the Dutch Nationality. Next to that you also get a medal with the inscription {{< fl "Landgenoot. Stadsgenoot" >}} ("fellow countryman, fellow cityman") and an outline of the Netherlands depicting the location of Amersfoort:
 
-{{< imgfig "https://2.bp.blogspot.com/-Xq9oKAwDNxk/U1TM9ha1C_I/AAAAAAAAcm0/puocXR0pUIM/s1600/dsc03587.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/3f4v88oncqw10165.jpg" >}}
 
 Both versions of the oath are printed on sheets of paper lying on everyone's desks. They are also shown on big wall screens. But some people either didn't listen or couldn't understand the explanations. Somebody would start reading from the title part of the sheet, for instance. But nevermind, the officials must be well used to all kinds of situations.
 
 Most people chose the secular version, apparently because it's simpler. Only one man from Indonesia was brave enough to say the long one:
 
-{{< imgfig "https://1.bp.blogspot.com/-6ZGcv0n2cQo/U1TM2OcU_2I/AAAAAAAAcmM/XezGo53tICE/s1600/dsc03576.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/88fy0tgu8n142569.jpg" >}}
 
 Once the round was over everybody sang the first verse of Dutch National Anthem ({{< fl "Wilhelmus" >}}). The text of the [anthem](https://www.youtube.com/watch?v=nTXxFhWllm0) was shown on wall screens like in karaoke.
 
 And at last, everybody gets together for a group photo with the mayor:
 
-{{< imgfig "https://2.bp.blogspot.com/-B6KaVXRBQdE/U1TM3ssdJlI/AAAAAAAAcmU/Pq448G3g6JM/s1600/dsc03582.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/a4xtxa0ha4os3533.jpg" >}}
 
 Everybody's happy. The mayor poses for a photo.
 
-{{< imgfig "https://4.bp.blogspot.com/-_vVcAERtRS4/U1TM55kUJVI/AAAAAAAAdTE/ElAY5B_aoqg/s1600/dsc03584.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/6h33cewyezua1474.jpg" >}}
 
 That's all. About a week later you collect your new passport here. You get your fingerprints scanned for it, and also your height is registered.

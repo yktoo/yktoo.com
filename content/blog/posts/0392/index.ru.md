@@ -9,7 +9,7 @@ tags:
     - Брекзит
     - СМИ
     - новости
-image: "https://1.bp.blogspot.com/-vCzv7gIe64Q/XYjJK6cAaVI/AAAAAAAAx7M/79ECPflwkvAKWild9gL-4C619x0SI4vVgCKgBGAsYHg/s1600/banksy-brexit.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/pv5692cttesl1864.jpg"
 imageCredit: "Картинка: Banksy."
 ---
 

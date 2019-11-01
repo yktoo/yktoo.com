@@ -7,7 +7,7 @@ tags:
     - Роттердам
     - Евровидение
     - Ahoy
-image: "https://lh3.googleusercontent.com/LehUIAg0hR0j4YU8snC_sJnzJ25KueCTRsW4XmB5km0k5deJKVh0gAl1woqTIFWtvuOyfDcGxP-bgLm-0s0=s0"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/oejkszsgh8yv3tb0uoca.jpg"
 ---
 
 Нидерландец Дункан Лоуренс победил в последнем Евровидении-2019 (который, сознаюсь, я даже не смотрел — не мой жанр), поэтому в следующем году фестиваль пройдёт на родине тюльпанов, {{< a "0362" "марихуаны" >}} и вафель с сиропом.
@@ -26,13 +26,13 @@ image: "https://lh3.googleusercontent.com/LehUIAg0hR0j4YU8snC_sJnzJ25KueCTRsW4Xm
 
 Впрочем, сами маастрихтцы уже поздравили Роттердам с победой и признали, что «он действительно лучше подходит для проведения столь масштабного события».
 
-{{< imgfig "https://lh3.googleusercontent.com/LehUIAg0hR0j4YU8snC_sJnzJ25KueCTRsW4XmB5km0k5deJKVh0gAl1woqTIFWtvuOyfDcGxP-bgLm-0s0=s0" "Официальная заставка фестиваля Eurovision." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/oejkszsgh8yv3tb0uoca.jpg" "Официальная заставка фестиваля Eurovision." >}}
 
 С чем я лично совершенно согласен, Маастрихт находится ~~у чёрта на рогах~~ в самой юго-западной точке страны, вблизи бельгийской границы, на поезде пилить туда часа два — а Роттердам вот он, рядом, и транспортная инфраструктура у него подходит точно лучше.
 
 Весь город уже предвкушает надвигающуюся движуху. Бургомистр Ахмед Абуталеб {{< a "https://www.youtube.com/watch?v=7K_uTqn09ac" "обещает" >}} «закатать рукава и подготовить город и {{< fl "Ahoy" >}} к мероприятию».
 
-{{< imgfig "https://lh3.googleusercontent.com/lNvw5ucWV2IcJ0UaWBz_4CpGApFVa3Bol7AGdvDwOIijHZl5L58hDie7yGk2keClDCTbLyaRbSrpA4As99w=s0" "Роттердам, вид на Маас." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/636m0ummcpxi0626.jpg" "Роттердам, вид на Маас." >}}
 
 Даже роттердамская полиция {{< a "https://twitter.com/Politie_Rdam/status/1167384564869881856" "отреагировала" >}}: «Пусть приезжает — мы готовы, будем присутствовать и помогать, зримо и незримо».
 

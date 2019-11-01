@@ -9,7 +9,7 @@ tags:
     - поезда
     - транспорт
     - железные дороги
-image: "https://4.bp.blogspot.com/-ta4Wf4JAhq4/TVkpFbEOqLI/AAAAAAAAH_0/SKANrC9W4IM/s1600/IMAG0210.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/bp5879noa0bb2161.jpg"
 places:
     - place0125
 aliases:
@@ -22,7 +22,7 @@ aliases:
 
 Интересное было обнаружено мной при возвращении с работы, на центральном железнодорожном вокзале, и выглядело как духовой оркестр. Который было слышно, разумеется, издалека.
 
-{{< imgfig "https://4.bp.blogspot.com/-ta4Wf4JAhq4/TVkpFbEOqLI/AAAAAAAAH_0/SKANrC9W4IM/s1600/IMAG0210.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/bp5879noa0bb2161.jpg" >}}
 
 <!--more-->
 
@@ -30,7 +30,7 @@ aliases:
 
 Качество фотографии плохое: снималось, естественно, на телефон.
 
-{{< imgfig "https://4.bp.blogspot.com/-kVl9zYihrhM/TVkrI4soaKI/AAAAAAAAH_4/gvYqL9F0WQI/s1600/harmonieorkest.jpg" "NS Harmonieorkest. Фото с их сайта." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/3km0xxbghmea2673.jpg" "NS Harmonieorkest. Фото с их сайта." >}}
 
 Вообще говоря, ж/д-вокзалы не так уж редко становятся концертными площадками. Как минимум несколько раз в год где-нибудь в здании вокзала возводится импровизированная сцена, расставляется внушительное количество аппаратуры и начинается *искусство*.
 

@@ -3,14 +3,14 @@ type: post
 date: "2016-01-17T00:00:00Z"
 title: "Первый снег!"
 tags: ["зима", "Нидерланды", "погода", "природа", "снег"]
-image: "https://3.bp.blogspot.com/-WiejJZQ2SBg/VpvUFVSywXI/AAAAAAAAlHI/a4e4gUtO4Go/s1600/20160117_094217.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/soa53y4plkva0834.jpg"
 aliases:
     - /ru/blog/post/268
 ---
 
 Сегодня, 17 января 2016 года, природа выкинула неожиданный трюк. Ночью выпал первый за эту зиму снег — мы уже, как {{< a "/radiolaria/tracks/032" "в песне поётся" >}}, его не ожидали.
 
-{{< imgfig "https://3.bp.blogspot.com/-WiejJZQ2SBg/VpvUFVSywXI/AAAAAAAAlHI/a4e4gUtO4Go/s1600/20160117_094217.picasaweb.jpg" "Первый снег." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/soa53y4plkva0834.jpg" "Первый снег." >}}
 
 <!--more-->
 
@@ -18,7 +18,7 @@ aliases:
 
 К вечеру как будто ничего и не было.
 
-{{< imgfig "https://1.bp.blogspot.com/-BDUYTvFyolM/VpvUFRWdmlI/AAAAAAAAlHI/l-gudUsQVFk/s1600/20160116_162542.picasaweb.jpg" "Предзакатный Баарн." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/r1imm6tidm593385.jpg" "Предзакатный Баарн." >}}
 
 Эта зима опять в который раз бьёт все рекорды, например, 22 декабря в 2015 году [было самым тёплым](http://nieuws.weeronline.nl/22-december-2015-winter-begint-record-warm/) (**+13,4 °C**) за всю историю наблюдений.
 

@@ -9,7 +9,7 @@ tags:
     - новости
     - авто
     - OVI
-image: "https://1.bp.blogspot.com/-CqBOmrrM1Xk/XaSduUS-vvI/AAAAAAAAysI/E6sbcjaEwDw0WCTG1E3Vrd9in-un0UDawCKgBGAsYHg/s1600/2019-10-14_lamborghini.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/32mswdmd3tud2035.jpg"
 imageCredit: "Фото: NOS."
 ---
 
@@ -19,7 +19,7 @@ imageCredit: "Фото: NOS."
 
 <!--more-->
 
-{{< imgfig "https://1.bp.blogspot.com/-CqBOmrrM1Xk/XaSduUS-vvI/AAAAAAAAysI/E6sbcjaEwDw0WCTG1E3Vrd9in-un0UDawCKgBGAsYHg/s1600/2019-10-14_lamborghini.jpg" "Lamborghini Huracán Spyder въехала в дорожный знак. Кадр из видео NOS." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/32mswdmd3tud2035.jpg" "Lamborghini Huracán Spyder въехала в дорожный знак. Кадр из видео NOS." >}}
 
 По свидетельствам очевидцев, Ламборгини выехала с большой скоростью на перекрёсток, задела микроавтобус охранного предприятия {{< fl "Dog Security" >}}, после чего врезалась в дорожный знак. После этого между водителями случилась перепалка, вылившаяся в задержание водителя Ламборгини. Что это мне напоминает?
 

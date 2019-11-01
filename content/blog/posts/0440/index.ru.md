@@ -11,7 +11,7 @@ tags:
     - Sinterklaas
     - Zwarte Piet
     - pakjesavond
-image: "https://1.bp.blogspot.com/-BFzeiDmrjEI/XbMThO41D-I/AAAAAAAAzBQ/tvt6U5Trku0Hh_d-M0ZjnbddcC7RfCE5gCKgBGAsYHg/s1600/2019-10-25.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/ast353u4kd470806.jpg"
 imageCredit: "Фото: Tenorio81/Wikimedia/CC BY 3.0."
 glossary:
     - sinterklaas
@@ -35,13 +35,13 @@ glossary:
 
 Сойдя на сушу, епископ пересаживается на лошади серой масти по имени Америго ({{< fl "Amerigo" >}}). На ней же он, предположительно, скачет по крышам домов в свой праздник **5** декабря.
 
-{{< imgfig "https://1.bp.blogspot.com/-eN75UxQcyLA/XbMfu-S2lDI/AAAAAAAAzBo/8BIUemdBC1oy7dDaCKa6c6lzehxDWFsJQCKgBGAsYHg/s1600/dsc05605.picasaweb.jpg" "Синтерклаас на своей лошади Америго." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/a8qs59ra0co11021.jpg" "Синтерклаас на своей лошади Америго." >}}
 
 ## Чёрные Питы
 
 Впоследствии количество Питов-помощников у епископа выросло: сначала до двух, а после второй мировой войны их стало много — тогда канадские военные впервые организовали празднование дня Синтерклааса с участием множества Чёрных Питов.
 
-{{< imgfig "https://1.bp.blogspot.com/-BFzeiDmrjEI/XbMThO41D-I/AAAAAAAAzBQ/tvt6U5Trku0Hh_d-M0ZjnbddcC7RfCE5gCKgBGAsYHg/s1600/2019-10-25.jpg" "Синтерклаас и Чёрный Пит. Фото: Tenorio81/Wikimedia/CC BY 3.0." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ast353u4kd470806.jpg" "Синтерклаас и Чёрный Пит. Фото: Tenorio81/Wikimedia/CC BY 3.0." >}}
 
 ## Пришествие Синтерклааса
 
@@ -49,7 +49,7 @@ glossary:
 
 Настоящий аутентичный Синтерклаас прибывает строго на пароходе, но за неимением такой возможности, бывает, что является на поезде, вертолёте или даже по-простому на велосипеде.
 
-{{< imgfig "https://1.bp.blogspot.com/-gm6WIevt0p4/XbMfu9A8HZI/AAAAAAAAzBo/sHM8cfiq978wN4h3_rHC5vTszOo1qzDFgCKgBGAsYHg/s1600/dsc05593.picasaweb.jpg" "Пришествие Синтерклааса в Амерсфорте, ноябрь 2012 года." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/of7j91kk4o3a0324.jpg" "Пришествие Синтерклааса в Амерсфорте, ноябрь 2012 года." >}}
 
 Епископа встречает лично мэр города, а в месте прибытия проводятся концерты и устраиваются прочие развлечения для детей и взрослых.
 
@@ -71,6 +71,6 @@ glossary:
 
 Эти подарки называются *сюрпризами* ({{< fl "surprises" >}}), и они должны быть специальным образом упакованы — так, чтобы намекать на какую-либо особенность получателя. Например, заядлый поклонник футбола может получить подарок, упакованный в бутафорский футбольный мяч.
 
-{{< imgfig "https://1.bp.blogspot.com/-bZU87V7_A54/XbMnziwyiGI/AAAAAAAAzB0/hWOTycqKBJwlWgM91jN04xyAmCxyCeQCACKgBGAsYHg/s1600/20181203_200135.picasaweb.jpg" "Вариант упаковки подарка-сюрприза для любителя чипсов." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0n9ajh4baura1506.jpg" "Вариант упаковки подарка-сюрприза для любителя чипсов." >}}
 
 В особо продвинутом варианте дарящий должен также прочитать шуточный стишок, адресованный получателю, и обыгрывающий тему «сюрприза».

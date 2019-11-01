@@ -3,7 +3,7 @@ type: post
 date: "2017-03-28T00:00:00Z"
 title: "David Maxim Micic, Disperse, Plini в Patronaat"
 tags: ["David Maxim Micic", "Disperse", "Patronaat", "Plini", "progressive metal", "музыка"]
-image: "https://3.bp.blogspot.com/-4ql-Zp3-APE/WNgDhZQK7-I/AAAAAAAApp8/W-4pPcq2MEU9OeNdFGRXA-JLe8_iTxsEgCPcB/s1600/dsc04094.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/7qvi95mnc52o2819.jpg"
 places:
     - place0243
 aliases:
@@ -18,7 +18,7 @@ aliases:
 
 Зал в клубе {{< fl "Patronaat" >}} (г. Харлем) был совсем крохотный и забит битком, при этом в нём было, наверное, около сотни человек. Один мой знакомый, слишком долго собиравшийся пойти, хотел купить билет да обнаружил, что всё распродано.
 
-{{< imgfig "https://3.bp.blogspot.com/-AyWrTi1Sm08/WNgDhXozeNI/AAAAAAAApp8/DbcQ_DllLJQQs0hWrm4Ong3SFcLkWaHWwCPcB/s1600/dsc04083.picasaweb.jpg" "Перед началом концерта." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/tvg2i9tudwak2068.jpg" "Перед началом концерта." >}}
 
 Ещё бы, при цене-то в **€14**! Впрочем, в конце концов ему улыбнулось счастье и он в последний момент урвал билетик на {{< fl "TicketSwap" >}}.
 
@@ -40,7 +40,7 @@ aliases:
 
 Отыграв положенные три четверти часа, {{< fl "David Maxim Micic" >}} уступили место {{< fl "Disperse" >}}, проекту только что упомянутого поляка Якуба Зытецкого, которому всего 24 года. На барабанах продолжал трудиться Майк Малян, баса у них не было, но на сцене появился Рафал Бьернацки ({{< fl "Rafał Biernacki" >}}), отвечающий за клавиши и вокал.
 
-{{< imgfig "https://4.bp.blogspot.com/-sIKEh18_-0U/WNgDhQy4vGI/AAAAAAAApp8/3HC9oyVUb3wegO1F5_8uGPFzKLnE4_X-QCPcB/s1600/dsc04087.picasaweb.jpg" "Disperse: Jakub Żytecki, Mike Malyan, Rafał Biernacki." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vezcnu4ahu1k1526.jpg" "Disperse: Jakub Żytecki, Mike Malyan, Rafał Biernacki." >}}
 
 Жанр {{< fl "Disperse" >}} описать поэтому можно примерно как «{{< fl "David Maxim Micic" >}} + вокал» — такая же сборная солянка из электроники, прогрессива и джента. Ещё они чем-то *очень* отдалённо напомнили мне {{< a "0283" "почивший Sun Caged" >}} (плачущий смайлик), но у {{< fl "Disperse" >}} нет, к сожалению, их напора и экспрессии. Играет Якуб, насколько я могу судить, не хуже Давида — была возможность сравнить во время «суперджема» с Плини — о чём ниже.
 
@@ -54,9 +54,9 @@ aliases:
 
 После {{< fl "Disperse" >}} наконец-то настала очередь самого известного молодого дарования, {{< wiki "Plini" "en" "Plini" >}} из солнечной Австралии, которого сопровождали соотечественники басист Саймон Гроув (уже знакомый нам), ударник Трой Райт ([Troy Wright](https://www.wrightdrums.com/)) и гитарист Джейк Хаусэм Лоу ({{< fl "Jake Howsam Lowe" >}}) — которого Плини окрестил «Христом».
 
-{{< imgfig "https://3.bp.blogspot.com/-4ql-Zp3-APE/WNgDhZQK7-I/AAAAAAAApp8/W-4pPcq2MEU9OeNdFGRXA-JLe8_iTxsEgCPcB/s1600/dsc04094.picasaweb.jpg" "Plini." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/7qvi95mnc52o2819.jpg" "Plini." >}}
 
-{{< imgfig "https://3.bp.blogspot.com/-5Yx5pym4z60/WNgDhaX0JDI/AAAAAAAApp8/JIGonVuGKbwHndU315nQv88bZEmcRM_jwCPcB/s1600/dsc04091.picasaweb.jpg" "Jake Howsam Lowe." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/m3fo2choqpr71395.jpg" "Jake Howsam Lowe." >}}
 
 Музыкальный стиль команды можно назвать «мелодичный прогрессивный фьюжн», с довольно хорошо (даже чересчур хорошо) запоминающимися мелодиями. Техника игры у Плини блестящая, но любят его, как мне кажется, не только за это. Он ведёт себя очень скромно и непосредственно, постоянно шутит с музыкантами, делает «хай файв» и каждый раз благодарит публику за аплодисменты.
 
@@ -64,7 +64,7 @@ aliases:
 
 Уже во второй раз он говорит, что выступать в Нидерландах ему нравится больше всего ({{< fl "«hands downs the best place to be»" >}}). Нидерланды отвечают ему взаимностью: один из зрителей подарил {{< a "0316#section-2" "те самые" >}} дропы, другой — кусок сыра:
 
-{{< imgfig "https://3.bp.blogspot.com/-RK07WTPIFZA/WNgDhWYqYFI/AAAAAAAApp8/eVOQXPS1Qxsu9ZZiXaGp6Tfc0ppsqwpMQCPcB/s1600/dsc04098.picasaweb.jpg" "Plini с дропами и сыром." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pp6ppvnh8i6b3139.jpg" "Plini с дропами и сыром." >}}
 
 Однажды в концерте случилась заминка — у Троя что-то случилось с барабаном — в течение которой Плини и Джейк играли в «аккорды»: Джейк брал аккорд, а Плини пытался его обыграть. В основном у него получалось, но не всегда:
 

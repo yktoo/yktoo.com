@@ -18,4 +18,4 @@ My own solo guitar experience started just with "Still Got the Blues".
 
 R. I. P.
 
-{{< imgfig "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Gary-Moore-at-Pite-Havsbad.jpg/463px-Gary-Moore-at-Pite-Havsbad.jpg" "Gary Moore. Photo by Wikimedia." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/gr1ovmv6x4gn1ivqrnzl.jpg" "Gary Moore. Photo by Wikimedia." >}}

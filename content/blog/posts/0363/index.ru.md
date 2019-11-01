@@ -8,7 +8,7 @@ tags:
     - авто
     - Интернет
     - OVI
-image: "https://lh3.googleusercontent.com/KWkM5HjDU8F5ZtEjILZcSxxnyW_p3NyhU7Q35uvzGwjmwAO9_HofoimFL-ho63LbIGtgOSqTiZCtvFzzwX5sZ34DXAwqV9kDuL_GiruZ4XrN-J2XtWsRA4WK664xmz5CI2zHHfGqDq2YUMyaLLfh_kf_RvFK2_niYXs4L9xKZSHWmQGXHTcWh7QlxHsNlGOfJFuks6xllBNpArTFQaa2_8pzpA261_ZYDry059mgqRLqHRcGFfBDGI3DlM83OB4v0JXfGeVd9ITAIXrDCoq4L5mthoG4pApRrOOnz0lNy8IIjT6AHEikQTW1uo5X6v_4eLpX3pp58HasHWG_BpdzMA_fnR_OrCB0rFfNS3_gUAalStc8Eat0V81c6VF4-fcIzJMmM8Age9koXUQGJYsMBm5_gmluQWl5tARhZqxkBU8qJGIOkBDqqOtgcEBfyZwUy2kW_mBLcJocBSHuYVKvYr37Vubb9q_a8Ro633sPgwRByFF69K1CTw2CvAcjjh1QquiGDG9IJdqbjfLiS1KhAdeZj3Qjbz9wr98EkO5X35wEjiOPrfvmcLuUXCsTbEX3HKJ-ble3WENNjyyrIM45KSYPlPRpe0EVPir6Xth0OrBPt8EgD3MDFzvHRnEsaMqIWskMlx2oXV1qatI2cR0b5OZbqg1VcvMX=w1502-h847-no"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/4lmxutacrkgv3303.jpg"
 ---
 
 В Нидерландах есть сервис, с помощью которого можно легко и к тому же бесплатно получить данные практически по любому зарегистрированному в стране транспортному средству, зная его номер.
@@ -23,7 +23,7 @@ image: "https://lh3.googleusercontent.com/KWkM5HjDU8F5ZtEjILZcSxxnyW_p3NyhU7Q35u
 
 Возьмём для примера мою {{< a "0028" "лизинговую Тойоту" >}}, фото двенадцатилетней давности:
 
-{{< imgfig "https://3.bp.blogspot.com/-HoibkPanFp0/T420BAgqzqI/AAAAAAAAO_s/eyuRJT6NOl0/s1600/imgp1525.picasaweb.jpg" "Toyota Prius 2009 и я перед ней." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/jypcrqe2jvtr2307.jpg" "Toyota Prius 2009 и я перед ней." >}}
 
 Вбиваем номер `16HDK2` в поле {{< fl "Kenteken" >}} на {{< a "https://ovi.rdw.nl/" "странице OVI" >}} и немедленно получаем следующую информацию:
 
@@ -40,7 +40,7 @@ image: "https://lh3.googleusercontent.com/KWkM5HjDU8F5ZtEjILZcSxxnyW_p3NyhU7Q35u
 
 Или вот доисторическое ископаемое, замеченное где-то в окрестных лесах:
 
-{{< imgfig "https://lh3.googleusercontent.com/KWkM5HjDU8F5ZtEjILZcSxxnyW_p3NyhU7Q35uvzGwjmwAO9_HofoimFL-ho63LbIGtgOSqTiZCtvFzzwX5sZ34DXAwqV9kDuL_GiruZ4XrN-J2XtWsRA4WK664xmz5CI2zHHfGqDq2YUMyaLLfh_kf_RvFK2_niYXs4L9xKZSHWmQGXHTcWh7QlxHsNlGOfJFuks6xllBNpArTFQaa2_8pzpA261_ZYDry059mgqRLqHRcGFfBDGI3DlM83OB4v0JXfGeVd9ITAIXrDCoq4L5mthoG4pApRrOOnz0lNy8IIjT6AHEikQTW1uo5X6v_4eLpX3pp58HasHWG_BpdzMA_fnR_OrCB0rFfNS3_gUAalStc8Eat0V81c6VF4-fcIzJMmM8Age9koXUQGJYsMBm5_gmluQWl5tARhZqxkBU8qJGIOkBDqqOtgcEBfyZwUy2kW_mBLcJocBSHuYVKvYr37Vubb9q_a8Ro633sPgwRByFF69K1CTw2CvAcjjh1QquiGDG9IJdqbjfLiS1KhAdeZj3Qjbz9wr98EkO5X35wEjiOPrfvmcLuUXCsTbEX3HKJ-ble3WENNjyyrIM45KSYPlPRpe0EVPir6Xth0OrBPt8EgD3MDFzvHRnEsaMqIWskMlx2oXV1qatI2cR0b5OZbqg1VcvMX=w1502-h847-no" "Раритет: Austin 3000 MK II." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/4lmxutacrkgv3303.jpg" "Раритет: Austin 3000 MK II." >}}
 
 Вбиваем и получаем:
 

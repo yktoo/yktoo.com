@@ -3,7 +3,7 @@ type: post
 date: "2010-12-06T00:00:00Z"
 title: "Температурное"
 tags: ["погода"]
-image: "https://2.bp.blogspot.com/_PX65_e7vApk/TP000GJ7uLI/AAAAAAAAHvA/zadPTthatIc/s1600/DSC00428.JPG"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/7q0i5it9k87o3253.JPG"
 aliases:
     - /ru/blog/post/64
 ---
@@ -14,6 +14,6 @@ aliases:
 
 <!--more-->
 
-{{< imgfig "https://2.bp.blogspot.com/_PX65_e7vApk/TP000GJ7uLI/AAAAAAAAHvA/zadPTthatIc/s1600/DSC00428.JPG" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/7q0i5it9k87o3253.JPG" >}}
 
 Секрет кроется, конечно, в тёплом одеяле. Зато спится просто замечательно!

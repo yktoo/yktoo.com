@@ -9,14 +9,14 @@ tags:
     - забавное
     - языки
     - 合気道
-image: "https://1.bp.blogspot.com/-TPMpyZHV9GI/WK3B2mg1p9I/AAAAAAAApTU/hEgRX4X5t0gWbeyvbDmVgK7IdWaa1sGlACPcB/s1600/aikido.png"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/k52ktf7bu7qi0956.png"
 aliases:
     - /ru/blog/post/293
 ---
 
 Подумалось тут по следам брюссельского {{< a "0292" "семинара по айкидо" >}}, что даже само это слово — «айкидо» — везде произносят по-разному.
 
-{{< imgfig "https://1.bp.blogspot.com/-TPMpyZHV9GI/WK3B2mg1p9I/AAAAAAAApTU/hEgRX4X5t0gWbeyvbDmVgK7IdWaa1sGlACPcB/s1600/aikido.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/k52ktf7bu7qi0956.png" >}}
 
 * **Русские**: айкидо́
 * **Голландцы**: а́йкидо

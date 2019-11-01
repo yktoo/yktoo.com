@@ -3,7 +3,7 @@ type: post
 date: "2011-08-25T00:00:00Z"
 title: "Надписывание изображений для Picasa Web Albums"
 tags: ["Gnome", "Google Picasa", "Linux", "Ubuntu", "yktools", "картинки"]
-image: "https://1.bp.blogspot.com/-oUCn7RhaN3s/TlZ5Mdf-KxI/AAAAAAAAJjE/NlXvkOWxgX4/s1600/56d4c0ff.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/fkv6pf3brey13219.jpg"
 software: yktools
 aliases:
     - /ru/blog/post/110
@@ -17,7 +17,7 @@ aliases:
 
 Один из самых очевидных способов — добавлять на изображения надпись с указанием вашего веб-сайта, имени, копирайта или копилефта. Для этого домохозяйка откроет любимый графический редактор, выберет инструмент «Текст» и напишет красивыми буквами послание будущим поколениям.
 
-{{< imgfig "https://1.bp.blogspot.com/-oUCn7RhaN3s/TlZ5Mdf-KxI/AAAAAAAAJjE/NlXvkOWxgX4/s1600/56d4c0ff.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fkv6pf3brey13219.jpg" >}}
 
 <!--more-->
 

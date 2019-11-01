@@ -7,7 +7,7 @@ tags:
     - gadgets
     - Xiaomi
     - AliExpress
-image: "https://1.bp.blogspot.com/-B3rvs9yuc3E/XZdKZi1YuQI/AAAAAAAAyY0/Qqdi9OSgNLcySMV7GgWl3may6mlxkRaDgCKgBGAsYHg/s1600/2019-10-04.webp"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/0dia9k0gfhbs1940.webp"
 ---
 
 It's time to fulfil my promise and publish a review of my "{{< a "0384" "inflatable treasure" >}}", which perhaps can better be described as the {{< a "http://ali.pub/3unhyy" "Xiaomi Mijia Electric Pump" >}}.
@@ -36,7 +36,7 @@ It's time to fulfil my promise and publish a review of my "{{< a "0384" "inflata
 
 A traditionally sober white cardboard box (which was slightly beaten during shipping):
 
-{{< imgfig "https://1.bp.blogspot.com/-ri38OczOifg/XYKFJQMF_WI/AAAAAAAAxms/2O9O6Z2zRNgXGPBR0ceoA59jnSsTMQ_PwCKgBGAsYHg/s1600/20190918_181044.w.jpg" "Pump in the packaging." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/8glbicne1nyh2849.jpg" "Pump in the packaging." >}}
 
 Fortunately the pump itself was perfectly fine and not damaged.
 
@@ -49,13 +49,13 @@ The contents of the packaging:
 * Storage pouch with an accessory section
 * User manual in Chinese (not on this photo)
 
-{{< imgfig "https://1.bp.blogspot.com/-MS4j7Wrto5Y/XZdKZowcxVI/AAAAAAAAyY0/3pzRDVDAG_EnU77g5_rlXhqvFFVyv1TLACKgBGAsYHg/s1600/2019-10-04.webp" "The contents of the box." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/243bztuyv3h52136.webp" "The contents of the box." >}}
 
 ## Controls
 
 Anyone who ever owned an {{< wiki "iPod Classic" >}} will definitely experience déjà-vu looking at this one:
 
-{{< imgfig "https://1.bp.blogspot.com/-8rnFB4QH818/XZdKZh-vI0I/AAAAAAAAyY0/a6xPIXyyoVAsdYh2ztkerEJkCbKH2JIOwCKgBGAsYHg/s1600/2019-10-04.webp" "Xiaomi Mijia pump." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ylguy3luey6i3652.webp" "Xiaomi Mijia pump." >}}
 
 Well, as someone once said, *"good artists borrow, ~~Chinese~~ great artists steal."*
 
@@ -68,11 +68,11 @@ The front panel features a large white-LED screen and a five-button ring below i
 
 The upper side contains a pressure tube, which is to be inserted with its free end into the red-marked hole in times when not in use. There's also a bright white LED in the middle serving as a flash-light.
 
-{{< imgfig "https://1.bp.blogspot.com/-0NL20aXVnVw/XZdKZtUYybI/AAAAAAAAyY0/e49DY5sMYFoA5yaXeDgCAYymw8629UMtgCKgBGAsYHg/s1600/2019-10-04.webp" "Top view." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xl8g3i4fvrwv2881.webp" "Top view." >}}
 
 The bottom side features a Micro USB charging port with a rubber cover, and another white LED next to it used to indicate charging or power-on status.
 
-{{< imgfig "https://1.bp.blogspot.com/-EmJJ9Vvup4w/XZdKZg1FDCI/AAAAAAAAyY0/wuq4NRGQg5wyIwUOy3E6M9CqBUF3K9CjQCKgBGAsYHg/s1600/2019-10-04.webp" "Bottom view: the charging port and the power indicator." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1p4lxlpxhtvv0919.webp" "Bottom view: the charging port and the power indicator." >}}
 
 These are all controls this device has.
 
@@ -82,7 +82,7 @@ I find Xiaomi designs principles quite appealing. They clearly focus on ensuring
 
 For example, there's no power button here. The device powers on automatically as soon as you pull the tube's nozzle out of the storage hole. Conversely, it goes off once you put the nozzle back in:
 
-{{< imgfig "https://1.bp.blogspot.com/-X-dZrv2iHp0/XZdKZn_UlBI/AAAAAAAAyY0/Q7glPocYId4oA02K6WxhbkR7yN1kL48GACKgBGAsYHg/s1600/2019-10-04.webp" "Automatic power control on tube pull-out." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/7s9pzp2ceoq60821.webp" "Automatic power control on tube pull-out." >}}
 
 Other controls are just as intuitive.
 
@@ -98,25 +98,25 @@ This is the default power-up mode of the pump, in which you can choose a pressur
 
 Range: **30** through **65** psi.
 
-{{< imgfig "https://1.bp.blogspot.com/-B3rvs9yuc3E/XZdKZi1YuQI/AAAAAAAAyY0/Qqdi9OSgNLcySMV7GgWl3may6mlxkRaDgCKgBGAsYHg/s1600/2019-10-04.webp" "Bike tyre mode." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0dia9k0gfhbs1940.webp" "Bike tyre mode." >}}
 
 ### Motorbike tyre mode
 
 Range: **1,8** through **3** bar.
 
-{{< imgfig "https://1.bp.blogspot.com/-JdxYzqpc5JY/XZdKZrRO_6I/AAAAAAAAyY0/NACu4YY-j9MfK5Q_iiAs57VbAWkCevY6QCKgBGAsYHg/s1600/2019-10-04.webp" "Motorbike tyre mode." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9s1tvc5vlduh2607.webp" "Motorbike tyre mode." >}}
 
 ### Car tyre mode
 
 Range: **1,8** through **3,5** bar.
 
-{{< imgfig "https://1.bp.blogspot.com/-FmhgBS7P0E4/XZdKZg9j0pI/AAAAAAAAyY0/s4tAi0gLiRAJ-AAFa3VHAJ0BtjEl8d0BgCKgBGAsYHg/s1600/2019-10-04.webp" "Car tyre mode." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/m9w7yaeek14q0543.webp" "Car tyre mode." >}}
 
 ### Football mode
 
 Range: **4** through **16** psi.
 
-{{< imgfig "https://1.bp.blogspot.com/-1MD4HcM2A4Q/XZdKZoZ0eAI/AAAAAAAAyY0/JaL774fPUnUlY2a1C1-keiHlY0TKhznnwCKgBGAsYHg/s1600/2019-10-04.webp" "Football mode." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/5iqjtl1ruq8f0662.webp" "Football mode." >}}
 
 ### Starting and stopping the inflation
 
@@ -126,7 +126,7 @@ In order to start pumping you press the button in the centre, but be prepared—
 
 The nozzle mounted on the inflation tube's end fits a standard car tyre valve; there's also a bike valve adapter you can screw onto it. If you happen to use it often, you can simply keep it on as it fits the storage hole perfectly.
 
-{{< imgfig "https://1.bp.blogspot.com/-LLhtuGsE5j8/XZdKZmV-wqI/AAAAAAAAyY0/0gALGCpLrFkrNfEyXefEc8l-DONNjmluACKgBGAsYHg/s1600/2019-10-04.webp" "Bike valve adapter." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/jvh3dpiao5tp3288.webp" "Bike valve adapter." >}}
 
 ## Video demonstration
 

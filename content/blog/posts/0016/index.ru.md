@@ -3,7 +3,7 @@ type: post
 date: "2008-06-03T00:00:00Z"
 title: "Дамба"
 tags: ["вышка", "дамба", "красивое", "Нидерланды"]
-image: "https://1.bp.blogspot.com/-ghW_WXwN2oY/XW6DLidT7GI/AAAAAAAAxHE/6F-kBx-HENUJKSKRPwYCrqmXNlthIi32ACKgBGAs/s1600/P1000541.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/y76m8eml1kca0487.jpg"
 places:
     - place0163
     - place0162
@@ -15,7 +15,7 @@ aliases:
 
 <!--more-->
 
-{{< imgfig "https://1.bp.blogspot.com/-ghW_WXwN2oY/XW6DLidT7GI/AAAAAAAAxHE/6F-kBx-HENUJKSKRPwYCrqmXNlthIi32ACKgBGAs/s1600/P1000541.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/y76m8eml1kca0487.jpg" >}}
 
 Поскольку я сейчас выбираю машину, и мне необходим опыт для сравнения, мы решили, что за руль сяду я — чтобы, так сказать, проникнуться нюансами поведения незнакомой машины. Чем я точно проникся, так это тем, что 1,6-литровый двигатель в Suzuki SX4 — это не мой 1-литровый, и на трассе это особенно хорошо заметно. Глебу же ничего заметно не было, поскольку он спал почти всю дорогу, что туда, что обратно, просыпаясь только от внезапных советов девушки из GPS-навигатора.
 
@@ -23,42 +23,42 @@ aliases:
 
 При виде такого количества воды и грандиозности сооружений не может не захватить дух. Всё сделано с голландскими размахом, основательностью и тщательностью. Вообще, в этом месте не покидает ощущение, что ты где-то на краю света. Людей в радиусе видимости нет совершенно, только волны разбиваются о дамбу, да вдалеке видны машины, по ней проезжающие. Несколько непонятным осталось художественно-декоративное назначение странной площадки, расчерченной линиями, в пересечениях которых располагались булыжники.
 
-{{< imgfig "https://1.bp.blogspot.com/-6XDSoYETScs/XW6DLlwpETI/AAAAAAAAxHE/gq8s_EAwwvsuJ6mBfTAmkYMGV-KpgoL-wCKgBGAs/s1600/P1000535.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/z6r1g7myjpnz1105.jpg" >}}
 
 Видимо, это местный ответ японцам с их садами камней. А может, британцам с их Стоунхенджем. В любом случае, это произведение вызывает уважение. Тем более в таком месте.
 
-{{< imgfig "https://1.bp.blogspot.com/-wVh4wVOvpn4/XW6DLtfmvtI/AAAAAAAAxHE/_NfLxh0A_fsghvWJTQT_jJ_DHhj78Bz3ACKgBGAs/s1600/P1000527.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/qo7fkl39w0nl1385.jpg" >}}
 
 Не встретив понимания у природы, мы решили объехать ещё несколько окрестных дамб, и были совершенно впечатлены увиденным. Дамба — узенькая полоска суши, пролегающая посреди грозно выглядящего в пенистости валов моря. Описать это сложно, а сфотографировать ещё сложнее, потому что останавливаться на дамбе никак нельзя.
 
-{{< imgfig "https://1.bp.blogspot.com/-FCCerus2VL8/XW6DLv_Z9UI/AAAAAAAAxHE/lM6TYYvr8Ao8ta6a5zKG84MO4_MLz3mNQCKgBGAs/s1600/P1000547.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cobstb8hrxjj3594.jpg" >}}
 
 По ходу действия мы заметили [торчащую](http://maps.google.com/maps?t=h&hl=ru&ie=UTF8&ll=51.659848,4.162601&spn=0.000772,0.002285&z=19) около одного из шлюзов смотровую вышку метров в тридцать высотой, и конечно же, загорелись желанием её покорить. Но оказалось, это не так-то просто. Сначала мы проехали по трассе мимо неё, причём трасса к вышке приближаться явно не желала. Мы свернули на боковую дорогу, которая вроде бы должна была проходить рядом с ней, но вновь проехали в десятке метров мимо, причём пришлось проехать весь шлюз и опять развернуться. После этого нам-таки удалось найти нужный поворот и подъехать к площадке.
 
 Вышка, несмотря на уединённость, культурно оборудована информационными стендами, популярно рассказывающими о принципах работы и истории дамбы и шлюзов, картами местности и фотографиями.
 
-{{< imgfig "https://1.bp.blogspot.com/-C3UNLO9_1Qo/XW6DLu8NC6I/AAAAAAAAxHE/DxOtGs8jzls553NGbUi2pK68_KDI0o9yACKgBGAs/s1600/P1000556.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1shq4r38ti5v0522.jpg" >}}
 
 Тут вообще к водной стихии относятся ответственно: в городах множество каналов, причалов, большое количество разводных мостов, функционирующих, по всей видимости, автоматически.
 
 На площадках между пролётами лестниц заботливо сделаны скамеечки для начинающих альпинистов.
 
-{{< imgfig "https://1.bp.blogspot.com/-mj6vMwGoqA4/XW6DLlYPDDI/AAAAAAAAxHE/bJyWryuzg-IBJfLVpJrAFH42AzyF7xxvQCKgBGAs/s1600/P1000557.picasaweb.jpg" "Начинающий альпинист." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/j5qm2b3llp3x2402.jpg" "Начинающий альпинист." >}}
 
 Сверху вид очень красивый, но горизонта многовато, пожалуй, для городского жителя.
 
-{{< imgfig "https://1.bp.blogspot.com/-N1kSEcW9MR0/XW6DLi6DURI/AAAAAAAAxHE/V92caCnJ5u4T0vi7D2KWuiNn_LedcAvQgCKgBGAs/s1600/P1000561.picasaweb.jpg" "Широка страна — жаль, неродная." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/7gyi5582zvcd2767.jpg" "Широка страна — жаль, неродная." >}}
 
 А так — хоть открытки делай.
 
-{{< imgfig "https://1.bp.blogspot.com/-GLeRDIqYT1g/XW6DLmv_A5I/AAAAAAAAxHE/saMtnjWhD-Ms8rKzvGkdbTY6dpXKJTN9gCKgBGAs/s1600/P1000558.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/jp0grnpx4qaw0340.jpg" >}}
 
 И, конечно же, тут есть ветер.
 
-{{< imgfig "https://1.bp.blogspot.com/-wcmwkPkdmJo/XW6DLiNLPlI/AAAAAAAAxHE/WcBMLkpxvkAwPL3ESBtZNqaM2Qttduz4ACKgBGAs/s1600/P1000563.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pjohic08o03t2210.jpg" >}}
 
 Вокруг ни души (утки не считаются).
 
-{{< imgfig "https://1.bp.blogspot.com/-R35YhtXrFEM/XW6DLqwfLhI/AAAAAAAAxHE/3HwU9O_2vRw6sj99BaO6CTxTeva5guMnwCKgBGAs/s1600/P1000564.picasaweb.jpg" "Утки, которые не считаются." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/tiziaofmppra3356.jpg" "Утки, которые не считаются." >}}
 
 *Пост обновлён 28.04.2012: добавлены фотографии и немножко текста.*

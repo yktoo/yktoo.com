@@ -3,7 +3,7 @@ type: post
 date: "2011-08-25T00:00:00Z"
 title: "Watermarking pictures for Picasa Web Albums"
 tags: ["Gnome", "Google Picasa", "images", "Linux", "pictures", "Ubuntu", "yktools"]
-image: "https://1.bp.blogspot.com/-oUCn7RhaN3s/TlZ5Mdf-KxI/AAAAAAAAJjE/NlXvkOWxgX4/s1600/56d4c0ff.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/fkv6pf3brey13219.jpg"
 software: yktools
 aliases:
     - /en/blog/post/110
@@ -15,7 +15,7 @@ Those of you who happen to author pictures and publish them on the Internet, mus
 
 One of the most obvious ways to do that is watermarking pictures by adding your URL, name, copyright and/or copyleft. An average Joe would open his favourite image editor, click the Text tool and write a magnificent message for the generations to come.
 
-{{< imgfig "https://1.bp.blogspot.com/-oUCn7RhaN3s/TlZ5Mdf-KxI/AAAAAAAAJjE/NlXvkOWxgX4/s1600/56d4c0ff.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fkv6pf3brey13219.jpg" >}}
 
 <!--more-->
 

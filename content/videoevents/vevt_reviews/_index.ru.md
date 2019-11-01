@@ -1,6 +1,6 @@
 ---
 type: videoevent
 title: Обзоры
-image: "https://1.bp.blogspot.com/-gJglrFywd1E/XZomj1b2kOI/AAAAAAAAyZc/Cg90I_V3xV40Rt-2Ux4yHdkcBZdDVdl3wCKgBGAsYHg/s1600/gadgets.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/r66atqgxj3q70915.jpg"
 videocategories: it
 ---

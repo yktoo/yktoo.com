@@ -3,7 +3,7 @@ type: post
 date: "2016-01-19T00:00:00Z"
 title: "A Winter Evening with Stream of Passion — 2015"
 tags: ["Anneke van Giersbergen", "Dianne van Giersbergen", "Lisette van den Berg", "Marcela Bovio", "Merijn van Haren", "Navarone", "progressive metal", "Stream of Passion", "Tivoli de Helling", "Xandria", "музыка", "Нидерланды", "Утрехт"]
-image: "https://4.bp.blogspot.com/-6janEBsGWcY/VofESvhUuOI/AAAAAAAAlDU/jFOAGHTBU_g/s1600/dsc01613.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/8bbm7rd8ejzl0196.jpg"
 aliases:
     - /ru/blog/post/269
 ---
@@ -14,7 +14,7 @@ aliases:
 
 Так вот, 27 декабря, на излёте две тыщи пятнадцатого, Марсела Бовио и К° провели уже ставший традиционным предновогодний концерт.
 
-{{< imgfig "https://4.bp.blogspot.com/-6janEBsGWcY/VofESvhUuOI/AAAAAAAAlDU/jFOAGHTBU_g/s1600/dsc01613.picasaweb.jpg" "Anneke van Giersbergen, показывающая кулак, и Marcela Bovio." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/8bbm7rd8ejzl0196.jpg" "Anneke van Giersbergen, показывающая кулак, и Marcela Bovio." >}}
 
 Как и {{< a "0175" "два года назад" >}}, концерт проходил в небольшом и уютном утрехтском клубе [Tivoli de Helling](http://www.dehelling.nl/), а самое любопытное — это внушительный список приглашённых музыкантов:
 
@@ -27,33 +27,33 @@ aliases:
 
 И в зале, и на сцене все были в предновогоднем настроении. Марсела в легкомысленной юбочке хихикала, дурачилась и спрашивала у всех, что у них было на рождественский ужин.
 
-{{< imgfig "https://3.bp.blogspot.com/-kFE4iGm4Wso/VofESjg6WmI/AAAAAAAAlDU/oQWiUtYrckk/s1600/dsc01540.picasaweb.jpg" "Marcela Bovio." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9urb7vdpcdy00998.jpg" "Marcela Bovio." >}}
 
 Неутомимый басист-попрыгун Йохан ван Стратум, муж Марселы:
 
-{{< imgfig "https://3.bp.blogspot.com/-fMcLmlX8Cqk/VofESgnqwvI/AAAAAAAAlDU/KvokYLy4Byc/s1600/dsc01522.picasaweb.jpg" "Johan van Stratum." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/odqf9udyq7yq2233.jpg" "Johan van Stratum." >}}
 
 С ним же был связан один забавный момент, когда Йохан, неистово размахивая гитарой, подцепил и приподнял грифом юбку Марселы — она недоумённо обернулась, мол, что там происходит?
 
 Ритм-гитарист Эрик Хазебрук, вновь с гитарой-обрубком, но количество струн с {{< a "0250" "последнего раза" >}} выросло до восьми.
 
-{{< imgfig "https://1.bp.blogspot.com/-YxAaGjkUZ24/VofESjkSKgI/AAAAAAAAlDU/erAg2uUtwAg/s1600/dsc01519.picasaweb.jpg" "Eric Hazebroek." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/qqaq1hljj2qm2490.jpg" "Eric Hazebroek." >}}
 
 Марсела Бовио и Дианне ван Гирсберген исполняют {{< fl "Abends Will Ich Schlafen Gehn" >}} из оперы {{< wiki "Гензель_и_Гретель_(опера)" "ru" "«Гензель и Гретель»" >}} под аккомпанемент гитариста {{< fl "SoP" >}} Стефана Шульца. Точнее, должны исполнять, но Марсела вместо этого спрашивает Стефана, что он ел на ужин:
 
-{{< imgfig "https://1.bp.blogspot.com/-raP71ogtgZA/VofESlX0gvI/AAAAAAAAlDU/j4y8CT8AiPA/s1600/dsc01587.picasaweb.jpg" "Dianne van Giersbergen, Stephan Schultz, Marcela Bovio." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/u3orbfhbsmqr2916.jpg" "Dianne van Giersbergen, Stephan Schultz, Marcela Bovio." >}}
 
 Ещё она, как обычно, сыграла пару нот на скрипке:
 
-{{< imgfig "https://1.bp.blogspot.com/-bqsKLZtmNMc/VofESn-66qI/AAAAAAAAlDY/gdS2j_uRG9M/s1600/dsc01617.picasaweb.jpg" "Marcela Bovio со скрипкой." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/x0glc9seo4ip2856.jpg" "Marcela Bovio со скрипкой." >}}
 
 Клавишник Джеффри Реве и Марсела на соло:
 
-{{< imgfig "https://4.bp.blogspot.com/-RQ4WpqlxLtI/VofEShJYtKI/AAAAAAAAlDY/7yGok5WapcI/s1600/dsc01581.picasaweb.jpg" "Jeffrey Revet и Marcela Bovio." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/amp3su1i6s6y3085.jpg" "Jeffrey Revet и Marcela Bovio." >}}
 
 Ударник Мартайн Петерс по окончании шоу:
 
-{{< imgfig "https://3.bp.blogspot.com/-0lWNBcEvIjs/VofESrnJM-I/AAAAAAAAlDU/300oeoCXTVU/s1600/dsc01639.picasaweb.jpg" "Martijn Peters с пивом." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/24ruhi82pc6c0271.jpg" "Martijn Peters с пивом." >}}
 
 Самые интересные номера я, разумеется, записал на видео. Вот смешливая Марсела пытается начать серьёзную {{< fl "Abends Will Ich Schlafen Gehn" >}}, получается у неё не сразу:
 
@@ -89,25 +89,25 @@ aliases:
 
 Ещё немного фото с концерта:
 
-{{< imgfig "https://3.bp.blogspot.com/-6TG12fmBMbQ/VofESjlBl3I/AAAAAAAAlDU/WiEuXdK8Qvk/s1600/dsc01514.picasaweb.jpg" "Marcela Bovio." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/odjir7cuzqrv2261.jpg" "Marcela Bovio." >}}
 
-{{< imgfig "https://4.bp.blogspot.com/--17rm2pDqbA/VofEStsmjDI/AAAAAAAAlDU/wVie_UUKHY8/s1600/dsc01545.picasaweb.jpg" "Eric Hazebroek." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/c0ho6wjy7zd60039.jpg" "Eric Hazebroek." >}}
 
-{{< imgfig "https://4.bp.blogspot.com/-U_DKXNSrm9k/VofESpbooWI/AAAAAAAAlDU/G6V342OVnDA/s1600/dsc01561.picasaweb.jpg" "Marcela Bovio." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/8cyuqriwq4m12896.jpg" "Marcela Bovio." >}}
 
-{{< imgfig "https://4.bp.blogspot.com/-ZEl53URbI0s/VofESpjgsXI/AAAAAAAAlDU/vEdjujooD98/s1600/dsc01571.picasaweb.jpg" "Marcela Bovio." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/35ahe1mc51uv1700.jpg" "Marcela Bovio." >}}
 
-{{< imgfig "https://2.bp.blogspot.com/-dWvB29Orpoc/VofESvexf7I/AAAAAAAAlDU/FJr7sWo6cn4/s1600/dsc01574.picasaweb.jpg" "Marcela Bovio." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/iu5ft0h919qg0620.jpg" "Marcela Bovio." >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-uEaQYYsZqtA/VofESoWhsCI/AAAAAAAAlDU/0MRhUpXmkak/s1600/dsc01631.picasaweb.jpg" "Marcela Bovio." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/lv6k9mehbjcb0414.jpg" "Marcela Bovio." >}}
 
-{{< imgfig "https://4.bp.blogspot.com/-HpAJGIH9ZOw/VofESheFI5I/AAAAAAAAlDY/8UpdewraGgw/s1600/dsc01642.picasaweb.jpg" "Stream of Passion." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/7hjg4v7zvkvb0612.jpg" "Stream of Passion." >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-om5y4Z1fVb4/VofESoZHQjI/AAAAAAAAlDU/GHlV9FGOdW8/s1600/dsc01650.picasaweb.jpg" "Финальный поклон." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/92nukuay7hqk1632.jpg" "Финальный поклон." >}}
 
 Сет-лист — достался кому-то в качестве трофея:
 
-{{< imgfig "https://2.bp.blogspot.com/-mifWyFgfFx8/VofESsj6DJI/AAAAAAAAlDU/5Y_C9B9_UEo/s1600/dsc01653.picasaweb.jpg" "Сет-лист." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/5o0qo012y3e82182.jpg" "Сет-лист." >}}
 
 Кстати, недавно узнал о существовании [setlist.fm](http://www.setlist.fm/), собирающем информацию о песнях, прозвучавших на концертах — вот, например, [список для этого](http://www.setlist.fm/setlist/stream-of-passion/2015/de-helling-utrecht-netherlands-4bf2074a.html).
 

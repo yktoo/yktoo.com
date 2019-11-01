@@ -11,7 +11,7 @@ tags:
     - zzp
     - NS
     - NS Business Card
-image: "https://1.bp.blogspot.com/-HXerb-yhlf0/Xal8OPDNrQI/AAAAAAAAyyU/HZMFgTAx6rIU9pW-iLxXIwAMHX-U493dgCKgBGAsYHg/s1600/2019-10-18.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/h85x2fqqgel61721.jpg"
 imageCredit: "Фото: NS."
 series: Доля предпринимательская
 glossary: ns-business-card
@@ -78,7 +78,7 @@ glossary: ns-business-card
 |{{< fl "OV Vrij" >}}      |Бесплатный проезд на всех видах ОТ (поезд, автобус, трамвай, метро) по всей стране.|**€ 370**|
 {{< /table >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-c0xckGyLK68/XamPmrYcOyI/AAAAAAAAyzM/EhCUfjZqKAIPZhXitUp28GIFvQiEPkVewCKgBGAsYHg/s1600/2019-10-18.png" "Выбор абонементов NS Business Card." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/wpyw59bv1yu60150.png" "Выбор абонементов NS Business Card." >}}
 
 ### Абонемент Traject Vrij
 
@@ -88,7 +88,7 @@ glossary: ns-business-card
 
 Вот пример расчёта стоимости абонемента между Хаутеном и Центральным вокзалом Амстердама:
 
-{{< imgfig "https://1.bp.blogspot.com/-vwUaTAWtIHE/XamQut4n_XI/AAAAAAAAyzw/9KHHjuMoFM4AR0ExBQUkXvDRpBx62bsdQCKgBGAsYHg/s1600/2019-10-18.png" "Абонемент Хаутен-Амстердам." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cmfpu8zxom7r1384.png" "Абонемент Хаутен-Амстердам." >}}
 
 Стоит он, как видно, **€ 221** в месяц. Точно такой же абонемент на частное лицо обойдётся в **€ 301** — разница существенная.
 

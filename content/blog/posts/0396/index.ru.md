@@ -8,7 +8,7 @@ tags:
     - английский язык
     - забавное
     - пустяки
-image: "https://1.bp.blogspot.com/-IBt6OOEA52g/XYy9eFyYkgI/AAAAAAAAyCI/BPapx6OdRBsvNAW2vE3dNQah-lfhzDZlACKgBGAsYHg/s1600/bird.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/66s6c0hrojge0308.jpg"
 imageCredit: "Фото: JillWellington."
 ---
 
@@ -38,7 +38,7 @@ imageCredit: "Фото: JillWellington."
 
 Вот ещё пример: реклама, шокирующая любого англоязычного человека:
 
-{{< imgfig "https://1.bp.blogspot.com/-MB92STzJb-E/XYztmLnu5aI/AAAAAAAAyDE/66Lvsr1D0Jg5ou8lpnLdquAE84dR3oKhwCKgBGAsYHg/s1600/mama-die-die-die.jpg" "Mama, die, die, die…" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/qdmqrl1ufhsm2710.jpg" "Mama, die, die, die…" >}}
 
 И лишь голландец поймёт, что ребёнок говорит не «мама, умри», а всего лишь: «Мама, эту, эту, эту… Пожалуйста».
 

@@ -3,7 +3,7 @@ type: post
 date: "2011-12-07T00:00:00Z"
 title: "Джаз: Ben van den Dungen"
 tags: ["Observant", "Амерсфорт", "джаз", "музыка", "Нидерланды"]
-image: "https://1.bp.blogspot.com/-E1BmfmT2IfI/Tt_YmBbF6TI/AAAAAAAAKmA/aZhnCjYqeM0/s1600/dsc07825.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/tbx30rg7nzrm1838.jpg"
 places:
     - place0008
 aliases:
@@ -16,13 +16,13 @@ aliases:
 
 Саксофонист {{< fl "Ben van den Dungen" >}}, внешне сильно напоминающий «лицо кавказской национальности», исполняет джаз уже не одно десятилетие и успел переиграть со множеством музыкантов.
 
-{{< imgfig "https://1.bp.blogspot.com/-E1BmfmT2IfI/Tt_YmBbF6TI/AAAAAAAAKmA/aZhnCjYqeM0/s1600/dsc07825.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/tbx30rg7nzrm1838.jpg" >}}
 
 <!--more-->
 
 Пианиста зовут просто {{< fl "Stormvogel" >}} («буревестник»), имён басиста и ударника я не запомнил.
 
-{{< imgfig "https://3.bp.blogspot.com/-eHe_WTBLRQc/Tt_YnP0fxfI/AAAAAAAAKmE/U2NzuIv5QNk/s1600/dsc07811.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9xdlf67bi3pi1977.jpg" >}}
 
 В этот раз я снял довольно приличное видео со штатива. Заметив мою аппаратуру, Бен подмигнул мне (это есть на видео), а потом подошёл и сказал (точнее, прокричал) мне на ухо, что снимать я его, видите ли, могу, а вот на Ютьюб — ни-ни.
 

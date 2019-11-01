@@ -4,7 +4,7 @@ date: "2016-09-25T00:00:00Z"
 title: "2.0.1"
 series: "Sound Switcher Indicator"
 tags: ["Gnome Control Center", "indicator", "PulseAudio", "Python", "Python 3", "sound", "Sound Switcher Indicator", "Ubuntu", "Unity", "Utopic Unicorn"]
-image: "https://3.bp.blogspot.com/-atoq96tAwHY/V-f7EJ50TyI/AAAAAAAAnjI/w77tiMI92RYIMql_kFmmLbE7Twy_WtDQwCPcB/s1600/ssi-2.0.1.png"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/fea8e5qk2bg91390.png"
 software: sound-switcher-indicator
 aliases:
     - /en/blog/post/290
@@ -16,7 +16,7 @@ So today I proudly present **Sound Switcher Indicator 2.0.1**, which *finally* s
 
 <!--more-->
 
-{{< imgfig "https://3.bp.blogspot.com/-atoq96tAwHY/V-f7EJ50TyI/AAAAAAAAnjI/w77tiMI92RYIMql_kFmmLbE7Twy_WtDQwCPcB/s1600/ssi-2.0.1.png" "Sound Switcher Indicator 2.0.1." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fea8e5qk2bg91390.png" "Sound Switcher Indicator 2.0.1." >}}
 
 ## What's changed
 

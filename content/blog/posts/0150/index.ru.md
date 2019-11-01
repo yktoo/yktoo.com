@@ -4,7 +4,7 @@ date: "2012-04-28T00:00:00Z"
 title: "Часть 3. Аргуинегуин и Лас-Пальмас"
 series: "Гран-Канария"
 tags: ["горы", "Гран-Канария", "Испания", "Канарские острова", "Лас-Пальмас", "остров", "путешествия"]
-image: "https://3.bp.blogspot.com/-VrswEhOWSUg/T2pYa1Bz7EI/AAAAAAAAMUk/420Y-rKmIOw/s1600/dsc00258.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/761vs82gd0a83517.jpg"
 places:
     - place0054
     - place0055
@@ -16,50 +16,50 @@ aliases:
 
 В {{< a "0149" "прошлой серии" >}} мы впервые увидели настоящие горы. Из Пуэрто-де-Могана мы направляемся по C810 дальше, теперь вглубь острова, на север.
 
-{{< imgfig "https://3.bp.blogspot.com/-VrswEhOWSUg/T2pYa1Bz7EI/AAAAAAAAMUk/420Y-rKmIOw/s1600/dsc00258.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/761vs82gd0a83517.jpg" >}}
 
 <!--more-->
 
 Растительность встречается всё реже, но тем не менее ухитряется расти даже на скалах.
 
-{{< imgfig "https://4.bp.blogspot.com/-jJneREtKA1c/T2pcsKhkUXI/AAAAAAAAMvU/PkJh7FjTpEc/s1600/dsc00260.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/lwdzld9xdj7y0883.jpg" >}}
 
 До города Могана (к которому относится и прибрежный Пуэрто-де-Моган) ведёт довольно хорошая дорога, хорошо размеченная, хоть местами и узкая. Нужно быть внимательным, порой булыжники нависают прямо над дорогой:
 
-{{< imgfig "https://1.bp.blogspot.com/-2esRq8ZWGH4/T2pYptF8JuI/AAAAAAAAMWI/kcLWS_gaAf8/s1600/dsc00262.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/kji7t9tnbzl41282.jpg" >}}
 
 Вот он, этот нахальный привет из миоцена:
 
-{{< imgfig "https://3.bp.blogspot.com/-9LzDRX0jqcE/T2paI5l6ZzI/AAAAAAAAMfI/Qua_XuEiXI0/s1600/dsc00264.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/q0cjlbtnfkb21441.jpg" >}}
 У нас появилась идея достичь {{< wiki "Pico_de_Las_Nieves" "en" "Pico de Las Nieves" >}} (по-испански «вершина снегов»), высочайшую точку острова (1949 м над уровнем моря), проблема только в том, что не совсем понятно, как туда добираться. Решили, что надо двигаться в сторону Айякаты ({{< fl "Ayacata" >}}), а от неё, по всей видимости, пешком. (Забегая вперёд, могу сообщить, что нас преследовал злой рок — мы не смогли достичь её ни в этот день, ни на следующий.)
 
 Наш отважный «Клио» карабкается всё выше, и выше, и выше, дорога петляет и извивается, всё это отзывается в ушах, которые закладывает.
 
-{{< imgfig "https://4.bp.blogspot.com/-o2BgxDpYUN8/T2pco0RTXyI/AAAAAAAAMu8/41E5VfVFuR0/s1600/dsc00295.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/wvnm9hro8chm0899.jpg" >}}
 
 Вот фрагмент той же дороги, снятый покрупнее:
 
-{{< imgfig "https://4.bp.blogspot.com/-nPp_duaPCEU/T2pYOjGUehI/AAAAAAAAMTg/vZrbXEt8ojM/s1600/dsc00292.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vzfdgyk1nq4d2709.jpg" >}}
 
 Мы периодически останавливаемся, чтобы осмотреться и отфотографироваться.
 
-{{< imgfig "https://4.bp.blogspot.com/-bcmus4KrUcw/T2pb-idSeGI/AAAAAAAAMq0/ZoG5Mqk8S10/s1600/dsc00266.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/sd9nkpsivlud2573.jpg" >}}
 
 Только когда глушишь мотор, замечаешь, что здесь настолько же тихо, насколько живописно.
 
-{{< imgfig "https://2.bp.blogspot.com/-h5bfZwlRmMY/T2pYF23xkUI/AAAAAAAAMSw/MNSD4hfvgoc/s1600/dsc00271.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pzw72vqhnlv11505.jpg" >}}
 
 Ветра тут, в отличие от маспаломского побережья, почти нет. Насекомых, по крайней мере в это время, тоже. Только горы, мы и небо.
 
-{{< imgfig "https://2.bp.blogspot.com/-pZTVJb8uZcI/T2pZPJ7nPJI/AAAAAAAAMZw/PGONVz_TiNs/s1600/dsc00272.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/6e5008ktj7co0220.jpg" >}}
 
 Без ветра, кстати, сразу становится жарко.
 
-{{< imgfig "https://1.bp.blogspot.com/-Z7fzLV8F2eY/T2pas5YUALI/AAAAAAAAMik/kYrvQxsFbQk/s1600/dsc00296.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/mbtk8tvgzhra2789.jpg" >}}
 
 Вот мы уже очень высоко, выше почти всех окрестных гор:
 
-{{< imgfig "https://4.bp.blogspot.com/-vwZ0sh4DLvg/T2pbQryLYZI/AAAAAAAAMmI/3SycQJkMtNE/s1600/dsc00304.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fnwd0uke0red0737.jpg" >}}
 
 Когда мы преодолели более половины дороги до Айякаты, меня стал беспокоить тот факт, что бензина осталось уже довольно мало. В отличие от Голландии, где машину прокатная контора обычно выдаёт с полным баком, здесь мне дали лишь с одной третью, и сказали вернуть в таком же состоянии. Если индикатор бака показывает лишь две палочки из десяти, а в пределах видимости не то, что заправки, а вообще признаков жизни не видно, поневоле начнёшь тревожиться.
 
@@ -67,11 +67,11 @@ aliases:
 
 Не оставалось ничего иного, кроме как последовать её совету. Мы вновь повернули на юг, на какую-то узкую просёлочную дорогу, которая местами проходила по краю обрыва и не имела справа вообще никакого ограждения.
 
-{{< imgfig "https://1.bp.blogspot.com/-n7kuBEhK0d0/T2pYl-xKZ3I/AAAAAAAAMVw/8gspOV8WtKw/s1600/dsc00316.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/skaiwihkvxbj2008.jpg" >}}
 
 В одном месте я обратил внимание на любопытное сооружение из огромных камней, сложенных пирамидкой:
 
-{{< imgfig "https://2.bp.blogspot.com/-kjJ7hcPqqB0/T2pbGUM_fCI/AAAAAAAAMlI/hD5riKc7ZAA/s1600/dsc00310.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xm498o7iokk12147.jpg" >}}
 
 Нижний камень в этой конструкции имеет в длину метра три и наверняка весит несколько тонн. Моё мнение — это баловались строители, когда проводили дорогу.
 
@@ -81,7 +81,7 @@ aliases:
 
 Аргуинегуин, несмотря на название, — ещё один обычный прибрежный городок. Пляж, пристань — всё как везде.
 
-{{< imgfig "https://4.bp.blogspot.com/-b7eyY2nVI5E/T2pfRPQ0grI/AAAAAAAAM_U/UKtBeo86xaQ/s1600/dsc00319.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pnf3of4gwdvl0657.jpg" >}}
 
 ## Лас-Пальмас {#las-palmas}
 
@@ -89,43 +89,43 @@ aliases:
 
 Город расположен на самом северо-востоке острова, то есть, в верхнем правом его углу, и частично выходит на полуостров под названием {{< fl "Isleta" >}} («островок»). Вот как этот полуостров выглядит с северного побережья:
 
-{{< imgfig "https://1.bp.blogspot.com/-5bMB9HIL9wA/T2pb4F3U3VI/AAAAAAAAMqM/UBeCE8sC4qM/s1600/dsc00728.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/7igigz2t81nx0352.jpg" >}}
 
 А вот само северное побережье — отвесные скалистые берега выглядят довольно неприветливо:
 
-{{< imgfig "https://2.bp.blogspot.com/-OY-2sz4d0YU/T2pfU-UniiI/AAAAAAAAM_s/-QeMNqdlYJU/s1600/dsc00730.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/5dxnx7w5bvdk2044.jpg" >}}
 
 Лас-Пальмас оставляет странное ощущение. С одной стороны у него пляж Лас Кантерас ({{< fl "Playa de Las Canteras" >}}), где тем вечером дул холодный ветер:
 
-{{< imgfig "https://2.bp.blogspot.com/-j5YIPQ4-Gs4/T2pbCTjSTEI/AAAAAAAAMkw/B7zaczBM4TA/s1600/dsc00330.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ymtqf0gp12b42949.jpg" >}}
 
 С другой — панельные многоэтажки, прилепившиеся к горам:
 
-{{< imgfig "https://2.bp.blogspot.com/-Trzwo6tCCDU/T2pdyAfsG5I/AAAAAAAAM2M/Xc5KGGKxPnk/s1600/dsc00510.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9zzgcrbc7tg90870.jpg" >}}
 
 Порой вообще кажется, что они возвышаются прямо в океане.
 
-{{< imgfig "https://3.bp.blogspot.com/-1jBbW0JZQOo/T2pXYZ6vRKI/AAAAAAAAMOc/UCXNatN_Mrk/s1600/dsc00512.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/03yuebpcd7x90155.jpg" >}}
 
 Здание гостиницы {{< fl "AC Hotel Gran Canaria" >}} напоминает огромную стопку голандских вафель с сиропом:
 
-{{< imgfig "https://1.bp.blogspot.com/-Uf8uJJk_jrI/T2pZk21LVPI/AAAAAAAAMbg/H4HVP9rJepQ/s1600/dsc00352.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ui7qson45xwa1783.jpg" >}}
 
 Зато светофоры, похоже, проектировали люди с чувством юмора. Пока горит красный, на светофоре горит винтажный человечек из компьютерной игры:
 
-{{< imgfig "https://2.bp.blogspot.com/-fcIlFE3yQJw/T2pYfto6DFI/AAAAAAAAMVI/cBtZiZENOG8/s1600/dsc00344.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/3okmbg9arapa2449.jpg" >}}
 
 А когда загорается зелёный, он начинает бодро шагать (целиком заснять не получилось, выдержка фотоаппарата оказалась короче времени отрисовки всего кадра):
 
-{{< imgfig "https://4.bp.blogspot.com/-q5ex3xklurY/T2pbBbc2DvI/AAAAAAAAMkk/OLZKnz_AL1I/s1600/dsc00353.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vbz812rig6dq0908.jpg" >}}
 
 В остальном, Лас-Пальмас мне показался каким-то неприветливым, что ли. Вот таким:
 
-{{< imgfig "https://1.bp.blogspot.com/-WJnOAQ_liKA/T2pdV_lkH5I/AAAAAAAAMzU/A2cjZH_HiK0/s1600/dsc00339.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/grs32w2fz4a00338.jpg" >}}
 
 А ещё мы вдруг наткнулись на некий Intercontinental Rally Challenge: часть дороги была отгорожена, по эту сторону — толпы зрителей, по ту — бравые раллисты:
 
-{{< imgfig "https://3.bp.blogspot.com/-hJB3tmuraK8/T2pd_GANJbI/AAAAAAAAM3Y/ZAHOOtqAdlE/s1600/dsc00343.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/54fydhlr52120790.jpg" >}}
 
 Это *[censored]* ралли ещё перейдёт нам дорогу впоследствии, как раз по пути на Pico de Las Nieves.
 

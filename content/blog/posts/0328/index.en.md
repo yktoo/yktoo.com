@@ -3,7 +3,7 @@ type: post
 date: "2017-06-06T00:00:00Z"
 title: "Riverside at De Boerderij"
 tags: ["De Boerderij", "music", "Netherlands", "progressive metal", "progressive rock", "Riverside", "Zoetermeer"]
-image: "https://1.bp.blogspot.com/-msPpM_nMqx0/WTRdaD9ey2I/AAAAAAAAqFQ/UsebQnNd-tkdRVkUC9_YfI-h3di78dg-gCKgB/s1600/20170525_210732.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/rspd2dec1ahh1980.jpg"
 places:
     - place0079
 aliases:
@@ -24,7 +24,7 @@ The band has played 28 shows in April and May in their [Towards the Blue Horizon
 
 I happened to witness one of them held at {{< fl "De Boerderij" >}} club in Zoetermeer. The same place I've watched {{< a "0321" "Wolverine et al." >}} just a month ago. Though this time the show was sold out and the venue was packed.
 
-{{< imgfig "https://3.bp.blogspot.com/-fG-wSfirxpI/WTRdaDX4xxI/AAAAAAAAqFQ/fzpeHNvIOcESNlWEY79i8ykHESNr39B2ACKgB/s1600/20170525_201911%25280%2529.picasaweb.jpg" "De Boerderij." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/6wucusfcfj9j1524.jpg" "De Boerderij." >}}
 
 And to me it doesn't make any sense, why the attendance was so poor the previous time as I don't think *Wolverine*'s music is any less interesting than Riverside's.
 
@@ -32,7 +32,7 @@ Anyway, I guess a big deal of Riverside's popularity is linked to Mariusz's dist
 
 This time I was yet again prohibited from taking my camera with me (looks like this rule is enforced somewhat arbitrarily), and I had to resort to my mobile for pictures.
 
-{{< imgfig "https://4.bp.blogspot.com/-Suy5HyzkbyA/WTRdaKwhoiI/AAAAAAAAqFQ/lzXVcVWra9cB5dEy4qkAikXbGHvEarq8QCKgB/s1600/20170525_204225.picasaweb.jpg" "Riverside." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/126lh3xg0t801455.jpg" "Riverside." >}}
 
 I also managed to film the first two songs, but was approached by the security at the end of *Second Life Syndrome* and asked to stop recording.
 
@@ -42,21 +42,21 @@ Even on the video you can see the incredible vibe the band creates, as well as h
 
 During the tour the guitar part was taken care of by {{< fl "Maciej Meller" >}}, an old friend of Mariusz's, and it sounded quite authentic. I wouldn't be able to tell the difference by listening.
 
-{{< imgfig "https://1.bp.blogspot.com/-msPpM_nMqx0/WTRdaD9ey2I/AAAAAAAAqFQ/UsebQnNd-tkdRVkUC9_YfI-h3di78dg-gCKgB/s1600/20170525_210732.picasaweb.jpg" "Riverside: Maciej Meller and Mariusz Duda." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/rspd2dec1ahh1980.jpg" "Riverside: Maciej Meller and Mariusz Duda." >}}
 
 In one of the songs Mariusz played an acoustic guitar instead of bass (if you can see that on the photo):
 
-{{< imgfig "https://2.bp.blogspot.com/-CvnU7zYGdzg/WTRdaMB8n2I/AAAAAAAAqFQ/Tq1e9G5E_2ILig6mBgR4IiRXE5DnF6DxQCKgB/s1600/20170525_214100.picasaweb.jpg" "Riverside: Mariusz Duda playing in acoustics." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/h8elqb7ea23z2634.jpg" "Riverside: Mariusz Duda playing in acoustics." >}}
 
 Mariusz also mentioned about his warm feelings for Holland, just like {{< a "0317#plini" "Plini" >}} and {{< a "0321#wolverine" "Wolverine" >}} before. Which is fair enough considering that Riverside's popularity rocketed after their performance at the Progpower festival in the Dutch Baarlo. And, of course, the fact the show had been sold out was flattering for the musicians.
 
-{{< imgfig "https://2.bp.blogspot.com/-W0mubM4WoYk/WTRdaLB9HjI/AAAAAAAAqFQ/Wy3zwPetkQMQmHVzycSTCgopMDEcZr09QCKgB/s1600/20170525_223925.picasaweb.jpg" "Riverside." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/jykrtkg32kij2285.jpg" "Riverside." >}}
 
 The gig was professionally filmed by numerous cameras (like the one on the left on the photo above), so I expect the official video will become available soon.
 
 To conclude: I really enjoyed them playing so I'm definitely going to see them again.
 
-{{< imgfig "https://3.bp.blogspot.com/-nF5rT9biusA/WTRdaCI6FlI/AAAAAAAAqFQ/CEy0ypl6FZQR3BCh-XrVWJDDwv2iuQ4iQCKgB/s1600/20170525_224649.picasaweb.jpg" "Riverside." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/7yicuf1cssax0914.jpg" "Riverside." >}}
 
 ---
 

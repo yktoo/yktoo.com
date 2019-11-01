@@ -13,7 +13,7 @@ tags:
     - Афслёйтдейк
 places:
     - place0186
-image: "https://1.bp.blogspot.com/-A1fBr5MG1RI/XY8ZtbUTBKI/AAAAAAAAyFk/mZwWloVRREoYNuLA5JglyVX6upeSUUOVACKgBGAsYHg/s1600/2019-09-28.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/wdchidz3ifuk2807.jpg"
 imageCredit: "Фото: Rijkswaterstaat."
 ---
 
@@ -23,7 +23,7 @@ imageCredit: "Фото: Rijkswaterstaat."
 
 <!--more-->
 
-{{< imgfig "https://1.bp.blogspot.com/-A1fBr5MG1RI/XY8ZtbUTBKI/AAAAAAAAyFk/mZwWloVRREoYNuLA5JglyVX6upeSUUOVACKgBGAsYHg/s1600/2019-09-28.jpg" "Элемент волнореза и формы для их изготовления. Фото Rijkswaterstaat." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/wdchidz3ifuk2807.jpg" "Элемент волнореза и формы для их изготовления. Фото Rijkswaterstaat." >}}
 
 Блоки изготавливает строительный концерн {{< fl "Levvel" >}}, состоящий из компаний {{< fl "BAM" >}}, {{< fl "Van Oord" >}} и {{< fl "Rebel" >}}. Харлинген был выбран благодаря его близости к {{< fl "Afsluitdijk" >}} — элементы можно переправлять к дамбе по воде и не загружать без надобности дороги.
 
@@ -33,7 +33,7 @@ imageCredit: "Фото: Rijkswaterstaat."
 
 Сотня металлических форм расположена на полностью автоматическом конвейере, и на изготовление одного элемента уходит лишь девять минут. Заявленная производительность цеха — не менее ста волнорезов в день.
 
-{{< imgfig "https://1.bp.blogspot.com/-c6Q1hdgUItA/XY8hPJIK3mI/AAAAAAAAyGA/APicvN8wzK0eJ4VXiy1dzNInBJ8OLlNSgCKgBGAsYHg/s1600/2019-09-28.jpg" "Цех для производства волнорезов. Фото Rijkswaterstaat." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hm6qc9mpsusc0044.jpg" "Цех для производства волнорезов. Фото Rijkswaterstaat." >}}
 
 Сами блоки тоже непростые: их верхняя поверхность намеренно оставлена неровной, чтобы там задерживалась вода и могли закрепляться растения.
 

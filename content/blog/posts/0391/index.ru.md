@@ -6,7 +6,7 @@ tags:
     - Нидерланды
     - велики
     - транспорт
-image: "https://1.bp.blogspot.com/-zTe63IlyKeQ/XYh32GAe23I/AAAAAAAAx5w/PthvlwG3UcgYHdMKiWkl95AXpGZzYJXIACKgBGAsYHg/s1600/dsc09646.w.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/mr3jbwdyujf01154.jpg"
 ---
 
 Велосипед — наше основное средство перевозки подрастающего поколения.
@@ -35,7 +35,7 @@ image: "https://1.bp.blogspot.com/-zTe63IlyKeQ/XYh32GAe23I/AAAAAAAAx5w/PthvlwG3U
 
 Трейлер может прицепляться позади велосипеда или сбоку — на манер мотоциклетной люльки, — но последний вариант я в реальной жизни не встречал ни разу. Думаю, это просто неудобно, так как велосипед становится намного шире.
 
-{{< imgfig "https://1.bp.blogspot.com/-zTe63IlyKeQ/XYh32GAe23I/AAAAAAAAx5w/PthvlwG3UcgYHdMKiWkl95AXpGZzYJXIACKgBGAsYHg/s1600/dsc09646.w.jpg" "Велоприцеп Twinny Load Hera." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/mr3jbwdyujf01154.jpg" "Велоприцеп Twinny Load Hera." >}}
 
 ### Оснащение
 
@@ -43,9 +43,9 @@ image: "https://1.bp.blogspot.com/-zTe63IlyKeQ/XYh32GAe23I/AAAAAAAAx5w/PthvlwG3U
 
 Сзади у него находится поворотная ручка и тормоз, упирающийся в покрышки и фиксирующий колёса. Также сзади расположен объёмистый карман, куда можно спрятать третье колесо (для использования в варианте коляски), дождевик и т.д.
 
-{{< imgfig "https://1.bp.blogspot.com/-Lq65saJruOs/XYh32GBhyeI/AAAAAAAAx5w/6xRWEVUUnace-LF4aiX1jKOBsgE-7oc7ACKgBGAsYHg/s1600/dsc09650.w.jpg" "Велоприцеп Twinny Load Hera, вид сзади." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pnvlwhk7n2mz2070.jpg" "Велоприцеп Twinny Load Hera, вид сзади." >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-5ZfybJhd9JU/XYh32EF3HyI/AAAAAAAAx5w/jqe0cdXcGbAAUrnaI3RFe2oQlit3InFJQCKgBGAsYHg/s1600/dsc09647.w.jpg" "Противомоскитная сетка." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/g16q5kfvgg4b3537.jpg" "Противомоскитная сетка." >}}
 
 ### Крепление
 
@@ -53,7 +53,7 @@ image: "https://1.bp.blogspot.com/-zTe63IlyKeQ/XYh32GAe23I/AAAAAAAAx5w/PthvlwG3U
 
 Первый — кронштейн, перманентно устанавливаемый на велосипед. Спереди он закрепляется под откидной ножкой, сзади крепится хомутом к раме.
 
-{{< imgfig "https://1.bp.blogspot.com/-ByAr_o9rx_I/XYh32P1D7RI/AAAAAAAAx5w/fGOXiUXN9tgZ3Rge2DWlCsemEwO3ycUOQCKgBGAsYHg/s1600/dsc09649.w.jpg" "Крепление велоприцепа со стороны велика." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/n9yj7469rcj83661.jpg" "Крепление велоприцепа со стороны велика." >}}
 
 На кронштейн надевается второй элемент, металлическая штанга. Передний её конец представляет собой гибкую пружину, так что в точка соединения она может гнуться в обе стороны — это необходимо на поворотах. Фиксируется штанга на кронштейне с помощью шпильки — просто и удобно, устанавливается и разбирается конструкция за считанные секунды.
 
@@ -61,7 +61,7 @@ image: "https://1.bp.blogspot.com/-zTe63IlyKeQ/XYh32GAe23I/AAAAAAAAx5w/PthvlwG3U
 
 Третий элемент — крепление штанги со стороны трейлера.
 
-{{< imgfig "https://1.bp.blogspot.com/-1nvAtkMhLno/XYh32JvtE1I/AAAAAAAAx5w/Aqy4TMN6TyUt6x0dFZzxSZDKK3mGDcxHACKgBGAsYHg/s1600/dsc09648.w.jpg" "Крепление штанги к велоприцепу." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ac2v9fpsrdld3209.jpg" "Крепление штанги к велоприцепу." >}}
 
 Тут соединение винтовое, разбирается чуть дольше — но это и требуется реже, в основном, для использования в режиме коляски. Аналогично предыдущему, есть здесь и дополнительная страховка ремнём.
 
@@ -69,7 +69,7 @@ image: "https://1.bp.blogspot.com/-zTe63IlyKeQ/XYh32GAe23I/AAAAAAAAx5w/PthvlwG3U
 
 Если отцепить штангу от прицепа и вставить дополнительное маленькое колёсико в гнездо в передней его части, то прицеп превращается в коляску. Очень удобная, надо сказать, опция.
 
-{{< imgfig "https://1.bp.blogspot.com/-HOUkobDSUwc/XYh32JAckQI/AAAAAAAAx5w/HSnGWzMl09In7UMbx36YwOhtT4YGD4qtgCKgBGAsYHg/s1600/dsc09653.w.jpg" "Велоприцеп в виде коляски." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/i3t1dkad9w5j0505.jpg" "Велоприцеп в виде коляски." >}}
 
 ## Опыт использования
 
@@ -88,17 +88,17 @@ image: "https://1.bp.blogspot.com/-zTe63IlyKeQ/XYh32GAe23I/AAAAAAAAx5w/PthvlwG3U
 
 «Бакфитс» бывает двухколёсный:
 
-{{< imgfig "https://1.bp.blogspot.com/-3hqgs15Tizk/XYh4Cvc6qaI/AAAAAAAAx50/xrllbW5jhyEy_UcQd1tNbOiE1PFGLWusQCKgBGAsYHg/s1600/dsc09086.w.jpg" "Двухколёсный bakfiets." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/55xe6e3cn7w61790.jpg" "Двухколёсный bakfiets." >}}
 
 Минусы такой модели, во-первых, в большой длине (труднее парковаться), а во-вторых, непросто будет держать равновесие в момент остановки, например, на светофоре, с крупным выводком в баке.
 
 Встречаются и варианты с тремя колёсами — тогда он и короче, и устойчивей: 
 
-{{< imgfig "https://1.bp.blogspot.com/-r6B3S2gaoqo/XYh4Ch7aLkI/AAAAAAAAx50/KY4IYk7ICjA0sIsECaRxJPSeNyrljt02ACKgBGAsYHg/s1600/dsc09087.w.jpg" "Трёхколёсный bakfiets." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/mt9qmoj14gva2619.jpg" "Трёхколёсный bakfiets." >}}
 
 В таких часто возят сразу двоих, троих, а то и четверых детей — сам видел не раз.
 
-{{< imgfig "https://1.bp.blogspot.com/-K_szoGtXmRA/XYisIFSAWrI/AAAAAAAAx6Q/LIt4a0u6wBUTjcZ3fp_n3k0oPZSgVMh7wCKgBGAsYHg/s1600/bakfiets.jpg" "Бакфитс. Фото bakfiets.nl" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xjz8166c3d3r3355.jpg" "Бакфитс. Фото bakfiets.nl" >}}
 
 К минусам «бакфитса» можно также отнести несъёмность бака, довольно высокую цену (от полутора тысяч евро за новый) и его тяжесть/инерционность. Последнее облегчается добавлением электромотора, но цена при этом взлетает выше **€ 3 000**.
 

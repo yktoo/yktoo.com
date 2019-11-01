@@ -3,7 +3,7 @@ type: post
 date: "2013-05-22T00:00:00Z"
 title: "Амерсфортский джазовый фестиваль — 2013"
 tags: ["Амерсфорт", "видео", "джаз", "музыка", "фламенко"]
-image: "https://1.bp.blogspot.com/-j2AvSpmVd38/UZ0Lc33S2gI/AAAAAAAAYb8/IZqfcD6m0aE/s1600/dsc08865.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/0o3yv6u8ib7v2787.jpg"
 places:
     - place0010
 aliases:
@@ -12,7 +12,7 @@ aliases:
 
 В прошлые выходные (с 16 по 19 мая 2013 г.), как я и {{< a "0183" "обещал" >}}, у нас в Амерсфорте состоялся традиционный ежегодный джазовый фест. Тридцать четвёртый по счёту, если быть точным. Под предводительством небезызвестного Александра Бейтса:
 
-{{< imgfig "https://1.bp.blogspot.com/-j2AvSpmVd38/UZ0Lc33S2gI/AAAAAAAAYb8/IZqfcD6m0aE/s1600/dsc08865.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0o3yv6u8ib7v2787.jpg" >}}
 
 <!--more-->
 
@@ -26,17 +26,17 @@ aliases:
 
 По итогам концерта могу заключить, что оно того определённо стоило: я вообще впервые вот так перед собой видел исполнение фламенко.
 
-{{< imgfig "https://3.bp.blogspot.com/-KFzgpbyXSdo/UZ0LVJpd_AI/AAAAAAAAYbc/DzB77sYMgYs/s1600/dsc08853.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xbbph2a7yvc30566.jpg" >}}
 
 Вокалистку зовут довольно непросто: Эрминия Фернандез Кордоба ({{< fl "Erminia Fernández Córdoba" >}}). Она родилась в 1980 году в Аргентине и выросла в Испании (Аликанте). Последние 15 лет живёт в Голландии, исполняя джаз, поп, южноафриканскую музыку и фламенко.
 
-{{< imgfig "https://1.bp.blogspot.com/-S268gCvZyA0/UZ0LaGEJl6I/AAAAAAAAYb0/IEaZ40D4vKU/s1600/dsc08863.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/gzlqg8nwtor70995.jpg" >}}
 
 Её муж гитарист Артуро Рамон ([Arturo Ramón](http://www.arturoramon.com/)), несмотря на характерную внешность, родился в 1981 году в Голландии, в городе Гааге. Отец его голландец, а внешностью он обязан матери-испанке. Часто выступает и уже успел записать несколько CD.
 
 Пианист — простой голландский парень Тайс Борстен ({{< fl "Thijs Borsten" >}}) — играет  очень выразительно и свободно. Он — одна из моих находок на этом фестивале, надо будет за ним следить в будущем.
 
-{{< imgfig "https://4.bp.blogspot.com/-QJo0W8ob7r8/UZ0LYQFIlnI/AAAAAAAAYbs/V0cO9J1cD_s/s1600/dsc08861.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/si9byfa4etuc2289.jpg" >}}
 
 Вот одна из видеозаписей с концерта:
 
@@ -56,7 +56,7 @@ aliases:
 
 [The Nordanians](http://www.nordanians.com/) — группа с забавным звучанием и несколько механичной музыкой.
 
-{{< imgfig "https://2.bp.blogspot.com/-lxhW-APmGT8/UZ0LMx_CuVI/AAAAAAAAYa8/8i42TLhCt1Y/s1600/dsc08847.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/dmk15d3iombv2496.jpg" >}}
 
 Вшестером играют на гитаре, скрипке, виолончели, табле и всякой прочей всячине. Навряд ли можно назвать это джазом. Смотреть забавно, но влюбить меня в себя не смогли. Вот пример:
 
@@ -64,7 +64,7 @@ aliases:
 
 На фестивале было полным полно детей. Так как джаз им неинтересен, занимались они известно чем.
 
-{{< imgfig "https://4.bp.blogspot.com/-4XLxqev-60E/UZ0LOgEnWsI/AAAAAAAAYbE/ur2sgMkc70k/s1600/dsc08849.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cgy480n9r08t1045.jpg" >}}
 
 ## Анна Кайперс {#anna-cuijpers}
 
@@ -82,7 +82,7 @@ aliases:
 
 Так назвали толпу знаменитых джазменов, закрывавших фестиваль.
 
-{{< imgfig "https://1.bp.blogspot.com/-627Ot11ouyM/UZ0LepMgIyI/AAAAAAAAYcE/HlbTH6_pYms/s1600/dsc08868.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ljb2tcrzrcbx1541.jpg" >}}
 
 Слева направо с саксофонами наперевес:
 

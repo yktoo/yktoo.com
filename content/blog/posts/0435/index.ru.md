@@ -9,7 +9,7 @@ tags:
     - правительство
     - inburgering
     - новости
-image: "https://1.bp.blogspot.com/-PlW4flt1MUI/Xa3WM0YsF0I/AAAAAAAAy7Y/9clOSs1rUK8swqMxGa-LTy5Uu7FjZkXmwCKgBGAsYHg/s1600/2019-10-21_inburgering.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/rog7c93lat830371.jpg"
 imageCredit: "Фото: Jan Vašek/Pixabay."
 ---
 

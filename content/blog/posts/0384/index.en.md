@@ -7,7 +7,7 @@ tags:
     - Xiaomi
     - gadgets
     - funny
-image: "https://1.bp.blogspot.com/-eUIUzWPGf9w/XYKFJWmlTmI/AAAAAAAAxms/A1PgFeXLJBs6l18hhU9QwD2J_YF4A0T6wCKgBGAsYHg/s1600/20190918_181023.w.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/1v5x6xt6xjdc0145.jpg"
 ---
 
 Today I've received a parcel from the almighty AliExpress. A pretty puzzling one.
@@ -18,11 +18,11 @@ You'd be puzzled, too. What do you think an "inflatable treasure" is?
 
 No kidding, that's what it reads:
 
-{{< imgfig "https://1.bp.blogspot.com/-eUIUzWPGf9w/XYKFJWmlTmI/AAAAAAAAxms/A1PgFeXLJBs6l18hhU9QwD2J_YF4A0T6wCKgBGAsYHg/s1600/20190918_181023.w.jpg" "Inflatable treasure" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1v5x6xt6xjdc0145.jpg" "Inflatable treasure" >}}
 
 The right answer: it's a battery-powered {{< a "http://ali.pub/3unhyy" "Xiaomi (Mijia) Electric Pump" >}}.
 
-{{< imgfig "https://1.bp.blogspot.com/-ri38OczOifg/XYKFJQMF_WI/AAAAAAAAxms/2O9O6Z2zRNgXGPBR0ceoA59jnSsTMQ_PwCKgBGAsYHg/s1600/20190918_181044.w.jpg" "Xiaomi Mijia Electric Pump." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/8glbicne1nyh2849.jpg" "Xiaomi Mijia Electric Pump." >}}
 
 I have to admit, it's a very good looking one. One might confuse it for a music player. I'm going to write a review after having used it for a while.
 

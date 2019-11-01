@@ -3,7 +3,7 @@ type: post
 date: "2013-01-31T00:00:00Z"
 title: "Освобождение от собственности"
 tags: ["неприятное", "Нидерланды", "преступность", "Утрехт"]
-image: "https://1.bp.blogspot.com/-reBIHvtHNVM/UQpoeOHKMFI/AAAAAAAAWm4/nLmjPgqxCOg/s1600/4526206-Charlie_Chius_Utrecht.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/8qfyhujyprxe0355.jpg"
 places:
     - place0016
 aliases:
@@ -16,7 +16,7 @@ aliases:
 
 5 мая минувшего года, в светлый {{< a "0052" "праздник" >}} Дня освобождения, меня освободили от моего бумажника (а его, соответственно, от меня). Кража случилась в славном, в общем-то, городе Утрехте, на железнодорожном вокзале, в китайской забегаловке под названием [Charlie Chiu's](http://www.charliechiu.nl/), где мы решили остановиться пообедать перед долгим и изнурительным шоппингом.
 
-{{< imgfig "https://1.bp.blogspot.com/-reBIHvtHNVM/UQpoeOHKMFI/AAAAAAAAWm4/nLmjPgqxCOg/s1600/4526206-Charlie_Chius_Utrecht.jpg" "Картинка с members.virtualtourist.com." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/8qfyhujyprxe0355.jpg" "Картинка с members.virtualtourist.com." >}}
 
 <!--more-->
 
@@ -34,13 +34,13 @@ aliases:
 
 Получив бумажку с адресом, мы направились на поиски. Полицейский участок находится в неприметном здании на Kroonstraat, пешком минутах в десяти от вокзала:
 
-{{< imgfig "https://4.bp.blogspot.com/-24ZNZLwPkS8/UQqWDbajAdI/AAAAAAAAWoA/w02l1c5HAt4/s1600/politie-utrecht-kroonstraat.jpg" "Взято с Google Street View." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/6zemyvkov0ye3327.jpg" "Взято с Google Street View." >}}
 
 В фойе ожидала своей очереди ещё одна жертва легкомыслия со сходным сюжетом: у парня тоже вытащили бумажник с документами, но из велосипедной сумки где-то в переходе.
 
 Тётенька-дежурный офицер провела нас в свой кабинет и начала составлять протокол, по-голландски {{< fl "Proces-verbaal" >}}, записывая все подробности.
 
-{{< imgfig "https://4.bp.blogspot.com/-uHGtmZPxR7g/UQqH7zqk7zI/AAAAAAAAWnc/ZZCr7AXRnv8/s1600/pv.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/s7g7vj0fy4y31212.png" >}}
 
 Фиксация подробностей заняла добрый час тётенькиного времени. Надо отметить, что отношение со стороны полицейских исключительно дружелюбное и сочувственное, и при иных обстоятельствах встреча оставила бы приятное впечатление. Офицер сама позвонила в различные службы, чтобы заблокировать все мои пропавшие карточки. Позвонила и в ресторан, попросив проследить за тем, чтобы записи с их камер наблюдения не были затёрты.
 
@@ -73,4 +73,4 @@ aliases:
 
 А ресторан, кстати, закрыли. Уж не знаю, почему.
 
-{{< imgfig "https://2.bp.blogspot.com/-VQBaHI7Lrfs/UQreo36j8kI/AAAAAAAAWog/Xo3U0YGW59I/s1600/vigilance.picasaweb.jpg" "Картинка с www.winemaps.com." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/uua5mapjduxj2022.jpg" "Картинка с www.winemaps.com." >}}

@@ -5,7 +5,7 @@ dateFrom: 2012-11-17
 dateTo: 2012-11-17
 location: "P60, Amstelveen, Netherlands"
 websiteUrl: "http://www.p60.nl/agenda/2012/11/17/metal-for-mara-met-oa-stream-of-passion-sin7sins-kingfisher-sky-autumn-my-favorite-scar-stream-of-passion-suprise-act-518.html"
-image: "https://4.bp.blogspot.com/-Do46huFF9y0/UK6OYGDPdeI/AAAAAAAAV8M/CSiJ-fPGIMA/s1600/dsc05747.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/99k3smjlei0u1095.jpg"
 videocategories: music
 posts: ""
 ---

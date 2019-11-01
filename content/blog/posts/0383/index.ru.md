@@ -11,7 +11,7 @@ tags:
     - аэропорт
     - транспорт
     - самолёты
-image: "https://1.bp.blogspot.com/-CosCKyDqVo4/XYJDv6JHyyI/AAAAAAAAxlo/E2qd7X9V8moK14iUMxJUb8dgdttyr8bAACKgBGAsYHg/s1600/schiphol.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/5b5jh5c8wb783671.jpg"
 imageCredit: "Фото: NOS."
 ---
 
@@ -35,7 +35,7 @@ imageCredit: "Фото: NOS."
 
 После некоторой паузы диспетчер спрашивает, остановили ли пилоты самолёт, на что получает утвердительный ответ. Тогда он сообщает им, где они находятся.
 
-{{< imgfig "https://1.bp.blogspot.com/-pKWYZ8wJ3iY/XYJdQ4X8DsI/AAAAAAAAxmI/jTeQ7WxkXeAcVVHKFYO_LgiRrXQVdHKhwCKgBGAsYHg/s1600/taxibaan-schiphol.jpg" "Пилоты попытались взлететь с полосы D вместо ВПП 18C." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/w32p97riaq1i2312.jpg" "Пилоты попытались взлететь с полосы D вместо ВПП 18C." >}}
 
 По удачному стечению обстоятельств, никаких других самолётов в районе происшествия не оказалось.
 

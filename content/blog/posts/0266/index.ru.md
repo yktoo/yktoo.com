@@ -3,7 +3,7 @@ type: post
 date: "2015-12-29T00:00:00Z"
 title: "Беговая отсебятина"
 tags: ["De Haar", "De Halve van de Haar", "Loop door Houten", "Амерсфорт", "Амерсфортский марафон", "Амстердам-Рейн-канал", "бег", "замок", "итоги", "Нидерланды", "спорт", "Хаутен"]
-image: "https://4.bp.blogspot.com/-W8h_qff_EP0/Vn5_gyEPg6I/AAAAAAAAk7I/vJEqV3v_lbk/s1600/Houten-5km-loop.picasaweb.png"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/cf6zk8u6aj541247.png"
 places:
     - place0165
     - place0010
@@ -20,23 +20,23 @@ aliases:
 
 Первые несколько месяцев я бегал по пятикилометровому маршруту, который аккуратно вписывается в пятиугольник из велодорожек, этакий {{< wiki "Государственный_знак_качества_СССР" "ru" "знак качества" >}}, проложенный вдоль зелёной насыпи, каждая сторона почти ровно по километру.
 
-{{< imgfig "https://4.bp.blogspot.com/-W8h_qff_EP0/Vn5_gyEPg6I/AAAAAAAAk7I/vJEqV3v_lbk/s1600/Houten-5km-loop.picasaweb.png" "Хаутенский пятикилометровый знак качества." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cf6zk8u6aj541247.png" "Хаутенский пятикилометровый знак качества." >}}
 
 Единственным досадным моментом является то, что до «пятёрки» ему не хватает 300 метров, которые приходится «добегать».
 
 Со временем мне понравилось бегать по 10 км, и бежать по этому пятиугольнику дважды мне быстро надоело, особенно учитывая, что теперь мне не хватало 600 м. Я нашёл другой маршрут, пролегающий вдоль {{< fl "Amsterdam-Rijnkanaal" >}}, что на картинке вверху находится в нижнем левом углу. Прошлой весной он выглядел вот так:
 
-{{< imgfig "https://1.bp.blogspot.com/-EjT8lpuoqHA/VSwY_3Q2E-I/AAAAAAAAhbs/vnaiRpuyZRg/s1600/20150327_184933.picasaweb.jpg" "Март. Amsterdam-Rijnkanaal справа." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/h5sspn8x6s722951.jpg" "Март. Amsterdam-Rijnkanaal справа." >}}
 
 А летом так вообще красота! Часть маршрута, пролегающая вдоль канала, проходит по велодорожке, которую местные власти окрестили «велодорожка для пения» ({{< fl "zangfietspad" >}}). На соответствующей табличке изображены поющий велосипедист и текст:
 
 > Здесь велосипедистам официально разрешено петь и подпевать. Больше никаких неудобных пауз в пении из-за того, что кто-то проезжает мимо!
 
-{{< imgfig "https://4.bp.blogspot.com/-eINLBQ5IX24/Vat7V1XhzNI/AAAAAAAAjsw/p9pyuSNl8JE/s1600/20150607_174848.picasaweb.jpg" "Amsterdam-Rijnkanaal и Zangfietspad в июне." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/nftj423gssuv2758.jpg" "Amsterdam-Rijnkanaal и Zangfietspad в июне." >}}
 
 И всё бы было замечательно, но этой осенью все тополя, которые, [как утверждается](http://www.groentje.nl/articles/p-bomenkap-langs-amsterdam-rijnkanaal-en-lekkanaal-p), больные и ослабленные, начали срезать. Все взрослые деревья (а это 700 с восточной и 925 с западной стороны канала) вырубили и вывезли, вместо них посадили молодую поросль. Выглядеть это стало довольно неуютно.
 
-{{< imgfig "https://3.bp.blogspot.com/-KvhJVUykkhs/Vn7LnoSoRPI/AAAAAAAAk94/iEJnMLM69No/s1600/dsc01481.picasaweb.jpg" "Amsterdam-Rijnkanaal с молодыми деревьями." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/66yahr0zif9g2936.jpg" "Amsterdam-Rijnkanaal с молодыми деревьями." >}}
 
 Им, конечно, виднее, хотя жалко былой тенистой аллеи — в жару там бегать было намного приятнее, чем по открытому месту. Ну и, как обычно, впечатляет основательность голландцев: чтобы защитить велодорожку от повреждения строительной техникой, её выложили металлическими листами на протяжении *двух километров в два ряда*.
 
@@ -58,107 +58,107 @@ aliases:
 
 Каждому участнику выдаётся индивидуальный номер с RFID-меткой, считываемой специальными устройствами на старте и финише, а также ещё в нескольких точках маршрута. На обороте можно при желании написать свои данные — на случай, если вдруг станет плохо. Полоски жёлтого цвета означают четвертьмарафон, **10,5 км**.
 
-{{< imgfig "https://3.bp.blogspot.com/-7WBx_Pj1NWA/VU98tz7mkpI/AAAAAAAAiks/REiX-GBoCuA/s1600/dsc08699.picasaweb.jpg" "Номер с RFID-меткой." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/nep1fb67cbul3588.jpg" "Номер с RFID-меткой." >}}
 
 Если бы мы зарегистрировались заранее, на номерах ещё были бы напечатаны наши имена.
 
 Несмотря на то, что проводилось мероприятие впервые, организация была весьма неплохой. Под паркинг отвели здоровое поле:
 
-{{< imgfig "https://2.bp.blogspot.com/-EjIP3tW8yLo/VSwaMFUqnbI/AAAAAAAAhjs/CBpP-W1-iQI/s1600/dsc08541.picasaweb.jpg" "Паркинг в De Haar." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1pyphmdc02wd1416.jpg" "Паркинг в De Haar." >}}
 
 Раздевалки-одевалки-переодевалки:
 
-{{< imgfig "https://4.bp.blogspot.com/-BVAktbdkQDs/VSwZa_NZYgI/AAAAAAAAhe0/bX2_SWjcoFU/s1600/dsc08410.picasaweb.jpg" "Раздевалка." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/as5ti8rkbmsa2321.jpg" "Раздевалка." >}}
 
 Благодаря тому, что мероприятие пока ещё малоизвестное, народу было сравнительно немного. В популярных марафонах, таких как {{< wiki "Амстердамский_марафон" "ru" "амстердамский" >}} или {{< wiki "Роттердамский_марафон" "ru" "роттердамский" >}}, принимают участие десятки тысяч человек. Что довольно ужасненько с логистической точки зрения.
 
-{{< imgfig "https://3.bp.blogspot.com/-Ilm8Hxb5BeI/VSwZcHXW-HI/AAAAAAAAhe8/PT6i-1AjrhM/s1600/dsc08411.picasaweb.jpg" "De Halve van de Haar." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fmav6njdjlx61328.jpg" "De Halve van de Haar." >}}
 
 Выдача номеров:
 
-{{< imgfig "https://1.bp.blogspot.com/-Ti7Rm7lGp9Q/VSwZhaVzIeI/AAAAAAAAhfk/PWGmkygziXk/s1600/dsc08418.picasaweb.jpg" "Пункт выдачи номеров." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/f3jmxi9pslr40399.jpg" "Пункт выдачи номеров." >}}
 
 Номер по-простому прикалывается четырьмя булавками к одежде.
 
-{{< imgfig "https://2.bp.blogspot.com/-TOkLZ8gACpo/VSwZeEBzHaI/AAAAAAAAhfM/qcKkyOAwSOM/s1600/dsc08413.picasaweb.jpg" "Как правильно носить номер." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/i4csa73nr4cj2099.jpg" "Как правильно носить номер." >}}
 
 Тут же продают спортивную одежду и инвентарь.
 
-{{< imgfig "https://2.bp.blogspot.com/-WIjl_wZgFaU/VSwZjXFDK2I/AAAAAAAAhf0/kB4NU09LrMk/s1600/dsc08422.picasaweb.jpg" "Киоски." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zdqcvtmoixdf1171.jpg" "Киоски." >}}
 
 Скромный постамент для победителей забегов:
 
-{{< imgfig "https://3.bp.blogspot.com/-Q4J9BiGA3Hg/VSwZksaqtnI/AAAAAAAAhf8/knvxz55RVVc/s1600/dsc08423.picasaweb.jpg" "Места победителей." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/13ycmsyyutrc1621.jpg" "Места победителей." >}}
 
 Для тех, кто хочет пробежать дистанцию за определённое время, в забеге участвуют так называемые «зайцы» ({{< fl "hazen" >}}) — профессиональные бегуны, придерживающиеся определённой скорости. Чтобы их было лучше видно, каждый несёт шарик определённого цвета: например, «зелёный» пробегает четвертьмарафон за 55 минут, белый за час, сиреневый за час и десять минут и так далее.
 
 Потом шарики отдаются детворе в качестве трофея.
 
-{{< imgfig "https://1.bp.blogspot.com/-S1m8GN3Qe0Q/VSwaJKvciGI/AAAAAAAAhjU/mf5OXBgXW-8/s1600/dsc08534.picasaweb.jpg" "Шарики «зайцев»." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/v1ha3fxodkc40791.jpg" "Шарики «зайцев»." >}}
 
 Отбегав свои десять с полтиной, мы пошли прогуляться по парку и пофотографировать бегущих полумарафон (**20,1 км**).
 
 Линия старта и финиша:
 
-{{< imgfig "https://4.bp.blogspot.com/-gDL_lNFYzMY/VSwZsI_MRJI/AAAAAAAAhgU/qBUvxgOWboc/s1600/dsc08438.picasaweb.jpg" "Старт, он же финиш." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/wqdidrzsr0921627.jpg" "Старт, он же финиш." >}}
 
 Когда пробегаешь под рамкой, специальные «пушки» считывают и регистрируют твой номер. Хронометр показывает общее время с момента старта.
 
-{{< imgfig "https://1.bp.blogspot.com/-wfMu8c_zJIw/VSwaKIHBYBI/AAAAAAAAhjc/s_DY7f5Mq7o/s1600/dsc08535.picasaweb.jpg" "Рамка считывателя." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/o65xdjo8gfo80398.jpg" "Рамка считывателя." >}}
 
 Как уже упоминалось, маршрут пролегает по очень живописной территории за́мкового парка, пару раз пересекая двор перед замком.
 
-{{< imgfig "https://2.bp.blogspot.com/-_b3TIBSnca0/VSwZ4yOOd3I/AAAAAAAAhhc/YvAnF9va4wQ/s1600/dsc08482.picasaweb.jpg" "Парк замка De Haar." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/gpr5s5r6ppwy1433.jpg" "Парк замка De Haar." >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-3jqmBUT8yMk/VSwZ58muvFI/AAAAAAAAhhk/EKQxn845ijk/s1600/dsc08489.picasaweb.jpg" "Парк замка De Haar." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hvimct169o6i0663.jpg" "Парк замка De Haar." >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-xZpwOR7NWfk/VSwZ1_UUxZI/AAAAAAAAhhU/Be5Ky3vjB1c/s1600/dsc08481.picasaweb.jpg" "Замок De Haar." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/7yqzxy0q7uoc0235.jpg" "Замок De Haar." >}}
 
 Следуй за зелёным кроликом!
 
-{{< imgfig "https://1.bp.blogspot.com/-2Cs0el50WSw/VSwZ6xqJvjI/AAAAAAAAhhs/-v0NuJXsZks/s1600/dsc08495.picasaweb.jpg" "Кролик-полумарафонец." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/qv2bpmm4tfki0211.jpg" "Кролик-полумарафонец." >}}
 
 Сады замка в зимне-весеннее время немножко голые, но всё равно красивые.
 
-{{< imgfig "https://3.bp.blogspot.com/-P68ODPkgmLs/VSwZ82brN1I/AAAAAAAAhh8/29TPs9H-Idg/s1600/dsc08503.picasaweb.jpg" "Замок De Haar." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/js9kiu7cstxs0283.jpg" "Замок De Haar." >}}
 
-{{< imgfig "https://4.bp.blogspot.com/-PSJjO4kox8o/VSwZ9_7lWfI/AAAAAAAAhiE/3fleR9YHvuM/s1600/dsc08505.picasaweb.jpg" "Замок De Haar." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xj8t8p5hpmgx0595.jpg" "Замок De Haar." >}}
 
 Помимо старта-финиша, в нескольких точках по маршруту расставлены дополнительные считыватели меток.
 
-{{< imgfig "https://4.bp.blogspot.com/-EWQieBBEWQQ/VSwZzZu7ImI/AAAAAAAAhhE/wqJnpFWh_OU/s1600/dsc08474.picasaweb.jpg" "Фиксация промежуточных результатов." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ssrpc412xm242222.jpg" "Фиксация промежуточных результатов." >}}
 
 Что довольно характерно для Голландии, фиксацией, обработкой и публикацией тайминга занимается отдельная компания.
 
 Ещё одна фирма фотографирует каждого пробегающего участника. За 25 метров до точки съёмки висит предупреждение, что нужно сделать умное и весёлое лицо (что после двадцати километров не каждому под силу):
 
-{{< imgfig "https://2.bp.blogspot.com/-gHANA0zrZwM/VSwaCt920eI/AAAAAAAAhik/0Qx9CtCp5Mw/s1600/dsc08515.picasaweb.jpg" "Через 25 м вылетит птичка." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/6lak85qe94xu2551.jpg" "Через 25 м вылетит птичка." >}}
 
 Потом ты пересекаешь луч фотофиниша…
 
-{{< imgfig "https://4.bp.blogspot.com/-zglwrUYRl40/VSwaB3tNKkI/AAAAAAAAhic/4HMlZj_tQAc/s1600/dsc08514.picasaweb.jpg" "Фотофиниш для улыбчивых." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1jz43ymz69a53039.jpg" "Фотофиниш для улыбчивых." >}}
 
 … и автоматические камеры вносят тебя в анналы истории:
 
-{{< imgfig "https://2.bp.blogspot.com/-cOUevQJYE9Q/VSwZ06hh7JI/AAAAAAAAhhM/jJr5LE8zGF4/s1600/dsc08478.picasaweb.jpg" "Автофото на память." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1xgwygm71iem0042.jpg" "Автофото на память." >}}
 
 Полученные фотографии и видео можно потом найти по своему номеру на сайте фирмы, за счастье ими обладать просят от **€12,50** за одно фото до **€45** за весь пакет вместе с видео.
 
 Плюс к этому, по всему маршруту стоит множество видеокамер, так что схитрить не удастся.
 
-{{< imgfig "https://2.bp.blogspot.com/-CucQJNwRK8g/VSwaE5gBuKI/AAAAAAAAhi0/xNUwa_rYNng/s1600/dsc08517.picasaweb.jpg" "Былое и наши дни." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/f85a2qfbam0x0565.jpg" "Былое и наши дни." >}}
 
-{{< imgfig "https://4.bp.blogspot.com/-lx-4AMBvmmY/VSwZwmSIRYI/AAAAAAAAhg0/R8buF_MWdKQ/s1600/dsc08461.picasaweb.jpg" "Папарацци." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/v82w907nzo8r1986.jpg" "Папарацци." >}}
 
 За полкилометра до финиша зачем-то стоят сбивающие с толку красные рекламные ворота, под которыми тоже проложены считыватели.
 
 Кстати, девушка в розовой майке на фото внизу — не кто иная, как Сара Уотсон ({{< fl "Sarah Watson" >}}), внучка барона {{< wiki "Van_Zuylen_van_Nievelt" "en" "Van Zuylen van Nijevelt" >}}, прежнего владельца замка {{< fl "De Haar" >}}. Это именно она первой [подала идею](http://www.haarzuilens.net/) провести забег на территории замка.
 
-{{< imgfig "https://4.bp.blogspot.com/-muaxuM3UBw0/VSwaG3TOzkI/AAAAAAAAhjE/Fwq-0WU35bU/s1600/dsc08522.picasaweb.jpg" "Sarah Watson справа." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/68zbnk0biw9t2725.jpg" "Sarah Watson справа." >}}
 
 Финишная прямая полумарафона:
 
-{{< imgfig "https://1.bp.blogspot.com/-PQCJnCA05BY/VSwaH5xhgxI/AAAAAAAAhjM/Oa0zeG3f5PE/s1600/dsc08533.picasaweb.jpg" "Держи пять!" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/8f5bx6ijaza03434.jpg" "Держи пять!" >}}
 
 Мой [результат](http://www.prorun.nl/uitslagen/de-halve-van-haar/) (номер **3160**) — **53:26** — оказался намного лучше, чем я ожидал. Я ставил целью бежать за «зайцем», финиширующим за час, в результате я обогнал и его, и того, кто бежал с шариком «0:55». Итог: **289** место (из 1325) в общем зачёте, **234** (из 662) среди мужчин.
 
@@ -168,17 +168,17 @@ aliases:
 
 Благодаря совсем маленькому масштабу события, стоило это удовольствие символические 4 евро (обычно €10-20 для 10 км).
 
-{{< imgfig "https://4.bp.blogspot.com/-cQwqOeu40W0/Vat7W-5lwKI/AAAAAAAAjtQ/yQDvfMcNjBQ/s1600/20150612_193229.picasaweb.jpg" "Номер 669 к старту, типа, готов." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/mzoby75xbsca3466.jpg" "Номер 669 к старту, типа, готов." >}}
 
 Именно в этот день стояла сумасшедшая для Голландии [жара в 27 °C](http://www.meteodelfzijl.nl/blog/?p=2608) (что при нашей влажности ощущается как все 35 °C). К счастью, это была пятница, и забег проводился в восемь часов вечера, когда солнце уже клонилось к закату.
 
 Всего участвовало **511** детей и **871** взрослый (из которых **555** бежало дистанцию в 5 км, **316** — 10 км), что для нашего городка не так уж мало.
 
-{{< imgfig "https://4.bp.blogspot.com/-6TjhbyaAwjk/Vat7X8CFaII/AAAAAAAAjt8/6LlotAWGPvk/s1600/20150612_195340.picasaweb.jpg" "Улицы забиты битком." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/4b9bofsx05ll2020.jpg" "Улицы забиты битком." >}}
 
 В ожидании старта:
 
-{{< imgfig "https://2.bp.blogspot.com/-AbRTLaTrbhg/Vat7YD6XmrI/AAAAAAAAkBM/HOT3-RCtnh4/s1600/20150612_195348.picasaweb.jpg" "Скоро начнётся." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/7q8z33f1e7xy3173.jpg" "Скоро начнётся." >}}
 
 Мне очень понравилась наша местечковая атмосфера. Вдоль всех улиц стояли дети и взрослые, люди вышли из своих домов и подбадривали пробегающих. Многие вытащили садовые шланги и поливали ими всех желающих, чтобы спасти бегунов от жары. Дети подносили стаканчики с водой. В нескольких местах по маршруту стояли диджеи с колонками. В целом, было здорово!
 
@@ -190,41 +190,41 @@ aliases:
 
 Погода была исключительно солнечная и довольно жаркая.
 
-{{< imgfig "https://1.bp.blogspot.com/-sgEn9xnx5fs/Vat7giEWeXI/AAAAAAAAjvc/noz0jMaQ6AY/s1600/dsc09580.picasaweb.jpg" "Мост через Эйм." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/q4fnqg836u8f3649.jpg" "Мост через Эйм." >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-XbX4cNOSUy8/Vat7hLeonjI/AAAAAAAAjvg/ER1HPAI-Hmw/s1600/dsc09581.picasaweb.jpg" "Река Эйм." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/brapa86z5x5u2586.jpg" "Река Эйм." >}}
 
 Мероприятие это заметно более популярное, нежели предыдущие два.
 
-{{< imgfig "https://1.bp.blogspot.com/-eXXPiQy6l1Q/Vat7hqCLE1I/AAAAAAAAjv0/anUTt021ZVw/s1600/dsc09586.picasaweb.jpg" "Marathon Amersfoort." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/mkuiu0d9whkm2371.jpg" "Marathon Amersfoort." >}}
 
 В толпе на старте можно было потеряться — всего было **1219** полумарафонцев и **121** марафонец.
 
-{{< imgfig "https://2.bp.blogspot.com/-92ktzHSFfxs/Vat7iw-r96I/AAAAAAAAkBM/tvfEdWS2Z6M/s1600/dsc09594.picasaweb.jpg" "Старт марафона и полумарафона." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1wl1nbihmi1p2902.jpg" "Старт марафона и полумарафона." >}}
 
 Но не все любят напрягаться в столь жаркий день.
 
-{{< imgfig "https://3.bp.blogspot.com/-hn_JO1YPv64/Vat7iaxbnII/AAAAAAAAjv8/kwnj0Z4gXRQ/s1600/dsc09589.picasaweb.jpg" "Какой ещё марафон-шмарафон…." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/v2uax16pwgjr0405.jpg" "Какой ещё марафон-шмарафон…." >}}
 
 Финиш:
 
-{{< imgfig "https://4.bp.blogspot.com/-Fw3BxLRP6pk/Vat7jelTvzI/AAAAAAAAjwY/rO2qtGPZa9o/s1600/dsc09596.picasaweb.jpg" "Финиш марафона и полумарафона." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ufxvfx9jlt3t2585.jpg" "Финиш марафона и полумарафона." >}}
 
 Поражает количество пожилых людей, способных пробежать 21 километр по такой жаре.
 
-{{< imgfig "https://3.bp.blogspot.com/-Pxy0l-JiXew/Vat7jw3CRzI/AAAAAAAAkBM/NE-8ybkHr80/s1600/dsc09599.picasaweb.jpg" "Marathon Amersfoort." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/nrz3jl6x1sh00243.jpg" "Marathon Amersfoort." >}}
 
 Перед финишем установлен большой экран, на который можно было отправить своё фото через WhatsApp по указанному номеру.
 
-{{< imgfig "https://1.bp.blogspot.com/-tvmaVBplDuE/Vat7kMDTPiI/AAAAAAAAjws/MJO-PQGb-ls/s1600/dsc09601.picasaweb.jpg" "Экран, обновляемый через WhatsApp." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/jd6prtvcxh6l0092.jpg" "Экран, обновляемый через WhatsApp." >}}
 
 На него же периодически транслируют видео с камер, установленных вдоль маршрута:
 
-{{< imgfig "https://1.bp.blogspot.com/-LaOlk-oN7GY/Vat7kIb4HBI/AAAAAAAAjwg/xFYp-Uue4rI/s1600/dsc09603.picasaweb.jpg" "Видео забега." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/gkbx6qsz4cew1053.jpg" "Видео забега." >}}
 
 Уже добежавшие поддерживают финиширующих:
 
-{{< imgfig "https://3.bp.blogspot.com/-dzlZlenzOtk/Vat7krpyjNI/AAAAAAAAkBM/IYX07w_u2p4/s1600/dsc09604.picasaweb.jpg" "Marathon Amersfoort: финиш." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xz345r88gyxe3556.jpg" "Marathon Amersfoort: финиш." >}}
 
 Я записал на марафоне {{< a "/videoevents/vevt0033" "несколько видео" >}}.
 

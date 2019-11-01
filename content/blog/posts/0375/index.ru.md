@@ -7,7 +7,7 @@ tags:
     - ипотека
     - NHG
     - рекорд
-image: "https://1.bp.blogspot.com/-9CP6kSM8ZZQ/XXjnL3UYj3I/AAAAAAAAxSU/Fx1RkXEOj4oNh2985qMVLPXqhlBhiNjkQCKgBGAsYHg/s1600/hypotheek-rentes-vanaf-1965.png"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/ffhfs9tshht50265.png"
 ---
 
 Ипотечные ставки в Голландии продолжают снижаться уже около семи лет.
@@ -18,7 +18,7 @@ image: "https://1.bp.blogspot.com/-9CP6kSM8ZZQ/XXjnL3UYj3I/AAAAAAAAxSU/Fx1RkXEOj
 
 Вот так менялась процентная ставка в последние полвека — пример с фиксацией на пять лет:
 
-{{< imgfig "https://1.bp.blogspot.com/-9CP6kSM8ZZQ/XXjnL3UYj3I/AAAAAAAAxSU/Fx1RkXEOj4oNh2985qMVLPXqhlBhiNjkQCKgBGAsYHg/s1600/hypotheek-rentes-vanaf-1965.png" "График изменения ставок по ипотеке с 1965 года. Источник: www.hypotheekshop.nl, данные на 17.09.2018." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ffhfs9tshht50265.png" "График изменения ставок по ипотеке с 1965 года. Источник: www.hypotheekshop.nl, данные на 17.09.2018." >}}
 
 Помимо рекордно низких значений, примечательной является также частота, с которой ипотечные провайдеры снижают свои тарифы: до четырёх раз за последний месяц. 
 
@@ -28,7 +28,7 @@ image: "https://1.bp.blogspot.com/-9CP6kSM8ZZQ/XXjnL3UYj3I/AAAAAAAAxSU/Fx1RkXEOj
 
 Вот пример расчёта для суммы в **€ 300 000** (что в настоящее время близко к средней цене дома), с национальной ипотечной гарантией ({{< fl "NHG" >}}) — ставки начинаются с **0,8%** при фиксации на **10** лет: 
 
-{{< imgfig "https://1.bp.blogspot.com/-MrDYtBKDBQQ/XXjnL0OWf2I/AAAAAAAAxSU/1HliVburX3wyjCr5FA-zWh4S2A7FlK-lQCKgBGAsYHg/s1600/hypotheek-rentes-3ton-met-nhg.png" "Пример текущих ставок по ипотеке (сумма € 300 000 + NHG), данные на 11.09.2019." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ibvpuj7gw1u52329.png" "Пример текущих ставок по ипотеке (сумма € 300 000 + NHG), данные на 11.09.2019." >}}
 
 Без ипотечной гарантии минимальный предлагаемый процент составляет **1,2**.
 

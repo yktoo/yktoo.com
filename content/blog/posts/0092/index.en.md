@@ -3,7 +3,7 @@ type: post
 date: "2011-04-25T00:00:00Z"
 title: "Summer, I suppose"
 tags: ["holidays", "Netherlands", "weather"]
-image: "https://1.bp.blogspot.com/-SE6Huj2zjjQ/TbV1cwc2ckI/AAAAAAAAItc/B0Hi_UKG_hY/s1600/DSC01261.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/tt6cu4mjxgzg0765.jpg"
 places:
     - place0092
 aliases:
@@ -14,4 +14,4 @@ Yesterday's Easter has [set up](http://www.nu.nl/binnenland/2499941/pasen-2011-v
 
 I got sunburnt in a couple of hours.
 
-{{< imgfig "https://1.bp.blogspot.com/-SE6Huj2zjjQ/TbV1cwc2ckI/AAAAAAAAItc/B0Hi_UKG_hY/s1600/DSC01261.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/tt6cu4mjxgzg0765.jpg" >}}

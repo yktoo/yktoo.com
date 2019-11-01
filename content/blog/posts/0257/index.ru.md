@@ -3,7 +3,7 @@ type: post
 date: "2015-08-04T00:00:00Z"
 title: "Почта России, или Добро пожаловать в ад"
 tags: ["маразм", "неприятное", "Почта России", "размышления", "Россия", "Тюмень"]
-image: "https://3.bp.blogspot.com/-W6K6Y48Ng78/WK3Ftl6QKHI/AAAAAAAApTw/h87hO4UcsCs9md19g80Di-Ib3RM51bdpgCPcB/s1600/russian-post.png"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/new4gypsrl3s0309.png"
 aliases:
     - /ru/blog/post/257
 ---
@@ -12,7 +12,7 @@ aliases:
 
 <!--more-->
 
-{{< imgfig "https://3.bp.blogspot.com/-W6K6Y48Ng78/WK3Ftl6QKHI/AAAAAAAApTw/h87hO4UcsCs9md19g80Di-Ib3RM51bdpgCPcB/s1600/russian-post.png" "Настоящий логотип «Почты России». Источник: novayagazeta.ru." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/new4gypsrl3s0309.png" "Настоящий логотип «Почты России». Источник: novayagazeta.ru." >}}
 
 Этим летом я, как обычно, приехал навестить родину, а точнее, родных и друзей в Тюмени. Разница, однако, в этот раз состояла в том, что я впервые приехал как {{< a "0219" "гражданин Нидерландов" >}}, по российской визе (получение которой тоже {{< a "0258" "та ещё песня" >}}, но речь не об этом).
 

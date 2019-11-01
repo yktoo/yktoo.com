@@ -3,7 +3,7 @@ type: post
 date: "2008-07-01T00:00:00Z"
 title: "Walk the World"
 tags: ["благотворительность", "Нидерланды", "Роттердам"]
-image: "https://1.bp.blogspot.com/-zIUoae1XgnQ/XW6EK45S8OI/AAAAAAAAxHU/NwbYasnNgxc27NrELhEy67k1TlH-ti6AQCKgBGAs/s1600/Photo_005.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/94ypnflbkn0u1187.jpg"
 places:
     - place0160
 aliases:
@@ -14,37 +14,37 @@ aliases:
 
 Судя по местным новостям, здешних жителей интересуют только две вещи: голод в Африке и выборы президента США. И поскольку последним помогать явно не требуется, население и власти всерьёз озаботились оказанием помощи африканским странам. С этой целью 1&nbsp;июня в славном городе Роттердаме был организован марш всех желающих под названием «Walk the World», и мы не смогли остаться в стороне от этого знаменательного события.
 
-{{< imgfig "https://1.bp.blogspot.com/-zIUoae1XgnQ/XW6EK45S8OI/AAAAAAAAxHU/NwbYasnNgxc27NrELhEy67k1TlH-ti6AQCKgBGAs/s1600/Photo_005.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/94ypnflbkn0u1187.jpg" >}}
 
 <!--more-->
 
 Все участвующие в акции приобретали специальные наборы из футболки и бейсболки; вырученные от этого деньги шли непосредственно на помощь голодающим детям.
 
-{{< imgfig "https://1.bp.blogspot.com/-W8DEHd1Zx5U/XW6EK8nCTbI/AAAAAAAAxHU/1lGKeFNm51Yo03b4pJlAakjS1GZN5mHxwCKgBGAs/s1600/Photo_002.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/4shmerlyskk02860.jpg" >}}
 
 Голландцы — народ отзывчивый, и к тому же любят потусоваться, поэтому можно было наблюдать редкое сине-бело-оранжевое скопление огромного количества маек и бейсболок.
 
-{{< imgfig "https://1.bp.blogspot.com/-Sh7vqGR4iAU/XW6EK_1vAlI/AAAAAAAAxHU/-JURH5GFbVEK-d5GxGDlZpVvED75wkL8gCKgBGAs/s1600/Photo_006.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/sin5ksxun6fr1685.jpg" >}}
 
 Сам марш представлял собой пешую прогулку в вышеуказанном прикиде по заранее разработанному маршруту по центру Роттердама длиной около 5&nbsp;км, и это дало хорошую возможность рассмотреть город.
 
-{{< imgfig "https://1.bp.blogspot.com/-RCtpGWaLOjI/XW6EKwsObKI/AAAAAAAAxHU/PtnwUJfjns0dseCN1BvVwmmLUQDzW5ZNgCKgBGAs/s1600/Photo_008.picasaweb.jpg" "Дизайнеры этого здания явно не рассчитывали, что на нём будет рисоваться шагающий человечек." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/6npxtieion1l1233.jpg" "Дизайнеры этого здания явно не рассчитывали, что на нём будет рисоваться шагающий человечек." >}}
 
 Роттердам — второй по величине город Нидерландов после Амстердама; кроме того, это крупнейший порт Европы (а с 1962 по 2004 годы он был крупнейшим в мире).
 
-{{< imgfig "https://1.bp.blogspot.com/-nUWAbE5eNjI/XW6EKz8k5LI/AAAAAAAAxHU/EEH7aYO9TKoXzXuplxdjzL3rcxoj7JnlgCKgBGAs/s1600/Photo_009.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/r1ya7tqxnlko1470.jpg" >}}
 
 Практически весь центр города был уничтожен в результате немецких бомбардировок в 1940 году, и по окончании Второй Мировой он был по сути отстроен заново, поэтому Роттердам является одним из немногих голландских городов с современной архитектурой: небоскрёбами, широкими улицами, сравнительно прямыми дорогами.
 
 В центре от набережной отправляются на прогулки по воде теплоходы необычной формы, стоимость экскурсии составляет смешные **€ 7**. Главное — не быть подверженным «морской болезни», иначе прогулка доставит сомнительное удовольствие.
 
-{{< imgfig "https://1.bp.blogspot.com/-uonsASYzc9Y/XW6EK3F2PeI/AAAAAAAAxHU/mrKvAImymLUgKZUHhGuWQyCGhYge5_raACKgBGAs/s1600/Photo_001.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xsimryicwpgq1739.jpg" >}}
 
 А вообще, город несомненно заслуживает более детального изучения, и я собираюсь там ещё побывать.
 
 Так вот, возвращаясь к пешей прогулке. На каждом повороте маршрута стояли специально обученные люди и направляли поток сердобольных голландцев в правильное русло, попутно с видимым удовольствием перекрывая движение транспорта (удовольствие, я думаю, от появления занятия после долгого однообразного стояния на посту). Мне, кстати, показалось, что поток пешеходов со временем несколько поредел, а после того, как маршрут миновал торговый центр, это стало заметно невооружённым глазом. Ну да ладно, ведь футболки уже куплены, так что миссия, можно сказать, выполнена.
 
-{{< imgfig "https://1.bp.blogspot.com/-UQXZdznpNtI/XW6EK5EzI1I/AAAAAAAAxHU/16gCcjkMLtoVBixJLSgXjhFkCvkYzJt-wCKgBGAs/s1600/Photo_004.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/r779c17egltd0533.jpg" >}}
 
 Помимо этого, я совместил полезное лично с общественно полезным, купив ещё и ветровку с логотипами акции — в здешнем климате ветровка никогда не помешает.
 

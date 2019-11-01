@@ -4,7 +4,7 @@ date: "2012-10-04T00:00:00Z"
 title: "Часть 2. Дом Мила"
 series: "Барселона"
 tags: ["Барселона", "Гауди", "Испания", "путешествия"]
-image: "https://3.bp.blogspot.com/-4gRCiZFGoH8/UASAg9yC-LI/AAAAAAAATsU/1A7idbsPFY0/s1600/dsc02915.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/z4dyuejzfnhs1727.jpg"
 places:
     - place0034
 aliases:
@@ -15,125 +15,125 @@ aliases:
 
 Дом Милá ({{< fl "Casa Milà" >}}) был построен им в 1910 году по заказу семьи Мила.
 
-{{< imgfig "https://3.bp.blogspot.com/-4gRCiZFGoH8/UASAg9yC-LI/AAAAAAAATsU/1A7idbsPFY0/s1600/dsc02915.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/z4dyuejzfnhs1727.jpg" >}}
 
 <!--more-->
 
 За громоздкий и тяжеловесный фасад барселонцы немедленно окрестили дом «каменоломней» ({{< fl "La Pedrera" >}}). Но мы-то понимаем, что они просто завидовали.
 
-{{< imgfig "https://1.bp.blogspot.com/-MsIBWHITPXY/UASAj_2JUbI/AAAAAAAATsk/H-1t3alAQF4/s1600/dsc02921.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/eairnly0xqb31497.jpg" >}}
 
 Балконные решётки кованого железа обязаны своим существованием полёту фантазии современника архитектора Жузепа-Марии Жужоля:
 
-{{< imgfig "https://3.bp.blogspot.com/-0X9z_ewuoUc/UASAlIYPfAI/AAAAAAAATss/HX0lkYk_BTU/s1600/dsc02922.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/a15kra6gtl122324.jpg" >}}
 
 У здания три внутренних дворика (один круглый и два эллиптических).
 
-{{< imgfig "https://3.bp.blogspot.com/-Mez0dxVKkRg/UASAoxFztzI/AAAAAAAATtE/FWWfzB-VeZ4/s1600/dsc02926.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xlt4ixowgqe81179.jpg" >}}
 
 Благодаря им обеспечивается приток свежего воздуха, света и посетителей во внутренние помещения здания.
 
-{{< imgfig "https://1.bp.blogspot.com/-WH0RMCMTwRY/UASAmfGEbKI/AAAAAAAATs0/nrx-DI3173A/s1600/dsc02924.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/uola32pkp6r62845.jpg" >}}
 
 Модель дома в масштабе 1:100 установлена в нём же самом. Рекурсия.
 
-{{< imgfig "https://1.bp.blogspot.com/-hI8mm-1eSY8/UASAnudzetI/AAAAAAAATs4/Lw9lBPsZbFc/s1600/dsc02925.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ne6jm3jy7egh1620.jpg" >}}
 
 Если подняться на крышу, то помимо орды туристов можно увидеть уйму странного вида башенок и прочих сооружений.
 
-{{< imgfig "https://2.bp.blogspot.com/-M8p_T1dvUHk/UASAp-IOPRI/AAAAAAAATtM/DAUaiTndKrI/s1600/dsc02928.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/8933w83ks9dt2945.jpg" >}}
 
 Похоже, здесь Гауди дал полную волю своей фантазии.
 
-{{< imgfig "https://3.bp.blogspot.com/-mA6KwMhSk58/UASArCEXcqI/AAAAAAAATtU/l2ZJig9UByg/s1600/dsc02930.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/4q0dm84z59wv3467.jpg" >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-l5_VMQSyT2M/UASAuHbj6aI/AAAAAAAATtk/BSU0Jluhwh4/s1600/dsc02937.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0aj6uoxc9dke2630.jpg" >}}
 
 Некоторые башенки с определённых точек зрения сильно напоминают человеческие фигуры.
 
-{{< imgfig "https://1.bp.blogspot.com/-IW7VIJnb96Q/UASAyq9DF6I/AAAAAAAATt8/1dA_WJoFVmY/s1600/dsc02948.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/bb52jt5uu53y0880.jpg" >}}
 
 Инновации начала двадцатого века: бутылочное стекло в качестве отделочного материала:
 
-{{< imgfig "https://2.bp.blogspot.com/-O1Kje6zJTfo/UASA0KqPXEI/AAAAAAAATuE/suHttSAERM4/s1600/dsc02949.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/haczahl8cjjb1126.jpg" >}}
 
 Что означает вот это, я затрудняюсь сказать:
 
-{{< imgfig "https://4.bp.blogspot.com/-fHrupQXmFu0/UASA8hsDNiI/AAAAAAAATu0/vrNFA3OWCAw/s1600/dsc02963.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/k5i3d2wcx5ny1391.jpg" >}}
 
 С крыши открывается неплохой обзор на город:
 
-{{< imgfig "https://1.bp.blogspot.com/-OZQ_bDzfcso/UASA90PKPQI/AAAAAAAATu8/lmowUUwbn5I/s1600/dsc02966.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/c4wxlu6shysq1670.jpg" >}}
 
 На горизонте можно заметить «банан» 38-этажной башни {{< fl "Torre Agbar" >}} — мы до него ещё доберёмся.
 
-{{< imgfig "https://4.bp.blogspot.com/-JLX7Uxts1Ow/UASA_MLTVKI/AAAAAAAATvE/uhsDEqiu16Q/s1600/dsc02967.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/rjauavcidzlp0651.jpg" >}}
 
 С крыши можно спуститься на чердак здания, где расположена подробная экспозиция, объясняющая, как Гауди проектировал свои шедевры и где он черпал вдохновение (нет, наркотических средств тут нет).
 
 Вот более детальная модель Дома Мила:
 
-{{< imgfig "https://1.bp.blogspot.com/-BKEuIdjX5NY/UASBASiWumI/AAAAAAAATvM/xCsYFXdIDEs/s1600/dsc02968.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cv0dxvkboip92443.jpg" >}}
 
-{{< imgfig "https://4.bp.blogspot.com/-W_DNV6LJ85Q/UASBBitDCHI/AAAAAAAATvU/bHJgdgniv4c/s1600/dsc02969.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/p7p8a15r744i2770.jpg" >}}
 
 Дизайн можно тут же сравнить с оригиналом:
 
-{{< imgfig "https://1.bp.blogspot.com/-ggGx-6osjGo/UASBCsZHdbI/AAAAAAAATvc/KOsoX-QfoPo/s1600/dsc02971.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/gwkl79gkhas12588.jpg" >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-LTza9WmPkAo/UASBEEXF8YI/AAAAAAAATvk/XP_7-a2kkKQ/s1600/dsc02973.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/8wqev355cz153523.jpg" >}}
 
-{{< imgfig "https://3.bp.blogspot.com/-KwfZK_-OZyk/UASBFfIAlOI/AAAAAAAATvs/VynpcYkjJts/s1600/dsc02975.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hjt9oqfd1xcm0580.jpg" >}}
 
 Здесь также расположено множество экранов с проекторами.
 
-{{< imgfig "https://4.bp.blogspot.com/-ZEa24J-kVBw/UASBJLNUsPI/AAAAAAAATwE/YOH-NsB8_h4/s1600/dsc02985.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ysrohi8jo1dp3453.jpg" >}}
 
 Упомянуты и другие творения великого архитектора. Вот частичный макет всемирно известной «Саграды Фамилии»:
 
-{{< imgfig "https://4.bp.blogspot.com/-Z1faOeMoUuE/UASBKKPcbsI/AAAAAAAATwM/mYtpMp5MoUI/s1600/dsc02986.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/4j8d3yuoil5p1663.jpg" >}}
 
-{{< imgfig "https://3.bp.blogspot.com/-XeEIutHtCpw/UASBLJmwGWI/AAAAAAAATwU/yKSGjekwLiQ/s1600/dsc02987.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/kvlj5xqmbxq20412.jpg" >}}
 
 А вот его источники идей — кора пальмового дерева, ракушка, окаменелая устрица и т. д.:
 
-{{< imgfig "https://3.bp.blogspot.com/-PhzOp2hLakw/UASBP7yAYGI/AAAAAAAATw0/147Zmumxxm0/s1600/dsc02992.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9fj8ovckx9vg0635.jpg" >}}
 
 Или, например, скелет питона:
 
-{{< imgfig "https://1.bp.blogspot.com/-f1bNIqJz66E/UASBRJkQLTI/AAAAAAAATw8/umRgCoccb7U/s1600/dsc02993.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/3kwmjx41vygy1449.jpg" >}}
 
 Сразу многое объясняет, не так ли?
 
-{{< imgfig "https://4.bp.blogspot.com/-e8096f6Of7o/UASBNfv0x-I/AAAAAAAATwk/qvPrx_7p0GY/s1600/dsc02989.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/priik51fzzn82095.jpg" >}}
 
 На этом экране демонстрируются дверные ручки его же дизайна. Ручка, про которую идёт рассказ на большом экране, подсвечивается.
 
-{{< imgfig "https://3.bp.blogspot.com/-mt2JtNvdLns/UASBT5b6JxI/AAAAAAAATxM/uiT_eM1tSeA/s1600/dsc02995.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/29hu1duj1v7e0779.jpg" >}}
 
 Не чурался Гауди и мебели.
 
-{{< imgfig "https://4.bp.blogspot.com/-9nAufSeZ1EI/UASBSl0Gm6I/AAAAAAAATxE/nam482rYrPA/s1600/dsc02994.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/f88erm3tnnhd0331.jpg" >}}
 
 На этом стуле можно было посидеть — неожиданно он оказался довольно удобным.
 
-{{< imgfig "https://1.bp.blogspot.com/-82cQ-Qhsu2U/UASBXvruwlI/AAAAAAAATxk/SP6rRzPV9pQ/s1600/dsc03001.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vdghrcuf9q9o1984.jpg" >}}
 
 На седьмом этаже здания расположена сувенирная лавка, а также пример оригинальной обстановки того времени.
 
-{{< imgfig "https://3.bp.blogspot.com/-Y5hRh0y9v6E/UASBZ-XhCdI/AAAAAAAATx0/MpoFejm6l-k/s1600/dsc03007.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/qevx9zj86f141896.jpg" >}}
 
-{{< imgfig "https://3.bp.blogspot.com/-zeW_vYU2ahQ/UASBYhMEeII/AAAAAAAATxs/hF0NfLYMPZo/s1600/dsc03006.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/gys15lzb2guh1169.jpg" >}}
 
 Ну, тут всё банально и без сюрпризов.
 
-{{< imgfig "https://3.bp.blogspot.com/-fpSrztI-bb0/UASBc13vXXI/AAAAAAAATyE/D4Re54cvktc/s1600/dsc03009.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/f7bozxpc9vrc3552.jpg" >}}
 
 Через дорогу от Дома Мила расположен другой шедевр архитектора, Дом Бальо ({{< fl "Casa Batlló" >}}):
 
-{{< imgfig "https://4.bp.blogspot.com/-cugN5AfASao/UASBf21n5GI/AAAAAAAATyU/wio-aBnECuw/s1600/dsc03011.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/08he0wpxs30g3180.jpg" >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-N4OF21fVwFw/UASBhLF1ymI/AAAAAAAATyc/jUHBxcjgeto/s1600/dsc03012.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ealues3tk84e1911.jpg" >}}
 
 Внутрь мы не пошли, поскольку ~~денег жалко~~ слишком много архитектуры Гауди вредно для здоровья. Как-нибудь в другой раз.
 

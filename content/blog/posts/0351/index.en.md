@@ -5,7 +5,7 @@ title: "Update your subscriptions: the site is migrating"
 tags:
     - announcement
     - website
-image: "https://4.bp.blogspot.com/-bDT2EUCLWxY/Th8_MnB40lI/AAAAAAAAJHQ/F14fig3v1NM/s1600/i-like-to-move-it.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/8l0mwo2k5qwz1414.jpg"
 aliases:
     - /en/blog/post/351
 ---
@@ -25,7 +25,7 @@ In this regard its RSS feed links will change:
 
 <!--more-->
 
-{{< imgfig "https://4.bp.blogspot.com/-bDT2EUCLWxY/Th8_MnB40lI/AAAAAAAAJHQ/F14fig3v1NM/s1600/i-like-to-move-it.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/8l0mwo2k5qwz1414.jpg" >}}
 
 An update is needed if you're using an external aggregator service like Feedly.
 

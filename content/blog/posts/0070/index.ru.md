@@ -3,14 +3,14 @@ type: post
 date: "2011-01-28T00:00:00Z"
 title: "На живца"
 tags: ["велики", "Нидерланды", "преступность"]
-image: "https://2.bp.blogspot.com/_PX65_e7vApk/TUM2Hwsn6vI/AAAAAAAAH60/AhIsPcSfOfA/s1600/fietsendiefstal.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/bfejkdhwls992186.jpg"
 aliases:
     - /ru/blog/post/70
 ---
 
 Один из основных видов не особенно буйной нидерландской преступности — угон велосипедов, благо тут {{< a "0008" "есть из чего" >}} выбрать.
 
-{{< imgfig "https://2.bp.blogspot.com/_PX65_e7vApk/TUM2Hwsn6vI/AAAAAAAAH60/AhIsPcSfOfA/s1600/fietsendiefstal.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/bfejkdhwls992186.jpg" >}}
 
 Динамика статистики велоугонов следует общему тренду, стабильно снижаясь в последние годы: так, согласно данным, [публикуемым](http://www.amsterdam.nl/parkeren-verkeer/fiets/fietsdiefstal) на сайте amsterdam.nl, вероятность лишиться оставленного велодруга снизилась с 16% в 2001 году до 8% в 2008 и до 6% в 2010.
 
@@ -20,11 +20,11 @@ aliases:
 
 Во-первых, там просто много и людей, и велосипедов. Во-вторых, там намного больше "посторонних" людей: иностранцев, нелегалов, наркоманов и прочих маргиналов, вследствие этого и общий фон преступности. В-третьих, там и спрос на краденое выше: загнать велик в какой-нибудь деревне вряд ли получится. В-четвёртых, в деревнях здесь, как это ни парадоксально звучит, живут состоятельные люди, или же фермеры-землевладельцы — посторонних тут почти не бывает. В общем, большой город — большой бардак, живущим в Москве это знакомо.
 
-{{< imgfig "https://4.bp.blogspot.com/_PX65_e7vApk/TUM2HN9MJ-I/AAAAAAAAH6w/blfEjb4ww14/s1600/fietsdepot.jpg" "Fietsdepot Amsterdam: учреждение, собирающее бесхозные и сломанные велосипеды." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/nq83ep8pske41388.jpg" "Fietsdepot Amsterdam: учреждение, собирающее бесхозные и сломанные велосипеды." >}}
 
 С этим, конечно же, борятся всеми возможными средствами.
 
-{{< imgfig "https://1.bp.blogspot.com/_PX65_e7vApk/TUM4KdlzdBI/AAAAAAAAH64/4TczcKypCTQ/s1600/fietsgraveren.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/h9evonogyb5d0738.jpg" >}}
 
 На велосипеде можно *бесплатно* [выгравировать](http://www.amsterdam.nl/parkeren-verkeer/fiets/fietsdepot/fiets_graveren/) уникальный номер. Этой процедуре ежегодно подвергается около десяти тысяч амстердамских великов. Потом по этому номеру его можно найти в [базе данных](http://www.afac-amsterdam.nl/bikebase/page.php?id=8&amp;category=item).
 

@@ -5,7 +5,7 @@ dateFrom: 2015-01-29
 dateTo: 2015-02-01
 location: "Ghent, Belgium"
 websiteUrl: "http://www.lichtfestivalgent.be/"
-image: "https://1.bp.blogspot.com/-ODikExRMh0U/VM6b503Z7HI/AAAAAAAAg4Q/hAGHslyFoL0/s1600/dsc07909.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/t4xd5qnmp9n33411.jpg"
 videocategories: other
 posts: "0238"
 ---

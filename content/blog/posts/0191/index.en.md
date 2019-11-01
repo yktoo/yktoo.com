@@ -4,7 +4,7 @@ date: "2013-06-10T00:00:00Z"
 title: "Part 2. Car and oranges"
 series: "Portugal"
 tags: ["Algarve", "car", "Hertz", "oranges", "Portugal", "travel"]
-image: "https://3.bp.blogspot.com/-n6kdcRewI_k/Ua4hnOcA5UI/AAAAAAAAYno/COZDdQStsSU/s1600/dsc08993.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/nlby2sddb4xz2829.jpg"
 aliases:
     - /en/blog/post/191
 ---
@@ -19,7 +19,7 @@ In a quarter of an hour we were approached by a Portugese lady in her fourties, 
 
 This is that Italian masterpiece called Fiat Punto we were surfing Algarve with:
 
-{{< imgfig "https://3.bp.blogspot.com/-n6kdcRewI_k/Ua4hnOcA5UI/AAAAAAAAYno/COZDdQStsSU/s1600/dsc08993.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/nlby2sddb4xz2829.jpg" >}}
 
 So what about this car? It pinched my finger twice by its door handle, and I strongly believe it's not my fault. At least that had never happened to me before.
 
@@ -31,15 +31,15 @@ But Hertz did well, the car was nearly new, 30,000 km on the speedometer and alm
 
 You certainly noticed orange trees behind the car. If not, here they are:
 
-{{< imgfig "https://3.bp.blogspot.com/-RsUI30x7XZY/Ua4hu16kO7I/AAAAAAAAYoI/UZ3-kpSKgdU/s1600/dsc09006.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/q3a1q9ip3w0o2705.jpg" >}}
 
 For the first time in my life I saw them like that ({{< a "0151" "Canarian mandarines" "ru" >}} don't count). The oranges are huge, bigger than my palm:
 
-{{< imgfig "https://1.bp.blogspot.com/-gHpJILlZ3O0/Ua4hq_k5OJI/AAAAAAAAYn4/KWXb0qFTCRo/s1600/dsc08999.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/5cu09dzg7bmb1577.jpg" >}}
 
 Here are little ones, hardly recognisable as oranges:
 
-{{< imgfig "https://3.bp.blogspot.com/-_Y5cJSiBe8E/Ua4hwmDpxFI/AAAAAAAAYoQ/R-1hg9io76g/s1600/dsc09007.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/g2ubvjsvuj1v2529.jpg" >}}
 
 We found those trees somewhere northwards of Albufeira. We didn't risk to try them though.
 

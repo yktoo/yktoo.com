@@ -8,7 +8,7 @@ tags:
     - СМИ
     - Prinsjesdag
     - правительство
-image: "https://1.bp.blogspot.com/-QL1kRtUDzN8/XZ8Q5lUTH8I/AAAAAAAAyi4/FJxvEe4wEQgXDCUFdd5_WjW7vGIW75YMQCKgBGAsYHg/s1600/stef-blok.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/lc9i6ghyk85a3105.jpg"
 imageCredit: "Фото: Ministerie van Buitenlandse Zaken."
 ---
 
@@ -18,7 +18,7 @@ imageCredit: "Фото: Ministerie van Buitenlandse Zaken."
 
 <!--more-->
 
-{{< imgfig "https://1.bp.blogspot.com/-QL1kRtUDzN8/XZ8Q5lUTH8I/AAAAAAAAyi4/FJxvEe4wEQgXDCUFdd5_WjW7vGIW75YMQCKgBGAsYHg/s1600/stef-blok.jpg" "Министр иностранных дел Стеф Блок. Фото: Ministerie van Buitenlandse Zaken." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/lc9i6ghyk85a3105.jpg" "Министр иностранных дел Стеф Блок. Фото: Ministerie van Buitenlandse Zaken." >}}
 
 Ситуация, когда в {{< fl "Prinsjesdag" >}} 17 сентября какой-то из министров будет отсутствовать, случится впервые ~~а вот при Беатрикс такого не было~~.
 

@@ -3,7 +3,7 @@ type: post
 date: "2008-12-12T00:00:00Z"
 title: "Водные развлечения зимой"
 tags: ["Амерсфорт", "бассейн", "вода", "забавное", "зима", "Лёусден", "Нидерланды"]
-image: "https://2.bp.blogspot.com/-csFmbhXAb4A/T4xAMCW0ApI/AAAAAAAAO8Q/85JbyQuSW9U/s1600/imgp1641.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/bmmlmeiw3v4y3103.jpg"
 places:
     - place0152
 aliases:
@@ -20,19 +20,19 @@ aliases:
 
 Мы с нашей дочкой (16 месяцев) облюбовали бассейн [Octopus](http://www.zwembadoctopus.nl/) в соседнем Лёусдене, до которого на машине минут 10 езды. Там много бассейнов с тёплой водой (30—34 °C) и множество развлечений для детей. На фото, например, самый мелкий из бассейнов:
 
-{{< imgfig "https://2.bp.blogspot.com/-csFmbhXAb4A/T4xAMCW0ApI/AAAAAAAAO8Q/85JbyQuSW9U/s1600/imgp1641.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/bmmlmeiw3v4y3103.jpg" >}}
 
 Обратите внимание на надпись: «Глубина 10&nbsp;см. Не нырять»:
 
-{{< imgfig "https://3.bp.blogspot.com/-WQ59esYqFXc/T4xAUNuzp9I/AAAAAAAAO9A/HXTBin68gas/s1600/imgp1630.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/z2dtd7b4mako2479.jpg" >}}
 
 Ещё там есть замечательная горка-труба длиной 60 метров и со светофором на входе («красный» — жди, «зелёный» — можешь прыгать в неё сломя голову). Небольшая часть бассейна тоже выходит на открытый воздух, и могу сказать, что это очень здорово придумано.
 
-{{< imgfig "https://3.bp.blogspot.com/-zD_NBSOu6Ns/T4xAJ3r_mUI/AAAAAAAAO8E/haBm_ML0Dv8/s1600/imgp1664.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vnebot2jbdgt0199.jpg" >}}
 
 Кроме того, в наличии имеются всяческие разные бассейны с пузырьками и без, пузырьки, которые иногда идут из пола в основном бассейне, водопады разной конфигурации, бассейны с течением, водоворот-воронка, которая хочет тебя затянуть и не отпускает. Присутствует 25-метровый бассейн с доской для прыжков; в нём иногда натягивают специальную дорожку из пластиковых щитов, плавающих на поверхности воды, по которой дети пытаются пройти, не потеряв равновесия.
 
-{{< imgfig "https://4.bp.blogspot.com/--uzvdSnp_bg/T4xAQOA_SpI/AAAAAAAAO8s/m51vdy01tXA/s1600/imgp1636.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/map5bklbdf8w2618.jpg" >}}
 
 Ещё меня повеселил тамошний душ: помимо «взрослых» душей, есть ещё и детские, где вода льётся с высоты чуть больше метра, а кнопка включения расположена на уровне колена. Есть даже детский туалет (я там не был, как выглядит, не знаю). Для свободного пользования имеются детские кресла, пеленальные столы, манежи, некоторое количество водных игрушек.
 

@@ -9,7 +9,7 @@ tags:
     - funny
     - railway
     - sustainability
-image: "https://1.bp.blogspot.com/-ys-M4b2t1Ic/XXuq_LMszgI/AAAAAAAAxbo/c-_HbWUx1Ps0JjXGyNlV9guXA6tPuAuZgCKgBGAsYHg/s1600/schommel-oplader.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/0qzxgm0f24tq1776.jpg"
 imageCredit: "Photo by Koen Laureij."
 places:
     - place0016
@@ -25,7 +25,7 @@ This new attraction was presented during the "Sustainability Week" ({{< fl "Duur
 
 The three-swing installation was initially mounted on the ground floor of the station. It has been later moved to the first floor, where you can also find it today.
 
-{{< imgfig "https://1.bp.blogspot.com/-DbdepbKQSQQ/XXunCSjmGDI/AAAAAAAAxbA/5KfqVzdMrgg9h8qugL_KLfpTCcSNNdzfACKgBGAsYHg/s1600/20190912_180304.w.jpg" "Three-way swing charger." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/z3ytih4chx2l0619.jpg" "Three-way swing charger." >}}
 
 ## How does it work?
 
@@ -33,25 +33,25 @@ Technically, the device is pretty straightforward. Anyone can inspect its intern
 
 The mechanical energy of swinging is spinning the generator's shaft:
 
-{{< imgfig "https://1.bp.blogspot.com/-JtP9Bw_tyuA/XXunCX3vTvI/AAAAAAAAxbA/5BhYV27P_G8odufLzf0ypc4ZgL_8xGO8QCKgBGAsYHg/s1600/20190912_180323.w.jpg" "Chain-driven electric generator." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ul4rhhvfwxlr2706.jpg" "Chain-driven electric generator." >}}
 
 The generator is charging a bulky **1 {{< abbr "F" "farad" >}}** capacitor, which looks very much like those used in the power chain of car subwoofers.
 
-{{< imgfig "https://1.bp.blogspot.com/-_0955gy_faY/XXunCd8yc_I/AAAAAAAAxbA/lu4gIKkuT64ATDOgvJtQjwoCz1n7rCZqQCKgBGAsYHg/s1600/20190912_180356.w.jpg" "The charger's capacitor (1 F)." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hkau690fz4ab1356.jpg" "The charger's capacitor (1 F)." >}}
 
 Further down the road you'll apparently find a **5-volt** power regulator, whose output is connected to {{< fl "USB Type C" >}} and {{< fl "Lightning" >}} plugs:
 
-{{< imgfig "https://1.bp.blogspot.com/-nifOGEZC-Ck/XXunCdgNciI/AAAAAAAAxbA/-M41zKK4Me0J0MrV03GfPBWeZjJ8w7X7ACKgBGAsYHg/s1600/20190912_180431.w.jpg" "Charger cables." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/r21am5e4w9hm2912.jpg" "Charger cables." >}}
 
 As soon as the user starts swinging, the phone charger box gets lit with green light: 
 
-{{< imgfig "https://1.bp.blogspot.com/-V3us-oLHkQ0/XXunCaie90I/AAAAAAAAxbA/YK6C1uTGc18UXTVluFCm8shmCRLUmouYACKgBGAsYHg/s1600/20190912_180531.w.jpg" "Charger box lighting." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/y37swklnrmag3178.jpg" "Charger box lighting." >}}
 
 ## Nice idea, but…
 
 The point is the charging is excruciatingly slow. After five minutes of eager swinging we didn't even manage to get the phone juiced up a single percent. Perhaps we needed to swing even more eagerly but that would turn it into a slightly different attraction.
 
-{{< imgfig "https://1.bp.blogspot.com/-RMmOMAcaex4/XXunCZFIRRI/AAAAAAAAxbA/6PX2Nv2pbnMt-palQgoRnT03PG1HOJ7EQCKgBGAsYHg/s1600/20190912_180539.w.jpg" "The swing charger in action." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fonst1pzjg4m2546.jpg" "The swing charger in action." >}}
 
 Apart from its low energy output, I'm a bit confused by the thought you'll never find out what's on the other side of the charging cable. Can it be some obscure device that installs a backdoor on your mobile? Or, say, a {{< a "https://habr.com/ru/post/310442/" "USB Killer" >}}? The latter is really a piece of cake in such a setup.
 

@@ -12,7 +12,7 @@ tags:
     - business
     - VAT
     - GDPR
-image: "https://1.bp.blogspot.com/-g4m_ZWdPzn4/XW4hr5Hrv_I/AAAAAAAAxCg/VHV1GKNxcq8yCJnCGZNKKH5SJrLdwyHvQCKgBGAs/s1600/bsn-paspoort-voorkant.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/tqs476ottiit1062.jpg"
 series: "My entrepreneurship"
 ---
 
@@ -38,7 +38,7 @@ Which makes it look like `NL001234567B01`.
 
 The thing is the {{< wiki "Burgerservicenummer" "nl" "BSN" >}} number uniquely identifies every person ever entered in the Dutch national personal data register {{< wiki "Basisregistratie_Personen" "nl" "BRP" >}}, which makes it one of the most sensitive pieces of personal data the {{< wiki "GDPR" >}} is so eager to protect. You can find it, for example, in passports and driving licenses:
 
-{{< imgfig "https://1.bp.blogspot.com/-g4m_ZWdPzn4/XW4hr5Hrv_I/AAAAAAAAxCg/VHV1GKNxcq8yCJnCGZNKKH5SJrLdwyHvQCKgBGAs/s1600/bsn-paspoort-voorkant.jpg" "A specimen Dutch passport with BSN circled. Picture by rijksoverheid.nl." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/tqs476ottiit1062.jpg" "A specimen Dutch passport with BSN circled. Picture by rijksoverheid.nl." >}}
 
 For example, not so long ago we've been implementing a unified authentication platform at one of Dutch ministries for *DigiD*, an online identifier used for numerous government and commercial services. Back then we had to build a special screening unit that hid {{< fl "BSN" >}}s in the page's address, even though it was only visible to the user himself.
 

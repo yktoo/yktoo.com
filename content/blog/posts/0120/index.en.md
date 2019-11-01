@@ -3,7 +3,7 @@ type: post
 date: "2011-10-09T00:00:00Z"
 title: "iMac: Mac OS X Lion + Ubuntu"
 tags: ["iMac", "Linux", "Mac OS X", "Ubuntu"]
-image: "https://4.bp.blogspot.com/-rWdtd4OcDSA/TpFwBuwLH9I/AAAAAAAAJ7U/gVWYFQ1qvEQ/s1600/MacOSX-AppStore.picasaweb.png"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/swsq5tspffu93558.png"
 aliases:
     - /en/blog/post/120
 ---
@@ -16,7 +16,7 @@ My main system on this machine has always been Ubuntu.
 
 In theory, upgrading should not be a big pain. All you need is to buy Mac OS X Lion in Apple's AppStore:
 
-{{< imgfig "https://4.bp.blogspot.com/-rWdtd4OcDSA/TpFwBuwLH9I/AAAAAAAAJ7U/gVWYFQ1qvEQ/s1600/MacOSX-AppStore.picasaweb.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/swsq5tspffu93558.png" >}}
 
 <!--more-->
 
@@ -28,13 +28,13 @@ If you have an Apple ID account with a credit card linked to it, buying Lion is 
 
 Downloading three and a half gigabytes even on my {{< a "0100" "not really slow" "ru" >}} connection took much longer than I would expect: after a few hours the download progress gauge was still showing about one third of the bar. Apple servers seem to have issues with maintaining connections. Thus a practical advice: start and watch Network Utility, as soon as the *Received Packets* counter stopped spinning, right click the downloading Lion icon, select *Pause download*, and then immediately *Resume download*—data starts streaming through the wires again—until the next choke:
 
-{{< imgfig "https://1.bp.blogspot.com/--3Epw__Km7s/TpC_hgUYFII/AAAAAAAAJ6Q/YGEfVBaMcUs/s1600/MacOSX-NetworkUtility.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cpc533l4dlv22763.png" >}}
 
 Exercising the pause option you can download Lion in a quarter on an hour.
 
 But the main trouble was still ahead. The setup program attacked me with a news that my hard disk was partitioned using MBR partitining scheme, whereas it would only install on a GUID partitioned disk, and because of that no installation was possible. You can use Disk Utility in order to check out what your disk partitioning scheme is:
 
-{{< imgfig "https://4.bp.blogspot.com/-5tIVVT6VyqY/TpC_BaxuX9I/AAAAAAAAJ50/MoO9PjCnL_w/s1600/MacOSX-DiskUtility.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/r72lnznz9cvw1321.png" >}}
 
 If you see **GUID Partition Table** there, just like on the screenshot, you can feel happy. Otherwise there's no other option than to reinstall the whole system, because repartitioning a disk erases all data on it. And to be honest, I have no idea why my disk was partitioned that way; most likely I bought it already like that.
 
@@ -42,19 +42,19 @@ So, with a deep sigh, I made backups of both Mac OS and Ubuntu, found the recove
 
 Remaining steps are simple: you install OS 10.6 Snow Leopard and update it in the standard way (it will download some 1 GB), which creates an AppStore shortcut in the Dock. There you start downloading Mac OS 10.7 Lion again (you don't have to pay again if you've bought it already), with the tricks described above you make it download in a reasonable time, and install it without an issue. After reboot you see the new desktop with a new space theme:
 
-{{< imgfig "https://3.bp.blogspot.com/-8C_JqrPpAzU/TpFwFxX44QI/AAAAAAAAJ7g/t2sOw1pi6cA/s1600/MacOSX-Desktop.picasaweb.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/qqqgocxnc3q00837.png" >}}
 
 There's already a lot of reviews on its new features and improvements. Among other things, the Dock has now got Mission Control, which gives you an overview of the whole desktop:
 
-{{< imgfig "https://4.bp.blogspot.com/-Xk0aGRU5sj8/TpFv9nBR4vI/AAAAAAAAJ7M/aGo6WqKPQus/s1600/MacOSX-MissionControl.picasaweb.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/itbpoao2kuw12567.png" >}}
 
 Launcher panel resembles iOS:
 
-{{< imgfig "https://3.bp.blogspot.com/-pvTNW6BQEiI/TpFwAK4zoyI/AAAAAAAAJ7Q/jiLL-v8J-fM/s1600/MacOSX-Launcher.picasaweb.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/go0nd3r2f3dm1454.png" >}}
 
 Before shutdown you can now opt to restore all open applications on next boot:
 
-{{< imgfig "https://2.bp.blogspot.com/-LyuXpZurNnI/TpC3TI6e4hI/AAAAAAAAJ5Y/Ixi8iTwULcA/s1600/MacOSX-RebootDialog.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/y0x4c6kyaq4y2231.png" >}}
 
 ## Installing Ubuntu on iMac {#installing-ubuntu-on-imac}
 
@@ -66,7 +66,7 @@ Unfortunately the standard BootCamp Assistant tool in Mac OS only recognizes Mac
 
 After that you insert Ubuntu Live CD (I used Ubuntu 11.10 Oneiric Ocelot Beta 2), choose this disk in the rEFIt menu and install Ubuntu into the free space on the hard drive. The installation went smoothly even though it was a beta.
 
-{{< imgfig "https://2.bp.blogspot.com/-sRpujUuqDPU/TpFYMTs11EI/AAAAAAAAJ6k/Kj1VRTPJx2U/s1600/Ubuntu-Desktop.picasaweb.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fbw3n61fxauc1869.png" >}}
 
 The only issue is that the system hangs if you reboot it. To remedy that you have to edit `/etc/default/grub` (as `root`): the line
 
@@ -86,7 +86,7 @@ It's amazing that the free ATI Radeon driver supports 3D now, and makes Unity wo
 
     sudo apt-get install fglrx-updates
 
-{{< imgfig "https://2.bp.blogspot.com/-SDtFVod17yQ/TpFcq7bfNZI/AAAAAAAAJ7E/yaOacF3qvb4/s1600/Ubuntu-ATI-CCC.picasaweb.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/list9ll18x4s2174.png" >}}
 Since it's a beta, there's still a lot of bugs, glitches and hiccups in it, particularly in Compiz. Let's hope all the critical functionality gets fixed by the release.
 
 On the other hand, Ubuntu becomes more and more sleek and provides even better user experience. What is also noteworthy is their increasing similarity with Mac OS, which is arguably a [mutual](http://cassidyjames.com/b/61) process.

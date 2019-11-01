@@ -3,7 +3,7 @@ type: post
 date: "2013-12-05T00:00:00Z"
 title: "Autumn and Armillaria Again"
 tags: ["autumn", "Baarn", "forest", "mushrooms", "nature", "Netherlands"]
-image: "https://3.bp.blogspot.com/-P2PcmAsfPmY/Uphfmo2jE8I/AAAAAAAAauM/IaBuuCISyS8/s1600/dsc01507.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/g3t2x5c65r5e2783.jpg"
 places:
     - place0178
 aliases:
@@ -14,7 +14,7 @@ It's automn here again. Some annoyed expats keep insisting there's only just thi
 
 We are fortunate enough to live in a very picturesque woodland area. One of these days we went on a hike in one of numerous forests called {{< wiki "Baarnse_Bos" "nl" "Baarnse Bos" >}} and situated near the equally picturesque village Baarn (which I {{< a "0006" "posted" "ru" >}} about five years ago).
 
-{{< imgfig "https://3.bp.blogspot.com/-P2PcmAsfPmY/Uphfmo2jE8I/AAAAAAAAauM/IaBuuCISyS8/s1600/dsc01507.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/g3t2x5c65r5e2783.jpg" >}}
 
 <!--more-->
 
@@ -26,15 +26,15 @@ We arrived and discovered that there are loads of mushrooms here. The weather wa
 
 As for edible species, the Armillaria (openky) had the biggest presence. You could see them literally on every stump.
 
-{{< imgfig "https://4.bp.blogspot.com/-Arbq3spabck/UphfxcuNfKI/AAAAAAAAavc/KaWbu_nmGS8/s1600/dsc01519.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/95ehn714tcnc1050.jpg" >}}
 
 We've expressed our regrets about the forgotten knife probably a hundred times.
 
-{{< imgfig "https://2.bp.blogspot.com/-v5UGQCAqRqw/UphfuNC5INI/AAAAAAAAavE/BRYSQR1Dejc/s1600/dsc01515.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/42lz9jjmjmbd0130.jpg" >}}
 
 I believe you could easily fill a few buckets within an hour.
 
-{{< imgfig "https://3.bp.blogspot.com/-splXjuhBLOM/UphftG3rp0I/AAAAAAAAau8/vQHkM76aG6Q/s1600/dsc01514.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pbfg6ajvgvr00769.jpg" >}}
 
 Now to the legal, or rather illegal aspect of all this.
 
@@ -46,14 +46,14 @@ Most Dutch have no slightest clue about species and edibility of mushrooms, apar
 
 Another funny fact is that "mushroom" in Dutch sounds as "toad's stool" ({{< fl "paddestoel" >}} or {{< fl "paddenstoel" >}}: {{< fl "pad" >}} is toad, {{< fl "stoel" >}} means stool).
 
-{{< imgfig "https://3.bp.blogspot.com/-3jePy2rq5aA/Uphf5W9peyI/AAAAAAAAawc/XCfdVwauj-Y/s1600/dsc01535.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/b1mzt3bxwjnx0511.jpg" >}}
 
 So only looking at them is allowed. Painful.
 
 Otherwise the forest is gorgeous. Quiet, though busy in the weekend, when the weather is good. The Dutch love forest walks.
 
-{{< imgfig "https://3.bp.blogspot.com/-_g-BEw3tObQ/Uphf2Ghig3I/AAAAAAAAawE/EKTkm6Qbqtg/s1600/dsc01529.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0ong12yhpc172444.jpg" >}}
 
 And, to conclude, a panoramic view of the civilised Dutch woods. A forest cross-roads:
 
-{{< imgfig "https://3.bp.blogspot.com/-vJPyOouie7w/Uphf4XowHnI/AAAAAAAAawU/x1Se6e8jQnQ/s1600/dsc01534.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/4ba97g6ep9ls3581.jpg" >}}

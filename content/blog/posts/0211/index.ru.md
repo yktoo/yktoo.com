@@ -4,7 +4,7 @@ date: "2014-01-12T00:00:00Z"
 title: "Часть 3. Город"
 series: "Египет. Хургада"
 tags: ["Египет", "забавное", "путешествия", "транспорт", "Хургада"]
-image: "https://2.bp.blogspot.com/-6YC0TNdPLuI/Us8KBHRFaaI/AAAAAAAAbiI/GbDj0iAMe_M/s1600/dsc02298.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/hihf5m324kx92074.jpg"
 places:
     - place0190
     - place0192
@@ -17,7 +17,7 @@ aliases:
 
 Мы побывали и на {{< a "0209" "море" >}}, что к востоку, и в {{< a "0210" "пустыне" >}}, что к западу от Хургады. Теперь о самом интересном и необычном — о самом городе.
 
-{{< imgfig "https://2.bp.blogspot.com/-6YC0TNdPLuI/Us8KBHRFaaI/AAAAAAAAbiI/GbDj0iAMe_M/s1600/dsc02298.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hihf5m324kx92074.jpg" >}}
 
 <!--more-->
 
@@ -27,43 +27,43 @@ aliases:
 
 Лично я бы ей дал одну, да и ту с натяжкой. Наш номер был довольно просторным, и это, пожалуй, единственный его плюс. Вот спальня:
 
-{{< imgfig "https://3.bp.blogspot.com/-2Asg0JgXJyc/UsQKTzkBRQI/AAAAAAAAbE4/Vh-WYzyoTmg/s1600/dsc01933.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/20rt63incif22648.jpg" >}}
 
 Персонал, как бы в компенсацию за качество номера, демонстрировал нам образцы народного творчества:
 
-{{< imgfig "https://4.bp.blogspot.com/-V5QQ-Vbu-ps/UsQKRhAYLAI/AAAAAAAAbEw/zVrP8Zocx44/s1600/dsc01932.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/dn5v13b8idol2587.jpg" >}}
 
-{{< imgfig "https://3.bp.blogspot.com/-eM1H8lyKYwM/UsQLfdksK6I/AAAAAAAAbLQ/bdYUeOEqUoA/s1600/dsc02236.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/asjvgredkb1p2511.jpg" >}}
 
 А это что-то типа гостиной, с телевизором и холодильником, закрывающимся на ключ (!), видимо, для спасения особо ценных продуктов питания от повышенного внимания со стороны обслуживающего персонала:
 
-{{< imgfig "https://4.bp.blogspot.com/-THr1jqMRutI/UsQKVJSW46I/AAAAAAAAbFA/-xaXdW3CRJw/s1600/dsc01934.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pt2mzt6frsbo0372.jpg" >}}
 
 Вся обстановка и интерьеры были до крайности обветшалыми, сантехника в ванной явно видала лучшие времена, тут мы впервые за много лет увидели старых друзей — тараканов. Окна и балкон нашего номера выходили на улицу, откуда открывался сказочный вид на город:
 
-{{< imgfig "https://1.bp.blogspot.com/-XhnxTFqYyiU/UsQKNCgUdOI/AAAAAAAAbEY/euGEAO3dkdU/s1600/dsc01926.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/uhcsg4pocx3y1427.jpg" >}}
 
 Подобный вид вообще довольно характерен для Хургады, и поневоле задаёшься вопросом: это всё ещё недостроено или наоборот, уже полуразрушено? Гуляя по городу, мы видели десятки подобных неоконченных проектов, но при этом не заметили ни одного строителя. Загадка, в общем.
 
 Хотя нет, один раз мы наблюдали, как осуществляются покрасочные работы на фасаде здания. Всё без особых затей, голыми руками и ногами:
 
-{{< imgfig "https://2.bp.blogspot.com/-uecM9l7NWKE/UsQKiKxN1yI/AAAAAAAAbGA/55dyJxvNSUU/s1600/dsc02010.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/7pubw6l09tpl1688.jpg" >}}
 
 Другая очевидная характерная черта города — неимоверное количество пыли. Она покрывает всё и вся, придавая фасадам какой-то полузаброшенный вид — видимо, сказываются дефицит и дороговизна воды. Вот, к примеру, магазин электроники, торгующий, вроде бы, приличными брендами:
 
-{{< imgfig "https://1.bp.blogspot.com/-aA9LJGTjbu8/Us8JmsdCfRI/AAAAAAAAbgA/YLSwhsLnMPY/s1600/dsc02029.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/s8c7p7230o942895.jpg" >}}
 
 На крышах можно заметить множество спутниковых тарелок, которые тоже имеют такой вид, как будто находятся там несколько десятилетий:
 
-{{< imgfig "https://3.bp.blogspot.com/-hjxebpwXD_s/UsQKQb6q2NI/AAAAAAAAbEo/0MDBlvEJrug/s1600/dsc01929.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/l8x0r20vxv2j3650.jpg" >}}
 
 Наш отель, как можно догадаться, располагался не в самой фешенебельной части города. Это заметно и по зданиям, и по чистоте улиц, и по местным жителям. «Магазины» здесь представляют собой ларьки в десяток квадратных метров, забитые всяким хламом — ближайший более-менее приличный супермаркет находился в центре, примерно в паре километров от отеля. Положительным моментом было то, что пляж был всего в пяти минутах ходьбы.
 
 Красное море, как я уже подробно {{< a "0209" "рассказывал" >}}, безупречно. Исключительно чистая, прозрачная и тёплая вода и песчаные пляжи, и отличная погода даже зимой. Рядом с нами был публичный городской пляж, но мы пользовались в основном пляжем отеля — он несколько получше и там нет посторонних людей. Однако, как и всё прочее в этой гостинице, пляжный инвентарь был довольно потрёпанного вида:
 
-{{< imgfig "https://3.bp.blogspot.com/-zWaZuFOCTug/Us8JjTrtKTI/AAAAAAAAbfw/HvpDNdGTofc/s1600/dsc01996.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/4kro7rfqm0lf2453.jpg" >}}
 
-{{< imgfig "https://2.bp.blogspot.com/-wQ6dGouVzSM/Us8JkzzqlAI/AAAAAAAAbf4/Fs5ZzEIPb6M/s1600/dsc01997.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/27hjphls59x02688.jpg" >}}
 
 ## Местное население {#locals}
 
@@ -79,19 +79,19 @@ aliases:
 
 Как я уже сказал, после Европы Хургада очень необычна. В глаза бросаются беднота населения, изношенность домов и машин, непривычная одежда местных. Сразу возникает стойкое ощущение, что ты перенёсся на сотню лет в прошлое, куда-то в начало XX века. Здесь вовсю используется гужевой транспорт, в основном, ишаки:
 
-{{< imgfig "https://2.bp.blogspot.com/-lxSGLbKhjvE/UsQLwEZkhGI/AAAAAAAAbMo/vJDc62gwmh0/s1600/dsc02260.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/wdkn7fhh1oz62656.jpg" >}}
 
-{{< imgfig "https://2.bp.blogspot.com/-PSOLDDEZHnU/UsQL1gJPtLI/AAAAAAAAbNI/nE5O8etSXZs/s1600/dsc02271.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0ygekmh2oro31724.jpg" >}}
 
 Среди автомобилей здесь множество экземпляров 30–40-летнего возраста.
 
-{{< imgfig "https://2.bp.blogspot.com/-kfdmFHSVJC0/UsQLuoNr1QI/AAAAAAAAbMg/ju8J3k_92dU/s1600/dsc02258.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/31hakazei67n2227.jpg" >}}
 
-{{< imgfig "https://2.bp.blogspot.com/-LgdXXrjXEek/UsQL8VcWixI/AAAAAAAAbNo/0q2bd_ixTzg/s1600/dsc02289.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/eceveqevg7ku0009.jpg" >}}
 
 Изредка попадаются и велосипеды, иногда даже вот такие грузовые модификации:
 
-{{< imgfig "https://3.bp.blogspot.com/-mhJ17k0trww/UsQLr_bdVII/AAAAAAAAbMQ/uwkIPrrngxM/s1600/dsc02254.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xy5janmfexir1995.jpg" >}}
 
 Что характерно, когда гуляешь по собственно городу, вне туристических мест, никто не пристаёт, хотя и с большим интересом таращатся на очевидных гайдзинов.
 
@@ -99,15 +99,15 @@ aliases:
 
 Чтобы хоть как-то ограничить шофёрскую удаль, на дорогах проложена уйма «лежачих полицейских» . Также встречаются области, покрытые этакими заклёпками, с тем же назначением:
 
-{{< imgfig "https://4.bp.blogspot.com/-YfPqWmvhUZA/UsQLnoWQdLI/AAAAAAAAbL4/TGWdq3CmuTY/s1600/dsc02247.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9b3blezutnh30917.jpg" >}}
 
 Автобусная остановка, текст продублирован на английском — заботятся о туристах:
 
-{{< imgfig "https://3.bp.blogspot.com/-jVhccXt-Rbs/Us8Jp23dWYI/AAAAAAAAbgQ/kR8vM4hu6ag/s1600/dsc02243.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/6j2gc7nw40e53185.jpg" >}}
 
 Здесь огромное количество такси, все они раскрашены в одинаковые цвета: оранжевый с тёмно-синим:
 
-{{< imgfig "https://2.bp.blogspot.com/-rLtitpRAYrA/UsQKO3SdXTI/AAAAAAAAbEg/AOB7eWLJPj8/s1600/dsc01927.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/dvjea6v67ry32893.jpg" >}}
 
 На любой улице города за минуту мимо тебя проезжает несколько свободных такси, так что поймать его здесь не стоит никакого труда (нередко даже сами останавливаются и машут тебе). Они часто ждут потенциальных клиентов перед гостиницами и даже магазинами, а в остальное время, видимо, просто колесят по улицам. При стоимости бензина около десяти рублей за литр они могут себе это позволить (у нас в Голландии стандартная цена на 95-й сейчас где-то [€ 1,65–1,80](http://www.brandstof-zoeker.nl/), то есть в восемь раз выше).
 
@@ -117,19 +117,19 @@ aliases:
 
 Стоит также добавить, что египтяне не считают нужным зажигать ночью фары — большинство машин ездит в темноте либо вовсе без света, либо с габаритами. Ну и правда, чего светить попусту, и так ведь всё видно:
 
-{{< imgfig "https://1.bp.blogspot.com/-eI99nOvPenY/Us8KWD4KCeI/AAAAAAAAbjw/IN0CkLQVSHA/s1600/dsc02330.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1pt0ymemnezv3192.jpg" >}}
 
 При всём при этом, я не видел здесь ни одной аварии — уж и не знаю, как у них так получается.
 
 Отдельного упоминания заслуживает любовь арабов к иллюминации: для них, очевидно, чем больше мигающих огоньков, тем красивее. Особенно ярко (в обоих смыслах) эта любовь проявляется в знаках дорожного движения. Они переливаются всевозможными огнями как новогодняя ёлка, при этом каждый знак явно выполнен индивидуально, и программы иллюминации постоянно меняются. Вот некоторые примеры:
 
-{{< imgfig "https://1.bp.blogspot.com/-Kt8h5lJ8L8E/UsQfsLXMARI/AAAAAAAAbeg/hauDpoGslzY/s1600/2013-12-26+-+Egypt+-+Turn+sign.gif" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/beaxoaqfmnqf0985.gif" >}}
 
-{{< imgfig "https://3.bp.blogspot.com/-_SHWDNhACXM/UsQfsD9cssI/AAAAAAAAbek/8lF9WkvYbIU/s1600/2013-12-26+-+Egypt+-+No+tooting+sign.gif" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/i0tdgd8xn8gi0314.gif" >}}
 
 В дополнение к обычным знакам и светофорам, кое-где установлены дополнительные огни прямо на поверхности дороги или рядом на подъезде к перекрёстку. Они загораются разными цветами в соответствии с сигналом светофора или просто мигают, предупреждая водителя, — сама по себе идея довольно интересная, но в сочетании со всеобщей разрухой и пренебрежением ПДД выглядит это совершенно психоделично:
 
-{{< imgfig "https://3.bp.blogspot.com/-qq4Mi1k4--E/UsQfsIwYFjI/AAAAAAAAbec/OX4U5sYcQyY/s1600/2013-12-26+-+Egypt+-+Ground+traffic+lights.gif" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/tupq22asdzoy2337.gif" >}}
 
 Последняя особенность национального египетского дорожного движения, которую я хотел упомянуть, — это постоянное использование клаксона. Приведённый выше анимированный знак, установленный на территории больницы и запрещающий подачу сигнала, здесь весьма актуален. Водители пользуются звуковым сигналом просто непрерывно, по поводу и без повода, и это бибикание вокруг поначалу сильно напрягает. Через какое-то время привыкаешь, но вопрос остаётся: зачем они это делают?
 
@@ -139,192 +139,192 @@ aliases:
 
 Про хургадский порт, марину (Hurghada Marina), я уже {{< a "0209" "рассказывал" >}}. Это место резко контрастирует с остальным городом, он обнесён забором и местных сюда не пускает охрана. Ночью здесь особенно красиво. Все первые этажи заняты барами и ресторанами:
 
-{{< imgfig "https://1.bp.blogspot.com/-kyJHqTK6WIo/UsQKlujevLI/AAAAAAAAbGY/_MmdQrHJWgw/s1600/dsc02024.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vkr4hm6d546i1242.jpg" >}}
 
-{{< imgfig "https://2.bp.blogspot.com/-6vHNKY09LWQ/UsQKnBp2_oI/AAAAAAAAbGg/IMSyWvWD86Q/s1600/dsc02025.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/lbrdflp1n4aq0974.jpg" >}}
 
 Это было снято почти в полной темноте:
 
-{{< imgfig "https://1.bp.blogspot.com/-0Ctdt1fncO8/UsQKkunX9gI/AAAAAAAAbGQ/VUj3KtqLI8w/s1600/dsc02021.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pdt8w1blu9yq0304.jpg" >}}
 
 Очень красиво подсвеченная городская мечеть, гордость хургадчан, расположена за пределами порта, но отлично из него просматривается:
 
-{{< imgfig "https://4.bp.blogspot.com/-y8ZiLg_k5AE/UsQKjb6edSI/AAAAAAAAbGI/ntn7JFuf9v0/s1600/dsc02014.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cy5vu6709tqi3098.jpg" >}}
 
 Вот она днём и со стороны центрального входа:
 
-{{< imgfig "https://2.bp.blogspot.com/-G3nai3Y8Mig/UsQL5l3YRbI/AAAAAAAAbNY/tfjPQ33F92Q/s1600/dsc02284.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ejr0bw9bof5b2067.jpg" >}}
 
 ## Улицы Хургады {#streets}
 
 Как я уже говорил, египетская архитектура довольно странная, оставляющая ощущение неухоженности. Дома порой в настолько плачевном состоянии, что непонятно, обитаемы ли они, и много строящихся зданий.
 
-{{< imgfig "https://4.bp.blogspot.com/-cGUxs7TMbVA/UsQL_I6vwII/AAAAAAAAbN4/G8OCSR3u5g4/s1600/dsc02295.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/flo2uo6avqy72933.jpg" >}}
 
-{{< imgfig "https://2.bp.blogspot.com/-bPavnDg9gck/UsQMAoNJLzI/AAAAAAAAbOA/5DS9f3NkYv8/s1600/dsc02299.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zya2wt6moddp3140.jpg" >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-Fez5AxQAEz0/UsQLyyJcXLI/AAAAAAAAbM4/eANctaLxcto/s1600/dsc02268.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ajgdis18lhv92774.jpg" >}}
 
 В центре почище, пыль стараются убирать:
 
-{{< imgfig "https://2.bp.blogspot.com/-yi5QxAdXBIs/UsQMCN03dsI/AAAAAAAAbOI/GdEtHwQhH44/s1600/dsc02307.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/x3ifl51srewa3499.jpg" >}}
 
 Процесс уборки выглядит так: дворник с помощью метлы и фанерки сгребает пыль в мешки, которые потом расставляет вдоль обочины. Он охотно позирует для фото:
 
-{{< imgfig "https://1.bp.blogspot.com/-7S5Snk4GIxg/UsQLtc0xREI/AAAAAAAAbMY/H80qTW4IMds/s1600/dsc02257.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1v906o8a5j3j2635.jpg" >}}
 
 Помимо пыли, в городе уйма мусорных баков и свалок, и тощих котов, на них промышляющих. Рыжая братия повсюду:
 
-{{< imgfig "https://1.bp.blogspot.com/-NdUK6CkF8Tk/UsQLxRD4y4I/AAAAAAAAbMw/VdEr5m5fAew/s1600/dsc02265.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/7wjin1g0e7ou0826.jpg" >}}
 
-{{< imgfig "https://3.bp.blogspot.com/-BF6fuJdMc5U/UsQMGexL0kI/AAAAAAAAbOg/Zat5L7JB7oY/s1600/dsc02318.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/kexmt0leznud0960.jpg" >}}
 
 Хотя порой, изредка, заметны претензии на ответственное отношение к окружающей среде:
 
-{{< imgfig "https://2.bp.blogspot.com/-m6S8SwhzmHE/Us8JodR5-MI/AAAAAAAAbgI/fqmQvR30U8U/s1600/dsc02233.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/bovsitieheqn3193.jpg" >}}
 
 Информационный щит, похоже, рассчитан на прямое попадание ракеты:
 
-{{< imgfig "https://4.bp.blogspot.com/-h0YKxcjtEs8/UsQLiSZpwmI/AAAAAAAAbLg/MdbysExN8Js/s1600/dsc02238.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/khk8nvs80bzv1218.jpg" >}}
 
 В дополнение к непрерывным автомобильным гудкам, упомянутым выше, по всему городу, начиная с пяти часов утра (!), регулярно разносится звук молитвы («Аллах акбар…»), транслируемый колоколами громкоговорителей, установленными на специальных столбах:
 
-{{< imgfig "https://3.bp.blogspot.com/-V6o_zOHhUpU/UsQLlEd3iiI/AAAAAAAAbLw/Eu6GC9s8RuQ/s1600/dsc02242.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vq53szms7z1q3075.jpg" >}}
 
 Громкоговорители также установлены на многочисленных мечетях:
 
-{{< imgfig "https://4.bp.blogspot.com/-JaNmRIxr4_g/UsQLo5HqKyI/AAAAAAAAbMA/2DzuaRiwfsg/s1600/dsc02249.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/x0v3olwkz2y83399.jpg" >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-VhWBh74Z7ks/UsQL0GKuJ5I/AAAAAAAAbNA/xr-SJunmpoY/s1600/dsc02269.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/6i7swc0yylbv2740.jpg" >}}
 
 Наряду с 90% мусульманского населения Египта, здесь около 9% христиан-коптов. Несмотря на все уверения в безобидности египтян, коптская православная церковь охраняется автоматчиками, находящимися в специальных будках:
 
-{{< imgfig "https://3.bp.blogspot.com/-i6kLMQIKeYk/UsQLj7xMwiI/AAAAAAAAbLo/GcukFKg9OKc/s1600/dsc02240.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/y7fayz47uxsl1510.jpg" >}}
 
 На улицах ведётся торговля всем подряд. Мясом:
 
-{{< imgfig "https://4.bp.blogspot.com/-kMl9tXzr9BM/Us8J5NVlrJI/AAAAAAAAbhg/k3gYkET9OJc/s1600/dsc02274.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/qy7cxe5tmz030794.jpg" >}}
 
 Овощами-фруктами (что характерно, цены нигде не указаны):
 
-{{< imgfig "https://2.bp.blogspot.com/-XkPuQ0btFkM/UtAWYQotvkI/AAAAAAAAbkw/twERkO9buqs/s1600/dsc02290.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xy3p6vzx8yo70680.jpg" >}}
 
 Чаем каркаде, какими-то кореньями и пемзой:
 
-{{< imgfig "https://2.bp.blogspot.com/-P0Nib8aq9xs/UsQMDeYF6ZI/AAAAAAAAbOQ/nJXfHGxlkCU/s1600/dsc02316.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xe5wqhdcgina1575.jpg" >}}
 
 Специями и пряностями, причём товар расположен прямо около проезжей части и присыпан всё той же пылью — кто хоть это покупает:
 
-{{< imgfig "https://2.bp.blogspot.com/-zuL2ydazcys/UsQME35XVUI/AAAAAAAAbOY/dZZtZMWAyQw/s1600/dsc02317.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/p5k2g1lxuysz0348.jpg" >}}
 
 Живыми цыплятами:
 
-{{< imgfig "https://3.bp.blogspot.com/-UOU61486bxM/UsQL7BrNR0I/AAAAAAAAbNg/cJQE4De7zF4/s1600/dsc02288.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/k743wjcjoo252852.jpg" >}}
 
 А также главной ценностью Египта, питьевой водой, развозимой множеством автоцистерн:
 
-{{< imgfig "https://1.bp.blogspot.com/-WRBTDhV1V-s/Us8J6qoYEHI/AAAAAAAAbho/ZbqWsNYS-UU/s1600/dsc02275.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/b58lr6w6qk5v3012.jpg" >}}
 
-{{< imgfig "https://2.bp.blogspot.com/-Kq9atwYGtF4/Us8J8WEt3CI/AAAAAAAAbhw/5FK_xPnZ9UA/s1600/dsc02282.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/uhi5nkoyrogq1740.jpg" >}}
 
 Городская начальная школа. Арабские детишки сгрудились за воротами и смотрят на мир через решётку в них:
 
-{{< imgfig "https://3.bp.blogspot.com/-mUgWtd9KS38/Us8J-DVGt2I/AAAAAAAAbh4/kKwrS_rtDzQ/s1600/dsc02285.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/c048arhbv1eo0938.jpg" >}}
 
 Символ былой национальной гордости:
 
-{{< imgfig "https://3.bp.blogspot.com/-b4izlGpiqI4/UsQL3IqvR-I/AAAAAAAAbNQ/um5KydFFgws/s1600/dsc02280.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/q03f307j6he63501.jpg" >}}
 
 ## Русская Хургада {#russian-hurghada}
 
 Процентов девяносто местных туристов — это русские, поэтому повсюду в туристических местах надписи на русском или чём-то, его напоминающим:
 
-{{< imgfig "https://4.bp.blogspot.com/-nACHm-SwP4A/Us8JrRt-upI/AAAAAAAAbgY/tx60zuZMjok/s1600/dsc02244.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/6afae7tetiet1715.jpg" >}}
 
-{{< imgfig "https://3.bp.blogspot.com/-FnjW9JYaOWg/Us8KPofhn8I/AAAAAAAAbjQ/7O_v1My3t6g/s1600/dsc02312.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/wvkuoftwcts92083.jpg" >}}
 
-{{< imgfig "https://3.bp.blogspot.com/-mlW37bcnMfg/Us8J_udlehI/AAAAAAAAbiA/CzNkIgCLB0M/s1600/dsc02297.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/w7t71h5e0ew81675.jpg" >}}
 
-{{< imgfig "https://4.bp.blogspot.com/-UGovqyOWIB0/Us8KCkQKKAI/AAAAAAAAbiQ/MKQWm_6WcJ0/s1600/dsc02300.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/btw769mcc6zf1522.jpg" >}}
 
-{{< imgfig "https://4.bp.blogspot.com/-hsyTNeIwPCA/Us8J3kt-N_I/AAAAAAAAbhY/2n2_dkwfhqo/s1600/dsc02261.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/raw2e3oni3l40887.jpg" >}}
 
-{{< imgfig "https://3.bp.blogspot.com/-6pf9wMgoyNc/Us8KELCDEJI/AAAAAAAAbiY/ru92j8ZVbHo/s1600/dsc02301.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/jeksypjyrzb92436.jpg" >}}
 
-{{< imgfig "https://2.bp.blogspot.com/-3ac5mDA7poA/Us8KF7r2IRI/AAAAAAAAbig/XIeR3iQBzu0/s1600/dsc02302.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/g5w8lqvzprkb0476.jpg" >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-NlpEeF-wVFE/Us8KHUh8RWI/AAAAAAAAbio/bfOLv149y-U/s1600/dsc02303.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ekirw2le8oao0118.jpg" >}}
 
 Такси с российским флагом внутри:
 
-{{< imgfig "https://1.bp.blogspot.com/-s8XqBLPRMMM/Us8JszfZQbI/AAAAAAAAbgg/kIRGH0X4QA4/s1600/dsc02250.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/jmkpbwzwtul91405.jpg" >}}
 
 Через каждые метров сто попадается аптека, с обозначением на трёх языках:
 
-{{< imgfig "https://1.bp.blogspot.com/-QGJbvmUKSXw/Us8J0ToXPMI/AAAAAAAAbhI/mH5rDKJqmDI/s1600/dsc02256.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ehak2ilvrjiu1778.jpg" >}}
 
 Порой попадаются просто шедевры перевода.
 
-{{< imgfig "https://2.bp.blogspot.com/-6g3Bied_20E/Us8KJKrdC-I/AAAAAAAAbiw/zy2JmsRwX5E/s1600/dsc02308.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pgkp6pbic9e11677.jpg" >}}
 
-{{< imgfig "https://2.bp.blogspot.com/-o8R_IQHw3wo/Us8KN3819OI/AAAAAAAAbjI/m1FB7yHBjbA/s1600/dsc02311.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/giwxic2kgbza0305.jpg" >}}
 
-{{< imgfig "https://4.bp.blogspot.com/-8cV1fPYn8OQ/Us8KSgFqk2I/AAAAAAAAbjg/GuOMqzC6e1c/s1600/dsc02314.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/x5oarup2jpri1547.jpg" >}}
 
-{{< imgfig "https://4.bp.blogspot.com/-JX-yz4x50ls/Us8KUeeoQOI/AAAAAAAAbjo/gX63-Y0gFBk/s1600/dsc02315.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fwb8ems1ttzg3002.jpg" >}}
 
-{{< imgfig "https://4.bp.blogspot.com/-r0n2JE6Vjy4/Us8KMat740I/AAAAAAAAbjA/mv1sNpj8kE4/s1600/dsc02310.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/bz5djc7tbrha1895.jpg" >}}
 
-{{< imgfig "https://4.bp.blogspot.com/-lM2lGyVkwbw/Us8KfkI0btI/AAAAAAAAbkg/b4_iwoJH-P0/s1600/img_20131228_194749.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/rjybcgvgp9pt3101.jpg" >}}
 
 Также отличился хургадский аэропорт, любезно предоставив образец заполнения миграционной карты на «русском»:
 
-{{< imgfig "https://3.bp.blogspot.com/-XHW74IpqdJs/Us8KZYXCGKI/AAAAAAAAbkA/RbVgcKsE21U/s1600/dsc02724.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ut0wuuauczft3190.jpg" >}}
 
 Или вот, «gates» по-русски будет…
 
-{{< imgfig "https://4.bp.blogspot.com/-nN5uShFD-RA/Us8KcBXPezI/AAAAAAAAbkQ/VWAmyzTU5ug/s1600/dsc02726.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/o6a8jpok759z2846.jpg" >}}
 
 Досталось от египтян и английскому. Когда всю жизнь пишешь вязью справа налево, трудно привыкнуть к этим дурацким отдельным буквам.
 
-{{< imgfig "https://3.bp.blogspot.com/-dC5JIsdwq3I/Us8JhgPpQMI/AAAAAAAAbfo/c8AhjekzyMo/s1600/dsc01943.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/n96gmf2drd1t0492.jpg" >}}
 
 Пара ранее неизвестных вариантов написания слова {{< fl "coffee-shop" >}}:
 
-{{< imgfig "https://3.bp.blogspot.com/--RSn17ld45c/Us8JxXjTlMI/AAAAAAAAbg4/ClKlBY2Krds/s1600/dsc02253.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/8ehdof2w2wj42298.jpg" >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-Vve7-M6veo8/Us8KKmKItHI/AAAAAAAAbi4/LwvZO6IPwHU/s1600/dsc02309.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/jx9fqn57qiqy3663.jpg" >}}
 
 Но зато тут есть настоящий ирландский паб:
 
-{{< imgfig "https://4.bp.blogspot.com/-hugYMh96rtI/Us8KRGT7S9I/AAAAAAAAbjY/J6wJnbLbGec/s1600/dsc02313.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ajzz2qvtbvv42703.jpg" >}}
 
 ## Прочее {#misc}
 
 Арабский язык совершенно крышесносящий. Я даже сохранил чек из супермаркета:
 
-{{< imgfig "https://1.bp.blogspot.com/-XZvAs0zicZM/Us8Jfx2z_SI/AAAAAAAAbfg/zhd2hp85v54/s1600/2013-12-25+-+supermarket+receipt.picasaweb.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/unk6u46pwwpr1374.png" >}}
 
 А вот так выглядит пункт назначения «Амстердам» на табло вылета:
 
-{{< imgfig "https://1.bp.blogspot.com/-toJPjbq091g/Us8KakRVKLI/AAAAAAAAbkI/vqZ9qTwqYPE/s1600/dsc02725.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zxzhi9ay9zny2043.jpg" >}}
 
 Из национальных даров здесь очень популярны халва и финики. Последние продаются задёшево, прямо в картонных коробках без каких-либо затей:
 
-{{< imgfig "https://4.bp.blogspot.com/-Z3GAix4qQrI/Us8JuQtJ_hI/AAAAAAAAbgo/hj91oBBmefs/s1600/dsc02251.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9awstlyjcj9d1001.jpg" >}}
 
 Мы только однажды попробовали местное египетское вино {{< fl "Shahrazade" >}}, в ресторане. Вино неплохое, и я не прочь был бы купить его домой, но как мы ни искали, в магазинах ничего крепче пива не продавалось. В аэропорту в дьюти-фри было что угодно, кроме египетского вина.
 
-{{< imgfig "https://1.bp.blogspot.com/-iHy5vHefrPo/Us8KXtYql7I/AAAAAAAAbj4/IHOXgJThQAc/s1600/dsc02332.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/59kie9v2k3i40149.jpg" >}}
 
 Интернет здесь есть, но очень неторопливый. В отеле его продавали за 15 фунтов (1,60 евро) за полчаса, так что мы предпочитали находить рестораны с бесплатным вайфаем. Большинство местных, как я заметил, вообще пользуются такой позабытой вещью, как мобильники с кнопками, хотя изредка встречаются и явно преуспевающие люди в костюмах, на приличных машинах (навроде Hyundai) и даже с планшетами.
 
 Но я вот обратил внимание, что на упаковке парацетамола, купленной в местной аптеке, указан емэйл-адрес на бесплатном сервисе Hotmail:
 
-{{< imgfig "https://4.bp.blogspot.com/-XfBX2MfkF60/Us8Jv53h-9I/AAAAAAAAbgw/nKGRw2alYMI/s1600/dsc02252.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cp3ps4vzcbwo0457.jpg" >}}
 
 На этом, пожалуй всё. Стометровая очередь на вылет в хургадском аэропорту:
 
-{{< imgfig "https://4.bp.blogspot.com/-PiifoDPviLM/Us8Kd-mrLMI/AAAAAAAAbkY/X-fY2ynjjEs/s1600/img_20131221_193927.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/sbwwups3nlku1291.jpg" >}}
 
 Как я уже говорил, Египет оставляет двойственное впечатление: с одной стороны невероятно красивое море и масса новых ощущений — с другой, нищета местного населения, пыль, привязчивость зазывал и всецелая неустроенность быта. Для пляжного отдыха и дайвинга это, возможно, одно из самых лучших мест, особенно учитывая местные цены, но кроме этого — заниматься тут особенно нечем.

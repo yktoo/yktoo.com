@@ -3,7 +3,7 @@ type: post
 date: "2013-09-07T00:00:00Z"
 title: "Устранение щелчка при выключении колонок M-Audio Studiophile"
 tags: ["IKEA", "гаджеты", "железо", "звук", "колонки"]
-image: "https://1.bp.blogspot.com/-gyclTnBGtwE/Uit7zpz306I/AAAAAAAAaZE/Sz53aBCQC-8/s1600/patrull.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/d4vo7lbyib4g3157.jpg"
 aliases:
     - /ru/blog/post/198
 ---
@@ -28,4 +28,4 @@ aliases:
 
 В общем, я решил проблему тем, что воткнул в соседнее гнездо икеевский ночник {{< fl "Patrull" >}} — он практически не потребляет энергии и не занимает места:
 
-{{< imgfig "https://1.bp.blogspot.com/-gyclTnBGtwE/Uit7zpz306I/AAAAAAAAaZE/Sz53aBCQC-8/s1600/patrull.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/d4vo7lbyib4g3157.jpg" >}}

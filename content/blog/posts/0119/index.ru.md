@@ -3,7 +3,7 @@ type: post
 date: "2011-10-06T00:00:00Z"
 title: "iSad"
 tags: ["Apple", "некрологи", "Стив Джобс"]
-image: "https://1.bp.blogspot.com/-m2waMuaxHNw/To18kbpFVTI/AAAAAAAAJ4o/j6vVr6SU_5w/s1600/steve-jobs.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/g6oy03i2jcma0980.jpg"
 aliases:
     - /ru/blog/post/119
 ---
@@ -12,6 +12,6 @@ aliases:
 
 <!--more-->
 
-{{< imgfig "https://1.bp.blogspot.com/-m2waMuaxHNw/To18kbpFVTI/AAAAAAAAJ4o/j6vVr6SU_5w/s1600/steve-jobs.jpg" "Image: Dan Frommer, Business Insider" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/g6oy03i2jcma0980.jpg" "Image: Dan Frommer, Business Insider" >}}
 
 R.I.P.

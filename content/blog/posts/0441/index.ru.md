@@ -9,7 +9,7 @@ tags:
     - новости
     - СМИ
     - рекорд
-image: "https://1.bp.blogspot.com/-0gOdMDrB7cI/XbWJkGtdoKI/AAAAAAAAzCs/dv08LiFASrMTtbC3G7lUdy_PR-QdVsSuACKgBGAsYHg/s1600/2019-10-27.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/pkzqm06x1mrr3053.jpg"
 imageCredit: "Фото: Maurits Verbiest/Flickr/CC-BY-2.0."
 places:
     - place0020
@@ -21,7 +21,7 @@ places:
 
 У Схевенингена давнее соперничество в высоте костра с близлежащим районом Дяундорп ({{< fl "Duindorp" >}}). В {{< yearp 2018 "прошлом" >}} году **48**-метровой высоты поленница (мировой рекорд!), разгоревшись, стала {{< a "https://twitter.com/vis_danny/status/1079906516667432960" "забрасывать" >}} углями улицы города под сильным ветром.
 
-{{< imgfig "https://1.bp.blogspot.com/-0gOdMDrB7cI/XbWJkGtdoKI/AAAAAAAAzCs/dv08LiFASrMTtbC3G7lUdy_PR-QdVsSuACKgBGAsYHg/s1600/2019-10-27.jpg" "Костёр 2018 года в Схевенингене. Фото: Maurits Verbiest/Flickr/CC-BY-2.0." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pkzqm06x1mrr3053.jpg" "Костёр 2018 года в Схевенингене. Фото: Maurits Verbiest/Flickr/CC-BY-2.0." >}}
 
 Тогда, после {{< a "https://www.rtlnieuws.nl/nieuws/nederland/artikel/4860971/politie-den-haag-scheveningen-duindorp-vreugdevuur-krikke" "разбора" >}} полётов ({{< a "https://www.rtlnieuws.nl/sites/default/files/content/documents/2019/09/27/Proces-verbaal%20vreugdevuren.pdf" "отчёт полиции в PDF" >}}), выяснилось, что костёр построили на **13** метров выше разрешённого (**35** м), на что бургомистр Паулине Крикке посмотрела сквозь пальцы.
 

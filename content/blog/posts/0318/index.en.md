@@ -4,7 +4,7 @@ date: "2017-03-30T00:00:00Z"
 title: "The quest for work"
 series: "My entrepreneurship"
 tags: ["business", "entrepreneurship", "freelance", "Netherlands", "Observ", "taxes", "work", "Yktoo Solutions"]
-image: "https://4.bp.blogspot.com/-cjUtE071tFg/WN0YRhFH42I/AAAAAAAApr4/WyB_8ceeS0M-JGzjCw6TmK8ZzriLe2wmgCPcB/s1600/observ.nu.picasaweb.png"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/v95wud5j9h2w2271.png"
 aliases:
     - /en/blog/post/318
 ---
@@ -59,7 +59,7 @@ Interim contracts are often advertised on special freelancing websites. There's 
 
 [Observ](https://observ.nu/), a project started a few months ago by a colleague, proved very helpful when I was looking for a contract myself. Observ is a free IT contract aggregator that collects, classifies, and merges all the numerous copies of the same vacancy scattered across various websites. It also marks ones advertised by a "honest" broker (a blue link icon, {{< fl "betrouwbare broker" >}}):
 
-{{< imgfig "https://4.bp.blogspot.com/-cjUtE071tFg/WN0YRhFH42I/AAAAAAAApr4/WyB_8ceeS0M-JGzjCw6TmK8ZzriLe2wmgCPcB/s1600/observ.nu.picasaweb.png" "Observ website." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/v95wud5j9h2w2271.png" "Observ website." >}}
 
 Even if you don't plan to use this service for actual searching, you may want to have a look at it to figure out which brokers are safe to work with.
 

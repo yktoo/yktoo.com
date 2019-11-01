@@ -5,7 +5,7 @@ dateFrom: 2013-08-22
 dateTo: 2013-08-25
 location: "Amersfoort, Netherlands"
 websiteUrl: "http://www.spoffin.eu/"
-image: "https://lh5.googleusercontent.com/-oeJ7HJfsTU8/UhoQM_lBCUI/AAAAAAAAaHc/0ZZio9ZyZ88/s1600/dsc00967.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/rieqbfiauh260624.jpg"
 videocategories: theatre
 posts: "0196"
 ---

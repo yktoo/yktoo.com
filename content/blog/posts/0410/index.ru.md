@@ -5,7 +5,7 @@ title: "Бездарные мошенники"
 tags:
     - Нидерланды
     - мошенники
-image: "https://1.bp.blogspot.com/-E_lr_0MMrpY/XZdFbQzQTeI/AAAAAAAAyYg/oUxpPAryrsUAxPk2FJNB4DT2_uuAwUdAgCKgBGAsYHg/s1600/2019-10-04.webp"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/cw6jw5dtzlik2835.webp"
 imageCredit: "Фото: vipul uthaiah."
 ---
 
@@ -17,12 +17,12 @@ imageCredit: "Фото: vipul uthaiah."
 
 Например, мой банк якобы сообщает мне, что моя карточка скоро превратится в тыкву:
 
-{{< imgfig "https://1.bp.blogspot.com/-9zBUroGu_0M/XZdCOp2fC0I/AAAAAAAAyX8/hWq9F4cvp8sAhC1PDnCzL5N0Xfl10f5-wCKgBGAsYHg/s1600/2019-10-04.webp" "Мошенническая СМС-ка." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/arr090md4wso0949.webp" "Мошенническая СМС-ка." >}}
 
 У меня, правда, никогда в жизни не было счёта в {{< fl "Rabobank" >}} (смешное, кстати, название для русского уха), но тут уж явно наудачу рассылали.
 
 Ещё один пример — типа от налоговой. Говорят, задолжал я им, ни много ни мало, **€ 394**, и если я его немедленно не выплачу, грозят неминуемыми неприятностями:
 
-{{< imgfig "https://1.bp.blogspot.com/-_Qh14lv27rQ/XZdCOiq6A6I/AAAAAAAAyX8/dP-Jt3_19awKFvOtBinJMjqrfyZ6ZqpbACKgBGAsYHg/s1600/2019-10-04.webp" "Мошенническая СМС-ка." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/16frfickpvqu2262.webp" "Мошенническая СМС-ка." >}}
 
 Даже любопытно, кто на такое покупается.

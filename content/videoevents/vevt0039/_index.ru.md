@@ -5,7 +5,7 @@ dateFrom: 2016-03-19
 dateTo: 2016-03-19
 location: "Leiden, Netherlands"
 websiteUrl: ""
-image: "https://4.bp.blogspot.com/-KyeqWP41y0U/Vve2sVzBb1I/AAAAAAAAlqw/MRBE2DMvC5QfDd0rpD5K1eYyFTZJyaeQA/s1600/2016-03-19%2B-%2Blenteschool-2016.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/dbp6a3rk1wt43354.jpg"
 videocategories: sport
 posts: "0273"
 ---

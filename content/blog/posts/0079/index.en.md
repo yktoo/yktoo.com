@@ -3,7 +3,7 @@ type: post
 date: "2011-03-27T00:00:00Z"
 title: "The Hague"
 tags: ["beach", "beautiful", "Netherlands", "sea", "The Hague"]
-image: "https://1.bp.blogspot.com/-p0C4-WXuwyc/TZhMdmel9fI/AAAAAAAAItg/OtZLR7eZJJA/s1600/DSC01086.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/m5hncao9s5rd3078.jpg"
 places:
     - place0020
     - place0122
@@ -13,49 +13,49 @@ aliases:
 
 My first visit to the see in this year is as early as the spring itself.
 
-{{< imgfig "https://1.bp.blogspot.com/-p0C4-WXuwyc/TZhMdmel9fI/AAAAAAAAItg/OtZLR7eZJJA/s1600/DSC01086.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/m5hncao9s5rd3078.jpg" >}}
 
-{{< imgfig "https://2.bp.blogspot.com/-kH0KUGsuDa4/TZhMRA7Nb1I/AAAAAAAAItg/kjQP8cOMYek/s1600/DSC01079.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/g8gu2zejbv950261.jpg" >}}
 
 <!--more-->
 
 That's tempting, despite the fact that temperature is just above 10° C (and I don't want to know what water temperature now is). The sun is shining, and the spring is peeping out the road bricks:
 
-{{< imgfig "https://3.bp.blogspot.com/-rOfWdx9Kb6w/TZhMM2ucj6I/AAAAAAAAItg/iRuDQTQNnSU/s1600/DSC01155.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/b0rldn4uh6853266.jpg" >}}
 
 It's vaguely visible on the horizon:
 
-{{< imgfig "https://3.bp.blogspot.com/-ORsyDhpP8Ic/TZhMsKE3c7I/AAAAAAAAItg/2ei6oszTalc/s1600/DSC01052.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/62ghlxwruip40592.jpg" >}}
 
 It's falling down to the sand:
 
-{{< imgfig "https://3.bp.blogspot.com/-tRcavydwPOc/TZhM3VR1BUI/AAAAAAAAItg/FWT9ZSdpPcE/s1600/DSC01054.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/bgnulf2o6fyb0173.jpg" >}}
 
 In other words,
 
-{{< imgfig "https://2.bp.blogspot.com/-597gQ-6-7EU/TZhMuM23JNI/AAAAAAAAItg/KtcUXPTPqXk/s1600/DSC01146.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/n85yszb1z3xw0747.jpg" >}}
 
 But the crowd is only interested in eating and drinking. Restaurants at the coast are full of lazybones:
 
-{{< imgfig "https://2.bp.blogspot.com/-zDQioFmwBq4/TZhMqvy_eaI/AAAAAAAAItg/B9FaRzRHz4A/s1600/DSC01143.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/un79bu9g9amt3633.jpg" >}}
 
 Who's not afraid of cold water are horses:
 
-{{< imgfig "https://2.bp.blogspot.com/-Alj8f-Cin-E/TZhMyTGQ9cI/AAAAAAAAItg/1P10CQ8vFV4/s1600/DSC01066.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/bp5dwvp30e0q0606.jpg" >}}
 
 dogs:
 
-{{< imgfig "https://4.bp.blogspot.com/-Io0kJN5kr_M/TZhMgCh7nII/AAAAAAAAItg/eAHLQNqxOZg/s1600/DSC01110.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zn0y1zo1vvba1090.jpg" >}}
 
 surfers:
 
-{{< imgfig "https://1.bp.blogspot.com/-WRSSI_9itjI/TZhMPBzEuVI/AAAAAAAAItg/-afz2ded6wQ/s1600/DSC01133.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/nbuhzh88xzj42033.jpg" >}}
 
-{{< imgfig "https://3.bp.blogspot.com/-Sp3me2tOfLo/TZhM56QB_WI/AAAAAAAAItg/-StW6xIhVnI/s1600/DSC01115.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ts49gk0u3p9d1697.jpg" >}}
 
 and, traditionally, Dutch kids (who are remarkably frost-resistant):
 
-{{< imgfig "https://2.bp.blogspot.com/-YTGWNWqpl8k/TZhMwhvJmKI/AAAAAAAAItg/GFXZETZtI6g/s1600/DSC01131.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/gmss055j5hlc0861.jpg" >}}
 
 Since I'm none of the above, I headed for a walk around the city.
 
@@ -65,26 +65,26 @@ The Hague is not only famous for its beaches, but also for nice international co
 
 They have a circus theatre with Mary Poppins:
 
-{{< imgfig "https://2.bp.blogspot.com/-SK96Npz2-ko/TZhMYeN_02I/AAAAAAAAItg/4DEEFcWuku4/s1600/DSC01152.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/id6erwvxreyk2768.jpg" >}}
 
 Old houses of non-Dutch origin:
 
-{{< imgfig "https://4.bp.blogspot.com/-9YbMAe5pepA/TZhMbtkZsvI/AAAAAAAAItg/alvB-H3fJY0/s1600/DSC01163.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0l8b93i3lc0d3062.jpg" >}}
 
 Loads of ancient cars:
 
-{{< imgfig "https://2.bp.blogspot.com/-2CDIdsSP6Ic/TZhMWo2BIiI/AAAAAAAAItg/hGNUya0JwnM/s1600/DSC01162.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ohna0nwv8oai0961.jpg" >}}
 
-{{< imgfig "https://3.bp.blogspot.com/-_IFccpDAvEM/TZhMT3S4sbI/AAAAAAAAItg/BhbjNcEjOfA/s1600/DSC01160.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/epwfunck69gm3120.jpg" >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-BUvJZtEbnT8/TZhMoHaduKI/AAAAAAAAItg/-o_OZKBvOpE/s1600/DSC01154.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/2coihan489n21411.jpg" >}}
 
 A monument to the tax legislation:
 
-{{< imgfig "https://2.bp.blogspot.com/-8mkzQ4n0EMU/TZhM1AEQrAI/AAAAAAAAItg/YO-Opt76nO8/s1600/DSC01153.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fbghebrcqyw22778.jpg" >}}
 
 A monument to a man strayed in a doorway:
 
-{{< imgfig "https://4.bp.blogspot.com/-J2B1lkpBTXg/TZhMi-hpTaI/AAAAAAAAItg/IMZMwSQ6cVg/s1600/DSC01151.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/qvqsv64ahhc41861.jpg" >}}
 
 The Hague is a special city, you can feel its history in its streets. It's full of antique buildings, museums and foreign embassies. I'll definitely visit it again.

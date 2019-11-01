@@ -6,7 +6,7 @@ tags:
     - Нидерланды
     - авто
     - экология
-image: "https://1.bp.blogspot.com/-GYaTzeJtWNU/XW0fumiD8VI/AAAAAAAAxBs/o2tTal_IYLY7CATZz6JlHwk46oDp7eJHACKgBGAs/s1600/tanken-e10.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/a4e651oz9r2q1308.jpg"
 ---
 
 С 1 октября {{< year 2019 "этого" >}} года все нидерландские заправки, предлагающие более одного сорта бензина, {{< a "https://www.telegraaf.nl/nieuws/3068938/verplicht-e10-benzine-bij-pomp-vanaf-oktober" "обязаны" >}} предлагать вариант {{< fl "E10" >}} (с добавлением **10%** биоэтанола) *минимум на половине* имеющихся бензоколонок.

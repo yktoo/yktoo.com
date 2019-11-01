@@ -3,7 +3,7 @@ type: post
 date: "2017-04-16T00:00:00Z"
 title: "Docker Indicator 0.1.0"
 tags: ["Docker", "Docker Indicator", "Python 3", "Ubuntu", "Unity", "Yakkety Yak", "Zesty Zapus", "индикатор"]
-image: "https://3.bp.blogspot.com/-o3UHJigGfeM/WPMpddaX-kI/AAAAAAAApwQ/ZQ2WLSmSFTYQqL8TQpCd5uL5v58sjHFfgCPcB/s1600/indicator-docker-icon.png"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/raqp0z0dsc0l0578.png"
 software: docker-indicator
 aliases:
     - /ru/blog/post/319
@@ -15,7 +15,7 @@ aliases:
 
 <!--more-->
 
-{{< imgfig "https://3.bp.blogspot.com/-o3UHJigGfeM/WPMpddaX-kI/AAAAAAAApwQ/ZQ2WLSmSFTYQqL8TQpCd5uL5v58sjHFfgCPcB/s1600/indicator-docker-icon.png" "Икона Docker Indicator." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/raqp0z0dsc0l0578.png" "Икона Docker Indicator." >}}
 
 ## Что мы умеем {#features}
 
@@ -27,7 +27,7 @@ aliases:
 
 Вот как это выглядит:
 
-{{< imgfig "https://4.bp.blogspot.com/-aU2VIG_F2WA/WPMmyktgqLI/AAAAAAAApvo/K9MERC-7RTEixLhL6RJ8KUKK4WWokZknACPcB/s1600/Screenshot.png" "Скриншот Docker Indicator 0.1.0." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/6hyjhs5ko1970245.png" "Скриншот Docker Indicator 0.1.0." >}}
 
 ## Установка {#install}
 

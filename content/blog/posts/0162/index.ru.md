@@ -4,7 +4,7 @@ date: "2012-10-03T00:00:00Z"
 title: "Часть 1. Транспорт"
 series: "Барселона"
 tags: ["Барселона", "Испания", "путешествия"]
-image: "https://2.bp.blogspot.com/-eD5rhMo9hyo/UASASiBTSiI/AAAAAAAATq8/0hIuc3NvJRg/s1600/dsc02887.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/z9e7fl8pr2k50636.jpg"
 places:
     - place0026
 aliases:
@@ -15,7 +15,7 @@ aliases:
 
 Ведь ещё в июне мы впервые побывали в Барселоне в частности и в Испании вообще (если, конечно, не считать {{< a "0148" "Гран-Канарии" >}}).
 
-{{< imgfig "https://2.bp.blogspot.com/-eD5rhMo9hyo/UASASiBTSiI/AAAAAAAATq8/0hIuc3NvJRg/s1600/dsc02887.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/z9e7fl8pr2k50636.jpg" >}}
 
 <!--more-->
 
@@ -31,41 +31,41 @@ aliases:
 
 Видимо, благодаря тому соперничеству, Барселона усиленно производит впечатление богатого и вместе с тем опрятного города. Почти везде в городе установлены светодиодные светофоры без козырьков, которых я больше нигде не видел:
 
-{{< imgfig "https://3.bp.blogspot.com/-ksBdijfCiJ4/UASAaoKbrdI/AAAAAAAATrs/gGvbDkxuDJk/s1600/dsc02902.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/v4ii6fd99tim1325.jpg" >}}
 
-{{< imgfig "https://3.bp.blogspot.com/-GN_7m7fm-RQ/UASAZKoCgZI/AAAAAAAATrk/TBIQG2vixeQ/s1600/dsc02900.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/usn2kz11h2kd3333.jpg" >}}
 
 На некоторых из них кроме пешехода изображён также велосипед:
 
-{{< imgfig "https://3.bp.blogspot.com/-VBEmx2JmrkQ/UASAenlWVwI/AAAAAAAATsE/o2v4p3fAr7o/s1600/dsc02908.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/j773xci3npw82620.jpg" >}}
 
 Примерно в том же цвете выдержаны и почтовые ящики в виде огромных тумб:
 
-{{< imgfig "https://3.bp.blogspot.com/-ez49zOolils/UASAWuI014I/AAAAAAAATrU/LoQy_JjbUjA/s1600/dsc02892.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/s3nnpy2hmia01369.jpg" >}}
 
 И многочисленные такси:
 
-{{< imgfig "https://2.bp.blogspot.com/-RBPSqOAYOIk/UASCBQvge0I/AAAAAAAAT1c/vq6PsZpbIhA/s1600/dsc03057.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/stb2cb4gxhey0503.jpg" >}}
 
 Среди такси очень много Тойот-Приусов, что мне показалось необычным.
 
-{{< imgfig "https://3.bp.blogspot.com/-nr1scsHYui4/UASBrfdtNQI/AAAAAAAATzY/HTnVkcXQPr4/s1600/dsc03028.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/m3jvjgqazqcs2010.jpg" >}}
 
 Как и везде в Европе, шныряют двухэтажные туристические автобусы Hop On — Hop Off.
 
-{{< imgfig "https://2.bp.blogspot.com/-XEvOCs6Tlzw/UASB-iV8zOI/AAAAAAAAT1M/l60MgE1wHIE/s1600/dsc03053.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1m43huzws90d2704.jpg" >}}
 
 А вот это, видимо, последний писк городской техномоды — электронные дорожные знаки:
 
-{{< imgfig "https://3.bp.blogspot.com/-7Szy2oMh3h4/UASH289cQII/AAAAAAAAUYw/8adK_dJ70j4/s1600/dsc03712.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/60ai2cod7dmx2305.jpg" >}}
 
 Парковочные автоматы — обычные, такие же и в других европейских городах:
 
-{{< imgfig "https://2.bp.blogspot.com/-RykxyJEKJWY/UASEWEyV-oI/AAAAAAAAUDc/Y7iBmwbYVw8/s1600/dsc03356.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/kop66xud57tx2785.jpg" >}}
 
 А вот урны, похоже, индивидуальной разработки, с отдельной секцией для окурков (хотя не столь живописные, как {{< a "0086" "в Вене" >}}):
 
-{{< imgfig "https://4.bp.blogspot.com/-LR6kJRml-QM/UASEaD2O6AI/AAAAAAAAUD0/3AR3UMJNLFI/s1600/dsc03359.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/32iugtzqx9om3654.jpg" >}}
 
 ## Транспорт {#transport}
 
@@ -77,65 +77,65 @@ aliases:
 
 А на гору Тибидабо здесь ходит специальный олдскульный трамвай:
 
-{{< imgfig "https://4.bp.blogspot.com/-6rAUNFHp86E/UASHKgEkA4I/AAAAAAAAUUw/ZNs64Ge6vLQ/s1600/dsc03660.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/k4vxf47ev10e1323.jpg" >}}
 
 И самое загадочное — здесь два вида метро. Есть «обычный» метрополитен [TMB](http://www.tmb.cat/) ({{< fl "Transports Metropolitans de Barcelona" >}}) и так называемый [FGC](http://www.fgc.net/) ({{< fl "Ferrocarrils de la Generalitat de Catalunya" >}}), который по сути то же метро, но с TMB почему-то несовместим и при пересадке с одного на другое нужно оплачивать проезд отдельно.
 
 Обычное метро выглядит немного почище и посовременнее.
 
-{{< imgfig "https://3.bp.blogspot.com/-X6sxn5qph9g/UASFjSkH_1I/AAAAAAAAUKs/6NJHSsZieOo/s1600/dsc03462.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/b9ev1foxgit93408.jpg" >}}
 
 Здесь применяется такая же система цветового кодирования станций согласно линиям, как в {{< a "0088" "Будапештском метрополитене" >}} — под потолком проведена цветная полоса вдоль всей платформы.
 
-{{< imgfig "https://3.bp.blogspot.com/-LmbZRSaY8mk/UASFhUYPwyI/AAAAAAAAUKc/d4knuvCK-yU/s1600/dsc03460.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/jto0fc61b16l0244.jpg" >}}
 
 С непривычки во всём этом нагромождении указателей, стрелок, табличек, надписей, обозначений и значков непросто разобраться, но, вникнув в систему, понимаешь, что всё сделано довольно грамотно.
 
-{{< imgfig "https://4.bp.blogspot.com/-KM-CVbKkTIE/UASFgBQJHnI/AAAAAAAAUKU/O2DOzRHLQIc/s1600/dsc03459.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/7fu4noetvf7o1083.jpg" >}}
 
 Вот пример каталанского. Слово «выход» является гибридом французского ({{< fl "sortie" >}}) и испанского ({{< fl "salida" >}}):
 
-{{< imgfig "https://4.bp.blogspot.com/-ogBCXmPZHxg/UASFe3bAsyI/AAAAAAAAUKM/wV-eBXoh9p8/s1600/dsc03457.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/wruwdr3encgu2477.jpg" >}}
 
 Под потолком подвешены табло, показывающие время до прибытия следующего поезда с точностью до секунды.
 
-{{< imgfig "https://3.bp.blogspot.com/-Sq3v5Qb4Zz8/UASFiVXqVfI/AAAAAAAAUKk/HU7-GYKB-FM/s1600/dsc03461.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/myufkptscsaa1293.jpg" >}}
 
 Поезд метро:
 
-{{< imgfig "https://2.bp.blogspot.com/-mS4lnrihne8/UASFk_ahdEI/AAAAAAAAUK0/x4jxx3oCWSQ/s1600/dsc03465.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/03yqi6oygbs41092.jpg" >}}
 
 Двери, как и везде в цивилизованных странах, не открываются машинистом и все разом. Чтобы открыть дверь, нужно потянуть за рычажок:
 
-{{< imgfig "https://1.bp.blogspot.com/-gBT2PENPm3c/UASFmFKUvSI/AAAAAAAAUK8/aI-UNW5kbU8/s1600/dsc03467.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/on8frmebrhvm1326.jpg" >}}
 
 И это очень правильно. Зачем выпускать из вагона зимой тепло, а летом холод через все двери? Да-да, в июне тут в вагонах метро прохладно (чего отнюдь не скажешь о перронах), потому что в вагонах есть кондиционеры.
 
-{{< imgfig "https://4.bp.blogspot.com/-QjhuM6GIMr0/UASFnPEJWsI/AAAAAAAAULE/w-waY70esDw/s1600/dsc03471.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/6bbyx6g3o66q3278.jpg" >}}
 
 «Альтернативное» метро выглядит совсем без затей. Впечатление усугубляется ещё непонятного назначения спусками-подъёмами — неочевидно, почему нельзя было просто сделать прямой проход.
 
-{{< imgfig "https://2.bp.blogspot.com/-vHXN6_BDiLE/UASHGhPxBCI/AAAAAAAAUUY/a8X434TzpJI/s1600/dsc03649.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/t8s94bnjzkw80101.jpg" >}}
 
 Поезда тоже выглядят чуть попроще:
 
-{{< imgfig "https://1.bp.blogspot.com/-KT0iTWuHpYE/UASHJc5DykI/AAAAAAAAUUo/UFRhy5TA0Tc/s1600/dsc03651.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/u7nangftu1i93384.jpg" >}}
 
 В связи с этим пользуются этим видом транспорта в основном оптимисты.
 
-{{< imgfig "https://2.bp.blogspot.com/-B8qeiAsD4e0/UASEK2IBUFI/AAAAAAAAUCc/zFAwR5bZV9M/s1600/dsc03348.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/s1fag8dkfvq22878.jpg" >}}
 
 Эскалаторы в FGC почему-то отсутствуют. Зато, например, по дороге в {{< a "0165" "парк Гуэля" >}} они расположены прямо на улице под открытым небом:
 
-{{< imgfig "https://2.bp.blogspot.com/-1NNgPV2SY4Y/UASERcDtP5I/AAAAAAAAUDE/pSmXRDrcTlA/s1600/dsc03353.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/3dnlju0pc2i22741.jpg" >}}
 
 Ну и один из самых распространённых видов транспорта — мотороллеры, для которых даже специально расчерчены парковочные места:
 
-{{< imgfig "https://3.bp.blogspot.com/-GHyHjLFCR_w/UASFdPmZReI/AAAAAAAAUKE/TbXJAAFuspY/s1600/dsc03455.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/smo4hs052dj92984.jpg" >}}
 
 Значительных количеств велосипедистов замечено не было, несмотря на наличие велодорожек, подчёркивающих экологичность этого вида транспорта:
 
-{{< imgfig "https://4.bp.blogspot.com/-pqWYvJc40I0/UASGE7B1ggI/AAAAAAAAUN0/1QkJw5blHBU/s1600/dsc03502.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ilgj86rpaq5l3064.jpg" >}}
 
 Хотя что такое «значительное количество» для нас, голландцев?
 

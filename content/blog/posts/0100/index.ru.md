@@ -3,14 +3,14 @@ type: post
 date: "2011-07-09T00:00:00Z"
 title: "Канал крепчал"
 tags: ["интернет", "Нидерланды"]
-image: "https://4.bp.blogspot.com/-YqHXQQFuWho/TheAFtLzhcI/AAAAAAAAIyA/Jn0aPShS5zU/s1600/speedtest.net-2011-08-07.png"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/eohk8bbakv223159.png"
 aliases:
     - /ru/blog/post/100
 ---
 
 После прокладки {{< a "0099" "новых кабелей" >}} и продувки лазеров байты заструились по оптоволокну ещё пуще {{< a "0096" "прежнего" >}}:
 
-{{< imgfig "https://4.bp.blogspot.com/-YqHXQQFuWho/TheAFtLzhcI/AAAAAAAAIyA/Jn0aPShS5zU/s1600/speedtest.net-2011-08-07.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/eohk8bbakv223159.png" >}}
 
 <!--more-->
 

@@ -5,7 +5,7 @@ title: "RSS links moeten worden aangepast: de website migreert"
 tags:
     - aankondiging
     - website
-image: "https://4.bp.blogspot.com/-bDT2EUCLWxY/Th8_MnB40lI/AAAAAAAAJHQ/F14fig3v1NM/s1600/i-like-to-move-it.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/8l0mwo2k5qwz1414.jpg"
 aliases:
     - /nl/blog/post/351
 ---
@@ -25,7 +25,7 @@ Dat betekent ook dat de bestaande RSS links gaan veranderen:
 
 <!--more-->
 
-{{< imgfig "https://4.bp.blogspot.com/-bDT2EUCLWxY/Th8_MnB40lI/AAAAAAAAJHQ/F14fig3v1NM/s1600/i-like-to-move-it.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/8l0mwo2k5qwz1414.jpg" >}}
 
 De links moeten worden aangepast indien je een externe aggregator dienst gebruikt, zoals Feedly.
 

@@ -9,7 +9,7 @@ tags:
     - штопор
     - Xiaomi
     - обзор
-image: "https://1.bp.blogspot.com/-5Itgh2pP_yY/XY4rtDUhZ1I/AAAAAAAAyEY/5RestFWzfJYxpXJhkOgGik2SLY43lDk1wCKgBGAsYHg/s1600/20180901_140444.w.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/s3v3c28lw46a3034.jpg"
 ---
 
 Пятница — время для вина и обзоров!
@@ -26,11 +26,11 @@ image: "https://1.bp.blogspot.com/-5Itgh2pP_yY/XY4rtDUhZ1I/AAAAAAAAyEY/5RestFWzf
 
 Поставляется он в традиционной для {{< fl "Xiaomi" >}} минималистично-белой картонной коробке.
 
-{{< imgfig "https://1.bp.blogspot.com/-5Itgh2pP_yY/XY4rtDUhZ1I/AAAAAAAAyEY/5RestFWzfJYxpXJhkOgGik2SLY43lDk1wCKgBGAsYHg/s1600/20180901_140444.w.jpg" "Девайс в упаковке." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/s3v3c28lw46a3034.jpg" "Девайс в упаковке." >}}
 
 В комплекте, помимо штопора — довольно увесистого — инструкция на китайском, нож для срезания плёнки с горлышка и кабель {{< fl "USB — Micro USB" >}} для зарядки. Собственно {{< fl "USB" >}}-адаптера в коробке нет.
 
-{{< imgfig "https://1.bp.blogspot.com/--biQ6IIYQ-Y/XY4rtJ-UjTI/AAAAAAAAyEY/t05eHAeD2dgJ9gfvypBhRgEVK0dYryEXwCKgBGAsYHg/s1600/20180901_140653.w.jpg" "Комплект поставки штопора." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pim8zbe8n0uy0327.jpg" "Комплект поставки штопора." >}}
 
 ## Использование
 
@@ -50,7 +50,7 @@ image: "https://1.bp.blogspot.com/-5Itgh2pP_yY/XY4rtDUhZ1I/AAAAAAAAyEY/5RestFWzf
 
 Для зарядки его нужно подключить к любому {{< fl "USB" >}}-адаптеру, гнездо здесь стандарта {{< fl "Micro USB" >}}:
 
-{{< imgfig "https://1.bp.blogspot.com/-53DspUMuQmA/XY4rtECIYOI/AAAAAAAAyEY/H0X5mh_y_44WDFtR_mWyvXkauynZ5_BBACKgBGAsYHg/s1600/20180901_140832.w.jpg" "Зарядка штопора." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/oavtltbtxfzo3584.jpg" "Зарядка штопора." >}}
 
 Полностью заряжается он за пару часов.
 

@@ -3,7 +3,7 @@ type: post
 date: "2017-03-11T00:00:00Z"
 title: "Когда Пушной был маленький"
 tags: ["Академгородок", "забавное", "Новосибирск", "Пушной", "Россия", "старьё"]
-image: "https://1.bp.blogspot.com/-8itT_e-Bxs8/WMO43KGCn9I/AAAAAAAApcY/m-0-pOKQCbwpsPzGBqvuZPxJjc6n5POIwCPcB/s1600/mr-pushnoy.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/o0qwz19x1ewp1389.jpg"
 aliases:
     - /ru/blog/post/314
 ---
@@ -16,14 +16,14 @@ aliases:
 
 Фотография не оставляет никаких сомнений, что это он и есть. Следует также отметить мою характерную скептическую позу, уже в то время отражавшую моё нонконформистское мировоззрение:
 
-{{< imgfig "https://1.bp.blogspot.com/-8itT_e-Bxs8/WMO43KGCn9I/AAAAAAAApcY/m-0-pOKQCbwpsPzGBqvuZPxJjc6n5POIwCPcB/s1600/mr-pushnoy.picasaweb.jpg" "Группа детского сада." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/o0qwz19x1ewp1389.jpg" "Группа детского сада." >}}
 
 Фото датируется, судя по нашим физиономиям, где-то 1981-м годом. Что забавно, я помню что мы с Сашей в то время дружили, а ещё соперничали за право с ним дружить ещё с каким-то мальчиком (с кем, правда, уже не помню). После окончания детсада контакт с будущим музыкантом был, к сожалению, утерян.
 
 На обороте фотографии мама аккуратно подписала имена детей и воспитателей (что, надо признать, очень удачная идея).
 
-{{< imgfig "https://1.bp.blogspot.com/-0BpLF3IZOc0/WMO43BWkJxI/AAAAAAAApcY/c6nkQwcLy2g7heKYkiglLTyShuHzoYVqgCPcB/s1600/mr-pushnoy-2.picasaweb.jpg" "Оборот фотографии." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/wp5rrxl13rub3259.jpg" "Оборот фотографии." >}}
 
 А где-то пару лет спустя началось моё собственное приобщение к музыке: родители записали меня на частные уроки гитары (точнее, гитарки, судя по её размерам):
 
-{{< imgfig "https://1.bp.blogspot.com/-9BwTBu8PDGc/WMPEw9YmM-I/AAAAAAAApdU/nEGTnIV2I1QhV373IF6JuHS5fgVFOkY2ACPcB/s1600/me-and-guitar.picasaweb.jpg" "Мы с гитаркой." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1w3z7ubexfet3133.jpg" "Мы с гитаркой." >}}

@@ -10,7 +10,7 @@ tags:
     - Нидерланды
     - спорт
     - 合気道
-image: "https://1.bp.blogspot.com/-TdPd_onoFfk/T420CGyYn6I/AAAAAAAAO_0/CnPmP3fiONQ/s1600/Demo+Skatebaan+%252813-09-2008%2529+001.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/r3qlhpruww4k2065.jpg"
 places:
     - place0153
 aliases:
@@ -19,7 +19,7 @@ aliases:
 
 Была парочка интересных мероприятий у нас в айкидо-клубе.
 
-{{< imgfig "https://1.bp.blogspot.com/-TdPd_onoFfk/T420CGyYn6I/AAAAAAAAO_0/CnPmP3fiONQ/s1600/Demo+Skatebaan+%252813-09-2008%2529+001.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/r3qlhpruww4k2065.jpg" >}}
 
 <!--more-->
 

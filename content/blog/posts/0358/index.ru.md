@@ -10,7 +10,7 @@ tags:
     - интересное
     - рост
     - медицина
-image: "https://1.bp.blogspot.com/-F6OFwJ4Aji8/XW59mee6-aI/AAAAAAAAxFk/bT8vb_qQeCEGfhy-ZEcHoJ3MxjYsV2PGACKgBGAs/s1600/extreem-lange-kinderen.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/0dxqrnwpahgf2711.jpg"
 ---
 
 Голландцы, {{< wiki "List_of_average_human_height_worldwide" "en" "как известно" >}}, самая высокая нация на земле: средний рост мужчин **181 см**, женщин **168 см**.
@@ -23,7 +23,7 @@ image: "https://1.bp.blogspot.com/-F6OFwJ4Aji8/XW59mee6-aI/AAAAAAAAxFk/bT8vb_qQe
 
 В качестве примера упоминается мальчик Янник 13 лет, уже сейчас его рост составляет **196 см**:
 
-{{< imgfig "https://1.bp.blogspot.com/-F6OFwJ4Aji8/XW59mee6-aI/AAAAAAAAxFk/bT8vb_qQeCEGfhy-ZEcHoJ3MxjYsV2PGACKgBGAs/s1600/extreem-lange-kinderen.jpg" "13-летний Янник с друзьями: благодаря операции его рост в будущем будет **2,08**, а не **2,15 м** (фото NOS)." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0dxqrnwpahgf2711.jpg" "13-летний Янник с друзьями: благодаря операции его рост в будущем будет **2,08**, а не **2,15 м** (фото NOS)." >}}
 
 Парень жалуется на множество проблем, возникающих из-за его роста: еле помещается на кровати, брюки постоянно коротки, сидя в кресле, приходится сутулиться, очень часто ударяется обо что-нибудь головой ~~(так вот в чём дело)~~. А его менее рослые сверстники ему завидуют: он пользуется бо́льшим успехом у девочек и выглядит взрослее.
 

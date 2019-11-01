@@ -3,7 +3,7 @@ type: post
 date: "2015-12-02T00:00:00Z"
 title: "Обзор Nest Protect 2"
 tags: ["Google", "Nest", "Nest Protect 2", "гаджеты", "железо", "обзор"]
-image: "https://4.bp.blogspot.com/-9MqWjRo4DI8/VlrPOWc_hXI/AAAAAAAAk2c/qI6pz9SyOT0/s1600/dsc01093.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/pksj4yaj2vcz1613.jpg"
 aliases:
     - /ru/blog/post/265
 ---
@@ -24,7 +24,7 @@ aliases:
 
 Но всё же есть и приятное исключение. После некоторых поисков мой выбор пал на [Nest Protect 2](https://nest.com/blog/2015/06/17/meet-the-new-nest-protect/), «умный» детектор дыма и угарного газа.
 
-{{< imgfig "https://4.bp.blogspot.com/-9MqWjRo4DI8/VlrPOWc_hXI/AAAAAAAAk2c/qI6pz9SyOT0/s1600/dsc01093.picasaweb.jpg" "Nest Protect 2." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pksj4yaj2vcz1613.jpg" "Nest Protect 2." >}}
 
 ## Nest Labs
 
@@ -111,43 +111,43 @@ aliases:
 
 Упаковочная коробка из прочного картона выглядит очень солидно — чувствуется влияние Apple.
 
-{{< imgfig "https://4.bp.blogspot.com/-lN_q6pfT7xY/VlrPOcGkqGI/AAAAAAAAk2c/ISvs0rB2e1o/s1600/dsc01086.picasaweb.jpg" "Nest Protect 2 в упаковке." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/yxv6nmglyy0z0036.jpg" "Nest Protect 2 в упаковке." >}}
 
 Значок кабеля в левом нижнем углу коробки, похожий на логотип этого сайта, означает что это версия {{< fl "Wired" >}}, которая требует подключения к сети.
 
 Ящичек заклеен плёнкой, так что незаметно открыть его не получится.
 
-{{< imgfig "https://3.bp.blogspot.com/-iBqZ79TDlr0/VlrPOdife5I/AAAAAAAAk2c/jbtS6_zZngs/s1600/dsc01087.picasaweb.jpg" "Коробка опечатана." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/k4uwqyeyav4y2564.jpg" "Коробка опечатана." >}}
 
 Сняв крышку, видишь конверт с инструкциями. Как и у Apple, упаковка продуманная — для вытаскивания конверта на нём специальный язычок.
 
-{{< imgfig "https://2.bp.blogspot.com/-9_QnXCiCCKI/VlrPOVGhhLI/AAAAAAAAk2c/DxQlYbaHRyI/s1600/dsc01088.picasaweb.jpg" "Конверт с руководствами." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1aw8zzd02azh0835.jpg" "Конверт с руководствами." >}}
 
 Под конвертом лежит наш герой, прикрытый пластиковой крышкой.
 
-{{< imgfig "https://3.bp.blogspot.com/-G88VFohIu7Q/VlrPOfHij-I/AAAAAAAAk2c/-23POZ_4rNk/s1600/dsc01089.picasaweb.jpg" "Nest Protect 2 в коробке." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/wbf4rscjqjph3142.jpg" "Nest Protect 2 в коробке." >}}
 
 Крышка очень жёсткая и надевается на девайс довольно плотно. Для особо одарённых на ней написано, что при использовании детектора её необходимо удалить. Кроме того, руководство рекомендует её сохранить, чтобы закрывать детектор при покраске.
 
 Под устройством находится кольцо для крепления его на стену или потолок. На кольце — бумажка с предупреждением, что перед включением девайса его сначала необходимо настроить с помощью мобильного приложения.
 
-{{< imgfig "https://1.bp.blogspot.com/-LA6Hzb2v-qI/VlrPOaaMX_I/AAAAAAAAk2c/5esNRmV1srg/s1600/dsc01090.picasaweb.jpg" "Nest Protect 2." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/61t6u62u45vi3528.jpg" "Nest Protect 2." >}}
 
 Под кольцом в специальной ячейке сетевой провод с разъёмом на одном конце и залуженными проводами на другом, три клеммы и четыре шурупа. В том, как это всё разложено, чувствуется просто-таки адская аккуратность — клеммы лежат именно вверх-вниз-вверх (и это не случайность, во второй коробке они лежали точно так же). И это по-нашему!
 
-{{< imgfig "https://3.bp.blogspot.com/-ImuPhW_9UB4/VlrPObg7G-I/AAAAAAAAk2c/9zKayOYkobw/s1600/dsc01091.picasaweb.jpg" "Технологический фетишизм." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/seg7f751hr101201.jpg" "Технологический фетишизм." >}}
 
 Вот всё содержимое упаковки:
 
-{{< imgfig "https://2.bp.blogspot.com/-VBwVfgZfyzc/VlrPOeG9xEI/AAAAAAAAk2c/d54tBPqsYsw/s1600/dsc01092.picasaweb.jpg" "Комплект поставки." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/jvb38rxxfiaw0486.jpg" "Комплект поставки." >}}
 
 Рассмотрим главного героя со стороны дна. Сверху технологический разъём {{< fl "Mini USB" >}}, по обе стороны от него тонна информации о видах предупреждений и индикации на французском и голландском, в центре разъём питания от сети, внизу откидывающийся отсек для батарей резервного питания, на котором расположен индивидуальный QR-код детектора.
 
-{{< imgfig "https://3.bp.blogspot.com/-WVSGSFKMbhs/VlrPOQJrZtI/AAAAAAAAk2c/FawSaqVZBV0/s1600/dsc01094.picasaweb.jpg" "Nest Protect 2 — вид снизу." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/t7hcjp40ln482989.jpg" "Nest Protect 2 — вид снизу." >}}
 
 Изначально батареи отключены изолирующей вставкой для предотвращения их разряда. Батарейки, как уже упоминалось выше, литиевые, долгоиграющие, тип {{< fl "Energizer Ultimate Lithium L91" >}}, размер {{< fl "AA" >}}.
 
-{{< imgfig "https://3.bp.blogspot.com/-GY4qiiTiHfU/VlrPOVc3o6I/AAAAAAAAk2c/eHewDU37Qp4/s1600/dsc01096.picasaweb.jpg" "Nest Protect 2 — батарейный отсек." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ignmjm2j77sd1661.jpg" "Nest Protect 2 — батарейный отсек." >}}
 
 Никаких конкретных цифр о том, какой у прибора пробег от этих батарей, компания не приводит, ограничиваясь утверждением, что срок их службы «многолетний» ({{< fl "«All Nest Protect models are designed for multiple years of battery life.»" >}}). Судя по тому, что первые предупреждения {{< fl "Protect" >}} начинает выдавать за полгода до полного разряда, речь действительно идёт о годах.
 
@@ -155,15 +155,15 @@ aliases:
 
 Сетевой разъём снабжён защёлкой и заметно выступает из корпуса, поэтому на глухой потолок или стену его не поставить, нужна монтажная коробка.
 
-{{< imgfig "https://1.bp.blogspot.com/-JUymlNnphFc/VlrPOU4wHWI/AAAAAAAAk2c/mmTZ9jT9cf8/s1600/dsc01097.picasaweb.jpg" "Nest Protect 2 — сетевой кабель." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/2weapghsuif52969.jpg" "Nest Protect 2 — сетевой кабель." >}}
 
 Крепёжное кольцо с «лицевой» стороны (со стороны детектора) имеет резиновый уплотнитель по периметру:
 
-{{< imgfig "https://3.bp.blogspot.com/-M_0VKHDHJ5w/VlrPOQ6mdcI/AAAAAAAAk2c/Cz1vSsk357E/s1600/dsc01098.picasaweb.jpg" "Nest Protect 2 — крепёжное кольцо." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/t6nbvag77x7h1464.jpg" "Nest Protect 2 — крепёжное кольцо." >}}
 
 То же самое с обратной стороны, для непонятливых нарисован зачёркнутый шуруп:
 
-{{< imgfig "https://4.bp.blogspot.com/-70NhPGfrSlI/VlrPOdrzdBI/AAAAAAAAk2c/GjZGrKsdzJY/s1600/dsc01099.picasaweb.jpg" "Nest Protect 2 — крепёжное кольцо, вид сзади." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9ts4t3b3xsiz0045.jpg" "Nest Protect 2 — крепёжное кольцо, вид сзади." >}}
 
 ## Регистрация и настройка
 
@@ -171,7 +171,7 @@ aliases:
 
 После этого запустить приложение, выбрать продукт {{< fl "Nest Protect" >}}, и оно предложит сканировать тот самый индивидуальный QR-код на дне прибора. Главный экран приложения приведён на скриншоте справа — если у вас есть другие продукты {{< fl "Nest" >}} (камера, термостат), они тоже появятся здесь.
 
-{{< imgfig "https://3.bp.blogspot.com/-lrKhFu7LA7Q/Vlyy04Hc56I/AAAAAAAAk3Y/xhW7YmFKrzw/s1600/nest-app-02.picasaweb.png" "Nest App. Добавление нового устройства и главный экран." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/nryeh8sz6h920754.png" "Nest App. Добавление нового устройства и главный экран." >}}
 
 После регистрации приложение просит вытащить защитную плёнку из батарейного отсека. Получив долгожданное питание, прибор начинает радостно мигать светодиодным кольцом и разговаривать человеческим голосом, требуя выбрать язык. Поскольку девайс куплен здесь, в Нидерландах, изначально предлагается выбрать между французским (для Франции и Бельгии) и голландским (для Голландии и опять же Бельгии). Потом запускается процедура самотестирования, заключающаяся в проверке работы сирены в разных режимах (дым, угарный газ). Приложение подключается к прибору по Bluetooth и сообщает ему пароль от Wi-Fi, также необходимо дать конкретному экземпляру детектора название: например, «спальня» или «гостиная». Впоследствии оно будет использоваться для указания того, где именно обнаружена опасность.
 
@@ -179,11 +179,11 @@ aliases:
 
 Нажав на {{< fl "Protect" >}} на главном экране, попадаешь в раздел диагностики. Здесь можно запустить внеочередную проверку для каждого устройства, а также просмотреть историю предупреждений:
 
-{{< imgfig "https://3.bp.blogspot.com/-QIs71DyAyX0/Vlyy0ysq1oI/AAAAAAAAk3Y/ktOU05prElg/s1600/nest-app-01.picasaweb.png" "Nest App. Диагностика и история." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/flgl05qvqa0b2173.png" "Nest App. Диагностика и история." >}}
 
 Каждый из экземпляров {{< fl "Nest Protect" >}} настраивается индивидуально: у каждого можно независимо настроить функции ночника ({{< fl "Pathlight" >}}), «обещания на ночь» ({{< fl "Nightly Promise" >}}), детектора пара ({{< fl "Steam Check" >}}), предварительного предупреждения о том, что скоро сирена завоет по полной ({{< fl "Heads-Up" >}}), времени суток для ежемесячного теста, а также выбрать язык (в дополнение к двум, предлагавшимся при включении питания):
 
-{{< imgfig "https://3.bp.blogspot.com/-3nNQMHmXIHs/Vlyy0633rjI/AAAAAAAAk3Y/8KnPCdf0hfE/s1600/nest-app-03.picasaweb.png" "Nest App. Настройки детектора." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/oqijw04m1r343071.png" "Nest App. Настройки детектора." >}}
 
 В целом приложение очень простое и понятное.
 
@@ -195,13 +195,13 @@ aliases:
 
 Несмотря на весь перфекционизм создателей девайса и уйму дырочек в крепёжном кольце, не нашлось ни одной пары отверстий, которая бы подошла под стандартную голландскую монтажную коробку. Науке ещё предстоит объяснить этот загадочный факт. Пришлось закреплять кое-как:
 
-{{< imgfig "https://1.bp.blogspot.com/-QtFm6uEXm7s/VlrPOdycoqI/AAAAAAAAk2c/5Y8-Ext56C4/s1600/dsc01100.picasaweb.jpg" "Nest Protect 2. Потолочное крепление наискось." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ajr6srslsd8v1377.jpg" "Nest Protect 2. Потолочное крепление наискось." >}}
 
 При этом надо учитывать, что штекер питания устройства торчит на добрый сантиметр (см. фото выше), а для закрепления детектор нужно провернуть на 90-120°. Поэтому вокруг отверстия в потолке (или стене) должно оставаться достаточно места.
 
 Провод питания подключается к проводке прилагаемыми клеммами, после этого штекер вставляется в соответствующий разъём на дне, девайс вставляется в пазы крепёжного кольца и поворачивается так, чтобы выглядело *красиво*. Довольный {{< fl "Protect" >}} благодарно светится голубым светом:
 
-{{< imgfig "https://2.bp.blogspot.com/-ZTziIeTzXvA/VlrPOXUtRMI/AAAAAAAAk2c/KYoxRkcGUN4/s1600/dsc01103.picasaweb.jpg" "Nest Protect 2 на потолке." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0u5umd2c09tq3504.jpg" "Nest Protect 2 на потолке." >}}
 
 После этого детектор входит в дежурный режим: кольцо гаснет, остаётся лишь маленький зелёный индикатор сети.
 
@@ -215,7 +215,7 @@ aliases:
 
 Основного своего предназначения — обнаружения пожара — устройству выполнить пока, к счастью, не довелось. В целях тестирования я поджёг и задул спичку под носом у прибора, тот немедленно отреагировал предупреждением: «Дым в спальне, проверьте, что происходит. Может зазвучать сирена, сирена громкая». Если вы уверены, что всё в порядке, тревогу можно отменить в мобильном приложении ({{< fl "Silence" >}}).
 
-{{< imgfig "https://4.bp.blogspot.com/-glh8lW3NFOM/Vl63AYVEQ4I/AAAAAAAAk4Y/mM9JnIRgyIA/s1600/nest-app-04.picasaweb.png" "Nest Protect 2: реакция на дым и раздел «Сообщения»." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/bqwjtut3vs7k2841.png" "Nest Protect 2: реакция на дым и раздел «Сообщения»." >}}
 
 Также в аккаунте {{< fl "Nest" >}} хранится список событий, которые можно просмотреть в разделе {{< fl "Messages" >}}. Там фиксируются, например, отключения электропитания (скриншот справа).
 

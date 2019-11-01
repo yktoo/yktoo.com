@@ -3,7 +3,7 @@ type: post
 date: "2010-12-10T00:00:00Z"
 title: "Всем щенкам в Нидерландах будут вживлять микрочипы"
 tags: ["Нидерланды", "новости", "СМИ", "технологии"]
-image: "https://3.bp.blogspot.com/_PX65_e7vApk/TQKVyZHocgI/AAAAAAAAHwg/uosILSooGKQ/s1600/chip.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/pgjqkw9uj6pt3449.jpg"
 aliases:
     - /ru/blog/post/65
 ---
@@ -17,7 +17,7 @@ aliases:
 >
 > Министр надеется, что эта мера уменьшит количество случаев «нелегального  выведения» собак, а также существенно облегчит поиск владельца собаки в  случае необходимости.
 
-{{< imgfig "https://3.bp.blogspot.com/_PX65_e7vApk/TQKVyZHocgI/AAAAAAAAHwg/uosILSooGKQ/s1600/chip.jpg" "Так выглядит вживляемый животным микрочип. Фото с сайта dierendokters.com" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pgjqkw9uj6pt3449.jpg" "Так выглядит вживляемый животным микрочип. Фото с сайта dierendokters.com" >}}
 
 От себя добавлю, что проблема «саморазведения» собак в Нидерландах  практически отсутствует по причине отсутствия беспризорных животных.  Кроме того, подавляющее большинство собак и кошек в стране уже имеют  вживлённые микрочипы. Найденное животное (или птицу) можно легко и  быстро идентифицировать с помощью [специального сервиса](http://www.chipnummer.nl/); есть аналогичный сервис [для домашнего скота](http://www.pve.nl/).
 

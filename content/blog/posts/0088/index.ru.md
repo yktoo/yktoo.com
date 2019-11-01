@@ -4,12 +4,12 @@ date: "2011-04-17T00:00:00Z"
 title: "Часть 6. Будапешт"
 series: "Вена и Будапешт"
 tags: ["Будапешт", "Венгрия", "путешествия"]
-image: "https://2.bp.blogspot.com/-TT8ijGC6JlM/Tan1xe9HsYI/AAAAAAAAItc/gL4QKmtreoI/s1600/dsc01819.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/x8i2ji1nzo1w1012.jpg"
 aliases:
     - /ru/blog/post/88
 ---
 
-{{< imgfig "https://2.bp.blogspot.com/-TT8ijGC6JlM/Tan1xe9HsYI/AAAAAAAAItc/gL4QKmtreoI/s1600/dsc01819.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/x8i2ji1nzo1w1012.jpg" >}}
 
 Будапешт ({{< fl "Budapest" >}}) — столица Венгрии (честно). Венгрия входит в состав ЕС (чем венгры неимоверно гордятся, судя по количеству флагов Евросоюза, понаразвешенных на каждом углу), но ни разу не входит в зону евро, что для меня было довольно неожиданным (меня просветили только в поезде где-то между Веной и Будапештом). Там своя неповторимая валюта под названием **форинт** ({{< fl "HUF" >}}), который меняется сейчас по курсу около ~~мешка~~ 260 за один евро, в связи с чем счёт денег, как правило, идёт на тысячи (привет, 1990-е!).
 
@@ -21,7 +21,7 @@ aliases:
 
 Зажав в кулаке заветные бумажки со множеством нулей, мы спустились в метро, а там…
 
-{{< imgfig "https://1.bp.blogspot.com/-GGZrx9D6G5Y/Tan3R2PK0YI/AAAAAAAAItc/AD2kwrH4B8E/s1600/dsc01730.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/nh7nxske2qiv3207.jpg" >}}
 
 У родившихся в СССР/России тут же возникает дежавю, уже более не покидающее вплоть до пересечения границы на пути обратно.
 
@@ -29,13 +29,13 @@ aliases:
 
 На каждой станции, так же, как и в московском, и в отличие от, например, амстердамского метро, останавливаются поезда только одной ветки. Ветки (как и в Москве) разноцветные, и станции по периметру отделаны полосой того же цвета, и это — превосходная идея. Точно так же оформлены переходы на другую линию. Вот, например, красная ветка:
 
-{{< imgfig "https://4.bp.blogspot.com/-uNuHPbnY54o/Tan3iWIyo5I/AAAAAAAAItc/YM9OFFqO0Is/s1600/dsc01822.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/7dw40i6qu2eb2384.jpg" >}}
 
 Металлический шар под потолком — это камера видеонаблюдения. На редкость вандалоустойчивое исполнение.
 
 24-часовой билет на все виды общественного транспорта города (метро, трамваи, автобусы, троллейбусы (да-да), и даже на междугородних автобусах до первой остановки за чертой города), стоит 1 550 форинтов. Разовый стоит 320. Не сильно дёшево, но и не фатально.
 
-{{< imgfig "https://2.bp.blogspot.com/-Epo_dtTzegs/TaoYFiXBYBI/AAAAAAAAIdw/eiJtAYms3Fw/s1600/24-hours-Budapest.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0nohgmk0ue7q1193.jpg" >}}
 
 Этот билетик надо засунуть в специальный компостер на станции, и тот отпечатает на нём QR-код. На каждой станции непосредственно перед эскалаторами всегда стоят три-четыре ~~мордатых~~ крепких мужика (порой встречаются и женщины) ~~и считывают QR-коды~~ и проверяют билеты.
 
@@ -43,7 +43,7 @@ aliases:
 
 Эскалаторы в метро, пожалуй, поновее. И оснащены вентиляторами:
 
-{{< imgfig "https://3.bp.blogspot.com/-i-souFPl_vc/Tan3g42IFyI/AAAAAAAAItc/NAaxqqq1FCo/s1600/dsc01739.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/91mwcwa2vs0r0546.jpg" >}}
 
 Будапешт — та ещё Европа. Очень многое напоминает одновременно и о советском периоде, и о современной российской реальности.
 
@@ -53,28 +53,28 @@ aliases:
 
 Единственные слова, хоть что-то напомнившие мне, были {{< fl "szerda" >}} (среда) и {{< fl "szendvics" >}} (сендвичи). Улица по-венгерски {{< fl "utca" >}} («утца»), но мы, дикари, читали это всю дорогу как «утка».
 
-{{< imgfig "https://4.bp.blogspot.com/-VIGinjV7CxU/Tan3Gs_dCAI/AAAAAAAAItc/bHPDzMcEMEc/s1600/dsc01753.picasaweb.jpg" "Одна из «уток»" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/r7u7gr2ziibw2701.jpg" "Одна из «уток»" >}}
 
 А ещё, а ещё, Венгрия — родина автобусов «Икарус»! Была, потому что в 2004 году массовое производство было прекращено, но это неважно. Это такая же часть моей истории, как автоматы с газводой по три копейки, {{< a "0077" "МММ" >}} и жевачка «Love Is».
 
 Здесь попадаются вот такие вот необычные экземпляры, как этот прогулочный туристический автобус:
 
-{{< imgfig "https://2.bp.blogspot.com/-ckGB0poJIvg/Tan1eOjiQaI/AAAAAAAAItc/WGskN2LSqz8/s1600/dsc01911.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/e1p8y78zad8o3058.jpg" >}}
 
 Городской трамвай:
 
-{{< imgfig "https://2.bp.blogspot.com/-9m9ThUS0-vo/Tan3zLa1J0I/AAAAAAAAItc/Jejcy6a2eZw/s1600/dsc01746.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/h4vlecq63l081810.jpg" >}}
 
 Здания, дороги, транспорт явно могли бы содержаться в лучшем состоянии.
 
-{{< imgfig "https://2.bp.blogspot.com/-Ptq6vqb3IiY/Tan2yUGgxDI/AAAAAAAAItc/5kV-BEy17A8/s1600/dsc01756.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/13tu501ajg3i1533.jpg" >}}
 
 В то же время выглядит всё в целом опрятно, хоть и не блистает. В общем, заметно что деньги тут ~~пилят меньше~~ считают лучше, чем в России. Всё это компенсируется огромным количеством очень красивых зданий.
 
-{{< imgfig "https://1.bp.blogspot.com/-AG_rGFatuG0/Tan1S1W1VZI/AAAAAAAAItc/sa_Uv1HovRk/s1600/dsc01930.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/s2ysa1ozp2bo2481.jpg" >}}
 
 Поближе:
 
-{{< imgfig "https://3.bp.blogspot.com/-4DN3EGDXGzw/Tan16V3J-eI/AAAAAAAAItc/L9NAUcB6iEw/s1600/dsc01931.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/amlxcuo2oouo2568.jpg" >}}
 
 Продолжение: {{< a "0089" "Часть 7. Ночной Будапешт" >}}

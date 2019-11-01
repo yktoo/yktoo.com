@@ -3,7 +3,7 @@ type: post
 date: "2016-02-13T00:00:00Z"
 title: "Тексты и аккорды «Радиолярии»"
 tags: ["веб", "моя музыка", "музыка", "Радиолярия", "сайт"]
-image: "https://2.bp.blogspot.com/-DBiuKQ_K9UE/Vr8IQ8dFYbI/AAAAAAAAlbI/QyIPuFvfeTc/s1600/radiolaria-song-chords.picasaweb.png"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/m0hlofsuprnc0117.png"
 aliases:
     - /ru/blog/post/271
 ---
@@ -12,7 +12,7 @@ aliases:
 
 Также я попытался добавить к ним аккорды — там, где смог вспомнить. Впрочем, процесс этот ещё не окончен (но надо поторопиться, пока ещё не совсем забыл). Аккорды можно «включить» нажатием кнопки на странице песни:
 
-{{< imgfig "https://2.bp.blogspot.com/-DBiuKQ_K9UE/Vr8IQ8dFYbI/AAAAAAAAlbI/QyIPuFvfeTc/s1600/radiolaria-song-chords.picasaweb.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/m0hlofsuprnc0117.png" >}}
 
 <!--more-->
 
@@ -30,4 +30,4 @@ aliases:
 
 Вот ещё из архивного, 2003 год:
 
-{{< imgfig "https://2.bp.blogspot.com/-d45T3gHSAv0/Vr8NdFjAklI/AAAAAAAAlbo/6cnaU_RfI7w/s1600/img00061.picasaweb.jpg" "Утомлённый франкфуртским солнцем рокер." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/qj1q5db54vbf2030.jpg" "Утомлённый франкфуртским солнцем рокер." >}}

@@ -4,7 +4,7 @@ date: "2015-05-14T00:00:00Z"
 title: "Часть 1. Общие данные, распаковка, внешний вид"
 series: "Полный обзор 75-дюймового 4K-телевизора Samsung UE75HU7500"
 tags: ["Samsung", "Smart TV", "анбоксинг", "гаджеты", "железо", "обзор", "телевизоры"]
-image: "https://3.bp.blogspot.com/-Io14-rNSbMM/VQQq8W1CZiI/AAAAAAAAhPk/PqjH6gunL3I/s1600/dsc08021.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/p2m7bcrlfvpq0811.jpg"
 aliases:
     - /ru/blog/post/243
 ---
@@ -19,7 +19,7 @@ aliases:
 
 Это один из самых больших телевизоров компании, имеющихся в массовой продаже на сегодняшний день; крупнее него есть лишь «гнутые» 78-дюймовики [78JU7500](http://www.samsung.com/us/video/tvs/UN78JU7500FXZA) и [78HU9000](http://www.samsung.com/us/video/tvs/UN78HU9000FXZA) и мегамонстр [85HU7500](http://www.samsung.com/nl/consumer/tv-audio-video/televisions/uhd-tv/UE85HU7500LXXN) с диагональю 85" — но у них цены уж совсем заоблачные (85-дюймовая модель стоит десять тысяч евро).
 
-{{< imgfig "https://3.bp.blogspot.com/-Io14-rNSbMM/VQQq8W1CZiI/AAAAAAAAhPk/PqjH6gunL3I/s1600/dsc08021.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/p2m7bcrlfvpq0811.jpg" >}}
 
 Предлагаю вашему вниманию (почти) полный обзор телевизора от, так сказать, первого лица. Обзор разбит на несколько частей, поскольку иначе он получался слишком объёмным.
 
@@ -116,64 +116,64 @@ Samsung UE75HU7500 - LED-телевизор самого последнего п
 
 Коробка этого телевизора необъятна, она почти два метра в длину и чуть больше метра в высоту.
 
-{{< imgfig "https://2.bp.blogspot.com/-_RpStDaS4sc/VQQq3QVVtLI/AAAAAAAAhPc/BNSOCUF13qo/s1600/dsc07884.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/r9u57ajhwayy3035.jpg" >}}
 
 Вот она в сравнении с креслом — для масштаба. Весит она более пятидесяти кило, так что одному с ней справиться почти нереально. При этом она лишь 25 см в толщину, что необходимо учитывать при распаковке — особой устойчивостью она не отличается.
 
-{{< imgfig "https://1.bp.blogspot.com/-z5QJqfYV3NU/VQx1ivTfVQI/AAAAAAAAhSg/Gnsv3NsK45o/s1600/dsc07882_zoomed.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/61x844dzg1ut0306.jpg" >}}
 
 Обратите внимание на надпись: сэкономили на HDMI-кабеле за пять евро с ТВ за пять тыщ. И даже не постыдились написать об этом на упаковке.
 
 Верхняя часть коробки легко снимается, если извлечь пластиковые защёлки, расположенные внизу.
 
-{{< imgfig "https://1.bp.blogspot.com/-fQuuyUC2ApA/VQQq4M4yBhI/AAAAAAAAhPc/N0ONYD6-8E8/s1600/dsc07885.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/3686nrcdiasw2038.jpg" >}}
 
 Панель удерживается в вертикальном положении лишь пенопластовыми вставками по углам, поэтому не стоит заниматься распаковкой этого устройства при землетрясении. Удаляем лишний пенопласт, вытаскиваем обе детали подставки и коробочку с аксессуарами.
 
-{{< imgfig "https://2.bp.blogspot.com/-fbJN6TFvktA/VQQq4hZbsoI/AAAAAAAAhPc/GYaplj-8RXA/s1600/dsc07886.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/l98uz7cwi2711357.jpg" >}}
 
 Вот всё, что входит в комплект: два пульта с батарейками, пластиковые втулки для крепления VESA-кронштейна, сетевой провод, инфракрасный излучатель, адаптер для CI+, две пары 3D-очков и инструкция. HDMI-кабеля действительно нет, хм…
 
-{{< imgfig "https://2.bp.blogspot.com/-3RUMB_Srfm8/VQQq5E41FAI/AAAAAAAAhPc/wzTXkv5y1NU/s1600/dsc07887.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/5sf4j3pmusx73457.jpg" >}}
 
 Аккуратно прикрепив панель к подставке (на первое время), включаем монстра в сеть. Первое, на что обращаешь внимание — шум кулера! Да-да, в этом телевизоре есть кулер и его довольно хорошо слышно.
 
 Запускается мастер настройки и первым делом просит подключить устройство к живительному интернету — благо и Ethernet, и Wi-Fi уже встроены.
 
-{{< imgfig "https://2.bp.blogspot.com/-3EYdiRUxvI0/VQQq5gl7waI/AAAAAAAAhPc/01v47yZJ-Gc/s1600/dsc07888.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/phg7xsnsy54a2908.jpg" >}}
 
 Потом следуют ещё несколько экранов со всякой всячиной, навроде лицензионного соглашения и политики приватности. Приходит очередь подключить инфракрасный излучатель (IR Extender) — маленькую пластиковую шайбу с проводом, заканчивающимся обычным 3,5-мм-штеккером.
 
-{{< imgfig "https://1.bp.blogspot.com/-B8zosw162LU/VQQq6lte0pI/AAAAAAAAhPk/zNrBJomypDY/s1600/dsc07890.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/8l9prjm1oncx3069.jpg" >}}
 
 Штеккер втыкается в специальное гнездо на спине телевизора, а шайбу надо положить перед декодером кабельного ТВ (set-top box):
 
-{{< imgfig "https://1.bp.blogspot.com/-CKu5aqdVJCc/VQQq6-5LpNI/AAAAAAAAhPk/Iwq-9rp0-Rg/s1600/dsc07891.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vg59w2tjyfzu2355.jpg" >}}
 
 Этот механизм позволяет телевизору самостоятельно управлять декодером, включая его питание, меняя каналы или вызывая расписание программ (TV guide), и это крайне удобно.
 
 Десятый, финальный, экран обещает, что телевизор будет сам умнеть день ото дня.
 
-{{< imgfig "https://4.bp.blogspot.com/-w0tBj55d8XM/VQQq7FPjA4I/AAAAAAAAhMk/pMQRR698UPg/s1600/dsc07892.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/v8a9vfk4boq63252.jpg" >}}
 
 ## Осматриваемся {#look}
 
-{{< imgfig "https://2.bp.blogspot.com/-yofxPehwKDg/VQRRmuQ8RvI/AAAAAAAAhQY/OSGk2lA7xd0/s1600/UE75UH7500-front.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/k8lg101j3h1f1486.jpg" >}}
 
 Выглядит монстр, надо признать, довольно стильно. Очень тонкая металлическая рамка экрана и полное отсутствие каких-либо посторонних предметов на лицевой панели. Подставка из чистого алюминия вытягивает на семь (!) килограмм.
 
-{{< imgfig "https://3.bp.blogspot.com/-vAgojTpaGaI/VQRVNW0TR6I/AAAAAAAAhQw/bbJTmDOOChk/s1600/UE75UH7500-corner.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0sooctchdbfn2884.jpg" >}}
 
 В профиль он очень тонкий, лишь 38 миллиметров без учёта подставки.
 
-{{< imgfig "https://3.bp.blogspot.com/-OoXCJJognTg/VQRR5ymlieI/AAAAAAAAhQk/FFVaNx6XUZg/s1600/UE75UH7500-side.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/s8409dnvst210506.jpg" >}}
 
 Прямо под экраном находится голубой индикатор включения, работу которого можно настраивать через меню телевизора (всегда включен, всегда выключен, включается вместе с телевизором):
 
-{{< imgfig "https://4.bp.blogspot.com/-qPpQHwPT6Yo/VQQq-PaispI/AAAAAAAAhNM/upoEZG_lU5c/s1600/dsc08028.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/2s3vkssma2c93374.jpg" >}}
 
 Задняя панель устройства: слева блок коннекторов, посередине четыре отверстия под VESA-кронштейн для крепления на стену, правее гнездо сетевого кабеля. В нижнем левом углу расположен крохотный джойстик, который можно использовать для управления основными функциями телевизора в отсутствие пульта ДУ.
 
-{{< imgfig "https://1.bp.blogspot.com/-Vx4r1uWK4Yo/VQRXOzHcR8I/AAAAAAAAhRM/8RhxFM9UNE8/s1600/UE75UH7500-rear-full.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/dsxau4dxvrpn1907.jpg" >}}
 
 *Далее:* {{< a "0244" "Часть вторая. Подключение и управление" >}}

@@ -9,7 +9,7 @@ tags:
     - Thalys
     - Франция
     - Париж
-image: "https://1.bp.blogspot.com/-rDd7FYZx3_A/XaLu_Zr8tSI/AAAAAAAAyp8/-NwCL2yLrC8iKz6sMdrDVRxzpJel3kJ6ACKgBGAsYHg/s1600/2019-10-13.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/23jsj1ooklwz2750.jpg"
 imageCredit: "Фото: Pexels/Pixabay."
 ---
 

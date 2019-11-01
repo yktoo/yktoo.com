@@ -3,7 +3,7 @@ type: post
 date: "2014-12-01T00:00:00Z"
 title: "Tuning Ubuntu for SSD"
 tags: ["how-to", "Linux", "optimisation", "SSD", "Ubuntu"]
-image: "https://1.bp.blogspot.com/-ZikqqB86Bb4/WK3RKkQQT8I/AAAAAAAApUk/X6V97DAgruk3V6qsal5TFzVysauuzvGoQCPcB/s1600/ubuntu.png"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/z6jodg5ukriv0433.png"
 aliases:
     - /en/blog/post/233
 ---
@@ -14,7 +14,7 @@ In my {{< a "0231" "last post" >}} I told you about upgrading an iMac with a sol
 
 They have downsides, too—a high price (which can hardly be addressed) and a limited lifetime, or, more precisely, number of write operations (number of read operations is virtually unlimited). Even though a modern SSD allows for millions of write-ops, it's sensible to extend its lifetime and increase overall system performance by some tuning.
 
-{{< imgfig "https://1.bp.blogspot.com/-ZikqqB86Bb4/WK3RKkQQT8I/AAAAAAAApUk/X6V97DAgruk3V6qsal5TFzVysauuzvGoQCPcB/s1600/ubuntu.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/z6jodg5ukriv0433.png" >}}
 
 [Debian website](https://wiki.debian.org/SSDOptimization) gives a number of good advices; I'll tell you about optimisations I've made to my system (Ubuntu 14.10 Utopic Unicorn).
 

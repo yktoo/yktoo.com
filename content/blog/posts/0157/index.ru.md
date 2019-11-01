@@ -3,7 +3,7 @@ type: post
 date: "2012-07-20T00:00:00Z"
 title: "Пирамида Аустерлица"
 tags: ["интересное", "Наполеон", "Нидерланды", "Утрехт"]
-image: "https://1.bp.blogspot.com/-9HRUoyoUrYg/UAkvEmnDxLI/AAAAAAAAUtE/0dpXN_7mXk8/s1600/Pyramide_Austerlitz_1805.png"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/suiptk1g7z3j1378.png"
 places:
     - place0039
 aliases:
@@ -24,7 +24,7 @@ aliases:
 
 Солдаты совершенно не разделяли художественных пристрастий генерала, но приказ есть приказ: за двадцать семь дней они возвели 36-метровую пирамиду, на вершину которой водрузили 13-метровый деревянный обелиск; произведение получило название «Гора Мармона» ({{< fl "Mont Marmont" >}}). Надо отметить также, что в то время пирамида была чёрно-белой.
 
-{{< imgfig "https://1.bp.blogspot.com/-9HRUoyoUrYg/UAkvEmnDxLI/AAAAAAAAUtE/0dpXN_7mXk8/s1600/Pyramide_Austerlitz_1805.png" "Пирамида в 1805 г. Изображение Wikimedia" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/suiptk1g7z3j1378.png" "Пирамида в 1805 г. Изображение Wikimedia" >}}
 
 Летом 1805 года армия под предводительством Мармона отбыла в Южную Германию, где участвовала в {{< wiki "Война_третьей_коалиции" "ru" "сражениях" >}} против третьей антифранцузской коалиции, завершившихся полным поражением России и Австрии в {{< wiki "Битва_под_Аустерлицем" "ru" "битве под чешским Аустерлицем" >}}.
 
@@ -40,22 +40,20 @@ aliases:
 
 Впрочем, в свои двести пирамида всё ещё выглядит замечательно. Она стала цветной:
 
-{{< imgfig "https://2.bp.blogspot.com/-j4XgIEc71dw/UASIqsndfHI/AAAAAAAAUdQ/_lUgwJyv8-4/s1600/dsc03879.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/erfonm4cy3r72467.jpg" >}}
 
 Северный склон, похоже, сохранился лучше всего.
 
-{{< imgfig "https://2.bp.blogspot.com/-hcqr37hZEK4/UASIxpw-CcI/AAAAAAAAUeA/ehkLheOsZ3k/s1600/dsc03912.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/tc1yhp36kwmt1298.jpg" >}}
 
 На южном склоне от подножия к вершине ведёт основательная лестница со множеством ступенек.
 
-{{< imgfig "https://1.bp.blogspot.com/-OMg7g0xHYnw/UASIuAvr5sI/AAAAAAAAUdo/uC9_zkzdV-8/s1600/dsc03896.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/sjke8daipl9d2167.jpg" >}}
 
 Лестница упирается монумент, установленный на обзорной площадке, с которой открывается вид на окружающий лес.
 
-{{< imgfig "https://1.bp.blogspot.com/-u2hawYR65kg/UASIvO9qARI/AAAAAAAAUdw/ELVciqotfP0/s1600/dsc03902.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/urj41vni3v9b2073.jpg" >}}
 
 Посетителей здесь не особенно много даже в выходные. Добраться до пирамиды можно на машине, общественном транспорте или велосипеде (как мы и сделали), расстояние от Амерсфорта всего лишь около 13 км. Помимо монумента, здесь имеется одноимённый ресторан и парк развлечений.
 
-{{< imgfig "https://1.bp.blogspot.com/--5Z3AqHVFJA/UASIzCCq16I/AAAAAAAAUeI/wYReIFhJTgQ/s1600/dsc03918.picasaweb.jpg" >}}
-
-{{< imgfig "https://4.bp.blogspot.com/-qE1HkW0kPps/UASI0-fBkjI/AAAAAAAAUpg/ky_IAmlbY3A/s1600/dsc03923.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/iacdchaca7na0478.jpg" >}}

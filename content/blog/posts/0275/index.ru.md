@@ -3,7 +3,7 @@ type: post
 date: "2016-04-11T00:00:00Z"
 title: "Небо во мне"
 tags: ["Запрещённая акустика", "музыка", "Радиолярия", "сайт"]
-image: "https://3.bp.blogspot.com/-PicmdePdRdM/WFcAND_odPI/AAAAAAAAots/92lu4FQLXx8BF2HXPG5LMgss7SnpN4WqgCPcB/s1600/dsc03863.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/y1u9th8ot4n42861.jpg"
 aliases:
     - /ru/blog/post/275
 ---
@@ -25,4 +25,4 @@ aliases:
 
 Будет больше, стэй тьюнд.
 
-{{< imgfig "https://3.bp.blogspot.com/-PicmdePdRdM/WFcAND_odPI/AAAAAAAAots/92lu4FQLXx8BF2HXPG5LMgss7SnpN4WqgCPcB/s1600/dsc03863.picasaweb.jpg" "Небо в огне." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/y1u9th8ot4n42861.jpg" "Небо в огне." >}}

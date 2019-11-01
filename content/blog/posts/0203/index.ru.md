@@ -3,7 +3,7 @@ type: post
 date: "2013-12-05T00:00:00Z"
 title: "Опять Осень и Опята"
 tags: ["Баарн", "грибы", "лес", "Нидерланды", "осень", "природа"]
-image: "https://3.bp.blogspot.com/-P2PcmAsfPmY/Uphfmo2jE8I/AAAAAAAAauM/IaBuuCISyS8/s1600/dsc01507.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/g3t2x5c65r5e2783.jpg"
 places:
     - place0178
 aliases:
@@ -14,7 +14,7 @@ aliases:
 
 Нам повезло жить в живописной местности, забитой лесами под самую завязку. В один из них, расположенный около в равной степени живописной деревни Баарна (см. мой {{< a "0006" "пост" >}} пятилетней давности), и оттого прозванный Баарнским лесом ({{< wiki "Baarnse_Bos" "nl" "Baarnse Bos" >}}), мы нанесли стремительный визит.
 
-{{< imgfig "https://3.bp.blogspot.com/-P2PcmAsfPmY/Uphfmo2jE8I/AAAAAAAAauM/IaBuuCISyS8/s1600/dsc01507.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/g3t2x5c65r5e2783.jpg" >}}
 
 <!--more-->
 
@@ -26,15 +26,15 @@ aliases:
 
 Из съедобных грибов преобладали опята — они росли буквально на каждом пне.
 
-{{< imgfig "https://4.bp.blogspot.com/-Arbq3spabck/UphfxcuNfKI/AAAAAAAAavc/KaWbu_nmGS8/s1600/dsc01519.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/95ehn714tcnc1050.jpg" >}}
 
 Мы десять, двадцать, сто раз уже пожалели, что не взяли ни тары, ни ножей.
 
-{{< imgfig "https://2.bp.blogspot.com/-v5UGQCAqRqw/UphfuNC5INI/AAAAAAAAavE/BRYSQR1Dejc/s1600/dsc01515.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/42lz9jjmjmbd0130.jpg" >}}
 
 Я думаю, за час, не особо напрягаясь, можно было накосить их ведра так с три.
 
-{{< imgfig "https://3.bp.blogspot.com/-splXjuhBLOM/UphftG3rp0I/AAAAAAAAau8/vQHkM76aG6Q/s1600/dsc01514.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pbfg6ajvgvr00769.jpg" >}}
 
 А сейчас у вас наступит небольшое лирическое отупление. А у нас — отступление.
 
@@ -46,14 +46,14 @@ aliases:
 
 Для полноты картины добавлю, что «гриб» по-голландски звучит как «стул для жабы» ({{< fl "paddestoel" >}} или {{< fl "paddenstoel" >}}: {{< fl "pad" >}} — жаба, {{< fl "stoel" >}} — стул).
 
-{{< imgfig "https://3.bp.blogspot.com/-3jePy2rq5aA/Uphf5W9peyI/AAAAAAAAawc/XCfdVwauj-Y/s1600/dsc01535.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/b1mzt3bxwjnx0511.jpg" >}}
 
 Так что смотреть на них, безусловно, безопаснее. Но мучительно.
 
 А в остальном — в лесу очень хорошо. Тихо. А в выходные, в хорошую погоду, многолюдно — голландцы просто обожают прогулки на природе.
 
-{{< imgfig "https://3.bp.blogspot.com/-_g-BEw3tObQ/Uphf2Ghig3I/AAAAAAAAawE/EKTkm6Qbqtg/s1600/dsc01529.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0ong12yhpc172444.jpg" >}}
 
 И, напоследок, панорама культурного, воспитанного голландского леса. Перекрёсток трёх дорог:
 
-{{< imgfig "https://3.bp.blogspot.com/-vJPyOouie7w/Uphf4XowHnI/AAAAAAAAawU/x1Se6e8jQnQ/s1600/dsc01534.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/4ba97g6ep9ls3581.jpg" >}}

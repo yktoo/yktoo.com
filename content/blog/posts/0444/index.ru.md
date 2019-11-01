@@ -8,7 +8,7 @@ tags:
     - новости
     - СМИ
     - экология
-image: "https://res.cloudinary.com/yktoo/image/upload/v1572519756/blog-third-party/we9sqlrxmftedz9i3tpo.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/we9sqlrxmftedz9i3tpo.jpg"
 imageCredit: "Кадр из видео nu.nl."
 ---
 
@@ -20,7 +20,7 @@ imageCredit: "Кадр из видео nu.nl."
 
 На поле Маливелд в Гааге собралось по разным оценкам от **5 000** до **6 000** человек и около тысячи единиц строительной техники. Основным поводом является {{< a "https://demonitor.kro-ncrv.nl/artikelen/bouwprotest-huizenzoekers-en-startende-gezinnen-dupe-stikstofuitspraak" "заморозка" >}} примерно **18 000** строительных проектов вследствие отмены программы {{< fl "PAS" >}}, о чём я уже {{< a "0427" "рассказывал" >}}.
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1572519756/blog-third-party/we9sqlrxmftedz9i3tpo.jpg" "Протестующие строители в Гааге. Кадр из видео nu.nl." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/we9sqlrxmftedz9i3tpo.jpg" "Протестующие строители в Гааге. Кадр из видео nu.nl." >}}
 
 В ходе демонстрации они вывалили на поле несколько тонн песка, хотя в остальном протест прошёл довольно мирно. Перед протестующими {{< a "https://www.ad.nl/politiek/live-drukte-op-wegen-na-bouwersprotest-malieveld-me-grijpt-in-tegen-flessengooiers~a1c6e666/" "выступила" >}} министр сельского хозяйства Карола Схоутен ({{< fl "Carola Schouten" >}}), пообещав как можно скорее найти компромиссное решение, которое устроит всех. Планируется выделить от **150** до **200** млн евро для помощи компаниям, оказавшимся в кризисе в связи с новыми правилами.
 

@@ -8,7 +8,7 @@ tags:
     - AliExpress
     - термометр
     - обзор
-image: "https://1.bp.blogspot.com/--iKed159U3s/XW6kGQSzDII/AAAAAAAAxIg/2b1G4aJCRF08c6uNTfnkRcB5pAI0pDxWQCKgBGAs/s1600/20190903_191017.w.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/9e7brluw405h3500.jpg"
 ---
 
 У меня довольно много гаджетов производства китайской {{< fl "Xiaomi" >}}, среди которых уже около года и термометр-гигрометр {{< a "http://ali.pub/3qdxv7" "Xiaomi Mijia" >}} — то есть он показывает температуру и *относительную* влажность воздуха.
@@ -21,7 +21,7 @@ image: "https://1.bp.blogspot.com/--iKed159U3s/XW6kGQSzDII/AAAAAAAAxIg/2b1G4aJCR
 
 Его можно вешать на стену или ставить на стол в комплектную подставку.
 
-{{< imgfig "https://1.bp.blogspot.com/--iKed159U3s/XW6kGQSzDII/AAAAAAAAxIg/2b1G4aJCRF08c6uNTfnkRcB5pAI0pDxWQCKgBGAs/s1600/20190903_191017.w.jpg" "Термометр Xiaomi Mijia на стене." >}} 
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9e7brluw405h3500.jpg" "Термометр Xiaomi Mijia на стене." >}} 
 
 Брал, конечно же, {{< a "http://ali.pub/3qdxv7" "на AliExpress" >}}, цена вместе с доставкой **€ 9**.
 
@@ -31,7 +31,7 @@ image: "https://1.bp.blogspot.com/--iKed159U3s/XW6kGQSzDII/AAAAAAAAxIg/2b1G4aJCR
 
 Качество сборки, как обычно у {{< fl "Xiaomi" >}}, превосходное. Батарейка **CR2032** под задней крышкой, в комплекте помимо термометра и подставки также идёт двусторонний скотч, которым девайс можно приклеить, а также самоклеящаяся магнитная пластинка — с ней можно его примагнитить, например, к холодильнику.
 
-{{< imgfig "https://1.bp.blogspot.com/-f-D-FmagV9Y/XW55w7UPdxI/AAAAAAAAxC0/ThUapxoX3psOVhIQ-bItfyy2xNbb56p1QCKgBGAs/s1600/20180615_091908.picasaweb.jpg" "Показания четырёх термометров почти одинаковые." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xsbaocevgeas3079.jpg" "Показания четырёх термометров почти одинаковые." >}}
 
 Показания всех четырёх экземпляров, как видно на фото выше, практически не различаются; обновляются они пару раз в минуту.
 

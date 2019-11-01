@@ -13,7 +13,7 @@ tags:
     - VAR
     - законодательство
     - глоссарий
-image: "https://1.bp.blogspot.com/-J3CwZV1yufM/XXvV9XOpn5I/AAAAAAAAxcI/21z2aiHwE1AuU6AI2Bo3QO1JiTTlZaU_wCKgBGAsYHg/s1600/wet-dba.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/pznx6y5quuij1236.jpg"
 series: Доля предпринимательская
 glossary: wet-dba
 ---

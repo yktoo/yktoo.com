@@ -7,7 +7,7 @@ tags:
     - personal
     - wedding
     - Zeist
-image: "https://1.bp.blogspot.com/-wy6w96RgkKY/XSssvrVGv3I/AAAAAAAAwXM/dQaxNjr7C3QjjWyuGQBZcW2jZ-EGXFYcQCKgBGAs/s1600/a%2526d.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/n3b9b8u7cza33324.jpg"
 places:
     - place0310
 aliases:
@@ -20,7 +20,7 @@ On this same day, precisely two years ago—July 13, 2017—I've rolled my mouse
 
 It all became official on **July 13, 2019**:
 
-{{< imgfig "https://1.bp.blogspot.com/-wy6w96RgkKY/XSssvrVGv3I/AAAAAAAAwXM/dQaxNjr7C3QjjWyuGQBZcW2jZ-EGXFYcQCKgBGAs/s1600/a%2526d.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/n3b9b8u7cza33324.jpg" >}}
 
 The ceremony has been held at the most magnificent place we've managed to find, at {{< fl "Zeist" >}} city hall.
 

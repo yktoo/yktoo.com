@@ -4,7 +4,7 @@ date: "2012-04-20T00:00:00Z"
 title: "Часть 1. Маспаломас"
 series: "Гран-Канария"
 tags: ["Гран-Канария", "дюны", "Испания", "Канарские острова", "Маспаломас", "океан", "остров", "Плайя-дел-Инглес", "пляж", "путешествия"]
-image: "https://2.bp.blogspot.com/-_4veg5kf5Is/T48JK1W_eRI/AAAAAAAAPM8/S5ofVuBSrrM/s1600/Coat_of_Arms_of_the_Canary_Islands.png"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/m3vrng0qfu9h2023.png"
 places:
     - place0059
     - place0060
@@ -25,7 +25,7 @@ aliases:
 
 В общем, глядя на герб Канарских островов, можно с уверенностью заключить: где-то здесь зарыта собака.
 
-{{< imgfig "https://2.bp.blogspot.com/-_4veg5kf5Is/T48JK1W_eRI/AAAAAAAAPM8/S5ofVuBSrrM/s1600/Coat_of_Arms_of_the_Canary_Islands.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/m3vrng0qfu9h2023.png" >}}
 
 Нам довелось посетить второй по населённости остров архипелага Гран-Канария ({{< fl "Gran Canaria" >}}). Он расположен в том же самом Атлантическом океане, примерно в 150 км от северо-западного побережья Африки, и живёт на нём, ни много ни мало, почти миллион человек, хотя островок едва достигает 45 км в поперечнике, а основную часть его занимают горы, где жить довольно трудно (но возможно, как мы увидим позже).
 
@@ -47,17 +47,17 @@ aliases:
 
 Первое, что я увидел, когда мы прибыли в отель, было невиданный мной доселе гибрид допотопного телевизора с монетоприёмником.
 
-{{< imgfig "https://1.bp.blogspot.com/-c9mf45ZzjIo/T5EZkpaHQGI/AAAAAAAAPQc/hZhBb9lHCMA/s1600/dsc09720.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xdoto7220kfc3274.jpg" >}}
 
 Как это устройство функционирует, мне проверить так и не довелось.
 
 Первое наше утро выдалось пасмурным и довольно прохладным.
 
-{{< imgfig "https://2.bp.blogspot.com/-ycreVrZ0IoY/T2pbU5LntcI/AAAAAAAAMmo/GK4qqHxZInc/s1600/dsc09723.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/a446i9dpr3v80419.jpg" >}}
 
 Мы даже засомневались было, а туда ли мы вообще попали, куда хотели. Но вид гор на горизонте успокаивал.
 
-{{< imgfig "https://3.bp.blogspot.com/-kQjVi9JSZ-8/T2pbm8872hI/AAAAAAAAMok/jC5ev1oEnt4/s1600/dsc09725.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/gkurrqdiub1w0707.jpg" >}}
 
 В это первое утро у нас было информационное собрание в ресторане неподалёку, в торговом центре со странным названием {{< fl "Kasbah" >}} (которое, как я узнал впоследствии, по-арабски означает «крепость»). Информация в основном свелась к рекламе экскурсий, однако, мы почерпнули из него и кое-что полезное.
 
@@ -67,45 +67,45 @@ aliases:
 
 Пляж как пляж. В одну сторону синие зонтики:
 
-{{< imgfig "https://2.bp.blogspot.com/-P0XumTlbMFs/T2pfIdQRVWI/AAAAAAAAM-U/-Qm6zGKda4A/s1600/dsc01056.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/3z3parwceucb2275.jpg" >}}
 
 В другую — красные:
 
-{{< imgfig "https://4.bp.blogspot.com/-w9GQIUb7pt8/T2pbOdo8jbI/AAAAAAAAMl4/KQ4RKnbv5kw/s1600/dsc00796.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/dfp3jcn54zpv1046.jpg" >}}
 
 Прямо — океан:
 
-{{< imgfig "https://3.bp.blogspot.com/-voomI9K3PGU/T2pYjemA3QI/AAAAAAAAMVg/LeWq7sbBgpI/s1600/dsc09772.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/k868ixuppdxn0988.jpg" >}}
 
 В общем, всё как обычно.
 
-{{< imgfig "https://2.bp.blogspot.com/-6sv5Uv--8QQ/T2pYMKhOYqI/AAAAAAAAMTQ/Mjls5jbM-dI/s1600/dsc09764.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1op8de3v187s1881.jpg" >}}
 
 Там, где заканчивается пляж, начинаются дюны:
 
-{{< imgfig "https://1.bp.blogspot.com/-b_isLmkV4y8/T2paSUcME7I/AAAAAAAAMgI/WjxRs6gVuUA/s1600/dsc09776.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/5uc7ivl2jwkt2823.jpg" >}}
 
 И барханы:
 
-{{< imgfig "https://1.bp.blogspot.com/-GnTF3BFALQI/T2peAdp0b4I/AAAAAAAAM3g/Sbx5Eg8d3Mg/s1600/dsc09803.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/qsk83cc6r6ub0723.jpg" >}}
 
 Отличие дюн от барханов заключается в том, что дюны неподвижны, так как их края закреплены растительностью, а барханы могут перемещаться под воздействием ветра.
 
 По мере удаления от цивилизации становится всё интереснее.
 
-{{< imgfig "https://2.bp.blogspot.com/-RUVK_7TEdsc/T2pb7QLbJvI/AAAAAAAAMqc/hq5LkPhXhzc/s1600/dsc09864.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0lbebvd5syu60004.jpg" >}}
 
 И вот, мы совсем одни.
 
-{{< imgfig "https://3.bp.blogspot.com/-Sayvc-Zh4BQ/T2pbNf6UbmI/AAAAAAAAMls/U-l01zEDSgo/s1600/dsc09805.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fn2c5p38vbme0969.jpg" >}}
 
 Тёмные волны на склонах холмов — это несомый ветром песок.
 
-{{< imgfig "https://1.bp.blogspot.com/-SXBy9ICegS4/T2pXm7n-OqI/AAAAAAAAMPw/cn7EtYaVFGM/s1600/dsc09815.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/jqeyl00an3gs0267.jpg" >}}
 
 Барханы порой достигают в высоту метров пятнадцать. К полудню песок на солнечной стороне раскаляется, так что карабкаться по ним становится всё веселее. К тому же постоянно дует сильный ветер, поэтому долго с фотоаппаратом возиться не с руки — всё заносит песком.
 
-{{< imgfig "https://1.bp.blogspot.com/-rVYRKm_s3UU/T2pZ0NinxJI/AAAAAAAANwo/igeniuJXJkA/s1600/dsc09826.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/g4dj9o2zrt490696.jpg" >}}
 
 Наш гид был прав: за два часа, что мы бродили по дюнам, мы основательно сгорели. Канарское побережье очень коварно в этом плане: из-за прохладного ветра кажется, что солнце и не греет вовсе. Момент истины наступает обычно ближе к вечеру, когда ты внезапно становишься похожим на лобстера.
 
@@ -113,32 +113,28 @@ aliases:
 
 После долгой дороги в дюнах приходишь из Плайи дел Инглес в дорогой район под названием Плайя-де-лас-Мелонерас ({{< fl "Playa de las Meloneras" >}}), расположенный в юго-западной части муниципалитета Маспаломас. Мелонерас полнится дорогими торговыми центрами, пятизвёздочными отелями и роскошными ресторанами.
 
-{{< imgfig "https://3.bp.blogspot.com/-qylLW9H3ng0/T2pdG7I0WBI/AAAAAAAANQ4/IA1wBLIpI8k/s1600/dsc00078.picasaweb.jpg" >}}
-
 На Гран-Канарии уже пятнадцать месяцев не выпадало дождя, поэтому всё высушено и выжжено солнцем, круглый год висящим над островом.
 
-{{< imgfig "https://2.bp.blogspot.com/-XnFGbpG-WwY/T2pY5TGxVuI/AAAAAAAAMXo/syZGGfl41FQ/s1600/dsc00120.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/un3u6sq2pcnr3270.jpg" >}}
 
 Здесь я впервые увидел то, что испанцы называют смешным словом «барранко» ({{< wiki "Barranco_(geografía)" "es" "barranco" >}}) — русло пересохшей реки.
 
-{{< imgfig "https://4.bp.blogspot.com/-orYX7lOBsNc/T2pYYP4KEjI/AAAAAAAAMUY/5VUVFiGC3rg/s1600/dsc00135.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/nos5kw52uzry1177.jpg" >}}
 
 На острове везде вместо рек одни лишь «барранки». Водой они наполняются только на несколько дней, после сильных ливней, которые, как правило, проходят тут раз в год. Говорят, в это время Гран-Канария совершенно преображается. Жаль, что для того, чтобы их застать, на острове нужно жить постоянно.
 
 В Маспаломас есть свой ботанический сад ({{< fl "Parque Botánico de Maspalomas" >}}).
 
-{{< imgfig "https://1.bp.blogspot.com/-UOIvoidXJcM/T2pXoNALoQI/AAAAAAAAMP4/M4kGbj5ceWk/s1600/dsc00148.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ammahhioxdso3245.jpg" >}}
 
 Сад, к сожалению, совершенно не впечатляет. В нём представлены какие-то невзрачные образцы местной флоры, самым примечательным из которых мне показался лишь этот кактус высотой в человеческий рост:
 
-{{< imgfig "https://4.bp.blogspot.com/-uxw6Oybn7_w/T2pfVwa2QdI/AAAAAAAAM_0/DF5JvgUZHyM/s1600/dsc00146.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cilqmn8wgn762158.jpg" >}}
 
 Дорога обратно в Плайю дел Инглес лежит через холм, с которого открывается вид на тихий курортный Маспаломас:
 
-{{< imgfig "https://3.bp.blogspot.com/-pIHarUfH6Y8/T2pZuMnwomI/AAAAAAAAMcg/_93Kb_08nxQ/s1600/dsc00150.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/bsxhq1e8v3jl0602.jpg" >}}
 
 И вот мы снова на нашем районе. В этот день мы прошагали около 13 километров.
-
-{{< imgfig "https://1.bp.blogspot.com/-XEaxR5oSc98/T2pezRAOvnI/AAAAAAAANC8/5aL0QrjIi_w/s1600/dsc00155.picasaweb.jpg" >}}
 
 В {{< a "0149" "следующей серии" >}} мы отправимся в горы и даже увидим Пуэрто-Рико.

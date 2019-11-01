@@ -10,7 +10,7 @@ tags:
     - авто
     - электромобили
     - солнечная энергетика
-image: "https://1.bp.blogspot.com/-VEkvXCs2fRw/Xav417DaT1I/AAAAAAAAy5w/VXK4spQcRLUe-aFZSUThEXI0MEUip7wRACKgBGAsYHg/s1600/2019-10-19.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/mp6fp9ypea791026.jpg"
 imageCredit: "Фото: TU Delft."
 ---
 
@@ -22,7 +22,7 @@ imageCredit: "Фото: TU Delft."
 
 Эта десятая инкарнация их детища {{< a "https://nos.nl/artikel/2293703-nieuwe-zonneauto-tu-delft-rijdt-ook-op-windenergie.html" "получилась" >}} самой лёгкой в истории — солнцемобиль весил лишь **135** кг, и на него закономерно возлагались большие надежды.
 
-{{< imgfig "https://1.bp.blogspot.com/-m3IbmyG0MNA/Xav41wkT1FI/AAAAAAAAy5w/frFAtxOyPsETkDO31_hCnQHCTY-hAesiACKgBGAsYHg/s1600/2019-10-19.jpg" "Солнцемобиль NunaX перед стартом. Фото: Hans-Peter van Velthoven." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hferodgai2oq1399.jpg" "Солнцемобиль NunaX перед стартом. Фото: Hans-Peter van Velthoven." >}}
 
 Но — не вышло. Уже на последнем отрезке трассы в направлении Аделаиды, когда до финиша оставалось лишь **250** км, что-то пошло не так.
 
@@ -32,7 +32,7 @@ imageCredit: "Фото: TU Delft."
 
 Через пару минут от {{< fl "NunaX" >}} осталась лишь горстка пепла.
 
-{{< imgfig "https://1.bp.blogspot.com/-rhDGSFDmWLg/Xav413QE_kI/AAAAAAAAy5w/C8XcQtENMakaFXf3BYrfrsj1E22LRmJygCKgBGAsYHg/s1600/2019-10-19.jpg" "Всё, что осталось от NunaX. Фото: Vattenfall Solar Team." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/4k7knkowgvb31540.jpg" "Всё, что осталось от NunaX. Фото: Vattenfall Solar Team." >}}
 
 Момент начала пожара хорошо видно на этом видео:
 
@@ -40,7 +40,7 @@ imageCredit: "Фото: TU Delft."
 
 Можно представить себе смятение команды, наблюдающей как их детище на их глазах превращается в пепел.
 
-{{< imgfig "https://1.bp.blogspot.com/-VEkvXCs2fRw/Xav417DaT1I/AAAAAAAAy5w/VXK4spQcRLUe-aFZSUThEXI0MEUip7wRACKgBGAsYHg/s1600/2019-10-19.jpg" "Vattenfall Solar Team и останки NunaX. Фото: TU Delft." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/mp6fp9ypea791026.jpg" "Vattenfall Solar Team и останки NunaX. Фото: TU Delft." >}}
 
 А так всё хорошо {{< a "https://www.youtube.com/watch?v=-HVHKwByDYM" "начиналось" >}}.
 

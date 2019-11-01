@@ -5,7 +5,7 @@ dateFrom: 2008-02-10
 dateTo: 2008-02-10
 location: "Tyumen Concert Hall, Russia"
 websiteUrl: ""
-image: "https://lh4.googleusercontent.com/-Ip1MNgW1pOk/UZKntwLjlbI/AAAAAAAAXu8/AuZp8l-zXPw/s504-no/kra-shi.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/9gxus7unhdm71147.jpg"
 videocategories: music
 posts: "0183"
 ---

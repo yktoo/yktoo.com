@@ -3,7 +3,7 @@ type: post
 date: "2014-12-12T00:00:00Z"
 title: "Охота на дом"
 tags: ["дом", "ипотека", "Нидерланды", "Хаутен"]
-image: "https://2.bp.blogspot.com/-UGfefFXU26A/U_uLNWPet4I/AAAAAAAAfDs/7v1tkbmb18s/s1600/dsc06415.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/cuu3jcvgaxq11929.jpg"
 aliases:
     - /ru/blog/post/234
 ---
@@ -96,10 +96,10 @@ aliases:
 
 Вот эту фишку голландского домостроительства я совершенно не могу просечь. Процентов так с девяносто домов имеют стены разной степени наклонности, а на верхнем, третьем, этаже это практически стандарт. При этом они съедают уйму полезного места да и вообще подавляют.
 
-{{< imgfig "https://2.bp.blogspot.com/-UGfefFXU26A/U_uLNWPet4I/AAAAAAAAfDs/7v1tkbmb18s/s1600/dsc06415.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cuu3jcvgaxq11929.jpg" >}}
 
 Но есть и некоторое количество домов с плоскими крышами, которые от этого только выигрывают, как во внешнем виде, так и в полезной площади. Зачем скашивать стены — в упор не пойму.
 
-{{< imgfig "https://3.bp.blogspot.com/-svBYavvVIZE/U_uLQBcx1QI/AAAAAAAAfEk/bjvppNz-SgM/s1600/dsc06422.picasaweb.jpg" "Вот так-то лучше." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/wxaxi51x30ha1353.jpg" "Вот так-то лучше." >}}
 
 Пока всё, это были наши основные *охотничьи* критерии. Дальше расскажу об особенностях национальной ипотеки.

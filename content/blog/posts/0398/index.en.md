@@ -9,7 +9,7 @@ tags:
     - corkscrew
     - Xiaomi
     - review
-image: "https://1.bp.blogspot.com/-5Itgh2pP_yY/XY4rtDUhZ1I/AAAAAAAAyEY/5RestFWzfJYxpXJhkOgGik2SLY43lDk1wCKgBGAsYHg/s1600/20180901_140444.w.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/s3v3c28lw46a3034.jpg"
 ---
 
 {{< abbr "TGIF" "Thank God it's Friday!" >}} — time for wine (and a review)!
@@ -26,11 +26,11 @@ Its full name is {{< a "http://ali.pub/3tn9ap" " Xiaomi Mijia Huohou automatic e
 
 It comes in a minimalistic white cardboard box, like many other {{< fl "Xiaomi" >}} products.
 
-{{< imgfig "https://1.bp.blogspot.com/-5Itgh2pP_yY/XY4rtDUhZ1I/AAAAAAAAyEY/5RestFWzfJYxpXJhkOgGik2SLY43lDk1wCKgBGAsYHg/s1600/20180901_140444.w.jpg" "The packaging of the corkscrew." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/s3v3c28lw46a3034.jpg" "The packaging of the corkscrew." >}}
 
 Apart from the corkscrew (pretty heavy one) there's also a user's manual in Chinese, a foil-cutter, and a USB-to-Micro-USB charging cable, but no USB charger.
 
-{{< imgfig "https://1.bp.blogspot.com/--biQ6IIYQ-Y/XY4rtJ-UjTI/AAAAAAAAyEY/t05eHAeD2dgJ9gfvypBhRgEVK0dYryEXwCKgBGAsYHg/s1600/20180901_140653.w.jpg" "The entire contents of the box." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pim8zbe8n0uy0327.jpg" "The entire contents of the box." >}}
 
 ## Usage
 
@@ -50,7 +50,7 @@ The battery level is displayed by four small white LEDs when you hold either but
 
 In order to charge it, plug it to any USB port or charger using the provided Micro USB cable:
 
-{{< imgfig "https://1.bp.blogspot.com/-53DspUMuQmA/XY4rtECIYOI/AAAAAAAAyEY/H0X5mh_y_44WDFtR_mWyvXkauynZ5_BBACKgBGAsYHg/s1600/20180901_140832.w.jpg" "Charging the corkscrew." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/oavtltbtxfzo3584.jpg" "Charging the corkscrew." >}}
 
 A full charge takes a couple of hours.
 

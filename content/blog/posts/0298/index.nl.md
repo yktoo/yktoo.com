@@ -3,7 +3,7 @@ type: post
 date: "2016-11-27T00:00:00Z"
 title: "Het slimste verkeerslicht"
 tags: ["Houten", "Internet", "massamedia", "Nederland", "nieuws", "transport", "verkeerslichten"]
-image: "https://1.bp.blogspot.com/-fAmNTgh_Xvs/WDrCLjmjWBI/AAAAAAAAoVc/Fm3jK0UypYkNZxz_DOEYZJzdX81ACWOwwCPcB/s1600/slim-verkeerslicht-houten.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/kmiiltyoz7zp2777.jpg"
 places:
     - place0245
 aliases:
@@ -14,7 +14,7 @@ Ik vind de huidige tendens om alles wat Wi-Fi, Bluetooth of internetverbinding h
 
 <!--more-->
 
-{{< imgfig "https://1.bp.blogspot.com/-fAmNTgh_Xvs/WDrCLjmjWBI/AAAAAAAAoVc/Fm3jK0UypYkNZxz_DOEYZJzdX81ACWOwwCPcB/s1600/slim-verkeerslicht-houten.picasaweb.jpg" "Het kruispunt met het slimme verkeerslich. Foto van Google Street View." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/kmiiltyoz7zp2777.jpg" "Het kruispunt met het slimme verkeerslich. Foto van Google Street View." >}}
 
 Je vraagt je af wat er slim aan dat verkeerslicht is?
 
@@ -24,7 +24,7 @@ Om terug te komen op ons intellectuele verkeerslicht, de chauffeur zal in een *s
 
 Aldus de [ontwikkelaars](http://www.infoplaza.nl/archives/2420/) ziet het er ongeveer zo uit:
 
-{{< imgfig "https://3.bp.blogspot.com/-egBDZPkVLgw/WDrFK8SbQMI/AAAAAAAAoVw/aePL_T1cvLo4mHVUq2YBMWP43l4VInrFwCPcB/s1600/verkeersplaza-app.picasaweb.jpg" "How it's supposed to look like. Image from www.infoplaza.nl." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/k9ut6arelfi51013.jpg" "How it's supposed to look like. Image from www.infoplaza.nl." >}}
 
 Het nieuwsartikel geeft verder geen details over de gebruikte technologieën, maar verklaart dat *"Verkeerplaza app de eerste app in Nederland is die communiceert met een slim verkeerslicht."* Het is onduidelijk of die een directe verbinding met de verkeersregelinstallatie maakt (via {{< fl "Wi-Fi" >}} of {{< fl "Bluetooth" >}}), of gewoon updates via internet krijgt (wat aannemelijker klinkt).
 

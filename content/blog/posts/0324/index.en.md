@@ -3,7 +3,7 @@ type: post
 date: "2017-05-23T00:00:00Z"
 title: "The architecture of our time: Emoji building"
 tags: ["Amersfoort", "architecture", "emoji", "funny", "Netherlands", "Vathorst"]
-image: "https://3.bp.blogspot.com/-ZI7EXGMDF_g/WQ9rt9ZppyI/AAAAAAAAp6k/9qYkJoUlTbgiHYZeHZH7I2OmZUyEEFfOwCPcB/s1600/dsc05178.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/hwar2dw68pb73373.jpg"
 places:
     - place0308
 aliases:
@@ -16,11 +16,11 @@ What I like about the Dutch is how they manage to combine classic with contempor
 
 <!--more-->
 
-{{< imgfig "https://3.bp.blogspot.com/-4dWDKauaZ9w/WQ9rtxvqnCI/AAAAAAAAp6k/fYOJTXdKz8wp-pkMapkJmduGTb71QhdcgCPcB/s1600/dsc05177.picasaweb.jpg" "Emoji building." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/3p7rxlfug48p1616.jpg" "Emoji building." >}}
 
 The building with shops on the ground level and apartments above was designed by the architect bureau [Attika Architekten](http://www.attika.nl/projecten/plein-rond-de-eik). The concrete emoticons only appear on one of its walls.
 
-{{< imgfig "https://3.bp.blogspot.com/-ZI7EXGMDF_g/WQ9rt9ZppyI/AAAAAAAAp6k/9qYkJoUlTbgiHYZeHZH7I2OmZUyEEFfOwCPcB/s1600/dsc05178.picasaweb.jpg" "Emoticons." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hwar2dw68pb73373.jpg" "Emoticons." >}}
 
 This house is erected on a square built around a 150-year-old oak, which bears the logical name of {{< fl "Plein Rond de Eik" >}} ("Square Around the Oak").
 
@@ -28,19 +28,19 @@ The author of the idea Changiz Tehrani said in his [interview to The Verge](http
 
 > In classical architecture they used heads of the king or whatever, and they put that on the façade. So we were thinking, what can we use as an ornament so when you look at this building in ten or twenty years you can say ‘hey this is from that year!’ The answer was obvious: emoji.
 
-{{< imgfig "https://3.bp.blogspot.com/-s6CE_EK29tY/WQ9rtz3RF0I/AAAAAAAAp6k/u3o6BDMjZ1g40kEF1zxRZv2mSkO9CkgWwCPcB/s1600/dsc05179.picasaweb.jpg" "Emoticons." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/g9gc020s7h7v2259.jpg" "Emoticons." >}}
 
 He explained that he got this idea when he looked at his mobile (who might infer that!). Initially he wished to make them authentic, that is—yellow (or even golden), but architects objected that that would be too striking, whereas they wanted te keep it more subtle.
 
 The team has selected 22 most common emoticons to be cast in concrete. Only face-emoji were picked as they were the most expressive and recognizable.
 
-{{< imgfig "https://3.bp.blogspot.com/-7JT36cM95JI/WQ9rt__ScYI/AAAAAAAAp6k/DDDdJGZfdBEFOLtlBornTKquhZx2UHnMQCPcB/s1600/dsc05180.picasaweb.jpg" "Emoticons." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/w660vvvhpnef3092.jpg" "Emoticons." >}}
 
 One of the reactions to this work was: "I'm curious what archaeologists will say when they dig this building out."
 
 Well that's something I'd also be eager to know.
 
-{{< imgfig "https://4.bp.blogspot.com/-H6W_2vbao6g/WQ9s9-6dI1I/AAAAAAAAp6w/oRKgK2FvnMQOmyMvPT3PIrITHkvb6d0nwCPcB/s1600/attika-vathorst-emojigebouw.picasaweb.jpg" "Changiz Tehrani. Photo by Attika Architekten." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/z3257ssxdw9q0178.jpg" "Changiz Tehrani. Photo by Attika Architekten." >}}
 
 Tehrani:
 
@@ -48,6 +48,6 @@ Tehrani:
 >
 > It’s like with Facebook. Facebook used to be cool and now it’s just for older people. So maybe we won’t use emoji in 10 years — that’s fine. It’s still from our time.
 
-{{< imgfig "https://1.bp.blogspot.com/-s0N-dM2P6Po/WQ9tbo942gI/AAAAAAAAp7A/y40lqz9irvMN4S9RaP9IeZgBUWo-VxzvACPcB/s1600/attika-vathorst-emojigebouw-2.picasaweb.jpg" "Photo by Attika Architekten." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/rzwu4s1ehnkq3118.jpg" "Photo by Attika Architekten." >}}
 
 I would personally question this rather blunt comparison of a website to an architectural object, but I do like the idea of refreshing our surroundings in such a way.

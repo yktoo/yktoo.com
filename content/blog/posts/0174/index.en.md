@@ -3,14 +3,14 @@ type: post
 date: "2013-01-16T00:00:00Z"
 title: "A fruit Xmas tree"
 tags: ["DIY", "food", "holidays"]
-image: "https://1.bp.blogspot.com/-7txD-LzjEbg/UOR-GB4aRJI/AAAAAAAAWVQ/DEQihbrLBw4/s1600/dsc06430.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/xho1bpes5i7b2075.jpg"
 aliases:
     - /en/blog/post/174
 ---
 
 In the New Year's Eve we've made a fruit tree, a real one:
 
-{{< imgfig "https://1.bp.blogspot.com/-7txD-LzjEbg/UOR-GB4aRJI/AAAAAAAAWVQ/DEQihbrLBw4/s1600/dsc06430.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xho1bpes5i7b2075.jpg" >}}
 
 <!--more-->
 

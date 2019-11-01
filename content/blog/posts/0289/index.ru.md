@@ -3,7 +3,7 @@ type: post
 date: "2016-09-22T00:00:00Z"
 title: "yktoo.com переведён на HTTPS"
 tags: ["HTTPS", "веб", "сайт"]
-image: "https://1.bp.blogspot.com/-Q6Epmj4OVpk/V-PrJEM8u8I/AAAAAAAAnZg/Tf32-jmaZn8nvQGeEEJIwwSNozc85hYfACPcB/s1600/https-yktoo.com.png"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/vhvb0hrcfqb30335.png"
 aliases:
     - /ru/blog/post/289
 ---
@@ -12,6 +12,6 @@ aliases:
 
 <!--more-->
 
-{{< imgfig "https://1.bp.blogspot.com/-Q6Epmj4OVpk/V-PrJEM8u8I/AAAAAAAAnZg/Tf32-jmaZn8nvQGeEEJIwwSNozc85hYfACPcB/s1600/https-yktoo.com.png" "Значок замка означает зашифрованное соединение с сайтом." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vhvb0hrcfqb30335.png" "Значок замка означает зашифрованное соединение с сайтом." >}}
 
 Переадресация на **https://yktoo.com** c **http://yktoo.com** происходит автоматически, но может потребоваться обновление некоторых ссылок или, например, {{< a "/blog/subscribe" "RSS-подписок" >}}.

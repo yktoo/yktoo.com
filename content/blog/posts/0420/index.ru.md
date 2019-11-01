@@ -10,7 +10,7 @@ tags:
     - поезда
     - железные дороги
     - Австрия
-image: "https://1.bp.blogspot.com/-3XmZSAjoJXs/XZ8fPEUXVzI/AAAAAAAAyk8/fmWhkrAfH_wfmRhvH1IDOPajQsx0_3cQACKgBGAsYHg/s1600/2019-10-10_obb-train.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/7p7q97418zqk3320.jpg"
 imageCredit: "Фото: coolscola03/Pixabay."
 ---
 

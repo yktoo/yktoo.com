@@ -5,7 +5,7 @@ dateFrom: 2012-12-28
 dateTo: 2012-12-28
 location: "Tivoli de Helling, Utrecht, Netherlands"
 websiteUrl: "http://www.tivoli.nl/agenda/2984/STREAM-OF-PASSION-1"
-image: "https://3.bp.blogspot.com/-2VA5ItpKHD4/UN8wi-0DpPI/AAAAAAAAWPY/aGH25OmXyCA/s1600/dsc06117.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/iwfitxlr7lt71371.jpg"
 videocategories: music
 posts: "0175"
 ---

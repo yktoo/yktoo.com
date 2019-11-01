@@ -4,7 +4,7 @@ date: "2017-02-21T00:00:00Z"
 title: "Рождение Yktoo Solutions"
 series: "Доля предпринимательская"
 tags: ["Yktoo Solutions", "бизнес", "налоги", "Нидерланды", "предпринимательство", "работа", "фриланс"]
-image: "https://1.bp.blogspot.com/-XCYqqwYaPbs/WCo7vX_qTiI/AAAAAAAAoPA/hDBojNJO1Pk9pRHGq7L6hQCzTBd_bIaCACPcB/s1600/20161105_211814.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/71f5vydx1e672802.jpg"
 aliases:
     - /ru/blog/post/311
 ---
@@ -17,13 +17,13 @@ aliases:
 
 Я склонен думать, что лучше жалеть о сделанных вещах, нежели о несделанных, поэтому, взвесив все {{< a "0309" "«за» и «против»" >}}, решил действовать. 1 октября 2016 года на свет появился мой {{< fl "eenmanszaak" >}}. Роды, проходившие в [Торговой палате](https://www.kvk.nl/), оказались быстрыми и приятными, новорождённого нарекли туземным именем {{< fl "Yktoo Solutions" >}}.
 
-{{< imgfig "https://1.bp.blogspot.com/-iaEVkAOTeVs/WKlzptmLZ-I/AAAAAAAApQ0/W-rdGWrQhbI0mT6IfVvmr2qhM5F7-YTewCPcB/s1600/Yktoo-Solutions-logo.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/29qxi5jq3ilc0481.png" >}}
 
 Вообще в качестве названия компании можно зарегистрировать что угодно, главное, чтобы оно не вводило в заблуждение и не повторяло какое-либо из существующих. Вводящими в заблуждение считаются, например, названия, использующие чужое имя (типа {{< fl "Johnson & Sons" >}}, когда вы по паспорту вовсе не Джонсон) или создающие неверное впечатление о размере или деятельности компании ({{< fl "Paradise Cleaning Industries" >}} для индивидуального бизнеса по уборке территории).
 
 С моим названием всё было в порядке; слово {{< fl "solutions" >}} («решения») часто используется в названиях ИТ-консалтинговых фирм. Недолго думая, я также зарегистрировал домен `yktoo.solutions` (многие до сих пор удивляются, что есть такой {{< wiki "Домен_верхнего_уровня" "ru" "TLD" >}} — `.solutions`), и соорудил на нём [сайт-визитку](https://www.yktoo.solutions/). В общем, приятные такие хлопоты по обустройству собственного новорождённого бизнеса.
 
-{{< imgfig "https://1.bp.blogspot.com/-XCYqqwYaPbs/WCo7vX_qTiI/AAAAAAAAoPA/hDBojNJO1Pk9pRHGq7L6hQCzTBd_bIaCACPcB/s1600/20161105_211814.picasaweb.jpg" "Визитки Yktoo Solutions." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/71f5vydx1e672802.jpg" "Визитки Yktoo Solutions." >}}
 
 ## Ученье — свет {#learning}
 
@@ -39,21 +39,21 @@ aliases:
 
 Раз в несколько месяцев {{< fl "KvK" >}} проводит бесплатный же «День стартера» ({{< fl "Startersdag" >}}), в котором помимо двух этих организаций участвует множество коммерческих фирм, предоставляющих услуги и сервисы для предпринимателей: банки, страховые компании, студии веб-дизайна, разработчики мобильных приложений, {{< fl "payment" >}}-провайдеры и т.п. Один такой день я посетил в ноябре в Утрехте.
 
-{{< imgfig "https://1.bp.blogspot.com/-Eki7kXjgv2k/WCo7vUGvE5I/AAAAAAAAoPA/6ehaYzYB0MADbj79jW0RFyptuwQ220B9QCPcB/s1600/20161105_100446.picasaweb.jpg" "KvK Startersdag." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ckggz1nifg4j3612.jpg" "KvK Startersdag." >}}
 
 ## «Цифровое рабочее место» {#digitale-werkplaats}
 
 А в декабре {{< fl "Google" >}} пригласил меня на организованный ими семинар под названием «Цифровое рабочее место» ([De Digitale Werkplaats](https://digitalewerkplaats.withgoogle.com/)).
 
-{{< imgfig "https://3.bp.blogspot.com/-bSXnAmKehwc/WKxwnAuMq0I/AAAAAAAApSE/B8VOjKSTTPgyqaseDrU9ifNR0YGkGJLcQCPcB/s1600/20161213_155655.picasaweb.jpg" "«Цифровое рабочее место» Google: бэдж участника." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/bto45v4vedut3418.jpg" "«Цифровое рабочее место» Google: бэдж участника." >}}
 
 Компания прикладывает много усилий для продвижения в массы «поисковой грамотности» и, конечно, своих рекламных сервисов.
 
-{{< imgfig "https://4.bp.blogspot.com/-Mg6vyN6KDeQ/WKxwnE-Zc6I/AAAAAAAApSE/NYO2PpLXvc4_qVy7mrOm3ue4wjRuwxsOQCPcB/s1600/20161213_155811.picasaweb.jpg" "Куда пойти учиться." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/rykg8jz4udcr1415.jpg" "Куда пойти учиться." >}}
 
 Там нас учили, как правильно строить навигацию на сайте, как пользоваться инструментами вебмастера и аналитикой, как размещать рекламу и т.п. — в целом довольно информативно. Все лекции были на голландском, и вести этот семинар прилетели голландцы из центра разработки {{< fl "Google" >}} в ирландском Дублине.
 
-{{< imgfig "https://1.bp.blogspot.com/-Pr10Soqileg/WKxwnBmTafI/AAAAAAAApSE/q5pEC34ffVwh3kr7Ld_k7cfB6xnO4UGGwCPcB/s1600/20161213_160002.picasaweb.jpg" "«Успешный веб-сайт»." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ppckgu1d3spl3646.jpg" "«Успешный веб-сайт»." >}}
 
 ## Информации много не бывает {#keep-learning}
 

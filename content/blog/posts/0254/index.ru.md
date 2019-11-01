@@ -3,7 +3,7 @@ type: post
 date: "2015-07-20T00:00:00Z"
 title: "Как стричь по-крупному"
 tags: ["благоустройство", "Нидерланды", "технологии", "Хаутен"]
-image: "https://4.bp.blogspot.com/-xzCrWNMLE8Q/Vat7YULjCHI/AAAAAAAAjtc/dbLIBLFipIU/s1600/20150630_081438.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/f8oncwcs5r8w1309.jpg"
 aliases:
     - /ru/blog/post/254
 ---
@@ -12,6 +12,6 @@ aliases:
 
 <!--more-->
 
-{{< imgfig "https://4.bp.blogspot.com/-xzCrWNMLE8Q/Vat7YULjCHI/AAAAAAAAjtc/dbLIBLFipIU/s1600/20150630_081438.picasaweb.jpg" "Трактор-кустостриг." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/f8oncwcs5r8w1309.jpg" "Трактор-кустостриг." >}}
 
 Всё оказалось просто: на обычном тракторе смонтирована «рука» производства британской компании [McConnel](http://www.mcconnel.com/). Забавно, кстати, что, поскольку трактор едет по дороге, в районе «лежачего полицейского» контур подстриженной изгороди имеет соответствующий изгиб сверху.

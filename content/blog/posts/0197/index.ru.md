@@ -3,7 +3,7 @@ type: post
 date: "2013-09-06T00:00:00Z"
 title: "Амерсфортская башня Onze-Lieve-Vrouwetoren"
 tags: ["Амерсфорт", "башня", "видео", "карильон", "музыка", "Нидерланды"]
-image: "https://4.bp.blogspot.com/-P6mbkylRitg/UimiqwmGXOI/AAAAAAAAaYU/F37sC5luqAs/s1600/Onze_Lieve_Vrouwetoren.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/ql547j1urvpi1600.jpg"
 places:
     - place0003
 aliases:
@@ -14,7 +14,7 @@ aliases:
 
 Но тут подвернулся случай сэкономить трудовую еврокопеечку. В брошюрке с программой {{< a "0196" "Споффина" >}} обнаружился купон на посещение башни со скидкой: за два евро с полтиной с носа вместо четырёх. Купон был действителен по 31 августа, которое удачно пришлось на субботу. Ну правда, не переплачивать же кучу денег.
 
-{{< imgfig "https://4.bp.blogspot.com/-P6mbkylRitg/UimiqwmGXOI/AAAAAAAAaYU/F37sC5luqAs/s1600/Onze_Lieve_Vrouwetoren.picasaweb.jpg" "Фото Pepijntje, via Wikimedia Commons." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ql547j1urvpi1600.jpg" "Фото Pepijntje, via Wikimedia Commons." >}}
 
 <!--more-->
 
@@ -26,55 +26,55 @@ aliases:
 
 Несмотря на приличные внешние размеры башни, к её вершине ведёт традиционно узкая винтовая лестница из 346 ступенек. На первом «привале» гид попросил присутствующих детей показать, где, по их мнению, мы сейчас находимся:
 
-{{< imgfig "https://4.bp.blogspot.com/-GFZwbLh3rzo/Uid9vxq5T0I/AAAAAAAAaT4/gUzQymoVgh0/s1600/dsc01080.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/kwnhtwwxtftn2407.jpg" >}}
 
 Вид на площадь {{< fl "Lieve Vrouwekerkhof" >}} с первого уровня башни, расположенного примерно в одной трети от её высоты:
 
-{{< imgfig "https://1.bp.blogspot.com/-xZ5LnT7prgk/Uid93_g3itI/AAAAAAAAaUg/By6_yPdnAWE/s1600/dsc01087.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/4uzysmpwhtnh1546.jpg" >}}
 
 Видны традиционные террасы ресторанов и ~~куча бездельников~~ расслабляющиеся на солнце амерсфортцы.
 
 Вид на исторический центр, рисунок улиц которого, по словам нашего экскурсовода, практически не изменился за последние несколько сотен лет:
 
-{{< imgfig "https://2.bp.blogspot.com/-bShQF-jUsj8/Uid95GZthCI/AAAAAAAAaUo/CD6gss91pDU/s1600/dsc01089.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/f0qtx0ei7m0x2766.jpg" >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-msmmZW6G-wY/Uid92dqu4LI/AAAAAAAAaUY/oLJTdcDEbZ0/s1600/dsc01085.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/72dkyaykfnxm1784.jpg" >}}
 
 Но дома, конечно, со временем перестраиваются и обновляются:
 
-{{< imgfig "https://1.bp.blogspot.com/-hA54Jyb4iSg/Uid96R9by_I/AAAAAAAAaUw/kJI40oi9iRU/s1600/dsc01091.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/5fhzgqajwxap1957.jpg" >}}
 
 А вот вид на город вне исторического центра, совершенно другой коленкор:
 
-{{< imgfig "https://2.bp.blogspot.com/-qRgkMBu00UU/Uid99ChRlUI/AAAAAAAAaVA/1ThlaTFu1JQ/s1600/dsc01093.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hqqraqqyvu7o3491.jpg" >}}
 
 Повсюду на крышах заметны панели солнечных батарей, «зелёная» энергия нынче в тренде. Вот, например, здание муниципалитета:
 
-{{< imgfig "https://4.bp.blogspot.com/--E4Oprg2jzA/Uid-Ql6R1wI/AAAAAAAAaWw/6yP3YIvsYFI/s1600/dsc01117.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/56oyc33ezebj1592.jpg" >}}
 
 Использование возобновляемых источников энергии активно поддерживается и субсидируется правительством. Многие этим пользуются, предоставляя крыши своих домов в аренду:
 
-{{< imgfig "https://3.bp.blogspot.com/-fUR8SrGImh0/Uid9_xTnZRI/AAAAAAAAaVQ/AYW6GsAL1AU/s1600/dsc01095.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xo6qakrxbz5s2187.jpg" >}}
 
 {{< fl "Westsingel" >}} и вездесущие велосипеды:
 
-{{< imgfig "https://3.bp.blogspot.com/-dQTaQ8Lrt7Q/Uid-Cc_bbjI/AAAAAAAAaVg/xwlIVbCa9qo/s1600/dsc01097.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/46eglhfhm5390212.jpg" >}}
 
 Ещё один тренд в одной из самых интернетизированных стран мира — QR-коды, вплоть до экземпляров размером в несколько квадратных метров:
 
-{{< imgfig "https://4.bp.blogspot.com/-l1VPMh5y54g/Uid-BFiHOFI/AAAAAAAAaVY/QD_zD7ZhNS4/s1600/dsc01096.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/63uqa9g801dq0268.jpg" >}}
 
 Иные используют крыши для более практических целей:
 
-{{< imgfig "https://3.bp.blogspot.com/-A8D0NOxaLa0/Uid-E-NsaUI/AAAAAAAAaVo/vIOZb3qt9oE/s1600/dsc01099.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/z8gr8ryxm74j1989.jpg" >}}
 
 В этот визит нам удалось увидеть работу профессионального карильонера, которых в Нидерландах осталось уже крайне мало. Он играет на особом инструменте под названием {{< wiki "Карильон" "ru" "карильон" >}}, с хроматическим строем, как у фортепиано, но с рычагами вместо клавиш.
 
-{{< imgfig "https://3.bp.blogspot.com/-HebMeKOgPcg/Uid-GMZH2QI/AAAAAAAAaVw/RqKy6QgKzas/s1600/dsc01100.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vhr7jqtmy9lj3325.jpg" >}}
 
 Рычаги соединены тягами с языками колоколов:
 
-{{< imgfig "https://1.bp.blogspot.com/-bl1cYdZaP3g/Uid-HZF7mgI/AAAAAAAAaV4/k6zwJjjyoJs/s1600/dsc01101.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ahqi9fq1w7i23124.jpg" >}}
 
 Особой гордостью амерсфортской башни Богородицы является наличие двух карильонов: традиционного, построенного в 1664 году с 35 колоколами, и нового, образца 1997 года с 58-ю. Помимо них, здесь есть ещё семь обычных колоколов, итого ровно сто штук.
 
@@ -90,30 +90,30 @@ aliases:
 
 После этого группа вскарабкалась по винтовой лестнице выше, на второй уровень башни, метрах в семидесяти над грешной землёй.
 
-{{< imgfig "https://4.bp.blogspot.com/-2T4vDENqKI0/Uid-KNhVUpI/AAAAAAAAaWI/EVMEu1KwDDg/s1600/dsc01109.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pk2u4crqds5o3271.jpg" >}}
 
 Если отсюда посмотреть на площадь, можно увидеть вымощенные на её брусчатке контуры прежней церкви, к которой в былые времена примыкала башня:
 
-{{< imgfig "https://4.bp.blogspot.com/-JdqPK5Pn9Ro/Uid-LX2NxfI/AAAAAAAAaWQ/dd51OXV_xak/s1600/dsc01110.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/yjd14ba5n7ot3009.jpg" >}}
 
 В те лихие годы восемнадцатого века церковь использовалась для небогоугодных нужд: в ней располагался пороховой склад и лаборатория по изготовлению гранат. Бог, очевидно, не мог мириться с таким положением вещей, и в 1787 году взрыв в лаборатории унёс жизни семнадцати человек, а также необратимо повредил здание самой церкви. В 1806 г. было решено снести то, что от неё осталось, в целях безопасности — остался только силуэт.
 
 Солнце то выходило, то пряталось за облаками, что бросало на город причудливые тени:
 
-{{< imgfig "https://3.bp.blogspot.com/-f7fZTB1nDDM/Uid-MpGd86I/AAAAAAAAaWY/Jxh6JHcQet0/s1600/dsc01113.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/gh4djwu5u1952624.jpg" >}}
 
 Ещё немного видов сверху:
 
-{{< imgfig "https://4.bp.blogspot.com/-s5amcNTL550/Uid-Up7rg8I/AAAAAAAAaXI/zk8o9O7xrho/s1600/dsc01124.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/s00ncw444gtj2679.jpg" >}}
 
-{{< imgfig "https://2.bp.blogspot.com/-709btHUiTsI/Uid-XXf5uAI/AAAAAAAAaXY/Qz0BsZCrkD4/s1600/dsc01126.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/qb4eysgaw7fy3070.jpg" >}}
 
 Пока жизнь в городе кипит, но в пять все магазины закроются, и улицы опустеют до понедельника.
 
-{{< imgfig "https://4.bp.blogspot.com/-uy_eBco6BiE/Uid-V0eYQrI/AAAAAAAAaXQ/2iFE9_p2EXA/s1600/dsc01125.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/onhhuyb58wf72859.jpg" >}}
 
 Нельзя не упомянуть об ещё одной вещи. В прежние времена башня, благодаря своему центральному расположению и заметности, была началом отсчёта, нулевой точкой голландской кадастровой системы координат ({{< fl "nulpunt Rijksdriehoeskmeting Kadaster" >}}), о чём сообщается на указателе, установленном в полу в центре башни:
 
-{{< imgfig "https://1.bp.blogspot.com/-IRu0peFgnf8/UinWz-KPFKI/AAAAAAAAaY0/NG6BqnWtvLo/s1600/RijksdriehoeksmetingNulpunt.picasaweb.jpg" "Фото I, Ceinturion, via Wikimedia Commons." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/65y5suqi3ygc0065.jpg" "Фото I, Ceinturion, via Wikimedia Commons." >}}
 
 Но необходимость использования отрицательных координат порой приводила к ошибкам, в связи с чем в 1978 году начало координат перенесли на 155 км западнее и на 463 км южнее. Таким образом, нынешние кадастровые координаты башни — X = 155 000, Y = 463 000.

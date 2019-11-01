@@ -3,7 +3,7 @@ type: post
 date: "2015-07-20T00:00:00Z"
 title: "Рейс MH17: год спустя"
 tags: ["MH17", "неприятное", "Нидерланды", "Путин", "размышления", "Россия", "самолёты", "СМИ"]
-image: "https://4.bp.blogspot.com/-E5910FSu9hA/Va0YaaIcVQI/AAAAAAAAkDU/9zb4DtrtBfI/s1600/20150719_150453.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/rfid00ttgbxi2545.jpg"
 aliases:
     - /ru/blog/post/256
 ---
@@ -12,7 +12,7 @@ aliases:
 
 Все газеты Нидерландов в этот день ожидаемо посвятили материалы катастрофе и последовавшему за ней разбирательству, далёкому от завершения и по сей день.
 
-{{< imgfig "https://4.bp.blogspot.com/-E5910FSu9hA/Va0YaaIcVQI/AAAAAAAAkDU/9zb4DtrtBfI/s1600/20150719_150453.picasaweb.jpg" "Обложка газеты Metro, 17 июля 2015 г." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/rfid00ttgbxi2545.jpg" "Обложка газеты Metro, 17 июля 2015 г." >}}
 
 <!--more-->
 

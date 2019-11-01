@@ -3,14 +3,14 @@ type: post
 date: "2008-10-24T00:00:00Z"
 title: "Ремонт"
 tags: ["Баарн", "Нидерланды"]
-image: "https://1.bp.blogspot.com/-W-npw6iVRZ0/T420DjwmN6I/AAAAAAAAO_4/bXcaZpzWtlE/s1600/24102008%2528001%2529.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/rdxlhkfj4gi90364.jpg"
 aliases:
     - /ru/blog/post/27
 ---
 
 Которую неделю в нашем Баарнском офисе идёт ремонт.
 
-{{< imgfig "https://1.bp.blogspot.com/-W-npw6iVRZ0/T420DjwmN6I/AAAAAAAAO_4/bXcaZpzWtlE/s1600/24102008%2528001%2529.picasaweb.jpg" "Европа. Кризис…" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/rdxlhkfj4gi90364.jpg" "Европа. Кризис…" >}}
 
 Точнее, не ремонт, а обновление внешней отделки здания. По-моему, оно и так вполне себе прилично выглядело, так нет же, положено обновить — обновляют.
 

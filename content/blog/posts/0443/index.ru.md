@@ -8,7 +8,7 @@ tags:
     - рак
     - загар
     - солнце
-image: "https://1.bp.blogspot.com/-qOiGOFaC8lk/Xbgnt5EUZdI/AAAAAAAAzE4/23R2yh7IkNECHFdPh9liBmJOu44bwMUIQCKgBGAsYHg/s1600/2019-10-29_sunbathing.w.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/o4f5471wtps81491.jpg"
 imageCredit: "Фото: Sarah Louise Kinsella/Unsplash."
 ---
 
@@ -22,7 +22,7 @@ imageCredit: "Фото: Sarah Louise Kinsella/Unsplash."
 
 Рак кожи является наиболее распространённой формой онкологических заболеваний в Нидерландах и составляет примерно половину от общего числа таких случаев. Ежегодно эта форма диагностируется почти у **70 000** новых пациентов.
 
-{{< imgfig "https://1.bp.blogspot.com/-FlHmBmrJ80g/XbgxbXGjUBI/AAAAAAAAzFY/v0dsmIzodSoQ7pye6MEnGzHFbHo7_gT-QCKgBGAsYHg/s1600/2019-10-29_cancer-kinds-2017.png" "Распределение видов онкологических заболеваний в Нидерландах (2017 год). Источник: доклад IKNL." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/l94ysfgkl32l2921.png" "Распределение видов онкологических заболеваний в Нидерландах (2017 год). Источник: доклад IKNL." >}}
 
 Из этого числа **48 000** случаев (**69%**) являются {{< wiki "Базалиома" "ru" "базально-клеточной карциномой" >}}, к счастью, практически не дающей метастазов. На втором месте — плоскоклеточная карцинома с **12 000** случаев (**17%**). Оба вида рака характеризуются низкой смертностью, но часто требуют повторного лечения.
 
@@ -30,7 +30,7 @@ imageCredit: "Фото: Sarah Louise Kinsella/Unsplash."
 
 На графике действительно заметен резкий рост случаев базалиомы ({{< fl "BCC" >}}) в последние годы:
 
-{{< imgfig "https://1.bp.blogspot.com/-3rl4Bfp_iC0/Xbgz4_5kIbI/AAAAAAAAzF4/ghCFul414NAieljRtQ2wyB8uXHOauFMiACKgBGAsYHg/s1600/2019-10-29_skin-cancer-trend.png" "Тренд трёх самых распространённых видов рака кожи. Источник: доклад IKNL." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/o4xby6qcu31r0403.png" "Тренд трёх самых распространённых видов рака кожи. Источник: доклад IKNL." >}}
 
 ## Меньше солнца
 

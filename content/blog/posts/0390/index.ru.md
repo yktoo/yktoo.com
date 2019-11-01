@@ -7,7 +7,7 @@ tags:
     - сделай сам
     - айкидо
     - 合気道
-image: "https://1.bp.blogspot.com/-36G2czZq3jk/XYd0bGYK7_I/AAAAAAAAx4s/Ph2-kcUXl7I7BQsUMW488oiCRHioDjFYwCKgBGAsYHg/s1600/20180707_115212.w.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/x50by8a66apk2987.jpg"
 ---
 
 Короткая, но поучительная история о том, как можно применить лазерно-утюжную технологию (в народе {{< a "https://electronics.fandom.com/ru/wiki/%D0%9B%D0%B0%D0%B7%D0%B5%D1%80%D0%BD%D0%BE-%D1%83%D1%82%D1%8E%D0%B6%D0%BD%D0%B0%D1%8F_%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" "ЛУТ" >}}) для облагораживания джо (палки), танто (деревянного кинжала) или бокена (деревянного меча), или чего там у вас ещё есть деревянного.
@@ -33,13 +33,13 @@ image: "https://1.bp.blogspot.com/-36G2czZq3jk/XYd0bGYK7_I/AAAAAAAAx4s/Ph2-kcUXl
 
 **Важно:** текст надо распечатывать *отражённым зеркально* по горизонтали!
 
-{{< imgfig "https://1.bp.blogspot.com/-f8G5hxHUfR4/XYd0bB7DHoI/AAAAAAAAx4s/5xe0qbYTH8gXwTroc9sJvYn8dnflcd-YQCKgBGAsYHg/s1600/20180707_103739.w.jpg" "Текст в зеркальном отражении." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/bdffuxhy7m2t3485.jpg" "Текст в зеркальном отражении." >}}
 
 ## Шаг второй: переносим текст на предмет
 
 Лишнюю бумагу вокруг текста надо обрезать, после чего наложить его на предмет *буквами вниз* и нежными плавными движениями прогладить боковой стороной разогретого выжигателя.
 
-{{< imgfig "https://1.bp.blogspot.com/-gJiNLbPHEIU/XYd0bE3iHxI/AAAAAAAAx4s/ct0piLcqXF8bWhRaa5-erFh33D5vjxiUQCKgBGAsYHg/s1600/20180707_103711.w.jpg" "Нежные поглаживания выжигателем." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/oxtew51ap2473221.jpg" "Нежные поглаживания выжигателем." >}}
 
 Смысл этой операции в том, что тонер из лазерного принтера расплавляется и приклеивается к дереву. Тонер по определению легкоплавкий, так как в принтере именно нагревом он фиксируется на бумаге.
 
@@ -51,32 +51,32 @@ image: "https://1.bp.blogspot.com/-36G2czZq3jk/XYd0bGYK7_I/AAAAAAAAx4s/Ph2-kcUXl
 
 Тут вступает в действие водопроводный кран: размочив бумагу под струёй воды, лёгкими круговыми движениями удаляем всю бумагу.
 
-{{< imgfig "https://1.bp.blogspot.com/--4DB96LVtbE/XYd0bN0hfBI/AAAAAAAAx4s/w2qCrvEM9WgWxbl-jfJ3T1MO24d5u2iAACKgBGAsYHg/s1600/20180707_103905.w.jpg" "Размачиваем и удалям бумажную основу." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vim70fj0zfzo0780.jpg" "Размачиваем и удалям бумажную основу." >}}
 
 Выглядит печать на предмете неидеально, но это нестрашно:
 
-{{< imgfig "https://1.bp.blogspot.com/-n-ez3DvI_hM/XYd0bH0bosI/AAAAAAAAx4s/LUWQp86Re10BzlLpgGJYS0htRrgNijcdQCKgBGAsYHg/s1600/20180707_104950.w.jpg" "Перенесённый текст." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ekulf8dgbiq61658.jpg" "Перенесённый текст." >}}
 
 ## Шаг четвёртый: жжём
 
 Тут берём в руки усидчивость с выжигателем и аккуратно обходим все напечатанные тонером места. 
 
-{{< imgfig "https://1.bp.blogspot.com/-QTBSCT4UuVI/XYd0bEnumqI/AAAAAAAAx4s/-4HN09PtRVQDZsYo4TePm6LtppWFgGGuwCKgBGAsYHg/s1600/20180707_105223.w.jpg" "Выжигание по тонеру." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/5p7acota2yin0277.jpg" "Выжигание по тонеру." >}}
 
 Смена насадок может оказаться полезной. 
 
-{{< imgfig "https://1.bp.blogspot.com/-F0qC4n_HwQw/XYd0bBXGfBI/AAAAAAAAx4s/w1SPssGalW88pa9GrrFz3T6zJdFypK9QQCKgBGAsYHg/s1600/20180707_110555.w.jpg" "Выжигание по тонеру." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/sthes5zt8af13115.jpg" "Выжигание по тонеру." >}}
 
 ## Результат
 
 Так выглядит конечный результат:
 
-{{< imgfig "https://1.bp.blogspot.com/-d56T_kl0aSo/XYd0bGKupyI/AAAAAAAAx4s/jaGSZTwsaGExR25cyASzbs4fKY5MJFMawCKgBGAsYHg/s1600/20180707_111122.w.jpg" "Танто с надписью 合気道." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/25ku0xf46osc1892.jpg" "Танто с надписью 合気道." >}}
 
 Немного неидеально, конечно, но надо сначала немного набить руку.
 
 Вторым я обработал бокен, получилось заметно лучше:
 
-{{< imgfig "https://1.bp.blogspot.com/-36G2czZq3jk/XYd0bGYK7_I/AAAAAAAAx4s/Ph2-kcUXl7I7BQsUMW488oiCRHioDjFYwCKgBGAsYHg/s1600/20180707_115212.w.jpg" "Бокен с надписью 合気道." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/x50by8a66apk2987.jpg" "Бокен с надписью 合気道." >}}
 
 Лучше всего надписи наносятся и держатся на дубе (из которого обычно и делают оружие в айкидо). На мягких сортах дерева нужно быть очень осторожным как с нанесением, так и с последующим использованием предмета.

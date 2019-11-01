@@ -11,14 +11,14 @@ tags:
     - СМИ
     - трон
     - Koninginnedag
-image: "https://3.bp.blogspot.com/-IT4UO1OgN_s/UQmTyqo5E7I/AAAAAAAAWmY/EaFuypwmxEs/s1600/Beatrix_der_Nederlanden.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/bi5kqwnjpk8s1207.jpg"
 aliases:
     - /ru/blog/post/176
 ---
 
 Королева Беатрикс буквально только что объявила о своём решении уступить трон нидерландской монархии своему старшему сыну, 45-летнему Виллему-Александру.
 
-{{< imgfig "https://3.bp.blogspot.com/-IT4UO1OgN_s/UQmTyqo5E7I/AAAAAAAAWmY/EaFuypwmxEs/s1600/Beatrix_der_Nederlanden.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/bi5kqwnjpk8s1207.jpg" >}}
 
 Этого её шага ожидали уже довольно давно, с тех пор как в замке Дракенстайн ({{< wiki "Drakensteyn" "nl" "Drakensteyn" >}}) начались ремонтные работы несколько лет назад.
 
@@ -28,7 +28,7 @@ aliases:
 
 Беатрикс вступила на трон в {{< a "0153" "День Королевы" >}} 30 апреля 1980 года, и вот, ровно тридцать три года спустя, тоже 30 апреля, она передаст трон королю (пока что ещё кронпринцу) Виллему-Александру, а его супруга Максима станет новой королевой.
 
-{{< imgfig "https://1.bp.blogspot.com/-gJqIt4vsd0s/UQbnpzNaPLI/AAAAAAAAWl8/Xzc8gaM3jFw/s1600/willem-alexander-maxima.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/o6gkgrj9b0sj1812.jpg" >}}
 
 Нидерландская монархия празднует в этом году 200 лет, ведя свой счёт с объявления независимости от французов в 1813-м. И у самой Беатрикс тоже скоро юбилей: через три дня, 31 января, исполнится ровно 75. Для своего возраста она довольно бодра, хотя в ней и заметна усталость.
 

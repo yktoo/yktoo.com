@@ -3,7 +3,7 @@ type: post
 date: "2016-04-11T00:00:00Z"
 title: "Sky is no limit"
 tags: ["music", "Radiolaria", "website"]
-image: "https://3.bp.blogspot.com/-PicmdePdRdM/WFcAND_odPI/AAAAAAAAots/92lu4FQLXx8BF2HXPG5LMgss7SnpN4WqgCPcB/s1600/dsc03863.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/y1u9th8ot4n42861.jpg"
 aliases:
     - /en/blog/post/275
 ---
@@ -25,4 +25,4 @@ So far four new tracks are available, all of them pertain to the sky for some re
 
 Stay tuned for more.
 
-{{< imgfig "https://3.bp.blogspot.com/-PicmdePdRdM/WFcAND_odPI/AAAAAAAAots/92lu4FQLXx8BF2HXPG5LMgss7SnpN4WqgCPcB/s1600/dsc03863.picasaweb.jpg" "The sky is on fire." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/y1u9th8ot4n42861.jpg" "The sky is on fire." >}}

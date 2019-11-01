@@ -3,7 +3,7 @@ type: post
 date: "2016-03-04T00:00:00Z"
 title: "Dream Theater представляет The Astonishing в Carré"
 tags: ["Carré", "Dream Theater", "progressive metal", "The Astonishing", "Амстердам", "музыка", "Нидерланды"]
-image: "https://4.bp.blogspot.com/--joylJaSOs8/Vs96qeUeASI/AAAAAAAAleU/3tOx2k0wt4E/s1600/dsc01729.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/ur908xrfq8780875.jpg"
 places:
     - place0041
 aliases:
@@ -18,7 +18,7 @@ aliases:
 
 23 февраля команда представляла недавно вышедший альбом {{< wiki "The_Astonishing" "ru" "The Astonishing" >}} в амстердамском театре [Carré](http://carre.nl/).
 
-{{< imgfig "https://4.bp.blogspot.com/--joylJaSOs8/Vs96qeUeASI/AAAAAAAAleU/3tOx2k0wt4E/s1600/dsc01729.picasaweb.jpg" "Dream Theater в Carré. Перед началом шоу." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ur908xrfq8780875.jpg" "Dream Theater в Carré. Перед началом шоу." >}}
 
 И в этот раз, как давеча на {{< a "0267" "Аристократах" >}}, фото- и видеосъёмка были полностью запрещены. Ну то есть совсем. К каждому снимающему сцену на камеру или телефон, а это был каждый второй, подходил охранник и очень вежливо — даже скажу, доброжелательно — просил этого больше не делать, дескать, просьба группы. После первого нарушения — вывод из зала под белы рученьки. Вот и на фото выше можно видеть, как по проходу ко мне направляется один из них.
 
@@ -34,11 +34,11 @@ aliases:
 
 В XXIII веке на Земле, в части света под названием «Великая Северная Империя Америки» ({{< fl "The Great Northern Empire of the Americas" >}}), вновь феодализм; коварный Император Нафариус ({{< fl "Nafaryus" >}}) владеет авто-, а точнее, дронопарком ШУМАШ, «Шумовых Машин» ({{< fl "Noise Machines" >}}, {{< fl "NOMACS" >}}), оставшихся единственным средством развлечения несчастного населения — вся остальная музыка вымерла.
 
-{{< imgfig "https://4.bp.blogspot.com/-VlcFwYGw7j4/VtX3ZAIz72I/AAAAAAAAlgk/Gamxf_WmyDI/s1600/nomac.png" "ШУМАШа, она же NOMAC. Источник: dreamtheater.net." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0mebwfndj54k3669.png" "ШУМАШа, она же NOMAC. Источник: dreamtheater.net." >}}
 
 И всё идёт своим чередом, ШУМАШи шумят, население страдает, император имперствует, но вдруг до него доносится весть, что где-то в далёкой деревне под названием Рейвенскилл ({{< fl "Ravenskill" >}}) есть некто Гэбриел ({{< fl "Gabriel" >}}), который умеет исполнять самую настоящую музыку! Нафариусу становится любопытно (а любопытство, как все мы знаем из классики, императоров до добра не доводит), и он тут же покупает билет на самую быструю ЛЕХРЕ (Летающая Штуковина) и едет в Рейвенскилл. Из того же праздного любопытства за ним увязывается дочь Фейт ({{< fl "Faythe" >}}), которая — ясен день — влюбляется в музыканта, едва только его увидев.
 
-{{< imgfig "https://1.bp.blogspot.com/-2yu6jO_vFQ8/VtX8R-wYb6I/AAAAAAAAlhE/XdEhPFIUnDg/s1600/the-astonishing-characters.jpg" "Действующие лица в The Astonishing." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/5esu195lytlf0187.jpg" "Действующие лица в The Astonishing." >}}
 
 Император, как и положено настоящему злодею, чихать хотел на чувства дочери и требует выдать мерзавца. Тот, однако, выдаваться не торопится, чем окончательно запутывает всю историю. После нескольких драматических эпизодов, включающих погони, схватки на ~~световых~~ мечах и, конечно же, предательство, добро всё-таки побеждает, злодеи предсказуемо гибнут, любовь торжествует, оставшиеся в живых френдят друг друга в Фейсбуке и Инстаграмме, после чего живут долго и счастливо.
 
@@ -54,10 +54,10 @@ aliases:
 
 Гитарист {{< wiki "Петруччи,_Джон" "ru" "Джон Петруччи" >}} ({{< fl "John Petrucci" >}}) — борода лопатой:
 
-{{< imgfig "https://2.bp.blogspot.com/-kpDrkCzDrWQ/Vs96qbqDA8I/AAAAAAAAleU/GxiIM7YRshM/s1600/20160223_224231.picasaweb.jpg" "Dream Theater в Carré. Джон Петруччи." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/f6v9ywoz37yf3505.jpg" "Dream Theater в Carré. Джон Петруччи." >}}
 
 По ходу шоу ни Петруччи, от которого я сидел буквально в двух метрах (чудом посчастливилось купить билеты на второй ряд!), ни остальные музыканты не проявляли никаких особенных эмоций — лишь вокалист {{< wiki "Лабри,_Джеймс" "ru" "Джеймс ЛаБри" >}} пару раз спросил, мол, Амстердам, как оно вам?
 
 И, наконец, самое возмутительное: ударник {{< wiki "Манджини,_Майк" "ru" "Майк Манджини" >}} преспокойно фотографирует зал своим мобильником, а охранники и в ус не дуют! Ну и как после этого верить в справедливость?
 
-{{< imgfig "https://1.bp.blogspot.com/-cwfVlJhAerw/Vs96qR8GwMI/AAAAAAAAleU/Pt3Aclg48ro/s1600/20160223_224229.picasaweb.jpg" "Dream Theater в Carré. Майк Манджини делает фото." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/woytwuj9xchl3670.jpg" "Dream Theater в Carré. Майк Манджини делает фото." >}}

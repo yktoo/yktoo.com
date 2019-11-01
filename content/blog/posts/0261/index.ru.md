@@ -3,7 +3,7 @@ type: post
 date: "2015-09-10T00:00:00Z"
 title: "Из жизни правил"
 tags: ["бюрократия", "Нидерланды", "размышления", "Россия"]
-image: "https://4.bp.blogspot.com/-tl8WbwNhgeI/Vc5eVvu03MI/AAAAAAAAkFQ/QjAQHcFtOeo/s1600/civil_servant.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/ke8epyhztejl0064.jpg"
 aliases:
     - /ru/blog/post/261
 ---
@@ -23,7 +23,7 @@ aliases:
 
 Именно этой религии я обязан незабываемым временем в храме под названием {{< a "0257" "«Почта России»" >}}.
 
-{{< imgfig "https://4.bp.blogspot.com/-tl8WbwNhgeI/Vc5eVvu03MI/AAAAAAAAkFQ/QjAQHcFtOeo/s1600/civil_servant.picasaweb.jpg" "Чиновник, сын божий." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ke8epyhztejl0064.jpg" "Чиновник, сын божий." >}}
 
 <!--more-->
 

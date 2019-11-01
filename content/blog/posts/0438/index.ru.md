@@ -8,7 +8,7 @@ tags:
     - ING
     - новости
     - жильё
-image: "https://1.bp.blogspot.com/-Cxh593fxTA8/XbFdV9wBmhI/AAAAAAAAy-Y/r9WrOhHdfPUC_josafKBYERIVt4taWFOQCKgBGAsYHg/s1600/2019-10-24_zandkasteel.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/qrfsf65l6g4r3636.jpg"
 imageCredit: "Фото: Jan Derwig/Wikimedia."
 ---
 
@@ -18,7 +18,7 @@ imageCredit: "Фото: Jan Derwig/Wikimedia."
 
 <!--more-->
 
-{{< imgfig "https://1.bp.blogspot.com/-Cxh593fxTA8/XbFdV9wBmhI/AAAAAAAAy-Y/r9WrOhHdfPUC_josafKBYERIVt4taWFOQCKgBGAsYHg/s1600/2019-10-24_zandkasteel.jpg" "«Песочный замок» — Zandkasteel — в Амстердаме. Фото: Jan Derwig/Wikimedia." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/qrfsf65l6g4r3636.jpg" "«Песочный замок» — Zandkasteel — в Амстердаме. Фото: Jan Derwig/Wikimedia." >}}
 
 ## Бывшая штаб-квартира ING Group
 
@@ -27,9 +27,9 @@ imageCredit: "Фото: Jan Derwig/Wikimedia."
 Его уменьшенная копия есть даже в парке миниатюр «Мадюродам»:
 
 {{< carousel >}}
-https://1.bp.blogspot.com/-gvacwaErTzs/XbFl1DAP2yI/AAAAAAAAy-s/rROo3O6Q1uojjCARzzTh2R0BPQZg36VnQCKgBGAsYHg/s1600/dsc04971.picasaweb.jpg Копия Zandkasteel в Мадюродаме.
-https://1.bp.blogspot.com/-L1uKWFjJw80/XbFl1KaKSdI/AAAAAAAAy-s/8MiAP0AXKC4IlSEAd8gQKYCgZpYhifGzQCKgBGAsYHg/s1600/dsc04972.picasaweb.jpg Копия Zandkasteel в Мадюродаме.
-https://1.bp.blogspot.com/-CAnIPpaOnzg/XbFl1J10ewI/AAAAAAAAy-s/5znnbnpel1I8HmoO2XpzZfe3ctWWdE_zACKgBGAsYHg/s1600/dsc04973.picasaweb.jpg Копия Zandkasteel в Мадюродаме.
+https://res.cloudinary.com/yktoo/image/upload/blog/m8mq88f5jqp61272.jpg Копия Zandkasteel в Мадюродаме.
+https://res.cloudinary.com/yktoo/image/upload/blog/q6dh3ngf80xj2965.jpg Копия Zandkasteel в Мадюродаме.
+https://res.cloudinary.com/yktoo/image/upload/blog/zkktyusfc4u30590.jpg Копия Zandkasteel в Мадюродаме.
 {{< /carousel >}}
 
 Работая в {{< fl "ING" >}}, я в своё время провёл в этом здании немало времени. Оно выглядит необычно не только снаружи — внутри у него тоже почти нигде нет прямых углов.
@@ -42,7 +42,7 @@ https://1.bp.blogspot.com/-CAnIPpaOnzg/XbFl1J10ewI/AAAAAAAAy-s/5znnbnpel1I8HmoO2
 
 В таких условиях аренда {{< fl "Zandkasteel" >}} с его **50 000** м² офисной площади обходилась слишком дорого. В **2017** году банк {{< a "https://www.ing.com/Newsroom/All-news/Groundbreaking-on-new-HQ-begins-with-first-tree.htm" "начал" >}} строительство нового кампуса под названием {{< a "https://www.cumuluspark.com/" "Cumulus Park" >}}, который официально {{< a "https://www.cumuluspark.com/news/press-release-innovatie-district-amsterdam-zuidoost-van-start-cumulus-park" "открыли" >}} **9** октября {{< year 2019 "этого" >}} года.
 
-{{< imgfig "https://1.bp.blogspot.com/-X08BS4FC7do/XbFxaxvoa4I/AAAAAAAAy_E/ixGqCRn_b5UWv3Vzpflg-xdoky7lqKFxACKgBGAsYHg/s1600/2019-10-24_ing-nieuw-hoofdkantoor.jpg" "Изображение завершённого кампуса ING. Источник: ing.com." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ro1jqdclhl281991.jpg" "Изображение завершённого кампуса ING. Источник: ing.com." >}}
 
 ## Трансформация
 

@@ -5,7 +5,7 @@ dateFrom: 2015-03-26
 dateTo: 2015-03-26
 location: "Melkweg, Amsterdam, Netherlands"
 websiteUrl: "http://www.melkweg.nl/en/agenda/the-gentle-storm-26-03-2015"
-image: "https://3.bp.blogspot.com/-mV6KFzDC4bw/VRf96Bsmy0I/AAAAAAAAhaM/Ir7rbA2agi4/s1600/dsc08316.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/smlssasm45zh3150.jpg"
 videocategories: music
 posts: "0250"
 ---

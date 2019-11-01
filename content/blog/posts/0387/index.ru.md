@@ -8,7 +8,7 @@ tags:
     - экология
     - электроэнергия
     - Хаутен
-image: "https://1.bp.blogspot.com/-T6fq0G9oz-U/XYTdU1TM4QI/AAAAAAAAxxg/HLr1j_OTyMYNVA563EEMQjfOo5winL6awCKgBGAsYHg/s1600/20180727_121617.w.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/rqshij0es8jq0143.jpg"
 ---
 
 В июле прошлого года я сделал то, что давно собирался: установил солнечные панели — в количестве **14** штук.
@@ -26,19 +26,19 @@ image: "https://1.bp.blogspot.com/-T6fq0G9oz-U/XYTdU1TM4QI/AAAAAAAAxxg/HLr1j_OTy
 
 Вот, например, график энергии за сегодня. Погода для сентября стоит довольно солнечная, на графике можно видеть, что пик мощности составил **2 141 Вт**:
 
-{{< imgfig "https://1.bp.blogspot.com/-qEk4HSgwW0Y/XYTjw2SMYxI/AAAAAAAAxyc/WfbcLWuSmow4m82zxSv50fh64vHPKHgyACKgBGAsYHg/s1600/growatt-1.w.png" "Данные по солнечной энергии за один день." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/dbrl4wjd8bnq1625.png" "Данные по солнечной энергии за один день." >}}
 
 Это неплохо, максимальная паспортная мощность моей установки равна **3780 Вт** — но она недостижима в реальных условиях (ниже объясню, почему).
 
 Вот данные за каждый месяц {{< year 2019 "этого" >}} года:
 
-{{< imgfig "https://1.bp.blogspot.com/-9woTlavodT4/XYTjwwWgeBI/AAAAAAAAxyc/f8rmuH-i0CcXaqs0zalWvweADnJXap0HQCKgBGAsYHg/s1600/growatt-2.w.png" "Данные помесячно." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/8di5akh4bgt21208.png" "Данные помесячно." >}}
 
 Пик производства электроэнергии закономерно приходится на июнь — **556 кВт·ч** — всё-таки 21 числа летнее солнцестояние. А самый «дохлый» месяц в этом плане — декабрь, в течение которого я сгенерировал лишь **36 кВт·ч**.
 
 И вот, наконец, данные за весь срок использования — с конца июля **2018** года:
 
-{{< imgfig "https://1.bp.blogspot.com/-PVGlI4H1e8Q/XYTjw2aeIgI/AAAAAAAAxyc/4nw9Q5264FAR6zNlaOuuxueNEiUp-NAhgCKgBGAsYHg/s1600/growatt-3.w.png" "Данные за всё время." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hkiwfm0i949y0890.png" "Данные за всё время." >}}
 
 Всего сгенерировано **4,3 мегаватт-часа** энергии, что в денежном эквиваленте составляет примерно **€ 946** — неплохо для 14 месяцев использования. При стоимости всей установки около **€ 3 600** (без учёта НДС) она должна окупиться примерно за четыре года, после чего будет приносить прибыль. Это всё, разумеется, если погода будет примерно такой же — а последние два лета было довольно солнечно.
 
@@ -70,7 +70,7 @@ image: "https://1.bp.blogspot.com/-T6fq0G9oz-U/XYTdU1TM4QI/AAAAAAAAxxg/HLr1j_OTy
 
 И действительно, это были 28 плиток, служащие балластом для несущей рамы:
 
-{{< imgfig "https://1.bp.blogspot.com/-WOlmR4_1PD8/XYTdUxQBddI/AAAAAAAAxxg/SFZMbfLR0h8hxXTAH-E64FpIRh0Bcz2RACKgBGAsYHg/s1600/20180626_193927.w.jpg" "Самая тяжёлая посылка на моей памяти." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/82hxaqee25tl0689.jpg" "Самая тяжёлая посылка на моей памяти." >}}
 
 Плитки выгрузили во дворе дома, где провели несколько недель в ожидании продолжения.
 
@@ -80,15 +80,15 @@ image: "https://1.bp.blogspot.com/-T6fq0G9oz-U/XYTdU1TM4QI/AAAAAAAAxxg/HLr1j_OTy
 
 Панели всё равно привезли, выгрузили их у меня в саду. Каждая форматом **165 × 99** см и весом около **18** кг.
 
-{{< imgfig "https://1.bp.blogspot.com/-ATH0fCgdt_8/XYTdU2dnjYI/AAAAAAAAxxg/jOna9SBwHUUqC_HhATtbM4O8jfI1StpPwCKgBGAsYHg/s1600/20180628_115155.w.jpg" "Солнечные панели." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/y9oog6y62c3j3358.jpg" "Солнечные панели." >}}
 
 Там они и стояли, ждали своей очереди.
 
-{{< imgfig "https://1.bp.blogspot.com/-OfLhODd2xLk/XYTdU4j9GaI/AAAAAAAAxxg/0-kKwv5vyiE52vsmZBPYxNc8jSmjsfaxACKgBGAsYHg/s1600/20180628_122716.w.jpg" "14 панелей." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/yeliesjg4utn0877.jpg" "14 панелей." >}}
 
 Панели из {{< wiki "Поликристаллический_кремний" "ru" "поликристаллического кремния" >}}, тип **JAP60S01-270/SC**; цифра 270 означает пиковую мощность в **270** ватт:
 
-{{< imgfig "https://1.bp.blogspot.com/-SwM4YH6rEjE/XYTdU7EmttI/AAAAAAAAxxg/MjvIOwHaCcgQ0j92D-PkcLwScNXOnhAcACKgBGAsYHg/s1600/20180628_115356.w.jpg" "Характеристики солнечной панели: тип JAP60S01-270/SC." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/8438w3gawoxs3598.jpg" "Характеристики солнечной панели: тип JAP60S01-270/SC." >}}
 
 Сейчас, год спустя, уже в ходу панели на 280 вт.
 
@@ -96,13 +96,13 @@ image: "https://1.bp.blogspot.com/-T6fq0G9oz-U/XYTdU1TM4QI/AAAAAAAAxxg/HLr1j_OTy
 
 Смонтировали несущую раму и прикрепили к ней мои четырнадцать панелей:
 
-{{< imgfig "https://1.bp.blogspot.com/-T6fq0G9oz-U/XYTdU1TM4QI/AAAAAAAAxxg/HLr1j_OTyMYNVA563EEMQjfOo5winL6awCKgBGAsYHg/s1600/20180727_121617.w.jpg" "Солнечная электростанция в сборе." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/rqshij0es8jq0143.jpg" "Солнечная электростанция в сборе." >}}
 
 Система такой конфигурации называется «восток-запад» ({{< a "https://www.zonnepanelen.net/oost-west-zonnepanelen/" "oost-west" >}}) и является оптимальной для плоской крыши, если не хватает места для ориентации всех панелей на юг — при условии поддержки инвертором, так как у него должно быть две независимых входных группы.
 
 Посередине каждого элемента располагается тот самый балласт в форме плиток. Как мне объяснили, рама просто покоится на крыше без закрепления; если крышу сверлить, возникает риск того, что она станет протекать.
 
-{{< imgfig "https://1.bp.blogspot.com/-MBHyjt4MMag/XYTdUy3scWI/AAAAAAAAxxg/_dYqhsGgYD0pBWXcVJ7vpBu8A4nk0511gCKgBGAsYHg/s1600/20180727_121708.w.jpg" "Конфигурация «восток-запад»." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/99ojq6v0vx7w3261.jpg" "Конфигурация «восток-запад»." >}}
 
 Система «восток-запад» на 5-7% менее эффективна, чем конфигурация с панелями «на юг», но зато более компактна.
 
@@ -118,11 +118,11 @@ image: "https://1.bp.blogspot.com/-T6fq0G9oz-U/XYTdU1TM4QI/AAAAAAAAxxg/HLr1j_OTy
 
 Вот как оно выглядит изнутри:
 
-{{< imgfig "https://1.bp.blogspot.com/-rzktRnJ5LpE/XYTdU4Zc2MI/AAAAAAAAxxg/XlPEbh1tgL4rCicxz1meIQ5__Q25YGUMwCKgBGAsYHg/s1600/20180727_120010.w.jpg" "Отверстие — вид изнутри." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/w9x2y94tkobf0319.jpg" "Отверстие — вид изнутри." >}}
 
 А вот что находится снаружи:
 
-{{< imgfig "https://1.bp.blogspot.com/-PFUNFAe5k4I/XYTdU5_iteI/AAAAAAAAxxg/92HBiRALXnQeIDjlvbi6t6QyAzhatrqawCKgBGAsYHg/s1600/20180727_121631.w.jpg" "Отверстие — вид снаружи." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/jd61kercnw3w1817.jpg" "Отверстие — вид снаружи." >}}
 
 ## Инвертор
 
@@ -130,7 +130,7 @@ image: "https://1.bp.blogspot.com/-T6fq0G9oz-U/XYTdU1TM4QI/AAAAAAAAxxg/HLr1j_OTy
 
 Мой экземпляр — это модель {{< fl "Growatt 3600MTL-S" >}}, с двумя независимыми входными группами и максимальной выходной мощностью **3,6 кВт**.
 
-{{< imgfig "https://1.bp.blogspot.com/-htuVu66YgHU/XYTdU607mqI/AAAAAAAAxxg/5-ZQvCdfYN4YF6fxf4MzKONT8g9eafoRQCKgBGAsYHg/s1600/20190920_160143.w.jpg" "Инвертор Growatt 3600MTL-S." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/11u544fqvcjh0897.jpg" "Инвертор Growatt 3600MTL-S." >}}
 
 КПД инвертора — **97,9%**, это очень круто.
 
@@ -153,11 +153,11 @@ image: "https://1.bp.blogspot.com/-T6fq0G9oz-U/XYTdU1TM4QI/AAAAAAAAxxg/HLr1j_OTy
 
 Ну и, разумеется, у {{< fl "Growatt" >}} есть мобильное приложение, в котором можно просматривать примерно те же данные, что и на сайте.
 
-{{< imgfig "https://1.bp.blogspot.com/-dLTbFL5xJ2E/XYTjwzt34CI/AAAAAAAAxyc/cjrb2buFNnkkJKsVFqWNt2oR7p0LYK0igCKgBGAsYHg/s1600/ShinePhone-1.w.jpg" "Мобильное приложение Growatt." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/82c5qk12egnm0154.jpg" "Мобильное приложение Growatt." >}}
 
 Текущая генерируемая мощность:
 
-{{< imgfig "https://1.bp.blogspot.com/-Lzr8yRftOF0/XYTjw4TASJI/AAAAAAAAxyc/snUL89Hg6gwl8Jy2lp1kK54cVfX_T5kjgCKgBGAsYHg/s1600/ShinePhone-2.w.jpg" "Мобильное приложение Growatt." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9n3mgnaquaoj3532.jpg" "Мобильное приложение Growatt." >}}
 
 ## Ну и?
 

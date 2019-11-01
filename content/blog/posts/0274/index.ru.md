@@ -3,7 +3,7 @@ type: post
 date: "2016-04-09T00:00:00Z"
 title: "Замкозабег, вторая редакция"
 tags: ["De Haar", "De Halve van de Haar", "бег", "замок", "Нидерланды", "полумарафон", "спорт"]
-image: "https://2.bp.blogspot.com/-PNk5LFWpieY/VwFmIiB8bOI/AAAAAAAAlxc/6H3_c4Jg7fMcwzIR8XUF1AtnRSenSGMeQ/s1600/dsc02101.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/g4iojmxzvy3v1266.jpg"
 places:
     - place0165
 aliases:
@@ -16,7 +16,7 @@ aliases:
 
 Как я уже {{< a "0266#de-halve-van-de-haar" "писал" >}}, полумарафон случился 28 марта, во второй день Пасхи — в Голландии это выходной день. Это была во вторая редакция забега [De Halve van de Haar](http://www.dehalvevandehaar.nl/), и полумарафон (**21,1 км**) был здесь максимальной дистанцией.
 
-{{< imgfig "https://2.bp.blogspot.com/-PNk5LFWpieY/VwFmIiB8bOI/AAAAAAAAlxc/6H3_c4Jg7fMcwzIR8XUF1AtnRSenSGMeQ/s1600/dsc02101.picasaweb.jpg" "На самом деле медаль серебристая, просто свет такой." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/g4iojmxzvy3v1266.jpg" "На самом деле медаль серебристая, просто свет такой." >}}
 
 В {{< a "0266#de-halve-van-de-haar" "предыдущий раз" >}} дистанция была вдвое меньше — 10,5 км, и после финиша я, помнится, смотрел на полумарафонцев и тихо радовался, что я не с ними, с трудом представляя себе, как столько вообще можно пробежать.
 
@@ -40,15 +40,15 @@ aliases:
 
 Всего в полумарафоне [участвовало](http://evenementen.uitslagen.nl/2016/dehalvevandehaar/uitslag.php?on=1&p=1&tl=nl) **1117** человек, что довольно много для такого ограниченного пространства. В толпе я даже не заметил, где именно находится линия старта (и считыватели RFID-меток).
 
-{{< imgfig "https://3.bp.blogspot.com/-CKFfZfy8qP4/VwFmIhtuIFI/AAAAAAAAlxc/-tjv5zkmHtQywfTvP9I5LpKIfUtBRBDBg/s1600/dsc02091.picasaweb.jpg" "Старт полумарафона." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1yo5b401f0mt1712.jpg" "Старт полумарафона." >}}
 
 Если бы не штормовой ветер, погода была бы просто отличная — солнечно и довольно тепло.
 
-{{< imgfig "https://2.bp.blogspot.com/-wwJLWBJF0mo/VwFy24lTDwI/AAAAAAAAlyM/7qyxv5kviD4cq8DPscBmtfAc_3FfIVm_w/s1600/20160328_141702.picasaweb.jpg" "В толпе полумарафонцев." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9efvo0o3fnrc0256.jpg" "В толпе полумарафонцев." >}}
 
 Согласно {{< wiki "Шкала_Бофорта" "ru" "Википедии" >}}, при ветре в 7 баллов волны достигают в высоту пяти с половиной метров. Но это, к счастью, не в де-хааровском пруду, а то бы нас всех смыло.
 
-{{< imgfig "https://2.bp.blogspot.com/-72kmF251LS0/VwFy2wBMsYI/AAAAAAAAlyM/QwnSfpCIsyg0j2jEobnK1TTcWz889-7EQ/s1600/20160328_141704.picasaweb.jpg" "Да, знаю, горизонт завален — снято на бегу." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fb1nx4np5nq20855.jpg" "Да, знаю, горизонт завален — снято на бегу." >}}
 
 После того, как все растянутся по трассе, бежать становится гораздо свободнее. Как обычно, в деревне народ стоит вдоль дороги и подбадривает бегунов. В одном месте какая-то женщина крикнула мне: {{< fl "«Kom op Dmitry, doorzetten!»" >}} — давай, мол, жми. Я в удивлении на неё воззрился, вспоминая, кто это, но тут до меня дошло, что имя-то у меня напечатано на номере. Стормозил-с.
 
@@ -56,15 +56,15 @@ aliases:
 
 Маршрут состоял из двух почти одинаковых кругов по ~10 км по территории парка {{< a "0012" "замка De Haar" >}}, раз проходя по самому двору замка.
 
-{{< imgfig "https://4.bp.blogspot.com/-4zRsSePQ0oY/Vwe_9rmo0nI/AAAAAAAAlz4/NFjo9klZGIEehUpwX5b0xjAepXviGcA_w/s1600/de-halve-van-de-haar-parcour.png" "План полумарафона." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vskpxsf2o89x1402.png" "План полумарафона." >}}
 
 В общем, хорошо всё то, что ~~нас не убивает~~ хорошо кончается. Добрался я до финиша.
 
-{{< imgfig "https://1.bp.blogspot.com/-sb_ir321Plk/VwFy21cLg0I/AAAAAAAAlyM/ECFeI2NyiyMZOUhy8xacpZWYaQhwvZ6nQ/s1600/20160328_161429.picasaweb.jpg" "Финишная кривая." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ks6tgyd8n2511862.jpg" "Финишная кривая." >}}
 
 Как потом выяснилось, результатов на сайте не оказалось из-за того, что датчики зарегистрировали меня везде, кроме финиша. Представитель тайминговой компании предположил, что я, останавливая секундомер, прижал руку с часами к животу (на котором был закреплён номер). Он рассчитал моё время, исходя из времени последнего измерения — за 600 метров от финиша. Получилось **2:01:46**, хотя по моим часам — **2:01:03** (и это логично, я как раз в конце рванул изо всех сил). Впрочем, разница погоды не делает.
 
-{{< imgfig "https://4.bp.blogspot.com/-rQcx-stc3gM/Vwe_9oNR43I/AAAAAAAAlz4/h7efzZ7_pJYW2B3n5ubIhK1CnMes_5iww/s1600/de-halve-van-de-haar-dk-result.png" "Мой результат." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/n4syn9nj47a73237.png" "Мой результат." >}}
 
 В итоге — заслуженное [730-е место](http://evenementen.uitslagen.nl/2016/dehalvevandehaar/details.php?t=&s=4528). Результат, конечно, далеко не блестящий, но, учитывая безумный ветер, неплохой. Есть ещё куда расти, в общем.
 

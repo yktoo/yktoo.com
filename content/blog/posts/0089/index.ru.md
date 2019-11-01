@@ -4,7 +4,7 @@ date: "2011-04-20T00:00:00Z"
 title: "Часть 7. Ночной Будапешт"
 series: "Вена и Будапешт"
 tags: ["Будапешт", "Венгрия", "путешествия"]
-image: "https://3.bp.blogspot.com/--Z559BLUdsM/Tan3CV4zhxI/AAAAAAAAItc/QMKX7luZEiM/s1600/dsc01685.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/ir5ndo4pomx93608.jpg"
 places:
     - place0104
     - place0105
@@ -18,17 +18,17 @@ aliases:
 
 В Будапеште мы нашли очень удачное место (опять же через знакомых): большую трёхкомнатную квартиру почти в самом центре столицы, выполненную в стиле «а-ля сталинка» — с высокими потолками, просторную, не шикарную, но вполне симпатичную (под стать гостям, ага).
 
-{{< imgfig "https://3.bp.blogspot.com/--Z559BLUdsM/Tan3CV4zhxI/AAAAAAAAItc/QMKX7luZEiM/s1600/dsc01685.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ir5ndo4pomx93608.jpg" >}}
 
 <!--more-->
 
 Всё в этой квартире было непривычно для моего голландского приятеля — старинные двери, окна, решётки на двери и окнах. Но даже для меня было необычным то, что дом представлял собой квадрат, с небольшим внутренним двориком:
 
-{{< imgfig "https://3.bp.blogspot.com/-IzjTRWuawWU/Tan18mJ6x9I/AAAAAAAAItc/6P768xQfUlk/s1600/dsc01978.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/w8942yeq657d1028.jpg" >}}
 
 Уже потом, разглядывая Будапешт [в Google Maps](http://goo.gl/ARgrv), я обратил внимание, что так построены почти все жилые дома в городе:
 
-{{< imgfig "https://1.bp.blogspot.com/-DFIyVKMSBA0/Ta3yijAVTkI/AAAAAAAAIfE/zz7gjR4dNv4/s1600/Budapest-Center-GoogleMaps.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/2su6k2pbgmep0431.jpg" >}}
 
 Да, кстати, в этой квартире он впервые (!) увидел живого таракана. Бедное, одинокое, сбившееся с пути животное.
 
@@ -38,11 +38,11 @@ aliases:
 
 Завтракали мы в кафе Costa Coffee, которое явно считается здесь роскошным. Там цены уже вполне европейские (например, 600 HUF за пирожное), поэтому я видел там одних только иностранцев. Меня там, кстати, поразили размеры порций кофе. Капуччино подают в чашечке размером с небольшое ведро (у него даже ручки — две, чтобы ненароком не выронить):
 
-{{< imgfig "https://2.bp.blogspot.com/-XnvQeomT2NY/Tan3j2Ll0oI/AAAAAAAAItc/xJ_SzB6sZoY/s1600/dsc01924.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xe9ol4v2cqd70575.jpg" >}}
 
 Отличный обед в ресторане [Rumbach 7](http://www.rumbach7.hu/) на двоих, включая вино, кофе и пр., обошёлся в смехотворную сумму менее € 15, официанты же при этом были настолько вежливые и услужливые, что было даже неудобно. Пришлось компенсировать щедрыми чаевыми и упоминанием в моём (суперпопулярном среди венгров) уютном бложике. Всеневозможно рекомендую этот ресторан, если будете в Будапеште:
 
-{{< imgfig "https://4.bp.blogspot.com/-v92jubb9gRQ/Tan2lEjNZgI/AAAAAAAAItc/z9762hIIfIs/s1600/dsc01828.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/6fp3ny2l1tao2717.jpg" >}}
 
 Всё, что утверждается [на сайте ресторана](http://www.rumbach7.hu/) — чистая правда (если кто не понял, {{< fl "Rumbach 7" >}} — это и есть адрес ресторана).
 
@@ -52,47 +52,47 @@ aliases:
 
 Вот этот отель:
 
-{{< imgfig "https://4.bp.blogspot.com/-0pcjBSgkYxg/Tan3A6yUFvI/AAAAAAAAItc/1N1bCoIUzHQ/s1600/dsc01716.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/47scgrhfrnk33414.jpg" >}}
 
 Впечатляет, да? Ночной Будапешт вообще изумительно красив. При этом, как и {{< a "0066" "в Нидерландах" >}}, после восьми вечера на улицах практически никого нет.
 
 Вот набережная Дуная:
 
-{{< imgfig "https://1.bp.blogspot.com/-WAfcErjHRAU/Tan2zwV6_vI/AAAAAAAAItc/69BtjGIEBEY/s1600/dsc01691.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/q0l0wm88qvb51327.jpg" >}}
 
 Цепной мост через Дунай (мост графа Сéчени), соединяющий две исторических части Будапешта — Буду и Пешт:
 
-{{< imgfig "https://2.bp.blogspot.com/-2qgJ28AdXEk/Tan3MEkV-kI/AAAAAAAAItc/s7mGxxkSs9A/s1600/dsc01712.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/4v3ochjrroxz3110.jpg" >}}
 
 Здание Парламента Венгрии, на которое приятно посмотреть (потому что меня с ним ничего не связывает):
 
-{{< imgfig "https://4.bp.blogspot.com/-M_-3xcj8tN0/Tan2_QDD4UI/AAAAAAAAItc/G-2pCpjcRTw/s1600/dsc01697.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/8b8344riyqwv3048.jpg" >}}
 
 Оно же с другой стороны:
 
-{{< imgfig "https://2.bp.blogspot.com/-3mNmjxbab_k/Tan23Mp2oFI/AAAAAAAAItc/h5EsJMDl_Vw/s1600/dsc01699.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fofae0a5w3m42809.jpg" >}}
 
 Библиотека Парламента ({{< fl "Országgyűlési Könyvtár" >}}):
 
-{{< imgfig "https://2.bp.blogspot.com/-Q7SOa5baND4/Tan4GJSapuI/AAAAAAAAItc/joT7iL89Nj0/s1600/dsc01708.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/eoijzal1igjc1766.jpg" >}}
 
 На площади перед Парламентом находилась классная экспозиция работ фотохудожников, с которой никто не мешал ознакомиться:
 
-{{< imgfig "https://1.bp.blogspot.com/-4SKe1VjJV4k/Tan3no_IdrI/AAAAAAAAItc/3oQAPrR1Sdo/s1600/dsc01704.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vnbd34lrt7jf0844.jpg" >}}
 
 Памятник первому президенту Венгрии Михаю Каройи (1875-1955):
 
-{{< imgfig "https://3.bp.blogspot.com/-PKDdTmhxCa0/Tan3bV0RGKI/AAAAAAAAItc/uca-MhU2aUo/s1600/dsc01696.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xipxeplktibj1849.jpg" >}}
 
 Около него мы повстречали студента из Мексики, учащегося в Париже, который долго зачитывал нам цитаты из книги про этот и близлежащие памятники.
 
 Театр комедии ({{< fl "Vígszínház" >}}):
 
-{{< imgfig "https://1.bp.blogspot.com/-4XghdbEfkPY/Tan3pT9m7-I/AAAAAAAAItc/G0CtK0ARlzM/s1600/dsc01688.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/exfusnteb37k1702.jpg" >}}
 
 И, закрывая тему ночи — вот Базилика Св. Иштвана ({{< fl "Szent István-bazilika" >}}):
 
-{{< imgfig "https://3.bp.blogspot.com/-zVprLUFFYMA/Tan2jZBT5OI/AAAAAAAAItc/kWmxr9tTfGA/s1600/dsc01718.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ae0pyd8d0p7m1789.jpg" >}}
 
 Мы к ней ещё основательно вернёмся, в дневное время. Видом изнутри она ~~выносит мозг~~ поражает воображение.
 

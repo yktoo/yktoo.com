@@ -6,7 +6,7 @@ tags:
     - Нидерланды
     - Lonely Planet
     - рейтинг
-image: "https://1.bp.blogspot.com/-Fvv7TpND054/Xa8em00zB4I/AAAAAAAAy8g/G48KkpXx1SUt2AlL2Ep1qLbNMzurERW9ACKgBGAsYHg/s1600/dsc01734.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/f2rs1fnau7lh1150.jpg"
 ---
 
 Дифирамбы Нидерландам не заканчиваются.
@@ -19,7 +19,7 @@ image: "https://1.bp.blogspot.com/-Fvv7TpND054/Xa8em00zB4I/AAAAAAAAy8g/G48KkpXx1
 
 В этом рейтинге Нидерланды находятся на **седьмом** месте, и упоминаются они, помимо обычных майско-апрельских праздников, в связи с **75**-летием освобождения во Второй мировой войне и с фестивалем Евровидение-**2020**, который {{< a "0365" "пройдёт" >}} в Роттердаме.
 
-{{< imgfig "https://1.bp.blogspot.com/-Fvv7TpND054/Xa8em00zB4I/AAAAAAAAy8g/G48KkpXx1SUt2AlL2Ep1qLbNMzurERW9ACKgBGAsYHg/s1600/dsc01734.picasaweb.jpg" "Роттердам, Markthal." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/f2rs1fnau7lh1150.jpg" "Роттердам, Markthal." >}}
 
 ## Аруба
 
@@ -29,7 +29,7 @@ image: "https://1.bp.blogspot.com/-Fvv7TpND054/Xa8em00zB4I/AAAAAAAAy8g/G48KkpXx1
 
 Синт-Николас, также называемый «городом Восходящего Солнца», упоминается как место проведения карнавалов и фестивалей.
 
-{{< imgfig "https://1.bp.blogspot.com/-aZmlntZPbMI/Xa8bjdMPuuI/AAAAAAAAy8M/6OLVwpZHpxAmOUE9zoMvMqVGruYJxoflACKgBGAsYHg/s1600/2019-10-22_aruba.jpg" "Аруба. Фото: Helmut Mueller/Pixabay." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/bobycg1l5c970549.jpg" "Аруба. Фото: Helmut Mueller/Pixabay." >}}
 
 ## Топ-10
 

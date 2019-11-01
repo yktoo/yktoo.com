@@ -7,7 +7,7 @@ tags:
     - website
     - web
     - Hugo
-image: "https://1.bp.blogspot.com/-9Z3WIJcTGM4/XZrtO7qqs3I/AAAAAAAAyaA/scGKrBn2t8MzIRKJTyAFgAPyI7OupiQxwCKgBGAsYHg/s1600/dictionary.webp"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/cd12hbfmnu0c3605.webp"
 imageCredit: "Photo by ActionVance."
 ---
 

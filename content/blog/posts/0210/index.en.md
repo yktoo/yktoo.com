@@ -4,7 +4,7 @@ date: "2014-01-05T00:00:00Z"
 title: "Part 2. Desert"
 series: "Egypt. Hurghada"
 tags: ["belly dance", "desert", "Egypt", "Hurghada", "quad bikes", "sand", "travel"]
-image: "https://4.bp.blogspot.com/-ZIlykVj8p5E/UsQMfrCJGvI/AAAAAAAAbQw/sNulcgz5OQ8/s1600/dsc02394.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/w9bqo3mvfb0r2003.jpg"
 places:
     - place0189
 aliases:
@@ -13,7 +13,7 @@ aliases:
 
 From the {{< a "0209" "miraculous sea" >}} we migrate westward, to the desert that spans most of the area at the opposite side of Hurghada city. Desert is something you can always count on here in Africa, it's just a couple of miles away from the city:
 
-{{< imgfig "https://4.bp.blogspot.com/-ZIlykVj8p5E/UsQMfrCJGvI/AAAAAAAAbQw/sNulcgz5OQ8/s1600/dsc02394.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/w9bqo3mvfb0r2003.jpg" >}}
 
 <!--more-->
 
@@ -36,37 +36,37 @@ This programme looks formidable but in reality it was a collection of quick tour
 
 All this muddle called "Jeep Safari" keeps you busy from about 11 AM till 8 PM, and it's given that name because we get to points of interest in the desert with Toyota jeeps. A whole bunch of them transports some forty people at once.
 
-{{< imgfig "https://1.bp.blogspot.com/-NeG62g3aR_4/UsQMeeyPzjI/AAAAAAAAbQo/zI7bbL57GPw/s1600/dsc02391.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ypdv5jeg36dw1678.jpg" >}}
 
 We were brought to our main base called Safari Land. Since quad bikes raise a lot of dust, we were advised to put on "Arafat scarves".
 
 After a short lecture on safety rules and bike controls, everyone was given a helmet and a personal Honda bike. Ladies got red ones and men brutal bikes in military colours. One last photo at the drive-out (we got the prints the same day during the diner):
 
-{{< imgfig "https://2.bp.blogspot.com/-3S5JVvTDirc/UsQKANsPTJI/AAAAAAAAbDY/3yriz_YQ7S8/s1600/2013-12-27+-+dima+-+jeep+safari+-+quad+bike.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/nm8ls2g64pen1852.jpg" >}}
 
 The first, mandatory, ride was a test drive. After a couple of circles we were finally allowed on the real desert track.
 
 During quad-biking it's not even allowed to take your hands off the handles, not to mention using a camera. On the both sides of the bike you see encouraging signs that warn the driver that failing to adhere to the safety rules will result in an immediate painful death:
 
-{{< imgfig "https://1.bp.blogspot.com/-plsRsspdnRE/UshTR07_aAI/AAAAAAAAbfI/87VBb8BIMLg/s1600/img_20131227_121233.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/2gjzh4r0mj2j2611.jpg" >}}
 
-{{< imgfig "https://2.bp.blogspot.com/-uYmJ8YQgLOQ/UshTTdvJR7I/AAAAAAAAbfQ/6VTg_Kyq364/s1600/img_20131227_121239.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cdb62k4opwrw1047.jpg" >}}
 
 Quad bike is a powerful machine. It can go as fast as 60–70 km/h (37­­–43 mph), which you can feel with all your body on a bumpy desert track. If you add the dust clouds raised by the bikes before you, you don't really want to take your hands off the handles.
 
 We drive in a line behind each other:
 
-{{< imgfig "https://2.bp.blogspot.com/-W6uaaPOrl68/UsQOrR9qqqI/AAAAAAAAbdg/nPKKKgADI04/s1600/img_20131227_122923.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/o65f0hgzg22l3229.jpg" >}}
 
 I've made this photo with my mobile in a break:
 
-{{< imgfig "https://1.bp.blogspot.com/-ZU6NSQJgRFY/UsQOpEhL4ZI/AAAAAAAAbdQ/gRDlyMwrf2o/s1600/img_20131227_122528.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/2kykybtu8vtm0683.jpg" >}}
 
 Ladies drove at a slower pace and joined us few minutes later.
 
 Further away you can see our cameraman. Against all the safety rules, he was a passenger on a quad bike.
 
-{{< imgfig "https://3.bp.blogspot.com/-8VJ8VSBKo_o/UsQOsh6UhUI/AAAAAAAAbdo/dFG7LT3rF94/s1600/img_20131227_123301.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/z3178fafhyp02543.jpg" >}}
 
 Here's a seven minute long video of the test and the main drive:
 
@@ -78,11 +78,11 @@ That's basically the whole story about quad bikes. All in all it took us about o
 
 Then we boarded our jeeps again and were taken into the desert. A couple of kilometres away from the distant mountains was the Point Where You Can See a Mirage. A short explanation of how it all works:
 
-{{< imgfig "https://3.bp.blogspot.com/-dcWe6BW5SOc/UsQMSwXNyLI/AAAAAAAAbPo/jrdKxzLJamE/s1600/dsc02370.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ggzj3p79ywhs0510.jpg" >}}
 
 Here's the mirage, just try to find it:
 
-{{< imgfig "https://4.bp.blogspot.com/-FdCAYM8gcqQ/UsQMQUS2l6I/AAAAAAAAbPY/qPTY1T9uKgY/s1600/dsc02367.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/syii7sxa4hf03226.jpg" >}}
 
 Doesn't work for you?
 
@@ -90,61 +90,61 @@ If you stare at the first ridge of lower mountains, you can see a kind of pond. 
 
 Some even got on the roof of the jeep to have a better view:
 
-{{< imgfig "https://4.bp.blogspot.com/-mzbHv-kTEVo/UsQMV6lDPtI/AAAAAAAAbP4/YcN-yCBPVQw/s1600/dsc02375.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/gdtyuwcx44w41186.jpg" >}}
 
 ## Mountain {#mountain}
 
 The next stop was at that same ridge we saw the mirage before.
 
-{{< imgfig "https://1.bp.blogspot.com/-N7400Y3JzGU/UsQMiAsVViI/AAAAAAAAbRA/6VwxmiuyIa4/s1600/dsc02396.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/83wo8pb4w4tg1458.jpg" >}}
 
 One of them, about thirty metres (100") high, gives a good overview of the surrounding desert. While everyone ascends the hill, all the jeeps drive to the opposite side of it to collect us there. By the way, here in the middle you can see that same Dutch family with six kids I {{< a "0209" "mentioned" >}} before:
 
-{{< imgfig "https://2.bp.blogspot.com/-jW6ISRpb5KI/UsQMmTTvDqI/AAAAAAAAbRY/n9YnZ-0qaxg/s1600/dsc02413.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/v3g5k431ef182682.jpg" >}}
 
 Views from the top:
 
-{{< imgfig "https://2.bp.blogspot.com/-3ig8UMBVojM/UsQMjnhqkBI/AAAAAAAAbRI/aSw2qaqU-Xk/s1600/dsc02404.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/jp0vqar4vrf33610.jpg" >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-58UOtGeb4DE/UsQMpP4VMyI/AAAAAAAAbRo/bubNL2YwV-c/s1600/dsc02416.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/nlla4nhzmzvx0551.jpg" >}}
 
-{{< imgfig "https://2.bp.blogspot.com/-z2jtYEZgFoc/UsQMr4_ODvI/AAAAAAAAbR4/0kf3n1AoO9k/s1600/dsc02421.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xwul0z23ngpn3312.jpg" >}}
 
 A couple of panoramic views:
 
-{{< imgfig "https://3.bp.blogspot.com/-C2z6QnH5bPw/UsQMqvtojDI/AAAAAAAAbRw/N7TsJl2OvRE/s1600/dsc02418.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vemoy9ux4ius1998.jpg" >}}
 
-{{< imgfig "https://3.bp.blogspot.com/-GdSN1UnDKis/UsQMwWjIDtI/AAAAAAAAbSQ/HL5EhIRlNd8/s1600/dsc02433.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/939u97nj94ho0926.jpg" >}}
 
 Jeeps are waiting for us at the opposite slope:
 
-{{< imgfig "https://2.bp.blogspot.com/-8qZgZ7HPU3A/UsQMn67fkxI/AAAAAAAAbRg/aI2a-9Zdun0/s1600/dsc02415.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/qx5xhzuim3h60114.jpg" >}}
 
 By contrast with the first slope, this one is covered with sand, which makes it much easier to descend. It's up to you to run, roll or slide from it.
 
-{{< imgfig "https://3.bp.blogspot.com/-DaCYKV2k9cQ/UsQM0jZe4iI/AAAAAAAAbSo/Nx2QGwH1Eq8/s1600/dsc02444.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1npg10wqw5kq0218.jpg" >}}
 
 ## Buggy {#buggy}
 
 We drive on to a Bedouin village called Sahara Park. Our jeep makes its way among the hills.
 
-{{< imgfig "https://3.bp.blogspot.com/-jRDR7ggrTdc/UsQM3Qcea8I/AAAAAAAAbS4/r6iqU45uoS0/s1600/dsc02453.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hc84a45w86650799.jpg" >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-ISJlSeDZjSI/UsQM4_S4m7I/AAAAAAAAbTA/7cHaVHIqVdY/s1600/dsc02460.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/d3nmacglfnj62107.jpg" >}}
 
 Sahara Park is a slightly fenced and beautified piece of desert.
 
-{{< imgfig "https://4.bp.blogspot.com/-eQMj9eQh700/UsQNYXjJ9OI/AAAAAAAAbVw/JA7aA5_c2SM/s1600/dsc02543.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/yutu8h1b4ubb1821.jpg" >}}
 
 We were informed that it's not a real Bedouin village but rather a touristic version.
 
 The following item in our program was a buggy drive. Buggy is a four-wheeled vehicle, but different from a quad bike in that it has two seats and a frame. But the main difference is its speed, which is one of a pedestrian, so no lecture on safety is required.
 
-{{< imgfig "https://3.bp.blogspot.com/--lbfdLhUfDQ/UsQM-mbuHAI/AAAAAAAAbTg/8teOTBRSMlM/s1600/dsc02476.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/b0od34ilfn2a2535.jpg" >}}
 
 That's about it, the whole drive takes about five minutes. We make a loop around one of the hills, again in a line.
 
-{{< imgfig "https://1.bp.blogspot.com/-Q1LUIgLHSlk/UsQM7m7wC0I/AAAAAAAAbTQ/p6KsAnJPOgA/s1600/dsc02467.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/kqlr2nepv6l72213.jpg" >}}
 
 Here's a short [video](http://www.youtube.com/watch?v=5_BzUOrSW3s), from inside the process, so to say.
 
@@ -152,69 +152,69 @@ Here's a short [video](http://www.youtube.com/watch?v=5_BzUOrSW3s), from inside 
 
 After a so-called "lunch", which consisted of two buns and a bottle of water, we were taken into a terrarium.
 
-{{< imgfig "https://1.bp.blogspot.com/-pQ13MK_gtu0/UsQNJtkzoRI/AAAAAAAAbUg/04tLeTjpGXo/s1600/dsc02496.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9wr9s95s01932906.jpg" >}}
 
 Reptiles really enjoyed our visit, and so did we.
 
-{{< imgfig "https://1.bp.blogspot.com/-lEV3X8Ob8oo/UsQNFsJpr9I/AAAAAAAAbUI/6eZFm-Z7poo/s1600/dsc02490.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/nipd0r2zjhns3347.jpg" >}}
 
-{{< imgfig "https://3.bp.blogspot.com/-WbhUZBMtgjI/UsQNBRLiS8I/AAAAAAAAbTw/7T9xlC2-iHM/s1600/dsc02480.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/c599r1lnwrlw0535.jpg" >}}
 
-{{< imgfig "https://4.bp.blogspot.com/-Ak-QZaUSaPk/UsQNHDG_2BI/AAAAAAAAbUQ/ikOkGsz61Cg/s1600/dsc02492.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/sps6nou53mbs0358.jpg" >}}
 
-{{< imgfig "https://3.bp.blogspot.com/-6EAC-vguI-k/UsQNC13qf3I/AAAAAAAAbT4/vaEf8ifHUVE/s1600/dsc02481.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ilqz9nu9sm1a3082.jpg" >}}
 
-{{< imgfig "https://4.bp.blogspot.com/-Uy09phcs9-0/UsQNEemPl3I/AAAAAAAAbUA/L5P_RKDGCN4/s1600/dsc02482.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9sv8ilvr7u1c3521.jpg" >}}
 
-{{< imgfig "https://4.bp.blogspot.com/-ThCyCLI4AqI/UsQNIXEJ8LI/AAAAAAAAbUY/fwDP37qvN_Q/s1600/dsc02494.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/n03p5q5dfm9y1660.jpg" >}}
 
-{{< imgfig "https://2.bp.blogspot.com/-NS4gf9tiQtQ/UsQNLC-YdPI/AAAAAAAAbUo/OqBepQhsMQw/s1600/dsc02500.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/bl5xlvjxu5ji2417.jpg" >}}
 
 The most amusing part was an opportunity to hold an Egyptian cobra. It was cool and reminded me of a nylon hose, and tried to wind round my arm.
 
-{{< imgfig "https://2.bp.blogspot.com/-F6AXMawDxuM/UsQNMnCKokI/AAAAAAAAbUw/Po9Z0QEByG0/s1600/dsc02502.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/829cf0ibdoze1316.jpg" >}}
 
 And a salamander:
 
-{{< imgfig "https://1.bp.blogspot.com/-XiXPLABbtzk/UsQNPfApLDI/AAAAAAAAbVA/xORSrUZ4XwU/s1600/dsc02515.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/m6tk30d9vnk10520.jpg" >}}
 
 There were also some animals outside. For instance, a three hundred year old, one metre long turtle:
 
-{{< imgfig "https://4.bp.blogspot.com/-09hU04QpfLs/UsQNQ5byg-I/AAAAAAAAbVI/vfWIn-0_TUU/s1600/dsc02519.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xhrdltvd5p732821.jpg" >}}
 
 I believe it got used to people knocking its shell in those 300 years.
 
 An ostrich and an emu, the two biggest bird species:
 
-{{< imgfig "https://4.bp.blogspot.com/-bCptsxbjO5I/UsQNT1zdFYI/AAAAAAAAbVY/vQ1o7LXTNiQ/s1600/dsc02530.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/j01jnebp7ddf0016.jpg" >}}
 
-{{< imgfig "https://2.bp.blogspot.com/-GmiNIWD4y9w/UsQNdC-JUcI/AAAAAAAAbWI/IfbJu0rWqMY/s1600/dsc02553.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/db52bkcnyk020098.jpg" >}}
 
 Even the toilets were labeled with birds:
 
-{{< imgfig "https://1.bp.blogspot.com/-GSiA_LB2_Yg/UsQNezxEHSI/AAAAAAAAbWQ/UKMCVZF_p3I/s1600/dsc02554.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/b022bughgale2465.jpg" >}}
 
 Crocodiles roared funnily when someone teased them with a stick:
 
-{{< imgfig "https://2.bp.blogspot.com/-J6fVsg5JZtc/UsQNbt4WrDI/AAAAAAAAbWA/wTSL1x6Xuw8/s1600/dsc02550.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xqrbvzztux3q1584.jpg" >}}
 
 ## Bedouins and camels {#bedouins-and-camels}
 
 The next item was Bedouins. Even though they are not "real", they look quite genuine, especially their kids.
 
-{{< imgfig "https://2.bp.blogspot.com/-Wfepdfd0DvA/UsQNowqHnZI/AAAAAAAAbXI/gF6V75LKl64/s1600/dsc02579.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1ptumcq0m7ex3614.jpg" >}}
 
-{{< imgfig "https://3.bp.blogspot.com/-XlpBaXMyuMU/UsQNnqtAQgI/AAAAAAAAbXA/kws_uvypCKw/s1600/dsc02575.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ed5kjsvr6g9w3351.jpg" >}}
 
 They earn their living primarily by offering camel rides and herbs to tourists.
 
 A couple dozens of camels are waiting. As usual, a lecture on safety precautions first. We're also explained a bit about camels (they have three stomachs, can survive a fortnight without water and drink 70 liters at once). Then the girls who control them invite us for a ride ("Mister, mister! Madam!").
 
-{{< imgfig "https://2.bp.blogspot.com/-D6rInKPpzp0/UsQNgMapaEI/AAAAAAAAbWY/neTn4prpa3M/s1600/dsc02556.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hkc0csvzy78p2381.jpg" >}}
 
 The camel initially lies on the ground and it's quite easy to saddle it. There are two sticks, before and behind you, which you use as handles. At owner's command the camel raises its back first, and then straightens its front legs. Therefore you should lean back to avoid falling over its head. And, finally, —
 
-{{< imgfig "https://1.bp.blogspot.com/-PXp0h4cz7Go/UsQNi1GSZpI/AAAAAAAAbWo/8PQTfAyySao/s1600/dsc02562.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/6iivl3ys1ape1437.jpg" >}}
 
 The whole fun is even shorter than the buggy drive, just a couple of minutes. Here's a [video](http://www.youtube.com/watch?v=MkKUQ4MMHd8) from the rider's point of view. After some fifty metres the girls turn the vehicle around and bring it back to the start. I don't know why, but camels are very unwilling to lie back down, so girls have to really force them to. They land in the reverse order, first front, then back legs.
 
@@ -222,41 +222,41 @@ Then it's time for another spell: "Money, money!" Strangely enough, our English 
 
 The next stop: Bedouin bread baking, with tasting afterwards. The younger women makes the dough:
 
-{{< imgfig "https://4.bp.blogspot.com/-uObS_UC0vhs/UsQNqi8gWqI/AAAAAAAAbXQ/vpibYKZWHz4/s1600/dsc02580.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/mzm3f4cpu52f1345.jpg" >}}
 
 Another, a widow with a sinister look, does the baking:
 
-{{< imgfig "https://2.bp.blogspot.com/-ScQb-fcqsao/UsQNsI11xEI/AAAAAAAAbXY/yMmwskYrajk/s1600/dsc02586.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/nnyufxyephcm3361.jpg" >}}
 
 It flips the bread over with a rod in a quick dexterous movement:
 
-{{< imgfig "https://4.bp.blogspot.com/-zY0paQqD3Rk/UsQNvI8z2kI/AAAAAAAAbXo/Wb93l8ZhEH0/s1600/dsc02592.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/56hah4gw52a21496.jpg" >}}
 
 What do you think the fuel is for this stove? It's camel's poo for we are in a desert. In a few minutes the bread is done:
 
-{{< imgfig "https://2.bp.blogspot.com/-waHEpiVLkwk/UsQNtqJ8fvI/AAAAAAAAbXg/APVF8EW5XUk/s1600/dsc02588.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/kgj23x68seyx2427.jpg" >}}
 
 As expected, it tastes unleavened yet it's edible.
 
 Then followed a story of herbs and Bedouin medicine in a separate hut.
 
-{{< imgfig "https://4.bp.blogspot.com/-0Gwy2KDGacg/UsQNwrZh8RI/AAAAAAAAbXw/QCaAZZuAWoQ/s1600/dsc02594.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cdu6n10ok7cq3623.jpg" >}}
 
 Our guide explains how various potions work. For example, those sticks in front of him are toothbrush replacements made of some special kind of wood. You only has to chew it for a while, and your teeth are like new.
 
-{{< imgfig "https://2.bp.blogspot.com/-NrQ23RKyjQQ/UsQNyOE9ZQI/AAAAAAAAbX4/cuM5JzRnnoA/s1600/dsc02596.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/lt9lbimodcxa2597.jpg" >}}
 
 The audience was quite suspicious though, so demand wasn't that high.
 
 The last item in Sahara Park was traditional Egyptian handicraft, making a picture in a bottle with coloured sand. The artisan created a new picture before us in a few minutes, and then sealed it with glue ([video](http://www.youtube.com/watch?v=9dI7XsDshK8)).
 
-{{< imgfig "https://4.bp.blogspot.com/-1q5EoZq9GxQ/UsQM_0OPqNI/AAAAAAAAbTo/txTUxeVOtx0/s1600/dsc02478.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/eoker2t88j4t3631.jpg" >}}
 
 You could immediately by it for about five euros. However, you can see lots of them in Hurghada, sometimes even for one euro.
 
 It's almost five, the sun begins to hide behind the mountains, time to go back to the base. Another forty minutes of bumps in the jeep. You can see the lights of quad bikes going in the same direction:
 
-{{< imgfig "https://3.bp.blogspot.com/-8NDOq2DMuvw/UsQNzkeu1gI/AAAAAAAAbYA/0RssdSnCjA4/s1600/dsc02608.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/yt0mvr3q7bbh1485.jpg" >}}
 
 These jeeps must be incredibly robust to withstand such rides!
 
@@ -268,15 +268,15 @@ The dinner proved surprisingly good, but the "show" was a bit spoiled by the sou
 
 The first appearance on the show was by two guys in some kind of skirt. They've been spinning in the same direction for about fifteen minutes, and that was the most impressive bit of their performance.
 
-{{< imgfig "https://4.bp.blogspot.com/-mYCXCySuLGI/UsQN2e1ZlEI/AAAAAAAAbYQ/FOMKrSAHXeg/s1600/dsc02618.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/wwcfktlsowf82665.jpg" >}}
 
 When the audience got bored at a certain point, they've switched lights on their skirts on, and that was quite unexpected:
 
-{{< imgfig "https://4.bp.blogspot.com/-4vqQNktmlJU/UsQN3kWkvGI/AAAAAAAAbYY/wryc5ZfiEBM/s1600/dsc02627.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/whxu9semhsm21392.jpg" >}}
 
 The next item was belly dance. A girl's performance was meant for men and consisted of three parts.
 
-{{< imgfig "https://2.bp.blogspot.com/-Re2USWAr2F0/UsQN6giruII/AAAAAAAAbYo/Cks4ysOQjN8/s1600/dsc02650.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/szghtk6zv1tf2434.jpg" >}}
 
 I couldn't refrain from filming that:
 
@@ -286,19 +286,19 @@ I couldn't refrain from filming that:
 
 A few more items followed, including one where the audience joined the artists.
 
-{{< imgfig "https://1.bp.blogspot.com/-ILmI0l2ksi4/UsQN-iGdpHI/AAAAAAAAbZA/hC_Dd2jsoRI/s1600/dsc02669.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/91d8m9oupmc51124.jpg" >}}
 
 The guy kept spinning their skirts, now above their heads:
 
-{{< imgfig "https://2.bp.blogspot.com/-C-yPX5Tl5-o/UsQN9RWFvCI/AAAAAAAAbY4/Iw41kTex3uI/s1600/dsc02667.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/64o176cknmm92716.jpg" >}}
 
 A couple of guy on stilts made their way through the crowd:
 
-{{< imgfig "https://2.bp.blogspot.com/-O9FGaUOZALk/UsQOADYA7FI/AAAAAAAAbZI/sMOtgvMceUg/s1600/dsc02674.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/b6r4frbb54cu0862.jpg" >}}
 
 The closing item was a "yoga show", way too lengthy for my taste. He demonstrated defiance of nails and broken glass, in the presence of numerous female assistants:
 
-{{< imgfig "https://2.bp.blogspot.com/-tYshU0nnNIk/UsQOBtbsn1I/AAAAAAAAbZQ/EnTSVIvjtYA/s1600/dsc02679.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/v3dinb4a9rem2143.jpg" >}}
 
 The very last activity called stargazing was really ridiculous. The stars were okay, and we even got some info on constellations from our guide. But imagine some hundred people waiting in the line to steal a glance through one single telescope. Everyone had about two seconds to enjoy the sight of Jupiter and its moons. Moreover, the telescope was pushed by the crowd so its owner had to readjust it all the time.
 

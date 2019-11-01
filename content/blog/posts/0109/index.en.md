@@ -3,7 +3,7 @@ type: post
 date: "2011-08-21T00:00:00Z"
 title: "Dias Latinos 2011"
 tags: ["Amersfoort", "Dias Latinos", "jazz", "music", "Netherlands", "Tomasa Quartet"]
-image: "https://2.bp.blogspot.com/-w1r7MTEUP8I/TlC3YhBv3ZI/AAAAAAAAJbM/1hoy0xTFb48/s1600/dsc06182.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/9g05od61ntfc2404.jpg"
 places:
     - place0085
     - place0086
@@ -20,25 +20,25 @@ It's a popular event featuring a lot of musicians from different countries. Ther
 
 On Havik a stage was installed right above the canal:
 
-{{< imgfig "https://2.bp.blogspot.com/-w1r7MTEUP8I/TlC3YhBv3ZI/AAAAAAAAJbM/1hoy0xTFb48/s1600/dsc06182.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9g05od61ntfc2404.jpg" >}}
 
 Two beams are laid on sand bags, the stage is mounted on top of them:
 
-{{< imgfig "https://3.bp.blogspot.com/-liB8eaNSxgI/TlC3TagNoDI/AAAAAAAAJa4/DR0sEak23NI/s1600/dsc06185.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/q9v6bwhbkz2b3562.jpg" >}}
 
 People don't mind sitting wherever they deem possible, as usual. On bridges:
 
-{{< imgfig "https://3.bp.blogspot.com/-A296rCCoRWk/TlC3faBcdTI/AAAAAAAAJbk/9l93PPjMly8/s1600/dsc06190.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/bzc1kppsy6vp0927.jpg" >}}
 
 On canal's banks:
 
-{{< imgfig "https://4.bp.blogspot.com/-k82Ty8NPWKY/TlFdE7jj5eI/AAAAAAAAJcA/Q7F2ilGZS_E/s1600/dsc06381.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/kvon520hnliw2570.jpg" >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-GSn8vzM1MbM/TlC3cNrbRCI/AAAAAAAAJbY/qpXBlY2J9_g/s1600/dsc06180.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0czbbnev1ljb1172.jpg" >}}
 
 [Beatriz Aguiar Septet](http://www.beatrizaguiar.com/) is giving a performance:
 
-{{< imgfig "https://3.bp.blogspot.com/-Iw_CBGdrfx8/TlC3WoXVYgI/AAAAAAAAJbE/q2Lqvdvkijk/s1600/dsc06169.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vgoseh1k7wjx3421.jpg" >}}
 
 ## Tomasa Quartet {#tomasa-quartet}
 
@@ -46,19 +46,19 @@ On Friday I had to work like most of people, so they had to miss me at the festi
 
 As one can not be everywhere at once, I had to make a choice. I was fortunate to stumble upon a brilliant band [Tomasa Quartet](http://www.tomasaquartet.com/). They play something that can be described as instrumental latinjazz. That day they were performing at a small stage located at a cross-roads.
 
-{{< imgfig "https://2.bp.blogspot.com/-dr_oeFq5xyw/TlC3XQXByUI/AAAAAAAAJbI/SPnRsxZX7Uc/s1600/dsc06197.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/t6wjk38gd6wn1315.jpg" >}}
 
 The quartet mainly plays quite sophisticated kind of music and consists of four members. All four are true virtuosos, and live in Amsterdam.
 
 The frontwoman who plays violin is [Claudia Valenzuela](http://www.myspace.com/claudiavalenzuela). She is 31, half-Colombian and half-Chilean, grown up in France, plays violin since she was six, lives in the Netherlands since she was 18. Always performs with a serious look. A rare picture: Claudia smiling:
 
-{{< imgfig "https://4.bp.blogspot.com/-YyiS1e9U9LI/TlC3gd04C8I/AAAAAAAAJbo/mthH7CLnIMs/s1600/dsc06249.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/7f7g291itio22398.jpg" >}}
 
 Pianist [Claudia Cassier](http://claudiacassier.com/). Second Claudia is 37, she comes from Germany, also plays piano since she was six, in the Netherlands since she was 26.
 
 Bass is played by [Mathias Breton](http://www.myspace.com/mathiasbreton). He's French, plays since the age of 17, his instruments are contrabass and bass guitar. Lively and social. You can see how he enjoys it when he's performing.
 
-{{< imgfig "https://3.bp.blogspot.com/-LxdZ7tQdibg/TlC3Vm1eROI/AAAAAAAAJbA/eUt715WHL_I/s1600/dsc06245.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/835tubqp842y0653.jpg" >}}
 
 The percussionist's name is [Elvin Marchena](http://www.myspace.com/elvinmarchena), and he's from Curaçao. Unfortunately, I didn't have a chance to talk to him.
 
@@ -78,11 +78,11 @@ I made a footage of some interesting items (it's worth watching; there's also a 
 
 While the quartet were playing, a huge audience assembled around; I was lucky enough to have got a seat in the front row on one of a few chairs set out for the spectators, which allowed me to make the footage. Most people stood or sat down right on the ground. Twilight fell.
 
-{{< imgfig "https://4.bp.blogspot.com/-oW4SH5yT4DY/TlC3dNL4HYI/AAAAAAAAJbc/UmIxvDVjBpI/s1600/dsc06261.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/jy7rdhk0y9130292.jpg" >}}
 
 Cheerful The Jazz & Mexican Spirit were rounding their performance off on Havik:
 
-{{< imgfig "https://4.bp.blogspot.com/-1iSdoHPNm3Y/TlC3SJlIjuI/AAAAAAAAJa0/MlXqYUfuR5I/s1600/dsc06302.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/c1d3877f1y4l0106.jpg" >}}
 
 The crowd kept mounting…
 
@@ -90,7 +90,7 @@ The crowd kept mounting…
 
 As Sunday came desperate guys called [Desperados](http://www.desperados-music.com/) from the Soest village I once lived in performed at a very good level.
 
-{{< imgfig "https://4.bp.blogspot.com/-iiNKHDXtHxc/TlFdG-TNzPI/AAAAAAAAJcI/9E7os7p91mo/s1600/dsc06309.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/j0nf8wrll7oo0391.jpg" >}}
 
 Here are some videos—the music is pretty simple yet lively:
 
@@ -100,17 +100,17 @@ Here are some videos—the music is pretty simple yet lively:
 
 An elderly couple from Aruba amused the audience, dancing:
 
-{{< imgfig "https://1.bp.blogspot.com/-XtLHi6kcU5k/TlFdCFJsnTI/AAAAAAAAJb4/vE3Yj08C_H4/s1600/dsc06327.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vlo2c4ia0g681129.jpg" >}}
 
 The audience joined (notice the customary brown boots):
 
-{{< imgfig "https://3.bp.blogspot.com/-kKC9XFkFPKs/TlFdKrcdHaI/AAAAAAAAJcU/c4Vr-_a1a2U/s1600/dsc06340.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1kvcloiuy8920109.jpg" >}}
 
 ## Latineo {#latineo}
 
 Latineo is a latinjazz quartet from Rotterdam. It was a recommendation of Claudia Valenzuela from Tomasa Quartet. As it happened at the same stage at the Havik street, photos and videos are shot from not the best point—the best spot would have been on the canal, of course:
 
-{{< imgfig "https://1.bp.blogspot.com/-9rTrOyiwxjk/TlFdIJWikvI/AAAAAAAAJcM/VI0Xrr0KetA/s1600/dsc06364.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/wghivdcled4b0262.jpg" >}}
 
 Good news is that this time I had a tripod with me.
 
@@ -122,10 +122,10 @@ Four serious men play real man-jazz. No kidding, the difference with Tomasa Quar
 
 Spectators sat wherever they could, like yesterday. On the bridge I spotted violinist Claudia (on the right hand side, holding a bottle):
 
-{{< imgfig "https://2.bp.blogspot.com/-S5689MGUe8Q/TlFdMKuhk-I/AAAAAAAAJcY/OHTPRcgAeG0/s1600/dsc06376.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/2ix7n7k5ep4g1710.jpg" >}}
 
 Whatever happened, boat trips went on during the concerts:
 
-{{< imgfig "https://2.bp.blogspot.com/-jP8u493xJ5Q/TlFdJeIt93I/AAAAAAAAJcQ/RXA1hRgyL-Q/s1600/dsc06386.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/x63nwvhaqdgs1210.jpg" >}}
 
 The festival was a success, the good weather played its role, too.

@@ -8,7 +8,7 @@ tags:
     - политика
     - Соглашение о климате
     - рекорд
-image: "https://1.bp.blogspot.com/-2qe-QMFiLrc/XZ8YIiEgK3I/AAAAAAAAykU/fBr_dR2aHGkoB8bFU5lQvKhCbztvaw5VwCKgBGAsYHg/s1600/prinsjesdag-2019-balkonscene.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/jblm3wqbf3190378.jpg"
 imageCredit: "Фото: RVD."
 ---
 
@@ -28,7 +28,7 @@ imageCredit: "Фото: RVD."
 * **13:50** — Королевская процессия отбывает обратно в Нордейнде и там происходит так называемая {{< wiki "Balkonscène" "nl" "балконная сцена" >}} — королевская семья является народу с балкона дворца, а народ, как полагается, ликует.
 * **15:00** — Министр финансов передаёт чемоданчик с расчётом бюджета страны ({{< fl "Miljoenennota" >}}) {{< wiki "Палата_представителей_Нидерландов" "ru" "Палате представителей" >}}.
 
-{{< imgfig "https://1.bp.blogspot.com/-HDNb-S_p8Vw/XYCHgC8Kt7I/AAAAAAAAxic/09FGIkGr2-cphP8zKNgpRNY9OA932ppkQCKgBGAsYHg/s1600/prinsjesdag-2014.jpg" "Королевская процессия в 2014 году. Фото pigbusiness.nl." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/p784l2dt6nqo1479.jpg" "Королевская процессия в 2014 году. Фото pigbusiness.nl." >}}
 
 Содержание речи-обращения должно держаться в секрете до самого момента выступления, но каждый год традиционно утекает в прессу на несколько дней раньше. Вот и в этот раз {{< a "https://www.rtlnieuws.nl/nieuws/politiek/artikel/4847551/hoekstra-miljoenennota-economie-robuust-onzekerheid" "RTL Nieuws" >}} и {{< a "https://www.telegraaf.nl/nieuws/1031345873/drie-miljard-extra-lastenverlichting-in-uitgelekte-miljoenennota" "De Telegraaf" >}} опубликовали спойлеры за четыре дня до официального оглашения.
 
@@ -40,7 +40,7 @@ imageCredit: "Фото: RVD."
 
 Борода осталась, монеты и марки можно не перевыпускать.
 
-{{< imgfig "https://1.bp.blogspot.com/-FtbsEvqt_ok/XZ8W1aPu9bI/AAAAAAAAyjk/_i4NVMU1ARgyKSlf9fJyKtpLs8ACdb_lACKgBGAsYHg/s1600/prinsjesdag-2019-vaandel-ridderzaal.jpg" "Король Нидерландов Виллем-Александр и королева Максима. Фото: Ministerie van Financiën / Martijn Beekman." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/77tp4nd685ix1215.jpg" "Король Нидерландов Виллем-Александр и королева Максима. Фото: Ministerie van Financiën / Martijn Beekman." >}}
 
 Тронная речь ({{< a "http://download.omroep.nl/nos/docs/170919_troonrede.pdf" "пятистраничный PDF" >}}) начинается с упоминания 75-летия начала операции {{< wiki "Голландская_операция_(1944)" "ru" "Market Garden" >}} (1944), в ходе которой была произведена одна из крупнейших в истории высадок воздушного десанта — в голландских городах Эйндховен, Неймеген и Арнем.
 
@@ -95,7 +95,7 @@ imageCredit: "Фото: RVD."
 * Месячная стоимость базовой медстраховки вырастет примерно на **€ 3** и составит в среднем **€ 118,50**.
 * Стоимость пачки сигарет вырастет на **1** евро, все пачки должны будут выглядеть одинаково, в супермаркетах будет запрещено выставлять их на обозрение.
 
-{{< imgfig "https://1.bp.blogspot.com/-2qe-QMFiLrc/XZ8YIiEgK3I/AAAAAAAAykU/fBr_dR2aHGkoB8bFU5lQvKhCbztvaw5VwCKgBGAsYHg/s1600/prinsjesdag-2019-balkonscene.jpg" "Балконная сцена по окончании церемонии. Фото: RVD." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/jblm3wqbf3190378.jpg" "Балконная сцена по окончании церемонии. Фото: RVD." >}}
 
 ## Хорошо быть королём
 

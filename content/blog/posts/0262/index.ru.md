@@ -3,7 +3,7 @@ type: post
 date: "2015-11-22T00:00:00Z"
 title: "Монумент «Забега по одиннадцати городам»"
 tags: ["Elfstedenmonument", "Elfstedentocht", "Виллем-Александр", "вода", "интересное", "коньки", "лёд", "Леуварден", "мост", "Нидерланды", "спорт", "Фрисландия"]
-image: "https://3.bp.blogspot.com/-14jqPNJfBIY/VfmBQ1hN7LI/AAAAAAAAkd4/2Zg9C6TkWGk/s1600/dsc00903.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/smtna04jggvo2104.jpg"
 places:
     - place0228
     - place0229
@@ -27,19 +27,19 @@ aliases:
 
 С расстояния он похож на обычный мост, облицованный плиткой, с узором в виде стаи конькобежцев.
 
-{{< imgfig "https://3.bp.blogspot.com/-14jqPNJfBIY/VfmBQ1hN7LI/AAAAAAAAkd4/2Zg9C6TkWGk/s1600/dsc00903.picasaweb.jpg" "Elfstedenmonument издали, северная сторона." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/smtna04jggvo2104.jpg" "Elfstedenmonument издали, северная сторона." >}}
 
 Но если подойти поближе, становится видно, что каждая плитка изготовлена индивидуально. Каждый спортсмен, достигший финиша ~~живьём~~, получает такой минипортрет, с именем и датами забегов.
 
 На фото внизу, среди сотен прочих, вы можете заметить и принца нашего Оранского — Виллема-Александра, участвовавшего в забеге в 1986 году: вот он, в середине четвёртого сверху ряда (вместо имени значится {{< fl "Z.K.H. de prins van Oranje" >}}):
 
-{{< imgfig "https://1.bp.blogspot.com/-8ojqtXuxLXk/VfmBRCuOHcI/AAAAAAAAkdo/FSooq8eA8FE/s1600/dsc00905.picasaweb.jpg" "Elfstedenmonument вблизи." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/89n8piy17g3w2341.jpg" "Elfstedenmonument вблизи." >}}
 
 А вот [небольшой фильм](https://www.youtube.com/watch?v=6bqPgFaD1jc) про посещение принцем монумента в 2001 году.
 
 Количество изображений и объём работы не могут не впечатлять: всего здесь свыше *семи тысяч* именных плиток.
 
-{{< imgfig "https://2.bp.blogspot.com/-TKXTC-WpCp8/VfmBRsGIEcI/AAAAAAAAkd8/vFyBvjdDthw/s1600/dsc00906.picasaweb.jpg" "Elfstedenmonument — Более 7000 плиток." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/2ll72zqyva5e1773.jpg" "Elfstedenmonument — Более 7000 плиток." >}}
 
 Всего за историю мероприятия финиша достигли более 16 тысяч конькобежцев, но фотографий начала XX века, скорее всего, сохранилось не столь много.
 
@@ -47,39 +47,39 @@ aliases:
 
 Начинаясь с северной стороны моста, плитки плавно переходят и на внутренние его стороны — тут уже, похоже, без какого-то особенного узора. Специально для любопытствующих под мостом проложены мостки.
 
-{{< imgfig "https://3.bp.blogspot.com/-sR3Wd2027Wc/VfmBSI1Tk8I/AAAAAAAAkdw/yVlfs7CM2Sw/s1600/dsc00907.picasaweb.jpg" "Elfstedenmonument, внутрення сторона моста." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/6ntcscuvz7pi3084.jpg" "Elfstedenmonument, внутрення сторона моста." >}}
 
 В солнечном свете плитки приобретают неимоверно красивый, пронзительно-синий оттенок.
 
-{{< imgfig "https://4.bp.blogspot.com/-DWeewNS1knw/VfmBSpWFXrI/AAAAAAAAke4/pUxf3FNMOpo/s1600/dsc00908.picasaweb.jpg" "Elfstedenmonument." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/5649ke01smja3222.jpg" "Elfstedenmonument." >}}
 
 С южной стороны место пока ещё вакантно, но, если погода позволит, наверняка искусство распространится и сюда.
 
-{{< imgfig "https://1.bp.blogspot.com/-a3_Mwusb6wo/VfmBTUTC6vI/AAAAAAAAkeE/tXJ5IiFjQhY/s1600/dsc00910.picasaweb.jpg" "Elfstedenmonument, южная сторона." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/s8qc91blntkp1848.jpg" "Elfstedenmonument, южная сторона." >}}
 
 Истинные фанаты этого вида спорта участвовали в нескольких забегах подряд.
 
-{{< imgfig "https://3.bp.blogspot.com/-ZWUAMFLUpps/VfmBT7tC2QI/AAAAAAAAkeM/WA7x0AsqIpY/s1600/dsc00911.picasaweb.jpg" "Elfstedenmonument." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ahpqv4x4w7de2086.jpg" "Elfstedenmonument." >}}
 
 Вы обратили внимание на годы на этом фото?
 
 Факт, который поразил лично меня: в то время, как молодой Советский Союз, изнемогая, боролся с превосходящей мощью фашистской Германии («Всё для Родины, всё для Победы!»), голландцы преспокойно катались себе по фризским рекам в своё удовольствие.
 
-{{< imgfig "https://2.bp.blogspot.com/-snj_QeOSn4w/VfmBVuyvpCI/AAAAAAAAkeo/5pbBgvnmbW4/s1600/dsc00913.picasaweb.jpg" "Война-войной, а Элфстейдентохт по расписанию." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/z868tjn7yy190421.jpg" "Война-войной, а Элфстейдентохт по расписанию." >}}
 
 Ещё и погода, как пишут, была в 1941-42 гг. особенно замечательная. Войны здесь фактически не было, и пострадали от фашистов только несчастные евреи.
 
 *Errare humanum est*, не обошлось и без опечаток — {{< fl "Elfstedentocht" >}} впервые провели лишь в 1909 году, так что товарищ Ван Роомен никак не мог участвовать в 1885-м.
 
-{{< imgfig "https://4.bp.blogspot.com/-EsLTWkf8KO8/VfmBU05iOTI/AAAAAAAAke8/mjA_mbPcv0Y/s1600/dsc00912.picasaweb.jpg" "Ошибочка вышла!" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/mcjrvqw0jld10675.jpg" "Ошибочка вышла!" >}}
 
 Самым нижним рядам не очень повезло, в зависимости от уровня воды в Мюрке их может быть не видно совсем.
 
-{{< imgfig "https://4.bp.blogspot.com/-qdLXnvV1wTw/VfmBWLkY_4I/AAAAAAAAkek/0pFxAHqf7r0/s1600/dsc00914.picasaweb.jpg" "«Утопленники»." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ly12db202tno3167.jpg" "«Утопленники»." >}}
 
 Река, кстати, судоходная.
 
-{{< imgfig "https://3.bp.blogspot.com/-xWF2ZBT_bMI/VfmBW6kLtBI/AAAAAAAAkes/rL-FWfnHXeo/s1600/dsc00921.picasaweb.jpg" "Навигация по Мюрку." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/o0vto7bm5vuu2638.jpg" "Навигация по Мюрку." >}}
 
 Напоследок видео о том, как монумент выглядит *настоящей* зимой:
 

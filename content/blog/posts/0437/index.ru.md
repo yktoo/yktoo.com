@@ -12,7 +12,7 @@ tags:
     - железные дороги
     - транспорт
     - Зейст
-image: "https://1.bp.blogspot.com/-Zg5cOvj_x-Y/XbBlrlWkh2I/AAAAAAAAy9g/WTWBOmAcXTIsXAjR86mp-14gk_PkiWpIgCKgBGAsYHg/s1600/2019-10-23_level-crossing.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/r1r5ow9jrty50682.jpg"
 imageCredit: "Кадр из видео RTV Utrecht."
 ---
 

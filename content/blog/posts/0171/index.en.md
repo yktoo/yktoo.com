@@ -9,7 +9,7 @@ tags:
     - Nieuwjaarsduik
     - The Hague
     - Scheveningen
-image: "https://2.bp.blogspot.com/-gLtBi7n5prk/UOSAVgEEtgI/AAAAAAAAWXg/Av5bMGBKC1w/s1600/dsc06477.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/j75wq1vub1hp2349.jpg"
 places:
     - place0020
 aliases:
@@ -26,23 +26,23 @@ Having taken our past experiences into account, this time we departed well in ad
 
 And there…
 
-{{< imgfig "https://2.bp.blogspot.com/-gLtBi7n5prk/UOSAVgEEtgI/AAAAAAAAWXg/Av5bMGBKC1w/s1600/dsc06477.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/j75wq1vub1hp2349.jpg" >}}
 
 One needs a ticket to get to the event area. The ticket is exactly two euros, one of which will be spent on charity.
 
-{{< imgfig "https://4.bp.blogspot.com/-eammWSvR_HY/UOSBgBFX08I/AAAAAAAAWZE/XtBkkbgy1dE/s1600/dsc06534.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0rr89eht5y9d0616.jpg" >}}
 
 At the entrance everyone is provided with a bag containing an orange Unox cap, a big can of traditional Dutch pea soup (1.3 liters of {{< fl "erwtensoup" >}}) and some brochures about surviving the plunge. You're also warned that you may be photographed and filmed, and you cannot claim anything in this regard.
 
 Environmental indicators are as follows: air temperature: +8° C, water temperature: +7° C, wind: crazy as usual, number of orange-capped people: ca. 10 thousand. Penguins and local television are also present.
 
-{{< imgfig "https://1.bp.blogspot.com/-KQZXmR18n48/UOSAZ08o30I/AAAAAAAAWX8/zEXRPLDB0ug/s1600/dsc06492.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/q2ygomfgg3vt0868.jpg" >}}
 
 The majority of the brave is certainly youth. There is a small stage nearby with a DJ entertaining the crowd.
 
 The show always starts at noon. As the H-hour draws near, people begin to undress. Dutch frost-resistant kids hang around as usual.
 
-{{< imgfig "https://1.bp.blogspot.com/-HzsJRycqREM/UOSAccEGV_I/AAAAAAAAWYM/C0ZmdNWA-hg/s1600/dsc06502.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/f0s47a6y3c200523.jpg" >}}
 
 People rush into the chilling seawater, screaming, at a command from the speakers. Here's a video of that:
 
@@ -50,6 +50,6 @@ People rush into the chilling seawater, screaming, at a command from the speaker
 
 And those who survived are allowed now to call themselves {{< fl "duikheld" >}}, a dive hero.
 
-{{< imgfig "https://2.bp.blogspot.com/-LgX2XMhIANI/UOSbdSriy8I/AAAAAAAAWZ0/iJXKNki5lUI/s1600/dsc06535.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/4twl6gn59kg73410.jpg" >}}
 
 **Happy New Year!**

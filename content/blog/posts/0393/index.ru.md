@@ -9,7 +9,7 @@ tags:
     - СМИ
     - новости
     - политика
-image: "https://1.bp.blogspot.com/-7L5X8U2MLVo/XYoKEQQkmVI/AAAAAAAAx9g/PLqZHqB0ZMAv9IUm9Zgnw8oBvs8lK07jQCKgBGAsYHg/s1600/schiphol-klm.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/55b19qnle0n13055.jpg"
 ---
 
 Нидерландские политические партии всеми силами стараются оседлать модную экологическую повестку.

@@ -3,7 +3,7 @@ type: post
 date: "2016-11-26T00:00:00Z"
 title: "Ayreon-овое безумие"
 tags: ["013", "Arjen Lucassen", "Ayreon", "Ayreon Universe", "progressive metal", "progressive rock", "музыка", "Нидерланды"]
-image: "https://1.bp.blogspot.com/-yVk8TPQxQOk/WDlcnphdPoI/AAAAAAAAoUs/zHjicNv6JCsXG6jwybTyuaxK_nnGypy4QCPcB/s1600/ayreon-universe-best-of.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/nvv2nd5qa6ov2356.jpg"
 places:
     - place0244
 aliases:
@@ -14,7 +14,7 @@ aliases:
 
 <!--more-->
 
-{{< imgfig "https://1.bp.blogspot.com/-yVk8TPQxQOk/WDlcnphdPoI/AAAAAAAAoUs/zHjicNv6JCsXG6jwybTyuaxK_nnGypy4QCPcB/s1600/ayreon-universe-best-of.jpg" "Ayreon Universe. Фото с сайта arjenlucassen.com." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/nvv2nd5qa6ov2356.jpg" "Ayreon Universe. Фото с сайта arjenlucassen.com." >}}
 
 Там же, в Фейсбуке он призвал подписаться на свой список рассылки (что ваш покорный слуга успешно провафлил) — подписавшимся должны были выслать специальную ссылку, по которой можно было купить билеты на сутки раньше.
 
@@ -24,7 +24,7 @@ aliases:
 
 На список рассылки я вовремя не подписался, но мне повезло-таки ухватить билет на дополнительное шоу. Вчера было полностью распродано и оно.
 
-{{< imgfig "https://2.bp.blogspot.com/-ap8Vh2JfIPI/WDlXWOjo5_I/AAAAAAAAoUM/fEx-vzeU4_kqsMr3J1I2xkrsRuBlz3ruwCPcB/s1600/ayreon-universe.jpg" "Ayreon Universe — все билеты распроданы. Фото со страницы Arjen Lucassen в Facebook." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/5ahz2sj7s7d80068.jpg" "Ayreon Universe — все билеты распроданы. Фото со страницы Arjen Lucassen в Facebook." >}}
 
 Итого **9000** билетов ушли [менее, чем за 48 часов](https://www.facebook.com/ArjenLucassenOfficial/videos/10153850665491152/). Концерт будет проводиться в клубе [013](http://www.013.nl/) в Тилбурге.
 

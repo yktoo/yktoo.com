@@ -8,7 +8,7 @@ tags:
     - миф
     - новости
     - законодательство
-image: "https://1.bp.blogspot.com/-4UFvm3Fn2D0/XZRYY5bNvZI/AAAAAAAAyS8/eu4JB3rskUEZhXoFrWrRPCmUp4LHn2yDACKgBGAsYHg/s1600/meduza-original.png"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/yus1pkhqf9kz2220.png"
 ---
 
 > В действительности всё совсем не так, как на самом деле.
@@ -21,7 +21,7 @@ image: "https://1.bp.blogspot.com/-4UFvm3Fn2D0/XZRYY5bNvZI/AAAAAAAAyS8/eu4JB3rsk
 
 Если же картинку открыть, то там написано нечто слегка иное: «Указаны максимально допустимые значения, разрешённые законом».
 
-{{< imgfig "https://1.bp.blogspot.com/-4UFvm3Fn2D0/XZRYY5bNvZI/AAAAAAAAyS8/eu4JB3rskUEZhXoFrWrRPCmUp4LHn2yDACKgBGAsYHg/s1600/meduza-original.png" "Максимальное рабочее время в неделю по версии «Медузы»." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/yus1pkhqf9kz2220.png" "Максимальное рабочее время в неделю по версии «Медузы»." >}}
 
 Ну ладно, оставим на совести редакторов то, что заголовок и содержимое *слегка* отличаются по смыслу.
 
@@ -51,7 +51,7 @@ image: "https://1.bp.blogspot.com/-4UFvm3Fn2D0/XZRYY5bNvZI/AAAAAAAAyS8/eu4JB3rsk
 * Мужчины в среднем работают **36 ч** в неделю,
 * Женщиины — и того меньше, **26 ч** в неделю.
 
-{{< imgfig "https://1.bp.blogspot.com/-YKwXwP0tjXY/XZJDcO64pII/AAAAAAAAyQ4/J6NVqN5zKT4T671PNIHJOdPqYKA6VKB0ACKgBGAsYHg/s1600/gemiddelde-arbeidsduur-in-uren-per-week-2017.png" "Средняя продолжительность рабочей недели для трудоустроенных от 15 до 75 лет (2017).<br>Голубым отмечены мужчины, сиреневым — женщины." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/sm677049ei1u0474.png" "Средняя продолжительность рабочей недели для трудоустроенных от 15 до 75 лет (2017).<br>Голубым отмечены мужчины, сиреневым — женщины." >}}
 
 Эти цифры совпадают с моими наблюдениями. Работать по **36 часов** здесь фактически стандарт; кто-то при этом работает четыре раза по девять, кто-то 4×8 плюс в пятницу 4 часа, кто-то чередует неделю 4×8 и неделю 5×8. Женщины часто начинают работают меньше, когда появляются дети — как правило, 3-4 дня в неделю.
 

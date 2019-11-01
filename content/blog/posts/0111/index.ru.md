@@ -3,7 +3,7 @@ type: post
 date: "2011-08-27T00:00:00Z"
 title: "Интервью с Даниелом де Йонгом (Desperados)"
 tags: ["Desperados", "интервью", "музыка", "Нидерланды"]
-image: "https://2.bp.blogspot.com/-Rcclvqp1UlQ/TlkvTe7qw0I/AAAAAAAAJjo/opF66cdStTg/s1600/daniel-de-jong.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/0qey63a9mksc0085.jpg"
 places:
     - place0084
 aliases:
@@ -16,7 +16,7 @@ aliases:
 
 Надо отметить, что, поскольку делал я это впервые в жизни и без всякой подготовки, да и вообще, говорить по-английски я начал около трёх лет назад, первый блин вышел довольно неидеальным. С другой стороны, получилось вроде бы не совсем плохо, так что интервью я решил опубликовать, вместе с его рашифровкой, вырезав излишнее мычание, где это было возможно.
 
-{{< imgfig "https://2.bp.blogspot.com/-Rcclvqp1UlQ/TlkvTe7qw0I/AAAAAAAAJjo/opF66cdStTg/s1600/daniel-de-jong.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0qey63a9mksc0085.jpg" >}}
 
 Итак, интервью с Дэниелом де Йонгом, группа Десперадос; бунгало-парк 'Т Эйкхорннест, Суст, Нидерланды; 26 августа 2011 г. Длительность: 25 мин.
 

@@ -6,20 +6,20 @@ tags:
     - забавное
     - Франция
     - пустяки
-image: "https://1.bp.blogspot.com/-o5r2uFHywF0/XYsRogK24FI/AAAAAAAAx_I/zIIFk95PP38sHoWB1D6PEtrQn79OzKtZACKgBGAsYHg/s1600/dsc09618.w.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/1rwe7bvjcp4r0932.jpg"
 ---
 
 А вот скажите, пациент, что вы видите на этом фото?
 
 <!--more-->
 
-{{< imgfig "https://1.bp.blogspot.com/-o5r2uFHywF0/XYsRogK24FI/AAAAAAAAx_I/zIIFk95PP38sHoWB1D6PEtrQn79OzKtZACKgBGAsYHg/s1600/dsc09618.w.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1rwe7bvjcp4r0932.jpg" >}}
 
 {{< spoiler "Вот что вижу я" >}}
 
 Лично мне тут представляется сидящий слон, показывающий язык.
 
-{{< imgfig "https://1.bp.blogspot.com/-Gfin7HuA3aw/XYsVJEgJbPI/AAAAAAAAx_g/ZZoDeJONWRIcBCwBNrStUnhMyGyHeEbNACKgBGAsYHg/s1600/elephant.jpg" "Слон же!" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/w129402jeli01023.jpg" "Слон же!" >}}
 
 Ну ладно, про язык я, конечно, пошутил — у меня не так всё запущено.
 

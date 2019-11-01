@@ -5,7 +5,7 @@ title: "Безотказный аргумент"
 tags:
     - ребёнок
     - забавное
-image: "https://1.bp.blogspot.com/-3PFKszNue0k/Xal4InkHyzI/AAAAAAAAyx4/QctIQEotcH0e9Qf8MOV7hY5rt1art-J6wCKgBGAsYHg/s1600/2019-10-18.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/ej4ntngd0htr0572.jpg"
 imageCredit: "Фото: Vidmir Raic/Pixabay."
 ---
 

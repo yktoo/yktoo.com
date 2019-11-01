@@ -3,14 +3,14 @@ type: post
 date: "2019-07-26T00:00:00Z"
 title: "The national temperature record is broken"
 tags: ["heatwave", "record", "temperature", "weather"]
-image: "https://1.bp.blogspot.com/-UT_YxhgI0Os/XTriejhY54I/AAAAAAAAwg8/4iyYAGe0zP4azsXylGGZQfoyZ3cOWFrAgCKgBGAs/s1600/code-oranje.png"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/ho1xszpvho3x3128.png"
 aliases:
     - /en/blog/post/349
 ---
 
 We're four days into a {{< a "0229" "record-breaking" >}} heatwave here. An "orange alert" ({{< fl "code oranje" >}}) has been declared in almost every province of the Netherlands:
 
-{{< imgfig "https://1.bp.blogspot.com/-UT_YxhgI0Os/XTriejhY54I/AAAAAAAAwg8/4iyYAGe0zP4azsXylGGZQfoyZ3cOWFrAgCKgBGAs/s1600/code-oranje.png" "Orange alert on the map of Holland." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ho1xszpvho3x3128.png" "Orange alert on the map of Holland." >}}
 
 The **75 years** old absolute temperature record established back in 1944 has been broken yesterday.
 

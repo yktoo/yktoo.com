@@ -4,7 +4,7 @@ date: "2012-04-25T00:00:00Z"
 title: "Часть 2. Пуэрто-Рико и Пуэрто-де-Моган"
 series: "Гран-Канария"
 tags: ["горы", "Гран-Канария", "Испания", "Канарские острова", "остров", "путешествия", "Пуэрто-де-Моган", "Пуэрто-Рико"]
-image: "https://2.bp.blogspot.com/-tbuHVYaMY6I/T2pXuMzfppI/AAAAAAAAMQg/gWdZSnShxU0/s1600/dsc09876.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/okag6e7g79m30434.jpg"
 places:
     - place0056
     - place0057
@@ -45,7 +45,7 @@ aliases:
 
 По вечерам в ТЦ открывалась танцплощадка с соответствующей отдыхающему контингенту «живой» музыкой:
 
-{{< imgfig "https://2.bp.blogspot.com/-tbuHVYaMY6I/T2pXuMzfppI/AAAAAAAAMQg/gWdZSnShxU0/s1600/dsc09876.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/okag6e7g79m30434.jpg" >}}
 
 Наш сеанс бар-сёрфинга закончился в одном баре, где нам повезло познакомиться с англичанкой по имени {{< fl "Lisa" >}}. Этот бар расположен на самом краю торговой зоны, видимо, поэтому мы были единственными клиентами — мы разговорились и проговорили весь вечер.
 
@@ -55,7 +55,7 @@ aliases:
 
 Она также сообщила нам, что раньше такого сумасшедшего ветра на побережье не было, и появился он лишь несколько месяцев назад. И действительно, на тех открытках с видом нашего пляжа, которые я видел, отсутствуют ограждения из ткани вокруг зонтичных полей — видимо, их возвели для защиты дорогих клиентов (€ 9 в день за зонтик и два лежака) от песка недавно.
 
-{{< imgfig "https://4.bp.blogspot.com/-w9GQIUb7pt8/T2pbOdo8jbI/AAAAAAAAMl4/KQ4RKnbv5kw/s1600/dsc00796.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/dfp3jcn54zpv1046.jpg" >}}
 
 ## Горы! {#mountains}
 
@@ -63,7 +63,7 @@ aliases:
 
 Прокатные конторы (rent-a-car) расположены в Маспаломас чуть гуще, чем везде. Я просто зашёл в ту, что находилась прямо в нашем отеле. Говорят, что в разгар сезона взять машину напрокат может быть довольно сложно, но март здесь не то чтобы мёртвый сезон, — так, полуживой. Нам досталась изрядно потрёпанная, но бодрая Renault Clio (с 200+ тыс. км на спидометре):
 
-{{< imgfig "https://3.bp.blogspot.com/-7fUGZPCjLNY/T2pYLEZl-XI/AAAAAAAAMTI/5k86d6o9EU8/s1600/dsc00166.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ogx6np6u0mwe2786.jpg" >}}
 
 Мы вырулили из Маспаломас и, с непривычки к гран-канарским дорогам не без некоторых навигационных трудностей, поехали по C812 на запад.
 
@@ -78,33 +78,33 @@ aliases:
 
 Ну вот, инструктаж по технике безопасности получен, можно выезжать на серпантин.
 
-{{< imgfig "https://4.bp.blogspot.com/-rr0vn9gJIGA/T2pZBlDlrSI/AAAAAAAAMYY/rWQgSUGxBVs/s1600/dsc00190.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fe7n4rseeeom0228.jpg" >}}
 
 Поначалу с непривычки охватывает чувство восторга от увиденного и начинает слегка кружиться голова — виды открываются просто волшебные:
 
-{{< imgfig "https://3.bp.blogspot.com/-FJbCBYzZpo8/T2pauG08JlI/AAAAAAAAMiw/dBHrBY2TjqI/s1600/dsc00178.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/trnjq84rk0mp1504.jpg" >}}
 
 На узкой дороге периодически встречаются специальные «карманы», где можно безопасно остановиться, и это очень хорошо придумано.
 
-{{< imgfig "https://2.bp.blogspot.com/-hItu6BPElYc/T2pcDi7wHNI/AAAAAAAAMrU/ZuZZ_oYtAIA/s1600/dsc00197.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0kpirrztlt260822.jpg" >}}
 
 На картинке выше можно заметить велосипедиста: их на горных дорогах великое множество, ползущих в гору и несущихся вниз. Они — ещё одна причина быть осторожнее на поворотах: благодаря своей маневренности, они, в отличие от машин, могут разгоняться до значительных скоростей (50-60 км/ч — легко).
 
 Порой среди всей этой красоты можно заметить забавные артефакты, как, например, вот этот отель с видом на склон горы:
 
-{{< imgfig "https://1.bp.blogspot.com/-vFLYHia5lMI/T2pbbNf6MjI/AAAAAAAAMnU/ebpEvQVkFPE/s1600/dsc00200.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/mlq0ik528ilj1771.jpg" >}}
 
 ## Пуэрто-Рико {#puerto-rico}
 
 У Гран-Канарии есть одноимённый с островом в Карибском море город — Пуэрто-Рико ({{< fl "{{< wiki "Puerto_Rico_de_Gran_Canaria" "en" "Puerto Rico" >}}" >}}, по-испански «богатый порт»). Это, собственно, скала, облепленная множеством белённых домов:
 
-{{< imgfig "https://4.bp.blogspot.com/-CjTkZAPTnv0/T2pb15q7QRI/AAAAAAAAMp8/xeXGORefEC0/s1600/dsc00167.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/m65f9y40s8ej0955.jpg" >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-b7HC1JscHmg/T2pb_yCSIjI/AAAAAAAAMq8/F8gK0VvjSV8/s1600/dsc00172.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/7pzrkvag9g993107.jpg" >}}
 
 Инвентарь всегда под рукой — дворник подметает тротуар веткой пальмы:
 
-{{< imgfig "https://3.bp.blogspot.com/-UqLB67dVdmA/T2pY68_yKwI/AAAAAAAAN0Q/2lfJCK6i89o/s1600/dsc00171.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0txxv4ntwymy0450.jpg" >}}
 
 Пуэрто-Рико намеренно создавался как курортный городок, он расположен на побережье и располагает отличным песчаным пляжем. Ничем, впрочем, не отличающимся от пляжей всех остальных прибрежных городов острова.
 
@@ -112,32 +112,32 @@ aliases:
 
 Ещё немного на запад по горам:
 
-{{< imgfig "https://4.bp.blogspot.com/-CtTZirbwL74/T2pZIa6hZlI/AAAAAAAAMZI/_-6aGAAYcQg/s1600/dsc00203.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/kur3bp11g3t73570.jpg" >}}
 
 И мы прибываем в Пуэрто-де-Моган ({{< wiki "Puerto_de_Mogán" "en" "Puerto de Mogán" >}}, «Моганский порт»), столь же живописный, как и Пуэрто-Рико. Его принято называть здесь «маленькой Венецией», благодаря каналам, подпитываемым морской водой из залива.
 
-{{< imgfig "https://3.bp.blogspot.com/-et9UEd9Ynn0/T2pXVN_ep8I/AAAAAAAAMOQ/IvYP3FqbtxE/s1600/dsc00217.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/jabxs48fv4bl0258.jpg" >}}
 
 В моменты отлива каналы заметно мельчают, местами обнажая дно. Мне показалось, что если это и Венеция, то совсем-совсем крохотная, но тем не менее уютная.
 
-{{< imgfig "https://1.bp.blogspot.com/-Ae9zXPG4pjg/T2pcUto2WdI/AAAAAAAAMs8/LJJaH0ZDcdU/s1600/dsc00231.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/jm5gyn1avlmv2508.jpg" >}}
 
 Городок этот тоже под завязку забит туристами, со всеми причитающимися атрибутами.
 
-{{< imgfig "https://3.bp.blogspot.com/-cxesWpYQWkI/T2pZLXDSqmI/AAAAAAAAMZY/sQGVVjmhQq4/s1600/dsc00234.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/4zcgjdyv33gl1512.jpg" >}}
 
 По определению здесь имеются порт и пляж. Из Пуэрто-Рико до Пуэрто-де-Могана можно добраться по воде, на пароме — нам говорили, что это стоит попробовать. И мы бы обязательно это сделали (тем более, что на пароме, который мы видели, было написано, что у него прозрачное дно), но мы приехали на машине, и девать её нам было некуда, да и не хотелось.
 
-{{< imgfig "https://1.bp.blogspot.com/-eCo8Q5XqWUE/T2pdfONLeuI/AAAAAAAAM0U/W4OB6jqa_Do/s1600/dsc00250.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/e3d4d98xgaeu1641.jpg" >}}
 
 Вода очень красивого бирюзового цвета, и очень чистая.
 
-{{< imgfig "https://3.bp.blogspot.com/-f3wU0t_zRA8/T2pcFqyhjcI/AAAAAAAAMrc/baUMFb-mJTA/s1600/dsc00248.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9qrw91cs9ygm0650.jpg" >}}
 
 В ней, соответственно, полно крупной рыбы:
 
-{{< imgfig "https://1.bp.blogspot.com/-l7kk5mhGCrg/T2pcuNrK0cI/AAAAAAAAMvk/0u-NXFK392U/s1600/dsc00251.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/sirl9bk1bb4i2365.jpg" >}}
 
-{{< imgfig "https://3.bp.blogspot.com/-jjg-FvPQiXM/T2paBjEaoII/AAAAAAAAMeY/WPIMX10uh3E/s1600/dsc00244.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/94qqcktue4ya2116.jpg" >}}
 
 В {{< a "0150" "следующий раз" >}} мы поедем дальше в горы, посетим столицу острова Лас Пальмас и город со смешным именем Аргуинегуин.

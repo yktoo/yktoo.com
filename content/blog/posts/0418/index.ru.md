@@ -9,7 +9,7 @@ tags:
     - солнечная энергетика
     - экология
     - электроэнергия
-image: "https://1.bp.blogspot.com/-32wz97J1vSE/XZ4Kg4lirXI/AAAAAAAAyfM/7McAV9qtJuQffZcZ2OhlFXA1APskOrdvgCKgBGAsYHg/s1600/tennet-solar-farm.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/a09sn6imj4ci2718.jpg"
 imageCredit: "Фото: NOS."
 ---
 
@@ -25,11 +25,11 @@ imageCredit: "Фото: NOS."
 
 Так, в октябре {{< year 2019 "этого" >}} года вступит в строй крупнейшая во всём Бенилюксе солнечная электростанция в Колхаме ({{< fl "Kolham" >}}) на севере страны.
 
-{{< imgfig "https://1.bp.blogspot.com/-32wz97J1vSE/XZ4Kg4lirXI/AAAAAAAAyfM/7McAV9qtJuQffZcZ2OhlFXA1APskOrdvgCKgBGAsYHg/s1600/tennet-solar-farm.jpg" "Крупнейшая солнечная электростанция в Бенилюксе (г. Колхам). Фото NOS." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/a09sn6imj4ci2718.jpg" "Крупнейшая солнечная электростанция в Бенилюксе (г. Колхам). Фото NOS." >}}
 
 В нём насчитывается, ни много ни мало, **320 000** панелей и занимает он площадь в **103 га**, что эквивалентно **140** футбольным полям.
 
-{{< imgfig "https://1.bp.blogspot.com/-MvQw8h2n310/XZ4PUUWtW-I/AAAAAAAAyfs/CrgiPZSOYvUCjKtsQfCpdl47_h0adAAJACKgBGAsYHg/s1600/kolham-solar-park.jpg" "Солнечный парк в Колхаме. Фото NOS." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/64gvtsbv3jhv2880.jpg" "Солнечный парк в Колхаме. Фото NOS." >}}
 
 Представитель {{< fl "Tennet" >}} сообщил, что уже выдано разрешение на строительство ещё бо́льшего парка неподалёку — и энергокомпании повезло, что подключение уже было предусмотрено заранее. Иначе использовать бы его просто не вышло.
 

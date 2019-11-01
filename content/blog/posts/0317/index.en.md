@@ -3,7 +3,7 @@ type: post
 date: "2017-03-28T00:00:00Z"
 title: "David Maxim Micic, Disperse, Plini at Patronaat"
 tags: ["David Maxim Micic", "Disperse", "music", "Patronaat", "Plini", "progressive metal"]
-image: "https://3.bp.blogspot.com/-4ql-Zp3-APE/WNgDhZQK7-I/AAAAAAAApp8/W-4pPcq2MEU9OeNdFGRXA-JLe8_iTxsEgCPcB/s1600/dsc04094.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/7qvi95mnc52o2819.jpg"
 places:
     - place0243
 aliases:
@@ -18,7 +18,7 @@ This time he was himself the headliner, and his support acts were [David Maxim M
 
 The tiny venue at {{< fl "Patronaat" >}} (Haarlem) was packed with probably some hundred people. A friend of mine, who was also willing to come, had at a certain moment discovered the show was sold out.
 
-{{< imgfig "https://3.bp.blogspot.com/-AyWrTi1Sm08/WNgDhXozeNI/AAAAAAAApp8/DbcQ_DllLJQQs0hWrm4Ong3SFcLkWaHWwCPcB/s1600/dsc04083.picasaweb.jpg" "Before the show." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/tvg2i9tudwak2068.jpg" "Before the show." >}}
 
 With the ticket price of **€14** it was no wonder! But eventually he got lucky and found a ticket via TicketSwap.
 
@@ -40,7 +40,7 @@ Jakub was handy with the guitar, but preferred to keep a low profile for a while
 
 After David Maxim Micic made way for Disperse, the project of the just mentioned Pole **Jakub Żytecki** (24). The drums were still being taken care of by **Mike Malyan**, there was no bass, and the keyboardist **Rafał Biernacki** stepped up. He was also singing.
 
-{{< imgfig "https://4.bp.blogspot.com/-sIKEh18_-0U/WNgDhQy4vGI/AAAAAAAApp8/3HC9oyVUb3wegO1F5_8uGPFzKLnE4_X-QCPcB/s1600/dsc04087.picasaweb.jpg" "Disperse: Jakub Żytecki, Mike Malyan, Rafał Biernacki." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vezcnu4ahu1k1526.jpg" "Disperse: Jakub Żytecki, Mike Malyan, Rafał Biernacki." >}}
 
 Disperse's genre can probably be described as "David Maxim Micic + vocals". It's a similar mixture of electronics, progressive, and djent. They also remotely resembled the disbanded {{< a "0283" "Sun Caged" >}} (sigh), but in my humble opinion Disperse lacks their drive and expressiveness. As for Jakub's guitar proficiency, it's an even match with David's as far as I can tell. I had the opportunity to listen to both of them during Plini's "superjam" (more on which below).
 
@@ -54,9 +54,9 @@ On a side note, music of this kind is a bit too complex to absorb on a live show
 
 The last—but not least—act were {{< wiki "Plini" "en" "Plini" >}} (24) from the sunny Australia joined by his compatriots **Simon Grove** (played earlier with David), drummer [Troy Wright](https://www.wrightdrums.com/) and guitarist **Jake Howsam Lowe**—whom Plini dubbed "Christ".
 
-{{< imgfig "https://3.bp.blogspot.com/-4ql-Zp3-APE/WNgDhZQK7-I/AAAAAAAApp8/W-4pPcq2MEU9OeNdFGRXA-JLe8_iTxsEgCPcB/s1600/dsc04094.picasaweb.jpg" "Plini." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/7qvi95mnc52o2819.jpg" "Plini." >}}
 
-{{< imgfig "https://3.bp.blogspot.com/-5Yx5pym4z60/WNgDhaX0JDI/AAAAAAAApp8/JIGonVuGKbwHndU315nQv88bZEmcRM_jwCPcB/s1600/dsc04091.picasaweb.jpg" "Jake Howsam Lowe." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/m3fo2choqpr71395.jpg" "Jake Howsam Lowe." >}}
 
 The band's genre can be described as "melodic progressive fusion", with distinctive, memorable tunes (which sometimes tend to turn into an earworm). Plini's technique is conspicuous, but he's so popular not only because of that I think. His humbleness and visible friendliness are definitely appealing, too, as is his way of making jokes at his fellow musicians.
 
@@ -64,7 +64,7 @@ The band's genre can be described as "melodic progressive fusion", with distinct
 
 This time around he reiterated that the Netherlands was "hands downs the best place to be." His affection was returned by the audience in the form of traditional Dutch {{< fl "drops" >}} and cheese:
 
-{{< imgfig "https://3.bp.blogspot.com/-RK07WTPIFZA/WNgDhWYqYFI/AAAAAAAApp8/eVOQXPS1Qxsu9ZZiXaGp6Tfc0ppsqwpMQCPcB/s1600/dsc04098.picasaweb.jpg" "Plini holding drops and cheese." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pp6ppvnh8i6b3139.jpg" "Plini holding drops and cheese." >}}
 
 Once there was a hiccup when one of the snare drums got broken. Plini and Jake started a "chord game" during the forced break: Jake would play a chord and Plini would try to arpeggiate it. Which went fine—mostly, but not always:
 

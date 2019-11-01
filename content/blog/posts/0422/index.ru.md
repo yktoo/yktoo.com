@@ -8,7 +8,7 @@ tags:
     - gft
     - мусор
     - экология
-image: "https://1.bp.blogspot.com/-X_pZaSRJTFM/XaBE607sYfI/AAAAAAAAymY/qFwcjEFLvZ8H9TTFYn47tNdhm3NxWbFuwCKgBGAsYHg/s1600/2019-10-11.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/9598b15dpyeb2642.jpg"
 glossary: gft
 ---
 
@@ -24,7 +24,7 @@ glossary: gft
 
 Биомусор в Нидерландах собирают раздельно от остальных видов мусора. Обычно для этого {{< a "/glossary/gemeente" "муниципалитет" >}} выделяет каждому дому контейнер (который называют здесь {{< a "/glossary/kliko" "kliko" >}}) зелёного цвета (иногда — коричневого):
 
-{{< imgfig "https://1.bp.blogspot.com/-tZZNUY-lm-E/XaBH6FK4AjI/AAAAAAAAynI/K6EtECoddowevsj_r1najN07a4PWae4LQCKgBGAsYHg/s1600/2019-10-11.jpg" "Контейнер для GFT-мусора. Фото Erik1980/Wikimedia." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/6xx55cssy1mb1824.jpg" "Контейнер для GFT-мусора. Фото Erik1980/Wikimedia." >}}
 
 Примерно две трети собранного биомусора перерабатывается на компост — удобрение для почвы. Впоследствии готовый компост можно при надобности бесплатно запросить у муниципалитета.
 
@@ -76,4 +76,4 @@ glossary: gft
 
 Для удобства муниципалитеты и некоторые супермаркеты также предлагают бесплатные биоразлагаемые пакеты для домашних урн. Их можно безопасно бросать в те же контейнеры вместе с содержимым.
 
-{{< imgfig "https://1.bp.blogspot.com/-ULouua1Ct-g/XaBM7ZfMOeI/AAAAAAAAynw/zV3esMVsYacNhPIUTtaweVFlxb7et10KQCKgBGAsYHg/s1600/2019-10-11.jpg" "Биопакеты для GFT-мусора." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/no7anh7276or2854.jpg" "Биопакеты для GFT-мусора." >}}

@@ -3,7 +3,7 @@ type: post
 date: "2016-01-16T00:00:00Z"
 title: "The Aristocrats at De Boerderij"
 tags: ["Bryan Beller", "De Boerderij", "fusion", "Guthrie Govan", "jazz", "Marco Minnemann", "music", "Netherlands", "progressive metal", "The Aristocrats", "Zoetermeer"]
-image: "https://2.bp.blogspot.com/-gqODy41rxV0/Vn7LgKAJaBI/AAAAAAAAk8M/eU2egTbUn-Q/s1600/20151209_222003.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/f01g409t6sq70951.jpg"
 places:
     - place0079
 aliases:
@@ -18,7 +18,7 @@ I was fortunate to see a very popular (yet kind of underground) band called {{< 
 
 The Aristocrats is a {{< wiki "Supergroup_(music)" "en" "supergroup" >}} founded in 2011. Last December they were presenting their third studio album {{< wiki "Tres_Caballeros" "en" "Tres Caballeros" >}}.
 
-{{< imgfig "https://2.bp.blogspot.com/-gqODy41rxV0/Vn7LgKAJaBI/AAAAAAAAk8M/eU2egTbUn-Q/s1600/20151209_222003.picasaweb.jpg" "The Aristocrats, left to right: Guthrie Govan, Marco Minnemann, Bryan Beller." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/f01g409t6sq70951.jpg" "The Aristocrats, left to right: Guthrie Govan, Marco Minnemann, Bryan Beller." >}}
 
 Unfortunately I can't share much of it with you this time.
 
@@ -34,7 +34,7 @@ On the bright side, I have to say the three play instruments like gods. The line
 
 The lists of acts above should give you a hint of how brilliant they are. The brightest band member is arguably the British {{< wiki "Guthrie_Govan" "en" "Guthrie Govan" >}}, which is a true guitar virtuoso. You must hear that to really appreciate his playing.
 
-{{< imgfig "https://1.bp.blogspot.com/-iEJR_3Ip7P4/Vn7Lnv-cGoI/AAAAAAAAk94/ElLzdZoMlEY/s1600/20151209_211058.picasaweb.jpg" "Guthrie Govan." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/oi4ozx0zjak40989.jpg" "Guthrie Govan." >}}
 
 Because of the new stupid rules I was only able to record a couple of videos of a questionable quality.
 

@@ -3,7 +3,7 @@ type: post
 date: "2011-10-12T00:00:00Z"
 title: "Особое мнение"
 tags: ["Apple", "некрологи", "Ричард Столлман", "Стив Джобс"]
-image: "https://1.bp.blogspot.com/-nEj2DlhaKyI/TpYFeyg_tjI/AAAAAAAAJ70/6aSt6AXxBDU/s1600/apple-n-jobs.png"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/5e9abeijm80y2461.png"
 aliases:
     - /ru/blog/post/121
 ---
@@ -28,4 +28,4 @@ aliases:
 
 > Нам следует очень надеяться, на то лучшее, что осталось после Джобса, и что его последователи будут намного менее компетентны. Тим Кук — это, конечно, не охрипший фигляр Стив Баллмер, но в то же время у него не было замечено чутья провидца или опасной харизмы, которыми Джобс мастерски владел. Без магии Джобса культ Apple, вероятнее всего, ослабнет. Будем надеяться, что с ним уменьшится и опасность нашей свободе.
 
-{{< imgfig "https://1.bp.blogspot.com/-nEj2DlhaKyI/TpYFeyg_tjI/AAAAAAAAJ70/6aSt6AXxBDU/s1600/apple-n-jobs.png" "Image ©Jonathan Mak" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/5e9abeijm80y2461.png" "Image ©Jonathan Mak" >}}

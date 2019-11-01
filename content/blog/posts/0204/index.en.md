@@ -3,7 +3,7 @@ type: post
 date: "2013-12-08T00:00:00Z"
 title: "How I became a Bob"
 tags: ["Amersfoort", "Bob", "car", "Netherlands", "night", "police"]
-image: "https://2.bp.blogspot.com/-Jy7swQ2rLLI/UqRUv06WJOI/AAAAAAAAa-0/yJAoue3eGlg/s1600/dsc01917.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/11hyjqss632o0035.jpg"
 places:
     - place0077
 aliases:
@@ -18,14 +18,14 @@ Yesterday we drove home from our friends. And somewhere in the residential area 
 
 Those abiding to the law are given a nice sign of appreciation, Bob's keychain:
 
-{{< imgfig "https://2.bp.blogspot.com/-Jy7swQ2rLLI/UqRUv06WJOI/AAAAAAAAa-0/yJAoue3eGlg/s1600/dsc01917.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/11hyjqss632o0035.jpg" >}}
 
 Autumn Amersfoort by night under the cut, as seen by a *sober* driver.
 
-{{< imgfig "https://4.bp.blogspot.com/-gxr35CLHQVs/UqOMdZacOyI/AAAAAAAAa5U/GRSSzqcCnhQ/s1600/dsc01738.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/kiso0y774esk1340.jpg" >}}
 
-{{< imgfig "https://3.bp.blogspot.com/-EGvGe6-iGWw/ThiaPqMJjwI/AAAAAAAAI8I/78XcQd-DFKs/s1600/DSC00218.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/v3kdnmw6czdq2396.jpg" >}}
 
 A bike bridge named {{< fl "De Oversteek" >}} ("The Crossing"):
 
-{{< imgfig "https://4.bp.blogspot.com/-ar0G02XhqWg/ThibbjKEmwI/AAAAAAAAJAI/7mc8zj4YEPA/s1600/DSC00212.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/3u8qoel9vqe51656.jpg" >}}

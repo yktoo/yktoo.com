@@ -3,7 +3,7 @@ type: post
 date: "2018-11-12T00:00:00Z"
 title: "That Awkward Moment"
 tags: ["music", "Netherlands", "Riverside", "Tivoli Vredenburg", "Utrecht"]
-image: "https://4.bp.blogspot.com/-i16LYa9YmX0/W-lbT_gGAHI/AAAAAAAAt8o/qPGJvPycdvY9kOxJEhkkfe1CYPyhdP1QACKgBGAs/s1600/tivoli-vredenburg-riverside-2018-11-12.png"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/tt5xi22iwoyx2843.png"
 aliases:
     - /en/blog/post/341
 ---
@@ -12,7 +12,7 @@ That moment when you find out the [official Riverside event page](https://www.ti
 
 <!--more-->
 
-{{< imgfig "https://4.bp.blogspot.com/-i16LYa9YmX0/W-lbT_gGAHI/AAAAAAAAt8o/qPGJvPycdvY9kOxJEhkkfe1CYPyhdP1QACKgBGAs/s1600/tivoli-vredenburg-riverside-2018-11-12.png" "The page of Riverside show." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/tt5xi22iwoyx2843.png" "The page of Riverside show." >}}
 
 That's today and the tickets are still available!
 

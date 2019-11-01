@@ -4,7 +4,7 @@ date: "2014-01-01T00:00:00Z"
 title: "Part 1. Sea"
 series: "Egypt. Hurghada"
 tags: ["beach", "Egypt", "Hurghada", "Read Sea", "sea", "snorkeling", "travel", "upshot"]
-image: "https://3.bp.blogspot.com/-WhG2CuTPnhU/UsQKZtFKY4I/AAAAAAAAbFY/BCQ_a_7PuPI/s1600/dsc01946.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/yj1wt7c44si22168.jpg"
 places:
     - place0188
     - place0190
@@ -24,7 +24,7 @@ I've never been to Egypt or even Africa before ({{< a "0148" "Gran Canaria" "ru"
 
 But first things first. Let's start off with the good stuff, the sea.
 
-{{< imgfig "https://3.bp.blogspot.com/-WhG2CuTPnhU/UsQKZtFKY4I/AAAAAAAAbFY/BCQ_a_7PuPI/s1600/dsc01946.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/yj1wt7c44si22168.jpg" >}}
 
 Hurghada ({{< fl "الغردقة‎" >}}) is a very young city, founded in the early 20<sup>th</sup> century. It stretches for about 36 km (22 miles) along the coast of the Red Sea and mainly consists of beaches and hotels.
 
@@ -42,29 +42,29 @@ Here's an excerpt from the {{< wiki "Red_Sea" "en" "Wikipedia" >}} about the Red
 
 And this is all true. I have never seen a water this transparent before.
 
-{{< imgfig "https://3.bp.blogspot.com/-oRnOxNy0LH8/UsQKc-8jEpI/AAAAAAAAbFo/oynpS88-fM8/s1600/dsc01960.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fapzo5kv40kg2362.jpg" >}}
 
 You can clearly see the bottom five metres deep:
 
-{{< imgfig "https://3.bp.blogspot.com/-wmh--lFEMoQ/UsQOJOAXlqI/AAAAAAAAbZ4/hNtREbXS7pI/s1600/dsc02710.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ti7uwkmmdr752695.jpg" >}}
 
 Thanks to its salinity, the water of the Red Sea supports you when swimming (not as much as in the Dead Sea, but still noticeably). And the biodiversity is incredible indeed, you can see an amazing amount of fish right near the beach:
 
-{{< imgfig "https://2.bp.blogspot.com/-0bnOKcInCOc/UsQOLgTmbHI/AAAAAAAAbaI/AJiA4snfo8c/s1600/dsc02716.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/mman6zidsc1i0390.jpg" >}}
 
 A lazy bird is contemplating the surface of the sea:
 
-{{< imgfig "https://4.bp.blogspot.com/-H8Iif875l8Q/UsQOKY-sCcI/AAAAAAAAbaA/oZwvxitLmMA/s1600/dsc02713.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/b75quef2qfwb2886.jpg" >}}
 
 The water colours are magnificent, lively, in contrast with our North Sea's, {{< a "0079" "fulvous-blueish" >}}:
 
-{{< imgfig "https://1.bp.blogspot.com/-KNJcXOGUlWc/UsQOOSygicI/AAAAAAAAbaY/AWHUQ2RIIDI/s1600/dsc02720.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/nbjw0e229whj0135.jpg" >}}
 
-{{< imgfig "https://4.bp.blogspot.com/-rbg2E57-kxc/UsQOM2IEjBI/AAAAAAAAbaQ/bEBBtG3EPY8/s1600/dsc02719.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/u0zfcoemraal1905.jpg" >}}
 
 An idyllic view.
 
-{{< imgfig "https://2.bp.blogspot.com/-gWQsuHyAuP8/UsQKYKbNksI/AAAAAAAAbFQ/MMS1RupYy_M/s1600/dsc01944.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ms7gypyp95ww2668.jpg" >}}
 
 ## Snorkeling {#snorkeling}
 
@@ -74,13 +74,13 @@ We've decided to begin with something simple and booked a snorkeling tour. It no
 
 So we've boarded a bus and were brought to a hotel in the south of Hurghada. The hotel was situated at the coast, naturally, but the water was of some strange, non-Hurghadian colour:
 
-{{< imgfig "https://1.bp.blogspot.com/-j7oGLAw7aFo/UsQKsK1HBFI/AAAAAAAAbG4/_IowSmTpqyY/s1600/dsc02040.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9ertizn649190091.jpg" >}}
 
 There we were given some gear of quite worn-out look: masks, snorkels and fins. After a careful inspection we had to ask for a replacement, for example the sump valve in my snorkel was broken, which would immediately lead to water getting inside it. Finally, more or less equipped, we've stepped on the berth, ready for feats. But no, our time hadn't come yet.
 
 It was storming that day, and the waves were reaching one metre high at times, gushing over the pier. Egyptian sailors were trying to moor our boat called El Princessa Eman, which our assorted crowd was watching with an increasing anxiety:
 
-{{< imgfig "https://3.bp.blogspot.com/-ze1PMEcIqWo/UsQKpd7nnlI/AAAAAAAAbGo/BzBR2VldANA/s1600/dsc02031.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/utq0liq0hkid1754.jpg" >}}
 
 I've recorded some footage of that, as usual:
 
@@ -88,7 +88,7 @@ I've recorded some footage of that, as usual:
 
 The waves pushed the boat, making it yaw, pitch and roll like crazy. Finally the Arabs managed to moor it:
 
-{{< imgfig "https://4.bp.blogspot.com/-lRlJVPqqS9k/UsQKqpVTKJI/AAAAAAAAbGw/5Svl-eEXrF8/s1600/dsc02039.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/685mvarorwi93338.jpg" >}}
 
 But this didn't mean a happy end yet. The boat was heaving so hard ([video](http://www.youtube.com/watch?v=Hj3bzsgjrXI)), that the management decided not to take risks. We were lead back and asked to return the ~~rubbish~~ gear. And then we had another forty minutes of sunbathing while waiting for a return bus.
 
@@ -96,69 +96,69 @@ Only on our way back we were explained that the tour isn't canceled, only the st
 
 Hurghada Marina looks like a picture from a kids book, by a sharp contrast with the rest of the city (which I'll tell you about later):
 
-{{< imgfig "https://2.bp.blogspot.com/-mOWVNnIovNg/UsQMHrqrBVI/AAAAAAAAbOo/AHZs9uSrnDY/s1600/dsc02319.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ekeqoc4xinwn0176.jpg" >}}
 
 Another picture of the paradise island:
 
-{{< imgfig "https://2.bp.blogspot.com/-DLHEwsw8Qf4/UsQKv_HbQiI/AAAAAAAAbHQ/LY7aqzlxJHw/s1600/dsc02043.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xt2nur1hxy041886.jpg" >}}
 
 There are countless boats in Marina.
 
-{{< imgfig "https://2.bp.blogspot.com/-1AjWb-c8CCg/UsQMI6MWa6I/AAAAAAAAbOw/bArA1hOs4WY/s1600/dsc02320.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/l950ewj6glxl3254.jpg" >}}
 
-{{< imgfig "https://2.bp.blogspot.com/-flNH_wZUE48/UsQKuuBnHyI/AAAAAAAAbHI/6hdApL74P9E/s1600/dsc02042.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ldve0zgye9jx2663.jpg" >}}
 
 This Salem One is ours, and it looks better than the former one:
 
-{{< imgfig "https://2.bp.blogspot.com/-dCQfcZI1X6s/UsQKxXKc_2I/AAAAAAAAbHY/7-T-t_hsiaQ/s1600/dsc02044.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/l1e50gw3vke91267.jpg" >}}
 
 At last we've boarded and are leaving the harbour:
 
-{{< imgfig "https://4.bp.blogspot.com/-duZGMhvIKM0/UsQK1Ri3miI/AAAAAAAAbHw/GbRFuIhwfBk/s1600/dsc02053.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vn7cbksns3m12224.jpg" >}}
 
 The colour of the water here is as it should be:
 
-{{< imgfig "https://2.bp.blogspot.com/-c8AEmCIMFDs/UsQKEFNQB8I/AAAAAAAAbDo/G2yawRkUTH8/s1600/dsc_0003.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/l3b3ywuppvpe3125.jpg" >}}
 
-{{< imgfig "https://4.bp.blogspot.com/-aIm8QgCJWA4/UsQK35h6wNI/AAAAAAAAbH4/Zide-6RnoCs/s1600/dsc02065.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/gfwmj9xabiug0720.jpg" >}}
 
 Our steersman is chatting on the mobile, holding its back side to his ear. I think he's using the speaker-phone because the wind is too strong to hear anything from the regular speaker:
 
-{{< imgfig "https://3.bp.blogspot.com/-f9tIGST_Tao/UsQK5ClINOI/AAAAAAAAbIA/reTizoJuUkQ/s1600/dsc02066.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/x3azwmd8nbgz1087.jpg" >}}
 
 We're sailing towards the {{< fl "Giftun" >}} island, the second largest. The largest island is used for military purposes and tourists are not welcome there.
 
 A lot of other boats are going up and down in both directions. I can't take my eyes off the sea, so beautiful its colour is:
 
-{{< imgfig "https://3.bp.blogspot.com/-K_UaueBQc7U/UsQK6clIjfI/AAAAAAAAbII/nQ6Rym5Q5II/s1600/dsc02069.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/04fyqkizkelu1734.jpg" >}}
 
-{{< imgfig "https://4.bp.blogspot.com/-7l-jgJNqm6Y/UsQLMR-qMwI/AAAAAAAAbJo/OvOhLhl5koU/s1600/dsc02177.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/s5z4xhzv4m0s0853.jpg" >}}
 
 The sea is a bit stormy, and the boat is swaying. It's very windy on the upper deck, but you feel less seasick there. People roll themselves in every piece of cloth they find and admire the views.
 
-{{< imgfig "https://3.bp.blogspot.com/-QVjLB6-xYzA/UsQK7-t1rzI/AAAAAAAAbIQ/yF2zNqYGlKI/s1600/dsc02074.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/om7zb34jywa71955.jpg" >}}
 
 We're accompanied by a young Ukrainian couple, a sulky older Russian couple (none of them tries to contact the others) and a dozen of Dutch, chitchatting to each other. Amongst them, a family with six (!!!) children (only Dutch would be able to handle it). Here are the youngest three, twins of three and a girl of five, with their dad:
 
-{{< imgfig "https://1.bp.blogspot.com/-hxDT8JsZv5o/UsQK-gfgOAI/AAAAAAAAbIg/Dbr8qx5gkN8/s1600/dsc02086.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/uc5z3aqbffb22728.jpg" >}}
 
 The other kids are ten, eleven and fourteen, and they are helping their parents to cope with the young gang.
 
 Finally we're at the venue, about two hundred metres off Giftun's shore. The boats often moor to each other, side by side:
 
-{{< imgfig "https://1.bp.blogspot.com/-F8Bk2uTVJ-g/UsQM2L-EdbI/AAAAAAAAbSw/hCC0SKUL0gc/s1600/dsc_0244.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/m5b57xtldra70081.jpg" >}}
 
 Our instructor, an Egyptian called Monty, gives us the final instructions and asks to sign disclaimer forms, which states that we would not hold them liable if something bad happens. He called our group "Cobra" (I couldn't help commenting that if he's Monty, our group must be called Python, not Cobra). Then he helped us with the gear and literally pushed us into water.
 
-{{< imgfig "https://4.bp.blogspot.com/-Vl3MS0K1qFU/UsQLAdmigdI/AAAAAAAAbIo/zHUxubNbYMY/s1600/dsc02111.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/yay7wfvf45qi1913.jpg" >}}
 
 Breathing with a snorkel is not as easy as one might think, if you're not used to it. Your mouth and nose get filled with seawater at once, it gets even under the mask, which gets misted, and you feel like suffocating all the time. However, after a while it gets better. Time to fin to the reefs.
 
-{{< imgfig "https://1.bp.blogspot.com/-rCQ_SDo-e-I/UsQLB4Did4I/AAAAAAAAbIw/xFJNLPaE4yg/s1600/dsc02114.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/85v155dyhc5s0613.jpg" >}}
 
 Monty shows us the reefs, I've never seen anything like this in my life.
 
-{{< imgfig "https://3.bp.blogspot.com/-754PEYXH0UU/UsQLDgUyIrI/AAAAAAAAbI4/-d0_md06EeI/s1600/dsc02129.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/jis17wlix38t2960.jpg" >}}
 
 Coral reefs look much like plants, yet they're very hard so you need to be extremely careful. In some places they almost touch the surface of the water, so navigating these waters is tricky. Myriads of fish of all shapes and sizes are at arm's length.
 
@@ -170,26 +170,26 @@ There's a cameraman with our group who films all our floundering. Time to time h
 
 After a good deal of floundering, reef-seeing and sea-water swallowing we get back.
 
-{{< imgfig "https://3.bp.blogspot.com/-Ag6OQi5XHyM/UsQLIO5r4fI/AAAAAAAAbJQ/0xBVNwi9xkw/s1600/dsc02151.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/686nadlfigbq1040.jpg" >}}
 
 The first thing Monty does after getting out of the water is putting on a cap, which looks funny. By the way, a curious fact: he said he had never seen a Russian who spoke English before.
 
-{{< imgfig "https://2.bp.blogspot.com/-7rd0ylAMOBk/UsQLLJ-hOgI/AAAAAAAAbJg/9y0wwgwA180/s1600/dsc02166.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/03y31aoro7y62629.jpg" >}}
 
 The first victim of the insidious reefs: the oldest of the six kids wounded her leg. Monty is administering first aid:
 
-{{< imgfig "https://4.bp.blogspot.com/--K-ON3DQe60/UsRqBMIxBBI/AAAAAAAAbe4/_0KUvhfE7Gg/s1600/dsc02215.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/chkat93izsc81081.jpg" >}}
 
 Another boat, full of Russians, stops nearby. They're going to scuba-dive:
 
-{{< imgfig "https://1.bp.blogspot.com/-aeElyFU4cXw/UsQLN2pU70I/AAAAAAAAbJw/obkjTwNWIkE/s1600/dsc02186.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xf7bqh9tf0q93425.jpg" >}}
 
 We've planned to make three stops to dive, but only made two. Nobody except me wanted to stop another time, so I gave in. Everyone's tired after the long day. The Ukrainians are meditating:
 
-{{< imgfig "https://4.bp.blogspot.com/-MIFYel8x0Qw/UsQLbAmnSMI/AAAAAAAAbK4/KuvIZI9wgCU/s1600/dsc02221.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hxb0mpw0uh7y1756.jpg" >}}
 
 Even at our second stop the sun was already quite low, which made the reefs look much less colourful. Well enough for the first time.
 
-{{< imgfig "https://2.bp.blogspot.com/-emnnHs5a3eQ/UsQOoGBV_CI/AAAAAAAAbdI/mzYGKhvanQY/s1600/dsc_0450.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/oq7l7kpno6s30229.jpg" >}}
 
 In the {{< a "0210" "next part" >}} we will move to the opposite side of Hurghada, into the desert.

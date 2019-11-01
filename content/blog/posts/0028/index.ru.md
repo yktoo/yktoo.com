@@ -3,14 +3,14 @@ type: post
 date: "2008-11-11T00:00:00Z"
 title: "Новая железка"
 tags: ["Toyota Prius", "авто", "Нидерланды"]
-image: "https://3.bp.blogspot.com/-HoibkPanFp0/T420BAgqzqI/AAAAAAAAO_s/eyuRJT6NOl0/s1600/imgp1525.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/jypcrqe2jvtr2307.jpg"
 aliases:
     - /ru/blog/post/28
 ---
 
 Наконец-то пришла заказанная мной машина — **Toyota Prius 2009**.
 
-{{< imgfig "https://3.bp.blogspot.com/-HoibkPanFp0/T420BAgqzqI/AAAAAAAAO_s/eyuRJT6NOl0/s1600/imgp1525.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/jypcrqe2jvtr2307.jpg" >}}
 
 <!--more-->
 
@@ -20,7 +20,7 @@ Toyota Prius — как раз именно гибридный автомоби�
 
 Эта машина — просто сказка для любителя наворотов, компьютеров и кнопочек вроде меня.
 
-{{< imgfig "https://2.bp.blogspot.com/-g0LDA-m_Osc/SRociadMnPI/AAAAAAAAAOE/Zx4ZOAulG_o/s1600/Prius-Hybrid-Interior-2.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/z9kxdpf6l0f40545.jpg" >}}
 
 Оба двигателя (бензиновый в 76 л.&nbsp;с. и электрический в 67) могут работать совершенно независимо, также у неё есть режим «чистого» электромобиля ({{< fl "electric vehicle" >}}), а благодаря тому, что электродвигатель развивает максимальную мощность на любых оборотах (в отличие от бензинового), разгоняется машина быстрее любых прочих (менее 11 с до 100 км/ч).
 

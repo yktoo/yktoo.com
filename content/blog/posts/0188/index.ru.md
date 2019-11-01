@@ -3,7 +3,7 @@ type: post
 date: "2013-06-01T00:00:00Z"
 title: "Tomasa Quartet в De Observant"
 tags: ["Observant", "Tomasa Quartet", "Амерсфорт", "джаз", "музыка"]
-image: "https://4.bp.blogspot.com/-vDLdFZopQ08/UYPgpy7BqpI/AAAAAAAAXm8/7dCvgEYHktE/s1600/dsc07959.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/pq681zl1dr1l1463.jpg"
 places:
     - place0008
 aliases:
@@ -12,7 +12,7 @@ aliases:
 
 Мои старые знакомые по фестивалю {{< a "0109" "Dias Latinos 2011" >}}, Tomasa Quartet, почтили Амерсфорт своим выступлением. Учитывая, что выступают они вообще не особенно часто, я не мог упустить момента встретиться с ними.
 
-{{< imgfig "https://4.bp.blogspot.com/-vDLdFZopQ08/UYPgpy7BqpI/AAAAAAAAXm8/7dCvgEYHktE/s1600/dsc07959.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pq681zl1dr1l1463.jpg" >}}
 
 <!--more-->
 
@@ -20,11 +20,11 @@ aliases:
 
 За эти пару лет они мало изменились, за исключением того, что обзавелись другим ударником. Вместо арубианца Элвина Марчены главный по тарелочкам теперь турок Улас Аксунгер ({{< fl "Ulas﻿ Aksunger" >}}). Самое удивительное, что они меня до сих пор помнят и даже имя не забыли — приятно, чёрт побери. Мне даже показалось, что они обрадовались, увидев знакомую физиономию в чужом месте.
 
-{{< imgfig "https://3.bp.blogspot.com/-tg0qCRN97e0/UYPgr3y4o2I/AAAAAAAAXnM/u5UGPEoUoVA/s1600/dsc07962.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/yleb93twhamn0226.jpg" >}}
 
 В перерыве чувак из какого-то интернет-издания попросил их дать интервью. Они все направились за кулисы и при этом позвали меня с собой.
 
-{{< imgfig "https://3.bp.blogspot.com/-7CMkQNU7tvI/UYPgtyl5ByI/AAAAAAAAXnc/XpyrfKpDh3E/s1600/dsc07966.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/06afn552fefj0735.jpg" >}}
 
 Интервью было коротким, но из него я узнал, что басист Матиас и скрипачка Клаудия женаты (возможно, это как раз произошло в эти два года, не уточнял) и живут в Амстердаме, а Улас и вторая Клаудия, пианистка, не женаты, но оба живут в Роттердаме. Уж и не знаю, как часто при таком раскладе им удаётся репетировать.
 

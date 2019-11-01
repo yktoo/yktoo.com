@@ -3,7 +3,7 @@ type: post
 date: "2016-11-27T00:00:00Z"
 title: "Самый умный светофор"
 tags: ["Интернет", "Нидерланды", "новости", "светофоры", "СМИ", "транспорт", "Хаутен"]
-image: "https://1.bp.blogspot.com/-fAmNTgh_Xvs/WDrCLjmjWBI/AAAAAAAAoVc/Fm3jK0UypYkNZxz_DOEYZJzdX81ACWOwwCPcB/s1600/slim-verkeerslicht-houten.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/kmiiltyoz7zp2777.jpg"
 places:
     - place0245
 aliases:
@@ -14,7 +14,7 @@ aliases:
 
 <!--more-->
 
-{{< imgfig "https://1.bp.blogspot.com/-fAmNTgh_Xvs/WDrCLjmjWBI/AAAAAAAAoVc/Fm3jK0UypYkNZxz_DOEYZJzdX81ACWOwwCPcB/s1600/slim-verkeerslicht-houten.picasaweb.jpg" "Перекрёсток с поумневшим светофором. Фото из Google Street View." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/kmiiltyoz7zp2777.jpg" "Перекрёсток с поумневшим светофором. Фото из Google Street View." >}}
 
 А в чём, собственно, состоит его умность, спросите вы?
 
@@ -22,7 +22,7 @@ aliases:
 
 Так вот, возвращаясь к нашему светофору-интеллектуалу: водитель сможет увидеть, через сколько секунд загорится зелёный, с помощью *специального мобильного приложения*. Пока что новая суперфункция доступна только в [iOS-версии](https://itunes.apple.com/nl/app/verkeerplaza-verkeersinformatie/id510339308), которую я не в состоянии проверить по причине её отсутствия, но, согласно [сайту разработчиков](http://www.infoplaza.nl/archives/2420/), выглядит это примерно так:
 
-{{< imgfig "https://3.bp.blogspot.com/-egBDZPkVLgw/WDrFK8SbQMI/AAAAAAAAoVw/aePL_T1cvLo4mHVUq2YBMWP43l4VInrFwCPcB/s1600/verkeersplaza-app.picasaweb.jpg" "Как это должно выглядеть. Изображение www.infoplaza.nl." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/k9ut6arelfi51013.jpg" "Как это должно выглядеть. Изображение www.infoplaza.nl." >}}
 
 Никаких подробностей об используемых технологиях в сообщении не приводится, сообщается лишь что «{{< fl "Verkeerplaza" >}} — это первое приложение, связывающееся с умным светофором». Непонятно, подключается ли телефон к светофору напрямую (по {{< fl "Wi-Fi" >}} или {{< fl "Bluetooth" >}}) или же просто получает данные через интернет (что более правдоподобно).
 

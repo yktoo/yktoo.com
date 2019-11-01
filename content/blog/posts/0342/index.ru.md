@@ -3,14 +3,14 @@ type: post
 date: "2018-12-31T00:00:00Z"
 title: "Две тысячи восемнадцатый — всё"
 tags: ["2018", "итоги"]
-image: "https://3.bp.blogspot.com/-0yOc98Dr8-k/XCkJayeJeVI/AAAAAAAAuUg/RvMfC0YJQ5EzlG8ZD-RYMHxlqj1hspiSQCKgBGAs/s1600/2019.png"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/ou4wbjlre2kg1795.png"
 aliases:
     - /ru/blog/post/342
 ---
 
 {{< fl "Tjongejonge" >}}, этот год закончился столь же внезапно, как и {{< a "0332" "начался" >}}, даже на блог времени не было. Этот пост — последний и десятый по счёту в 2018-м (виноват, обещаю исправиться).
 
-{{< imgfig "https://3.bp.blogspot.com/-0yOc98Dr8-k/XCkJayeJeVI/AAAAAAAAuUg/RvMfC0YJQ5EzlG8ZD-RYMHxlqj1hspiSQCKgBGAs/s1600/2019.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ou4wbjlre2kg1795.png" >}}
 
 Зато случилось всего столько, что придётся поднапрячься, чтобы ничего не забыть.
 
@@ -32,31 +32,31 @@ aliases:
 
 В январе мы провели неделю на Фуэртевентуре, одном из Канарских островов. Фуэртевентура запомнилась мне солнцем и сильным ветром.
 
-{{< imgfig "https://3.bp.blogspot.com/-267Vgg_f5Vk/XCkNWnq1uuI/AAAAAAAAuVA/_Q_HwU1Hbr0YW1ZQGBssYek4HkqGy2WFgCKgBGAs/s1600/dsc07633.picasaweb.jpg" "Фуэртевентура, вид на остров Лобос." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/5ltu7k64hs612565.jpg" "Фуэртевентура, вид на остров Лобос." >}}
 
 В марте сгоняли на пару дней в бельгийский Гент, который я очень люблю: там очень уютно и красиво.
 
 В апреле побывали на Майорке, испанском острове в Средиземном море (ну, нравятся нам острова). Там было очень жарко и нереально красиво.
 
-{{< imgfig "https://2.bp.blogspot.com/-hq_TuS0FEC8/XCkQIYd-lwI/AAAAAAAAuVM/EhZ2ob8hNzgyWao4murHzmI5OhPBZi4vwCKgBGAs/s1600/20180428_155305.picasaweb.jpg" "Майорка." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zrzxubdjvv8q2669.jpg" "Майорка." >}}
 
 В июне — ещё один остров, в этот раз голландский Тексел ({{< fl "Texel" >}}), что находится на самом севере страны. Мы провели там несколько ночей в стационарной палатке, а также съездили на главную достопримечательность острова, маяк.
 
-{{< imgfig "https://3.bp.blogspot.com/-ORDhhSHIuXA/XCkRm4UgwlI/AAAAAAAAuVY/9FWKx0ndX2AuEiukcl8tuzplsx7ozfBmQCKgBGAs/s1600/20180609_115443.picasaweb.jpg" "Маяк на острове Тексел." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/6dn53dgv7qah0740.jpg" "Маяк на острове Тексел." >}}
 
 В июле в очередной раз бельгийский Брюгге. Там всё как в Генте, только ещё уютнее и красивее.
 
 В августе — Россия: Питер, Петрозаводск и Кижи, где местный кузнец выковал нам гвоздь:
 
-{{< imgfig "https://3.bp.blogspot.com/-1Kl8OtW9qfk/XCoYzaXRsGI/AAAAAAAAuW4/0yKH-JsU8i48DImW-sMBDTu6S-JA4axPgCKgBGAs/s1600/20180829_204358.picasaweb.jpg" "Гвоздь из Кижей." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xxpn4n9fscqj1227.jpg" "Гвоздь из Кижей." >}}
 
 В ноябре я встретил свой День рождения в Марокко, в курортном городе Агадире. Очень своеобразное место эта африканская страна.
 
-{{< imgfig "https://3.bp.blogspot.com/-XMi3zn2RHRI/XCoYzaLYsiI/AAAAAAAAuW4/WJEhQzOaPD8gwOG128qDp7Ra7xR2VFMmACKgBGAs/s1600/20181101_192728.picasaweb.jpg" "Набережная в Агадире, Марокко." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/urqyfxc6geah0200.jpg" "Набережная в Агадире, Марокко." >}}
 
 Начало декабря — рождественский рынок в Дуйсбурге, Германия. Ну и только вчера вернулись мы из бельгийского Антверпена, отношение к которому у меня постоянно меняется.
 
-{{< imgfig "https://2.bp.blogspot.com/-T6Oj99Qcl3w/XCoYzcvYHiI/AAAAAAAAuW4/iDsmfUY1rU4JCCzUKby36mmupdCABw76QCKgBGAs/s1600/dsc08610.picasaweb.jpg" "Кафедральный собор в Антверпене, Бельгия." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/3a7owtaxqmub1310.jpg" "Кафедральный собор в Антверпене, Бельгия." >}}
 
 ## О, спорт {#sport}
 
@@ -64,7 +64,7 @@ aliases:
 
 Второе достижение: в июле я получил *нидан* (второй дан) по айкидо. А пару недель назад и соответствующий сертификат из рук Марка Йонгстена:
 
-{{< imgfig "https://1.bp.blogspot.com/-XDGu3m2atBc/XCoblnSwbVI/AAAAAAAAuXU/n4k2TJmfe8wZi1RIOskT7zNQ_eSGLc0JQCKgBGAs/s1600/dsc08574.picasaweb.jpg" "Марк вручает автору диплом." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ufkz60p8p0bi1527.jpg" "Марк вручает автору диплом." >}}
 
 ## Музыка! {#music}
 
@@ -72,11 +72,11 @@ aliases:
 
 {{< fl "Arch Echo" >}}, {{< fl "Mestís" >}} и {{< fl "Plini" >}} в Харлеме ({{< a "/videoevents/vevt0048" "видео" >}}):
 
-{{< imgfig "https://4.bp.blogspot.com/-L55UJt_bELc/XCod9L7rn3I/AAAAAAAAuXg/tnUCDx5wUOowIBYE66tYKs5PUQ1yXZRAQCKgBGAs/s1600/dsc08074.picasaweb.jpg" "Javier Reyes (Mestís)." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/q8wj6dmnmxhj2726.jpg" "Javier Reyes (Mestís)." >}}
 
 И ещё {{< fl "Riverside" >}} в Утрехте:
 
-{{< imgfig "https://2.bp.blogspot.com/-7Y8GTHr-iGk/XCofE0E-jYI/AAAAAAAAuXs/ykU9MD7X6pMOTETy_WicWXiZblwHlRSkgCKgBGAs/s1600/20181112_214426.picasaweb.jpg" "Riverside." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1aesl5ifq2jq1161.jpg" "Riverside." >}}
 
 К слову, я записал на видео весь концерт целиком, но Ютьюб его удалил по требованию правообладателя. Ирония же заключается в том, что страница концерта на сайте {{< fl "Tivoli" >}} {{< a "0341" "была иллюстрирована" >}} именно моим видео с предыдущего выступления.
 
@@ -86,14 +86,14 @@ aliases:
 
 Весной я стал обладателем моноколеса, и это оказалась совершенно потрясающая, просто гениальная штука! С тех пор я пользуюсь им практически ежедневно — и не понимаю, почему люди ими не пользуются. Тут есть несколько нюансов, впрочем, так что я планирую рассказать об этом отдельно.
 
-{{< imgfig "https://2.bp.blogspot.com/-kiXMqYaqeJE/XComD__AwlI/AAAAAAAAuYM/8KndKUbSJ-AKSqW_MHlPv4GwMW9KXJ-6gCKgBGAs/s1600/2018-06-30_DK%2B-%2BMonowheel-2.gif" "Автор на моноколесе." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/p0j61b4llbrk2294.gif" "Автор на моноколесе." >}}
 
 В феврале был всеголландский карнавал, который мы посещали в Ден Бош, соседнем городе. Было смешно.
 
-{{< imgfig "https://4.bp.blogspot.com/-Jv1kBUNZnYM/XConNS7WK6I/AAAAAAAAuYc/528u0aE1LjIQsK8dmA6cHMFWRmnyzPV3QCKgBGAs/s1600/dsc07826.picasaweb.jpg" "Карнавал в Ден Бош, Нидерланды." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/way3r6lli5af0869.jpg" "Карнавал в Ден Бош, Нидерланды." >}}
 
 А в августе я впервые за всё время побывал на знаменитом гей-параде в Амстердаме, раньше я в это время обычно был в России. Оказалось, что всё это выглядит очень весело и намного приличнее, чем мне представлялось.
 
-{{< imgfig "https://3.bp.blogspot.com/-IqDSkB0MVMo/XCooJzFTTrI/AAAAAAAAuYo/zwFryrLxXXUllFLSk-dRBvcNB9HCaDoHwCKgBGAs/s1600/20180804_151002.picasaweb.jpg" "Амстердамский гей-прайд." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/b5msn5ss721n0241.jpg" "Амстердамский гей-прайд." >}}
 
 Уфф. На этом раскланиваюсь и до встречи в Новом году!

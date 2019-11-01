@@ -3,7 +3,7 @@ type: post
 date: "2012-07-25T00:00:00Z"
 title: "Каякинг"
 tags: ["Амерсфорт", "вода", "впервые", "каякинг", "Лёусден", "Нидерланды", "отдых", "спорт"]
-image: "https://3.bp.blogspot.com/-msNo3Jw4V9M/UAxXeMImUMI/AAAAAAAAUx4/umBE_vB5cT8/s1600/dsc04204.picasaweb.jpg"
+image: ""
 places:
     - place0038
 aliases:
@@ -11,8 +11,6 @@ aliases:
 ---
 
 Одной из многочисленных вещей, которых я никогда в жизни прежде не пробовал, является каяк. Каяк — это маленькая плоскодонная лодка на одного или двух человек, гребут в которой двусторонним веслом.
-
-{{< imgfig "https://3.bp.blogspot.com/-msNo3Jw4V9M/UAxXeMImUMI/AAAAAAAAUx4/umBE_vB5cT8/s1600/dsc04204.picasaweb.jpg" >}}
 
 При всей кажущейся простоте занятие это не столь уж лёгкое.
 
@@ -34,62 +32,62 @@ aliases:
 
 Помимо лодки мы попросили себе сухой контейнер: большую пластиковую банку с завинчивающейся крышкой, это очень полезное приспособление для спасения от брызг и, чем чёрт не шутит, [спасения от] утопления ценных предметов:
 
-{{< imgfig "https://4.bp.blogspot.com/-05qReWpZ_cU/UAxXtYncHLI/AAAAAAAAUxE/Iy1CEnfQrGY/s1600/dsc04245.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/aafjfvo1hejl2589.jpg" >}}
 
 На стандартном кольцевом маршруте вокруг Лёусдена шесть участков, где нельзя проплыть на лодке и приходится высаживаться и переносить её на себе ({{< fl "overdraagplaats" >}}). Это связано либо с перепадами уровня воды, либо со слишком низко расположенным мостом. Поскольку каяк весит килограмм пятьдесят, особой проблемы это не представляет даже в одиночку, даже наоборот, приятно вылезти и размять руки, ноги и всё остальное.
 
-{{< imgfig "https://2.bp.blogspot.com/-nlt2s2QMo-Y/UAxXT4FJXjI/AAAAAAAAUuk/5lFoQVvlKBo/s1600/dsc04175.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/6xd0jxp6zy0n3592.jpg" >}}
 
 Гуси с интересом наблюдают за нашими манёврами:
 
-{{< imgfig "https://2.bp.blogspot.com/-IcLSdlbrAYU/UAxXSlbJhlI/AAAAAAAAUuc/XikkEIWEIyA/s1600/dsc04174.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ez6eafu7vx250965.jpg" >}}
 
 В этот раз мы решили несколько усложнить нашу задачу и пройти по каналам Амерсфорта, несколько отклонившись от маршрута. Мы свернули в город.
 
-{{< imgfig "https://3.bp.blogspot.com/-8j7sxE8J-RA/UAxXZhhTuKI/AAAAAAAAUvM/dKtgimC7gww/s1600/dsc04195.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/my914lyym1p40453.jpg" >}}
 
 Нам приходится проплывать под множеством мостов и мостиков всех видов: пешеходных, велосипедных, автомобильных, железнодорожных.
 
-{{< imgfig "https://2.bp.blogspot.com/-5yrNtqYCpdQ/UAxXV2hf8AI/AAAAAAAAUuw/qKujv93iCvo/s1600/dsc04188.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/wvjoo6te10ja1659.jpg" >}}
 
 Попадаются даже такие:
 
-{{< imgfig "https://2.bp.blogspot.com/-rH2NBzcgZZY/UAxXh5G8bUI/AAAAAAAAUv0/U0LdWWIa11c/s1600/dsc04212.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ib6z5vndgqpc0979.jpg" >}}
 
 Вдоль канала расположены здоровенные буквы S, W, N, R, которые можно увидеть только с воды:
 
-{{< imgfig "https://4.bp.blogspot.com/-8Owjs4BPLsc/UAxXYGaK0YI/AAAAAAAAUvE/qfxpYcWfCgs/s1600/dsc04194.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/wbkvk4cq21rj1859.jpg" >}}
 
 Смысл этого послания мы так и не поняли. Возможно, оно не для землян.
 
 После того, как мы проплыли километра четыре, оказалось, что путь мы выбрали не совсем верный. Тупик.
 
-{{< imgfig "https://3.bp.blogspot.com/-xjnhhCA386E/UAxXavQJxnI/AAAAAAAAUvU/cRdJNLYIsBQ/s1600/dsc04198.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/7opvo0upptza0752.jpg" >}}
 
 Может быть, и можно было бы попытать счастья и перенести лодку дальше, но мы решили не рисковать — кто его знает, куда можно так заплыть. Пришлось возвращаться и продолжать по стандартному маршруту.
 
-{{< imgfig "https://2.bp.blogspot.com/-Jus1OWIRRFo/UAxXntTTxvI/AAAAAAAAUwc/ti3NXAtlUjM/s1600/dsc04236.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hpi18fgequ1o0257.jpg" >}}
 
 Вдоль канала нередко встречаются домики разной степени ухоженности, иногда просто очень красивые, утопающие в цветах.
 
-{{< imgfig "https://4.bp.blogspot.com/-KB9yzwthu9I/UAxXkY1zKcI/AAAAAAAAUwE/uStxIk7oyks/s1600/dsc04225.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/uvjms2vtkgv61445.jpg" >}}
 
 Участок пятого перетаскивания лодки — самый мудрёный.
 
-{{< imgfig "https://3.bp.blogspot.com/-oazTDuOGRI4/UAxXsK-nCcI/AAAAAAAAUw8/tmPhHbQYO3A/s1600/dsc04244.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/uivuuii6sf970792.jpg" >}}
 
 Там низкорасположенный мост, по которому проходит дорога с оживлённым движением, поэтому переносить лодку там запрещено. Вместо этого необходимо воспользоваться специальным механизмом наподобие лебёдки, приводящим в движение люльку, в которую помещается лодка. Вращением штурвала лодка медленно протягивается под мостом на противоположную его сторону.
 
-{{< imgfig "https://1.bp.blogspot.com/-KiUXh-GN930/UAxXuY9M7XI/AAAAAAAAUxM/SwqLOM-T8VI/s1600/dsc04246.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cp42oan7iy5c2177.jpg" >}}
 
 Последний отрезок пути пролегает по лесу. За время, прошедшее с нашей последней поездки, воду основательно затянуло ряской. Река теперь сильно напоминает гладкий зелёный ковёр.
 
-{{< imgfig "https://4.bp.blogspot.com/-ug1E2PeLUSs/UAxXrD1OzPI/AAAAAAAAUw0/N4E6XSD6T9s/s1600/dsc04243.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/h4ekzuwmezpt2382.jpg" >}}
 
 Грести по этому «ковру» довольно трудно, лодка заметно тормозится. Зато красота вокруг просто неописуемая.
 
-{{< imgfig "https://2.bp.blogspot.com/-4Lj4YjNtYcw/UAxXp0yxUqI/AAAAAAAAUws/Ku_nUwa5fuc/s1600/dsc04239.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/mg3vp7o4nv102538.jpg" >}}
 
 Подводя итог, могу лишь порекомендовать этот вид отдыха — довольно пассивный для нижней части тела, но активный для всего остального. На следующий день вы это обязательно почувствуете.
 
-{{< imgfig "https://4.bp.blogspot.com/-538MdH2tH0A/UAxXmYI_yeI/AAAAAAAAUwU/BQZTlS9md2U/s1600/dsc04234.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cyhasu1h50vr0423.jpg" >}}

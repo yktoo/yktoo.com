@@ -5,7 +5,7 @@ dateFrom: 2016-12-17
 dateTo: 2016-12-17
 location: "Houten, Netherlands"
 websiteUrl: "http://houten.rotarysantarun.nl/"
-image: "https://1.bp.blogspot.com/-8Rzu2vJR0rI/WFcANEjwGbI/AAAAAAAAotc/cVdP4yGjlDAIdYGYaQ6HVLglaaJigVC9gCPcB/s1600/dsc03878.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/qcvoj4angkpg0782.jpg"
 videocategories: sport
 posts: "0301"
 ---

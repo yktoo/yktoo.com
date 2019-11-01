@@ -3,7 +3,7 @@ type: post
 date: "2011-12-03T00:00:00Z"
 title: "Johannes Heesters"
 tags: ["Amersfoort", "interesting", "Johannes Heesters", "media", "Netherlands"]
-image: "https://1.bp.blogspot.com/--r7wiWdehU4/TtoCKObxlnI/AAAAAAAAKjY/MIB2vVbvCxc/s1600/heesters.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/raybxus46qbg1787.jpg"
 places:
     - place0076
 aliases:
@@ -20,4 +20,4 @@ Nowadays Heesters lives in Germany and enjoys big popularity there, but he is a 
 
 On January 24 this year 107 year old singer suddenly made an appearance in the Amersfoort [De Flint](http://www.deflint.nl/) theatre on the Pieter Erkelens' (theatre director) farewell concert. Lucas Bolsius, the mayor of Amersfoort, then [stood up and left the theatre](http://www.ad.nl/ad/nl/1012/Binnenland/article/detail/1888159/2011/01/25/Omstreden-Heesters-107-even-terug-in-Amersfoort.dhtml), so did some other people.
 
-{{< imgfig "https://1.bp.blogspot.com/--r7wiWdehU4/TtoCKObxlnI/AAAAAAAAKjY/MIB2vVbvCxc/s1600/heesters.jpg" "Johannes Heesters. Photo ©André van der Velde" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/raybxus46qbg1787.jpg" "Johannes Heesters. Photo ©André van der Velde" >}}

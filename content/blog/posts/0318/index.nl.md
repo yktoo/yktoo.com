@@ -4,7 +4,7 @@ date: "2017-03-30T00:00:00Z"
 title: "Werken en werven"
 series: "Mijn ondernemerschap"
 tags: ["belastingen", "freelance", "Nederland", "Observ", "ondernemerschap", "werk", "Yktoo Solutions"]
-image: "https://4.bp.blogspot.com/-cjUtE071tFg/WN0YRhFH42I/AAAAAAAApr4/WyB_8ceeS0M-JGzjCw6TmK8ZzriLe2wmgCPcB/s1600/observ.nu.picasaweb.png"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/v95wud5j9h2w2271.png"
 aliases:
     - /nl/blog/post/318
 ---
@@ -59,7 +59,7 @@ Interim contracten worden vaak aangeboden op speciale freelance websites. Er zij
 
 Een collega heeft enkele maanden geleden het project [Observ](https://observ.nu/) gestart, dat heel nuttig van pas kwam tijdens het zoeken naar een opdracht. Observ is een gratis ICT contract aggregator die meerdere kopieën van dezelfde vacature uit verschillende websites verzamelt, classificeert en samenstelt in één. Het markeert ook vacatures die door "eerlijke" brokers worden geplaatst (het blauwe keten-icoontje dat *betrouwbare broker* betekent):
 
-{{< imgfig "https://4.bp.blogspot.com/-cjUtE071tFg/WN0YRhFH42I/AAAAAAAApr4/WyB_8ceeS0M-JGzjCw6TmK8ZzriLe2wmgCPcB/s1600/observ.nu.picasaweb.png" "Observ website." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/v95wud5j9h2w2271.png" "Observ website." >}}
 
 Al ben je niet van plan om opdrachten te zoeken via deze service, het heeft zin om er een keer naar te kijken zodat je weet met welke broker je wel of niet moet werken.
 

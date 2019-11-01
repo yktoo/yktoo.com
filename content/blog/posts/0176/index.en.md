@@ -3,14 +3,14 @@ type: post
 date: "2013-01-28T00:00:00Z"
 title: "Bye Beatrix!"
 tags: ["Beatrix", "Drakensteyn", "media", "Netherlands", "queen", "throne", "Willem-Alexander"]
-image: "https://3.bp.blogspot.com/-IT4UO1OgN_s/UQmTyqo5E7I/AAAAAAAAWmY/EaFuypwmxEs/s1600/Beatrix_der_Nederlanden.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/bi5kqwnjpk8s1207.jpg"
 aliases:
     - /en/blog/post/176
 ---
 
 Queen Beatrix has just announced she would abdicate from the Dutch throne in favour of her eldest son, 45 years old Willem-Alexander.
 
-{{< imgfig "https://3.bp.blogspot.com/-IT4UO1OgN_s/UQmTyqo5E7I/AAAAAAAAWmY/EaFuypwmxEs/s1600/Beatrix_der_Nederlanden.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/bi5kqwnjpk8s1207.jpg" >}}
 
 The public has been expecting such a move from her for a while, since the moment a renovation of the {{< wiki "Drakensteyn" "nl" "Drakensteyn" >}} castle has started a few years ago.
 
@@ -20,7 +20,7 @@ Local newspapers then began speculating about her resignation and yet, as we can
 
 Beatrix was inaugurated as queen on the {{< a "0153" "Queen's Day" "ru" >}} back on April 30, 1980. Now, precisely thirty three years later, on April 30, 2013 she will leave the throne to king (crown prince in the meantime) Willem-Alexander, while his wife Máxima will become the new queen.
 
-{{< imgfig "https://1.bp.blogspot.com/-gJqIt4vsd0s/UQbnpzNaPLI/AAAAAAAAWl8/Xzc8gaM3jFw/s1600/willem-alexander-maxima.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/o6gkgrj9b0sj1812.jpg" >}}
 
 Dutch monarchy turns 200 this year, counting from 1813 when the Netherlands regained freedom after Napoleon's defeat. Beatrix self will also have an anniversary soon: in three days, on January 31, she'll turn 75. She is quite spry for her age, although some deal of tiredness is visible.
 

@@ -3,7 +3,7 @@ type: post
 date: "2016-01-16T00:00:00Z"
 title: "The Aristocrats в Бурдерай"
 tags: ["Bryan Beller", "De Boerderij", "Guthrie Govan", "Marco Minnemann", "progressive metal", "The Aristocrats", "джаз", "Зутермеер", "музыка", "Нидерланды", "фьюжн"]
-image: "https://2.bp.blogspot.com/-gqODy41rxV0/Vn7LgKAJaBI/AAAAAAAAk8M/eU2egTbUn-Q/s1600/20151209_222003.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/f01g409t6sq70951.jpg"
 places:
     - place0079
 aliases:
@@ -18,7 +18,7 @@ aliases:
 
 {{< wiki "Супергруппа" "ru" "Супергруппа" >}} {{< fl "The Aristocrats" >}} была основана в 2011 году и в прошлом декабре представляла свой третий альбом {{< wiki "Tres_Caballeros" "en" "Tres Caballeros" >}}.
 
-{{< imgfig "https://2.bp.blogspot.com/-gqODy41rxV0/Vn7LgKAJaBI/AAAAAAAAk8M/eU2egTbUn-Q/s1600/20151209_222003.picasaweb.jpg" "The Aristocrats, слева направо: Guthrie Govan, Marco Minnemann, Bryan Beller." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/f01g409t6sq70951.jpg" "The Aristocrats, слева направо: Guthrie Govan, Marco Minnemann, Bryan Beller." >}}
 
 К сожалению, продемонстрировать почтенной публике по этому поводу я мало что могу.
 
@@ -35,7 +35,7 @@ aliases:
 
 По списку проектов каждого можно оценить их уровень. Наиболее ярким из «Аристократов» является, пожалуй, британский гитарист {{< wiki "Гован,_Гатри" "ru" "Гатри Гован" >}} ({{< wiki "Guthrie_Govan" "en" "Guthrie Govan" >}}) — сказать про которого, что он виртуоз, — всё равно, что ничего не сказать. Это просто нужно слышать (и видеть).
 
-{{< imgfig "https://1.bp.blogspot.com/-iEJR_3Ip7P4/Vn7Lnv-cGoI/AAAAAAAAk94/ElLzdZoMlEY/s1600/20151209_211058.picasaweb.jpg" "Guthrie Govan." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/oi4ozx0zjak40989.jpg" "Guthrie Govan." >}}
 
 Из-за дурацких новых правил «Крестьянского хозяйства» мне удалось записать лишь пару видео посредственного качества.
 

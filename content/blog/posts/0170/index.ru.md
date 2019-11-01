@@ -3,7 +3,7 @@ type: post
 date: "2012-11-23T00:00:00Z"
 title: "Metal for Mara в P60"
 tags: ["Autumn", "Kingfisher Sky", "P60", "progressive metal", "Sin7sinS", "Stream of Passion", "музыка", "Нидерланды"]
-image: "https://1.bp.blogspot.com/-1lq4CAo5qR8/UK9qJepT1GI/AAAAAAAAWAY/ppbt460_VoQ/s1600/sony-nex-ecm-sst1.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/r30jwqwu3fou1162.jpg"
 places:
     - place0001
 aliases:
@@ -22,7 +22,7 @@ aliases:
 
 Кстати, я уже некоторое время назад купил внешний микрофон для своей камеры Sony NEX-5 (ECM-SST1), и наконец-то собирался опробовать его в деле:
 
-{{< imgfig "https://1.bp.blogspot.com/-1lq4CAo5qR8/UK9qJepT1GI/AAAAAAAAWAY/ppbt460_VoQ/s1600/sony-nex-ecm-sst1.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/r30jwqwu3fou1162.jpg" >}}
 
 Пытаться записывать видео на концертах со встроенным микрофоном — совершенно бессмысленное занятие, его динамического диапазона не хватает, и звук получается [отвратительным](http://www.youtube.com/watch?v=aeyCBqpXPQs).
 
@@ -30,15 +30,15 @@ aliases:
 
 Первыми были мои старые знакомые по {{< a "0098" "прошлому" >}} концерту в том же месте [Sin7sinS](http://www.sin7sins.com/), выступавшие на разогреве у Stream of Passion.
 
-{{< imgfig "https://1.bp.blogspot.com/-yhLlfFdkqMg/UK6OO86cRDI/AAAAAAAAV7M/zX4M6SCmqtY/s1600/dsc05619.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/r0l0vb2y1tm10984.jpg" >}}
 
 Та же неистовая вокалистка Lotus в той же розовой юбке. Но на этот раз в корсете.
 
-{{< imgfig "https://1.bp.blogspot.com/-g5onqznWhbk/UK6OP95-VEI/AAAAAAAAV7U/Ho4foWVfqNU/s1600/dsc05646.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xktul0obn85q0020.jpg" >}}
 
 А вот мужики несколько сменили прикид. Нет больше противогазов, притороченных к поясу, нет кожаных фартуков и дредов в пол. Минимализм, одним словом.
 
-{{< imgfig "https://3.bp.blogspot.com/-u3FAzvzxrVo/UK6ONyVj2FI/AAAAAAAAV7I/H5bjZz1h9pA/s1600/dsc05612.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fa0861u4qkdq0323.jpg" >}}
 
 Песню под названием {{< fl "Pornstar Love" >}} из их последнего альбома {{< fl "Carnival of no Tomorrow" >}} я [записал](http://www.youtube.com/watch?v=Umwuk8DAm1c) на видео. Внешний микрофон, скажу я — это же совсем другое дело! Он почти не ловит низы (которые были супермощные и сотрясали все мои внутренние органы), но отлично записывает верхи, не перегружается и это по крайней мере можно слушать! (А без видео, кстати, вообще трудно представить, что эта группа исполняет.)
 
@@ -50,27 +50,27 @@ aliases:
 
 Группа примечательна в первую очередь своей вокалисткой Юдит Райнвелд ({{< fl "Judith Rijnveld" >}}).
 
-{{< imgfig "https://4.bp.blogspot.com/-Do46huFF9y0/UK6OYGDPdeI/AAAAAAAAV8M/CSiJ-fPGIMA/s1600/dsc05747.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/99k3smjlei0u1095.jpg" >}}
 
 Юдит брюнетка, что нетипично для голландки. Зато по-голландски рослая и в характерных голландских сапогах.
 
-{{< imgfig "https://3.bp.blogspot.com/-u9MZbVLLHlg/UK6Odn-fKDI/AAAAAAAAV84/Pqp3sYPI6-Y/s1600/dsc05785.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1xc1vm52nxpz3599.jpg" >}}
 
 Ещё группа примечательна наличием виолончелистки Маайке Пейтерсе ({{< fl "Maaike Peterse" >}}) с виолончелью и длинными светлыми волосами.
 
-{{< imgfig "https://4.bp.blogspot.com/-BCxwnro6tQk/UK6OVi9CVuI/AAAAAAAAV8A/B88klltqJFM/s1600/dsc05734.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/2f8l1ep7ihg33456.jpg" >}}
 
 Вот их волосы в сравнении:
 
-{{< imgfig "https://3.bp.blogspot.com/-SSqCSPKfFKU/UK6Oh9_VgdI/AAAAAAAAV9Q/-knkh8WYlHg/s1600/dsc05814.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/y14xlrdgsmmn0105.jpg" >}}
 
 В свободное от пения время Юдит использует волосы по прямому назначению:
 
-{{< imgfig "https://3.bp.blogspot.com/-ae8Rl8QNNxo/UK6OaOGGUyI/AAAAAAAAV8c/S_4SQDn_wPI/s1600/dsc05754.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fi521glj86di0449.jpg" >}}
 
 Музыканты из Stream of Passion сбоку от сцены скептически наблюдают за происходящим.
 
-{{< imgfig "https://2.bp.blogspot.com/-A9IS9oDzcVE/UK6Ocizy_AI/AAAAAAAAV8s/vR3FksHn70s/s1600/dsc05781.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/txp468zqftgw1636.jpg" >}}
 
 Я записал два номера Kingfisher Sky на видео.
 
@@ -90,17 +90,17 @@ aliases:
 
 Что я могу про неё сказать? Вокалистке не так повезло с внешностью, видимо, поэтому она в основном скрывалась в клубах дыма.
 
-{{< imgfig "https://2.bp.blogspot.com/-iZapj-Pd1jY/UK6Oi2_qtFI/AAAAAAAAV9U/6uQPzCZydkQ/s1600/dsc05820.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/uj1xw5lki2jn0584.jpg" >}}
 
-{{< imgfig "https://4.bp.blogspot.com/-77rbbLZcCzo/UK6Oj1wD0FI/AAAAAAAAV9g/h3hnRaQPkKY/s1600/dsc05824.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1ektci6qyhnf1549.jpg" >}}
 
 Остальные музыканты ~~были субтильного телосложения~~ выпендривались как только могли.
 
-{{< imgfig "https://1.bp.blogspot.com/-_vYRs-mHBq8/UK6Oli5-DeI/AAAAAAAAV9o/x8M6T4yZgEw/s1600/dsc05841.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/3okxh6yaxp7t2459.jpg" >}}
 
 Вокалистка тоже не отставала.
 
-{{< imgfig "https://2.bp.blogspot.com/-dR1zdqyz21A/UK6O0m8Pa-I/AAAAAAAAV-Y/SjK-JzrSkjA/s1600/dsc05853.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/g0z8rcajd3bm2128.jpg" >}}
 
 Ну, а насчёт музыки… Autumn — группа двух аккордов. Музыканты выбирают пару аккордов, которые усердно чередуют на протяжении всей песни.
 
@@ -112,11 +112,11 @@ aliases:
 
 В перерыве между выступлениями устроили небольшой аукцион, выручка от которого, разумеется, направлялась на ту же цель. Аукцион вела та же Юдит из «Кингфишер Скай». Каждая группа представила по одному предмету, вот, например, крышка от барабана Sin7sinS:
 
-{{< imgfig "https://2.bp.blogspot.com/-LIKItg7GajY/UK6Orr2DTwI/AAAAAAAAV94/Uf09BL1IXN8/s1600/dsc05855.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/p9zgh07zpkzw1665.jpg" >}}
 
 А больше всего выручили за портрет вокалистки Stream of Passion Марселы Бовио на металле — € 70:
 
-{{< imgfig "https://4.bp.blogspot.com/-4tbg62RAB2Q/UK6OvUikGWI/AAAAAAAAV-Q/A7n0STc0jPI/s1600/dsc05874.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/e2f9t7wg87s91383.jpg" >}}
 
 ## Stream of Passion {#stream-of-passion}
 
@@ -126,6 +126,6 @@ aliases:
 
 Ну да ладно, зато я сделал фото в обнимку с Марселой (с остальными стримофпэшеновцами в качестве фона). Оно того стоило.
 
-{{< imgfig "https://4.bp.blogspot.com/-n2i6z6QOmTY/UK-J35StCDI/AAAAAAAAWAs/YXeQNACW2U0/s1600/dkann.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/i6na6etk2bho3597.jpg" >}}
 
 К тому же 28 декабря я их вновь увижу. Следите за рекламой.

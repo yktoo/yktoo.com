@@ -3,7 +3,7 @@ type: post
 date: "2013-06-05T00:00:00Z"
 title: "Обзор колонок M-Audio Studiophile AV 40"
 tags: ["анбоксинг", "гаджеты", "железо", "звук", "колонки", "обзор"]
-image: "https://3.bp.blogspot.com/-WyvekvLZ7hs/Ua92x_gKFjI/AAAAAAAAZKM/J3h4vfcy9iU/s1600/SPAV40_front.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/yv8vhr4v0bm90850.jpg"
 aliases:
     - /ru/blog/post/189
 ---
@@ -18,7 +18,7 @@ aliases:
 
 В конце концов я неожиданно набрёл на студийные мониторы  [M-Audio Studiophile AV 40](http://www.m-audio.com/products/view/studiophile-av-40). Отзывы им давали прямо-таки восторженные, да и марка M-Audio мне знакома по моему студийному прошлому — очень известная и с хорошей репутацией.
 
-{{< imgfig "https://3.bp.blogspot.com/-WyvekvLZ7hs/Ua92x_gKFjI/AAAAAAAAZKM/J3h4vfcy9iU/s1600/SPAV40_front.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/yv8vhr4v0bm90850.jpg" >}}
 
 Цена же при этом более чем доступная, в Интернет-магазине я нашёл их за € 109, включая доставку. Дизайн у них, правда, аскетичный, никакого красного дерева или кожи молодого дракона, но мне ведь «ехать, а не шашечки».
 
@@ -26,57 +26,57 @@ aliases:
 
 Заказ привезли, как и обещали, на следующий день. Коробка выглядит несколько крупноватой для настольных колонок, вот она в сравнении с кредиткой:
 
-{{< imgfig "https://3.bp.blogspot.com/-xd55EQ1ru6s/Ua90PkiFcEI/AAAAAAAAZHw/NTTud8Ol_ss/s1600/dsc09515.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/3voqhij451qo2722.jpg" >}}
 
 После вскрытия выяснилось, что в магазин напихал в неё уйму защитной пузырчатой плёнки, на всякий случай.
 
-{{< imgfig "https://1.bp.blogspot.com/-TmP7KEWcE_I/Ua90S816XsI/AAAAAAAAZIA/4nQvNsmJ1zE/s1600/dsc09517.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xeipdh3xranh2250.jpg" >}}
 
 Вторая коробка, столь же невзрачная. Магазин вложил свою наклейку (для истинных фанатов, ага):
 
-{{< imgfig "https://1.bp.blogspot.com/-WZWYVZI_Ov8/Ua90Umc5qBI/AAAAAAAAZII/XsRrjoh7US8/s1600/dsc09518.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zhwryyet5vc92926.jpg" >}}
 
 Третья коробка — уже настоящая, с картинками:
 
-{{< imgfig "https://1.bp.blogspot.com/--CPPTU4bLyM/Ua90vQtuyAI/AAAAAAAAZJY/Lfz9AwSzSCo/s1600/dsc09519.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/3806w8mr4ckc2127.jpg" >}}
 
 Всё очень тщательно и аккуратно упаковано, каждая колонка отдельно:
 
-{{< imgfig "https://1.bp.blogspot.com/-dLTlOgasI8Q/Ua90a4jFdUI/AAAAAAAAZIQ/fCD0OS2InyU/s1600/dsc09520.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/e1f9gvoe0bhh2617.jpg" >}}
 
 Всё содержимое упаковки в распакованном виде: две колонки, две полиуретановые наклейки на дно колонок, три провода (джек-джек, джек-тюльпаны и двойной провод с залуженными концами для подключения правой колонки к усилителю в левой), паспорт и брошюрка по подбору и настройке мониторов:
 
-{{< imgfig "https://2.bp.blogspot.com/-PDbkj7nAp2U/Ua90cTk0OmI/AAAAAAAAZIY/755nxVfDspA/s1600/dsc09521.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/inukxzljg4j50458.jpg" >}}
 
 Левая колонка главная: в ней находится усилитель. Спереди, кроме ВЧ- и НЧ-динамика (на сленге твитера и вуфера, соответственно), регулятор громкости с кольцом, светящимся голубым светом, когда питание включено, дополнительный вход ({{< fl "Aux In" >}}) и выход на наушники, оба 3,5-мм гнёзда.
 
-{{< imgfig "https://2.bp.blogspot.com/-f4AVaUvr-Rw/Ua90dzP8o_I/AAAAAAAAZIg/Rdr4VAQznjk/s1600/dsc09522.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/x2lr4jzg5ap63032.jpg" >}}
 
 Левая колонка, вид сзади: видно отверстие фазоинвертора, балансный стереовход (два 6,3-мм гнезда) — атрибут, явно указывающий на студийное назначение колонок, обычный стереовход RCA («тюльпаны»), пружинные зажимы выхода на правую колонку, выключатель питания (да, здесь он расположен сзади) и сетевой шнур:
 
-{{< imgfig "https://4.bp.blogspot.com/-pmG6bp3O7q8/Ua90h29gaDI/AAAAAAAAZIo/NUgmC-3mNtA/s1600/dsc09523.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9szlden4fd301379.jpg" >}}
 
 К расположению выключателя питания у меня претензий нет, колонки всё равно включаются автоматически при включении компьютера при помощи «умного» удлинителя. А вот за то, что блок питания встроен, большое человеческое спасибо разработчикам, а то от всех этих отдельных адаптеров уже деваться некуда.
 
 Правая колонка, вид спереди — кроме динамиков нет ничего:
 
-{{< imgfig "https://4.bp.blogspot.com/-Jz_e8t7Amb8/Ua90j8ELRVI/AAAAAAAAZIw/UYfdRNixm4M/s1600/dsc09524.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/u6haes9fzocw2199.jpg" >}}
 
 Вид сзади. Фазоинвертор и вход, подключаемый к выходу на левой колонке:
 
-{{< imgfig "https://1.bp.blogspot.com/-KXdBHcrcLs8/Ua90lZ6oKyI/AAAAAAAAZI4/bDXjnpQiF08/s1600/dsc09525.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/447qor1q9h371885.jpg" >}}
 
 Подключение колонок — дело совершенно нехитрое. Для удобства я подключил колонки через внешнюю звуковую карту Creative Xmod X-Fi, завалявшуюся у меня с давних пор. На ней есть большой регулятор громкости, при нажатии на который ещё и отключается звук (mute). Вот финальный результат (Creative X-Fi — слева):
 
-{{< imgfig "https://3.bp.blogspot.com/-_MSYt74ec2Y/Ua90nF6yuGI/AAAAAAAAZJA/hSfUbKGfpCo/s1600/dsc09528.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0g2s9qhv194c2927.jpg" >}}
 
 Неожиданно очень интересной и полезной оказалась приложенная брошюрка, посвящённая выбору, установки и настройке колонок в студии.
 
-{{< imgfig "https://3.bp.blogspot.com/-MX4VTobfgNA/Ua90oy4KYTI/AAAAAAAAZJI/MtZQwo8Tu_Q/s1600/dsc09529.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/yb1p2xfx1cuc0238.jpg" >}}
 
 В ней, как ни странно, практически нет рекламы M-Audio, а всё сплошь практические советы по правильному расположению мониторов в студии, устранению паразитных вибраций и лишних отражений звука и т. п.
 
-{{< imgfig "https://3.bp.blogspot.com/-esthLEdzIow/Ua90qblBsjI/AAAAAAAAZJQ/eQtoIR_H0zk/s1600/dsc09530.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/f4tj84kvuea92976.jpg" >}}
 
 С интересом прочитав её целиком, я понял, что идеальной конфигурации мне не достичь. Колонки должны располагаться на стойках, не менее 30 см от задней стены и с разным расстоянием до задней и до боковой стены, на высоте уха слушателя, образуя с его головой равносторонний треугольник и т. п.
 

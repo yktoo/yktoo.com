@@ -10,7 +10,7 @@ tags:
     - статистика
     - стереотипы
     - ВОЗ
-image: "https://1.bp.blogspot.com/-macoyPAu9Ag/XZXsEzHHDQI/AAAAAAAAyWI/u-caEW8wS5cEEEtwKAjl10Si8r8euijywCKgBGAsYHg/s1600/drinking.webp"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/wylp3aziw05n1088.webp"
 imageCredit: "Фото: Pratik Gupta."
 ---
 

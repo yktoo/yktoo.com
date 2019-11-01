@@ -8,7 +8,7 @@ tags:
     - car
     - Internet
     - OVI
-image: "https://lh3.googleusercontent.com/KWkM5HjDU8F5ZtEjILZcSxxnyW_p3NyhU7Q35uvzGwjmwAO9_HofoimFL-ho63LbIGtgOSqTiZCtvFzzwX5sZ34DXAwqV9kDuL_GiruZ4XrN-J2XtWsRA4WK664xmz5CI2zHHfGqDq2YUMyaLLfh_kf_RvFK2_niYXs4L9xKZSHWmQGXHTcWh7QlxHsNlGOfJFuks6xllBNpArTFQaa2_8pzpA261_ZYDry059mgqRLqHRcGFfBDGI3DlM83OB4v0JXfGeVd9ITAIXrDCoq4L5mthoG4pApRrOOnz0lNy8IIjT6AHEikQTW1uo5X6v_4eLpX3pp58HasHWG_BpdzMA_fnR_OrCB0rFfNS3_gUAalStc8Eat0V81c6VF4-fcIzJMmM8Age9koXUQGJYsMBm5_gmluQWl5tARhZqxkBU8qJGIOkBDqqOtgcEBfyZwUy2kW_mBLcJocBSHuYVKvYr37Vubb9q_a8Ro633sPgwRByFF69K1CTw2CvAcjjh1QquiGDG9IJdqbjfLiS1KhAdeZj3Qjbz9wr98EkO5X35wEjiOPrfvmcLuUXCsTbEX3HKJ-ble3WENNjyyrIM45KSYPlPRpe0EVPir6Xth0OrBPt8EgD3MDFzvHRnEsaMqIWskMlx2oXV1qatI2cR0b5OZbqg1VcvMX=w1502-h847-no"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/4lmxutacrkgv3303.jpg"
 ---
 
 The Netherlands has a public service that provides information about nearly any vehicle registered in the country, given its number plate.
@@ -23,7 +23,7 @@ Just for your information, in Holland a number plate is always associated with a
 
 So let's take my first {{< a "0028" "leased Toyota" "ru" >}} from this twelve-year-old photo as an example:
 
-{{< imgfig "https://3.bp.blogspot.com/-HoibkPanFp0/T420BAgqzqI/AAAAAAAAO_s/eyuRJT6NOl0/s1600/imgp1525.picasaweb.jpg" "Toyota Prius 2009 with me posing." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/jypcrqe2jvtr2307.jpg" "Toyota Prius 2009 with me posing." >}}
 
 Type in `16HDK2` in the {{< fl "Kenteken" >}} field at the {{< a "https://ovi.rdw.nl/" "OVI page" >}} and you'll get the following:
 
@@ -42,7 +42,7 @@ Another thing that might prove useful is the mileage reading classification (*lo
 
 Here's another one, a piece of history spotted somewhere in the nearby woods:
 
-{{< imgfig "https://lh3.googleusercontent.com/KWkM5HjDU8F5ZtEjILZcSxxnyW_p3NyhU7Q35uvzGwjmwAO9_HofoimFL-ho63LbIGtgOSqTiZCtvFzzwX5sZ34DXAwqV9kDuL_GiruZ4XrN-J2XtWsRA4WK664xmz5CI2zHHfGqDq2YUMyaLLfh_kf_RvFK2_niYXs4L9xKZSHWmQGXHTcWh7QlxHsNlGOfJFuks6xllBNpArTFQaa2_8pzpA261_ZYDry059mgqRLqHRcGFfBDGI3DlM83OB4v0JXfGeVd9ITAIXrDCoq4L5mthoG4pApRrOOnz0lNy8IIjT6AHEikQTW1uo5X6v_4eLpX3pp58HasHWG_BpdzMA_fnR_OrCB0rFfNS3_gUAalStc8Eat0V81c6VF4-fcIzJMmM8Age9koXUQGJYsMBm5_gmluQWl5tARhZqxkBU8qJGIOkBDqqOtgcEBfyZwUy2kW_mBLcJocBSHuYVKvYr37Vubb9q_a8Ro633sPgwRByFF69K1CTw2CvAcjjh1QquiGDG9IJdqbjfLiS1KhAdeZj3Qjbz9wr98EkO5X35wEjiOPrfvmcLuUXCsTbEX3HKJ-ble3WENNjyyrIM45KSYPlPRpe0EVPir6Xth0OrBPt8EgD3MDFzvHRnEsaMqIWskMlx2oXV1qatI2cR0b5OZbqg1VcvMX=w1502-h847-no" "Austin 3000 MK II." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/4lmxutacrkgv3303.jpg" "Austin 3000 MK II." >}}
 
 The results of the query:
 

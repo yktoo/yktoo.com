@@ -9,7 +9,7 @@ tags:
     - контейнеры
     - разработка
     - БД
-image: "https://3.bp.blogspot.com/-KfGkUuzJYBQ/WzpDheKD1ZI/AAAAAAAAsqo/H970WSIWmPgOu7qEpqPfUHUDIljzALuigCKgBGAs/s1600/mysql.png"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/6ksp2zl5yoy52890.png"
 aliases:
     - /ru/blog/post/339
 ---

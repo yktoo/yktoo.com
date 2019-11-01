@@ -8,14 +8,14 @@ tags:
     - мусор
     - Нидерланды
     - экология
-image: "https://2.bp.blogspot.com/-jL2wyfC1WDw/VyTmayHUOLI/AAAAAAAAl5I/hBBZ6CFkK18OwexqP5wAcgXIH67pwrB9QCKgB/s1600/20160429_171914.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/4xn0jktq1kam2729.jpg"
 aliases:
     - /ru/blog/post/276
 ---
 
 {{< wiki "Закон_Мура" "ru" "Закон Мура" >}} на пару с китайским электропромом добавляют всё новые ступеньки в {{< a "0093" "лестницу Лансинка" >}}. Отныне помимо секций для использованных батареек и энергосберегающих ламп (относящихся к категории {{< fl "klein chemisch afval" >}}, то есть мелкий химический мусор), в продуктовых магазинах сети {{< fl "Albert Heijn" >}} добавили специальный отсек для использованных телефонов!
 
-{{< imgfig "https://2.bp.blogspot.com/-jL2wyfC1WDw/VyTmayHUOLI/AAAAAAAAl5I/hBBZ6CFkK18OwexqP5wAcgXIH67pwrB9QCKgB/s1600/20160429_171914.picasaweb.jpg" "Гаджетоприёмник." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/4xn0jktq1kam2729.jpg" "Гаджетоприёмник." >}}
 
 <!--more-->
 

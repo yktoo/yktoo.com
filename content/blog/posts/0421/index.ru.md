@@ -8,7 +8,7 @@ tags:
     - полезные советы
     - софт
     - PDF
-image: "https://1.bp.blogspot.com/-vgNEZhAFYIQ/XZ83SpPbj3I/AAAAAAAAylo/cI3jqDFFntckOursM9-wzxWRXCyLs72wwCKgBGAsYHg/s1600/2019-10-10_xournal.png"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/25bk9kz1ii4s2514.png"
 ---
 
 В рамках всеобщей экологической истерии внесу и свои пять копеек во имя будущего своих и чужих внуков.
@@ -37,7 +37,7 @@ sudo apt install xournal
 
 Программу можно использовать в качестве блокнота для рисования и заметок, но для меня наибольшая её ценность в возможности помещать аннотации поверх любого {{< fl "PDF" >}}-документа — просто откройте {{< fl "PDF" >}} и вперёд:
 
-{{< imgfig "https://1.bp.blogspot.com/-vgNEZhAFYIQ/XZ83SpPbj3I/AAAAAAAAylo/cI3jqDFFntckOursM9-wzxWRXCyLs72wwCKgBGAsYHg/s1600/2019-10-10_xournal.png" "Xournal: проще способа для аннотирования PDF не существует." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/25bk9kz1ii4s2514.png" "Xournal: проще способа для аннотирования PDF не существует." >}}
 
 Файл на скриншоте выше — это **666**-страничный доклад {{< fl "WEF" >}} из {{< a "0419" "моего поста" >}}, с которым {{< fl "Xournal" >}} справляется просто на ура.
 

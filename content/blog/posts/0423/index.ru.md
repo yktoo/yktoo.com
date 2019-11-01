@@ -10,7 +10,7 @@ tags:
     - Tesla
     - электромобили
     - рекорд
-image: "https://1.bp.blogspot.com/-a3nr_7J1A4Y/XaGkQjNvmYI/AAAAAAAAyo4/nhPXIAh6DIsnd_vfQ_5PXzTSTeEI7SkLgCKgBGAsYHg/s1600/2019-10-12.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/h98r9n3j8zcp1695.jpg"
 imageCredit: "Фото: tesla.com."
 ---
 
@@ -20,7 +20,7 @@ imageCredit: "Фото: tesla.com."
 
 <!--more-->
 
-{{< imgfig "https://1.bp.blogspot.com/-a3nr_7J1A4Y/XaGkQjNvmYI/AAAAAAAAyo4/nhPXIAh6DIsnd_vfQ_5PXzTSTeEI7SkLgCKgBGAsYHg/s1600/2019-10-12.jpg" "Tesla Model 3. Фото: tesla.com." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/h98r9n3j8zcp1695.jpg" "Tesla Model 3. Фото: tesla.com." >}}
 
 ## Цифры продаж
 

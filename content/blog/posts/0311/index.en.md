@@ -4,7 +4,7 @@ date: "2017-02-21T00:00:00Z"
 title: "The birth of Yktoo Solutions"
 series: "My entrepreneurship"
 tags: ["business", "entrepreneurship", "freelance", "Netherlands", "taxes", "work", "Yktoo Solutions"]
-image: "https://1.bp.blogspot.com/-XCYqqwYaPbs/WCo7vX_qTiI/AAAAAAAAoPA/hDBojNJO1Pk9pRHGq7L6hQCzTBd_bIaCACPcB/s1600/20161105_211814.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/71f5vydx1e672802.jpg"
 aliases:
     - /en/blog/post/311
 ---
@@ -17,13 +17,13 @@ Let me start with circumstances that pushed me in this direction. In 2016, in th
 
 I tend to think that it's better to regret what you have done than what you haven't, and after weighing the {{< a "0309" "pros and cons" >}} I've set the wheels in motion. On the 1<sup>st</sup> of October, 2016 my {{< fl "eenmanszaak" >}} was born at the [Chamber of Commerce](https://www.kvk.nl/). The delivery proved nice and easy, the newborn {{< fl "bedrijf" >}} has been christened as **Yktoo Solutions**.
 
-{{< imgfig "https://1.bp.blogspot.com/-iaEVkAOTeVs/WKlzptmLZ-I/AAAAAAAApQ0/W-rdGWrQhbI0mT6IfVvmr2qhM5F7-YTewCPcB/s1600/Yktoo-Solutions-logo.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/29qxi5jq3ilc0481.png" >}}
 
 In general one can pick any name for their business, provided that it isn't misleading or repeating any of the existing ones. An example of a misleading name is one that is based on a name that isn't yours (like "Johnson & Sons" if your name is not Johnson) or misrepresents the size or industry of the business ("Paradise Cleaning Industries" for a private house cleaner).
 
 My company's name was totally alright; the word *solutions* is very common in IT consulting. I've also registered the domain `yktoo.solutions` (many people still get surprised that such a {{< wiki "Top-level_domain" "en" "TLD" >}} exists) and developed a simple [website](https://www.yktoo.solutions/) for it. It's nice to cherish and nurture your own newborn business.
 
-{{< imgfig "https://1.bp.blogspot.com/-XCYqqwYaPbs/WCo7vX_qTiI/AAAAAAAAoPA/hDBojNJO1Pk9pRHGq7L6hQCzTBd_bIaCACPcB/s1600/20161105_211814.picasaweb.jpg" "Yktoo Solutions business cards." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/71f5vydx1e672802.jpg" "Yktoo Solutions business cards." >}}
 
 ## Learning is key {#learning}
 
@@ -41,21 +41,21 @@ Every few months the {{< fl "KvK" >}} organises a free "Starter's Day" ({{< fl "
 
 Last November I've attended one of such events in Utrecht.
 
-{{< imgfig "https://1.bp.blogspot.com/-Eki7kXjgv2k/WCo7vUGvE5I/AAAAAAAAoPA/6ehaYzYB0MADbj79jW0RFyptuwQ220B9QCPcB/s1600/20161105_100446.picasaweb.jpg" "KvK Startersdag." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ckggz1nifg4j3612.jpg" "KvK Startersdag." >}}
 
 ## "The Digital Workplace" {#digitale-werkplaats}
 
 And in December I was invited by Google to another seminar called "The Digital Workplace" ([De Digitale Werkplaats](https://digitalewerkplaats.withgoogle.com/)).
 
-{{< imgfig "https://3.bp.blogspot.com/-bSXnAmKehwc/WKxwnAuMq0I/AAAAAAAApSE/B8VOjKSTTPgyqaseDrU9ifNR0YGkGJLcQCPcB/s1600/20161213_155655.picasaweb.jpg" "Google's Digital Workplace: participant's badge." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/bto45v4vedut3418.jpg" "Google's Digital Workplace: participant's badge." >}}
 
 The company puts a lot of effort into promoting "search literacy" and, of course, their advertising services.
 
-{{< imgfig "https://4.bp.blogspot.com/-Mg6vyN6KDeQ/WKxwnE-Zc6I/AAAAAAAApSE/NYO2PpLXvc4_qVy7mrOm3ue4wjRuwxsOQCPcB/s1600/20161213_155811.picasaweb.jpg" "Google's Digital Workplace." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/rykg8jz4udcr1415.jpg" "Google's Digital Workplace." >}}
 
 There were a number of lectures on various subjects: how to build website navigation in the right way, the effective use of the Webmaster's Tools and Google Analytics, how to advertise etc. That all in Dutch, too—the speakers were Dutch Googlers who came from their development centre in Dublin specifically for this event.
 
-{{< imgfig "https://1.bp.blogspot.com/-Pr10Soqileg/WKxwnBmTafI/AAAAAAAApSE/q5pEC34ffVwh3kr7Ld_k7cfB6xnO4UGGwCPcB/s1600/20161213_160002.picasaweb.jpg" "'A successful website.'" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ppckgu1d3spl3646.jpg" "'A successful website.'" >}}
 
 ## Never stop learning {#keep-learning}
 

@@ -3,7 +3,7 @@ type: post
 date: "2017-06-03T00:00:00Z"
 title: "Полумарафон Ijsselstijnloop"
 tags: ["Ijsselsteinloop", "Айсселстайн", "бег", "Нидерланды", "полумарафон", "спорт"]
-image: "https://3.bp.blogspot.com/-FaAglU8-2vA/WTMIq7J8EqI/AAAAAAAAqEg/B8JUhHQIXTY9l08MmxNmfVYvvcZoj6_dACKgB/s1600/dsc05191.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/elqndv0yg6bk2335.jpg"
 aliases:
     - /ru/blog/post/327
 ---
@@ -12,13 +12,13 @@ aliases:
 
 <!--more-->
 
-{{< imgfig "https://3.bp.blogspot.com/-FaAglU8-2vA/WTMIq7J8EqI/AAAAAAAAqEg/B8JUhHQIXTY9l08MmxNmfVYvvcZoj6_dACKgB/s1600/dsc05191.picasaweb.jpg" "Медаль Ijsselsteinloop." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/elqndv0yg6bk2335.jpg" "Медаль Ijsselsteinloop." >}}
 
 Забег предсказуемо назывался [Ijsselsteinloop](http://www.ijsselsteinloop.nl/) («забег по Айсселстайну»).
 
 Результат не рекордный: **1:49:01**, но это лишь на минуту дольше, чем в {{< a "0320" "прошлый раз в De Haar" >}}. Что вовсе не плохо, учитывая жару и влажность, как в финской сауне. Мы ещё и под ливень попали!
 
-{{< imgfig "https://2.bp.blogspot.com/-S9RVAnvCny4/WTMMcAmmucI/AAAAAAAAqEs/yl7cB-nbBOMH2XHALcJxONkr-XG3dxqhwCKgB/s1600/ijsselsteinloop-2017-06-03-10-14-16.929797.picasaweb.jpg" "Автор на финише." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/we8r7srmubcu1120.jpg" "Автор на финише." >}}
 
 Итог: **123** место (из **307**) среди мальчиков.
 

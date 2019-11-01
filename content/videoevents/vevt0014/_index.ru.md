@@ -5,7 +5,7 @@ dateFrom: 2013-06-21
 dateTo: 2013-06-23
 location: "Amersfoort, Netherlands"
 websiteUrl: "http://www.havikconcert.nl/"
-image: "https://lh3.googleusercontent.com/-nByW36aCY-k/UhoHzQrFKLI/AAAAAAAAZT4/KCqPszDpnaM/s1600/dsc09569.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/dymd3io664yb1319.jpg"
 videocategories: music
 posts: ""
 ---

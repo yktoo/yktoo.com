@@ -3,7 +3,7 @@ type: post
 date: "2015-08-04T00:00:00Z"
 title: "Russian Post, or Welcome to Hell"
 tags: ["frustrating", "reflections", "Russia", "Russian Post", "Tyumen"]
-image: "https://3.bp.blogspot.com/-W6K6Y48Ng78/WK3Ftl6QKHI/AAAAAAAApTw/h87hO4UcsCs9md19g80Di-Ib3RM51bdpgCPcB/s1600/russian-post.png"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/new4gypsrl3s0309.png"
 aliases:
     - /en/blog/post/257
 ---
@@ -12,7 +12,7 @@ I have to admit that the Russian Post has well earned its popular nickname "Hell
 
 <!--more-->
 
-{{< imgfig "https://3.bp.blogspot.com/-W6K6Y48Ng78/WK3Ftl6QKHI/AAAAAAAApTw/h87hO4UcsCs9md19g80Di-Ib3RM51bdpgCPcB/s1600/russian-post.png" "This must be Russian Post logo. Source: novayagazeta.ru." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/new4gypsrl3s0309.png" "This must be Russian Post logo. Source: novayagazeta.ru." >}}
 
 This summer I was visiting Russia, as usual, to meet my family and friends in Tyumen. There was, however, a difference in my status. Since I'm now a {{< a "0219" "Dutch citizen" >}}, I needed a Russian visa (obtaining which is a {{< a "0258" "whole other story" >}}).
 

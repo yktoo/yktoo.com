@@ -3,7 +3,7 @@ type: post
 date: "2011-10-12T00:00:00Z"
 title: "Minority report"
 tags: ["Apple", "Richard Stallman", "RIP", "Steve Jobs"]
-image: "https://1.bp.blogspot.com/-nEj2DlhaKyI/TpYFeyg_tjI/AAAAAAAAJ70/6aSt6AXxBDU/s1600/apple-n-jobs.png"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/5e9abeijm80y2461.png"
 aliases:
     - /en/blog/post/121
 ---
@@ -28,4 +28,4 @@ Armed and Dangerous blog's author recaps in his post [On Steve Jobs’s passing]
 
 > Our best hope to keep the good parts of Jobs’s legacy and shed the bad is that his successors will prove far less competent. Tim Cook is not the raucous buffoon that Steve Ballmer is, but neither has he ever been accused of grand vision or the kind of dangerous charisma that Jobs wielded like a blade. Without the Jobs magic, it seems likely that the cultism around Apple will subside. Perhaps the threat to freedom will subside with it.
 
-{{< imgfig "https://1.bp.blogspot.com/-nEj2DlhaKyI/TpYFeyg_tjI/AAAAAAAAJ70/6aSt6AXxBDU/s1600/apple-n-jobs.png" "Image ©Jonathan Mak" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/5e9abeijm80y2461.png" "Image ©Jonathan Mak" >}}

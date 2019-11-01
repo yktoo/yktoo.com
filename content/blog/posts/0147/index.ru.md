@@ -4,7 +4,7 @@ date: "2012-04-06T00:00:00Z"
 title: "Часть 4. Замок Reinhardstein"
 series: "Южная Бельгия"
 tags: ["Бельгия", "замок", "путешествия", "Райнхардштайн"]
-image: "https://2.bp.blogspot.com/-USy6u7DJPZI/T2pdr14-_7I/AAAAAAAAM1k/FeUMgqm8ZlQ/s1600/dsc09689.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/15plm9roumqp0814.jpg"
 places:
     - place0062
 aliases:
@@ -13,13 +13,11 @@ aliases:
 
 Насмотревшись {{< a "0146" "всякого" >}}, в последний день мы решили заехать в раскрученный замок с совершенно небельгийским названием Райнхардштайн ([Reinhardstein](http://www.reinhardstein.net/), по-французски {{< fl "Château de Reinhardstein" >}}, по-немецки {{< fl "Burg Reinhardstein" >}}). Замок этот был построен в 1354 году вассалом герцога Люксембурга Венцеля I, которого звали Райнхард Вемский ({{< fl "Reinhard von Weismes" >}}) — отсюда и название, у люксембуржцев с этим строго.
 
-{{< imgfig "https://2.bp.blogspot.com/-USy6u7DJPZI/T2pdr14-_7I/AAAAAAAAM1k/FeUMgqm8ZlQ/s1600/dsc09689.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/15plm9roumqp0814.jpg" >}}
 
 <!--more-->
 
 От парковки до замка нужно идти километра полтора, что обернулось некоторыми трудностями тем, кто носит каблуки.
-
-{{< imgfig "https://3.bp.blogspot.com/-TPI_LU_Bjv8/T2pYZxakJbI/AAAAAAAANGY/UH6GnNqsHkM/s1600/dsc09632.picasaweb.jpg" >}}
 
 В соответствии с бельгийскими традициями, входы во все мало-мальски интересные части замка были завешаны цепочками, и пройти туда можно было, только заказав экскурсию. При этом экскурсии проводятся лишь в выходные, дважды в день, в 11:15 и 14:30, на французском и голландском и стоят €6,50 с человека. Мы решили взять от жизни всё, так что приехали к началу экскурсии.
 
@@ -31,27 +29,27 @@ aliases:
 
 Справедливый суд, он же здание администрации поселения:
 
-{{< imgfig "https://4.bp.blogspot.com/-dq0Ug1IV8KE/T2pX9RsFVkI/AAAAAAAAMSA/PAEdlXN3QSU/s1600/dsc09674.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/w7u9y7jck6go3350.jpg" >}}
 
 Гид подолгу останавливался в каждой комнате и рассказывал подробности каждой детали в ней на своём франкоголландском. Например, почему одежду хранили в сундуках, когда платяных шкафов ещё не изобрели: чтобы не мялась. Потом один ~~умник~~ изобретатель изобрёл сундук на подставке, чтобы было проще её доставать.
 
 Предложил детям померять шлемы того времени:
 
-{{< imgfig "https://2.bp.blogspot.com/-Cd-nSolRU1A/T2pc-gdzmCI/AAAAAAAANW0/yela-qBbpBM/s1600/dsc09714.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0e8rahehs1gm1071.jpg" >}}
 
 Я поднял один из этих шлемов — он вытягивает килограмм на пятнадцать, не меньше.
 
 Это помещение для отправления церковной службы (как оно называется?):
 
-{{< imgfig "https://3.bp.blogspot.com/-ngbkSM7Q8SQ/T2pd9rdJaaI/AAAAAAAANWs/OGalg9LXsHg/s1600/dsc09716.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fr7a1hcuoq970796.jpg" >}}
 
 Всё очень такое каменное, даже туалет, который, кстати, построен прямо над ручьём:
 
-{{< imgfig "https://4.bp.blogspot.com/-8shH0RqMLnk/T2pZGGtewMI/AAAAAAAANFs/TPJDkymjPZ4/s1600/dsc09661.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1g7uh6azgqol1477.jpg" >}}
 
 Не самое уютное жильё, надо признать, хотя посмотреть очень интересно.
 
-{{< imgfig "https://4.bp.blogspot.com/-EStOsCmm2_M/T2pYooXquCI/AAAAAAAAMWA/JsnEd80c0Fs/s1600/dsc09697.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hqxd5c7w0g270778.jpg" >}}
 
 Это была последняя наша остановка на пути домой (ура-ура!).
 

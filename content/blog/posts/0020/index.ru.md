@@ -3,7 +3,7 @@ type: post
 date: "2008-07-05T00:00:00Z"
 title: "Китайско-шведские голландцы"
 tags: ["Амерсфорт", "еда", "Нидерланды", "рестораны"]
-image: "https://2.bp.blogspot.com/-gn2KBmL6DPs/T43K95W9WLI/AAAAAAAAPDo/tsEteruUvR8/s1600/a1plaza.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/u26vqzng9v5x2310.jpg"
 places:
     - place0159
 aliases:
@@ -12,7 +12,7 @@ aliases:
 
 Окончание учебного сезона на айкидо единогласно решено было отметить посещением китайского ресторана со свободной раздачей (то, что у нас принято называть «шведским столом»).
 
-{{< imgfig "https://2.bp.blogspot.com/-gn2KBmL6DPs/T43K95W9WLI/AAAAAAAAPDo/tsEteruUvR8/s1600/a1plaza.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/u26vqzng9v5x2310.jpg" >}}
 
 <!--more-->
 

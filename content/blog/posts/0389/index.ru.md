@@ -7,7 +7,7 @@ tags:
     - различия
     - электроэнергия
     - менталитет
-image: "https://1.bp.blogspot.com/-V8fZuU8ARGQ/XYYC_vPlCkI/AAAAAAAAx20/AWqUHl2_dCYVxX13MCKB9Jlh9iWgQvrVQCKgBGAsYHg/s1600/light-bulb-3104355_1280.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/125yr7w3h5mi2753.jpg"
 imageCredit: "Фото: ColiN00B."
 series: Разнимся
 ---

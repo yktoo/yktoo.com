@@ -8,7 +8,7 @@ tags:
     - tips & tricks
     - software
     - PDF
-image: "https://1.bp.blogspot.com/-vgNEZhAFYIQ/XZ83SpPbj3I/AAAAAAAAylo/cI3jqDFFntckOursM9-wzxWRXCyLs72wwCKgBGAsYHg/s1600/2019-10-10_xournal.png"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/25bk9kz1ii4s2514.png"
 ---
 
 Joining the mass sustainability ~~hysteria~~ spree, I'd like to put my two cents into the future of my and others' grandchildren.
@@ -37,7 +37,7 @@ There's also a {{< a "https://snapcraft.io/xournalpp" "snap" >}} available.
 
 You can use this program as a notepad for drawings and notes, but in my opinion it's **PDF annotation** feature is where it really shines. All you need to do is open a PDF and there you go:
 
-{{< imgfig "https://1.bp.blogspot.com/-vgNEZhAFYIQ/XZ83SpPbj3I/AAAAAAAAylo/cI3jqDFFntckOursM9-wzxWRXCyLs72wwCKgBGAsYHg/s1600/2019-10-10_xournal.png" "Xournal: annotating PDF has never been simpler." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/25bk9kz1ii4s2514.png" "Xournal: annotating PDF has never been simpler." >}}
 
 On the screenshot above, *Xournal* easily manages the **666**-page {{< a "http://www3.weforum.org/docs/WEF_TheGlobalCompetitivenessReport2019.pdf" "WEF report" >}} without a single hiccup.
 

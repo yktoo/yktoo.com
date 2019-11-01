@@ -9,7 +9,7 @@ tags:
     - законодательство
     - штрафы
     - транспорт
-image: "https://1.bp.blogspot.com/-j-TxD_Rhj18/XZt9QxQalTI/AAAAAAAAybQ/ooMze2n_zXY51dZFo4ZQuNUMBC_gCrKYACKgBGAsYHg/s1600/2019-10-07.webp"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/mx464xbqhw451104.webp"
 imageCredit: "Фото: melissa mjoen."
 ---
 

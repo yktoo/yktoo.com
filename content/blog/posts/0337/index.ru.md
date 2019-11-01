@@ -3,7 +3,7 @@ type: post
 date: "2018-06-21T00:00:00Z"
 title: "Интернет в полгигабита"
 tags: ["Интернет", "Нидерланды"]
-image: "https://3.bp.blogspot.com/-MHYz8pI3ihA/WyqlKKwNomI/AAAAAAAAsmY/a4Y2HPzUwegoAJDVPMNpGMfln9GbADMLwCKgBGAs/s1600/kpn-internet-500-mbit.png"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/atqcdi8ojume2133.png"
 aliases:
     - /ru/blog/post/337
 ---
@@ -20,12 +20,12 @@ aliases:
 
 И вот, вуаля — честные полгигабита в секунду!
 
-{{< imgfig "https://3.bp.blogspot.com/-MHYz8pI3ihA/WyqlKKwNomI/AAAAAAAAsmY/a4Y2HPzUwegoAJDVPMNpGMfln9GbADMLwCKgBGAs/s1600/kpn-internet-500-mbit.png" "«Быстрее, чем у 99% в Нидерландах»." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/atqcdi8ojume2133.png" "«Быстрее, чем у 99% в Нидерландах»." >}}
 
 Правда, не обошлось и без заморочек. В момент, когда мне пришло сообщение, что новый план вступил в силу, в доме пропал Интернет, совсем. Служба техподдержки провайдера позадавала мне вопросы и заключила, что отказал модем. Мне такое совпадение показалось слижком уж невероятным, особенно учитывая, что модем оптический, а не проводной — чем они его могли убить? Но ладно, решил я, посмотрим, что будет, когда его заменят.
 
 Загадка разъяснилась на следующий день, когда техник установил новый девайс, выглядящий почти один-в-один как прежний, за исключением надписи {{< fl "Gigabit" >}}:
 
-{{< imgfig "https://1.bp.blogspot.com/-YJXd10l-QKg/Wyq9H6RE52I/AAAAAAAAsnY/ND06cmuOshotMrvw6YPXClqe7Ek4KCn3gCKgBGAs/s1600/20180620_220715.picasaweb.jpg" "Гигабитный оптоволоконный модем." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xhiqu6ktr06y1749.jpg" "Гигабитный оптоволоконный модем." >}}
 
 Очевидно, старый модем не поддерживал такую скорость и поэтому просто отказался работать.

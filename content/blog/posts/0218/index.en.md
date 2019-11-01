@@ -4,7 +4,7 @@ date: "2014-02-08T00:00:00Z"
 title: "1.2.1"
 series: "Sound Switcher Indicator"
 tags: ["indicator", "Precise Pangolin", "PulseAudio", "Python", "Quantal Quetzal", "Raring Ringtail", "Saucy Salamander", "sound", "Sound Switcher Indicator", "Trusty Tahr", "Ubuntu", "Unity"]
-image: "https://1.bp.blogspot.com/-p_jKIQD-wJ4/UvZeMTHsmYI/AAAAAAAAb1g/DYm853qnCjw/s1600/indicator-sound-switcher.png"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/64k0x3l8omtq0538.png"
 software: sound-switcher-indicator
 aliases:
     - /en/blog/post/218
@@ -28,7 +28,7 @@ So I found out, for instance, that the indicator is also popular with old Ubuntu
       * **13.10** ({{< fl "Saucy Salamander" >}})
       * **14.04** LTS ({{< fl "Trusty Tahr" >}}) — tested in Trusty Alpha 2.
 * A default program icon has been added. It will be picked up in the case a non-standard desktop theme is used. I've turned up the contrast a little bit to make it work with both light and dark themes:
-  {{< imgfig "https://1.bp.blogspot.com/-p_jKIQD-wJ4/UvZeMTHsmYI/AAAAAAAAb1g/DYm853qnCjw/s1600/indicator-sound-switcher.png" >}}
+  {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/64k0x3l8omtq0538.png" >}}
 
 ## Installation
 

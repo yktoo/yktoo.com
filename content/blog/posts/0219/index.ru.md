@@ -9,7 +9,7 @@ tags:
     - Нидерланды
     - церемония натурализации
     - паспорт
-image: "https://4.bp.blogspot.com/-Npa6ZmmTZbM/U3EbMhvYXQI/AAAAAAAAdTk/JY3TQ2pmC9c/s1600/IMG_20140512_205856.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/8303fff0jigd0066.jpg"
 aliases:
     - /ru/blog/post/219
 ---
@@ -18,7 +18,7 @@ aliases:
 
 Случилось неизбежное: моё путешествие в параллельную реальность, {{< a "0001" "начавшееся" >}} ровно шесть лет назад, наконец-то получило логическое завершение. Намедни я официально стал голландцем, гражданином Королевства Нидерландов.
 
-{{< imgfig "https://4.bp.blogspot.com/-Npa6ZmmTZbM/U3EbMhvYXQI/AAAAAAAAdTk/JY3TQ2pmC9c/s1600/IMG_20140512_205856.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/8303fff0jigd0066.jpg" >}}
 
 <!--more-->
 
@@ -50,44 +50,44 @@ aliases:
 
 Вот и здесь встречает типично голландская атмосфера расслабленности и приветливости: улыбающиеся девушки угощают пирожными:
 
-{{< imgfig "https://1.bp.blogspot.com/-VLrL2ffN43o/U1TMqx_jXyI/AAAAAAAAclM/77cvbH7eiiY/s1600/dsc03568.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/qfc69d95elbx2897.jpg" >}}
 
 Голландцы никак не могут без кофе, и муниципалитет даже обзавёлся собственными чашками:
 
-{{< imgfig "https://3.bp.blogspot.com/-MOdYTDUSfnM/U1TMsadoU5I/AAAAAAAAclU/X88OeESJcjw/s1600/dsc03569.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/p8rvdao3ures0491.jpg" >}}
 
 В назначенный час натурализующихся проводят в зал официальных заседаний, где на столах уже расставлены таблички с именами, все по алфавиту. Сотрудник муниципалитета объясняет собравшимся, как всё будет происходить — собравшиеся слушают вполуха.
 
-{{< imgfig "https://2.bp.blogspot.com/-FExOIwy1d-E/U1TMtv0h2MI/AAAAAAAAclc/sNsXPIfYm_c/s1600/dsc03570.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/3v4z9nn0s4cp1731.jpg" >}}
 
 Всего проходят церемонию 31 человек, среди которых преобладают турки, арабы и прочие африканцы. Из рождённых в СССР — я один.
 
-{{< imgfig "https://4.bp.blogspot.com/-NSWDOltzEYY/U1TMxxiNRlI/AAAAAAAAcl0/h8x_oo4Fj4o/s1600/dsc03573.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/uxzr6l49lt9i0547.jpg" >}}
 
 Начинается официальная часть. Выходит бургомистр Лукас Болсиус, который нас давеча {{< a "0173" "знакомил" >}} с Амерсфортом, и долго рассказывает о важности события, о том, что это значит — быть голландцем, что возможность быть собой — одна из ключевых свобод и т.п.
 
 После этого он произносит текст клятвы и начинает обход: по очереди подходит к каждому натурализующемуся, тот встаёт и произносит {{< fl "«Dat verklaar en beloof ik»" >}} («Объявляю и обещаю это», светский вариант) либо {{< fl "«Zo waarlijk helpe mij God almachtig»" >}} («Да поможет мне Бог всемогущий», религиозный вариант) — и в этот момент ~~сверкает молния~~ ты официально становишься голландцем.
 
-{{< imgfig "https://2.bp.blogspot.com/-mxIO-9EC7HY/U1TMzVRHWEI/AAAAAAAAcl8/GqUrpZnKoN8/s1600/dsc03574.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zqsf2g11nynb0895.jpg" >}}
 
 Бургомистр жмёт тебе руку и вручает свидетельство о приобретении гражданства, а также, бонусом, сувенирную монету с надписью {{< fl "Landgenoot. Stadsgenoot" >}} («соотечественник, со-горожанин») и картой Нидерландов с отмеченным на ней Амерсфортом:
 
-{{< imgfig "https://2.bp.blogspot.com/-Xq9oKAwDNxk/U1TM9ha1C_I/AAAAAAAAcm0/puocXR0pUIM/s1600/dsc03587.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/3f4v88oncqw10165.jpg" >}}
 
 Незамысловатый текст напечатан на листочке, лежащим на столе перед каждым претендентом на гражданство, а также отображается на больших экранах, висящих на стенах зала. Но народ то ли не понял объяснений, то ли просто не слушал — некоторые начинали читать листочек с самого начала (со слов «текст клятвы»). Впрочем, здесь к этому все наверняка привычные — никто и виду не подал.
 
 Практически все выбирали нерелигиозный вариант — наверняка в силу его простоты. На длинную фразу решился лишь отец семейства из Индонезии:
 
-{{< imgfig "https://1.bp.blogspot.com/-6ZGcv0n2cQo/U1TM2OcU_2I/AAAAAAAAcmM/XezGo53tICE/s1600/dsc03576.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/88fy0tgu8n142569.jpg" >}}
 
 По окончании процедуры новоиспечённые голландцы, включая и вашего покорного слугу, исполнили первый куплет королевского гимна ({{< fl "Wilhelmus" >}}). Весьма заковыристые [слова гимна](https://www.youtube.com/watch?v=nTXxFhWllm0) показывались на экранах на манер караоке.
 
 Ну и напоследок все собираются для группового фото с бургомистром:
 
-{{< imgfig "https://2.bp.blogspot.com/-B6KaVXRBQdE/U1TM3ssdJlI/AAAAAAAAcmU/Pq448G3g6JM/s1600/dsc03582.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/a4xtxa0ha4os3533.jpg" >}}
 
 Все довольные и радостные. Бургомистр охотно фотографируется со всеми желающими.
 
-{{< imgfig "https://4.bp.blogspot.com/-_vVcAERtRS4/U1TM55kUJVI/AAAAAAAAdTE/ElAY5B_aoqg/s1600/dsc03584.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/6h33cewyezua1474.jpg" >}}
 
 Вот и вся история. Ещё примерно через неделю забираешь здесь же, в муниципалитете, готовый паспорт. Любопытно: в него вносят отпечатки указательных пальцев (снимают на сканере), а также твой рост, который пишут с твоих же слов.

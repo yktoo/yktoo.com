@@ -7,14 +7,14 @@ tags:
     - Нидерланды
     - праздники
     - Koninginnedag
-image: "https://3.bp.blogspot.com/-PhlZnQq-VwA/Tbs8QyR4TgI/AAAAAAAAIgw/qEis4bQu7eM/s1600/Koninginnedag.png"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/u88f03gw759u1331.png"
 aliases:
     - /ru/blog/post/94
 ---
 
 Google поражает осведомлённостью — уже поздравляет с Днём Королевы:
 
-{{< imgfig "https://3.bp.blogspot.com/-PhlZnQq-VwA/Tbs8QyR4TgI/AAAAAAAAIgw/qEis4bQu7eM/s1600/Koninginnedag.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/u88f03gw759u1331.png" >}}
 
 <!--more-->
 

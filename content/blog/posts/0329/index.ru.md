@@ -3,7 +3,7 @@ type: post
 date: "2017-09-10T00:00:00Z"
 title: "Самый крупный гаджет: Toyota Prius PHV"
 tags: ["Plug-In Hybrid", "Toyota Prius", "авто", "гаджеты"]
-image: "https://3.bp.blogspot.com/-TM5UJH9RL4M/WThoZVX3b8I/AAAAAAAAqGk/ckLR_7A1HCIoEtTm25SVwK7GEvy08_3tgCKgB/s1600/20170527_131723.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/3otf4wz2wimb0341.jpg"
 aliases:
     - /ru/blog/post/329
 ---
@@ -14,13 +14,13 @@ aliases:
 
 И не то, чтобы со ней были какие-то проблемы — как раз наоборот, ни малейшей неисправности за всё время эксплуатации. Но, как известно, если ждать достаточно долго, то ~~перед тобой проплывёт труп твоего врага~~ проблемы не преминут появиться. Да и, в конце концов, хочется же порой чего-то новенького.
 
-{{< imgfig "https://3.bp.blogspot.com/-TM5UJH9RL4M/WThoZVX3b8I/AAAAAAAAqGk/ckLR_7A1HCIoEtTm25SVwK7GEvy08_3tgCKgB/s1600/20170527_131723.picasaweb.jpg" "Toyota Prius PHV." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/3otf4wz2wimb0341.jpg" "Toyota Prius PHV." >}}
 
 ## Toyota Prius {#prius}
 
 Итак, это {{< fl "Toyota Prius PHV" >}} третьего поколения, модель {{< fl "ZVW35" >}}, впервые представленная в 2012 году. Моя же выпущена в сентябре **2014**-го, то есть ей три годика.
 
-{{< imgfig "https://2.bp.blogspot.com/-RYsJ_VzbjE0/WThoZS-vxoI/AAAAAAAAqGk/lGn5ZP97L3gftGjJfw6oSFZVE7xT8IvNgCKgB/s1600/20170527_131710.picasaweb.jpg" "Toyota Prius PHV." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/eidd0ypogh8o3001.jpg" "Toyota Prius PHV." >}}
 
 Почему я постоянно выбираю именно {{< fl "Toyota Prius" >}}?
 
@@ -43,11 +43,11 @@ aliases:
 
 Этот более крупный аккумулятор Тойота решила запихнуть в багажник, из-за чего больше не осталось места для запасного колеса. Мне остаётся лишь надеяться, что оно не понадобится.
 
-{{< imgfig "https://2.bp.blogspot.com/-daJva3GhoYY/WUdkliiWcCI/AAAAAAAAqIk/89E4uwXOCOsIDf43CBnXyePql1StJnoegCKgBGAs/s1600/20170530_191011.picasaweb.jpg" "Багажник Приуса." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/v5q54nnpxqmw1968.jpg" "Багажник Приуса." >}}
 
 Аккумулятор «с нуля» заряжается примерно за час (током 10 А, т.е. мощностью 2,3 кВт), что свидетельствует о том, что «нулю» соответствует остаточный заряд где-то в 50%. По местным расценкам на электроэнергию (около **€0,11** днём и **0,09** ночью) полный *электробак* обходится примерно в **25** евроцентов, что практически бесплатно. Езда на бензине примерно в шесть раз дороже (и это, заметьте, на гибриде, у которого средний расход всего **3-4 л** на 100 км) — в настоящее время литр 95-го стоит в наших краях около **1,50** евро.
 
-{{< imgfig "https://1.bp.blogspot.com/-IWuBt7NwwnI/WUdklvofpVI/AAAAAAAAqIk/0M-GcH8zwMMjFmcwZs8Fg5mP02YLUa1EACKgBGAs/s1600/20170530_191020.picasaweb.jpg" "Аккумулятор." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pl87je1t63321096.jpg" "Аккумулятор." >}}
 
 Кстати, у Приуса можно выставить таймер, чтобы заряжать его ночью по более дешёвому тарифу.
 
@@ -59,7 +59,7 @@ aliases:
 
 Обалденная штука {{< fl "Head-Up Display" >}} ({{< fl "HUD" >}}) — он проецирует текущую скорость и, опционально, подсказки GPS-навигатора прямо на ветровое стекло:
 
-{{< imgfig "https://2.bp.blogspot.com/-3Prwy_uwpAM/Wa6RNfUyvlI/AAAAAAAAqn8/Ec6I2_HbFB4KUtG_W9U2wA_RVfqBkorlwCKgBGAs/s1600/20170725_155338.picasaweb.jpg" "Head-Up Display." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/idu1ezzf7gay0290.jpg" "Head-Up Display." >}}
 
 С ним можно видеть скорость, не отвлекаясь от дороги. Положение и яркость {{< fl "HUD" >}} настраиваются, его прекрасно видно в любых условиях, и при этом он нисколько не мешает.
 

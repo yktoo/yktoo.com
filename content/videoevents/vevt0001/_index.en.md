@@ -5,7 +5,7 @@ dateFrom: 2013-04-03
 dateTo: 2013-04-03
 location: "De Observant, Amersfoort, Netherlands"
 websiteUrl: ""
-image: "https://lh5.googleusercontent.com/-VbUtC5-5WGc/UYPgv3_v8YI/AAAAAAAAXno/cYwBoxUM8lQ/s1600/dsc07968.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/3gtvgh1b74ws1513.jpg"
 videocategories: music
 posts: "0188"
 ---

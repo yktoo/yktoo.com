@@ -4,7 +4,7 @@ date: "2017-02-20T00:00:00Z"
 title: "Entities and persons"
 series: "My entrepreneurship"
 tags: ["business", "entrepreneurship", "freelance", "Netherlands", "taxes", "work", "Yktoo Solutions"]
-image: "https://2.bp.blogspot.com/-0JS0V8bE70Y/WN97iz2hjLI/AAAAAAAAptQ/pwLDMGHIdfwZcGmcAlyotSDAsc3Yq2OOACPcB/s1600/shapes.picasaweb.png"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/5l0s6yuhsutm3492.png"
 aliases:
     - /en/blog/post/310
 ---
@@ -15,7 +15,7 @@ To properly answer this seemingly simple question one needs to take a deep dive 
 
 <!--more-->
 
-{{< imgfig "https://2.bp.blogspot.com/-0JS0V8bE70Y/WN97iz2hjLI/AAAAAAAAptQ/pwLDMGHIdfwZcGmcAlyotSDAsc3Yq2OOACPcB/s1600/shapes.picasaweb.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/5l0s6yuhsutm3492.png" >}}
 
 ## Small business {#mkb}
 

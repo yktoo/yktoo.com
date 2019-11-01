@@ -3,7 +3,7 @@ type: post
 date: "2015-02-03T00:00:00Z"
 title: "Ghent Light Festival — 2015"
 tags: ["Ghent Light Festival", "Бельгия", "Гент", "красивое", "ночь", "свет"]
-image: "https://1.bp.blogspot.com/-YxmmwHkb-qo/VM6ccpInzhI/AAAAAAAAg9Y/Pxihf6qwvMA/s1600/dsc07961.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/79bq7anrf8fb0881.jpg"
 places:
     - place0227
 aliases:
@@ -12,29 +12,29 @@ aliases:
 
 Минул год, и я, как и {{< a "0213" "обещал" >}}, нагрянул на гентский фестиваль света ([Ghent Light Festival](http://www.lichtfestivalgent.be/)).
 
-{{< imgfig "https://1.bp.blogspot.com/-YxmmwHkb-qo/VM6ccpInzhI/AAAAAAAAg9Y/Pxihf6qwvMA/s1600/dsc07961.picasaweb.jpg" "Katarzyna Malejka и Joachim Slugocki — «Горизонтальная интерференция»." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/79bq7anrf8fb0881.jpg" "Katarzyna Malejka и Joachim Slugocki — «Горизонтальная интерференция»." >}}
 
 Фестиваль, проводящийся раз в три года, неожиданно оказался очень популярным — улицы, гостиницы, рестораны этого небольшого городка едва справлялись с ордами светопоклонников.
 
 <!--more-->
 
-{{< imgfig "https://1.bp.blogspot.com/-77rTXELjB_w/VM6cY8g72SI/AAAAAAAAg8w/5DyY43WC7Rs/s1600/dsc07954.picasaweb.jpg" "Гентское нашествие светопоклонников." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vq831rn44asz1156.jpg" "Гентское нашествие светопоклонников." >}}
 
 Этот фестиваль, третий по счёту, проходил с четверга 29 января по воскресенье первого февраля в бельгийском городке Генте (нидерл. {{< fl "Gent" >}}, англ. {{< fl "Ghent" >}}), в котором я {{< a "0212" "был" >}} около года назад.
 
 Да и грех было там не побывать, от нас это в двух часах езды на машине, если без пробок. Нам повезло заранее разжиться гостиницей в самом центре по какой-то Групоновской акции, в [Hotel Gravensteen](http://www.gravensteen.be/), что находится буквально через дорогу от замка {{< wiki "Замок_графов_Фландрии" "ru" "Gravensteen" >}}.
 
-{{< imgfig "https://3.bp.blogspot.com/-PdDIi6H1PV0/VM6b9MzoxVI/AAAAAAAAg4w/G3cxo56ue48/s1600/dsc07915.picasaweb.jpg" "Замок Графов Фландрии." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/u0fsrjuqu2f41110.jpg" "Замок Графов Фландрии." >}}
 
 Несмотря на конец января, на улицах нет ни снежинки, температура держится в диапазоне +2–5° C. В солнечную погоду Гент хорош, как всегда.
 
-{{< imgfig "https://3.bp.blogspot.com/-UnxQt8vxT7s/VM6b-1vcmWI/AAAAAAAAg5A/EkpoRIbHayI/s1600/dsc07918.picasaweb.jpg" "Река Лейе." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/4ha2oct9njld3076.jpg" "Река Лейе." >}}
 
 Впрочем, мы это всё уже {{< a "0212" "видели" >}}. То, ради чего мы здесь оказались, начинается, когда на город спускаются сумерки, около шести часов вечера, и длится до полуночи. В экспозицию входит с [полсотни «экспонатов»](http://www.lichtfestivalgent.be/en/program/) самых различных размеров и принципов действия, расположенных вдоль пятикилометрового маршрута ([PDF](http://www.lichtfestivalgent.be/site/assets/files/1020/lfg-route-en-fr-1.pdf)).
 
 Вот, например, разбросанные по траве шары некоего [Collectif Coin](http://www.collectif-coin.com/), которые мигают под неизвестно откуда доносящуюся музыку:
 
-{{< imgfig "https://4.bp.blogspot.com/-siCmXUvqaSY/VM6b0-b_2ZI/AAAAAAAAg3g/elQ-cstm4w0/s1600/dsc07895.picasaweb.jpg" "Collectif Coin — Globoscope." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cbqr2dd9y72o3522.jpg" "Collectif Coin — Globoscope." >}}
 
 Впрочем, музыкой это можно было назвать с большой натяжкой. Скорее, ритмичная последовательность звуков. Вот видео этого действа под названием {{< fl "Globoscope" >}}:
 
@@ -44,7 +44,7 @@ aliases:
 
 Дальше — больше. Вот эта зелёная паутина, сплетённая [THEM Sculptures](http://www.themsculptures.com/), почему-то называется «Наш дом Гент» ({{< fl "Our House Ghent" >}}):
 
-{{< imgfig "https://1.bp.blogspot.com/-ODikExRMh0U/VM6b503Z7HI/AAAAAAAAg4Q/hAGHslyFoL0/s1600/dsc07909.picasaweb.jpg" "THEM Sculptures — Our House Ghent." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/t4xd5qnmp9n33411.jpg" "THEM Sculptures — Our House Ghent." >}}
 
 Музыкальное сопровождение при этом очень походит на предыдущее, вот короткий ролик, снятый через головы толпы, плотно забившей {{< fl "Mageleinstraat" >}}:
 
@@ -52,11 +52,11 @@ aliases:
 
 Был здесь и более традиционный вид светоразвлечения, интерактивная проекция, подогнанная под форму существующего здания. Эта, например, называется «Танцующий дом» ({{< fl "Dancing House" >}}) австрийца [Клауса Обермайера](http://www.exile.at/):
 
-{{< imgfig "https://2.bp.blogspot.com/-S04FLGsChew/VM6b7jectrI/AAAAAAAAg4g/Q8UK2SJ6Jv4/s1600/dsc07912.picasaweb.jpg" "Klaus Obermaier — Dancing House." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pbjz2bbdd5a22405.jpg" "Klaus Obermaier — Dancing House." >}}
 
 Яркий проектор, установленный метрах в пятидесяти напротив фасада в большом конейнере, заставляет дом шататься и болтаться:
 
-{{< imgfig "https://4.bp.blogspot.com/-8-DJTXyojEQ/VM6b8ar8L8I/AAAAAAAAg4o/-8az3kkpmDc/s1600/dsc07913.picasaweb.jpg" "Klaus Obermaier — Dancing House." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/lvh8urs6xh9i0852.jpg" "Klaus Obermaier — Dancing House." >}}
 
 Вот видеофрагмент светонадругательства над памятником архитектуры (между прочим, здание Консульства Южной Кореи):
 
@@ -68,74 +68,74 @@ aliases:
 
 Набережная Лейе со средневековыми домами, точно такая же очаровательная:
 
-{{< imgfig "https://3.bp.blogspot.com/-NTXMiiu-D4E/VM6cLkBMezI/AAAAAAAAg6w/1douJHOCXYc/s1600/dsc07935.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/581y1q0n6g8y2857.jpg" >}}
 
 Часов с шести вечера все рестораны забиты просто под завязку — найти свободный столик, не зарезервировав заранее, можно только при личном участии Фортуны.
 
-{{< imgfig "https://3.bp.blogspot.com/-Y27X5VrGLd0/VM6cNU5WtuI/AAAAAAAAg7A/Z_SMcrnxac4/s1600/dsc07937.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/roc0q152e53a0717.jpg" >}}
 
 По реке снуют теплоходы с туристами, но народу столько, что пробиться туда просто невозможно. Хотя, может, надо просто быть настойчивее.
 
-{{< imgfig "https://3.bp.blogspot.com/-QXt7mpwaI_Q/VM6cOLRiCiI/AAAAAAAAg7I/QsW6rkEJWkE/s1600/dsc07938.picasaweb.jpg" "Теплоходы с туристами." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9e6wkl1iu5cm0322.jpg" "Теплоходы с туристами." >}}
 
 Гентчане слегка приукрасили свои дома к фестивалю — кто-то цветом.
 
-{{< imgfig "https://4.bp.blogspot.com/-EI4XAt12seo/VM6cU9kgxxI/AAAAAAAAg8I/WYFq0Mc2jXU/s1600/dsc07947.picasaweb.jpg" "Зелёный 't Kadehuis." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1gq4gqh01vgn2437.jpg" "Зелёный 't Kadehuis." >}}
 
 Кто-то гирляндами (хотя, может быть, это просто ещё с Рождества осталось?)
 
-{{< imgfig "https://2.bp.blogspot.com/-gcs0DlJdexQ/VM6b4Ky3zCI/AAAAAAAAg4A/eXmkSmT0Zl4/s1600/dsc07903.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/85t58zd4rrja2837.jpg" >}}
 
 Да что уж там, в темноте всё здесь выглядит красиво, чёрт побери! Очень нравятся неоновые вывески на фоне древних стен.
 
-{{< imgfig "https://3.bp.blogspot.com/-amH3ljs0DkU/VM6cSXpWe4I/AAAAAAAAg7w/VYkuPdXhHBk/s1600/dsc07943.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/yjr9um4k9gjb2361.jpg" >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-w8HkA2x8rM4/VM6cQit_NwI/AAAAAAAAg7g/vOMzlhqBUzs/s1600/dsc07941.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/51xyg1xvnfnl3147.jpg" >}}
 
 Безымянная, мрачная композиция прямо под окнами колокольни. Назовём её… ну, например, «Снеговики пытают предателя»:
 
-{{< imgfig "https://3.bp.blogspot.com/-FgK1UJM0uLI/VM6b3b3PdPI/AAAAAAAAg34/iRXjIocvvfc/s1600/dsc07901.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/i7xss9bw05wl1052.jpg" >}}
 
 Здание бывшего «большого дома мяса» ({{< fl "Het Groot Vleeshuis" >}}), ныне [Центр продвижения региональных продуктов Восточной Фландрии](http://www.grootvleeshuis.be/):
 
-{{< imgfig "https://3.bp.blogspot.com/-a-UnnW_uTL4/VM6cPwl0n2I/AAAAAAAAg7Y/yz2OjgBsk5E/s1600/dsc07940.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fx0rhpc5h36n2581.jpg" >}}
 
 Неужели вот это — продукты Восточной Фландрии?
 
-{{< imgfig "https://4.bp.blogspot.com/-CK7bawRYEj8/VM6b_jCMosI/AAAAAAAAg5I/g9RrxlojedQ/s1600/dsc07919.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/18gakr1gnazi3550.jpg" >}}
 
 Лично для меня Бельгия — это в первую очередь пиво. Ну и, конечно, шоколад и вафли.
 
-{{< imgfig "https://1.bp.blogspot.com/-G5Wsg2Tt_Wg/VM6cOzIJVRI/AAAAAAAAg7Q/KDX90-JeEmI/s1600/dsc07939.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/bnzxnvctowfr1782.jpg" >}}
 
 Пиво, да… Что-то я опять отвлёкся. Так вот, Фестиваль Света.
 
 Облачная лампа, она же Ламповое облако, оно же [Cloud](http://www.incandescentcloud.com/) работы Caitlind r.c. Brown и Wayne Garrett, созданное из шести тысяч старых ламп накаливания и висящее прямо на перекрёстке. Некоторые из лампочек можно включать и выключать с помощью шнурков, к полному восторгу подрастающего бельгийского поколения.
 
-{{< imgfig "https://4.bp.blogspot.com/-mxMa12SAdnw/VM6coHXg2UI/AAAAAAAAg_I/HzEXdtr7xOM/s1600/dsc07988.picasaweb.jpg" "Caitlind r.c. Brown & Wayne Garrett — Cloud." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pwjf8n7i2uga3137.jpg" "Caitlind r.c. Brown & Wayne Garrett — Cloud." >}}
 
 Надо признать, труда в эту конструкцию вложено немало.
 
-{{< imgfig "https://3.bp.blogspot.com/-u6F1O3Liu28/VM6co1dQKoI/AAAAAAAAg_Q/Aw5U7ZYVqro/s1600/dsc07990.picasaweb.jpg" "Caitlind r.c. Brown & Wayne Garrett — Cloud." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pu1qe7n1yktu2451.jpg" "Caitlind r.c. Brown & Wayne Garrett — Cloud." >}}
 
 
 Проекция пониженной интерактивности ~~для бедных~~ [Клаудии Рэ](http://www.echtzeitlicht.eu/) {{< fl "Echtzeitlicht" >}}:
 
-{{< imgfig "https://1.bp.blogspot.com/-zEGoUiim2eU/VM6cWYwI96I/AAAAAAAAg8Y/DvsF55uKgis/s1600/dsc07950.picasaweb.jpg" "Claudia Reh — Echtzeitlicht." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/47p6zoeutke00574.jpg" "Claudia Reh — Echtzeitlicht." >}}
 
 Тут всё устроено донельзя просто. Аппарат под названием «кадоскоп», который я помню ещё со времён своих институтских лекций, и плёнка с нанесённым на неё изображением. Новизна заключается, по-видимому, в том, что по плёнке стекает вода. Душераздирающее зрелище.
 
-{{< imgfig "https://2.bp.blogspot.com/-vH9l7xJm_Qk/VM6cXJtXeCI/AAAAAAAAg8g/Q2LVSMUZBGk/s1600/dsc07951.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/q7o8npp8dzmy3473.jpg" >}}
 
 И ещё одна интерактивная проекция «Звук света» ({{< fl "The Sound of Light" >}}) от [Ocubo](http://www.ocubo.com/) — с анимацией, но не задела. Видео просто проецируется на стену дома, и нет никакой привязки к конкретной архитектуре. Так неинтересно.
 
-{{< imgfig "https://2.bp.blogspot.com/-yDNxyHCHKBA/VM6cZhYePyI/AAAAAAAAg84/kVjwoDrf5ZM/s1600/dsc07956.picasaweb.jpg" "Ocubo — The Sound of Light." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/70z6kkyq1w4v3586.jpg" "Ocubo — The Sound of Light." >}}
 
 Самое интересное, впрочем, впереди.
 
 А пока что у нас медитация. Голографические квадратокруги авторства [Nonotak](http://www.nonotak.com/) по имени {{< fl "Daydream V2" >}}:
 
-{{< imgfig "https://2.bp.blogspot.com/-V8QTPshuOMw/VM6caZIpOuI/AAAAAAAAg9A/p4qnvyH5ECQ/s1600/dsc07957.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/h7yygcybiatz2403.jpg" >}}
 
 Только квадраты и круги, ничего личного. У меня и видео есть — оцените, как лихо закручен сюжет (представляю, что было в V1)!
 
@@ -143,11 +143,11 @@ aliases:
 
 Продолжаем тему медитации. Самая первая картинка из этого поста — композиция «Горизонтальная интерференция» ({{< fl "Horizontal Interference" >}}), состоящая из сиреневых нитей, натянутых между домами.
 
-{{< imgfig "https://2.bp.blogspot.com/-zt1PdCRVAS8/VM6cbWgBYII/AAAAAAAAg9I/zEpT1HX9Fro/s1600/dsc07959.picasaweb.jpg" "Katarzyna Malejka и Joachim Slugocki — Horizontal Interference." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/dd73e5xboe911508.jpg" "Katarzyna Malejka и Joachim Slugocki — Horizontal Interference." >}}
 
 Выглядит это довольно любопытно, но тема, как мне показалось, не раскрыта. Ничего не двигается, не меняется. Подойдя, можно увидеть, что нити натянуты в три ряда.
 
-{{< imgfig "https://1.bp.blogspot.com/-kzcOxM5IsIo/VM6cdbYVxGI/AAAAAAAAg9g/g490iGg2gTY/s1600/dsc07963.picasaweb.jpg" "Katarzyna Malejka и Joachim Slugocki — Horizontal Interference." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/6zvu22guc9ib1930.jpg" "Katarzyna Malejka и Joachim Slugocki — Horizontal Interference." >}}
 
 Но чтобы подойти, это нужно было ещё постараться. Композиция была преднамеренно расположена в темнейшем дворе Гента, куда сбилось народонаселения ровно столько, сколько этот двор был в состоянии вместить. Можете себе представить, каково было в этой массе передвигаться.
 
@@ -163,23 +163,23 @@ aliases:
 
 На крыше соседнего здания загадочно мерцала башня с антеннами:
 
-{{< imgfig "https://4.bp.blogspot.com/-wiOrpQuuybI/VM6ceeI3nHI/AAAAAAAAg9o/caVGjX_asCs/s1600/dsc07968.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/s09gkezhlxwm3264.jpg" >}}
 
 Старый Звериный рынок ({{< fl "Oude Beestenmarkt" >}}) охраняли Огромные Светящиеся Кроликоподобные Роботы.
 
-{{< imgfig "https://4.bp.blogspot.com/-v7uHl1fde-o/VM6cguMiVVI/AAAAAAAAg-A/7R9Ch6Z4u-4/s1600/dsc07972.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pzs3ch9bf4d01854.jpg" >}}
 
 Глупые мелкие людишки постоянно пытались сделать лук на их фоне, но, поскольку те были Светящимися, в результате получались лишь силуэты.
 
-{{< imgfig "https://2.bp.blogspot.com/-Xyiopiwo4fo/VM6cfyBZoNI/AAAAAAAAg94/PKDNvZPJllg/s1600/dsc07971.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/nyzgv3zn6s9x2121.jpg" >}}
 
 Куча светящихся столбов — это творение «Древесина» ({{< fl "The Wood" >}}) от {{< fl "Dex Voil" >}}, иллюстрирующее «хрупкое равновесие между городом, природой и технологией». Люди (в основном, дети), бродящие среди столбов, влияют на их цвет.
 
-{{< imgfig "https://3.bp.blogspot.com/-TPYoUzYMmR0/VM6chQToqSI/AAAAAAAAg-I/6HmhieCXYQs/s1600/dsc07976.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9dpy37g8hgu10171.jpg" >}}
 
 Торжество минимализма, «Нарисованные в свете» ({{< fl "Drawn in light" >}}) голландца [Ралфа Вестерхофа](http://www.ralfwesterhof.nl/), медленно вращающиеся в свете прожекторов:
 
-{{< imgfig "https://1.bp.blogspot.com/-u5q9cprQNVQ/VM6cjDPG1JI/AAAAAAAAg-Y/zDrWd0lGLpo/s1600/dsc07981.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/4wpmb4u4hzpj1144.jpg" >}}
 
 Ну и, наконец, мы подошли к самому интересному. Мой топ-3:
 
@@ -193,7 +193,7 @@ aliases:
 
 Очень оригинальный механизм, состоящий из пятнадцати маятников и управляемый компьютером.
 
-{{< imgfig "https://3.bp.blogspot.com/-3zpQgdAsan4/VM6cjyd08AI/AAAAAAAAg-g/N2pgvbXyUig/s1600/dsc07983.picasaweb.jpg" "Ivo Schoofs — Large Pendulum Wave." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/8h8slgyi4tob2712.jpg" "Ivo Schoofs — Large Pendulum Wave." >}}
 
 «Большая маятниковая волна» ([Large Pendulum Wave](http://www.largependulumwave.nl/)) завораживает, создавая иллюзию кругового или спирального движения (на этой съёмке аккумулятор опять окоченел и внезапно помер):
 
@@ -203,7 +203,7 @@ aliases:
 
 Это был безусловный лидер (у него даже номер в [программе фестиваля](http://www.lichtfestivalgent.be/en/programma/) — 1). Интерактивная проекция размером с целый квартал на площади {{< fl "Sint-Pietersplein" >}}, покрывающая три здания. Автором числится группа со странным названием [Dirty Monitor](http://www.dirtymonitor.com/) («Грязный монитор»):
 
-{{< imgfig "https://2.bp.blogspot.com/-5DWifHqWxOU/VM6ckl1FWXI/AAAAAAAAg-o/mTqwVlJXnsA/s1600/dsc07984.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/11stgvoc2ru62016.jpg" >}}
 
 Это невозможно описать — это надо просто видеть:
 
@@ -213,20 +213,20 @@ aliases:
 
 Изделие студентов [Гентского университета](http://www.ugent.be/) (да, здесь даже университет есть), аттракцион-многоэтажка:
 
-{{< imgfig "https://2.bp.blogspot.com/-EwTG3DM-GqU/VM6clftv0zI/AAAAAAAAg-w/_U7e8pwZT6Q/s1600/dsc07985.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/s1q87b2ybfpa0975.jpg" >}}
 
 Перед зданием была установлена платформа, по которой нужно было ударять молотом. При достаточно сильном ударе здание начинало светиться целиком, после чего поворачивалось.
 
-{{< imgfig "https://2.bp.blogspot.com/-KdRXeAwPwW8/VM6cnTBRkLI/AAAAAAAAg_A/nkKJUok9P3I/s1600/dsc07987.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0in0e964h4v41133.jpg" >}}
 
 Симпатичные идея и исполнение, вот [видео аттракциона](http://www.youtube.com/watch?v=ivwnv_Uutz0) в действии.
 
 Это, пожалуй, всё, что я смог заснять — программа несколько больше, но некоторые, не самые удачные, на мой взгляд, композиции я опустил. Сам фестиваль отлично организован и полностью бесплатен, хотя для меня было шоком количество съехавшихся на него.
 
-{{< imgfig "https://3.bp.blogspot.com/-QYqVWbJ5F1k/VM6b6nVr7cI/AAAAAAAAg4Y/_xmDtQdCvWY/s1600/dsc07910.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fk65z50e93162430.jpg" >}}
 
 В обычное время здесь тихо и сказочно красиво.
 
-{{< imgfig "https://1.bp.blogspot.com/-ixA0KHj8jH4/VM6cAssi_kI/AAAAAAAAg5Q/PEn38j8ocSI/s1600/dsc07920.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/4up29tc6sgki0866.jpg" >}}
 
 Все видео фестиваля можно {{< a "/videoevents/vevt0028" "посмотреть на моём сайте" >}}.

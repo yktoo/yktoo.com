@@ -6,7 +6,7 @@ tags:
     - Нидерланды
     - законодательство
     - паспорт
-image: "https://1.bp.blogspot.com/-Yenv2Vql2Og/XbGVED1-I3I/AAAAAAAAzAE/fpTH8SWKFHs5ynprHMBrZ4nbbzPJ3CENACKgBGAsYHg/s1600/2019-10-24_campagne.w.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/aza3m7kc5bqd0451.jpg"
 imageCredit: "Фото: RvIG."
 ---
 
@@ -24,7 +24,7 @@ imageCredit: "Фото: RvIG."
 
 Вышеперечисленное классифицируется как {{< a "https://www.rijksoverheid.nl/onderwerpen/identiteitsfraude" "identiteitsfraude" >}}, мошенничество с удостоверением личности.
 
-{{< imgfig "https://1.bp.blogspot.com/-S_wHfbM-Vlo/XbGRLPWbXdI/AAAAAAAAy_k/VoLLQWTSr20sNIewpkVgOw9lVbVcqJvxQCKgBGAsYHg/s1600/2019_10-24_paspoort.w.jpg" "Нидерландский паспорт." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/4dmkgf7qxjau2138.jpg" "Нидерландский паспорт." >}}
 
 Это, собственно, и так понятно любому вменяемому человеку — документы не для того выдают, чтобы их изменяли и давали взаймы.
 

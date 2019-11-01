@@ -6,7 +6,7 @@ tags:
     - Нидерланды
     - Хаутен
     - искусство
-image: "https://1.bp.blogspot.com/-S1MdXA_4ldc/XZDbdg25duI/AAAAAAAAyO8/VW9kqGajGf0GFl9DVjCQlS6OfT-rhEGIQCKgBGAsYHg/s1600/20190914_143145.w.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/23ge8zgfgayl3300.jpg"
 places:
     - place0311
 ---
@@ -25,7 +25,7 @@ places:
 
 И вот результат:
 
-{{< imgfig "https://1.bp.blogspot.com/-S1MdXA_4ldc/XZDbdg25duI/AAAAAAAAyO8/VW9kqGajGf0GFl9DVjCQlS6OfT-rhEGIQCKgBGAsYHg/s1600/20190914_143145.w.jpg" "Римская маска Хаутена." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/23ge8zgfgayl3300.jpg" "Римская маска Хаутена." >}}
 
 Помимо маски, о римлянах напоминают надписи на деревянных столах для пикника — там детям рассказываются всякие интересные факты из трудовой жизни римских солдат.
 

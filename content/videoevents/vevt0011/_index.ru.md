@@ -5,7 +5,7 @@ dateFrom: 2011-12-07
 dateTo: 2011-12-07
 location: "De Observant, Amersfoort, Netherlands"
 websiteUrl: ""
-image: "https://1.bp.blogspot.com/-E1BmfmT2IfI/Tt_YmBbF6TI/AAAAAAAAKmA/aZhnCjYqeM0/s1600/dsc07825.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/tbx30rg7nzrm1838.jpg"
 videocategories: music
 posts: "0134"
 ---

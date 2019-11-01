@@ -3,14 +3,14 @@ type: post
 date: "2015-01-24T00:00:00Z"
 title: "Книга: «Марсианин», Э. Уир"
 tags: ["Andy Weir", "The Martian", "книги", "фантастика"]
-image: "https://1.bp.blogspot.com/-SZSg3tj1IWs/VMN-PONnroI/AAAAAAAAgxc/0hKQQu6lvRg/s1600/andy-weir-the-martian.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/lk60fvx5b7ix3462.jpg"
 aliases:
     - /ru/blog/post/237
 ---
 
 Прочитал роман американца {{< wiki "Уир,_Энди" "ru" "Энди Уира" >}} ({{< wiki "Andy_Weir_(writer)" "en" "Andy Weir" >}}) под названием {{< wiki "Марсианин_(роман)" "ru" "«Марсианин»" >}} ({{< wiki "The_Martian_(Weir_novel)" "en" "The Martian" >}}). До сих пор нахожусь под впечатлением.
 
-{{< imgfig "https://1.bp.blogspot.com/-SZSg3tj1IWs/VMN-PONnroI/AAAAAAAAgxc/0hKQQu6lvRg/s1600/andy-weir-the-martian.picasaweb.jpg" "Andy Weir. The Martian." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/lk60fvx5b7ix3462.jpg" "Andy Weir. The Martian." >}}
 
 Фантастика всегда была одним из моих любимых жанров, а здесь сюжет затягивает прямо с первых страниц.
 

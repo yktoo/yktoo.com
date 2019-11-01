@@ -7,7 +7,7 @@ tags:
     - СМИ
     - ТВ
     - новости
-image: "https://1.bp.blogspot.com/-zOBqEL5s2F0/XWwFr01EMbI/AAAAAAAAxBA/riYZz7ClFQIsQvgWqqkpEZC0Ol1uwaNUgCKgBGAs/s1600/2019-09-01_npo-3.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/v181200r3ib72091.jpg"
 ---
 
 В целях борьбы с засильем {{< fl "Netflix" >}}, {{< fl "YouTube" >}} и {{< fl "Facebook Video" >}} крупнейшие нидерландские медиакорпорации решили объединить свои усилия и совместно создать национальную медиаплатформу для аудио и видео. Недавно {{< a "https://www.ad.nl/nieuws/grote-nederlandse-mediapartijen-bundelen-krachten-tegen-netflix-en-youtube~abf49f9a/" "стало" >}} известно о принципиальной договорённости в результате переговоров, которые велись в тайне в течение года, между общественной {{< wiki "NPO" >}} и коммерческими {{< wiki "RTL_Nederland" "en" "RTL" >}}, {{< wiki "Talpa Network" "en" >}} и {{< wiki "DPG_Media" "en" "Persgroep" >}}.

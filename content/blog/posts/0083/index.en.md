@@ -4,7 +4,7 @@ date: "2011-04-14T00:00:00Z"
 title: "Part 1. Schiphol"
 series: "Vienna and Budapest"
 tags: ["Netherlands", "Schiphol", "travel"]
-image: "https://1.bp.blogspot.com/-RdVoLTHFjn4/TaatEfPBhiI/AAAAAAAAItc/8_sVvU7q7Fw/s1600/dsc01367.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/9b0hwz0dbzsv1289.jpg"
 places:
     - place0120
 aliases:
@@ -21,12 +21,12 @@ The post was going to be large, so I decided to split it into several parts.
 
 ## Schiphol {#schiphol}
 
-{{< imgfig "https://1.bp.blogspot.com/-RdVoLTHFjn4/TaatEfPBhiI/AAAAAAAAItc/8_sVvU7q7Fw/s1600/dsc01367.picasaweb.jpg" "Wheel of Energy 365" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9b0hwz0dbzsv1289.jpg" "Wheel of Energy 365" >}}
 
 The ingenious Dutch have constructed an attraction called [Wheel of Energy365](http://www.wheelofenergy.org/). The wheel advertises fund-raising for a cancer research project. It revolves 24 hours a day and, from my point of view, is in itself an interesting thing. Anyone can buy a privilege to run inside for €36.5 per hour. In the meantime a cute blue bird collects money from passers-by.
 
 There are three lanes inside the wheel, so you can invite more people to join. Undoubtedly, it's a noble project and I honour people started it, as well as ones signing up for it.
 
-{{< imgfig "https://2.bp.blogspot.com/-um9X8_oDMOs/TaaukMnFT6I/AAAAAAAAItc/l_KmFgUtTUE/s1600/dsc01369.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/64q0x1v90ob73080.jpg" >}}
 
 Next: {{< a "0084" "Part 2. Vienna" >}}

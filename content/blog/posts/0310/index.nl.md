@@ -4,7 +4,7 @@ date: "2017-02-20T00:00:00Z"
 title: "Vormen en personen"
 series: "Mijn ondernemerschap"
 tags: ["belastingen", "business", "freelance", "Nederland", "ondernemerschap", "werk", "Yktoo Solutions"]
-image: "https://2.bp.blogspot.com/-0JS0V8bE70Y/WN97iz2hjLI/AAAAAAAAptQ/pwLDMGHIdfwZcGmcAlyotSDAsc3Yq2OOACPcB/s1600/shapes.picasaweb.png"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/5l0s6yuhsutm3492.png"
 aliases:
     - /nl/blog/post/310
 ---
@@ -15,7 +15,7 @@ Om deze vraag goed te kunnen beantwoorden moet je je lang en breed verdiepen in 
 
 <!--more-->
 
-{{< imgfig "https://2.bp.blogspot.com/-0JS0V8bE70Y/WN97iz2hjLI/AAAAAAAAptQ/pwLDMGHIdfwZcGmcAlyotSDAsc3Yq2OOACPcB/s1600/shapes.picasaweb.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/5l0s6yuhsutm3492.png" >}}
 
 ## Midden- en kleinbedrijven {#mkb}
 

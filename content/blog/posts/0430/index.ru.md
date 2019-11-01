@@ -9,7 +9,7 @@ tags:
     - мошенники
     - СМИ
     - новости
-image: "https://1.bp.blogspot.com/-Dqy66jTO5Y8/XagjHQEfVYI/AAAAAAAAywY/r-d3rjMnvpgh6r75ru6vLtuwP30qth1IACKgBGAsYHg/s1600/2019-10-17_bloemenmarkt-2008.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/lpkjhnqwek2o2820.jpg"
 imageCredit: "Фото: zak mc/Wikimedia."
 ---
 
@@ -19,22 +19,22 @@ imageCredit: "Фото: zak mc/Wikimedia."
 
 <!--more-->
 
-{{< imgfig "https://1.bp.blogspot.com/-Dqy66jTO5Y8/XagjHQEfVYI/AAAAAAAAywY/r-d3rjMnvpgh6r75ru6vLtuwP30qth1IACKgBGAsYHg/s1600/2019-10-17_bloemenmarkt-2008.jpg" "Амстердам, Цветочный рынок. Фото: zak mc/Wikimedia." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/lpkjhnqwek2o2820.jpg" "Амстердам, Цветочный рынок. Фото: zak mc/Wikimedia." >}}
 
 Более того, цветы из тех луковиц, что всё же зацвели, не обнаружили *никакого сходства* с фотографией на упаковке.
 
-{{< imgfig "https://1.bp.blogspot.com/-MYR_qxzYFxo/XagjHTbEOBI/AAAAAAAAywY/LDXulKJPuXcZX3l4TE0C224La9usMR6ZwCKgBGAsYHg/s1600/2019-10-17_Bloemenmarkt-2006.jpg" "Амстердам, Цветочный рынок. Фото: ms.Tea/Wikimedia." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fbzmgd5fh1qw1141.jpg" "Амстердам, Цветочный рынок. Фото: ms.Tea/Wikimedia." >}}
 
 Также были протестированы луковицы, купленные на другом популярном цветочном рынке — {{< fl "Bloembollenboulevard" >}} около трассы {{< fl "N208" >}} в Лиссе — с похожим результатом: **2%** зацвели. Это серьёзный удар по имиджу Нидерландов как родины тюльпанов, так что, скорее всего, будут приниматься меры.
 
 {{< carousel >}}
-https://1.bp.blogspot.com/-a_2GFeMLtLg/XagggvqLAxI/AAAAAAAAyvw/R8Vg92KDGfoxipQd9gpd4yNxIQcl1zK6QCKgBGAsYHg/s1600/20160505_143949.picasaweb.jpg Лиссе, цветочные поля.
-https://1.bp.blogspot.com/-7aSAPbY1hDQ/Xagggh40QyI/AAAAAAAAyvw/VvPuyqcq-ZkAyGAauNnbnDKFcQtUPjidwCKgBGAsYHg/s1600/20160505_144230.picasaweb.jpg Лиссе, цветочные поля.
-https://1.bp.blogspot.com/-nGASK8__oMg/XagggilM4JI/AAAAAAAAyvw/8H2PYtzI0jQG85Mrm3cvfgPH75CqkyANwCKgBGAsYHg/s1600/20160505_144852.picasaweb.jpg Лиссе, цветочные поля.
-https://1.bp.blogspot.com/-o46C8fq-eG0/XagggnVSElI/AAAAAAAAyvw/iFn8p20u_tg6nwLiln4mRLrGDbW-2hqxACKgBGAsYHg/s1600/20160505_151404.picasaweb.jpg Лиссе, цветочные поля.
-https://1.bp.blogspot.com/-Mye5nPbim28/XagggiFPu5I/AAAAAAAAyvw/fdDMo52CinQb_8YjIaW3wq73IU5S8hHuwCKgBGAsYHg/s1600/20160505_151426.picasaweb.jpg Лиссе, цветочные поля.
-https://1.bp.blogspot.com/-ooQU7BveglQ/XagggiZ5RuI/AAAAAAAAyvw/4qqydRnRMUU_5mZburNeGuQwsNLOYiiUgCKgBGAsYHg/s1600/20160505_151616.picasaweb.jpg Лиссе, цветочные поля.
-https://1.bp.blogspot.com/-otjx9DUpzrw/XagggtxumOI/AAAAAAAAyvw/S1qAIQFO5_kbGDHl8xVBdepXGs4dRcuRgCKgBGAsYHg/s1600/20160505_152011.picasaweb.jpg Лиссе, цветочные поля.
+https://res.cloudinary.com/yktoo/image/upload/blog/1k605v3ixrvs1574.jpg Лиссе, цветочные поля.
+https://res.cloudinary.com/yktoo/image/upload/blog/gws41vagqcwb0137.jpg Лиссе, цветочные поля.
+https://res.cloudinary.com/yktoo/image/upload/blog/9gpb348mufpn1558.jpg Лиссе, цветочные поля.
+https://res.cloudinary.com/yktoo/image/upload/blog/ihqudlogihmm0990.jpg Лиссе, цветочные поля.
+https://res.cloudinary.com/yktoo/image/upload/blog/idfmnmtbufvw0289.jpg Лиссе, цветочные поля.
+https://res.cloudinary.com/yktoo/image/upload/blog/addq6nhwglsz1037.jpg Лиссе, цветочные поля.
+https://res.cloudinary.com/yktoo/image/upload/blog/pcs3mwri7jod1188.jpg Лиссе, цветочные поля.
 {{< /carousel >}}
 
 Кстати, на амстердамском рынке мы тоже недавно {{< a "0366" "были" >}} — я тогда писал ещё о наборе начинающего коноплевода. И купили, конечно же, пару пакетов луковиц тюльпанов — интересно будет посмотреть, что же из них вырастет.

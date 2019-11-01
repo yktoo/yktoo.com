@@ -3,7 +3,7 @@ type: post
 date: "2018-06-22T00:00:00Z"
 title: "Очумелые ручки: замена дисплея у Huawei Mate 10 Lite"
 tags: ["железо", "мобильный телефон", "очумелые ручки", "ремонт", "сделай сам"]
-image: "https://3.bp.blogspot.com/-jdWRctME6x8/Wyv8m-xSDVI/AAAAAAAAspY/7l03749twrAUP___WeTLikUXHn4hYMSnwCKgBGAs/s1600/20180621_212631.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/229w56ek0ge63498.jpg"
 aliases:
     - /ru/blog/post/338
 ---
@@ -12,7 +12,7 @@ aliases:
 
 Настигла нас распространённая бытовая ситуация под названием «уронили мобильник». В главной роли выступил **Huawei Mate 10 Lite**.
 
-{{< imgfig "https://3.bp.blogspot.com/-jdWRctME6x8/Wyv8m-xSDVI/AAAAAAAAspY/7l03749twrAUP___WeTLikUXHn4hYMSnwCKgBGAs/s1600/20180621_212631.picasaweb.jpg" "Пациент: Huawei Mate 10 Lite." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/229w56ek0ge63498.jpg" "Пациент: Huawei Mate 10 Lite." >}}
 
 Стандартная в таких случаях процедура ремонта обходится, в зависимости от жадности сервис-центра, в 150-200 евро. Особенно жаба душила за то, что пациенту исполнилось лишь пара месяцев с момента покупки.
 
@@ -32,27 +32,27 @@ aliases:
 * Лопатка для открывания корпуса, вместо которой можно использовать обычный тонкий (0,8 мм) гитарный медиатор
 * *Опционально:* присоска для экрана, помогающая отделить его от корпуса
 
-{{< imgfig "https://3.bp.blogspot.com/-0GWVFcFA0yM/Wyv6I9ljnPI/AAAAAAAAso0/1MDUevJxB7wOPrpgEd0PT2F9gnXrwx11wCKgBGAs/s1600/20180621_211138.picasaweb.jpg" "Требуемые инструменты." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/tpvfscjux8wx1048.jpg" "Требуемые инструменты." >}}
 
 Я пользовался термофеном {{< fl "Bosch GHG 660 LCD" >}}, в котором раздельно устанавливаются температура и сила потока воздуха:
 
-{{< imgfig "https://3.bp.blogspot.com/-lP1ncB6XnbI/Wyv6I2LCufI/AAAAAAAAso0/LoC0iwttgQwLWoJtpGcfoKeBOZQlGsC8QCKgBGAs/s1600/20180621_210318.picasaweb.jpg" "Установка температуры в Bosch GHG 660 LCD." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/dj5uyamzp2l83417.jpg" "Установка температуры в Bosch GHG 660 LCD." >}}
 
 ## Разборка {#disassembly}
 
 Процесс замены начинается со снятия задней крышки. Для этого вынимается держатель сим-карт и вывинчиваются два винтика {{< fl "T2" >}} около разъёма питания. После этого нужно аккуратно, используя лопатку или медиатор, снять крышку с пластиковых защёлок.
 
-{{< imgfig "https://3.bp.blogspot.com/-QDjNhYPNUC4/WyrAnTRC2CI/AAAAAAAAsn8/AMXZojv6bCAI_trt-xg2W7B82gwmZ1OrQCKgBGAs/s1600/20180614_215615.picasaweb.jpg" "Задняя крышка снята." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/e9ac76xrdzzb1999.jpg" "Задняя крышка снята." >}}
 
 Дальше нужно освободить платы от шлейфов дисплея, батареи, задней крышки и снять обе платы — нижнюю и верхнюю.
 
-{{< imgfig "https://4.bp.blogspot.com/-y-ymUQ4p6z4/WyrAnSoChuI/AAAAAAAAsn8/LmQVCBD7tU0c4hY6oxBYTrNCwd9zdcdyQCKgBGAs/s1600/20180614_222225.picasaweb.jpg" "Корпус без обеих плат." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/un82y0s0xjt91961.jpg" "Корпус без обеих плат." >}}
 
 Для снятия верхней потребовалось немало терпения и упорства, в том числе из-за двух фронтальных камер. Здесь самое главное — не торопиться и не прикладывать богатырскую силу.
 
 После этого наступает, собственно, черёд дисплея: его нужно нагреть до **80-90° C** с помощью фена (в одном видео я ещё видел специальную плиту с термостатом) и аккуратно отделить, используя ту же пластиковую лопатку. Также можно применить присоску, чтобы было удобнее тянуть за стекло. Остатки клея удаляются пальцем: они легко скатываются в шарики.
 
-{{< imgfig "https://1.bp.blogspot.com/-nuk623IP06M/WyrAnfCaccI/AAAAAAAAsn8/AzQ8iTWh6zI7IShlSL7dfEtl7drhvVD_gCKgBGAs/s1600/20180614_222444.picasaweb.jpg" "Новый дисплейный модуль готов к установке." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/acwh3ownagmk3345.jpg" "Новый дисплейный модуль готов к установке." >}}
 
 Потом на края изнутри корпуса наносится клей {{< fl "B-7000" >}} и новый дисплей устанавливается на место.
 
@@ -60,7 +60,7 @@ aliases:
 
 Правильно собрать телефон не менее важно, чем аккуратно разобрать. Все шлейфы и разъёмы приводятся в исходное состояние, закрепляются винтами. Здесь очень помогает система организации, о которой ниже.
 
-{{< imgfig "https://3.bp.blogspot.com/-T22io2_lHdU/WyrAndO6-MI/AAAAAAAAsn8/YUePuWQeHzwTKveWBf2S69Lg1BNEgigWgCKgBGAs/s1600/20180614_231434.picasaweb.jpg" "Пациент снова в добром здравии." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/3v3n91rm8h9h0070.jpg" "Пациент снова в добром здравии." >}}
 
 Полное время высыхания клея составляет от суток до двух, поэтому желательно на это время телефон поместить под что-то тяжёлое и неподвижное.
 
@@ -72,6 +72,6 @@ aliases:
 
 **Во-вторых**, чтобы после сборки не осталось лишних деталей, всё снятое с телефона нужно аккуратно подписывать. Я раскладывал компоненты по листу бумаги, подписывал их и прикреплял скотчем:
 
-{{< imgfig "https://3.bp.blogspot.com/-ihFCiPGcfHw/WyrAnVErRoI/AAAAAAAAsn8/ORBjfmxjOzUsdVsU-UJGBMu9WL3cK41lgCKgBGAs/s1600/20180614_222150.picasaweb.jpg" "Организация процесса разборки." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1s1xsbrbbra31278.jpg" "Организация процесса разборки." >}}
 
 По моему мнению, при набитой очумелой ручке вся процедура вряд ли займёт больше часа. У меня с непривычки ушло часа два.

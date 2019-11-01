@@ -3,7 +3,7 @@ type: post
 date: "2011-08-21T00:00:00Z"
 title: "Нам сальса строить и жить помогает (Dias Latinos — 2011)"
 tags: ["Dias Latinos", "Tomasa Quartet", "Амерсфорт", "джаз", "музыка", "Нидерланды"]
-image: "https://2.bp.blogspot.com/-w1r7MTEUP8I/TlC3YhBv3ZI/AAAAAAAAJbM/1hoy0xTFb48/s1600/dsc06182.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/9g05od61ntfc2404.jpg"
 places:
     - place0085
     - place0086
@@ -20,25 +20,25 @@ aliases:
 
 На улице Havik сцену воздвигли прямо на канале:
 
-{{< imgfig "https://2.bp.blogspot.com/-w1r7MTEUP8I/TlC3YhBv3ZI/AAAAAAAAJbM/1hoy0xTFb48/s1600/dsc06182.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9g05od61ntfc2404.jpg" >}}
 
 Две балки опираются на мешки с песком, на них лежат помостки:
 
-{{< imgfig "https://3.bp.blogspot.com/-liB8eaNSxgI/TlC3TagNoDI/AAAAAAAAJa4/DR0sEak23NI/s1600/dsc06185.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/q9v6bwhbkz2b3562.jpg" >}}
 
 Народ расселся, как обычно, без комплексов, где придётся. На мостиках:
 
-{{< imgfig "https://3.bp.blogspot.com/-A296rCCoRWk/TlC3faBcdTI/AAAAAAAAJbk/9l93PPjMly8/s1600/dsc06190.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/bzc1kppsy6vp0927.jpg" >}}
 
 На краях канала:
 
-{{< imgfig "https://4.bp.blogspot.com/-k82Ty8NPWKY/TlFdE7jj5eI/AAAAAAAAJcA/Q7F2ilGZS_E/s1600/dsc06381.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/kvon520hnliw2570.jpg" >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-GSn8vzM1MbM/TlC3cNrbRCI/AAAAAAAAJbY/qpXBlY2J9_g/s1600/dsc06180.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0czbbnev1ljb1172.jpg" >}}
 
 Выступает некий [Beatriz Aguiar Septet](http://www.beatrizaguiar.com/):
 
-{{< imgfig "https://3.bp.blogspot.com/-Iw_CBGdrfx8/TlC3WoXVYgI/AAAAAAAAJbE/q2Lqvdvkijk/s1600/dsc06169.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vgoseh1k7wjx3421.jpg" >}}
 
 ## Tomasa Quartet {#tomasa-quartet}
 
@@ -46,19 +46,19 @@ aliases:
 
 Поскольку, как неоднократно утверждал классик, необъятное объять невозможно, пришлось разрываться на части, но выбирать площадку по вкусу. Мне повезло случайно наткнуться на очень интересную группу [Tomasa Quartet](http://www.tomasaquartet.com/), играющую нечто в стиле «инструментальный латин-джаз», и выступавшую на небольшой площадке на пересечении трёх улиц.
 
-{{< imgfig "https://2.bp.blogspot.com/-dr_oeFq5xyw/TlC3XQXByUI/AAAAAAAAJbI/SPnRsxZX7Uc/s1600/dsc06197.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/t6wjk38gd6wn1315.jpg" >}}
 
 Квартет в основном исполняет ~~крышесносящую~~ очень сложную музыку и состоит из четырёх музыкантов. Все четверо играют просто виртуозно, и живут в Амстердаме.
 
 Фронтвумен и скрипачка [Claudia Valenzuela](http://www.myspace.com/claudiavalenzuela). Ей 31, она наполовину колумбийка, наполовину чилийка, выросла во Франции, с шести лет играет на скрипке, с 18 лет живёт в Нидерландах. Играет всё время с серьёзным видом. Редчайший кадр: Клаудиа улыбается:
 
-{{< imgfig "https://4.bp.blogspot.com/-YyiS1e9U9LI/TlC3gd04C8I/AAAAAAAAJbo/mthH7CLnIMs/s1600/dsc06249.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/7f7g291itio22398.jpg" >}}
 
 Пианистка [Claudia Cassier](http://claudiacassier.com/). Второй Клаудии 37, она родом из Германии, на фортепиано также играет с шести лет, в Нидерландах живёт с 26 лет.
 
 Басист [Mathias Breton](http://www.myspace.com/mathiasbreton). Француз, играет с 17 лет, инструменты: контрабас и бас-гитара. Живой и общительный. По поведению на сцене сразу заметно, что исполнять музыку ему очень нравится.
 
-{{< imgfig "https://3.bp.blogspot.com/-LxdZ7tQdibg/TlC3Vm1eROI/AAAAAAAAJbA/eUt715WHL_I/s1600/dsc06245.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/835tubqp842y0653.jpg" >}}
 
 Ударник [Elvin Marchena](http://www.myspace.com/elvinmarchena). Родом с Кюрасао. С ним, я, к сожалению, пообщаться не успел.
 
@@ -78,11 +78,11 @@ aliases:
 
 Пока квартет играл, вокруг постепенно собралась огромная толпа; мне повезло сидеть прямо перед сценой на одном из немногих специально расставленных стульев (что и позволило мне снять видео). Большинство стояло или садилось прямо на мостовую. Стемнело.
 
-{{< imgfig "https://4.bp.blogspot.com/-oW4SH5yT4DY/TlC3dNL4HYI/AAAAAAAAJbc/UmIxvDVjBpI/s1600/dsc06261.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/jy7rdhk0y9130292.jpg" >}}
 
 На Havik в это время уже доигрывали жизнерадостные The Jazz & Mexican Spirit:
 
-{{< imgfig "https://4.bp.blogspot.com/-1iSdoHPNm3Y/TlC3SJlIjuI/AAAAAAAAJa0/MlXqYUfuR5I/s1600/dsc06302.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/c1d3877f1y4l0106.jpg" >}}
 
 Народу только прибавлялось…
 
@@ -90,7 +90,7 @@ aliases:
 
 Пришло воскресенье, а с ним и знакомые уже мне бравые хлопцы [Desperados](http://www.desperados-music.com/) из приснопамятной деревни {{< a "0005" "Суст" >}} выступили с прямо-таки недеревенским размахом.
 
-{{< imgfig "https://4.bp.blogspot.com/-iiNKHDXtHxc/TlFdG-TNzPI/AAAAAAAAJcI/9E7os7p91mo/s1600/dsc06309.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/j0nf8wrll7oo0391.jpg" >}}
 
 Вот несколько видеороликов — музыка незамысловатая, но заводная:
 
@@ -100,17 +100,17 @@ aliases:
 
 Немолодая пара с Арубы, танцуя, веселила публику:
 
-{{< imgfig "https://1.bp.blogspot.com/-XtLHi6kcU5k/TlFdCFJsnTI/AAAAAAAAJb4/vE3Yj08C_H4/s1600/dsc06327.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vlo2c4ia0g681129.jpg" >}}
 
 Публика подключалась (обратите внимание на неизменные коричневые сапоги):
 
-{{< imgfig "https://3.bp.blogspot.com/-kKC9XFkFPKs/TlFdKrcdHaI/AAAAAAAAJcU/c4Vr-_a1a2U/s1600/dsc06340.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1kvcloiuy8920109.jpg" >}}
 
 ## Latineo {#latineo}
 
 Latineo — латин-джаз-квартет из Роттердама, на который я пошёл исключительно по рекомендации вчерашней Claudia Valenzuela из Tomasa Quartet. Происходило это на той же сцене на улице Havik, поэтому фото и видео сняты с не очень удачной точки — лучше всего снимать бы прямо с канала, конечно:
 
-{{< imgfig "https://1.bp.blogspot.com/-9rTrOyiwxjk/TlFdIJWikvI/AAAAAAAAJcM/VI0Xrr0KetA/s1600/dsc06364.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/wghivdcled4b0262.jpg" >}}
 
 Зато в этот раз я захватил с собой штатив.
 
@@ -122,10 +122,10 @@ Latineo — латин-джаз-квартет из Роттердама, на �
 
 Народонаселение, как и вчера, расселось где придётся. На мостике через канал среди публики была замечена скрипачка Клаудиа (справа, с бутылкой):
 
-{{< imgfig "https://2.bp.blogspot.com/-S5689MGUe8Q/TlFdMKuhk-I/AAAAAAAAJcY/OHTPRcgAeG0/s1600/dsc06376.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/2ix7n7k5ep4g1710.jpg" >}}
 
 Война войной, а во время концертов по каналу продолжали плавать экскурсионные лодочки:
 
-{{< imgfig "https://2.bp.blogspot.com/-jP8u493xJ5Q/TlFdJeIt93I/AAAAAAAAJcQ/RXA1hRgyL-Q/s1600/dsc06386.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/x63nwvhaqdgs1210.jpg" >}}
 
 Фестиваль, безусловно, удался. И не в последнюю очередь благодаря погоде.

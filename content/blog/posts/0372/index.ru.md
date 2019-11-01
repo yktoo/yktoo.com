@@ -9,7 +9,7 @@ tags:
     - рейтинг
     - The Economist
     - безопасность
-image: "https://1.bp.blogspot.com/-T7no_c2J82U/XW-nk_v_z6I/AAAAAAAAxOk/bV5gnCQV7IY5tMU6CO1W5F3EueaupW7jQCKgBGAs/s1600/safe-cities-index-2019.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/f8ifywom5oeq3296.jpg"
 ---
 
 На прошлой неделе {{< fl "The Economist" >}} {{< a "https://safecities.economist.com/safe-cities-index-2019/" "опубликовал" >}} рейтинг 60 крупнейших городов мира: {{< fl "The Safe Cities Index 2019" >}} ({{< a "https://safecities.economist.com/wp-content/uploads/2019/08/Aug-5-ENG-NEC-Safe-Cities-2019-270x210-19-screen.pdf" "64-страничный PDF" >}}).
@@ -22,7 +22,7 @@ image: "https://1.bp.blogspot.com/-T7no_c2J82U/XW-nk_v_z6I/AAAAAAAAxOk/bV5gnCQV7
 
 На первом месте в общем рейтинге японская столица **Токио**, на втором **Сингапур**, а на третьем опять же японская **Осака** (главным спонсором рейтинга была японская {{< fl "NEC Corporation" >}}, но это, *конечно же*, простое совпадение).
 
-{{< imgfig "https://1.bp.blogspot.com/-4K_B9YL-_sA/XW-nkxnyrkI/AAAAAAAAxOk/1JP_Qb23H6YeIuxjwOjAwtRlI7syGnsfQCKgBGAs/s1600/sci-2019-top30.png" "Первые 30 строчек рейтинга безопасных городов — Амстердам выделен цветом. Таблица из рейтинга The Economist." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/wuqdo4pa253w1475.png" "Первые 30 строчек рейтинга безопасных городов — Амстердам выделен цветом. Таблица из рейтинга The Economist." >}}
 
 ## Основные положения документа
 

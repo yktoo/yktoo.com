@@ -3,14 +3,14 @@ type: post
 date: "2011-07-14T00:00:00Z"
 title: "The new old blog"
 tags: ["blog"]
-image: "https://4.bp.blogspot.com/-bDT2EUCLWxY/Th8_MnB40lI/AAAAAAAAJHQ/F14fig3v1NM/s1600/i-like-to-move-it.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/8l0mwo2k5qwz1414.jpg"
 aliases:
     - /en/blog/post/103
 ---
 
 Some planned changes have been made to the blog.
 
-{{< imgfig "https://4.bp.blogspot.com/-bDT2EUCLWxY/Th8_MnB40lI/AAAAAAAAJHQ/F14fig3v1NM/s1600/i-like-to-move-it.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/8l0mwo2k5qwz1414.jpg" >}}
 
 As it has matured, it moved to my own domain, and the new URL is: **blog.yktoo.com**.
 

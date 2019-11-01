@@ -3,7 +3,7 @@ type: post
 date: "2011-08-10T00:00:00Z"
 title: "Неевропейское"
 tags: ["путешествия", "Россия", "Тюмень"]
-image: "https://3.bp.blogspot.com/-jMrY0rTE2yM/TkDGMSF_MdI/AAAAAAAAJRE/gKbie9z_BBM/s1600/dsc05703.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/osmc45j8mcf02948.jpg"
 places:
     - place0088
 aliases:
@@ -28,59 +28,59 @@ aliases:
 
 Третье — это серость окружающего мира. В первую очередь это вызвано, конечно, количеством пыли, которая оседает на всём: зданиях, деревьях, траве, автомобилях — какими бы красочными они изначально ни были. Ну а после дождя вся пыль традиционно превращается в грязь:
 
-{{< imgfig "https://3.bp.blogspot.com/-jMrY0rTE2yM/TkDGMSF_MdI/AAAAAAAAJRE/gKbie9z_BBM/s1600/dsc05703.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/osmc45j8mcf02948.jpg" >}}
 
 Четвёртое, и это бросается в нос, а не в глаза — это кошмарная загазованность воздуха вдоль всех улиц, а также дурно пахнущая вода из крана (в Нидерландах вода в кране, в душе и даже в смывном бачке всегда питьевая, поскольку у них нет петриков).
 
 С другой стороны, очень заметно, что Тюмень — край богатый. Количество цветов, высаженных в центре города (а точнее, количество денег, потраченных на это), поражает воображение.
 
-{{< imgfig "https://1.bp.blogspot.com/-0V6xUQcqEAE/TkDHaUk2n4I/AAAAAAAAJVA/g7JB7nXWsUE/s1600/dsc05348.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/u8c5sshj11sz1286.jpg" >}}
 
 Вокруг цветов, взявшись за руки, ходит молодёжь с закрытыми глазами:
 
-{{< imgfig "https://1.bp.blogspot.com/-0Ud-jyG3V_Q/TkDFos-Ia1I/AAAAAAAAJQU/JO0k0NIWWwk/s1600/dsc05530.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/5ba3ypw6yl3m0113.jpg" >}}
 
 Поскольку глаза закрыты, они порой эти цветы топчут:
 
-{{< imgfig "https://4.bp.blogspot.com/-ue44Oys6HJE/TkDGJ-EfRKI/AAAAAAAAJQ4/Vd6rdFmbbWg/s1600/dsc05535.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/t20l4tdwshfn0733.jpg" >}}
 
 Там же, в центре, находится помпезный Цветной бульвар, явно испытывающий дефицит деревьев.
 
-{{< imgfig "https://4.bp.blogspot.com/-_XtzULwJQTg/TkDG602aAhI/AAAAAAAAJTE/8LzT-sX0nVI/s1600/dsc05462.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/o4duqxpgyrli2882.jpg" >}}
 
 То есть деревья имеются, но толку от них в жару (которую я как раз застал: +35 в тени, +40 в автобусах) никакого:
 
-{{< imgfig "https://3.bp.blogspot.com/-5WNyoUao0Uk/TkDHTjb-DBI/AAAAAAAAJUo/Ht13KfXIan0/s1600/dsc05458.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/69xxnu8uhw7u0787.jpg" >}}
 
 В такую жару каждый клочок земли возле любого водоёма стремительно покрывается отдыхающими телами.
 
-{{< imgfig "https://1.bp.blogspot.com/-VvatZ8I6JLU/TkDGRDj-GDI/AAAAAAAAJRY/yKfsSEyLrZg/s1600/dsc05228.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/26je220vkuxt3293.jpg" >}}
 
 А вдоль местной реки Туры сейчас строится колоссальная набережная:
 
-{{< imgfig "https://2.bp.blogspot.com/-4Jj0bHX40_Q/TkDHAorv4rI/AAAAAAAAJTc/wXGF_qEqp50/s1600/dsc05345.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hzp0iij3oien0369.jpg" >}}
 
 Во времена моего детства вместо набережной были дикие крутые берега, польза от которых была только зимой — с них было здорово спускаться на лыжах.
 
 Набережная закономерно украшена разными помпезными статуями, навроде этой:
 
-{{< imgfig "https://4.bp.blogspot.com/-bT_F1Dr1CbI/TkDGfBkN5TI/AAAAAAAAJSQ/8F0Iji7AAzk/s1600/dsc05590.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/5ownu8vo1lt72692.jpg" >}}
 
 А на склонах прикольно изображать Пизанскую башню:
 
-{{< imgfig "https://4.bp.blogspot.com/-zhybT9rQEvQ/TkDGqpbh1xI/AAAAAAAAJS8/WPYDO3OsVl4/s1600/dsc05632.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1z9g75vsga131064.jpg" >}}
 
 У противоположного берега даже ~~припарковано~~ пришвартовано плавучее кафе с надписью не по-нашему. Ожидается наплыв иностранцев:
 
-{{< imgfig "https://1.bp.blogspot.com/-oxG4BWGjHyQ/TkDHMcyKcOI/AAAAAAAAJUM/0fzrJ7ERmeA/s1600/dsc05338.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/3k31ji20gtg82462.jpg" >}}
 
 Примечательно многообразие прибрежной фауны:
 
-{{< imgfig "https://3.bp.blogspot.com/-C0grVJV83HU/TkDG93fzNXI/AAAAAAAAJTQ/4sL8hYMd7fA/s1600/dsc05649.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zr0xpk2ssq7c2296.jpg" >}}
 
 Аналогичные же статуи расставлены и в других местах города. Вот, например, памятник безымянному дворнику, напоминающий о пользе гигиены:
 
-{{< imgfig "https://1.bp.blogspot.com/-AkW9a6QmqTY/TkDFh0CI9BI/AAAAAAAAJP8/YOuhLoAokwk/s1600/dsc05541.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/5677tauaw61e1645.jpg" >}}
 
 Помпезность (a.k.a. понты) проявляется не только в архитектуре. В этот приезд в Тюмень мне довелось посетить изрядное количество кафе и ресторанов, и я отметил, что у большинства подобных заведений меню очень объёмное и состоит из множества нерусских слов, написанных русскими буквами (оно и понятно, по-английски, а тем паче по-итальянски никто ведь не прочтёт), всякие «карпаччо», «тальятелле» и «прошутто». В большинстве ресторанов в Нидерландах меню гораздо короче и составлено на местном языке. Исключение составляют национальные рестораны, где в итальянских работают итальянцы, в китайских — китайцы и т. д.
 
@@ -88,11 +88,11 @@ aliases:
 
 Ещё одно общеизвестное различие — это прекрасный пол. В Тюмени ни одна девушка не позволит себе выйти на улицу ненакрашенной, без причёски (или вообще с немытыми волосами) и одетой во что попало. Это, на мой взгляд, беда современного эмансипированного общества, что в Европе таких добрая половина. Мне даже кажется, что голландки несколько опережают прочих в этом антирейтинге. Особенно добивает их манера не обращать никакого внимания на цвета одежды и надевать свои любимые коричневые сапоги к любому наряду и погоде.
 
-{{< imgfig "https://2.bp.blogspot.com/-E4E0DPDTmqQ/TgXSwoBHDfI/AAAAAAAAItc/iILMgAoUb-4/s1600/dsc04059.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/k03gptxi135k0387.jpg" >}}
 
 Ну, а в остальном… Всё та же Расея-матушка:
 
-{{< imgfig "https://1.bp.blogspot.com/-qmaDMrjNAXE/TkDGeMcxSkI/AAAAAAAAJSM/GETYZZcsBZc/s1600/dsc05542.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/lsekjuowyijk1735.jpg" >}}
 
 Когда я возвращался, на рейсе в Амстердам были голландские стюардессы, и значительную часть пассажиров тоже составляли голландцы. Последние выражали стюардессам свою радость по поводу того, что они наконец-то могут говорить на родном языке. «Эти русские, — говорили они, — по-английски ну вообще никак».
 

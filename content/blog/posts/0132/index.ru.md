@@ -3,7 +3,7 @@ type: post
 date: "2011-12-03T00:00:00Z"
 title: "Йоханнес Хестерс"
 tags: ["Амерсфорт", "интересное", "Йоханнес Хестерс", "Нидерланды", "СМИ"]
-image: "https://1.bp.blogspot.com/--r7wiWdehU4/TtoCKObxlnI/AAAAAAAAKjY/MIB2vVbvCxc/s1600/heesters.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/raybxus46qbg1787.jpg"
 places:
     - place0076
 aliases:
@@ -20,4 +20,4 @@ aliases:
 
 24 января 2011 года 107-летний певец неожиданно выступил в нашем амерсфортском театре [De Flint](http://www.deflint.nl/) на прощальном концерте, посвящённом уходу директора театра Питера Эркеленса ({{< fl "Pieter Erkelens" >}}). Присутствовавший там же бургомистр Амерсфорта Болсиус [встал и покинул зал](http://www.ad.nl/ad/nl/1012/Binnenland/article/detail/1888159/2011/01/25/Omstreden-Heesters-107-even-terug-in-Amersfoort.dhtml), его примеру также последовали другие — это событие вызвало определённый резонанс.
 
-{{< imgfig "https://1.bp.blogspot.com/--r7wiWdehU4/TtoCKObxlnI/AAAAAAAAKjY/MIB2vVbvCxc/s1600/heesters.jpg" "Йоханнес Хестерс. Photo ©André van der Velde." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/raybxus46qbg1787.jpg" "Йоханнес Хестерс. Photo ©André van der Velde." >}}

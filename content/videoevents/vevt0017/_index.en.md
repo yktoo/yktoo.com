@@ -5,7 +5,7 @@ dateFrom: 2013-08-31
 dateTo: 2013-08-31
 location: "Amersfoort, Netherlands"
 websiteUrl: ""
-image: "https://3.bp.blogspot.com/-HebMeKOgPcg/Uid-GMZH2QI/AAAAAAAAaVw/RqKy6QgKzas/s1600/dsc01100.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/vhr7jqtmy9lj3325.jpg"
 videocategories: music
 posts: "0197"
 ---

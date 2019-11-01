@@ -8,7 +8,7 @@ tags:
     - политика
     - бизнес
     - предпринимательство
-image: "https://1.bp.blogspot.com/-wxNtli27Ikg/XYt7mAHBzPI/AAAAAAAAyAI/Bf3iTUIcfSkK8q4Yp5EtDF5EBzNB1yTYACKgBGAsYHg/s1600/20190911_192546.w.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/x6rl3qcqjttw0693.jpg"
 series: Доля предпринимательская
 ---
 
@@ -24,7 +24,7 @@ series: Доля предпринимательская
 
 На него были приглашены, помимо представителей предпринимательской фауны, члены основных политических партий и высокопоставленные чиновники, среди которых один из самых главных — председатель {{< a "https://www.reguleringvanwerk.nl/" "Комиссии по регулированию труда" >}} {{< fl "H. Borstlap" >}}.
 
-{{< imgfig "https://1.bp.blogspot.com/-5qIae7tmMMg/XYt7mMlNrJI/AAAAAAAAyAI/8rMlyuB7g-sd6oGiqNjjBurp-TUrjTzSwCKgBGAsYHg/s1600/20190911_192542.w.jpg" "Перед началом встречи." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/40zdxl2h8mbm2299.jpg" "Перед началом встречи." >}}
 
 Мероприятие проходило в одном из залов гаагского кинотеатра {{< fl "Pathé Buitenhof" >}}, и на него собралось внушительное количество людей в костюмах, хотя нельзя сказать, что зал был битком.
 
@@ -32,7 +32,7 @@ series: Доля предпринимательская
 
 В самом начале встречи документ торжественно представили председателю Комиссии, после чего тот отчалил по своим важным председательским делам.
 
-{{< imgfig "https://1.bp.blogspot.com/-gkKZEMj3Vl0/XYt7mAWTxQI/AAAAAAAAyAI/WMENrJEWIv88SVnlMZpA4ke8wqdFCcxYgCKgBGAsYHg/s1600/20190911_193432.w.jpg" "Представление Манифеста господину Борстлапу." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/j1r9lm18jigu2738.jpg" "Представление Манифеста господину Борстлапу." >}}
 
 На сцену вышли представители основных политических партий страны: {{< fl "PvdA" >}}, {{< fl "D66" >}}, {{< fl "GroenLinks" >}}, {{< fl "VVD" >}}, некоторые не смогли приехать — вместо этого воспроизвели их видеообращения.
 
@@ -40,11 +40,11 @@ series: Доля предпринимательская
 
 Время от времени к дискусии подключали зал, предлагая поучаствовать в интерактивном голосовании с помощью сервиса {{< a "https://www.menti.com/" "Mentimeter" >}}.
 
-{{< imgfig "https://1.bp.blogspot.com/-I0ZXIg8JZDM/XYt7mJybJ2I/AAAAAAAAyAI/quCiNEVI6GA3IycHr4YnZOd-JqByxQDGACKgBGAsYHg/s1600/20190911_195428.w.jpg" "Опрос: «Являетесь ли вы независимым предпринимателем?»." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0w0y5xz0pi892131.jpg" "Опрос: «Являетесь ли вы независимым предпринимателем?»." >}}
 
 Эти голосования демонстрировали единодушие публики (на что явно и рассчитывали организаторы), при котором один из вариантов неизменно набирал **75-80%**.
 
-{{< imgfig "https://1.bp.blogspot.com/-qPNsWZQ2awM/XYt7mA671oI/AAAAAAAAyAI/Lra5iuyOZU8wuoJOi70RkgPbC82jXhz-gCKgBGAsYHg/s1600/20190911_201337.w.jpg" "Опрос насчёт необходимости отдельного свода правил для предпринимателей." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/bdpmkpy2lo6p0795.jpg" "Опрос насчёт необходимости отдельного свода правил для предпринимателей." >}}
 
 Дискуссия эта была очень тесно связана с {{< a "0379" "Wet DBA" >}} и смежными с ним проблемами. Смысл манифеста можно вкраце выразить в четырёх пунктах:
 
@@ -57,7 +57,7 @@ series: Доля предпринимательская
 
 По окончании дебатов состоялось официальное вручение Манифеста представителям правительства:
 
-{{< imgfig "https://1.bp.blogspot.com/-1mFwZYHqd1M/XYt7mHG0eCI/AAAAAAAAyAI/2HKkNViOZbQw7cZgaQTsNW1Pg0hGtPweACKgBGAsYHg/s1600/20190911_213359.w.jpg" "Официальное вручение Манифеста." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/55k0g0vigk8q0447.jpg" "Официальное вручение Манифеста." >}}
 
 Что я могу сказать по итогам встречи?
 

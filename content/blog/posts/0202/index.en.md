@@ -3,7 +3,7 @@ type: post
 date: "2013-11-09T00:00:00Z"
 title: "Two more nights with Stream of Passion"
 tags: ["Amstelveen", "music", "Netherlands", "P60", "progressive metal", "Stream of Passion", "Tivoli Spiegelbar", "Utrecht", "Winter in Eden"]
-image: "https://4.bp.blogspot.com/-SKjoo_QXsho/UjBocfrz-iI/AAAAAAAAaZU/SSXcuppuJq4/s1600/dsc01128.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/63mo8nyjl7yw1229.jpg"
 places:
     - place0001
     - place0002
@@ -23,29 +23,29 @@ The first one happened on September 6<sup>th</sup> in the club [P60](http://www.
 
 The supporting act was for the British progressive metal band [Winter in Eden](http://www.winterineden.com/), which I never heard about.
 
-{{< imgfig "https://4.bp.blogspot.com/-SKjoo_QXsho/UjBocfrz-iI/AAAAAAAAaZU/SSXcuppuJq4/s1600/dsc01128.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/63mo8nyjl7yw1229.jpg" >}}
 
 Just like the headliners, it's a female-fronted band (I have a strong impression that rock ladies prefer to stick together) with Vicky Johnson on vocals.
 
-{{< imgfig "https://2.bp.blogspot.com/-o0CJ6PlprEk/UjBomZHfnkI/AAAAAAAAaaU/FPDIZJWd50w/s1600/dsc01216.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vrbx3v3lq88v0690.jpg" >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-I-hDBg_4eJc/UjBoi7NDkxI/AAAAAAAAaZ8/PS5k5ylfl_c/s1600/dsc01150.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/lat1r8v2h0uw2315.jpg" >}}
 
-{{< imgfig "https://4.bp.blogspot.com/-f4lVSk28Bwk/UjBolKZ2bpI/AAAAAAAAaaM/IORBnURNlf8/s1600/dsc01210.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pp7ey9z73w950548.jpg" >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-oqpaC0q2Hdw/UjBoniF16cI/AAAAAAAAaac/RwyW9iGhMdQ/s1600/dsc01239.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/mprg811qp9x71009.jpg" >}}
 
 Sam Cull on guitars, wearing a funny tail-coat:
 
-{{< imgfig "https://1.bp.blogspot.com/-2XYSi7d0dUM/UjBodmk-66I/AAAAAAAAaZc/aaSGsCnu5b8/s1600/dsc01136.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/8g3cd6t0wd3t1280.jpg" >}}
 
 Ian Heddle on the bass, his fingernails painted black:
 
-{{< imgfig "https://3.bp.blogspot.com/-YZaK-Rfes7k/UjBoeyh7T7I/AAAAAAAAaZk/jzQRMKYanoo/s1600/dsc01138.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/jrvjbjfp0m6b0183.jpg" >}}
 
 There are also Steve Johnson (somehow related to Vicky?) on keyboards and Steve Hauxwell, buried deeply behind the drums. I liked their music, and I think there is potential which needs to be realised. It would be interesting to see them in a few years.
 
-{{< imgfig "https://3.bp.blogspot.com/-kjvceYmZZEk/UjBogVRpp3I/AAAAAAAAaZs/TlaioC68ZP8/s1600/dsc01143.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/uzqa50mrv8qk0310.jpg" >}}
 
 I've taken a couple of videos:
 
@@ -57,15 +57,15 @@ I've taken a couple of videos:
 
 There was a stir on the stage during the break that followed. Curious how many people support a band of just five members.
 
-{{< imgfig "https://1.bp.blogspot.com/-b-FcBx8sB2k/UjBoq54NA8I/AAAAAAAAaas/e0tuCFb_IVQ/s1600/dsc01245.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/5m84bqnbqdmf1551.jpg" >}}
 
 On the contrary, the audience was not that crowded. And this is what I love about P60.
 
-{{< imgfig "https://3.bp.blogspot.com/-3_uSf9rEfXw/UjBopDO5coI/AAAAAAAAaak/NRJMCxzZpbc/s1600/dsc01241.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/d11kixz31ake1160.jpg" >}}
 
 I've made a sneak photo of the setlist pinned by a monitor:
 
-{{< imgfig "https://2.bp.blogspot.com/-LDS3wNVvELo/UjBouT_1DbI/AAAAAAAAaa8/rHv2Wri_A3U/s1600/dsc01253.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/oxsr6ypkzz510396.jpg" >}}
 
 It's not as straightforward as one might think. Quite a few songs are in Drop D, and Broken is played on seven strings.
 
@@ -75,59 +75,59 @@ After the break (and a couple of beers) the show started again. Here's the openi
 
 The band played as brilliantly as ever, even though there was nothing new on the setlist. Below are some photos:
 
-{{< imgfig "https://2.bp.blogspot.com/-X1ErzZeiBdU/UjBowi5vyBI/AAAAAAAAabM/wETx-Uzt2Xc/s1600/dsc01265.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/iyb1snij12552659.jpg" >}}
 
-{{< imgfig "https://3.bp.blogspot.com/-boiKm9wTa3A/UjBovpkz8jI/AAAAAAAAabE/G12hNC9M3E4/s1600/dsc01261.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/qpvl8r06ndez2257.jpg" >}}
 
-{{< imgfig "https://2.bp.blogspot.com/-huUkd7yzaQM/UjBoyK2NpXI/AAAAAAAAabU/AfLnx0fmYBc/s1600/dsc01267.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/00otqwifee1m2480.jpg" >}}
 
-{{< imgfig "https://3.bp.blogspot.com/-2jh0zPNtbVg/UjBozTm0ixI/AAAAAAAAabc/nE2jUD7mKv8/s1600/dsc01273.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/kzf8rt895rkl0842.jpg" >}}
 
-{{< imgfig "https://2.bp.blogspot.com/-Vq8v7VmfLRU/UjBo1fBxc2I/AAAAAAAAabk/2FTsiVsfBrU/s1600/dsc01284.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cj63y5js59tq1607.jpg" >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-IlbMC8y4nm4/UjBo5BXfahI/AAAAAAAAab8/gXjQmV-6m5c/s1600/dsc01298.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/d4akhx490kah1260.jpg" >}}
 
-{{< imgfig "https://3.bp.blogspot.com/-QTtGYCnOa8w/UjBo6X1znlI/AAAAAAAAacE/SmTMaYgmztY/s1600/dsc01305.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xczv7wo61iyd0827.jpg" >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-28paEU8fXR0/UjBo7p3cEzI/AAAAAAAAacM/z8Ceakizmhc/s1600/dsc01309.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9j67fnaribv12154.jpg" >}}
 
-{{< imgfig "https://3.bp.blogspot.com/-X3gXRaUwcKk/UjBo2v281jI/AAAAAAAAabs/pxawg4WQ48g/s1600/dsc01288.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ohwyoyy1lq8r2735.jpg" >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-X-2DUgcY01g/UjBo8wfQqmI/AAAAAAAAacU/Im-Yuqcx6ys/s1600/dsc01315.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/q173nfmeadfg1180.jpg" >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-bnoe5zKQF0M/UjBo-E1aP7I/AAAAAAAAacc/6_UgDRSWMWk/s1600/dsc01320.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hycr5ie75jbd2040.jpg" >}}
 
-{{< imgfig "https://3.bp.blogspot.com/-0yvBiLQL8_w/UjBo317lDfI/AAAAAAAAab0/bTQHXqs2kRs/s1600/dsc01289.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/deqij04u1usd0033.jpg" >}}
 
-{{< imgfig "https://4.bp.blogspot.com/-l55RRswkVuE/UjBo_ctJlBI/AAAAAAAAack/NXWheiGbF08/s1600/dsc01323.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/utdgcnj1g9oh3153.jpg" >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-qHSbHYVY6TY/UjBpB2QaNSI/AAAAAAAAac0/czx68o3Ofo0/s1600/dsc01347.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ck8vkbcj14at1666.jpg" >}}
 
-{{< imgfig "https://4.bp.blogspot.com/-J55_V6BS06g/UjBpDPYp75I/AAAAAAAAac8/xZDPzRBKunE/s1600/dsc01364.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xn3l6kwlkc470280.jpg" >}}
 
-{{< imgfig "https://4.bp.blogspot.com/-OUWwdvf7rhs/UjBpFswVF2I/AAAAAAAAadM/bESZIa2JGnQ/s1600/dsc01370.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/54u73yx39l0j0493.jpg" >}}
 
 And some "bird's eye" photography (except for a couple of photographers, the balcony was almost empty):
 
-{{< imgfig "https://3.bp.blogspot.com/-4T8UQqoOly0/UjBpGg7CnYI/AAAAAAAAadU/9absWL-GjDQ/s1600/dsc01381.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/up1sw842wyjc1456.jpg" >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-Zl8w2-43cvA/UjBpHyNxFKI/AAAAAAAAadc/10ajA5FTtGc/s1600/dsc01395.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/d5gncnfpep7b2345.jpg" >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-e4mTF0IB2Hw/UjBpKNGe2OI/AAAAAAAAadk/RC3tI8l31AE/s1600/dsc01407.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/rvis92t8jk8v1994.jpg" >}}
 
-{{< imgfig "https://4.bp.blogspot.com/-1_4howh8KDI/UjBpK486mcI/AAAAAAAAads/-qnIjvqpwXc/s1600/dsc01409.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ddsk9ojn24jt0146.jpg" >}}
 
-{{< imgfig "https://4.bp.blogspot.com/--0p7W3r5L5g/UjBpLgxkG2I/AAAAAAAAad0/RMHamaWMAxs/s1600/dsc01424.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zwzdknerg6fu3166.jpg" >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-WdFJzJ8DHd4/UjBpMSwgK2I/AAAAAAAAad8/6abMUyM3yLA/s1600/dsc01428.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/99t2jhp1k52t0385.jpg" >}}
 
 The end. Everyone's tired but happy (especially the ones with Heineken, and myself):
 
-{{< imgfig "https://2.bp.blogspot.com/-rfbjQ-nmW40/UjBpNGCpB1I/AAAAAAAAaeE/wXJb5u2dFHM/s1600/dsc01435.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hpnzozct1o5a1203.jpg" >}}
 
 That's because Eric Hazebroek dropped a few picks into the auditorium, and I was fortunate to find one, using my mobile as a torch. So that's my unique haul:
 
-{{< imgfig "https://1.bp.blogspot.com/-TDqnCustFjM/UjBpN97VXTI/AAAAAAAAaeM/Lpsk8aslfLw/s1600/dsc01445.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vzxfe5odniol0824.jpg" >}}
 
 The pick is very handy by the way. Small and sharp, just like Petrucci's [Dunlop Jazz III](http://www.jimdunlop.com/product/john-petrucci-jazz-iii).
 
@@ -147,15 +147,15 @@ What can I say, I was blown away! Marcela's voice sounds fantastic in acoustic, 
 
 She started off with a piece by Mozart:
 
-{{< imgfig "https://2.bp.blogspot.com/-rfAcHeUnhkI/UjS5mL1jZbI/AAAAAAAAaic/8Bv_1UKVO8s/s1600/dsc01481.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zosbaigk7nch0702.jpg" >}}
 
 The audience looked puzzled. However then more conventional songs followed, mainly by Stream of Passion, most of which Marcela performed accompanied by Jeffrey Revet on keyboards:
 
-{{< imgfig "https://1.bp.blogspot.com/-B3ayxWR_UAk/UjS5nJvK_4I/AAAAAAAAaik/vseikxiPeNM/s1600/dsc01482.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xhigkdqdbk3p0142.jpg" >}}
 
 She has also sung a new track called [The Curse](http://www.youtube.com/watch?v=HLIpq2_GVlM) from the not yet released album and the Mexican folk song [La Llorona](http://www.youtube.com/watch?v=JuHW_N2cQW8) ("The Weeping Woman") in Spanish.
 
-{{< imgfig "https://4.bp.blogspot.com/-N33eXAQbvOg/UjS5oIRDG6I/AAAAAAAAais/36sBu9Sqtog/s1600/dsc01487.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cqazpnd3dk2f3028.jpg" >}}
 
 For a couple of songs she was joined by the Greek Maxi Nil from the Austrian band [Visions of Atlantis](http://www.visionsofatlantis.com/) (fully international setting, yes).
 

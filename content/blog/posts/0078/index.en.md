@@ -3,13 +3,13 @@ type: post
 date: "2011-03-23T00:00:00Z"
 title: "Uninstalling Dictators: Amended Version"
 tags: ["banter", "corruption", "funny", "Russia"]
-image: "https://2.bp.blogspot.com/-MNQ_glP58UE/TYpDW4pLE3I/AAAAAAAAIFc/9eNjrxBfRxs/s1600/uninstalling-dictators.png"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/wtblrn7skp810627.png"
 aliases:
     - /en/blog/post/78
 ---
 
 Originally found on the Internet. I amended the picture by including Russia.
 
-{{< imgfig "https://2.bp.blogspot.com/-MNQ_glP58UE/TYpDW4pLE3I/AAAAAAAAIFc/9eNjrxBfRxs/s1600/uninstalling-dictators.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/wtblrn7skp810627.png" >}}
 
 Mr {{< wiki "Alexey_Navalny" "en" "Navalny" >}} is an opposition leader that actively tackles corruption in Russia. He has a [blog](http://navalny.com/) (mostly in Russian), which became very prominent in the last years.

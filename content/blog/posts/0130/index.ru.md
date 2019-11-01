@@ -3,12 +3,12 @@ type: post
 date: "2011-11-25T00:00:00Z"
 title: "Штрафы на дорогах в 2012"
 tags: ["авто", "Нидерланды", "транспорт", "штрафы"]
-image: "https://1.bp.blogspot.com/-9hphZNu9iEU/Ts_uFiDrKbI/AAAAAAAAKic/42DToHhreSw/s1600/verkeersboetes.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/at42zqjiftay1230.jpg"
 aliases:
     - /ru/blog/post/130
 ---
 
-{{< imgfig "https://1.bp.blogspot.com/-9hphZNu9iEU/Ts_uFiDrKbI/AAAAAAAAKic/42DToHhreSw/s1600/verkeersboetes.jpg" "Картинка с сайта fleetmotive.nl" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/at42zqjiftay1230.jpg" "Картинка с сайта fleetmotive.nl" >}}
 Как [сообщают](http://www.dutchnews.nl/news/archives/2011/11/traffic_fines_go_up_sharply_ne.php) в новостях, согласно документам Министерства юстиции, в 2012 году штрафы за нарушение правил дорожного движения резко вырастут, порой почти вдвое.
 
 <!--more-->

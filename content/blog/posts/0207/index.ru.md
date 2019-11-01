@@ -3,7 +3,7 @@ type: post
 date: "2013-12-14T00:00:00Z"
 title: "Харлинген"
 tags: ["гавань", "Нидерланды", "порт", "Харлинген"]
-image: "https://2.bp.blogspot.com/-pLASqy3Of8Q/UhoJI6y68HI/AAAAAAAAZbo/TiwV1PaiZ5w/s1600/dsc09727.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/7mw8uo4l73du2513.jpg"
 places:
     - place0186
 aliases:
@@ -14,7 +14,7 @@ aliases:
 
 Впечатления, оставшиеся от поездки, таковы: ветер, небо, много воды и ВИДЫ. Харлинген настолько мал, что его и на карте-то почти не видно — видами любуется лишь около 15 тысяч человек населения.
 
-{{< imgfig "https://2.bp.blogspot.com/-pLASqy3Of8Q/UhoJI6y68HI/AAAAAAAAZbo/TiwV1PaiZ5w/s1600/dsc09727.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/7mw8uo4l73du2513.jpg" >}}
 
 <!--more-->
 
@@ -22,48 +22,48 @@ aliases:
 
 В порту можно подняться на смотровую вышку и в полной мере насладиться окружающими видами — если не боитесь, что вас с неё сдует:
 
-{{< imgfig "https://1.bp.blogspot.com/-94e9sIGXPvU/UhoJX-4G3JI/AAAAAAAAZdA/_q_gcHcUUaY/s1600/dsc09746.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fzg4pm5t6f8w1435.jpg" >}}
 
 А ещё в этом же здании расположен китайский ресторан {{< fl "Sea Palace" >}} («Морской дворец»), где можно насладиться теми же видами в менее ветренных условиях.
 
 Но вид с башни всё равно лучше. Старый Внешний порт ({{< fl "Oude Buitenhaven" >}}) с проходами во внутренние порты с незамысловатыми названиями Северный ({{< fl "Noorderhaven" >}}, слева) и Южный ({{< fl "Zuiderhaven" >}}, справа):
 
-{{< imgfig "https://1.bp.blogspot.com/-xUkxns1HvlM/UhoJROAGBSI/AAAAAAAAZcY/OCTA_3jetQY/s1600/dsc09738.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hal23w6tae5m2993.jpg" >}}
 
 Домики выглядят как игрушечные, хоть открытки делай:
 
-{{< imgfig "https://3.bp.blogspot.com/-iygW7V7j5O4/UqzB0QVxYqI/AAAAAAAAbAo/wg8IRfiNuZ4/s1600/dsc09737.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/eamgmijergeq0644.jpg" >}}
 
 С противоположной стороны Ваттовое море, от которого город защищён очень длинным волноломом замысловатой формы:
 
-{{< imgfig "https://1.bp.blogspot.com/-QY-CZs-r3k0/UhoJM8He13I/AAAAAAAAZcA/7OGtPnah_qo/s1600/dsc09731.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fpu0v59lybyz1568.jpg" >}}
 
 Так и представляется, как харлингенская мамаша говорит своему чаду: «Как солнце за волнолом сядет — чтоб сразу домой!»
 
-{{< imgfig "https://1.bp.blogspot.com/-4ahwgsBoXmo/UhoJLWHlQ9I/AAAAAAAAZb4/TF0lQkM-uMs/s1600/dsc09730.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/c22k1wyn46540060.jpg" >}}
 
 А вот и чадо, не послушавшееся маму и не пришедшее домой ни до, ни после заката. Как вы думаете, что делает этот мальчик?
 
-{{< imgfig "https://1.bp.blogspot.com/-Sqc7B3_lHRU/UhoJKPuifeI/AAAAAAAAZbw/nLGYesQCEAU/s1600/dsc09729.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/d6ekkusuw99b1723.jpg" >}}
 
 Этот юный голландец родом не из Харлингена, а из Харлема (что вовсе не одно и то же), герой романа американской писательницы Мэри Мэйпс Додж «{{< wiki "Серебряные_коньки" "ru" "Ганс Бринкер, или Серебряные коньки" >}}». Отважный мальчик, сын смотрителя шлюза, как-то заметил, что через дырку в дамбе хлещет вода. Не долго думая, ~~с криком «за Родину!»,~~ он подбежал и заткнул отверстие пальцем, оказавшимся как раз по размеру. Потом, не оставляя этого общественно важного занятия, он стал звать на помощь — помощь же, как водится, всё не шла. Согласно легенде, смельчак Ганс просидел весь вечер и всю ночь, обороняя не подозревающий о нависшей опасности город, и лишь следующим утром проходивший мимо священник организовал подмогу и освободил его от этого несложного, но утомительного занятия. Голландцы, для которых противостояние воде — лейтмотив их существования, установили памятники легендарному Гансу и в других городах.
 
 Шли годы, десятилетия и века, технологии совершенствовались. Вот эта стена слева представляет собой вторую линию обороны от высокой воды:
 
-{{< imgfig "https://3.bp.blogspot.com/-YmI3SZbcsxI/UhoJWy03cDI/AAAAAAAAZc4/qxFAglJf8hc/s1600/dsc09745.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0d86bd1aidiu0912.jpg" >}}
 
 Отверстие в ней, однако, такое, что пальцем его не заткнёшь:
 
-{{< imgfig "https://4.bp.blogspot.com/-TFDREKojdEY/UhoJUNHLb6I/AAAAAAAAZco/yDeWHF_RdLw/s1600/dsc09743.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/3d9id6er91yp1811.jpg" >}}
 
 Заменителем пальца здесь служит мощная стальная перегородка, выдвигающаяся и перекрывающая отверстие в случае необходимости:
 
-{{< imgfig "https://1.bp.blogspot.com/-m6C8RVLnigg/UhoJVq5Y_hI/AAAAAAAAZcw/7u2w4oDBp0Y/s1600/dsc09744.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0fokia1e4owu2510.jpg" >}}
 
 Не знаю, использовался ли когда-либо этот механизм по назначению. Пока что всё здесь так безмятежно:
 
-{{< imgfig "https://3.bp.blogspot.com/-C5t7RTba4Aw/UhoJSuocC_I/AAAAAAAAZcg/vmNliiy0abY/s1600/dsc09739.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/8ky779wtjbu23143.jpg" >}}
 
 И напоследок — слегка изломанная панорама гавани:
 
-{{< imgfig "https://3.bp.blogspot.com/-Rp8KayVbh6o/UhoJOlTYjQI/AAAAAAAAZcI/VlA6Wm9LOds/s1600/dsc09732.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/mmpv4q5xp8wn1167.jpg" >}}

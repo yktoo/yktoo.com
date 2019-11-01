@@ -3,7 +3,7 @@ type: post
 date: "2016-07-17T00:00:00Z"
 title: "Sun Caged Farewell Show"
 tags: ["De Bosuil", "Marcel Coenen", "Marcel Coenen  Friends", "music", "Paul Villarreal", "progressive metal", "Sun Caged", "The Barstool Philosophers", "Weert"]
-image: "https://4.bp.blogspot.com/-L3-s4NiT2L4/V1RAFo8gHeI/AAAAAAAAmVw/ufBrvACf9NYhNpMgM9x7M2HwMILFivwJQCKgB/s1600/dsc02329.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/hflrx598j9ny2018.jpg"
 places:
     - place0241
 aliases:
@@ -20,7 +20,7 @@ But nothing lasts forever. I reckon the band has had a bumpy ride, which is none
 
 The American singer *Paul Adrian Villarreal* has decided to return to his homeland, the USA. Which meant *Sun Caged* had to disband.
 
-{{< imgfig "https://4.bp.blogspot.com/-L3-s4NiT2L4/V1RAFo8gHeI/AAAAAAAAmVw/ufBrvACf9NYhNpMgM9x7M2HwMILFivwJQCKgB/s1600/dsc02329.picasaweb.jpg" "Paul Villarreal." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hflrx598j9ny2018.jpg" "Paul Villarreal." >}}
 
 Another important point is that he also wrote all the lyrics, and it is impressive. I doubt a non-native English speaker would be up to something like this:
 
@@ -42,7 +42,7 @@ So on May 20, 2016 *Sun Caged* has hit the stage for the last time. The gig was 
 
 The club was pretty small, and so was the audience. I'd say fifty people at most.
 
-{{< imgfig "https://4.bp.blogspot.com/-Zvv31vD_yDg/V1RAFizgr4I/AAAAAAAAmVw/EySxsG8VjAIia2_unOTSJPVkZMG4cST4QCKgB/s1600/dsc02330.picasaweb.jpg" "Audience." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/7bhri0jt22kh2855.jpg" "Audience." >}}
 
 And for that you can arguably blame the very remote location and the ungodly hour: the show started at 20:30, whereas the headliners began to play around 23:00. As to why they decided to have it there, perhaps because most of the band's members live in the vicinity of Weert.
 
@@ -52,21 +52,21 @@ There were also two support acts: *Marcel Coenen & Friends* and *The Barstool Ph
 
 ## Marcel Coenen & Friends {#marcel-coenen-friends}
 
-{{< imgfig "https://1.bp.blogspot.com/-bzFGicJUVWY/V1RAFnfGiwI/AAAAAAAAmVw/93NQnzXTcBAPJAEYamq6JdFBdEBNKjZlwCKgB/s1600/dsc02299.picasaweb.jpg" "Marcel Coenen & Friends." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ygo61jex60yt2639.jpg" "Marcel Coenen & Friends." >}}
 
 The name of the band speaks for itself: it's formed around the guitarist [Marcel Coenen](http://marcelcoenen.com/), who also played in *Sun Caged*.
 
-{{< imgfig "https://3.bp.blogspot.com/-8nlyrAvXaFE/V1RAFswobOI/AAAAAAAAmVw/nt2ovnT3NZgmky2VC042fx6RzZn9KYZwACKgB/s1600/dsc02304.picasaweb.jpg" "Marcel Coenen." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/4mqyicy97o782234.jpg" "Marcel Coenen." >}}
 
 Since I saw him {{< a "0022" "last time" "ru" >}} he has clearly grown, both in proficiency and in size.
 
 The band also features another *Sun Caged* member, the keyboardist *Rene Kroon*.
 
-{{< imgfig "https://4.bp.blogspot.com/-6j8YU5zoBRg/V1RAFvhm7AI/AAAAAAAAmVw/6k3LTHLpIUkA8jhry8VB3aDGq4s4WprmACKgB/s1600/dsc02317.picasaweb.jpg" "Rene Kroon." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/r4iib5yb8lt70284.jpg" "Rene Kroon." >}}
 
 The drummer [Hans in 't Zandt](http://www.hansintzandt.nl/):
 
-{{< imgfig "https://4.bp.blogspot.com/-IU8bk_ThHOM/V1RAFgy9dOI/AAAAAAAAmVw/J2NQI-yo4qA0iRvoYx5CxU7Bo9t4kejAwCKgB/s1600/dsc02310.picasaweb.jpg" "Hans in 't Zandt." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zqelqochtjma1469.jpg" "Hans in 't Zandt." >}}
 
 The music is [quite interesting](https://www.youtube.com/watch?v=liZWxAxXN0k) at times, but to me it's clear it's all glued by the wizardry of Marcel. The band's style can be described as mainstream rock a-la Yngwie Malmsteen with a touch of fusion. The other guitarist *Freek Gielen* is also quite [capable](https://www.youtube.com/watch?v=04CaVtrPDmo), yet you don't notice much of that when he's with the band.
 
@@ -80,19 +80,19 @@ Another, this time quite complicated, tune called *Patron Saint* with Paul doing
 
 At last I made a photo of their set-list:
 
-{{< imgfig "https://2.bp.blogspot.com/-he3NQj1r7Ks/V1RAFhBhOqI/AAAAAAAAmVw/HHYtOrEv1v4Obn4s02CLAaIwwK72XdynwCKgB/s1600/20160520_225519.picasaweb.jpg" "Set-list of Marcel Coenen & Friends." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/81m1t3hi49yg0043.jpg" "Set-list of Marcel Coenen & Friends." >}}
 
 ## The Barstool Philosophers {#the-barstool-philosophers}
 
 This lot didn't really move me. I believe there's quite some room to grow (practice?), also the way they behave on-stage isn't very inspiring. Even the presence of Rene Kroon doesn't contribute much.
 
-{{< imgfig "https://1.bp.blogspot.com/-Hd7w7Uk9HUs/V1RAFq88b6I/AAAAAAAAmVw/fb_9C-mDp7soo6z_Ux4TQhapJHCPCh4YACKgB/s1600/dsc02337.picasaweb.jpg" "The Barstool Philosophers." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/5bzji3wj6s9x3210.jpg" "The Barstool Philosophers." >}}
 
 ## Sun Caged {#sun-caged}
 
 And, finally, on to my primary target.
 
-{{< imgfig "https://3.bp.blogspot.com/-YFflUBKVjk4/V1RAFis-QaI/AAAAAAAAmVw/VlH4UxRPu6c0MorP2tTtaev4iyGAJnlowCKgB/s1600/20160520_230531.picasaweb.jpg" "Before the show." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/b0o5yht5ebvp3375.jpg" "Before the show." >}}
 
 I can't express how heart-broken I am at the fact the band doesn't exist anymore. It's even more upsetting the guys, given all their apparent professionalism, never became known well enough. I sense it could have influenced their decision to disband, too, although that would all be guesswork. Unfortunately I didn't manage to find any recent information or interview with the band.
 
@@ -104,25 +104,25 @@ Well, some dreams never come true.
 
 The entire show was filmed with a number of professional cameras (including one constantly aimed at Marcel).
 
-{{< imgfig "https://3.bp.blogspot.com/-MjeOoLTh8Qc/V1RAFu_xV3I/AAAAAAAAmU8/FMaXrjc_8rQGBkA3LAMBEYGyanvt5jlhwCKgB/s1600/dsc02394.picasaweb.jpg" "Marcel Coenen." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cw5l5y8pwmay3591.jpg" "Marcel Coenen." >}}
 
 As I was told, the video will be released in Ultra HD (then I can finally make use of {{< a "0243" "4K in my TV" >}}). In the meantime you can enjoy somewhat less professional, yet equally impressing material of my own making.
 
 Another challenge for the band was that the bassist *Daniel Kohn* had some health issues not so long before the show, so he was replaced by *Arnold-Dimitry Rerimassie*.
 
-{{< imgfig "https://1.bp.blogspot.com/-Z3yFciIJIhE/V1RAFrffHVI/AAAAAAAAmVw/VZZ1KQBKXhs8prdcKQmtY-MYHj51uN87gCKgB/s1600/dsc02383.picasaweb.jpg" "Marcel Coenen and Arnold-Dimitry Rerimassie." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xbfr73lfm4xy0281.jpg" "Marcel Coenen and Arnold-Dimitry Rerimassie." >}}
 
 Daniel was also virtually present on Skype:
 
-{{< imgfig "https://3.bp.blogspot.com/-_49MgiysNIs/V1RAFiZTS2I/AAAAAAAAmVw/Cvzx3rZtlWkdtwoKFrUBZgNpG5QQz_djwCKgB/s1600/dsc02368.picasaweb.jpg" "Daniel Kohn on Skype." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/8nszzl2t10xc1794.jpg" "Daniel Kohn on Skype." >}}
 
 Bass tracks by *Sun Caged* are darn sophisticated at times, there's also a number of solo spots. Considering the short lead time, Arnold-Dimitry did a fantastic job; however for me, knowing it all down to a single note, it was sometimes pretty far from the original.
 
-{{< imgfig "https://1.bp.blogspot.com/-KLU20IZcrSg/V1RAFmu78TI/AAAAAAAAmVw/QxOGQUIhMrwHhjV4qSEiowzGGD2JuAVoQCKgB/s1600/dsc02392.picasaweb.jpg" "Marcel Coenen and Arnold-Dimitry Rerimassie." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/x3h9r6vytt9k0971.jpg" "Marcel Coenen and Arnold-Dimitry Rerimassie." >}}
 
 In another [interview](http://ytsejam.com/2011/06/interview-with-paul-adrian-villarreal-marcel-coenen-sun-caged/) recorded shortly after the release of {{< wiki "The_Lotus_Effect" "en" "The Lotus Effect" >}}, Paul explains that the whole album was composed in the rehearsal room and by all members. Also *Engelbert the Inchworm* and *Departing Words* from the previous album {{< wiki "Artemisia_(album)" "en" "Artemisia" >}} were conceived in that way. Having read that, I was surprised as exactly those I deemed their best works.
 
-{{< imgfig "https://1.bp.blogspot.com/-W75YkI0JHYY/V1RAFi8V0LI/AAAAAAAAmVw/hBOGd9NQLyw0e5WCx9vA14entnUKrBmywCKgB/s1600/dsc02360.picasaweb.jpg" "Paul Adrian Villarreal." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/64x16xf2k72e0011.jpg" "Paul Adrian Villarreal." >}}
 
 Back to the gig, the band has played tracks from all three albums, starting with *Sun Caged* from the same-named one:
 
@@ -152,27 +152,27 @@ For encore the band has played the 24 minute long *Ashtamangala*, but unfortunat
 
 That's about it, end of an era. The show was done with, and so was the band. The final appearance:
 
-{{< imgfig "https://2.bp.blogspot.com/-GUTz-jqDsaY/V1RAFoao31I/AAAAAAAAmU8/QTHzwwjnqqAysQOhudfV7pNTtPDZjeNDACKgB/s1600/dsc02422.picasaweb.jpg" "Final appearance." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/727p4u0xyqdv1873.jpg" "Final appearance." >}}
 
 That's kind of a break-up year: first *Sun Caged*, later I learned *Stream of Passion* are also disbanding (the last show will be played at the end of this year).
 
 Some more photos:
 
-{{< imgfig "https://4.bp.blogspot.com/-2RNnoC-2ss4/V1RAFp9CosI/AAAAAAAAmVw/n8RjFT6dqw4MvGeAVFmtXkitoBZZMBGdACKgB/s1600/dsc02361.picasaweb.jpg" "Marcel Coenen." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9wkbhnv64l3p0357.jpg" "Marcel Coenen." >}}
 
-{{< imgfig "https://3.bp.blogspot.com/-b9gXK1SHYBo/V1RAFnBL6NI/AAAAAAAAmVw/N7UBVjxHtCcg9CWNDSYakKTxFGumq34UgCKgB/s1600/dsc02363.picasaweb.jpg" "Paul Adrian Villarreal." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vx28w1xbupmx2149.jpg" "Paul Adrian Villarreal." >}}
 
-{{< imgfig "https://2.bp.blogspot.com/-MFZ1whTljgw/V1RAFnEhSrI/AAAAAAAAmVw/YzCDqF1LHtQkpiQwOODPBZJ5OUNGoHH5QCKgB/s1600/dsc02371.picasaweb.jpg" "Paul Adrian Villarreal." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/lx5hxvg9sske2914.jpg" "Paul Adrian Villarreal." >}}
 
-{{< imgfig "https://3.bp.blogspot.com/-9tz8tOdk4hc/V1RAFj2cQXI/AAAAAAAAmVw/5Q-l2HBQXvc81DB_omaxH8sCemTeB3guQCKgB/s1600/dsc02376.picasaweb.jpg" "Marcel Coenen and Arnold-Dimitry Rerimassie." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9bdtzw9eis5m0377.jpg" "Marcel Coenen and Arnold-Dimitry Rerimassie." >}}
 
-{{< imgfig "https://2.bp.blogspot.com/-s7tWpirvQRU/V1RAFguajOI/AAAAAAAAmVw/suA_mmTD3EYwhEhb_-enJ2PjB4YdwrSZwCKgB/s1600/dsc02354.picasaweb.jpg" "Marcel Coenen." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/l9po0lk0vimz2141.jpg" "Marcel Coenen." >}}
 
-{{< imgfig "https://4.bp.blogspot.com/-SjcWZLLtpd8/V1RAFn7J5gI/AAAAAAAAmU8/qBvwOMmqalkn0KNFhe_f2CUwHbnzglrrgCKgB/s1600/dsc02402.picasaweb.jpg" "Paul Adrian Villarreal with an acoustic guitar." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/d7zdlsq98gt90923.jpg" "Paul Adrian Villarreal with an acoustic guitar." >}}
 
-{{< imgfig "https://2.bp.blogspot.com/-k3aeQxSjVcM/V1RAFqxaDhI/AAAAAAAAmU8/kVh4gVr0D58S7fKLuJYoyPdpTj4XB85lACKgB/s1600/dsc02411.picasaweb.jpg" "Gimme five!" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/uqvfi8st22862096.jpg" "Gimme five!" >}}
 
-{{< imgfig "https://3.bp.blogspot.com/-RUfeoAPcIvI/V1RAFnTxSSI/AAAAAAAAmVw/345BoOeab30CAkQOGKOfbUXBTjasqQ4QACKgB/s1600/dsc02334.picasaweb.jpg" "Sound level meter: 88 dBA." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/yvgbw6kopdr82378.jpg" "Sound level meter: 88 dBA." >}}
 
 ---
 

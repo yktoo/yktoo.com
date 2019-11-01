@@ -3,7 +3,7 @@ type: post
 date: "2010-11-14T00:00:00Z"
 title: "Дилетанты шутят"
 tags: ["Pellikaan", "бег", "впервые", "Нидерланды", "плавание", "спорт"]
-image: "https://1.bp.blogspot.com/-anVer_Qmpx8/T5vYDBhEE1I/AAAAAAAAPyw/KbOgrx2q4IE/s1600/sportfondsenbad-amersfoort.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/tmpjt7opf49g3273.jpg"
 places:
     - place0130
     - place0083
@@ -26,11 +26,11 @@ aliases:
 
 Ну и, соответственно, я зачастил в наш 50-метровый бассейн [Sportfondsenbad Amersfoort](http://www.sro.nl/accommodaties/zwembaden/sportfondsenbad-amersfoort/). Поскольку в плавании я (как и в беге) полный дилетант, средняя скорость у меня была около 2 км/ч, и больше, чем на час, меня не хватало.
 
-{{< imgfig "https://1.bp.blogspot.com/-anVer_Qmpx8/T5vYDBhEE1I/AAAAAAAAPyw/KbOgrx2q4IE/s1600/sportfondsenbad-amersfoort.picasaweb.jpg" "Sportfondsenbad Amersfoort. Фото NOS" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/tmpjt7opf49g3273.jpg" "Sportfondsenbad Amersfoort. Фото NOS" >}}
 
 Потом мы купили абонемент в [Pellikaan](http://www.phrc.nl/) – огромный спортивный клуб, в 5 минутах езды на велике от нашего жилища. Плавательный бассейн там 25-метровый, и плавать 2 км мне было скучно. Так я плавно и переувлёкся бегом.
 
-{{< imgfig "https://3.bp.blogspot.com/-HIsnDTKxu-g/T5vQ3SimuWI/AAAAAAAAPxw/M-YFI__U4FQ/s1600/pellikaan.picasaweb.jpg" "Club Pellikaan Amersfoort. Фото их." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/di1j7t6wxuup3006.jpg" "Club Pellikaan Amersfoort. Фото их." >}}
 
 Какое длинное вступление получилось, однако.
 
@@ -40,7 +40,7 @@ aliases:
 
 Так я направился в присоветованный мне магазин сети [Run2Day](http://www.run2day.nl/), и, надо сказать, мне там действительно понравилось.
 
-{{< imgfig "https://4.bp.blogspot.com/-Su2Em3yvZXU/T5vSPQBV0VI/AAAAAAAAPyA/fnW7RFjAwfk/s1600/run2day.picasaweb.jpg" "Run2Day Amersfoort. Фото из Google Street View." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/tedcxttiapym3102.jpg" "Run2Day Amersfoort. Фото из Google Street View." >}}
 
 Больше всего впечатлили две вещи.
 
@@ -50,7 +50,7 @@ aliases:
 
 Второй вещью было то, что продавцы там предлагают в процессе примерки недешёвых, прямо скажем, кроссовок побегать в них прямо по улице. Да-да, выходишь из магазина и просто так вот по улице в них шлёп-шлёп. Потом в других, третьих…
 
-{{< imgfig "https://4.bp.blogspot.com/-Bv8nQOXaB2o/T5vWt9Qu6HI/AAAAAAAAPyY/7u3wUqr1YAk/s1600/DSC00277.picasaweb.jpg" "Это они: Asics Gel Nimbus 12." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/myk7p6rrhwri3132.jpg" "Это они: Asics Gel Nimbus 12." >}}
 
 В итоге я просто не мог огорчить этих вежливых людей отказом. Придётся бегать теперь, что сделаешь.
 

@@ -18,4 +18,4 @@ aliases:
 
 R. I. P.
 
-{{< imgfig "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Gary-Moore-at-Pite-Havsbad.jpg/463px-Gary-Moore-at-Pite-Havsbad.jpg" "Гэри Мур. Фото Wikimedia." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/gr1ovmv6x4gn1ivqrnzl.jpg" "Гэри Мур. Фото Wikimedia." >}}

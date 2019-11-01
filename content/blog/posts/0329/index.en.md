@@ -3,7 +3,7 @@ type: post
 date: "2017-09-10T00:00:00Z"
 title: "The biggest gadget: Toyota Prius PHV"
 tags: ["car", "gadgets", "Plug-In Hybrid", "Toyota Prius"]
-image: "https://3.bp.blogspot.com/-TM5UJH9RL4M/WThoZVX3b8I/AAAAAAAAqGk/ckLR_7A1HCIoEtTm25SVwK7GEvy08_3tgCKgB/s1600/20170527_131723.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/3otf4wz2wimb0341.jpg"
 aliases:
     - /en/blog/post/329
 ---
@@ -14,13 +14,13 @@ My most bulky gadget needed an upgrade. I've been a devoted {{< wiki "Toyota_Pri
 
 Not that I had any issues with it—quite the opposite, it was totally problem-free during the whole time. But I didn't want to wait for issues to arise. And, of course, one wants something new once in a while.
 
-{{< imgfig "https://3.bp.blogspot.com/-TM5UJH9RL4M/WThoZVX3b8I/AAAAAAAAqGk/ckLR_7A1HCIoEtTm25SVwK7GEvy08_3tgCKgB/s1600/20170527_131723.picasaweb.jpg" "Toyota Prius PHV." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/3otf4wz2wimb0341.jpg" "Toyota Prius PHV." >}}
 
 ## Toyota Prius {#prius}
 
 So I became an owner of **Toyota Prius PHV**, third generation, model *ZVW35*, which was introduced back in 2012. My car was manufactured in September **2014**, meaning it's just turned three.
 
-{{< imgfig "https://2.bp.blogspot.com/-RYsJ_VzbjE0/WThoZS-vxoI/AAAAAAAAqGk/lGn5ZP97L3gftGjJfw6oSFZVE7xT8IvNgCKgB/s1600/20170527_131710.picasaweb.jpg" "Toyota Prius PHV." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/eidd0ypogh8o3001.jpg" "Toyota Prius PHV." >}}
 
 Why do I always choose a *Toyota Prius*?
 
@@ -43,11 +43,11 @@ A *plug-in hybrid*'s battery can be recharged from a regular mains outlet. My Pr
 
 Toyota has decided to stash this larger battery in the boot, and that left no room for the spare wheel. I can only hope I won't need it.
 
-{{< imgfig "https://2.bp.blogspot.com/-daJva3GhoYY/WUdkliiWcCI/AAAAAAAAqIk/89E4uwXOCOsIDf43CBnXyePql1StJnoegCKgBGAs/s1600/20170530_191011.picasaweb.jpg" "The boot of Prius PHV." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/v5q54nnpxqmw1968.jpg" "The boot of Prius PHV." >}}
 
 It takes about an hour to fully charge an "empty" battery (with the current of 10 A, that is with the power of 2.3 kW), which means that an "empty" battery still has some 50% remaining charge. Hence a full charge will cost you circa **25** eurocents at our local tariffs (standard **€0.11**, off-peak **0.09**). Which is almost for free in my view. Driving with petrol is about six times more expensive (and that, mind you, with the hybrid car, which takes only **3-4** litres gasoline for 100 km). Nowadays one litre gasoline costs here about **€1.50**.
 
-{{< imgfig "https://1.bp.blogspot.com/-IWuBt7NwwnI/WUdklvofpVI/AAAAAAAAqIk/0M-GcH8zwMMjFmcwZs8Fg5mP02YLUa1EACKgBGAs/s1600/20170530_191020.picasaweb.jpg" "The battery." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pl87je1t63321096.jpg" "The battery." >}}
 
 You can also program Prius to charge at night, with the off-peak rate.
 
@@ -61,7 +61,7 @@ The rear camera, which is activated automatically as soon as you set the gear to
 
 The *Head-Up Display* (*HUD*) is an awesome addition to the dashboard widgets. It shows the current speed and, optionally, GPS navigation hints—all that right on the windscreen:
 
-{{< imgfig "https://2.bp.blogspot.com/-3Prwy_uwpAM/Wa6RNfUyvlI/AAAAAAAAqn8/Ec6I2_HbFB4KUtG_W9U2wA_RVfqBkorlwCKgBGAs/s1600/20170725_155338.picasaweb.jpg" "Head-Up Display." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/idu1ezzf7gay0290.jpg" "Head-Up Display." >}}
 
 This way you can see your current speed without having to divert your attention from the road. The HUD's position and brightness can be adjusted, and it's well visible under any conditions while staying completely *transparent* for the driver.
 

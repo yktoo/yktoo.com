@@ -3,7 +3,7 @@ type: post
 date: "2011-12-16T00:00:00Z"
 title: "Интеграция Google Music с Убунту"
 tags: ["Google", "Google Music", "Linux", "Ubuntu", "музыка"]
-image: "https://3.bp.blogspot.com/-SIWgCWPXado/TutmMgf6TOI/AAAAAAAAKmo/o7lxADgiPyw/s1600/google-music.png"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/fqvawschyngs0829.png"
 aliases:
     - /ru/blog/post/135
 ---
@@ -12,7 +12,7 @@ aliases:
 
 Моя эпопея с загрузкой 130 ГБ музыки в облако успешно завершилась примерно за четыре дня, и теперь вся моя коллекция доступна мне везде, где есть интернет — с некоторыми ограничениями (которые, возможно, будут устранены, когда сервис выйдет из стадии беты).
 
-{{< imgfig "https://3.bp.blogspot.com/-SIWgCWPXado/TutmMgf6TOI/AAAAAAAAKmo/o7lxADgiPyw/s1600/google-music.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fqvawschyngs0829.png" >}}
 
 <!--more-->
 
@@ -20,7 +20,7 @@ aliases:
 
 Но мне больше понравилось расширение [Play/Pause 4 Grooveshark & Google Music](http://chrome.google.com/webstore/detail/ocimhajpehjmepnegklahceceebnened), которое просто добавляет кнопку воспроизведения/паузы прямо на панель инструментов (имеются аналогичные расширения для кнопок [«Назад»](http://chrome.google.com/webstore/detail/iklcgmiodfcphjidljmbbblgbicapmhf) и [«Вперёд»](http://chrome.google.com/webstore/detail/niblnbcmjmbbadnkhjecmfgnlhafkhja)):
 
-{{< imgfig "https://4.bp.blogspot.com/--dEgGoBh6cs/TutmL6YLg3I/AAAAAAAAKmY/_nr-R2rK5Sw/s1600/chrome-play-button.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/90ca6ffxmbx20709.png" >}}
 
 Однако при всех своих удобствах, Google Music по-прежнему остаётся страницей, работающей в браузере, и интеграция с системой как таковая отсутствует: мне в первую очередь не хватало возможности управлять плеером с помощью клавиатуры.
 
@@ -28,15 +28,15 @@ aliases:
 
 Google Music Frame по сути представляет собой просто страницу Google Music, встроенную в приложение — иное решение вряд ли будет возможно до тех пор, пока Google не предоставит полноценного API для этого сервиса:
 
-{{< imgfig "https://3.bp.blogspot.com/-IwHHkktbWhY/TutmL0D2fJI/AAAAAAAAKmg/vzeD5haXL2o/s1600/google-music-frame-main-window.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9a1ev959go1f0008.png" >}}
 
 Плеер добавляет свои пункты в кнопку Панели запуска:
 
-{{< imgfig "https://2.bp.blogspot.com/-PgfdtxiSUZU/TutmL8wZV2I/AAAAAAAAKmc/Lb0BZv93-LA/s1600/google-music-frame-launcher.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/bhlxrchffx6z3444.png" >}}
 
 А также интегрирует сервис в Ubuntu Sound Menu:
 
-{{< imgfig "https://4.bp.blogspot.com/-ZCD5vXQ8PJI/TutmMQUphNI/AAAAAAAAKmk/8V93xPRNtUk/s1600/google-music-frame-sound-menu.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/48j6fg0gea3g2059.png" >}}
 
 Итак, чтобы установить приложение:
 
@@ -46,10 +46,10 @@ Google Music Frame по сути представляет собой прост�
 
 После установки в Dash появляется приложение **Google Music Frame**:
 
-{{< imgfig "https://4.bp.blogspot.com/-dFpo6QEpIIU/Tutumulv0mI/AAAAAAAAKnU/icbSAIF5F50/s1600/google-music-frame-dash.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/5lxabv4tvwer2401.png" >}}
 
 Приложение может выводить стандартные уведомления Убунту при смене трека, а также реагировать на нажатия клавиш управления вопроизведения. Последними можно назначить любые комбинации клавиш на клавиатуре с помощью стандартного **Центра управления GNOME**:
 
-{{< imgfig "https://2.bp.blogspot.com/-R4cUdouYo9c/TutwLDjdAJI/AAAAAAAAKnw/WVwvwvl6pYQ/s1600/gnome-control-center-keyboard.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hw422agc3cjn2736.png" >}}
 
 Для полного счастья не хватает только, чтобы облачную музыку мог воспроизводить {{< wiki "Music_Player_Daemon" "ru" "MPD" >}}. С приходом API, может быть, дождёмся?

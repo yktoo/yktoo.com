@@ -8,14 +8,14 @@ tags:
     - Нидерланды
     - спорт
     - 合気道
-image: "https://4.bp.blogspot.com/-2skgzQ66hqw/SDQpu8GPBRI/AAAAAAAAAE4/OjZOPpZFSU4/s1600/CTissier.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/7mm4hejkxk9q3198.jpg"
 aliases:
     - /ru/blog/post/15
 ---
 
 17—18 мая у нас в Амстердаме был учебный семинар по айкидо с [Кристианом Тисье](http://www.christiantissier.com/) ({{< fl "Christian Tissier" >}}).
 
-{{< imgfig "https://4.bp.blogspot.com/-2skgzQ66hqw/SDQpu8GPBRI/AAAAAAAAAE4/OjZOPpZFSU4/s1600/CTissier.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/7mm4hejkxk9q3198.jpg" >}}
 
 Он француз, небольшого роста, но очень большого мастерства: айкидо занимается с 11 лет, 7 лет занимался в знаменитом хомбу-додзё в Японии и в 25 лет получил 4 дан от сына О-сенсея. Сейчас у него 7 дан и титул Сихана.
 
@@ -27,6 +27,6 @@ aliases:
 
 Тренировки проходили в спортивном центре Амстердамского университета. Уровень присутствующих (утверждается, что было около 150 человек) был весьма и весьма высок: процентов 95 в хакамах, всего людей с чёрными поясами (1 дан и выше) явно более половины. Так что я вновь чувствовал себя новичком. Какие же тут колоритные персонажи порой попадаются…
 
-{{< imgfig "https://2.bp.blogspot.com/-j1Ojr5uD7s8/SDQsw8GPBSI/AAAAAAAAAFA/ZdxU2mJefCk/s1600/tissier08022.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/o8rwhod66qtt1730.jpg" >}}
 
 Интересно, что стоимость участия в семинаре весьма умеренная: €&nbsp;45 за три тренировки (две по два часа и одна два с половиной).

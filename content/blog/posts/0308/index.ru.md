@@ -12,7 +12,7 @@ tags:
     - разработка
     - сайт
     - БД
-image: "https://3.bp.blogspot.com/-czrNcwMoyQw/WK3et6P_81I/AAAAAAAApVE/gGCNALgayxA6kT3LmaPIiamtMNY48E88QCPcB/s1600/docker.png"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/b8chd0gh72xj3154.png"
 aliases:
     - /ru/blog/post/308
 ---
@@ -33,7 +33,7 @@ aliases:
 
 ## Контейнеры Docker {#docker}
 
-{{< imgfig "https://3.bp.blogspot.com/-czrNcwMoyQw/WK3et6P_81I/AAAAAAAApVE/gGCNALgayxA6kT3LmaPIiamtMNY48E88QCPcB/s1600/docker.png" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/b8chd0gh72xj3154.png" >}}
 
 Одно из возможных решений данной проблемы — использование виртуальной машины, но и здесь возникают сложности: необходимость тщательной настройки, высокие требования к оперативной памяти, проблемы с производительностью, но самое главное — трудность в воспроизведении желаемой конфигурации, если её нужно повторить на другой машине. Можно, конечно, целиком скопировать весь виртуальный диск, но это долго, дорого и неудобно.
 

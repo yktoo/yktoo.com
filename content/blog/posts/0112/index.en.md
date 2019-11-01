@@ -3,7 +3,7 @@ type: post
 date: "2011-08-31T00:00:00Z"
 title: "A new look"
 tags: ["health care", "Netherlands"]
-image: "https://4.bp.blogspot.com/-hVq9hZRxoUQ/Tl5ROA2oAtI/AAAAAAAAJkQ/rLdOOht87LY/s1600/intralasik.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/b91n8b5vvsu11306.jpg"
 places:
     - place0036
 aliases:
@@ -22,7 +22,7 @@ The [savemyday.nl](http://www.savemyday.nl/) website is essentially yet another 
 
 The IntraLASIK method is more advanced because instead of the metal surgical knife it engages a femtosecond laser to make a corneal flap. The flap is folded back, revealing the stroma, the middle section of the cornea. Then another, excimer laser remodels the shape of the stroma, and the flap is repositioned:
 
-{{< imgfig "https://4.bp.blogspot.com/-hVq9hZRxoUQ/Tl5ROA2oAtI/AAAAAAAAJkQ/rLdOOht87LY/s1600/intralasik.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/b91n8b5vvsu11306.jpg" >}}
 
 But before that I had to go down a long path of attempts of buying the coupon. As SaveMyDay.nl has just started at that moment, it put a number of odd things on my way. They used MoneyBookers payment system, which can be a really good one on itself, with the only downside that a newly registered user has one-transaction limit of € 500. Whereas I needed, as you remember, to pay € 1999. In order to raise the limit the address of your residence has to be verified. Which is also no problem on itself: the send you a verification code by snail mail, which takes 3 or four days to deliver. Now the problem: a deal is active on SaveMyDay.nl during one day only, before midnight.
 
@@ -52,6 +52,6 @@ You have to apply antibiotic eye drops during one week, and "artificial tears" o
 
 The first night I had to sleep with this gear on my face:
 
-{{< imgfig "https://3.bp.blogspot.com/-ZyRylJxx5P4/Tl5urw7Rw_I/AAAAAAAAJkk/KjzebzclOM0/s1600/dsc06411.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/n03p2nx73fps2425.jpg" >}}
 
 **Update.** {{< a "0160" "Here are" >}} the results a year later.

@@ -4,7 +4,7 @@ date: "2015-05-16T00:00:00Z"
 title: "Часть 3. Аксессуары"
 series: "Полный обзор 75-дюймового 4K-телевизора Samsung UE75HU7500"
 tags: ["Samsung", "Smart TV", "гаджеты", "железо", "обзор", "телевизоры"]
-image: "https://1.bp.blogspot.com/-XI3WZxPp01Q/VQQq9cMLcSI/AAAAAAAAhPk/kozQPL8YKPU/s1600/dsc08026.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/86mnqmphp1711609.jpg"
 aliases:
     - /ru/blog/post/245
 ---
@@ -21,11 +21,11 @@ aliases:
 
 Камера смонтирована на этаком «колене» с двумя шарнирами, позволяющими закреплять её на верхнем ребре телевизора в различных положениях:
 
-{{< imgfig "https://1.bp.blogspot.com/-XI3WZxPp01Q/VQQq9cMLcSI/AAAAAAAAhPk/kozQPL8YKPU/s1600/dsc08026.picasaweb.jpg" "ТВ-камера Samsung VG-STC4000 с открытым объективом." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/86mnqmphp1711609.jpg" "ТВ-камера Samsung VG-STC4000 с открытым объективом." >}}
 
 В ней также имеется стереомикрофон и механическая шторка, которой можно закрывать объектив, когда она не используется.
 
-{{< imgfig "https://1.bp.blogspot.com/-2VocQkp8pOk/VQQq9m806JI/AAAAAAAAhNA/QTh6vD1gFUQ/s1600/dsc08027.picasaweb.jpg" "ТВ-камера Samsung VG-STC4000 с закрытым объективом." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/2bndmmaqrcjp1363.jpg" "ТВ-камера Samsung VG-STC4000 с закрытым объективом." >}}
 
 Максимальное разрешение камеры 1920×1080. Она используется, помимо прочего, для:
 
@@ -36,17 +36,17 @@ aliases:
 
 Когда камера активна, на ней загорается синий светодиод.
 
-{{< imgfig "https://2.bp.blogspot.com/-crq0iAw8vN4/VVclTIQjALI/AAAAAAAAjb8/K-n2J5c7RlE/s1600/dsc09504.picasaweb.jpg" "Индикатор активности камеры." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/bkl2fpevuoi80019.jpg" "Индикатор активности камеры." >}}
 
 ## One Connect Box (он же Evolution Kit) {#evolution-kit}
 
 Чудно́е устройство под названием {{< fl "One Connect Box" >}} или {{< fl "UHD Evolution Kit" >}}, модель [SEK-2500U](http://www.samsung.com/us/video/tvs-accessories/SEK-2500U/ZA) позволяет перенести на себя все остальные провода, само подключаясь к телевизору единственным кабелем.
 
-{{< imgfig "https://1.bp.blogspot.com/-Stoatsq183o/VQx5RMfV5BI/AAAAAAAAhS0/W7MaYipO_WE/s1600/Samsung-OneConnectBox.picasaweb.jpg" "Samsung SEK-2500U UHD Evolution Kit, вид спереди." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pyg5xlwd0lqp2671.jpg" "Samsung SEK-2500U UHD Evolution Kit, вид спереди." >}}
 
 Помимо набора тех же, в общем-то, {{< a "0244" "коннекторов, что и на самом ТВ" >}}, Evolution Kit поддерживает HDMI 2.0, {{< wiki "HDCP" "ru" "HDCP" >}} 2.2 (DRM-технологию от Intel), мобильный интерфейс {{< wiki "Mobile_High-Definition_Link" "ru" "MHL" >}} 3.0 и кодек H.265 (HEVC, который вроде бы уже и так {{< a "0247" "поддерживается" >}} этой моделью телевизора).
 
-{{< imgfig "https://2.bp.blogspot.com/-B3P606ktdZ4/VQx5QpGroqI/AAAAAAAAhSs/JHlE8tP87DY/s1600/Samsung-OneConnectBox-2.picasaweb.jpg" "Samsung SEK-2500U UHD Evolution Kit, вид сзади." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/r66hpelhrufc2450.jpg" "Samsung SEK-2500U UHD Evolution Kit, вид сзади." >}}
 
 Стоит это счастье немало — около четырёхсот евро.
 
@@ -54,7 +54,7 @@ aliases:
 
 [Samsung VG-KDB2000](http://www.samsung.com/us/video/tvs-accessories/VG-KBD2000/ZA) — обычная Bluetooth-клавиатура, но со специфичными написями для Smart TV и некоторыми дополнительными кнопками:
 
-{{< imgfig "https://4.bp.blogspot.com/-Ge9Ll7-OmZU/VQs1ytBslBI/AAAAAAAAhSQ/iKTnI8Ju_XU/s1600/samsung_vgkbd2000.picasaweb.jpg" "Bluetooth-клавиатура Samsung VG-KBD2000." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/19f7nkd4y1ec2838.jpg" "Bluetooth-клавиатура Samsung VG-KBD2000." >}}
 
 Также здесь имеется встроенный тачпад. Стоит, как и камера, около ста евро.
 
@@ -64,13 +64,13 @@ aliases:
 
 В комплекте с телевизором идут две пары активных 3D-очков [SSG-5100GB](http://www.samsung.com/us/video/tvs-accessories/SSG-5100GB/ZA):
 
-{{< imgfig "https://3.bp.blogspot.com/-YHEJ9q-HxqM/VQx6Z59qCUI/AAAAAAAAhTA/v-REjzaajig/s1600/Samsung-3D-glasses-SSG-5100GB.picasaweb.jpg" "3D-очки Samsung SSG-5100GB." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cntuh96tb8vx3639.jpg" "3D-очки Samsung SSG-5100GB." >}}
 
 При необходимости можно докупить ещё, рекомендуемая Самсунгом цена — 25 евро. Очки активные, работают от одной батарейки CR2025, которой, как утверждается, хватает на 150 часов просмотра фильмов. Перед первым использованием их необходимо собрать, так как дужки упакованы отдельно от «тельца».
 
 Включаются очки нажатием крохотной белой кнопки сверху — кнопка начинает светиться зелёным цветом, очки подключаются к телевизору, и на экране появляется соответствующее уведомление.
 
-{{< imgfig "https://4.bp.blogspot.com/-elR_f-HRAM4/VVcyOBPa_rI/AAAAAAAAjcU/_Qmu5aLuAQA/s1600/dsc09505.picasaweb.jpg" "Уведомление о подключении 3D-очков." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/iv6m5w2a2ake1674.jpg" "Уведомление о подключении 3D-очков." >}}
 
 Просматривать 3D-видео полагается с расстояния от двух до шести метров.
 

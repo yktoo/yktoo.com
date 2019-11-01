@@ -3,7 +3,7 @@ type: post
 date: "2011-04-25T00:00:00Z"
 title: "Пожалуй, лето"
 tags: ["Нидерланды", "погода", "праздники"]
-image: "https://1.bp.blogspot.com/-SE6Huj2zjjQ/TbV1cwc2ckI/AAAAAAAAItc/B0Hi_UKG_hY/s1600/DSC01261.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/tt6cu4mjxgzg0765.jpg"
 places:
     - place0092
 aliases:
@@ -14,4 +14,4 @@ aliases:
 
 Я успешно сгорел на пляже за пару часов.
 
-{{< imgfig "https://1.bp.blogspot.com/-SE6Huj2zjjQ/TbV1cwc2ckI/AAAAAAAAItc/B0Hi_UKG_hY/s1600/DSC01261.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/tt6cu4mjxgzg0765.jpg" >}}

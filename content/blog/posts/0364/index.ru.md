@@ -8,7 +8,7 @@ tags:
     - СМИ
     - Prinsjesdag
     - правительство
-image: "https://1.bp.blogspot.com/-Dra4EskRPSY/XZ8Plf60njI/AAAAAAAAyiY/GvMiQKNIqp8eEQWuqAQUlX7gzYnUXFDZACKgBGAsYHg/s1600/rutte.jpg" 
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/kfdx0cng38at0694.jpg" 
 imageCredit: "Фото: Rijksvoorlichtingsdienst."
 ---
 
@@ -18,7 +18,7 @@ imageCredit: "Фото: Rijksvoorlichtingsdienst."
 
 <!--more-->
 
-{{< imgfig "https://1.bp.blogspot.com/-Dra4EskRPSY/XZ8Plf60njI/AAAAAAAAyiY/GvMiQKNIqp8eEQWuqAQUlX7gzYnUXFDZACKgBGAsYHg/s1600/rutte.jpg" "Премьер-министр Марк Рутте (справа вверху). Фото: Rijksvoorlichtingsdienst." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/kfdx0cng38at0694.jpg" "Премьер-министр Марк Рутте (справа вверху). Фото: Rijksvoorlichtingsdienst." >}}
 
 Идея, {{< a "https://nos.nl/artikel/2250834-rutte-bereid-om-voor-extreme-noodsituaties-designated-survivor-aan-te-wijzen.html" "предложенная" >}} год назад представителем партии {{< fl "D66" >}} (насмотревшимся нетфликсовского {{< wiki "Назначенный Преемник (телесериал)" "ru" "сериала" >}}, ехидничают скептики), заключается в назначении одного из **16** голландских министров возможным преемником на случай «нападения, переворота или катастрофы». Имя преемника держится, разумеется, в секрете. Он (или она) будет находиться в течение всего мероприятия в секретном месте и получит бразды правления, если вдруг случится что-то из вышеперечисленного.
 
@@ -26,7 +26,7 @@ imageCredit: "Фото: Rijksvoorlichtingsdienst."
 
 До настоящего момента в Нидерландах существовала некая секретная «чрезвычайная процедура» ({{< fl "staatsnoodrecht" >}}), подробности которой известны лишь в Государственной информационной службе {{< fl "RVD" >}}, отвечающей за коммуникацию между правительством и верноподданными. В этом сценарии оставшиеся в живых министры, их представители и другие чиновники собираются на кризисное совещание.
 
-{{< imgfig "https://lh3.googleusercontent.com/-e67-5X53iTIAuxJUGYle6t1_Kk8K-6Qtz4D0pnBtyj6_JdbGl8Lg9cRYKa9a3l0iNykKhZYLbqYDdlAlx8=s0" "Рыцарский зал, Binnenhof, Гаага. Prinsjesdag." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/kmnnkcsismedvtprxw5p.jpg" "Рыцарский зал, Binnenhof, Гаага. Prinsjesdag." >}}
 
 Противники драматизации вероятности подобных событий возражают, что «у нас тут не Америка»: во-первых, в Нидерландах важные решения крайне редко принимаются кем-либо в одиночку; во-вторых, в стране нет «{{< a "https://www.bloomberg.com/politics/graphics/2016-nuclear-weapon-launch/" "ядерной кнопки" >}}».
 

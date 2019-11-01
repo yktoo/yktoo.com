@@ -6,7 +6,7 @@ tags:
     - Нидерланды
     - забавное
     - железные дороги
-image: "https://1.bp.blogspot.com/-xoiEQ3pis2A/XXlcTE7yesI/AAAAAAAAxTI/T_yCx6-0AdAFJAA55Z5s4AJtc5mh7e5HwCKgBGAsYHg/s1600/20190903_202138.w.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/krzq6eenkid03272.jpg"
 ---
 
 Я работаю в {{< fl "Nederlandse Spoorwegen" >}}, Нидерландской железнодорожной компании, но я ~~бездуховный~~ прагматичный фрилансер.
@@ -15,7 +15,7 @@ image: "https://1.bp.blogspot.com/-xoiEQ3pis2A/XXlcTE7yesI/AAAAAAAAxTI/T_yCx6-0A
 
 <!--more-->
 
-{{< imgfig "https://1.bp.blogspot.com/-xoiEQ3pis2A/XXlcTE7yesI/AAAAAAAAxTI/T_yCx6-0AdAFJAA55Z5s4AJtc5mh7e5HwCKgBGAsYHg/s1600/20190903_202138.w.jpg" "Рельсокрыльцо." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/krzq6eenkid03272.jpg" "Рельсокрыльцо." >}}
 
 Крыльцо в виде рельс! Со шпалами! И номер дома из печатных плат! (Число **13** мы тоже любим, я этого числа купил {{< a "0234" "дом" >}} и {{< a "0345" "женился" >}}.)
 
@@ -23,6 +23,6 @@ image: "https://1.bp.blogspot.com/-xoiEQ3pis2A/XXlcTE7yesI/AAAAAAAAxTI/T_yCx6-0A
 
 Крыльцо крупным планом. Всё сделано на совесть и совершенно по-настоящему:
 
-{{< imgfig "https://1.bp.blogspot.com/-xXPP8ZU133k/XXlcTDyDylI/AAAAAAAAxTI/JHw5MwIUISocpIgvL98xu_OWXXFL_Mv2ACKgBGAsYHg/s1600/20190903_202134.w.jpg" "Рельсокрыльцо покрупнее." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/bho38sg4f9ws2385.jpg" "Рельсокрыльцо покрупнее." >}}
 
 Молодец хозяин(ка), я этакое одобряю! Даже любопытно стало, что там, за этой дверью.

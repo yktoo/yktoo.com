@@ -4,7 +4,7 @@ date: "2015-05-25T00:00:00Z"
 title: "Part 6. Location, conclusions"
 series: "4K UHD TV Samsung UE75HU7500: a complete review"
 tags: ["gadgets", "hardware", "review", "Samsung", "Smart Hub", "Smart TV", "TV"]
-image: "https://3.bp.blogspot.com/-Io14-rNSbMM/VQQq8W1CZiI/AAAAAAAAhPk/PqjH6gunL3I/s1600/dsc08021.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/p2m7bcrlfvpq0811.jpg"
 aliases:
     - /en/blog/post/248
 ---
@@ -19,7 +19,7 @@ The first option seems arguable to me: because of its huge size (and the related
 
 So, apart from looking better, it's simply safer to hang it on the wall—which I did.
 
-{{< imgfig "https://3.bp.blogspot.com/-Io14-rNSbMM/VQQq8W1CZiI/AAAAAAAAhPk/PqjH6gunL3I/s1600/dsc08021.picasaweb.jpg" "TV mounted on the wall." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/p2m7bcrlfvpq0811.jpg" "TV mounted on the wall." >}}
 
 When choosing a wall mount, you need to take into account both size and weight of the device. There are not so many mounts for a 75" TV on the market. The good thing is it weighs only 36 kg (79 lb), whereas my mount model could bear up to 80 kilos.
 
@@ -33,7 +33,7 @@ There are various opinions as to what height TV is to be hung at. The most commo
 
 As for viewing distance, the opinions vary even more. For instance, The New York Times [deems](http://www.nytimes.com/2012/02/09/technology/personaltech/is-this-living-room-big-enough-for-my-tv.html?_r=0) 1.5 times screen diagonal the perfect distance:
 
-{{< imgfig "https://1.bp.blogspot.com/-AS9RLuOKKCY/VWGYfsdeAOI/AAAAAAAAjiE/mTt4KUCN1Us/s1600/nytimes-tv-height.jpg" "Source: The New York Times." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/y1wfh74nsg1n3606.jpg" "Source: The New York Times." >}}
 
 The diagonal of this TV is 189 cm (6 ft 2.5 in), which results in 189×1,5 ≈ 284 cm (9 ft 3 in), according to the above rule. However, the same article mentions the figure of 1.5 is subject to fervent debate, with opinions ranged from 1.2 to 2.5 and even more. Your vision is also to be taken into account, obviously.
 

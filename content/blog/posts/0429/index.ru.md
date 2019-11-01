@@ -9,7 +9,7 @@ tags:
     - Хаутен
     - видео
     - красивое
-image: "https://1.bp.blogspot.com/-sn4rC8czakk/Xac5AXOJMLI/AAAAAAAAyvY/4Z3sHN1uzgMNnzc_5pH77O_8-qjV3855gCKgBGAsYHg/s1600/2019-10-15.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/rw76d22ruik51446.jpg"
 ---
 
 Вот и осень пришла — неудержимо захотелось прокатиться и заснять это на видео.
@@ -22,8 +22,8 @@ image: "https://1.bp.blogspot.com/-sn4rC8czakk/Xac5AXOJMLI/AAAAAAAAyvY/4Z3sHN1uz
 
 Пара фото:
 
-{{< imgfig "https://1.bp.blogspot.com/-sn4rC8czakk/Xac5AXOJMLI/AAAAAAAAyvY/4Z3sHN1uzgMNnzc_5pH77O_8-qjV3855gCKgBGAsYHg/s1600/2019-10-15.jpg" "Осень." >}}
-{{< imgfig "https://1.bp.blogspot.com/-0i3SZZ0G8s0/Xac5AQJXJNI/AAAAAAAAyvY/uQL5UZbvxPA797jSB8OOXUAKy0-FjwJpACKgBGAsYHg/s1600/2019-10-15.jpg" "Осень." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/rw76d22ruik51446.jpg" "Осень." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/v2nfctey08lc2216.jpg" "Осень." >}}
 
 А на некоторых улицах и деревья, и трава пока совсем зелёные, даже и не скажешь, что осень.
-{{< imgfig "https://1.bp.blogspot.com/-ySewUhHj7LE/Xac5AQyJbZI/AAAAAAAAyvY/5G5NgN97O4gxaNFcjxfvsEYTwPutCFTyACKgBGAsYHg/s1600/2019-10-15.jpg" "Осень?" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/tyvqyma8f2q60384.jpg" "Осень?" >}}

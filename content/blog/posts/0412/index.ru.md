@@ -7,7 +7,7 @@ tags:
     - Prinsjesdag
     - политика
     - глоссарий
-image: "https://1.bp.blogspot.com/-HDNb-S_p8Vw/XYCHgC8Kt7I/AAAAAAAAxic/09FGIkGr2-cphP8zKNgpRNY9OA932ppkQCKgBGAsYHg/s1600/prinsjesdag-2014.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/p784l2dt6nqo1479.jpg"
 imageCredit: "Фото: pigbusiness.nl."
 glossary: prinsjesdag
 ---

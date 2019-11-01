@@ -3,7 +3,7 @@ type: post
 date: "2017-04-16T00:00:00Z"
 title: "Docker Indicator 0.1.0"
 tags: ["Docker", "Docker Indicator", "indicator", "Python 3", "Ubuntu", "Unity", "Yakkety Yak", "Zesty Zapus"]
-image: "https://3.bp.blogspot.com/-o3UHJigGfeM/WPMpddaX-kI/AAAAAAAApwQ/ZQ2WLSmSFTYQqL8TQpCd5uL5v58sjHFfgCPcB/s1600/indicator-docker-icon.png"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/raqp0z0dsc0l0578.png"
 software: docker-indicator
 aliases:
     - /en/blog/post/319
@@ -15,7 +15,7 @@ So I've created a tiny [application indicator](https://unity.ubuntu.com/projects
 
 <!--more-->
 
-{{< imgfig "https://3.bp.blogspot.com/-o3UHJigGfeM/WPMpddaX-kI/AAAAAAAApwQ/ZQ2WLSmSFTYQqL8TQpCd5uL5v58sjHFfgCPcB/s1600/indicator-docker-icon.png" "Docker Indicator icon." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/raqp0z0dsc0l0578.png" "Docker Indicator icon." >}}
 
 ## What is implemented so far {#features}
 
@@ -27,7 +27,7 @@ This is just an early beta that can still prove useful:
 
 Here's how it looks like:
 
-{{< imgfig "https://4.bp.blogspot.com/-aU2VIG_F2WA/WPMmyktgqLI/AAAAAAAApvo/K9MERC-7RTEixLhL6RJ8KUKK4WWokZknACPcB/s1600/Screenshot.png" "Docker Indicator 0.1.0 screenshot." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/6hyjhs5ko1970245.png" "Docker Indicator 0.1.0 screenshot." >}}
 
 ## Installation {#install}
 

@@ -4,7 +4,7 @@ date: "2011-04-14T00:00:00Z"
 title: "Часть 1. Схипхол"
 series: "Вена и Будапешт"
 tags: ["Нидерланды", "путешествия", "Схипхол"]
-image: "https://1.bp.blogspot.com/-RdVoLTHFjn4/TaatEfPBhiI/AAAAAAAAItc/8_sVvU7q7Fw/s1600/dsc01367.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/9b0hwz0dbzsv1289.jpg"
 places:
     - place0120
 aliases:
@@ -21,12 +21,12 @@ aliases:
 
 ## Схипхол {#schiphol}
 
-{{< imgfig "https://1.bp.blogspot.com/-RdVoLTHFjn4/TaatEfPBhiI/AAAAAAAAItc/8_sVvU7q7Fw/s1600/dsc01367.picasaweb.jpg" "Wheel of Energy 365" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9b0hwz0dbzsv1289.jpg" "Wheel of Energy 365" >}}
 
 В амстердамском аэропорту Схипхол хитроумные голландцы соорудили колесо под названием [Wheel of Energy365](http://www.wheelofenergy.org/). Колесо с его бегущим содержимым рекламирует акцию по сбору средств на борьбу с раком и само по себе является очень интересным проектом. Оно безостановочно крутится круглые сутки; право побегать в нём может купить любой за €36,5 в час. Симпатичная синяя птица при этом ведёт сбор средств с сочувствующих прохожих.
 
 В колесе три дорожки, так что можно бегать целой компанией. В общем, очень благородный проект и я без шуток преклоняюсь перед людьми, организующими и участвующими в нём.
 
-{{< imgfig "https://2.bp.blogspot.com/-um9X8_oDMOs/TaaukMnFT6I/AAAAAAAAItc/l_KmFgUtTUE/s1600/dsc01369.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/64q0x1v90ob73080.jpg" >}}
 
 Продолжение: {{< a "0084" "Часть 2. Вена" >}}

@@ -3,7 +3,7 @@ type: post
 date: "2017-04-18T00:00:00Z"
 title: "Замкозабег, третья редакция"
 tags: ["De Haar", "De Halve van de Haar", "бег", "замок", "Нидерланды", "полумарафон", "спорт"]
-image: "https://3.bp.blogspot.com/-PbeqYXL7STA/WPTsB8ySmRI/AAAAAAAApxE/HTDNCie-4w4e-mtovTqYB-mqOn_niBs9ACPcB/s1600/dsc04851.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/3cc3gtxevk211231.jpg"
 places:
     - place0165
 aliases:
@@ -14,11 +14,11 @@ aliases:
 
 <!--more-->
 
-{{< imgfig "https://3.bp.blogspot.com/-PbeqYXL7STA/WPTsB8ySmRI/AAAAAAAApxE/HTDNCie-4w4e-mtovTqYB-mqOn_niBs9ACPcB/s1600/dsc04851.picasaweb.jpg" "Медаль участника De Halve van De Haar 2017." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/3cc3gtxevk211231.jpg" "Медаль участника De Halve van De Haar 2017." >}}
 
 Очень доволен своим [результатом](https://evenementen.uitslagen.nl/2017/dehalvevandehaar/details.php?s=380), на данный момент наилучшим из всех своих забегов — **1:47:54**:
 
-{{< imgfig "https://3.bp.blogspot.com/-dh44F5wXLwg/WPXVyMckdwI/AAAAAAAApxg/FcbfYx0rANcbLV2PHNG_m2UApvcH79E8ACPcB/s1600/de-halve-van-de-haar-2017.png" "Результат полумарафона." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ugu0l17fa1762306.png" "Результат полумарафона." >}}
 
 Заметный прогресс по сравнению с {{< a "0279" "амерсфортским" >}} (**1:55:04**) и {{< a "0274" "прошлым De Halve" >}} (**2:01:46**). Не зря я ~~убивался~~ тренировался!
 
@@ -26,6 +26,6 @@ aliases:
 
 Эти места, кстати, почему-то распределяются по брутто-времени (то есть времени с момента стартового выстрела), а не по нетто (времени с момента пересечения стартовой черты), что довольно странно. Поскольку дорожка на старте узкая, а народу много, проходит немало времени, пока ты дойдёшь вместе с толпой до собственно старта — у меня, например, это заняло 33 секунды.
 
-{{< imgfig "https://1.bp.blogspot.com/-wCvl8bUJ06M/WPTsBwvPCYI/AAAAAAAApxE/AhTBMrWGECY0F48tNJgXwp3R8vku2VeywCPcB/s1600/dsc04838.picasaweb.jpg" "Довольный автор." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/5n59m6drp7961978.jpg" "Довольный автор." >}}
 
 Впрочем, получивший первое место [Ad Sluijter](https://evenementen.uitslagen.nl/2017/dehalvevandehaar/details.php?s=4) прибежал на полчаса с лишним раньше меня, так что есть куда расти!

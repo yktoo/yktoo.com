@@ -3,7 +3,7 @@ type: post
 date: "2013-05-24T00:00:00Z"
 title: "Flower parade"
 tags: ["beautiful", "bloemencorso", "flower parade", "flowers", "Keukenhof"]
-image: "https://3.bp.blogspot.com/-QR1Jfd12kjI/UZVBs3xvkwI/AAAAAAAAX3I/4zQECmiFdPg/s1600/dsc08203.picasaweb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/cutjy5nqcdox2191.jpg"
 places:
     - place0009
 aliases:
@@ -14,7 +14,7 @@ So many things have piled up while I was busy with my {{< a "/" "website" >}}, n
 
 Let's take the famous flower parade, or {{< fl "bloemencorso" >}} in Dutch. It's a yearly event, held in late April or early May near {{< a "0010" "Keukenhof" "ru" >}}, the largest flower garden in the world.
 
-{{< imgfig "https://3.bp.blogspot.com/-QR1Jfd12kjI/UZVBs3xvkwI/AAAAAAAAX3I/4zQECmiFdPg/s1600/dsc08203.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cutjy5nqcdox2191.jpg" >}}
 
 *Warning: there's about a hundred photos under the cut.*
 
@@ -26,381 +26,381 @@ The whole procession of twenty motorised platforms sets out on a predefined day 
 
 The down-town is packed with people. The route in fenced all along the way.
 
-{{< imgfig "https://4.bp.blogspot.com/-UJR7bbF6gzI/UZU_UA7eB4I/AAAAAAAAXvg/w-dsE3kJ3OQ/s1600/dsc07976.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/7wwpp8ljwg2e0072.jpg" >}}
 
 The crowd is separated in two parts. We're in "that" part, which is in the shade and windy, but less crowded. You can cross the border but you need to find a loophole for that.
 
 The camera crew prepares a motion camera:
 
-{{< imgfig "https://4.bp.blogspot.com/-W5ZwD3zBUaM/UZU_Wmq4nKI/AAAAAAAAXvo/bwvUq5G2JII/s1600/dsc07977.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9rhrcpz8z8g70994.jpg" >}}
 
 It's sunny but cool. Everyone is awaiting the procession, but it's not coming. A quarter past four. Half past four. Five.
 
-{{< imgfig "https://3.bp.blogspot.com/-TJrmAXPgy_k/UZU_YrTDZ2I/AAAAAAAAXvw/BH4_BvV_Ri8/s1600/dsc07984.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9xrk4s7xma953386.jpg" >}}
 
 Somebody hands out newspapers now and then or sells {{< fl "stroopwafels" >}}, treacle waffles:
 
-{{< imgfig "https://3.bp.blogspot.com/-F3KoyI-SIIw/UZU_bEJeMxI/AAAAAAAAXv4/_Oy4CzQPk48/s1600/dsc07992.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/btatji4s9b642840.jpg" >}}
 
 It's handy to have a street-facing balcony.
 
-{{< imgfig "https://1.bp.blogspot.com/-mJDGu9ek60M/UZU_dpBYC-I/AAAAAAAAXwA/HYPM301ge18/s1600/dsc07996.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/a7dvbehql6go0628.jpg" >}}
 
 A quarter past five. People seem to keep arriving.
 
-{{< imgfig "https://1.bp.blogspot.com/-i2RHkkRVdvs/UZU_fqPRPHI/AAAAAAAAXwI/Zb2oFL1iFbc/s1600/dsc07997.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/10eftbckwkfy1808.jpg" >}}
 
 A cop on a motorbike checks the integrity of the fence and fixes loopholes.
 
-{{< imgfig "https://1.bp.blogspot.com/-VIEUDDX7yEs/UZU_h1fyUjI/AAAAAAAAXwQ/ulE26Ks470w/s1600/dsc08001.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/g1kokgg0dexs0297.jpg" >}}
 
 A wind band walks by playing something cheerful. We're pissed.
 
-{{< imgfig "https://4.bp.blogspot.com/-J6gTVa7plqE/UZU_oVyc2iI/AAAAAAAAXwo/mJsysT527Ms/s1600/dsc08009.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/drxtg0x8jobe2637.jpg" >}}
 
 There's a slightly decorated truck at last. But we don't buy it, we know what we're after here.
 
-{{< imgfig "https://2.bp.blogspot.com/-7BpnyIfH5NM/UZU_tyFbKnI/AAAAAAAAXw4/62jp2q23uYU/s1600/dsc08019.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/iggkdmc9fj893275.jpg" >}}
 
 Next is a tractor, decorated with flowers, too. And some more cars blatantly exploiting audience's attention.
 
-{{< imgfig "https://1.bp.blogspot.com/-BohRksYnUB8/UZU_wZE5AmI/AAAAAAAAXxA/2zq8BGu-GHs/s1600/dsc08023.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/npu5ib5nue782749.jpg" >}}
 
 And finally, at half past five, hour and a half behind the schedule, the first platform appears.
 
-{{< imgfig "https://2.bp.blogspot.com/-jDpBVPaDM3k/UZU_0oeGUoI/AAAAAAAAXxQ/8q7MWJ1A9zg/s1600/dsc08029.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/q9wnvmwiuzgp2779.jpg" >}}
 
 It's a creation of De Telegraaf newspaper called {{< fl "Ontbijten en Genieten" >}}, "have a breakfast and enjoy". It depicts coffee cups, boiled eggs and also something brown, unidentifiable. Buns?
 
-{{< imgfig "https://2.bp.blogspot.com/-fjy-lVtoAZo/UZU_21H9YcI/AAAAAAAAXxY/sNM147cW7gg/s1600/dsc08035.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/sfih3a3sa3uq0593.jpg" >}}
 
 Its second part displays a glass full of something that's supposed to be orange juice, but is rather looking like beer. And a lemon. Plus a purple box.
 
-{{< imgfig "https://4.bp.blogspot.com/-D9m29JZDCSs/UZU_5Zjo1zI/AAAAAAAAXxg/X0h3PD4wxYw/s1600/dsc08037.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/aqb8ywhd5qjr3658.jpg" >}}
 
 At some distance one can recognise a toaster in the box.
 
-{{< imgfig "https://1.bp.blogspot.com/-BQZvwSP9FHQ/UZU_72vrsAI/AAAAAAAAXxo/xeAWaXNYmq8/s1600/dsc08039.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/25ydwy7volz03622.jpg" >}}
 
 Small ad cars drive between platforms. They even have lighting as the parade will continue into twilight.
 
-{{< imgfig "https://2.bp.blogspot.com/-rfXggOzHe8I/UZU_-BsVLQI/AAAAAAAAXxw/RGEPFSatzdU/s1600/dsc08042.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/c6f7wjdbwv080539.jpg" >}}
 
 At this point we were sick of the wind and hubbub. We decided to move forward with the procession, which was a right idea. Few hundred meters ahead was no fence, more space and no shade.
 
 The second platform: a shoe called {{< fl "Lekker in je vel" >}}, "nice to be yourself".
 
-{{< imgfig "https://2.bp.blogspot.com/-9W9nupUv7wg/UZVAC46atDI/AAAAAAAAXyA/JBZHVtUs0zQ/s1600/dsc08077.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/etmy71n6fhey1066.jpg" >}}
 
 The decoration is not purely floral. Also leaves, paprika, apples make it look beautiful.
 
-{{< imgfig "https://3.bp.blogspot.com/--jKRJMAukmY/UZVAF8cKOaI/AAAAAAAAXyI/c3yjEyk_x2Y/s1600/dsc08079.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/93biwnffouh22760.jpg" >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-vqHc0kZzTnI/UZVAJMitJhI/AAAAAAAAXyQ/puQDK0hU41I/s1600/dsc08082.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ch1lzpzh1axi2163.jpg" >}}
 
 I didn't get what this roll means.
 
-{{< imgfig "https://1.bp.blogspot.com/-uWvtmmQ6rzc/UZVAK0df9kI/AAAAAAAAXyY/7FGmofkldJU/s1600/dsc08084.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/5qhijhx4gxbu3289.jpg" >}}
 
 The grapefruit and the lemon look very natural:
 
-{{< imgfig "https://2.bp.blogspot.com/-tcRAsy9W52U/UZVAOV09FsI/AAAAAAAAXyg/rcD2zaLLA98/s1600/dsc08087.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/03cz07zkekdf1322.jpg" >}}
 
-{{< imgfig "https://3.bp.blogspot.com/-JRYkIHbFaJQ/UZVARCKLAaI/AAAAAAAAXyo/pPddC3XOl5s/s1600/dsc08088.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/yh1fgk5nmqub2548.jpg" >}}
 
 The third platform is called Picnic: wine and berries.
 
-{{< imgfig "https://3.bp.blogspot.com/-sWV08O1Gajo/UZVAUlO4BFI/AAAAAAAAXyw/Hdh6BQc372I/s1600/dsc08089.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/8j0d3158fqi20577.jpg" >}}
 
-{{< imgfig "https://4.bp.blogspot.com/-I4oNY-xPN1Y/UZVAZMgjvnI/AAAAAAAAXy4/vTAcqmw8o9o/s1600/dsc08091.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/90kqmhszuk1a3014.jpg" >}}
 
-{{< imgfig "https://4.bp.blogspot.com/-bmrExDrUvrk/UZVAcoTr2jI/AAAAAAAAXzA/NjJ0qW9-Bm8/s1600/dsc08092.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/s1krgjl7v2qi0841.jpg" >}}
 
 Girls pretend to sit in a camping:
 
-{{< imgfig "https://4.bp.blogspot.com/-nCFpXqmA7fI/UZU__tsgrmI/AAAAAAAAXx4/nSmR_MI_ffU/s1600/dsc08071.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/3m8jxhzbr0ij3673.jpg" >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-i93YFaike64/UZVAgKRh_nI/AAAAAAAAXzI/z3BfYQ7QkfE/s1600/dsc08094.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/b04ndzb2gqur2146.jpg" >}}
 
 The fourth platform: {{< fl "Bourgondische maaltijd" >}}, "Burgundian dinner":
 
-{{< imgfig "https://4.bp.blogspot.com/-DEH7dbxsEEc/UZVAizuWOuI/AAAAAAAAXzQ/q5PWrDjRUT4/s1600/dsc08096.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ih864lbdova93394.jpg" >}}
 
 Burgundian houses:
 
-{{< imgfig "https://2.bp.blogspot.com/-Zh8rjtlciCw/UZVAlJk89sI/AAAAAAAAXzY/x3ooOyZ1Pxc/s1600/dsc08100.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0sicnq0u5lcy0337.jpg" >}}
 
 Burgundians eat and drink burgundy:
 
-{{< imgfig "https://3.bp.blogspot.com/-S06TAhcF2ek/UZVAnSwra-I/AAAAAAAAXzg/nPlOGCgtgn8/s1600/dsc08103.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/epe693ur2jme3208.jpg" >}}
 
-{{< imgfig "https://3.bp.blogspot.com/-MrygYRHdBFs/UZVAqHpFGDI/AAAAAAAAXzo/RwxHpi4Ih_Y/s1600/dsc08104.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hfmlpo1vnbdk0041.jpg" >}}
 
 An Opel Ampera is crawling between platforms. Electric cars come into fashion nowadays:
 
-{{< imgfig "https://1.bp.blogspot.com/-4OADfR7B6og/UZVAssbDPVI/AAAAAAAAXzw/sxknWiGzssA/s1600/dsc08107.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/57s0i2hv1ufv0623.jpg" >}}
 
 The fifth platform: {{< fl "Heel Holland bakt" >}}, which means "whole Holland bakes". A rolling pin, spoons, cupcakes.
 
-{{< imgfig "https://2.bp.blogspot.com/-fcd6CBHcaMc/UZVAvHw_bLI/AAAAAAAAXz4/96KVZAQlA4o/s1600/dsc08113.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/uugqti9w9rvb0437.jpg" >}}
 
 Girls' faces are dusted with flour (why?):
 
-{{< imgfig "https://2.bp.blogspot.com/-8paEuHoNuGU/UZVAw4q-x4I/AAAAAAAAX0A/0AE97shP4Ng/s1600/dsc08114.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/i350xl26x3jz2615.jpg" >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-Q32-8lkiuoc/UZVAzvWtDHI/AAAAAAAAX0I/HfztJ2m2CjI/s1600/dsc08117.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/bx7a92ml0yy10640.jpg" >}}
 
 More cakes:
 
-{{< imgfig "https://1.bp.blogspot.com/-Y6rPoCdl3WA/UZVA3K-UgTI/AAAAAAAAX0Q/vCynz_PqVdA/s1600/dsc08118.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/igoriy7usf550252.jpg" >}}
 
 Yet another orchestra, this time percussions in red:
 
-{{< imgfig "https://3.bp.blogspot.com/-9KnWxIJoMGY/UZVA5hdGA8I/AAAAAAAAX0Y/sZAE4KyFOrM/s1600/dsc08123.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1jfg6mgk3nmx3314.jpg" >}}
 
 Platform number six: {{< fl "Een terrasje pikken" >}}, "pick a terrace".
 
-{{< imgfig "https://1.bp.blogspot.com/-LLy690eWUN8/UZVA7-xV19I/AAAAAAAAX0g/UgSUniW1yUA/s1600/dsc08124.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zlnpk28wjfoc2454.jpg" >}}
 
 I didn't get the link between the terrace and the medieval Dutch painter Frans Hals.
 
-{{< imgfig "https://4.bp.blogspot.com/-c72_EBrFPzo/UZVA-hXANWI/AAAAAAAAX0o/BXim24XEWSI/s1600/dsc08126.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/l2py0s0nh4iy1271.jpg" >}}
 
 Still, the terrace is there. Ladies have a drink.
 
-{{< imgfig "https://2.bp.blogspot.com/-780UPivEewo/UZVBBWlIV7I/AAAAAAAAX0w/6cqudF-JcHw/s1600/dsc08128.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/lvg22stqu6i42026.jpg" >}}
 
 In other words, something symbolistic.
 
-{{< imgfig "https://3.bp.blogspot.com/-005Zjl5LcjU/UZVBDYZXxTI/AAAAAAAAX04/-M9z00cG_74/s1600/dsc08132.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/utunpbzo10hn1222.jpg" >}}
 
 The platform number seven, fishy. {{< fl "Sild" >}} is something the Dutch really know about.
 
-{{< imgfig "https://2.bp.blogspot.com/-rQKOvIoM7bg/UZVBFh97tSI/AAAAAAAAX1A/hfb8YDFEJZs/s1600/dsc08136.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/g3s9oz2z5b3z1728.jpg" >}}
 
 You need a hand net to catch one.
 
-{{< imgfig "https://3.bp.blogspot.com/-0sFL21eTLWc/UZVBHw2nw6I/AAAAAAAAX1I/FBQjI0LtjGA/s1600/dsc08137.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/6dcmlabah6c10263.jpg" >}}
 
 This one wouldn't fit though.
 
-{{< imgfig "https://4.bp.blogspot.com/-1IAZbz7_lWE/UZVBKWd1adI/AAAAAAAAX1Q/eAj_gISEAGA/s1600/dsc08138.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/wfqhfrosikh42788.jpg" >}}
 
-{{< imgfig "https://3.bp.blogspot.com/-s5Sb_eLf4xE/UZVBM1j__iI/AAAAAAAAX1Y/e6D9J82KE7Y/s1600/dsc08140.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/p23issmpbfru0954.jpg" >}}
 
 A track decorated with garlands.
 
-{{< imgfig "https://3.bp.blogspot.com/-f4O70X80iFU/UZVBPOsZzCI/AAAAAAAAX1g/dVbndqi1WjU/s1600/dsc08146.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/p8gbownb08uh1959.jpg" >}}
 
 The platform number eight, ship-shaped.
 
-{{< imgfig "https://3.bp.blogspot.com/-j8jgwAbeM44/UZVBRZ5D6_I/AAAAAAAAX1o/ZNtK_F3pkvI/s1600/dsc08152.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/oxaqzamwa4dq3061.jpg" >}}
 
 It's about food again: {{< fl "Captains dinner" >}}.
 
-{{< imgfig "https://2.bp.blogspot.com/-fwooLf6gVX0/UZVBTgSvHKI/AAAAAAAAX1w/eaLw3Exzu4M/s1600/dsc08154.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/jct9kxcr1ayt1381.jpg" >}}
 
 It has a Dutch flag made of flowers at its stern.
 
-{{< imgfig "https://4.bp.blogspot.com/-6-V67FSr6CE/UZVBWJjzaGI/AAAAAAAAX14/dEtz4dk-vPQ/s1600/dsc08159.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zzmyo151jbh10986.jpg" >}}
 
 Yet another ad car, with flower pods on its roof.
 
-{{< imgfig "https://1.bp.blogspot.com/-rEbIYZanpbE/UZVBYQJJRBI/AAAAAAAAX2A/v7Jw4aHr33E/s1600/dsc08163.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/61y8oirx890w1443.jpg" >}}
 
 Number nine is a tractor, with a guy making a speech.
 
-{{< imgfig "https://3.bp.blogspot.com/-FJ6N6hi_Lmo/UZVBatjZlBI/AAAAAAAAX2I/wwmf4IkrIdI/s1600/dsc08170.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/201piisxvs1e0896.jpg" >}}
 
 It's called {{< fl "schooiwagen" >}}, a "begging car", decorated with euro coins. Boys in red T-shirts are gathering contributions.
 
-{{< imgfig "https://3.bp.blogspot.com/-sqXdqpjulL8/UZVBc37W4bI/AAAAAAAAX2Q/bFnp1teqhlg/s1600/dsc08174.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/gbcd7v3seijd0957.jpg" >}}
 
 The red arrows explain how the scheme works:
 
-{{< imgfig "https://2.bp.blogspot.com/-ofkwqlL0kTc/UZVBfcBNKOI/AAAAAAAAX2Y/pxdfOZRIlEg/s1600/dsc08177.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/f0s3x7k6cppt2644.jpg" >}}
 
 The kids are comfy lying on the ground, fully indulged by their parents.
 
-{{< imgfig "https://3.bp.blogspot.com/-mEubcmpwf_Y/UZVBhiDLzJI/AAAAAAAAX2g/s-VoK-BPayc/s1600/dsc08184.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ru2ixtjwbz5w3171.jpg" >}}
 
 The tenth platform is by the town of Hillegom, approaches with the sounds of "Strawberry Fields Forever". It's equipped with a phonograph.
 
-{{< imgfig "https://3.bp.blogspot.com/-3Kyonp8FXuI/UZVBmORtCsI/AAAAAAAAX2w/KCQ5E5y2bSQ/s1600/dsc08188.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/4bjr5ls9s5wp0037.jpg" >}}
 
 Enormous strawberries and the Beatles.
 
-{{< imgfig "https://3.bp.blogspot.com/-4hzsCu2GAW8/UZVBon7YKvI/AAAAAAAAX24/gtW-i-LOkuA/s1600/dsc08193.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/5t1e61gqmk9k1595.jpg" >}}
 
 Only three of them, no room for the fourth I guess.
 
-{{< imgfig "https://2.bp.blogspot.com/-bMCSqwbgYOg/UZVBqpejq3I/AAAAAAAAX3A/zU4IAc_9D4I/s1600/dsc08200.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/c7lvjxaad3ge1606.jpg" >}}
 
 The eleventh platform is by the Dutch {{< fl "Rabobank" >}}. It has won the **third prize** at Bloemencorso. Apple trees:
 
-{{< imgfig "https://1.bp.blogspot.com/-TolgxVqzWoI/UZVBvF9oBKI/AAAAAAAAX3Q/EFwFbUP1BsA/s1600/dsc08207.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/wzo7oizjjwcj1552.jpg" >}}
 
 Below are huge sunflowers and peasants. Rabobank is an agricultural bank.
 
-{{< imgfig "https://4.bp.blogspot.com/-6wLGwDl7624/UZVBxgz6MTI/AAAAAAAAX3Y/qeQwIc8HiQA/s1600/dsc08211.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vg75rkkfv5b02274.jpg" >}}
 
 It's all being watched by a monster of a pig, with an apple in its mouth.
 
-{{< imgfig "https://4.bp.blogspot.com/-kRH60MhGGec/UZVBz5srzYI/AAAAAAAAX3g/BjlIqCpcoBc/s1600/dsc08213.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/s6zn07giggi92255.jpg" >}}
 
-{{< imgfig "https://2.bp.blogspot.com/-3R1sVZu8nmc/UZVB2BPsukI/AAAAAAAAX3o/CD5gRVdqhVs/s1600/dsc08216.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cl7bkecy9dz72293.jpg" >}}
 
 The pig is followed by another wind band:
 
-{{< imgfig "https://4.bp.blogspot.com/-Wz-92rQC3Vk/UZVB4erls1I/AAAAAAAAX3w/vzGZn5nhGYo/s1600/dsc08219.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/wk7owiva5py91698.jpg" >}}
 
 A tiny Kia Picanto, decorated by chilli pepper.
 
-{{< imgfig "https://2.bp.blogspot.com/-IRAIJ4fRVzA/UZVB6vAfTOI/AAAAAAAAX34/AMDVFdG0CYk/s1600/dsc08221.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/kok2wek7vd0v2582.jpg" >}}
 
 It's time for a dessert. The twelfth platform is called {{< fl "Mmmm, tijd voor taart" >}} ("Mmmm, time for a cake"). Someone (or something) has turned fifty:
 
-{{< imgfig "https://2.bp.blogspot.com/-bnfTfnCs1tE/UZVB8osgHfI/AAAAAAAAX4A/8aRhyGDOALY/s1600/dsc08223.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/f3c3i3o68vs92932.jpg" >}}
 
 The cake is compelling:
 
-{{< imgfig "https://3.bp.blogspot.com/-6LMgHLCMSlE/UZVB-5kQuxI/AAAAAAAAX4I/iRsLWsW2WPs/s1600/dsc08224.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ppbld9o9969c2655.jpg" >}}
 
 People are celebrating:
 
-{{< imgfig "https://4.bp.blogspot.com/-DDnTQmdMxnU/UZVCBO9TyXI/AAAAAAAAX4Q/237TmL09Yoo/s1600/dsc08226.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/sh30buqymupv2790.jpg" >}}
 
 None of them looks like fifty though.
 
-{{< imgfig "https://4.bp.blogspot.com/-LmYHT-6FuUo/UZVCDAAawZI/AAAAAAAAX4Y/icFKgESepYc/s1600/dsc08228.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/uckucpb76cgk3304.jpg" >}}
 
 A capped Mini.
 
-{{< imgfig "https://2.bp.blogspot.com/-kvDTKIrgeec/UZVCFCu1L1I/AAAAAAAAX4g/eAdSMIYBdPw/s1600/dsc08233.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cf7acut7q4k11752.jpg" >}}
 
 The thirteenth, traditional Dutch platform. A cow and a couple in folk costumes.
 
-{{< imgfig "https://1.bp.blogspot.com/-iYgKY4kbtzA/UZVCHXcSWhI/AAAAAAAAX4o/jtid3Ijr7ns/s1600/dsc08237.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/nnpyrp0yxsnt2471.jpg" >}}
 
 It's called {{< fl "streekproducten" >}}, "regional products". And, of course, a milk can.
 
-{{< imgfig "https://1.bp.blogspot.com/-AFKOd7zf610/UZVCJfOB_0I/AAAAAAAAX4w/26hUE6HVuCk/s1600/dsc08239.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/qhlwcyueh59p3618.jpg" >}}
 
-{{< imgfig "https://3.bp.blogspot.com/-xPwpDQR2tG0/UZVCLgxMBwI/AAAAAAAAX44/tYFumCP5BgQ/s1600/dsc08242.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/auj361vhvghq1044.jpg" >}}
 
 A picturesque tractor, whose driver is commiting a violation of traffic code:
 
-{{< imgfig "https://4.bp.blogspot.com/-fopu0VMNaHk/UZVCN5IP4EI/AAAAAAAAX5A/qK2vwhDNp6k/s1600/dsc08244.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/f5s86vo6ujwt2603.jpg" >}}
 
 Number fourteen is something creepy at a distance.
 
-{{< imgfig "https://3.bp.blogspot.com/-_fB_nMzlXj4/UZVCQFa3KOI/AAAAAAAAX5I/zxgWUf9gpCI/s1600/dsc08245.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/jwwvcx24dkam2724.jpg" >}}
 
 Turned out merely a lobster. The name is {{< fl "Culinair Lisse" >}}, "culinary Lisse" (Lisse is another nearby town).
 
-{{< imgfig "https://3.bp.blogspot.com/-zgMKYeZW5PY/UZVCR-4oFII/AAAAAAAAX5Q/lVNV1fDWOZc/s1600/dsc08249.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/c1k3q0ln29el1302.jpg" >}}
 
 For safety purposes the monster is cut in the middle.
 
-{{< imgfig "https://3.bp.blogspot.com/-qNQRYXjAHAk/UZVCTewcBxI/AAAAAAAAX5Y/1Yt_QqCwiMc/s1600/dsc08250.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/4kyhdsof5puq2660.jpg" >}}
 
 However its tail view is creepy again.
 
-{{< imgfig "https://3.bp.blogspot.com/-EGr_HfeYoqM/UZVCVLkfzJI/AAAAAAAAX5g/lEMV1IawJ9M/s1600/dsc08254.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/o7ihtel8r33p2304.jpg" >}}
 
 The fifteenth platform is a public's favourite. It's about the film Despicable Me ({{< fl "Verschrikkelijke ikke 2" >}}), which is out June 26:
 
-{{< imgfig "https://1.bp.blogspot.com/-XEJB1jC4Hfw/UZVCWxBhn6I/AAAAAAAAX5o/XX8abYzglJQ/s1600/dsc08260.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/f3a41lkpa0zo3056.jpg" >}}
 
 The minions are charming indeed:
 
-{{< imgfig "https://4.bp.blogspot.com/-IjHvbsVUo1s/UZVCZLW8vpI/AAAAAAAAX5w/GtwOg095ycs/s1600/dsc08262.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/heqrckaxcbj82094.jpg" >}}
 
-{{< imgfig "https://2.bp.blogspot.com/-ojMpesyA3_I/UZVCamDMp9I/AAAAAAAAX54/kuhzrqi4GMg/s1600/dsc08265.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zsh9rv52u0ab0034.jpg" >}}
 
 The sixteenth platform's name is as simple as {{< fl "Apen eten bananen" >}} ("apes eat bananas"), yet it has won the **first prize** at the parade.
 
-{{< imgfig "https://4.bp.blogspot.com/-_bi8_dr8qD8/UZVCcIn1ZyI/AAAAAAAAX6A/rSiw2R1-OR4/s1600/dsc08271.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/27qmy7tphtcq2420.jpg" >}}
 
 The apes are formidable.
 
-{{< imgfig "https://3.bp.blogspot.com/-l9VGz-9WN9E/UZVCd2aiyBI/AAAAAAAAX6I/X_ZNMHueiS0/s1600/dsc08272.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ggansoa2hxyb3638.jpg" >}}
 
 And into bananas indeed:
 
-{{< imgfig "https://3.bp.blogspot.com/-BL94z217Z-o/UZVCfWCJZwI/AAAAAAAAX6Q/c7u0pqwq0bs/s1600/dsc08274.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/dtj7vii6bhli2426.jpg" >}}
 
 Fabulously pretty colour mix:
 
-{{< imgfig "https://4.bp.blogspot.com/-lssI6hmrtpc/UZVChFPdxvI/AAAAAAAAX6Y/rF_BleFBkGc/s1600/dsc08275.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0f0ktgvoq6yv3280.jpg" >}}
 
 The platform ends with palm trees:
 
-{{< imgfig "https://3.bp.blogspot.com/-xolXgumsDD0/UZVCiomU4tI/AAAAAAAAX6g/PbySOK8xO9k/s1600/dsc08277.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/kzzqv65ffnlx3452.jpg" >}}
 
 It's the first green band on this parade:
 
-{{< imgfig "https://3.bp.blogspot.com/-m0_377c2NQs/UZVCkZ3-cFI/AAAAAAAAX6o/fzS-wb1I3W8/s1600/dsc08284.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/6slokd8ztwfy0366.jpg" >}}
 
 Wedding party decoration services. The "bride" doesn't look very enthusiastic though, must be tired:
 
-{{< imgfig "https://1.bp.blogspot.com/-8HohX-uwldQ/UZVCmafEGmI/AAAAAAAAX6w/VNuudNXcTUU/s1600/dsc08286.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1vkf6dbwe6xg1917.jpg" >}}
 
 The seventeenth platform is called {{< fl "High tea" >}}, got the **second prize**.
 
-{{< imgfig "https://3.bp.blogspot.com/-IhvdGSz9AeQ/UZVCoPZTj_I/AAAAAAAAX64/BLOMlZ1knCo/s1600/dsc08290.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/doi4teamjl8h1528.jpg" >}}
 
 The ladies pretend to drink tea.
 
-{{< imgfig "https://4.bp.blogspot.com/-nilzVwXQDIw/UZVCpRcUs2I/AAAAAAAAX7A/FxF2JL6ei1E/s1600/dsc08296.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ni8fyfynw1go1934.jpg" >}}
 
 A teapot:
 
-{{< imgfig "https://4.bp.blogspot.com/-Vsn9NNHZWaI/UZVLv0qJ08I/AAAAAAAAYaY/ja1aCe-Ye-c/s1600/dsc08297.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/csauiwtcmllw2318.jpg" >}}
 
 For some reason it's placed on a couch.
 
-{{< imgfig "https://1.bp.blogspot.com/-_pwtPYsj7a4/UZVCz12-c7I/AAAAAAAAX7I/tZ3rIqQa3I0/s1600/dsc08298.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0npvtvar4k232504.jpg" >}}
 
 The eighteenth platform is called {{< fl "Fris en fruitig" >}}, "fresh and fruity" and belongs to {{< fl "Jale-Gilan Azerbeidzjan" >}}. Girls in Azerbaijan costumes:
 
-{{< imgfig "https://3.bp.blogspot.com/-zZvCtWkaLIQ/UZVC1kgLYfI/AAAAAAAAX7Q/BswB_ZMTTYk/s1600/dsc08303.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/elyde2y8u1xq3478.jpg" >}}
 
 Azerbaijan fruits:
 
-{{< imgfig "https://1.bp.blogspot.com/-2DDKEHtYTP0/UZVC3UHwJcI/AAAAAAAAX7Y/ReMdhyHsKR8/s1600/dsc08307.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/rhi2j4tp4mhe1148.jpg" >}}
 
 Azerbaijan drinks:
 
-{{< imgfig "https://2.bp.blogspot.com/-5mmBrhSqrVg/UZVC5N4Y5_I/AAAAAAAAX7g/76hQLzgPfm4/s1600/dsc08310.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/o33lta5zwel70659.jpg" >}}
 
 Next is an old-school fire truck:
 
-{{< imgfig "https://1.bp.blogspot.com/-_UflwQ_onRU/UZVC62qmmqI/AAAAAAAAX7o/PWJf6P3WW3E/s1600/dsc08311.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/til1ch9r77iq2731.jpg" >}}
 
 The nineteenth platform, food-related: {{< fl "Schaften" >}} means "break for lunch". The workers:
 
-{{< imgfig "https://1.bp.blogspot.com/-p05Z0gIcfzs/UZVC8vQW7hI/AAAAAAAAX7w/m1D4Pkb9AsU/s1600/dsc08314.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/bv7x1mdilv2w3156.jpg" >}}
 
 They're proud of their achievements:
 
-{{< imgfig "https://4.bp.blogspot.com/-UozNMRwrOVk/UZVC-dodu_I/AAAAAAAAX74/Aoaa1wdHT7Q/s1600/dsc08317.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fnkcgz0cfq691820.jpg" >}}
 
-{{< imgfig "https://1.bp.blogspot.com/-DOb45XO1l38/UZVDATHlSCI/AAAAAAAAX8A/vvwhScvE9b8/s1600/dsc08318.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1tz1s90hxmod2240.jpg" >}}
 
 The last, twentieth platform. Its name is {{< fl "Proost" >}}, which means "cheers".
 
-{{< imgfig "https://1.bp.blogspot.com/-bChaGcZbrQw/UZVDB-7oARI/AAAAAAAAX8I/-UYmbPlujiE/s1600/dsc08322.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/yqufe0hn2j6o0905.jpg" >}}
 
 Glasses of all shapes:
 
-{{< imgfig "https://2.bp.blogspot.com/-MdzK-AP9dAk/UZVDDSXaFLI/AAAAAAAAX8Q/Rdz3PEUkIuM/s1600/dsc08331.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/70infbonta6h1334.jpg" >}}
 
 The last in the procession is a merry truck full of musicians:
 
-{{< imgfig "https://1.bp.blogspot.com/-qoaD6wF42Ps/UZVDFAVAH1I/AAAAAAAAX8Y/1tQN_OZYbRk/s1600/dsc08333.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/bkfau17o8vzs1107.jpg" >}}
 
-{{< imgfig "https://2.bp.blogspot.com/-bic-etvycCI/UZVDGgmzziI/AAAAAAAAX8g/L-qpG4-8gjM/s1600/dsc08337.picasaweb.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9pv6wirghuyl0273.jpg" >}}
 
 Phew. That's all folks!
 
