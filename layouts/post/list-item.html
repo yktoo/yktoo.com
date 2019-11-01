@@ -13,7 +13,7 @@
             {{- $url := .Params.image }}
             {{- with $url }}
                 {{- if findRE "^(/|http(s?)://)" $url }}
-                    {{- $url = replace $url "/s1600/" "/s640/" }}
+                    {{- $url = replace $url "https://res.cloudinary.com/yktoo/image/upload/blog/" "https://res.cloudinary.com/yktoo/image/upload/t_s640/blog/" }}
                 {{- else }}
                     {{- $url = ($.Page.Resources.GetMatch $url).RelPermalink }}
                 {{- end -}}
