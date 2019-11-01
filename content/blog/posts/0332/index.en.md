@@ -20,7 +20,7 @@ The last has brought major changes for the better for me, in contrast with the {
 
 * I've celebrated the New Year's Eve in the French Lille.
 
-{{< imgfig "https://4.bp.blogspot.com/-Q0oq4GgfXb8/WkTg5_IMUaI/AAAAAAAArJU/kTt192_hhCwfVFhhRDXy2JkOQm0ILnq7QCKgBGAs/s1600/dsc03914.picasaweb.jpgш" "Lille." >}}
+{{< imgfig "https://4.bp.blogspot.com/-Q0oq4GgfXb8/WkTg5_IMUaI/AAAAAAAArJU/kTt192_hhCwfVFhhRDXy2JkOQm0ILnq7QCKgBGAs/s1600/dsc03914.picasaweb.jpg" "Lille." >}}
 * Fled the corporate slavery world and embarked on a {{< a "/series/my-entrepreneurship" "freelance journey" >}}. The journey has formally begun on February 1<sup>st</sup> at the Dutch Ministry of Infrastructure and Environment ({{< fl "Ministerie van Infrastructuur en Milieu" >}}), usually shortened as {{< fl "MinIenM" >}}. I'm going to elaborate on that in a separate blog post.
 
 {{< imgfig "https://1.bp.blogspot.com/-X2_lDklXUCU/WkYf3TWfTFI/AAAAAAAArKk/NhONEzWuTYwgJHTjQF4s61rUl4k8Tsz7gCKgBGAs/s1600/20170309_103411.picasaweb.jpg" "MinIenM." >}}

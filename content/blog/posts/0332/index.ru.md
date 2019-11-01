@@ -20,7 +20,7 @@ aliases:
 
 * Я встретил Новый год во французском Лилле.
 
-{{< imgfig "https://4.bp.blogspot.com/-Q0oq4GgfXb8/WkTg5_IMUaI/AAAAAAAArJU/kTt192_hhCwfVFhhRDXy2JkOQm0ILnq7QCKgBGAs/s1600/dsc03914.picasaweb.jpgш" "Лилль." >}}
+{{< imgfig "https://4.bp.blogspot.com/-Q0oq4GgfXb8/WkTg5_IMUaI/AAAAAAAArJU/kTt192_hhCwfVFhhRDXy2JkOQm0ILnq7QCKgBGAs/s1600/dsc03914.picasaweb.jpg" "Лилль." >}}
 * Покинул мир корпоративного рабства и отправился {{< a "/series/доля-предпринимательская" "в свободное плавание" >}} — я нынче сам себе матрос, штурман и капитан. Плавание формально началось 1 февраля (в действительности несколько раньше) в нидерландском Министерстве инфраструктуры и окружающей среды ({{< fl "Ministerie van Infrastructuur en Milieu" >}}), сокращённо {{< fl "MinIenM" >}}. Об этом я расскажу в отдельном посте.
 
 {{< imgfig "https://1.bp.blogspot.com/-X2_lDklXUCU/WkYf3TWfTFI/AAAAAAAArKk/NhONEzWuTYwgJHTjQF4s61rUl4k8Tsz7gCKgBGAs/s1600/20170309_103411.picasaweb.jpg" "MinIenM." >}}
