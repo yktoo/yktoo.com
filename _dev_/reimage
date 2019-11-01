@@ -14,12 +14,16 @@ import yaml
 import cloudinary.uploader
 import cloudinary.exceptions
 
+# Regex to search for in the files
+RE_SEARCH = r'http(?:s?)://\S*\b(?:blogspot|googleusercontent)\b[^"\s]+'
+
 CONTENT_FILE_EXTENSION = '.md'
 DOWNLOAD_DIR = '/home/dk/tmp/_reimage_images'
 IMAGE_MAP_FILE = '/home/dk/tmp/_reimage_map.yml'
 FAILED_IMAGES_FILE = '/home/dk/tmp/_reimage_failed_urls.txt'
 FAILED_UPLOADS_FILE = '/home/dk/tmp/_reimage_failed_uploads.txt'
 
+NEW_URL_BASE = 'https://res.cloudinary.com/yktoo/image/upload/blog/'
 
 class Scanner:
     """Extracts image URLs from content files."""
@@ -49,7 +53,7 @@ class Scanner:
         logging.debug('Processing %s', file_path)
         with open(file_path) as file:
             for line in file:
-                for match in re.findall(r'http(?:s?)://\S*\b(?:blogspot|googleusercontent)\b[^"\s]+', line):
+                for match in re.findall(RE_SEARCH, line):
                     logging.debug('>>>> Match: "%s"', match)
                     self.image_urls.add(match)
 
@@ -168,6 +172,64 @@ class Uploader:
         # Done
         logging.info("Done uploading. %d images uploaded, %d failed", count_ok, count_err)
 
+
+class Processor:
+    """Processes all pages and updates image URLs."""
+
+    def __init__(self, path: str):
+        self.path = path
+        self.count_replaced = 0
+        self.count_skipped = 0
+        # Read in the URL map
+        with open(IMAGE_MAP_FILE) as file:
+            self.url_map = yaml.safe_load(file)['map']
+        logging.info('Loaded %d URL map entries from file', len(self.url_map))
+
+    def process(self):
+        """Recursively process all directories starting at the scanner's path."""
+        num_files = 0
+        logging.info('Processing %s...', self.path)
+        for dir_path, dirs, files in os.walk(self.path):
+            for file in files:
+                if file.endswith(CONTENT_FILE_EXTENSION):
+                    self._process_file(os.path.join(dir_path, file))
+                    num_files += 1
+
+        # Done
+        logging.info(
+            'Processing complete. %d files processed, %d replacements made, %d occurrences skipped.',
+            num_files,
+            self.count_replaced,
+            self.count_skipped)
+
+    def _process_file(self, file_path):
+        """Process the provided file."""
+        logging.debug('Processing %s', file_path)
+        out_lines = []
+        # Process the input file
+        with open(file_path) as in_file:
+            # Iterate the file's lines
+            for line in in_file:
+                while True:
+                    # Try to find a match
+                    match = re.search(RE_SEARCH, line)
+                    if match is None:
+                        break
+
+                    # Found - replace it if there's a replacement
+                    if match.group() in self.url_map:
+                        line = line[:match.start()] + NEW_URL_BASE + self.url_map[match.group()] + line[match.end():]
+                        self.count_replaced += 1
+                    else:
+                        self.count_skipped += 1
+                out_lines.append(line)
+
+        # Write the output back
+        with open(file_path, 'w') as out_file:
+            out_file.writelines(out_lines)
+        logging.debug('Saved %s', file_path)
+
+
 # Main routine
 if __name__ == '__main__':
 
@@ -178,10 +240,13 @@ if __name__ == '__main__':
     root_dir = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
     logging.info('Project root: %s', root_dir)
 
+    # Content path
+    content_path = os.path.join(root_dir, 'content')
+
     # If we need to download
     if '-d' in sys.argv:
         # Run the scanner
-        scanner = Scanner(os.path.join(root_dir, 'content'))
+        scanner = Scanner(content_path)
         scanner.scan()
 
         # Run the downloader
@@ -192,3 +257,8 @@ if __name__ == '__main__':
     if '-u' in sys.argv:
         uploader = Uploader()
         uploader.upload()
+
+    # If we need to process pages
+    if '-p' in sys.argv:
+        processor = Processor(content_path)
+        processor.process()
