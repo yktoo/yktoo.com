@@ -12,11 +12,13 @@ import urllib.error
 import yaml
 
 import cloudinary.uploader
+import cloudinary.exceptions
 
 CONTENT_FILE_EXTENSION = '.md'
 DOWNLOAD_DIR = '/home/dk/tmp/_reimage_images'
 IMAGE_MAP_FILE = '/home/dk/tmp/_reimage_map.yml'
 FAILED_IMAGES_FILE = '/home/dk/tmp/_reimage_failed_urls.txt'
+FAILED_UPLOADS_FILE = '/home/dk/tmp/_reimage_failed_uploads.txt'
 
 
 class Scanner:
@@ -65,7 +67,7 @@ class Downloader:
         logging.info('Downloading %d URLs...', len(self.urls))
 
         # Make sure the target directory exists and is empty
-        shutil.rmtree(DOWNLOAD_DIR)
+        shutil.rmtree(DOWNLOAD_DIR, ignore_errors=True)
         os.makedirs(DOWNLOAD_DIR)
 
         # Iterate all URLs
@@ -74,13 +76,13 @@ class Downloader:
         size = 0
         for url in self.urls:
             # Generate a new ID
-            id = '{}{:04}'.format(''.join(random.choices(string.ascii_lowercase + string.digits, k=12)), count_ok)
+            new_name = '{}{:04}'.format(''.join(random.choices(string.ascii_lowercase + string.digits, k=12)), count_ok)
 
             # Determine target name
-            id += os.path.splitext(url)[1]
+            new_name += os.path.splitext(url)[1]
 
             # Download the file
-            logging.debug('Downloading %s => %s', url, id)
+            logging.debug('Downloading %s => %s', url, new_name)
             data = None
             reason = ''
             try:
@@ -100,11 +102,11 @@ class Downloader:
 
             # Save the data into a file otherwise
             else:
-                file_path = os.path.join(DOWNLOAD_DIR, id)
+                file_path = os.path.join(DOWNLOAD_DIR, new_name)
                 with open(file_path, 'wb') as file:
                     file.write(data)
                 logging.debug('Saved %d bytes to %s', len(data), file_path)
-                self.url_map[url] = id
+                self.url_map[url] = new_name
 
                 count_ok += 1
                 size += len(data)
@@ -112,7 +114,7 @@ class Downloader:
         # Export the map
         with open(IMAGE_MAP_FILE, 'w') as file:
             file.write('map:\n')
-            file.writelines(['    "{}": {}\n'.format(url, id) for url, id in self.url_map.items()])
+            file.writelines(['    "{}": {}\n'.format(url, name) for url, name in self.url_map.items()])
 
         # Export failed URLs
         with open(FAILED_IMAGES_FILE, 'w') as file:
@@ -129,6 +131,7 @@ class Uploader:
         # Validate the environment
         if 'CLOUDINARY_URL' not in os.environ:
             raise EnvironmentError('CLOUDINARY_URL is not set')
+        self.failed_uploads = []
 
         # Read in the URL map
         with open(IMAGE_MAP_FILE) as file:
@@ -136,9 +139,34 @@ class Uploader:
         logging.info('Loaded %d URL map entries from file', len(self.url_map))
 
     def upload(self):
-        pass
-        # TODO
+        """Upload all images loaded from the map file."""
+        count_ok = 0
+        count_err = 0
+        for url, name in self.url_map.items():
+            file_path = os.path.join(DOWNLOAD_DIR, name)
+            file_id = os.path.splitext(name)[0]
+            logging.debug('Uploading %s => %s', url, file_id)
+            try:
+                cloudinary.uploader.upload(
+                    file_path,
+                    public_id=file_id,
+                    folder='blog',
+                    resource_type='image',
+                    context={'origFileName': os.path.basename(url), 'origUrl': url})
 
+                count_ok += 1
+
+            except cloudinary.exceptions.Error as e:
+                count_err += 1
+                self.failed_uploads.append(url)
+                logging.warning('Failed to upload %s: %s', url, str(e))
+
+        # Export failed uploads
+        with open(FAILED_UPLOADS_FILE, 'w') as file:
+            file.writelines([line + '\n' for line in self.failed_uploads])
+
+        # Done
+        logging.info("Done uploading. %d images uploaded, %d failed", count_ok, count_err)
 
 # Main routine
 if __name__ == '__main__':
