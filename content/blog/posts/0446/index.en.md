@@ -8,8 +8,8 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/trwh8tiw67e4xg2kb3xc.jpg"
 ---
 
-It's always nice to get a Tesla on your birthday.
+It's always nice to get a Tesla for your birthday.
 
 <!--more-->
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/trwh8tiw67e4xg2kb3xc.jpg" "\"Tesla for daddy on his birthday.\"" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/trwh8tiw67e4xg2kb3xc.jpg" "\"Tesla for daddy for his birthday.\"" >}}
