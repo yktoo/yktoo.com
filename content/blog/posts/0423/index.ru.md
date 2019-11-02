@@ -9,6 +9,7 @@ tags:
     - СМИ
     - Tesla
     - электромобили
+    - электротранспорт
     - рекорд
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/h98r9n3j8zcp1695.jpg"
 imageCredit: "Фото: tesla.com."

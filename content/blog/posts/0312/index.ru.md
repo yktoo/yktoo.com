@@ -12,6 +12,7 @@ tags:
     - новости
     - Фрисландия
     - электромобили
+    - электротранспорт
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/2ajnwa9mqugz2517.jpg"
 aliases:
     - /ru/blog/post/312

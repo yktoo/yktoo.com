@@ -9,6 +9,7 @@ tags:
     - СМИ
     - авто
     - электромобили
+    - электротранспорт
     - солнечная энергетика
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/mp6fp9ypea791026.jpg"
 imageCredit: "Фото: TU Delft."

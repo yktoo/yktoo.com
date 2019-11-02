@@ -11,6 +11,7 @@ tags:
     - происшествия
     - СМИ
     - электромобили
+    - электротранспорт
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/r7mp9g7og7jp1709.jpg"
 aliases:
     - /ru/blog/post/288

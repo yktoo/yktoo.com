@@ -14,6 +14,7 @@ tags:
     - электромобили
     - Tesla
     - Nikola
+    - электротранспорт
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/8f54b4vu3vf03161.jpg"
 ---
 

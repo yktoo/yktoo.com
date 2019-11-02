@@ -10,6 +10,7 @@ tags:
     - девушки
     - Нидерланды
     - электромобили
+    - электротранспорт
     - Tesla
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/m0kwv1ckhveu1509.jpg"
 places:
