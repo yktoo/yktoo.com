@@ -7,7 +7,7 @@ tags:
     - сайт
     - веб
     - Hugo
-image: "https://res.cloudinary.com/yktoo/image/upload/blog/cd12hbfmnu0c3605.webp"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/cd12hbfmnu0c3605.jpg"
 imageCredit: "Фото: ActionVance."
 ---
 

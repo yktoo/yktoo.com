@@ -6,7 +6,7 @@ tags:
     - Netherlands
     - glossary
     - gemeente
-image: "https://res.cloudinary.com/yktoo/image/upload/blog/b7n42iqrlsfs0534.webp"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/b7n42iqrlsfs0534.jpg"
 imageCredit: "Map by gemeentenatlas.nl."
 glossary:
     - gemeente
@@ -25,7 +25,7 @@ A {{< fl "gemeente" >}} is the smallest administrative unit in the Netherlands. 
 
 Currently the Netherlands is divided into *provinces*, which, in turn, are subdivided into *municipalities*, a.k.a. {{< fl "gemeente" >}}s. As of 1 January {{< year 2019 "this year" >}} the European part of the country is {{< wiki "Lijst_van_Nederlandse_gemeenten" "nl" "made up" >}} by **355** municipalities.
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/b7n42iqrlsfs0534.webp" "All continental Dutch provinces and municipalities. Map by gemeentenatlas.nl." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/b7n42iqrlsfs0534.jpg" "All continental Dutch provinces and municipalities. Map by gemeentenatlas.nl." >}}
 
 Next to these continental units there are also three Antilles territories, which bear a special status.
 

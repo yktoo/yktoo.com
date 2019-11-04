@@ -8,7 +8,7 @@ tags:
     - гаджеты
     - Xiaomi
     - AliExpress
-image: "https://res.cloudinary.com/yktoo/image/upload/blog/0dia9k0gfhbs1940.webp"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/0dia9k0gfhbs1940.jpg"
 ---
 
 Как и обещал, сделал обзор моего «{{< a "0384" "надувного сокровища" >}}» — или, в просторечии, компрессора {{< a "http://ali.pub/3unhyy" "Xiaomi Mijia Electric Pump" >}}, работающего от аккумулятора.
@@ -18,19 +18,19 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/0dia9k0gfhbs1940.webp
 ## Характеристики
 
 {{< table "table table-striped" >}}
-|Характеристика                       |Значение                             |
-|-------------------------------------|-------------------------------------|
-|Наименование модели                  |{{< fl "MJCQ01QJ" >}}                |
-|Диапазон задаваемых значений давления|0,2…10,3 бар (3…150 {{< fl "psi" >}})|
-|Разъём для зарядки                   |{{< fl "Micro USB" >}}               |
-|Ёмкость аккумулятора                 |2000 мА·ч (14,8 Вт·ч)                |
-|Уровень шума при работе              |< 80 дБ на расстоянии в 1 м          |
-|Длина патрубка                       |180 мм                               |
-|Размеры                              |124×71×45 мм (без учёта трубки)      |
-|Параметры зарядки                    |5 В, 2 А                             |
-|Максимальное время зарядки           |3 ч                                  |
+|Характеристика                       |Значение                                                                           |
+|-------------------------------------|-----------------------------------------------------------------------------------|
+|Наименование модели                  |{{< fl "MJCQ01QJ" >}}                                                              |
+|Диапазон задаваемых значений давления|0,2…10,3 бар (3…150 {{< fl "psi" >}})                                              |
+|Разъём для зарядки                   |{{< fl "Micro USB" >}}                                                             |
+|Ёмкость аккумулятора                 |2000 мА·ч (14,8 Вт·ч)                                                              |
+|Уровень шума при работе              |< 80 дБ на расстоянии в 1 м                                                        |
+|Длина патрубка                       |180 мм                                                                             |
+|Размеры                              |124×71×45 мм (без учёта трубки)                                                    |
+|Параметры зарядки                    |5 В, 2 А                                                                           |
+|Максимальное время зарядки           |3 ч                                                                                |
 |Производительность на полном заряде  |41 футбольный мяч (по 1 мин), 8 велоколёс (по 3 мин) или 5 автомобильных (по 6 мин)|
-|Цена                                 |Около {{< a "http://ali.pub/3unhyy" "**€ 40** на AliExpress" >}}|
+|Цена                                 |Около {{< a "http://ali.pub/3unhyy" "**€ 40** на AliExpress" >}}                   |
 {{< /table >}}
 
 
@@ -51,13 +51,13 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/0dia9k0gfhbs1940.webp
 * Тканевый чехол для хранения, с отдельным кармашком для аксессуаров
 * Инструкция на китайском (нет на фото)
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/243bztuyv3h52136.webp" "Комплект поставки компрессора." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/243bztuyv3h52136.jpg" "Комплект поставки компрессора." >}}
 
 ## Органы управления
 
 Любой, у кого когда-либо был {{< wiki "iPod Classic" >}}, глядя на этот девайс, испытывает дежавю:
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ylguy3luey6i3652.webp" "Компрессор Xiaomi Mijia." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ylguy3luey6i3652.jpg" "Компрессор Xiaomi Mijia." >}}
 
 Впрочем, по ошибочно приписываемому его создателю выражению, *«хорошие художники копируют, великие воруют»*.
 
@@ -70,11 +70,11 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/0dia9k0gfhbs1940.webp
 
 На верхней грани корпуса находится патрубок, в свободное от работы время вставляющийся другим концом в отверстие, отмеченное красным кольцом, а также светодиод фонарика белого цвета.
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xl8g3i4fvrwv2881.webp" "Компрессор — вид сверху." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xl8g3i4fvrwv2881.jpg" "Компрессор — вид сверху." >}}
 
 Снизу расположен разъём {{< fl "Micro USB" >}} для зарядки, прикрытый резиновой заглушкой. Рядом с ним на фаске ещё один светодиод, сигнализирующий о включении питания и о ходе зарядки.
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1p4lxlpxhtvv0919.webp" "Вид снизу — зарядный порт и светодиод." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1p4lxlpxhtvv0919.jpg" "Вид снизу — зарядный порт и светодиод." >}}
 
 Это всё, что есть.
 
@@ -84,7 +84,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/0dia9k0gfhbs1940.webp
 
 Так, например, здесь отсутствует кнопка включения. Компрессор включается автоматически, когда вынимаешь патрубок из отверстия держателя, отмеченного красным кольцом. Выключается, разумеется, тоже автоматически, если вставить её обратно:
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/7s9pzp2ceoq60821.webp" "Автовключение компрессора при вынимании трубки." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/7s9pzp2ceoq60821.jpg" "Автовключение компрессора при вынимании трубки." >}}
 
 В остальном органы управления тоже совершенно интуитивны.
 
@@ -100,25 +100,25 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/0dia9k0gfhbs1940.webp
 
 Диапазон: от **30** до **65** {{< fl "psi" >}}.
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0dia9k0gfhbs1940.webp" "Режим «велосипед»." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0dia9k0gfhbs1940.jpg" "Режим «велосипед»." >}}
 
 ### Режим «скутер»
 
 Диапазон: от **1,8** до **3** бар.
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9s1tvc5vlduh2607.webp" "Режим «скутер»." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9s1tvc5vlduh2607.jpg" "Режим «скутер»." >}}
 
 ### Режим «автомобиль»
 
 Диапазон: от **1,8** до **3,5** бар.
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/m9w7yaeek14q0543.webp" "Режим «автомобиль»." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/m9w7yaeek14q0543.jpg" "Режим «автомобиль»." >}}
 
 ### Режим «мяч»
 
 Диапазон: от **4** до **16** {{< fl "psi" >}}.
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/5iqjtl1ruq8f0662.webp" "Режим «мяч»." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/5iqjtl1ruq8f0662.jpg" "Режим «мяч»." >}}
 
 ### Запуск и остановка компрессора
 
@@ -128,7 +128,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/0dia9k0gfhbs1940.webp
 
 Штатно установленная на патрубке муфта подходит для автомобильного ниппеля; для велосипеда можно прикрутить к нему прилагаемый переходник. С этим же переходником его можно и хранить, если он постоянно используется — он нормально вставляется в отверстие.
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/jvh3dpiao5tp3288.webp" "Переходник для велосипедного ниппеля." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/jvh3dpiao5tp3288.jpg" "Переходник для велосипедного ниппеля." >}}
 
 ## Видеодемонстрация
 

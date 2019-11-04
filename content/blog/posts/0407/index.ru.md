@@ -10,7 +10,7 @@ tags:
     - статистика
     - стереотипы
     - ВОЗ
-image: "https://res.cloudinary.com/yktoo/image/upload/blog/wylp3aziw05n1088.webp"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/wylp3aziw05n1088.jpg"
 imageCredit: "Фото: Pratik Gupta."
 ---
 

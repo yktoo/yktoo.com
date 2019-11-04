@@ -7,7 +7,7 @@ tags:
     - gadgets
     - Xiaomi
     - AliExpress
-image: "https://res.cloudinary.com/yktoo/image/upload/blog/0dia9k0gfhbs1940.webp"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/0dia9k0gfhbs1940.jpg"
 ---
 
 It's time to fulfil my promise and publish a review of my "{{< a "0384" "inflatable treasure" >}}", which perhaps can better be described as the {{< a "http://ali.pub/3unhyy" "Xiaomi Mijia Electric Pump" >}}.
@@ -17,19 +17,19 @@ It's time to fulfil my promise and publish a review of my "{{< a "0384" "inflata
 ## Specifications
 
 {{< table "table table-striped" >}}
-|Feature                              |Value                                |
-|-------------------------------------|-------------------------------------|
-|Product model                        |MJCQ01QJ                             |
-|Inflation pressure range             |0.2…10.3 bar (3…150 psi)             |
-|Charging interface                   |Micro USB                            |
-|Battery capacity                     |2000 mAh (14.8 Wh)                   |
-|Noise level                          |< 80 dB at 1 metre                   |
-|Tube length                          |180 mm                               |
-|Dimensions                           |124×71×45 mm (without air pipe)      |
-|Charging rating                      |5 V, 2 A                             |
-|Max. charging time                   |3 hours                              |
+|Feature                              |Value                                                                            |
+|-------------------------------------|---------------------------------------------------------------------------------|
+|Product model                        |MJCQ01QJ                                                                         |
+|Inflation pressure range             |0.2…10.3 bar (3…150 psi)                                                         |
+|Charging interface                   |Micro USB                                                                        |
+|Battery capacity                     |2000 mAh (14.8 Wh)                                                               |
+|Noise level                          |< 80 dB at 1 metre                                                               |
+|Tube length                          |180 mm                                                                           |
+|Dimensions                           |124×71×45 mm (without air pipe)                                                  |
+|Charging rating                      |5 V, 2 A                                                                         |
+|Max. charging time                   |3 hours                                                                          |
 |Single charge performance            |41 footballs (1 min each), 8 bike tyres (3 min each), or 5 car tyres (6 min each)|
-|Price                                |About {{< a "http://ali.pub/3unhyy" "**€ 40** on AliExpress" >}}|
+|Price                                |About {{< a "http://ali.pub/3unhyy" "**€ 40** on AliExpress" >}}                 |
 {{< /table >}}
 
 ## What's in the box
@@ -49,13 +49,13 @@ The contents of the packaging:
 * Storage pouch with an accessory section
 * User manual in Chinese (not on this photo)
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/243bztuyv3h52136.webp" "The contents of the box." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/243bztuyv3h52136.jpg" "The contents of the box." >}}
 
 ## Controls
 
 Anyone who ever owned an {{< wiki "iPod Classic" >}} will definitely experience déjà-vu looking at this one:
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ylguy3luey6i3652.webp" "Xiaomi Mijia pump." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ylguy3luey6i3652.jpg" "Xiaomi Mijia pump." >}}
 
 Well, as someone once said, *"good artists borrow, ~~Chinese~~ great artists steal."*
 
@@ -68,11 +68,11 @@ The front panel features a large white-LED screen and a five-button ring below i
 
 The upper side contains a pressure tube, which is to be inserted with its free end into the red-marked hole in times when not in use. There's also a bright white LED in the middle serving as a flash-light.
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xl8g3i4fvrwv2881.webp" "Top view." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xl8g3i4fvrwv2881.jpg" "Top view." >}}
 
 The bottom side features a Micro USB charging port with a rubber cover, and another white LED next to it used to indicate charging or power-on status.
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1p4lxlpxhtvv0919.webp" "Bottom view: the charging port and the power indicator." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1p4lxlpxhtvv0919.jpg" "Bottom view: the charging port and the power indicator." >}}
 
 These are all controls this device has.
 
@@ -82,7 +82,7 @@ I find Xiaomi designs principles quite appealing. They clearly focus on ensuring
 
 For example, there's no power button here. The device powers on automatically as soon as you pull the tube's nozzle out of the storage hole. Conversely, it goes off once you put the nozzle back in:
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/7s9pzp2ceoq60821.webp" "Automatic power control on tube pull-out." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/7s9pzp2ceoq60821.jpg" "Automatic power control on tube pull-out." >}}
 
 Other controls are just as intuitive.
 
@@ -98,25 +98,25 @@ This is the default power-up mode of the pump, in which you can choose a pressur
 
 Range: **30** through **65** psi.
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0dia9k0gfhbs1940.webp" "Bike tyre mode." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0dia9k0gfhbs1940.jpg" "Bike tyre mode." >}}
 
 ### Motorbike tyre mode
 
 Range: **1,8** through **3** bar.
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9s1tvc5vlduh2607.webp" "Motorbike tyre mode." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9s1tvc5vlduh2607.jpg" "Motorbike tyre mode." >}}
 
 ### Car tyre mode
 
 Range: **1,8** through **3,5** bar.
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/m9w7yaeek14q0543.webp" "Car tyre mode." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/m9w7yaeek14q0543.jpg" "Car tyre mode." >}}
 
 ### Football mode
 
 Range: **4** through **16** psi.
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/5iqjtl1ruq8f0662.webp" "Football mode." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/5iqjtl1ruq8f0662.jpg" "Football mode." >}}
 
 ### Starting and stopping the inflation
 
@@ -126,7 +126,7 @@ In order to start pumping you press the button in the centre, but be prepared—
 
 The nozzle mounted on the inflation tube's end fits a standard car tyre valve; there's also a bike valve adapter you can screw onto it. If you happen to use it often, you can simply keep it on as it fits the storage hole perfectly.
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/jvh3dpiao5tp3288.webp" "Bike valve adapter." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/jvh3dpiao5tp3288.jpg" "Bike valve adapter." >}}
 
 ## Video demonstration
 

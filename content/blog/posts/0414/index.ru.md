@@ -6,7 +6,7 @@ tags:
     - Нидерланды
     - глоссарий
     - gemeente
-image: "https://res.cloudinary.com/yktoo/image/upload/blog/b7n42iqrlsfs0534.webp"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/b7n42iqrlsfs0534.jpg"
 imageCredit: "Карта: gemeentenatlas.nl."
 glossary:
     - gemeente
@@ -25,7 +25,7 @@ glossary:
 
 В настоящий момент вся страна делится на *провинции*, которые, в свою очередь, подразделяются на *муниципалитеты*, сиречь хементы. По состоянию на **1** января {{< year 2019  "этого" >}} года европейская часть страны {{< wiki "Lijst_van_Nederlandse_gemeenten" "nl" "состоит" >}} из **355** муниципалитетов.
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/b7n42iqrlsfs0534.webp" "Карта провинций и муниципалитетов Нидерландов. Источник: gemeentenatlas.nl." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/b7n42iqrlsfs0534.jpg" "Карта провинций и муниципалитетов Нидерландов. Источник: gemeentenatlas.nl." >}}
 
 Помимо этой, материковой, Голландии есть ещё три территории на Антильских островах, они обладают особым статусом.
 

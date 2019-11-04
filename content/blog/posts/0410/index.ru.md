@@ -5,7 +5,7 @@ title: "Бездарные мошенники"
 tags:
     - Нидерланды
     - мошенники
-image: "https://res.cloudinary.com/yktoo/image/upload/blog/cw6jw5dtzlik2835.webp"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/cw6jw5dtzlik2835.jpg"
 imageCredit: "Фото: vipul uthaiah."
 ---
 
@@ -17,12 +17,12 @@ imageCredit: "Фото: vipul uthaiah."
 
 Например, мой банк якобы сообщает мне, что моя карточка скоро превратится в тыкву:
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/arr090md4wso0949.webp" "Мошенническая СМС-ка." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/arr090md4wso0949.jpg" "Мошенническая СМС-ка." >}}
 
 У меня, правда, никогда в жизни не было счёта в {{< fl "Rabobank" >}} (смешное, кстати, название для русского уха), но тут уж явно наудачу рассылали.
 
 Ещё один пример — типа от налоговой. Говорят, задолжал я им, ни много ни мало, **€ 394**, и если я его немедленно не выплачу, грозят неминуемыми неприятностями:
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/16frfickpvqu2262.webp" "Мошенническая СМС-ка." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/16frfickpvqu2262.jpg" "Мошенническая СМС-ка." >}}
 
 Даже любопытно, кто на такое покупается.
