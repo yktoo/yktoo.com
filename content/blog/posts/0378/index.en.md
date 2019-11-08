@@ -43,7 +43,7 @@ Further down the road you'll apparently find a **5-volt** power regulator, whose
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/r21am5e4w9hm2912.jpg" "Charger cables." >}}
 
-As soon as the user starts swinging, the phone charger box gets lit with green light: 
+As soon as the user starts swinging, the phone charger box gets lit with green light:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/y37swklnrmag3178.jpg" "Charger box lighting." >}}
 

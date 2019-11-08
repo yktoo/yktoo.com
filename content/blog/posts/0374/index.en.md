@@ -9,7 +9,7 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/q1620veklkc13676.jpg"
 ---
 
-Today I've experienced a real paradigm shift. As I've found out, cubes are not the only shape you find sugar formed into (which has been my conviction for more then four decades to now). There also exist sugar cylinders! 
+Today I've experienced a real paradigm shift. As I've found out, cubes are not the only shape you find sugar formed into (which has been my conviction for more then four decades to now). There also exist sugar cylinders!
 
 <!--more-->
 
@@ -22,7 +22,7 @@ The life will never be the same again.
 And there's also another thing on the subject of curvy.
 
 In my post I'd like to highlight the greediness of {{< fl "Nestlé" >}}. Just recently it looked as if we've finally found peace with these weird tiny conic coffee cups—which didn't even have a proper name, everyone would call them simply *Nespresso*. And you could finally find them in any supermarket.
- 
+
  They thought, well, it's just getting too easy for our loyal customers, let's make it a bit more engaging. So they've introduced cups of a different shape—totally not compatible with the existing system—and called it *Vertuo*.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hm8lxvkvgsoc1879.jpg" "Nespresso Vertuo cups." >}}

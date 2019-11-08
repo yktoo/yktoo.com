@@ -146,7 +146,7 @@ The Home page provides a brief overview of the router's parameters:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cncs7lmsqeus1923.png" "Advanced ⇒ Home." >}}
 
-There's also an interactive Setup wizard, which can help you to get the basics right. 
+There's also an interactive Setup wizard, which can help you to get the basics right.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/nl08b5xhibs42834.png" "Advanced ⇒ Setup wizard." >}}
 
@@ -160,7 +160,7 @@ The Wi-Fi settings screen looks very much like its counterpart from the Basic mo
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/72rgrixxeqsf0611.png" "Advanced ⇒ Setup ⇒ Wireless 1." >}}
 
-Guest portal settings. This one can also be switched on/off, you can specify a password to be entered in the captive portal, guest session duration, and terms and conditions document also shown when authenticating the user on the captive portal: 
+Guest portal settings. This one can also be switched on/off, you can specify a password to be entered in the captive portal, guest session duration, and terms and conditions document also shown when authenticating the user on the captive portal:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/nz0s0n4eww1b2347.png" "Advanced ⇒ Setup ⇒ Guest portal settings." >}}
 
@@ -326,7 +326,7 @@ After having used the system for nine months I can conclude my **Netgear Orbi Pr
 There a couple of points though:
 
 * In the very beginning the router would sometimes become unresponsive after some configuration changes. In that case it could only be brought back to life with a cold reboot. Luckily, this never happened in the past few months.
-* The access control bug with "Block new devices by default" mentioned above. I couldn't resolve it with Netgear support (as what they asked of me was too much). 
+* The access control bug with "Block new devices by default" mentioned above. I couldn't resolve it with Netgear support (as what they asked of me was too much).
 
 On the positive note, its three-network feature is incredibly useful:
 

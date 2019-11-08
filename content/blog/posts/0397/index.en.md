@@ -39,7 +39,7 @@ You'll have to pay the VAT for all packages valued **€ 22** (*excluding* shi
 
 In case the VAT is to be paid, it's calculated, {{< a "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/btw/btw_berekenen_aan_uw_klanten/btw_berekenen/btw_tarief/btw_tarief" "as usual" >}}, based on the kind of the item:
 
-* Low rate, **9%**: food, water, agricultural goods, medicine, art items, books, and periodicals. 
+* Low rate, **9%**: food, water, agricultural goods, medicine, art items, books, and periodicals.
 * Standard rate, **21%**: all other items.
 
 ## Customs duty
@@ -69,4 +69,3 @@ So, for instance, if you buy an item worth **€ 21.95**, you'll pay exactly t
 This is something to consider when ordering stuff. Chinese sellers at **AliExpress**, **DealExtreme**, **eBay** often set the value at some very low figure. Others (e.g. **iHerb**) usually declare the real value of the package, and sometimes you'll be better off splitting your order in two and paying the shipping costs twice.
 
 Also, some **AliExpress** sellers offer shipping from an EU warehouse, in which case all taxes and duties have already been paid and the buyer only pays the face value.
- 

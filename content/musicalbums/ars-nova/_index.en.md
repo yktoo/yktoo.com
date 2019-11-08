@@ -5,12 +5,12 @@ image: ars-nova.jpg
 weight: 1
 isAlbum: true
 credits:
-    Lyrics: Igor Abakumov    
-    Music and arrangement: Radiolaria    
-    Vocals: Igor Abakumov, Tatyana Kann    
-    Backing vocals: Igor Abakumov, Dmitry Kann, Tatyana Kann    
-    Guitars: Igor Abakumov, Dmitry Kann    
-    Recorder: Dmitry Kann    
+    Lyrics: Igor Abakumov
+    Music and arrangement: Radiolaria
+    Vocals: Igor Abakumov, Tatyana Kann
+    Backing vocals: Igor Abakumov, Dmitry Kann, Tatyana Kann
+    Guitars: Igor Abakumov, Dmitry Kann
+    Recorder: Dmitry Kann
     Sound mixing: Dmitry Kann
 released: Recorded and mixed in **March-May 2001** at DaleTech Records (Tyumen, Russia). It has never been officially released by any label.
 ---

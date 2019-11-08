@@ -83,7 +83,7 @@ What's also good to know is that the manufacturer doesn't assume responsibility 
 
 The same radar is also used by the *PCS* (*Pre-Collision System*), which is a system that gets activated when a collision is imminent. In such case PCS will tighten the front safety belts and apply assisted braking. The system can be disabled with a special button.
 
-It's also worth mentioning that the headrests of this Prius will slightly move forward during a rear collision to reduce the risk of damaging neck-bones. 
+It's also worth mentioning that the headrests of this Prius will slightly move forward during a rear collision to reduce the risk of damaging neck-bones.
 
 ## Keyless entry {#keyless-entry}
 
@@ -91,7 +91,7 @@ Just like the previous version, this model allows for locking and unlocking the 
 
 The key remote has got an additional *A/C* button that remotely starts the air conditioning system so that you can now heat or cool the car before leaving the house.
 
-A frequently asked question is: what will happen if someone touches the door handle while you're distracted or occupied with something else? Toyota guarantees that the system will ignore that if the key is two metres (or more) away from the handle. In fact, you need to be even closer—within one metre, in which case it's highly unlikely you won't notice that someone is trying to open your car's door. 
+A frequently asked question is: what will happen if someone touches the door handle while you're distracted or occupied with something else? Toyota guarantees that the system will ignore that if the key is two metres (or more) away from the handle. In fact, you need to be even closer—within one metre, in which case it's highly unlikely you won't notice that someone is trying to open your car's door.
 
 Another common question is what will happen should you leave your key inside the car. The answer is: you don't have to worry. Prius won't let you lock the doors as long as there's a key inside (even if you stand outside with another key).
 

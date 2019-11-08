@@ -57,11 +57,11 @@ The print on the wood isn't perfect but that's fine:
 
 ## Step four: burn it!
 
-That's the moment you grab your assiduity and the burner again. You'll need to follow every printed bit with the burner's tip. 
+That's the moment you grab your assiduity and the burner again. You'll need to follow every printed bit with the burner's tip.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/5p7acota2yin0277.jpg" "Burning in the toner." >}}
 
-Multiple tips can come in handy. 
+Multiple tips can come in handy.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/sthes5zt8af13115.jpg" "Burning in the toner." >}}
 

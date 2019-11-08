@@ -27,7 +27,7 @@ So what's so special about it? Well, it turns out that if you're a {{< a "0310#e
 ## The VAT number and its privacy flaw
 
 When I was {{< a "0311" "assigned" >}} this number at the {{< fl "KvK" >}} (the Dutch Chamber of Commerce), my first reaction was: "Wait, are you serious?".
- 
+
 According to the {{< a "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/btw/administratie_bijhouden/btw_nummers_controleren/uw_btw_nummer" "rules" >}}, the VAT number is 14 characters long and consists of:
 
 * The two-letter country code (`NL`);

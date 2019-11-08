@@ -147,7 +147,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/ihz4hlumirsc2592.jpg"
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cncs7lmsqeus1923.png" "Advanced ⇒ Home." >}}
 
-С помощью интерактивного {{< fl "Setup wizard" >}} можно настроить роутер, отвечая на вопросы. 
+С помощью интерактивного {{< fl "Setup wizard" >}} можно настроить роутер, отвечая на вопросы.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/nl08b5xhibs42834.png" "Advanced ⇒ Setup wizard." >}}
 
@@ -161,7 +161,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/ihz4hlumirsc2592.jpg"
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/72rgrixxeqsf0611.png" "Advanced ⇒ Setup ⇒ Wireless 1." >}}
 
-Настройки гостевого портала. Его также можно выключить, настроить пароль для {{< fl "captive portal" >}} и длительность одного сеанса, также можно выбрать картинку и текст, показываемые при аутентификации на {{< fl "captive portal" >}}: 
+Настройки гостевого портала. Его также можно выключить, настроить пароль для {{< fl "captive portal" >}} и длительность одного сеанса, также можно выбрать картинку и текст, показываемые при аутентификации на {{< fl "captive portal" >}}:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/nz0s0n4eww1b2347.png" "Advanced ⇒ Setup ⇒ Guest portal settings." >}}
 

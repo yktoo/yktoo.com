@@ -35,7 +35,7 @@ On the {{< fl "Fiscaal" >}} tab you can see the original ("catalogue", {{< fl "C
 
 Obviously, the provided information includes no personal data.
 
-Another thing that might prove useful is the mileage reading classification (*logical* or *illogical*). {{< fl "RDW" >}} records the value at each vehicle's sale (the {{< fl "Tellerstanden" >}} section). 
+Another thing that might prove useful is the mileage reading classification (*logical* or *illogical*). {{< fl "RDW" >}} records the value at each vehicle's sale (the {{< fl "Tellerstanden" >}} section).
 
 
 ## Another example

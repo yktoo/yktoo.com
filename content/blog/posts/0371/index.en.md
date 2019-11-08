@@ -23,7 +23,7 @@ You can find perhaps a zillion of similar thermometers, however what is special 
 
 The thermo-hygrometer can be hung on a wall or put on a desk using the provided stand.
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9e7brluw405h3500.jpg" "Xiaomi Mijia thermometer on a wall." >}} 
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9e7brluw405h3500.jpg" "Xiaomi Mijia thermometer on a wall." >}}
 
 I bought mine {{< a "http://ali.pub/3qdxv7" "at AliExpress" >}} at a nifty price of **€ 9**, shipping included.
 

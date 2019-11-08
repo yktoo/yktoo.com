@@ -21,7 +21,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/9e7brluw405h3500.jpg"
 
 Его можно вешать на стену или ставить на стол в комплектную подставку.
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9e7brluw405h3500.jpg" "Термометр Xiaomi Mijia на стене." >}} 
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9e7brluw405h3500.jpg" "Термометр Xiaomi Mijia на стене." >}}
 
 Брал, конечно же, {{< a "http://ali.pub/3qdxv7" "на AliExpress" >}}, цена вместе с доставкой **€ 9**.
 

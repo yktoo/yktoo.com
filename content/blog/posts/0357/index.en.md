@@ -4,7 +4,7 @@ date: "2019-08-23T17:19:01+02:00"
 title: "The yktoo.com website code goes public!"
 description: |-
     The source code for **yktoo.com 3.0** is stable enough to be open for general public, which is something I was going to do from the beginning.
-    
+
     You can now view it on GitHub.
 tags:
     - website

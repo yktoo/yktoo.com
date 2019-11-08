@@ -65,7 +65,7 @@ imageCredit: "Фото: Constablequackers/Wikimedia/CC-BY-SA-3.0."
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ldjymtyyvo71go8qst8h.jpg" "Roetpiet, он же Чумазый Пит. Фото: Tim de Haan/Wikimedia/CC-BY-4.0." >}}
 
 Его легенда состоит в том, что он вымазался, пролезая по дымоходу — ведь официально подарки в дом попадают именно так.
- 
+
 Существуют даже {{< a "https://www.gelderlander.nl/overig/zwarte-piet-zwart-gekleurd-of-regionaal-fotoalbum~a61ba866/" "разноцветные" >}} Питы, но чем они оправдывают свой облик, мне неведомо.
 
 В свете последних событий Чумазые и прочие Питы всё чаще {{< a "https://www.nrc.nl/nieuws/2016/10/24/geen-zwarte-piet-meer-bij-rtl-wel-schoorsteen-piet-a1528112" "проникают" >}} на телевидение и детские праздники, тесня своих чёрных, неполиткорректных собратьев.

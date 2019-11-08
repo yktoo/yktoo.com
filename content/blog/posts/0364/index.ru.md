@@ -8,7 +8,7 @@ tags:
     - СМИ
     - Prinsjesdag
     - правительство
-image: "https://res.cloudinary.com/yktoo/image/upload/blog/kfdx0cng38at0694.jpg" 
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/kfdx0cng38at0694.jpg"
 imageCredit: "Фото: Rijksvoorlichtingsdienst."
 ---
 

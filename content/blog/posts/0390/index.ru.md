@@ -59,11 +59,11 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/x50by8a66apk2987.jpg"
 
 ## Шаг четвёртый: жжём
 
-Тут берём в руки усидчивость с выжигателем и аккуратно обходим все напечатанные тонером места. 
+Тут берём в руки усидчивость с выжигателем и аккуратно обходим все напечатанные тонером места.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/5p7acota2yin0277.jpg" "Выжигание по тонеру." >}}
 
-Смена насадок может оказаться полезной. 
+Смена насадок может оказаться полезной.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/sthes5zt8af13115.jpg" "Выжигание по тонеру." >}}
 

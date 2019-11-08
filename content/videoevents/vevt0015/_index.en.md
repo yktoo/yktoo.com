@@ -10,4 +10,4 @@ videocategories: theatre
 posts: "0196"
 ---
 
-Spoffin is a yearly street arts festival held in Amersfoort, Netherlands. Spoffin focuses on the latest developments in professional street theatre, site-specific theatre, circus theatre and other performances in public space. This forth edition of the Dutch festival brings four world premières and eleven Dutch premières. 
+Spoffin is a yearly street arts festival held in Amersfoort, Netherlands. Spoffin focuses on the latest developments in professional street theatre, site-specific theatre, circus theatre and other performances in public space. This forth edition of the Dutch festival brings four world premières and eleven Dutch premières.

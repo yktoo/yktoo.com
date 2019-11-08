@@ -22,13 +22,13 @@ Below are the historical rates over the last half a century. This is a chart for
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ffhfs9tshht50265.png" "Historical mortgage interest rates since 1965. Source: www.hypotheekshop.nl, data as of September 17, 2018." >}}
 
-Apart from the record low values, what is also remarkable is their update frequency. Some mortgage providers have reduced them four times during last month. 
+Apart from the record low values, what is also remarkable is their update frequency. Some mortgage providers have reduced them four times during last month.
 
 ## Starting at 0.8%
 
 You can find a handy overview of applicable rates for various fixed terms {{< a "https://www.eigenhuis.nl/hypotheken/hypotheekrente" "on this page" >}}.
 
-Here's an example calculation for a mortgage of **€ 300,000** (which is approximately the average house price at the moment), with the National Mortgage Guarantee ({{< fl "NHG" >}}) provisioning. Rates start at **0.8%** when you choose for **10-year** fixed: 
+Here's an example calculation for a mortgage of **€ 300,000** (which is approximately the average house price at the moment), with the National Mortgage Guarantee ({{< fl "NHG" >}}) provisioning. Rates start at **0.8%** when you choose for **10-year** fixed:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ibvpuj7gw1u52329.png" "Example of interest rates on a € 300,000 mortgage + NHG, data as of September 11, 2019." >}}
 

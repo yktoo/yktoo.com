@@ -4,7 +4,7 @@ date: "2019-08-23T17:19:01+02:00"
 title: "Broncode van yktoo.com is nu beschikbaar!"
 description: |-
     De broncode van **yktoo.com versie 3.0** is stabiel genoeg om beschikbaar te worden, wat ik van begin af aan plande.
-    
+
     Je kunt het nu op GitHub bekijken.
 tags:
     - website
