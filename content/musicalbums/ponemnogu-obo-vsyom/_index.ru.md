@@ -15,6 +15,7 @@ credits:
     Программинг: Дмитрий Канн
     Сведение: Дмитрий Канн
 released: Записано и сведено в **январе 2002 г.** на студии DaleTech Records (Тюмень). Альбом никогда не издавался официально.
+parent: /radiolaria
 ---
 
 {{< img "ponemnogu-obo-vsyom.jpg" "Понемногу обо всём" "article-opener" >}}

@@ -13,6 +13,7 @@ credits:
     Блок-флейта: Дмитрий Канн
     Сведение: Дмитрий Канн
 released: Записано и сведено в **марте-мае 2001 г.** на студии DaleTech Records (Тюмень). Альбом никогда не издавался официально.
+parent: /radiolaria
 ---
 
 {{< img "ars-nova.jpg" "Ars Nova" "article-opener" >}}

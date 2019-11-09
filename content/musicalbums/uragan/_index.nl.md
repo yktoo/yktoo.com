@@ -12,6 +12,7 @@ credits:
     Programming: Dmitry Kann
     Geluidsmixing: Dmitry Kann
 released: Deze nummers zijn in **2002-2003** opgenomen en gemixt bij DaleTech Records (Tjoemen, Rusland).
+parent: /radiolaria
 ---
 
 {{< img "uragan.jpg" "Uragan" "article-opener" >}}

@@ -13,6 +13,7 @@ credits:
     Recorder: Dmitry Kann
     Geluidsmixing: Dmitry Kann
 released: Opgenomen en gemixt in **maart-mei 2001** bij DaleTech Records (Tjoemen, Rusland). Het is nooit gereleased door een label.
+parent: /radiolaria
 ---
 
 {{< img "ars-nova.jpg" "Ars Nova" "article-opener" >}}

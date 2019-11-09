@@ -41,8 +41,13 @@
 <!-- Header with a Navbar -->
 {{ partial "navbar" . }}
 
-<!-- Main page content -->
 <section id="page">
+    <!-- Breadcrumbs -->
+    {{- block "breadcrumbs" . }}
+    {{- partial "breadcrumbs" . }}
+    {{- end }}
+
+    <!-- Main page content -->
     <div class="container">
         <!-- Second-level Navbar -->
         {{- block "secondary-navbar" . }}{{ end }}

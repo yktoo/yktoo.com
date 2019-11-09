@@ -1,0 +1,13 @@
+{{- if not .IsHome }}
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="{{ relref . `/` }}"><i class="fas fa-home"></i></a></li>
+        {{ $parent := .Parent }}{{ with .Params.parent }}{{ $parent = $.GetPage . }}{{ end }}
+        {{ with $parent }}
+            {{ with .Parent }}{{ if and (not .IsHome) .Title }}<li class="breadcrumb-item"><a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></li>{{ end }}{{ end }}
+            {{ if and (not .IsHome) .Title }}<li class="breadcrumb-item"><a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></li>{{ end }}
+        {{ end }}
+        <li class="breadcrumb-item active">{{ .Title | markdownify }}</li>
+    </ol>
+</nav>
+{{- end }}

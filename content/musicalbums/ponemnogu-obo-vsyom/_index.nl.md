@@ -15,6 +15,7 @@ credits:
     Programming: Dmitry Kann
     Geluidsmixing: Dmitry Kann
 released: Opgenomen en gemizt in **januari 2002** bij DaleTech Records (Tjoemen, Rusland). Het is nooit gereleased door een label.
+parent: /radiolaria
 ---
 
 {{< img "ponemnogu-obo-vsyom.jpg" "Ponemnogu obo Vsyom" "article-opener" >}}

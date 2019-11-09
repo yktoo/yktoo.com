@@ -12,6 +12,7 @@ credits:
     Программинг: Дмитрий Канн
     Сведение: Дмитрий Канн
 released: Эти композиции были записаны и сведены в **2002-2003 гг.** на студии DaleTech Records (Тюмень).
+parent: /radiolaria
 ---
 
 {{< img "uragan.jpg" "Ураган" "article-opener" >}}

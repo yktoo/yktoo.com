@@ -13,6 +13,7 @@ credits:
     Recorder: Dmitry Kann
     Sound mixing: Dmitry Kann
 released: Recorded and mixed in **March-May 2001** at DaleTech Records (Tyumen, Russia). It has never been officially released by any label.
+parent: /radiolaria
 ---
 
 {{< img "ars-nova.jpg" "Ars Nova" "article-opener" >}}
