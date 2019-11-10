@@ -343,6 +343,29 @@ process-explorer:
 
 sound-switcher-indicator:
     - title:
+          en: 'Sound Switcher Indicator **2.2.2** Debian package'
+          ru: 'Debian-пакет Sound Switcher Indicator **2.2.2**'
+          nl: 'Sound Switcher Indicator **2.2.2** Debian package'
+      description:
+          en: |-
+              A simple sound input/output switcher indicator application for **Ubuntu 18.04+**.
+
+              Binary `.deb` package.
+          ru: |-
+              Простое приложение-индикатор для выбора звукового входа/выхода в **Убунту 18.04 и более поздних**.
+
+              Бинарный `.deb`-пакет.
+          nl: |-
+              Een eenvoudige geluidsin- en uitgang schakelaar applicatie voor **Ubuntu 18.04+**.
+
+              Gecompileerd `.deb`-pakket.
+      detailUrl: 'https://github.com/yktoo/indicator-sound-switcher/blob/master/debian/changelog'
+      releaseDate: 2019-07-21
+      weight: 100
+      downloadUrl: 'https://launchpad.net/~yktooo/+archive/ubuntu/ppa/+files/indicator-sound-switcher_2.2.2-1_all.deb'
+      isFeatured: true
+
+    - title:
           en: 'Sound Switcher Indicator **2.2.2** source code'
           ru: 'Исходные коды Sound Switcher Indicator **2.2.2**'
           nl: 'Sound Switcher Indicator **2.2.2** broncode'
@@ -361,6 +384,6 @@ sound-switcher-indicator:
               Source code in `.tar.gz` archive.
       detailUrl: 'https://github.com/yktoo/indicator-sound-switcher/blob/master/debian/changelog'
       releaseDate: 2019-07-21
-      weight: 100
+      weight: 101
       downloadUrl: 'https://github.com/yktoo/indicator-sound-switcher/archive/v2.2.2.tar.gz'
-      isFeatured: true
+      isFeatured: false
