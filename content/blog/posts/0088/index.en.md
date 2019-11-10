@@ -1,6 +1,6 @@
 ---
 type: post
-date: "2011-04-17T00:00:00Z"
+date: "2011-04-17T02:00:00Z"
 title: "Part 6. Budapest"
 series: "Vienna and Budapest"
 tags: ["Budapest", "Hungary", "travel"]

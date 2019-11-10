@@ -1,6 +1,6 @@
 ---
 type: post
-date: "2011-04-17T00:00:00Z"
+date: "2011-04-17T01:00:00Z"
 title: "Part 5. Train to Budapest"
 series: "Vienna and Budapest"
 tags: ["Austria", "Budapest", "Hungary", "trains", "transport", "travel", "Vienna"]
