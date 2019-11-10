@@ -86,7 +86,7 @@
 
             <!-- See also -->
             {{- with .Site.RegularPages.Related . }}
-            <section class="blog-post-see-also">
+            <section class="blog-post-see-also" id="blog-post-see-also">
                 <h2>{{ T "seeAlso" }}</h2>
                 <div class="row">
                 {{- range first 6 . }}
@@ -97,7 +97,7 @@
             {{- end }}
 
             <!-- Comments -->
-            <section class="blog-post-comments">
+            <section class="blog-post-comments" id="blog-post-comments">
                 <h2>{{ T "comments" }}</h2>
                 <!-- Do not insert comments block in drafts or when running on localhost -->
                 {{- if or .Draft (in (print $.Site.BaseURL) "localhost") }}
@@ -108,7 +108,7 @@
                 {{- end }}
             </section>
         </div>
-        <div class="col-md-3 blog-post-sidebar">
+        <div class="col-md-3 article-sidebar">
             <div class="sticky-top">
                 <!-- Links to other posts of same series, if any -->
                 {{- with .Params.series }}
@@ -127,12 +127,14 @@
                 {{- end }}
 
                 <!-- Table of contents -->
-                {{- with .TableOfContents }}
                 <section>
                     <h6><i class="fas fa-list bycon"></i>{{ T "contents" }}</h6>
-                    {{ . }}
+                    {{ .TableOfContents }}
+                    <ul>
+                        {{- if .Site.RegularPages.Related . }}<li><a href="#blog-post-see-also">{{ T "seeAlso" }}</a></li>{{ end }}
+                        <li><a href="#blog-post-comments">{{ T "comments" }}</a></li>
+                    </ul>
                 </section>
-                {{- end }}
 
                 <!-- Categories -->
                 {{- if .Params.categories }}
