@@ -11,7 +11,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/k9ujyztdbuv2npmmygrq.
 imageCredit: "Фото: Hello I'm Nik/Unsplash."
 ---
 
-Сайт {{< fl "Emerce" >}} {{< a "https://www.emerce.nl/nieuws/amazonnl-volgend-jaar-volledige-webwinkel" "утверждает" >}}, что американский онлайн-гигант {{< fl "Amazon" >}} планирует в полномасштабное наступление на нидерландский рынок.
+Сайт {{< fl "Emerce" >}} {{< a "https://www.emerce.nl/nieuws/amazonnl-volgend-jaar-volledige-webwinkel" "утверждает" >}}, что американский онлайн-гигант {{< fl "Amazon" >}} планирует полномасштабное наступление на нидерландский рынок.
 
 Сейчас на {{< a "https://amazon.nl/" "amazon.nl" >}} можно купить лишь электронные книги. В {{< yearn 2020 "следующем" >}} году компания должна наконец-то начать предлагать полный ассортимент товаров, которые в настоящий момент доставляются в Нидерланды из немецкого филиала {{< a "https://amazon.de/" "amazon.de" >}}.
 
