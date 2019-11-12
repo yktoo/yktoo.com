@@ -9,7 +9,7 @@ tags:
     - поезда
     - железные дороги
     - NS
-image: "https://res.cloudinary.com/yktoo/image/upload/v1572961588/blog/zfdkydiydqxi2oaai2mb.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/zfdkydiydqxi2oaai2mb.jpg"
 imageCredit: "Фото: NS."
 ---
 

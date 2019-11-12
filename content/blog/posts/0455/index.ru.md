@@ -11,7 +11,7 @@ tags:
     - аэропорт
     - транспорт
     - самолёты
-image: "https://res.cloudinary.com/yktoo/image/upload/v1573138381/blog/eulfjqrectlemzqkopip.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/eulfjqrectlemzqkopip.jpg"
 imageCredit: "Фото: csupordezso/Pixabay."
 ---
 

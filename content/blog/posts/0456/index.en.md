@@ -18,7 +18,7 @@ Say, I've been using the **Foscam C1** webcam for a couple of years, one that lo
 
 <!--more-->
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1573205122/blog/ymvghmzu32zbjqzuintb.jpg" "Foscam C1 webcam." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ymvghmzu32zbjqzuintb.jpg" "Foscam C1 webcam." >}}
 
 I've bought back in the day it not only because it was reasonably priced, but mainly thanks to the fact you can play its video stream with any {{< fl "RTSP" >}}-capable player, for example, {{< a "https://www.videolan.org/vlc/" "VLC" >}}. All you need is to open the following address:
 

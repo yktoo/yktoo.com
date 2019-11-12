@@ -57,7 +57,7 @@ $ youtube-dl --version
 
 Например:
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1573407998/blog/ne9utarozbfbfrlhcdno.gif" "Пример использования youtube-dl." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ne9utarozbfbfrlhcdno.gif" "Пример использования youtube-dl." >}}
 
 Для скачивания *только аудиодорожки* нужно передать опцию `-x`:
 

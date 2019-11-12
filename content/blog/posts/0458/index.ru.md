@@ -27,7 +27,7 @@ imageCredit: "Изображение: Rijksoverheid."
 
 Новый символ заменит прежний, разработанный около четверти века назад Нидерландским бюро по туризму и конгрессам ({{< fl "NBTC" >}}):
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1573473240/blog/a6inoubv2onv57g58ezb.png" "Прежний логотип. Изображение: NBTC." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/a6inoubv2onv57g58ezb.png" "Прежний логотип. Изображение: NBTC." >}}
 
 Слово {{< fl "Holland" >}} в символике больше не используется — правительство хочет продвигать на международном рынке всю страну, а не небольшую её часть — Голландию (речь идёт о двух провинциях, Северной и Южной Голландиях). О новой стратегии {{< a "https://www.dutchnews.nl/news/2019/10/dutch-change-international-branding-holland-becomes-the-netherlands/" "стало" >}} известно в начале октября, и анонсированная смена логотипа, очевидно, — первый шаг в этом направлении.
 

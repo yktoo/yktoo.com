@@ -19,7 +19,7 @@ image: "https://img.youtube.com/vi/e7TmbUtIiUU/maxresdefault.jpg"
 
 <!--more-->
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1573205122/blog/ymvghmzu32zbjqzuintb.jpg" "Веб-камера Foscam C1." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ymvghmzu32zbjqzuintb.jpg" "Веб-камера Foscam C1." >}}
 
 Взял её в своё время не только из-за демократичной цены, а также благодаря тому, что видеопоток с неё можно проигрывать любым плеером с поддержкой {{< fl "RTSP" >}}, например, {{< a "https://www.videolan.org/vlc/" "VLC" >}} — просто открыть в нём следующий адрес:
 

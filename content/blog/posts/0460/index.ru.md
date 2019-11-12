@@ -15,7 +15,7 @@ imageCredit: "Фото: Paweł Czerwiński/Unsplash."
 
 <!--more-->
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1573485680/blog/avopja7lou1js7wen8si.jpg" "Скриншот интерактивной карты. Источник: Gemeente Amsterdam/CC-BY-4.0." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/avopja7lou1js7wen8si.jpg" "Скриншот интерактивной карты. Источник: Gemeente Amsterdam/CC-BY-4.0." >}}
 
 Назначение этого сервиса, {{< a "https://www.parool.nl/amsterdam/kaart-van-gemeente-laat-zien-waar-gegevens-verzameld-worden~b964acce/" "запущенного" >}} около полугода назад, состоит в том, чтобы информировать граждан о всевозможных инструментах городской повседневной слежки, установленных в общественных местах, {{< a "https://slimmeapparaten.amsterdam.nl/categories" "среди которых" >}}:
 
