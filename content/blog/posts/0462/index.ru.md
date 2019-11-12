@@ -10,13 +10,14 @@ tags:
     - новости
     - Facebook
     - Instagram
+    - реклама
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/hwfxnryhj6w1s0pevz0y.jpg"
 imageCredit: "Фото: LoboStudioHamburg/Pixabay."
 ---
 
 Амстердамский суд вчера {{< a "https://www.rechtspraak.nl/Organisatie-en-contact/Organisatie/Rechtbanken/Rechtbank-Amsterdam/Nieuws/Paginas/Facebook-moet-nepadvertenties-John-de-Mol-weren.aspx" "вынес" >}} постановление, которое, вероятно, будет иметь далеко идущие последствия для всей отрасли онлайн-рекламы в Нидерландах.
 
-Согласно ему, {{< fl "Facebook" >}} обязан отслеживать мошенническую рекламу, а также раскрывать данные о недоросовестных рекламодателях.
+Согласно ему, {{< fl "Facebook" >}} обязан отслеживать мошенническую рекламу, а также раскрывать данные о недобросовестных рекламодателях.
 
 <!--more-->
 
