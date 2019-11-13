@@ -4,6 +4,7 @@ date: "2019-11-10T18:45:16+01:00"
 title: "Как загрузить онлайн-видео из YouTube/Vimeo в Linux"
 tags:
     - YouTube
+    - Vimeo
     - видео
     - софт
     - Linux
