@@ -22,7 +22,7 @@ Yktoo — это мой ник, отсюда и возник домен <u>yktoo
 
 Ранее я поддерживал ряд других сайтов (<u>dk-soft.org</u>, <u>phoa.narod.ru</u>, <u>devtools.narod.ru</u>, <u>yktoo.narod.ru</u>, <u>daletech.narod.ru</u>, <u>radiolaria.narod.ru</u>), но в один момент я решил объединить это всё с моим блогом и сотворить из этого нечто целостное.
 
-Этот веб-сайт построен с помощью [Hugo](https://gohugo.io/), [Bootstrap](http://getbootstrap.com/) and [Font Awesome](https://fontawesome.com/).
+Этот веб-сайт построен с помощью [Hugo](https://gohugo.io/), [Bootstrap](http://getbootstrap.com/) и [Font Awesome](https://fontawesome.com/).
 
 ### Про мой блог
 
@@ -40,7 +40,7 @@ Yktoo — это мой ник, отсюда и возник домен <u>yktoo
 
 Просматривая контент сайта, вы соглашаетесь с {{< a "/about/privacy" "Политикой приватности (англ.)" "en" >}} и принимаете {{< a "/about/tos" "Условия предоставления услуг (англ.)" "en" >}}.
 
-Исходный код сайта находится в открытом доступе {{< a "https://github.com/yktoo/yktoo.com" "на GitHub" >}}. Исходный код и весь сопутствующий контент распространяются на условиях лицензии {{< a "https://creativecommons.org/licenses/by-sa/4.0/deed.ru" "Creative Commons Attribution-ShareAlike 4.0" >}} license.
+Исходный код сайта находится в открытом доступе {{< a "https://github.com/yktoo/yktoo.com" "на GitHub" >}}. Исходный код и весь сопутствующий контент распространяются на условиях лицензии {{< a "https://creativecommons.org/licenses/by-sa/4.0/deed.ru" "Creative Commons Attribution-ShareAlike 4.0" >}}, за исключением случаев, где явно указано иное.
 
 {{< button "https://creativecommons.org/licenses/by-sa/4.0/deed.ru" "<i class='fab fa-creative-commons'></i><i class='fab fa-creative-commons-by'></i><i class='fab fa-creative-commons-sa bycon'></i>Лицензия CC-BY-SA 4.0" >}}
 {{< button "https://github.com/yktoo/yktoo.com" "<i class='fab fa-github bycon'></i>Код на GitHub" >}}
