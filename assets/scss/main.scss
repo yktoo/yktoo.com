@@ -716,3 +716,20 @@ div[style*="56.25%"] {
         color: #e83e8c;
     }
 }
+
+// Twitter
+.twitter-tweet {
+    padding-left: 1.5em;
+    color: #555;
+    a {
+        color: #2b7bb9;
+        text-decoration: none;
+    }
+}
+blockquote.twitter-tweet {
+    a {
+        @include hover-focus {
+            text-decoration: underline;
+        }
+    }
+}
