@@ -76,7 +76,7 @@
         <div class="col-md-9">
             <!-- Post content -->
             <section class="blog-post-content">
-                {{- .Content | replaceRE "\\.</p>$" ". ■</p>" | safeHTML }}
+                {{- .Content | replaceRE "([.!?…])</p>$" "$1 ■</p>" | safeHTML }}
 
                 <!-- Full-text link, if any -->
                 {{- with .Params.fulltextUrl }}
