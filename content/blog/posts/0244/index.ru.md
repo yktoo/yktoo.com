@@ -2,7 +2,7 @@
 type: post
 date: "2015-05-15T00:00:00Z"
 title: "Часть 2. Подключение и управление"
-series: "Полный обзор 75-дюймового 4K-телевизора Samsung UE75HU7500"
+series: "Обзор телевизора Samsung UE75HU7500"
 tags: ["Samsung", "Smart TV", "гаджеты", "железо", "обзор", "телевизоры"]
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/vv5r1islwn8x1421.jpg"
 aliases:
