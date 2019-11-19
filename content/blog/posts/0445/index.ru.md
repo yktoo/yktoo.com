@@ -8,6 +8,7 @@ tags:
     - новости
     - Де Билт
     - Buienradar
+    - KNMI
 image: "https://res.cloudinary.com/yktoo/image/upload/t_s640/blog/2019-10-31_mist-boven-issel.jpg"
 imageCredit: "Фото: Johan Klos/NOS Ooggetuige."
 ---
