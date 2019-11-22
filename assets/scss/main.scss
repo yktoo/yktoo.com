@@ -158,6 +158,11 @@ a {
 .table-narrow {
     width: auto;
 }
+.table-headless {
+    thead {
+        display: none;
+    }
+}
 td.number {
     text-align: right;
     white-space: nowrap;
