@@ -49,8 +49,8 @@ series: Музопад
 ## Дискография
 
 {{< table "table table-striped table-headless" >}}
-||||
-|-----------------------------------------------------------------------------------------------------------|----|------------------------------------|
-|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/krjvfuufyyv86x8iy48g.jpg" >}}|2017|Arch Echo                           |
-|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/wysttbxecrqswh1jpraf.jpg" >}}|2019|You Won't Believe What Happens Next!|
+|   |   |   |
+|---|---|---|
+|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/krjvfuufyyv86x8iy48g.jpg" "Arch Echo" >}}|2017|Arch Echo|
+|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/wysttbxecrqswh1jpraf.jpg" "You Won't Believe What Happens Next!" >}}|2019|You Won't Believe What Happens Next!|
 {{< /table >}}
