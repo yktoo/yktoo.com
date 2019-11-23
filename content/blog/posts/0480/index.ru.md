@@ -6,6 +6,9 @@ tags:
     - Нидерланды
     - музыка
     - Arch Echo
+    - djent
+    - progressive metal
+    - funk
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/wysttbxecrqswh1jpraf.jpg"
 series: Музопад
 ---
