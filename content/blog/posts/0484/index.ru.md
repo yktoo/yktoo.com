@@ -17,17 +17,183 @@ draft: true
 
 <!--more-->
 
+## Выставка
+
+Технофестиваль проходил в выставочном центре {{< a "https://www.expohaarlemmermeer.nl/" "Expo Haarlemmermeer" >}}, находящемся недалеко от Харлема. Он продлился два дня, и каждый день был разбит на блоки по четыре часа, который организаторы назвали «полётами» — {{< fl "flights" >}}. При покупке билета нужно было выбрать один из пяти доступных «полётов».
+
+Программа каждой сессии была почти одинаковая, с небольшими вариациями. Билеты разошлись почти полностью, а на самый последний «полёт» были распроданы целиком. Один взрослый билет стоил **€ 31**.
+
+Из-за изрядного количества посетителей на подъездах к территории центра образовалась изрядная пробка.
+
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/q6o6xkkzf41cjeyynnaa.jpg" "Пробки на подъезде к Expo Haarlemmermeer." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/anayifa9dvr3ypp2398t.jpg" "Паркинг у Expo Haarlemmermeer." >}}
+
+Забавнее всего, что информационный щит с предупреждением о «возможной пробке» находился где-то ближе к её середине. Спасибо за информацию, конечно.
+
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/c2xhwpeylggrbgkbcze6.jpg" "«Возможны пробки»." >}}
+
+За паркинг пришлось платить отдельно, и, прямо скажем, немало — **€ 10**. Поле, отведённое под парковку, при этом было забито машинами.
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/anayifa9dvr3ypp2398t.jpg" "Паркинг у Expo Haarlemmermeer." >}}
+
+Снаружи {{< fl "Expo Haarlemmermeer" >}} выглядит более чем скромно.
+
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fbubupbhvuva882mssyf.jpg" "Expo Haarlemmermeer." >}}
 
+На входе посетителей встречали девушка в светящемся разными цветами костюме робота и страшилище-трансформер.
+
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/qwu5iqpxxcfbiyizg3xc.jpg" "Трансформер." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/rt97stjx0vtljvrbyflw.jpg" "Трансформер (?)" >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ziytn0oeorzsnn6dw9gd.jpg" "Трансформер (?)." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/sysc19jenfzqxzmlmpnd.jpg" "Трансформер (?)." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ziytn0oeorzsnn6dw9gd.jpg" "Сестра трансформера." >}}
+
+Вся территория центра была разбита на тематические секции:
+
+* Гейминг ({{< fl "Gaming" >}})
+* Роботы ({{< fl "Robotics" >}})
+* Штуки для детворы ({{< fl "Bright Kids" >}})
+* Мобильные технологии ({{< fl "Mobile First" >}})
+* Транспортные средства ({{< fl "Future Mobility" >}})
+* «Умный дом» ({{< fl "Smart Home" >}})
+* Дроны ({{< fl "Drone Area" >}})
+* Министерство обороны ({{< fl "Defensie" >}})
+
+Вот короткий ролик, сделанный организаторами по итогам фестиваля:
+
+{{< youtube "M81M43SThtQ" >}}
+
+## Министерство обороны и Deflab
+
+Секция нидерландского минобороны занимала наибольшую площадь на выставке. Министерство активно вербует молодёжь в свой {{< a "https://werkenbijdefensie.nl/deflab" "Deflab" >}}, используя новейшие технологические достижения, такие как {{< fl "VR" >}}-очки, дроны, роботы, электротранспорт и т.д.
+
+Что сказать, выглядит это действительно круто. По крайней мере, со стороны.
+
+### Holocinema
+
+По всей территории были расставлены привлекающие внимание «голографические» дисплеи.
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/lyfnbjbktkypyqx7uxes.jpg" "«Голограмма» на пропеллере." >}}
+
+Кавычки здесь потому, что к голографии это имеет довольно опосредованное отношение — это просто пропеллеры, вращающие линейку из светодиодов. Светодиоды динамически переключаются при движении, что создаёт висящую в воздухе картинку.
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vrr1pcnjo3ffti9m6s4g.jpg" "«Не трогайте голограмму»." >}}
+
+Трогать такую «голограмму» действительно не стоит — можно остаться без пальцев.
+
+Но дефлабовцы шагнули ещё дальше, оснастив такими пропеллерно-голографическими дисплеями целый кинозал. Они смонтировали матрицу из множества пропеллеров, формирующий единый экран.
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/athfuwdnlqrkmpp6myr9.jpg" "«Голографическое кино» министерства обороны." >}}
+
+В паре метров за этим «голографическим» экраном был расположен обычный, из светодиодных полос, на котором шёл киноряд.
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/b4lewfbaydmnnmmms5en.jpg" "«Голографическое кино» министерства обороны." >}}
+
+Всё это вместе выглядело довольно эффектно и использовалось для трансляции десятиминутного агитационного ролика, призывающего — опять же — вступать в ряды голландских вооружённых сил.
+
+Сеанс просмотра агитролика повторялся каждые **15** минут.
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/dogbsytj4hmxwcnupkwz.jpg" "«Голографическое кино» министерства обороны." >}}
+
+### Танк
+
+Военные прикатили на выставку целый танк. Это {{< fl "Houwitser PzH2000NL" >}} со **155**-миллиметровым орудием:
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/a5llwwsifgxksjgsyfcd.jpg" "Танк Houwitser PzH2000NL." >}}
+
+По танку постоянно лазило множество детворы.
+
+А мне показалось особенно любопытным, что у танка есть номерной знак! Я, конечно же, не смог удержаться от того, чтобы пробить его по {{< a "0363" "сервису OVI" >}} — но, к сожалению, военная техника там либо не регистрируется, либо отфильтровывается, хотя формат номера у него самый что ни на есть обычный.
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/dpjlm0c90dhqp2ovjrvl.jpg" "Танк Houwitser PzH2000NL." >}}
+
+В кабину танка можно было попасть, отстояв небольшую очередь, но снимать там было довольно сложно: темно, тесно и много детей.
+
+{{< carousel >}}
+https://res.cloudinary.com/yktoo/image/upload/blog/lugzbf2jz3vgnztqbhc4.jpg В танке
+https://res.cloudinary.com/yktoo/image/upload/blog/kbdkbapy3bocnjl2nrvi.jpg В танке
+https://res.cloudinary.com/yktoo/image/upload/blog/nkxhvf0iugdcsspbqayp.jpg В танке
+https://res.cloudinary.com/yktoo/image/upload/blog/c59dqsaomdnnjn6msfbz.jpg Система подачи снаряда
+{{< /carousel >}}
+
+Характеристика «Хоувицера»:
+
+* Вес: **60 т**
+* Мощность мотора: **1000 лс**
+* Максимальная скорость: **62 км/ч**
+* Расход топлива: **238 л** на 100 км
+* Пробег от одной заправки: **420 км**
+* Боекомплект: **60** снарядов
+* Радиус поражения: **18** или **40** км в зависимости от снарядов
+* Скорострельность: **3** выстрела за **10 с**
+
+### Истребитель F-16
+
+Танка им показалось мало, а может, они просто хотели чувствовать себя как дома, поэтому в зале стоял также истребитель {{< fl "F-16" >}}.
+
+{{< carousel >}}
+https://res.cloudinary.com/yktoo/image/upload/blog/sxkbyxjfidnky4w5bfwz.jpg Истребитель F-16.
+https://res.cloudinary.com/yktoo/image/upload/blog/xwishqebtbtnptej6ytz.jpg Истребитель F-16.
+{{< /carousel >}}
+
+В него залезать было, к сожалению, нельзя. Вместо этого вокруг него построили полосу препятствий:
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/swadeqrzo03w0000dzyd.jpg" "Полоса препятствий." >}}
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/o0ropaygvm6o8nzpk30p.jpg" "Поиск отравляющих веществ в комнате." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/yvlhsmgrg7ehxzk4exlq.jpg" "Поиск отравляющих веществ в комнате." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/tjlpeo9wyammdqynbw3r.jpg" "Поиск отравляющих веществ в комнате." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ffxas1mgpgqycvrttl1o.jpg" "Обеззараживание джипа." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/gxkclplpfszsoiybek0w.jpg" "Юный обеззараживальщик." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zeznp1sllgqldwrkbwes.jpg" "Упражнение с лебёдкой." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pygyjcdq8rqbecobjqaw.jpg" "Лодка ВМС Нидерландов." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/oi0ehbpigmvtqrgtogva.jpg" "Дозиметр." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/qtbcd7eipbdnx6h23vrf.jpg" "Детектор газа." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/c0on7sb8rqzt7p9olo5f.jpg" "Монитор химических веществ." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/lrduuqnczfpxd0i6rrrw.jpg" "Та-а-ак, что тут у нас?" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/q0bnuq9waabebidzxek6.jpg" "Макет машины радиразведки." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ntfgjqhw0wvcvodeiosy.jpg" "Мобильный радар." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/y7kn5o8ragos92re5nyz.jpg" "Мобильный радар." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zleynpyltkl8it5ddxpm.jpg" "---" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/f12fq7snp05dqkugq4ie.jpg" "---" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/n9hg5ew5rznzfbq0ehik.jpg" "Ракетный симулятор DARE (Delft Aerospace Rocket Engineering)." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/x05rp5jka7kozioimzpm.jpg" "." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zylfqejwkucdb26grq0k.jpg" "Работающий макет КПП." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/y00wpsnnl2z7rxcyfy4p.jpg" "---" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ahj0fqztelkfinnfgm6v.jpg" "Винтовка с лазерным прицелом." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hxebimokuiruercbdnrt.jpg" "Винтовка с лазерным прицелом." >}}
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/u69nfaxladclk0vo2eve.jpg" "." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/lsmalt7pihadw0cyxfmn.jpg" "." >}}
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/sw1mjxpwghqwaark1n0f.jpg" "Военный джип." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fxmyqtb8dp6npy3zgx3z.jpg" "Электрический мотоцикл Orphiro." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zlgdsmrosqcv0bnoko5q.jpg" "Электрический мотоцикл Orphiro." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/g0oj5zvc2yjs9frdiyqn.jpg" "Электрический мотоцикл Orphiro." >}}
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/bt1qoiykgfxg0qinoq5e.jpg" "Электромопед eV-Light." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/woeaiiavunpx3jdqi2jm.jpg" "---" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/une3spx7ryqb91c5qphw.jpg" "Электромопед Trefecta." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/gvhzuq0wzhp6zcrbjrbo.jpg" "Электромопед Trefecta." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hxlaaq1axswfujqwt6zb.jpg" "Электромопед Trefecta." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/u8xx82q6mu14ggdqhnmx.jpg" "Электромопед Trefecta." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/qv2vgn5qx7snoivulmc0.jpg" "Электромопед Trefecta." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/t2ezq8imapuaqqxjwlro.jpg" "Электромопед Trefecta." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/c5db1cifc0etpgyf09on.jpg" "Электромопед Trefecta." >}}
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/grdplpzzimpbr0wjzh0x.jpg" "VR-лабиринт." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/oclprz0rbdypiwjgemqz.jpg" "VR-лабиринт." >}}
+
+Призыв вступать в ВМС, чтобы «увидеть мир»:
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zbglbeji2yzbddkb1bcd.jpg" "«Join the navy, see the world!»" >}}
+
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/qujfjzteuc5lzerk0a00.jpg" "Персональная подлодка с педальным приводом." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/k93xegfiseyxtmtvwl1n.jpg" "Персональная подлодка с педальным приводом." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cgnq1szsecugojivaihp.jpg" "Персональная подлодка с педальным приводом." >}}
+
+
 
 ## 3D-принтеры
+
+Очень 
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/gn5ny5mdixnunku2frke.jpg" "Tractus 3D." >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/w7koe9sbmhzejloefoa4.jpg" "Tractus 3D." >}}
@@ -36,6 +202,9 @@ draft: true
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pcq9ibttfxw4ectqewxi.jpg" "Ultimaker²." >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/lm50jssfg2nfu9qjzgwn.jpg" "Напечатанные 3D-львы." >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ufxs2hcc4avaz1nj0cgl.jpg" "Напечатанная на 3D-принтере реактивная турбина." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/aszy51wqniascwebii4j.jpg" "3D-принтер Polaroid PlaySmart." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/jjd0zgrjeciek3flln4u.jpg" "Polaroid Play 3D Pen." >}}
+
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/mhyvkhxvjn96jizxgnri.jpg" "." >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/dauymnj0pkdqltfntqkz.jpg" "Тактическое задание с SUIT (Small Unit Immersive Trainer)." >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/otcrxw3bvobqxgdxhijy.jpg" "Тактический рюкзак SUIT (Small Unit Immersive Trainer)." >}}
@@ -56,8 +225,6 @@ draft: true
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/yhwz6hcjxfmgrktwutfx.jpg" "Двухместное дронотакси Ehang 216." >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/tssee1msf2ykjgdff8j4.jpg" "Двухместное дронотакси Ehang 216." >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/b8eqjbyp2pjgddqltyk1.jpg" "Двухместное дронотакси Ehang 216." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/dveu26722xaf19bgcnau.jpg" "Гейминг — XBOX One X." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/lmlmma60xpzxjlhagikj.jpg" "Гейминг — Samsung Galaxy S10." >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/btlugi1thfrtg9vl74qd.jpg" "Виртуальная Escape Room." >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/e5xxxfzybhwc9qbqgxr2.jpg" "Виртуальная Escape Room." >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zqcwc1tnpho8wwmsnyem.jpg" "Samsung SSD." >}}
@@ -76,85 +243,16 @@ draft: true
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/grfgjnupmqusxjsvy5aw.jpg" "Скут-мобилы — развлечение для подростков." >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/n4ltus1j31vihdcgoftz.jpg" "Электромопед Brekr." >}}
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/elrummjttbp6g5yssf0i.jpg" "Программирование для самых маленьких." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hydukehlilkactdnuvpi.jpg" "Программирование для самых маленьких." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fpo2qojjo5xwfxljpggc.jpg" "Робот для сборки Лего." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/qxvqaet5ymipxfzfgpag.jpg" "Робот для сборки Лего." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xaouow3as9g7ogbk3mfr.jpg" "Роботы для сборки Лего." >}}
-
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/tlhaddxnu920wjba2kwu.jpg" "Демонстрация Galaxy Fold." >}}
-
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/z2ur7xsv0z5hbgd6qus1.jpg" "mBot." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ln9aibquz1v7h38u7lb7.jpg" "." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/uhskilzdwfpbybmvwkyu.jpg" "." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/rlbujqqokkery12gbivh.jpg" "Демонстрация программирования ___." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/kx6v6q5by6tijnx8yswz.jpg" "Демонстрация программирования ___." >}}
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/lggcguqmzzno7txilqdw.jpg" "Штурмовик из «Звёздных войн»." >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/eitnmet8atosrgjmrmhl.jpg" "Электро-карт Drenthe College." >}}
 
-## Министерство обороны и Deflab
+## Гейминг
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zbglbeji2yzbddkb1bcd.jpg" "«Join the navy, see the world!»" >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/b4lewfbaydmnnmmms5en.jpg" "«Голографическое кино» министерства обороны." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/athfuwdnlqrkmpp6myr9.jpg" "«Голографическое кино» министерства обороны." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/dogbsytj4hmxwcnupkwz.jpg" "«Голографическое кино» министерства обороны." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/o0ropaygvm6o8nzpk30p.jpg" "Поиск отравляющих веществ в комнате." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/yvlhsmgrg7ehxzk4exlq.jpg" "Поиск отравляющих веществ в комнате." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/tjlpeo9wyammdqynbw3r.jpg" "Поиск отравляющих веществ в комнате." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ffxas1mgpgqycvrttl1o.jpg" "Обеззараживание джипа." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/gxkclplpfszsoiybek0w.jpg" "Юный обеззараживальщик." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zeznp1sllgqldwrkbwes.jpg" "Упражнение с лебёдкой." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pygyjcdq8rqbecobjqaw.jpg" "Лодка ВМС Нидерландов." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/oi0ehbpigmvtqrgtogva.jpg" "Дозиметр." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/qtbcd7eipbdnx6h23vrf.jpg" "Детектор газа." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/c0on7sb8rqzt7p9olo5f.jpg" "Монитор химических веществ." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/lugzbf2jz3vgnztqbhc4.jpg" "В танке." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/kbdkbapy3bocnjl2nrvi.jpg" "В танке." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/nkxhvf0iugdcsspbqayp.jpg" "В танке." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/c59dqsaomdnnjn6msfbz.jpg" "Система подачи снаряда." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zsggzwqzy0h8lgd5tsmv.jpg" "---" >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/a5llwwsifgxksjgsyfcd.jpg" "Танк Houwitser PzH2000NL." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/dpjlm0c90dhqp2ovjrvl.jpg" "Танк Houwitser PzH2000NL." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/lrduuqnczfpxd0i6rrrw.jpg" "Та-а-ак, что тут у нас?" >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/q0bnuq9waabebidzxek6.jpg" "Макет машины радиразведки." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ntfgjqhw0wvcvodeiosy.jpg" "Мобильный радар." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/y7kn5o8ragos92re5nyz.jpg" "Мобильный радар." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zleynpyltkl8it5ddxpm.jpg" "---" >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/f12fq7snp05dqkugq4ie.jpg" "---" >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/n9hg5ew5rznzfbq0ehik.jpg" "Ракетный симулятор DARE (Delft Aerospace Rocket Engineering)." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/x05rp5jka7kozioimzpm.jpg" "." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zylfqejwkucdb26grq0k.jpg" "Работающий макет КПП." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/swadeqrzo03w0000dzyd.jpg" "Полоса препятствий." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/sxkbyxjfidnky4w5bfwz.jpg" "Истребитель F-16." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xwishqebtbtnptej6ytz.jpg" "Истребитель F-16." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/y00wpsnnl2z7rxcyfy4p.jpg" "---" >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ahj0fqztelkfinnfgm6v.jpg" "Винтовка с лазерным прицелом." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hxebimokuiruercbdnrt.jpg" "Винтовка с лазерным прицелом." >}}
-
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/sw1mjxpwghqwaark1n0f.jpg" "Военный джип." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fxmyqtb8dp6npy3zgx3z.jpg" "Электрический мотоцикл Orphiro." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zlgdsmrosqcv0bnoko5q.jpg" "Электрический мотоцикл Orphiro." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/g0oj5zvc2yjs9frdiyqn.jpg" "Электрический мотоцикл Orphiro." >}}
-
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/bt1qoiykgfxg0qinoq5e.jpg" "Электромопед eV-Light." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/woeaiiavunpx3jdqi2jm.jpg" "---" >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/une3spx7ryqb91c5qphw.jpg" "Электромопед Trefecta." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/gvhzuq0wzhp6zcrbjrbo.jpg" "Электромопед Trefecta." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hxlaaq1axswfujqwt6zb.jpg" "Электромопед Trefecta." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/u8xx82q6mu14ggdqhnmx.jpg" "Электромопед Trefecta." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/qv2vgn5qx7snoivulmc0.jpg" "Электромопед Trefecta." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/t2ezq8imapuaqqxjwlro.jpg" "Электромопед Trefecta." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/c5db1cifc0etpgyf09on.jpg" "Электромопед Trefecta." >}}
-
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/lyfnbjbktkypyqx7uxes.jpg" "«Голограмма» на пропеллере." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vrr1pcnjo3ffti9m6s4g.jpg" "«Не трогайте голограмму»." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/grdplpzzimpbr0wjzh0x.jpg" "VR-лабиринт." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/oclprz0rbdypiwjgemqz.jpg" "VR-лабиринт." >}}
-
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/qujfjzteuc5lzerk0a00.jpg" "Персональная подлодка с педальным приводом." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/k93xegfiseyxtmtvwl1n.jpg" "Персональная подлодка с педальным приводом." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cgnq1szsecugojivaihp.jpg" "Персональная подлодка с педальным приводом." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/dveu26722xaf19bgcnau.jpg" "Гейминг — XBOX One X." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/lmlmma60xpzxjlhagikj.jpg" "Гейминг — Samsung Galaxy S10." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/x7ld278ywiyibxncc6mg.jpg" "." >}}
 
 ## Интернет вещей
 
@@ -168,30 +266,34 @@ draft: true
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/rut8mm2n1gmmrhssx6hp.jpg" "«Water Vase Free»." >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/oyalub6n0kqphqvricba.jpg" "«Water Vase Free»." >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/lidk1esbgokvfrc8dugb.jpg" "---" >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/yno3g4521gp9zqnj3dvr.jpg" "." >}}
+
+## Роботы
+
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/wftut7h6y8e4bw2oz6tn.jpg" "Ozobot." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/yno3g4521gp9zqnj3dvr.jpg" "." >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/wvfwir75cf1y1atfau7i.jpg" "." >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zcjki4khofj02uhohimy.jpg" "." >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/qzfz89geudrzh5l4umhn.jpg" "." >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zbilxz0pwo9crn5tiu4p.jpg" "." >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/sgn6qo036uklrcvpifwd.jpg" "." >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/yaqnwyze9esgnjgh9xt5.jpg" "." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/olvklsucpl3lrfr5fhgl.jpg" "." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ttjheve1msvrkinjgnqf.jpg" "." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ej4ufmtqfc2idx4ppdsd.jpg" "." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/bt9muykqhkkrdjnmnrtg.jpg" "." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/dhh3q69mwbwb1qvbc0fz.jpg" "." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/l5hwnuyhaq3zzfd8wyid.jpg" "." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/aszy51wqniascwebii4j.jpg" "." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/jjd0zgrjeciek3flln4u.jpg" "." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/kedpurm6helm3t2fkb9r.jpg" "." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/tha1vge5cka3ztozs7xa.jpg" "." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/s3bhohc4x7ssyhhy20aw.jpg" "." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ykjrcmovh3erdshbkcbe.jpg" "." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/b623dgunyfvsjrgjmvn8.jpg" "." >}}
-
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pfzwexfadg315seoii0a.jpg" "." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/x7ld278ywiyibxncc6mg.jpg" "." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/u69nfaxladclk0vo2eve.jpg" "." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/lsmalt7pihadw0cyxfmn.jpg" "." >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/lc0q0mooympzeklbcazm.jpg" "." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/elrummjttbp6g5yssf0i.jpg" "Программирование для самых маленьких." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ej4ufmtqfc2idx4ppdsd.jpg" "." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hydukehlilkactdnuvpi.jpg" "Программирование для самых маленьких." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fpo2qojjo5xwfxljpggc.jpg" "Робот для сборки Лего." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/qxvqaet5ymipxfzfgpag.jpg" "Робот для сборки Лего." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xaouow3as9g7ogbk3mfr.jpg" "Роботы для сборки Лего." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/z2ur7xsv0z5hbgd6qus1.jpg" "mBot." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ln9aibquz1v7h38u7lb7.jpg" "." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/uhskilzdwfpbybmvwkyu.jpg" "." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/rlbujqqokkery12gbivh.jpg" "Демонстрация программирования ___." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/kx6v6q5by6tijnx8yswz.jpg" "Демонстрация программирования ___." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/olvklsucpl3lrfr5fhgl.jpg" "Бои роботов." >}}
+
+## «Умный дом»
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ttjheve1msvrkinjgnqf.jpg" "." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/bt9muykqhkkrdjnmnrtg.jpg" "McLaren 570S Coupe." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/l5hwnuyhaq3zzfd8wyid.jpg" "McLaren 570S Coupe." >}}
+
