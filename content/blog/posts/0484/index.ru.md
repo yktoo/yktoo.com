@@ -1,6 +1,6 @@
 ---
 type: post
-date: "2019-11-25T19:15:02+01:00"
+date: "2019-11-28T13:58:30+01:00"
 title: "Техновыставка Bright Day 2019"
 tags:
     - Нидерланды
@@ -65,6 +65,14 @@ draft: true
 
 Что сказать, выглядит это действительно круто. По крайней мере, со стороны.
 
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/lsmalt7pihadw0cyxfmn.jpg" "«Вход запрещён.»" >}}
+
+На самом деле, вход был почти всюду разрешён. Можно было повертеть в руках настоящее оружие:
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/lrduuqnczfpxd0i6rrrw.jpg" "Та-а-ак, что тут у нас?" >}}
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/u69nfaxladclk0vo2eve.jpg" "На задании." >}}
+
 ### Holocinema
 
 По всей территории были расставлены привлекающие внимание «голографические» дисплеи.
@@ -99,7 +107,7 @@ draft: true
 
 По танку постоянно лазило множество детворы.
 
-А мне показалось особенно любопытным, что у танка есть номерной знак! Я, конечно же, не смог удержаться от того, чтобы пробить его по {{< a "0363" "сервису OVI" >}} — но, к сожалению, военная техника там либо не регистрируется, либо отфильтровывается, хотя формат номера у него самый что ни на есть обычный.
+Мне же показалось особенно любопытным, что у танка есть номерной знак! Я, конечно, не смог удержаться от того, чтобы пробить его по {{< a "0363" "сервису OVI" >}} — но, к сожалению, военная техника там либо не регистрируется, либо отфильтровывается, хотя формат номера у него самый что ни на есть обычный.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/dpjlm0c90dhqp2ovjrvl.jpg" "Танк Houwitser PzH2000NL." >}}
 
@@ -120,12 +128,12 @@ https://res.cloudinary.com/yktoo/image/upload/blog/c59dqsaomdnnjn6msfbz.jpg Си
 * Расход топлива: **238 л** на 100 км
 * Пробег от одной заправки: **420 км**
 * Боекомплект: **60** снарядов
-* Радиус поражения: **18** или **40** км в зависимости от снарядов
+* Радиус поражения: **18** или **40** км, в зависимости от снарядов
 * Скорострельность: **3** выстрела за **10 с**
 
 ### Истребитель F-16
 
-Танка им показалось мало, а может, они просто хотели чувствовать себя как дома, поэтому в зале стоял также истребитель {{< fl "F-16" >}}.
+Танка им показалось мало (а может, они просто хотели чувствовать себя как дома), поэтому в зале стоял также истребитель {{< fl "F-16" >}}.
 
 {{< carousel >}}
 https://res.cloudinary.com/yktoo/image/upload/blog/sxkbyxjfidnky4w5bfwz.jpg Истребитель F-16.
@@ -136,60 +144,167 @@ https://res.cloudinary.com/yktoo/image/upload/blog/xwishqebtbtnptej6ytz.jpg Ис
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/swadeqrzo03w0000dzyd.jpg" "Полоса препятствий." >}}
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/o0ropaygvm6o8nzpk30p.jpg" "Поиск отравляющих веществ в комнате." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/yvlhsmgrg7ehxzk4exlq.jpg" "Поиск отравляющих веществ в комнате." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/tjlpeo9wyammdqynbw3r.jpg" "Поиск отравляющих веществ в комнате." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ffxas1mgpgqycvrttl1o.jpg" "Обеззараживание джипа." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/gxkclplpfszsoiybek0w.jpg" "Юный обеззараживальщик." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zeznp1sllgqldwrkbwes.jpg" "Упражнение с лебёдкой." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pygyjcdq8rqbecobjqaw.jpg" "Лодка ВМС Нидерландов." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/oi0ehbpigmvtqrgtogva.jpg" "Дозиметр." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/qtbcd7eipbdnx6h23vrf.jpg" "Детектор газа." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/c0on7sb8rqzt7p9olo5f.jpg" "Монитор химических веществ." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/lrduuqnczfpxd0i6rrrw.jpg" "Та-а-ак, что тут у нас?" >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/q0bnuq9waabebidzxek6.jpg" "Макет машины радиразведки." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ntfgjqhw0wvcvodeiosy.jpg" "Мобильный радар." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/y7kn5o8ragos92re5nyz.jpg" "Мобильный радар." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zleynpyltkl8it5ddxpm.jpg" "---" >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/f12fq7snp05dqkugq4ie.jpg" "---" >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/n9hg5ew5rznzfbq0ehik.jpg" "Ракетный симулятор DARE (Delft Aerospace Rocket Engineering)." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/x05rp5jka7kozioimzpm.jpg" "." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zylfqejwkucdb26grq0k.jpg" "Работающий макет КПП." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/y00wpsnnl2z7rxcyfy4p.jpg" "---" >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ahj0fqztelkfinnfgm6v.jpg" "Винтовка с лазерным прицелом." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hxebimokuiruercbdnrt.jpg" "Винтовка с лазерным прицелом." >}}
+### Радары Thales
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/u69nfaxladclk0vo2eve.jpg" "." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/lsmalt7pihadw0cyxfmn.jpg" "." >}}
+Очень известный производитель электронного оборудования {{< wiki "Thales" >}} прикатил универсальный мобильный радар ({{< fl "Multi Mission Radar" >}}), установленный на вездеход {{< fl "Scania" >}}.
+
+{{< carousel >}}
+https://res.cloudinary.com/yktoo/image/upload/blog/ntfgjqhw0wvcvodeiosy.jpg Мобильный Multi Mission Radar.
+https://res.cloudinary.com/yktoo/image/upload/blog/y7kn5o8ragos92re5nyz.jpg Мобильный Multi Mission Radar.
+{{< /carousel >}}
+
+Тут же рядом стояла его масштабная копия:
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/q0bnuq9waabebidzxek6.jpg" "Макет машины радиразведки." >}}
+
+### Транспорт
+
+Защитники нидерландской родины прикатили ещё пару джипов (их номера также не находятся {{< fl "OVI" >}}):
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/sw1mjxpwghqwaark1n0f.jpg" "Военный джип." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fxmyqtb8dp6npy3zgx3z.jpg" "Электрический мотоцикл Orphiro." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zlgdsmrosqcv0bnoko5q.jpg" "Электрический мотоцикл Orphiro." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/g0oj5zvc2yjs9frdiyqn.jpg" "Электрический мотоцикл Orphiro." >}}
+
+И оборудовали настоящий, работающий контрольно-пропускной пункт с шлагбаумом и воротами:
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zylfqejwkucdb26grq0k.jpg" "Работающий макет КПП." >}}
+
+Тут же демонстрировалась авиационная система обнаружения атаки. Если прицелиться в нарисованный вертолёт из винтовки и нажать на курок, чуть поодаль начинает мигать лампочка.
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hxebimokuiruercbdnrt.jpg" "Винтовка с лазерным прицелом." >}}
+
+Любопытно, кстати, что точка лазерного прицела видна лишь в оптический видоискатель, а на самом объекте её нет.
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ahj0fqztelkfinnfgm6v.jpg" "Винтовка с лазерным прицелом." >}}
+
+Здесь было много электротранспорта: мотоциклов и мопедов.
+
+{{< fl "eV-Light" >}} имеет батарею ёмкостью **10,6 кВт·ч** и мотор с пиковой мощностью **40 кВт**, и на полном заряде проезжает около **100 км**:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/bt1qoiykgfxg0qinoq5e.jpg" "Электромопед eV-Light." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/woeaiiavunpx3jdqi2jm.jpg" "---" >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/une3spx7ryqb91c5qphw.jpg" "Электромопед Trefecta." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/gvhzuq0wzhp6zcrbjrbo.jpg" "Электромопед Trefecta." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hxlaaq1axswfujqwt6zb.jpg" "Электромопед Trefecta." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/u8xx82q6mu14ggdqhnmx.jpg" "Электромопед Trefecta." >}}
+
+Целый ряд электробайков {{< a "https://www.trefectamobility.com/" "Trefecta" >}}, которые могут приводиться в движение как электромотором, так и педалями. Вот его «военный» вариант:
+
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/qv2vgn5qx7snoivulmc0.jpg" "Электромопед Trefecta." >}}
+
+Характеристики мопеда:
+
+* Пиковая мощность двигателя: **4 кВт**
+* Максимальная скорость: **80 км/ч**
+* Типовая скорость на пересечённой местности: **40 км/ч**
+* Пробег от одного заряда: **90 км**
+* Полезная нагрузка: до **160 кг**
+* **14** передач при педальном приводе
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/u8xx82q6mu14ggdqhnmx.jpg" "Дисплей электромопеда." >}}
+
+Велосипед складной: с помощью вот этой кнопки его можно сложить вдвое для удобства перевозки:
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/gvhzuq0wzhp6zcrbjrbo.jpg" "Электромопед Trefecta." >}}
+
+А вот вариант в «гражданской» расцветке:
+
+{{< carousel >}}
+https://res.cloudinary.com/yktoo/image/upload/blog/une3spx7ryqb91c5qphw.jpg Электромопед Trefecta."
+https://res.cloudinary.com/yktoo/image/upload/blog/c5db1cifc0etpgyf09on.jpg Электромопед Trefecta."
+{{< /carousel >}}
+
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/t2ezq8imapuaqqxjwlro.jpg" "Электромопед Trefecta." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/c5db1cifc0etpgyf09on.jpg" "Электромопед Trefecta." >}}
+
+А это уже более серьёзный агрегат — электромотоцикл {{< a "http://www.orphiro.nl/" "Orphiro" >}}:
+
+{{< carousel >}}
+https://res.cloudinary.com/yktoo/image/upload/blog/fxmyqtb8dp6npy3zgx3z.jpg Электрический мотоцикл Orphiro.
+https://res.cloudinary.com/yktoo/image/upload/blog/zlgdsmrosqcv0bnoko5q.jpg Электрический мотоцикл Orphiro.
+{{< /carousel >}}
+
+Информации о нём пока что мало и он ещё не запущен в серию. Но выглядит красиво.
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/g0oj5zvc2yjs9frdiyqn.jpg" "Электрический мотоцикл Orphiro." >}}
+
+### Виртуальная реальность 
+
+{{< fl "SUIT" >}} ({{< a "https://www.re-lion.com/blacksuit.html" "Small Unit Immersive Trainer" >}}, «компактный реалистичный тренажёр») — предмет особенной гордости {{< fl "Deflab" >}}. Он разработан совместно с компаниями {{< fl "RE-liON" >}}, {{< fl "TNO" >}} и другими и предназначен для подготовки бойцов в сложных условиях городской среды.
+
+На выставке можно было опробовать это чудо {{< fl "VR" >}}-технологий на практике (отстояв длинную очередь, разумеется).
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/mhyvkhxvjn96jizxgnri.jpg" "Тактическое задание с SUIT (Small Unit Immersive Trainer)." >}}
+
+Представляет он из себя чёрный пластиковый рюкзак с подключенными к нему очками виртуальной реальности. Все манёвры во время тренировки записываются, так что после окончания можно провести подробный разбор полётов.
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/otcrxw3bvobqxgdxhijy.jpg" "Тактический рюкзак SUIT (Small Unit Immersive Trainer)." >}}
+
+Был и вариант виртуальной реальности попроще:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/grdplpzzimpbr0wjzh0x.jpg" "VR-лабиринт." >}}
+
+За тем, что видит игрок, можно было наблюдать в ноутбук:
+
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/oclprz0rbdypiwjgemqz.jpg" "VR-лабиринт." >}}
+
+### Химическая и радиационная защита
+
+На витрине были выставлены многочисленные дозиметры и детекторы вредных веществ.
+
+{{< carousel >}}
+https://res.cloudinary.com/yktoo/image/upload/blog/oi0ehbpigmvtqrgtogva.jpg Дозиметр RadEye.
+https://res.cloudinary.com/yktoo/image/upload/blog/qtbcd7eipbdnx6h23vrf.jpg Детектор газа AirSense.
+https://res.cloudinary.com/yktoo/image/upload/blog/c0on7sb8rqzt7p9olo5f.jpg Монитор химических веществ.
+{{< /carousel >}}
+
+Значительная часть экспозиции минобороны была расположена снаружи, под открытым небом.
+
+Любопытствующие могли провести обеззараживание условно заражённого отравляющими веществами джипа. Для этого нужно было сначала облачиться в костюм химзащиты.
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ffxas1mgpgqycvrttl1o.jpg" "Обеззараживание джипа." >}}
+
+Некоторые персонажи выглядели в этом костюме крайне комично.
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/gxkclplpfszsoiybek0w.jpg" "Юный обеззараживальщик." >}}
+
+Также там были построены несколько полноразмерных «комнат», с мебелью и бытовой техникой.
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/tjlpeo9wyammdqynbw3r.jpg" "Поиск отравляющих веществ в комнате." >}}
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/o0ropaygvm6o8nzpk30p.jpg" "Поиск отравляющих веществ в комнате." >}}
+
+С помощью вот такого оборудования нужно было найти источники опасности:
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/yvlhsmgrg7ehxzk4exlq.jpg" "Оборудование для поиска отравляющих веществ." >}}
+
+Тут же, на улице, можно было попрактиковаться в использовании гидравлического крана, переставив груз с одного места на другое, отмеченное прямоугольником:
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zeznp1sllgqldwrkbwes.jpg" "Упражнение с лебёдкой." >}}
+
+### ВМС
+
+Королевские военно-морские силы были представлены вот такой резиновой лодкой:
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pygyjcdq8rqbecobjqaw.jpg" "Лодка ВМС Нидерландов." >}}
 
 Призыв вступать в ВМС, чтобы «увидеть мир»:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zbglbeji2yzbddkb1bcd.jpg" "«Join the navy, see the world!»" >}}
 
+На ту же тему — экспонировалась компактная лодка на солнечных батареях от {{< a "https://solarboatteam.nl/" "Solar Boat Team" >}} Университета Твенте:
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/qujfjzteuc5lzerk0a00.jpg" "Персональная подлодка с педальным приводом." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/k93xegfiseyxtmtvwl1n.jpg" "Персональная подлодка с педальным приводом." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cgnq1szsecugojivaihp.jpg" "Персональная подлодка с педальным приводом." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/dauymnj0pkdqltfntqkz.jpg" "Solar Boat Team." >}}
 
+Другая команда, {{< a "https://www.tudelft.nl/d-dream/teams/wasub/" "WASUB" >}} Делфтского технического университета, представила сверхкомпактную подводную лодку:
 
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/qujfjzteuc5lzerk0a00.jpg" "Персональная подлодка WASUB." >}}
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cgnq1szsecugojivaihp.jpg" "Персональная подлодка WASUB." >}}
+
+Приводится она в движение — чем бы вы думали? — педалями:
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/k93xegfiseyxtmtvwl1n.jpg" "Персональная подлодка WASUB." >}}
+
+### DARE
+
+Ракетный симулятор {{< fl "DARE" >}} ({{< a "https://dare.tudelft.nl/" "Delft Aerospace Rocket Engineering" >}}) Делфтского технического университета служит для проверки параметров ракет перед их фактическим запуском.
+
+На стенде {{< fl "DARE" >}} можно было попытаться самому порулить ракетой:
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/n9hg5ew5rznzfbq0ehik.jpg" "Ракетный симулятор DARE (Delft Aerospace Rocket Engineering)." >}}
 
 ## 3D-принтеры
 
@@ -205,10 +320,6 @@ https://res.cloudinary.com/yktoo/image/upload/blog/xwishqebtbtnptej6ytz.jpg Ис
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/aszy51wqniascwebii4j.jpg" "3D-принтер Polaroid PlaySmart." >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/jjd0zgrjeciek3flln4u.jpg" "Polaroid Play 3D Pen." >}}
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/mhyvkhxvjn96jizxgnri.jpg" "." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/dauymnj0pkdqltfntqkz.jpg" "Тактическое задание с SUIT (Small Unit Immersive Trainer)." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/otcrxw3bvobqxgdxhijy.jpg" "Тактический рюкзак SUIT (Small Unit Immersive Trainer)." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ne6vt44mnpfwknqprioe.jpg" "---" >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/eevu36zzghncvxb62u9e.jpg" "Набор для изучения альтернативных источников энергии." >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ilhtbync5y712vxyxqpo.jpg" "Сборка моделей." >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/iodv1nvnf1xbxvnmvb6k.jpg" "3D-сканер и печать статуэтки." >}}
@@ -252,6 +363,7 @@ https://res.cloudinary.com/yktoo/image/upload/blog/xwishqebtbtnptej6ytz.jpg Ис
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/dveu26722xaf19bgcnau.jpg" "Гейминг — XBOX One X." >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/lmlmma60xpzxjlhagikj.jpg" "Гейминг — Samsung Galaxy S10." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/x05rp5jka7kozioimzpm.jpg" "." >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/x7ld278ywiyibxncc6mg.jpg" "." >}}
 
 ## Интернет вещей
