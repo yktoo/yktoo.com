@@ -19,9 +19,11 @@ Unfortunately, she's afraid of stairs:
 
 <!--more-->
 
+{{< div "embed-responsive embed-responsive-4by3 mb-3" >}}
 <video width="768" height="576" autoplay loop muted>
    <source src="https://res.cloudinary.com/yktoo/video/upload/vlog/ykwjc11p7pi96lgdncxn.mp4" type="video/mp4" />
 </video>
+{{< /div >}}
 
 But otherwise Xenia is a brilliant robot being.
 

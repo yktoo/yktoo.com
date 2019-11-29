@@ -19,9 +19,11 @@ image: "https://res.cloudinary.com/yktoo/video/upload/t_s640/vlog/ykwjc11p7pi96l
 
 <!--more-->
 
-<video width="768" height="576" autoplay loop muted>
+{{< div "embed-responsive embed-responsive-4by3 mb-3" >}}
+<video width="768" height="576" class="embed-responsive-item" autoplay loop muted>
    <source src="https://res.cloudinary.com/yktoo/video/upload/vlog/ykwjc11p7pi96lgdncxn.mp4" type="video/mp4" />
 </video>
+{{< /div >}}
 
 В остальном Ксюша нас очень устраивает, отличное устройство.
 
