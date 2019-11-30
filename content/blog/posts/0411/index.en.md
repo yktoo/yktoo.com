@@ -16,8 +16,8 @@ It's time to fulfil my promise and publish a review of my "{{< a "0384" "inflata
 
 ## Specifications
 
-{{< table "table table-striped" >}}
-|Feature                              |Value                                                                            |
+{{< table "table table-striped table-headless" >}}
+|                                     |                                                                                 |
 |-------------------------------------|---------------------------------------------------------------------------------|
 |Product model                        |MJCQ01QJ                                                                         |
 |Inflation pressure range             |0.2…10.3 bar (3…150 psi)                                                         |

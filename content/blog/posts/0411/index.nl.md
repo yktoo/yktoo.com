@@ -16,8 +16,8 @@ Zoals beloofd, schrijf ik een review van mijn "{{< a "0384" "opblaasbare schat" 
 
 ## Technische eigenschappen
 
-{{< table "table table-striped" >}}
-|Parameter                        |Waarde                                                                             |
+{{< table "table table-striped table-headless" >}}
+|                                 |                                                                                   |
 |---------------------------------|-----------------------------------------------------------------------------------|
 |Naam model                       |MJCQ01QJ                                                                           |
 |Druk instelbereik                |0,2…10,3 bar (3…150 psi)                                                           |
