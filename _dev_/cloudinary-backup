@@ -1,0 +1,59 @@
+#!/usr/bin/python3
+
+import sys
+import logging
+import cloudinary
+
+
+MAX_RESOURCE_RESULTS = 1000
+
+
+class CloudinaryBackup:
+    """Synchronises the local copy of all resources with the Cloudinary library."""
+
+    def __init__(self, resource_type: str) -> None:
+        self.resource_type = resource_type
+        self.resources = []
+
+    def query_resources(self):
+        """Load the list of resources from the server."""
+        self.resources = []
+
+        # Iterate until there's no next_cursor
+        next_cursor = None
+        req_num = 0
+        while True:
+            req_num += 1
+
+            # Fetch the data
+            result = cloudinary.api.resources(
+                resource_type=self.resource_type,
+                max_results=MAX_RESOURCE_RESULTS,
+                next_cursor=next_cursor)
+
+            # Accumulate the resource in the list
+            self.resources += result['resources']
+
+            # Fetch the cursor for the next set, if any
+            if 'next_cursor' not in result:
+                break
+            next_cursor = result['next_cursor']
+
+        logging.info('Fetched %d %s resources with %d API calls', len(self.resources), self.resource_type, req_num)
+
+    def run(self):
+        """Perform the backup."""
+        # Load the list of resources
+        self.query_resources()
+
+        # TODO
+
+
+# Main routine
+if __name__ == '__main__':
+
+    # Setup logging
+    logging.basicConfig(level=logging.DEBUG if '-v' in sys.argv else logging.INFO, format='%(levelname)-8s %(message)s')
+
+    # Run the backup
+    CloudinaryBackup('image').run()
