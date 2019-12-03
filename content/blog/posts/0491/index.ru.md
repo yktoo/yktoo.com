@@ -6,15 +6,17 @@ tags:
     - Нидерланды
     - Гаага
     - Дяундорп
+    - Схевенинген
     - новости
     - происшествия
     - полиция
     - видео
+    - праздники
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/hkqbop3jaw20iazuvaiv.jpg"
 imageCredit: "Фото: Politie Nederland/Wikimedia/CC-BY-SA-4.0."
 ---
 
-Уже несколько дней продолжается {{< a "https://nos.nl/artikel/2312920-dertien-aanhoudingen-om-onrust-in-haagse-wijk-duindorp.html" "противостояние" >}} мятежников из Дяундорпа ({{< fl "Duindorp" >}}), прибрежного района Гааги, с полицей.
+Уже несколько дней продолжается {{< a "https://nos.nl/artikel/2312920-dertien-aanhoudingen-om-onrust-in-haagse-wijk-duindorp.html" "противостояние" >}} мятежников из Дяундорпа ({{< fl "Duindorp" >}}), прибрежного района Гааги, с полицией.
 
 Причина? Жителям района {{< a "https://nos.nl/artikel/2312530-geen-vreugdevuur-duindorp-organisatie-kan-niet-voldoen-aan-eisen-gemeente.html" "не разрешили" >}} на этот Новый год разжигать костёр!
 
