@@ -3,7 +3,6 @@ type: post
 date: "2019-11-22T17:46:15+01:00"
 title: "Arch Echo"
 tags:
-    - Нидерланды
     - музыка
     - Arch Echo
     - djent
