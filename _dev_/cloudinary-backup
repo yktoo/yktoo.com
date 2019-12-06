@@ -105,6 +105,7 @@ class CloudinaryBackup:
                 file_path = os.path.join(self.root_file_dir, rsrc_id)
                 urllib.request.urlretrieve(resource['secure_url'], file_path)
                 download_size += rsrc_size
+                download_count += 1
                 logging.info('Downloaded %s (%d bytes)', rsrc_id, rsrc_size)
 
         logging.info(
