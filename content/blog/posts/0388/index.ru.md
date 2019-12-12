@@ -11,6 +11,7 @@ tags:
     - бизнес
     - законодательство
     - авто
+    - Prinsjesdag
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/z65fbnf61wu60521.jpg"
 imageCredit: "Фото: rawpixel."
 series: Доля предпринимательская
