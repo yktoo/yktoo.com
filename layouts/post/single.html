@@ -76,11 +76,15 @@
         <div class="col-md-9">
             <!-- Post content -->
             <section class="blog-post-content">
-                {{- .Content | replaceRE "([.!?…])</p>$" "$1 ■</p>" | safeHTML }}
-
-                <!-- Full-text link, if any -->
+                <!-- If there's a full-text link, output the content as is -->
                 {{- with .Params.fulltextUrl }}
-                <p><a href="{{ . }}" class="btn btn-primary">{{ T "readOnAt" }}&nbsp;{{ (urls.Parse .).Host }}</a></p>
+                    {{- $page.Content }}
+                    <!-- Full-text link -->
+                    <p><a href="{{ . }}" class="btn btn-primary">{{ T "readOnAt" }}&nbsp;{{ (urls.Parse .).Host }}</a></p>
+
+                {{- else }}
+                    <!-- Add a block full-stop to the content otherwise -->
+                    {{- .Content | replaceRE "([.!?…])</p>$" "$1 ■</p>" | safeHTML }}
                 {{- end }}
             </section>
 
