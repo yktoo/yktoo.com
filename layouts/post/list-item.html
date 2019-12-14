@@ -11,17 +11,19 @@
         <!-- Post image -->
         <div class="col-xs-2 col-md-6 text-center mb-3 mb-md-0">
             {{- $url := .Params.image }}
+            {{- $urlLink := $url }}
             {{- with $url }}
                 {{- if findRE "^(/|http(s?)://)" $url }}
                     {{- $url = replace $url "https://res.cloudinary.com/yktoo/image/upload/blog/" "https://res.cloudinary.com/yktoo/image/upload/t_s640/blog/" }}
                 {{- else }}
                     {{- $url = ($.Page.Resources.GetMatch $url).RelPermalink }}
+                    {{- $urlLink = $url }}
                 {{- end -}}
+                <a href="{{ $urlLink }}" class="image-popup" data-effect="mfp-with-zoom" data-lightbox="image-1"><img class="img-fluid blog-post-image" src="{{ $url }}" alt="Post image"></a>
+                {{- with $.Params.imageCredit }}<p class="blog-post-image-credit">{{ . | markdownify }}</p>{{ end }}
             {{- else -}}
-                {{- $url = "/images/image-placeholder.png" -}}
+                <img class="img-fluid blog-post-image" src="/images/image-placeholder.png" alt="Post image">
             {{- end -}}
-            <img class="img-fluid blog-post-image" src="{{ $url }}" alt="Post image">
-            {{- with $.Params.imageCredit }}<p class="blog-post-image-credit">{{ . | markdownify }}</p>{{ end }}
         </div>
 
         <div class="col-xs-10 col-md-6">
