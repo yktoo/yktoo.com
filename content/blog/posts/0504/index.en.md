@@ -16,7 +16,7 @@ imageCredit: "Photo: ©Tom Hegen."
 
 {{< a "http://tomhegen.de/" "Tom Hegen" >}}, a German award-winning photographer specialising in aerial photography, has made absolutely stunning night photos of the Netherlands.
 
-They feature dazzling light patches of greenhouses amongst the pitch-black background, so bright that they are clearly visible from space.
+They feature dazzling light patches of greenhouses against the pitch-black background, so bright that they are clearly visible from space.
 
 By the courtesy of Tom I'm publishing his {{< a "http://tomhegen.de/fotodesign/the-greenhouse-series/" "Greenhouse Series" >}} photos in my blog today.
 
