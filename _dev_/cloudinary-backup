@@ -1,4 +1,16 @@
 #!/usr/bin/python3
+#=======================================================================================================================
+# Program to back up content from a Cloudinary cloud instance
+# Requirements:
+#     cloudinary (PIP module)
+#     CLOUDINARY_URL environment variable is set to "cloudinary://<API_key>:<API_secret>@<cloud_name>
+# Synopsis:
+#     cloudinary-backup [options]
+# Options:
+#     -v  Verbose output
+#     -d  Delete local files that do not exist in the cloud
+# More info: see https://yktoo.com/en/blog/post/2019/12/13-cloudinary-content-backup/
+#=======================================================================================================================
 
 import sys
 import logging
@@ -15,8 +27,9 @@ BACKUP_DIR = os.path.join(str(pathlib.Path.home()), 'Archive/Backup/cloudinary')
 class CloudinaryBackup:
     """Synchronises the local copy of all resources with the Cloudinary library."""
 
-    def __init__(self, resource_type: str) -> None:
+    def __init__(self, resource_type: str, del_redundant=False) -> None:
         self.resource_type = resource_type
+        self.delete_redundant = del_redundant
         self.resources = []
         self.files = {}
         self.root_file_dir = os.path.join(BACKUP_DIR, self.resource_type)
@@ -103,6 +116,11 @@ class CloudinaryBackup:
             # Download the file
             if need_download:
                 file_path = os.path.join(self.root_file_dir, rsrc_id)
+
+                # Make sure target directory exists
+                os.makedirs(os.path.dirname(file_path), exist_ok=True)
+
+                # Download the file into the final location
                 urllib.request.urlretrieve(resource['secure_url'], file_path)
                 download_size += rsrc_size
                 download_count += 1
@@ -114,7 +132,18 @@ class CloudinaryBackup:
 
     def find_redundant_files(self):
         """Find local files that no longer exist on the server."""
-        # TODO
+        # Make a set of existing resource IDs
+        resource_ids = {r['public_id'] + '.' + r['format'] for r in self.resources}
+
+        # Iterate local files
+        del_count = 0
+        for file_id in self.files.keys():
+            if file_id not in resource_ids:
+                del_count += 1
+                logging.debug('File %s is not present in the cloud, deleting', file_id)
+                os.remove(os.path.join(self.root_file_dir, file_id))
+
+        logging.info('Finished searching for redundant files: %d files have been removed', del_count)
 
     def run(self):
         """Perform the backup."""
@@ -127,16 +156,18 @@ class CloudinaryBackup:
         # Download missing files
         self.fetch_missing_files()
 
-        # Find redundant files
-        self.find_redundant_files()
+        # Find redundant files, if needed
+        if self.delete_redundant:
+            self.find_redundant_files()
 
 
 # Main routine
 if __name__ == '__main__':
 
-    # Setup logging
+    # Parse command line / setup logging
     logging.basicConfig(level=logging.DEBUG if '-v' in sys.argv else logging.INFO, format='%(levelname)-8s %(message)s')
+    delete_redundant = '-d' in sys.argv
 
     # Run the backup
-    CloudinaryBackup('image').run()
-    CloudinaryBackup('video').run()
+    CloudinaryBackup('image', del_redundant=delete_redundant).run()
+    CloudinaryBackup('video', del_redundant=delete_redundant).run()
