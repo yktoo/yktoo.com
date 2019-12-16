@@ -35,9 +35,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/ifgitskagdle2afct9yq.
 
 Ниже идёт строчка о {{< fl "Professional approach" >}}, «профессиональном подходе», что на примере малограмотного перевода выглядит довольно комично.
 
-Ну, и в самом низу: {{< fl "Cacao beans from Côte d'Ivoire" >}}. Ну ладно, {{< fl "Côte d'Ivoire" >}} выглядит, конечно, круче, чем {{< fl "Ivory Coast" >}}, но расскажите кто-нибудь *переводчегам*, что «какао» по-английски будет {{< wiki "Cocoa_bean" "en" "cocoa" >}}.
-
-Тем более, что на обороте шоколадки {{< fl "cocoa" >}} написано верно, причём много раз.
+Ну, и в самом низу: {{< fl "Cacao beans from Côte d'Ivoire" >}}. О'кей, {{< fl "Côte d'Ivoire" >}} выглядит круче, чем {{< fl "Ivory Coast" >}}, но «какао» по-английски традиционно всё-таки {{< wiki "Cocoa_bean" "en" "cocoa" >}}, к тому же на обороте шоколадки повсеместно используется именно {{< fl "cocoa" >}}.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zz2mdf2fij1ovsiehjf1.jpg" "Оборотная стороная восхищения." >}}
 
