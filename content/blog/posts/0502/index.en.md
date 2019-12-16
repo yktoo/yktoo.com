@@ -41,7 +41,7 @@ The musicians have recently recorded two new singles, *Kepler* and *Iris*:
 
 {{< youtube "Nqno7w1m760" >}}
 
-I'll defintiely keep watching their development.
+I'll definitely keep watching their development.
 
 ## Discography
 
