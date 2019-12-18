@@ -107,4 +107,4 @@ imageCredit: "Фото: KiraHundeDog/Pixabay."
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/tway9knc7mxoq4wj9bny.png" "Информация с сайта electronic-visa.kdmid.ru." >}}
 
-На мой взгляд, это очень здорово.
+На мой взгляд, это очень здорово, особенно по сравнению с {{< a "0258" "традиционном процессом" >}} оформления визы в РФ.
