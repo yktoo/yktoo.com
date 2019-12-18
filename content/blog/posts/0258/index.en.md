@@ -35,7 +35,7 @@ When the day comes, you ~~put on your best shirt~~ drive all the way to the Visa
 
 And now what? The documents are incomplete so she turns you down! You were born in Novosibirsk, Russia, right? You get it?
 
-Come on, it obvious! You have to present a Russian citizenship termination certificate. So obvious that it's not even listed on the website.
+Well, as it turns out, you're obliged to present a Russian citizenship termination certificate. Apparently, it's so obvious that it isn't even mentioned on the website.
 
 "I'm sorry, we can't accept your documents," — the girl was inexorable. So making the appointment, taking a half-day off and crossing the country was all in vain, you can start all over again.
 

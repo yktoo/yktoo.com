@@ -11,7 +11,7 @@ aliases:
     - /en/blog/post/202
 ---
 
-It's been a while since I wrote about the masters of drive and female vocals, one of my favourites, Stream of Passion. They're still there and have even recently toured in Moscow and Saint-Petersburg, which they posted about on their [Facebook page](http://www.facebook.com/StreamOfPassion).
+It's been a while since I wrote about the masters of drive and female vocals, one of my favourites, Stream of Passion. They're still there and have even recently toured in Moscow and Saint Petersburg, which they posted about on their [Facebook page](http://www.facebook.com/StreamOfPassion).
 
 Just before those, very special for both sides, events I've visited two performances happened with an interval of one week.
 

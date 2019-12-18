@@ -64,7 +64,7 @@ The percussionist's name is [Elvin Marchena](http://www.myspace.com/elvinmarchen
 
 It's noteworthy that in a band consisting of people from different parts of the world (the fact I'm already used to) happened to be two Claudias; I asked myself how they manage to distinguish the two when calling by name.
 
-And, by the way, everyone gets surprised when I tell then where I come from. From all Russian cities most of the people only know Moscow, the most advanced of them may also remember Saint-Petersburg. What Tyumen is and where it is is always a question to be answered with improvised means.
+And, by the way, everyone gets surprised when I tell then where I come from. From all Russian cities most of the people only know Moscow, the most advanced of them may also remember Saint Petersburg. What Tyumen is and where it is is always a question to be answered with improvised means.
 
 Sunch events give you a great opportunity to speak to musicians informally. The violinist Claudia spotted my long fingernails directly and guessed right that I played guitar. Involuntarily I reflected what non-musician people think about them…
 
