@@ -7,6 +7,9 @@ tags:
     - Париж
     - путешествия
     - красивое
+    - Рождество
+    - Эйфелева башня
+    - праздники
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/hede6t7yck1qjeu9l06b.jpg"
 ---
 
