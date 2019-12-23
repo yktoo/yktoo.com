@@ -24,7 +24,7 @@ This website is powered by [Hugo](https://gohugo.io/), [Bootstrap](http://getboo
 
 ### About my blog
 
-{{< a "/" "My blog" >}} is predominantly focused on the Netherlands and the Dutch life, but not limited to that. I post about whatever I find interesting.
+{{< a "/" "My blog" >}} is predominantly focused on the Netherlands and the Dutch life, but isn't limited to that. I post about whatever I find interesting.
 
 Here's some statistics:
 
@@ -38,7 +38,7 @@ Here's some statistics:
 
 By viewing this website you're consenting to the {{< a "/about/privacy" "Privacy policy" >}} and accepting the {{< a "/about/tos" "Terms of service" >}}.
 
-The site's source code is available {{< a "https://github.com/yktoo/yktoo.com" "on GitHub" >}}. The source code and all the accompanying content are distributed under the terms of the {{< a "https://creativecommons.org/licenses/by-sa/4.0/" "Creative Commons Attribution-ShareAlike 4.0" >}} license unless otherwise explicitly specified.
+The site's source code is available {{< a "https://github.com/yktoo/yktoo.com" "on GitHub" >}}. The source code and all the accompanying content are distributed under the terms of the {{< a "https://creativecommons.org/licenses/by-sa/4.0/" "Creative Commons Attribution-NonCommercial-ShareAlike 4.0" >}} license unless otherwise specified.
 
-{{< button "https://creativecommons.org/licenses/by-sa/4.0/" "<i class='fab fa-creative-commons'></i><i class='fab fa-creative-commons-by'></i><i class='fab fa-creative-commons-sa bycon'></i>Licensed under CC-BY-SA 4.0" >}}
+{{< button "https://creativecommons.org/licenses/by-nc-sa/4.0/" "<i class='fab fa-creative-commons'></i><i class='fab fa-creative-commons-by'></i><i class='fab fa-creative-commons-nc'></i><i class='fab fa-creative-commons-sa bycon'></i>Licensed under CC-BY-NC-SA 4.0" >}}
 {{< button "https://github.com/yktoo/yktoo.com" "<i class='fab fa-github bycon'></i>View on GitHub" >}}
