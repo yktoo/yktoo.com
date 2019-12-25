@@ -40,3 +40,5 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/immk1jtfjo9wj6k7xzln.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/immk1jtfjo9wj6k7xzln.jpg" "Мона Лиза Плюс." >}}
 
+Кстати, вместе с картиной {{< a "https://www.albelli.nl/" "Albelli" >}} прислали мне код `19WINTER`: он даёт скидку **40%** на открытки и календари и **25%** на всё остальное. Код действует до **31** января **2020** г.
+
