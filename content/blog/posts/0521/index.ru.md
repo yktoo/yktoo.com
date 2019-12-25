@@ -14,7 +14,8 @@ tags:
     - железные дороги
     - ProRail
     - NS
-image: "https://res.cloudinary.com/yktoo/image/upload/blog/db9lznx0d9hwgrgutx4f.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/v1577277755/blog/y0zxeou6bhviqdg5oxhg.jpg"
+imageCredit: "Фото: cu2030.nl."
 ---
 
 Открывшаяся в августе {{< year 2019 "этого" >}} года крупнейшая велопарковка в мире под центральным вокзалом Утрехта, {{< a "https://www.ad.nl/binnenland/een-simpele-fietsenstalling-in-een-grote-stad-bouwen-duurt-zo-n-acht-jaar~adea81dd/" "похоже" >}}, ненадолго спасла ситуацию.
@@ -23,7 +24,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/db9lznx0d9hwgrgutx4f.
 
 <!--more-->
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/db9lznx0d9hwgrgutx4f.jpg" "Утрехтский гигапаркинг — крупнейшая в мире велопарковка." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1577277755/blog/y0zxeou6bhviqdg5oxhg.jpg" "Утрехтский гигапаркинг — крупнейшая в мире велопарковка. Фото: cu2030.nl." >}}
 
 Пример утрехтского гигапаркинга является для Нидерландов показательным.
 
