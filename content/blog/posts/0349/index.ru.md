@@ -2,7 +2,11 @@
 type: post
 date: "2019-07-26T00:00:00Z"
 title: "Побит абсолютный рекорд температуры в Нидерландах"
-tags: ["жара", "погода", "рекорд", "температура"]
+tags:
+    - жара
+    - погода
+    - рекорд
+    - температура
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/ho1xszpvho3x3128.png"
 aliases:
     - /ru/blog/post/349
