@@ -1,7 +1,7 @@
 ---
 type: post
 date: "2019-12-26T13:36:44+01:00"
-title: "Precision screwdriver set Xiaomi Wiha"
+title: "Precision screwdriver set Xiaomi Wiha review"
 tags:
     - review
     - Xiaomi
@@ -11,7 +11,7 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/sph9jjodycp9jbhhwkqe.jpg"
 ---
 
-I like Xiaomi gadgets a lot and I've {{< a "/tags/Xiaomi" "reviewd" >}} quite a few of them.
+I like Xiaomi gadgets a lot and I've {{< a "/tags/Xiaomi" "reviewed" >}} quite a few of them.
 
 I've bought a set of precision screwdrivers {{< a "http://ali.pub/4aa6sd" "Xiaomi Wiha screwdriver kit" >}} a while ago so now I can share my experience.
 
