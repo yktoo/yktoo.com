@@ -64,7 +64,7 @@ imageCredit: "Фото: Picnic."
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/nxmk2fq4zr3wejkyyryx.jpg" "Доставка продуктов Picnic.Фото: Picnic." >}}
 
-Аналогичная история с залогом за стеклянные и пластиковые бутылки ({{< fl "statiegeld" >}}).
+Аналогичная история с залогом за стеклянные и пластиковые бутылки ({{< a "/glossary/statiegeld" "statiegeld" >}}).
 
 ## Продукты под заказ
 

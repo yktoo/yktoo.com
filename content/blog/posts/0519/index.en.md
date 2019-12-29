@@ -70,7 +70,7 @@ The supermarket will also charge you **€ 0.35** for plastic bags the product
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/nxmk2fq4zr3wejkyyryx.jpg" "Picnic's product delivery. Photo by Picnic." >}}
 
-The same applies to the deposit for glass and plastic bottles ({{< fl "statiegeld" >}}).
+The same applies to the deposit for glass and plastic bottles ({{< a "/glossary/statiegeld" "statiegeld" >}}).
 
 ## Exact ordering
 
