@@ -22,3 +22,5 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/s9yn6d2vjzjgrltrtqin.
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/s9yn6d2vjzjgrltrtqin.jpg" "Супер-гипер-мегачоризо." >}}
 
 И, кстати, сразу нож в комплекте, как в {{< a "0062" "былые времена" >}}.
+
+Большой вопрос, правда, где теперь этакое чудо хранить.
