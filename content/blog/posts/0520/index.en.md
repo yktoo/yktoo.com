@@ -10,7 +10,7 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/immk1jtfjo9wj6k7xzln.jpg"
 ---
 
-We've recently been to {{< a "0516" "Paris" "ru" >}} and walked along the banks of Seine, where all kinds of old stuff is being sold: postcards, posters, paintings, books.
+We've recently been to {{< a "0516" "Paris" "ru" >}} and strolled along the banks of Seine, where all kinds of old stuff was being sold: postcards, posters, paintings, books.
 
 Occasionally you stumble upon a really interesting artifact.
 
@@ -18,13 +18,13 @@ So we've spotted a brilliant version of Mona Lisa, which we named "Mona Lisa Plu
 
 <!--more-->
 
-The altered version of the portrait anyone would immediately recognise was hanging among other works.
+The "chubby" version of the original portrait anyone would immediately recognise was hanging among other works. Later we identified its author, the Colombian {{< wiki "Fernando Botero" >}}, who is well known for his "overweighty" figurative style.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/dr9crqif4zbn7nle7jof.jpg" "Paitings on the quay of the Seine." >}}
 
-The painting (oil on canvas) by a painter whose name slipped out of our memories was priced at **€ 75**.
+The painting (oil on canvas) was priced at **€ 75**.
 
-Which I find a very reasonably price for an original author work, but it was just too large for us, and the booth owner didn't have any other variant of that painting.
+Which we found a very reasonable price for an original author work, but it was just too large for us, and the booth owner didn't have any other variant of that painting.
 
 After that I honestly tried to find a copy of it in souvenir stores but nobody had ever seen this work.
 
