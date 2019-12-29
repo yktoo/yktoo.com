@@ -42,6 +42,8 @@ When it comes to their releases, though, there's just a single EP called **Merid
 
 And I think it's a great pity, because *Meridian* is a real masterpiece in any aspect: musically, technically, compositionally, or in terms of the sound. It can be described as a fusion of classic djent by *Animals as Leaders* with the melodicity of *Plini*.
 
+{{< youtube "1gRESh4iyfs" >}}
+
 Highly recommended.
 
 ## Discography
