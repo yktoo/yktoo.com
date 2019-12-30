@@ -37,7 +37,7 @@ languages:
             shortDateFormat: 'DD-MM-YYYY'
 params:
     author: Dmitry Kann
-    postsPerPage: 6
+    postsPerPage: 12
     licenses:
         gpl3: 'http://www.gnu.org/licenses/gpl.html'
         lgpl21: 'https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html'
