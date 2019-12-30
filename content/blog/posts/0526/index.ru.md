@@ -13,7 +13,7 @@ imageCredit: "Фото: Wikimedia/CC-BY-4.0."
 
 Любопытно почитать, о чём пишет нидерландская пресса в свете недавних новостей о якобы поставленной на боевое дежурство «невероятно быстрой {{< a "https://nos.nl/artikel/2316430-rusland-neemt-raket-in-gebruik-die-afweersystemen-nutteloos-maakt.html" "ракете Авангард" >}}».
 
-Издание {{< fl "NOS" >}} {{< a "https://nos.nl/artikel/2316533-of-russische-superraket-werkt-of-niet-in-vs-en-china-zijn-ze-geschrokken.html" "публикует" >}} интервью с экспертом по вооружениям института {{< fl "Clingendael" >}} Сико ван дер Меера ({{< fl "Sico van der Meer" >}}).
+Издание {{< fl "NOS" >}} {{< a "https://nos.nl/artikel/2316533-of-russische-superraket-werkt-of-niet-in-vs-en-china-zijn-ze-geschrokken.html" "публикует" >}} интервью с экспертом по вооружениям института {{< fl "Clingendael" >}} Сико ван дер Меером ({{< fl "Sico van der Meer" >}}).
 
 <!--more-->
 
