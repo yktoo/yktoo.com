@@ -2,7 +2,14 @@
 type: post
 date: "2012-01-06T00:00:00Z"
 title: "С Новым годом!"
-tags: ["Nieuwjaarsduik", "Гаага", "море", "Нидерланды", "пляж", "праздники"]
+tags:
+    - Нидерланды
+    - Гаага
+    - Nieuwjaarsduik
+    - Схевенинген
+    - море
+    - пляж
+    - праздники
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/obvjp3oi10g70182.jpg"
 places:
     - place0020
