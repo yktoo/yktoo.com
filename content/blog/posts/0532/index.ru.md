@@ -25,7 +25,7 @@ imageCredit: "Фото: Maurice/Flickr/CC-BY-NC-SA-2.0."
 
 <!--more-->
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/oh9ljhul25jj00ghucxn.jpg" "Nieuwjaarsuik." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/oh9ljhul25jj00ghucxn.jpg" "Nieuwjaarsduik." >}}
 
 Событие прошло в целом без происшествий (о последствиях в виде простуды и насморка, полагаю, станет известно позже).
 
