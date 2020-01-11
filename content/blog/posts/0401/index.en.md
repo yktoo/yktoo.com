@@ -365,3 +365,5 @@ The latter could use some improvement though. It cannot be WPA-protected, and th
 ## Where to buy
 
 The recommended price for SRK60 is **€ 426** (which is also for how much I've bought it), but at this moment it's {{< a "https://bit.ly/2nMIMM6" "available for € 369" >}} on {{< fl "bol.com" >}}.
+
+> **Update:** the firmware version **2.5.0.108** {{< a "0543" "adds another" >}}, fourth, Wi-Fi network.
