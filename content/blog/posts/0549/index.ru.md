@@ -12,7 +12,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/nd3w4wxq5drvxfygclnf.
 imageCredit: "Фото: Donald Trung Quoc Don/Wikimedia/CC-BY-SA-4.0."
 ---
 
-С апреля {{< year 2020 "этого" >}} года процент по депозитам (сберегательным вкладам) в одном из крупнейших нидерландских банках {{< fl "ABN Amro" >}} {{< a "https://nos.nl/artikel/2318504-vanaf-april-0-procent-spaarrente-bij-abn-amro.html" "станет" >}} нулевым.
+С апреля {{< year 2020 "этого" >}} года процент по депозитам (сберегательным вкладам) в одном из крупнейших нидерландских банков {{< fl "ABN Amro" >}} {{< a "https://nos.nl/artikel/2318504-vanaf-april-0-procent-spaarrente-bij-abn-amro.html" "станет" >}} нулевым.
 
 Если же у вас на счету свыше **€ 2,5 млн**, то ставка будет даже *отрицательной*: **-0,5%**. Иными словами, за хранение в банке такой суммы вы будете платить ему деньги.
 
