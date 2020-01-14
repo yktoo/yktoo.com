@@ -9,6 +9,7 @@ tags:
     - законодательство
     - штрафы
     - транспорт
+    - ПДД
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/mx464xbqhw451104.jpg"
 imageCredit: "Фото: melissa mjoen."
 ---
