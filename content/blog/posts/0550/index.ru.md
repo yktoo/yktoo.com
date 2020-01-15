@@ -1,12 +1,11 @@
 ---
 type: post
 date: "2020-01-15T19:38:46+01:00"
-title: "Зёльден другими глазами"
+title: "Зёльден заново"
 tags:
     - Австрия
     - Зёльден
     - горы
-    - Зёльден
     - путешествия
     - снег
     - сноуборд
@@ -18,13 +17,45 @@ places:
 draft: true
 ---
 
-Как я давеча {{< a "0544" "упоминал" >}}, побывали мы в австрийском Зёльдене с любимым зимним развлечением европейцев под названием {{< fl "wintersport" >}}.
+Как я давеча {{< a "0544" "упоминал" >}}, нам посчастливилось съездить на {{< fl "wintersport" >}} в австрийский Зёльден. Я там три года назад {{< a "0270" "уже был" >}}, впервые осваивая сноуборд — тогда я вернулся, со всех сторон слегка побитый склонами.
 
-Мне посчастливилось оказаться там уже во второй раз — первый {{< a "0270" "был три года назад" >}}, и тогда я впервые встал на сноуборд. Стоять на доске оказалось непросто, так что вернулся я тогда слегка побитым склонами со всех сторон.
-
-Но в этот раз всё было несколько по-другому! Синяки собирала моя супруга — для неё эта поездка стала боевым крещением.
+Сейчас же я чувствую себя намного увереннее, так что обошлось *почти* без синяков.
 
 <!--more-->
+
+## Выбор места
+
+Почему я опять поехал в Зёльден? Во-первых, благодаря значительной высоте (до **3300 м**), там каждую зиму есть снег.
+
+Во-вторых, это одно из самых близких к нам мест — всего **900 км**, причём значительная часть дороги проходит по территории Германии, где нет ограничения скорости — это экономит время на дорогу. Это если ехать на машине, конечно.
+
+В-третьих, там здорово! За снегом хорошо ухаживают, комфортные гостиницы и отличная еда. Например, во французском в {{< a "0315" "Ле-Сибель" >}}, что на пару сотен километров подальше, снег был в довольно печальном состоянии. Во французской же {{< a "0306" "Ла-Плани" >}} снег был ОК, но еда намного хуже.
+
+## Дорога
+
+Дорога в Австрию традиционно не обнаруживает никаких намёков на зиму. Температура градусов в десять тепла и зелёная трава, только голые деревья напоминают о том, что сейчас январь.
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/soelden-2020/qx180jng4qoumu6p8cdc.jpg" "Немецкая зима." >}}
+
+Лишь, подъезжая к австрийской границе, замечаешь торчащие над горизонтом заснеженные вершины Альп.
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/soelden-2020/xsetxgqyiu5ylscfvpk1.jpg" "Австрия всё ближе." >}}
+
+Немцы учат дорожной вежливости — как полагается уступать дорогу, если пропадает одна полоса.
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/soelden-2020/yy1to48uloozbmkl2d0e.jpg" "Как правильно перестраиваться." >}}
+
+## Зёльден
+
+Отель нам достался превосходный. Чистота везде невероятная, каждый день уборка и смена полотенец, завтрак, к тому же, в двух шагах от склона.
+
+Вот вид с балкона отеля — до ближайшего подъёмника метров полста:
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/soelden-2020/ncqa9avfx73lsvozywww.jpg" "Вид с балкона гостиницы." >}}
+
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/soelden-2020/izumzfeepcefwm54jx2d.jpg" "Утро туманное, утро седое." >}}
+
 
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/soelden-2020/fosghi2ja2orxv7ei0n9.jpg" "." >}}
@@ -46,7 +77,6 @@ draft: true
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/soelden-2020/ygv7upqsmdkz8xauoujq.jpg" "." >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/soelden-2020/cvidmcjgcqs0gvhhlb8g.jpg" "." >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/soelden-2020/vu85unxoid74ddfi8473.jpg" "." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/soelden-2020/ncqa9avfx73lsvozywww.jpg" "." >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/soelden-2020/rxbtgtyhswwtgunylibp.jpg" "." >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/soelden-2020/m2ypsvdlrdiy0tieuthb.jpg" "." >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/soelden-2020/zqipxfaq8zpt5qhpujxk.jpg" "." >}}
@@ -68,10 +98,8 @@ draft: true
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/soelden-2020/onr5lkcgszebdmn2p3j7.jpg" "." >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/soelden-2020/z6iqoaq1qfmkipvag4sb.jpg" "." >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/soelden-2020/i3ncovur4qv5sauewp2n.jpg" "." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/soelden-2020/qx180jng4qoumu6p8cdc.jpg" "." >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/soelden-2020/zojpj9xp4159naribbl4.jpg" "." >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/soelden-2020/yi6kt3x4ybgwtrxspfxa.jpg" "." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/soelden-2020/xsetxgqyiu5ylscfvpk1.jpg" "." >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/soelden-2020/ooyazywoas7eltfdoss5.jpg" "." >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/soelden-2020/wxohik5yd8aa3hfgjpfv.jpg" "." >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/soelden-2020/l0b2tclchlw8dhszrobu.jpg" "." >}}
@@ -79,7 +107,6 @@ draft: true
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/soelden-2020/zwvxpotmnbncnjjrq3yj.jpg" "." >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/soelden-2020/de4q8jcjbmsojcils1b4.jpg" "." >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/soelden-2020/h2ekphmeg1lkukqh8nym.jpg" "." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/soelden-2020/yy1to48uloozbmkl2d0e.jpg" "." >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/soelden-2020/aunrrdsgpvo51rqgef03.jpg" "." >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/soelden-2020/dhaczdzy8qzysr7q2edj.jpg" "." >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/soelden-2020/urmypdobtycganebdz2y.jpg" "." >}}
@@ -90,4 +117,3 @@ draft: true
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/soelden-2020/oxgupfvqsy6jfbgbcirv.jpg" "." >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/soelden-2020/n8ranxks4sfl6k9a1nh5.jpg" "." >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/soelden-2020/z1ytbgjq8ms6vi0osrfk.jpg" "." >}}
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/soelden-2020/izumzfeepcefwm54jx2d.jpg" "." >}}
