@@ -47,8 +47,12 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/rqlaiouvyancx5omttda.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/rqlaiouvyancx5omttda.jpg" "Леонид Каганов и автор этого блога." >}}
 
-А вот автор читает четверостишие из эпиграфа:
+## Видео
+
+Вот автор читает четверостишие из эпиграфа:
 
 {{< youtube "tLxE-vg-Ln8" >}}
+
+Все видео, которые я записал на квартирнике («Отелло» не ждите), доступны на {{< a "/videoevents/vevt_kaganov_amsterdam" "странице события" >}}. **Осторожно:** многие видео содержат не самую цензурную лексику, они помечены словом `[мат]`.
 
 Спасибо, Леонид!
