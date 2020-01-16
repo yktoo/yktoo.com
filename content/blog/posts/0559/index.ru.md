@@ -47,4 +47,8 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/rqlaiouvyancx5omttda.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/rqlaiouvyancx5omttda.jpg" "Леонид Каганов и автор этого блога." >}}
 
+А вот автор читает четверостишие из эпиграфа:
+
+{{< youtube "tLxE-vg-Ln8" >}}
+
 Спасибо, Леонид!
