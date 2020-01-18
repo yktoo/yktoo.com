@@ -15,7 +15,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/soelden-2020/z1ytbgjq8ms6vi0osrfk.jpg"
 places:
     - place0236
-draft: true
 ---
 
 Как я давеча {{< a "0544" "упоминал" >}}, нам посчастливилось съездить на {{< fl "wintersport" >}} в австрийский Зёльден. Я там три года назад {{< a "0270" "уже был" >}}, впервые осваивая сноуборд — тогда я вернулся, со всех сторон слегка побитый склонами.
