@@ -2,7 +2,15 @@
 type: post
 date: "2017-03-14T00:00:00Z"
 title: "Горы: Ле-Сибель, Франция"
-tags: ["горы", "зима", "Ле-Сибель", "снег", "сноуборд", "спорт", "Франция"]
+tags:
+    - горы
+    - зима
+    - Ле-Сибель
+    - снег
+    - сноуборд
+    - спорт
+    - Франция
+    - винтерспорт
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/pmgzrxf771ss3359.jpg"
 places:
     - place0280

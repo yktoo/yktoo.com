@@ -2,7 +2,15 @@
 type: post
 date: "2017-02-09T00:00:00Z"
 title: "Горы: Ла-Плань, Франция"
-tags: ["горы", "зима", "Ла-Плань", "снег", "сноуборд", "спорт", "Франция"]
+tags:
+    - горы
+    - зима
+    - Ла-Плань
+    - снег
+    - сноуборд
+    - спорт
+    - Франция
+    - винтерспорт
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/76ae56xhkvvq2118.jpg"
 places:
     - place0277

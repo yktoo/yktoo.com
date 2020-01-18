@@ -10,6 +10,7 @@ tags:
     - туман
     - красивое
     - иней
+    - винтерспорт
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/d6kktyxqtisghb4wt4uk.jpg"
 ---
 
