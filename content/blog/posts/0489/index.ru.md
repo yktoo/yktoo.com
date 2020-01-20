@@ -7,6 +7,7 @@ tags:
     - глоссарий
     - страховка
     - здравоохранение
+    - медицина
     - basisverzekering
     - eigen risico
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/f8vkbr0uqd9t4bjwypwm.jpg"
