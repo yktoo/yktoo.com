@@ -7,6 +7,7 @@ tags:
     - Амстердам
     - безопасность
     - гаджеты
+    - видеонаблюдение
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/cp4fulegqvjn727x54gb.jpg"
 imageCredit: "Фото: Paweł Czerwiński/Unsplash."
 ---
