@@ -9,7 +9,7 @@ tags:
     - пословицы
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/knowledge-is-power.jpg"
 imageCredit: "Фото: Gerd Altmann/Pixabay."
-series: Нидерландские пословицы
+series: Нидерландские выражения
 ---
 
 Вслед за {{< a "0381" "нидерландскими сокращениями" >}} наступила очередь пословиц и поговорок.
