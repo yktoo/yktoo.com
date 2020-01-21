@@ -30,3 +30,9 @@ series: Нидерландские пословицы
 
 Иными словами: то, что отнимает много времени, дорого обходится.
 
+## Примеры
+
+* {{< fl "Je kunt de zaak direct weer openen, want **tijd is geld**." >}}
+* {{< fl "**Tijd is geld**, zeker in ons fileland." >}}
+* {{< fl "Anderzijds: **tijd is geld** en op vakantie geldt dat eigenlijk net zo." >}}
+* {{< fl "Voor elk proces wordt dan uitgezocht hoeveel tijd (**tijd is geld**) en geld het doorlopen van een proces de burger of het bedrijf kost." >}}
