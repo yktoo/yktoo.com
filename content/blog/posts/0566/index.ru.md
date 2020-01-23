@@ -5,7 +5,7 @@ title: "Aan de kaak stellen"
 tags:
     - Нидерланды
     - голландский язык
-    - пословицы
+    - выражения
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/knowledge-is-power.jpg"
 imageCredit: "Фото: Gerd Altmann/Pixabay."
 series: Нидерландские выражения
