@@ -50,6 +50,7 @@
 - {id: map,               translation: Kaart}
 - {id: messageBody,       translation: Je bericht}
 - {id: messageSubject,    translation: Onderwerp}
+- {id: moreToRead,        translation: Meer om te lezen}
 - {id: mySocialLinks,     translation: Mijn sociale links}
 - {id: noContentCurLang,  translation: 'Geen Nederlandstalige inhoud beschikbaar.<br><big>¯\_(ツ)_/¯</big><br>Probeer een andere taal te kiezen bovenaan deze pagina.'}
 - {id: numPages,          translation: {one: '{{ .Count }} pagina', other: '{{ .Count }} pagina''s'}}

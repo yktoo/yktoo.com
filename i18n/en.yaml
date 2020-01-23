@@ -50,6 +50,7 @@
 - {id: map,               translation: Map}
 - {id: messageBody,       translation: Message body}
 - {id: messageSubject,    translation: Message subject}
+- {id: moreToRead,        translation: More to Read}
 - {id: mySocialLinks,     translation: My social links}
 - {id: noContentCurLang,  translation: 'No English content available.<br><big>¯\_(ツ)_/¯</big><br>Try selecting another language from the menu above.'}
 - {id: numPages,          translation: {one: '{{ .Count }} page', other: '{{ .Count }} pages'}}

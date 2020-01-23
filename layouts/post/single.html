@@ -90,8 +90,8 @@
 
             <!-- See also -->
             {{- with .Site.RegularPages.Related . }}
-            <section class="blog-post-see-also" id="blog-post-see-also">
-                <h2>{{ T "seeAlso" }}</h2>
+            <section class="blog-post-more-to-read" id="blog-post-more-to-read">
+                <h2>{{ T "moreToRead" }}</h2>
                 <div class="row">
                 {{- range first 6 . }}
                     <div class="col-md-6 col-lg-4">{{ .Render "card" }}</div>
@@ -135,7 +135,7 @@
                     <h6><i class="fas fa-list bycon"></i>{{ T "contents" }}</h6>
                     {{ .TableOfContents }}
                     <ul>
-                        {{- if .Site.RegularPages.Related . }}<li><a href="#blog-post-see-also">{{ T "seeAlso" }}</a></li>{{ end }}
+                        {{- if .Site.RegularPages.Related . }}<li><a href="#blog-post-more-to-read">{{ T "moreToRead" }}</a></li>{{ end }}
                         <li><a href="#blog-post-comments">{{ T "comments" }}</a></li>
                     </ul>
                 </section>

@@ -50,6 +50,7 @@
 - {id: map,               translation: Карта}
 - {id: messageBody,       translation: Текст письма}
 - {id: messageSubject,    translation: Тема письма}
+- {id: moreToRead,        translation: Что ещё почитать}
 - {id: mySocialLinks,     translation: Мои соцсети}
 - {id: noContentCurLang,  translation: 'Содержимое на русском недоступно.<br><big>¯\_(ツ)_/¯</big><br>Попробуйте выбрать другой язык в верхнем меню.'}
 - {id: numPages,          translation: {one: '{{ .Count }} страница', few: '{{ .Count }} страницы', many: '{{ .Count }} страниц'}}
