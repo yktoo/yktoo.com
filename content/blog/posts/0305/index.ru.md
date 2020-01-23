@@ -2,7 +2,13 @@
 type: post
 date: "2017-01-17T00:00:00Z"
 title: "Скрипт включения/выключения тачпада в Убунту"
-tags: ["GitHub", "Ubuntu", "yktools", "тачпад", "Vim"]
+tags:
+    - GitHub
+    - Ubuntu
+    - yktools
+    - ноутбук
+    - тачпад
+    - Vim
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/9cjzhcfabz7s1898.png"
 software: yktools
 aliases:
