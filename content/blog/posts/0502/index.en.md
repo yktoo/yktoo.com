@@ -48,7 +48,7 @@ I'll definitely keep watching their development.
 {{< table "table table-striped table-headless" >}}
 |   |   |   |
 |---|---|---|
-|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/vk8aep1d3egnluw7pepd.jpg" "Modern Value (EP)" >}}|2018|Modern Value (EP)|
-|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/urvmudhuqwbnauudfq6a.jpg" "Kepler" >}}|2019|Kepler (single)|
-|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/btpfw0rmcqwk38su1raj.jpg" "Iris" >}}|2019|Iris (single)|
+|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/album/vk8aep1d3egnluw7pepd.jpg" "Modern Value (EP)" >}}|2018|Modern Value (EP)|
+|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/album/urvmudhuqwbnauudfq6a.jpg" "Kepler" >}}|2019|Kepler (single)|
+|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/album/btpfw0rmcqwk38su1raj.jpg" "Iris" >}}|2019|Iris (single)|
 {{< /table >}}

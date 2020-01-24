@@ -49,7 +49,7 @@ series: Музопад
 {{< table "table table-striped table-headless" >}}
 |   |   |   |
 |---|---|---|
-|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/hkrhtdermmijp2lketwb.jpg" "Gradus (сингл)" >}}|2014|Gradus (сингл)|
-|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/t0fosxrhkpfhprcr7agf.jpg" "Causa (EP)" >}}|2015|Causa (EP)|
-|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/hx5d5apubwccnqz6onn9.jpg" "Sy" >}}|2017|Sy|
+|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/album/hkrhtdermmijp2lketwb.jpg" "Gradus (сингл)" >}}|2014|Gradus (сингл)|
+|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/album/t0fosxrhkpfhprcr7agf.jpg" "Causa (EP)" >}}|2015|Causa (EP)|
+|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/album/hx5d5apubwccnqz6onn9.jpg" "Sy" >}}|2017|Sy|
 {{< /table >}}

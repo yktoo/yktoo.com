@@ -69,8 +69,8 @@ series: Музопад
 {{< table "table table-striped table-headless" >}}
 |   |   |   |
 |---|---|---|
-|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/sdz0lh4sblddbh3lsmhu.jpg" "Liberation (EP)" >}}  |2014|Liberation (EP)  |
-|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/bg5kdmdpanqlrkzje6m4.jpg" "Natural Evolution" >}}|2015|Natural Evolution|
-|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/y7ayqonihn7oioi5crj6.jpg" "Dr. Doofenshmirtz" >}}|2016|Dr. Doofenshmirtz|
-|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/tmrq90xxrawmoi1lp52u.jpg" "Pure Love" >}}        |2016|Pure Love        |
+|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/album/sdz0lh4sblddbh3lsmhu.jpg" "Liberation (EP)" >}}  |2014|Liberation (EP)  |
+|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/album/bg5kdmdpanqlrkzje6m4.jpg" "Natural Evolution" >}}|2015|Natural Evolution|
+|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/album/y7ayqonihn7oioi5crj6.jpg" "Dr. Doofenshmirtz" >}}|2016|Dr. Doofenshmirtz|
+|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/album/tmrq90xxrawmoi1lp52u.jpg" "Pure Love" >}}        |2016|Pure Love        |
 {{< /table >}}
