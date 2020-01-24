@@ -11,7 +11,6 @@ tags:
     - происшествия
     - кибербезопасность
     - ИТ
-    - Fox-IT
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/uskdpigsmrkr61fekkz9.jpg"
 imageCredit: "Фото: Javad Rajabzade/Pixabay."
 ---
