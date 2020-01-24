@@ -27,6 +27,6 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/ksmlhvgziznmn2ig0jli.
 
 А одеваться полагалось примерно так:
 
-{{< video "https://upload.wikimedia.org/wikipedia/commons/f/f8/Nieuwste_strand-_en_badpakken-512938.ogv" "controls" >}}
+{{< youtube "Is-0UzefRN4" >}}
 
 Это запись показа пляжной моды в **1933** году. Судя по видео, наряд у мужчины действительно чересчур откровенный.
