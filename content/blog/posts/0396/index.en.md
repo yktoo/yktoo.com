@@ -4,8 +4,8 @@ date: "2019-09-26T15:11:20+02:00"
 title: "(In)offensive Dutch"
 tags:
     - Netherlands
-    - Dutch
-    - English
+    - Dutch language
+    - English language
     - funny
     - trifles
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/66s6c0hrojge0308.jpg"
