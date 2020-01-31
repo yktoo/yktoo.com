@@ -48,8 +48,8 @@ The band was formed in **2012** in Redwood City, San Francisco, California.
 {{< table "table table-striped table-headless" >}}
 |   |   |   |
 |---|---|---|
-|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/album/idng0bywxxx8hfrttqqg.jpg" "Sea in the Sky (EP)" >}}|2013|Sea in the Sky (EP)|
-|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/album/jhzzvrkt9skpuaaisypy.jpg" "Serenity" >}}|2014|Serenity|
-|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/album/ucvjlw7tuwmzsqyk8nts.jpg" "Visions" >}}|2015|Visions|
-|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/album/ah4ckatxyakdkn7cf5yn.jpg" "Everything All at Once" >}}|2017|Everything All at Once|
+|{{< albumimg "idng0bywxxx8hfrttqqg" "Sea in the Sky (EP)" >}}   |2013|Sea in the Sky (EP)|
+|{{< albumimg "jhzzvrkt9skpuaaisypy" "Serenity" >}}              |2014|Serenity|
+|{{< albumimg "ucvjlw7tuwmzsqyk8nts" "Visions" >}}               |2015|Visions|
+|{{< albumimg "ah4ckatxyakdkn7cf5yn" "Everything All at Once" >}}|2017|Everything All at Once|
 {{< /table >}}

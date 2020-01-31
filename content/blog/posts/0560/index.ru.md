@@ -47,5 +47,5 @@ series: Музопад
 {{< table "table table-striped table-headless" >}}
 |   |   |   |
 |---|---|---|
-|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/album/ulkscyet6aiopzcfm1rw.jpg" "Cosmogenesis" >}}|2010|Cosmogenesis|
+|{{< albumimg "ulkscyet6aiopzcfm1rw" "Cosmogenesis" >}}|2010|Cosmogenesis|
 {{< /table >}}

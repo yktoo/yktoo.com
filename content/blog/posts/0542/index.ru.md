@@ -46,14 +46,14 @@ series: Музопад
 |   |   |   |
 |---|---|---|
 |#Yvette Young|||
-|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/album/ltokt6jdoqh1m1d8tqya.jpg" "Acoustics EP" >}}|2014|Acoustics EP|
-|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/album/upmrjlubzkg2d98r116v.jpg" "Yvette Young​/​Natalie Evans split" >}}|2015|Yvette Young​/​Natalie Evans split|
-|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/album/efz3xligvf316oifeslo.jpg" "Acoustics EP 2" >}}|2017|Acoustics EP 2|
-|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/album/dnyxxyzhgesl5bqwgwau.jpg" "Piano EP" >}}|2019|Piano EP|
+|{{< albumimg "ltokt6jdoqh1m1d8tqya" "Acoustics EP" >}}                    |2014|Acoustics EP|
+|{{< albumimg "upmrjlubzkg2d98r116v" "Yvette Young​/​Natalie Evans split" >}}|2015|Yvette Young​/​Natalie Evans split|
+|{{< albumimg "efz3xligvf316oifeslo" "Acoustics EP 2" >}}                  |2017|Acoustics EP 2|
+|{{< albumimg "dnyxxyzhgesl5bqwgwau" "Piano EP" >}}                        |2019|Piano EP|
 |#Covet|||
-|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/album/ohlulcuh9oakimbpoqrx.jpg" "Currents EP" >}}|2015|Currents EP|
-|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/album/d3n5neyyjccvxbg0bzop.jpg" "Audiotree Live" >}}|2016|Audiotree Live|
-|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/album/ppgfoh0j6xqy1k3rvekq.jpg" "Ares (сингл)" >}}|2017|Ares (сингл)|
-|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/album/j4doxtvatbee2kpdhic6.jpg" "Effloresce" >}}|2018|Effloresce|
-|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/album/v4nxm0y6ebduaxgrrg17.jpg" "Acoustics" >}}|2019|Acoustics|
+|{{< albumimg "ohlulcuh9oakimbpoqrx" "Currents EP" >}}                     |2015|Currents EP|
+|{{< albumimg "d3n5neyyjccvxbg0bzop" "Audiotree Live" >}}                  |2016|Audiotree Live|
+|{{< albumimg "ppgfoh0j6xqy1k3rvekq" "Ares (сингл)" >}}                    |2017|Ares (сингл)|
+|{{< albumimg "j4doxtvatbee2kpdhic6" "Effloresce" >}}                      |2018|Effloresce|
+|{{< albumimg "v4nxm0y6ebduaxgrrg17" "Acoustics" >}}                       |2019|Acoustics|
 {{< /table >}}

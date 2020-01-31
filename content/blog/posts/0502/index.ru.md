@@ -50,7 +50,7 @@ series: Музопад
 {{< table "table table-striped table-headless" >}}
 |   |   |   |
 |---|---|---|
-|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/album/vk8aep1d3egnluw7pepd.jpg" "Modern Value (EP)" >}}|2018|Modern Value (EP)|
-|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/album/urvmudhuqwbnauudfq6a.jpg" "Kepler" >}}|2019|Kepler (сингл)|
-|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/album/btpfw0rmcqwk38su1raj.jpg" "Iris" >}}|2019|Iris (сингл)|
+|{{< albumimg "vk8aep1d3egnluw7pepd" "Modern Value (EP)" >}}|2018|Modern Value (EP)|
+|{{< albumimg "urvmudhuqwbnauudfq6a" "Kepler" >}}           |2019|Kepler (сингл)|
+|{{< albumimg "btpfw0rmcqwk38su1raj" "Iris" >}}             |2019|Iris (сингл)|
 {{< /table >}}

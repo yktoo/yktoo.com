@@ -69,7 +69,7 @@ All in all, highly recommended. And I'll stay tuned in for more "greatest hits".
 {{< table "table table-striped table-headless" >}}
 |   |   |   |
 |---|---|---|
-|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/album/lyqdeigosmglmkf4gzkn.jpg" "Greatest Hits (EP)" >}}|2015|Greatest Hits (EP)|
-|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/album/xbaw2hwvyvn9n192uycm.jpg" "Dunno" >}}|2016|Dunno|
-|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/album/ijh1xppz1sakjyhyie7a.jpg" "Yeah Whatever" >}}|2018|Yeah Whatever|
+|{{< albumimg "lyqdeigosmglmkf4gzkn" "Greatest Hits (EP)" >}}|2015|Greatest Hits (EP)|
+|{{< albumimg "xbaw2hwvyvn9n192uycm" "Dunno" >}}             |2016|Dunno|
+|{{< albumimg "ijh1xppz1sakjyhyie7a" "Yeah Whatever" >}}     |2018|Yeah Whatever|
 {{< /table >}}

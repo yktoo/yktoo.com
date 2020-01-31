@@ -69,8 +69,8 @@ I'm under the impression that Yao-Ting is either too busy with his family affair
 {{< table "table table-striped table-headless" >}}
 |   |   |   |
 |---|---|---|
-|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/album/sdz0lh4sblddbh3lsmhu.jpg" "Liberation (EP)" >}}  |2014|Liberation (EP)  |
-|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/album/bg5kdmdpanqlrkzje6m4.jpg" "Natural Evolution" >}}|2015|Natural Evolution|
-|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/album/y7ayqonihn7oioi5crj6.jpg" "Dr. Doofenshmirtz" >}}|2016|Dr. Doofenshmirtz|
-|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/album/tmrq90xxrawmoi1lp52u.jpg" "Pure Love" >}}        |2016|Pure Love        |
+|{{< albumimg "sdz0lh4sblddbh3lsmhu" "Liberation (EP)" >}}  |2014|Liberation (EP)  |
+|{{< albumimg "bg5kdmdpanqlrkzje6m4" "Natural Evolution" >}}|2015|Natural Evolution|
+|{{< albumimg "y7ayqonihn7oioi5crj6" "Dr. Doofenshmirtz" >}}|2016|Dr. Doofenshmirtz|
+|{{< albumimg "tmrq90xxrawmoi1lp52u" "Pure Love" >}}        |2016|Pure Love        |
 {{< /table >}}

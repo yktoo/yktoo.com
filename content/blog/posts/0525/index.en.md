@@ -51,5 +51,5 @@ Highly recommended.
 {{< table "table table-striped table-headless" >}}
 |   |   |   |
 |---|---|---|
-|{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/album/ut0l6euobvh5kfm72sfx.jpg" "Meridian (EP)" >}}|2014|Meridian (EP)|
+|{{< albumimg "ut0l6euobvh5kfm72sfx" "Meridian (EP)" >}}|2014|Meridian (EP)|
 {{< /table >}}
