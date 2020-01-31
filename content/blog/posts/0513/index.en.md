@@ -18,7 +18,7 @@ imageCredit: "Photo: Yao-Ting Lee/Instagram."
 series: Musicellaneous
 ---
 
-It's Friday again, time to explore the realm of {{< a "/series/musicellaneous" "unfamiliar music" >}} again!
+It's Friday, time to explore the realm of {{< a "/series/musicellaneous" "unfamiliar music" >}} again!
 
 The unfamiliar is represented today by the {{< a "https://haamoja.bandcamp.com/" "Haamoja" >}} project from Taiwan playing djent/jazz/fusion.
 
