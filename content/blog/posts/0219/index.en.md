@@ -2,7 +2,12 @@
 type: post
 date: "2014-05-13T00:00:00Z"
 title: "Netherlander!"
-tags: ["Amersfoort", "mayor", "nationality", "naturalisation ceremony", "Netherlands"]
+tags:
+    - Amersfoort
+    - mayor
+    - nationality
+    - naturalisation ceremony
+    - Netherlands
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/8303fff0jigd0066.jpg"
 aliases:
     - /en/blog/post/219
@@ -16,7 +21,7 @@ Inevitable happened: my journey into an alternative reality I've {{< a "0001" "e
 
 <!--more-->
 
-I must say I have nowadays a much stronger conviction that the choice once made was right. Over the past few years the two worlds have moved even further away from each other. Back in 2008 one could argue Russia could still get on track, it's now evident the developments of last years, months, days have effectively ruined all hope, especially considering the popular support behind it.
+I must say I have nowadays a much stronger conviction that the choice once made was right. Over the past few years the two worlds have moved even further away from each other. Back in **2008** one could argue Russia could still get on track, it's now evident the developments of last years, months, days have effectively ruined all hope, especially considering the popular support behind it.
 
 Good thing is—this time the grass is greener on our side.
 
@@ -24,11 +29,11 @@ The prehistory of my dutchness is pretty straightforward. In order to be eligibl
 
 * Have lived 5 years in the country. (The government has recently proposed increasing the term to 7 years, but the amendment has not yet passed through the Parliament.)
 * Pass a language exam.
-* Have no criminal record or big fines in the past four years (more than € 453 one-off or € 680 in total).
-* Pay a sizeable amount at the town-hall (currently € 821).
+* Have no criminal record or big fines in the past four years (more than **€ 453** one-off or **€ 680** in total).
+* Pay a sizeable amount at the town-hall (currently **€ 821**).
 * Participate in a "naturalisation ceremony".
 
-I've scored all these points: I've lived five years here, {{< a "0187" "passed the exam" "ru" >}} back in 2012, respected the law and even forked out the extortionate fee.
+I've scored all these points: I've lived five years here, {{< a "0187" "passed the exam" "ru" >}} back in **2012**, respected the law and even forked out the extortionate fee.
 
 Once the application is submitted, all you can do is wait. The official term for taking a decision is one year, and it was almost up—I've waited for eleven months.
 
