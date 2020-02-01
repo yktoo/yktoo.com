@@ -3,7 +3,25 @@ type: post
 date: "2016-12-14T00:00:00Z"
 title: "Часть 2"
 series: "Лондон"
-tags: ["Heron Tower", "HMS Belfast", "London Eye", "The Gherkin", "The Shard", "английский язык", "Биг-Бен", "Брекзит", "велики", "Великобритания", "Даунинг-стрит", "Лондон", "путешествия", "Сити-Холл", "Тауэр", "Тауэрский мост", "Темза", "Трафальгарская площадь"]
+tags:
+    - Heron Tower
+    - HMS Belfast
+    - London Eye
+    - The Gherkin
+    - The Shard
+    - английский язык
+    - Биг-Бен
+    - Брекзит
+    - велики
+    - Великобритания
+    - Даунинг-стрит
+    - Лондон
+    - путешествия
+    - Сити-Холл
+    - Тауэр
+    - Тауэрский мост
+    - Темза
+    - Трафальгарская площадь
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/cq1u9k4o3pv51622.jpg"
 places:
     - place0254
