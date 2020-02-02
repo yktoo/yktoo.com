@@ -8,7 +8,6 @@ googleAnalytics: UA-19569086-3
 enableRobotsTXT: true
 
 markup:
-    defaultMarkdownHandler: blackfriday
     goldmark:
         renderer:
             unsafe: true
