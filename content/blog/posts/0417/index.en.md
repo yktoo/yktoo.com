@@ -7,7 +7,7 @@ tags:
     - Yktoo Solutions
     - website
 image: "/images/logos/hugo-logo.png"
-series: Hugo toolbox
+series: hugo-toolbox
 fulltextUrl: "https://yktoo.solutions/blog/2019/10/08-hugo-toolbox-image-figure-shortcode-imgfig/"
 ---
 

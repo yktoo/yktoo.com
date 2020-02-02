@@ -2,7 +2,7 @@
 type: post
 date: "2012-10-04T00:00:00Z"
 title: "Часть 2. Дом Мила"
-series: "Барселона"
+series: barcelona-2012
 tags: ["Барселона", "Гауди", "Испания", "путешествия"]
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/z4dyuejzfnhs1727.jpg"
 places:

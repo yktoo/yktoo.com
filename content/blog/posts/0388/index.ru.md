@@ -14,7 +14,7 @@ tags:
     - Prinsjesdag
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/z65fbnf61wu60521.jpg"
 imageCredit: "Фото: rawpixel."
-series: Доля предпринимательская
+series: business
 ---
 
 Продолжаем анализировать изменения, которые принёс {{< a "0382" "Prinsjesdag" >}}. О последствиях для простых граждан я {{< a "0385" "недавно писал" >}}, теперь интересно посмотреть, что правительство планирует изменить для предпринимателей.

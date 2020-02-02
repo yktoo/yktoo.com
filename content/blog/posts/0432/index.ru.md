@@ -13,7 +13,7 @@ tags:
     - NS Business Card
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/h85x2fqqgel61721.jpg"
 imageCredit: "Фото: NS."
-series: Доля предпринимательская
+series: business
 glossary: ns-business-card
 ---
 

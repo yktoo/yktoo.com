@@ -2,7 +2,7 @@
 type: post
 date: "2017-02-20T00:00:00Z"
 title: "Лица и формы"
-series: "Доля предпринимательская"
+series: business
 tags: ["Yktoo Solutions", "бизнес", "налоги", "Нидерланды", "предпринимательство", "работа", "фриланс"]
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/5l0s6yuhsutm3492.png"
 aliases:

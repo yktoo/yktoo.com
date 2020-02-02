@@ -14,7 +14,7 @@ tags:
     - законодательство
     - глоссарий
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/pznx6y5quuij1236.jpg"
-series: Доля предпринимательская
+series: business
 glossary: wet-dba
 ---
 

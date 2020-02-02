@@ -10,10 +10,10 @@ tags:
     - progressive metal
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/wab88yjv2odb9qaw9go9.jpg"
 imageCredit: "Фото: Sea in the Sky."
-series: Музопад
+series: music
 ---
 
-Пятница! В девятом выпуске {{< a "/series/музопад" "Музопада" >}} романтический джент в исполнении американской банды {{< a "https://seainthesky.bandcamp.com/" "Sea in the Sky" >}}.
+Пятница! В девятом выпуске {{< a "/series/music" "Музопада" >}} романтический джент в исполнении американской банды {{< a "https://seainthesky.bandcamp.com/" "Sea in the Sky" >}}.
 
 Название группы переводится, как можно догадаться, как «Море в небесах».
 

@@ -8,10 +8,10 @@ tags:
     - выражения
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/knowledge-is-power.jpg"
 imageCredit: "Фото: Gerd Altmann/Pixabay."
-series: Нидерландские выражения
+series: dutch-expressions
 ---
 
-Возьмём для нашей {{< a "/series/нидерландские-выражения" "самообразовательной рубрики" >}} в этот раз что-нибудь пооригинальней — чисто голландское выражение:
+Возьмём для нашей {{< a "/series/dutch-expressions" "самообразовательной рубрики" >}} в этот раз что-нибудь пооригинальней — чисто голландское выражение:
 
 > {{< fl "**iets** / **iemand** aan de kaak stellen" >}}
 

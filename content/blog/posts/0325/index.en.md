@@ -8,7 +8,7 @@ aliases:
     - /en/blog/post/325
 ---
 
-My latest *Dutch language course* has come to an end. It took almost a year to get through, partly due to my {{< a "/series/my-entrepreneurship" "entrepreneurial" >}} adventures. I've started the course, at the time paid by my employer ING, in July last year, and kept getting lessons long after leaving ING.
+My latest *Dutch language course* has come to an end. It took almost a year to get through, partly due to my {{< a "/series/business" "entrepreneurial" >}} adventures. I've started the course, at the time paid by my employer ING, in July last year, and kept getting lessons long after leaving ING.
 
 <!--more-->
 

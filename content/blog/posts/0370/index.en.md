@@ -13,7 +13,7 @@ tags:
     - VAT
     - GDPR
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/tqs476ottiit1062.jpg"
-series: "My entrepreneurship"
+series: business
 ---
 
 Each legal entity in the Netherlands receives a special identification number called {{< a "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/btw/administratie_bijhouden/btw_nummers_controleren/uw_btw_nummer" "btw-nummer" >}} shortly after the registration ({{< fl "btw" >}} is Dutch for "{{< wiki "value-added tax" >}}").

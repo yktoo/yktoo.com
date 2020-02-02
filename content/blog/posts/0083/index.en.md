@@ -2,7 +2,7 @@
 type: post
 date: "2011-04-14T00:00:00Z"
 title: "Part 1. Schiphol"
-series: "Vienna and Budapest"
+series: vienna-budapest-2011
 tags: ["Netherlands", "Schiphol", "travel"]
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/9b0hwz0dbzsv1289.jpg"
 places:

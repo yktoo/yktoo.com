@@ -2,7 +2,7 @@
 type: post
 date: "2013-06-10T00:00:00Z"
 title: "Часть 2. Авто и апельсины"
-series: "Португалия"
+series: portugal-2013
 tags: ["авто", "Алгарви", "апельсины", "Португалия", "путешествия"]
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/nlby2sddb4xz2829.jpg"
 aliases:

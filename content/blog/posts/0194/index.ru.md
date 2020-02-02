@@ -2,7 +2,7 @@
 type: post
 date: "2013-06-22T00:00:00Z"
 title: "Часть 5. Сагреш и край мира"
-series: "Португалия"
+series: portugal-2013
 tags: ["Албуфейра", "мыс", "океан", "Португалия", "путешествия", "Сагреш"]
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/g713kzw1ftp02422.jpg"
 places:

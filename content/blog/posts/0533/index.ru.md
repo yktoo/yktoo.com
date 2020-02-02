@@ -10,10 +10,10 @@ tags:
     - math rock
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/msnljgjuks9ei6ctnk2k.jpg"
 imageCredit: "Фото: Vitalism."
-series: Музопад
+series: music
 ---
 
-Пятница! Шестой выпуск {{< a "/series/музопад" "Музопада" >}} представляет образцово джентовую команду {{< a "http://www.vitalismband.com/" "Vitalism" >}} из Рио-де-Жанейро (Бразилия).
+Пятница! Шестой выпуск {{< a "/series/music" "Музопада" >}} представляет образцово джентовую команду {{< a "http://www.vitalismband.com/" "Vitalism" >}} из Рио-де-Жанейро (Бразилия).
 
 {{< fl "Vitalism" >}} возник в **2014** году как сольный проект бразильского гитариста по имени {{< fl "Ed Garcia" >}}, записавшего сингл {{< fl "Gradus" >}}.
 

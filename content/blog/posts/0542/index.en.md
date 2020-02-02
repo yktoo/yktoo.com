@@ -9,10 +9,10 @@ tags:
     - Covet
     - Yvette Young
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/qre07qixugajhgwbx5sj.jpg"
-series: Musicellaneous
+series: music
 ---
 
-Happy Friday everyone! This seventh edition of {{< a "/series/musicellaneous" "Musicellaneous" >}} features two gems at once: the American band {{< a "https://covetband.bandcamp.com/" "Covet" >}} and its frontwoman multi-instrumentalist {{< a "https://yvetteyoung.bandcamp.com/" "Yvette Young" >}}, who is by the way also a painter.
+Happy Friday everyone! This seventh edition of {{< a "/series/music" "Musicellaneous" >}} features two gems at once: the American band {{< a "https://covetband.bandcamp.com/" "Covet" >}} and its frontwoman multi-instrumentalist {{< a "https://yvetteyoung.bandcamp.com/" "Yvette Young" >}}, who is by the way also a painter.
 
 **Covet**'s genre is officially called *math rock*, which I would perhaps prepend with "maidenly".
 

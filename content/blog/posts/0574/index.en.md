@@ -10,10 +10,10 @@ tags:
     - progressive metal
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/wab88yjv2odb9qaw9go9.jpg"
 imageCredit: "Photo by Sea in the Sky."
-series: Musicellaneous
+series: music
 ---
 
-It's Friday! This ninth edition of {{< a "/series/musicellaneous" "Musicellaneous" >}} presents romantic djent played by the American band {{< a "https://seainthesky.bandcamp.com/" "Sea in the Sky" >}}.
+It's Friday! This ninth edition of {{< a "/series/music" "Musicellaneous" >}} presents romantic djent played by the American band {{< a "https://seainthesky.bandcamp.com/" "Sea in the Sky" >}}.
 
 <!--more-->
 

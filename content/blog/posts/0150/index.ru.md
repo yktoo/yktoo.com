@@ -2,7 +2,7 @@
 type: post
 date: "2012-04-28T00:00:00Z"
 title: "Часть 3. Аргуинегуин и Лас-Пальмас"
-series: "Гран-Канария"
+series: gran-canaria-2012
 tags: ["горы", "Гран-Канария", "Испания", "Канарские острова", "Лас-Пальмас", "остров", "путешествия"]
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/761vs82gd0a83517.jpg"
 places:

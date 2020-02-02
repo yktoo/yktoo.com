@@ -2,7 +2,7 @@
 type: post
 date: "2012-04-20T00:00:00Z"
 title: "Часть 1. Маспаломас"
-series: "Гран-Канария"
+series: gran-canaria-2012
 tags: ["Гран-Канария", "дюны", "Испания", "Канарские острова", "Маспаломас", "океан", "остров", "Плайя-дел-Инглес", "пляж", "путешествия"]
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/m3vrng0qfu9h2023.png"
 places:

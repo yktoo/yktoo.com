@@ -7,5 +7,5 @@
 
 <!-- Output a post row -->
 {{- range $.Site.Languages }}<span class="post_{{ cond (in $pageLangs .Lang) .Lang `none` }}"></span>{{ end -}}&nbsp;
-{{- with .Params.series }}<a href="{{ relref $page (print `/series/` (urlize .)) }}">{{ . }}</a> ‣ {{ end -}}
+{{- with .Params.series }}{{ with index $.Site.Taxonomies.series . }}<a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a> ‣ {{ end }}{{ end -}}
 <a href="{{ .Permalink }}">{{ .Title | markdownify | plainify | safeHTML -}}</a>

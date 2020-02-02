@@ -2,7 +2,7 @@
 type: post
 date: "2014-08-31T00:00:00Z"
 title: "Часть 1, железнодорожная"
-series: "Хаутен"
+series: houten
 tags:
     - Нидерланды
     - поезда

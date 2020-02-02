@@ -10,7 +10,7 @@ tags:
     - смайлик
     - менталитет
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/jhqcfn9ftecq0705.png"
-series: Разнимся
+series: beg-to-differ
 aliases:
     - /ru/blog/post/240
 ---

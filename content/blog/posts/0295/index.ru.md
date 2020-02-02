@@ -2,7 +2,7 @@
 type: post
 date: "2016-11-04T00:00:00Z"
 title: "2.1.1"
-series: "Sound Switcher Indicator"
+series: sound-switcher-indicator
 tags: ["PulseAudio", "Python", "Python 3", "Sound Switcher Indicator", "Ubuntu", "Unity", "Yakkety Yak", "звук", "индикатор"]
 software: sound-switcher-indicator
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/64k0x3l8omtq0538.png"

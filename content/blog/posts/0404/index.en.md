@@ -8,7 +8,7 @@ tags:
     - anniversary
 image: "https://yktoo.solutions/blog/2019/10/01-yktoo-solutions-is-three/ys-three-years.jpg"
 imageCredit: "Photo by Annie Spratt."
-series: My entrepreneurship
+series: business
 fulltextUrl: "https://yktoo.solutions/blog/2019/10/01-yktoo-solutions-is-three/"
 ---
 

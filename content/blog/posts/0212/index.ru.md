@@ -2,7 +2,7 @@
 type: post
 date: "2014-01-17T00:00:00Z"
 title: "Часть 1. День"
-series: "Бельгия. Гент"
+series: belgium-ghent-2014
 tags: ["Бельгия", "Гент", "красивое", "путешествия"]
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/h9sv4058hyf72815.jpg"
 places:

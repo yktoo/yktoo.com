@@ -9,10 +9,10 @@ tags:
     - Andromida
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/t6n0g3zgttqskxveo5ot.jpg"
 imageCredit: "Photo by Ramon Gutierrez."
-series: Musicellaneous
+series: music
 ---
 
-It's Friday again! This tenth edition of {{< a "/series/musicellaneous" "Musicellaneous" >}} features another unique project by a talented individual. I'm talking about the instrumental progressive metal band {{< a "https://andromidaofficial.com/" "Andromida" >}}, which is in fact just one person: the American **Ramon Gutierrez**.
+It's Friday again! This tenth edition of {{< a "/series/music" "Musicellaneous" >}} features another unique project by a talented individual. I'm talking about the instrumental progressive metal band {{< a "https://andromidaofficial.com/" "Andromida" >}}, which is in fact just one person: the American **Ramon Gutierrez**.
 
 The band is unique because Ramon is "legally blind", which was discovered when he was as little as three years old.
 

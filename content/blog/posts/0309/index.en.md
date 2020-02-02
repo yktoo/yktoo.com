@@ -2,7 +2,7 @@
 type: post
 date: "2017-02-19T00:00:00Z"
 title: "Pros and cons"
-series: "My entrepreneurship"
+series: business
 tags:
     - business
     - employment

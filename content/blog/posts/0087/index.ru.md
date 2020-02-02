@@ -2,7 +2,7 @@
 type: post
 date: "2011-04-17T01:00:00Z"
 title: "Часть 5. Поезд на Будапешт"
-series: "Вена и Будапешт"
+series: vienna-budapest-2011
 tags: ["Австрия", "Будапешт", "Вена", "Венгрия", "поезда", "транспорт"]
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/s5ktbcz75wib1051.jpg"
 aliases:

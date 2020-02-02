@@ -11,10 +11,10 @@ tags:
     - jazz
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/yxppjyvhqco31fxc3tm9.jpg"
 imageCredit: "Photo: owane.fandom.com."
-series: Musicellaneous
+series: music
 ---
 
-Our today's {{< a "/series/musicellaneous" "Musicellaneous" >}} guest is the Norwegian multi-instrumentalist {{< a "https://owane.bandcamp.com/" "Owane" >}}. He employs a number of instruments by thoroughly weaving djent riffs into the jazz-funk texture of his compositions.
+Our today's {{< a "/series/music" "Musicellaneous" >}} guest is the Norwegian multi-instrumentalist {{< a "https://owane.bandcamp.com/" "Owane" >}}. He employs a number of instruments by thoroughly weaving djent riffs into the jazz-funk texture of his compositions.
 
 Owane (real name {{< fl "Øyvind Pedersen" >}}) is a musician from Sortland, Norway and he has released three albums to date.
 

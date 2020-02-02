@@ -2,7 +2,7 @@
 type: post
 date: "2012-04-05T00:00:00Z"
 title: "Часть 3. Динан, Спа и ***"
-series: "Южная Бельгия"
+series: belgium-south-2012
 tags: ["Бельгия", "Динан", "путешествия", "Спа"]
 image: ""
 places:

@@ -2,7 +2,7 @@
 type: post
 date: "2011-04-20T00:00:00Z"
 title: "Part 7. Budapest at Night"
-series: "Vienna and Budapest"
+series: vienna-budapest-2011
 tags: ["Budapest", "Hungary", "travel"]
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/ir5ndo4pomx93608.jpg"
 places:

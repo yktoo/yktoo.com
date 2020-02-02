@@ -12,10 +12,10 @@ tags:
     - Matt Garstka
     - Animals as Leaders
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/vk8aep1d3egnluw7pepd.jpg"
-series: Musicellaneous
+series: music
 ---
 
-Thank God it's Friday! Which means it's time for a next bit of my {{< a "/series/musicellaneous" "Musicellaneous" >}} micro-discoveries!
+Thank God it's Friday! Which means it's time for a next bit of my {{< a "/series/music" "Musicellaneous" >}} micro-discoveries!
 
 Our hero today is the prog-djent duo **Victoria**.
 

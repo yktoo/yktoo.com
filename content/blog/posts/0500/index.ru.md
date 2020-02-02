@@ -14,7 +14,7 @@ tags:
     - Prinsjesdag
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/iwchhxlhal5tudkyjkiy.jpg"
 imageCredit: "Фото: Gerd Altmann/Pixabay."
-series: Доля предпринимательская
+series: business
 ---
 
 В этом юбилейном посте ({{< fl "ID=500" >}}) хочу коротко поведать, что год грядущий нам готовит.

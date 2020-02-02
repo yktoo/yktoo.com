@@ -8,7 +8,7 @@ aliases:
     - /nl/blog/post/325
 ---
 
-Mijn laatste *cursus Nederlands* is voorbij. Het heeft bijna een jaar geduurd, deels vanwege mijn {{< a "/series/mijn-ondernemerschap" "ondernemersavontuur" >}}. Ik ben in juli 2016 met de cursus begonnen. ING, die toen mijn werkgever was, heeft het destijds afbetaald, dus de lessen gingen gewoon door nadat ik wegging bij de ING.
+Mijn laatste *cursus Nederlands* is voorbij. Het heeft bijna een jaar geduurd, deels vanwege mijn {{< a "/series/business" "ondernemersavontuur" >}}. Ik ben in juli 2016 met de cursus begonnen. ING, die toen mijn werkgever was, heeft het destijds afbetaald, dus de lessen gingen gewoon door nadat ik wegging bij de ING.
 
 <!--more-->
 

@@ -5,6 +5,11 @@
 {{ end }}
 
 {{ define "main" }}
+<!-- Description -->
+{{- with .Params.description }}
+<div class="series-description">{{ . | markdownify }}</div>
+{{- end }}
+
 <!-- Blog feed -->
 <div class="blog-feed">
     {{ range .Paginator.Pages }}

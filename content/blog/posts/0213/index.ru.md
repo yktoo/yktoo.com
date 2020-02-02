@@ -2,7 +2,7 @@
 type: post
 date: "2014-01-18T00:00:00Z"
 title: "Часть 2. Ночь"
-series: "Бельгия. Гент"
+series: belgium-ghent-2014
 tags: ["Бельгия", "Гент", "красивое", "ночь", "путешествия"]
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/xkpr64x0y6xm0099.jpg"
 places:

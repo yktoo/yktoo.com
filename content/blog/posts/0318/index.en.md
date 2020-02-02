@@ -2,14 +2,14 @@
 type: post
 date: "2017-03-30T00:00:00Z"
 title: "The quest for work"
-series: "My entrepreneurship"
+series: business
 tags: ["business", "entrepreneurship", "freelance", "Netherlands", "Observ", "taxes", "work", "Yktoo Solutions"]
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/v95wud5j9h2w2271.png"
 aliases:
     - /en/blog/post/318
 ---
 
-This post continues the {{< a "/series/my-entrepreneurship" "series" >}} about the challenging yet rewarding entrepreneur's way, and I'd like to shed some light on my experience and learned lessons so far.
+This post continues the {{< a "/series/business" "series" >}} about the challenging yet rewarding entrepreneur's way, and I'd like to shed some light on my experience and learned lessons so far.
 
 The very first question a freelancer gets is: how and where to search for work?
 

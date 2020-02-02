@@ -2,7 +2,7 @@
 type: post
 date: "2014-10-12T00:00:00Z"
 title: "Часть 3, водно-фруктовая"
-series: "Хаутен"
+series: houten
 tags:
     - вода
     - Нидерланды

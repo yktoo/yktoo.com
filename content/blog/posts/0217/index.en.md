@@ -2,7 +2,7 @@
 type: post
 date: "2014-02-02T00:00:00Z"
 title: "1.2.0"
-series: "Sound Switcher Indicator"
+series: sound-switcher-indicator
 tags: ["indicator", "PulseAudio", "Python", "Saucy Salamander", "sound", "Sound Switcher Indicator", "Ubuntu", "Unity"]
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/bfeb1axtu3ki2057.png"
 software: sound-switcher-indicator

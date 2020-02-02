@@ -2,7 +2,7 @@
 type: post
 date: "2017-02-19T00:00:00Z"
 title: "Voor- en nadelen"
-series: "Mijn ondernemerschap"
+series: business
 tags:
     - belastingen
     - business

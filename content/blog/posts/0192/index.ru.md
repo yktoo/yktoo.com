@@ -2,7 +2,7 @@
 type: post
 date: "2013-06-14T00:00:00Z"
 title: "Часть 3. Албуфейра"
-series: "Португалия"
+series: portugal-2013
 tags: ["Албуфейра", "Алгарви", "Португалия", "путешествия"]
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/34k8i4ozysdw2973.jpg"
 places:

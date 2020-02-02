@@ -10,12 +10,12 @@ tags:
     - math rock
 image: "https://res.cloudinary.com/yktoo/image/upload/v1577466064/blog/hp2rnigmfsbvljfc4zxn.jpg"
 imageCredit: "Фото: The Helix Nebula."
-series: Музопад
+series: music
 ---
 
 Пятница, время, когда с небес падают музыкальные звёзды, а порой и целые туманности!
 
-В пятом выпуске {{< a "/series/музопад" "Музопада" >}} — команда {{< a "https://thehelixnebula.bandcamp.com/" "The Helix Nebula" >}}, мастера инструментального прогрессив-метала с отклонением в {{< fl "djent" >}} и {{< fl "math rock" >}}.
+В пятом выпуске {{< a "/series/music" "Музопада" >}} — команда {{< a "https://thehelixnebula.bandcamp.com/" "The Helix Nebula" >}}, мастера инструментального прогрессив-метала с отклонением в {{< fl "djent" >}} и {{< fl "math rock" >}}.
 
 <!--more-->
 

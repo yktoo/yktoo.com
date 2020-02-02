@@ -2,7 +2,7 @@
 type: post
 date: "2015-05-14T00:00:00Z"
 title: "Part 1. Specs and unboxing"
-series: "4K UHD TV Samsung UE75HU7500: a complete review"
+series: samsung-ue75hu7500
 tags: ["gadgets", "hardware", "review", "Samsung", "Smart TV", "TV", "unboxing"]
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/p2m7bcrlfvpq0811.jpg"
 aliases:

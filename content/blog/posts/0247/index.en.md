@@ -2,7 +2,7 @@
 type: post
 date: "2015-05-24T00:00:00Z"
 title: "Part 5. AV format support"
-series: "4K UHD TV Samsung UE75HU7500: a complete review"
+series: samsung-ue75hu7500
 tags: ["gadgets", "hardware", "review", "Samsung", "Smart Hub", "Smart TV", "TV"]
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/rhtzlfix5mvx2539.png"
 aliases:

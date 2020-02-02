@@ -2,7 +2,7 @@
 type: post
 date: "2011-04-21T00:00:00Z"
 title: "Часть 9. Будапешт. Базилика Св. Иштвана"
-series: "Вена и Будапешт"
+series: vienna-budapest-2011
 tags: ["Будапешт", "Венгрия", "путешествия"]
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/dcnasut99fek0128.jpg"
 places:

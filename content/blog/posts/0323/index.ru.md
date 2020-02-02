@@ -2,7 +2,7 @@
 type: post
 date: "2017-05-21T00:00:00Z"
 title: "Часть 2. Пловдив"
-series: "Болгария"
+series: bulgaria-2017
 tags: ["Болгария", "Пловдив", "путешествия"]
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/8v2f3mgd7vel1117.jpg"
 places:

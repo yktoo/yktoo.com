@@ -21,7 +21,7 @@ The last has brought major changes for the better for me, in contrast with the {
 * I've celebrated the New Year's Eve in the French Lille.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pb0gpxiypi0m2194.jpg" "Lille." >}}
-* Fled the corporate slavery world and embarked on a {{< a "/series/my-entrepreneurship" "freelance journey" >}}. The journey has formally begun on February 1<sup>st</sup> at the Dutch Ministry of Infrastructure and Environment ({{< fl "Ministerie van Infrastructuur en Milieu" >}}), usually shortened as {{< fl "MinIenM" >}}. I'm going to elaborate on that in a separate blog post.
+* Fled the corporate slavery world and embarked on a {{< a "/series/business" "freelance journey" >}}. The journey has formally begun on February 1<sup>st</sup> at the Dutch Ministry of Infrastructure and Environment ({{< fl "Ministerie van Infrastructuur en Milieu" >}}), usually shortened as {{< fl "MinIenM" >}}. I'm going to elaborate on that in a separate blog post.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/52au1ypj73h81055.jpg" "MinIenM." >}}
 * Run just above **700 km**, including three half marathons: {{< a "0320" "De Halve van De Haar" >}}, {{< a "0327" "IJsselsteinloop" >}} and {{< a "0330" "амерсфортский" >}}.

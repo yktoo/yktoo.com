@@ -2,7 +2,7 @@
 type: post
 date: "2014-09-07T00:00:00Z"
 title: "Часть 2, велосипедная"
-series: "Хаутен"
+series: houten
 tags: ["велики", "Нидерланды", "Хаутен"]
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/eos7dxmo56xa3628.jpg"
 aliases:

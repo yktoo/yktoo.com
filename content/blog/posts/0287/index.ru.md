@@ -9,7 +9,7 @@ tags:
     - Россия
     - Санкт-Петербург
     - менталитет
-series: Разнимся
+series: beg-to-differ
 aliases:
     - /ru/blog/post/287
 ---

@@ -2,7 +2,7 @@
 type: post
 date: "2011-07-16T00:00:00Z"
 title: "Pt. 1. Ad Libitum"
-series: "Post Nubila Sol"
+series: post-nubila-sol
 tags: ["instrumental", "music", "my music", "progressive metal", "Radiolaria"]
 aliases:
     - /en/blog/post/104

@@ -83,6 +83,8 @@
 - {id: search,            translation: Search}
 - {id: seeAlso,           translation: See also}
 - {id: series,            translation: Series}
+- {id: seriesFeatured,    translation: Featured series}
+- {id: seriesOther,       translation: Other series}
 - {id: seriesPlural,      translation: Series}
 - {id: share,             translation: Share}
 - {id: showChords,        translation: Show chords}

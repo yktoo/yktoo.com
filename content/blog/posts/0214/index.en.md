@@ -2,7 +2,7 @@
 type: post
 date: "2014-01-19T00:00:00Z"
 title: "Part 3. Graffiti"
-series: "Belgium. Ghent"
+series: belgium-ghent-2014
 tags: ["Belgium", "Ghent", "graffiti", "travel"]
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/fbe5gu5woh8x1588.jpg"
 places:

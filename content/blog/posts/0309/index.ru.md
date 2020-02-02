@@ -2,7 +2,7 @@
 type: post
 date: "2017-02-19T00:00:00Z"
 title: "«За» и «против»"
-series: "Доля предпринимательская"
+series: business
 tags:
     - Yktoo Solutions
     - бизнес

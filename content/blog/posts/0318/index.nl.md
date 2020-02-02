@@ -2,14 +2,14 @@
 type: post
 date: "2017-03-30T00:00:00Z"
 title: "Werken en werven"
-series: "Mijn ondernemerschap"
+series: business
 tags: ["belastingen", "freelance", "Nederland", "Observ", "ondernemerschap", "werk", "Yktoo Solutions"]
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/v95wud5j9h2w2271.png"
 aliases:
     - /nl/blog/post/318
 ---
 
-Deze post is de volgende in de {{< a "/series/mijn-ondernemerschap" "reeks" >}} over mijn uitdagende maar lonende ondernemerslot. In deze publicatie wil ik mijn ervaringen en bevindingen, die ik tot nu toe heb gehad, met jullie delen.
+Deze post is de volgende in de {{< a "/series/business" "reeks" >}} over mijn uitdagende maar lonende ondernemerslot. In deze publicatie wil ik mijn ervaringen en bevindingen, die ik tot nu toe heb gehad, met jullie delen.
 
 De eerste vraag die elke zzp'er krijgt is: hoe en waar moet hij naar een opdracht zoeken?
 

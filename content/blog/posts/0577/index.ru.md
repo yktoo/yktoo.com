@@ -7,7 +7,7 @@ tags:
     - голландский язык
     - артикль
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/c43je2m8dr0qe4pqer3x.png"
-series: Учим нидерландский
+series: learn-dutch
 ---
 
 Одна из сложностей голландского языка — это разделение существительных на два грамматических рода:

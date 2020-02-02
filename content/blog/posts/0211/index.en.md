@@ -2,7 +2,7 @@
 type: post
 date: "2014-01-12T00:00:00Z"
 title: "Part 3. City"
-series: "Egypt. Hurghada"
+series: egypt-hurghada-2013
 tags: ["Egypt", "funny", "Hurghada", "transport", "travel"]
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/hihf5m324kx92074.jpg"
 places:

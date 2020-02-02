@@ -8,7 +8,7 @@ tags:
     - годовщина
 image: "https://yktoo.solutions/blog/2019/10/01-yktoo-solutions-is-three/ys-three-years.jpg"
 imageCredit: "Фото: Annie Spratt."
-series: Доля предпринимательская
+series: business
 ---
 
 Ровно три года назад, **1 октября 2016** года была {{< a "0311" "зарегистрирована" >}} компания {{< a "https://yktoo.solutions/" "Yktoo Solutions" >}}.

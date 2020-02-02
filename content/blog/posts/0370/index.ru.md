@@ -14,7 +14,7 @@ tags:
     - GDPR
     - законодательство
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/tqs476ottiit1062.jpg"
-series: "Доля предпринимательская"
+series: business
 ---
 
 Каждое юридическое лицо в Нидерландах вскоре после регистрации получает от местной налоговой специальный идентификационный номер, называемый {{< a "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/btw/administratie_bijhouden/btw_nummers_controleren/uw_btw_nummer" "btw-nummer" >}} ({{< fl "btw" >}} — это голландский вариант {{< wiki "Налог_на_добавленную_стоимость" "ru" "НДС" >}}).

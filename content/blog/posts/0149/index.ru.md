@@ -2,7 +2,7 @@
 type: post
 date: "2012-04-25T00:00:00Z"
 title: "Часть 2. Пуэрто-Рико и Пуэрто-де-Моган"
-series: "Гран-Канария"
+series: gran-canaria-2012
 tags: ["горы", "Гран-Канария", "Испания", "Канарские острова", "остров", "путешествия", "Пуэрто-де-Моган", "Пуэрто-Рико"]
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/okag6e7g79m30434.jpg"
 places:

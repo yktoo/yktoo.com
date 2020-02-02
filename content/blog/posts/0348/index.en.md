@@ -2,7 +2,7 @@
 type: post
 date: "2019-07-21T00:00:00Z"
 title: "2.2.2"
-series: "Sound Switcher Indicator"
+series: sound-switcher-indicator
 tags: ["indicator", "software", "Sound Switcher Indicator", "Ubuntu"]
 image: ssi-icon.png
 software: sound-switcher-indicator

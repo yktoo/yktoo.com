@@ -2,7 +2,7 @@
 type: post
 date: "2012-10-13T00:00:00Z"
 title: "Часть 4. Парк Гуэля"
-series: "Барселона"
+series: barcelona-2012
 tags: ["Барселона", "Гауди", "Испания", "путешествия"]
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/5uczv0her42c2435.jpg"
 places:

@@ -9,7 +9,7 @@ tags:
     - менталитет
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/125yr7w3h5mi2753.jpg"
 imageCredit: "Фото: ColiN00B."
-series: Разнимся
+series: beg-to-differ
 ---
 
 Ещё немного на тему {{< a "0387" "добычи" >}} электроэнергии.

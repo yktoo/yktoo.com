@@ -2,7 +2,7 @@
 type: post
 date: "2013-06-07T00:00:00Z"
 title: "Часть 1. Песчаные скульптуры"
-series: "Португалия"
+series: portugal-2013
 tags: ["Алгарви", "песок", "Португалия", "путешествия"]
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/jyp7z1x155zg3010.jpg"
 places:

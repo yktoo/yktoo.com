@@ -83,6 +83,8 @@
 - {id: search,            translation: Поиск}
 - {id: seeAlso,           translation: См. также}
 - {id: series,            translation: Подборка}
+- {id: seriesFeatured,    translation: Самое интересное}
+- {id: seriesOther,       translation: Прочие подборки}
 - {id: seriesPlural,      translation: Подборки}
 - {id: share,             translation: Поделиться}
 - {id: showChords,        translation: С аккордами}

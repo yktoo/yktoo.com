@@ -13,7 +13,7 @@ tags:
     - NS Business Card
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/h85x2fqqgel61721.jpg"
 imageCredit: "Photo by NS."
-series: My entrepreneurship
+series: business
 glossary: ns-business-card
 ---
 

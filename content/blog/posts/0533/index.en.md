@@ -10,10 +10,10 @@ tags:
     - math rock
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/msnljgjuks9ei6ctnk2k.jpg"
 imageCredit: "Photo by Vitalism."
-series: Musicellaneous
+series: music
 ---
 
-Friday! This sixth edition of {{< a "/series/musicellaneous" "Musicellaneous" >}} features the model djent band {{< a "http://www.vitalismband.com/" "Vitalism" >}} from Rio de Janeiro (Brazil).
+Friday! This sixth edition of {{< a "/series/music" "Musicellaneous" >}} features the model djent band {{< a "http://www.vitalismband.com/" "Vitalism" >}} from Rio de Janeiro (Brazil).
 
 **Vitalism** was started in **2014** as a solo project of guitarist *Ed Garcia*, who recorded a single called *Gradus*.
 

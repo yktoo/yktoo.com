@@ -9,10 +9,10 @@ tags:
     - Andromida
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/t6n0g3zgttqskxveo5ot.jpg"
 imageCredit: "Фото: Ramon Gutierrez."
-series: Музопад
+series: music
 ---
 
-Пятница! В юбилейном, десятом выпуске {{< a "/series/музопад" "Музопада" >}} ещё один уникальный проект талантливого одиночки, космическо-инструментальный {{< fl "progressive metal" >}} американца Рамона Гутьерреза ({{< fl "Ramon Gutierrez" >}}) под названием {{< a "https://andromidaofficial.com/" "Andromida" >}}.
+Пятница! В юбилейном, десятом выпуске {{< a "/series/music" "Музопада" >}} ещё один уникальный проект талантливого одиночки, космическо-инструментальный {{< fl "progressive metal" >}} американца Рамона Гутьерреза ({{< fl "Ramon Gutierrez" >}}) под названием {{< a "https://andromidaofficial.com/" "Andromida" >}}.
 
 Уникален он тем, что Рамон с самого рождения практически ничего не видит — в возрасте трёх лет у него констатировали настолько плохое зрение, что формально он считается слепым.
 

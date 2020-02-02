@@ -2,7 +2,7 @@
 type: post
 date: "2014-01-05T00:00:00Z"
 title: "Part 2. Desert"
-series: "Egypt. Hurghada"
+series: egypt-hurghada-2013
 tags: ["belly dance", "desert", "Egypt", "Hurghada", "quad bikes", "sand", "travel"]
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/w9bqo3mvfb0r2003.jpg"
 places:

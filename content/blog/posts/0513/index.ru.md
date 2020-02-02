@@ -15,10 +15,10 @@ tags:
     - Anund Vikingstad
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/niquh71v785d60csoxj1.jpg"
 imageCredit: "Фото: Yao-Ting Lee/Instagram."
-series: Музопад
+series: music
 ---
 
-И вновь пятница, время для экскурсии в область {{< a "/series/музопад" "непознанной музыки" >}}!
+И вновь пятница, время для экскурсии в область {{< a "/series/music" "непознанной музыки" >}}!
 
 Сегодня непознанное представляет проект {{< a "https://haamoja.bandcamp.com/" "Haamoja" >}} из Тайваня, играющий в жанре {{< fl "djent/jazz/fusion" >}}.
 

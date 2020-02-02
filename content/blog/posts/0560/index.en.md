@@ -9,10 +9,10 @@ tags:
     - progressive metal
     - math rock
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/ulkscyet6aiopzcfm1rw.jpg"
-series: Musicellaneous
+series: music
 ---
 
-Friday is always imminent! For this eighth edition of {{< a "/series/musicellaneous" "Musicellaneous" >}} I had to dig a wee bit deeper this time. So I've dug out one of the most mysterious characters of the instrumental prog who is hiding behind the {{< a "https://grumusic.bandcamp.com/" "Gru" >}} monicker.
+Friday is always imminent! For this eighth edition of {{< a "/series/music" "Musicellaneous" >}} I had to dig a wee bit deeper this time. So I've dug out one of the most mysterious characters of the instrumental prog who is hiding behind the {{< a "https://grumusic.bandcamp.com/" "Gru" >}} monicker.
 
 And I do hope it isn't related to {{< wiki "GRU" >}} whatsoever.
 

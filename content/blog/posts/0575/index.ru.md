@@ -8,7 +8,7 @@ tags:
     - выражения
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/knowledge-is-power.jpg"
 imageCredit: "Фото: Gerd Altmann/Pixabay."
-series: Нидерландские выражения
+series: dutch-expressions
 ---
 
 Очень распространённое выражение в нидерландском языке:

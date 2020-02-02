@@ -10,12 +10,12 @@ tags:
     - math rock
 image: "https://res.cloudinary.com/yktoo/image/upload/v1577466064/blog/hp2rnigmfsbvljfc4zxn.jpg"
 imageCredit: "Photo by The Helix Nebula."
-series: Musicellaneous
+series: music
 ---
 
 It's Friday again, the time when music stars are falling from the sky, or now and then a whole nebula!
 
-In this fifth edition of {{< a "/series/musicellaneous" "Musicellaneous" >}} I'd like to introduce the dear reader to {{< a "https://thehelixnebula.bandcamp.com/" "The Helix Nebula" >}}, Australian wizards of *instrumental prog metal*, which sometimes diverges into *djent* and *math rock*.
+In this fifth edition of {{< a "/series/music" "Musicellaneous" >}} I'd like to introduce the dear reader to {{< a "https://thehelixnebula.bandcamp.com/" "The Helix Nebula" >}}, Australian wizards of *instrumental prog metal*, which sometimes diverges into *djent* and *math rock*.
 
 <!--more-->
 

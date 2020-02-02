@@ -15,10 +15,10 @@ tags:
     - Anund Vikingstad
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/niquh71v785d60csoxj1.jpg"
 imageCredit: "Photo: Yao-Ting Lee/Instagram."
-series: Musicellaneous
+series: music
 ---
 
-It's Friday, time to explore the realm of {{< a "/series/musicellaneous" "unfamiliar music" >}} again!
+It's Friday, time to explore the realm of {{< a "/series/music" "unfamiliar music" >}} again!
 
 The unfamiliar is represented today by the {{< a "https://haamoja.bandcamp.com/" "Haamoja" >}} project from Taiwan playing djent/jazz/fusion.
 

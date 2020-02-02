@@ -7,7 +7,7 @@ tags:
     - Dutch language
     - article
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/c43je2m8dr0qe4pqer3x.png"
-series: Learn Dutch
+series: learn-dutch
 ---
 
 One of the tricky things in Dutch is the mapping of a noun to one of the two grammatical genders:

@@ -83,6 +83,8 @@
 - {id: search,            translation: Zoeken}
 - {id: seeAlso,           translation: Zie ook}
 - {id: series,            translation: Serie}
+- {id: seriesFeatured,    translation: Meest opvallend}
+- {id: seriesOther,       translation: Overig}
 - {id: seriesPlural,      translation: Serie's}
 - {id: share,             translation: Delen}
 - {id: showChords,        translation: Met akkoorden}
