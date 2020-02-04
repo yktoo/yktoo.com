@@ -343,47 +343,47 @@ process-explorer:
 
 sound-switcher-indicator:
     - title:
-          en: 'Sound Switcher Indicator **2.2.2** Debian package'
-          ru: 'Debian-пакет Sound Switcher Indicator **2.2.2**'
-          nl: 'Sound Switcher Indicator **2.2.2** Debian package'
+          en: 'Sound Switcher Indicator **2.3.0** Debian package'
+          ru: 'Debian-пакет Sound Switcher Indicator **2.3.0**'
+          nl: 'Sound Switcher Indicator **2.3.0** Debian package'
       description:
           en: |-
-              A simple sound input/output switcher indicator application for **Ubuntu 18.04+**.
+              A simple sound input/output switcher indicator application for Linux.
 
               Binary `.deb` package.
           ru: |-
-              Простое приложение-индикатор для выбора звукового входа/выхода в **Убунту 18.04 и более поздних**.
+              Приложение-индикатор для выбора звукового входа/выхода в Linux.
 
               Бинарный `.deb`-пакет.
           nl: |-
-              Een eenvoudige geluidsin- en uitgang schakelaar applicatie voor **Ubuntu 18.04+**.
+              Een eenvoudige geluidsin- en uitgang schakelaar applicatie voor Linux.
 
               Gecompileerd `.deb`-pakket.
       detailUrl: 'https://github.com/yktoo/indicator-sound-switcher/blob/master/debian/changelog'
-      releaseDate: 2019-07-21
+      releaseDate: 2020-02-04
       weight: 100
-      downloadUrl: 'https://launchpad.net/~yktooo/+archive/ubuntu/ppa/+files/indicator-sound-switcher_2.2.2-1_all.deb'
+      downloadUrl: 'https://launchpad.net/~yktooo/+archive/ubuntu/ppa/+files/indicator-sound-switcher_2.3.0-1_all.deb'
       isFeatured: true
 
     - title:
-          en: 'Sound Switcher Indicator **2.2.2** source code'
-          ru: 'Исходные коды Sound Switcher Indicator **2.2.2**'
-          nl: 'Sound Switcher Indicator **2.2.2** broncode'
+          en: 'Sound Switcher Indicator **2.3.0** source code'
+          ru: 'Исходные коды Sound Switcher Indicator **2.3.0**'
+          nl: 'Sound Switcher Indicator **2.3.0** broncode'
       description:
           en: |-
-              A simple sound input/output switcher indicator application for **Ubuntu 18.04+**.
+              A simple sound input/output switcher indicator application for Linux.
 
               Source code in `.tar.gz` archive.
           ru: |-
-              Простое приложение-индикатор для выбора звукового входа/выхода в **Убунту 18.04 и более поздних**.
+              Приложение-индикатор для выбора звукового входа/выхода в Linux.
 
               Исходный код в архиве `.tar.gz`.
           nl: |-
-              A simple sound input/output switcher indicator application for **Ubuntu 18.04+**.
+              A simple sound input/output switcher indicator application for Linux.
 
               Source code in `.tar.gz` archive.
       detailUrl: 'https://github.com/yktoo/indicator-sound-switcher/blob/master/debian/changelog'
-      releaseDate: 2019-07-21
+      releaseDate: 2020-02-04
       weight: 101
-      downloadUrl: 'https://github.com/yktoo/indicator-sound-switcher/archive/v2.2.2.tar.gz'
+      downloadUrl: 'https://github.com/yktoo/indicator-sound-switcher/archive/v2.3.0.tar.gz'
       isFeatured: false

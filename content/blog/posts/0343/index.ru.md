@@ -3,7 +3,13 @@ type: post
 date: "2019-01-13T00:00:00Z"
 title: "2.2.0"
 series: sound-switcher-indicator
-tags: ["Sound Switcher Indicator", "Ubuntu"]
+tags:
+    - Sound Switcher Indicator
+    - Ubuntu
+    - Linux
+    - софт
+    - звук
+    - индикатор
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/9revw9yiv80r1938.png"
 software: sound-switcher-indicator
 aliases:
