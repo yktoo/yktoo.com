@@ -58,4 +58,3 @@ series: music
 |{{< albumimg "hxoahuz6fkavgjq8azhw" "Take What You Want" >}} |2019|Take What You Want (сингл)|
 |{{< albumimg "yl37ovgnr2sgjvlmooyd" "Metalbirb 64" >}}       |2019|Metalbirb 64 (сингл)|
 {{< /table >}}
-
