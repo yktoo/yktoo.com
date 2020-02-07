@@ -34,4 +34,4 @@ Finally replace the lead cap and voila!
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/7v1hinw455vw0464.jpg" "The lead cap." >}}
 
-I've only managed to find a read cable, but it's kind of trendy nowadays.
+I've only managed to find a red cable, but it's kind of trendy nowadays.
