@@ -12,11 +12,13 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/mxs4f7wqppzmexkis7np.
 imageCredit: "Фото: Free-Photos/Pixabay."
 ---
 
-В предстоящее воскресенье **9** февраля до Нидерландов {{< a "https://www.omroepwest.nl/nieuws/3994493/Storm-Ciara-trekt-zondag-over-regio-Windstoten-tot-120-kilometer-per-uur-mogelijk" "доберётся" >}} ураган Сиара ({{< fl "Ciara" >}}).
+> На самом деле ураган называется **Киара**. Когда я писал новость, то посмотрел на перевод имени {{< wiki "Сиара" "ru" "одноимённой певицы" >}} — *ДК*.
+
+В предстоящее воскресенье **9** февраля до Нидерландов {{< a "https://www.omroepwest.nl/nieuws/3994493/Storm-Ciara-trekt-zondag-over-regio-Windstoten-tot-120-kilometer-per-uur-mogelijk" "доберётся" >}} ураган Киара ({{< fl "Ciara" >}}).
 
 Ураган начал своё шествие сегодня от канадского побережья, через Атлантический океан и Шотландию, перемещаяcь под воздействием сильных {{< wiki "Высотное_струйное_течение" "ru" "струйных потоков воздуха" >}}, скорость которых может достигать **400 км/ч**.
 
-Метеорологи {{< a "https://www.weerplaza.nl/weerinhetnieuws/weekend:-zondag-ronduit-onstuimig/5921/" "ожидают" >}}, что Сиара доберётся до Нидерландов в воскресенье днём.
+Метеорологи {{< a "https://www.weerplaza.nl/weerinhetnieuws/weekend:-zondag-ronduit-onstuimig/5921/" "ожидают" >}}, что Киара доберётся до Нидерландов в воскресенье днём.
 
 <!--more-->
 
