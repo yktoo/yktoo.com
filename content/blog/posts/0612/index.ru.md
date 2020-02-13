@@ -3,13 +3,13 @@ type: post
 date: "2020-02-12T09:45:59+01:00"
 title: "Письма-бомбы взорвались в Амстердаме и Керкраде"
 tags:
-       - Нидерланды
-       - Амстердам
-       - Керкраде
-       - полиция
-       - происшествия
-       - почта
-       - ABN Amro
+    - Нидерланды
+    - Амстердам
+    - Керкраде
+    - полиция
+    - происшествия
+    - почта
+    - ABN Amro
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/p4xf6wjr4n1fi9bxgttu.jpg"
 imageCredit: "Кадр из видео NOS."
 ---
