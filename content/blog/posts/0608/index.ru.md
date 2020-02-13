@@ -11,6 +11,7 @@ tags:
     - новости
     - погода
     - ураган
+    - шторм
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/komdfmaz9zwgz2m0kaym.jpg"
 imageCredit: "Фото: @s_b_snark/Twitter."
 ---
