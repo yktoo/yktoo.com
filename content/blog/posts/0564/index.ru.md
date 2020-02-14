@@ -7,8 +7,7 @@ tags:
     - голландский язык
     - анонс
     - пословицы
-image: "https://res.cloudinary.com/yktoo/image/upload/blog/knowledge-is-power.jpg"
-imageCredit: "Фото: Gerd Altmann/Pixabay."
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/kennis-is-macht.jpg"
 series: dutch-expressions
 ---
 
