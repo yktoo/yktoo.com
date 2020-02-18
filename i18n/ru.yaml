@@ -46,7 +46,6 @@
 - {id: license_mpl2,      translation: Mozilla Public License версии 2.0}
 - {id: license_mpl11,     translation: Mozilla Public License версии 1.1}
 - {id: listen,            translation: Слушать}
-- {id: locale,            translation: ru_RU}
 - {id: map,               translation: Карта}
 - {id: messageBody,       translation: Текст письма}
 - {id: messageSubject,    translation: Тема письма}

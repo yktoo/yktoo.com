@@ -46,7 +46,6 @@
 - {id: license_mpl2,      translation: Mozilla Public License Version 2.0}
 - {id: license_mpl11,     translation: Mozilla Public License Version 1.1}
 - {id: listen,            translation: Listen}
-- {id: locale,            translation: en_US}
 - {id: map,               translation: Map}
 - {id: messageBody,       translation: Message body}
 - {id: messageSubject,    translation: Message subject}

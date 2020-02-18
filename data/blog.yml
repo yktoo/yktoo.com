@@ -15,4 +15,7 @@ subscribe:
         - url: 'https://yktoo.tumblr.com/'
           icon: fab fa-tumblr
           title: Tumblr
-    by_email_url: https://feedburner.google.com/fb/a/mailverify?uri=yktoo_%s&loc=%s
+    by_email_url:
+        en: https://mailchi.mp/cd9f5b9bf62a/yktoo-en
+        ru: https://mailchi.mp/742f1258b0f7/yktoo-ru
+        nl: https://mailchi.mp/2ce9da280cfa/yktoo-nl
