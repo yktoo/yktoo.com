@@ -84,6 +84,12 @@
                 {{- end }}
             </section>
 
+            <!-- Subscribe link -->
+            <section class="blog-subscribe-cta">
+                <p>{{ T "blogSubscribeCTA" | markdownify }}</p>
+                <a class="btn btn-primary" href="{{ relLangURL `/blog/subscribe` }}" role="button">{{ T "blogSubscribeTo" }}</a>
+            </section>
+
             <!-- See also -->
             {{- with .Site.RegularPages.Related . }}
             <section class="blog-post-more-to-read" id="blog-post-more-to-read">

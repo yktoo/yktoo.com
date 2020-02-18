@@ -8,6 +8,7 @@
 - {id: blogPostId,        translation: Внутренний идентификатор поста}
 - {id: blogPosts,         translation: Посты в блоге}
 - {id: blogSubscribe,     translation: Подписаться}
+- {id: blogSubscribeCTA,  translation: 'Если вам понравился этот пост, не забудьте подписаться на обновления блога.'}
 - {id: blogSubscribeTo,   translation: Подписаться на обновления}
 - {id: blogSubtitle,      translation: Блог о жизни в Голландии (и многом другом)}
 - {id: blogTitle,         translation: Нидерланды и не только}
@@ -71,6 +72,7 @@
 - {id: posts_nl,          translation: Посты на голландском}
 - {id: posts_ru,          translation: Посты на русском}
 - {id: postsCurLang,      translation: Посты на русском}
+- {id: postsOtherLangs,   translation: Посты на других языках}
 - {id: privacyPolicy,     translation: Политика приватности}
 - {id: radiolaria,        translation: Радиолярия}
 - {id: readInBlog,        translation: Читать в моём блоге »}
@@ -97,8 +99,9 @@
 - {id: statsCurLangPages, translation: Из них на русском}
 - {id: statsCurLangWords, translation: Количество слов на русских страницах}
 - {id: submit,            translation: Отправить}
-- {id: subscribeByEmail,  translation: Подписаться по е-мэйлу}
-- {id: subscribeByRSS,    translation: Формат RSS 2.0}
+- {id: subscribeByEmail,  translation: Подписаться по емэйлу}
+- {id: subscribeByRSS,    translation: Лента в формате RSS}
+- {id: subscribeInFeedly, translation: Подписаться в Feedly}
 - {id: subscribeSocial,   translation: Подписаться в соцсетях}
 - {id: support,           translation: Поддержка}
 - {id: tag,               translation: Тег}

@@ -9,7 +9,7 @@
 <!-- Post announcements -->
 <section id="blog-subscribe-announcements">
     <h2>{{ T "subscribeSocial" }}</h2>
-    <div class="list-group list-group-horizontal-md">
+    <div class="list-group list-group-horizontal-lg">
         {{ range .Site.Data.blog.subscribe.feeds }}
         <a class="list-group-item list-group-item-action list-group-item-iconized" href="{{ .url }}" target="_blank" rel="noopener">
             <div class="list-group-img-32"><i class="{{ .icon }} colourise"></i></div>
@@ -19,16 +19,49 @@
     </div>
 </section>
 
-<!-- Subscribe to posts lists -->
-<section id="blog-subscribe-options">
-    <div class="row">
-        {{ range .AllTranslations }}
-        <div class="col-md-4">
-            <h2>{{ T (print "posts_" .Language) }}</h2>
-            {{ partial "blog/subscribe-list.html" . }}
-        </div>
+<!-- Subscribe to posts lists in current language -->
+<section id="blog-subscribe-options-cur-lang">
+    <h2>{{ T "postsCurLang" }}</h2>
+    <div class="list-group list-group-horizontal-md">
+        <!-- Subscribe by email -->
+        <a class="list-group-item list-group-item-action list-group-item-iconized" href="{{ index .Site.Data.blog.subscribe.by_email_url .Language.Lang }}">
+            <div class="list-group-img-32"><i class="fas fa-envelope colourise"></i></div>
+            <div class="list-group-text"><div class="list-group-heading">{{ T "subscribeByEmail" }}</div></div>
+        </a>
+
+        {{ with (.GetPage "/" ).OutputFormats.Get "rss" }}
+        <!-- Subscribe in Feedly -->
+        <a class="list-group-item list-group-item-action list-group-item-iconized" href="https://feedly.com/i/subscription/feed%2F{{ .Permalink | querify `` | strings.TrimPrefix `=` }}">
+            <div class="list-group-img-32"><img src="/images/icons/feedly-48px.png" alt="Feedly icon"></div>
+            <div class="list-group-text"><div class="list-group-heading">{{ T "subscribeInFeedly" }}</div></div>
+        </a>
+
+        <!-- Subscribe by RSS -->
+        <a class="list-group-item list-group-item-action list-group-item-iconized" href="{{ .Permalink }}">
+            <div class="list-group-img-32"><i class="fas fa-rss-square colourise"></i></div>
+            <div class="list-group-text"><div class="list-group-heading">{{ T "subscribeByRSS" }}</div></div>
+        </a>
         {{ end }}
     </div>
+</section>
+
+<!-- Subscribe to posts lists in other languages -->
+<section id="blog-subscribe-options-other-langs">
+    <h2>{{ T "postsOtherLangs" }}</h2>
+    <ul class="list-unstyled">
+        {{ range .Translations }}
+        <li>
+            <h5>{{ T (print "posts_" .Language) }}</h5>
+            <ul>
+                <li><a href="{{ index .Site.Data.blog.subscribe.by_email_url .Language.Lang }}">{{ T "subscribeByEmail" }}</a></li>
+                {{ with (.GetPage "/" ).OutputFormats.Get "rss" }}
+                <li><a href="https://feedly.com/i/subscription/feed%2F{{ .Permalink | querify `` | strings.TrimPrefix `=` }}">{{ T "subscribeInFeedly" }}</a></li>
+                <li><a href="{{ .Permalink }}">{{ T "subscribeByRSS" }}</a></li>
+                {{ end }}
+            </ul>
+        </li>
+        {{ end }}
+    </ul>
 </section>
 
 {{ end }}

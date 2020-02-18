@@ -8,6 +8,7 @@
 - {id: blogPostId,        translation: Intern post id}
 - {id: blogPosts,         translation: Blogposts}
 - {id: blogSubscribe,     translation: Abonneren}
+- {id: blogSubscribeCTA,  translation: 'Vond je deze post leuk? Je kunt je abonneren op updates van mijn blog.'}
 - {id: blogSubscribeTo,   translation: Abonneer je op updates}
 - {id: blogSubtitle,      translation: Blog over het Nederlandse leven (en veel andere dingen)}
 - {id: blogTitle,         translation: Nederland en verder}
@@ -71,6 +72,7 @@
 - {id: posts_nl,          translation: Posts in het Nederlands}
 - {id: posts_ru,          translation: Posts in het Russisch}
 - {id: postsCurLang,      translation: Posts in het Nederlands}
+- {id: postsOtherLangs,   translation: Posts in andere talen}
 - {id: privacyPolicy,     translation: Privacybeleid}
 - {id: radiolaria,        translation: Radiolaria}
 - {id: readInBlog,        translation: In mijn blog lezen »}
@@ -98,7 +100,8 @@
 - {id: statsCurLangWords, translation: "Aantal woorden op Nederlandstalige pagina's"}
 - {id: submit,            translation: Verzenden}
 - {id: subscribeByEmail,  translation: Abonneren via e-mail}
-- {id: subscribeByRSS,    translation: Nieuwsfeed in RSS 2.0-formaat}
+- {id: subscribeByRSS,    translation: Nieuwsfeed in RSS-formaat}
+- {id: subscribeInFeedly, translation: Abonneren in Feedly}
 - {id: subscribeSocial,   translation: Abonneren in social networks}
 - {id: support,           translation: Ondersteuning}
 - {id: tag,               translation: Tag}

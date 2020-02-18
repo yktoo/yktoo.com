@@ -11,6 +11,7 @@ $primary-light: adjust_color($primary, $saturation: -50%, $lightness: 40%);
 $primary-pale: adjust_color($primary, $saturation: -70%, $lightness: 20%);
 $primary-alt: #fc0; // Second primary brand colour
 $primary-alt-fade: fade_out($primary-alt, 0.87);
+$shaded-bg: #f7f7f7; // Slightly shaded background
 
 // Secondary elements
 $body-color: #666;
@@ -85,7 +86,7 @@ section {
 article {
     .article-sidebar {
         font-size: 90%;
-        background-color: #f8f8f8;
+        background-color: $shaded-bg;
         margin-top: -1rem;
         padding-bottom: 1rem;
 
@@ -382,6 +383,13 @@ pre {
             font-size: 90%;
         }
     }
+}
+.blog-subscribe-cta {
+    background-color: $shaded-bg;
+    border-top: 1px dotted $primary-pale;
+    border-bottom: 1px dotted $primary-pale;
+    padding: 1rem 0;
+    text-align: center;
 }
 .post_none:before, .post_en:before, .post_ru:before, .post_nl:before {
     color: #fff;
