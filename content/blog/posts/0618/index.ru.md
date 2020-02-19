@@ -8,6 +8,7 @@ tags:
     - Лёусден
     - полиция
     - происшествия
+    - новости
     - ING
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/pfltau2l844ggmqc87kt.jpg"
 imageCredit: "Кадр из видео NOS."
