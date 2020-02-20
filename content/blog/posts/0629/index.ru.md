@@ -13,7 +13,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/rdovg92aqiwmlrytllvn.
 imageCredit: "Фото: Windpark Krammer."
 ---
 
-{{< fl "Omroep Zeeland" >}} рассказывает о ветроэлектростанции {{< a "https://www.windparkkrammer.nl/" "Krammer" >}}, расположенной в провинции Зеландия на юго-западе Нидерландов.
+{{< fl "Omroep Zeeland" >}} {{< a "https://www.omroepzeeland.nl/nieuws/117976/Deze-windmolens-stoppen-voor-vogels-maar-dat-kost-wel-meer-dan-een-ton-per-jaar" "рассказывает" >}} о ветроэлектростанции {{< a "https://www.windparkkrammer.nl/" "Krammer" >}}, расположенной в провинции Зеландия на юго-западе Нидерландов.
 
 Она состоит из **34** ветряков и находится неподалёку от трёх участков {{< wiki "Натура_2000" "ru" "Natura 2000" >}}, поэтому при её эксплуатации особое внимание уделяется сохранности природы в этом районе.
 
