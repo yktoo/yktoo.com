@@ -32,6 +32,14 @@ series: dutch-expressions
 
 > {{< fl "**iets** onder de knie hebben" >}}
 
+## Onder de knie zijn
+
+Стоит также упомянуть ещё одно связанное выражение, которое встречается гораздо реже:
+
+> {{< fl "onder de knie zijn" >}}
+
+Буквально переводится оно «быть ниже колена», а означает *средний, посредственный*.
+
 ## Примеры
 
 * {{< fl "Om de nieuwe ijstechnieken snel **onder de knie te krijgen**, haalt China veel kennis uit het buitenland." >}}
