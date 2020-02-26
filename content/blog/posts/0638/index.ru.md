@@ -27,6 +27,8 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/ezmrmtqnbozupd0hgzfv.
 
 Первое слушание по процессу {{< fl "MH17" >}} состоится **9** марта {{< year 2020 "этого" >}} года в особо охраняемом суде в Схипхоле. Повестки обвиняемым были направлены на адреса, известные нидерландской прокуратуре, но о фактическом проживании их по этим адресам ничего не известно.
 
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ezmrmtqnbozupd0hgzfv.jpg" "Монумент памяти жертвам крушения MH17 в Vijfhuizen." >}}
+
 ## Харченко
 
 Изначально против Харченко, единственного из четверых гражданина Украины, было {{< a "https://nos.nl/nieuwsuur/artikel/2324561-op-zoek-naar-leonid-chartsjenko-een-verdachte-in-het-mh17-proces.html" "открыто" >}} дело на его родине, но две недели назад оно было отозвано.
