@@ -8,7 +8,7 @@ tags:
     - djent
     - progressive metal
     - funk
-image: "https://res.cloudinary.com/yktoo/image/upload/blog/wysttbxecrqswh1jpraf.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/album/wysttbxecrqswh1jpraf.jpg"
 series: music
 ---
 

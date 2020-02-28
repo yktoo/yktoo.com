@@ -11,7 +11,7 @@ tags:
     - Joshua De La Victoria
     - Matt Garstka
     - Animals as Leaders
-image: "https://res.cloudinary.com/yktoo/image/upload/blog/vk8aep1d3egnluw7pepd.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/album/vk8aep1d3egnluw7pepd.jpg"
 series: music
 ---
 

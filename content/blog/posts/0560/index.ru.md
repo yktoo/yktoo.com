@@ -8,7 +8,7 @@ tags:
     - djent
     - progressive metal
     - math rock
-image: "https://res.cloudinary.com/yktoo/image/upload/blog/ulkscyet6aiopzcfm1rw.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/album/ulkscyet6aiopzcfm1rw.jpg"
 series: music
 ---
 
