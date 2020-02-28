@@ -82,6 +82,7 @@
 - {id: releaseData,       translation: Информация}
 - {id: releasedOn,        translation: 'Опубликовано:'}
 - {id: search,            translation: Поиск}
+- {id: seeAll,            translation: Показать все »}
 - {id: seeAlso,           translation: См. также}
 - {id: series,            translation: Подборка}
 - {id: seriesFeatured,    translation: Самое интересное}

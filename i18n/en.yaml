@@ -82,6 +82,7 @@
 - {id: releaseData,       translation: Release data}
 - {id: releasedOn,        translation: Released on}
 - {id: search,            translation: Search}
+- {id: seeAll,            translation: See all »}
 - {id: seeAlso,           translation: See also}
 - {id: series,            translation: Series}
 - {id: seriesFeatured,    translation: Featured series}

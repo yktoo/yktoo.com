@@ -82,6 +82,7 @@
 - {id: releaseData,       translation: Gegevens}
 - {id: releasedOn,        translation: Gereleased op}
 - {id: search,            translation: Zoeken}
+- {id: seeAll,            translation: Alles weergeven »}
 - {id: seeAlso,           translation: Zie ook}
 - {id: series,            translation: Serie}
 - {id: seriesFeatured,    translation: Meest opvallend}
