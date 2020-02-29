@@ -169,7 +169,7 @@
                 {{- if .Params.tags }}
                 <section>
                     <h6><i class="fas fa-tag bycon"></i>{{ T "tags" }}</h6>
-                    {{- range $idx, $tag := .Params.tags }}
+                    {{- range $idx, $tag := sort .Params.tags }}
                     {{- if $idx }}, {{ end }}<a href="{{ relref $page (print `/tags/` (urlize .)) }}" rel="tag">{{ . }}</a>
                     {{- end }}
                 </section>
