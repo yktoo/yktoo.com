@@ -31,6 +31,8 @@ imageCredit: "Картинка: iXimus/Pixabay."
 
 У этой женщины есть ребёнок, который посещал детсад {{< fl "CompaNanny Atlas Arena" >}}, и у него обнаруживаются симптомы, похожие на коронавирусные. Детсад немедленно был закрыт, результаты анализа ребёнка ожидаются в течение дня.
 
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/gsukwfncs5gpzlwgtzxg.svg" "Картинка: iXimus/Pixabay." >}}
+
 ## Церкви
 
 Католическая и протестантская церкви также {{< a "https://visie.eo.nl/artikel/2020/02/coronavirus-kunnen-we-nog-heilig-avondmaal-vieren" "принимают" >}} меры в связи с вирусом. И речь здесь, к счастью, не только о молитвах о выздоровлении.
