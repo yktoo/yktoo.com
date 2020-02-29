@@ -2,7 +2,10 @@
 type: post
 date: "2011-03-08T00:00:00Z"
 title: "Международный женский день"
-tags: ["забавное", "Нидерланды", "праздники"]
+tags:
+    - забавное
+    - Нидерланды
+    - праздники
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/2fnx7vvje0if2836.jpg"
 aliases:
     - /ru/blog/post/73

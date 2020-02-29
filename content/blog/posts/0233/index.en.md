@@ -2,7 +2,12 @@
 type: post
 date: "2014-12-01T00:00:00Z"
 title: "Tuning Ubuntu for SSD"
-tags: ["how-to", "Linux", "optimisation", "SSD", "Ubuntu"]
+tags:
+    - how-to
+    - Linux
+    - optimisation
+    - SSD
+    - Ubuntu
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/z6jodg5ukriv0433.png"
 aliases:
     - /en/blog/post/233

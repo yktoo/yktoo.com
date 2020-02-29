@@ -2,7 +2,13 @@
 type: post
 date: "2014-11-28T00:00:00Z"
 title: "Привет из Гейропы"
-tags: ["забавное", "ЛГБТ", "Нидерланды", "полиция", "розовый слон", "СМИ"]
+tags:
+    - забавное
+    - ЛГБТ
+    - Нидерланды
+    - полиция
+    - розовый слон
+    - СМИ
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/z37l5rm7fpl13398.jpg"
 aliases:
     - /ru/blog/post/232

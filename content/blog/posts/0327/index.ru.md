@@ -2,7 +2,13 @@
 type: post
 date: "2017-06-03T00:00:00Z"
 title: "Полумарафон Ijsselstijnloop"
-tags: ["Ijsselsteinloop", "Айсселстайн", "бег", "Нидерланды", "полумарафон", "спорт"]
+tags:
+    - Ijsselsteinloop
+    - Айсселстайн
+    - бег
+    - Нидерланды
+    - полумарафон
+    - спорт
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/elqndv0yg6bk2335.jpg"
 aliases:
     - /ru/blog/post/327

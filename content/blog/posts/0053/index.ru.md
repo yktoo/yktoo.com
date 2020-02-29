@@ -2,7 +2,10 @@
 type: post
 date: "2010-07-03T00:00:00Z"
 title: "И снова про футбол"
-tags: ["Нидерланды", "оранжевая лихорадка", "футбол"]
+tags:
+    - Нидерланды
+    - оранжевая лихорадка
+    - футбол
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/25f8rkldz7ah1430.jpg"
 aliases:
     - /ru/blog/post/53

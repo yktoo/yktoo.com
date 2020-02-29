@@ -2,7 +2,10 @@
 type: post
 date: "2014-11-09T00:00:00Z"
 title: "Блог переезжает"
-tags: ["Blogger", "блог", "веб"]
+tags:
+    - Blogger
+    - блог
+    - веб
 aliases:
     - /ru/blog/post/228
 ---

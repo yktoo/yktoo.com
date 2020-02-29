@@ -2,7 +2,13 @@
 type: post
 date: "2015-08-04T00:00:00Z"
 title: "Почта России, или Добро пожаловать в ад"
-tags: ["маразм", "неприятное", "Почта России", "размышления", "Россия", "Тюмень"]
+tags:
+    - маразм
+    - неприятное
+    - Почта России
+    - размышления
+    - Россия
+    - Тюмень
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/new4gypsrl3s0309.png"
 aliases:
     - /ru/blog/post/257

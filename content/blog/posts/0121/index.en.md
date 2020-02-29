@@ -2,7 +2,11 @@
 type: post
 date: "2011-10-12T00:00:00Z"
 title: "Minority report"
-tags: ["Apple", "Richard Stallman", "RIP", "Steve Jobs"]
+tags:
+    - Apple
+    - Richard Stallman
+    - RIP
+    - Steve Jobs
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/5e9abeijm80y2461.png"
 aliases:
     - /en/blog/post/121

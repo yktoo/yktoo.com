@@ -2,7 +2,11 @@
 type: post
 date: "2013-01-31T00:00:00Z"
 title: "Liberated from property"
-tags: ["crime", "frustrating", "Netherlands", "Utrecht"]
+tags:
+    - crime
+    - frustrating
+    - Netherlands
+    - Utrecht
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/8qfyhujyprxe0355.jpg"
 places:
     - place0016

@@ -2,7 +2,12 @@
 type: post
 date: "2013-05-24T00:00:00Z"
 title: "Flower parade"
-tags: ["beautiful", "bloemencorso", "flower parade", "flowers", "Keukenhof"]
+tags:
+    - beautiful
+    - bloemencorso
+    - flower parade
+    - flowers
+    - Keukenhof
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/cutjy5nqcdox2191.jpg"
 places:
     - place0009

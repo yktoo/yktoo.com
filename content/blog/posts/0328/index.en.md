@@ -2,7 +2,14 @@
 type: post
 date: "2017-06-06T00:00:00Z"
 title: "Riverside at De Boerderij"
-tags: ["De Boerderij", "music", "Netherlands", "progressive metal", "progressive rock", "Riverside", "Zoetermeer"]
+tags:
+    - De Boerderij
+    - music
+    - Netherlands
+    - progressive metal
+    - progressive rock
+    - Riverside
+    - Zoetermeer
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/rspd2dec1ahh1980.jpg"
 places:
     - place0079

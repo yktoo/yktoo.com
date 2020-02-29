@@ -2,7 +2,10 @@
 type: post
 date: "2008-04-12T00:00:00Z"
 title: "Велосипеды"
-tags: ["Амстердам", "велики", "Нидерланды"]
+tags:
+    - Амстердам
+    - велики
+    - Нидерланды
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/g8isp5w2b8ee2661.jpg"
 places:
     - place0169

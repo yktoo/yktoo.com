@@ -2,7 +2,15 @@
 type: post
 date: "2016-06-12T00:00:00Z"
 title: "Ambient backlighting for Samsung LED TV"
-tags: ["DIY", "gadgets", "geek porn", "hardware", "IKEA", "light", "Samsung", "TV"]
+tags:
+    - DIY
+    - gadgets
+    - geek porn
+    - hardware
+    - IKEA
+    - light
+    - Samsung
+    - TV
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/ldqo8766zpn30918.jpg"
 aliases:
     - /en/blog/post/280

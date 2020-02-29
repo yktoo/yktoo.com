@@ -2,7 +2,13 @@
 type: post
 date: "2015-02-03T00:00:00Z"
 title: "Ghent Light Festival 2015"
-tags: ["beautiful", "Belgium", "Ghent", "Ghent Light Festival", "light", "night"]
+tags:
+    - beautiful
+    - Belgium
+    - Ghent
+    - Ghent Light Festival
+    - light
+    - night
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/79bq7anrf8fb0881.jpg"
 places:
     - place0227

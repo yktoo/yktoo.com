@@ -2,7 +2,11 @@
 type: post
 date: "2019-07-26T00:00:00Z"
 title: "The national temperature record is broken"
-tags: ["heatwave", "record", "temperature", "weather"]
+tags:
+    - heatwave
+    - record
+    - temperature
+    - weather
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/ho1xszpvho3x3128.png"
 aliases:
     - /en/blog/post/349

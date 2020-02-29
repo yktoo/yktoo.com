@@ -2,7 +2,14 @@
 type: post
 date: "2013-01-28T00:00:00Z"
 title: "Bye Beatrix!"
-tags: ["Beatrix", "Drakensteyn", "media", "Netherlands", "queen", "throne", "Willem-Alexander"]
+tags:
+    - Beatrix
+    - Drakensteyn
+    - media
+    - Netherlands
+    - queen
+    - throne
+    - Willem-Alexander
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/bi5kqwnjpk8s1207.jpg"
 aliases:
     - /en/blog/post/176

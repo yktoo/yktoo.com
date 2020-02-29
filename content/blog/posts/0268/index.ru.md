@@ -2,7 +2,12 @@
 type: post
 date: "2016-01-17T00:00:00Z"
 title: "Первый снег!"
-tags: ["зима", "Нидерланды", "погода", "природа", "снег"]
+tags:
+    - зима
+    - Нидерланды
+    - погода
+    - природа
+    - снег
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/soa53y4plkva0834.jpg"
 aliases:
     - /ru/blog/post/268

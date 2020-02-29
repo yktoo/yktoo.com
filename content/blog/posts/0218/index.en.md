@@ -3,7 +3,19 @@ type: post
 date: "2014-02-08T00:00:00Z"
 title: "1.2.1"
 series: sound-switcher-indicator
-tags: ["indicator", "Precise Pangolin", "PulseAudio", "Python", "Quantal Quetzal", "Raring Ringtail", "Saucy Salamander", "sound", "Sound Switcher Indicator", "Trusty Tahr", "Ubuntu", "Unity"]
+tags:
+    - indicator
+    - Precise Pangolin
+    - PulseAudio
+    - Python
+    - Quantal Quetzal
+    - Raring Ringtail
+    - Saucy Salamander
+    - sound
+    - Sound Switcher Indicator
+    - Trusty Tahr
+    - Ubuntu
+    - Unity
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/64k0x3l8omtq0538.png"
 software: sound-switcher-indicator
 aliases:

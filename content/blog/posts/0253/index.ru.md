@@ -2,7 +2,13 @@
 type: post
 date: "2015-08-02T00:00:00Z"
 title: "Мне бы в небо"
-tags: ["Diamond DA40", "Германия", "Лелистад", "Нидерланды", "Нордхорн", "самолёты"]
+tags:
+    - Diamond DA40
+    - Германия
+    - Лелистад
+    - Нидерланды
+    - Нордхорн
+    - самолёты
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/o2no1wv6ohu60816.jpg"
 aliases:
     - /ru/blog/post/253

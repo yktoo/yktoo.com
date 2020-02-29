@@ -2,7 +2,11 @@
 type: post
 date: "2015-09-09T00:00:00Z"
 title: "Dodgy kiwi"
-tags: ["funny", "garden", "Houten", "Netherlands"]
+tags:
+    - funny
+    - garden
+    - Houten
+    - Netherlands
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/04bvdttax8aq0077.jpg"
 aliases:
     - /en/blog/post/260

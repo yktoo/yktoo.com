@@ -3,7 +3,13 @@ type: post
 date: "2015-05-16T00:00:00Z"
 title: "Part 3. Accessories"
 series: samsung-ue75hu7500
-tags: ["gadgets", "hardware", "review", "Samsung", "Smart TV", "TV"]
+tags:
+    - gadgets
+    - hardware
+    - review
+    - Samsung
+    - Smart TV
+    - TV
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/86mnqmphp1711609.jpg"
 aliases:
     - /en/blog/post/245

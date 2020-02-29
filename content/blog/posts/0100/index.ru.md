@@ -2,7 +2,9 @@
 type: post
 date: "2011-07-09T00:00:00Z"
 title: "Канал крепчал"
-tags: ["интернет", "Нидерланды"]
+tags:
+    - интернет
+    - Нидерланды
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/eohk8bbakv223159.png"
 aliases:
     - /ru/blog/post/100

@@ -2,7 +2,15 @@
 type: post
 date: "2016-11-15T00:00:00Z"
 title: "Shadowrise и Myrath в Patronaat"
-tags: ["Myrath", "Patronaat", "progressive metal", "progressive rock", "Shadowrise", "музыка", "Нидерланды", "Харлем"]
+tags:
+    - Myrath
+    - Patronaat
+    - progressive metal
+    - progressive rock
+    - Shadowrise
+    - музыка
+    - Нидерланды
+    - Харлем
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/enum21v19hs81843.jpg"
 places:
     - place0243

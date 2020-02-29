@@ -2,7 +2,12 @@
 type: post
 date: "2011-12-07T00:00:00Z"
 title: "Джаз: Ben van den Dungen"
-tags: ["Observant", "Амерсфорт", "джаз", "музыка", "Нидерланды"]
+tags:
+    - Observant
+    - Амерсфорт
+    - джаз
+    - музыка
+    - Нидерланды
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/tbx30rg7nzrm1838.jpg"
 places:
     - place0008

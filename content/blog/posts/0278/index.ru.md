@@ -2,7 +2,16 @@
 type: post
 date: "2016-05-07T00:00:00Z"
 title: "InfoPi, или Сам себе Гугл Нау"
-tags: ["GitHub", "InfoPi", "Python", "Raspberry Pi", "гаджеты", "гик-порно", "домашняя автоматизация", "очумелые ручки", "сделай сам"]
+tags:
+    - GitHub
+    - InfoPi
+    - Python
+    - Raspberry Pi
+    - гаджеты
+    - гик-порно
+    - домашняя автоматизация
+    - очумелые ручки
+    - сделай сам
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/mppchq6tdmwm1119.jpg"
 aliases:
     - /ru/blog/post/278

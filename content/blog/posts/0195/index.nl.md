@@ -3,7 +3,11 @@ type: post
 draft: true
 date: "2013-08-14T00:00:00Z"
 title: "Tyumen verhalen"
-tags: ["Aeroflot", "onzin", "Rusland", "Tyumen"]
+tags:
+    - Aeroflot
+    - onzin
+    - Rusland
+    - Tyumen
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/5ubhb4w0wbj31168.jpg"
 places:
     - place0088

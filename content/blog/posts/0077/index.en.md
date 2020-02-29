@@ -2,7 +2,9 @@
 type: post
 date: "2011-03-21T00:00:00Z"
 title: "MMMavrodi"
-tags: ["funny", "money"]
+tags:
+    - funny
+    - money
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/7r9gj2byanw01912.jpg"
 aliases:
     - /en/blog/post/77

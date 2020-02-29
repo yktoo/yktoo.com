@@ -2,7 +2,12 @@
 type: post
 date: "2018-09-12T00:00:00Z"
 title: "My presentation at IDM Europe: 20 September 2018"
-tags: ["Amsterdam", "announcement", "IDM Europe", "Netherlands", "presentation"]
+tags:
+    - Amsterdam
+    - announcement
+    - IDM Europe
+    - Netherlands
+    - presentation
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/ifxy8h5p3u732468.png"
 aliases:
     - /en/blog/post/340

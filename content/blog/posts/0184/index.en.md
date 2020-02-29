@@ -2,7 +2,12 @@
 type: post
 date: "2013-05-17T00:00:00Z"
 title: "The Last Queen's Day"
-tags: ["Amsterdam", "festivities", "Netherlands", "orange fever", "Queen's Day"]
+tags:
+    - Amsterdam
+    - festivities
+    - Netherlands
+    - orange fever
+    - Queen's Day
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/5st6z2kp71p91149.jpg"
 places:
     - place0012

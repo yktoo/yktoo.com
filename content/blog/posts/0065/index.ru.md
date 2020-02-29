@@ -2,7 +2,11 @@
 type: post
 date: "2010-12-10T00:00:00Z"
 title: "Всем щенкам в Нидерландах будут вживлять микрочипы"
-tags: ["Нидерланды", "новости", "СМИ", "технологии"]
+tags:
+    - Нидерланды
+    - новости
+    - СМИ
+    - технологии
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/pgjqkw9uj6pt3449.jpg"
 aliases:
     - /ru/blog/post/65

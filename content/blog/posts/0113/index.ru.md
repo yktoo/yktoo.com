@@ -2,7 +2,11 @@
 type: post
 date: "2011-09-02T00:00:00Z"
 title: "Видимые изменения в Ubuntu 11.10 Oneiric Ocelot"
-tags: ["Linux", "Ubuntu", "Unity", "перевод"]
+tags:
+    - Linux
+    - Ubuntu
+    - Unity
+    - перевод
 image: "https://farm7.static.flickr.com/6073/6081186878_4b73998177_o.jpg"
 aliases:
     - /ru/blog/post/113

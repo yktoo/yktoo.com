@@ -2,7 +2,12 @@
 type: post
 date: "2018-11-12T00:00:00Z"
 title: "That Awkward Moment"
-tags: ["music", "Netherlands", "Riverside", "Tivoli Vredenburg", "Utrecht"]
+tags:
+    - music
+    - Netherlands
+    - Riverside
+    - Tivoli Vredenburg
+    - Utrecht
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/tt5xi22iwoyx2843.png"
 aliases:
     - /en/blog/post/341

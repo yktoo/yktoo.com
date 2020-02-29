@@ -2,7 +2,11 @@
 type: post
 date: "2017-09-10T00:00:00Z"
 title: "The biggest gadget: Toyota Prius PHV"
-tags: ["car", "gadgets", "Plug-In Hybrid", "Toyota Prius"]
+tags:
+    - car
+    - gadgets
+    - Plug-In Hybrid
+    - Toyota Prius
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/3otf4wz2wimb0341.jpg"
 aliases:
     - /en/blog/post/329

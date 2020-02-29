@@ -2,7 +2,11 @@
 type: post
 date: "2008-07-05T00:00:00Z"
 title: "Китайско-шведские голландцы"
-tags: ["Амерсфорт", "еда", "Нидерланды", "рестораны"]
+tags:
+    - Амерсфорт
+    - еда
+    - Нидерланды
+    - рестораны
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/u26vqzng9v5x2310.jpg"
 places:
     - place0159

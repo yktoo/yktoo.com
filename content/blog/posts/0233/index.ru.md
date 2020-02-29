@@ -2,7 +2,12 @@
 type: post
 date: "2014-12-01T00:00:00Z"
 title: "Настройка Ubuntu для работы с SSD"
-tags: ["Linux", "SSD", "Ubuntu", "инструкция", "оптимизация"]
+tags:
+    - Linux
+    - SSD
+    - Ubuntu
+    - инструкция
+    - оптимизация
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/z6jodg5ukriv0433.png"
 aliases:
     - /ru/blog/post/233

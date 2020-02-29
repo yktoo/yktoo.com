@@ -3,7 +3,12 @@ type: post
 date: "2011-07-16T00:00:00Z"
 title: "Часть 1. Ad Libitum"
 series: post-nubila-sol
-tags: ["progressive metal", "инструментал", "моя музыка", "музыка", "Радиолярия"]
+tags:
+    - progressive metal
+    - инструментал
+    - моя музыка
+    - музыка
+    - Радиолярия
 aliases:
     - /ru/blog/post/104
 ---

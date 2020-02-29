@@ -2,7 +2,14 @@
 type: post
 date: "2011-11-20T00:00:00Z"
 title: "Arena в Бурдерай"
-tags: ["Arena", "De Boerderij", "progressive metal", "progressive rock", "Зутермеер", "музыка", "Нидерланды"]
+tags:
+    - Arena
+    - De Boerderij
+    - progressive metal
+    - progressive rock
+    - Зутермеер
+    - музыка
+    - Нидерланды
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/x1f9wnnjoo7x1359.jpg"
 places:
     - place0079

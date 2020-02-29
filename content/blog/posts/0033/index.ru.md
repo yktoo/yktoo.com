@@ -2,7 +2,12 @@
 type: post
 date: "2009-01-11T00:00:00Z"
 title: "Бельгия: Антверпен, Гент, Брюгге"
-tags: ["Антверпен", "Бельгия", "Брюгге", "Гент", "путешествия"]
+tags:
+    - Антверпен
+    - Бельгия
+    - Брюгге
+    - Гент
+    - путешествия
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/wi4s25c2o3z60518.jpg"
 places:
     - place0146

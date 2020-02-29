@@ -2,7 +2,12 @@
 type: post
 date: "2013-01-16T00:00:00Z"
 title: "Фруктовая ёлка"
-tags: ["еда", "Новый Год", "очумелые ручки", "праздники", "сделай сам"]
+tags:
+    - еда
+    - Новый Год
+    - очумелые ручки
+    - праздники
+    - сделай сам
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/xho1bpes5i7b2075.jpg"
 aliases:
     - /ru/blog/post/174

@@ -2,7 +2,14 @@
 type: post
 date: "2018-05-13T00:00:00Z"
 title: "The castlerun, fourth edition"
-tags: ["castle", "De Haar", "De Halve van de Haar", "half marathon", "Netherlands", "running", "sport"]
+tags:
+    - castle
+    - De Haar
+    - De Halve van de Haar
+    - half marathon
+    - Netherlands
+    - running
+    - sport
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/eftkwnhz3i5m1628.jpg"
 aliases:
     - /en/blog/post/335

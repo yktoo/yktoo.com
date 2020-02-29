@@ -2,7 +2,10 @@
 type: post
 date: "2011-01-20T00:00:00Z"
 title: "A hoot of negative"
-tags: ["interesting", "Netherlands", "Russia"]
+tags:
+    - interesting
+    - Netherlands
+    - Russia
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/va0b8m7rcznt1262.png"
 aliases:
     - /en/blog/post/68

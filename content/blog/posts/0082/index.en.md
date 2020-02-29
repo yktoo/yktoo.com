@@ -2,7 +2,12 @@
 type: post
 date: "2011-04-03T00:00:00Z"
 title: "The Right Way"
-tags: ["beautiful", "flowers", "nature", "Netherlands", "spring"]
+tags:
+    - beautiful
+    - flowers
+    - nature
+    - Netherlands
+    - spring
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/dz55whdx2j5n1744.jpg"
 aliases:
     - /en/blog/post/82

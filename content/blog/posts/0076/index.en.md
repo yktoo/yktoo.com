@@ -2,7 +2,11 @@
 type: post
 date: "2011-03-20T00:00:00Z"
 title: "Spring!"
-tags: ["flowers", "nature", "Netherlands", "spring"]
+tags:
+    - flowers
+    - nature
+    - Netherlands
+    - spring
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/60efjan0wr8f1910.jpg"
 places:
     - place0123

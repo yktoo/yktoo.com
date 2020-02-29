@@ -2,7 +2,13 @@
 type: post
 date: "2011-08-25T00:00:00Z"
 title: "Надписывание изображений для Picasa Web Albums"
-tags: ["Gnome", "Google Picasa", "Linux", "Ubuntu", "yktools", "картинки"]
+tags:
+    - Gnome
+    - Google Picasa
+    - Linux
+    - Ubuntu
+    - yktools
+    - картинки
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/fkv6pf3brey13219.jpg"
 software: yktools
 aliases:

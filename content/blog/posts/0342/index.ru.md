@@ -2,7 +2,9 @@
 type: post
 date: "2018-12-31T00:00:00Z"
 title: "Две тысячи восемнадцатый — всё"
-tags: ["2018", "итоги"]
+tags:
+    - 2018
+    - итоги
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/ou4wbjlre2kg1795.png"
 aliases:
     - /ru/blog/post/342

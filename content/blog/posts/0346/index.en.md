@@ -3,7 +3,11 @@ type: post
 date: "2019-07-15T00:00:00Z"
 title: "Meet the all-new Yktoo Solutions website!"
 series: business
-tags: ["announcement", "Hugo", "website", "Yktoo Solutions"]
+tags:
+    - announcement
+    - Hugo
+    - website
+    - Yktoo Solutions
 image: website-main-page.jpg
 fulltextUrl: "https://yktoo.solutions/blog/2019/07/15-meet-the-all-new-yktoo-solutions-website/"
 aliases:

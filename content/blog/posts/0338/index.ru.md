@@ -2,7 +2,12 @@
 type: post
 date: "2018-06-22T00:00:00Z"
 title: "Очумелые ручки: замена дисплея у Huawei Mate 10 Lite"
-tags: ["железо", "мобильный телефон", "очумелые ручки", "ремонт", "сделай сам"]
+tags:
+    - железо
+    - мобильный телефон
+    - очумелые ручки
+    - ремонт
+    - сделай сам
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/229w56ek0ge63498.jpg"
 aliases:
     - /ru/blog/post/338

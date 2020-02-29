@@ -2,7 +2,12 @@
 type: post
 date: "2010-12-12T00:00:00Z"
 title: "Fog in Amersfoort"
-tags: ["Amersfoort", "beautiful", "fog", "nature", "Netherlands"]
+tags:
+    - Amersfoort
+    - beautiful
+    - fog
+    - nature
+    - Netherlands
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/rxgvjvedb90e1654.jpg"
 places:
     - place0087

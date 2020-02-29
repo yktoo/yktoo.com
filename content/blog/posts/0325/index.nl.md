@@ -2,7 +2,11 @@
 type: post
 date: "2017-05-22T00:00:00Z"
 title: "Taalniveau C1 behaald!"
-tags: ["certificaat", "Nederland", "Nederlands", "opleiding"]
+tags:
+    - certificaat
+    - Nederland
+    - Nederlands
+    - opleiding
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/s6gln87u7yhm3357.jpg"
 aliases:
     - /nl/blog/post/325

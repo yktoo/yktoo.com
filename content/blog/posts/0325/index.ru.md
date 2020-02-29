@@ -2,7 +2,11 @@
 type: post
 date: "2017-05-22T00:00:00Z"
 title: "Си-первый пошёл!"
-tags: ["голландский язык", "Нидерланды", "образование", "сертификат"]
+tags:
+    - голландский язык
+    - Нидерланды
+    - образование
+    - сертификат
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/s6gln87u7yhm3357.jpg"
 aliases:
     - /ru/blog/post/325

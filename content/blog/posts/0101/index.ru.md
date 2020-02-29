@@ -2,7 +2,15 @@
 type: post
 date: "2011-07-12T00:00:00Z"
 title: "Anathema в P60"
-tags: ["Anathema", "Kinkobra", "P60", "progressive metal", "progressive rock", "Амстелвейн", "музыка", "Нидерланды"]
+tags:
+    - Anathema
+    - Kinkobra
+    - P60
+    - progressive metal
+    - progressive rock
+    - Амстелвейн
+    - музыка
+    - Нидерланды
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/5ll317trbc081828.jpg"
 places:
     - place0001

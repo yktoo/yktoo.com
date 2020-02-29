@@ -3,7 +3,12 @@ type: post
 date: "2012-10-24T00:00:00Z"
 title: "Часть 5. Инопланетное"
 series: barcelona-2012
-tags: ["Барселона", "интересное", "Испания", "путешествия", "странное"]
+tags:
+    - Барселона
+    - интересное
+    - Испания
+    - путешествия
+    - странное
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/yz131y4bd2yv0567.jpg"
 places:
     - place0025

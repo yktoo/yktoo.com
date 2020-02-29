@@ -2,7 +2,19 @@
 type: post
 date: "2015-11-22T00:00:00Z"
 title: "The monument of Elfstedentocht"
-tags: ["bridge", "Elfstedenmonument", "Elfstedentocht", "Friesland", "ice", "interesting", "Leeuwarden", "Netherlands", "skating", "sport", "water", "Willem-Alexander"]
+tags:
+    - bridge
+    - Elfstedenmonument
+    - Elfstedentocht
+    - Friesland
+    - ice
+    - interesting
+    - Leeuwarden
+    - Netherlands
+    - skating
+    - sport
+    - water
+    - Willem-Alexander
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/smtna04jggvo2104.jpg"
 places:
     - place0228

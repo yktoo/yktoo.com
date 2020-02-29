@@ -2,7 +2,14 @@
 type: post
 date: "2010-11-10T00:00:00Z"
 title: "Подвижные кресла в кинотеатре"
-tags: ["D-Box", "Амерсфорт", "интересное", "кино", "Нидерланды", "новости", "СМИ"]
+tags:
+    - D-Box
+    - Амерсфорт
+    - интересное
+    - кино
+    - Нидерланды
+    - новости
+    - СМИ
 image: "https://img.youtube.com/vi/lJCD1-85Fnk/maxresdefault.jpg"
 places:
     - place0071

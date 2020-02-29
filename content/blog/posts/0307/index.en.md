@@ -2,7 +2,10 @@
 type: post
 date: "2017-02-17T00:00:00Z"
 title: "20 years, and counting"
-tags: ["anniversary", "blog", "employment"]
+tags:
+    - anniversary
+    - blog
+    - employment
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/8qtjm8gvyltq2667.jpg"
 aliases:
     - /en/blog/post/307

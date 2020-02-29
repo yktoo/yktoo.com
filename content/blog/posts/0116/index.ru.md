@@ -2,7 +2,11 @@
 type: post
 date: "2011-09-17T00:00:00Z"
 title: "Достижения беговой науки"
-tags: ["Pellikaan", "бег", "Нидерланды", "спорт"]
+tags:
+    - Pellikaan
+    - бег
+    - Нидерланды
+    - спорт
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/xmsm43q11hze0943.jpg"
 places:
     - place0083

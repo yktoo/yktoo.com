@@ -2,7 +2,16 @@
 type: post
 date: "2016-02-12T00:00:00Z"
 title: "Austria, Sölden, snowboard"
-tags: ["Austria", "Längenfeld", "mountains", "snow", "snowboard", "Sölden", "sport", "travel", "Tyrol"]
+tags:
+    - Austria
+    - Längenfeld
+    - mountains
+    - snow
+    - snowboard
+    - Sölden
+    - sport
+    - travel
+    - Tyrol
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/3sk9zs0ru1wz0465.jpg"
 places:
     - place0235

@@ -2,7 +2,10 @@
 type: post
 date: "2008-07-06T00:00:00Z"
 title: "Заансе Сханс"
-tags: ["Заансе Сханс", "красивое", "Нидерланды"]
+tags:
+    - Заансе Сханс
+    - красивое
+    - Нидерланды
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/twntag7n2bcj0468.jpg"
 places:
     - place0158

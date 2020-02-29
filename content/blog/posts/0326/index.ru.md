@@ -2,7 +2,16 @@
 type: post
 date: "2017-06-03T00:00:00Z"
 title: "Обзор наушников Xiaomi In-Ear Headphones Pro HD"
-tags: ["In-Ear Headphones Pro HD", "Mi", "Xiaomi", "анбоксинг", "гаджеты", "железо", "звук", "наушники", "обзор"]
+tags:
+    - In-Ear Headphones Pro HD
+    - Mi
+    - Xiaomi
+    - анбоксинг
+    - гаджеты
+    - железо
+    - звук
+    - наушники
+    - обзор
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/89594ti5zeur0760.jpg"
 aliases:
     - /ru/blog/post/326

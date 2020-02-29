@@ -2,7 +2,12 @@
 type: post
 date: "2016-01-17T00:00:00Z"
 title: "The first snow!"
-tags: ["nature", "Netherlands", "snow", "weather", "winter"]
+tags:
+    - nature
+    - Netherlands
+    - snow
+    - weather
+    - winter
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/soa53y4plkva0834.jpg"
 aliases:
     - /en/blog/post/268

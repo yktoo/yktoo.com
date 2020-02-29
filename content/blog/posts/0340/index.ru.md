@@ -2,7 +2,12 @@
 type: post
 date: "2018-09-12T00:00:00Z"
 title: "Мой доклад на IDM Europe — 20 сентября 2018"
-tags: ["IDM Europe", "Амстердам", "анонс", "Нидерланды", "презентация"]
+tags:
+    - IDM Europe
+    - Амстердам
+    - анонс
+    - Нидерланды
+    - презентация
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/ifxy8h5p3u732468.png"
 aliases:
     - /ru/blog/post/340

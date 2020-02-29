@@ -2,7 +2,10 @@
 type: post
 date: "2013-01-15T00:00:00Z"
 title: "Приятный Амерсфорт"
-tags: ["Lucas Bolsius", "Амерсфорт", "Нидерланды"]
+tags:
+    - Lucas Bolsius
+    - Амерсфорт
+    - Нидерланды
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/lptrnpdjugnj1865.jpg"
 places:
     - place0019

@@ -2,7 +2,9 @@
 type: post
 date: "2008-04-03T00:00:00Z"
 title: "Вместо предисловия"
-tags: ["блог", "как это начиналось"]
+tags:
+    - блог
+    - как это начиналось
 image: "bye-russia.png"
 aliases:
     - /ru/blog/post/1

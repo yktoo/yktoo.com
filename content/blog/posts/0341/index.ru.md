@@ -2,7 +2,12 @@
 type: post
 date: "2018-11-12T00:00:00Z"
 title: "Неловкое чувство гордости"
-tags: ["Riverside", "Tivoli Vredenburg", "музыка", "Нидерланды", "Утрехт"]
+tags:
+    - Riverside
+    - Tivoli Vredenburg
+    - музыка
+    - Нидерланды
+    - Утрехт
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/tt5xi22iwoyx2843.png"
 aliases:
     - /ru/blog/post/341

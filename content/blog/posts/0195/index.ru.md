@@ -2,7 +2,12 @@
 type: post
 date: "2013-08-14T00:00:00Z"
 title: "Тюменские сюжеты"
-tags: ["Аэрофлот", "маразм", "понты", "Россия", "Тюмень"]
+tags:
+    - Аэрофлот
+    - маразм
+    - понты
+    - Россия
+    - Тюмень
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/5ubhb4w0wbj31168.jpg"
 places:
     - place0088

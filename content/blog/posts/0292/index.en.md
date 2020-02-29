@@ -2,7 +2,16 @@
 type: post
 date: "2016-10-26T00:00:00Z"
 title: "Doshu Moriteru Ueshiba in Brussels"
-tags: ["aikido", "Belgium", "Brussels", "Christian Tissier", "Dany Leclerre", "Doshu", "Moriteru Ueshiba", "Rudik Manukyan", "sport"]
+tags:
+    - aikido
+    - Belgium
+    - Brussels
+    - Christian Tissier
+    - Dany Leclerre
+    - Doshu
+    - Moriteru Ueshiba
+    - Rudik Manukyan
+    - sport
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/6k7b2bsu9mu30248.jpg"
 places:
     - place0242

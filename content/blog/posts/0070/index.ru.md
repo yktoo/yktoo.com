@@ -2,7 +2,10 @@
 type: post
 date: "2011-01-28T00:00:00Z"
 title: "На живца"
-tags: ["велики", "Нидерланды", "преступность"]
+tags:
+    - велики
+    - Нидерланды
+    - преступность
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/bfejkdhwls992186.jpg"
 aliases:
     - /ru/blog/post/70

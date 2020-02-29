@@ -2,7 +2,11 @@
 type: post
 date: "2011-10-09T00:00:00Z"
 title: "iMac: Mac OS X Lion + Ubuntu"
-tags: ["iMac", "Linux", "Mac OS X", "Ubuntu"]
+tags:
+    - iMac
+    - Linux
+    - Mac OS X
+    - Ubuntu
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/swsq5tspffu93558.png"
 aliases:
     - /ru/blog/post/120

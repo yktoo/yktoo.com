@@ -2,7 +2,10 @@
 type: post
 date: "2008-07-01T00:00:00Z"
 title: "Walk the World"
-tags: ["благотворительность", "Нидерланды", "Роттердам"]
+tags:
+    - благотворительность
+    - Нидерланды
+    - Роттердам
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/94ypnflbkn0u1187.jpg"
 places:
     - place0160

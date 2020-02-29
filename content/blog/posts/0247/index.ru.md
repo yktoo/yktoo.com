@@ -3,7 +3,13 @@ type: post
 date: "2015-05-24T00:00:00Z"
 title: "Часть 5. Видео и  аудио, поддержка форматов"
 series: samsung-ue75hu7500
-tags: ["Samsung", "Smart TV", "гаджеты", "железо", "обзор", "телевизоры"]
+tags:
+    - Samsung
+    - Smart TV
+    - гаджеты
+    - железо
+    - обзор
+    - телевизоры
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/rhtzlfix5mvx2539.png"
 aliases:
     - /ru/blog/post/247

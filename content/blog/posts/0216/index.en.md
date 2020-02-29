@@ -2,7 +2,14 @@
 type: post
 date: "2014-01-31T00:00:00Z"
 title: "How to add an external power supply to a USB hub"
-tags: ["Apple", "DIY", "electronics", "gadgets", "hardware", "iMac", "USB"]
+tags:
+    - Apple
+    - DIY
+    - electronics
+    - gadgets
+    - hardware
+    - iMac
+    - USB
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/6u2tbe7u35471499.png"
 aliases:
     - /en/blog/post/216

@@ -2,7 +2,14 @@
 type: post
 date: "2016-11-27T00:00:00Z"
 title: "Самый умный светофор"
-tags: ["Интернет", "Нидерланды", "новости", "светофоры", "СМИ", "транспорт", "Хаутен"]
+tags:
+    - Интернет
+    - Нидерланды
+    - новости
+    - светофоры
+    - СМИ
+    - транспорт
+    - Хаутен
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/kmiiltyoz7zp2777.jpg"
 places:
     - place0245

@@ -2,7 +2,12 @@
 type: post
 date: "2013-06-01T00:00:00Z"
 title: "Tomasa Quartet in De Observant"
-tags: ["Amersfoort", "jazz", "music", "Observant", "Tomasa Quartet"]
+tags:
+    - Amersfoort
+    - jazz
+    - music
+    - Observant
+    - Tomasa Quartet
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/pq681zl1dr1l1463.jpg"
 places:
     - place0008

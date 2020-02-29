@@ -2,7 +2,10 @@
 type: post
 date: "2011-08-10T00:00:00Z"
 title: "Non-European"
-tags: ["Russia", "travel", "Tyumen"]
+tags:
+    - Russia
+    - travel
+    - Tyumen
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/osmc45j8mcf02948.jpg"
 places:
     - place0088

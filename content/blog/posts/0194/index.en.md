@@ -3,7 +3,13 @@ type: post
 date: "2013-06-22T00:00:00Z"
 title: "Part 5. Edge of the world in Sagres"
 series: portugal-2013
-tags: ["Algarve", "ocean", "Portugal", "promontory", "Sagres", "travel"]
+tags:
+    - Algarve
+    - ocean
+    - Portugal
+    - promontory
+    - Sagres
+    - travel
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/g713kzw1ftp02422.jpg"
 places:
     - place0004

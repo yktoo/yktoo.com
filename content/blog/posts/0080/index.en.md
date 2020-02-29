@@ -2,7 +2,12 @@
 type: post
 date: "2011-03-30T00:00:00Z"
 title: "Dutch Tulip Round-Up"
-tags: ["beautiful", "flowers", "nature", "Netherlands", "spring"]
+tags:
+    - beautiful
+    - flowers
+    - nature
+    - Netherlands
+    - spring
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/g0n7xbnlockg3428.jpg"
 aliases:
     - /en/blog/post/80

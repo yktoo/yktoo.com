@@ -2,7 +2,13 @@
 type: post
 date: "2017-05-23T00:00:00Z"
 title: "Архитектура нашего времени: здание со смайлами"
-tags: ["Vathorst", "Амерсфорт", "архитектура", "забавное", "Нидерланды", "смайлик"]
+tags:
+    - Vathorst
+    - Амерсфорт
+    - архитектура
+    - забавное
+    - Нидерланды
+    - смайлик
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/hwar2dw68pb73373.jpg"
 places:
     - place0308

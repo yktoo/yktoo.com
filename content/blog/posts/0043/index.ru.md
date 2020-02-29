@@ -2,7 +2,10 @@
 type: post
 date: "2009-10-10T00:00:00Z"
 title: "Париж"
-tags: ["Париж", "путешествия", "Франция"]
+tags:
+    - Париж
+    - путешествия
+    - Франция
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/f9t6f1s3kk561297.jpg"
 places:
     - place0138

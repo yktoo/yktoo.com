@@ -3,7 +3,12 @@ type: post
 date: "2014-01-18T00:00:00Z"
 title: "Part 2. Night"
 series: belgium-ghent-2014
-tags: ["beautiful", "Belgium", "Ghent", "night", "travel"]
+tags:
+    - beautiful
+    - Belgium
+    - Ghent
+    - night
+    - travel
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/xkpr64x0y6xm0099.jpg"
 places:
     - place0203

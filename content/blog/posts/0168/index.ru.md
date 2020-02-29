@@ -2,7 +2,13 @@
 type: post
 date: "2012-11-17T00:00:00Z"
 title: "Создание XML-файла обоев в Ubuntu/GNOME 3"
-tags: ["Gnome", "Linux", "Ubuntu", "Unity", "yktools", "обои"]
+tags:
+    - Gnome
+    - Linux
+    - Ubuntu
+    - Unity
+    - yktools
+    - обои
 software: yktools
 aliases:
     - /ru/blog/post/168

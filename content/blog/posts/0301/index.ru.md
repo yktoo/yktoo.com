@@ -2,7 +2,15 @@
 type: post
 date: "2016-12-18T00:00:00Z"
 title: "Santa Run Houten"
-tags: ["Rotary International", "бег", "Нидерланды", "праздники", "Рождество", "Санта-Клаус", "спорт", "Хаутен"]
+tags:
+    - Rotary International
+    - бег
+    - Нидерланды
+    - праздники
+    - Рождество
+    - Санта-Клаус
+    - спорт
+    - Хаутен
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/qcvoj4angkpg0782.jpg"
 places:
     - place0270

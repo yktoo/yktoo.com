@@ -2,7 +2,9 @@
 type: post
 date: "2009-10-23T00:00:00Z"
 title: "Священная корова"
-tags: ["авто", "Нидерланды"]
+tags:
+    - авто
+    - Нидерланды
 places:
     - place0137
 aliases:

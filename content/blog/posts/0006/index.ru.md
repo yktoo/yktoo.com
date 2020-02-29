@@ -2,7 +2,9 @@
 type: post
 date: "2008-04-10T00:00:00Z"
 title: "Баарн"
-tags: ["Баарн", "Нидерланды"]
+tags:
+    - Баарн
+    - Нидерланды
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/hl13ooo36dl53390.jpg"
 places:
     - place0170

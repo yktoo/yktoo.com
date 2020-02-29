@@ -2,7 +2,18 @@
 type: post
 date: "2014-11-30T00:00:00Z"
 title: "Replacing HDD with SSD in iMac 2010"
-tags: ["Apple", "DIY", "gadgets", "geek porn", "hardware", "iMac", "Samsung", "Samsung 840 EVO", "SSD", "Trusty Tahr", "Ubuntu"]
+tags:
+    - Apple
+    - DIY
+    - gadgets
+    - geek porn
+    - hardware
+    - iMac
+    - Samsung
+    - Samsung 840 EVO
+    - SSD
+    - Trusty Tahr
+    - Ubuntu
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/kong7rdm7e450507.jpg"
 aliases:
     - /en/blog/post/231

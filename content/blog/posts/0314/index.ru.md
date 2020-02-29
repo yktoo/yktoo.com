@@ -2,7 +2,13 @@
 type: post
 date: "2017-03-11T00:00:00Z"
 title: "Когда Пушной был маленький"
-tags: ["Академгородок", "забавное", "Новосибирск", "Пушной", "Россия", "старьё"]
+tags:
+    - Академгородок
+    - забавное
+    - Новосибирск
+    - Пушной
+    - Россия
+    - старьё
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/o0qwz19x1ewp1389.jpg"
 aliases:
     - /ru/blog/post/314

@@ -2,7 +2,12 @@
 type: post
 date: "2010-12-12T00:00:00Z"
 title: "Туман в Амерсфорте"
-tags: ["Амерсфорт", "красивое", "Нидерланды", "природа", "туман"]
+tags:
+    - Амерсфорт
+    - красивое
+    - Нидерланды
+    - природа
+    - туман
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/rxgvjvedb90e1654.jpg"
 places:
     - place0087

@@ -3,7 +3,14 @@ type: post
 date: "2015-05-14T00:00:00Z"
 title: "Часть 1. Общие данные, распаковка, внешний вид"
 series: samsung-ue75hu7500
-tags: ["Samsung", "Smart TV", "анбоксинг", "гаджеты", "железо", "обзор", "телевизоры"]
+tags:
+    - Samsung
+    - Smart TV
+    - анбоксинг
+    - гаджеты
+    - железо
+    - обзор
+    - телевизоры
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/p2m7bcrlfvpq0811.jpg"
 aliases:
     - /ru/blog/post/243

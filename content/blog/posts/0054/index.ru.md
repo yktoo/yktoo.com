@@ -2,7 +2,12 @@
 type: post
 date: "2010-07-27T00:00:00Z"
 title: "Счастливцы"
-tags: ["Нидерланды", "новости", "Россия", "СМИ", "счастье"]
+tags:
+    - Нидерланды
+    - новости
+    - Россия
+    - СМИ
+    - счастье
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/7t3x9nou1ac13100.png"
 aliases:
     - /ru/blog/post/54

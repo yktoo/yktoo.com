@@ -2,7 +2,10 @@
 type: post
 date: "2011-01-24T00:00:00Z"
 title: "О теракте в Домодедове"
-tags: ["Нидерланды", "новости", "СМИ"]
+tags:
+    - Нидерланды
+    - новости
+    - СМИ
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/w1u3e30kcryj0599.JPG"
 aliases:
     - /ru/blog/post/69

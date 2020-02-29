@@ -2,7 +2,14 @@
 type: post
 date: "2015-09-04T00:00:00Z"
 title: "SAIL Amsterdam — 2015"
-tags: ["SAIL Amsterdam", "Амстердам", "вода", "колесо обозрения", "корабли", "Нидерланды", "яхты"]
+tags:
+    - SAIL Amsterdam
+    - Амстердам
+    - вода
+    - колесо обозрения
+    - корабли
+    - Нидерланды
+    - яхты
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/mdlfkrk2c6ns2848.jpg"
 aliases:
     - /ru/blog/post/259

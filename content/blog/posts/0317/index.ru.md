@@ -2,7 +2,13 @@
 type: post
 date: "2017-03-28T00:00:00Z"
 title: "David Maxim Micic, Disperse, Plini в Patronaat"
-tags: ["David Maxim Micic", "Disperse", "Patronaat", "Plini", "progressive metal", "музыка"]
+tags:
+    - David Maxim Micic
+    - Disperse
+    - Patronaat
+    - Plini
+    - progressive metal
+    - музыка
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/7qvi95mnc52o2819.jpg"
 places:
     - place0243

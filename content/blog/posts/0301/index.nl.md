@@ -2,7 +2,15 @@
 type: post
 date: "2016-12-18T00:00:00Z"
 title: "Santa Run Houten"
-tags: ["feesten", "hardlopen", "Houten", "Kerstmis", "Nederland", "Rotary International", "Santa Claus", "sport"]
+tags:
+    - feesten
+    - hardlopen
+    - Houten
+    - Kerstmis
+    - Nederland
+    - Rotary International
+    - Santa Claus
+    - sport
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/qcvoj4angkpg0782.jpg"
 places:
     - place0270

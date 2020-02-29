@@ -2,7 +2,10 @@
 type: post
 date: "2014-05-24T00:00:00Z"
 title: "Where my foot has trod"
-tags: ["blog", "web", "website"]
+tags:
+    - blog
+    - web
+    - website
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/emyruiomh9sf1183.png"
 aliases:
     - /en/blog/post/220

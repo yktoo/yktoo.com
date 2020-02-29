@@ -2,7 +2,12 @@
 type: post
 date: "2016-02-13T00:00:00Z"
 title: "Тексты и аккорды «Радиолярии»"
-tags: ["веб", "моя музыка", "музыка", "Радиолярия", "сайт"]
+tags:
+    - веб
+    - моя музыка
+    - музыка
+    - Радиолярия
+    - сайт
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/m0hlofsuprnc0117.png"
 aliases:
     - /ru/blog/post/271

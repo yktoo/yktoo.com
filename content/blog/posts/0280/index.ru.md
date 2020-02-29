@@ -2,7 +2,16 @@
 type: post
 date: "2016-06-12T00:00:00Z"
 title: "Моддинг LED-телевизора Samsung: добавляем подсветку"
-tags: ["IKEA", "Samsung", "гаджеты", "гик-порно", "железо", "очумелые ручки", "свет", "сделай сам", "телевизоры"]
+tags:
+    - IKEA
+    - Samsung
+    - гаджеты
+    - гик-порно
+    - железо
+    - очумелые ручки
+    - свет
+    - сделай сам
+    - телевизоры
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/ldqo8766zpn30918.jpg"
 aliases:
     - /ru/blog/post/280

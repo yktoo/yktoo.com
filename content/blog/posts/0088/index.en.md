@@ -3,7 +3,10 @@ type: post
 date: "2011-04-17T02:00:00Z"
 title: "Part 6. Budapest"
 series: vienna-budapest-2011
-tags: ["Budapest", "Hungary", "travel"]
+tags:
+    - Budapest
+    - Hungary
+    - travel
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/x8i2ji1nzo1w1012.jpg"
 aliases:
     - /en/blog/post/88

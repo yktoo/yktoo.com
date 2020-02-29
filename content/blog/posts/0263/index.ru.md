@@ -2,7 +2,12 @@
 type: post
 date: "2015-11-14T00:00:00Z"
 title: "yktoo.com, версия 2.0"
-tags: ["Bootstrap", "Yii", "Yii2", "веб", "сайт"]
+tags:
+    - Bootstrap
+    - Yii
+    - Yii2
+    - веб
+    - сайт
 aliases:
     - /ru/blog/post/263
 ---

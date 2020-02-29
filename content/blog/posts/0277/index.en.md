@@ -2,7 +2,12 @@
 type: post
 date: "2016-05-01T00:00:00Z"
 title: "King's Day 2016"
-tags: ["Amsterdam", "festivities", "King's Day", "Netherlands", "orange fever"]
+tags:
+    - Amsterdam
+    - festivities
+    - King's Day
+    - Netherlands
+    - orange fever
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/t0c1ta9136tn0480.jpg"
 places:
     - place0013

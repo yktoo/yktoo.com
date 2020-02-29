@@ -2,7 +2,12 @@
 type: post
 date: "2008-07-26T00:00:00Z"
 title: "Спартак и К°"
-tags: ["Carré", "балет", "музыка", "Нидерланды", "театр"]
+tags:
+    - Carré
+    - балет
+    - музыка
+    - Нидерланды
+    - театр
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/93a3xjg5tcx42983.jpg"
 places:
     - place0041

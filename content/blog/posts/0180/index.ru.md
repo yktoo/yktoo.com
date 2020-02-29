@@ -2,7 +2,10 @@
 type: post
 date: "2013-05-12T00:00:00Z"
 title: "Мой сайт"
-tags: ["блог", "веб", "сайт"]
+tags:
+    - блог
+    - веб
+    - сайт
 aliases:
     - /ru/blog/post/180
 ---

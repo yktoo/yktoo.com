@@ -3,7 +3,11 @@ type: post
 date: "2013-06-07T00:00:00Z"
 title: "Part 1. Sand sculptures"
 series: portugal-2013
-tags: ["Algarve", "Portugal", "sand", "travel"]
+tags:
+    - Algarve
+    - Portugal
+    - sand
+    - travel
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/jyp7z1x155zg3010.jpg"
 places:
     - place0007

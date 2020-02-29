@@ -2,7 +2,12 @@
 type: post
 date: "2011-11-18T00:00:00Z"
 title: "Эта музыка будет вечной"
-tags: ["Google", "Google Music", "Linux", "Ubuntu", "музыка"]
+tags:
+    - Google
+    - Google Music
+    - Linux
+    - Ubuntu
+    - музыка
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/ljepeem9sx9q3247.png"
 aliases:
     - /ru/blog/post/126

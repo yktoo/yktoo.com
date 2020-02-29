@@ -3,7 +3,10 @@ type: post
 date: "2011-04-21T00:00:00Z"
 title: "Part 9. Budapest. St. Stephen's Basilica"
 series: vienna-budapest-2011
-tags: ["Budapest", "Hungary", "travel"]
+tags:
+    - Budapest
+    - Hungary
+    - travel
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/dcnasut99fek0128.jpg"
 places:
     - place0093

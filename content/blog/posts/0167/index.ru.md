@@ -3,7 +3,11 @@ type: post
 date: "2012-11-17T00:00:00Z"
 title: "Часть 6. Аквариум. Замок Монжуик. Тибидабо. Пляж"
 series: barcelona-2012
-tags: ["Барселона", "интересное", "Испания", "путешествия"]
+tags:
+    - Барселона
+    - интересное
+    - Испания
+    - путешествия
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/9kmfnx6abcsl0194.jpg"
 places:
     - place0021

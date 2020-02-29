@@ -2,7 +2,14 @@
 type: post
 date: "2018-05-13T00:00:00Z"
 title: "Замкозабег, четвёртая редакция"
-tags: ["De Haar", "De Halve van de Haar", "бег", "замок", "Нидерланды", "полумарафон", "спорт"]
+tags:
+    - De Haar
+    - De Halve van de Haar
+    - бег
+    - замок
+    - Нидерланды
+    - полумарафон
+    - спорт
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/eftkwnhz3i5m1628.jpg"
 aliases:
     - /ru/blog/post/335

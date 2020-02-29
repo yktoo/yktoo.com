@@ -2,7 +2,12 @@
 type: post
 date: "2011-12-03T00:00:00Z"
 title: "Johannes Heesters"
-tags: ["Amersfoort", "interesting", "Johannes Heesters", "media", "Netherlands"]
+tags:
+    - Amersfoort
+    - interesting
+    - Johannes Heesters
+    - media
+    - Netherlands
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/raybxus46qbg1787.jpg"
 places:
     - place0076

@@ -2,7 +2,9 @@
 type: post
 date: "2011-08-31T00:00:00Z"
 title: "Свежий взгляд"
-tags: ["медицина", "Нидерланды"]
+tags:
+    - медицина
+    - Нидерланды
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/b91n8b5vvsu11306.jpg"
 places:
     - place0036

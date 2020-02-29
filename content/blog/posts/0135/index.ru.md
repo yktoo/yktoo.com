@@ -2,7 +2,12 @@
 type: post
 date: "2011-12-16T00:00:00Z"
 title: "Интеграция Google Music с Убунту"
-tags: ["Google", "Google Music", "Linux", "Ubuntu", "музыка"]
+tags:
+    - Google
+    - Google Music
+    - Linux
+    - Ubuntu
+    - музыка
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/fqvawschyngs0829.png"
 aliases:
     - /ru/blog/post/135

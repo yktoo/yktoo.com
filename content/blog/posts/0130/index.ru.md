@@ -2,7 +2,11 @@
 type: post
 date: "2011-11-25T00:00:00Z"
 title: "Штрафы на дорогах в 2012"
-tags: ["авто", "Нидерланды", "транспорт", "штрафы"]
+tags:
+    - авто
+    - Нидерланды
+    - транспорт
+    - штрафы
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/at42zqjiftay1230.jpg"
 aliases:
     - /ru/blog/post/130

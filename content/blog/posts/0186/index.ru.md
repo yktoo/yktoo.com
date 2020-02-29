@@ -2,7 +2,12 @@
 type: post
 date: "2013-05-24T00:00:00Z"
 title: "Цветочный парад"
-tags: ["bloemencorso", "Кёукенхоф", "красивое", "цветочный парад", "цветы"]
+tags:
+    - bloemencorso
+    - Кёукенхоф
+    - красивое
+    - цветочный парад
+    - цветы
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/cutjy5nqcdox2191.jpg"
 places:
     - place0009

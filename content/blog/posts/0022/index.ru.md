@@ -2,7 +2,15 @@
 type: post
 date: "2008-07-20T00:00:00Z"
 title: "Iva Nova и Walhalla"
-tags: ["Iva Nova", "OCCII", "progressive metal", "Sun Caged", "Walhalla", "Амстердам", "музыка", "Нидерланды"]
+tags:
+    - Iva Nova
+    - OCCII
+    - progressive metal
+    - Sun Caged
+    - Walhalla
+    - Амстердам
+    - музыка
+    - Нидерланды
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/dee3hc9rzepz0131.jpg"
 places:
     - place0156

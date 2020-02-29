@@ -3,7 +3,12 @@ type: post
 date: "2013-06-16T00:00:00Z"
 title: "Часть 4. Алте"
 series: portugal-2013
-tags: ["Алгарви", "Алте", "красивое", "Португалия", "путешествия"]
+tags:
+    - Алгарви
+    - Алте
+    - красивое
+    - Португалия
+    - путешествия
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/6aqmisr7e1z33579.jpg"
 places:
     - place0005

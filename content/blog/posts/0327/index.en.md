@@ -2,7 +2,13 @@
 type: post
 date: "2017-06-03T00:00:00Z"
 title: "Half marathon: Ijsselstijnloop"
-tags: ["half marathon", "Ijsselstijn", "Ijsselstijnloop", "Netherlands", "running", "sport"]
+tags:
+    - half marathon
+    - Ijsselstijn
+    - Ijsselstijnloop
+    - Netherlands
+    - running
+    - sport
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/elqndv0yg6bk2335.jpg"
 aliases:
     - /en/blog/post/327

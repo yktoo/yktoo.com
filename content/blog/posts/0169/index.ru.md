@@ -2,7 +2,11 @@
 type: post
 date: "2012-11-18T00:00:00Z"
 title: "Мои скрипты на GitHub"
-tags: ["GitHub", "Linux", "Ubuntu", "yktools"]
+tags:
+    - GitHub
+    - Linux
+    - Ubuntu
+    - yktools
 software: yktools
 aliases:
     - /ru/blog/post/169

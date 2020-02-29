@@ -3,7 +3,14 @@ type: post
 date: "2014-01-05T00:00:00Z"
 title: "Часть 2. Пустыня"
 series: egypt-hurghada-2013
-tags: ["Египет", "квадрациклы", "песок", "пустыня", "путешествия", "танец живота", "Хургада"]
+tags:
+    - Египет
+    - квадрациклы
+    - песок
+    - пустыня
+    - путешествия
+    - танец живота
+    - Хургада
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/w9bqo3mvfb0r2003.jpg"
 places:
     - place0189

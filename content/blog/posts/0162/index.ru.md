@@ -3,7 +3,10 @@ type: post
 date: "2012-10-03T00:00:00Z"
 title: "Часть 1. Транспорт"
 series: barcelona-2012
-tags: ["Барселона", "Испания", "путешествия"]
+tags:
+    - Барселона
+    - Испания
+    - путешествия
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/z9e7fl8pr2k50636.jpg"
 places:
     - place0026

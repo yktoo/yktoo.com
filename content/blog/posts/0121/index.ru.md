@@ -2,7 +2,11 @@
 type: post
 date: "2011-10-12T00:00:00Z"
 title: "Особое мнение"
-tags: ["Apple", "некрологи", "Ричард Столлман", "Стив Джобс"]
+tags:
+    - Apple
+    - некрологи
+    - Ричард Столлман
+    - Стив Джобс
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/5e9abeijm80y2461.png"
 aliases:
     - /ru/blog/post/121

@@ -2,7 +2,11 @@
 type: post
 date: "2012-03-01T00:00:00Z"
 title: "Не к ночи будь помянут"
-tags: ["Нидерланды", "политика", "Путин", "Россия"]
+tags:
+    - Нидерланды
+    - политика
+    - Путин
+    - Россия
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/cx74nvw95fa72322.jpg"
 aliases:
     - /ru/blog/post/142

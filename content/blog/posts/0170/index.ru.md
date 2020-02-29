@@ -2,7 +2,15 @@
 type: post
 date: "2012-11-23T00:00:00Z"
 title: "Metal for Mara в P60"
-tags: ["Autumn", "Kingfisher Sky", "P60", "progressive metal", "Sin7sinS", "Stream of Passion", "музыка", "Нидерланды"]
+tags:
+    - Autumn
+    - Kingfisher Sky
+    - P60
+    - progressive metal
+    - Sin7sinS
+    - Stream of Passion
+    - музыка
+    - Нидерланды
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/r30jwqwu3fou1162.jpg"
 places:
     - place0001

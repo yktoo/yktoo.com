@@ -2,7 +2,9 @@
 type: post
 date: "2010-03-25T00:00:00Z"
 title: "Внимательность"
-tags: ["вежливость", "Нидерланды"]
+tags:
+    - вежливость
+    - Нидерланды
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/tqbix8gyq8gd3008.jpg"
 aliases:
     - /ru/blog/post/48

@@ -3,7 +3,17 @@ type: post
 date: "2016-09-25T00:00:00Z"
 title: "2.0.1"
 series: sound-switcher-indicator
-tags: ["Gnome Control Center", "indicator", "PulseAudio", "Python", "Python 3", "sound", "Sound Switcher Indicator", "Ubuntu", "Unity", "Utopic Unicorn"]
+tags:
+    - Gnome Control Center
+    - indicator
+    - PulseAudio
+    - Python
+    - Python 3
+    - sound
+    - Sound Switcher Indicator
+    - Ubuntu
+    - Unity
+    - Utopic Unicorn
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/fea8e5qk2bg91390.png"
 software: sound-switcher-indicator
 aliases:

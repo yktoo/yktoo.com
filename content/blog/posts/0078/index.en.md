@@ -2,7 +2,11 @@
 type: post
 date: "2011-03-23T00:00:00Z"
 title: "Uninstalling Dictators: Amended Version"
-tags: ["banter", "corruption", "funny", "Russia"]
+tags:
+    - banter
+    - corruption
+    - funny
+    - Russia
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/wtblrn7skp810627.png"
 aliases:
     - /en/blog/post/78

@@ -2,7 +2,11 @@
 type: post
 date: "2012-07-20T00:00:00Z"
 title: "Пирамида Аустерлица"
-tags: ["интересное", "Наполеон", "Нидерланды", "Утрехт"]
+tags:
+    - интересное
+    - Наполеон
+    - Нидерланды
+    - Утрехт
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/suiptk1g7z3j1378.png"
 places:
     - place0039

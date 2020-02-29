@@ -2,7 +2,12 @@
 type: post
 date: "2011-11-18T00:00:00Z"
 title: "An ear for music"
-tags: ["Google", "Google Music", "Linux", "music", "Ubuntu"]
+tags:
+    - Google
+    - Google Music
+    - Linux
+    - music
+    - Ubuntu
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/ljepeem9sx9q3247.png"
 aliases:
     - /en/blog/post/126

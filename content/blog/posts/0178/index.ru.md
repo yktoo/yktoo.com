@@ -3,7 +3,17 @@ type: post
 date: "2013-03-03T00:00:00Z"
 title: "Индикатор-переключатель звукового устройства для Убунту"
 series: sound-switcher-indicator
-tags: ["GitHub", "Launchpad", "Linux", "PulseAudio", "Python", "Sound Switcher Indicator", "Ubuntu", "Unity", "звук", "индикатор"]
+tags:
+    - GitHub
+    - Launchpad
+    - Linux
+    - PulseAudio
+    - Python
+    - Sound Switcher Indicator
+    - Ubuntu
+    - Unity
+    - звук
+    - индикатор
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/nxq0nd14z9ut1387.png"
 software: sound-switcher-indicator
 aliases:

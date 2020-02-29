@@ -2,7 +2,11 @@
 type: post
 date: "2016-04-30T00:00:00Z"
 title: "Separate the sheep from the phones"
-tags: ["funny", "gadgets", "Netherlands", "waste"]
+tags:
+    - funny
+    - gadgets
+    - Netherlands
+    - waste
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/4xn0jktq1kam2729.jpg"
 aliases:
     - /en/blog/post/276

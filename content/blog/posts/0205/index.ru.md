@@ -2,7 +2,11 @@
 type: post
 date: "2013-12-09T00:00:00Z"
 title: "Леуварден"
-tags: ["башня", "граффити", "Леуварден", "Нидерланды"]
+tags:
+    - башня
+    - граффити
+    - Леуварден
+    - Нидерланды
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/ttjls4n4qn4x2301.jpg"
 places:
     - place0180

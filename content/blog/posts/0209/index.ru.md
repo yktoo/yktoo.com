@@ -3,7 +3,15 @@ type: post
 date: "2014-01-01T00:00:00Z"
 title: "Часть 1. Море"
 series: egypt-hurghada-2013
-tags: ["Египет", "итоги", "Красное море", "море", "пляж", "путешествия", "сноркелинг", "Хургада"]
+tags:
+    - Египет
+    - итоги
+    - Красное море
+    - море
+    - пляж
+    - путешествия
+    - сноркелинг
+    - Хургада
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/yj1wt7c44si22168.jpg"
 places:
     - place0188

@@ -2,7 +2,10 @@
 type: post
 date: "2008-04-04T00:00:00Z"
 title: "Виза. Москва"
-tags: ["как это начиналось", "Москва", "Россия"]
+tags:
+    - как это начиналось
+    - Москва
+    - Россия
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/mt9rydqj2lm01502.png"
 places:
     - place0173

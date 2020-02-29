@@ -2,7 +2,12 @@
 type: post
 date: "2017-01-07T00:00:00Z"
 title: "Готовь сани летом"
-tags: ["Toyota Prius", "авто", "кувалдометр", "Нидерланды", "Хаутен"]
+tags:
+    - Toyota Prius
+    - авто
+    - кувалдометр
+    - Нидерланды
+    - Хаутен
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/pp9qsj9ha4f60587.jpg"
 aliases:
     - /ru/blog/post/304

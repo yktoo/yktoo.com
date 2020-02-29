@@ -2,7 +2,11 @@
 type: post
 date: "2017-12-31T00:00:00Z"
 title: "Две тысячи семнадцатый — всё"
-tags: ["2017", "Германия", "итоги", "Рес"]
+tags:
+    - 2017
+    - Германия
+    - итоги
+    - Рес
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/w5qsb0j8r5y62599.png"
 aliases:
     - /ru/blog/post/332

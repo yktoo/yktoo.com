@@ -2,7 +2,13 @@
 type: post
 date: "2013-06-05T00:00:00Z"
 title: "Обзор колонок M-Audio Studiophile AV 40"
-tags: ["анбоксинг", "гаджеты", "железо", "звук", "колонки", "обзор"]
+tags:
+    - анбоксинг
+    - гаджеты
+    - железо
+    - звук
+    - колонки
+    - обзор
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/yv8vhr4v0bm90850.jpg"
 aliases:
     - /ru/blog/post/189

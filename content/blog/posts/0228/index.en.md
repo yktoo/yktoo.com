@@ -2,7 +2,10 @@
 type: post
 date: "2014-11-09T00:00:00Z"
 title: "The Blog Has Moved"
-tags: ["blog", "Blogger", "web"]
+tags:
+    - blog
+    - Blogger
+    - web
 aliases:
     - /en/blog/post/228
 ---

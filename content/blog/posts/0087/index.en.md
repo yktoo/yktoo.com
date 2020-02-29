@@ -3,7 +3,14 @@ type: post
 date: "2011-04-17T01:00:00Z"
 title: "Part 5. Train to Budapest"
 series: vienna-budapest-2011
-tags: ["Austria", "Budapest", "Hungary", "trains", "transport", "travel", "Vienna"]
+tags:
+    - Austria
+    - Budapest
+    - Hungary
+    - trains
+    - transport
+    - travel
+    - Vienna
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/s5ktbcz75wib1051.jpg"
 aliases:
     - /en/blog/post/87

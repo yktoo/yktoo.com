@@ -3,7 +3,11 @@ type: post
 date: "2012-10-12T00:00:00Z"
 title: "Часть 3. Саграда Фамилия"
 series: barcelona-2012
-tags: ["Барселона", "Гауди", "Испания", "путешествия"]
+tags:
+    - Барселона
+    - Гауди
+    - Испания
+    - путешествия
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/ug2zo2sqxcbx1364.jpg"
 places:
     - place0033

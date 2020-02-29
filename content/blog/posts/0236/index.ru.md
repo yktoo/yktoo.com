@@ -2,7 +2,12 @@
 type: post
 date: "2015-01-03T00:00:00Z"
 title: "Новый, две тысячи пятнадцатый"
-tags: ["nieuwjaarsduik", "Нидерланды", "праздники", "фейерверки", "Хаутен"]
+tags:
+    - nieuwjaarsduik
+    - Нидерланды
+    - праздники
+    - фейерверки
+    - Хаутен
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/ioiqmkd3p2u71084.jpg"
 aliases:
     - /ru/blog/post/236

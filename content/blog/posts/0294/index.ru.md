@@ -2,7 +2,12 @@
 type: post
 date: "2016-10-30T00:00:00Z"
 title: "Боремся с шумом от импульсного блока питания"
-tags: ["гаджеты", "гик-порно", "железо", "очумелые ручки", "сделай сам"]
+tags:
+    - гаджеты
+    - гик-порно
+    - железо
+    - очумелые ручки
+    - сделай сам
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/tyepttka0h6y3130.jpg"
 aliases:
     - /ru/blog/post/294

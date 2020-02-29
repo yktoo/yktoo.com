@@ -2,7 +2,13 @@
 type: post
 date: "2011-08-21T00:00:00Z"
 title: "Dias Latinos 2011"
-tags: ["Amersfoort", "Dias Latinos", "jazz", "music", "Netherlands", "Tomasa Quartet"]
+tags:
+    - Amersfoort
+    - Dias Latinos
+    - jazz
+    - music
+    - Netherlands
+    - Tomasa Quartet
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/9g05od61ntfc2404.jpg"
 places:
     - place0085

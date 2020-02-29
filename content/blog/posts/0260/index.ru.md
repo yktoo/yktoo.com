@@ -2,7 +2,11 @@
 type: post
 date: "2015-09-09T00:00:00Z"
 title: "Ирония киви"
-tags: ["забавное", "Нидерланды", "сад", "Хаутен"]
+tags:
+    - забавное
+    - Нидерланды
+    - сад
+    - Хаутен
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/04bvdttax8aq0077.jpg"
 aliases:
     - /ru/blog/post/260

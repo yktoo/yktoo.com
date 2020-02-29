@@ -3,7 +3,11 @@ type: post
 date: "2019-07-21T00:00:00Z"
 title: "2.2.2"
 series: sound-switcher-indicator
-tags: ["indicator", "software", "Sound Switcher Indicator", "Ubuntu"]
+tags:
+    - indicator
+    - software
+    - Sound Switcher Indicator
+    - Ubuntu
 image: ssi-icon.png
 software: sound-switcher-indicator
 fulltextUrl: "https://yktoo.solutions/blog/2019/07/21-sound-switcher-indicator-2.2.2/"

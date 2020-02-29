@@ -2,7 +2,12 @@
 type: post
 date: "2011-04-03T00:00:00Z"
 title: "Теперь правильно"
-tags: ["весна", "красивое", "Нидерланды", "природа", "цветы"]
+tags:
+    - весна
+    - красивое
+    - Нидерланды
+    - природа
+    - цветы
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/dz55whdx2j5n1744.jpg"
 aliases:
     - /ru/blog/post/82

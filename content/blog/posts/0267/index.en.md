@@ -2,7 +2,18 @@
 type: post
 date: "2016-01-16T00:00:00Z"
 title: "The Aristocrats at De Boerderij"
-tags: ["Bryan Beller", "De Boerderij", "fusion", "Guthrie Govan", "jazz", "Marco Minnemann", "music", "Netherlands", "progressive metal", "The Aristocrats", "Zoetermeer"]
+tags:
+    - Bryan Beller
+    - De Boerderij
+    - fusion
+    - Guthrie Govan
+    - jazz
+    - Marco Minnemann
+    - music
+    - Netherlands
+    - progressive metal
+    - The Aristocrats
+    - Zoetermeer
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/f01g409t6sq70951.jpg"
 places:
     - place0079

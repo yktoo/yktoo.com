@@ -2,7 +2,10 @@
 type: post
 date: "2016-07-15T00:00:00Z"
 title: "Прикладная гигантомания"
-tags: ["забавное", "Интернет", "посылка"]
+tags:
+    - забавное
+    - Интернет
+    - посылка
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/vigef45co14d2613.jpg"
 aliases:
     - /ru/blog/post/282

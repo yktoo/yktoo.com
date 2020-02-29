@@ -3,7 +3,11 @@ type: post
 date: "2013-06-14T00:00:00Z"
 title: "Part 3. Albufeira"
 series: portugal-2013
-tags: ["Albufeira", "Algarve", "Portugal", "travel"]
+tags:
+    - Albufeira
+    - Algarve
+    - Portugal
+    - travel
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/34k8i4ozysdw2973.jpg"
 places:
     - place0006

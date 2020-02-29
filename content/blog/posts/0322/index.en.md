@@ -3,7 +3,10 @@ type: post
 date: "2017-05-13T00:00:00Z"
 title: "Part 1. Sofia"
 series: bulgaria-2017
-tags: ["Bulgaria", "Sofia", "travel"]
+tags:
+    - Bulgaria
+    - Sofia
+    - travel
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/fd2hz03xmrwe1974.jpg"
 places:
     - place0285

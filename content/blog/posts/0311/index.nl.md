@@ -3,7 +3,14 @@ type: post
 date: "2017-02-21T00:00:00Z"
 title: "De geboorte van Yktoo Solutions"
 series: business
-tags: ["belastingen", "business", "freelance", "Nederland", "ondernemerschap", "werk", "Yktoo Solutions"]
+tags:
+    - belastingen
+    - business
+    - freelance
+    - Nederland
+    - ondernemerschap
+    - werk
+    - Yktoo Solutions
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/71f5vydx1e672802.jpg"
 aliases:
     - /nl/blog/post/311

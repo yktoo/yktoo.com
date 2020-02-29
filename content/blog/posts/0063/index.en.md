@@ -2,7 +2,11 @@
 type: post
 date: "2010-12-05T00:00:00Z"
 title: "The Land of Change"
-tags: ["Amersfoort", "beautiful", "Netherlands", "weather"]
+tags:
+    - Amersfoort
+    - beautiful
+    - Netherlands
+    - weather
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/c8rt0tnh55g30205.jpg"
 places:
     - place0129

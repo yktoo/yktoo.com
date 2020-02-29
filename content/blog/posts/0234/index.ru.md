@@ -2,7 +2,11 @@
 type: post
 date: "2014-12-12T00:00:00Z"
 title: "Охота на дом"
-tags: ["дом", "ипотека", "Нидерланды", "Хаутен"]
+tags:
+    - дом
+    - ипотека
+    - Нидерланды
+    - Хаутен
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/cuu3jcvgaxq11929.jpg"
 aliases:
     - /ru/blog/post/234

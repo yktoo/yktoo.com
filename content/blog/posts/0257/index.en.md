@@ -2,7 +2,12 @@
 type: post
 date: "2015-08-04T00:00:00Z"
 title: "Russian Post, or Welcome to Hell"
-tags: ["frustrating", "reflections", "Russia", "Russian Post", "Tyumen"]
+tags:
+    - frustrating
+    - reflections
+    - Russia
+    - Russian Post
+    - Tyumen
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/new4gypsrl3s0309.png"
 aliases:
     - /en/blog/post/257

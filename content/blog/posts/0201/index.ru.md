@@ -3,7 +3,17 @@ type: post
 date: "2013-11-08T00:00:00Z"
 title: "1.1.1"
 series: sound-switcher-indicator
-tags: ["Gtk3", "PulseAudio", "Python", "Saucy Salamander", "Sound Switcher Indicator", "Ubuntu", "Ubuntu 13.10", "Unity", "звук", "индикатор"]
+tags:
+    - Gtk3
+    - PulseAudio
+    - Python
+    - Saucy Salamander
+    - Sound Switcher Indicator
+    - Ubuntu
+    - Ubuntu 13.10
+    - Unity
+    - звук
+    - индикатор
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/r9hxc85zqw5g0103.jpg"
 software: sound-switcher-indicator
 aliases:

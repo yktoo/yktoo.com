@@ -2,7 +2,12 @@
 type: post
 date: "2015-06-14T00:00:00Z"
 title: "USB testers and charging speed"
-tags: ["charging", "gadgets", "geek porn", "review", "USB"]
+tags:
+    - charging
+    - gadgets
+    - geek porn
+    - review
+    - USB
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/r54xwb1o2p410736.jpg"
 aliases:
     - /en/blog/post/251

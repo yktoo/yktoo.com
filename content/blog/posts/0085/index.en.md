@@ -3,7 +3,10 @@ type: post
 date: "2011-04-15T00:00:00Z"
 title: "Part 3. Vienna. Prater"
 series: vienna-budapest-2011
-tags: ["Austria", "travel", "Vienna"]
+tags:
+    - Austria
+    - travel
+    - Vienna
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/exklni99i86t2228.jpg"
 places:
     - place0111

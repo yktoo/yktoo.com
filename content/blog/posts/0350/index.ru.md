@@ -2,7 +2,15 @@
 type: post
 date: "2019-07-28T00:00:00Z"
 title: "Собственный сервер Commento с Docker Compose"
-tags: ["облако", "Commento", "Disqus", "Docker", "Docker Compose", "Linux", "софт", "разработка"]
+tags:
+    - облако
+    - Commento
+    - Disqus
+    - Docker
+    - Docker Compose
+    - Linux
+    - софт
+    - разработка
 image: commento.png
 aliases:
     - /ru/blog/post/350

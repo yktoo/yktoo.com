@@ -2,7 +2,13 @@
 type: post
 date: "2013-12-08T00:00:00Z"
 title: "Как я стал Бобом"
-tags: ["авто", "Амерсфорт", "Боб", "Нидерланды", "ночь", "полиция"]
+tags:
+    - авто
+    - Амерсфорт
+    - Боб
+    - Нидерланды
+    - ночь
+    - полиция
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/11hyjqss632o0035.jpg"
 places:
     - place0077

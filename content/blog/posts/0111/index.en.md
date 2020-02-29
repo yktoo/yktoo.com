@@ -2,7 +2,11 @@
 type: post
 date: "2011-08-27T00:00:00Z"
 title: "Interview with Daniël de Jong (Desperados)"
-tags: ["Desperados", "interview", "music", "Netherlands"]
+tags:
+    - Desperados
+    - interview
+    - music
+    - Netherlands
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/0qey63a9mksc0085.jpg"
 places:
     - place0084

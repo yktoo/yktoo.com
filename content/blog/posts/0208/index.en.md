@@ -2,7 +2,12 @@
 type: post
 date: "2013-12-20T00:00:00Z"
 title: "Little blue train"
-tags: ["Amersfoort", "interesting", "Netherlands", "trains", "transport"]
+tags:
+    - Amersfoort
+    - interesting
+    - Netherlands
+    - trains
+    - transport
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/8lce0st9pger0275.jpg"
 places:
     - place0125

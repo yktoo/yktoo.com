@@ -2,7 +2,19 @@
 type: post
 date: "2015-12-29T00:00:00Z"
 title: "Беговая отсебятина"
-tags: ["De Haar", "De Halve van de Haar", "Loop door Houten", "Амерсфорт", "Амерсфортский марафон", "Амстердам-Рейн-канал", "бег", "замок", "итоги", "Нидерланды", "спорт", "Хаутен"]
+tags:
+    - De Haar
+    - De Halve van de Haar
+    - Loop door Houten
+    - Амерсфорт
+    - Амерсфортский марафон
+    - Амстердам-Рейн-канал
+    - бег
+    - замок
+    - итоги
+    - Нидерланды
+    - спорт
+    - Хаутен
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/cf6zk8u6aj541247.png"
 places:
     - place0165

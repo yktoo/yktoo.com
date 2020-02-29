@@ -2,7 +2,14 @@
 type: post
 date: "2017-01-01T00:00:00Z"
 title: "Bevroren schoonheid"
-tags: ["Amsterdam-Rijnkanaal", "Houten", "mooi", "Nederland", "water", "weer", "winter"]
+tags:
+    - Amsterdam-Rijnkanaal
+    - Houten
+    - mooi
+    - Nederland
+    - water
+    - weer
+    - winter
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/dzf7p3q6zia51935.jpg"
 places:
     - place0271

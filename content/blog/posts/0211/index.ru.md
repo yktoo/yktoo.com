@@ -3,7 +3,12 @@ type: post
 date: "2014-01-12T00:00:00Z"
 title: "Часть 3. Город"
 series: egypt-hurghada-2013
-tags: ["Египет", "забавное", "путешествия", "транспорт", "Хургада"]
+tags:
+    - Египет
+    - забавное
+    - путешествия
+    - транспорт
+    - Хургада
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/hihf5m324kx92074.jpg"
 places:
     - place0190

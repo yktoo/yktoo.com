@@ -2,7 +2,11 @@
 type: post
 date: "2015-07-20T00:00:00Z"
 title: "Как стричь по-крупному"
-tags: ["благоустройство", "Нидерланды", "технологии", "Хаутен"]
+tags:
+    - благоустройство
+    - Нидерланды
+    - технологии
+    - Хаутен
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/f8oncwcs5r8w1309.jpg"
 aliases:
     - /ru/blog/post/254

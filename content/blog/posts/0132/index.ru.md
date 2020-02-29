@@ -2,7 +2,12 @@
 type: post
 date: "2011-12-03T00:00:00Z"
 title: "Йоханнес Хестерс"
-tags: ["Амерсфорт", "интересное", "Йоханнес Хестерс", "Нидерланды", "СМИ"]
+tags:
+    - Амерсфорт
+    - интересное
+    - Йоханнес Хестерс
+    - Нидерланды
+    - СМИ
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/raybxus46qbg1787.jpg"
 places:
     - place0076

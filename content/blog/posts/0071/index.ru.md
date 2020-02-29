@@ -2,7 +2,11 @@
 type: post
 date: "2011-02-09T00:00:00Z"
 title: "Покойся с миром, Гэри"
-tags: ["Гэри Мур", "музыка", "некрологи", "Нидерланды"]
+tags:
+    - Гэри Мур
+    - музыка
+    - некрологи
+    - Нидерланды
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Gary-Moore-at-Pite-Havsbad.jpg/463px-Gary-Moore-at-Pite-Havsbad.jpg"
 aliases:
     - /ru/blog/post/71

@@ -2,7 +2,10 @@
 type: post
 date: "2011-04-25T00:00:00Z"
 title: "Summer, I suppose"
-tags: ["holidays", "Netherlands", "weather"]
+tags:
+    - holidays
+    - Netherlands
+    - weather
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/tt6cu4mjxgzg0765.jpg"
 places:
     - place0092

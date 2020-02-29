@@ -2,7 +2,15 @@
 type: post
 date: "2017-02-09T00:00:00Z"
 title: "Wintersport: La Plagne, France"
-tags: ["France", "La Plagne", "mountains", "snow", "snowboard", "sport", "winter", "wintersport"]
+tags:
+    - France
+    - La Plagne
+    - mountains
+    - snow
+    - snowboard
+    - sport
+    - winter
+    - wintersport
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/76ae56xhkvvq2118.jpg"
 places:
     - place0277

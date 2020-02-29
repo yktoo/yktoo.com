@@ -2,7 +2,12 @@
 type: post
 date: "2013-01-11T00:00:00Z"
 title: "How to make a ham holder"
-tags: ["DIY", "ham holder", "IKEA", "jamon", "jamonera"]
+tags:
+    - DIY
+    - ham holder
+    - IKEA
+    - jamon
+    - jamonera
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/mpqjmsqdjwkt1692.jpg"
 aliases:
     - /en/blog/post/172

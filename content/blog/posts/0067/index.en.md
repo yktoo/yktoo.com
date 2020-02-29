@@ -2,7 +2,13 @@
 type: post
 date: "2010-12-20T00:00:00Z"
 title: "It Feels Like Winter"
-tags: ["Amersfoort", "beautiful", "nature", "Netherlands", "snow", "winter"]
+tags:
+    - Amersfoort
+    - beautiful
+    - nature
+    - Netherlands
+    - snow
+    - winter
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/sk6xpyzm9qqd2379.jpg"
 places:
     - place0126

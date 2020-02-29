@@ -2,7 +2,11 @@
 type: post
 date: "2011-07-13T00:00:00Z"
 title: "Adieu, Tele2!"
-tags: ["боксинг", "гаджеты", "интернет", "Нидерланды"]
+tags:
+    - боксинг
+    - гаджеты
+    - интернет
+    - Нидерланды
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/iyotgn5t64rb2691.jpg"
 aliases:
     - /ru/blog/post/102

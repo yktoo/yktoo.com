@@ -2,7 +2,20 @@
 type: post
 date: "2016-01-19T00:00:00Z"
 title: "A Winter Evening with Stream of Passion — 2015"
-tags: ["Anneke van Giersbergen", "Dianne van Giersbergen", "Lisette van den Berg", "Marcela Bovio", "Merijn van Haren", "Navarone", "progressive metal", "Stream of Passion", "Tivoli de Helling", "Xandria", "музыка", "Нидерланды", "Утрехт"]
+tags:
+    - Anneke van Giersbergen
+    - Dianne van Giersbergen
+    - Lisette van den Berg
+    - Marcela Bovio
+    - Merijn van Haren
+    - Navarone
+    - progressive metal
+    - Stream of Passion
+    - Tivoli de Helling
+    - Xandria
+    - музыка
+    - Нидерланды
+    - Утрехт
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/8bbm7rd8ejzl0196.jpg"
 aliases:
     - /ru/blog/post/269

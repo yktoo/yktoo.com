@@ -2,7 +2,12 @@
 type: post
 date: "2018-01-03T00:00:00Z"
 title: "Key repeat settings in Ubuntu 17.10 Artful"
-tags: ["Artful Aardvark", "Gnome", "Gnome Control Center", "Ubuntu", "wacky"]
+tags:
+    - Artful Aardvark
+    - Gnome
+    - Gnome Control Center
+    - Ubuntu
+    - wacky
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/gu9yw1wxrl101352.png"
 aliases:
     - /en/blog/post/333

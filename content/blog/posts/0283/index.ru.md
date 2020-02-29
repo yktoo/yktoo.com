@@ -2,7 +2,16 @@
 type: post
 date: "2016-07-17T00:00:00Z"
 title: "Прощальный концерт Sun Caged"
-tags: ["De Bosuil", "Marcel Coenen", "Marcel Coenen  Friends", "Paul Villarreal", "progressive metal", "Sun Caged", "The Barstool Philosophers", "Верт", "музыка"]
+tags:
+    - De Bosuil
+    - Marcel Coenen
+    - Marcel Coenen  Friends
+    - Paul Villarreal
+    - progressive metal
+    - Sun Caged
+    - The Barstool Philosophers
+    - Верт
+    - музыка
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/hflrx598j9ny2018.jpg"
 places:
     - place0241

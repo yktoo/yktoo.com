@@ -2,7 +2,10 @@
 type: post
 date: "2011-10-06T00:00:00Z"
 title: "iSad"
-tags: ["Apple", "некрологи", "Стив Джобс"]
+tags:
+    - Apple
+    - некрологи
+    - Стив Джобс
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/g6oy03i2jcma0980.jpg"
 aliases:
     - /ru/blog/post/119

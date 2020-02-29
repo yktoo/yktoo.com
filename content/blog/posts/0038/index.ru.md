@@ -2,7 +2,10 @@
 type: post
 date: "2009-05-03T00:00:00Z"
 title: "О любительском воздухоплавании"
-tags: ["Амерсфорт", "воздушные шары", "Нидерланды"]
+tags:
+    - Амерсфорт
+    - воздушные шары
+    - Нидерланды
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/249heywjmdfp3475.jpg"
 places:
     - place0142

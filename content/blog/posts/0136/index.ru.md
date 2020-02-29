@@ -2,7 +2,13 @@
 type: post
 date: "2011-12-18T00:00:00Z"
 title: "Pagan's Mind в Melkweg"
-tags: ["Melkweg", "Pagan's Mind", "progressive metal", "Амстердам", "музыка", "Нидерланды"]
+tags:
+    - Melkweg
+    - Pagan's Mind
+    - progressive metal
+    - Амстердам
+    - музыка
+    - Нидерланды
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/s8mfokdxg89r3635.jpg"
 places:
     - place0073

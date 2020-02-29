@@ -2,7 +2,12 @@
 type: post
 date: "2011-10-15T00:00:00Z"
 title: "Storm Alert"
-tags: ["instrumental", "music", "my music", "progressive metal", "Radiolaria"]
+tags:
+    - instrumental
+    - music
+    - my music
+    - progressive metal
+    - Radiolaria
 aliases:
     - /en/blog/post/123
 ---

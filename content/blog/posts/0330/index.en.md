@@ -2,7 +2,13 @@
 type: post
 date: "2017-07-01T00:00:00Z"
 title: "Amersfoort Marathon 2017"
-tags: ["Amersfoort", "Amersfoort Marathon", "half marathon", "Netherlands", "running", "sport"]
+tags:
+    - Amersfoort
+    - Amersfoort Marathon
+    - half marathon
+    - Netherlands
+    - running
+    - sport
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/088ge10jrnaz1903.jpg"
 aliases:
     - /en/blog/post/330

@@ -2,7 +2,15 @@
 type: post
 date: "2014-11-10T00:00:00Z"
 title: "Осень рекордов"
-tags: ["Heidestein", "грибы", "лес", "Нидерланды", "осень", "погода", "природа", "рекорд"]
+tags:
+    - Heidestein
+    - грибы
+    - лес
+    - Нидерланды
+    - осень
+    - погода
+    - природа
+    - рекорд
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/eb3y84qeq3pu2412.jpg"
 places:
     - place0224

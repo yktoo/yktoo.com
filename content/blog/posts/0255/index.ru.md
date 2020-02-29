@@ -2,7 +2,14 @@
 type: post
 date: "2015-07-20T00:00:00Z"
 title: "Лечим скорость чтения Samsung SSD 840 EVO в Linux"
-tags: ["Samsung", "Samsung 840 EVO", "SSD", "Ubuntu", "yktools", "гаджеты", "железо"]
+tags:
+    - Samsung
+    - Samsung 840 EVO
+    - SSD
+    - Ubuntu
+    - yktools
+    - гаджеты
+    - железо
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/vehbela1sh2q2506.jpg"
 software: yktools
 aliases:

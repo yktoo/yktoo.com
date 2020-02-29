@@ -2,7 +2,10 @@
 type: post
 date: "2011-04-30T00:00:00Z"
 title: "Queen's Day 2011"
-tags: ["holidays", "Netherlands", "Queen's Day"]
+tags:
+    - holidays
+    - Netherlands
+    - Queen's Day
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/u88f03gw759u1331.png"
 aliases:
     - /en/blog/post/94

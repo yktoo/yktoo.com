@@ -2,7 +2,10 @@
 type: post
 date: "2013-12-14T00:00:00Z"
 title: "Harlingen"
-tags: ["Harlingen", "haven", "Netherlands"]
+tags:
+    - Harlingen
+    - haven
+    - Netherlands
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/7mw8uo4l73du2513.jpg"
 places:
     - place0186

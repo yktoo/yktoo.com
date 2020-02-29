@@ -2,7 +2,15 @@
 type: post
 date: "2015-07-20T00:00:00Z"
 title: "Рейс MH17: год спустя"
-tags: ["MH17", "неприятное", "Нидерланды", "Путин", "размышления", "Россия", "самолёты", "СМИ"]
+tags:
+    - MH17
+    - неприятное
+    - Нидерланды
+    - Путин
+    - размышления
+    - Россия
+    - самолёты
+    - СМИ
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/rfid00ttgbxi2545.jpg"
 aliases:
     - /ru/blog/post/256

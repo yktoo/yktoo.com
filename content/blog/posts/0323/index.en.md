@@ -3,7 +3,10 @@ type: post
 date: "2017-05-21T00:00:00Z"
 title: "Part 2. Plovdiv"
 series: bulgaria-2017
-tags: ["Bulgaria", "Plovdiv", "travel"]
+tags:
+    - Bulgaria
+    - Plovdiv
+    - travel
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/8v2f3mgd7vel1117.jpg"
 places:
     - place0307

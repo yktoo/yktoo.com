@@ -2,7 +2,10 @@
 type: post
 date: "2016-07-15T00:00:00Z"
 title: "Packaging overdone"
-tags: ["funny", "Internet", "parcel"]
+tags:
+    - funny
+    - Internet
+    - parcel
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/vigef45co14d2613.jpg"
 aliases:
     - /en/blog/post/282

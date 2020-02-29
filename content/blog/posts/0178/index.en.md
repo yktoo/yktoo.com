@@ -3,7 +3,17 @@ type: post
 date: "2013-03-03T00:00:00Z"
 title: "Sound Switcher Indicator for Ubuntu"
 series: sound-switcher-indicator
-tags: ["GitHub", "indicator", "Launchpad", "Linux", "PulseAudio", "Python", "sound", "Sound Switcher Indicator", "Ubuntu", "Unity"]
+tags:
+    - GitHub
+    - indicator
+    - Launchpad
+    - Linux
+    - PulseAudio
+    - Python
+    - sound
+    - Sound Switcher Indicator
+    - Ubuntu
+    - Unity
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/nxq0nd14z9ut1387.png"
 software: sound-switcher-indicator
 aliases:

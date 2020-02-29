@@ -2,7 +2,10 @@
 type: post
 date: "2008-04-11T00:00:00Z"
 title: "Дела дорожные"
-tags: ["авто", "интересное", "Нидерланды"]
+tags:
+    - авто
+    - интересное
+    - Нидерланды
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/2rtsahvgf00n1642.jpg"
 aliases:
     - /ru/blog/post/7

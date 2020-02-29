@@ -2,7 +2,10 @@
 type: post
 date: "2014-05-24T00:00:00Z"
 title: "Где ступала моя нога"
-tags: ["блог", "веб", "сайт"]
+tags:
+    - блог
+    - веб
+    - сайт
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/emyruiomh9sf1183.png"
 aliases:
     - /ru/blog/post/220

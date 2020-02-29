@@ -2,7 +2,10 @@
 type: post
 date: "2016-09-22T00:00:00Z"
 title: "yktoo.com переведён на HTTPS"
-tags: ["HTTPS", "веб", "сайт"]
+tags:
+    - HTTPS
+    - веб
+    - сайт
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/vhvb0hrcfqb30335.png"
 aliases:
     - /ru/blog/post/289

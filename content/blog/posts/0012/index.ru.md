@@ -2,7 +2,10 @@
 type: post
 date: "2008-05-09T00:00:00Z"
 title: "Замок De Haar"
-tags: ["De Haar", "замок", "Нидерланды"]
+tags:
+    - De Haar
+    - замок
+    - Нидерланды
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/4wa3wzmoback0508.jpg"
 places:
     - place0165

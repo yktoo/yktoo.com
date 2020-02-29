@@ -2,7 +2,11 @@
 type: post
 date: "2008-04-27T00:00:00Z"
 title: "Keukenhof"
-tags: ["Кёукенхоф", "красивое", "Нидерланды", "цветы"]
+tags:
+    - Кёукенхоф
+    - красивое
+    - Нидерланды
+    - цветы
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/urdewk9iy28v3542.jpg"
 places:
     - place0168

@@ -2,7 +2,11 @@
 type: post
 date: "2015-09-10T00:00:00Z"
 title: "Из жизни правил"
-tags: ["бюрократия", "Нидерланды", "размышления", "Россия"]
+tags:
+    - бюрократия
+    - Нидерланды
+    - размышления
+    - Россия
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/ke8epyhztejl0064.jpg"
 aliases:
     - /ru/blog/post/261

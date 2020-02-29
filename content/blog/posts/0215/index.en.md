@@ -3,7 +3,13 @@ type: post
 date: "2014-01-20T00:00:00Z"
 title: "Part 4. S.M.A.K."
 series: belgium-ghent-2014
-tags: ["beer", "Belgium", "fine arts", "Ghent", "museum", "travel"]
+tags:
+    - beer
+    - Belgium
+    - fine arts
+    - Ghent
+    - museum
+    - travel
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/49ucmvckll620801.jpg"
 places:
     - place0216

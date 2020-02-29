@@ -2,7 +2,13 @@
 type: post
 date: "2013-12-05T00:00:00Z"
 title: "Autumn and Armillaria Again"
-tags: ["autumn", "Baarn", "forest", "mushrooms", "nature", "Netherlands"]
+tags:
+    - autumn
+    - Baarn
+    - forest
+    - mushrooms
+    - nature
+    - Netherlands
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/g3t2x5c65r5e2783.jpg"
 places:
     - place0178

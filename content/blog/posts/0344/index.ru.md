@@ -2,7 +2,13 @@
 type: post
 date: "2019-01-22T00:00:00Z"
 title: "Что в доменном имени тебе моём"
-tags: ["забавное", "Интернет", "Нидерланды", "поезда", "снег", "транспорт"]
+tags:
+    - забавное
+    - Интернет
+    - Нидерланды
+    - поезда
+    - снег
+    - транспорт
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/d3e1bfedi7fd0513.jpg"
 aliases:
     - /ru/blog/post/344

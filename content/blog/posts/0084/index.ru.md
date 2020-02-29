@@ -3,7 +3,10 @@ type: post
 date: "2011-04-14T01:00:00Z"
 title: "Часть 2. Вена"
 series: vienna-budapest-2011
-tags: ["Австрия", "Вена", "путешествия"]
+tags:
+    - Австрия
+    - Вена
+    - путешествия
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/xc8vl8g6eb580512.jpg"
 places:
     - place0118

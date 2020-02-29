@@ -2,7 +2,11 @@
 type: post
 date: "2016-08-30T00:00:00Z"
 title: "Russische winkelervaringen"
-tags: ["frustrerend", "Rusland", "Sint-Petersburg", "verschillen"]
+tags:
+    - frustrerend
+    - Rusland
+    - Sint-Petersburg
+    - verschillen
 aliases:
     - /nl/blog/post/287
 ---

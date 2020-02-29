@@ -2,7 +2,11 @@
 type: post
 date: "2011-12-04T00:00:00Z"
 title: "О гражданском"
-tags: ["Амстердам", "выборы", "политика", "Россия"]
+tags:
+    - Амстердам
+    - выборы
+    - политика
+    - Россия
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/fdu8fzutx5go3637.jpg"
 places:
     - place0075

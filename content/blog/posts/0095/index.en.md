@@ -2,7 +2,13 @@
 type: post
 date: "2011-06-05T00:00:00Z"
 title: "Neal Morse at De Boerderij"
-tags: ["De Boerderij", "music", "Neal Morse", "Netherlands", "progressive metal", "progressive rock"]
+tags:
+    - De Boerderij
+    - music
+    - Neal Morse
+    - Netherlands
+    - progressive metal
+    - progressive rock
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/ku9s41nymru83493.jpg"
 places:
     - place0079

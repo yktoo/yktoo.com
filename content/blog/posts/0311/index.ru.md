@@ -3,7 +3,14 @@ type: post
 date: "2017-02-21T00:00:00Z"
 title: "Рождение Yktoo Solutions"
 series: business
-tags: ["Yktoo Solutions", "бизнес", "налоги", "Нидерланды", "предпринимательство", "работа", "фриланс"]
+tags:
+    - Yktoo Solutions
+    - бизнес
+    - налоги
+    - Нидерланды
+    - предпринимательство
+    - работа
+    - фриланс
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/71f5vydx1e672802.jpg"
 aliases:
     - /ru/blog/post/311

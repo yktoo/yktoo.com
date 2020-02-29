@@ -2,7 +2,13 @@
 type: post
 date: "2012-11-17T00:00:00Z"
 title: "Ubuntu/GNOME 3 XML wallpaper creation"
-tags: ["Gnome", "Linux", "Ubuntu", "Unity", "wallpaper", "yktools"]
+tags:
+    - Gnome
+    - Linux
+    - Ubuntu
+    - Unity
+    - wallpaper
+    - yktools
 software: yktools
 aliases:
     - /en/blog/post/168

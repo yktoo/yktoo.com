@@ -2,7 +2,11 @@
 type: post
 date: "2012-05-05T00:00:00Z"
 title: "Within Temptation в Carré"
-tags: ["Carré", "progressive metal", "Within Temptation", "музыка"]
+tags:
+    - Carré
+    - progressive metal
+    - Within Temptation
+    - музыка
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/nc2dy21geq820665.jpg"
 places:
     - place0041

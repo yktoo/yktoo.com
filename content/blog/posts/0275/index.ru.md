@@ -2,7 +2,11 @@
 type: post
 date: "2016-04-11T00:00:00Z"
 title: "Небо во мне"
-tags: ["Запрещённая акустика", "музыка", "Радиолярия", "сайт"]
+tags:
+    - Запрещённая акустика
+    - музыка
+    - Радиолярия
+    - сайт
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/y1u9th8ot4n42861.jpg"
 aliases:
     - /ru/blog/post/275

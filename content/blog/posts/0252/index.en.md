@@ -2,7 +2,14 @@
 type: post
 date: "2015-07-11T00:00:00Z"
 title: "Upgrade of Koss PortaPro headphones"
-tags: ["DIY", "gadgets", "geek porn", "hardware", "headphones", "Koss", "sound"]
+tags:
+    - DIY
+    - gadgets
+    - geek porn
+    - hardware
+    - headphones
+    - Koss
+    - sound
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/bb798kpcbati2393.jpg"
 aliases:
     - /en/blog/post/252

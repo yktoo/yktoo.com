@@ -2,7 +2,14 @@
 type: post
 date: "2008-12-12T00:00:00Z"
 title: "Водные развлечения зимой"
-tags: ["Амерсфорт", "бассейн", "вода", "забавное", "зима", "Лёусден", "Нидерланды"]
+tags:
+    - Амерсфорт
+    - бассейн
+    - вода
+    - забавное
+    - зима
+    - Лёусден
+    - Нидерланды
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/bmmlmeiw3v4y3103.jpg"
 places:
     - place0152

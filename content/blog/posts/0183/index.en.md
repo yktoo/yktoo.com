@@ -2,7 +2,13 @@
 type: post
 date: "2013-05-15T00:00:00Z"
 title: "Jazz: Kramer  Shilkloper in Tyumen"
-tags: ["Arkady Shilkloper", "Daniel Kramer", "jazz", "music", "Tyumen", "video"]
+tags:
+    - Arkady Shilkloper
+    - Daniel Kramer
+    - jazz
+    - music
+    - Tyumen
+    - video
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/1dfhait370ll1769.jpg"
 places:
     - place0014

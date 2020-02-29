@@ -2,7 +2,11 @@
 type: post
 date: "2010-12-05T00:00:00Z"
 title: "Голландия — страна контрастов"
-tags: ["Амерсфорт", "красивое", "Нидерланды", "погода"]
+tags:
+    - Амерсфорт
+    - красивое
+    - Нидерланды
+    - погода
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/c8rt0tnh55g30205.jpg"
 places:
     - place0129

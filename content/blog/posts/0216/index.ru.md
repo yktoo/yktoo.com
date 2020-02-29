@@ -2,7 +2,15 @@
 type: post
 date: "2014-01-31T00:00:00Z"
 title: "Подключаем питание к USB-концентратору"
-tags: ["Apple", "iMac", "USB", "гаджеты", "железо", "очумелые ручки", "сделай сам", "электроника"]
+tags:
+    - Apple
+    - iMac
+    - USB
+    - гаджеты
+    - железо
+    - очумелые ручки
+    - сделай сам
+    - электроника
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/6u2tbe7u35471499.png"
 aliases:
     - /ru/blog/post/216

@@ -2,7 +2,12 @@
 type: post
 date: "2013-01-11T00:00:00Z"
 title: "Самодельная подставка для хамона"
-tags: ["IKEA", "очумелые ручки", "сделай сам", "хамон", "хамонера"]
+tags:
+    - IKEA
+    - очумелые ручки
+    - сделай сам
+    - хамон
+    - хамонера
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/mpqjmsqdjwkt1692.jpg"
 aliases:
     - /ru/blog/post/172

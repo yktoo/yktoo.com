@@ -2,7 +2,13 @@
 type: post
 date: "2011-10-14T00:00:00Z"
 title: "Ubuntu/GNOME 3 random wallpaper script"
-tags: ["Gnome", "Linux", "Ubuntu", "Unity", "wallpaper", "yktools"]
+tags:
+    - Gnome
+    - Linux
+    - Ubuntu
+    - Unity
+    - wallpaper
+    - yktools
 software: yktools
 aliases:
     - /en/blog/post/122

@@ -2,7 +2,12 @@
 type: post
 date: "2013-05-22T00:00:00Z"
 title: "Amersfoort Jazz Festival 2013"
-tags: ["Amersfoort", "flamenco", "jazz", "music", "video"]
+tags:
+    - Amersfoort
+    - flamenco
+    - jazz
+    - music
+    - video
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/0o3yv6u8ib7v2787.jpg"
 places:
     - place0010

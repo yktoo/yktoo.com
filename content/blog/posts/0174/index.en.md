@@ -2,7 +2,10 @@
 type: post
 date: "2013-01-16T00:00:00Z"
 title: "A fruit Xmas tree"
-tags: ["DIY", "food", "holidays"]
+tags:
+    - DIY
+    - food
+    - holidays
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/xho1bpes5i7b2075.jpg"
 aliases:
     - /en/blog/post/174

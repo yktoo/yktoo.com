@@ -2,7 +2,17 @@
 type: post
 date: "2012-02-20T00:00:00Z"
 title: "Logitech Wireless Adapter for Bluetooth Review"
-tags: ["audio", "Bluetooth", "gadgets", "hardware", "Logitech", "review", "sound", "Ubuntu", "unboxing", "wireless"]
+tags:
+    - audio
+    - Bluetooth
+    - gadgets
+    - hardware
+    - Logitech
+    - review
+    - sound
+    - Ubuntu
+    - unboxing
+    - wireless
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/julep2izai923151.png"
 aliases:
     - /en/blog/post/141

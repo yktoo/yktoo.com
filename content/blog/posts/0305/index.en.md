@@ -2,7 +2,12 @@
 type: post
 date: "2017-01-17T00:00:00Z"
 title: "Touchpad toggle script for Ubuntu"
-tags: ["GitHub", "touchpad", "Ubuntu", "yktools", "Vim"]
+tags:
+    - GitHub
+    - touchpad
+    - Ubuntu
+    - yktools
+    - Vim
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/9cjzhcfabz7s1898.png"
 software: yktools
 aliases:

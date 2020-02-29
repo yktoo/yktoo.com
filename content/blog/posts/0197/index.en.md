@@ -2,7 +2,13 @@
 type: post
 date: "2013-09-06T00:00:00Z"
 title: "Onze-Lieve-Vrouwetoren in Amersfoort"
-tags: ["Amersfoort", "carillon", "music", "Netherlands", "tower", "video"]
+tags:
+    - Amersfoort
+    - carillon
+    - music
+    - Netherlands
+    - tower
+    - video
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/ql547j1urvpi1600.jpg"
 places:
     - place0003

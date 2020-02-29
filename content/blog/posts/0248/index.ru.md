@@ -3,7 +3,13 @@ type: post
 date: "2015-05-25T00:00:00Z"
 title: "Часть 6. Расположение и выводы"
 series: samsung-ue75hu7500
-tags: ["Samsung", "Smart TV", "гаджеты", "железо", "обзор", "телевизоры"]
+tags:
+    - Samsung
+    - Smart TV
+    - гаджеты
+    - железо
+    - обзор
+    - телевизоры
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/p2m7bcrlfvpq0811.jpg"
 aliases:
     - /ru/blog/post/248

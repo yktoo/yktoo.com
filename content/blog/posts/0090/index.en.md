@@ -3,7 +3,10 @@ type: post
 date: "2011-04-20T01:00:00Z"
 title: "Part 8. Budapest by Day"
 series: vienna-budapest-2011
-tags: ["Budapest", "Hungary", "travel"]
+tags:
+    - Budapest
+    - Hungary
+    - travel
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/w78ab2wwycqx3424.jpg"
 places:
     - place0094

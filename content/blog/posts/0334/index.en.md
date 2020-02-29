@@ -2,7 +2,11 @@
 type: post
 date: "2018-04-03T00:00:00Z"
 title: "Anniversary: ten years in the Netherlands"
-tags: ["anniversary", "Netherlands", "reflections", "upshot"]
+tags:
+    - anniversary
+    - Netherlands
+    - reflections
+    - upshot
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/yfaj5f95f50d3310.jpg"
 aliases:
     - /en/blog/post/334

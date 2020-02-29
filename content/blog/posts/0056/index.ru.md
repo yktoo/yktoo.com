@@ -2,7 +2,10 @@
 type: post
 date: "2010-08-20T00:00:00Z"
 title: "Нежная забота о населении"
-tags: ["интересное", "Нидерланды", "Схипхол"]
+tags:
+    - интересное
+    - Нидерланды
+    - Схипхол
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/vmm5xm1zanon1008.jpg"
 places:
     - place0120

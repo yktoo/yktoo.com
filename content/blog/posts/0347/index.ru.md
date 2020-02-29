@@ -2,7 +2,12 @@
 type: post
 date: "2019-07-19T00:00:00Z"
 title: "Как работать с проектами Git, если их много"
-tags: ["git", "Yktoo Solutions", "yktools", "разработка", "софт"]
+tags:
+    - git
+    - Yktoo Solutions
+    - yktools
+    - разработка
+    - софт
 image: git.png
 software: yktools
 fulltextUrl: "https://yktoo.solutions/blog/2019/07/19-managing-git-projects-on-a-mass-scale/"

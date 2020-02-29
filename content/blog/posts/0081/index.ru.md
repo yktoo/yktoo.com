@@ -2,7 +2,9 @@
 type: post
 date: "2011-04-03T00:00:00Z"
 title: "Не работает"
-tags: ["забавное", "Нидерланды"]
+tags:
+    - забавное
+    - Нидерланды
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/xruub4jyw3sp3121.jpg"
 aliases:
     - /ru/blog/post/81

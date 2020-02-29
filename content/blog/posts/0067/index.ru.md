@@ -2,7 +2,14 @@
 type: post
 date: "2010-12-20T00:00:00Z"
 title: "Зима пришла"
-tags: ["Амерсфорт", "зима", "красивое", "Нидерланды", "погода", "природа", "снег"]
+tags:
+    - Амерсфорт
+    - зима
+    - красивое
+    - Нидерланды
+    - погода
+    - природа
+    - снег
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/sk6xpyzm9qqd2379.jpg"
 places:
     - place0126

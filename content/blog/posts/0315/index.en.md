@@ -2,7 +2,15 @@
 type: post
 date: "2017-03-14T00:00:00Z"
 title: "Wintersport: Les Sybelles, France"
-tags: ["France", "Les Sybelles", "mountains", "snow", "snowboard", "sport", "winter", "wintersport"]
+tags:
+    - France
+    - Les Sybelles
+    - mountains
+    - snow
+    - snowboard
+    - sport
+    - winter
+    - wintersport
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/pmgzrxf771ss3359.jpg"
 places:
     - place0280

@@ -2,7 +2,10 @@
 type: post
 date: "2008-11-11T00:00:00Z"
 title: "Новая железка"
-tags: ["Toyota Prius", "авто", "Нидерланды"]
+tags:
+    - Toyota Prius
+    - авто
+    - Нидерланды
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/jypcrqe2jvtr2307.jpg"
 aliases:
     - /ru/blog/post/28

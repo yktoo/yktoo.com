@@ -2,7 +2,10 @@
 type: post
 date: "2017-03-08T00:00:00Z"
 title: "The Way You Make Me Feel: a masterpiece of looping"
-tags: ["music", "trifles", "video"]
+tags:
+    - music
+    - trifles
+    - video
 image: "https://img.youtube.com/vi/jMNIvLiCnw8/maxresdefault.jpg"
 aliases:
     - /en/blog/post/313

@@ -2,7 +2,11 @@
 type: post
 date: "2017-05-22T00:00:00Z"
 title: "Level C1 reached!"
-tags: ["certificate", "Dutch language", "education", "Netherlands"]
+tags:
+    - certificate
+    - Dutch language
+    - education
+    - Netherlands
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/s6gln87u7yhm3357.jpg"
 aliases:
     - /en/blog/post/325

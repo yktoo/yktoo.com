@@ -3,7 +3,10 @@ type: post
 date: "2017-05-13T00:00:00Z"
 title: "Часть 1. София"
 series: bulgaria-2017
-tags: ["Болгария", "путешествия", "София"]
+tags:
+    - Болгария
+    - путешествия
+    - София
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/fd2hz03xmrwe1974.jpg"
 places:
     - place0285

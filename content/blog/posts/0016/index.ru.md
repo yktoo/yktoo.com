@@ -2,7 +2,11 @@
 type: post
 date: "2008-06-03T00:00:00Z"
 title: "Дамба"
-tags: ["вышка", "дамба", "красивое", "Нидерланды"]
+tags:
+    - вышка
+    - дамба
+    - красивое
+    - Нидерланды
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/y76m8eml1kca0487.jpg"
 places:
     - place0163

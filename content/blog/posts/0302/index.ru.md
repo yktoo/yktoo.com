@@ -2,7 +2,12 @@
 type: post
 date: "2016-12-31T00:00:00Z"
 title: "Две тысячи шестнадцатый — всё"
-tags: ["2016", "Yktoo Solutions", "веб", "итоги", "сайт"]
+tags:
+    - 2016
+    - Yktoo Solutions
+    - веб
+    - итоги
+    - сайт
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/41diu1z68uu63471.png"
 aliases:
     - /ru/blog/post/302

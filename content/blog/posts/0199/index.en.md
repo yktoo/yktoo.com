@@ -2,7 +2,13 @@
 type: post
 date: "2013-09-13T00:00:00Z"
 title: "How-to: Multiplicity in Gimp"
-tags: ["Gimp", "graphics", "how-to", "Linux", "multiplicity", "Ubuntu"]
+tags:
+    - Gimp
+    - graphics
+    - how-to
+    - Linux
+    - multiplicity
+    - Ubuntu
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/9frext482b6h0287.jpg"
 aliases:
     - /en/blog/post/199

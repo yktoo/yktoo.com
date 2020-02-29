@@ -2,7 +2,10 @@
 type: post
 date: "2011-03-17T00:00:00Z"
 title: "Я пришёл к тебе с «Приорой»"
-tags: ["авто", "забавное", "Нидерланды"]
+tags:
+    - авто
+    - забавное
+    - Нидерланды
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/4nxilwusu6i03073.jpg"
 aliases:
     - /ru/blog/post/75

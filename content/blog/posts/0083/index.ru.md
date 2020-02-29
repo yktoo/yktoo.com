@@ -3,7 +3,10 @@ type: post
 date: "2011-04-14T00:00:00Z"
 title: "Часть 1. Схипхол"
 series: vienna-budapest-2011
-tags: ["Нидерланды", "путешествия", "Схипхол"]
+tags:
+    - Нидерланды
+    - путешествия
+    - Схипхол
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/9b0hwz0dbzsv1289.jpg"
 places:
     - place0120

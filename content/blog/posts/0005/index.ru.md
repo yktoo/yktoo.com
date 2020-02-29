@@ -2,7 +2,9 @@
 type: post
 date: "2008-04-09T00:00:00Z"
 title: "Суст"
-tags: ["Нидерланды", "Суст"]
+tags:
+    - Нидерланды
+    - Суст
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/5zseqex7czjh3426.jpg"
 places:
     - place0171

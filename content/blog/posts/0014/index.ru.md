@@ -2,7 +2,9 @@
 type: post
 date: "2008-05-13T00:00:00Z"
 title: "Дела велосипедные. Взгляд изнутри"
-tags: ["велики", "Нидерланды"]
+tags:
+    - велики
+    - Нидерланды
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/356lwkw4u4lu0027.jpg"
 aliases:
     - /ru/blog/post/14

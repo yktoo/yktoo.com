@@ -2,7 +2,13 @@
 type: post
 date: "2013-09-13T00:00:00Z"
 title: "Размножение объектов на фото в Gimp"
-tags: ["Gimp", "Linux", "multiplicity", "Ubuntu", "графика", "инструкция"]
+tags:
+    - Gimp
+    - Linux
+    - multiplicity
+    - Ubuntu
+    - графика
+    - инструкция
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/9frext482b6h0287.jpg"
 aliases:
     - /ru/blog/post/199

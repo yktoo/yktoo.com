@@ -2,7 +2,14 @@
 type: post
 date: "2013-10-25T00:00:00Z"
 title: "Aikikai Amersfoort website"
-tags: ["aikido", "Amersfoort", "Netherlands", "sport", "web", "website", "Yii"]
+tags:
+    - aikido
+    - Amersfoort
+    - Netherlands
+    - sport
+    - web
+    - website
+    - Yii
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/8ghogu0wxhqr1069.png"
 aliases:
     - /en/blog/post/200

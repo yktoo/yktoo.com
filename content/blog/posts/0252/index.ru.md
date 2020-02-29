@@ -2,7 +2,16 @@
 type: post
 date: "2015-07-11T00:00:00Z"
 title: "Апгрейд наушников Koss PortaPro"
-tags: ["Koss", "гаджеты", "гик-порно", "железо", "звук", "наушники", "очумелые ручки", "ремонт", "сделай сам"]
+tags:
+    - Koss
+    - гаджеты
+    - гик-порно
+    - железо
+    - звук
+    - наушники
+    - очумелые ручки
+    - ремонт
+    - сделай сам
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/bb798kpcbati2393.jpg"
 aliases:
     - /ru/blog/post/252

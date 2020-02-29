@@ -2,7 +2,9 @@
 type: post
 date: "2012-08-31T00:00:00Z"
 title: "New look a year later"
-tags: ["health care", "Netherlands"]
+tags:
+    - health care
+    - Netherlands
 places:
     - place0036
 aliases:

@@ -2,7 +2,12 @@
 type: post
 date: "2016-12-31T00:00:00Z"
 title: "So long two thousand sixteen"
-tags: ["2016", "upshot", "web", "website", "Yktoo Solutions"]
+tags:
+    - 2016
+    - upshot
+    - web
+    - website
+    - Yktoo Solutions
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/41diu1z68uu63471.png"
 aliases:
     - /en/blog/post/302

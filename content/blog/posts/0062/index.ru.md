@@ -2,7 +2,10 @@
 type: post
 date: "2010-11-27T00:00:00Z"
 title: "Ложка к обеду"
-tags: ["еда", "интересное", "Нидерланды"]
+tags:
+    - еда
+    - интересное
+    - Нидерланды
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/gcaznbmyllyj1498.JPG"
 aliases:
     - /ru/blog/post/62

@@ -2,7 +2,16 @@
 type: post
 date: "2017-06-03T00:00:00Z"
 title: "Review: Xiaomi In-Ear Headphones Pro HD"
-tags: ["gadgets", "hardware", "headphones", "In-Ear Headphones Pro HD", "Mi", "review", "sound", "unboxing", "Xiaomi"]
+tags:
+    - gadgets
+    - hardware
+    - headphones
+    - In-Ear Headphones Pro HD
+    - Mi
+    - review
+    - sound
+    - unboxing
+    - Xiaomi
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/89594ti5zeur0760.jpg"
 aliases:
     - /en/blog/post/326

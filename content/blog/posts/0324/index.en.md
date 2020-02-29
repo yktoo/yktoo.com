@@ -2,7 +2,13 @@
 type: post
 date: "2017-05-23T00:00:00Z"
 title: "The architecture of our time: Emoji building"
-tags: ["Amersfoort", "architecture", "emoji", "funny", "Netherlands", "Vathorst"]
+tags:
+    - Amersfoort
+    - architecture
+    - emoji
+    - funny
+    - Netherlands
+    - Vathorst
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/hwar2dw68pb73373.jpg"
 places:
     - place0308

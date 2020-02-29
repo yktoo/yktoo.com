@@ -2,7 +2,14 @@
 type: post
 date: "2011-06-26T00:00:00Z"
 title: "Stream of Passion в P60"
-tags: ["P60", "progressive metal", "Sin7sinS", "Stream of Passion", "Амстелвейн", "музыка", "Нидерланды"]
+tags:
+    - P60
+    - progressive metal
+    - Sin7sinS
+    - Stream of Passion
+    - Амстелвейн
+    - музыка
+    - Нидерланды
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/vz3gkxgj0lrc2178.jpg"
 places:
     - place0001

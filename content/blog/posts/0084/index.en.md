@@ -3,7 +3,10 @@ type: post
 date: "2011-04-14T01:00:00Z"
 title: "Part 2. Vienna"
 series: vienna-budapest-2011
-tags: ["Austria", "travel", "Vienna"]
+tags:
+    - Austria
+    - travel
+    - Vienna
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/xc8vl8g6eb580512.jpg"
 places:
     - place0118

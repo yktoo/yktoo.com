@@ -2,7 +2,13 @@
 type: post
 date: "2010-11-14T00:00:00Z"
 title: "Дилетанты шутят"
-tags: ["Pellikaan", "бег", "впервые", "Нидерланды", "плавание", "спорт"]
+tags:
+    - Pellikaan
+    - бег
+    - впервые
+    - Нидерланды
+    - плавание
+    - спорт
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/tmpjt7opf49g3273.jpg"
 places:
     - place0130

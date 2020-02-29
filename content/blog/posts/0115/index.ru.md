@@ -2,7 +2,9 @@
 type: post
 date: "2011-09-16T00:00:00Z"
 title: "For Dummies"
-tags: ["забавное", "стёб"]
+tags:
+    - забавное
+    - стёб
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/3k17iyc7q7e43220.jpg"
 aliases:
     - /ru/blog/post/115

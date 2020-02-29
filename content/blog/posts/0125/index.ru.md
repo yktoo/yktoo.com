@@ -2,7 +2,12 @@
 type: post
 date: "2011-11-15T00:00:00Z"
 title: "Джаз: Martijn van Iterson  Beets Brothers"
-tags: ["Observant", "Амерсфорт", "джаз", "музыка", "Нидерланды"]
+tags:
+    - Observant
+    - Амерсфорт
+    - джаз
+    - музыка
+    - Нидерланды
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/ui2i68d3opl73136.jpg"
 places:
     - place0008

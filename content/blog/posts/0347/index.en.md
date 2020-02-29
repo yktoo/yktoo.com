@@ -2,7 +2,11 @@
 type: post
 date: "2019-07-19T00:00:00Z"
 title: "Managing Git projects on a mass scale"
-tags: ["development", "git", "Yktoo Solutions", "yktools"]
+tags:
+    - development
+    - git
+    - Yktoo Solutions
+    - yktools
 image: git.png
 software: yktools
 fulltextUrl: "https://yktoo.solutions/blog/2019/07/19-managing-git-projects-on-a-mass-scale/"

@@ -2,7 +2,20 @@
 type: post
 date: "2014-11-30T00:00:00Z"
 title: "Замена жёсткого диска на SSD в iMac 2010"
-tags: ["Apple", "iMac", "Samsung", "Samsung 840 EVO", "SSD", "Trusty Tahr", "Ubuntu", "гаджеты", "гик-порно", "железо", "очумелые ручки", "ремонт", "сделай сам"]
+tags:
+    - Apple
+    - iMac
+    - Samsung
+    - Samsung 840 EVO
+    - SSD
+    - Trusty Tahr
+    - Ubuntu
+    - гаджеты
+    - гик-порно
+    - железо
+    - очумелые ручки
+    - ремонт
+    - сделай сам
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/kong7rdm7e450507.jpg"
 aliases:
     - /ru/blog/post/231

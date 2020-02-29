@@ -2,7 +2,11 @@
 type: post
 date: "2011-11-21T00:00:00Z"
 title: "Дневной туман"
-tags: ["Амерсфорт", "красивое", "Нидерланды", "туман"]
+tags:
+    - Амерсфорт
+    - красивое
+    - Нидерланды
+    - туман
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/whu8enrdh8vu3168.jpg"
 places:
     - place0077

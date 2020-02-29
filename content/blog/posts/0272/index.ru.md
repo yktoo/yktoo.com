@@ -2,7 +2,14 @@
 type: post
 date: "2016-03-04T00:00:00Z"
 title: "Dream Theater представляет The Astonishing в Carré"
-tags: ["Carré", "Dream Theater", "progressive metal", "The Astonishing", "Амстердам", "музыка", "Нидерланды"]
+tags:
+    - Carré
+    - Dream Theater
+    - progressive metal
+    - The Astonishing
+    - Амстердам
+    - музыка
+    - Нидерланды
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/ur908xrfq8780875.jpg"
 places:
     - place0041

@@ -2,7 +2,11 @@
 type: post
 date: "2013-12-09T00:00:00Z"
 title: "Leeuwarden"
-tags: ["graffiti", "Leeuwarden", "Netherlands", "tower"]
+tags:
+    - graffiti
+    - Leeuwarden
+    - Netherlands
+    - tower
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/ttjls4n4qn4x2301.jpg"
 places:
     - place0180

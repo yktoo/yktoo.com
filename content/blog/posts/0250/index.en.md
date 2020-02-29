@@ -2,7 +2,22 @@
 type: post
 date: "2015-03-29T00:00:00Z"
 title: "The Gentle Storm and Stream of Passion in Melkweg"
-tags: ["Amsterdam", "Anneke van Giersbergen", "Arjen Lucassen", "Ed Warby", "Ferry Duijsens", "Johan van Stratum", "Joost van den Broek", "Marcela Bovio", "Melkweg", "Merel Bechtold", "music", "Netherlands", "progressive metal", "Stream of Passion", "The Gentle Storm"]
+tags:
+    - Amsterdam
+    - Anneke van Giersbergen
+    - Arjen Lucassen
+    - Ed Warby
+    - Ferry Duijsens
+    - Johan van Stratum
+    - Joost van den Broek
+    - Marcela Bovio
+    - Melkweg
+    - Merel Bechtold
+    - music
+    - Netherlands
+    - progressive metal
+    - Stream of Passion
+    - The Gentle Storm
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/3xkblt0cj1x61906.jpg"
 places:
     - place0073

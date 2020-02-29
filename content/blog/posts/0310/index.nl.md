@@ -3,7 +3,14 @@ type: post
 date: "2017-02-20T00:00:00Z"
 title: "Vormen en personen"
 series: business
-tags: ["belastingen", "business", "freelance", "Nederland", "ondernemerschap", "werk", "Yktoo Solutions"]
+tags:
+    - belastingen
+    - business
+    - freelance
+    - Nederland
+    - ondernemerschap
+    - werk
+    - Yktoo Solutions
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/5l0s6yuhsutm3492.png"
 aliases:
     - /nl/blog/post/310

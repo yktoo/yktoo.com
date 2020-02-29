@@ -3,7 +3,13 @@ type: post
 date: "2013-06-10T00:00:00Z"
 title: "Part 2. Car and oranges"
 series: portugal-2013
-tags: ["Algarve", "car", "Hertz", "oranges", "Portugal", "travel"]
+tags:
+    - Algarve
+    - car
+    - Hertz
+    - oranges
+    - Portugal
+    - travel
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/nlby2sddb4xz2829.jpg"
 aliases:
     - /en/blog/post/191

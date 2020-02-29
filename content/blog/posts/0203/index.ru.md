@@ -2,7 +2,13 @@
 type: post
 date: "2013-12-05T00:00:00Z"
 title: "Опять Осень и Опята"
-tags: ["Баарн", "грибы", "лес", "Нидерланды", "осень", "природа"]
+tags:
+    - Баарн
+    - грибы
+    - лес
+    - Нидерланды
+    - осень
+    - природа
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/g3t2x5c65r5e2783.jpg"
 places:
     - place0178

@@ -2,7 +2,9 @@
 type: post
 date: "2011-03-21T00:00:00Z"
 title: "Мавроди, ммм..."
-tags: ["деньги", "забавное"]
+tags:
+    - деньги
+    - забавное
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/7r9gj2byanw01912.jpg"
 aliases:
     - /ru/blog/post/77

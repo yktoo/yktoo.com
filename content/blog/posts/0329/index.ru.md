@@ -2,7 +2,11 @@
 type: post
 date: "2017-09-10T00:00:00Z"
 title: "Самый крупный гаджет: Toyota Prius PHV"
-tags: ["Plug-In Hybrid", "Toyota Prius", "авто", "гаджеты"]
+tags:
+    - Plug-In Hybrid
+    - Toyota Prius
+    - авто
+    - гаджеты
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/3otf4wz2wimb0341.jpg"
 aliases:
     - /ru/blog/post/329

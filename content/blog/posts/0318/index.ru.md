@@ -3,7 +3,14 @@ type: post
 date: "2017-03-30T00:00:00Z"
 title: "Поиски и происки"
 series: business
-tags: ["Observ", "Yktoo Solutions", "налоги", "Нидерланды", "предпринимательство", "работа", "фриланс"]
+tags:
+    - Observ
+    - Yktoo Solutions
+    - налоги
+    - Нидерланды
+    - предпринимательство
+    - работа
+    - фриланс
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/v95wud5j9h2w2271.png"
 aliases:
     - /ru/blog/post/318

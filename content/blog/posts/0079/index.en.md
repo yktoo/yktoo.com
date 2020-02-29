@@ -2,7 +2,12 @@
 type: post
 date: "2011-03-27T00:00:00Z"
 title: "The Hague"
-tags: ["beach", "beautiful", "Netherlands", "sea", "The Hague"]
+tags:
+    - beach
+    - beautiful
+    - Netherlands
+    - sea
+    - The Hague
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/m5hncao9s5rd3078.jpg"
 places:
     - place0020

@@ -2,7 +2,9 @@
 type: post
 date: "2011-10-31T00:00:00Z"
 title: "In Vino Veritas"
-tags: ["вино", "цены"]
+tags:
+    - вино
+    - цены
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/wkuszkoe57fu3242.jpg"
 aliases:
     - /ru/blog/post/124

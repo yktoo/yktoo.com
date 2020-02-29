@@ -2,7 +2,19 @@
 type: post
 date: "2015-11-22T00:00:00Z"
 title: "Монумент «Забега по одиннадцати городам»"
-tags: ["Elfstedenmonument", "Elfstedentocht", "Виллем-Александр", "вода", "интересное", "коньки", "лёд", "Леуварден", "мост", "Нидерланды", "спорт", "Фрисландия"]
+tags:
+    - Elfstedenmonument
+    - Elfstedentocht
+    - Виллем-Александр
+    - вода
+    - интересное
+    - коньки
+    - лёд
+    - Леуварден
+    - мост
+    - Нидерланды
+    - спорт
+    - Фрисландия
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/smtna04jggvo2104.jpg"
 places:
     - place0228

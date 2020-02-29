@@ -2,7 +2,11 @@
 type: post
 date: "2015-01-24T00:00:00Z"
 title: "Книга: «Марсианин», Э. Уир"
-tags: ["Andy Weir", "The Martian", "книги", "фантастика"]
+tags:
+    - Andy Weir
+    - The Martian
+    - книги
+    - фантастика
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/lk60fvx5b7ix3462.jpg"
 aliases:
     - /ru/blog/post/237

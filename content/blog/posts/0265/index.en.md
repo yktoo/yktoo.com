@@ -2,7 +2,13 @@
 type: post
 date: "2015-12-02T00:00:00Z"
 title: "Nest Protect 2 review"
-tags: ["gadgets", "Google", "hardware", "Nest", "Nest Protect 2", "review"]
+tags:
+    - gadgets
+    - Google
+    - hardware
+    - Nest
+    - Nest Protect 2
+    - review
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/pksj4yaj2vcz1613.jpg"
 aliases:
     - /en/blog/post/265

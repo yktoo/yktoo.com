@@ -2,7 +2,17 @@
 type: post
 date: "2012-02-20T00:00:00Z"
 title: "Обзор Logitech Wireless Adapter for Bluetooth"
-tags: ["Bluetooth", "Logitech", "Ubuntu", "анбоксинг", "аудио", "беспроводная связь", "гаджеты", "железо", "звук", "обзор"]
+tags:
+    - Bluetooth
+    - Logitech
+    - Ubuntu
+    - анбоксинг
+    - аудио
+    - беспроводная связь
+    - гаджеты
+    - железо
+    - звук
+    - обзор
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/julep2izai923151.png"
 aliases:
     - /ru/blog/post/141

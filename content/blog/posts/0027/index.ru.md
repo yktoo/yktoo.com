@@ -2,7 +2,9 @@
 type: post
 date: "2008-10-24T00:00:00Z"
 title: "Ремонт"
-tags: ["Баарн", "Нидерланды"]
+tags:
+    - Баарн
+    - Нидерланды
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/rdxlhkfj4gi90364.jpg"
 aliases:
     - /ru/blog/post/27

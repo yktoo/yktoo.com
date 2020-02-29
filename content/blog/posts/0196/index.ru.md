@@ -2,7 +2,13 @@
 type: post
 date: "2013-08-30T00:00:00Z"
 title: "Spoffin 2013"
-tags: ["Spoffin", "Амерсфорт", "музыка", "Нидерланды", "театр", "фестиваль"]
+tags:
+    - Spoffin
+    - Амерсфорт
+    - музыка
+    - Нидерланды
+    - театр
+    - фестиваль
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/f1k2i85em5b41897.jpg"
 places:
     - place0010

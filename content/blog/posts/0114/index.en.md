@@ -3,7 +3,12 @@ type: post
 date: "2011-09-09T00:00:00Z"
 title: "Pt. 3. Das ist noch in Fluß"
 series: post-nubila-sol
-tags: ["instrumental", "music", "my music", "progressive metal", "Radiolaria"]
+tags:
+    - instrumental
+    - music
+    - my music
+    - progressive metal
+    - Radiolaria
 aliases:
     - /en/blog/post/114
 ---

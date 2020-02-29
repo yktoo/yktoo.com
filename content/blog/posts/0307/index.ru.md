@@ -2,7 +2,10 @@
 type: post
 date: "2017-02-17T00:00:00Z"
 title: "20 лет безупречной, хе-хе"
-tags: ["блог", "работа", "юбилей"]
+tags:
+    - блог
+    - работа
+    - юбилей
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/8qtjm8gvyltq2667.jpg"
 aliases:
     - /ru/blog/post/307

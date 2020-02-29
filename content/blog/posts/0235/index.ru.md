@@ -2,7 +2,12 @@
 type: post
 date: "2014-12-31T00:00:00Z"
 title: "Две тысячи четырнадцатый — всё"
-tags: ["2014", "итоги", "Нидерланды", "праздники", "Россия"]
+tags:
+    - 2014
+    - итоги
+    - Нидерланды
+    - праздники
+    - Россия
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/ickybxsk1nri0970.jpg"
 aliases:
     - /ru/blog/post/235

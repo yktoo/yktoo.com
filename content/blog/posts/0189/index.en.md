@@ -2,7 +2,13 @@
 type: post
 date: "2013-06-05T00:00:00Z"
 title: "M-Audio Studiophile AV 40 review"
-tags: ["gadgets", "hardware", "review", "sound", "speaker", "unboxing"]
+tags:
+    - gadgets
+    - hardware
+    - review
+    - sound
+    - speaker
+    - unboxing
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/yv8vhr4v0bm90850.jpg"
 aliases:
     - /en/blog/post/189

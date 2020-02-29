@@ -3,7 +3,15 @@ type: post
 date: "2017-03-30T00:00:00Z"
 title: "The quest for work"
 series: business
-tags: ["business", "entrepreneurship", "freelance", "Netherlands", "Observ", "taxes", "work", "Yktoo Solutions"]
+tags:
+    - business
+    - entrepreneurship
+    - freelance
+    - Netherlands
+    - Observ
+    - taxes
+    - work
+    - Yktoo Solutions
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/v95wud5j9h2w2271.png"
 aliases:
     - /en/blog/post/318

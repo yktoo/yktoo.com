@@ -2,7 +2,13 @@
 type: post
 date: "2012-02-12T00:00:00Z"
 title: "Star Wars I + 3D + D-Box"
-tags: ["3D", "cinema", "D-Box", "interesting", "Netherlands", "Star Wars"]
+tags:
+    - 3D
+    - cinema
+    - D-Box
+    - interesting
+    - Netherlands
+    - Star Wars
 places:
     - place0071
 aliases:

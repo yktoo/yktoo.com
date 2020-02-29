@@ -3,7 +3,13 @@ type: post
 date: "2015-05-16T00:00:00Z"
 title: "Часть 3. Аксессуары"
 series: samsung-ue75hu7500
-tags: ["Samsung", "Smart TV", "гаджеты", "железо", "обзор", "телевизоры"]
+tags:
+    - Samsung
+    - Smart TV
+    - гаджеты
+    - железо
+    - обзор
+    - телевизоры
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/86mnqmphp1711609.jpg"
 aliases:
     - /ru/blog/post/245

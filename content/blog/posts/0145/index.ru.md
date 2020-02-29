@@ -3,7 +3,12 @@ type: post
 date: "2012-04-02T00:00:00Z"
 title: "Часть 2. Намюр"
 series: belgium-south-2012
-tags: ["Бельгия", "крепость", "Намюр", "пиво", "путешествия"]
+tags:
+    - Бельгия
+    - крепость
+    - Намюр
+    - пиво
+    - путешествия
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/3b66e97ucj7f1277.jpg"
 places:
     - place0066

@@ -2,7 +2,14 @@
 type: post
 date: "2016-04-09T00:00:00Z"
 title: "Замкозабег, вторая редакция"
-tags: ["De Haar", "De Halve van de Haar", "бег", "замок", "Нидерланды", "полумарафон", "спорт"]
+tags:
+    - De Haar
+    - De Halve van de Haar
+    - бег
+    - замок
+    - Нидерланды
+    - полумарафон
+    - спорт
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/g4iojmxzvy3v1266.jpg"
 places:
     - place0165

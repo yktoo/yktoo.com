@@ -2,7 +2,10 @@
 type: post
 date: "2012-08-03T00:00:00Z"
 title: "Понаехало тут"
-tags: ["Наполеон", "Нидерланды", "СМИ"]
+tags:
+    - Наполеон
+    - Нидерланды
+    - СМИ
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/vkislm2ybd250448.jpg"
 aliases:
     - /ru/blog/post/159

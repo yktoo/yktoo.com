@@ -2,7 +2,12 @@
 type: post
 date: "2008-05-10T00:00:00Z"
 title: "Море!"
-tags: ["море", "Нидерланды", "пляж", "погода", "праздники"]
+tags:
+    - море
+    - Нидерланды
+    - пляж
+    - погода
+    - праздники
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/t89tkwlo2qgr3029.jpg"
 places:
     - place0164

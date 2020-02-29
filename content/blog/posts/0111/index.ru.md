@@ -2,7 +2,11 @@
 type: post
 date: "2011-08-27T00:00:00Z"
 title: "Интервью с Даниелом де Йонгом (Desperados)"
-tags: ["Desperados", "интервью", "музыка", "Нидерланды"]
+tags:
+    - Desperados
+    - интервью
+    - музыка
+    - Нидерланды
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/0qey63a9mksc0085.jpg"
 places:
     - place0084

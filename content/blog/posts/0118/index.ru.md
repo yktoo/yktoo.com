@@ -2,7 +2,12 @@
 type: post
 date: "2011-10-02T00:00:00Z"
 title: "Октябрь. Лето"
-tags: ["Гаага", "море", "Нидерланды", "пляж", "погода"]
+tags:
+    - Гаага
+    - море
+    - Нидерланды
+    - пляж
+    - погода
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/d9who9ehoxy90383.jpg"
 places:
     - place0020

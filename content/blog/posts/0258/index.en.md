@@ -2,7 +2,11 @@
 type: post
 date: "2015-08-06T00:00:00Z"
 title: "Getting a Russian visa"
-tags: ["bureaucracy", "Netherlands", "Russia", "visa"]
+tags:
+    - bureaucracy
+    - Netherlands
+    - Russia
+    - visa
 aliases:
     - /en/blog/post/258
 ---

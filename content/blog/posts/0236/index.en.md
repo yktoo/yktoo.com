@@ -2,7 +2,12 @@
 type: post
 date: "2015-01-03T00:00:00Z"
 title: "Happy New 2015!"
-tags: ["fireworks", "holidays", "Houten", "Netherlands", "nieuwjaarsduik"]
+tags:
+    - fireworks
+    - holidays
+    - Houten
+    - Netherlands
+    - nieuwjaarsduik
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/ioiqmkd3p2u71084.jpg"
 aliases:
     - /en/blog/post/236

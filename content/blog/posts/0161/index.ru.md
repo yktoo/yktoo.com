@@ -2,7 +2,10 @@
 type: post
 date: "2012-09-07T00:00:00Z"
 title: "Яимат"
-tags: ["интересное", "Нидерланды", "Суст"]
+tags:
+    - интересное
+    - Нидерланды
+    - Суст
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/cfy9rslubn152230.jpg"
 places:
     - place0035

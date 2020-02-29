@@ -2,7 +2,9 @@
 type: post
 date: "2018-06-21T00:00:00Z"
 title: "Интернет в полгигабита"
-tags: ["Интернет", "Нидерланды"]
+tags:
+    - Интернет
+    - Нидерланды
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/atqcdi8ojume2133.png"
 aliases:
     - /ru/blog/post/337

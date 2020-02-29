@@ -2,7 +2,12 @@
 type: post
 date: "2013-12-13T00:00:00Z"
 title: "DKLang Localization Package 4.01 & 5.0"
-tags: ["Delphi", "DKLang", "FireMonkey", "GitHub", "i18n"]
+tags:
+    - Delphi
+    - DKLang
+    - FireMonkey
+    - GitHub
+    - i18n
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/26gk9mjql1p41061.png"
 software: dklang
 aliases:

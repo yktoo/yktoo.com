@@ -2,7 +2,10 @@
 type: post
 date: "2018-06-20T00:00:00Z"
 title: "Тюремная безработица"
-tags: ["Нидерланды", "новости", "преступность"]
+tags:
+    - Нидерланды
+    - новости
+    - преступность
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/f7wb8oj35izz3204.png"
 aliases:
     - /ru/blog/post/336

@@ -2,7 +2,12 @@
 type: post
 date: "2015-06-14T00:00:00Z"
 title: "USB-тестеры и скорость зарядки"
-tags: ["USB", "гаджеты", "гик-порно", "зарядка", "обзор"]
+tags:
+    - USB
+    - гаджеты
+    - гик-порно
+    - зарядка
+    - обзор
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/r54xwb1o2p410736.jpg"
 aliases:
     - /ru/blog/post/251

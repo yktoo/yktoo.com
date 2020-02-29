@@ -2,7 +2,10 @@
 type: post
 date: "2013-05-12T00:00:00Z"
 title: "My website"
-tags: ["blog", "web", "website"]
+tags:
+    - blog
+    - web
+    - website
 aliases:
     - /en/blog/post/180
 ---

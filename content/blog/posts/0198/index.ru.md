@@ -2,7 +2,12 @@
 type: post
 date: "2013-09-07T00:00:00Z"
 title: "Устранение щелчка при выключении колонок M-Audio Studiophile"
-tags: ["IKEA", "гаджеты", "железо", "звук", "колонки"]
+tags:
+    - IKEA
+    - гаджеты
+    - железо
+    - звук
+    - колонки
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/d4vo7lbyib4g3157.jpg"
 aliases:
     - /ru/blog/post/198

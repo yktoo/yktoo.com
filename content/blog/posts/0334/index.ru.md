@@ -2,7 +2,11 @@
 type: post
 date: "2018-04-03T00:00:00Z"
 title: "Юбилея пост: десять лет в Нидерландах"
-tags: ["итоги", "Нидерланды", "размышления", "юбилей"]
+tags:
+    - итоги
+    - Нидерланды
+    - размышления
+    - юбилей
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/yfaj5f95f50d3310.jpg"
 aliases:
     - /ru/blog/post/334

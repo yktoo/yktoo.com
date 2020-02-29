@@ -2,7 +2,11 @@
 type: post
 date: "2008-07-28T00:00:00Z"
 title: "И вновь море"
-tags: ["море", "Нидерланды", "пляж", "погода"]
+tags:
+    - море
+    - Нидерланды
+    - пляж
+    - погода
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/xn52af4d9zb61996.jpg"
 places:
     - place0154

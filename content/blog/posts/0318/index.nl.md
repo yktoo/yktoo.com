@@ -3,7 +3,14 @@ type: post
 date: "2017-03-30T00:00:00Z"
 title: "Werken en werven"
 series: business
-tags: ["belastingen", "freelance", "Nederland", "Observ", "ondernemerschap", "werk", "Yktoo Solutions"]
+tags:
+    - belastingen
+    - freelance
+    - Nederland
+    - Observ
+    - ondernemerschap
+    - werk
+    - Yktoo Solutions
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/v95wud5j9h2w2271.png"
 aliases:
     - /nl/blog/post/318

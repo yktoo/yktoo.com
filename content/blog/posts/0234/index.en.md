@@ -2,7 +2,11 @@
 type: post
 date: "2014-12-12T00:00:00Z"
 title: "Househunt"
-tags: ["house", "Houten", "mortgage", "Netherlands"]
+tags:
+    - house
+    - Houten
+    - mortgage
+    - Netherlands
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/cuu3jcvgaxq11929.jpg"
 aliases:
     - /en/blog/post/234

@@ -2,7 +2,9 @@
 type: post
 date: "2018-12-31T00:00:00Z"
 title: "So long two thousand eighteen"
-tags: ["2018", "upshot"]
+tags:
+    - 2018
+    - upshot
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/ou4wbjlre2kg1795.png"
 aliases:
     - /en/blog/post/342
