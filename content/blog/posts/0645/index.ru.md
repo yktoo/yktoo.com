@@ -7,7 +7,7 @@ tags:
     - новости
     - здравоохранение
     - коронавирус
-image: "https://res.cloudinary.com/yktoo/image/upload/blog/gsukwfncs5gpzlwgtzxg.svg"
+image: "https://res.cloudinary.com/yktoo/image/upload/blog/lsbkqdztjho2ufdttm19.jpg"
 imageCredit: "Картинка: iXimus/Pixabay."
 ---
 
@@ -30,8 +30,6 @@ imageCredit: "Картинка: iXimus/Pixabay."
 Второе место у женщины из Амстердама. Она {{< a "https://www.diemen.nl/inwoner/nieuws/coronabesmetting-in-regio-amsterdam-amstelland" "помещена" >}} под домашнюю изоляцию в Димене, {{< fl "GGD Diemen" >}} изучает, с кем она контактировала в последнее время. Известно, что связи с «пациентом №1» здесь нет.
 
 У этой женщины есть ребёнок, который посещал детсад {{< fl "CompaNanny Atlas Arena" >}}, и у него обнаруживаются симптомы, похожие на коронавирусные. Детсад немедленно был закрыт, результаты анализа ребёнка ожидаются в течение дня.
-
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/gsukwfncs5gpzlwgtzxg.svg" "Картинка: iXimus/Pixabay." >}}
 
 ## Церкви
 
