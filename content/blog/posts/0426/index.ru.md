@@ -5,10 +5,11 @@ title: "Свадьба удалась на славу: ДТП на 300 тыс. �
 tags:
     - Нидерланды
     - происшествия
-    - СМИ
+    - ДТП
     - новости
     - авто
     - OVI
+    - Lamborghini
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/32mswdmd3tud2035.jpg"
 imageCredit: "Фото: NOS."
 ---
