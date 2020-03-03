@@ -103,6 +103,7 @@
 - {id: subscribeByEmail,  translation: Abonneren via e-mail}
 - {id: subscribeByRSS,    translation: Nieuwsfeed in RSS-formaat}
 - {id: subscribeInFeedly, translation: Abonneren in Feedly}
+- {id: subscribeInTgram,  translation: Abonneren in Telegram}
 - {id: subscribeSocial,   translation: Abonneren in social networks}
 - {id: support,           translation: Ondersteuning}
 - {id: tag,               translation: Tag}

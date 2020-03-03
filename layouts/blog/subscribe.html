@@ -22,11 +22,17 @@
 <!-- Subscribe to posts lists in current language -->
 <section id="blog-subscribe-options-cur-lang">
     <h2>{{ T "postsCurLang" }}</h2>
-    <div class="list-group list-group-horizontal-md">
+    <div class="list-group list-group-horizontal-lg">
         <!-- Subscribe by email -->
         <a class="list-group-item list-group-item-action list-group-item-iconized" href="{{ index .Site.Data.blog.subscribe.by_email_url .Language.Lang }}">
             <div class="list-group-img-32"><i class="fas fa-envelope colourise"></i></div>
             <div class="list-group-text"><div class="list-group-heading">{{ T "subscribeByEmail" }}</div></div>
+        </a>
+
+        <!-- Subscribe in Telegram -->
+        <a class="list-group-item list-group-item-action list-group-item-iconized" href="{{ index .Site.Data.blog.subscribe.by_telegram_url .Language.Lang }}">
+            <div class="list-group-img-32"><i class="fab fa-telegram colourise"></i></div>
+            <div class="list-group-text"><div class="list-group-heading">{{ T "subscribeInTgram" }}</div></div>
         </a>
 
         {{ with (.GetPage "/" ).OutputFormats.Get "rss" }}
@@ -54,6 +60,7 @@
             <h5>{{ T (print "posts_" .Language) }}</h5>
             <ul>
                 <li><a href="{{ index .Site.Data.blog.subscribe.by_email_url .Language.Lang }}">{{ T "subscribeByEmail" }}</a></li>
+                <li><a href="{{ index .Site.Data.blog.subscribe.by_telegram_url .Language.Lang }}">{{ T "subscribeInTgram" }}</a></li>
                 {{ with (.GetPage "/" ).OutputFormats.Get "rss" }}
                 <li><a href="https://feedly.com/i/subscription/feed%2F{{ .Permalink | querify `` | strings.TrimPrefix `=` }}">{{ T "subscribeInFeedly" }}</a></li>
                 <li><a href="{{ .Permalink }}">{{ T "subscribeByRSS" }}</a></li>

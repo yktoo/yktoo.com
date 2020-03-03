@@ -103,6 +103,7 @@
 - {id: subscribeByEmail,  translation: Subscribe by email}
 - {id: subscribeByRSS,    translation: Feed in RSS format}
 - {id: subscribeInFeedly, translation: Subscribe in Feedly}
+- {id: subscribeInTgram,  translation: Subscribe in Telegram}
 - {id: subscribeSocial,   translation: Subscribe in social networks}
 - {id: support,           translation: Support}
 - {id: tag,               translation: Tag}
