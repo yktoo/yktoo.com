@@ -6,19 +6,6 @@
 <!-- Main page content -->
 {{ .Content }}
 
-<!-- Post announcements -->
-<section id="blog-subscribe-announcements">
-    <h2>{{ T "subscribeSocial" }}</h2>
-    <div class="list-group list-group-horizontal-lg">
-        {{ range .Site.Data.blog.subscribe.feeds }}
-        <a class="list-group-item list-group-item-action list-group-item-iconized" href="{{ .url }}" target="_blank" rel="noopener">
-            <div class="list-group-img-32"><i class="{{ .icon }} colourise"></i></div>
-            <div class="list-group-text"><div class="list-group-heading">{{ .title }}</div></div>
-        </a>
-        {{ end }}
-    </div>
-</section>
-
 <!-- Subscribe to posts lists in current language -->
 <section id="blog-subscribe-options-cur-lang">
     <h2>{{ T "postsCurLang" }}</h2>
@@ -46,6 +33,19 @@
         <a class="list-group-item list-group-item-action list-group-item-iconized" href="{{ .Permalink }}">
             <div class="list-group-img-32"><i class="fas fa-rss-square colourise"></i></div>
             <div class="list-group-text"><div class="list-group-heading">{{ T "subscribeByRSS" }}</div></div>
+        </a>
+        {{ end }}
+    </div>
+</section>
+
+<!-- Post announcements -->
+<section id="blog-subscribe-announcements">
+    <h2>{{ T "subscribeSocial" }}</h2>
+    <div class="list-group list-group-horizontal-lg">
+        {{ range .Site.Data.blog.subscribe.feeds }}
+        <a class="list-group-item list-group-item-action list-group-item-iconized" href="{{ .url }}" target="_blank" rel="noopener">
+            <div class="list-group-img-32"><i class="{{ .icon }} colourise"></i></div>
+            <div class="list-group-text"><div class="list-group-heading">{{ .title }}</div></div>
         </a>
         {{ end }}
     </div>
