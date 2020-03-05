@@ -8,6 +8,7 @@ tags:
     - новости
     - здравоохранение
     - коронавирус
+    - COVID-19
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/lsbkqdztjho2ufdttm19.jpg"
 imageCredit: "Картинка: iXimus/Pixabay."
 ---

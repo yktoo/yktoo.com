@@ -10,6 +10,7 @@ tags:
     - здравоохранение
     - статистика
     - коронавирус
+    - COVID-19
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/nqu9zualo8z0gtuowuxy.jpg"
 imageCredit: "Фото: LoggaWiggler/Pixabay."
 ---
