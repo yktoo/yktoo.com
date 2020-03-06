@@ -59,4 +59,3 @@ All in all, it will definitely be a valuable addition to your music collection.
 |{{< albumimg "kseniigclxeutiqnfslj" "Diffusion" >}}|2008|Diffusion|
 |{{< albumimg "do3kr1nwznnpxploxd96" "Splash" >}}   |2014|Splash   |
 {{< /table >}}
-
