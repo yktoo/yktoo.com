@@ -9,6 +9,7 @@
 - {id: blogPosts,         translation: Blogposts}
 - {id: blogSubscribe,     translation: Abonneren}
 - {id: blogSubscribeCTA,  translation: 'Vond je deze post leuk? Je kunt je abonneren op updates van mijn blog.'}
+- {id: blogSubscribeOpts, translation: Keuzes om te abonneren}
 - {id: blogSubscribeTo,   translation: Abonneer je op updates}
 - {id: blogSubtitle,      translation: Blog over het Nederlandse leven (en veel andere dingen)}
 - {id: blogTitle,         translation: Nederland en verder}

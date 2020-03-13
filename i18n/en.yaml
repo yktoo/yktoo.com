@@ -9,6 +9,7 @@
 - {id: blogPosts,         translation: Blog posts}
 - {id: blogSubscribe,     translation: Subscribe}
 - {id: blogSubscribeCTA,  translation: 'Do you like this post? Feel free to subscribe to updates of my blog.'}
+- {id: blogSubscribeOpts, translation: Subscription options}
 - {id: blogSubscribeTo,   translation: Subscribe to updates}
 - {id: blogSubtitle,      translation: Blog about life in Holland (and a lot of other stuff)}
 - {id: blogTitle,         translation: Netherlands and more}
