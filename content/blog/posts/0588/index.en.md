@@ -30,7 +30,7 @@ Which is hard to believe if you watch his videos:
 
 Nearly all tracks by **Andromida** are instrumental save for a couple of songs featuring guest vocalists (*Crawling*, *Take What You Want*).
 
-The tracks' names are all related to space, which, along with the music itself, closely reminds me of *Sithu Aye* and *Widek*. The sound is dense and heavy, featuring typical djent rhythms. It's a remarkably quality work, so my kudos to Ramon, both as a musician and as a producer.
+The tracks' names are all related to space, which, along with the music itself, closely reminds me of *Sithu Aye* and {{< a "0673" "Widek" >}}. The sound is dense and heavy, featuring typical djent rhythms. It's a remarkably quality work, so my kudos to Ramon, both as a musician and as a producer.
 
 {{< youtube "W43vAHfMEIM" >}}
 

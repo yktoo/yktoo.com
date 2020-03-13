@@ -22,7 +22,7 @@ And I do hope it isn't related to {{< wiki "GRU" >}} whatsoever.
 
 This Gru guy is intriguing indeed. There's next to nothing about him on the Internet. Actually, all I could find about him is that his real name is {{< fl "Piotrek Gruszka" >}} and that he's from Masovia, Poland.
 
-Which makes it even more amazing, that someone with such a low profile, not participating in other projects (save for a few tracks by his friend {{< fl "Widek" >}}) and not being enlisted with any label, is that talented. His mastering of guitar and sound programming are ming-blowing.
+Which makes it even more amazing, that someone with such a low profile, not participating in other projects (save for a few tracks by his friend {{< a "0673" "Widek" >}}) and not being enlisted with any label, is that talented. His mastering of guitar and sound programming are ming-blowing.
 
 He managed to record and mix just one short album, which by the way turns ten this year, called **Cosmogenesis** (**2010**). The album has enjoyed great critical {{< a "https://www.sputnikmusic.com/review/48991/Gru-Cosmogenesis/" "reviews" >}} back in the day.
 
