@@ -8,10 +8,6 @@ tags:
     - здравоохранение
     - коронавирус
     - COVID-19
-    - новости
-    - здравоохранение
-    - коронавирус
-    - COVID-19
     - марихуана
     - наркотики
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/lsbkqdztjho2ufdttm19.jpg"
