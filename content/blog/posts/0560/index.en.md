@@ -38,7 +38,9 @@ You can find a couple of other mentions of Gru on the net. For instance, {{< a "
 
 Or this brilliant version of *Peacock* by Katy Perry, remixed by Piotrek:
 
-<iframe width="100%" height="120" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/12412816&color=%23089664&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&visual=false"></iframe>
+{{< div "embed-responsive mb-3" "height: 120px" >}}
+<iframe class="embed-responsive-item" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/12412816&color=%23089664&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&visual=false"></iframe>
+{{< /div >}}
 
 People keep summoning *Gru* in comments, demanding more music. Yet, no reply so far.
 

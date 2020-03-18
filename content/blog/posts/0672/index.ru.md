@@ -25,7 +25,9 @@ imageCredit: "Кадр из видео 1Limburg."
 
 «Цифровой спортзал» — это интерактивная компьютерная система, дополненная видеопроектором и камерами. Ученики могут тренироваться в меткости, бросая мяч в нарисованное кольцо или разбивая движущиеся по стене объекты.
 
-<iframe src="https://limburg.bbvms.com/p/website/c/3676360.html?inheritDimensions=true" width="800" height="450" frameborder="0" allowfullscreen></iframe>
+{{< div "embed-responsive embed-responsive-16by9 mb-3" >}}
+<iframe class="embed-responsive-item" src="https://limburg.bbvms.com/p/website/c/3676360.html?inheritDimensions=true" allowfullscreen></iframe>
+{{< /div >}}
 
 В системе большой набор игр, включая образовательные, и детям она очень нравится.
 

@@ -38,7 +38,9 @@ series: music
 
 Или замечательный ремикс песни {{< fl "Peacock" >}} Кейти Перри — за авторством Гру:
 
-<iframe width="100%" height="120" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/12412816&color=%23089664&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&visual=false"></iframe>
+{{< div "embed-responsive mb-3" "height: 120px" >}}
+<iframe class="embed-responsive-item" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/12412816&color=%23089664&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&visual=false"></iframe>
+{{< /div >}}
 
 Люди постоянно взывают к {{< fl "Gru" >}}, требуя продолжения банкета. Но ни одного ответа от него я, к сожалению, пока не видел.
 
