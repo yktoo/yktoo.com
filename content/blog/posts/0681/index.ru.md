@@ -9,6 +9,7 @@ tags:
     - коронавирус
     - здравоохранение
     - COVID-19
+    - хлорохин
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/abguv5fdnrohelkbfjzr.jpg"
 imageCredit: "Фото: EenVandaag."
 ---
