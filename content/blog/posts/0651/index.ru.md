@@ -1,7 +1,7 @@
 ---
 type: post
 date: "2020-03-02T17:41:18+01:00"
-title: "Коронавирусные новости, выпуск 2: теперь и в Хаутене"
+title: "Выпуск 2: теперь и в Хаутене"
 tags:
     - Нидерланды
     - Хаутен
@@ -11,6 +11,7 @@ tags:
     - COVID-19
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/lsbkqdztjho2ufdttm19.jpg"
 imageCredit: "Картинка: iXimus/Pixabay."
+series: coronavirus
 ---
 
 Традиционная статистика от {{< a "https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6" "Johns Hopkins University" >}}: **89 254** заражённых, **45 393** излечившихся, **3 048** умерших.

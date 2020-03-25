@@ -1,7 +1,7 @@
 ---
 type: post
 date: "2020-03-05T16:06:05+01:00"
-title: "Коронавирусные новости, выпуск 4: внезапное пиво"
+title: "Выпуск 4: внезапное пиво"
 tags:
     - Нидерланды
     - Бельгия
@@ -12,6 +12,7 @@ tags:
     - COVID-19
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/lsbkqdztjho2ufdttm19.jpg"
 imageCredit: "Картинка: iXimus/Pixabay."
+series: coronavirus
 ---
 
 Текущая статистика от {{< a "https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6" "Johns Hopkins University" >}}: **96 788** заражённых, **53 638** излечившихся, **3 303** умерших.

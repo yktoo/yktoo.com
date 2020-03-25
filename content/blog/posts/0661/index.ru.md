@@ -1,7 +1,7 @@
 ---
 type: post
 date: "2020-03-07T19:26:43+01:00"
-title: "Коронавирусные новости, выпуск 5: Италия, похоже, тонет"
+title: "Выпуск 5: Италия, похоже, тонет"
 tags:
     - Нидерланды
     - Гронинген
@@ -13,6 +13,7 @@ tags:
     - COVID-19
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/lsbkqdztjho2ufdttm19.jpg"
 imageCredit: "Картинка: iXimus/Pixabay."
+series: coronavirus
 ---
 
 Распространение коронавируса преодолело психологический барьер в сто тысяч заражённых. Согласно {{< a "https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6" "Johns Hopkins University" >}} на этот момент в мире **105 552** заражённых и **3 555** умерших.

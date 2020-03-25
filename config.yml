@@ -52,7 +52,7 @@ params:
     description: 'Blog about life in the Netherlands: Dutch news, mentality and differences, explanation of Dutch terms and so on'
     googleMapsApiKey: AIzaSyBJzJgSlmrF2ofMmVt2a7422yDv54Im_Yk
     logoUrl: /images/logo.png
-    rssLimit: 33
+    rssLimit: 15
     shortDateFormat: 'MON D, YYYY'
 
 # Related indices settings

@@ -1,7 +1,7 @@
 ---
 type: post
 date: "2020-03-16T17:00:02+01:00"
-title: "Коронавирусные новости, выпуск 6: хомяки и марихуана"
+title: "Выпуск 6: хомяки и марихуана"
 tags:
     - Нидерланды
     - новости
@@ -12,6 +12,7 @@ tags:
     - наркотики
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/lsbkqdztjho2ufdttm19.jpg"
 imageCredit: "Картинка: iXimus/Pixabay."
+series: coronavirus
 ---
 
 Новости про коронавирус идут просто лавиной и устаревают уже в процессе чтения.

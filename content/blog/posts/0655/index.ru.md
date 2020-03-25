@@ -1,7 +1,7 @@
 ---
 type: post
 date: "2020-03-03T18:35:28+01:00"
-title: "Коронавирусные новости, выпуск 3: меню на три «пэ»"
+title: "Выпуск 3: меню на три «пэ»"
 tags:
     - Нидерланды
     - новости
@@ -10,6 +10,7 @@ tags:
     - COVID-19
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/lsbkqdztjho2ufdttm19.jpg"
 imageCredit: "Картинка: iXimus/Pixabay."
+series: coronavirus
 ---
 
 Текущая статистика от {{< a "https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6" "Johns Hopkins University" >}}: **92 313** заражённых, **48 190** излечившихся, **3 131** умерших.
