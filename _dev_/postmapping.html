@@ -4,7 +4,7 @@
 {{- range where .Site.RegularPages "Type" "post" }}
 {{- $page := . }}
 {{- range slice "pages" "comments" }}
-update {{ . }} set path = '{{ $page.RelPermalink }}' where path = '/{{ $page.Lang }}/blog/post/{{ $page.File.Dir | path.Base | strings.TrimLeft "0" }}';
+update {{ . }} set path = '/blog/post/{{ $page.File.Dir | path.Base }}' where path = '{{ $page.RelPermalink }}';
 {{- end }}
 {{- end }}
 {{- end }}
