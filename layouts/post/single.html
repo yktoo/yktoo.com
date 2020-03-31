@@ -109,7 +109,7 @@
                 {{- if or .Draft (in (print $.Site.BaseURL) "localhost") }}
                 <div class="placeholder">(comments will go here)</div>
                 {{- else }}
-                <div id="commento"></div>
+                <div id="commento" data-page-id="/blog/post/{{ path.Base .File.Dir }}"></div>
                 <script src="{{ .Site.Params.commentoUrl }}"></script>
                 {{- end }}
             </section>

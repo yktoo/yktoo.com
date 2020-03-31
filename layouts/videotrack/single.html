@@ -36,7 +36,7 @@
     {{- if in (print $.Site.BaseURL) "localhost" }}
     <div class="placeholder">(comments will go here)</div>
     {{- else }}
-    <div id="commento"></div>
+    <div id="commento" data-page-id="/video/track/{{ .File.ContentBaseName }}"></div>
     <script src="{{ .Site.Params.commentoUrl }}"></script>
     {{- end }}
 </section>
