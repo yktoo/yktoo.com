@@ -9,16 +9,13 @@ software: infopi
 
 **InfoPi** is a single-page web application that displays various live data, like weather forecast and train departure times.
 
-The back-end (web server) part is using [Python 3](https://docs.python.org/3/). The front-end is written on [AngularJS 1.x](https://angularjs.org/) and [Twitter Bootstrap 3.x](http://getbootstrap.com/).
+The application is developed with [Angular](https://angular.io/) version **9** and can be packaged with the [Electron](https://www.electronjs.org/) browser to make an all-in-one executable bundle.
 
-My own implementation is specifically crafted for:
+My own implementation was crafted for *Raspberry Pi* running [Raspbian Stretch](https://www.raspberrypi.org/downloads/raspbian/) and a full HD monitor (**1920×1080** pixels) in the portrait orientation, but it should run on any platform that Electron supports and properly adapt itself to a broad range of resolutions.
 
-* RaspberryPi running [Raspbian Jessie](https://www.raspberrypi.org/downloads/raspbian/).
-* Full HD monitor (1920&times;1080 pixels) in the portrait orientation.
+This is how the information display looks like:
 
-This is how the information page looks like:
-
-{{< imgfig "screenshot.png" "Screenshot of the application" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/wnaauxybvl1limkdx8mi.jpg" "Screenshot of the application" >}}
 
 ## Getting started
 

@@ -7,19 +7,14 @@ weight: 4
 software: infopi
 ---
 
-**InfoPi** — это одностраничное веб-приложение, отображающее различные данные, такие как прогноз погоды и расписание поездов, обновляемые в реальном времени.
+**InfoPi** — это одностраничное веб-приложение, отображающее различные данные, такие как прогноз погоды и расписание поездов, обновляемые в реальном времени. Приложение разработано на [Angular](https://angular.io/) версии **9** и может быть собрано в один запускаемый пакет с браузером [Electron](https://www.electronjs.org/).
 
-Бэкенд (веб-сервер) написан на [Python 3](https://docs.python.org/3/). Фронтенд построен на базе [AngularJS 1.x](https://angularjs.org/) и [Twitter Bootstrap 3.x](http://getbootstrap.com/).
-
-Моя реализация заточена специально под:
-
-* Raspberry Pi с установленной [Raspbian Jessie](https://www.raspberrypi.org/downloads/raspbian/).
-* Full-HD-монитор (1920&times;1080 пиксел) в портретной ориентации.
+Моя реализация заточена под {{< fl "Raspberry Pi" >}} с [Raspbian Stretch](https://www.raspberrypi.org/downloads/raspbian/) и {{< fl "Full-HD" >}}-монитор (**1920×1080** пиксел) в портретной ориентации. Однако оно должно работать на любой поддерживаемой {{< fl "Electron" >}} платформе и будет подстраиваться под доступное разрешение дисплея.
 
 Выглядит это следующим образом:
 
-{{< imgfig "screenshot.png" "Скриншот InfoPi" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/wnaauxybvl1limkdx8mi.jpg" "Скриншот InfoPi" >}}
 
 ## Как построить
 
-Если вы хотите сделать себе аналогичный экземпляр InfoPi, следуйте шагам, описанным в [README на GitHub](https://github.com/yktoo/infopi/blob/master/README.md) (*англ.*).
+Если вы хотите сделать себе аналогичный экземпляр {{< fl "InfoPi" >}}, следуйте шагам, описанным в [README на GitHub](https://github.com/yktoo/infopi/blob/master/README.md) (*англ.*).
