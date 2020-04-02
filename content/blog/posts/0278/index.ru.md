@@ -15,6 +15,7 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/mppchq6tdmwm1119.jpg"
 aliases:
     - /ru/blog/post/278
+series: infopi
 ---
 
 *Когда гику нечего делать, он начинает заниматься домашней автоматизацией. А когда уже нечего автоматизировать, он пишет об этом в блог.*

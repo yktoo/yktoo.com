@@ -14,6 +14,7 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/mppchq6tdmwm1119.jpg"
 aliases:
     - /en/blog/post/278
+series: infopi
 ---
 
 *When a geek gets bored, he usually dives into home automation. And when there's nothing more left to automate, he blogs about it.*
