@@ -19,7 +19,7 @@ series: coronavirus
 
 Уже довольно мало о чём говорящая статистика от {{< a "https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6" "Johns Hopkins University" >}}: в мире сейчас **174 961** заражённых, **6 705** умерших и **77 658** выздоровевших.
 
-В Нидерландах {{< a "https://localfocus2.appspot.com/5e68e7405456b" "заразилось" >}} **1 413** и умерло **24** человека, а статистику выздоровления никто не ведёт — для {{< fl "RIVM" >}} это оказалось {{< a "https://nos.nl/nieuwsuur/artikel/2326881-medische-microbiologen-informatie-rivm-loopt-achter-en-is-incompleet.html" "слишком сложно" >}}.
+В Нидерландах {{< a "https://localfocus2.appspot.com/5e68e7405456b" "заразилось" >}} **1 413** и умерло **24** человека, а статистику выздоровления никто не ведёт — для {{< abbr "RIVM" "Национальный институт здравоохранения и окружающей среды" >}} это оказалось {{< a "https://nos.nl/nieuwsuur/artikel/2326881-medische-microbiologen-informatie-rivm-loopt-achter-en-is-incompleet.html" "слишком сложно" >}}.
 
 <!--more-->
 

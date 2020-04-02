@@ -16,7 +16,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/pvejwdk4j0bmik4xkeoq.
 imageCredit: "Фото: EenVandaag."
 ---
 
-Хлорохин, давно известное средство от малярии, {{< a "0681" "называется" >}} {{< fl "RIVM" >}} одним из перспективных лекарств против коронавируса {{< fl "COVID-19" >}}.
+Хлорохин, давно известное средство от малярии, {{< a "0681" "называется" >}} {{< abbr "RIVM" "Национальный институт здравоохранения и окружающей среды" >}} одним из перспективных лекарств против коронавируса {{< fl "COVID-19" >}}.
 
 Дональд Трамп также [упомянул](https://www.fox10phoenix.com/news/trump-says-hydroxychloroquine-could-be-answer-to-covid-but-fauci-says-not-yet) гидроксихлорохин, одну из его производных, как потенциальное средство.
 
