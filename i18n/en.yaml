@@ -67,8 +67,8 @@
 - {id: postIn_nl,         translation: in Dutch}
 - {id: postIn_ru,         translation: in Russian}
 - {id: postInLangs,       translation: This post}
-- {id: postNext,          translation: ← Next post}
-- {id: postPrev,          translation: Previous post →}
+- {id: postNext,          translation: Next post}
+- {id: postPrev,          translation: Previous post}
 - {id: posts_en,          translation: English posts}
 - {id: posts_nl,          translation: Dutch posts}
 - {id: posts_ru,          translation: Russian posts}

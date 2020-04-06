@@ -576,6 +576,10 @@ a {
 .bycon {
     padding-right: 0.2em;
 }
+// The same, but it follows a label
+.bycon-after {
+    padding-left: 0.2em;
+}
 .colourise {
     &.fa-facebook       {color: #3b5998;}
     &.fa-envelope       {color: #da3838;}
