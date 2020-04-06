@@ -15,7 +15,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/goxw0iugoywozo2gzapq.
 imageCredit: "Фото: РИА Новости/МО РФ."
 ---
 
-Нидерландская государственная телерадиокампния {{< fl "NOS" >}} опубликовала любопытную статью под названием «[Почему Россия помогает другим странам, несмотря на собственный кризис](https://nos.nl/artikel/2329571-waarom-rusland-ondanks-de-eigen-coronacrisis-andere-landen-helpt.html)», которую я решил перевести на русский.
+Нидерландская государственная телерадиокомпания {{< fl "NOS" >}} опубликовала любопытную статью под названием «[Почему Россия помогает другим странам, несмотря на собственный кризис](https://nos.nl/artikel/2329571-waarom-rusland-ondanks-de-eigen-coronacrisis-andere-landen-helpt.html)», которую я решил перевести на русский.
 
 Под катом оголтелая русофобия, пескоструйство и скрепонеприятие.
 
