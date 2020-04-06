@@ -30,7 +30,7 @@ series: dutch-expressions
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/l8b4evkavlyg45eqfem7.jpg" "Картинка: Albert Heijn." >}}
 
-## Пример
+## Примеры
 
 * {{< fl "De supermarkt schreeuwt dit keer: níet **hamsteren**!" >}}
 * {{< fl "Er zijn geen tekorten, waarom **hamsteren** we dan toch?" >}}
