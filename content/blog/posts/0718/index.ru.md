@@ -22,7 +22,7 @@ series: dutch-expressions
 
 ## Значение
 
-По [утверждению](https://taaladvies.net/taal/advies/vraag/713/riem_onder_het_hart_steken_hart_onder_de_riem_steken/) лигвистов, {{< fl "hart" >}} — «сердце» — в данном конкретном случае используется как средоточие души или же смелости.
+По [утверждению](https://taaladvies.net/taal/advies/vraag/713/riem_onder_het_hart_steken_hart_onder_de_riem_steken/) лингвистов, {{< fl "hart" >}} — «сердце» — в данном конкретном случае используется как средоточие души или же смелости.
 
 Как, например, во фразе «от страха душа у него ушла в пятки», имеющей почти дословный аналог в голландском: {{< fl "het hart zonk hem in de schoenen" >}} («душа ушла в ботинки»).
 
