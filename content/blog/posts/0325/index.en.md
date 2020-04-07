@@ -12,7 +12,7 @@ aliases:
     - /en/blog/post/325
 ---
 
-My latest *Dutch language course* has come to an end. It took almost a year to get through, partly due to my {{< a "/series/business" "entrepreneurial" >}} adventures. I've started the course, at the time paid by my employer ING, in July last year, and kept getting lessons long after leaving ING.
+My latest *Dutch language course* has come to an end. It took almost a year to get through, partly due to my [entrepreneurial](/series/business) adventures. I've started the course, at the time paid by my employer ING, in July last year, and kept getting lessons long after leaving ING.
 
 <!--more-->
 
@@ -24,7 +24,7 @@ The total of sixty hours of *individual* lessons (30 two-hour sessions) and innu
 
 I'm personally not convinced my Dutch is that great as I still face enough difficulties with it, but I do trust the teacher. What is certain is that my command of the language has significantly improved during that course. And important part of that progress was due to individual lessons. I've had a few group classes before and there's a world of difference. Being face to face with the teacher, you get all the attention and are not constrained to talk or to read as much as you need.
 
-As part of this course I've translated (and proofread) {{< a "/blog/archive" "several blog posts" "nl" >}} and almost finished the book [Nederlands naar perfectie](https://shop.coutinho.nl/store_nl/nederlands-naar-perfectie.html) ("Dutch to perfection"):
+As part of this course I've translated (and proofread) [several blog posts](nl;/blog/archive) and almost finished the book [Nederlands naar perfectie](https://shop.coutinho.nl/store_nl/nederlands-naar-perfectie.html) ("Dutch to perfection"):
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/g7iprcv2jm4m1000.jpg" "Nederlands naar perfectie." >}}
 

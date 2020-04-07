@@ -14,13 +14,13 @@ aliases:
 
 Holland is decidedly and prominently a bike-land. Any Dutch settlement features miles of bike paths, bike traffic-lights, special bike road marking, ubiquitous bike parkings and bike rental at every train station.
 
-But {{< a "0221" "our Houten" >}} seems to be in the lead here.
+But [our Houten](0221) seems to be in the lead here.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/eos7dxmo56xa3628.jpg" >}}
 
 <!--more-->
 
-An active growth of Houten municipality began in 1970's. Back then it was just a little village with about four thousand inhabitants. It is around that time that a strategic plan, whose objective was to stimulate the residents to use bikes while discouraging them from driving, has been developed. This was also the time when the butterfly-shaped by-pass road (the {{< fl "Rondweg" >}}) was built—I mentioned it along with the district breakdown in my {{< a "0221" "last post" >}}.
+An active growth of Houten municipality began in 1970's. Back then it was just a little village with about four thousand inhabitants. It is around that time that a strategic plan, whose objective was to stimulate the residents to use bikes while discouraging them from driving, has been developed. This was also the time when the butterfly-shaped by-pass road (the {{< fl "Rondweg" >}}) was built—I mentioned it along with the district breakdown in my [last post](0221).
 
 One of the strategic provision stipulated that with a car one district from another can only be reached using the by-pass road, and there would be no drive-through route. Cyclists don't face this restriction, therefore biking to friends' is often faster than driving.
 
@@ -106,4 +106,4 @@ However, since our town is pretty small, it's not that busy on all these bike ro
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1nu3bbgxfhl32102.jpg" >}}
 
-Next: {{< a "0223" "Part 3. Water and Fruits" >}}
+Next: [Part 3. Water and Fruits](0223)

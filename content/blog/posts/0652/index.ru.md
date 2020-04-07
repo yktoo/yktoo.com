@@ -12,7 +12,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/xj6mhhjkssqui9ly3v2h.
 imageCredit: "Фото: Mae Mu/Unsplash."
 ---
 
-**1** июля {{< year 2020 "этого" >}} года {{< a "https://www.bakkersinbedrijf.nl/blogs/nieuwe-wetgeving-voor-brood-hoe-zit-dat" "вступают" >}} в силу поправки к нидерландскому закону {{< a "https://www.rijksoverheid.nl/documenten/besluiten/2019/09/26/besluit-wijziging-van-het-warenwetbesluit-meel-en-brood-en-het-warenwetbesluit-bestuurlijke-boeten" "Warenwetbesluit Meel en brood" >}}, регулирующему производство хлеба.
+**1** июля {{< year 2020 "этого" >}} года [вступают](https://www.bakkersinbedrijf.nl/blogs/nieuwe-wetgeving-voor-brood-hoe-zit-dat) в силу поправки к нидерландскому закону [Warenwetbesluit Meel en brood](https://www.rijksoverheid.nl/documenten/besluiten/2019/09/26/besluit-wijziging-van-het-warenwetbesluit-meel-en-brood-en-het-warenwetbesluit-bestuurlijke-boeten), регулирующему производство хлеба.
 
 Наряду с некоторыми техническими подробностями, такими как содержание сухого вещества в готовом продукте, он также задаёт более строгие правила, применяемые к названиям сортов.
 

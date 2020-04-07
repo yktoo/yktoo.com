@@ -12,9 +12,9 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/xurrs5luziwrwnp5efjq.jpg"
 ---
 
-Девятилетний бельгийский вундеркинд Лоран Симон ({{< fl "Laurent Simons" >}}), новость о котором в своё время {{< a "https://edition.cnn.com/2019/11/14/europe/university-graduate-child-genius-scli-intl/index.html" "облетела" >}} весь мир, со скандалом покидает технический университет Эйндховена ({{< fl "TU Eindhoven" >}}).
+Девятилетний бельгийский вундеркинд Лоран Симон ({{< fl "Laurent Simons" >}}), новость о котором в своё время [облетела](https://edition.cnn.com/2019/11/14/europe/university-graduate-child-genius-scli-intl/index.html) весь мир, со скандалом покидает технический университет Эйндховена ({{< fl "TU Eindhoven" >}}).
 
-Лишь месяц назад ему {{< a "https://www.ad.nl/binnenland/nog-nooit-vertoond-laurent-9-haalt-bachelor-aan-tu-eindhoven~ac6cc143/" "пророчили" >}} стать самым молодым выпускником университета в мире.
+Лишь месяц назад ему [пророчили](https://www.ad.nl/binnenland/nog-nooit-vertoond-laurent-9-haalt-bachelor-aan-tu-eindhoven~ac6cc143/) стать самым молодым выпускником университета в мире.
 
 Причины разрыва его отношений с {{< fl "TU Eindhoven" >}} до конца не ясны, родители мальчика утверждают одно, университет — другое.
 
@@ -32,7 +32,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/xurrs5luziwrwnp5efjq.
 
 ## Версия TU/e
 
-Представители университета {{< a "https://www.ad.nl/binnenland/ouders-hoogbegaafde-laurent-9-halen-hem-van-tu-eindhoven-na-conflict~a746bf4b/" "заявляют" >}}:
+Представители университета [заявляют](https://www.ad.nl/binnenland/ouders-hoogbegaafde-laurent-9-halen-hem-van-tu-eindhoven-na-conflict~a746bf4b/):
 
 > Университет считает заявленную дату окончания нереальной, учитывая количество экзаменов, которые Лорану ещё предстоит сдать до его десятилетия 26 декабря. Его родители не согласились с предложенным нами расписанием и приняли решение забрать мальчика из университета. Мы сожалеем об этом решении. Мы считаем, что Лорану нужна непрерывность [обучения], чтобы полностью реализовать его таланты.
 

@@ -14,7 +14,7 @@ imageCredit: "Photo by 7for4."
 series: music
 ---
 
-Friday! This fourteenth edition of {{< a "/series/music" "Musicellaneous" >}} presents a little known yet extremely professional German collective with the funky name {{< a "http://www.7for4.de/" "7for4" >}}.
+Friday! This fourteenth edition of [Musicellaneous](/series/music) presents a little known yet extremely professional German collective with the funky name [7for4](http://www.7for4.de/).
 
 **7for4** was founded back in **1999** by the guitarist and the band's frontman {{< fl "Wolfgang Zenk" >}}. It has released *only* four albums to date.
 

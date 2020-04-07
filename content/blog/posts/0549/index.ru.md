@@ -12,13 +12,13 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/nd3w4wxq5drvxfygclnf.
 imageCredit: "Фото: Donald Trung Quoc Don/Wikimedia/CC-BY-SA-4.0."
 ---
 
-С апреля {{< year 2020 "этого" >}} года процент по депозитам (сберегательным вкладам) в одном из крупнейших нидерландских банков {{< fl "ABN Amro" >}} {{< a "https://nos.nl/artikel/2318504-vanaf-april-0-procent-spaarrente-bij-abn-amro.html" "станет" >}} нулевым.
+С апреля {{< year 2020 "этого" >}} года процент по депозитам (сберегательным вкладам) в одном из крупнейших нидерландских банков {{< fl "ABN Amro" >}} [станет](https://nos.nl/artikel/2318504-vanaf-april-0-procent-spaarrente-bij-abn-amro.html) нулевым.
 
 Если же у вас на счету свыше **€ 2,5 млн**, то ставка будет даже *отрицательной*: **-0,5%**. Иными словами, за хранение в банке такой суммы вы будете платить ему деньги.
 
 <!--more-->
 
-{{< fl "ABN Amro" >}} — первый крупный банк в Нидерландах, упразднивший процент по вкладам. Ранее также ходили слухи, что для сумм свыше **€ 100 000** ставка станет отрицательной, но в октябре банк их {{< a "https://nos.nl/artikel/2310225-abn-amro-belooft-dat-spaarrente-nooit-onder-nul-komt.html" "опроверг" >}}.
+{{< fl "ABN Amro" >}} — первый крупный банк в Нидерландах, упразднивший процент по вкладам. Ранее также ходили слухи, что для сумм свыше **€ 100 000** ставка станет отрицательной, но в октябре банк их [опроверг](https://nos.nl/artikel/2310225-abn-amro-belooft-dat-spaarrente-nooit-onder-nul-komt.html).
 
 Председатель правления банка {{< fl "Kees van Dijkhuizen" >}}:
 

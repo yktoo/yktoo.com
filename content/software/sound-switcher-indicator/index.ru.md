@@ -22,7 +22,7 @@ seeAlso:
 
 {{< imgfig "prefs-devices.png" "Диалог настроек." >}}
 
-> Разработка {{< fl "Sound Switcher Indicator" >}} ведётся при помощи {{< a "/blog/posts/0359" "бесплатной лицензии JetBrains" >}}.
+> Разработка {{< fl "Sound Switcher Indicator" >}} ведётся при помощи [бесплатной лицензии JetBrains](/blog/posts/0359).
 >
 > {{< button "https://www.jetbrains.com/?from=SoundSwitcherIndicator" "![JetBrains logo](jetbrains.png)" >}}
 
@@ -30,13 +30,13 @@ seeAlso:
 
 На этой странице вы можете загрузить последние версии бинарного `.deb`-пакета или исходного кода программы. Скачать другие версии можно на странице [Launchpad PPA packages](https://launchpad.net/~yktooo/+archive/ppa/+packages).
 
-{{< a "https://github.com/yktoo/indicator-sound-switcher/blob/dev/doc/install.md" "Установить" >}} {{< fl "Sound Switcher Indicator" >}} можно одним из трёх способов, описанных ниже.
+[Установить](https://github.com/yktoo/indicator-sound-switcher/blob/dev/doc/install.md) {{< fl "Sound Switcher Indicator" >}} можно одним из трёх способов, описанных ниже.
 
 ### Установка из PPA (рекомендуемый способ)
 
 Если у вас {{< fl "Ubuntu" >}} или один из производных от него дистрибутивов, лучше использовать стандартный метод установки пакетов: персональный архив ({{< fl "Private Package Archive" >}}, {{< fl "PPA" >}}). В этом случае приложение будет в будущем обновляться автоматически.
 
-Чтобы установить индикатор из {{< a "https://launchpad.net/~yktooo/+archive/ubuntu/ppa" "моего PPA" >}}, выполните следующие команды в Терминале:
+Чтобы установить индикатор из [моего PPA](https://launchpad.net/~yktooo/+archive/ubuntu/ppa), выполните следующие команды в Терминале:
 
 ```bash
 sudo apt-add-repository ppa:yktooo/ppa
@@ -48,7 +48,7 @@ sudo apt-get install indicator-sound-switcher
 
 Если установка из {{< fl "PPA" >}} невозможна или нежелательна, вы можете скачать бинарный `.deb`-пакет вручную.
 
-1. Загрузите последнюю версию `.deb`-пакета, кликнув по кнопке загрузки ниже, либо перейдите в раздел {{< a "https://launchpad.net/~yktooo/+archive/ubuntu/ppa/+packages" "Packages" >}} на {{< fl "Launchpad" >}}, выберите нужную версию индикатора (кликните по ней, чтобы развернуть список файлов) и скачайте `.deb` оттуда.
+1. Загрузите последнюю версию `.deb`-пакета, кликнув по кнопке загрузки ниже, либо перейдите в раздел [Packages](https://launchpad.net/~yktooo/+archive/ubuntu/ppa/+packages) на {{< fl "Launchpad" >}}, выберите нужную версию индикатора (кликните по ней, чтобы развернуть список файлов) и скачайте `.deb` оттуда.
 2. Установите загруженный пакет с помощью {{< fl "Software Center" >}} или выполнив следующую команду в Терминале:
 ```bash
 sudo dpkg -i /путь/к/скачанному/indicator-sound-switcher_*_all.deb
@@ -58,7 +58,7 @@ sudo dpkg -i /путь/к/скачанному/indicator-sound-switcher_*_all.de
 
 Чтобы установить приложение из исходного кода (так называемого {{< fl "source tarball" >}}):
 
-1. Загрузите последнюю версию (`indicator-sound-switcher-*.tar.gz`), кликнув по кнопке загрузки ниже, либо перейдите в раздел {{< a "https://launchpad.net/~yktooo/+archive/ubuntu/ppa/+packages" "Packages" >}} на {{< fl "Launchpad" >}}, выберите нужную версию индикатора (кликните по ней, чтобы развернуть список файлов) и скачайте `.tar.gz` оттуда.
+1. Загрузите последнюю версию (`indicator-sound-switcher-*.tar.gz`), кликнув по кнопке загрузки ниже, либо перейдите в раздел [Packages](https://launchpad.net/~yktooo/+archive/ubuntu/ppa/+packages) на {{< fl "Launchpad" >}}, выберите нужную версию индикатора (кликните по ней, чтобы развернуть список файлов) и скачайте `.tar.gz` оттуда.
 2. Распакуйте архив с исходным кодом: `tar xf indicator-sound-switcher-*.tar.gz`
 3. Перейдите (`cd`) в каталог `indicator-sound-switcher-*`
 4. Выполните команду `sudo python3 setup.py install`

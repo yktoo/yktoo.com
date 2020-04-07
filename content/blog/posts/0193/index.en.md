@@ -32,7 +32,7 @@ Because of the drizzle we couldn't get to see the village that time, so we came 
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/2p8rm4f004zd2643.jpg" >}}
 
-Alte is situated on a slope, which makes its streets steep and narrow, like in {{< a "0192" "Albufeira" >}}, and cobble-paved.
+Alte is situated on a slope, which makes its streets steep and narrow, like in [Albufeira](0192), and cobble-paved.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/gikedlc3vzbb1039.jpg" >}}
 
@@ -68,13 +68,13 @@ The houses are whitewashed according to the tradition. Some are inhabited not on
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vgix5v2m4nq61748.jpg" >}}
 
-Street name plates are also remarkable here. They are not as fancy as in {{< a "0192" "Albufeira" >}}, but they show a personal touch:
+Street name plates are also remarkable here. They are not as fancy as in [Albufeira](0192), but they show a personal touch:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/4f3ejhxuqcmw1444.jpg" >}}
 
 I appreciate the effort put in making them.
 
-Alte has apparently clay soil, which is reddish like it was in the {{< a "0191" "orange grove" >}}:
+Alte has apparently clay soil, which is reddish like it was in the [orange grove](0191):
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/g8xjr4zhcx4a2352.jpg" >}}
 
@@ -84,4 +84,4 @@ Patriotic and enthusiastic locals have painted the coat of arms of Portugal on a
 
 I wouldn't evaluate Alte as an extremely beautiful place, but I liked its native air. But even here you find English on signs and souvenir stores. Meaning, this place is known to tourists.
 
-Next: {{< a "0194" "Part 5. Edge of the world in Sagres" >}}
+Next: [Part 5. Edge of the world in Sagres](0194)

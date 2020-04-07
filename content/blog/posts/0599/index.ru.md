@@ -16,7 +16,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/t9rrkemslp7xbutut18b.
 imageCredit: "Фото: Nik Morris/Flickr/CC-BY-NC-SA-2.0."
 ---
 
-Курение на всех железнодорожных станциях в Нидерландах {{< a "https://nos.nl/artikel/2320938-roken-en-verkoop-van-tabak-op-treinstations-in-de-ban.html" "будет" >}} полностью запрещено.
+Курение на всех железнодорожных станциях в Нидерландах [будет](https://nos.nl/artikel/2320938-roken-en-verkoop-van-tabak-op-treinstations-in-de-ban.html) полностью запрещено.
 
 Все оборудованные на перронах зоны для курения ({{< fl "rookzone" >}}) будут демонтированы, а {{< fl "NS" >}} перестанет продавать сигареты в принадлежащих ей магазинах.
 
@@ -42,4 +42,4 @@ imageCredit: "Фото: Nik Morris/Flickr/CC-BY-NC-SA-2.0."
 
 {{< fl "ProRail" >}} обещает не штрафовать нарушителей в массовом порядке, рассчитывая на законопослушность курильщиков.
 
-В настоящее время на станциях ежегодно {{< a "https://www.ad.nl/binnenland/alle-treinstations-worden-dit-jaar-rookvrij~a9eb56ae/" "выписывается" >}} примерно две тысячи штрафов — **€ 95** каждый — за курение вне обозначенных зон.
+В настоящее время на станциях ежегодно [выписывается](https://www.ad.nl/binnenland/alle-treinstations-worden-dit-jaar-rookvrij~a9eb56ae/) примерно две тысячи штрафов — **€ 95** каждый — за курение вне обозначенных зон.

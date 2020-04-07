@@ -11,7 +11,7 @@ aliases:
     - /en/blog/post/160
 ---
 
-It's been exactly one year since I've had {{< a "0112" "laser eye surgery" >}}. As aftercare I got a number of checkups: the next day, one month and three months later, and, finally, after a year.
+It's been exactly one year since I've had [laser eye surgery](0112). As aftercare I got a number of checkups: the next day, one month and three months later, and, finally, after a year.
 
 <!--more-->
 

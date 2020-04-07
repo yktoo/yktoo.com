@@ -14,7 +14,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/t0hwiujtfjd7agdfqcb8.
 imageCredit: "Фото: Jeroen Akkermans/Flickr/CC-BY-NC-SA-2.0."
 ---
 
-Объединенная следственная группа, ведущая уголовное расследование крушения рейса {{< fl "MH17" >}} **17** июля **2014** года ({{< a "http://jitmh17.com/" "JIT" >}}) сегодня {{< a "https://nos.nl/artikel/2310411-jit-rusland-en-separatisten-hadden-voor-mh17-ramp-dagelijks-contact.html" "выступила" >}} с новым обращением к возможным свидетелям: на сайте полиции Нидерландов опубликованы {{< a "https://www.politie.nl/ru/themes/mh17-%D0%BF%D0%BE%D0%B8%D1%81%D0%BA-%D1%81%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D0%B5%D0%BB%D0%B5%D0%B9-%D0%BA%D0%B0%D1%82%D0%B0%D1%81%D1%82%D1%80%D0%BE%D1%84%D1%8B.html" "русская" >}} и {{< a "https://www.politie.nl/themas/flight-mh17/witness-appeal-crash-mh17.html" "английская" >}} версии документа.
+Объединенная следственная группа, ведущая уголовное расследование крушения рейса {{< fl "MH17" >}} **17** июля **2014** года ([JIT](http://jitmh17.com/)) сегодня [выступила](https://nos.nl/artikel/2310411-jit-rusland-en-separatisten-hadden-voor-mh17-ramp-dagelijks-contact.html) с новым обращением к возможным свидетелям: на сайте полиции Нидерландов опубликованы [русская](https://www.politie.nl/ru/themes/mh17-%D0%BF%D0%BE%D0%B8%D1%81%D0%BA-%D1%81%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D0%B5%D0%BB%D0%B5%D0%B9-%D0%BA%D0%B0%D1%82%D0%B0%D1%81%D1%82%D1%80%D0%BE%D1%84%D1%8B.html) и [английская](https://www.politie.nl/themas/flight-mh17/witness-appeal-crash-mh17.html) версии документа.
 
 <!--more-->
 

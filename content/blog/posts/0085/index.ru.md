@@ -99,4 +99,4 @@ aliases:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/dvu5x962ih8m2319.jpg" >}}
 
-Продолжение: {{< a "0086" "Часть 4. Вена. Шёнбрунн" >}}
+Продолжение: [Часть 4. Вена. Шёнбрунн](0086)

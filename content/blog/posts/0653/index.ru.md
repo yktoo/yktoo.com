@@ -11,7 +11,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/vry4nacyzdjhsp0hf0xh.
 imageCredit: "Кадр из видео Peter van den Bosch."
 ---
 
-Прошлой ночью над Нидерландами {{< a "https://nos.nl/artikel/2325535-meldingen-van-felle-lichtflits-boven-nederland-en-belgie-mogelijk-meteoor.html" "пролетел" >}} метеор, который было видно из многих мест страны и даже из Бельгии.
+Прошлой ночью над Нидерландами [пролетел](https://nos.nl/artikel/2325535-meldingen-van-felle-lichtflits-boven-nederland-en-belgie-mogelijk-meteoor.html) метеор, который было видно из многих мест страны и даже из Бельгии.
 
 Случилось это около половины первого ночи.
 
@@ -25,4 +25,4 @@ imageCredit: "Кадр из видео Peter van den Bosch."
 
 {{< youtube "rdgDQZR2NWE" >}}
 
-До поверхности земли, судя по всему, ничего материального не долетело — свидетели {{< a "https://twitter.com/rynnus/status/1234629790839320577" "сообщают" >}} о двух ярких вспышках, которыми завершилось земное существование метеора.
+До поверхности земли, судя по всему, ничего материального не долетело — свидетели [сообщают](https://twitter.com/rynnus/status/1234629790839320577) о двух ярких вспышках, которыми завершилось земное существование метеора.

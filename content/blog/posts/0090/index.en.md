@@ -165,4 +165,4 @@ And, to round this part off, a panorama shot at the top of the hill:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/jxi8cn2phh111270.jpg" >}}
 
-Last: {{< a "0091" "Part 9. Budapest. St. Stephen's Basilica" >}}
+Last: [Part 9. Budapest. St. Stephen's Basilica](0091)

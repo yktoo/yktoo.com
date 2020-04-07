@@ -15,7 +15,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/v1580387919/blog/py2sixbkp
 imageCredit: "Фото: William Iven/Pixabay."
 ---
 
-Фриланс-платформа {{< fl "Hoofdkraan.nl" >}} {{< a "https://www.hoofdkraan.nl/tarieven-onderzoek/2019" "сообщает" >}} о результатах исследования рынка фриланса за {{< yearp 2019 "прошедший" >}} год.
+Фриланс-платформа {{< fl "Hoofdkraan.nl" >}} [сообщает](https://www.hoofdkraan.nl/tarieven-onderzoek/2019) о результатах исследования рынка фриланса за {{< yearp 2019 "прошедший" >}} год.
 
 Средний тариф по всем секторам рынка вырос за год с **€ 43** до **€ 47**/час — такой вывод делается на основании анализа **20 000** выставленных оферт.
 

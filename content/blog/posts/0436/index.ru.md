@@ -11,13 +11,13 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/f2rs1fnau7lh1150.jpg"
 
 Дифирамбы Нидерландам не заканчиваются.
 
-То {{< a "0419" "WEF" >}}, то {{< a "0372" "The Economist" >}}, теперь вот издательство {{< fl "Lonely Planet" >}} {{< a "https://lonelyplanet.nl/reistips-and-trends/best-in-travel-2020-top-10-landen" "опубликовало" >}} **Топ-10** лучших стран для туризма на {{< yearn 2020 "следующий" >}} год.
+То [WEF](0419), то [The Economist](0372), теперь вот издательство {{< fl "Lonely Planet" >}} [опубликовало](https://lonelyplanet.nl/reistips-and-trends/best-in-travel-2020-top-10-landen) **Топ-10** лучших стран для туризма на {{< yearn 2020 "следующий" >}} год.
 
 <!--more-->
 
 ## Нидерланды
 
-В этом рейтинге Нидерланды находятся на **седьмом** месте, и упоминаются они, помимо обычных майско-апрельских праздников, в связи с **75**-летием освобождения во Второй мировой войне и с фестивалем Евровидение-**2020**, который {{< a "0365" "пройдёт" >}} в Роттердаме.
+В этом рейтинге Нидерланды находятся на **седьмом** месте, и упоминаются они, помимо обычных майско-апрельских праздников, в связи с **75**-летием освобождения во Второй мировой войне и с фестивалем Евровидение-**2020**, который [пройдёт](0365) в Роттердаме.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/f2rs1fnau7lh1150.jpg" "Роттердам, Markthal." >}}
 
@@ -51,4 +51,4 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/f2rs1fnau7lh1150.jpg"
 
 {{< /table >}}
 
-Нидерландское бюро по туризму уже {{< a "https://www.nbtc.nl/nl/home/artikel/nederland-in-top-10-best-in-travel-van-lonely-planet.htm" "выразило" >}} своё одобрение тому, что в публикации {{< fl "Lonely Planet" >}} Нидерланды не ограничиваются одним лишь Амстердамом.
+Нидерландское бюро по туризму уже [выразило](https://www.nbtc.nl/nl/home/artikel/nederland-in-top-10-best-in-travel-van-lonely-planet.htm) своё одобрение тому, что в публикации {{< fl "Lonely Planet" >}} Нидерланды не ограничиваются одним лишь Амстердамом.

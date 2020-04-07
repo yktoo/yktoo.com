@@ -8,7 +8,7 @@ seeAlso:
 
 <!--more-->
 
-На ближайшее время {{< a "https://www.svb.nl/int/nl/aow/wat_is_de_aow/wanneer_aow/index.jsp" "планируется" >}} применять следующую схему:
+На ближайшее время [планируется](https://www.svb.nl/int/nl/aow/wat_is_de_aow/wanneer_aow/index.jsp) применять следующую схему:
 
 * 2020 год — **66** лет и **4** месяца
 * 2021 год — **66** лет и **4** месяца

@@ -3,4 +3,4 @@ title: Poetry and Lyrics
 layout: tracks
 ---
 
-The below list represents *almost* a complete {{< a "/radiolaria" "Radiolaria" >}} lyrics collection.
+The below list represents *almost* a complete [Radiolaria](/radiolaria) lyrics collection.

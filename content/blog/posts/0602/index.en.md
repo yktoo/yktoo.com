@@ -12,9 +12,9 @@ imageCredit: "Photo by Ostura."
 series: music
 ---
 
-It's Friday again, which means—another gulp of exotic music in the eleventh edition of {{< a "/series/music" "Musicellaneous" >}}!
+It's Friday again, which means—another gulp of exotic music in the eleventh edition of [Musicellaneous](/series/music)!
 
-This time I'm going to sidestep the tradition of reviewing instrumental djent stuff. Our guests today are the *cinematic progressive metal* band (in their own words) {{< a "https://www.osturaband.com/" "Ostura" >}} from Lebanon.
+This time I'm going to sidestep the tradition of reviewing instrumental djent stuff. Our guests today are the *cinematic progressive metal* band (in their own words) [Ostura](https://www.osturaband.com/) from Lebanon.
 
 <!--more-->
 

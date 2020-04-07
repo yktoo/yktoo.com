@@ -15,13 +15,13 @@ Joining the mass sustainability ~~hysteria~~ spree, I'd like to put my two cents
 
 Many interactions with Dutch institutions result in a filled-in and signed document that needs to be emailed or uploaded.
 
-Or another example: you visit {{< a "0257" "Russian Post" >}} where you're requested to fill out 117 copies of a certain form. Do not give in to the provocation and *do not* fill it in by hand!
+Or another example: you visit [Russian Post](0257) where you're requested to fill out 117 copies of a certain form. Do not give in to the provocation and *do not* fill it in by hand!
 
 <!--more-->
 
 ## Find deliverance in Xournal
 
-Happy Linux users have the brilliant {{< a "http://xournal.sourceforge.net/" "Xournal" >}} at their disposal. I hardly ever print out documents since the moment I've discovered it.
+Happy Linux users have the brilliant [Xournal](http://xournal.sourceforge.net/) at their disposal. I hardly ever print out documents since the moment I've discovered it.
 
 Ubuntu provides *Xournal* in its mainline repositories. You can easily install it using the standard Ubuntu Software app, or using:
 
@@ -29,7 +29,7 @@ Ubuntu provides *Xournal* in its mainline repositories. You can easily install i
 sudo apt install xournal
 ```
 
-There's also a {{< a "https://snapcraft.io/xournalpp" "snap" >}} available.
+There's also a [snap](https://snapcraft.io/xournalpp) available.
 
 ## Using Xournal
 
@@ -39,7 +39,7 @@ You can use this program as a notepad for drawings and notes, but in my opinion 
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/25bk9kz1ii4s2514.png" "Xournal: annotating PDF has never been simpler." >}}
 
-On the screenshot above, *Xournal* easily manages the **666**-page {{< a "http://www3.weforum.org/docs/WEF_TheGlobalCompetitivenessReport2019.pdf" "WEF report" >}} without a single hiccup.
+On the screenshot above, *Xournal* easily manages the **666**-page [WEF report](http://www3.weforum.org/docs/WEF_TheGlobalCompetitivenessReport2019.pdf) without a single hiccup.
 
 Using the program, you can draw and add text blocks or images right on top of any PDF. So you can, for instance, scan your signature just once and then apply wherever is needed.
 

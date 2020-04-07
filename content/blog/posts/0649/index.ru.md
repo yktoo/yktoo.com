@@ -15,9 +15,9 @@ imageCredit: "Кадр из видео NOS."
 
 Как-то не везёт Ламборгини на нидерландских дорогах.
 
-В октябре {{< yearp 2019 "прошлого" >}} года одна из них {{< a "0426" "въехала" >}} в дорожный знак.
+В октябре {{< yearp 2019 "прошлого" >}} года одна из них [въехала](0426) в дорожный знак.
 
-А в минувшую субботу ещё одна {{< fl "Lamborghini" >}} {{< a "https://www.nhnieuws.nl/nieuws/262899/lamborghini-met-duits-export-kenteken-belandt-in-heemskerkse-sloot" "съехала" >}} с дороги и упала в канаву на окраине голландского Хемскерка ({{< fl "Heemskerk" >}}).
+А в минувшую субботу ещё одна {{< fl "Lamborghini" >}} [съехала](https://www.nhnieuws.nl/nieuws/262899/lamborghini-met-duits-export-kenteken-belandt-in-heemskerkse-sloot) с дороги и упала в канаву на окраине голландского Хемскерка ({{< fl "Heemskerk" >}}).
 
 <!--more-->
 

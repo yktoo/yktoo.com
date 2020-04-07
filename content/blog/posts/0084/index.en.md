@@ -97,4 +97,4 @@ Some people prefer to save themselves climbing up a wall:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ea0mo7l39et91142.jpg" >}}
 
-Next: {{< a "0085" "Part 3. Vienna. Prater" >}}
+Next: [Part 3. Vienna. Prater](0085)

@@ -15,9 +15,9 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/gbjwadagwhnqfig3kbzs.png"
 ---
 
-Напоминание для тех, кто успел зарегистрироваться: завтра, **21 ноября** я {{< a "0428" "буду" >}} рассказывать о создании крутых статических сайтов с помощью {{< a "https://gohugo.io/" "Hugo" >}}.
+Напоминание для тех, кто успел зарегистрироваться: завтра, **21 ноября** я [буду](0428) рассказывать о создании крутых статических сайтов с помощью [Hugo](https://gohugo.io/).
 
-Если вам интересно, как делают такие сайты как {{< a "https://gohugo.io/showcase/letsencrypt/" "Let's Encrypt" >}}, {{< a "https://gohugo.io/showcase/1password-support/" "1Password Support" >}} или, например, вот этот — милости просим.
+Если вам интересно, как делают такие сайты как [Let's Encrypt](https://gohugo.io/showcase/letsencrypt/), [1Password Support](https://gohugo.io/showcase/1password-support/) или, например, вот этот — милости просим.
 
 <!--more-->
 

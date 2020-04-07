@@ -20,7 +20,7 @@ Say, I've been using the **Foscam C1** webcam for a couple of years, one that lo
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ymvghmzu32zbjqzuintb.jpg" "Foscam C1 webcam." >}}
 
-I've bought back in the day it not only because it was reasonably priced, but mainly thanks to the fact you can play its video stream with any {{< fl "RTSP" >}}-capable player, for example, {{< a "https://www.videolan.org/vlc/" "VLC" >}}. All you need is to open the following address:
+I've bought back in the day it not only because it was reasonably priced, but mainly thanks to the fact you can play its video stream with any {{< fl "RTSP" >}}-capable player, for example, [VLC](https://www.videolan.org/vlc/). All you need is to open the following address:
 
 ```
 rtsp://<username>:<password>@<IP address>/videoMain
@@ -28,7 +28,7 @@ rtsp://<username>:<password>@<IP address>/videoMain
 
 Unfortunately, you can't configure it to use a fixed IP address, but this can be worked around with *DHCP address reservation* on the router.
 
-Its {{< a "https://play.google.com/store/apps/details?id=com.foscam.foscam" "mobile app" >}}, which is needed if you want to watch the video feed outside of your home network, is as good as horrible. It seems to violate every single UX design pattern—which is not so uncommon with our Chinese friends I must say.
+Its [mobile app](https://play.google.com/store/apps/details?id=com.foscam.foscam), which is needed if you want to watch the video feed outside of your home network, is as good as horrible. It seems to violate every single UX design pattern—which is not so uncommon with our Chinese friends I must say.
 
 But hey, *this* stands out even for the Chinese software standards. Have a look how they've implemented the pattern login function in their app (which they call "gesture login" for some reason):
 

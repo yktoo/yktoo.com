@@ -18,7 +18,7 @@ aliases:
     - /ru/blog/post/170
 ---
 
-17 ноября в амстелвейнском клубе [P60](http://www.p60.nl/) (в котором я уже был дважды: {{< a "0098" "1" >}}, {{< a "0101" "2" >}}) состоялся благотворительный концерт под названием {{< fl "Metal for Mara" >}}.
+17 ноября в амстелвейнском клубе [P60](http://www.p60.nl/) (в котором я уже был дважды: [1](0098), [2](0101)) состоялся благотворительный концерт под названием {{< fl "Metal for Mara" >}}.
 
 Участниками концерта были заявлены группы {{< fl "Sin7sinS" >}}, {{< fl "Kingfisher Sky" >}}, {{< fl "Autumn" >}}, {{< fl "My Favorite Scar" >}}, {{< fl "The Gathering '92" >}} и {{< fl "Stream of Passion" >}}. «Надо идти», — подумал я, глядя на состав.
 
@@ -36,7 +36,7 @@ aliases:
 
 ## Sin7sinS {#sin7sins}
 
-Первыми были мои старые знакомые по {{< a "0098" "прошлому" >}} концерту в том же месте [Sin7sinS](http://www.sin7sins.com/), выступавшие на разогреве у Stream of Passion.
+Первыми были мои старые знакомые по [прошлому](0098) концерту в том же месте [Sin7sinS](http://www.sin7sins.com/), выступавшие на разогреве у Stream of Passion.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/r0l0vb2y1tm10984.jpg" >}}
 

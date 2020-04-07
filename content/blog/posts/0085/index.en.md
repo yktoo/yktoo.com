@@ -100,4 +100,4 @@ But we're moving on.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/dvu5x962ih8m2319.jpg" >}}
 
-Next: {{< a "0086" "Part 4. Vienna. Schönbrunn" >}}
+Next: [Part 4. Vienna. Schönbrunn](0086)

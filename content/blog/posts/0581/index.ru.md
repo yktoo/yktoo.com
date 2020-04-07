@@ -15,9 +15,9 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/xv8wzfjmpjvqevo93q5w.
 imageCredit: "Фото: Levien Willemse/Wikimedia/CC-BY-SA-4.0."
 ---
 
-Парламентская делегация нидерландской Палаты представителей ({{< fl "Tweede Kamer" >}}) отменила своё посещение России, {{< a "https://nos.nl/artikel/2320644-kamerdelegatie-niet-naar-rusland-vanwege-weigering-sjoerdsma.html" "пишет NOS" >}}.
+Парламентская делегация нидерландской Палаты представителей ({{< fl "Tweede Kamer" >}}) отменила своё посещение России, [пишет NOS](https://nos.nl/artikel/2320644-kamerdelegatie-niet-naar-rusland-vanwege-weigering-sjoerdsma.html).
 
-Причиной явился {{< a "https://nos.nl/artikel/2320527-sjoerdsma-d66-niet-welkom-in-rusland-bezoek-kamerleden-vrijwel-zeker-afgeblazen.html" "отказ" >}} России во въезде представителю партии {{< fl "D66" >}} Шурду Шурдсме ({{< fl "Sjoerd Sjoerdsma" >}}). Остальные члены делегации решили проявить с ним солидарность, вследствие чего визит был отменён полностью.
+Причиной явился [отказ](https://nos.nl/artikel/2320527-sjoerdsma-d66-niet-welkom-in-rusland-bezoek-kamerleden-vrijwel-zeker-afgeblazen.html) России во въезде представителю партии {{< fl "D66" >}} Шурду Шурдсме ({{< fl "Sjoerd Sjoerdsma" >}}). Остальные члены делегации решили проявить с ним солидарность, вследствие чего визит был отменён полностью.
 
 <!--more-->
 

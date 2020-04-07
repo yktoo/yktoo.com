@@ -31,9 +31,9 @@ So just before the New Year's eve, on December 27<sup>th</sup>, Marcela Bovio & 
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/8bbm7rd8ejzl0196.jpg" "Anneke van Giersbergen (clenching her fist) and Marcela Bovio." >}}
 
-Just like {{< a "0175" "two years ago" >}} the show was hosted by a small and cosy club in Utrecht called [Tivoli de Helling](http://www.dehelling.nl/). The concert featured an impressive list of guest singers:
+Just like [two years ago](0175) the show was hosted by a small and cosy club in Utrecht called [Tivoli de Helling](http://www.dehelling.nl/). The concert featured an impressive list of guest singers:
 
-* {{< fl "Anneke van Giersbergen" >}} (The Gathering, {{< a "0250" "The Gentle Storm" >}})
+* {{< fl "Anneke van Giersbergen" >}} (The Gathering, [The Gentle Storm](0250))
 * {{< fl "Lisette van den Berg" >}} (Scarlet Stories, Epic Rock Choir, Karmaflow)
 * {{< fl "Dianne van Giersbergen" >}} (Xandria)
 * {{< fl "Merijn van Haren" >}} (Navarone)
@@ -50,7 +50,7 @@ The tireless bassist Johan van Stratum, Marcela's hubby:
 
 There was a funny moment when Johan, violently brandishing his guitar, caught and lifted Marcela's skirt with the neck. She turned around, perplexed.
 
-Rhythm guitarist Eric Hazebroek, again playing a funny headless guitar. With eight strings it was one more compared to the {{< a "0250" "previous time" >}}.
+Rhythm guitarist Eric Hazebroek, again playing a funny headless guitar. With eight strings it was one more compared to the [previous time](0250).
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/qqaq1hljj2qm2490.jpg" "Eric Hazebroek." >}}
 
@@ -132,4 +132,4 @@ In my humble opinion, these end-year shows by *Stream of Passion* have the best 
 
 ---
 
-All gig videos are available at the {{< a "/videoevents/vevt0032" "event page" >}}.
+All gig videos are available at the [event page](/videoevents/vevt0032).

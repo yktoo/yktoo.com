@@ -26,7 +26,7 @@ I've had a great time, and the turn-out was even larger than expected.
 
 ## Presentation
 
-The event has been held at the headquarters of {{< a "https://eonics.nl/" "Eonics" >}} in the Hague.
+The event has been held at the headquarters of [Eonics](https://eonics.nl/) in the Hague.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/apxgknmkowxczspfbkkw.jpg" "Hugo presentation. Photo: ©Marcus Wagenaar/Eonics." >}}
 
@@ -55,4 +55,4 @@ The presentation is hosted online at {{< fl "GitHub Pages" >}}, accessible via t
 
 <p></p>
 
-The source code for the presentation, as well as the assignment and its solution, are available in {{< a "https://github.com/yktoo/eonics-hugo" "this GitHub repository" >}}.
+The source code for the presentation, as well as the assignment and its solution, are available in [this GitHub repository](https://github.com/yktoo/eonics-hugo).

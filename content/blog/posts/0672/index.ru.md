@@ -15,7 +15,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/fxnothbyz8ogvdmroopq.
 imageCredit: "Кадр из видео 1Limburg."
 ---
 
-В школе {{< fl "De Buitenhof" >}} в лимбургском Херлене ({{< fl "Heerlen" >}}) {{< a "https://www.1limburg.nl/digitale-gymzaal-landelijke-primeur-voor-heerlen" "открылся" >}} первый в Нидерландах «цифровой спортзал».
+В школе {{< fl "De Buitenhof" >}} в лимбургском Херлене ({{< fl "Heerlen" >}}) [открылся](https://www.1limburg.nl/digitale-gymzaal-landelijke-primeur-voor-heerlen) первый в Нидерландах «цифровой спортзал».
 
 Официально он называется {{< fl "Interactive Playground" >}} — интерактивная игровая площадка — что больше похоже на правду.
 

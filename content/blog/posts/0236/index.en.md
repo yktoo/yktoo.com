@@ -49,6 +49,6 @@ Once they've run out of ammo, they switched to sparklers ({{< fl "sterretjes" >}
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/m4faimuqwhh43507.jpg" >}}
 
-On January 1<sup>st</sup> there was a nation-wide New Year's Plunge ({{< fl "nieuwjaarsduik" >}}) again, just like {{< a "0171" "before" >}}. It was also held in [Houten](http://www.nieuwjaarsduikhouten.nl/), but I decided to skip it this time. Yet the weather was quite mild, air temperature +4° C and water 8° C.
+On January 1<sup>st</sup> there was a nation-wide New Year's Plunge ({{< fl "nieuwjaarsduik" >}}) again, just like [before](0171). It was also held in [Houten](http://www.nieuwjaarsduikhouten.nl/), but I decided to skip it this time. Yet the weather was quite mild, air temperature +4° C and water 8° C.
 
 **Happy New Year!**

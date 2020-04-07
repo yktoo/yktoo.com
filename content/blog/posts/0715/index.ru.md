@@ -28,7 +28,7 @@ imageCredit: "График: CoronaWatchNL."
 
 ## InfoPi
 
-При известной сноровке график нетрудно встроить и в {{< a "0713" "InfoPi" >}}:
+При известной сноровке график нетрудно встроить и в [InfoPi](0713):
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/anniuoeauebtwt66iwlo.png" "График COVID-19 в InfoPi." >}}
 

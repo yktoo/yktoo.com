@@ -11,9 +11,9 @@ imageCredit: "Photo by Lost in Thought."
 series: music
 ---
 
-Is it also Friday where you are? In this thirteenth edition of {{< a "/series/music" "Musicellaneous" >}} we continue to learn about lesser-known yet very *progressive* bands with a three-word title.
+Is it also Friday where you are? In this thirteenth edition of [Musicellaneous](/series/music) we continue to learn about lesser-known yet very *progressive* bands with a three-word title.
 
-Today we're listening to {{< a "https://www.litband.co.uk/" "Lost in Thought" >}} from Swansea (Wales, UK) which plays melodic *progressive metal*.
+Today we're listening to [Lost in Thought](https://www.litband.co.uk/) from Swansea (Wales, UK) which plays melodic *progressive metal*.
 
 <!--more-->
 

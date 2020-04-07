@@ -11,9 +11,9 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/bwojjhaw0ud2nilcxmbx.
 imageCredit: "Фото: NOS."
 ---
 
-В {{< yearn 2020 "следующем" >}} году все работающие {{< a "https://nos.nl/artikel/2315455-nettoloon-van-werkenden-volgend-jaar-tientjes-hoger.html" "получат" >}} прибавку к нетто-зарплате (сумме, получаемой на руки).
+В {{< yearn 2020 "следующем" >}} году все работающие [получат](https://nos.nl/artikel/2315455-nettoloon-van-werkenden-volgend-jaar-tientjes-hoger.html) прибавку к нетто-зарплате (сумме, получаемой на руки).
 
-Произойдёт это благодаря переходу на {{< a "0388#снижение-налогов-на-доходы-и-прибыль" "двухступенчатую систему" >}} налогообложения и увеличению налоговых вычетов.
+Произойдёт это благодаря переходу на [двухступенчатую систему](0388#снижение-налогов-на-доходы-и-прибыль) налогообложения и увеличению налоговых вычетов.
 
 Финансовое положение пенсионеров с дополнительной пенсией или пожизненной рентой ({{< fl "lijfrente" >}}) от этих мер, впрочем, не улучшится.
 
@@ -21,7 +21,7 @@ imageCredit: "Фото: NOS."
 
 ## Снижение налоговых ставок
 
-В **2020-2021** годах система налогообложения станет двухступенчатой, а ставки прогрессивной шкалы налогообложения {{< a "https://www.rijksoverheid.nl/onderwerpen/belastingplan/belastingwijzigingen-voor-ons-allemaal/tweeschijvenstelsel-inkomstenbelasting" "снизятся" >}}:
+В **2020-2021** годах система налогообложения станет двухступенчатой, а ставки прогрессивной шкалы налогообложения [снизятся](https://www.rijksoverheid.nl/onderwerpen/belastingplan/belastingwijzigingen-voor-ons-allemaal/tweeschijvenstelsel-inkomstenbelasting):
 
 {{< table "table table-striped" >}}
 |Сумма годового дохода|Ставка в 2019 г.|Ставка в 2020 г.|Ставка в 2021 г.|
@@ -33,7 +33,7 @@ imageCredit: "Фото: NOS."
 
 ## Рост налоговых вычетов
 
-Также увеличатся общий налоговый вычет ({{< a "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/inkomstenbelasting/heffingskortingen_boxen_tarieven/heffingskortingen/algemene_heffingskorting/algemene_heffingskorting" "algemene heffingskorting" >}}) и вычет для работающих ({{< a "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/inkomstenbelasting/heffingskortingen_boxen_tarieven/heffingskortingen/arbeidskorting/" "arbeidskorting" >}}).
+Также увеличатся общий налоговый вычет ([algemene heffingskorting](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/inkomstenbelasting/heffingskortingen_boxen_tarieven/heffingskortingen/algemene_heffingskorting/algemene_heffingskorting)) и вычет для работающих ([arbeidskorting](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/inkomstenbelasting/heffingskortingen_boxen_tarieven/heffingskortingen/arbeidskorting/)).
 
 ### Algemene heffingskorting
 
@@ -85,4 +85,4 @@ imageCredit: "Фото: NOS."
 
 Покупательная способность, согласно ожиданиям, должна вырасти: Центральное бюро планирования {{< fl "CPB" >}} прогнозирует инфляцию в {{< yearn 2020 "следующем" >}} году в **1,4%**, а рост средней нетто-зарплаты — в **2%**.
 
-Кроме того, по прогнозам Ассоциации работодателей {{< fl "AWVN" >}} средняя брутто-зарплата по коллективным договорам ({{< a "/glossary/cao" "cao" >}}) вырастет на **2,8%**. С учётом этого рост покупательной способности должен составить **2,1%**.
+Кроме того, по прогнозам Ассоциации работодателей {{< fl "AWVN" >}} средняя брутто-зарплата по коллективным договорам ([cao](/glossary/cao)) вырастет на **2,8%**. С учётом этого рост покупательной способности должен составить **2,1%**.

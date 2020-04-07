@@ -16,7 +16,7 @@ aliases:
     - /en/blog/post/118
 ---
 
-Now that October has come, the summer is finally here. The last time it visited us was {{< a "0092" "in April" >}}. After that I couldn't say we ever had summer weather in the past months. Temperature would hardly rise above 21—22° C (70—72° F), and mainly kept around 16—18° C (61—64° F), especially during August and September.
+Now that October has come, the summer is finally here. The last time it visited us was [in April](0092). After that I couldn't say we ever had summer weather in the past months. Temperature would hardly rise above 21—22° C (70—72° F), and mainly kept around 16—18° C (61—64° F), especially during August and September.
 
 But the last two days of September happened to be really warm, and on the first of October temperature soared [to 26° C](http://www.knmi.nl/climatology/daily_data/index.cgi?station=260&year=2011&month=10&day=01) (79° F) again.
 
@@ -26,7 +26,7 @@ What else could one do on such a lazy Saturday than simply go to the coast?
 
 <!--more-->
 
-So I'm in {{< a "0079" "the Hague" >}} again. Scheveningen. The coast is crowded. October 1st.
+So I'm in [the Hague](0079) again. Scheveningen. The coast is crowded. October 1st.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/dc0eu56agjk21844.jpg" >}}
 

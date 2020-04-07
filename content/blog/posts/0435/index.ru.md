@@ -17,7 +17,7 @@ imageCredit: "Фото: Jan Vašek/Pixabay."
 
 Голландское правительство уже довольно давно пытается навести порядок в миграционной политике.
 
-В июле {{< yearp 2018 "прошлого" >}} года министр по работе и социальной политике Коолмеес ({{< fl "W. Koolmees" >}}) {{< a "https://www.rijksoverheid.nl/actueel/nieuws/2018/07/02/inburgering-op-de-schop-nieuwkomers-zo-snel-mogelijk-aan-het-werk-leenstelsel-afgeschaft" "представил" >}} на рассмотрение нидерландского парламента предложения по реформированию подхода к интеграции мигрантов.
+В июле {{< yearp 2018 "прошлого" >}} года министр по работе и социальной политике Коолмеес ({{< fl "W. Koolmees" >}}) [представил](https://www.rijksoverheid.nl/actueel/nieuws/2018/07/02/inburgering-op-de-schop-nieuwkomers-zo-snel-mogelijk-aan-het-werk-leenstelsel-afgeschaft) на рассмотрение нидерландского парламента предложения по реформированию подхода к интеграции мигрантов.
 
 Основная цель этих реформ — как можно быстрее наставить «понаехавших» на путь истинный. В частности, мотивировать их найти работу.
 
@@ -25,7 +25,7 @@ imageCredit: "Фото: Jan Vašek/Pixabay."
 
 Ключевые положения письма министра тогда состояли в следующем:
 
-* Муниципалитеты, сиречь {{< a "/glossary/gemeente" "хементы" >}}, будут составлять для каждого иностранца индивидуальный план по интеграции ({{< fl "inburgeringsplan" >}}).
+* Муниципалитеты, сиречь [хементы](/glossary/gemeente), будут составлять для каждого иностранца индивидуальный план по интеграции ({{< fl "inburgeringsplan" >}}).
 * Кредит на интеграционные курсы, выдаваемый в настоящее время по заявлению мигранта, будет отменён. Вместо этого каждая хемента будет сама централизованно закупать курсы у сторонних организаций. А мигрант будет, соответственно, ответственен за их прохождение.
 * Срок, в течение которого мигрант обязан будет сдать интеграционный экзамен ({{< fl "inburgeringsexamen" >}}), останется прежним — **3** года.
 * Хемента должна сопровождать мигранта в этом процессе с самого начала, помогая, поддерживая и контролируя его успехи.
@@ -48,7 +48,7 @@ imageCredit: "Фото: Jan Vašek/Pixabay."
 
 ## Пилотные проекты
 
-Обновлённая программа интеграции сначала испытывается в виде пилотных проектов. В апреле-мае {{< year 2019 "этого" >}} года заинтересованные хементы {{< a "https://www.uitvoeringvanbeleidszw.nl/subsidies-en-regelingen/veranderopgave-inburgering-pilots/nieuws/2019/04/17/veranderopgave-inburgering-aanvraagformulieren-beschikbaar-en-aanvraagtijdvak-gewijzigd" "могли" >}} подавать заявки на участие (и соответствующее финансирование). По результатам рассмотрения заявок были {{< a "https://www.uitvoeringvanbeleidszw.nl/subsidies-en-regelingen/veranderopgave-inburgering-pilots/nieuws/2019/07/18/veranderopgave-inburgering-57-gemeenten-starten-met-pilotprogramma" "отобраны" >}} **21** проект и **57** муниципалитетов.
+Обновлённая программа интеграции сначала испытывается в виде пилотных проектов. В апреле-мае {{< year 2019 "этого" >}} года заинтересованные хементы [могли](https://www.uitvoeringvanbeleidszw.nl/subsidies-en-regelingen/veranderopgave-inburgering-pilots/nieuws/2019/04/17/veranderopgave-inburgering-aanvraagformulieren-beschikbaar-en-aanvraagtijdvak-gewijzigd) подавать заявки на участие (и соответствующее финансирование). По результатам рассмотрения заявок были [отобраны](https://www.uitvoeringvanbeleidszw.nl/subsidies-en-regelingen/veranderopgave-inburgering-pilots/nieuws/2019/07/18/veranderopgave-inburgering-57-gemeenten-starten-met-pilotprogramma) **21** проект и **57** муниципалитетов.
 
 С **1 января 2020** года участвующие в них хементы должны начать реализацию индивидуальных программ для мигрантов. Они подразделяются на несколько видов:
 
@@ -56,10 +56,10 @@ imageCredit: "Фото: Jan Vašek/Pixabay."
 * {{< fl "B1-route" >}}: повышение уровня владения языком до {{< fl "B1" >}} путём сочетания языковых курсов и работы (в том числе на общественных началах), в течение максимум трёх лет.
 * {{< fl "Zelfredzaamheidsroute" >}}, {{< fl "Z-route" >}} (самодостаточность): для тех, кому два предыдущих варианта не подходят (или не по силам) — их освободят от требования уровня {{< fl "B1" >}} на основе «достаточности продемонстрированных усилий».
 
-Различные аспекты реализации «пилотов» описаны в официальном {{< fl "Q&A" >}}-документе ({{< a "https://www.uitvoeringvanbeleidszw.nl/binaries/uitvoeringvanbeleidszw/documenten/publicaties/subsidies/veranderopgave-inburgering-pilots/qa-pilotprogramma-voi/qa-pilotprogramma-voi/20190815+Q%26A+pilotprogramma+veranderopgave+inburgering+versie+4+def.pdf" "PDF" >}}), подготовленном министерством.
+Различные аспекты реализации «пилотов» описаны в официальном {{< fl "Q&A" >}}-документе ([PDF](https://www.uitvoeringvanbeleidszw.nl/binaries/uitvoeringvanbeleidszw/documenten/publicaties/subsidies/veranderopgave-inburgering-pilots/qa-pilotprogramma-voi/qa-pilotprogramma-voi/20190815+Q%26A+pilotprogramma+veranderopgave+inburgering+versie+4+def.pdf)), подготовленном министерством.
 
 ## Вступление в силу
 
 По результатам экспериментальных проектов в {{< fl "VOI" >}}, возможно, будут вноситься изменения.
 
-Больным вопросом, как обычно, является финансирование этих программ, без которого ничего не получится. Пока что министерство {{< a "https://www.uitvoeringvanbeleidszw.nl/subsidies-en-regelingen/veranderopgave-inburgering-pilots" "заявляет" >}}, что новые правила начнут действовать с **1 января 2021** года.
+Больным вопросом, как обычно, является финансирование этих программ, без которого ничего не получится. Пока что министерство [заявляет](https://www.uitvoeringvanbeleidszw.nl/subsidies-en-regelingen/veranderopgave-inburgering-pilots), что новые правила начнут действовать с **1 января 2021** года.

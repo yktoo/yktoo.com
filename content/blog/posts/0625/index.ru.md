@@ -12,7 +12,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/abtvst5fvwkkigot1xps.
 imageCredit: "Фото: Reimund Bertrams/Pixabay."
 ---
 
-Всё больше компаний {{< a "https://nos.nl/artikel/2323665-steeds-meer-bedrijven-kiezen-voor-nederland-vanwege-brexit.html" "предпочитают" >}} Нидерланды вследствие выхода Великобритании из Евросоюза.
+Всё больше компаний [предпочитают](https://nos.nl/artikel/2323665-steeds-meer-bedrijven-kiezen-voor-nederland-vanwege-brexit.html) Нидерланды вследствие выхода Великобритании из Евросоюза.
 
 В {{< yearp 2019 "прошлом" >}} году таких было **78**, годом ранее — **43**.
 
@@ -34,7 +34,7 @@ imageCredit: "Фото: Reimund Bertrams/Pixabay."
 
 {{< fl "Jeroen Nijland" >}}, представитель {{< fl "NFIA" >}}, утверждает, что для принятия решения о переезде компаниям требуется от полугода до двух лет, и вышеприведённые цифры являются результатом работы, начатой в **2017-2018** годах.
 
-В настоящее время организация ведёт переговоры ещё с **425** компаниями, заинтересованными в миграции их бизнеса в Нидерланды. Эта цифра также выросла, годом ранее таких компаний {{< a "https://nos.nl/artikel/2268865-250-bedrijven-overwegen-verhuizing-naar-nederland-om-brexit.html" "было" >}} **250**.
+В настоящее время организация ведёт переговоры ещё с **425** компаниями, заинтересованными в миграции их бизнеса в Нидерланды. Эта цифра также выросла, годом ранее таких компаний [было](https://nos.nl/artikel/2268865-250-bedrijven-overwegen-verhuizing-naar-nederland-om-brexit.html) **250**.
 
 ## Привлекательность Нидерландов
 
@@ -46,7 +46,7 @@ imageCredit: "Фото: Reimund Bertrams/Pixabay."
 
 ## Monstershop
 
-{{< fl "NOS" >}} {{< a "https://nos.nl/artikel/2323707-waarom-kozen-deze-brexitbedrijven-voor-nederland-het-was-een-gekkenhuis.html" "приводит" >}} рассказ Раны Харви ({{< fl "Rana Harvey" >}}) из Йорка, владеющей онлайн-магазином {{< fl "Monstershop" >}}. Она не хотела полностью уходить из Великобритании, но ей было важно сохранить своих европейских клиентов.
+{{< fl "NOS" >}} [приводит](https://nos.nl/artikel/2323707-waarom-kozen-deze-brexitbedrijven-voor-nederland-het-was-een-gekkenhuis.html) рассказ Раны Харви ({{< fl "Rana Harvey" >}}) из Йорка, владеющей онлайн-магазином {{< fl "Monstershop" >}}. Она не хотела полностью уходить из Великобритании, но ей было важно сохранить своих европейских клиентов.
 
 Поэтому в марте {{< yearp 2019 "прошлого" >}} года компания открыла центр дистрибуции в голландском Венло ({{< fl "Venlo" >}}):
 

@@ -15,7 +15,7 @@ series: music
 
 It's Friday! A pandemic is definitely no reason for missing out on the good music!
 
-This seventeenth edition of {{< a "/series/music" "Musicellaneous" >}} presents a mysterious and obscure band I bet you never heard of.
+This seventeenth edition of [Musicellaneous](/series/music) presents a mysterious and obscure band I bet you never heard of.
 
 It's the jazz-funk-fusion project **Electric Outlet** from Germany.
 
@@ -31,7 +31,7 @@ The album's description on [Lion Music's website](http://www.lionmusic.com/artis
 
 {{< youtube "grxSjtfMiyU" >}}
 
-Genre-wise I'd personally relate them to {{< a "0659" "4Front" >}} and {{< a "0644" "7for4" >}}.
+Genre-wise I'd personally relate them to [4Front](0659) and [7for4](0644).
 
 ## Line-up
 

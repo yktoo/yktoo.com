@@ -14,7 +14,7 @@ series: music
 
 Friday again! I think I've hit the rock bottom in my quest for musical exotics.
 
-This eighteenth edition of {{< a "/series/music" "Musicellaneous" >}} features a totally unknown to general public endeavour of Japanese jazz musicians titled **Presto**.
+This eighteenth edition of [Musicellaneous](/series/music) features a totally unknown to general public endeavour of Japanese jazz musicians titled **Presto**.
 
 There's as little as nothing on it on the Internet. And if there were, you wouldn't be able to find it given the band's name.
 

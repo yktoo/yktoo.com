@@ -27,7 +27,7 @@ I'm pretty satisfied with my [result](https://evenementen.uitslagen.nl/2017/deha
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ugu0l17fa1762306.png" "Half marathon results." >}}
 
-It's a significant improvement compared to the {{< a "0279" "Amersfoort" >}} (**1:55:04**) and the {{< a "0274" "previous De Halve" >}} (**2:01:46**) runs. It looks the trainings do make a difference after all!
+It's a significant improvement compared to the [Amersfoort](0279) (**1:55:04**) and the [previous De Halve](0274) (**2:01:46**) runs. It looks the trainings do make a difference after all!
 
 The outcome is the **313<sup>th</sup>** place (out of 895) overall, **292<sup>th</sup>** place (out of 611) among men.
 

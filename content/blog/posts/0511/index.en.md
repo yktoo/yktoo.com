@@ -18,7 +18,7 @@ As of **1** october {{< year 2019 "this year" >}} a simplified procedure for obt
 
 <!--more-->
 
-According to the {{< a "http://electronic-visa.kdmid.ru/spb_home_en.html" "website" >}} of the Russian ministry of foreign affairs, nationals of **53** states (including the Netherlands) are eligible for an e-visa for visiting Saint Petersburg and the Leningrad region for up to **8** days.
+According to the [website](http://electronic-visa.kdmid.ru/spb_home_en.html) of the Russian ministry of foreign affairs, nationals of **53** states (including the Netherlands) are eligible for an e-visa for visiting Saint Petersburg and the Leningrad region for up to **8** days.
 
 {{< spoiler "Complete list of countries" >}}
 The e-visa service is available for nationals of the following countries:
@@ -78,7 +78,7 @@ The e-visa service is available for nationals of the following countries:
 53. Japan
 {{< /spoiler >}}
 
-All you need to do to get hold of an e-visa is fill out an application form on the {{< a "https://evisa.kdmid.ru/en-US" "MFA website" >}} not later than **4** days before entry, and attach your digital photo to it. No other documents are needed.
+All you need to do to get hold of an e-visa is fill out an application form on the [MFA website](https://evisa.kdmid.ru/en-US) not later than **4** days before entry, and attach your digital photo to it. No other documents are needed.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/rkrxiwihc5yjtn06gkuk.png" "Source: electronic-visa.kdmid.ru." >}}
 
@@ -105,4 +105,4 @@ A walk-through from the same website:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/nqjcfghh9txrs9d8oztc.png" "Source: electronic-visa.kdmid.ru." >}}
 
-I think it's a great news, especially when you compare this procedure to the hassle of the {{< a "0258" "regular application process" >}} for a Russian visa.
+I think it's a great news, especially when you compare this procedure to the hassle of the [regular application process](0258) for a Russian visa.

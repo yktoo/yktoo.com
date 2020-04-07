@@ -17,7 +17,7 @@ imageCredit: "Фото: tesla.com."
 
 Люблю цифры и электромобили.
 
-По данным {{< fl "Bovag/RAI Vereniging" >}}, {{< fl "Tesla Model 3" >}} не только стала самым продаваемым автомобилем в сентябре {{< year 2019 "этого" >}} года, но и побила абсолютный рекорд месячных продаж одной модели автомобиля, {{< a "https://www.autoweek.nl/autonieuws/artikel/verkoopcijfers-tesla-model-3-schudt-markt-op/" "сообщает" >}} {{< fl "AutoWeek.nl" >}}.
+По данным {{< fl "Bovag/RAI Vereniging" >}}, {{< fl "Tesla Model 3" >}} не только стала самым продаваемым автомобилем в сентябре {{< year 2019 "этого" >}} года, но и побила абсолютный рекорд месячных продаж одной модели автомобиля, [сообщает](https://www.autoweek.nl/autonieuws/artikel/verkoopcijfers-tesla-model-3-schudt-markt-op/) {{< fl "AutoWeek.nl" >}}.
 
 <!--more-->
 

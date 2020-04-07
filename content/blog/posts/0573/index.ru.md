@@ -15,7 +15,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/uskdpigsmrkr61fekkz9.
 imageCredit: "Фото: Javad Rajabzade/Pixabay."
 ---
 
-{{< fl "De Volkskrant" >}} {{< a "https://www.volkskrant.nl/nieuws-achtergrond/universiteit-maastricht-betaalde-hackers-kwart-miljoen-euro~b0a1707b/" "сообщает" >}}, что пострадавший накануне Нового года от {{< a "0529" "атаки криптовымогателя" >}} Маастрихтский университет выплатил хакерам от **200 000** до **300 000** евро.
+{{< fl "De Volkskrant" >}} [сообщает](https://www.volkskrant.nl/nieuws-achtergrond/universiteit-maastricht-betaalde-hackers-kwart-miljoen-euro~b0a1707b/), что пострадавший накануне Нового года от [атаки криптовымогателя](0529) Маастрихтский университет выплатил хакерам от **200 000** до **300 000** евро.
 
 <!--more-->
 
@@ -23,6 +23,6 @@ imageCredit: "Фото: Javad Rajabzade/Pixabay."
 
 Эти файлы содержали данные об исследованиях, а также сведения о студентах и сотрудниках за последние несколько десятилетий. Резервные копии хранились также на серверах университета и поэтому тоже были доступны хакерам (*фейспалм*).
 
-Данная сумма, хоть и внушительная, всё же намного ниже {{< a "0529" "называвшейся" >}} ранее оценки в **€ 4,5 млн**.
+Данная сумма, хоть и внушительная, всё же намного ниже [называвшейся](0529) ранее оценки в **€ 4,5 млн**.
 
-Криптовымогатель под названием {{< a "https://malpedia.caad.fkie.fraunhofer.de/details/win.clop" "Clop" >}} предположительно был внедрён российской хакерской группировкой {{< a "https://malpedia.caad.fkie.fraunhofer.de/actor/ta505" "TA505" >}}.
+Криптовымогатель под названием [Clop](https://malpedia.caad.fkie.fraunhofer.de/details/win.clop) предположительно был внедрён российской хакерской группировкой [TA505](https://malpedia.caad.fkie.fraunhofer.de/actor/ta505).

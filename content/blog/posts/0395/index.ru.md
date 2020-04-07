@@ -18,11 +18,11 @@ series: business
 
 <!--more-->
 
-Это было собрание, {{< a "https://www.zzp-nederland.nl/nieuws/zelfstandigenforum-organiseert-bijeenkomst-moderne-arbeidsmarkt-en-presenteer-manifest" "организованное" >}} двумя крупнейшими фрилансерскими ассоциациями Нидерландов, {{< a "https://www.zzp-nederland.nl/" "ZZP Nederland" >}} (членом которой является и автор этого блога) и {{< a "https://www.pzo.nl/" "Platform Zelfstandige Ondernemers" >}} ({{< fl "PZO" >}}).
+Это было собрание, [организованное](https://www.zzp-nederland.nl/nieuws/zelfstandigenforum-organiseert-bijeenkomst-moderne-arbeidsmarkt-en-presenteer-manifest) двумя крупнейшими фрилансерскими ассоциациями Нидерландов, [ZZP Nederland](https://www.zzp-nederland.nl/) (членом которой является и автор этого блога) и [Platform Zelfstandige Ondernemers](https://www.pzo.nl/) ({{< fl "PZO" >}}).
 
-Основной темой встречи были обсуждение и презентация документа под названием «Манифест современного рынка труда» (нидерл. {{< a "https://www.zzp-nederland.nl/nieuws/manifest-moderne-arbeidsmarkt-biedt-volgens-politici-perspectief" "Manifest Moderne Arbeidsmarkt" >}}, {{< a "https://www.zzp-nederland.nl/uploads/fckconnector/abcf0948-e2ac-5b6a-b8bf-7ebbdc91f2e6" "документ в PDF" >}}).
+Основной темой встречи были обсуждение и презентация документа под названием «Манифест современного рынка труда» (нидерл. [Manifest Moderne Arbeidsmarkt](https://www.zzp-nederland.nl/nieuws/manifest-moderne-arbeidsmarkt-biedt-volgens-politici-perspectief), [документ в PDF](https://www.zzp-nederland.nl/uploads/fckconnector/abcf0948-e2ac-5b6a-b8bf-7ebbdc91f2e6)).
 
-На него были приглашены, помимо представителей предпринимательской фауны, члены основных политических партий и высокопоставленные чиновники, среди которых один из самых главных — председатель {{< a "https://www.reguleringvanwerk.nl/" "Комиссии по регулированию труда" >}} {{< fl "H. Borstlap" >}}.
+На него были приглашены, помимо представителей предпринимательской фауны, члены основных политических партий и высокопоставленные чиновники, среди которых один из самых главных — председатель [Комиссии по регулированию труда](https://www.reguleringvanwerk.nl/) {{< fl "H. Borstlap" >}}.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/40zdxl2h8mbm2299.jpg" "Перед началом встречи." >}}
 
@@ -38,7 +38,7 @@ series: business
 
 Мероприятие вёл журналист, и организация была на высоте: очень профессиональная работа ведущего, слайды менялись вовремя, видео проигрывалось со звуком.
 
-Время от времени к дискусии подключали зал, предлагая поучаствовать в интерактивном голосовании с помощью сервиса {{< a "https://www.menti.com/" "Mentimeter" >}}.
+Время от времени к дискусии подключали зал, предлагая поучаствовать в интерактивном голосовании с помощью сервиса [Mentimeter](https://www.menti.com/).
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0w0y5xz0pi892131.jpg" "Опрос: «Являетесь ли вы независимым предпринимателем?»." >}}
 
@@ -46,7 +46,7 @@ series: business
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/bdpmkpy2lo6p0795.jpg" "Опрос насчёт необходимости отдельного свода правил для предпринимателей." >}}
 
-Дискуссия эта была очень тесно связана с {{< a "0379" "Wet DBA" >}} и смежными с ним проблемами. Смысл манифеста можно вкраце выразить в четырёх пунктах:
+Дискуссия эта была очень тесно связана с [Wet DBA](0379) и смежными с ним проблемами. Смысл манифеста можно вкраце выразить в четырёх пунктах:
 
 1. Независимые предприниматели должны быть максимально ограждены от всевозможного «регулирования». Предприниматель и заказчик должны совместно подписать некую декларацию, освобождающую добросовестного предпринимателя от дальнейших заморочек с надзорными органами, и недвусмысленно отделяя его от наёмного персонала.
 2. Различные организационно-правовые формы не должны сами по себе приносить каких-либо финансовых преимуществ («фискальная нейтральность»).

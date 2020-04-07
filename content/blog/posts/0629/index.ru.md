@@ -13,7 +13,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/rdovg92aqiwmlrytllvn.
 imageCredit: "Фото: Windpark Krammer."
 ---
 
-{{< fl "Omroep Zeeland" >}} {{< a "https://www.omroepzeeland.nl/nieuws/117976/Deze-windmolens-stoppen-voor-vogels-maar-dat-kost-wel-meer-dan-een-ton-per-jaar" "рассказывает" >}} о ветроэлектростанции {{< a "https://www.windparkkrammer.nl/" "Krammer" >}}, расположенной в провинции Зеландия на юго-западе Нидерландов.
+{{< fl "Omroep Zeeland" >}} [рассказывает](https://www.omroepzeeland.nl/nieuws/117976/Deze-windmolens-stoppen-voor-vogels-maar-dat-kost-wel-meer-dan-een-ton-per-jaar) о ветроэлектростанции [Krammer](https://www.windparkkrammer.nl/), расположенной в провинции Зеландия на юго-западе Нидерландов.
 
 Она состоит из **34** ветряков и находится неподалёку от трёх участков {{< wiki "Натура_2000" "ru" "Natura 2000" >}}, поэтому при её эксплуатации особое внимание уделяется сохранности природы в этом районе.
 
@@ -47,7 +47,7 @@ imageCredit: "Фото: Windpark Krammer."
 
 ## Ветроэлектростанция Krammer
 
-{{< fl "Krammer" >}} {{< a "https://www.windparkkrammer.nl/geschiedenis/" "называет" >}} себя «крупнейшей инициативой граждан в Нидерландах». Она является результатом кооперации пяти тысяч участников проектов {{< fl "Zeeuwind" >}} и {{< fl "Deltawind" >}} и состоит из **34** турбин типа {{< fl "Enercon E-115" >}} суммарной мощностью **102 МВт**.
+{{< fl "Krammer" >}} [называет](https://www.windparkkrammer.nl/geschiedenis/) себя «крупнейшей инициативой граждан в Нидерландах». Она является результатом кооперации пяти тысяч участников проектов {{< fl "Zeeuwind" >}} и {{< fl "Deltawind" >}} и состоит из **34** турбин типа {{< fl "Enercon E-115" >}} суммарной мощностью **102 МВт**.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/rdovg92aqiwmlrytllvn.jpg" "Фото: Windpark Krammer." >}}
 

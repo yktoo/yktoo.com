@@ -14,13 +14,13 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/s3v3c28lw46a3034.jpg"
 
 Пятница — время для вина и обзоров!
 
-Уже более года пользуюсь электрическим штопором {{< a "http://ali.pub/3tn9ap" " Xiaomi Mijia" >}} и очень им доволен.
+Уже более года пользуюсь электрическим штопором [ Xiaomi Mijia](http://ali.pub/3tn9ap) и очень им доволен.
 
 Штопор работает на аккумуляторе — да, это ещё один гаджет для зарядки. Впрочем, заряжать его нужно довольно редко (если вы, конечно, не по ящику вина в день приходуете).
 
 <!--more-->
 
-Полностью он называется {{< a "http://ali.pub/3tn9ap" " Xiaomi Mijia Huohou automatic corkscrew" >}} и стоит около **€ 22**.
+Полностью он называется [ Xiaomi Mijia Huohou automatic corkscrew](http://ali.pub/3tn9ap) и стоит около **€ 22**.
 
 ## Комплект
 
@@ -72,5 +72,5 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/s3v3c28lw46a3034.jpg"
 
 * Не обнаружил
 
-Купить гаджет на Али можно, например, {{< a "http://ali.pub/3tn9ap" "здесь" >}}.
+Купить гаджет на Али можно, например, [здесь](http://ali.pub/3tn9ap).
 

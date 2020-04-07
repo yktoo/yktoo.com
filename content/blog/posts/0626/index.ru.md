@@ -30,7 +30,7 @@ series: dutch-expressions
 
 > {{< fl "met **iemand** in zee gaan" >}}
 
-И {{< a "https://www.woorden.org/spreekwoord.php?woord=in%20zee%20gaan" "имеет" >}} значение:
+И [имеет](https://www.woorden.org/spreekwoord.php?woord=in%20zee%20gaan) значение:
 
 > (рискнуть) иметь дело с *кем-либо*, связаться с *кем-либо*
 

@@ -21,7 +21,7 @@ Albufeira is a main tourist destination. Fair enough, given its vast ocean beach
 
 <!--more-->
 
-Albufeira's own population is 22 thousand people, but it's far outnumbered by tourists. Curiously enough, {{< a "0148" "Gran Canaria" "ru" >}} is mostly visited by Germans whereas Albufeira is full of English, whose share among all tourists I'd estimate at 80%. No wonder English is everywhere: signs, menus, even a radio called [KissFM Algarve](http://www.kissfmalgarve.com/), which we've been listening to all the time in our {{< a "0191" "car" >}}. Restaurant staff is sometimes also of UK origin, and the rest speak English reasonably well.
+Albufeira's own population is 22 thousand people, but it's far outnumbered by tourists. Curiously enough, [Gran Canaria](ru;0148) is mostly visited by Germans whereas Albufeira is full of English, whose share among all tourists I'd estimate at 80%. No wonder English is everywhere: signs, menus, even a radio called [KissFM Algarve](http://www.kissfmalgarve.com/), which we've been listening to all the time in our [car](0191). Restaurant staff is sometimes also of UK origin, and the rest speak English reasonably well.
 
 The streets are narrow and often terribly surfaced, as anywhere in Algarve. There's commonly no curb separating the road from the sidewalk, so they've set a metal fence to protect the pedestrians from being squashed, which leaves only a couple feet wide pathway along the houses:
 
@@ -75,7 +75,7 @@ The water is freezing cold, I'd say 12° C (54° F), no one dares to swim and so
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/b2jt6h57ot9a0576.jpg" >}}
 
-Well, I personally {{< a "0171" "don't mind" >}} the cold water. What else is the beach for anyway?!
+Well, I personally [don't mind](0171) the cold water. What else is the beach for anyway?!
 
 Those interested neither in sunbathing nor swimming make sand sculptures:
 
@@ -85,7 +85,7 @@ A Crocodile with a Baby, sweet:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zari6y9e4mf63527.jpg" >}}
 
-However it's not nearly as impressive as {{< a "0190" "FIESA" >}}.
+However it's not nearly as impressive as [FIESA](0190).
 
 As usual, sunbeds and parasols are for rent. The prices are quite touristic: two sunbeds and a parasol for € 15 a day.
 
@@ -95,4 +95,4 @@ But the good news is no one's going to charge you if you lie on the sand.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/4y1khd7ah3y11950.jpg" >}}
 
-Next: {{< a "0193" "Part 4. Alte" >}}
+Next: [Part 4. Alte](0193)

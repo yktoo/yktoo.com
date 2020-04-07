@@ -7,6 +7,6 @@ seeAlso:
 
 Literally "King's Night".
 
-The night preceding the {{< a "/glossary/koningsdag" "King's Day" >}}.
+The night preceding the [King's Day](/glossary/koningsdag).
 
 <!--more-->

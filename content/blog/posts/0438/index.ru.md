@@ -14,7 +14,7 @@ imageCredit: "Фото: Jan Derwig/Wikimedia."
 
 Вот и ещё одна эпоха закончилась.
 
-Знаменитый {{< wiki "Hoofdkantoor_ING" "nl" "Zandkasteel" >}} (переводится как «песочный замок»), масштабное здание на юго-востоке Амстердама, с **1987** служившее головным офисом {{< fl "ING Group" >}}, вскоре {{< a "https://www.amsterdam.nl/projecten/arenapoort/projecten-arenapoort/zandkasteel-woningen/" "превратится" >}} в многоквартирный дом.
+Знаменитый {{< wiki "Hoofdkantoor_ING" "nl" "Zandkasteel" >}} (переводится как «песочный замок»), масштабное здание на юго-востоке Амстердама, с **1987** служившее головным офисом {{< fl "ING Group" >}}, вскоре [превратится](https://www.amsterdam.nl/projecten/arenapoort/projecten-arenapoort/zandkasteel-woningen/) в многоквартирный дом.
 
 <!--more-->
 
@@ -22,7 +22,7 @@ imageCredit: "Фото: Jan Derwig/Wikimedia."
 
 ## Бывшая штаб-квартира ING Group
 
-Здание расположено рядом со станцией метро {{< fl "Amsterdam Bijmer ArenA" >}} и является одной из достопримечательностей столицы. В **2017** году его {{< a "https://www.heemschut.nl/nieuws/actueel/bericht/ing-kantoor-amsterdam-wordt-monument" "объявили" >}} муниципальным монументом и объектом исторического наследия.
+Здание расположено рядом со станцией метро {{< fl "Amsterdam Bijmer ArenA" >}} и является одной из достопримечательностей столицы. В **2017** году его [объявили](https://www.heemschut.nl/nieuws/actueel/bericht/ing-kantoor-amsterdam-wordt-monument) муниципальным монументом и объектом исторического наследия.
 
 Его уменьшенная копия есть даже в парке миниатюр «Мадюродам»:
 
@@ -40,7 +40,7 @@ https://res.cloudinary.com/yktoo/image/upload/blog/zkktyusfc4u30590.jpg Копи
 
 За минувшие годы {{< fl "ING" >}}, некогда крупнейшее финансовое учреждение на планете, заметно уменьшился. Его разделили на два независимых бизнеса — {{< fl "ING Bank" >}} и страховую компанию {{< fl "Nationale Nederlanden" >}}, а также продали существенную часть зарубежных активов. В связи с чем уменьшилась и потребность в персонале бэк-офиса.
 
-В таких условиях аренда {{< fl "Zandkasteel" >}} с его **50 000** м² офисной площади обходилась слишком дорого. В **2017** году банк {{< a "https://www.ing.com/Newsroom/All-news/Groundbreaking-on-new-HQ-begins-with-first-tree.htm" "начал" >}} строительство нового кампуса под названием {{< a "https://www.cumuluspark.com/" "Cumulus Park" >}}, который официально {{< a "https://www.cumuluspark.com/news/press-release-innovatie-district-amsterdam-zuidoost-van-start-cumulus-park" "открыли" >}} **9** октября {{< year 2019 "этого" >}} года.
+В таких условиях аренда {{< fl "Zandkasteel" >}} с его **50 000** м² офисной площади обходилась слишком дорого. В **2017** году банк [начал](https://www.ing.com/Newsroom/All-news/Groundbreaking-on-new-HQ-begins-with-first-tree.htm) строительство нового кампуса под названием [Cumulus Park](https://www.cumuluspark.com/), который официально [открыли](https://www.cumuluspark.com/news/press-release-innovatie-district-amsterdam-zuidoost-van-start-cumulus-park) **9** октября {{< year 2019 "этого" >}} года.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ro1jqdclhl281991.jpg" "Изображение завершённого кампуса ING. Источник: ing.com." >}}
 
@@ -48,4 +48,4 @@ https://res.cloudinary.com/yktoo/image/upload/blog/zkktyusfc4u30590.jpg Копи
 
 В {{< yearn 2020 "следующем" >}} году арендатор {{< fl "ING" >}} окончательно съедет из «Песочного замка», после чего начнутся работы по трансформации его в **330**-квартирный жилой комплекс. Сдача жилья запланирована на первую половину **2022** года.
 
-В {{< yearp 2018 "прошлом" >}} году в Нидерландах в результате перестройки офисов, школ, магазинов и т.п. {{< a "https://www.cbs.nl/nl-nl/nieuws/2019/43/13-duizend-woningen-door-transformatie-van-gebouwen" "появилось" >}} около **13 000** новых квартир — или **14%** от всего нового жилья.
+В {{< yearp 2018 "прошлом" >}} году в Нидерландах в результате перестройки офисов, школ, магазинов и т.п. [появилось](https://www.cbs.nl/nl-nl/nieuws/2019/43/13-duizend-woningen-door-transformatie-van-gebouwen) около **13 000** новых квартир — или **14%** от всего нового жилья.

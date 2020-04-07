@@ -14,17 +14,17 @@ image: "/images/logos/youtube-logo.png"
 
 What's the easiest way to download a video file from **YouTube**, **Vimeo** etc. in Linux? And how do you extract its audio track as an **MP3** file?
 
-You can opt for one of numerous online video converters, but I personally prefer doing that from the command line using {{< a "https://ytdl-org.github.io/youtube-dl/" "youtube-dl" >}}.
+You can opt for one of numerous online video converters, but I personally prefer doing that from the command line using [youtube-dl](https://ytdl-org.github.io/youtube-dl/).
 
-It supports video downloads from **YouTube**, **Vimeo**, **BBC**, **CBS**, and {{< a "https://ytdl-org.github.io/youtube-dl/supportedsites.html" "about 1100 more" >}} (even from *YouPorn*).
+It supports video downloads from **YouTube**, **Vimeo**, **BBC**, **CBS**, and [about 1100 more](https://ytdl-org.github.io/youtube-dl/supportedsites.html) (even from *YouPorn*).
 
 <!--more-->
 
 ## Features of youtube-dl
 
-{{< a "https://ytdl-org.github.io/youtube-dl/" "youtube-dl" >}} is a cross-platform (Linux, MacOS, Windows) command-line utility written in Python. Some highlights of what it can do:
+[youtube-dl](https://ytdl-org.github.io/youtube-dl/) is a cross-platform (Linux, MacOS, Windows) command-line utility written in Python. Some highlights of what it can do:
 
-* Support for all popular video hostings: here's the {{< a "https://ytdl-org.github.io/youtube-dl/supportedsites.html" "complete list" >}};
+* Support for all popular video hostings: here's the [complete list](https://ytdl-org.github.io/youtube-dl/supportedsites.html);
 * Video format selection;
 * Proxy server support;
 * Downloading videos by a playlist;

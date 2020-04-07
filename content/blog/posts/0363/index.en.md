@@ -13,7 +13,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/4lmxutacrkgv3303.jpg"
 
 The Netherlands has a public service that provides information about nearly any vehicle registered in the country, given its number plate.
 
-The service is called {{< a "https://ovi.rdw.nl/" "OVI" >}} ({{< fl "Online Voertuig Informatie" >}} or "Online Vehicle Information") and is being run by the State Traffic Service {{< a "https://www.rdw.nl/" "RDW" >}} ({{< fl "Rijksdienst voor het Wegverkeer" >}}), whose responsibility encompasses road infrastructure as well as vehicle certification, including mandatory periodic checkups ({{< a "https://www.rdw.nl/particulier/voertuigen/auto/apk" "APK" >}}).
+The service is called [OVI](https://ovi.rdw.nl/) ({{< fl "Online Voertuig Informatie" >}} or "Online Vehicle Information") and is being run by the State Traffic Service [RDW](https://www.rdw.nl/) ({{< fl "Rijksdienst voor het Wegverkeer" >}}), whose responsibility encompasses road infrastructure as well as vehicle certification, including mandatory periodic checkups ([APK](https://www.rdw.nl/particulier/voertuigen/auto/apk)).
 
 <!--more-->
 
@@ -21,11 +21,11 @@ Just for your information, in Holland a number plate is always associated with a
 
 ## Example
 
-So let's take my first {{< a "0028" "leased Toyota" "ru" >}} from this twelve-year-old photo as an example:
+So let's take my first [leased Toyota](ru;0028) from this twelve-year-old photo as an example:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/jypcrqe2jvtr2307.jpg" "Toyota Prius 2009 with me posing." >}}
 
-Type in `16HDK2` in the {{< fl "Kenteken" >}} field at the {{< a "https://ovi.rdw.nl/" "OVI page" >}} and you'll get the following:
+Type in `16HDK2` in the {{< fl "Kenteken" >}} field at the [OVI page](https://ovi.rdw.nl/) and you'll get the following:
 
 {{< imgfig "ovi-kentekencheck-16hdk2.png" "The Toyota's registration data." >}}
 
@@ -52,9 +52,9 @@ This red **Austin 3000 MK II** only had a single owner, was made in **1963** but
 
 ## The use of service
 
-According to {{< a "https://ovi.rdw.nl/colofon.aspx" "RDW's terms" >}}, this service may only be used for private purposes and at moderate rates.
+According to [RDW's terms](https://ovi.rdw.nl/colofon.aspx), this service may only be used for private purposes and at moderate rates.
 
-There's also a separate {{< a "https://www.rdw.nl/zakelijk/branches/bedrijven/gegevens-bij-de-rdw-raadplegen/grote-hoeveelheden-voertuiggegevens-raadplegen" "paid version" >}} for business customers, which comes in two flavours:
+There's also a separate [paid version](https://www.rdw.nl/zakelijk/branches/bedrijven/gegevens-bij-de-rdw-raadplegen/grote-hoeveelheden-voertuiggegevens-raadplegen) for business customers, which comes in two flavours:
 
 * Browser-based (**€ 0,15** per query), or
 * XML API (**€ 510** to subscribe, afterwards **€ 0,06** per query).

@@ -32,4 +32,4 @@ aliases:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/64q0x1v90ob73080.jpg" >}}
 
-Продолжение: {{< a "0084" "Часть 2. Вена" >}}
+Продолжение: [Часть 2. Вена](0084)

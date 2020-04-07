@@ -14,7 +14,7 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/xrbumnbpmt8qucvqvfm3.jpg"
 ---
 
-Вчера наша семья в очередной раз приняла участие в «забеге Санта-Клаусов» ({{< a "https://houten.rotarysantarun.nl/" "Santa Run Houten" >}}) — благотворительном мероприятии, организуемом {{< fl "Rotary International" >}}. В {{< year 2019 "этом" >}} году он проводился уже в четвёртый раз.
+Вчера наша семья в очередной раз приняла участие в «забеге Санта-Клаусов» ([Santa Run Houten](https://houten.rotarysantarun.nl/)) — благотворительном мероприятии, организуемом {{< fl "Rotary International" >}}. В {{< year 2019 "этом" >}} году он проводился уже в четвёртый раз.
 
 Целью забега, помимо моря веселья и приобщения детворы к здоровому образу жизни, являлся сбор средств на благотворительность.
 
@@ -56,4 +56,4 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/xrbumnbpmt8qucvqvfm3.
 
 {{< youtube "LmyRKH1Gaow" >}}
 
-По итогам забега {{< a "https://houtensnieuws.nl/lokaal/evenementen/koude-en-natte-vierde-editie-houtense-santa-run-668591" "собрано" >}} **€ 26 020**, и сбор всё ещё продолжается. Бо́льшая часть из них — **12 500** евро — была собрана на стойке около входа на каток.
+По итогам забега [собрано](https://houtensnieuws.nl/lokaal/evenementen/koude-en-natte-vierde-editie-houtense-santa-run-668591) **€ 26 020**, и сбор всё ещё продолжается. Бо́льшая часть из них — **12 500** евро — была собрана на стойке около входа на каток.

@@ -10,7 +10,7 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/0dia9k0gfhbs1940.jpg"
 ---
 
-Zoals beloofd, schrijf ik een review van mijn "{{< a "0384" "opblaasbare schat" "en" >}}", oftewel de {{< a "http://ali.pub/3unhyy" "Xiaomi Mijia Electric Pump" >}}, een luchtpomp die op accu werkt.
+Zoals beloofd, schrijf ik een review van mijn "[opblaasbare schat](en;0384)", oftewel de [Xiaomi Mijia Electric Pump](http://ali.pub/3unhyy), een luchtpomp die op accu werkt.
 
 <!--more-->
 
@@ -29,7 +29,7 @@ Zoals beloofd, schrijf ik een review van mijn "{{< a "0384" "opblaasbare schat" 
 |Voeding                          |5 V, 2 A                                                                           |
 |Maximale oplaadtijd              |3 uur                                                                              |
 |Prestaties bij volledige oplading|41 voetballen (elke 1 min), 8 fietsbanden (elke 3 min) of 5 autobanden (elke 6 min)|
-|Prijs                            |Circa {{< a "http://ali.pub/3unhyy" "**€ 40** op AliExpress" >}}                   |
+|Prijs                            |Circa [**€ 40** op AliExpress](http://ali.pub/3unhyy)                   |
 {{< /table >}}
 
 ## Verpakkingsinhoud
@@ -166,4 +166,4 @@ De pomp is overigens handig om mee te nemen als een back-up aangezien het zo com
 
 ## Waar te koop
 
-Op AliExpress voor {{< a "http://ali.pub/3unhyy" "ongeveer € 40" >}}, incl. verzendkosten.
+Op AliExpress voor [ongeveer € 40](http://ali.pub/3unhyy), incl. verzendkosten.

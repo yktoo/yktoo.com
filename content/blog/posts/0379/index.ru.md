@@ -18,7 +18,7 @@ series: business
 glossary: wet-dba
 ---
 
-Уже несколько лет над каждым {{< fl "zzp'er" >}}-ом (индивидуальным предпринимателем) в Нидерландах витает в воздухе зловещий призрак с невнятным именем {{< a "https://www.rijksoverheid.nl/onderwerpen/zelfstandigen-zonder-personeel-zzp/wet-deregulering-beoordeling-arbeidsrelaties-dba" "Wet DBA" >}} («Закон {{< fl "DBA" >}}»).
+Уже несколько лет над каждым {{< fl "zzp'er" >}}-ом (индивидуальным предпринимателем) в Нидерландах витает в воздухе зловещий призрак с невнятным именем [Wet DBA](https://www.rijksoverheid.nl/onderwerpen/zelfstandigen-zonder-personeel-zzp/wet-deregulering-beoordeling-arbeidsrelaties-dba) («Закон {{< fl "DBA" >}}»).
 
 Если аббревиатуру расшифровать (и речь тут совсем не об администраторах баз данных): {{< fl "Deregulering Beoordeling Arbeidsrelatie" >}}, то понятнее не становится: «Закон о прекращении регулирования оценки рабочих отношений».
 
@@ -36,14 +36,14 @@ glossary: wet-dba
 
 Нидерландское правительство старается стимулировать предпринимательские усилия населения: все понимают, что это идёт на пользу как самим предпринимателям (при правильном подходе их благосостояние поднимается), так и всем остальным (бо́льшие доходы увеличивают суммы собираемых налогов, привлекаются денежные средства, улучшается инвестиционный климат, инновации благоприятно влияют на имидж страны и т.п.). Предпринимательская традиция — и индивидуальное предпринимательство в частности — в Нидерландах ярко выражены.
 
-Так, например, в {{< year 2018 "прошлом" >}} году в Голландии {{< a "https://www.cbs.nl/nl-nl/dossier/dossier-zzp" "насчитывалось" >}} **1,1 млн** индивидуальных предпринимателей (дальше я буду использовать местный термин {{< fl "zzp'er" >}}) — и это только те, для которых предпринимательство являлось *основным* источником дохода; тех, кто просто зарегистрирован в качестве {{< fl "zzp'er" >}}-а, ещё примерно на полмиллиона больше.
+Так, например, в {{< year 2018 "прошлом" >}} году в Голландии [насчитывалось](https://www.cbs.nl/nl-nl/dossier/dossier-zzp) **1,1 млн** индивидуальных предпринимателей (дальше я буду использовать местный термин {{< fl "zzp'er" >}}) — и это только те, для которых предпринимательство являлось *основным* источником дохода; тех, кто просто зарегистрирован в качестве {{< fl "zzp'er" >}}-а, ещё примерно на полмиллиона больше.
 
 ### Стимулы
 
 Как правительство поощряет эти инициативы?
 
-* Предприниматели, уделяющие достаточно времени своему бизнесу (минимум **1 225 часов** в год) получают право на {{< a "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/winst/inkomstenbelasting/inkomstenbelasting_voor_ondernemers/ondernemersaftrek/zelfstandigenaftrek1/zelfstandigenaftrek" "zelfstandigenaftrek" >}}, налоговый вычет в размере **€ 7 280** (в {{< year 2019 "этом" >}} году) — то есть эта сумма налогом не облагается.
-* Плюс к этому, в первые три года (точнее, три раза в первые пять лет) есть дополнительный вычет для «стартеров» — {{< a "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/winst/inkomstenbelasting/inkomstenbelasting_voor_ondernemers/ondernemersaftrek/startersaftrek" "startersaftrek" >}} на сумму **€ 2 123** (также данные на {{< year 2019 "этот" >}} год).
+* Предприниматели, уделяющие достаточно времени своему бизнесу (минимум **1 225 часов** в год) получают право на [zelfstandigenaftrek](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/winst/inkomstenbelasting/inkomstenbelasting_voor_ondernemers/ondernemersaftrek/zelfstandigenaftrek1/zelfstandigenaftrek), налоговый вычет в размере **€ 7 280** (в {{< year 2019 "этом" >}} году) — то есть эта сумма налогом не облагается.
+* Плюс к этому, в первые три года (точнее, три раза в первые пять лет) есть дополнительный вычет для «стартеров» — [startersaftrek](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/winst/inkomstenbelasting/inkomstenbelasting_voor_ondernemers/ondernemersaftrek/startersaftrek) на сумму **€ 2 123** (также данные на {{< year 2019 "этот" >}} год).
 * {{< fl "zzp'er" >}}-ы освобождены от пенсионных взносов и премий для страховки по нетрудоспособности.
 * На государственном и местном уровнях доступны различные субсидии для развития бизнеса, поощрения всевозможных экологических инициатив и т.д.
 
@@ -57,7 +57,7 @@ glossary: wet-dba
 
 Переходим от предыстории к истории.
 
-Чтобы уменьшить простор для злоупотреблений, до **1 мая 2016 года** {{< fl "zzp'er" >}} должен был заполнить документ под названием {{< fl "VAR" >}} ({{< a "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/ondernemen/onderneming_starten/voordat_u_start/ondernemer_voor_inkomstenbelasting/verklaring_arbeidsrelatie/" "Verklaring Arbeidsrelatie" >}}, «Заявление о рабочих отношениях»). В нём указывалось, помимо прочего, сколько у тебя клиентов и какие у тебя с ними отношения.
+Чтобы уменьшить простор для злоупотреблений, до **1 мая 2016 года** {{< fl "zzp'er" >}} должен был заполнить документ под названием {{< fl "VAR" >}} ([Verklaring Arbeidsrelatie](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/ondernemen/onderneming_starten/voordat_u_start/ondernemer_voor_inkomstenbelasting/verklaring_arbeidsrelatie/), «Заявление о рабочих отношениях»). В нём указывалось, помимо прочего, сколько у тебя клиентов и какие у тебя с ними отношения.
 
 Одним из ключевых критериев в оценке «{{< fl "zzp'er" >}}-ства» является мера *самостоятельности в принятии решений*. Иными словами, если тебе говорят, как и что делать — ты просто штатный работник, а никакой не предприниматель.
 
@@ -83,7 +83,7 @@ glossary: wet-dba
 
 Чтобы заказчику обезопасить себя от возможных последствий налоговой проверки, предусматриваются два варианта:
 
-1. Простой: использовать так называемое *образцовое соглашение*, {{< a "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/ondernemen/modelovereenkomsten-in-plaats-van-var/modelovereenkomst-zoeken/" "modelovereenkomst" >}}. На сайте налоговой службы предлагается {{< a "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/ondernemen/modelovereenkomsten-in-plaats-van-var/modelovereenkomst-zoeken/modelovereenkomsten-branches-beroepsgroepen-downloaden" "целый список" >}} официально одобренных контрактов для разных отраслей (ИТ, медицина, строительство и т.д.). Их можно брать за основу и менять по вкусу, кроме мест, отмеченных жёлтым цветом — это как раз те положения, которые обеспечивают защиту от ~~порчи и сглаза~~ проблем с законом {{< fl "DBA" >}}.
+1. Простой: использовать так называемое *образцовое соглашение*, [modelovereenkomst](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/ondernemen/modelovereenkomsten-in-plaats-van-var/modelovereenkomst-zoeken/). На сайте налоговой службы предлагается [целый список](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/ondernemen/modelovereenkomsten-in-plaats-van-var/modelovereenkomst-zoeken/modelovereenkomsten-branches-beroepsgroepen-downloaden) официально одобренных контрактов для разных отраслей (ИТ, медицина, строительство и т.д.). Их можно брать за основу и менять по вкусу, кроме мест, отмеченных жёлтым цветом — это как раз те положения, которые обеспечивают защиту от ~~порчи и сглаза~~ проблем с законом {{< fl "DBA" >}}.
 2. Сложный: составить контракт самому и получить визу налоговой службы о соответствии законодательству. Такой вариант подходит, очевидно, лишь крупным организациям с собственной юридической службой.
 
 Вроде бы всё просто и логично. Ответственность возложена ныне на недобросовестного заказчика.
@@ -96,15 +96,15 @@ glossary: wet-dba
 
 По всеобщему признанию, как правовые положения образцовых соглашений, так и критерии самостоятельности, за соблюдением которых следит налоговая, были сформулированы слишком расплывчато. Результатом явилось то, что заказчики стали относиться к найму {{< fl "zzp'er" >}}-ов с большой опаской и рынок фриланс-контрактов заметно сжался.
 
-Это было как раз то время, когда я сам стал {{< fl "zzp'er" >}}-ом и {{< a "0311" "зарегистрировал" >}} {{< fl "Yktoo Solutions" >}}. И я помню, например, что мой прежний работодатель {{< fl "ING" >}} вообще объявил мораторий на наём {{< fl "zzp'er" >}}-ов до конца того самого 2016 года — а это, на минуточку, один из крупнейших ИТ-заказчиков в стране.
+Это было как раз то время, когда я сам стал {{< fl "zzp'er" >}}-ом и [зарегистрировал](0311) {{< fl "Yktoo Solutions" >}}. И я помню, например, что мой прежний работодатель {{< fl "ING" >}} вообще объявил мораторий на наём {{< fl "zzp'er" >}}-ов до конца того самого 2016 года — а это, на минуточку, один из крупнейших ИТ-заказчиков в стране.
 
 Организации, лоббирующие интересы «индивидуалов» ({{< fl "ZZP Nederland" >}}, {{< fl "PZO" >}} и другие), забили тревогу и подняли такой шум, что исполнение закона отодвинули сначала ещё на год, до 1.01.2018, потом до 2020, а теперь и до **2021** года.
 
-Сейчас уже официально {{< a "https://www.kvk.nl/advies-en-informatie/zzp/wet-dba-veranderende-wetgeving/" "констатируется" >}}, что «{{< fl "Wet DBA" >}} не соответствует ожиданиям». Помимо негативного резонанса в предпринимательской среде, выяснилось, что закон {{< a "https://www.futd.nl/fiscaal-nieuws/13031/zzp-maatregelen-strijdig-met-eu-recht-in-2021-nieuwe-wet-dba/" "противоречит" >}} законодательству ЕС.
+Сейчас уже официально [констатируется](https://www.kvk.nl/advies-en-informatie/zzp/wet-dba-veranderende-wetgeving/), что «{{< fl "Wet DBA" >}} не соответствует ожиданиям». Помимо негативного резонанса в предпринимательской среде, выяснилось, что закон [противоречит](https://www.futd.nl/fiscaal-nieuws/13031/zzp-maatregelen-strijdig-met-eu-recht-in-2021-nieuwe-wet-dba/) законодательству ЕС.
 
 ## Едем дальше
 
-24 июня {{< year 2019 "этого" >}} года министерство по работе и социальной политике {{< a "https://www.rijksoverheid.nl/onderwerpen/zelfstandigen-zonder-personeel-zzp/documenten/kamerstukken/2019/06/24/kamerbrief-voortgang-uitwerking-maatregelen-039-werken-als-zelfstandige039" "представило" >}} своё видение будущего закона, включающее следующие положения:
+24 июня {{< year 2019 "этого" >}} года министерство по работе и социальной политике [представило](https://www.rijksoverheid.nl/onderwerpen/zelfstandigen-zonder-personeel-zzp/documenten/kamerstukken/2019/06/24/kamerbrief-voortgang-uitwerking-maatregelen-039-werken-als-zelfstandige039) своё видение будущего закона, включающее следующие положения:
 
 * Введение минимального часового тарифа, равного **€ 16** — таким образом надеются отбить у компаний желание переводить в {{< fl "zzp'er" >}}-ы, платя копейки.
 * С противоположной стороны тарифной шкалы, свыше **€ 75**/час, и при контракте не дольше **одного года** ввести некое совместное заявление заказчика и контрактора ({{< fl "zelfstandigenverklaring" >}}), оговаривающее распределение обязанностей и оплату социальных налогов и страховок.
@@ -112,7 +112,7 @@ glossary: wet-dba
 
 ## «Вопиющие злоупотребления»
 
-Как я упоминал выше, налоговая служба ~~угрожает~~ предупреждает, что случаи {{< a "https://www.belastingdienst.nl/wps/wcm/connect/nl/modelovereenkomsten/content/bang-voor-boetes-of-naheffingen-niet-nodig#" "преднамеренных нарушений DBA" >}} будут пресекаться, как и прежде:
+Как я упоминал выше, налоговая служба ~~угрожает~~ предупреждает, что случаи [преднамеренных нарушений DBA](https://www.belastingdienst.nl/wps/wcm/connect/nl/modelovereenkomsten/content/bang-voor-boetes-of-naheffingen-niet-nodig#) будут пресекаться, как и прежде:
 
 > U bent volgens onze definitie kwaadwillend als u 'opzettelijk een situatie van evidente schijnzelfstandigheid laat ontstaan of voortbestaan, omdat u weet – of had kunnen weten - dat er feitelijk sprake is van een dienstbetrekking (en daarmee een oneigenlijk financieel voordeel behaalt en/of het speelveld op een oneerlijke manier aantast).'
 >

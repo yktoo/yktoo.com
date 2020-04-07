@@ -10,7 +10,7 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/lofwba8bki64dfhapgfk.png"
 ---
 
-I've finally managed to migrate off the ever-worsening *Google Photos* onto {{< a "https://cloudinary.com/invites/lpov9zyyucivvxsnalc5/l6ccxxrfxv0mdc6iewg8" "Cloudinary" >}}, a pretty convenient and—for the time being—free cloud image hosting provider.
+I've finally managed to migrate off the ever-worsening *Google Photos* onto [Cloudinary](https://cloudinary.com/invites/lpov9zyyucivvxsnalc5/l6ccxxrfxv0mdc6iewg8), a pretty convenient and—for the time being—free cloud image hosting provider.
 
 Time will tell whether it was a clever choice, but I'm positive from what I've seen so far.
 
@@ -34,7 +34,7 @@ There are other problems, too.
 
 The above were my incentives to search for alternatives.
 
-I've finally landed on {{< a "https://cloudinary.com/invites/lpov9zyyucivvxsnalc5/l6ccxxrfxv0mdc6iewg8" "Cloudinary" >}}, which offers a free plan that includes **25** so-called *credits*. Each credit is equivalent to **1 GB** of storage, **1 GB** of bandwidth, or **1000** transformations. A transformation is, for instance, creation of a scaled-down image version.
+I've finally landed on [Cloudinary](https://cloudinary.com/invites/lpov9zyyucivvxsnalc5/l6ccxxrfxv0mdc6iewg8), which offers a free plan that includes **25** so-called *credits*. Each credit is equivalent to **1 GB** of storage, **1 GB** of bandwidth, or **1000** transformations. A transformation is, for instance, creation of a scaled-down image version.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/lofwba8bki64dfhapgfk.png" "The Cloudinary console." >}}
 
@@ -44,7 +44,7 @@ I had, however, no clue how much image storage I would need for **yktoo.com**. A
 
 The huge advantage of Cloudinary compared to Google Photos is their easy-to-use {{< abbr "API" "Application Programming Interface" >}} available for a number of languages: Java, Python, PHP, JavaScript etc.
 
-Long story short, I've rolled up my sleeves and embarked on writing a migration script with Python. The program, which I named {{< a "https://github.com/yktoo/yktoo.com/blob/master/_dev_/reimage" "reimage" >}}, consists of the following four components:
+Long story short, I've rolled up my sleeves and embarked on writing a migration script with Python. The program, which I named [reimage](https://github.com/yktoo/yktoo.com/blob/master/_dev_/reimage), consists of the following four components:
 
 * `Scanner` — scans all content files to retrieve image URLs;
 * `Downloader` — downloads all images to the local machine;
@@ -67,4 +67,4 @@ Cloudinary also provides support for videos but I'm currently not using this fea
 
 And the **25** credits limit can easily be expanded to **33** by tweeting a link and following them on Twitter. I expect that this should be well enough for my website for the time being.
 
-> In case you're also curious about Cloudinary, I'll be grateful if you sign up using my **{{< a "https://cloudinary.com/invites/lpov9zyyucivvxsnalc5/l6ccxxrfxv0mdc6iewg8" "referral link" >}}**. This would mean more room for **yktoo.com** to grow.
+> In case you're also curious about Cloudinary, I'll be grateful if you sign up using my **[referral link](https://cloudinary.com/invites/lpov9zyyucivvxsnalc5/l6ccxxrfxv0mdc6iewg8)**. This would mean more room for **yktoo.com** to grow.

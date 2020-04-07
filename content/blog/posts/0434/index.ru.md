@@ -15,13 +15,13 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/mp6fp9ypea791026.jpg"
 imageCredit: "Фото: TU Delft."
 ---
 
-Очередное напоминание об опасностях электричества и литий-ионных аккумуляторов: электромобиль {{< fl "NunaX" >}} команды {{< a "https://www.vattenfallsolarteam.com/" "Vattenfall Solar Team" >}}, работающий на солнечной энергии, {{< a "https://nos.nl/artikel/2306468-delftse-zonneauto-uitgebrand-world-solar-challenge-voor-koploper-voorbij.html" "сгорел" >}} дотла во время {{< a "https://www.worldsolarchallenge.org/" "World Solar Challenge" >}} — **3021**-километрового забега по Австралии.
+Очередное напоминание об опасностях электричества и литий-ионных аккумуляторов: электромобиль {{< fl "NunaX" >}} команды [Vattenfall Solar Team](https://www.vattenfallsolarteam.com/), работающий на солнечной энергии, [сгорел](https://nos.nl/artikel/2306468-delftse-zonneauto-uitgebrand-world-solar-challenge-voor-koploper-voorbij.html) дотла во время [World Solar Challenge](https://www.worldsolarchallenge.org/) — **3021**-километрового забега по Австралии.
 
 <!--more-->
 
 Команда {{< fl "Vattenfall Solar Team" >}}, состоящая из студентов {{< fl "TU Delft" >}}, {{< wiki "Делфтский_технический_университет" "ru" "Делфтского технического университета" >}}, участвовала в гонке солнцемобилей уже в десятый раз (отсюда и название {{< fl "NunaX" >}}), из предыдущих девяти они семь раз приходили первыми и дважды — вторыми.
 
-Эта десятая инкарнация их детища {{< a "https://nos.nl/artikel/2293703-nieuwe-zonneauto-tu-delft-rijdt-ook-op-windenergie.html" "получилась" >}} самой лёгкой в истории — солнцемобиль весил лишь **135** кг, и на него закономерно возлагались большие надежды.
+Эта десятая инкарнация их детища [получилась](https://nos.nl/artikel/2293703-nieuwe-zonneauto-tu-delft-rijdt-ook-op-windenergie.html) самой лёгкой в истории — солнцемобиль весил лишь **135** кг, и на него закономерно возлагались большие надежды.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hferodgai2oq1399.jpg" "Солнцемобиль NunaX перед стартом. Фото: Hans-Peter van Velthoven." >}}
 
@@ -43,11 +43,11 @@ imageCredit: "Фото: TU Delft."
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/mp6fp9ypea791026.jpg" "Vattenfall Solar Team и останки NunaX. Фото: TU Delft." >}}
 
-А так всё хорошо {{< a "https://www.youtube.com/watch?v=-HVHKwByDYM" "начиналось" >}}.
+А так всё хорошо [начиналось](https://www.youtube.com/watch?v=-HVHKwByDYM).
 
 ## Не первая жертва
 
-Чуть ранее с гонки {{< a "https://nos.nl/artikel/2306344-twentse-zonneauto-door-windvlaag-uitgeschakeld-in-world-solar-challenge.html" "сошёл" >}} солнцемобиль другого нидерландского университета, {{< a "https://www.solarteam.nl/" "RED E" >}} университета Твенте. Тут всё было ещё прозаичнее: сильным порывом ветра его сдуло с дороги, машина перевернулась, и команда заключила, что повреждения не позволяют им продолжать маршрут.
+Чуть ранее с гонки [сошёл](https://nos.nl/artikel/2306344-twentse-zonneauto-door-windvlaag-uitgeschakeld-in-world-solar-challenge.html) солнцемобиль другого нидерландского университета, [RED E](https://www.solarteam.nl/) университета Твенте. Тут всё было ещё прозаичнее: сильным порывом ветра его сдуло с дороги, машина перевернулась, и команда заключила, что повреждения не позволяют им продолжать маршрут.
 
 ## Победители
 
@@ -60,4 +60,4 @@ imageCredit: "Фото: TU Delft."
 * **3 место**\
 {{< fl "Electrum" >}} — {{< fl "University of Michigan Solar Car Team" >}} (США)
 
-Последние оставшиеся в гонке голландцы, {{< fl "Green Lightning" >}} команды {{< a "https://solarracing.nl/" "Top Dutch" >}} из Гронингена, пришли к финишу четвёртыми.
+Последние оставшиеся в гонке голландцы, {{< fl "Green Lightning" >}} команды [Top Dutch](https://solarracing.nl/) из Гронингена, пришли к финишу четвёртыми.

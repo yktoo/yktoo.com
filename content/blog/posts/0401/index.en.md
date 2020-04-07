@@ -17,7 +17,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/ihz4hlumirsc2592.jpg"
 
 ## Preface
 
-I've been using my {{< a "0096#router" "Linksys E4200" "ru" >}} router for about eight years and was quite happy with its very robust operation. However, any hardware is destined to get outdated over time.
+I've been using my [Linksys E4200](ru;0096#router) router for about eight years and was quite happy with its very robust operation. However, any hardware is destined to get outdated over time.
 
 Firstly, as soon as we'd moved from our former apartment into a three-storey house it became evident the Wi-Fi coverage was suboptimal. In some remote corner you'd sometimes hardly get any connection at all. Secondly, it didn't support modern IEEE standards such as **802.11ac**, which was also hurting the bandwidth.
 
@@ -33,13 +33,13 @@ A *mesh system* is also comprised of several wireless access points, but they ma
 
 ## Choosing a mesh router
 
-The ability to configure the system via a web interface was at the top of my requirement list. Last years almost all hardware vendors have {{< a "https://routersecurity.org/MeshRouters.php" "moved" >}} most settings "into the cloud" depriving the user from any possibility to change its parameters except for a couple most common ones. Moreover, they mandate you to make an account on the vendor website and, most of the time, to install their mobile app to be able to administer the device.
+The ability to configure the system via a web interface was at the top of my requirement list. Last years almost all hardware vendors have [moved](https://routersecurity.org/MeshRouters.php) most settings "into the cloud" depriving the user from any possibility to change its parameters except for a couple most common ones. Moreover, they mandate you to make an account on the vendor website and, most of the time, to install their mobile app to be able to administer the device.
 
 I hate when such choices (or, rather, lack thereof) are forced upon me. I revel in controlling devices I've bought for my own money.
 
 That ruled out most of the popular mesh systems, such as *Google Wi-Fi*, *Eero*, *Luma*, *Plume*, and others.
 
-Finally I've arrived at {{< a "https://www.netgear.com/orbi-pro/SRK60.aspx" "Netgear Orbi Pro SRK60" >}} as my choice. It's one of the most advanced and robust mesh systems that provides a proper web administration GUI.
+Finally I've arrived at [Netgear Orbi Pro SRK60](https://www.netgear.com/orbi-pro/SRK60.aspx) as my choice. It's one of the most advanced and robust mesh systems that provides a proper web administration GUI.
 
 ## Netgear Orbi Pro SRK60 and SRK60B03
 
@@ -54,7 +54,7 @@ I've chosen for the first option as it'd supposedly be well enough for all three
 
 ## SRK60 specifications
 
-Below are the technical specifications of SRK60 copied from Netgear's {{< a "https://www.netgear.com/images/datasheet/orbi/SRK60.pdf" "document" >}}:
+Below are the technical specifications of SRK60 copied from Netgear's [document](https://www.netgear.com/images/datasheet/orbi/SRK60.pdf):
 
 {{< table "table table-striped" >}}
 |Feature            |Value                                                   |
@@ -72,7 +72,7 @@ Below are the technical specifications of SRK60 copied from Netgear's {{< a "htt
 |Traffic separation |3 SSIDs                                                 |
 {{< /table >}}
 
-At this moment, it's on sale on {{< a "https://bit.ly/2nMIMM6" "bol.com" >}} at **€ 369**.
+At this moment, it's on sale on [bol.com](https://bit.ly/2nMIMM6) at **€ 369**.
 
 ## What's in the box
 
@@ -281,7 +281,7 @@ Let's move from theory to practice. One of my main drives to upgrade the router 
 
 **Worth noting:** in my setup, the satellite is connected to the router via Ethernet and not via the backhaul.
 
-When it comes to bandwidth Netgear Orbi is stellar. I've made some measurements with my mobile using {{< a "https://fast.com/" "fast.com" >}} and {{< a "https://www.speedtest.net/" "speedtest.net" >}}. Also I've metered the mobile (LTE/4G+) data speed, out of curiosity.
+When it comes to bandwidth Netgear Orbi is stellar. I've made some measurements with my mobile using [fast.com](https://fast.com/) and [speedtest.net](https://www.speedtest.net/). Also I've metered the mobile (LTE/4G+) data speed, out of curiosity.
 
 Below is the summary of my readings (the speed is in **Mbps**):
 
@@ -315,7 +315,7 @@ Below is the summary of my readings (the speed is in **Mbps**):
 
 On a side note, the difference between the measurements by the two services is sometimes striking. I have the impression fast.com is somewhat more accurate since its readings vary less.
 
-When the phone is located next to either of the device, the download bandwith is ca. **500 Mbps**, upload is ca. **400 Mbps**. This is pretty close to the overall "official" bandwidth of {{< a "0337" "my Internet connection" "ru" >}}.
+When the phone is located next to either of the device, the download bandwith is ca. **500 Mbps**, upload is ca. **400 Mbps**. This is pretty close to the overall "official" bandwidth of [my Internet connection](ru;0337).
 
 When the phone is equally removed from both devices, the speed is about **280 Mbps**. Which is decent in my view.
 
@@ -330,8 +330,8 @@ There a couple of points though:
 
 On the positive note, its three-network feature is incredibly useful:
 
-* The primary network is being used by all home devices: phones, computers, the {{< a "0243" "smart TV" >}} and so on.
-* The secondary ("employee") network is being used by various IoT devices, like my {{< a "0265" "Nest Protect" >}}s and the {{< a "0387" "Growatt" "ru" >}} solar converter. There's nothing in my local network they should be allowed to see.
+* The primary network is being used by all home devices: phones, computers, the [smart TV](0243) and so on.
+* The secondary ("employee") network is being used by various IoT devices, like my [Nest Protect](0265)s and the [Growatt](ru;0387) solar converter. There's nothing in my local network they should be allowed to see.
 * The guest network is, well, for guests.
 
 The latter could use some improvement though. It cannot be WPA-protected, and the configured password is only asked once a connection has been established, in the captive portal. Because of that I got lots of new unknown devices reported, I believe these were just passers-by's phones configured to connect to whichever open Wi-Fi is available. I resolved that by hiding the guest network, so you'll need to know its SSID in order to connect.
@@ -364,6 +364,6 @@ The latter could use some improvement though. It cannot be WPA-protected, and th
 
 ## Where to buy
 
-The recommended price for SRK60 is **€ 426** (which is also for how much I've bought it), but at this moment it's {{< a "https://bit.ly/2nMIMM6" "available for € 369" >}} on {{< fl "bol.com" >}}.
+The recommended price for SRK60 is **€ 426** (which is also for how much I've bought it), but at this moment it's [available for € 369](https://bit.ly/2nMIMM6) on {{< fl "bol.com" >}}.
 
-> **Update:** the firmware version **2.5.0.108** {{< a "0543" "adds another" >}}, fourth, Wi-Fi network.
+> **Update:** the firmware version **2.5.0.108** [adds another](0543), fourth, Wi-Fi network.

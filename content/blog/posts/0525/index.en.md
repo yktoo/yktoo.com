@@ -15,7 +15,7 @@ series: music
 
 It's Friday again, the time when music stars are falling from the sky, or now and then a whole nebula!
 
-In this fifth edition of {{< a "/series/music" "Musicellaneous" >}} I'd like to introduce the dear reader to {{< a "https://thehelixnebula.bandcamp.com/" "The Helix Nebula" >}}, Australian wizards of *instrumental prog metal*, which sometimes diverges into *djent* and *math rock*.
+In this fifth edition of [Musicellaneous](/series/music) I'd like to introduce the dear reader to [The Helix Nebula](https://thehelixnebula.bandcamp.com/), Australian wizards of *instrumental prog metal*, which sometimes diverges into *djent* and *math rock*.
 
 <!--more-->
 
@@ -32,7 +32,7 @@ The Helix Nebula's line-up:
 * *Simon Grove* — bass and production
 * *Nic Tresise* — drums
 
-The band was founded in **2011** and I spot at least two well-known names in the above list: the bass player and music producer {{< a "https://simongrove.com/" "Simon Grove" >}}, who played with numerous djent acts (*Plini*, *Intervals*, {{< a "0492" "Owane" >}} etc.), and {{< a "https://jakehowsamlowe.bandcamp.com/" "Jake Howsam Lowe" >}}, the live guitarist of *Plini*.
+The band was founded in **2011** and I spot at least two well-known names in the above list: the bass player and music producer [Simon Grove](https://simongrove.com/), who played with numerous djent acts (*Plini*, *Intervals*, [Owane](0492) etc.), and [Jake Howsam Lowe](https://jakehowsamlowe.bandcamp.com/), the live guitarist of *Plini*.
 
 ## Meridian
 

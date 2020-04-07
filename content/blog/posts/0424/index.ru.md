@@ -21,7 +21,7 @@ imageCredit: "Фото: Pexels/Pixabay."
 
 <!--more-->
 
-Купить билеты по акции можно {{< a "https://www.thalys.com/nl/nl/speciale-deal-actievandedag" "здесь" >}}.
+Купить билеты по акции можно [здесь](https://www.thalys.com/nl/nl/speciale-deal-actievandedag).
 
 * Отправление по выбору из Амстердама, Схипхола или Роттердама
 * Прибытие — тоже по выбору — на вокзал {{< fl "Paris Gare du Nord" >}} или {{< fl "Disneyland Paris" >}}
@@ -38,4 +38,4 @@ imageCredit: "Фото: Pexels/Pixabay."
 |Rotterdam Centraal |Disneyland Paris   | 3 часа 6 минут       |
 {{< /table >}}
 
-Дети до 3 лет включительно — бесплатно, старше — по {{< a "https://www.thalys.com/nl/nl/aanbiedingen-tarieven/het-kindertarief-van-thalys" "детскому тарифу" >}}.
+Дети до 3 лет включительно — бесплатно, старше — по [детскому тарифу](https://www.thalys.com/nl/nl/aanbiedingen-tarieven/het-kindertarief-van-thalys).

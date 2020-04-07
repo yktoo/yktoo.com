@@ -12,6 +12,6 @@ series: business
 fulltextUrl: "https://yktoo.solutions/blog/2019/10/01-yktoo-solutions-is-three/"
 ---
 
-Exactly three years ago, on **October 1<sup>st</sup>, 2016**, {{< a "https://yktoo.solutions/" "Yktoo Solutions" >}} was {{< a "0311" "born" >}}.
+Exactly three years ago, on **October 1<sup>st</sup>, 2016**, [Yktoo Solutions](https://yktoo.solutions/) was [born](0311).
 
 <!--more-->

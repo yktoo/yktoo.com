@@ -10,7 +10,7 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/v181200r3ib72091.jpg"
 ---
 
-В целях борьбы с засильем {{< fl "Netflix" >}}, {{< fl "YouTube" >}} и {{< fl "Facebook Video" >}} крупнейшие нидерландские медиакорпорации решили объединить свои усилия и совместно создать национальную медиаплатформу для аудио и видео. Недавно {{< a "https://www.ad.nl/nieuws/grote-nederlandse-mediapartijen-bundelen-krachten-tegen-netflix-en-youtube~abf49f9a/" "стало" >}} известно о принципиальной договорённости в результате переговоров, которые велись в тайне в течение года, между общественной {{< wiki "NPO" >}} и коммерческими {{< wiki "RTL_Nederland" "en" "RTL" >}}, {{< wiki "Talpa Network" "en" >}} и {{< wiki "DPG_Media" "en" "Persgroep" >}}.
+В целях борьбы с засильем {{< fl "Netflix" >}}, {{< fl "YouTube" >}} и {{< fl "Facebook Video" >}} крупнейшие нидерландские медиакорпорации решили объединить свои усилия и совместно создать национальную медиаплатформу для аудио и видео. Недавно [стало](https://www.ad.nl/nieuws/grote-nederlandse-mediapartijen-bundelen-krachten-tegen-netflix-en-youtube~abf49f9a/) известно о принципиальной договорённости в результате переговоров, которые велись в тайне в течение года, между общественной {{< wiki "NPO" >}} и коммерческими {{< wiki "RTL_Nederland" "en" "RTL" >}}, {{< wiki "Talpa Network" "en" >}} и {{< wiki "DPG_Media" "en" "Persgroep" >}}.
 
 <!--more-->
 

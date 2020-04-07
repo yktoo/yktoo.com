@@ -14,7 +14,7 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/qi9gtccxvwh93xw3l9p0.png"
 ---
 
-My mesh router **Netgear Orbi Pro SRK60** (see {{< a "0401" "my review of the router" >}}) has recently received the firmware {{< a "https://kb.netgear.com/000061539/SRS60-Firmware-Version-2-5-0-108" "version 2.5.0.108" >}}.
+My mesh router **Netgear Orbi Pro SRK60** (see [my review of the router](0401)) has recently received the firmware [version 2.5.0.108](https://kb.netgear.com/000061539/SRS60-Firmware-Version-2-5-0-108).
 
 What's new in this version:
 

@@ -11,7 +11,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/zdgo3t6qvqtajpibazjd.
 imageCredit: "Фото: Lorenzo Cafaro/Pixabay."
 ---
 
-Центральное статистическое бюро {{< fl "CBS" >}} сегодня {{< a "https://www.cbs.nl/nl-nl/nieuws/2019/47/vermogen-van-huishoudens-opnieuw-gestegen" "опубликовало" >}} цифры о финансовом положении домохозяйств в Нидерландах.
+Центральное статистическое бюро {{< fl "CBS" >}} сегодня [опубликовало](https://www.cbs.nl/nl-nl/nieuws/2019/47/vermogen-van-huishoudens-opnieuw-gestegen) цифры о финансовом положении домохозяйств в Нидерландах.
 
 Согласно отчёту, медианное состояние нидерландской семьи в {{< yearp 2018 "прошлом" >}} году выросло на **€ 10 000** и составило **38 400** евро.
 

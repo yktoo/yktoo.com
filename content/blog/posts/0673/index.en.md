@@ -12,9 +12,9 @@ imageCredit: "Photo by Widek."
 series: music
 ---
 
-A happy Friday the **13<sup>th</sup>** everyone! This sixteenth edition of {{< a "/series/music" "Musicellaneous" >}} features yet another portion of fascinating space djent played by yet another one-man band, the Polish guitarist {{< a "https://widekmusic.bandcamp.com/" "Widek" >}}.
+A happy Friday the **13<sup>th</sup>** everyone! This sixteenth edition of [Musicellaneous](/series/music) features yet another portion of fascinating space djent played by yet another one-man band, the Polish guitarist [Widek](https://widekmusic.bandcamp.com/).
 
-Widek owns a {{< a "https://widekstudio.com/" "recording studio" >}}, which he used to record and mix more than a hundred bands.
+Widek owns a [recording studio](https://widekstudio.com/), which he used to record and mix more than a hundred bands.
 
 It's quite surprising how low-profile he is considering the number of musicians he played with.
 
@@ -26,9 +26,9 @@ It's quite surprising how low-profile he is considering the number of musicians 
 
 Widek is pretty productive: since **2011** he has released seven albums and an EP.
 
-His music reminds me of {{< a "0560" "Gru" >}}, {{< a "0588" "Andromida" >}} and {{< fl "Sithu Aye" >}}, especially in its space/Universal theming, which is so popular amongst djent folks.
+His music reminds me of [Gru](0560), [Andromida](0588) and {{< fl "Sithu Aye" >}}, especially in its space/Universal theming, which is so popular amongst djent folks.
 
-Many of his tracks feature guest musicians like the mentioned above *Gru* and *Sithu Aye*, but also {{< a "0492" "Owane" >}}, *David Maxim Micic*, *Plini*, and others.
+Many of his tracks feature guest musicians like the mentioned above *Gru* and *Sithu Aye*, but also [Owane](0492), *David Maxim Micic*, *Plini*, and others.
 
 {{< youtube "ggaz5w6JFGM" >}}
 

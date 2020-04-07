@@ -21,7 +21,7 @@ The action is active until 20 October, but the tickets get sold out at the speed
 
 <!--more-->
 
-The tickets are on sale {{< a "https://www.thalys.com/nl/nl/speciale-deal-actievandedag" "here" >}}.
+The tickets are on sale [here](https://www.thalys.com/nl/nl/speciale-deal-actievandedag).
 
 * Departure from Amsterdam, Rotterdam, or Schiphol Airport
 * Arrival at {{< fl "Paris Gare du Nord" >}} or {{< fl "Disneyland Paris" >}}
@@ -38,4 +38,4 @@ The tickets are on sale {{< a "https://www.thalys.com/nl/nl/speciale-deal-actiev
 |Rotterdam Centraal |Disneyland Paris   |3 hours 6 minutes  |
 {{< /table >}}
 
-Kind up to 3 years old travel for free, for older children a {{< a "https://www.thalys.com/nl/nl/aanbiedingen-tarieven/het-kindertarief-van-thalys" "special tariff" >}} is available.
+Kind up to 3 years old travel for free, for older children a [special tariff](https://www.thalys.com/nl/nl/aanbiedingen-tarieven/het-kindertarief-van-thalys) is available.

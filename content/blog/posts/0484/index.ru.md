@@ -10,7 +10,7 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/2019-bright-day/cajav81ltfdqoidvibiq.jpg"
 ---
 
-В минувшие выходные я побывал на {{< a "https://www.bright.nl/" "Bright Day" >}}, крупнейшем нидерландском технофестивале (как они сами себя называют).
+В минувшие выходные я побывал на [Bright Day](https://www.bright.nl/), крупнейшем нидерландском технофестивале (как они сами себя называют).
 
 Было очень интересно, так что делюсь увиденным — под катом много фотографий.
 
@@ -18,7 +18,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/2019-bright-day/cajav
 
 ## Выставка
 
-Технофестиваль проходил в выставочном центре {{< a "https://www.expohaarlemmermeer.nl/" "Expo Haarlemmermeer" >}}, находящемся недалеко от Харлема. Он продлился два дня, и каждый день был разбит на блоки по четыре часа, который организаторы назвали «полётами» — {{< fl "flights" >}}. При покупке билета нужно было выбрать один из пяти доступных «полётов».
+Технофестиваль проходил в выставочном центре [Expo Haarlemmermeer](https://www.expohaarlemmermeer.nl/), находящемся недалеко от Харлема. Он продлился два дня, и каждый день был разбит на блоки по четыре часа, который организаторы назвали «полётами» — {{< fl "flights" >}}. При покупке билета нужно было выбрать один из пяти доступных «полётов».
 
 Программа каждой сессии была почти одинаковая, с небольшими вариациями. Билеты разошлись почти полностью, а на самый последний «полёт» были распроданы целиком. Стоимость билета — **€ 31**.
 
@@ -60,7 +60,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/2019-bright-day/cajav
 
 ## Министерство обороны и Deflab
 
-Секция нидерландского минобороны занимала на {{< fl "Bright Day" >}} наибольшую площадь. Министерство активно вербует молодёжь в свой {{< a "https://werkenbijdefensie.nl/deflab" "Deflab" >}}, «оборонную лабораторию», используя новейшие достижения технологий, такие как {{< fl "VR" >}}-очки, дроны, роботы, электротранспорт и т.д.
+Секция нидерландского минобороны занимала на {{< fl "Bright Day" >}} наибольшую площадь. Министерство активно вербует молодёжь в свой [Deflab](https://werkenbijdefensie.nl/deflab), «оборонную лабораторию», используя новейшие достижения технологий, такие как {{< fl "VR" >}}-очки, дроны, роботы, электротранспорт и т.д.
 
 Что сказать, выглядит это действительно круто. По крайней мере, со стороны.
 
@@ -106,7 +106,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/2019-bright-day/cajav
 
 По танку постоянно лазило множество детворы.
 
-Мне же показалось особенно любопытным, что у танка есть номерной знак! Я, конечно, не смог удержаться от того, чтобы пробить его по {{< a "0363" "сервису OVI" >}} — но, к сожалению, военная техника там либо не регистрируется, либо отфильтровывается, хотя формат номера у него самый что ни на есть обычный.
+Мне же показалось особенно любопытным, что у танка есть номерной знак! Я, конечно, не смог удержаться от того, чтобы пробить его по [сервису OVI](0363) — но, к сожалению, военная техника там либо не регистрируется, либо отфильтровывается, хотя формат номера у него самый что ни на есть обычный.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/2019-bright-day/dpjlm0c90dhqp2ovjrvl.jpg" "Танк Houwitser PzH2000NL." >}}
 
@@ -180,7 +180,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/2019-bright-day/cajav
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/2019-bright-day/bt1qoiykgfxg0qinoq5e.jpg" "Электромопед eV-Light." >}}
 
-Целый ряд электробайков {{< a "https://www.trefectamobility.com/" "Trefecta" >}}, которые могут приводиться в движение как электромотором, так и педалями. Вот его «военный» вариант:
+Целый ряд электробайков [Trefecta](https://www.trefectamobility.com/), которые могут приводиться в движение как электромотором, так и педалями. Вот его «военный» вариант:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/2019-bright-day/qv2vgn5qx7snoivulmc0.jpg" "Электробайк Trefecta." >}}
 
@@ -208,7 +208,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/2019-bright-day/cajav
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/2019-bright-day/t2ezq8imapuaqqxjwlro.jpg" "Электробайк Trefecta." >}}
 
-А это уже более серьёзный агрегат — электромотоцикл {{< a "http://www.orphiro.nl/" "Orphiro" >}}:
+А это уже более серьёзный агрегат — электромотоцикл [Orphiro](http://www.orphiro.nl/):
 
 {{< carousel >}}
     https://res.cloudinary.com/yktoo/image/upload/blog/2019-bright-day/fxmyqtb8dp6npy3zgx3z.jpg Электрический мотоцикл Orphiro.
@@ -221,7 +221,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/2019-bright-day/cajav
 
 ### Виртуальная реальность 
 
-{{< fl "SUIT" >}} ({{< a "https://www.re-lion.com/blacksuit.html" "Small Unit Immersive Trainer" >}}, «компактный реалистичный тренажёр») — предмет особенной гордости {{< fl "Deflab" >}}. Он разработан совместно с компаниями {{< fl "RE-liON" >}}, {{< fl "TNO" >}} и другими и предназначен для подготовки бойцов в сложных условиях городской среды.
+{{< fl "SUIT" >}} ([Small Unit Immersive Trainer](https://www.re-lion.com/blacksuit.html), «компактный реалистичный тренажёр») — предмет особенной гордости {{< fl "Deflab" >}}. Он разработан совместно с компаниями {{< fl "RE-liON" >}}, {{< fl "TNO" >}} и другими и предназначен для подготовки бойцов в сложных условиях городской среды.
 
 На выставке можно было опробовать это чудо {{< fl "VR" >}}-технологий на практике (отстояв длинную очередь, разумеется).
 
@@ -283,11 +283,11 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/2019-bright-day/cajav
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/2019-bright-day/zbglbeji2yzbddkb1bcd.jpg" "«Join the navy, see the world!»" >}}
 
-На ту же тему — компактная лодка на солнечных батареях от {{< a "https://solarboatteam.nl/" "Solar Boat Team" >}} Университета Твенте:
+На ту же тему — компактная лодка на солнечных батареях от [Solar Boat Team](https://solarboatteam.nl/) Университета Твенте:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/2019-bright-day/dauymnj0pkdqltfntqkz.jpg" "Solar Boat Team." >}}
 
-Другая команда, {{< a "https://www.tudelft.nl/d-dream/teams/wasub/" "WASUB" >}} Делфтского технического университета, представила сверхкомпактную подводную лодку:
+Другая команда, [WASUB](https://www.tudelft.nl/d-dream/teams/wasub/) Делфтского технического университета, представила сверхкомпактную подводную лодку:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/2019-bright-day/qujfjzteuc5lzerk0a00.jpg" "Персональная подлодка WASUB." >}}
 
@@ -299,7 +299,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/2019-bright-day/cajav
 
 ### DARE
 
-Ракетный симулятор {{< fl "DARE" >}} ({{< a "https://dare.tudelft.nl/" "Delft Aerospace Rocket Engineering" >}}) Делфтского технического университета служит для проверки параметров ракет перед их фактическим запуском.
+Ракетный симулятор {{< fl "DARE" >}} ([Delft Aerospace Rocket Engineering](https://dare.tudelft.nl/)) Делфтского технического университета служит для проверки параметров ракет перед их фактическим запуском.
 
 На стенде {{< fl "DARE" >}} можно было попытаться самому порулить ракетой:
 
@@ -319,13 +319,13 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/2019-bright-day/cajav
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/2019-bright-day/jjd0zgrjeciek3flln4u.jpg" "Polaroid Play 3D Pen." >}}
 
-Классика жанра — {{< fl "3D" >}}-принтеры {{< a "https://ultimaker.com/" "Ultimaker" >}}:
+Классика жанра — {{< fl "3D" >}}-принтеры [Ultimaker](https://ultimaker.com/):
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/2019-bright-day/pcq9ibttfxw4ectqewxi.jpg" "Ultimaker²." >}}
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/2019-bright-day/v5qvdjzguxfpuzxo8a8t.jpg" "Ultimaker²: 3D-печать в процессе." >}}
 
-Очень любопытно выглядит {{< a "https://tractus3d.com/" "Tractus 3D" >}} с корпусом в виде трёхгранной призмы:
+Очень любопытно выглядит [Tractus 3D](https://tractus3d.com/) с корпусом в виде трёхгранной призмы:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/2019-bright-day/gn5ny5mdixnunku2frke.jpg" "Tractus3D." >}}
 
@@ -364,7 +364,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/2019-bright-day/cajav
 
 ### OneWheel
 
-Лично меня как владельца моноколеса заинтересовало другое транспортное средство, {{< a "https://onewheel.com/" "OneWheel" >}} — этакий гибрид скейтборда и моноколеса:
+Лично меня как владельца моноколеса заинтересовало другое транспортное средство, [OneWheel](https://onewheel.com/) — этакий гибрид скейтборда и моноколеса:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/2019-bright-day/ytttuvehnauvs1pzzwb1.jpg" "OneWheel." >}}
 
@@ -427,15 +427,15 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/2019-bright-day/cajav
 
 ### И все-все-все
 
-Ещё из традиционного — электроскутеры {{< a "https://www.niu.com/" "NIU" >}}:
+Ещё из традиционного — электроскутеры [NIU](https://www.niu.com/):
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/2019-bright-day/x9plnnxhne6ubq12munw.jpg" "Электроскутеры NIU." >}}
 
-Электромопед {{< a "https://www.brekr.com/" "Brekr" >}}, проезжающий до **80 км** с одной батареей со скоростью **25** или **45 км/ч**:
+Электромопед [Brekr](https://www.brekr.com/), проезжающий до **80 км** с одной батареей со скоростью **25** или **45 км/ч**:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/2019-bright-day/n4ltus1j31vihdcgoftz.jpg" "Электромопед Brekr." >}}
 
-Тут же можно было погонять на скут-мобилах {{< a "https://www.scoozy.nl/" "Scoozy" >}}, которые обычно предназначены для пожилых людей и инвалидов.
+Тут же можно было погонять на скут-мобилах [Scoozy](https://www.scoozy.nl/), которые обычно предназначены для пожилых людей и инвалидов.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/2019-bright-day/grfgjnupmqusxjsvy5aw.jpg" "Скут-мобилы — развлечение для подростков." >}}
 
@@ -447,7 +447,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/2019-bright-day/cajav
 
 ### MiR
 
-Роботов на выставке было просто видимо-невидимо. Они сновали по всей территории, как например, этот {{< a "https://www.mobile-industrial-robots.com/" "MiR" >}}, предназначенный для перемещения грузов (интересно, {{< fl "Picnic" >}} такие {{< a "0487" "у себя на складе" >}} использовать будет?):
+Роботов на выставке было просто видимо-невидимо. Они сновали по всей территории, как например, этот [MiR](https://www.mobile-industrial-robots.com/), предназначенный для перемещения грузов (интересно, {{< fl "Picnic" >}} такие [у себя на складе](0487) использовать будет?):
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/2019-bright-day/ln9aibquz1v7h38u7lb7.jpg" "Робот MiR." >}}
 
@@ -479,7 +479,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/2019-bright-day/cajav
 
 ### Ozobot и прочие
 
-Про роботов рассказывали со сцены. Например, демонстрировали, как программируется {{< a "https://ozobot.com/" "Ozobot" >}}, представляющий собой микроскопический шарик диаметров в пару сантиметров:
+Про роботов рассказывали со сцены. Например, демонстрировали, как программируется [Ozobot](https://ozobot.com/), представляющий собой микроскопический шарик диаметров в пару сантиметров:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/2019-bright-day/kx6v6q5by6tijnx8yswz.jpg" "Демонстрация программирования Ozobot." >}}
 
@@ -497,7 +497,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/2019-bright-day/cajav
 
 ### Pink to the Future
 
-Команда {{< fl "Pink to the Future" >}}, один из участников американского {{< a "https://www.firstinspires.org/robotics/ftc" "FIRST Tech Challenge" >}}, ставит целью популяризировать технологии и роботостроение среди девочек.
+Команда {{< fl "Pink to the Future" >}}, один из участников американского [FIRST Tech Challenge](https://www.firstinspires.org/robotics/ftc), ставит целью популяризировать технологии и роботостроение среди девочек.
 
 Здесь они предлагали попробовать собрать Лего с помощью роботов: 
 
@@ -524,7 +524,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/2019-bright-day/cajav
 
 ### Бои роботов
 
-{{< a "http://www.dutchrobotgames.nl/" "Dutch Robot Games" >}} проводили бои роботов на специально огороженном и закрытом плексигласом ринге в трёх весовых категориях:
+[Dutch Robot Games](http://www.dutchrobotgames.nl/) проводили бои роботов на специально огороженном и закрытом плексигласом ринге в трёх весовых категориях:
 
 * {{< fl "Raptorweigth" >}} — до **6 кг**
 * {{< fl "Featherweight" >}} — до **13,6 кг**
@@ -534,7 +534,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/2019-bright-day/cajav
 
 ### Глазастая роборука Aiml
 
-Сюда же, к роботам, можно отнести и {{< a "https://aimlmonitor.com/" "Aiml" >}} — роботизированную руку с закреплённой на ней камерой, использующую комбинацию искусственного интеллекта ({{< fl "Artificial Intelligence" >}}, {{< fl "AI" >}}) и машинного обучения ({{< fl "Machine Learning" >}}, {{< fl "ML" >}}) — отсюда и название.
+Сюда же, к роботам, можно отнести и [Aiml](https://aimlmonitor.com/) — роботизированную руку с закреплённой на ней камерой, использующую комбинацию искусственного интеллекта ({{< fl "Artificial Intelligence" >}}, {{< fl "AI" >}}) и машинного обучения ({{< fl "Machine Learning" >}}, {{< fl "ML" >}}) — отсюда и название.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/2019-bright-day/iv8qkxolc8mdl7ovcc8w.jpg" "Роборука с глазами — рисовальщик Aiml." >}}
 
@@ -598,14 +598,14 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/2019-bright-day/cajav
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/2019-bright-day/ttjheve1msvrkinjgnqf.jpg" "Гаджеты." >}}
 
-Лично мне из всего это приглянулись устройства {{< a "http://candlesmarthome.com/" "Candle" >}} довольно своеобразного вида.
+Лично мне из всего это приглянулись устройства [Candle](http://candlesmarthome.com/) довольно своеобразного вида.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/2019-bright-day/h9z0lmnz2njjtsvjfexe.jpg" "Гаджеты Candle Smart Home." >}}
 
 Заинтересовали они меня двумя отличительными чертами:
 
 * Во-первых, они ничего не отправляют в Интернет. Как заявляет производитель, «ваши данные никогда не покидают вашего дома»
-* Во-вторых, эти гаджеты используют ПО с {{< a "https://github.com/createcandle" "открытым исходным кодом" >}}.
+* Во-вторых, эти гаджеты используют ПО с [открытым исходным кодом](https://github.com/createcandle).
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/2019-bright-day/abmgzpck7pxqpqzbxnjt.jpg" "Гаджеты Candle Smart Home." >}}
 
@@ -613,7 +613,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/2019-bright-day/cajav
 
 ## Дизайн
 
-Да, и напоследок о дизайне. На {{< fl "Bright Day" >}} был представлен ряд работ, не имеющих отношения к технике, но победивших в {{< a "https://www.ddw.nl/" "Dutch Design Week 2019" >}}.
+Да, и напоследок о дизайне. На {{< fl "Bright Day" >}} был представлен ряд работ, не имеющих отношения к технике, но победивших в [Dutch Design Week 2019](https://www.ddw.nl/).
 
 Больше всего мне понравились из них две работы.
 

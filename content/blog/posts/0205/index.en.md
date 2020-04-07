@@ -41,7 +41,7 @@ Three years into the construction Van Aaken died, reportedly of "chagrin", and C
 
 Only in 2005 the true cause of the failure was discovered. The tower was built on a slope of an old {{< wiki "Terp" "nl" "terp" >}} (mound), which once protected the area from flooding. So Van Aaken fell an innocent victim.
 
-On the other hand, if the tower stood upright, it would be yet another Dutch tower, like {{< a "0197" "ours" >}} in Amersfoort. Tourists would miss the opportunity to make funny forced-perspective photos.
+On the other hand, if the tower stood upright, it would be yet another Dutch tower, like [ours](0197) in Amersfoort. Tourists would miss the opportunity to make funny forced-perspective photos.
 
 The tower, which is nowadays 40 m (131') high, can be climbed by 183 stone steps, spiraling up in a traditionally narrow shaft. The stair ends with a door with the text "PUSH STRONGLY" on it:
 

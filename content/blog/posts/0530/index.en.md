@@ -12,21 +12,21 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/pq52iosvsntxwjaj4tgm.
 
 The time flies by so fast, it's hard to believe so much has happened during the last year!
 
-Looks like it's time for yet another {{< a "/tags/upshot" "upshot" >}} post?
+Looks like it's time for yet another [upshot](/tags/upshot) post?
 
 <!--more-->
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pq52iosvsntxwjaj4tgm.jpg">}}
 
-I'll start with the most significant one: last July the most special woman {{< a "0345" "has become my wife" >}}, which we then celebrated in Cannes in September.
+I'll start with the most significant one: last July the most special woman [has become my wife](0345), which we then celebrated in Cannes in September.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ycjbyc5g4j3eaullfe9o.jpg" "Kanns in Cannes." >}}
 
 During {{< year 2019 "this year" >}} I have also:
 
 * Worked **1836** hours as a freelancer;
-* Discovered and learned {{< a "https://gohugo.io/" "Hugo" >}}, {{< a "0351" "reimplemented" >}} this blog and moved {{< a "0452" "to Cloudinary" >}} for media storage;
-* Written **186** posts {{< a "/blog/archive" "in Russian" "ru" >}}, **59** {{< a "/blog/archive" "in English" >}} (this one included), and **9** {{< a "/blog/archive" "in Dutch" "nl" >}}, as well as **25** {{< a "/glossary" "Glossary" >}} terms;
+* Discovered and learned [Hugo](https://gohugo.io/), [reimplemented](0351) this blog and moved [to Cloudinary](0452) for media storage;
+* Written **186** posts [in Russian](ru;/blog/archive), **59** [in English](/blog/archive) (this one included), and **9** [in Dutch](nl;/blog/archive), as well as **25** [Glossary](/glossary) terms;
 * Run **813** km on **44** occasions (including one half marathon).
 
 The rest will be described in the chronological order.
@@ -79,7 +79,7 @@ June was scorching in Krakow, the most beautiful city in Poland. There was cold 
 
 ## July
 
-Well, July is already {{< a "0345" "mentioned" >}}.
+Well, July is already [mentioned](0345).
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/yi7pgjm9e9x4z5jna9h8.jpg">}}
 
@@ -89,9 +89,9 @@ August: Russia again, the rainy Saint Petersburg.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/wdykkz9bfdy4xytm2yo3.jpg" "Saint Petersburg, Russia." >}}
 
-And a bit of {{< a "0366" "Amsterdam" "ru" >}}.
+And a bit of [Amsterdam](ru;0366).
 
-Also I'd finally made up my mind, {{< a "0351" "reimplemented yktoo.com" >}} as a static website and started to blog regularly.
+Also I'd finally made up my mind, [reimplemented yktoo.com](0351) as a static website and started to blog regularly.
 
 ## September
 
@@ -107,7 +107,7 @@ October—Saint Petersburg again.
 
 ## November
 
-In November {{< a "0470" "Sinterklaas arrived" "ru" >}} to the Netherlands, then I've held a {{< a "0478" "Hugo workshop" >}} and visited the {{< a "0484" "Bright Day expo" "ru" >}}.
+In November [Sinterklaas arrived](ru;0470) to the Netherlands, then I've held a [Hugo workshop](0478) and visited the [Bright Day expo](ru;0484).
 
 ## December
 
@@ -119,7 +119,7 @@ There was the Amsterdam Light Festival:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/wsi10wl3cc7iroidbqsz.jpg" "Amsterdam Light Festival." >}}
 
-After that the {{< a "0505" "Rotary Santa Run" "ru" >}}, {{< a "0516" "Paris" "ru" >}} and the Belgian Mechelen:
+After that the [Rotary Santa Run](ru;0505), [Paris](ru;0516) and the Belgian Mechelen:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/oo4rtpmn10nr3vawql6m.jpg" "Mechelen, Belgium." >}}
 

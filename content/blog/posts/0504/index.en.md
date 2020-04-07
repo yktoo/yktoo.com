@@ -14,11 +14,11 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/lbol8gspmhktabodv0a5.
 imageCredit: "Photo: ©Tom Hegen."
 ---
 
-{{< a "http://tomhegen.de/" "Tom Hegen" >}}, a German award-winning photographer specialising in aerial photography, has made absolutely stunning night photos of the Netherlands.
+[Tom Hegen](http://tomhegen.de/), a German award-winning photographer specialising in aerial photography, has made absolutely stunning night photos of the Netherlands.
 
 They feature dazzling light patches of greenhouses against the pitch-black background, so bright that they are clearly visible from space.
 
-By the courtesy of Tom I'm publishing his {{< a "http://tomhegen.de/fotodesign/the-greenhouse-series/" "Greenhouse Series" >}} photos in my blog today.
+By the courtesy of Tom I'm publishing his [Greenhouse Series](http://tomhegen.de/fotodesign/the-greenhouse-series/) photos in my blog today.
 
 <!--more-->
 
@@ -52,4 +52,4 @@ But I have to admit: in the dark it does look splendid.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/od2mibei0eyiebdkpwfp.jpg" "Aerial view of Dutch greenhouses. Photo: ©Tom Hegen." >}}
 
-I also highly recommend Tom's {{< a "http://tomhegen.de/" "website" >}} and {{< a "https://www.instagram.com/tomhegen.de/" "Instagram" >}}, there are plenty of other beautiful works by the photographer.
+I also highly recommend Tom's [website](http://tomhegen.de/) and [Instagram](https://www.instagram.com/tomhegen.de/), there are plenty of other beautiful works by the photographer.

@@ -14,7 +14,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/w6qxzptiyu3k5pudbubq.
 imageCredit: "Фото: Karsten Würth/Unsplash."
 ---
 
-Нидерланды {{< a "https://nos.nl/artikel/2317857-nederland-onderhandelt-over-kopen-duurzame-energierechten.html" "договариваются" >}} с несколькими европейскими странами о покупке прав на {{< wiki "Возобновляемая_энергия" "ru" "возобновляемую энергию" >}} — это подтверждает министерство экономики и климата.
+Нидерланды [договариваются](https://nos.nl/artikel/2317857-nederland-onderhandelt-over-kopen-duurzame-energierechten.html) с несколькими европейскими странами о покупке прав на {{< wiki "Возобновляемая_энергия" "ru" "возобновляемую энергию" >}} — это подтверждает министерство экономики и климата.
 
 Проблема в том, что, согласно европейской директиве, к концу {{< year 2020 "этого" >}} года **14%** всей электроэнергии в стране должно поступать из возобновляемых источников.
 

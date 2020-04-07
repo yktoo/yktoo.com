@@ -10,7 +10,7 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/immk1jtfjo9wj6k7xzln.jpg"
 ---
 
-We've recently been to {{< a "0516" "Paris" "ru" >}} and strolled along the banks of Seine, where all kinds of old stuff was being sold: postcards, posters, paintings, books.
+We've recently been to [Paris](ru;0516) and strolled along the banks of Seine, where all kinds of old stuff was being sold: postcards, posters, paintings, books.
 
 Occasionally you stumble upon a really interesting artifact.
 
@@ -38,4 +38,4 @@ Just look at this beauty:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/immk1jtfjo9wj6k7xzln.jpg" "Mona Lisa Plus." >}}
 
-By the way, with the print {{< a "https://www.albelli.nl/" "Albelli" >}} has also sent me the code `19WINTER`: it gives you a **40%** discount on postcards and calenders and **25%** for all other products. The code is valid until **31** January **2020**.
+By the way, with the print [Albelli](https://www.albelli.nl/) has also sent me the code `19WINTER`: it gives you a **40%** discount on postcards and calenders and **25%** for all other products. The code is valid until **31** January **2020**.

@@ -15,7 +15,7 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/ezmrmtqnbozupd0hgzfv.jpg"
 ---
 
-Личность тринадцати свидетелей по делу о крушении рейса {{< fl "MH17" >}} останется тайной: соответствующие документы {{< a "https://nos.nl/nieuwsuur/artikel/2324533-dertien-getuigen-mh17-proces-blijven-anoniem-vanwege-aanzienlijke-risico-s.html" "оказались" >}} в распоряжении программы {{< fl "Nieuwsuur" >}}.
+Личность тринадцати свидетелей по делу о крушении рейса {{< fl "MH17" >}} останется тайной: соответствующие документы [оказались](https://nos.nl/nieuwsuur/artikel/2324533-dertien-getuigen-mh17-proces-blijven-anoniem-vanwege-aanzienlijke-risico-s.html) в распоряжении программы {{< fl "Nieuwsuur" >}}.
 
 По мнению судьи, они могут подвергаться «серьёзной опасности», участвуя в данном процессе. 
 
@@ -31,7 +31,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/ezmrmtqnbozupd0hgzfv.
 
 ## Харченко
 
-Изначально против Харченко, единственного из четверых гражданина Украины, было {{< a "https://nos.nl/nieuwsuur/artikel/2324561-op-zoek-naar-leonid-chartsjenko-een-verdachte-in-het-mh17-proces.html" "открыто" >}} дело на его родине, но две недели назад оно было отозвано.
+Изначально против Харченко, единственного из четверых гражданина Украины, было [открыто](https://nos.nl/nieuwsuur/artikel/2324561-op-zoek-naar-leonid-chartsjenko-een-verdachte-in-het-mh17-proces.html) дело на его родине, но две недели назад оно было отозвано.
 
 Представитель прокуратуры:
 

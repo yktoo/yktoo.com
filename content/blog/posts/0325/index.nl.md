@@ -12,7 +12,7 @@ aliases:
     - /nl/blog/post/325
 ---
 
-Mijn laatste *cursus Nederlands* is voorbij. Het heeft bijna een jaar geduurd, deels vanwege mijn {{< a "/series/business" "ondernemersavontuur" >}}. Ik ben in juli 2016 met de cursus begonnen. ING, die toen mijn werkgever was, heeft het destijds afbetaald, dus de lessen gingen gewoon door nadat ik wegging bij de ING.
+Mijn laatste *cursus Nederlands* is voorbij. Het heeft bijna een jaar geduurd, deels vanwege mijn [ondernemersavontuur](/series/business). Ik ben in juli 2016 met de cursus begonnen. ING, die toen mijn werkgever was, heeft het destijds afbetaald, dus de lessen gingen gewoon door nadat ik wegging bij de ING.
 
 <!--more-->
 
@@ -24,7 +24,7 @@ Ik heb totaal zestig uur *individuele* lessen (30 keer twee uur) gekregen en tal
 
 Persoonlijk ben ik er niet van overtuigd dat mijn Nederlands zo goed is want ik vind het toch bij tijd en wijle lastig, maar ik moet mijn lerares gelijk geven! Mijn taalbeheersing is in ieder geval beter geworden in de loop van deze cursus en de belangrijkste succesfactor hierbij was dat ik privélessen had. In het verleden heb ik ook een aantal groepscursussen gevolgd en het verschil tussen deze twee manieren is enorm. Als je individuele sessies met de docent hebt, krijg je de aandacht en heb je alle vrijheid om zoveel als nodig te spreken en te lezen.
 
-Als voorbereiding op deze lessen heb ik ook {{< a "/blog/archive" "een aantal blogposts" >}} vertaald en gecorrigeerd, en het boek [Nederlands naar perfectie](https://shop.coutinho.nl/store_nl/nederlands-naar-perfectie.html) nagenoeg uitgelezen:
+Als voorbereiding op deze lessen heb ik ook [een aantal blogposts](/blog/archive) vertaald en gecorrigeerd, en het boek [Nederlands naar perfectie](https://shop.coutinho.nl/store_nl/nederlands-naar-perfectie.html) nagenoeg uitgelezen:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/g7iprcv2jm4m1000.jpg" "Nederlands naar perfectie." >}}
 

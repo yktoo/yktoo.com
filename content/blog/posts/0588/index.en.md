@@ -12,7 +12,7 @@ imageCredit: "Photo by Ramon Gutierrez."
 series: music
 ---
 
-It's Friday again! This tenth edition of {{< a "/series/music" "Musicellaneous" >}} features another unique project by a talented individual. I'm talking about the instrumental progressive metal band {{< a "https://andromidaofficial.com/" "Andromida" >}}, which is in fact just one person: the American **Ramon Gutierrez**.
+It's Friday again! This tenth edition of [Musicellaneous](/series/music) features another unique project by a talented individual. I'm talking about the instrumental progressive metal band [Andromida](https://andromidaofficial.com/), which is in fact just one person: the American **Ramon Gutierrez**.
 
 The band is unique because Ramon is "legally blind", which was discovered when he was as little as three years old.
 
@@ -20,7 +20,7 @@ The band is unique because Ramon is "legally blind", which was discovered when h
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/t6n0g3zgttqskxveo5ot.jpg" "Ramon Gutierrez." >}}
 
-According to the {{< a "https://andromidaofficial.com/" "band's official page" >}}, the musician started learning violin at the age of three and guitar when he was eleven. He was supervised by a teacher when learning violin, but guitar he has completely learned himself—and, naturally, by ear.
+According to the [band's official page](https://andromidaofficial.com/), the musician started learning violin at the age of three and guitar when he was eleven. He was supervised by a teacher when learning violin, but guitar he has completely learned himself—and, naturally, by ear.
 
 Which is hard to believe if you watch his videos:
 
@@ -30,7 +30,7 @@ Which is hard to believe if you watch his videos:
 
 Nearly all tracks by **Andromida** are instrumental save for a couple of songs featuring guest vocalists (*Crawling*, *Take What You Want*).
 
-The tracks' names are all related to space, which, along with the music itself, closely reminds me of *Sithu Aye* and {{< a "0673" "Widek" >}}. The sound is dense and heavy, featuring typical djent rhythms. It's a remarkably quality work, so my kudos to Ramon, both as a musician and as a producer.
+The tracks' names are all related to space, which, along with the music itself, closely reminds me of *Sithu Aye* and [Widek](0673). The sound is dense and heavy, featuring typical djent rhythms. It's a remarkably quality work, so my kudos to Ramon, both as a musician and as a producer.
 
 {{< youtube "W43vAHfMEIM" >}}
 

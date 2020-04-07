@@ -11,7 +11,7 @@ image: "https://img.youtube.com/vi/8d7N6dgnlLs/maxresdefault.jpg"
 imageCredit: "Видео: Omroep West."
 ---
 
-{{< fl "NOS" >}} {{< a "https://nos.nl/artikel/2311243-haagse-snackbarheld-verjaagt-overvaller-gelukkig-hebben-we-onze-edsel.html" "пишет" >}} о сотруднике снек-бара в Гааге, которого вчера попытался ограбить вооружённый пистолетом человек в маске.
+{{< fl "NOS" >}} [пишет](https://nos.nl/artikel/2311243-haagse-snackbarheld-verjaagt-overvaller-gelukkig-hebben-we-onze-edsel.html) о сотруднике снек-бара в Гааге, которого вчера попытался ограбить вооружённый пистолетом человек в маске.
 
 Работник, однако, оказался неробкого десятка.
 

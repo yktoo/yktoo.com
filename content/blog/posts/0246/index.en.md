@@ -32,7 +32,7 @@ You can install free and paid application, for which a Samsung account is requir
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/3z2jsr7c8s4c3119.jpg" "Smart Hub: On TV." >}}
 
-If you've specified your ISP and location during the {{< a "0243" "setup procedure" >}}, the device can download and display the TV guide. You can browse channels while watching live video from the currently selected source.
+If you've specified your ISP and location during the [setup procedure](0243), the device can download and display the TV guide. You can browse channels while watching live video from the currently selected source.
 
 ### Panel three: Films and TV Shows
 
@@ -180,10 +180,10 @@ It also starts very slowly, making you wait some six seconds (with a quad-core C
 
 ## Football mode {#football-mode}
 
-This TV was announced just before the 2014 World Championship, and one of its killer features was the *Football Mode*. It's been even given a *separate* button on the {{< a "0244" "Smart Touch Control" >}} remote. Once pushed, it makes the grass turn toxic green, whereas the roar of the stadium becomes notably amplified.
+This TV was announced just before the 2014 World Championship, and one of its killer features was the *Football Mode*. It's been even given a *separate* button on the [Smart Touch Control](0244) remote. Once pushed, it makes the grass turn toxic green, whereas the roar of the stadium becomes notably amplified.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/j9uvvten8jmz3613.jpg" "Golf in the Football Mode." >}}
 
-In my view, however, what's advertised as "vivid image quality and realistic sound" is as terrible as it gets. So I'm not the first one to declare this feature utterly useless (I'm {{< a "0053" "not into football" "ru" >}} anyway).
+In my view, however, what's advertised as "vivid image quality and realistic sound" is as terrible as it gets. So I'm not the first one to declare this feature utterly useless (I'm [not into football](ru;0053) anyway).
 
-*Next:* {{< a "0247" "Part five. AV format support" >}}
+*Next:* [Part five. AV format support](0247)

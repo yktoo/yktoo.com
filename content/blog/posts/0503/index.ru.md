@@ -11,7 +11,7 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/vxh8pjqvldsi2pzcdsxm.png"
 ---
 
-Вскоре после моего {{< a "0452" "переезда" >}} на {{< a "https://cloudinary.com/invites/lpov9zyyucivvxsnalc5/l6ccxxrfxv0mdc6iewg8" "Cloudinary" >}} для хостинга изображений и видео, я закономерно задался вопросом: как теперь это всё богатство резервировать?
+Вскоре после моего [переезда](0452) на [Cloudinary](https://cloudinary.com/invites/lpov9zyyucivvxsnalc5/l6ccxxrfxv0mdc6iewg8) для хостинга изображений и видео, я закономерно задался вопросом: как теперь это всё богатство резервировать?
 
 Ничто не вечно под луной, и облака в том числе. Или можно в один прекрасный день, скажем, лишиться своего аккаунта вместе с доступом. Поэтому резервное копирование — задача более чем актуальная.
 
@@ -21,9 +21,9 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/vxh8pjqvldsi2pzcdsxm.
 
 ## Скрипт резервного копирования
 
-Поскольку хостинг обладает богатыми возможностями по интеграции при помощи своих {{< a "https://cloudinary.com/documentation/cloudinary_references" "API" >}}, я нисколько не сомневался, что сделать скрипт для резервного копирования контента будет совсем несложно.
+Поскольку хостинг обладает богатыми возможностями по интеграции при помощи своих [API](https://cloudinary.com/documentation/cloudinary_references), я нисколько не сомневался, что сделать скрипт для резервного копирования контента будет совсем несложно.
 
-Так и вышло. Я набросал удобный, рабочий вариант на {{< fl "Python 3" >}}, копирующий все фото и видео на локальный диск, меньше, чем за час: {{< a "https://github.com/yktoo/yktoo.com/blob/master/_dev_/cloudinary-backup" "cloudinary-backup" >}}.
+Так и вышло. Я набросал удобный, рабочий вариант на {{< fl "Python 3" >}}, копирующий все фото и видео на локальный диск, меньше, чем за час: [cloudinary-backup](https://github.com/yktoo/yktoo.com/blob/master/_dev_/cloudinary-backup).
 
 ### Установка и настройка
 
@@ -31,7 +31,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/vxh8pjqvldsi2pzcdsxm.
 
 * Установить пакет {{< fl "cloudinary" >}}: `sudo pip3 install cloudinary`
 * Установить переменную окружения `CLOUDINARY_URL=cloudinary://<ключ_API>:<пароль_API>@<имя_облака>` — это значение можно скопировать прямо в заголовке {{< fl "Cloudinary Dashboard" >}}.
-* Подкрутить переменную `BACKUP_DIR` в заголовке {{< a "https://github.com/yktoo/yktoo.com/blob/master/_dev_/cloudinary-backup" "скрипта" >}}, чтобы она указывала на желаемую локальную папку.
+* Подкрутить переменную `BACKUP_DIR` в заголовке [скрипта](https://github.com/yktoo/yktoo.com/blob/master/_dev_/cloudinary-backup), чтобы она указывала на желаемую локальную папку.
 
 ### Запуск
 
@@ -49,4 +49,4 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/vxh8pjqvldsi2pzcdsxm.
 
 ## Исходный код
 
-Исходный код скрипта {{< a "https://github.com/yktoo/yktoo.com/blob/master/_dev_/cloudinary-backup" "доступен на GitHub" >}}.
+Исходный код скрипта [доступен на GitHub](https://github.com/yktoo/yktoo.com/blob/master/_dev_/cloudinary-backup).

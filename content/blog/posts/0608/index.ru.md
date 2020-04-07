@@ -18,7 +18,7 @@ imageCredit: "Фото: @s_b_snark/Twitter."
 
 Над Атлантикой и Европой пронёсся ураган Киара, натворив немало дел.
 
-Наибольшие разрушения в Нидерландах Киара причинила, как и {{< a "0601" "ожидалось" >}}, вчера. Ближе к вечеру {{< fl "ANWB" >}} рекомендовала не пользоваться автомобилем.
+Наибольшие разрушения в Нидерландах Киара причинила, как и [ожидалось](0601), вчера. Ближе к вечеру {{< fl "ANWB" >}} рекомендовала не пользоваться автомобилем.
 
 <!--more-->
 
@@ -28,7 +28,7 @@ imageCredit: "Фото: @s_b_snark/Twitter."
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/phwqdvxjq0n4e2kafdoz.jpg" "Кадр из видео Omroep Brabant." >}}
 
-В Гааге одно из деревьев {{< a "https://nos.nl/artikel/2322294-ciara-trekt-weg-problemen-verwacht-in-ochtendspits.html" "упало" >}} прямо на проезжающую машину, к счастью, никто не пострадал.
+В Гааге одно из деревьев [упало](https://nos.nl/artikel/2322294-ciara-trekt-weg-problemen-verwacht-in-ochtendspits.html) прямо на проезжающую машину, к счастью, никто не пострадал.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/bkc7oeenxds1x20mvbax.jpg" "Упавшее на машину дерево. Фото: Regio15." >}}
 
@@ -44,7 +44,7 @@ imageCredit: "Фото: @s_b_snark/Twitter."
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hxcrziubipbrosaugmmh.jpg" "Садящийся самолёт в Схипхоле во время урагана. Кадр из видео." >}}
 
-Рейс {{< fl "Air Europa" >}} из Мадрида с тремястами пассажирами на борту трижды {{< a "https://nos.nl/artikel/2322344-vliegtuig-kon-niet-landen-door-storm-mensen-in-paniek-en-alles-klapperde.html" "пытался" >}} совершить посадку и в итоге вернулся обратно в Мадрид. У многих от происходящего сдали нервы, на видео слышно чей-то истеричный крик:
+Рейс {{< fl "Air Europa" >}} из Мадрида с тремястами пассажирами на борту трижды [пытался](https://nos.nl/artikel/2322344-vliegtuig-kon-niet-landen-door-storm-mensen-in-paniek-en-alles-klapperde.html) совершить посадку и в итоге вернулся обратно в Мадрид. У многих от происходящего сдали нервы, на видео слышно чей-то истеричный крик:
 
 {{< tweet "1226598257545093122" >}}
 

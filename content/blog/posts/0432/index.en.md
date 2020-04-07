@@ -17,7 +17,7 @@ series: business
 glossary: ns-business-card
 ---
 
-As soon as you turn into a {{< a "0309" "freelancer" >}} (also known as {{< fl "zzp'er" >}} in the Netherlands), you're free to choose the transportation method for commuting. Which I consider one of the benefits of being a freelancer.
+As soon as you turn into a [freelancer](0309) (also known as {{< fl "zzp'er" >}} in the Netherlands), you're free to choose the transportation method for commuting. Which I consider one of the benefits of being a freelancer.
 
 So you can choose to walk, cycle, drive etc.—or to use public transport.
 
@@ -37,7 +37,7 @@ This system offers numerous benefits:
 * It allows you to avoid traffic jams;
 * It's much cheaper than driving when travelling to a city centre;
 * You may skip buying a car altogether, which is what many people living in Amsterdam do;
-* It's the best option from the sustainability perspective. For instance, all {{< fl "NS" >}} trains are running on {{< a "https://www.ns.nl/en/about-ns/sustainability/energy/sustainable-energy.html" "green energy" >}}.
+* It's the best option from the sustainability perspective. For instance, all {{< fl "NS" >}} trains are running on [green energy](https://www.ns.nl/en/about-ns/sustainability/energy/sustainable-energy.html).
 
 At the same time public transport is also not entirely free from disadvantages:
 
@@ -52,13 +52,13 @@ In other words, the perfect choice dependens on your specific circumstances.
 
 When it comes to the public transport option, a freelancer is in a much more favourable position than a regular citizen.
 
-That's beause {{< fl "NS" >}}, the Dutch Railway Company, is offering the so-called {{< a "https://www.ns.nl/zakelijk/ns-business-card" "NS Business Card" >}}. All you need in order to get one is sign up for a business account ({{< fl "NS Zakelijk" >}}), which, in turn, requires a valid {{< fl "KvK-nummer" >}} assigned by the Chamber of Commerce.
+That's beause {{< fl "NS" >}}, the Dutch Railway Company, is offering the so-called [NS Business Card](https://www.ns.nl/zakelijk/ns-business-card). All you need in order to get one is sign up for a business account ({{< fl "NS Zakelijk" >}}), which, in turn, requires a valid {{< fl "KvK-nummer" >}} assigned by the Chamber of Commerce.
 
 ### Benefits of NS Business Card
 
-* You get a *Business Card* for free, whereas a regular {{< fl "OV-chipkaart" >}}, being in fact exactly the same type of a contactless card, will {{< a "https://www.ov-chipkaart.nl/ov-chip-kopen.htm" "cost" >}} you **€ 7.50** every five years.
+* You get a *Business Card* for free, whereas a regular {{< fl "OV-chipkaart" >}}, being in fact exactly the same type of a contactless card, will [cost](https://www.ov-chipkaart.nl/ov-chip-kopen.htm) you **€ 7.50** every five years.
 * It comes with no monthly charge by default, so you can order one and put it on the shelf until it's needed.
-* It's post-paid, so you pay all your trips afterwards, once a month. Until recently it was impossible for regular {{< fl "OV" >}}-cards, but nowadays there's also a post-paid option available with {{< a "https://www.ns.nl/en/flex" "NS Flex" >}}.
+* It's post-paid, so you pay all your trips afterwards, once a month. Until recently it was impossible for regular {{< fl "OV" >}}-cards, but nowadays there's also a post-paid option available with [NS Flex](https://www.ns.nl/en/flex).
 * Fixed-route subscriptions ({{< fl "Traject Vrij" >}}) are significantly cheaper their non-business counterparts.
 * Subscriptions are cancellable on any day after the first month, which is also something regular travellers don't have.
 * One card for all kinds of public transport: bus, tram, or metro.
@@ -67,7 +67,7 @@ That's beause {{< fl "NS" >}}, the Dutch Railway Company, is offering the so-cal
 
 ### Available subscriptions
 
-If you regularly travel with the train, it's likely you'll be better of buying one of the {{< a "https://www.ns.nl/businesscardaanvragen/" "provided subscriptions" >}} (all the prices are given for the cheaper **2** class trips):
+If you regularly travel with the train, it's likely you'll be better of buying one of the [provided subscriptions](https://www.ns.nl/businesscardaanvragen/) (all the prices are given for the cheaper **2** class trips):
 
 {{< table "table table-striped" >}}
 |Subscription              |Description                                                                                                                  |Monthly charge      |

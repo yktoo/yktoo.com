@@ -28,7 +28,7 @@ The built-in video player features an impressive list of codecs and containers. 
 
 One of the main price components in this TV is its {{< wiki "Ultra-high-definition_television" "en" "Ultra HD" >}} support, also known as 4K or 2160p, that is 4096×2160 pixels. Since the panel's own resolution is 3840×2160, it's either cropped or downscaled.
 
-So what is all that 4K video about? Firstly, plugging in an external USB drive turned out to be the only way to play it. My Mac Mini, which I use as a media PC, is only capable of 1920×1080. And if you play video {{< a "0246" "over DLNA" >}}, it cannot keep up with the FPS.
+So what is all that 4K video about? Firstly, plugging in an external USB drive turned out to be the only way to play it. My Mac Mini, which I use as a media PC, is only capable of 1920×1080. And if you play video [over DLNA](0246), it cannot keep up with the FPS.
 
 Secondly, of course it provides an unparalleled image quality, with every tiny detail visible, but—you have to be standing 1 to 1.5 metres away from the screen! Even at two metres you'll barely notice a difference with Full HD (partly due to a very good job the device does when upscaling an HD video stream). Usually I'm watching TV from the couch some five metres away. Besides that, I find it stupid to stand a metre away from such a screen.
 
@@ -68,4 +68,4 @@ The audio player is also not very sophisticated. And it's a bit, erm… bulky fo
 
 The sound is quite okay for the form factor of a chalkboard. But nothing too fancy, so I plan extending it with a soundbar and a subwoofer.
 
-*Next:* {{< a "0248" "Part six. Location, conclusions" >}}
+*Next:* [Part six. Location, conclusions](0248)

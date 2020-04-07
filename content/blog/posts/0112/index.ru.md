@@ -56,4 +56,4 @@ aliases:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/n03p2nx73fps2425.jpg" >}}
 
-**Добавлено.** Вот результаты {{< a "0160" "год спустя" >}}.
+**Добавлено.** Вот результаты [год спустя](0160).

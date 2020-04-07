@@ -16,7 +16,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/mivyzhekxpniqp1y1jlz.
 imageCredit: "Фото: Marcelo Leal/Unsplash."
 ---
 
-Сегодня нидерландские страховые компании {{< a "https://nos.nl/artikel/2310066-we-kunnen-weer-wisselen-van-zorgverzekeraar-premies-2020-bekend.html" "опубликовали" >}} стоимость обязательной медицинской страховки ({{< fl "basisverzekering" >}}) на {{< yearn 2020 "предстоящий" >}} год.
+Сегодня нидерландские страховые компании [опубликовали](https://nos.nl/artikel/2310066-we-kunnen-weer-wisselen-van-zorgverzekeraar-premies-2020-bekend.html) стоимость обязательной медицинской страховки ({{< fl "basisverzekering" >}}) на {{< yearn 2020 "предстоящий" >}} год.
 
 Согласно этим данным, страховые премии изменятся незначительно. 
 
@@ -24,7 +24,7 @@ imageCredit: "Фото: Marcelo Leal/Unsplash."
 
 ## Новые премии
 
-Вот {{< a "https://www.zorgwijzer.nl/zorgverzekering-2020/dit-is-de-premie-van-zilveren-kruis-in-2020" "данные" >}} по четырём крупнейшим страховым компаниям (вариант «{{< fl "Natura" >}}»):
+Вот [данные](https://www.zorgwijzer.nl/zorgverzekering-2020/dit-is-de-premie-van-zilveren-kruis-in-2020) по четырём крупнейшим страховым компаниям (вариант «{{< fl "Natura" >}}»):
 
 * {{< fl "CZ" >}} — полис подешевеет на **€ 3,85** до **€ 120,95**.
 * {{< fl "VGZ" >}} — также снизит премию на **€ 1** до **€ 119,95**.
@@ -35,11 +35,11 @@ imageCredit: "Фото: Marcelo Leal/Unsplash."
 
 Снижение ежемесячной платы, анонсированное страховщиками, будет скомпенсировано за счёт снижения максимальной скидки по модели коллективного страхования с **10** до **5%**.
 
-Об этом снижении {{< a "https://nos.nl/artikel/2238809-collectieve-korting-op-zorgverzekeringen-verlaagd-sigaar-uit-eigen-doos.html" "объявил" >}} в июне {{< year 2019 "этого" >}} года министр здравоохранения {{< fl "B. Bruins" >}}, назвав коллективные скидки «маркетинговой уловкой» и «сигарой из своей же коробки».
+Об этом снижении [объявил](https://nos.nl/artikel/2238809-collectieve-korting-op-zorgverzekeringen-verlaagd-sigaar-uit-eigen-doos.html) в июне {{< year 2019 "этого" >}} года министр здравоохранения {{< fl "B. Bruins" >}}, назвав коллективные скидки «маркетинговой уловкой» и «сигарой из своей же коробки».
 
 ## Рынок медстрахования
 
-Нидерландский рынок медицинского страхования фактически {{< a "https://www.zorgwijzer.nl/faq/welke-zorgverzekeraars-zijn-er" "поделен" >}} между четырьмя концернами, суммарно контролирующими на нём **86%**:
+Нидерландский рынок медицинского страхования фактически [поделен](https://www.zorgwijzer.nl/faq/welke-zorgverzekeraars-zijn-er) между четырьмя концернами, суммарно контролирующими на нём **86%**:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zyi0nd4rburm94knibsp.jpg" "Распределение рынка медицинского страхования в Нидерландах. Источник: zorgwijzer.nl." >}}
 
@@ -49,6 +49,6 @@ imageCredit: "Фото: Marcelo Leal/Unsplash."
 
 ## Изменения в бюджете
 
-О том, что средняя стоимость страховки вырастет на **3** евро, {{< a "0382" "стало известно" >}} в сентябре.
+О том, что средняя стоимость страховки вырастет на **3** евро, [стало известно](0382) в сентябре.
 
 Тогда же правительство объявило о том, что собственный риск ({{< fl "eigen risico" >}}, ежегодная сумма, которую застрахованный оплачивает из своего кармана) останется таким же и составит **€ 385**, а субсидия на оплату страховки людям с низкими доходами ({{< fl "zorgtoeslag" >}}) вырастет — на **€ 67** в год для одиноких и на **€ 95** для семей.

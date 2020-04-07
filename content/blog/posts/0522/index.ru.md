@@ -11,9 +11,9 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/sph9jjodycp9jbhhwkqe.jpg"
 ---
 
-Мне очень нравятся гаджеты {{< fl "Xiaomi" >}}, которых я уже прилично {{< a "/tags/Xiaomi" "наобозревал" >}} и ассортимент которых всё ширится.
+Мне очень нравятся гаджеты {{< fl "Xiaomi" >}}, которых я уже прилично [наобозревал](/tags/Xiaomi) и ассортимент которых всё ширится.
 
-Некоторое время назад я из любопытства приобрёл набор прецизионных (их ещё называют «часовыми») отвёрток {{< a "http://ali.pub/4aa6sd" "Xiaomi Wiha screwdriver kit" >}} и готов поделиться впечатлениями.
+Некоторое время назад я из любопытства приобрёл набор прецизионных (их ещё называют «часовыми») отвёрток [Xiaomi Wiha screwdriver kit](http://ali.pub/4aa6sd) и готов поделиться впечатлениями.
 
 <!--more-->
 
@@ -49,7 +49,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/sph9jjodycp9jbhhwkqe.
 
 Благодаря трёхгранной форме отвёртка довольно «ухватистая», пользоваться очень удобно.
 
-Широкий ассортимент насадок подходит, например, чтобы {{< a "0338" "ремонтировать мобильники" >}}.
+Широкий ассортимент насадок подходит, например, чтобы [ремонтировать мобильники](0338).
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fryw55zkuur85d92lpwo.jpg" "Отвёртка Xiaomi Wiha в работе." >}}
 
@@ -70,4 +70,4 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/sph9jjodycp9jbhhwkqe.
 
 ## Где купить
 
-Отвёртка продаётся {{< a "http://ali.pub/4aa6sd" "на AliExpress" >}} по цене около **€ 16**.
+Отвёртка продаётся [на AliExpress](http://ali.pub/4aa6sd) по цене около **€ 16**.

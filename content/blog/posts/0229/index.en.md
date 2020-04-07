@@ -17,7 +17,7 @@ aliases:
     - /en/blog/post/229
 ---
 
-While euro and dollar are *enjoying* a record growth in Russia, we're enjoying one of the warmest autumns on record here in Holland, yet {{< a "0118" "again" >}}. Whatever caused it, sanctions or global warming.
+While euro and dollar are *enjoying* a record growth in Russia, we're enjoying one of the warmest autumns on record here in Holland, yet [again](0118). Whatever caused it, sanctions or global warming.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/eb3y84qeq3pu2412.jpg" "Heidestein estate." >}}
 
@@ -27,7 +27,7 @@ On the 1<sup>st</sup> of November a weather station in {{< fl "Ell" >}}, which i
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vu2y1nte06753615.jpg" >}}
 
-It's a perfect weather to take a walk in nature. The {{< fl "Heidestein" >}} estate is just about a Buk's throw away from our place. Further on it merges into the Utrecht Hill Ridge (known for their {{< a "0157" "pyramids" "ru" >}}).
+It's a perfect weather to take a walk in nature. The {{< fl "Heidestein" >}} estate is just about a Buk's throw away from our place. Further on it merges into the Utrecht Hill Ridge (known for their [pyramids](ru;0157)).
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/2fkkdsiehht73617.jpg" >}}
 
@@ -45,6 +45,6 @@ However it's back on track now and thermometer readings fall in a customary rang
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/73jjmatiqdr90097.jpg" "More autumn colours." >}}
 
-But the humidity is always there. Just as {{< a "0128" "before" >}}.
+But the humidity is always there. Just as [before](0128).
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/y77a49kn5dvm0542.jpg" >}}

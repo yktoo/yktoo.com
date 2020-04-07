@@ -14,7 +14,7 @@ aliases:
     - /en/blog/post/168
 ---
 
-I already {{< a "0122" "published" >}} a script that sets a random image file as desktop wallpaper. It has only one downside: you have to run it every time you want to rotate your wallpaper.
+I already [published](0122) a script that sets a random image file as desktop wallpaper. It has only one downside: you have to run it every time you want to rotate your wallpaper.
 
 However GNOME since 2.28 allows assigning a slide show as wallpaper by providing an image list in XML format. There you can specify the order and duration for each image. Moreover, you can even define a transition from one image to another.
 
@@ -24,7 +24,7 @@ So I decided to create a simple script that generates an XML file for a given se
 
 ## Source code {#source-code}
 
-You can download the latest version at the {{< a "/software/yktools" "script page" >}} on my website.
+You can download the latest version at the [script page](/software/yktools) on my website.
 
 ## Arguments {#arguments}
 

@@ -12,7 +12,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/lc9i6ghyk85a3105.jpg"
 imageCredit: "Фото: Ministerie van Buitenlandse Zaken."
 ---
 
-По следам новости о {{< a "0364" "дежурном преемнике" >}}: кабинет {{< a "https://www.nu.nl/politiek/5991613/minister-blok-is-designated-survivor-op-prinsjesdag.html" "определился" >}} с тем, кто может прогулять {{< fl "Prinsjesdag" >}}.
+По следам новости о [дежурном преемнике](0364): кабинет [определился](https://www.nu.nl/politiek/5991613/minister-blok-is-designated-survivor-op-prinsjesdag.html) с тем, кто может прогулять {{< fl "Prinsjesdag" >}}.
 
 Это будет человек с поэтичной фамилией {{< wiki "Stef_Blok" "en" "Блок" >}} ({{< fl "Blok" >}}) и прозаичной должностью министра иностранных дел.
 

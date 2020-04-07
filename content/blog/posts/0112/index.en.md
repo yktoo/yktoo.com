@@ -56,4 +56,4 @@ The first night I had to sleep with this gear on my face:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/n03p2nx73fps2425.jpg" >}}
 
-**Update.** {{< a "0160" "Here are" >}} the results a year later.
+**Update.** [Here are](0160) the results a year later.

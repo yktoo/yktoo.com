@@ -13,13 +13,13 @@ tags:
 image: intellij-about.jpg
 ---
 
-{{< a "https://www.jetbrains.com/?from=SoundSwitcherIndicator" "JetBrains" >}}, the maker of the most intelligent and versatile IDEs (*IDEA*, *WebStorm*, *PyCharm*, and others), has recognised my humble contribution to open-source software in the form of the {{< a "/software/sound-switcher-indicator" "Sound Switcher Indicator" >}}, and kindly granted me a free **All Products Pack** license.
+[JetBrains](https://www.jetbrains.com/?from=SoundSwitcherIndicator), the maker of the most intelligent and versatile IDEs (*IDEA*, *WebStorm*, *PyCharm*, and others), has recognised my humble contribution to open-source software in the form of the [Sound Switcher Indicator](/software/sound-switcher-indicator), and kindly granted me a free **All Products Pack** license.
 
 <!--more-->
 
 {{< imgfig "intellij-about.jpg" "Intellij IDEA 2019.2 Ultimate." >}}
 
-A license is always issued for one year, with a possible extension should the project still qualify for their {{< a "https://www.jetbrains.com/community/opensource/?from=SoundSwitcherIndicator" "OS Support Program" >}} requirements.
+A license is always issued for one year, with a possible extension should the project still qualify for their [OS Support Program](https://www.jetbrains.com/community/opensource/?from=SoundSwitcherIndicator) requirements.
 
 Thanks JetBrains!
 

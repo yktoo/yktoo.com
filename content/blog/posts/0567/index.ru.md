@@ -14,7 +14,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/yl2kwtag0e3vprwwf49n.
 imageCredit: "Фото: Free-Photos/Pixabay."
 ---
 
-Нидерландское отделение «Свидетелей Иеговы» {{< a "https://www.dvhn.nl/drenthe/Jehovas-naar-rechter-om-publicatie-rapport-over-misbruik-te-voorkomen-25260600.html" "обратилось" >}} в суд с требованием запретить публикацию отчёта о сексуальных домогательствах внутри общины.
+Нидерландское отделение «Свидетелей Иеговы» [обратилось](https://www.dvhn.nl/drenthe/Jehovas-naar-rechter-om-publicatie-rapport-over-misbruik-te-voorkomen-25260600.html) в суд с требованием запретить публикацию отчёта о сексуальных домогательствах внутри общины.
 
 Отчёт был подготовлен в {{< yearp 2019 "прошлом" >}} году исследователями Утрехтского университета ({{< fl "Universiteit Utrecht" >}}) по заказу министерства юстиции Нидерландов.
 
@@ -30,7 +30,7 @@ imageCredit: "Фото: Free-Photos/Pixabay."
 
 ## Ходатайство
 
-Исследование {{< a "https://www.trouw.nl/nieuws/overheid-laat-onderzoeken-hoe-jehovah-s-getuigen-omgaan-met-misbruik~ba9e6840/" "ведёт" >}} своё начало от поданного в Палату представителей Нидерландов ({{< fl "Tweede Kamer" >}}) ходатайства о расследовании фактов домогательств в общине.
+Исследование [ведёт](https://www.trouw.nl/nieuws/overheid-laat-onderzoeken-hoe-jehovah-s-getuigen-omgaan-met-misbruik~ba9e6840/) своё начало от поданного в Палату представителей Нидерландов ({{< fl "Tweede Kamer" >}}) ходатайства о расследовании фактов домогательств в общине.
 
 {{< fl "Van den Bos" >}} заключает:
 
@@ -42,7 +42,7 @@ imageCredit: "Фото: Free-Photos/Pixabay."
 
 ---
 
-**Обновление 23.01.2020**: судья предсказуемо {{< a "https://www.nu.nl/binnenland/6025507/rechter-misbruikrapport-jehovas-getuigen-mag-gepubliceerd-worden.html" "отказался" >}} наложить запрет на публикацию отчёта. Своё решение он обосновал тем, что такой запрет нарушил бы свободу слова.
+**Обновление 23.01.2020**: судья предсказуемо [отказался](https://www.nu.nl/binnenland/6025507/rechter-misbruikrapport-jehovas-getuigen-mag-gepubliceerd-worden.html) наложить запрет на публикацию отчёта. Своё решение он обосновал тем, что такой запрет нарушил бы свободу слова.
 
 К тому же, сказал он, речь здесь не просто об исследовании, а об информации, имеющей общественное значение.
 

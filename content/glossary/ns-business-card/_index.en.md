@@ -4,6 +4,6 @@ seeAlso:
     - ns
 ---
 
-A contactless public transport card for entrepreneurs and employees offered by {{< a "/glossary/ns" "NS" >}}.
+A contactless public transport card for entrepreneurs and employees offered by [NS](/glossary/ns).
 
 <!--more-->

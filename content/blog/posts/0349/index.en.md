@@ -12,7 +12,7 @@ aliases:
     - /en/blog/post/349
 ---
 
-We're four days into a {{< a "0229" "record-breaking" >}} heatwave here. An "orange alert" ({{< fl "code oranje" >}}) has been declared in almost every province of the Netherlands:
+We're four days into a [record-breaking](0229) heatwave here. An "orange alert" ({{< fl "code oranje" >}}) has been declared in almost every province of the Netherlands:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ho1xszpvho3x3128.png" "Orange alert on the map of Holland." >}}
 

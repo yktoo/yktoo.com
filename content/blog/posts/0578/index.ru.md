@@ -18,7 +18,7 @@ imageCredit: "Фото: Rohit Sharma/Pixabay."
 
 Монтёр крупнейшего телеком-провайдера {{< fl "KPN" >}} забыл свой ноутбук у клиента. И не просто забыл, а больше за ним и не обращался.
 
-Но даже не это здесь самое интересное — настоящие сюрпризы поджидали исследователей издания {{< fl "Trouw" >}}, в распоряжении которых {{< a "https://www.trouw.nl/binnenland/als-een-kpn-monteur-zijn-laptop-vergeet-ligt-de-vertrouwelijke-informatie-voor-het-oprapen~bc74efc5/" "оказалось" >}} устройство, в его содержимом.
+Но даже не это здесь самое интересное — настоящие сюрпризы поджидали исследователей издания {{< fl "Trouw" >}}, в распоряжении которых [оказалось](https://www.trouw.nl/binnenland/als-een-kpn-monteur-zijn-laptop-vergeet-ligt-de-vertrouwelijke-informatie-voor-het-oprapen~bc74efc5/) устройство, в его содержимом.
 
 <!--more-->
 

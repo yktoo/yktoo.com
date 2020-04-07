@@ -14,7 +14,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/fglb0er945kbgq8s2prh.
 imageCredit: "Фото: Marco Verch/Flickr/CC-BY-2.0."
 ---
 
-Сеть супермаркетов {{< fl "Jumbo" >}} {{< a "https://nos.nl/artikel/2315111-supermarkt-jumbo-neemt-17-hema-winkels-over.html" "перекупит" >}} семнадцать филиалов у сети {{< fl "HEMA" >}} в крупных городах Нидерландов и Бельгии.
+Сеть супермаркетов {{< fl "Jumbo" >}} [перекупит](https://nos.nl/artikel/2315111-supermarkt-jumbo-neemt-17-hema-winkels-over.html) семнадцать филиалов у сети {{< fl "HEMA" >}} в крупных городах Нидерландов и Бельгии.
 
 Кроме того, в шести магазинах {{< fl "HEMA" >}} на железнодорожных станциях будут продаваться продукты из {{< fl "Jumbo" >}}.
 
@@ -24,7 +24,7 @@ imageCredit: "Фото: Marco Verch/Flickr/CC-BY-2.0."
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fglb0er945kbgq8s2prh.jpg" "Магазин HEMA. Фото: Marco Verch/Flickr/CC-BY-2.0." >}}
 
-В ноябре две торговые сети {{< a "https://nos.nl/artikel/2309595-hema-kiest-voor-jumbo-en-zet-albert-heijn-aan-de-kant.html" "объявили" >}} о начале сотрудничества, в рамках которого они, помимо прочего, собираются продавать в своих магазинах товары партнёра. У {{< fl "HEMA" >}} имеются значительные долги, и, уступая часть филиалов {{< fl "Jumbo" >}}, они надеются поправить своё положение.
+В ноябре две торговые сети [объявили](https://nos.nl/artikel/2309595-hema-kiest-voor-jumbo-en-zet-albert-heijn-aan-de-kant.html) о начале сотрудничества, в рамках которого они, помимо прочего, собираются продавать в своих магазинах товары партнёра. У {{< fl "HEMA" >}} имеются значительные долги, и, уступая часть филиалов {{< fl "Jumbo" >}}, они надеются поправить своё положение.
 
 Также {{< fl "HEMA" >}} станет на ближайшие четыре года одним из спонсоров команды конькобежцев и велогонщиков {{< fl "Team Jumbo Visma" >}}, рассчитывая тем самым повысить узнаваемость свой марки в других странах.
 

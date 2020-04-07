@@ -46,4 +46,4 @@ Ubiquitous Dutch bikes may now look like this:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zvnsc9jmpweh1562.jpg" >}}
 
-Be sure to check {{< a "0063" "this updated post" >}} out as well!
+Be sure to check [this updated post](0063) out as well!

@@ -12,7 +12,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/inb0onz7djyxqpymqcpl.
 imageCredit: "Фото: Jordan Rowland/Unsplash."
 ---
 
-Центральное статистическое бюро {{< fl "CBS" >}} {{< a "https://www.cbs.nl/nl-nl/nieuws/2019/50/armoederisico-in-2018-gelijk-gebleven" "публикует" >}} результаты анализа рисков оказаться за чертой бедности для жителей Нидерландов.
+Центральное статистическое бюро {{< fl "CBS" >}} [публикует](https://www.cbs.nl/nl-nl/nieuws/2019/50/armoederisico-in-2018-gelijk-gebleven) результаты анализа рисков оказаться за чертой бедности для жителей Нидерландов.
 
 По итогам {{< yearp 2018 "прошлого" >}} года **7,9%** семей в стране имели доход ниже уровня, определённого как «низкий».
 

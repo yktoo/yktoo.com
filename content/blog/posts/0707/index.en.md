@@ -12,7 +12,7 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/jqh4ard6nqgedtwmumbk.jpg"
 ---
 
-You've already {{< a "0429" "seen" "ru" >}} the autumn in Houten. Now that the trees are in full bloom it's time for a monowheel ride again!
+You've already [seen](ru;0429) the autumn in Houten. Now that the trees are in full bloom it's time for a monowheel ride again!
 
 Because of the COVID-19 outbreak it isn't that crowded outside even though the weather is beautiful.
 

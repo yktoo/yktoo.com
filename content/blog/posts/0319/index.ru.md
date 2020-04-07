@@ -39,7 +39,7 @@ aliases:
 
 ## Установка {#install}
 
-Так же, как и {{< a "/series/sound-switcher-indicator" "Sound Switcher Indicator" >}}, этот индикатор написан на {{< fl "Python 3" >}}.
+Так же, как и [Sound Switcher Indicator](/series/sound-switcher-indicator), этот индикатор написан на {{< fl "Python 3" >}}.
 
 Сначала нужно вручную установить [Docker Python API](https://github.com/docker/docker-py) — к сожалению, в репозиториях Убунту как сам {{< fl "Docker" >}}, так и его {{< fl "API" >}} очень старых версий. Установка в {{< fl "Ubuntu" >}} очень проста:
 

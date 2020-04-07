@@ -10,7 +10,7 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/lofwba8bki64dfhapgfk.png"
 ---
 
-Мечты сбываются. Наконец-то я мигрировал с опостылевшего {{< fl "Google Photos" >}} на относительно независимый, крайне удобный и — что немаловажно — **бесплатный** облачный сервис {{< a "https://cloudinary.com/invites/lpov9zyyucivvxsnalc5/l6ccxxrfxv0mdc6iewg8" "Cloudinary" >}}.
+Мечты сбываются. Наконец-то я мигрировал с опостылевшего {{< fl "Google Photos" >}} на относительно независимый, крайне удобный и — что немаловажно — **бесплатный** облачный сервис [Cloudinary](https://cloudinary.com/invites/lpov9zyyucivvxsnalc5/l6ccxxrfxv0mdc6iewg8).
 
 Время, конечно, покажет, насколько умно я поступил, но пока то, что я видел, вселяет оптимизм.
 
@@ -26,7 +26,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/lofwba8bki64dfhapgfk.
 
 ## Cloudinary
 
-Я начал изучать имеющиеся возможности и довольно быстро набрёл на сервис {{< a "https://cloudinary.com/invites/lpov9zyyucivvxsnalc5/l6ccxxrfxv0mdc6iewg8" "Cloudinary" >}}.
+Я начал изучать имеющиеся возможности и довольно быстро набрёл на сервис [Cloudinary](https://cloudinary.com/invites/lpov9zyyucivvxsnalc5/l6ccxxrfxv0mdc6iewg8).
 
 У них есть бесплатный план, изначально дающий **25** *кредитов*. Один кредит эквивалентен **1 ГБ** хранимых файлов, **1 ГБ** исходящего трафика или **1000** трансформаций. Трансформацией является, например, создание уменьшенного варианта изображения — функция, которую я использую очень интенсивно.
 
@@ -38,7 +38,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/lofwba8bki64dfhapgfk.
 
 Одним из гигантских преимуществ {{< fl "Cloudinary" >}} перед {{< fl "Google Photos" >}} является наличие очень простого в использовании {{< fl "API" >}}, программного интерфейса, для множества языков: {{< fl "Java" >}}, {{< fl "Python" >}}, {{< fl "PHP" >}}, {{< fl "JavaScript" >}} и т.д.
 
-Так что я, недолго думая, засучил рукава и принялся писать скрипт на {{< fl "Python" >}}, который я назвал {{< a "https://github.com/yktoo/yktoo.com/blob/master/_dev_/reimage" "reimage" >}}. Программа состоит из четырёх компонентов:
+Так что я, недолго думая, засучил рукава и принялся писать скрипт на {{< fl "Python" >}}, который я назвал [reimage](https://github.com/yktoo/yktoo.com/blob/master/_dev_/reimage). Программа состоит из четырёх компонентов:
 
 * `Scanner` — сканирует все файлы с контентом и извлекает адреса изображений;
 * `Downloader` — скачивает все изображения на локальный диск;
@@ -63,4 +63,4 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/lofwba8bki64dfhapgfk.
 
 Впрочем, поживём — увидим.
 
-> Если {{< fl "Cloudinary" >}} вас тоже заинтересовал, буду признателен, если для регистрации вы воспользуетесь моей **{{< a "https://cloudinary.com/invites/lpov9zyyucivvxsnalc5/l6ccxxrfxv0mdc6iewg8" "реферральной ссылкой" >}}** — вам всё равно, а сайту польза :-)
+> Если {{< fl "Cloudinary" >}} вас тоже заинтересовал, буду признателен, если для регистрации вы воспользуетесь моей **[реферральной ссылкой](https://cloudinary.com/invites/lpov9zyyucivvxsnalc5/l6ccxxrfxv0mdc6iewg8)** — вам всё равно, а сайту польза :-)

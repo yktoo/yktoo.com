@@ -17,4 +17,4 @@ The website **yktoo.com** is permanently switched to using the secure {{< wiki "
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vhvb0hrcfqb30335.png" "The lock icon denotes a secure connection." >}}
 
-There's an automatic redirect set up from **http://yktoo.com** to **https://yktoo.com**, but you may still need to update some links, like the {{< a "/blog/subscribe" "RSS feeds" >}}, for example.
+There's an automatic redirect set up from **http://yktoo.com** to **https://yktoo.com**, but you may still need to update some links, like the [RSS feeds](/blog/subscribe), for example.

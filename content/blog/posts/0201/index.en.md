@@ -20,11 +20,11 @@ aliases:
     - /en/blog/post/201
 ---
 
-The application indicator for Ubuntu called {{< a "/software/sound-switcher-indicator" "Sound Switcher Indicator" >}} (which I {{< a "0178" "blogged" >}} about) has been updated to version **1.1.1**. There's no new functionality in this release, its main purpose is to make the indicator work in Ubuntu 13.10 (Saucy Salamander). It was broken because of a [bug](https://bugs.launchpad.net/glipper/+bug/1203888) in `libdbusmenu`.
+The application indicator for Ubuntu called [Sound Switcher Indicator](/software/sound-switcher-indicator) (which I [blogged](0178) about) has been updated to version **1.1.1**. There's no new functionality in this release, its main purpose is to make the indicator work in Ubuntu 13.10 (Saucy Salamander). It was broken because of a [bug](https://bugs.launchpad.net/glipper/+bug/1203888) in `libdbusmenu`.
 
 <!--more-->
 
-The new version makes use of GTK+ 3 and the trendy GObject Introspection (GIRepository). You can {{< a "/software/sound-switcher-indicator" "install" >}} it, as usual, from my [Launchpad PPA](https://launchpad.net/~yktooo/+archive/ppa/).
+The new version makes use of GTK+ 3 and the trendy GObject Introspection (GIRepository). You can [install](/software/sound-switcher-indicator) it, as usual, from my [Launchpad PPA](https://launchpad.net/~yktooo/+archive/ppa/).
 
 And, as usual, a picture just to draw your attention:
 

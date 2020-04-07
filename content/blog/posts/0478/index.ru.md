@@ -23,7 +23,7 @@ imageCredit: "Фото: ©Marcus Wagenaar/Eonics."
 
 ## Презентация
 
-Семинар проходил в офисе компании {{< a "https://eonics.nl/" "Eonics" >}} в Гааге.
+Семинар проходил в офисе компании [Eonics](https://eonics.nl/) в Гааге.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/apxgknmkowxczspfbkkw.jpg" "Презентация о Hugo. Фото: ©Marcus Wagenaar/Eonics." >}}
 
@@ -52,4 +52,4 @@ imageCredit: "Фото: ©Marcus Wagenaar/Eonics."
 
 <p></p>
 
-Исходный код презентации, а также практическое задание и рабочий вариант решения находятся в {{< a "https://github.com/yktoo/eonics-hugo" "репозитории на GitHub" >}}.
+Исходный код презентации, а также практическое задание и рабочий вариант решения находятся в [репозитории на GitHub](https://github.com/yktoo/eonics-hugo).

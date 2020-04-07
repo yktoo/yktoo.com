@@ -18,7 +18,7 @@ aliases:
     - /en/blog/post/210
 ---
 
-From the {{< a "0209" "miraculous sea" >}} we migrate westward, to the desert that spans most of the area at the opposite side of Hurghada city. Desert is something you can always count on here in Africa, it's just a couple of miles away from the city:
+From the [miraculous sea](0209) we migrate westward, to the desert that spans most of the area at the opposite side of Hurghada city. Desert is something you can always count on here in Africa, it's just a couple of miles away from the city:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/w9bqo3mvfb0r2003.jpg" >}}
 
@@ -105,7 +105,7 @@ The next stop was at that same ridge we saw the mirage before.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/83wo8pb4w4tg1458.jpg" >}}
 
-One of them, about thirty metres (100") high, gives a good overview of the surrounding desert. While everyone ascends the hill, all the jeeps drive to the opposite side of it to collect us there. By the way, here in the middle you can see that same Dutch family with six kids I {{< a "0209" "mentioned" >}} before:
+One of them, about thirty metres (100") high, gives a good overview of the surrounding desert. While everyone ascends the hill, all the jeeps drive to the opposite side of it to collect us there. By the way, here in the middle you can see that same Dutch family with six kids I [mentioned](0209) before:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/v3g5k431ef182682.jpg" >}}
 
@@ -311,4 +311,4 @@ The very last activity called stargazing was really ridiculous. The stars were o
 
 To conclude, I really liked the programme. But I would personally skip a number of small items, in favour of quad bikes and camel ride, for instance.
 
-The {{< a "0211" "next part" >}} is going to be the most interesting: the story about Hurghada city.
+The [next part](0211) is going to be the most interesting: the story about Hurghada city.

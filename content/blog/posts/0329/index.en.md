@@ -12,7 +12,7 @@ aliases:
     - /en/blog/post/329
 ---
 
-My most bulky gadget needed an upgrade. I've been a devoted {{< wiki "Toyota_Prius" "en" "Toyota Prius" >}} fan ever since {{< a "0028" "my first leased car" "ru" >}}. Later I've owned another one, which {{< a "0304" "almost lost a wheel once" "ru" >}}. The latter turned eight years old last March so I've decided to trade it for something more modern.
+My most bulky gadget needed an upgrade. I've been a devoted {{< wiki "Toyota_Prius" "en" "Toyota Prius" >}} fan ever since [my first leased car](ru;0028). Later I've owned another one, which [almost lost a wheel once](ru;0304). The latter turned eight years old last March so I've decided to trade it for something more modern.
 
 <!--more-->
 

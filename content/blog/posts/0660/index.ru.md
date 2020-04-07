@@ -14,7 +14,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/v1583501032/blog/album/see
 imageCredit: "Фото: Dieter Ludwig Scharnagl/Pixabay."
 ---
 
-Муниципалитет Амстердама {{< a "https://www.rainproof.nl/nieuws/hemelwaterverordening" "вынес" >}} на всеобщее обсуждение инициативу законодательно обязать все новые здания собирать минимум **60 мм** дождевых осадков — это **60** литров с каждого квадратного метра поверхности.
+Муниципалитет Амстердама [вынес](https://www.rainproof.nl/nieuws/hemelwaterverordening) на всеобщее обсуждение инициативу законодательно обязать все новые здания собирать минимум **60 мм** дождевых осадков — это **60** литров с каждого квадратного метра поверхности.
 
 <!--more-->
 
@@ -26,4 +26,4 @@ imageCredit: "Фото: Dieter Ludwig Scharnagl/Pixabay."
 
 В местах общего пользования все работы изначально производятся с учётом необходимых мер по водоотведению, теперь их планируют распространить и на остальные сооружения.
 
-Комментарии по инициативе {{< a "https://bekendmakingen.amsterdam.nl/bekendmakingen/publicatie/inspraak/hemelwaterverordenin/" "принимаются" >}} до **31** марта {{< year 2020 "этого" >}} года включительно.
+Комментарии по инициативе [принимаются](https://bekendmakingen.amsterdam.nl/bekendmakingen/publicatie/inspraak/hemelwaterverordenin/) до **31** марта {{< year 2020 "этого" >}} года включительно.

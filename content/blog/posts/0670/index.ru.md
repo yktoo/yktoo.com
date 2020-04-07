@@ -14,7 +14,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/tfty4qemzw9zuvnu5uhx.
 imageCredit: "Фото: Nieuwsuur."
 ---
 
-Горячая линия для анонимных сообщений о преступлениях ({{< a "https://www.meldmisdaadanoniem.nl/" "Meld Misdaad Anoniem" >}}) {{< a "https://www.meldmisdaadanoniem.nl/blog/2020/03/12/criminele-geldstromen-blootgelegd-via-m/" "приняла" >}} в {{< yearp 2019 "прошлом" >}} году рекордное количество сигналов о тяжёлых наркотиках (**4 943**) и отмывании денег (**1 001**).
+Горячая линия для анонимных сообщений о преступлениях ([Meld Misdaad Anoniem](https://www.meldmisdaadanoniem.nl/)) [приняла](https://www.meldmisdaadanoniem.nl/blog/2020/03/12/criminele-geldstromen-blootgelegd-via-m/) в {{< yearp 2019 "прошлом" >}} году рекордное количество сигналов о тяжёлых наркотиках (**4 943**) и отмывании денег (**1 001**).
 
 На основании полученной информации организация отправила в полицию и смежные структуры почти **17 тыс.** сообщений.
 
@@ -46,9 +46,9 @@ imageCredit: "Фото: Nieuwsuur."
 
 По наводке {{< fl "MMA" >}} полиция смогла раскрыть несколько крупных случаев торговли наркотиками:
 
-* В мае в промышленной зоне в Брабанте полиция {{< a "https://www.ad.nl/rivierenland/megavangst-in-drugspand-nieuwendijk-nog-nooit-zo-veel-pillen-gezien~a22f1e27/" "обнаружила" >}} невиданное доселе количество синтетических наркотиков: **200 кг** {{< fl "MDMA" >}} и экстази.
-* В декабре таможня {{< a "https://www.rtlnieuws.nl/nieuws/nederland/artikel/5023281/500-kilo-cocaine-mangos-haven-rotterdam" "нашла" >}} полтонны кокаина в порту Роттердама. Наркотик был спрятан в контейнере с фруктами.
-* В феврале в провинции Лимбург было {{< a "https://www.rtlnieuws.nl/nieuws/artikel/4615326/700000-xtc-pillen-gevonden-limburgs-huis" "изъято" >}} **700 тыс.** таблеток экстази.
+* В мае в промышленной зоне в Брабанте полиция [обнаружила](https://www.ad.nl/rivierenland/megavangst-in-drugspand-nieuwendijk-nog-nooit-zo-veel-pillen-gezien~a22f1e27/) невиданное доселе количество синтетических наркотиков: **200 кг** {{< fl "MDMA" >}} и экстази.
+* В декабре таможня [нашла](https://www.rtlnieuws.nl/nieuws/nederland/artikel/5023281/500-kilo-cocaine-mangos-haven-rotterdam) полтонны кокаина в порту Роттердама. Наркотик был спрятан в контейнере с фруктами.
+* В феврале в провинции Лимбург было [изъято](https://www.rtlnieuws.nl/nieuws/artikel/4615326/700000-xtc-pillen-gevonden-limburgs-huis) **700 тыс.** таблеток экстази.
 
 ## M.
 

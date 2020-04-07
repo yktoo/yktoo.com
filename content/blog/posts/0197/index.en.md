@@ -18,7 +18,7 @@ aliases:
 
 Last weekend I've finally got to visit the most eminent, in every meaning, place in Amersfoort. Since I'd come to live here, my country has changed its president twice, one of them has divorced and the other has made quite a few equally destructive achievements, yet I failed to take my time to get to it.
 
-In the brochure of {{< a "0196" "Spoffin" >}} I found a discount coupon for climbing the tower for € 2.50 instead of € 4. The coupon was valid until August 31<sup>st</sup>, which conveniently fell on Saturday. This chance we couldn't miss.
+In the brochure of [Spoffin](0196) I found a discount coupon for climbing the tower for € 2.50 instead of € 4. The coupon was valid until August 31<sup>st</sup>, which conveniently fell on Saturday. This chance we couldn't miss.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ql547j1urvpi1600.jpg" "Photo by Pepijntje, via Wikimedia Commons." >}}
 

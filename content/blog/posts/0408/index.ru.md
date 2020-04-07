@@ -22,7 +22,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/r0621fz1crn01701.jpg"
 
 Такие заведения есть в любом голландском городе, даже в нашем крохотном Хаутене их два.
 
-В один из них, {{< a "http://www.noppeskringloopwinkel.nl" "Noppes" >}} мы зашли по наводке друзей. Когда туда попадаешь, просто глаза разбегаются:
+В один из них, [Noppes](http://www.noppeskringloopwinkel.nl) мы зашли по наводке друзей. Когда туда попадаешь, просто глаза разбегаются:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9qog9qr62u2v3201.jpg" "Kringloopwinkel Noppes в Хаутене." >}}
 

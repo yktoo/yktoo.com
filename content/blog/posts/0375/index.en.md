@@ -14,7 +14,7 @@ Interest rates on mortgages in Holland have already been sliding for about seven
 
 Dutch banks traditionally update their interest rates in August following the propositions by the Ministry of Finance.
 
-According to {{< a "https://www.hypotheekshop.nl/actueel/wijzigingsvoorstel-hypotheekregels-2020-lost-bestaande-knelpunten-niet-op" "De Hypotheekshop" >}}, the *average* mortgage {{< abbr "IR" "Interest Rate" >}} is **2.18%** as of end of August {{< year 2019 "this year" >}}.
+According to [De Hypotheekshop](https://www.hypotheekshop.nl/actueel/wijzigingsvoorstel-hypotheekregels-2020-lost-bestaande-knelpunten-niet-op), the *average* mortgage {{< abbr "IR" "Interest Rate" >}} is **2.18%** as of end of August {{< year 2019 "this year" >}}.
 
 <!--more-->
 
@@ -26,7 +26,7 @@ Apart from the record low values, what is also remarkable is their update freque
 
 ## Starting at 0.8%
 
-You can find a handy overview of applicable rates for various fixed terms {{< a "https://www.eigenhuis.nl/hypotheken/hypotheekrente" "on this page" >}}.
+You can find a handy overview of applicable rates for various fixed terms [on this page](https://www.eigenhuis.nl/hypotheken/hypotheekrente).
 
 Here's an example calculation for a mortgage of **€ 300,000** (which is approximately the average house price at the moment), with the National Mortgage Guarantee ({{< fl "NHG" >}}) provisioning. Rates start at **0.8%** when you choose for **10-year** fixed:
 
@@ -38,8 +38,8 @@ The fact the variable rates are higher than the 10-year fixed indicates the mark
 
 ## NHG
 
-{{< fl "NHG" >}} ({{< fl "Nationale Hypotheek Garantie" >}}) or the {{< a "https://www.nhg.nl/english-summary/Information-for-consumers/What-is-nhg" "National Mortgage Guarantee" >}} is a sort of an insurance policy that provides a safety net for the borrower. The {{< fl "NHG" >}} can pay the difference between the remaining principal and the house sale price, should it prove lower than the debt. It also allows to temporarily reduce the monthly payments if the debtor runs into financial difficulties, but only if it's been an event beyond their control.
+{{< fl "NHG" >}} ({{< fl "Nationale Hypotheek Garantie" >}}) or the [National Mortgage Guarantee](https://www.nhg.nl/english-summary/Information-for-consumers/What-is-nhg) is a sort of an insurance policy that provides a safety net for the borrower. The {{< fl "NHG" >}} can pay the difference between the remaining principal and the house sale price, should it prove lower than the debt. It also allows to temporarily reduce the monthly payments if the debtor runs into financial difficulties, but only if it's been an event beyond their control.
 
-The maximum amount covered by the guarantee equals the average house price. In 2019 it's {{< a "https://www.rijksoverheid.nl/onderwerpen/huis-kopen/vraag-en-antwoord/wat-is-de-nationale-hypotheek-garantie-nhg" "defined" >}} at **€ 290,000**. If you, however, plan to make your new house more energy-effective, then the limit is **€ 307,400**.
+The maximum amount covered by the guarantee equals the average house price. In 2019 it's [defined](https://www.rijksoverheid.nl/onderwerpen/huis-kopen/vraag-en-antwoord/wat-is-de-nationale-hypotheek-garantie-nhg) at **€ 290,000**. If you, however, plan to make your new house more energy-effective, then the limit is **€ 307,400**.
 
 The credit risk of an {{< fl "NHG" >}}-backed mortgage is lower, hence a lower interest rate.

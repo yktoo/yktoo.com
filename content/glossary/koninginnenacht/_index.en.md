@@ -7,6 +7,6 @@ seeAlso:
 
 Literally "Queens's Night".
 
-The night preceding the {{< a "/glossary/koninginnedag" "Queen's Day" >}}.
+The night preceding the [Queen's Day](/glossary/koninginnedag).
 
 <!--more-->

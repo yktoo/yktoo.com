@@ -17,7 +17,7 @@ imageCredit: "Фото: ns.nl."
 
 Роботы наступают.
 
-Нидерландская железнодорожная компания {{< fl "NS" >}} {{< a "https://nieuws.ns.nl/eerste-experiment-automatische-treinpiloot-geslaagd/" "сообщает" >}} об первом успешном тестировании беспилотного поезда.
+Нидерландская железнодорожная компания {{< fl "NS" >}} [сообщает](https://nieuws.ns.nl/eerste-experiment-automatische-treinpiloot-geslaagd/) об первом успешном тестировании беспилотного поезда.
 
 «Спринтер» типа {{< fl "SNG" >}} успешно проехал между станциями {{< fl "Kampen Zuid" >}} и {{< fl "Swifterbant" >}} в автономном режиме, но с машинистом в кабине, готовым вмешаться в случае возникновения нештатной ситуации.
 
@@ -29,7 +29,7 @@ imageCredit: "Фото: ns.nl."
 
 Поезда {{< fl "NS" >}} в настоящее время и так достаточно автономны, но разгон, торможение и остановка осуществляются по-прежнему вручную.
 
-Это не первый эксперимент с беспилотным поездом в Нидерландах. Около года назад {{< fl "ProRail" >}} уже {{< a "https://www.prorail.nl/nieuws/eerste-testrit-met-zelfrijdende-locomotief" "испытывал" >}} самоуправляемый локомотив, а в марте {{< year 2019 "этого" >}} года другая железнодорожная компания {{< fl "Arriva" >}} {{< a "https://www.duurzaambedrijfsleven.nl/logistiek/31189/zelfrijdende-trein-groningen" "провела" >}} беспилотный поезд от Гронингена до станции {{< fl "Buitenpost" >}}.
+Это не первый эксперимент с беспилотным поездом в Нидерландах. Около года назад {{< fl "ProRail" >}} уже [испытывал](https://www.prorail.nl/nieuws/eerste-testrit-met-zelfrijdende-locomotief) самоуправляемый локомотив, а в марте {{< year 2019 "этого" >}} года другая железнодорожная компания {{< fl "Arriva" >}} [провела](https://www.duurzaambedrijfsleven.nl/logistiek/31189/zelfrijdende-trein-groningen) беспилотный поезд от Гронингена до станции {{< fl "Buitenpost" >}}.
 
 ## Роботы и люди
 

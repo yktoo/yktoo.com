@@ -15,7 +15,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/nqu9zualo8z0gtuowuxy.
 imageCredit: "Фото: LoggaWiggler/Pixabay."
 ---
 
-В Нидерландах официально {{< a "https://nos.nl/artikel/2322689-officieel-griepepidemie-in-nederland.html" "объявлено" >}} об эпидемии гриппа.
+В Нидерландах официально [объявлено](https://nos.nl/artikel/2322689-officieel-griepepidemie-in-nederland.html) об эпидемии гриппа.
 
 На прошлой неделе с жалобами на грипп к врачам обратились **68** человек из **100 000**.
 

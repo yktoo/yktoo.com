@@ -15,7 +15,7 @@ aliases:
     - /en/blog/post/335
 ---
 
-Right before {{< a "0334" "my ten-year anniversary in Holland" >}}, on Easter Monday, the castlerun [De Halve van De Haar](http://www.dehalvevandehaar.nl/) has taken place. I've been participating in it since the very beginning ({{< a "0266#de-halve-van-de-haar" "one" >}}, {{< a "0274" "two" >}}, {{< a "0320" "three" >}}).
+Right before [my ten-year anniversary in Holland](0334), on Easter Monday, the castlerun [De Halve van De Haar](http://www.dehalvevandehaar.nl/) has taken place. I've been participating in it since the very beginning ([one](0266#de-halve-van-de-haar), [two](0274), [three](0320)).
 
 <!--more-->
 
@@ -25,7 +25,7 @@ Yet again I've been lucky to have beaten my previous half marathon (**21.1 km**)
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/oye9l7lhr4rd1407.png" "Half marathon results." >}}
 
-[The outcome](https://evenementen.uitslagen.nl/2018/dehalvevandehaar/details.php?s=21071) is as follows: **1:45:56**, the **271<sup>st</sup> place** out of 794 (which isn't entirely fair because it's based on the gross time, adding 23 seconds to my net result). My previous record {{< a "0320" "was" >}} 1:47:54, so it's a two-minute improvement, quite unexpected for me. My average pace was 5:01, which almost corresponds to 12 km/h.
+[The outcome](https://evenementen.uitslagen.nl/2018/dehalvevandehaar/details.php?s=21071) is as follows: **1:45:56**, the **271<sup>st</sup> place** out of 794 (which isn't entirely fair because it's based on the gross time, adding 23 seconds to my net result). My previous record [was](0320) 1:47:54, so it's a two-minute improvement, quite unexpected for me. My average pace was 5:01, which almost corresponds to 12 km/h.
 
 As mentioned before, there was a total of 794 runners. A hundred fewer compared to the previous run, but still pretty crowded at the start line.
 

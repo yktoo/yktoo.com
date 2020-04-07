@@ -115,7 +115,7 @@ Right after Arch Enemy's departure the curtain was lowered, and the preparations
 
 Wall displays were warning the audience about the 'use of pyrotechnics and concussions' during the show, but no one seemed to have paid attention. So the explosion that opened the show came as a big surprise for everyone.
 
-The Dutch vocalist {{< wiki "Floor_Jansen" "en" "Floor Jansen" >}} is with the band since 2013. I should have seen here four years ago with {{< a "0136" "Pagan's Mind" "ru" >}}, but she didn't show up then:
+The Dutch vocalist {{< wiki "Floor_Jansen" "en" "Floor Jansen" >}} is with the band since 2013. I should have seen here four years ago with [Pagan's Mind](ru;0136), but she didn't show up then:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/x4fye1qehtqc0958.jpg" "Nightwish: Floor Jansen." >}}
 
@@ -147,7 +147,7 @@ Floor, who's some six+ feet tall, is highly prominent on-stage. They look funny 
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/nk1vhi5z6gi33571.jpg" "Nightwish: Floor Jansen." >}}
 
-The oldest member of the band, the British {{< wiki "Troy_Donockley" "en" "Troy Donockley" >}} (51), prefers to keep low profile. In his 35 year career he has played with a huge number of bands and musicians (including {{< a "0250" "Arjen Lucassen" >}}'s *Ayreon*):
+The oldest member of the band, the British {{< wiki "Troy_Donockley" "en" "Troy Donockley" >}} (51), prefers to keep low profile. In his 35 year career he has played with a huge number of bands and musicians (including [Arjen Lucassen](0250)'s *Ayreon*):
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/iayrr9p1fddw2364.jpg" "Nightwish: Troy Donockley." >}}
 
@@ -243,4 +243,4 @@ The show was definitely a success. And perhaps the most impressive of all I've s
 
 ---
 
-All my videos of the concert are listed at the {{< a "/videoevents/vevt0031" "event page" >}}.
+All my videos of the concert are listed at the [event page](/videoevents/vevt0031).

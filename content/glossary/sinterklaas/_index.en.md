@@ -10,6 +10,6 @@ seeAlso:
 
 Saint Nicholas, a Dutch version of Santa Claus. As the legend has it, he permanently lives in Spain but comes to the Netherlands every year to give presents to children on the **5<sup>th</sup>** of December.
 
-Sinterklaas is travelling with a number of aides called {{< a "/glossary/zwarte-piet" "Black Pete" >}}.
+Sinterklaas is travelling with a number of aides called [Black Pete](/glossary/zwarte-piet).
 
 <!--more-->

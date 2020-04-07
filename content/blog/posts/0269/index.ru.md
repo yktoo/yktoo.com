@@ -29,9 +29,9 @@ aliases:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/8bbm7rd8ejzl0196.jpg" "Anneke van Giersbergen, показывающая кулак, и Marcela Bovio." >}}
 
-Как и {{< a "0175" "два года назад" >}}, концерт проходил в небольшом и уютном утрехтском клубе [Tivoli de Helling](http://www.dehelling.nl/), а самое любопытное — это внушительный список приглашённых музыкантов:
+Как и [два года назад](0175), концерт проходил в небольшом и уютном утрехтском клубе [Tivoli de Helling](http://www.dehelling.nl/), а самое любопытное — это внушительный список приглашённых музыкантов:
 
-* {{< fl "Anneke van Giersbergen" >}} (The Gathering, {{< a "0250" "The Gentle Storm" >}})
+* {{< fl "Anneke van Giersbergen" >}} (The Gathering, [The Gentle Storm](0250))
 * {{< fl "Lisette van den Berg" >}} (Scarlet Stories, Epic Rock Choir, Karmaflow)
 * {{< fl "Dianne van Giersbergen" >}} (Xandria)
 * {{< fl "Merijn van Haren" >}} (Navarone)
@@ -48,7 +48,7 @@ aliases:
 
 С ним же был связан один забавный момент, когда Йохан, неистово размахивая гитарой, подцепил и приподнял грифом юбку Марселы — она недоумённо обернулась, мол, что там происходит?
 
-Ритм-гитарист Эрик Хазебрук, вновь с гитарой-обрубком, но количество струн с {{< a "0250" "последнего раза" >}} выросло до восьми.
+Ритм-гитарист Эрик Хазебрук, вновь с гитарой-обрубком, но количество струн с [последнего раза](0250) выросло до восьми.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/qqaq1hljj2qm2490.jpg" "Eric Hazebroek." >}}
 
@@ -128,4 +128,4 @@ aliases:
 
 ---
 
-Все видео концерта доступны на {{< a "/videoevents/vevt0032" "странице события" >}}.
+Все видео концерта доступны на [странице события](/videoevents/vevt0032).

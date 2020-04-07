@@ -11,7 +11,7 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/0dia9k0gfhbs1940.jpg"
 ---
 
-Как и обещал, сделал обзор моего «{{< a "0384" "надувного сокровища" >}}» — или, в просторечии, компрессора {{< a "http://ali.pub/3unhyy" "Xiaomi Mijia Electric Pump" >}}, работающего от аккумулятора.
+Как и обещал, сделал обзор моего «[надувного сокровища](0384)» — или, в просторечии, компрессора [Xiaomi Mijia Electric Pump](http://ali.pub/3unhyy), работающего от аккумулятора.
 
 <!--more-->
 
@@ -30,7 +30,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/0dia9k0gfhbs1940.jpg"
 |Параметры зарядки                    |5 В, 2 А                                                                           |
 |Максимальное время зарядки           |3 ч                                                                                |
 |Производительность на полном заряде  |41 футбольный мяч (по 1 мин), 8 велоколёс (по 3 мин) или 5 автомобильных (по 6 мин)|
-|Цена                                 |Около {{< a "http://ali.pub/3unhyy" "**€ 40** на AliExpress" >}}                   |
+|Цена                                 |Около [**€ 40** на AliExpress](http://ali.pub/3unhyy)                   |
 {{< /table >}}
 
 
@@ -166,4 +166,4 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/0dia9k0gfhbs1940.jpg"
 
 ## Где купить
 
-На {{< fl "AliExpress" >}} — {{< a "http://ali.pub/3unhyy" "цена около € 40" >}} с доставкой из Китая.
+На {{< fl "AliExpress" >}} — [цена около € 40](http://ali.pub/3unhyy) с доставкой из Китая.

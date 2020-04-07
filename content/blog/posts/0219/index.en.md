@@ -15,7 +15,7 @@ aliases:
 
 I haven't been actively blogging lately, and that's not because nothing is happening. Quite the opposite, I can barely find time these days, so let me share the most important stuff with you.
 
-Inevitable happened: my journey into an alternative reality I've {{< a "0001" "embarked on" >}} exactly six years ago is now complete. A few days ago I've oficially become Dutch, a citizen of the Kingdom of the Netherlands.
+Inevitable happened: my journey into an alternative reality I've [embarked on](0001) exactly six years ago is now complete. A few days ago I've oficially become Dutch, a citizen of the Kingdom of the Netherlands.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/8303fff0jigd0066.jpg" >}}
 
@@ -33,11 +33,11 @@ The prehistory of my dutchness is pretty straightforward. In order to be eligibl
 * Pay a sizeable amount at the town-hall (currently **€ 821**).
 * Participate in a "naturalisation ceremony".
 
-I've scored all these points: I've lived five years here, {{< a "0187" "passed the exam" "ru" >}} back in **2012**, respected the law and even forked out the extortionate fee.
+I've scored all these points: I've lived five years here, [passed the exam](ru;0187) back in **2012**, respected the law and even forked out the extortionate fee.
 
 Once the application is submitted, all you can do is wait. The official term for taking a decision is one year, and it was almost up—I've waited for eleven months.
 
-First I got a notification somewhere in January that my case was presented to His Majesty the King (yes, we've got a {{< a "0184" "king now" >}}). The king has handled my case quite fast and in a few weeks I was notified by the immigration service that the last formality has to be fulfilled.
+First I got a notification somewhere in January that my case was presented to His Majesty the King (yes, we've got a [king now](0184)). The king has handled my case quite fast and in a few weeks I was notified by the immigration service that the last formality has to be fulfilled.
 
 ## Naturalisation Ceremony {#ceremony}
 
@@ -63,7 +63,7 @@ There are 31 people on the list, most of them are of Turkish, Arabic or African 
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/uxzr6l49lt9i0547.jpg" >}}
 
-The official part begins. The mayor, Lucas Bolsius, who once {{< a "0173" "introduced" >}} us to Amersfoort, steps up and gives a long speech about the importance of the event, the Dutch culture, its key values and so forth.
+The official part begins. The mayor, Lucas Bolsius, who once [introduced](0173) us to Amersfoort, steps up and gives a long speech about the importance of the event, the Dutch culture, its key values and so forth.
 
 Finally he reads out the Declaration of Allegiance and starts the confirmation round. He approaches the candidates one-by-one, who would stand up and say either {{< fl ""Dat verklaar en beloof ik"" >}} ("That I affirm and promise", the secular version) or {{< fl ""Zo waarlijk helpe mij God almachtig"" >}} ("So help me God Almighty", the religious version). At exactly that moment you've formally become Dutch.
 

@@ -13,7 +13,7 @@ aliases:
     - /en/blog/post/233
 ---
 
-In my {{< a "0231" "last post" >}} I told you about upgrading an iMac with a solid-state drive (SSD). These drives are very fast (read throughput is usually ca. 500 MB/s if connected via a 6 Gbps SATA III) and completely silent.
+In my [last post](0231) I told you about upgrading an iMac with a solid-state drive (SSD). These drives are very fast (read throughput is usually ca. 500 MB/s if connected via a 6 Gbps SATA III) and completely silent.
 
 <!--more-->
 
@@ -139,4 +139,4 @@ You'll need to have the `smartmontools` package installed for that.
 
 ## See also {#see-also}
 
-* {{< a "0255" "Fixing Samsung SSD 840 EVO performance issues in Linux" >}}
+* [Fixing Samsung SSD 840 EVO performance issues in Linux](0255)

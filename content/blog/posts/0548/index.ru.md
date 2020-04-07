@@ -10,13 +10,13 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/t0brwtlkxp22ie7ukerf.
 imageCredit: "Фото: Rainer Maiores/Pixabay."
 ---
 
-Самым популярным именем для девочек, родившихся в Нидерландах в {{< yearp 2019 "прошлом" >}} году, по статистике {{< fl "SVB" >}} {{< a "https://www.svbkindernamen.nl/int/nl/kindernamen/wizard/zoeknaam/" "было" >}} {{< fl "Emma" >}}, а для мальчиков — {{< fl "Noah" >}}.
+Самым популярным именем для девочек, родившихся в Нидерландах в {{< yearp 2019 "прошлом" >}} году, по статистике {{< fl "SVB" >}} [было](https://www.svbkindernamen.nl/int/nl/kindernamen/wizard/zoeknaam/) {{< fl "Emma" >}}, а для мальчиков — {{< fl "Noah" >}}.
 
 **Топ-10** имён новорождённых выглядят следующим образом (в скобках приведено количество детей):
 
 <!--more-->
 
-{{< a "https://www.svbkindernamen.nl/int/nl/kindernamen/wizard/zoeknaam/meisjesnamen/meisjes_populariteit.html" "Девочки" >}}:
+[Девочки](https://www.svbkindernamen.nl/int/nl/kindernamen/wizard/zoeknaam/meisjesnamen/meisjes_populariteit.html):
 
 1.  {{< fl "Emma" >}}   (731)
 2.  {{< fl "Mila" >}}   (671)
@@ -29,7 +29,7 @@ imageCredit: "Фото: Rainer Maiores/Pixabay."
 9.  {{< fl "Evi" >}}    (530)
 10. {{< fl "Saar" >}}   (516)
 
-{{< a "https://www.svbkindernamen.nl/int/nl/kindernamen/wizard/zoeknaam/jongensnamen/jongens_populariteit.html" "Мальчики" >}}:
+[Мальчики](https://www.svbkindernamen.nl/int/nl/kindernamen/wizard/zoeknaam/jongensnamen/jongens_populariteit.html):
 
 1.  {{< fl "Noah" >}}  (785)
 2.  {{< fl "Daan" >}}  (717)

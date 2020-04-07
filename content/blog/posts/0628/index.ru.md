@@ -15,7 +15,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/bmrftn7yrq8xkb8iinxl.
 imageCredit: "Фото: Angelo Esslinger/Pixabay."
 ---
 
-Палата представителей Нидерландов ({{< fl "Tweede Kamer" >}}) {{< a "https://nos.nl/artikel/2323564-kamer-voor-recht-kinderdagverblijf-om-ongevaccineerd-kind-te-weigeren.html" "поддержала" >}} инициативу о предоставлении возможности детским учреждениям отказывать в приёме невакцинированных детей, внесённую партией {{< fl "D66" >}}.
+Палата представителей Нидерландов ({{< fl "Tweede Kamer" >}}) [поддержала](https://nos.nl/artikel/2323564-kamer-voor-recht-kinderdagverblijf-om-ongevaccineerd-kind-te-weigeren.html) инициативу о предоставлении возможности детским учреждениям отказывать в приёме невакцинированных детей, внесённую партией {{< fl "D66" >}}.
 
 В отдельных случаях могут быть сделаны исключения. Например, если у ребёнка есть аллергия на какой-то из компонентов вакцины.
 

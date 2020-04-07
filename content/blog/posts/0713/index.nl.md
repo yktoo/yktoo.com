@@ -15,9 +15,9 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/rs1f9dcy8kkwtsdsuld3.
 series: infopi
 ---
 
-Mijn infokiosk applicatie voor *Raspberry Pi*, bekend als {{< a "/software/infopi" "InfoPi" "en" >}}, heeft eindelijk een grote verandering ondergaan.
+Mijn infokiosk applicatie voor *Raspberry Pi*, bekend als [InfoPi](en;/software/infopi), heeft eindelijk een grote verandering ondergaan.
 
-Vier jaar geleden {{< a "0278" "schreef" "en" >}} ik over de initiële implementatie van InfoPi. Laten we nu even bekijken wat er allemaal in de nieuwe versie zit.
+Vier jaar geleden [schreef](en;0278) ik over de initiële implementatie van InfoPi. Laten we nu even bekijken wat er allemaal in de nieuwe versie zit.
 
 <!--more-->
 

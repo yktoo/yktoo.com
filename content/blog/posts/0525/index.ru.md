@@ -15,7 +15,7 @@ series: music
 
 Пятница, время, когда с небес падают музыкальные звёзды, а порой и целые туманности!
 
-В пятом выпуске {{< a "/series/music" "Музопада" >}} — команда {{< a "https://thehelixnebula.bandcamp.com/" "The Helix Nebula" >}}, мастера инструментального прогрессив-метала с отклонением в {{< fl "djent" >}} и {{< fl "math rock" >}}.
+В пятом выпуске [Музопада](/series/music) — команда [The Helix Nebula](https://thehelixnebula.bandcamp.com/), мастера инструментального прогрессив-метала с отклонением в {{< fl "djent" >}} и {{< fl "math rock" >}}.
 
 <!--more-->
 
@@ -32,7 +32,7 @@ series: music
 * {{< fl "Simon Grove" >}} — басс и продюсирование
 * {{< fl "Nic Tresise" >}} — ударные
 
-Группа была образована в **2011** году, и в её составе как минимум два хорошо известных нам персонажа: басист и продюсер {{< a "https://simongrove.com/" "Simon Grove" >}}, переигравший с кучей джент-команд ({{< fl "Plini" >}}, {{< fl "Intervals" >}}, {{< a "0492" "Owane" >}} и т.д.), и {{< a "https://jakehowsamlowe.bandcamp.com/" "Jake Howsam Lowe" >}} — концертный гитарист {{< fl "Plini" >}}.
+Группа была образована в **2011** году, и в её составе как минимум два хорошо известных нам персонажа: басист и продюсер [Simon Grove](https://simongrove.com/), переигравший с кучей джент-команд ({{< fl "Plini" >}}, {{< fl "Intervals" >}}, [Owane](0492) и т.д.), и [Jake Howsam Lowe](https://jakehowsamlowe.bandcamp.com/) — концертный гитарист {{< fl "Plini" >}}.
 
 ## Meridian
 

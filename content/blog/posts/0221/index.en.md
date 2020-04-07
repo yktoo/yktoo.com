@@ -19,7 +19,7 @@ aliases:
 
 The summer is almost over, though I haven't seen much of it. It's been quite busy here, but in a positive sense.
 
-Firstly, I've officially {{< a "0219" "become a Netherlander" >}}. Secondly, I've changed job yet again, which I'll tell you about some other time. And finally, I've settled down and ~~got stuck in Holland~~ bought a house.
+Firstly, I've officially [become a Netherlander](0219). Secondly, I've changed job yet again, which I'll tell you about some other time. And finally, I've settled down and ~~got stuck in Holland~~ bought a house.
 
 <!--more-->
 
@@ -87,4 +87,4 @@ For next few decades it was a family house and an office, and in 2007, when the 
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zi7v15hj3rn81239.jpg" >}}
 
-Next: {{< a "0222" "Part 2. Bikes" >}}
+Next: [Part 2. Bikes](0222)

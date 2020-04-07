@@ -11,7 +11,7 @@ aliases:
     - /en/blog/post/282
 ---
 
-I already {{< a "0189" "happened" >}} to receive things packaged in an oversized box, but this one beats all imaginable records.
+I already [happened](0189) to receive things packaged in an oversized box, but this one beats all imaginable records.
 
 An online store sent me a Bosch jigsaw blade kit in this box:
 

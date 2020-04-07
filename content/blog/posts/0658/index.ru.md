@@ -17,7 +17,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/qxhy0lagxk80rm1hyrc9.
 imageCredit: "Фото: Michael de Groot/Pixabay."
 ---
 
-Рекордное количество туристов останавливалось в Нидерландах в {{< yearp 2019 "прошлом" >}} году, {{< a "https://www.cbs.nl/nl-nl/nieuws/2020/10/aantal-toeristen-in-logiesaccommodaties-naar-46-miljoen-in-2019" "сообщает" >}} Центральное статистическое бюро {{< fl "CBS" >}}.
+Рекордное количество туристов останавливалось в Нидерландах в {{< yearp 2019 "прошлом" >}} году, [сообщает](https://www.cbs.nl/nl-nl/nieuws/2020/10/aantal-toeristen-in-logiesaccommodaties-naar-46-miljoen-in-2019) Центральное статистическое бюро {{< fl "CBS" >}}.
 
 Статистика, которая учитывает лишь тех, кто бронировал отель или квартиру, говорит о **46,3 млн** человек — это на **5%** больше, чем в **2018** году.
 

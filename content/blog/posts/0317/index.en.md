@@ -48,7 +48,7 @@ After David Maxim Micic made way for Disperse, the project of the just mentioned
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/vezcnu4ahu1k1526.jpg" "Disperse: Jakub Żytecki, Mike Malyan, Rafał Biernacki." >}}
 
-Disperse's genre can probably be described as "David Maxim Micic + vocals". It's a similar mixture of electronics, progressive, and djent. They also remotely resembled the disbanded {{< a "0283" "Sun Caged" >}} (sigh), but in my humble opinion Disperse lacks their drive and expressiveness. As for Jakub's guitar proficiency, it's an even match with David's as far as I can tell. I had the opportunity to listen to both of them during Plini's "superjam" (more on which below).
+Disperse's genre can probably be described as "David Maxim Micic + vocals". It's a similar mixture of electronics, progressive, and djent. They also remotely resembled the disbanded [Sun Caged](0283) (sigh), but in my humble opinion Disperse lacks their drive and expressiveness. As for Jakub's guitar proficiency, it's an even match with David's as far as I can tell. I had the opportunity to listen to both of them during Plini's "superjam" (more on which below).
 
 This is one of Disperse's video:
 
@@ -84,4 +84,4 @@ From this I can conclude that all four are pretty damn good with guitars, and I 
 
 To wrap up, the gig was awesome. My haul was a T-shirt and a poster with Plini's signature! And I'm sure Plini has a great future—if he'll be persistent enough, of course.
 
-All of my videos are listed in the sidebar on the right; they are also available on the {{< a "/videoevents/vevt0041" "event page" >}}.
+All of my videos are listed in the sidebar on the right; they are also available on the [event page](/videoevents/vevt0041).

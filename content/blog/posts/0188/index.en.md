@@ -15,7 +15,7 @@ aliases:
     - /en/blog/post/188
 ---
 
-Tomasa Quartet, whom I know since {{< a "0109" "Dias Latinos 2011" >}}, honoured Amersfoort with a live gig. I couldn't miss the (quite rare) opportunity of seeing that.
+Tomasa Quartet, whom I know since [Dias Latinos 2011](0109), honoured Amersfoort with a live gig. I couldn't miss the (quite rare) opportunity of seeing that.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pq681zl1dr1l1463.jpg" >}}
 
@@ -37,7 +37,7 @@ Claudia the violinist is fronting the band, so she is the one to speak Dutch on 
 
 The guys are playing just as well as before, if not better. I've filmed almost all their pieces.
 
-* {{< a "/videoevents/vevt0001" "All gig's videos" >}}
+* [All gig's videos](/videoevents/vevt0001)
 * [Playlist on YouTube](http://www.youtube.com/playlist?list=PLRtML0bqZ1ik4EwGEazskw5elqgTRI1wh)
 
 **Update.** Just found out from the newspaper that Dias Latinos is off this year, first time after 16 years. Because of the crisis and lack for financing. Maybe next year.

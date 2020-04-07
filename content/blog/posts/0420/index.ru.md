@@ -14,7 +14,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/7p7q97418zqk3320.jpg"
 imageCredit: "Фото: coolscola03/Pixabay."
 ---
 
-Это забавно: Нидерланды, кажется, созрели для ночных поездов. Госсекретарь по вопросам инфраструктуры Ван Велдховен ({{< fl "Stientje van Veldhoven" >}}) {{< a "https://www.rijksoverheid.nl/ministeries/ministerie-van-infrastructuur-en-waterstaat/nieuws/2019/10/10/de-internationale-nachttrein-komt-terug-naar-nederland" "сообщила" >}} о планах запустить поезда в крупные города Европы, и первыми на очереди Германия и Австрия.
+Это забавно: Нидерланды, кажется, созрели для ночных поездов. Госсекретарь по вопросам инфраструктуры Ван Велдховен ({{< fl "Stientje van Veldhoven" >}}) [сообщила](https://www.rijksoverheid.nl/ministeries/ministerie-van-infrastructuur-en-waterstaat/nieuws/2019/10/10/de-internationale-nachttrein-komt-terug-naar-nederland) о планах запустить поезда в крупные города Европы, и первыми на очереди Германия и Австрия.
 
 <!--more-->
 
@@ -24,7 +24,7 @@ imageCredit: "Фото: coolscola03/Pixabay."
 
 Государство выделит из бюджета **€ 6,7 млн** для субсидирования ночного железнодорожного сообщения с **2021** по **2024** годы. Пока что в проекте участвуют только голландский оператор {{< fl "NS" >}} и австрийский {{< fl "ÖBB" >}}.
 
-А первые поезда должны {{< a "https://www.nu.nl/economie/6003069/nachttrein-tussen-amsterdam-en-wenen-gaat-eind-2020-rijden.html" "отправиться" >}} в декабре **2020** года в направлении немецкого Мюнхена и австрийских Инсбрука и Вены.
+А первые поезда должны [отправиться](https://www.nu.nl/economie/6003069/nachttrein-tussen-amsterdam-en-wenen-gaat-eind-2020-rijden.html) в декабре **2020** года в направлении немецкого Мюнхена и австрийских Инсбрука и Вены.
 
 Поездка из Амстердама в Вену займёт примерно **14** часов: поезд выходит вечером и утром — вуаля! — вы в Вене. Цена билета составит от **€ 29** за сидячее место до **€ 89** за спальное.
 

@@ -15,11 +15,11 @@ imageCredit: "Фото: PostNL."
 
 Для посылок из стран ЕС нет никаких пошлин или налогов.
 
-Для остальных стран нидерландские таможенные правила {{< a "https://www.belastingdienst.nl/wps/wcm/connect/nl/internetaankopen/content/moet-ik-betalen-voor-de-invoer-van-mijn-pakket" "определяют" >}} порог необлагаемой налогом торговли в **€ 22** за одно почтовое отправление.
+Для остальных стран нидерландские таможенные правила [определяют](https://www.belastingdienst.nl/wps/wcm/connect/nl/internetaankopen/content/moet-ik-betalen-voor-de-invoer-van-mijn-pakket) порог необлагаемой налогом торговли в **€ 22** за одно почтовое отправление.
 
 <!--more-->
 
-В целом картина {{< a "https://www.postnl.nl/ontvangen/pakket-ontvangen/pakket-uit-het-buitenland/" "следующая" >}}:
+В целом картина [следующая](https://www.postnl.nl/ontvangen/pakket-ontvangen/pakket-uit-het-buitenland/):
 
 {{< table "table" >}}
 |Вид отправления|Объявленная ценность|НДС|Пошлина|Админ. расходы|
@@ -37,7 +37,7 @@ imageCredit: "Фото: PostNL."
 
 НДС платится при получении посылки стоимостью **€ 22** (*без учёта* стоимости отправки и/или страховки) и свыше.
 
-В случае необходимости оплаты НДС, его ставка определяется, {{< a "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/btw/btw_berekenen_aan_uw_klanten/btw_berekenen/btw_tarief/btw_tarief" "как обычно" >}}, исходя из вида товара:
+В случае необходимости оплаты НДС, его ставка определяется, [как обычно](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/btw/btw_berekenen_aan_uw_klanten/btw_berekenen/btw_tarief/btw_tarief), исходя из вида товара:
 
 * Низкий тариф **9%**: продукты питания, вода, сельхозпродукция, лекарства, предметы искусства, книги и журналы.
 * Обычный тариф **21%**: все прочие товары.
@@ -46,7 +46,7 @@ imageCredit: "Фото: PostNL."
 
 Пошлина оплачивается на товары стоимостью более **€ 150**. С ней ситуация немного запутаннее, поскольку ставки для каждого вида товаров разные.
 
-Налоговая служба {{< a "https://www.belastingdienst.nl/wps/wcm/connect/nl/internetaankopen/content/hoeveel-betaal-ik-de-douane-als-ik-iets-koop-bij-buitenlandse-webshop" "приводит" >}} следующие примеры:
+Налоговая служба [приводит](https://www.belastingdienst.nl/wps/wcm/connect/nl/internetaankopen/content/hoeveel-betaal-ik-de-douane-als-ik-iets-koop-bij-buitenlandse-webshop) следующие примеры:
 
 {{< table "table table-narrow table-striped" >}}
 |Вид товара           |Ставка пошлины         |

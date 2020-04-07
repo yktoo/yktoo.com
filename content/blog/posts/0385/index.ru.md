@@ -11,7 +11,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/y6aouu3k4o9r0234.jpg"
 imageCredit: "Фото: Rijksvoorlichtingsdienst."
 ---
 
-Отгремел очередной «{{< a "0382" "День маленького принца" >}}», остались лишь {{< a "https://www.ad.nl/show/even-is-de-koning-een-popster-de-baard-maakt-hem-mannelijker~a38dd0b4/" "шутки" >}} про бороду короля и {{< a "https://www.rijksoverheid.nl/onderwerpen/prinsjesdag/inkomsten-en-uitgaven-van-het-rijk-2020" "Miljoenennota" >}} — документ о бюджете на предстоящий год.
+Отгремел очередной «[День маленького принца](0382)», остались лишь [шутки](https://www.ad.nl/show/even-is-de-koning-een-popster-de-baard-maakt-hem-mannelijker~a38dd0b4/) про бороду короля и [Miljoenennota](https://www.rijksoverheid.nl/onderwerpen/prinsjesdag/inkomsten-en-uitgaven-van-het-rijk-2020) — документ о бюджете на предстоящий год.
 
 Вот что этот документ означает для граждан Нидерландов — изменения, которые коснутся почти каждого из них (нас).
 
@@ -50,7 +50,7 @@ imageCredit: "Фото: Rijksvoorlichtingsdienst."
 
 * В **2020** году налог на газ повысится на **3,99 цента** за кубометр, а на электроэнергию снизится на **0,09 цента** за кВт·ч.
 * Дома без газа получат право на дополнительную налоговую льготу: в **2020** году эта сумма вырастет сразу на **€ 216** — до **€ 527,17** (включая НДС).
-* Кабинет стремится установить более справедливое разделение расходов между гражданами и бизнесом, по принципу «платит тот, кто загрязняет». Поэтому с 1.01.2020 для предприятий доля налога на развитие «зелёной» энергии ({{< fl "opslag duurzame energie" >}}, {{< a "https://www.essent.nl/kennisbank/stroom-en-gas/energierekening/informatie-over-de-opslag-duurzame-energie" "ODE" >}}) вырастет, а для населения — снизится. Впрочем, в абсолютных цифрах налог вырастет и для домовладельцев тоже: на **2,51 цента** за кубометр газа и на **0,84 цента** за кВт·ч электроэнергии.
+* Кабинет стремится установить более справедливое разделение расходов между гражданами и бизнесом, по принципу «платит тот, кто загрязняет». Поэтому с 1.01.2020 для предприятий доля налога на развитие «зелёной» энергии ({{< fl "opslag duurzame energie" >}}, [ODE](https://www.essent.nl/kennisbank/stroom-en-gas/energierekening/informatie-over-de-opslag-duurzame-energie)) вырастет, а для населения — снизится. Впрочем, в абсолютных цифрах налог вырастет и для домовладельцев тоже: на **2,51 цента** за кубометр газа и на **0,84 цента** за кВт·ч электроэнергии.
 
 ## Максимальная сумма для при переходе к NHG
 
@@ -72,7 +72,7 @@ imageCredit: "Фото: Rijksvoorlichtingsdienst."
 
 ## Снижение льготы по Wet Hillen
 
-Для владельцев жилья с небольшим остаточным долгом по ипотеке или совсем без долга в Нидерландах действует специальный закон, так называемый {{< a "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/woning/eigenwoningforfait/geen_of_een_kleine_eigenwoningschuld/geen_of_een_kleine_eigenwoningschuld" "Wet Hillen" >}}.
+Для владельцев жилья с небольшим остаточным долгом по ипотеке или совсем без долга в Нидерландах действует специальный закон, так называемый [Wet Hillen](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/woning/eigenwoningforfait/geen_of_een_kleine_eigenwoningschuld/geen_of_een_kleine_eigenwoningschuld).
 
 Каждый владелец жилья здесь платит налог на «воображаемую арендную плату» ({{< fl "eigenwoningforfait" >}}), зависящую от его стоимости. Одновременно с этим каждый обладатель ипотеки, живущий в купленном на эту ипотеку жилье, имеет право на налоговый вычет по процентам от этой ипотеки.
 
@@ -82,7 +82,7 @@ imageCredit: "Фото: Rijksvoorlichtingsdienst."
 
 ## Снижение подоходного налога
 
-В **2020** году ставки прогрессивной шкалы налогообложения {{< a "https://www.rijksoverheid.nl/onderwerpen/belastingplan/belastingwijzigingen-voor-ons-allemaal/tweeschijvenstelsel-inkomstenbelasting" "уменьшатся" >}}, соответственно вырастет сумма, получаемая на руки. Также вместо трёхступенчатой система станет двухступенчатой, а в **2021** произойдёт ещё одно снижение:
+В **2020** году ставки прогрессивной шкалы налогообложения [уменьшатся](https://www.rijksoverheid.nl/onderwerpen/belastingplan/belastingwijzigingen-voor-ons-allemaal/tweeschijvenstelsel-inkomstenbelasting), соответственно вырастет сумма, получаемая на руки. Также вместо трёхступенчатой система станет двухступенчатой, а в **2021** произойдёт ещё одно снижение:
 
 {{< table "table table-narrow table-striped" >}}
 |Сумма годового дохода|Ставка в 2019 г.|Ставка в 2020 г.|Ставка в 2021 г.|
@@ -102,13 +102,13 @@ imageCredit: "Фото: Rijksvoorlichtingsdienst."
 
 ## Оценка рыночной стоимости вырастет
 
-Средняя оценка рыночной стоимости ({{< fl "WOZ-waarde" >}}) вырастет, по {{< a "https://www.waarderingskamer.nl/tabblad-waarderingskamer/adviezen-waarderingskamer/" "ожиданиям" >}}, на **8-10%** (значение {{< fl "WOZ-waarde" >}}, применяемое в 2020 году, отражает изменение рыночной цены между 1.01.2018 и 1.01.2019).
+Средняя оценка рыночной стоимости ({{< fl "WOZ-waarde" >}}) вырастет, по [ожиданиям](https://www.waarderingskamer.nl/tabblad-waarderingskamer/adviezen-waarderingskamer/), на **8-10%** (значение {{< fl "WOZ-waarde" >}}, применяемое в 2020 году, отражает изменение рыночной цены между 1.01.2018 и 1.01.2019).
 
 Более высокая стоимость означает повышение {{< fl "eigenwoningforfait" >}} и понижение соответствующего вычета.
 
 ## Норма налога на недвижимость будет заменена на бенчмарк
 
-Рост {{< a "https://www.eigenhuis.nl/hypotheken/belastingen/gemeentelijke-belastingen" "налога на недвижимость" >}} ({{< fl "onroerendezaakbelasting" >}}, {{< fl "ozb" >}}) был до {{< year 2019 "этого" >}} года включительно привязан к национальному максимуму, так называемой *макронорме* ({{< fl "macronorm" >}}). С **2020** макронорму заменят на бенчмарк, усреднённую цифру для данного муниципалитета, вследствие чего налог сможет изменяться в разных *хементах* по-разному.
+Рост [налога на недвижимость](https://www.eigenhuis.nl/hypotheken/belastingen/gemeentelijke-belastingen) ({{< fl "onroerendezaakbelasting" >}}, {{< fl "ozb" >}}) был до {{< year 2019 "этого" >}} года включительно привязан к национальному максимуму, так называемой *макронорме* ({{< fl "macronorm" >}}). С **2020** макронорму заменят на бенчмарк, усреднённую цифру для данного муниципалитета, вследствие чего налог сможет изменяться в разных *хементах* по-разному.
 
 Возможно, это изменение вызовет снижение муниципальных налогов, поскольку в бенчмарк также включат сборы за канализацию и вывоз мусора.
 
@@ -133,7 +133,7 @@ imageCredit: "Фото: Rijksvoorlichtingsdienst."
 
 С вышеупомянутых сумм фиктивного дохода будет взиматься налог по ставке **30%**.
 
-В связи с очень низкими существующими процентами по депозитам, с **2022** года эта система будет {{< a "https://www.rijksoverheid.nl/actueel/nieuws/2019/09/06/135-miljoen-spaarders-betalen-door-nieuw-voorstel-straks-geen-belasting-meer-in-box-3" "модифицирована" >}} — появится возможность дополнительного вычета для доходов по сбережениям ниже **€ 400** ({{< fl "heffingsvrij inkomen" >}}).
+В связи с очень низкими существующими процентами по депозитам, с **2022** года эта система будет [модифицирована](https://www.rijksoverheid.nl/actueel/nieuws/2019/09/06/135-miljoen-spaarders-betalen-door-nieuw-voorstel-straks-geen-belasting-meer-in-box-3) — появится возможность дополнительного вычета для доходов по сбережениям ниже **€ 400** ({{< fl "heffingsvrij inkomen" >}}).
 
 Также нельзя будет полностью перерассчитывать долг с накопленным в {{< fl "Box 3" >}}, а лишь **3,3%** от него (процент будет зависеть от средних ставок по ипотеке).
 
@@ -143,7 +143,7 @@ imageCredit: "Фото: Rijksvoorlichtingsdienst."
 
 ## Почта от налоговой службы
 
-С **2020** года изменяется Закон об электронных коммуникациях ({{< fl "Wet elektronisch berichtenverkeer" >}}). Появится возможность {{< a "https://www.rijksoverheid.nl/onderwerpen/belastingplan/belastingwijzigingen-voor-ons-allemaal/post-belastingdienst" "выбрать" >}}, будет ли налоговая присылать емэйлы или обычные письма.
+С **2020** года изменяется Закон об электронных коммуникациях ({{< fl "Wet elektronisch berichtenverkeer" >}}). Появится возможность [выбрать](https://www.rijksoverheid.nl/onderwerpen/belastingplan/belastingwijzigingen-voor-ons-allemaal/post-belastingdienst), будет ли налоговая присылать емэйлы или обычные письма.
 
 ## «Взаимозачёт» солнечной энергии до 2023 года
 
@@ -151,10 +151,10 @@ imageCredit: "Фото: Rijksvoorlichtingsdienst."
 
 ## Пенсионный возраст повысится
 
-В **2020** году возраст пенсии по старости ({{< fl "AOW" >}}) {{< a "https://www.svb.nl/int/nl/aow/wat_is_de_aow/wanneer_aow/" "составит" >}} **66 лет и 4 месяца**.
+В **2020** году возраст пенсии по старости ({{< fl "AOW" >}}) [составит](https://www.svb.nl/int/nl/aow/wat_is_de_aow/wanneer_aow/) **66 лет и 4 месяца**.
 
 ## Длительность выплаты алиментов партнёру ограничат
 
 С **1.01.2020** длительность выплаты алиментов партнёру при разводе будет ограничена половиной продолжительности брака, но при этом не более пяти лет. При наличии детей до 12 лет, однако, выплата должна будет продолжаться до тех пор, пока младший из них не достигнет двенадцатилетнего возраста.
 
-*Пост подготовлен по материалам {{< a "https://www.eigenhuis.nl/actueel/prinsjesdag" "VEH" >}}.*
+*Пост подготовлен по материалам [VEH](https://www.eigenhuis.nl/actueel/prinsjesdag).*

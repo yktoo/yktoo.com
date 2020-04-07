@@ -10,7 +10,7 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/payi6ljfqlggweny6su9.png"
 ---
 
-Словарь нидерландского языка {{< fl "Van Dale" >}}, ежегодно проводящий выборы «слова года», {{< a "https://www.vandale.nl/van-dale-woord-van-het-jaar-2019" "публикует" >}} результаты народного опроса.
+Словарь нидерландского языка {{< fl "Van Dale" >}}, ежегодно проводящий выборы «слова года», [публикует](https://www.vandale.nl/van-dale-woord-van-het-jaar-2019) результаты народного опроса.
 
 Словом {{< year 2019 "этого" >}} года, согласно ему, стало слово **{{< fl "boomer" >}}**.
 
@@ -18,7 +18,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/payi6ljfqlggweny6su9.
 
 {{< youtube "dGdtqdYbspI" >}}
 
-{{< fl "Boomer" >}} происходит от английского {{< fl "baby boomer" >}} — так называют людей, родившихся после окончания Второй мировой войны, — и {{< a "https://meduza.io/cards/vizhu-frazu-ok-bumer-chto-ona-znachit-pora-obizhatsya" "означает" >}} примерно «старый зануда».
+{{< fl "Boomer" >}} происходит от английского {{< fl "baby boomer" >}} — так называют людей, родившихся после окончания Второй мировой войны, — и [означает](https://meduza.io/cards/vizhu-frazu-ok-bumer-chto-ona-znachit-pora-obizhatsya) примерно «старый зануда».
 
 Фраза {{< fl "OK boomer" >}} стала популярна после того, как депутат парламента Новой Зеландии как бы невзначай бросила её тому, кто пытался её прервать.
  

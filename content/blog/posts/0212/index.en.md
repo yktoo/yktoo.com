@@ -27,7 +27,7 @@ aliases:
     - /en/blog/post/212
 ---
 
-It's easy to find beautiful places here in Europe, outside of the {{< a "0210" "desert" >}}, even in our damp winter. We stumbled upon a good accommodation offer in Ghent, one of the prettiest Belgian cities. I've been in Ghent {{< a "0033" "before" "ru" >}}, but only short time so I couldn't see much.
+It's easy to find beautiful places here in Europe, outside of the [desert](0210), even in our damp winter. We stumbled upon a good accommodation offer in Ghent, one of the prettiest Belgian cities. I've been in Ghent [before](ru;0033), but only short time so I couldn't see much.
 
 <!--more-->
 
@@ -67,7 +67,7 @@ Since the appearance of Saint Bavo's cannot be spoiled any further, the city mou
 
 In return you get a perfect view on the nearby belfry from this "Giant Wheel". For five euros you can enjoy three turns of the wheel.
 
-The belfry is 91 metres (299') high and hence a bit shorter than the {{< a "0197" "tower of Amersfoort" >}} (98 m or 322'):
+The belfry is 91 metres (299') high and hence a bit shorter than the [tower of Amersfoort](0197) (98 m or 322'):
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/q9fpbz87vrar2657.jpg" >}}
 
@@ -103,7 +103,7 @@ More peculiarities:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9a956mxo72ug0529.jpg" >}}
 
-North of Graslei/Korenlei, where the river forks, is another famous attraction of Ghent, the [Gravensteen](http://www.gravensteengent.be/) castle, hardly changed since my {{< a "0033" "last visit" "ru" >}}.
+North of Graslei/Korenlei, where the river forks, is another famous attraction of Ghent, the [Gravensteen](http://www.gravensteengent.be/) castle, hardly changed since my [last visit](ru;0033).
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ut60jhh016sn3223.jpg" >}}
 
@@ -149,4 +149,4 @@ And this is, according to our city-guide, "the most beautiful tree in the city".
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/iquzxy5tfeg33323.jpg" >}}
 
-In the {{< a "0213" "next part" >}} we will see Ghent by night.
+In the [next part](0213) we will see Ghent by night.

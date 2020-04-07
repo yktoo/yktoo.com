@@ -13,7 +13,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/keaeh5ajs8p021ytbhpm.
 imageCredit: "Фото: ©Lobke de Jong."
 ---
 
-Я испытываю смешанные чувства, читая {{< a "https://www.ad.nl/home/paard-in-de-gang-bij-afscheid-in-crematorium~a69a4178/" "эту" >}} новость.
+Я испытываю смешанные чувства, читая [эту](https://www.ad.nl/home/paard-in-de-gang-bij-afscheid-in-crematorium~a69a4178/) новость.
 
 Вчера в крематорий в нидерландском Удене ({{< fl "Uden" >}}) на прощание с безвременно почившим привели… лошадь.
 

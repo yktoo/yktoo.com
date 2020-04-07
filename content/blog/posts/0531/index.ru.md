@@ -17,7 +17,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/yds3vwnj3i6ucvf8oyuq.
 
 Отгремела очередная встреча Нового года, ознаменовавшаяся плотным туманом, фейерверками и вызванными ими пожарами, и, к сожалению, неизбежными жертвами.
 
-В Арнеме в пожаре {{< a "https://nos.nl/artikel/2316917-vader-en-zoon-4-omgekomen-bij-flatbrand-arnhem-vuurwerk-oorzaak.html" "погибли" >}} **39**-летний мужчина и его **4**-летний сын, мать и **8**-летняя дочь в тяжёлом состоянии находятся в больнице.
+В Арнеме в пожаре [погибли](https://nos.nl/artikel/2316917-vader-en-zoon-4-omgekomen-bij-flatbrand-arnhem-vuurwerk-oorzaak.html) **39**-летний мужчина и его **4**-летний сын, мать и **8**-летняя дочь в тяжёлом состоянии находятся в больнице.
 
 <!--more-->
 
@@ -29,11 +29,11 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/yds3vwnj3i6ucvf8oyuq.
 
 {{< youtube "rIGVAGa-HqA" >}}
 
-По следам происшествия полиция {{< a "https://nos.nl/artikel/2316956-jongens-12-en-13-jaar-aangehouden-voor-fatale-flatbrand-arnhem.html" "задержала" >}} двух подростков **12** и **13** лет, они подозреваются в поджоге, приведшем к фатальному исходу.
+По следам происшествия полиция [задержала](https://nos.nl/artikel/2316956-jongens-12-en-13-jaar-aangehouden-voor-fatale-flatbrand-arnhem.html) двух подростков **12** и **13** лет, они подозреваются в поджоге, приведшем к фатальному исходу.
 
 ## Сожжённые автомобили
 
-От пожаров пострадали десятки автомобилей. В Утрехте пришлось вмешаться спецназу, задержаны **38** человек. В Гааге пожарные {{< a "https://www.omroepwest.nl/nieuws/3980896/Al-tientallen-auto-s-in-en-rond-Den-Haag-in-vlammen-op" "участвовали" >}} в тушении **64** автомобилей.
+От пожаров пострадали десятки автомобилей. В Утрехте пришлось вмешаться спецназу, задержаны **38** человек. В Гааге пожарные [участвовали](https://www.omroepwest.nl/nieuws/3980896/Al-tientallen-auto-s-in-en-rond-Den-Haag-in-vlammen-op) в тушении **64** автомобилей.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ykirmvv3vlpie0numq0q.jpg" "Горящее авто на Melis Stokelaan в Гааге. Фото: Regio 15." >}}
 
@@ -47,7 +47,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/yds3vwnj3i6ucvf8oyuq.
 
 Салют наблюдали десятки тысяч людей, и правильно делали, так намного безопаснее.
 
-По {{< a "https://www.rtlnieuws.nl/nieuws/nederland/artikel/4972036/oogziekenhuis-rotterdam-vuurwerk-slachtoffers-nieuwjaar" "сообщениям RTL Nieuws" >}}, в больницы города обратились **18** жертв фейерверков, самой младшей которой **14** лет, и ожидается, что это количество ещё вырастет. Всего говорится от **21** повреждённом глазе, и в половине случаев речь идёт о невосстановимой потере зрения.
+По [сообщениям RTL Nieuws](https://www.rtlnieuws.nl/nieuws/nederland/artikel/4972036/oogziekenhuis-rotterdam-vuurwerk-slachtoffers-nieuwjaar), в больницы города обратились **18** жертв фейерверков, самой младшей которой **14** лет, и ожидается, что это количество ещё вырастет. Всего говорится от **21** повреждённом глазе, и в половине случаев речь идёт о невосстановимой потере зрения.
 
 Аналогично, в половине происшествий пострадали зрители, просто стоящие рядом.
 
@@ -55,11 +55,11 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/yds3vwnj3i6ucvf8oyuq.
 
 ## Ветряная мельница в Бовенкарспеле
 
-В городе Бовенкарспел ({{< fl "Bovenkarspel" >}}), что на севере страны, {{< a "https://www.nu.nl/278223/video/molen-in-bovenkarspel-uit-1848-afgebrand.html?jwsource=cl" "сгорела" >}} ветряная мельница **1848** года постройки под названием {{< fl "Ceres" >}}, по сей день моловшая пшеницу для соседней пекарни.
+В городе Бовенкарспел ({{< fl "Bovenkarspel" >}}), что на севере страны, [сгорела](https://www.nu.nl/278223/video/molen-in-bovenkarspel-uit-1848-afgebrand.html?jwsource=cl) ветряная мельница **1848** года постройки под названием {{< fl "Ceres" >}}, по сей день моловшая пшеницу для соседней пекарни.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cwpheedz07vfhbx2sdv5.jpg" "Ветряная мельница в Бовенкарспеле. Кадр из видео NOS." >}}
 
-Причиной пожара почти наверняка {{< a "https://nos.nl/artikel/2316909-historische-molen-in-bovenkarspel-uitgebrand-dan-schrompelt-je-hart-ineen.html" "послужили" >}} фейерверки.
+Причиной пожара почти наверняка [послужили](https://nos.nl/artikel/2316909-historische-molen-in-bovenkarspel-uitgebrand-dan-schrompelt-je-hart-ineen.html) фейерверки.
 
 Пожарные утверждают, что им удалось спасти каркас мельницы, и её владелец намерен восстановить объект исторического наследия.
 
@@ -69,8 +69,8 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/yds3vwnj3i6ucvf8oyuq.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cufd24fxluhvmvpdyiay.jpg" "Карта предупреждений KNMI." >}}
 
-Плохая видимость послужила причиной множества {{< a "https://nos.nl/artikel/2316893-dode-en-meerdere-gewonden-bij-grote-kettingbotsing-bij-akkrum.html" "столкновений" >}}:
+Плохая видимость послужила причиной множества [столкновений](https://nos.nl/artikel/2316893-dode-en-meerdere-gewonden-bij-grote-kettingbotsing-bij-akkrum.html):
 
-* В массовом ДТП на {{< fl "A32" >}} во Фрисландии (где как раз и был код «красный») {{< a "https://www.omropfryslan.nl/nieuws/928622-dode-en-meerdere-gewonden-bij-ernstig-ongeluk-op-a32-bij-akkrum" "погиб" >}} один человек и **19** ранено.
+* В массовом ДТП на {{< fl "A32" >}} во Фрисландии (где как раз и был код «красный») [погиб](https://www.omropfryslan.nl/nieuws/928622-dode-en-meerdere-gewonden-bij-ernstig-ongeluk-op-a32-bij-akkrum) один человек и **19** ранено.
 * На {{< fl "A7" >}} около {{< fl "Heerenveen" >}} столкнулось до **40** автомобилей, восемь раненых.
-* На {{< fl "A28" >}} — ДТП с участием {{< a "https://www.omroepgelderland.nl/nieuws/2433928/Kettingbotsing-met-8-auto-s-op-A28-bij-Ermelo" "по меньшей мере" >}} восьми легковых машин и одной фуры.
+* На {{< fl "A28" >}} — ДТП с участием [по меньшей мере](https://www.omroepgelderland.nl/nieuws/2433928/Kettingbotsing-met-8-auto-s-op-A28-bij-Ermelo) восьми легковых машин и одной фуры.

@@ -13,7 +13,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/4lmxutacrkgv3303.jpg"
 
 В Нидерландах есть сервис, с помощью которого можно легко и к тому же бесплатно получить данные практически по любому зарегистрированному в стране транспортному средству, зная его номер.
 
-Называется этот сервис {{< a "https://ovi.rdw.nl/" "OVI" >}} ({{< fl "Online Voertuig Informatie" >}}, «онлайн-информация о транспортном средстве») и предоставляется он государственной службой {{< a "https://www.rdw.nl/" "RDW" >}} ({{< fl "Rijksdienst voor het Wegverkeer" >}}, Государственная дорожная служба). Она ответственна за дороги, а также контролирует состояние транспортных средств, включая периодический техосмотр ({{< a "https://www.rdw.nl/particulier/voertuigen/auto/apk" "APK" >}}).
+Называется этот сервис [OVI](https://ovi.rdw.nl/) ({{< fl "Online Voertuig Informatie" >}}, «онлайн-информация о транспортном средстве») и предоставляется он государственной службой [RDW](https://www.rdw.nl/) ({{< fl "Rijksdienst voor het Wegverkeer" >}}, Государственная дорожная служба). Она ответственна за дороги, а также контролирует состояние транспортных средств, включая периодический техосмотр ([APK](https://www.rdw.nl/particulier/voertuigen/auto/apk)).
 
 <!--more-->
 
@@ -21,11 +21,11 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/4lmxutacrkgv3303.jpg"
 
 ## Например
 
-Возьмём для примера мою {{< a "0028" "лизинговую Тойоту" >}}, фото двенадцатилетней давности:
+Возьмём для примера мою [лизинговую Тойоту](0028), фото двенадцатилетней давности:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/jypcrqe2jvtr2307.jpg" "Toyota Prius 2009 и я перед ней." >}}
 
-Вбиваем номер `16HDK2` в поле {{< fl "Kenteken" >}} на {{< a "https://ovi.rdw.nl/" "странице OVI" >}} и немедленно получаем следующую информацию:
+Вбиваем номер `16HDK2` в поле {{< fl "Kenteken" >}} на [странице OVI](https://ovi.rdw.nl/) и немедленно получаем следующую информацию:
 
 {{< imgfig "ovi-kentekencheck-16hdk2.png" "Данные «Тойоты» по номерному знаку." >}}
 
@@ -50,9 +50,9 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/4lmxutacrkgv3303.jpg"
 
 ## Использование сервиса
 
-По {{< a "https://ovi.rdw.nl/colofon.aspx" "правилам RDW" >}} эту службу разрешается использовать лишь частным лицам и в небольших объёмах.
+По [правилам RDW](https://ovi.rdw.nl/colofon.aspx) эту службу разрешается использовать лишь частным лицам и в небольших объёмах.
 
-Для бизнес-клиентов есть отдельный, {{< a "https://www.rdw.nl/zakelijk/branches/bedrijven/gegevens-bij-de-rdw-raadplegen/grote-hoeveelheden-voertuiggegevens-raadplegen" "платный" >}} сервис в двух вариантах:
+Для бизнес-клиентов есть отдельный, [платный](https://www.rdw.nl/zakelijk/branches/bedrijven/gegevens-bij-de-rdw-raadplegen/grote-hoeveelheden-voertuiggegevens-raadplegen) сервис в двух вариантах:
 
 * Через браузер (**€ 0,15** за запрос), либо
 * XML API (**€ 510** за подключение, потом **€ 0,06** за запрос).

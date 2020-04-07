@@ -16,7 +16,7 @@ aliases:
 
 Yet another medal in your newsfeed!
 
-It's high time for running, so it seems: I've recently completed the {{< a "0327" "Ijsselsteinloop" >}} and now, two weeks later, a half marathon in [Amersfoort](https://www.marathonamersfoort.nl/). It's been my second time on this event.
+It's high time for running, so it seems: I've recently completed the [Ijsselsteinloop](0327) and now, two weeks later, a half marathon in [Amersfoort](https://www.marathonamersfoort.nl/). It's been my second time on this event.
 
 <!--more-->
 
@@ -68,7 +68,7 @@ The toughest bit was the last couple of kilometres, when the sun was the highest
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/gajjrjqgrrdk2713.jpg" "Just finished." >}}
 
-I'm quite happy about my [result](https://results.sporthive.com/events/6280399465689907200/races/395734/bib/878) of **1:48:13**, which is only 19 seconds more than my {{< a "0320" "record time" >}}. Considering the weather, I deem it a big personal achievement.
+I'm quite happy about my [result](https://results.sporthive.com/events/6280399465689907200/races/395734/bib/878) of **1:48:13**, which is only 19 seconds more than my [record time](0320). Considering the weather, I deem it a big personal achievement.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/76lbdz9t3sjo1317.png" "My result." >}}
 

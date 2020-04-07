@@ -15,7 +15,7 @@ aliases:
     - /en/blog/post/190
 ---
 
-Recently I've visited Portugal for the first time in my life. The everlasting Dutch off-season makes one long for sun, and where else in Europe can you secure a sunny place, except maybe the {{< a "0148" "Canaries" "ru" >}}? This spring in Europe is particularly poor, full of floods and cold, so Portugal appears to be the best option for the continental part.
+Recently I've visited Portugal for the first time in my life. The everlasting Dutch off-season makes one long for sun, and where else in Europe can you secure a sunny place, except maybe the [Canaries](ru;0148)? This spring in Europe is particularly poor, full of floods and cold, so Portugal appears to be the best option for the continental part.
 
 We've decided to go for its south coast, the Algarve region. Where the Atlantic Ocean, endless beaches, real waves and the edge of the world are. But first things first.
 
@@ -287,7 +287,7 @@ Aboriginal Music:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9g79ne3dvn8t1476.jpg" >}}
 
-This strange instrument is called {{< fl "didgeridoo" >}}, however has nothing to do with DJs. It resembles {{< a "0183" "Arkady Shilkloper's" >}} alphorn:
+This strange instrument is called {{< fl "didgeridoo" >}}, however has nothing to do with DJs. It resembles [Arkady Shilkloper's](0183) alphorn:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/qzamlczee99n0858.jpg" >}}
 
@@ -531,4 +531,4 @@ It actually looks like the lighting is set up pretty randomly. But still beautif
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/qu066659bc9u0330.jpg" >}}
 
-Next: {{< a "0191" "Part 2. Car and oranges" >}}
+Next: [Part 2. Car and oranges](0191)

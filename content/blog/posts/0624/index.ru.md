@@ -13,7 +13,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/v1582039291/blog/acguwjlnh
 imageCredit: "Фото: succo/Pixabay."
 ---
 
-Апелляционный суд в Гааге {{< a "https://nos.nl/artikel/2323562-rusland-moet-toch-miljardenvergoeding-betalen-aan-aandeelhouders-yukos.html" "подтвердил" >}} вынесенное в **2014** году решение, что Российская Федерация должна выплатить **$ 50 млрд** акционерам ЮКОСа.
+Апелляционный суд в Гааге [подтвердил](https://nos.nl/artikel/2323562-rusland-moet-toch-miljardenvergoeding-betalen-aan-aandeelhouders-yukos.html) вынесенное в **2014** году решение, что Российская Федерация должна выплатить **$ 50 млрд** акционерам ЮКОСа.
 
 Апелляция рассматривалась в Нидерландах, поскольку третейский суд, рассматривавший дело, также находится в Гааге.
 

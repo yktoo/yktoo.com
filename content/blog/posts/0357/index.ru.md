@@ -22,9 +22,9 @@ image: website-logo.png
 
 Исходный код **yktoo.com версии 3.0** стал достаточно стабильным, чтобы его не стыдно было выложить во всеобщий доступ. Я планировал сделать это с самого начала, ещё приступая к разработке статической версии.
 
-Сегодня код был опубликован {{< a "https://github.com/yktoo/yktoo.com" "на GitHub" >}}: его можно просматривать, билдить, форкать, о проблемах можно сообщать в {{< a "https://github.com/yktoo/yktoo.com/issues" "багтрекер" >}} и т.д.
+Сегодня код был опубликован [на GitHub](https://github.com/yktoo/yktoo.com): его можно просматривать, билдить, форкать, о проблемах можно сообщать в [багтрекер](https://github.com/yktoo/yktoo.com/issues) и т.д.
 
-Исходный код и весь сопутствующий контент распространяется на условиях лицензии {{< a "https://creativecommons.org/licenses/by-sa/4.0/deed.ru" "Creative Commons Attribution-NonCommercial-ShareAlike 4.0" >}} license.
+Исходный код и весь сопутствующий контент распространяется на условиях лицензии [Creative Commons Attribution-NonCommercial-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ru) license.
 
 {{< button "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ru" "<i class='fab fa-creative-commons'></i><i class='fab fa-creative-commons-by'></i><i class='fab fa-creative-commons-nc'></i><i class='fab fa-creative-commons-sa bycon'></i>Лицензия CC-BY-NC-SA 4.0" >}}
 {{< button "https://github.com/yktoo/yktoo.com" "<i class='fab fa-github bycon'></i>Код на GitHub" >}}
@@ -34,7 +34,7 @@ image: website-logo.png
 
 ## Нужен лишь Hugo
 
-Хотите верьте, хотите — нет, но построить этот сайт из исходного кода проще некуда. Нужно лишь {{< a "https://gohugo.io/getting-started/installing/" "установить Hugo" >}}, после чего запустить `hugo` в корне проекта:
+Хотите верьте, хотите — нет, но построить этот сайт из исходного кода проще некуда. Нужно лишь [установить Hugo](https://gohugo.io/getting-started/installing/), после чего запустить `hugo` в корне проекта:
 
 {{< imgfig "hugo-screencast.gif" "Проще не бывает!" >}}
 

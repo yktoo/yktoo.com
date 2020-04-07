@@ -12,7 +12,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/mivyzhekxpniqp1y1jlz.
 imageCredit: "Фото: Marcelo Leal/Unsplash."
 ---
 
-Хорошие новости {{< a "https://nos.nl/artikel/2319396-overlevingskans-voor-mensen-met-kanker-opnieuw-toegenomen.html" "принёс" >}} Нидерландский регистр онкобольных ({{< fl "Nederlandse Kankerregistratie" >}}).
+Хорошие новости [принёс](https://nos.nl/artikel/2319396-overlevingskans-voor-mensen-met-kanker-opnieuw-toegenomen.html) Нидерландский регистр онкобольных ({{< fl "Nederlandse Kankerregistratie" >}}).
 
 **65%** пациентов, у которых в **2013** году диагностировали рак, пять лет спустя оказались живы — то есть почти две трети. Годом ранее эта цифра составляла **64%**.
 

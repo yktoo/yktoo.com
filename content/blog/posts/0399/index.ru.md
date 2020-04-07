@@ -17,7 +17,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/wdchidz3ifuk2807.jpg"
 imageCredit: "Фото: Rijkswaterstaat."
 ---
 
-Во фризском {{< a "0207" "Харлингене" >}} вчера {{< a "https://www.rijkswaterstaat.nl/nieuws/2019/09/productiefaciliteit-levvel-blocs-in-harlingen-officieel-geopend.aspx" "изготовили" >}} первый «инновационный волнорез», предназначенный для модернизации {{< wiki "Афслёйтдейк" "ru" "дамбы Афслёйтдейк" >}} в Эйсселмеере.
+Во фризском [Харлингене](0207) вчера [изготовили](https://www.rijkswaterstaat.nl/nieuws/2019/09/productiefaciliteit-levvel-blocs-in-harlingen-officieel-geopend.aspx) первый «инновационный волнорез», предназначенный для модернизации {{< wiki "Афслёйтдейк" "ru" "дамбы Афслёйтдейк" >}} в Эйсселмеере.
 
 Волнорез не простой, а, конечно же, экологический.
 

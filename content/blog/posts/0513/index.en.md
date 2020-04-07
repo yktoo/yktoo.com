@@ -18,13 +18,13 @@ imageCredit: "Photo: Yao-Ting Lee/Instagram."
 series: music
 ---
 
-It's Friday, time to explore the realm of {{< a "/series/music" "unfamiliar music" >}} again!
+It's Friday, time to explore the realm of [unfamiliar music](/series/music) again!
 
-The unfamiliar is represented today by the {{< a "https://haamoja.bandcamp.com/" "Haamoja" >}} project from Taiwan playing djent/jazz/fusion.
+The unfamiliar is represented today by the [Haamoja](https://haamoja.bandcamp.com/) project from Taiwan playing djent/jazz/fusion.
 
 <!--more-->
 
-The entire project, like {{< a "0492" "Owane" >}},  is comprised of one person, the Taiwanese **Yao-Ting Lee**, who is responsible for guitars, programming, recording, mixing etc.
+The entire project, like [Owane](0492),  is comprised of one person, the Taiwanese **Yao-Ting Lee**, who is responsible for guitars, programming, recording, mixing etc.
 
 It also features a number of well-known names such as *Plini*, *Anund Vikingstad* and the above-mentioned *Owane*.
 
@@ -44,7 +44,7 @@ The sound has been fixed so it feels more full, whereas the music got more lyric
 
 {{< youtube "MoJTemOjaw0" >}}
 
-Yao-Ting {{< a "https://haamoja.bandcamp.com/album/natural-evolution" "explains" >}}:
+Yao-Ting [explains](https://haamoja.bandcamp.com/album/natural-evolution):
 
 > As you guys probably know, it is very difficult to write an album. It took a little over seven months to write it, record it, and produce it entirely. I'd like to thank everyone who supported me. There will be some more very soon. Finally!
 

@@ -15,7 +15,7 @@ aliases:
     - /en/blog/post/277
 ---
 
-The last Queen's Day to date happened {{< a "0184" "three years ago" >}}, when Princess Beatrix, then still the Queen of the Netherlands, {{< a "0176" "announced" >}} her upcoming abdication for her son Willem-Alexander. The latter celebrates his birthday on **April 27<sup>th</sup>**, which is very conveniently near the former date of April 30<sup>th</sup>.
+The last Queen's Day to date happened [three years ago](0184), when Princess Beatrix, then still the Queen of the Netherlands, [announced](0176) her upcoming abdication for her son Willem-Alexander. The latter celebrates his birthday on **April 27<sup>th</sup>**, which is very conveniently near the former date of April 30<sup>th</sup>.
 
 <!--more-->
 
@@ -27,7 +27,7 @@ The entire city centre, starting from the Central Station, was packed with peopl
 
 It's worth mentioning that the weather has been horrible the last couple of weeks. The night temperature was around zero degrees, whereas at daytime it hardly reached ten. Next to that, it was very windy and either raining or hailing every couple of hours. According to the weather record, it's been the coolest April 27<sup>th</sup> in the last thirty-eight years. I wasn't even sure there would be a proper celebration, but the time proved me wrong.
 
-Of course, it wasn't as crowded as {{< a "0153" "back in the day" "ru" >}} since no-one really appreciated the weather. It wasn't very *orange* either, with the reason being that orange coats are much less common among the Dutch then orange T-shirts. That said, it's still been a great day, as it stayed dry and even sunny the most of it.
+Of course, it wasn't as crowded as [back in the day](ru;0153) since no-one really appreciated the weather. It wasn't very *orange* either, with the reason being that orange coats are much less common among the Dutch then orange T-shirts. That said, it's still been a great day, as it stayed dry and even sunny the most of it.
 
 They crammed a small amusement park into the main square of the city, {{< fl "Dam" >}}. The attractions were at least twice as high as the surrounding buildings:
 
@@ -53,4 +53,4 @@ However not many ventured on hiring a boat in such weather, as you'd have hard t
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/syzr556suksi0825.jpg" "Amsterdam canals." >}}
 
-Certainly, it's pretty much all the same as in {{< a "0184" "2013" >}}, {{< a "0153" "2012" "ru" >}} and {{< a "0052" "2010" "ru" >}}. But it's a tradition, and quite a good one.
+Certainly, it's pretty much all the same as in [2013](0184), [2012](ru;0153) and [2010](ru;0052). But it's a tradition, and quite a good one.

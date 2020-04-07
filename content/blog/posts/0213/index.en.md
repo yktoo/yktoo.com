@@ -63,4 +63,4 @@ St Peter's Abbey ([Sint-Pietersabdij](http://www.sintpietersabdijgent.be/)):
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/jo3go4dfo37w2188.jpg" >}}
 
-{{< a "0214" "The next part" >}} will be about the official Ghent graffiti street.
+[The next part](0214) will be about the official Ghent graffiti street.

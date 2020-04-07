@@ -16,7 +16,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/gbm6vvjhi8swquu7otz3.
 imageCredit: "Кадр из видео ProRail."
 ---
 
-Голландский железнодорожный оператор {{< fl "ProRail" >}} {{< a "https://nos.nl/artikel/2326862-prorail-doet-aangifte-tegen-trucker-na-levensgevaarlijke-actie.html" "подал" >}} заявление в полицию на безответственного водителя мусоровоза, который едва не стал причиной серьёзной аварии.
+Голландский железнодорожный оператор {{< fl "ProRail" >}} [подал](https://nos.nl/artikel/2326862-prorail-doet-aangifte-tegen-trucker-na-levensgevaarlijke-actie.html) заявление в полицию на безответственного водителя мусоровоза, который едва не стал причиной серьёзной аварии.
 
 <!--more-->
 

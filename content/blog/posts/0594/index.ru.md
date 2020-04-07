@@ -20,7 +20,7 @@ series: dutch-expressions
 
 <!--more-->
 
-На самом деле часто используемый оборот {{< fl "voor de hand liggend" >}} {{< a "https://www.woorden.org/woord/vanzelfsprekend" "означает" >}}:
+На самом деле часто используемый оборот {{< fl "voor de hand liggend" >}} [означает](https://www.woorden.org/woord/vanzelfsprekend):
 
 > очевидный, не требующий дальнейших разъяснений
 

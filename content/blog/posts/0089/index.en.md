@@ -57,7 +57,7 @@ Here's that hotel:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/47scgrhfrnk33414.jpg" >}}
 
-Impressive, isn't it? Budapest at night is a magnificent view. And the streets, like in {{< a "0066" "the Netherlands" >}} are completely deserted after 8 PM.
+Impressive, isn't it? Budapest at night is a magnificent view. And the streets, like in [the Netherlands](0066) are completely deserted after 8 PM.
 
 This is the quay of the Danube:
 
@@ -99,4 +99,4 @@ And, at last, St. Stephen's Basilica ({{< fl "Szent István-bazilika" >}}):
 
 I'll come back to it later, in the daytime. Its interiors are simply stunning.
 
-Next: {{< a "0090" "Part 8. Budapest by day" >}}
+Next: [Part 8. Budapest by day](0090)

@@ -34,7 +34,7 @@ Another example someone might find shocking at first glance:
 
 Only a Dutch (or a German) will understand the kid is actually saying "Mom, this one, this one, this one please."
 
-Which reminds me of {{< a "https://twitter.com/timmartin2/status/23365017839599616" "this tweet" >}}, too.
+Which reminds me of [this tweet](https://twitter.com/timmartin2/status/23365017839599616), too.
 
 ## Hoor!
 
@@ -69,7 +69,7 @@ There's also a hardcore version: {{< fl "kies mijn kant" >}} ("choose my side").
 
 {{< fl "Fok" >}} and {{< fl "fokken" >}} (breed) are another example of the provocative Dutch language.
 
-There's also a common Frisian name {{< a "https://www.24baby.nl/babynamen/fokje/" "Fokje" >}}. So I imagine the following dialogue:
+There's also a common Frisian name [Fokje](https://www.24baby.nl/babynamen/fokje/). So I imagine the following dialogue:
 
 > "What is your name, miss?"
 >

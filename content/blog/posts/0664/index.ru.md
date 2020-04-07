@@ -14,7 +14,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/l3vwuo4ixuxjjyxmmgjm.
 imageCredit: "Фото: Pixabay/Pexels."
 ---
 
-Амстердамский суд {{< a "https://www.parool.nl/nederland/airbnb-geboekt-vraag-je-bemiddelingskosten-terug~b82f3597/" "постановил" >}} сегодня, что популярный сервис-посредник для краткосрочной аренды жилья {{< fl "Airbnb" >}} нарушает нидерландское законодательство, взимая комиссию как с владельца жилья, так и с того, кто в нём останавливается.
+Амстердамский суд [постановил](https://www.parool.nl/nederland/airbnb-geboekt-vraag-je-bemiddelingskosten-terug~b82f3597/) сегодня, что популярный сервис-посредник для краткосрочной аренды жилья {{< fl "Airbnb" >}} нарушает нидерландское законодательство, взимая комиссию как с владельца жилья, так и с того, кто в нём останавливается.
 
 Иск в суд был подан одним из клиентов сервиса, постояльцем, снявшим через {{< fl "Airbnb" >}} квартиру.
 

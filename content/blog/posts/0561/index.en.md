@@ -11,9 +11,9 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/kokfnqt42anuwfcsxbxu.jpg"
 ---
 
-Enough of those {{< a "0401" "router" >}} and {{< a "0411" "pump" >}} reviews! Today's review is the weirdest and the shortest one in this blog's history!
+Enough of those [router](0401) and [pump](0411) reviews! Today's review is the weirdest and the shortest one in this blog's history!
 
-We'll unbox and study the *professional*, as the seller puts it, {{< a "http://ali.pub/4dpz10" "nail clipper" >}} by *Xiaomi*.
+We'll unbox and study the *professional*, as the seller puts it, [nail clipper](http://ali.pub/4dpz10) by *Xiaomi*.
 
 <!--more-->
 
@@ -61,4 +61,4 @@ What can I say after having used the gadget for a while? The nail clipper is gre
 
 ## Where to buy
 
-You can buy the nail clipper {{< a "http://ali.pub/4dpz10" "on AliExpress" >}} for about **€ 3.50**, including shipping.
+You can buy the nail clipper [on AliExpress](http://ali.pub/4dpz10) for about **€ 3.50**, including shipping.

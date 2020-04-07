@@ -15,7 +15,7 @@ tags:
 image: "eonics-openhacknight-hugo.png"
 ---
 
-Voor degenen geïnteresseerd in het bouwen van statische websites met behulp van {{< a "https://gohugo.io/" "Hugo" >}}, de allersnelste tool.
+Voor degenen geïnteresseerd in het bouwen van statische websites met behulp van [Hugo](https://gohugo.io/), de allersnelste tool.
 
 Op **21 november** zal op het Eonics HQ een presentatie over Hugo plaatsvinden.
 
@@ -30,4 +30,4 @@ De presentatie wordt gevolgd door een gezamenlijke maaltijd.
 
 Daarna gaan we zelf aan de slag in de workshop dus vergeet niet je laptop mee te nemen als je mee wilt doen.
 
-Aanmelden kan via {{< a "https://www.eventbrite.com/e/tickets-eonics-hack-night-19-static-site-generation-met-hugo-75650411417" "Eventbrite" >}}, het deelnemen is gratis.
+Aanmelden kan via [Eventbrite](https://www.eventbrite.com/e/tickets-eonics-hack-night-19-static-site-generation-met-hugo-75650411417), het deelnemen is gratis.

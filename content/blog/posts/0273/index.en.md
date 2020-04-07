@@ -29,11 +29,11 @@ Last weekend, on March 19, 2016, the author of these lines has qualified for the
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xy78lk9reebq3294.jpg" "The black belt." >}}
 
-Exactly 11 years ago I've entered the dojo of [Rudik Manukyan](http://aikido72.ru/2-uncategorised/30-rudik-manukyan) (in Russian), who had second dan Aikikai (the original branch of aikido stemming from its very {{< wiki "Morihei_Ueshiba" "en" "founder" >}}) at that time. Thanks to his lead I've grown from naught to second kyū in three year's time, and {{< a "0001" "left for Holland" >}} shortly thereafter.
+Exactly 11 years ago I've entered the dojo of [Rudik Manukyan](http://aikido72.ru/2-uncategorised/30-rudik-manukyan) (in Russian), who had second dan Aikikai (the original branch of aikido stemming from its very {{< wiki "Morihei_Ueshiba" "en" "founder" >}}) at that time. Thanks to his lead I've grown from naught to second kyū in three year's time, and [left for Holland](0001) shortly thereafter.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/bwvkflda793l1669.jpg" "Rudik Manukyan. Source: aikido72.ru." >}}
 
-My second aikido chapter started soon upon my arrival at the country. Within two weeks I've {{< a "0011" "sought" "ru" >}} nearby towns for an aikido school and finally landed at [Joginder Singh's](http://jogindersingh.com/) dojo in Amersfoort. About a year later, in June 2009, I've passed an exam for the first kyū.
+My second aikido chapter started soon upon my arrival at the country. Within two weeks I've [sought](ru;0011) nearby towns for an aikido school and finally landed at [Joginder Singh's](http://jogindersingh.com/) dojo in Amersfoort. About a year later, in June 2009, I've passed an exam for the first kyū.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cjlif8xx2vk72558.jpg" "Joginder Singh. Photo by Else Kramer." >}}
 
@@ -43,7 +43,7 @@ Seven years on, last summer I've taken a decision to move to another dojo. One o
 
 Aikido is a Japanese martial art that puts a heavy emphasis on self-development and self-discipline, diminishing the importance of outward achievements. It is the reason why aikido denies competition. But we, people of the West, are usually motivated by signs of recognition, without which we lapse into seeing ourselves as losers.
 
-Another reason to change school was our {{< a "0221" "move to Houten" >}}, because travelling to and from Amersfoort took considerable time.
+Another reason to change school was our [move to Houten](0221), because travelling to and from Amersfoort took considerable time.
 
 So the third chapter of the story began in September 2015. I started training in the dojo [Aikido Groene Hart](http://www.aikidogroenehart.nl/) led by *Peter van Lier*. Peter gives lessons in the small town of {{< wiki "Woerden" "en" "Woerden" >}}, not so far away from Houten; his students also run a number of dojos in nearby towns.
 

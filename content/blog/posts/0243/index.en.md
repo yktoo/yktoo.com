@@ -32,7 +32,7 @@ Loads of pictures under the cut.
 
 ## Preface {#preface}
 
-As soon as we've {{< a "0234" "moved into our new house" >}} I've started thinking of a television that would match the new interiors of the living room. I'm a big fan of functional minimalism if it comes to design, so the envisioned layout was as follows: TV hung on the wall and a couch against the opposite wall. However, as the living room is five metres wide, the screen had to be at least 60-65 inch.
+As soon as we've [moved into our new house](0234) I've started thinking of a television that would match the new interiors of the living room. I'm a big fan of functional minimalism if it comes to design, so the envisioned layout was as follows: TV hung on the wall and a couch against the opposite wall. However, as the living room is five metres wide, the screen had to be at least 60-65 inch.
 
 I've immediately discarded all the *curved* models since they look clumsy on the wall.
 
@@ -74,7 +74,7 @@ So let's start off with the specs.
     * 1 aerial input
     * 1 cable input
     * 1 satellite input
-    * {{< a "0245" "Camera" >}}: sold separately, connected via USB
+    * [Camera](0245): sold separately, connected via USB
 * **Smart TV**
     * Samsung Smart Hub
     * On TV (program guide) for 15 European countries
@@ -183,4 +183,4 @@ The back side of the device: a connector area on the left, four VESA mount holes
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/dsxau4dxvrpn1907.jpg" >}}
 
-*Next:* {{< a "0244" "Part two. Connect and control" >}}
+*Next:* [Part two. Connect and control](0244)

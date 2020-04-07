@@ -20,10 +20,10 @@ No kidding, that's what it reads:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1v5x6xt6xjdc0145.jpg" "Inflatable treasure" >}}
 
-The right answer: it's a battery-powered {{< a "http://ali.pub/3unhyy" "Xiaomi (Mijia) Electric Pump" >}}.
+The right answer: it's a battery-powered [Xiaomi (Mijia) Electric Pump](http://ali.pub/3unhyy).
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/8glbicne1nyh2849.jpg" "Xiaomi Mijia Electric Pump." >}}
 
 I have to admit, it's a very good looking one. One might confuse it for a music player. I'm going to write a review after having used it for a while.
 
-> *Follow-up:* {{< a "0411" "Xiaomi Mijia electric portable pump review" >}}
+> *Follow-up:* [Xiaomi Mijia electric portable pump review](0411)

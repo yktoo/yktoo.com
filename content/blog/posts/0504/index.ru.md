@@ -14,11 +14,11 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/lbol8gspmhktabodv0a5.
 imageCredit: "Фото: ©Tom Hegen."
 ---
 
-Мюнхенский фотограф Том Хеген ({{< a "http://tomhegen.de/" "Tom Hegen" >}}), специализирующийся на аэрофотосъёмке, сделал совершенно завораживающие ночные фотографии Нидерландов с высоты.
+Мюнхенский фотограф Том Хеген ([Tom Hegen](http://tomhegen.de/)), специализирующийся на аэрофотосъёмке, сделал совершенно завораживающие ночные фотографии Нидерландов с высоты.
 
 Посреди практически полной черноты выделяются яркие пятна теплиц — настолько яркие, что их даже видно из космоса.
 
-Том любезно разрешил мне опубликовать серию фотографий под названием {{< a "http://tomhegen.de/fotodesign/the-greenhouse-series/" "Greenhouse Series" >}} в моём блоге.
+Том любезно разрешил мне опубликовать серию фотографий под названием [Greenhouse Series](http://tomhegen.de/fotodesign/the-greenhouse-series/) в моём блоге.
 
 <!--more-->
 
@@ -52,4 +52,4 @@ imageCredit: "Фото: ©Tom Hegen."
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/od2mibei0eyiebdkpwfp.jpg" "Нидерландские теплицы с высоты. Фото: ©Tom Hegen." >}}
 
-Рекомендую вам также полистать {{< a "http://tomhegen.de/" "веб-сайт" >}} и {{< a "https://www.instagram.com/tomhegen.de/" "Инстаграм" >}} Тома — там немало красивого и интересного.
+Рекомендую вам также полистать [веб-сайт](http://tomhegen.de/) и [Инстаграм](https://www.instagram.com/tomhegen.de/) Тома — там немало красивого и интересного.

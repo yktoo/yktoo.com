@@ -15,9 +15,9 @@ aliases:
     - /en/blog/post/186
 ---
 
-So many things have piled up while I was busy with my {{< a "/" "website" >}}, not sure I'll be able to handle them.
+So many things have piled up while I was busy with my [website](/), not sure I'll be able to handle them.
 
-Let's take the famous flower parade, or {{< fl "bloemencorso" >}} in Dutch. It's a yearly event, held in late April or early May near {{< a "0010" "Keukenhof" "ru" >}}, the largest flower garden in the world.
+Let's take the famous flower parade, or {{< fl "bloemencorso" >}} in Dutch. It's a yearly event, held in late April or early May near [Keukenhof](ru;0010), the largest flower garden in the world.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cutjy5nqcdox2191.jpg" >}}
 

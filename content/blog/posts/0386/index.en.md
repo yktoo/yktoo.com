@@ -13,6 +13,6 @@ image: mysql-workbench-screenshot.png
 fulltextUrl: "https://yktoo.solutions/blog/2019/09/20-installing-mysql-workbench-in-ubuntu-19.04/"
 ---
 
-{{< a "https://www.mysql.com/products/workbench/" "MySQL Workbench" >}} is a very handy administration tool for the MySQL database server. Unfortunately, it has been {{< a "https://www.reddit.com/r/Ubuntu/comments/bg0zvd/mysql_workbench_not_available_in_ubuntu_1904/" "removed" >}} from mainline Ubuntu repositories as of Ubuntu 19.04 Disco Dingo.
+[MySQL Workbench](https://www.mysql.com/products/workbench/) is a very handy administration tool for the MySQL database server. Unfortunately, it has been [removed](https://www.reddit.com/r/Ubuntu/comments/bg0zvd/mysql_workbench_not_available_in_ubuntu_1904/) from mainline Ubuntu repositories as of Ubuntu 19.04 Disco Dingo.
 
 Luckily, it isn't that difficult to get it installed.

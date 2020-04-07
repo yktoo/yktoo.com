@@ -18,7 +18,7 @@ aliases:
 
 Holland has been fogged for four days in a row. Sometimes the fog is so thick that one cannot see anything further than a dozen meters.
 
-I {{< a "0066" "published" >}} already fogged Amersfoort by night.
+I [published](0066) already fogged Amersfoort by night.
 
 Now I show you pictures of fog by day.
 
@@ -30,7 +30,7 @@ Now I show you pictures of fog by day.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/kfycp53f9t5i1256.jpg" >}}
 
-This is the meadow from {{< a "0066" "this post" >}}. Try to find the house painted red and blue:
+This is the meadow from [this post](0066). Try to find the house painted red and blue:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cmv1ohk69m0k0021.jpg" >}}
 

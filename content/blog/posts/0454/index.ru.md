@@ -11,9 +11,9 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/ykki4ilmr3813n0tttin.
 imageCredit: "Фото: succo/Pixabay."
 ---
 
-Позавчера {{< a "https://www.bbc.com/russian/news-50288193" "стало известно" >}}, что совет директоров {{< fl "McDonald's" >}} (США) уволил своего генерального директора Стива Истербрука ({{< fl "Steve Easterbrook" >}}) из-за романа с неназванной коллегой.
+Позавчера [стало известно](https://www.bbc.com/russian/news-50288193), что совет директоров {{< fl "McDonald's" >}} (США) уволил своего генерального директора Стива Истербрука ({{< fl "Steve Easterbrook" >}}) из-за романа с неназванной коллегой.
 
-Издание {{< fl "NOS" >}} {{< a "https://nos.nl/artikel/2309088-mcdonald-s-verbiedt-relaties-op-het-werk-maar-hoe-zit-dat-in-nederland.html" "публикует" >}} комментарии нидерландского юриста в отношении этого события.
+Издание {{< fl "NOS" >}} [публикует](https://nos.nl/artikel/2309088-mcdonald-s-verbiedt-relaties-op-het-werk-maar-hoe-zit-dat-in-nederland.html) комментарии нидерландского юриста в отношении этого события.
 
 <!--more-->
 
@@ -29,7 +29,7 @@ imageCredit: "Фото: succo/Pixabay."
 
 Также сотрудник не обязан уведомлять работодателя о наличии отношений, за исключением ситуаций, когда возникает конфликт интересов. Наиболее очевидная из таких ситуаций — когда одна из сторон является начальником для другой.
 
-В качестве примера конфликта интересов издание припоминает {{< a "https://nos.nl/artikel/2295695-om-onderzoekt-strafbaar-handelen-hoge-officieren-met-geheime-relatie.html" "инцидент" >}} в Госпрокуратуре Нидерландов ({{< fl "Openbaar Ministerie" >}}), в котором ныне отстранённый генпрокурор Марк ван Нимвеген ({{< fl "Marc van Nimwegen" >}}) дал повышение своей подруге Марианне Блоос ({{< fl "Marianne Bloos" >}}) — в данном случае совершенно очевидно, что об этой связи они обязаны были уведомить руководство, утверждает Ко.
+В качестве примера конфликта интересов издание припоминает [инцидент](https://nos.nl/artikel/2295695-om-onderzoekt-strafbaar-handelen-hoge-officieren-met-geheime-relatie.html) в Госпрокуратуре Нидерландов ({{< fl "Openbaar Ministerie" >}}), в котором ныне отстранённый генпрокурор Марк ван Нимвеген ({{< fl "Marc van Nimwegen" >}}) дал повышение своей подруге Марианне Блоос ({{< fl "Marianne Bloos" >}}) — в данном случае совершенно очевидно, что об этой связи они обязаны были уведомить руководство, утверждает Ко.
 
 ## Кодекс поведения
 

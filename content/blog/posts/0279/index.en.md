@@ -22,7 +22,7 @@ The day's been a scorcher with 27 °C (81 °F) in the shade. On the Dutch scale 
 
 <!--more-->
 
-It was a significant improvement compared to the {{< a "0274" "previous time" >}}: **1:55:04** versus **2:01:46** (five minutes faster), but then the gale was making running difficult. Also my regular trainings have paid off—these days I routinely run twenty kilometres.
+It was a significant improvement compared to the [previous time](0274): **1:55:04** versus **2:01:46** (five minutes faster), but then the gale was making running difficult. Also my regular trainings have paid off—these days I routinely run twenty kilometres.
 
 In the result [table](http://nl.mylaps.com/evenementen/uitslagen/2016/jun/5/amersfoort/HalfTot.html) I've been assigned the **343<sup>th</sup>** place out of 1222 overall, **303<sup>th</sup>** out of 884 among men. Much better than the previous one where I finished the 730<sup>th</sup>. And among residents of Houten I was the third!
 

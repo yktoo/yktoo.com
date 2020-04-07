@@ -12,7 +12,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/yfay8kulstlj6oovpklr.
 imageCredit: "Фото: llulila/Pixabay."
 ---
 
-Нидерланды, как известно, страна {{< a "0063" "контрастов" >}} и {{< a "0128" "туманов" >}}.
+Нидерланды, как известно, страна [контрастов](0063) и [туманов](0128).
 
 Для автомобилиста важно знать, как правильно использовать освещение в условиях тумана — за его неверное применение можно получить немаленький штраф.
 
@@ -32,7 +32,7 @@ imageCredit: "Фото: llulila/Pixabay."
 
 {{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/yhl3v4ot6d9dxhxeh1at.jpg" "Ближний свет" "article-opener" >}}
 
-В условиях ограниченной видимости — например, из-за тумана — водитель {{< a "https://www.anwb.nl/verkeer/veiligheid/mist-waarschuwing" "обязан" >}} включать ближний свет.
+В условиях ограниченной видимости — например, из-за тумана — водитель [обязан](https://www.anwb.nl/verkeer/veiligheid/mist-waarschuwing) включать ближний свет.
 
 Сейчас всё больше автомобилей оснащаются автоматическим переключателем фар — так вот, здесь нужно иметь в виду, что он не реагирует на туман. Поэтому фары в таком случае придётся включить вручную.
 
@@ -46,11 +46,11 @@ imageCredit: "Фото: llulila/Pixabay."
 
 {{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/pykcrgalimjk9j2v526a.jpg" "Противотуманные фары" "article-opener" >}}
 
-Противотуманные фары обладают повышенной яркостью, поэтому их {{< a "https://www.anwb.nl/auto/onderhoud-en-reparatie/autoverlichting-en-autoruiten/soorten-autoverlichting" "запрещено" >}} использовать без необходимости.
+Противотуманные фары обладают повышенной яркостью, поэтому их [запрещено](https://www.anwb.nl/auto/onderhoud-en-reparatie/autoverlichting-en-autoruiten/soorten-autoverlichting) использовать без необходимости.
 
-Необходимостью здесь считаются туман, дождь или снегопад, ограничивающие видимость до **200 м** и менее ({{< a "https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=13&artikel=34&z=2020-01-01&g=2020-01-01" "статья 34 правил RVV 1990" >}}). При использовании противотуманных фар включать ближний свет можно, но необязательно.
+Необходимостью здесь считаются туман, дождь или снегопад, ограничивающие видимость до **200 м** и менее ([статья 34 правил RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=13&artikel=34&z=2020-01-01&g=2020-01-01)). При использовании противотуманных фар включать ближний свет можно, но необязательно.
 
-За неверное использование фар (например, без необходимости включенный противотуманный свет) {{< a "https://www.anwb.nl/auto/onderhoud-en-reparatie/autoverlichting-en-autoruiten/autoverlichting-de-regels" "полагается штраф" >}} в **€ 140**.
+За неверное использование фар (например, без необходимости включенный противотуманный свет) [полагается штраф](https://www.anwb.nl/auto/onderhoud-en-reparatie/autoverlichting-en-autoruiten/autoverlichting-de-regels) в **€ 140**.
 
 {{< div "clearfix" >}}{{< /div >}}
 
@@ -58,7 +58,7 @@ imageCredit: "Фото: llulila/Pixabay."
 
 {{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/ebipwopwyagqgu01paqe.jpg" "Задний противотуманный фонарь" "article-opener" >}}
 
-Задний противотуманный фонарь разрешается включать *исключительно* при очень плохой видимости — ниже **50 м**, и только в случае тумана или снегопада, но *не дождя* (та же {{< a "https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=13&artikel=34&z=2020-01-01&g=2020-01-01" "статья 34 правил" >}}).
+Задний противотуманный фонарь разрешается включать *исключительно* при очень плохой видимости — ниже **50 м**, и только в случае тумана или снегопада, но *не дождя* (та же [статья 34 правил](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=13&artikel=34&z=2020-01-01&g=2020-01-01)).
 
 За использование заднего фонаря без необходимости штраф точно такой же — **€ 140**.
 

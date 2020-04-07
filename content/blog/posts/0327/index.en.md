@@ -22,7 +22,7 @@ Today I've run yet another half marathon (**21.1 km**), in the small town of {{<
 
 The run was expectedly called [Ijsselsteinloop](http://www.ijsselsteinloop.nl/) ("Ijsselstein run").
 
-This time my result of **1:49:01** didn't beat the record, but it was just a minute more than the {{< a "0320" "previous run at De Haar" >}}. Which is not bad, considering sauna-like conditions and even a short rain-shower!
+This time my result of **1:49:01** didn't beat the record, but it was just a minute more than the [previous run at De Haar](0320). Which is not bad, considering sauna-like conditions and even a short rain-shower!
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/we8r7srmubcu1120.jpg" "The author finishing." >}}
 

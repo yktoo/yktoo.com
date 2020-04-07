@@ -13,9 +13,9 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/hwfxnryhj6w1s0pevz0y.
 imageCredit: "Фото: LoboStudioHamburg/Pixabay."
 ---
 
-Главный редактор нидерландского новостного сайта {{< fl "NU.nl" >}} {{< fl "Gert-Jaap Hoekman" >}} {{< a "https://www.nu.nl/blog/6013492/redactieblog-waarom-nunl-stopt-met-factchecken-op-facebook.html" "пишет" >}} в своём редакторском блоге о прекращении работы по верификации новостей, публикуемых в {{< fl "Facebook" >}}.
+Главный редактор нидерландского новостного сайта {{< fl "NU.nl" >}} {{< fl "Gert-Jaap Hoekman" >}} [пишет](https://www.nu.nl/blog/6013492/redactieblog-waarom-nunl-stopt-met-factchecken-op-facebook.html) в своём редакторском блоге о прекращении работы по верификации новостей, публикуемых в {{< fl "Facebook" >}}.
 
-Издание {{< a "https://www.nu.nl/nucheckt/5660663/nunl-nepnieuws-beoordeelt.html" "сотрудничало" >}} с {{< fl "Facebook" >}} на протяжении двух с половиной лет.
+Издание [сотрудничало](https://www.nu.nl/nucheckt/5660663/nunl-nepnieuws-beoordeelt.html) с {{< fl "Facebook" >}} на протяжении двух с половиной лет.
 
 <!--more-->
 
@@ -23,11 +23,11 @@ imageCredit: "Фото: LoboStudioHamburg/Pixabay."
 
 ## Запрет на проверку политиков
 
-Основным яблоком раздора явился наложенный Фейсбуком запрет на верификацию политиков и политических партий. Ник Клегг, вице-президент {{< fl "Facebook" >}} по связям с общественностью недавно {{< a "https://about.fb.com/news/2019/09/elections-and-political-speech/" "заявил" >}}, что «свобода слова для политиков является ключевым демократическим принципом», поэтому соцсеть исключает политиков из программы факт-чекинга.
+Основным яблоком раздора явился наложенный Фейсбуком запрет на верификацию политиков и политических партий. Ник Клегг, вице-президент {{< fl "Facebook" >}} по связям с общественностью недавно [заявил](https://about.fb.com/news/2019/09/elections-and-political-speech/), что «свобода слова для политиков является ключевым демократическим принципом», поэтому соцсеть исключает политиков из программы факт-чекинга.
 
 Иными словами, даже независимые проверки в отношении их сообщений не допускаются.
 
-Впервые претензии {{< fl "NU.nl" >}} были предъявлены в мае {{< year 2019 "этого" >}} года в связи с опубликованным изданием {{< a "https://www.nu.nl/nucheckt/5881020/nucheckt-onbewezen-dat-overname-akkerland-voedselzekerheid-bedreigt.html" "опровержением" >}} утверждений {{< fl "Esther de Lange" >}}, членом партии {{< fl "CDA" >}}. Представитель социальной сети позвонил тогда г-ну Хукману, осудив публикацию.
+Впервые претензии {{< fl "NU.nl" >}} были предъявлены в мае {{< year 2019 "этого" >}} года в связи с опубликованным изданием [опровержением](https://www.nu.nl/nucheckt/5881020/nucheckt-onbewezen-dat-overname-akkerland-voedselzekerheid-bedreigt.html) утверждений {{< fl "Esther de Lange" >}}, членом партии {{< fl "CDA" >}}. Представитель социальной сети позвонил тогда г-ну Хукману, осудив публикацию.
 
 Впоследствии компания так и не прислушалась к критике запрета на подобный факт-чекинг.
 
@@ -39,6 +39,6 @@ imageCredit: "Фото: LoboStudioHamburg/Pixabay."
 
 ## В Нидерландах это не проблема
 
-Ну и, наконец, результаты двух с половиной лет работы с {{< fl "Facebook" >}} позволяют утверждать, что фейковые новости {{< a "https://www.nu.nl/internet/5280452/politiek-nepnieuws-heeft-nog-weinig-effect-in-nederland.html" "не являются" >}} заметной проблемой в Нидерландах.
+Ну и, наконец, результаты двух с половиной лет работы с {{< fl "Facebook" >}} позволяют утверждать, что фейковые новости [не являются](https://www.nu.nl/internet/5280452/politiek-nepnieuws-heeft-nog-weinig-effect-in-nederland.html) заметной проблемой в Нидерландах.
 
 Всё это в сумме и привело к решению {{< fl "NU.nl" >}} выйти из программы факт-чекинга.

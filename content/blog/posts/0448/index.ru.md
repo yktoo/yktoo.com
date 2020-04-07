@@ -13,7 +13,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/eejfvkkhhkui8j0u60fq.
 imageCredit: "Фото: sipa/Pixabay."
 ---
 
-В {{< yearp 2018 "прошлом" >}} году в Нидерландах впервые было {{< a "https://nos.nl/artikel/2273924-elektrische-fietsen-nu-het-populairst-in-de-winkel.html" "продано" >}} больше электровелосипедов, чем обычных — продажи сравнительно дорогих электрических транспортных средств выросли на **40%**.
+В {{< yearp 2018 "прошлом" >}} году в Нидерландах впервые было [продано](https://nos.nl/artikel/2273924-elektrische-fietsen-nu-het-populairst-in-de-winkel.html) больше электровелосипедов, чем обычных — продажи сравнительно дорогих электрических транспортных средств выросли на **40%**.
 
 <!--more-->
 
@@ -25,8 +25,8 @@ imageCredit: "Фото: sipa/Pixabay."
 
 Электровелосипеды в Нидерландии подразделяются на две категории:
 
-* «Простые», не требующие прав и номерного знака — максимальная скорость, при которой работает электрический привод, {{< a "https://www.rijksoverheid.nl/onderwerpen/fiets/vraag-en-antwoord/welke-regels-gelden-voor-mijn-elektrische-fiets-e-bike" "ограничена" >}} **25 км/ч**, а мощность электромотора не должна превышать **250 Вт**.
-* {{< fl "Speed pedelec" >}}, приравниваемый правилами к мопеду, {{< a "https://www.rijksoverheid.nl/onderwerpen/bijzondere-voertuigen/vraag-en-antwoord/welke-regels-gelden-voor-speed-pedelec" "может" >}} развивать скорость до **45 км/ч**. Для него обязательны номерной знак, боковое зеркало на руле и шлем.
+* «Простые», не требующие прав и номерного знака — максимальная скорость, при которой работает электрический привод, [ограничена](https://www.rijksoverheid.nl/onderwerpen/fiets/vraag-en-antwoord/welke-regels-gelden-voor-mijn-elektrische-fiets-e-bike) **25 км/ч**, а мощность электромотора не должна превышать **250 Вт**.
+* {{< fl "Speed pedelec" >}}, приравниваемый правилами к мопеду, [может](https://www.rijksoverheid.nl/onderwerpen/bijzondere-voertuigen/vraag-en-antwoord/welke-regels-gelden-voor-speed-pedelec) развивать скорость до **45 км/ч**. Для него обязательны номерной знак, боковое зеркало на руле и шлем.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/koph07cfpakzjoclhw6r.jpg" "Speed pedelec. Фото: Bart van Vliet." >}}
 
@@ -34,7 +34,7 @@ imageCredit: "Фото: sipa/Pixabay."
 
 Электровелосипеды — довольно дорогие устройства, средняя их стоимость составляет около полутора тысяч евро, хотя цены на самые дешёвые модели начинаются от **€ 700**.
 
-В последние годы также стало возможным взять {{< fl "e-bike" >}} в лизинг — такую схему предлагает, например, {{< a "https://www.anwb.nl/fiets/fietslease/anwb-fiets-lease" "ANWB" >}}. В таком варианте вы получаете новый велосипед со страховкой и прочим сервисом за ежемесячную плату от **€ 65** в месяц.
+В последние годы также стало возможным взять {{< fl "e-bike" >}} в лизинг — такую схему предлагает, например, [ANWB](https://www.anwb.nl/fiets/fietslease/anwb-fiets-lease). В таком варианте вы получаете новый велосипед со страховкой и прочим сервисом за ежемесячную плату от **€ 65** в месяц.
 
 ## Велострана
 

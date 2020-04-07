@@ -19,13 +19,13 @@ At the moment the following four scripts are available:
 <!--more-->
 
 * `generate-wallpaper-xml`\
-    {{< a "0168" "Creates an XML" >}} wallpaper file with a slide show.
+    [Creates an XML](0168) wallpaper file with a slide show.
 
 * `picasa-upload`\
-    {{< a "0110" "Advanced picture uploader" >}} for Google Picasa, capable of watermarking images.
+    [Advanced picture uploader](0110) for Google Picasa, capable of watermarking images.
 
 * `rotate-wallpaper`\
-    {{< a "0122" "A simple script" >}} that sets a random image as current wallpaper.
+    [A simple script](0122) that sets a random image as current wallpaper.
 
 * `update-exif-date`\
     Updates EXIF date in JPEG images according to the file name.

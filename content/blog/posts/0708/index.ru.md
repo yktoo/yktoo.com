@@ -13,7 +13,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/v1585583247/blog/kjblu8b3u
 imageCredit: "Фото: Groninger Museum."
 ---
 
-В ночь с **29** на **30** марта из музея {{< fl "Singer" >}} в нидерландском Ларене ({{< fl "Laren" >}}), закрытом по случаю {{< a "0692" "карантинных мер" >}}, была [украдена](https://nos.nl/artikel/2328830-werk-van-vincent-van-gogh-gestolen-uit-museum-singer-laren.html) картина Ван Гога {{< fl "Lentetuin, de pastorietuin te Nuenen in het voorjaar" >}}, созданная художником в **1884** году.
+В ночь с **29** на **30** марта из музея {{< fl "Singer" >}} в нидерландском Ларене ({{< fl "Laren" >}}), закрытом по случаю [карантинных мер](0692), была [украдена](https://nos.nl/artikel/2328830-werk-van-vincent-van-gogh-gestolen-uit-museum-singer-laren.html) картина Ван Гога {{< fl "Lentetuin, de pastorietuin te Nuenen in het voorjaar" >}}, созданная художником в **1884** году.
 
 <!--more-->
 

@@ -11,9 +11,9 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/zx64dnajocqaytq7j3a1.
 imageCredit: "Фото: Preis_King/Pixabay ."
 ---
 
-Как уже {{< a "0459" "было известно" >}}, американский онлайн-ритейлер {{< fl "Amazon" >}} {{< a "https://www.trouw.nl/economie/amazon-nl-komt-en-dat-is-slecht-nieuws-voor-de-roerige-nederlandse-retail~b69c74b5/" "собирается" >}} обрушиться всей своей мощью на нидерландский рынок Интернет-торговли.
+Как уже [было известно](0459), американский онлайн-ритейлер {{< fl "Amazon" >}} [собирается](https://www.trouw.nl/economie/amazon-nl-komt-en-dat-is-slecht-nieuws-voor-de-roerige-nederlandse-retail~b69c74b5/) обрушиться всей своей мощью на нидерландский рынок Интернет-торговли.
 
-На {{< a "https://www.amazon.nl/" "amazon.nl" >}} по-прежнему предлагаются лишь электронные книги, но это скоро изменится. Вчера {{< a "https://tamebay.com/2020/01/amazon-netherlands-marketplace-opens-for-merchants-to-register-their-businesses.html" "стало" >}} известно, что {{< fl "Amazon" >}} открыл {{< a "https://services.amazon.nl/" "регистрацию" >}} в своей платформе для продавцов.
+На [amazon.nl](https://www.amazon.nl/) по-прежнему предлагаются лишь электронные книги, но это скоро изменится. Вчера [стало](https://tamebay.com/2020/01/amazon-netherlands-marketplace-opens-for-merchants-to-register-their-businesses.html) известно, что {{< fl "Amazon" >}} открыл [регистрацию](https://services.amazon.nl/) в своей платформе для продавцов.
 
 <!--more-->
 

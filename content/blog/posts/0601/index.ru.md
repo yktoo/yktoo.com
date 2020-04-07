@@ -15,11 +15,11 @@ imageCredit: "Фото: Free-Photos/Pixabay."
 
 > На самом деле ураган называется **Киара**. Когда я писал новость, то посмотрел на перевод имени {{< wiki "Сиара" "ru" "одноимённой певицы" >}} — *ДК*.
 
-В предстоящее воскресенье **9** февраля до Нидерландов {{< a "https://www.omroepwest.nl/nieuws/3994493/Storm-Ciara-trekt-zondag-over-regio-Windstoten-tot-120-kilometer-per-uur-mogelijk" "доберётся" >}} ураган Киара ({{< fl "Ciara" >}}).
+В предстоящее воскресенье **9** февраля до Нидерландов [доберётся](https://www.omroepwest.nl/nieuws/3994493/Storm-Ciara-trekt-zondag-over-regio-Windstoten-tot-120-kilometer-per-uur-mogelijk) ураган Киара ({{< fl "Ciara" >}}).
 
 Ураган начал своё шествие сегодня от канадского побережья, через Атлантический океан и Шотландию, перемещаяcь под воздействием сильных {{< wiki "Высотное_струйное_течение" "ru" "струйных потоков воздуха" >}}, скорость которых может достигать **400 км/ч**.
 
-Метеорологи {{< a "https://www.weerplaza.nl/weerinhetnieuws/weekend:-zondag-ronduit-onstuimig/5921/" "ожидают" >}}, что Киара доберётся до Нидерландов в воскресенье днём.
+Метеорологи [ожидают](https://www.weerplaza.nl/weerinhetnieuws/weekend:-zondag-ronduit-onstuimig/5921/), что Киара доберётся до Нидерландов в воскресенье днём.
 
 <!--more-->
 
@@ -37,7 +37,7 @@ imageCredit: "Фото: Free-Photos/Pixabay."
 
 Имена штормам и ураганам выдаются метеослужбой лишь с декабря {{< yearp 2019 "прошлого" >}} года — ~~во-первых, это красиво~~  это облегчает взаимодествие со службами в других странах. Их названия согласовываются с {{< fl "Met Office" >}} в Великобритании и ирландской {{< fl "Met Éireann" >}}.
 
-Так, ураган **6-9** декабря {{< a "https://www.express.co.uk/news/weather/1238382/uk-storm-names-2020-list-Met-Office-weather-forecast-storm-ciara-latest" "получил" >}} название {{< fl "Atiyah" >}}, а следующий, случившийся **11-14** января, назвали {{< fl "Brendan" >}}.
+Так, ураган **6-9** декабря [получил](https://www.express.co.uk/news/weather/1238382/uk-storm-names-2020-list-Met-Office-weather-forecast-storm-ciara-latest) название {{< fl "Atiyah" >}}, а следующий, случившийся **11-14** января, назвали {{< fl "Brendan" >}}.
 
 Таким образом, следующий за Киарой должен будет называться на **{{< fl "D" >}}**. Я хотел было предложить назвать его в честь себя, но потом представил себе сообщение в новостях:
 

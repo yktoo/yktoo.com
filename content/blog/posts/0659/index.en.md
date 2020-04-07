@@ -13,19 +13,19 @@ imageCredit: "Photo by 4Front/Facebook."
 series: music
 ---
 
-Gee it's Friday again! The fifteenth edition of {{< a "/series/music" "Musicellaneous" >}} continues to introduce you to *progressive* bands having a **4** in their name.
+Gee it's Friday again! The fifteenth edition of [Musicellaneous](/series/music) continues to introduce you to *progressive* bands having a **4** in their name.
 
 This time I'm going to pull the American instrumental-progressve-jazz band **4Front** out of my music treasure chest.
 
-This project is as little known as it is fascinating. You will hardly find any information about it on the Internet, save for the band's {{< a "https://www.facebook.com/4frontband/" "Facebook page" >}}.
+This project is as little known as it is fascinating. You will hardly find any information about it on the Internet, save for the band's [Facebook page](https://www.facebook.com/4frontband/).
 
 <!--more-->
 
 ## Music
 
-Just like {{< a "0602" "Ostura" >}} the band describes their music as "cinematic."
+Just like [Ostura](0602) the band describes their music as "cinematic."
 
-They mention *Rush*, *Dream Theater*, *Kansas*, *Porcupine Tree*, *Symphony X*, *The Dixie Dregs*, and *Genesis* as their influences, but to my taste they're the most close to our previous exhibit {{< a "0644" "7for4" >}}, maybe with more melodic and bluesy lines.
+They mention *Rush*, *Dream Theater*, *Kansas*, *Porcupine Tree*, *Symphony X*, *The Dixie Dregs*, and *Genesis* as their influences, but to my taste they're the most close to our previous exhibit [7for4](0644), maybe with more melodic and bluesy lines.
 
 {{< youtube "7yuJ6cK7nRg" >}}
 

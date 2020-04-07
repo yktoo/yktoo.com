@@ -13,7 +13,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/rdnfe8cd2syofgfsi4zw.
 imageCredit: "Фото: Katja Fissel/Pixabay ."
 ---
 
-**15** марта нидерландское правительство {{< a "0677" "обязало" >}} все детские сады закрыться для детей, чьи родители не работают в [критичных отраслях](https://www.rijksoverheid.nl/onderwerpen/coronavirus-covid-19/veelgestelde-vragen-over-coronavirus-en-kinderopvang/cruciale-beroepen), таких как полиция и здравоохранение.
+**15** марта нидерландское правительство [обязало](0677) все детские сады закрыться для детей, чьи родители не работают в [критичных отраслях](https://www.rijksoverheid.nl/onderwerpen/coronavirus-covid-19/veelgestelde-vragen-over-coronavirus-en-kinderopvang/cruciale-beroepen), таких как полиция и здравоохранение.
 
 Сегодня было [объявлено](https://nos.nl/artikel/2327783-ouders-krijgen-kosten-kinderopvang-terug-vanwege-coronacrisis.html), что родителям вернут плату — а детсады в Нидерландах очень недешёвые — за всё время, что дети не могли их посещать из-за коронавируса.
 

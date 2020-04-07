@@ -11,7 +11,7 @@ aliases:
     - /en/blog/post/220
 ---
 
-A while ago I've added a new section to my website, {{< a "/blog/map" "Blog Map" >}}, which shows all places I ever blogged about. You can view related posts by clicking a place marker:
+A while ago I've added a new section to my website, [Blog Map](/blog/map), which shows all places I ever blogged about. You can view related posts by clicking a place marker:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/emyruiomh9sf1183.png" >}}
 

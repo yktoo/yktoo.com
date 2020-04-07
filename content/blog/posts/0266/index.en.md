@@ -24,9 +24,9 @@ aliases:
     - /en/blog/post/266
 ---
 
-The year is coming to an end again, with so much left to run. I can't repeat my {{< a "0209" "2013's record" >}} of 800 km this year—in 2015 I've only run some **600 km**. Not because I'm lazy, but due to being more active in aikido.
+The year is coming to an end again, with so much left to run. I can't repeat my [2013's record](0209) of 800 km this year—in 2015 I've only run some **600 km**. Not because I'm lazy, but due to being more active in aikido.
 
-Houten's {{< a "0222" "\"bike avenues\"" >}} are great to run on, also because there are not so many bikes using them at the time when I'm running, that is in the evening and during the weekend.
+Houten's ["bike avenues"](0222) are great to run on, also because there are not so many bikes using them at the time when I'm running, that is in the evening and during the weekend.
 
 <!--more-->
 
@@ -66,7 +66,7 @@ So far I've taken part in two of such events.
 
 Since almost everyone is running in Holland, there's a high demand for new (half) marathons. One of these new was [De Halve van de Haar](http://www.dehalvevandehaar.nl/) ("The Half of De Haar"). I took part in its very first occurrence on April 6, 2015.
 
-A special thing about it, as the name suggests, is that it's held in the park of the {{< wiki "Kasteel_de_Haar" "en" "De Haar Castle" >}}, which I {{< a "0012" "visited" "ru" >}} back in my first days in the country.
+A special thing about it, as the name suggests, is that it's held in the park of the {{< wiki "Kasteel_de_Haar" "en" "De Haar Castle" >}}, which I [visited](ru;0012) back in my first days in the country.
 
 Every participant is given an individual number equipped with an RFID chip. This chip is read by special scanners at the start and finish. You can also write your personal data on the back side of the number, to be used in the case of emergency. The yellow stripes denote the quarter marathon distance of **10.5 km**.
 
@@ -238,7 +238,7 @@ Those who finished are giving pep-talk to the finishing runners:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xz345r88gyxe3556.jpg" "Marathon Amersfoort: finish line." >}}
 
-I've also recorded a {{< a "/videoevents/vevt0033" "few videos" >}} on that event.
+I've also recorded a [few videos](/videoevents/vevt0033) on that event.
 
 ---
 

@@ -26,9 +26,9 @@ The lucky thirteen has come to an end. One of my achievements in the last year w
 
 <!--more-->
 
-It was necessary because for eight days before that we've been relaxing in the Egyptian resort city Hurghada, one of Russians' favourites. It isn't all about swimming in the {{< a "0171" "ice cold water" >}}, after all!
+It was necessary because for eight days before that we've been relaxing in the Egyptian resort city Hurghada, one of Russians' favourites. It isn't all about swimming in the [ice cold water](0171), after all!
 
-I've never been to Egypt or even Africa before ({{< a "0148" "Gran Canaria" "ru" >}} doesn't count, even though it's close to Africa, European culture dominates there), and I must say, the impressions it makes are very diverse.
+I've never been to Egypt or even Africa before ([Gran Canaria](ru;0148) doesn't count, even though it's close to Africa, European culture dominates there), and I must say, the impressions it makes are very diverse.
 
 But first things first. Let's start off with the good stuff, the sea.
 
@@ -64,7 +64,7 @@ A lazy bird is contemplating the surface of the sea:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/b75quef2qfwb2886.jpg" >}}
 
-The water colours are magnificent, lively, in contrast with our North Sea's, {{< a "0079" "fulvous-blueish" >}}:
+The water colours are magnificent, lively, in contrast with our North Sea's, [fulvous-blueish](0079):
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/nbjw0e229whj0135.jpg" >}}
 
@@ -200,4 +200,4 @@ Even at our second stop the sun was already quite low, which made the reefs look
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/oq7l7kpno6s30229.jpg" >}}
 
-In the {{< a "0210" "next part" >}} we will move to the opposite side of Hurghada, into the desert.
+In the [next part](0210) we will move to the opposite side of Hurghada, into the desert.

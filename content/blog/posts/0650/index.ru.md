@@ -14,7 +14,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/duay9iflkwr6hbt2cg5a.
 imageCredit: "Фото: Monkeyboy1993/Wikimedia/CC-BY-SA-3.0."
 ---
 
-**16** марта {{< year 2020 "этого" >}} года в **6:00** утра {{< a "https://nos.nl/artikel/2325415-kosten-verlaging-maximumsnelheid-twee-keer-zo-hoog-als-gedacht.html" "вступит" >}} в силу запланированное {{< a "0463" "в ноябре" >}} снижение максимальной скорости на нидерландских дорогах.
+**16** марта {{< year 2020 "этого" >}} года в **6:00** утра [вступит](https://nos.nl/artikel/2325415-kosten-verlaging-maximumsnelheid-twee-keer-zo-hoog-als-gedacht.html) в силу запланированное [в ноябре](0463) снижение максимальной скорости на нидерландских дорогах.
 
 По оценке {{< fl "Rijkswaterstaat" >}} это обойдётся бюджету ни много ни мало в **€ 19 млн**, что более чем вдвое превышает названную им изначальную цифру — **7-8 млн** евро.
 
@@ -24,7 +24,7 @@ imageCredit: "Фото: Monkeyboy1993/Wikimedia/CC-BY-SA-3.0."
 
 ## 3000 км дорог
 
-По информации {{< a "https://www.telegraaf.nl/nieuws/723484955/monsterklus-voor-rws-op-4000-plekken-snelheid-aan-passen" "De Telegraaf" >}}, изменения требуются на **82%** трасс. Речь здесь примерно о **3000 км** дорог и **4000** дорожных знаков — над их заменой ежедневно работают **700-800** человек.
+По информации [De Telegraaf](https://www.telegraaf.nl/nieuws/723484955/monsterklus-voor-rws-op-4000-plekken-snelheid-aan-passen), изменения требуются на **82%** трасс. Речь здесь примерно о **3000 км** дорог и **4000** дорожных знаков — над их заменой ежедневно работают **700-800** человек.
 
 Во многих местах новые знаки уже установлены, но скрыты до вступления нового режима в силу. Последние из них должны быть установлены в выходные перед **16** марта.
 

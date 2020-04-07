@@ -13,7 +13,7 @@ imageCredit: "Фото: Philips."
 
 Уходит очередная эпоха.
 
-Нидерландский электронный гигант {{< fl "Philips" >}} {{< a "https://www.philips.com/a-w/about/news/archive/standard/news/press/2020/20200128-philips-to-review-options-for-its-domestic-appliances-business.html" "заявил" >}} сегодня, что «изучит возможности будущего владения» своим подразделением бытовой техники ({{< fl "Domestic Appliances" >}}).
+Нидерландский электронный гигант {{< fl "Philips" >}} [заявил](https://www.philips.com/a-w/about/news/archive/standard/news/press/2020/20200128-philips-to-review-options-for-its-domestic-appliances-business.html) сегодня, что «изучит возможности будущего владения» своим подразделением бытовой техники ({{< fl "Domestic Appliances" >}}).
 
 Выпуск бытовой техники не вписывается в будущую стратегию компании, планирующей сосредоточить свои усилия на разработке и выпуске медицинского оборудования.
 

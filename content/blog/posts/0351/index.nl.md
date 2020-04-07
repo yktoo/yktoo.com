@@ -33,10 +33,10 @@ Als je je geabonneerd hebt op updates via e-mail (uitgevoerd door Feedburner), h
 
 ## Waarom deze wijziging?
 
-Net zoals de website van {{< a "0346" "Yktoo Solutions" >}}, `yktoo.com` is opnieuw geïmplementeerd in de vorm van een statische website met [Hugo](https://gohugo.io/). Ik ben van plan om het migratieproces in meer technische details toe te lichten in latere post(s).
+Net zoals de website van [Yktoo Solutions](0346), `yktoo.com` is opnieuw geïmplementeerd in de vorm van een statische website met [Hugo](https://gohugo.io/). Ik ben van plan om het migratieproces in meer technische details toe te lichten in latere post(s).
 
 De voornaamste beweegreden was om zowel administratieve taken als het schrijven van nieuwe blogposts te vereenvoudigen. In de loop der jaren is het namelijk vrij tijdrovend geworden. De complexiteit van het runnen van een maatwerk PHP applicatie is deels verantwoordelijk voor het feit dat ik zo zelden post (en de tweede reden is dat ik waarschijnlijk te lui ben).
 
 Na deze wijziging verwacht ik dat nieuwe posts wel vaker gaan verschijnen.
 
-Dus kom maandag terug om de vernieuwde website versie zelf te beleven! En {{< a "/about/contact" "laat me s.v.p. weten" >}} als je een typfoutje ziet!
+Dus kom maandag terug om de vernieuwde website versie zelf te beleven! En [laat me s.v.p. weten](/about/contact) als je een typfoutje ziet!

@@ -20,9 +20,9 @@ aliases:
     - /en/blog/post/323
 ---
 
-We decided to dedicate the last day of our {{< a "0322" "Sophian journey" >}} to Plovdiv, going there in the morning and returning in the afternoon.
+We decided to dedicate the last day of our [Sophian journey](0322) to Plovdiv, going there in the morning and returning in the afternoon.
 
-This idea was suggested by Slavyan during the {{< a "0322#free-sofia-tour" "Free Sofia Tour" >}}. Plovdiv is easily reachable by bus departing from the Sofia Bus Station. The direct trip takes two hours and costs 14 leva (**€7**).
+This idea was suggested by Slavyan during the [Free Sofia Tour](0322#free-sofia-tour). Plovdiv is easily reachable by bus departing from the Sofia Bus Station. The direct trip takes two hours and costs 14 leva (**€7**).
 
 <!--more-->
 
@@ -52,7 +52,7 @@ These mannequins seemingly tend to run away:
 
 ## Fountains! {#fountains}
 
-Plovdiv loves fountains, just like {{< a "0322#fountains-flowers-lions" "Sofia" >}} does.
+Plovdiv loves fountains, just like [Sofia](0322#fountains-flowers-lions) does.
 
 This large pool is called the Singing Fountains:
 
@@ -68,7 +68,7 @@ Another impressive fountain is located in front of the City-Hall:
 
 ## Free Plovdiv Tour {#free-plovdiv-tour}
 
-We came to the centre with a specific goal in mind. We were told about a free guided tour similar to the {{< a "0322#free-sofia-tour" "Sofian one" >}}, which was called [Free Plovdiv Tour](http://www.freeplovdivtour.com/). Likewise it's also two hours long and is held twice to three times a day.
+We came to the centre with a specific goal in mind. We were told about a free guided tour similar to the [Sofian one](0322#free-sofia-tour), which was called [Free Plovdiv Tour](http://www.freeplovdivtour.com/). Likewise it's also two hours long and is held twice to three times a day.
 
 The tour starts at the above fountain, right in front of the City-Hall ({{< fl "Община" >}} in Bulgarian):
 
@@ -170,7 +170,7 @@ A crazy fact: bus lines departing from the Plovdiv Bus Station are run by a doze
 
 That's about all for my Bulgarian journey.
 
-To summarise my impressions, I really liked {{< a "0322" "Sofia" >}}: despite some remnants of the Soviet times it's beautiful, pretty affordable, and has friendly people and good beer. As for Plovdiv, one or two days should suffice. But who knows, maybe by 2019 it will flourish?
+To summarise my impressions, I really liked [Sofia](0322): despite some remnants of the Soviet times it's beautiful, pretty affordable, and has friendly people and good beer. As for Plovdiv, one or two days should suffice. But who knows, maybe by 2019 it will flourish?
 
 I also have an idea of snowboarding in the local mountains.
 

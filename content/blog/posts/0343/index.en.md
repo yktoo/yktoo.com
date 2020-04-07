@@ -15,7 +15,7 @@ aliases:
     - /en/blog/post/343
 ---
 
-It's time to fulfil my {{< a "0342" "promise" >}}, so please meet {{< a "/software/sound-switcher-indicator" "Sound Switcher Indicator" >}} version **2.2.0**.
+It's time to fulfil my [promise](0342), so please meet [Sound Switcher Indicator](/software/sound-switcher-indicator) version **2.2.0**.
 
 <!--more-->
 

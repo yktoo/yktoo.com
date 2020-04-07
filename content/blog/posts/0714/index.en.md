@@ -15,7 +15,7 @@ imageCredit: "Photo by D.F.A."
 series: music
 ---
 
-It's Friday people! The nineteenth edition of {{< a "/series/music" "Musicellaneous" >}} features an Italian jazz rock fusion extravaganza called **D.F.A.**, which unfortunately ceased to exist a while ago.
+It's Friday people! The nineteenth edition of [Musicellaneous](/series/music) features an Italian jazz rock fusion extravaganza called **D.F.A.**, which unfortunately ceased to exist a while ago.
 
 By the way, the abbreviation stands for "Duty Free Area".
 

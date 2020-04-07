@@ -15,7 +15,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/ksmlhvgziznmn2ig0jli.
 
 Времена и нравы меняются сильнее, чем нам кажется. Нидерланды, очевидно, не всегда были страной свободных взглядов и толерантности.
 
-Нарылась тут {{< a "https://www.reddit.com/r/HistoryPorn/comments/35ae7b/man_at_the_beach_fined_for_not_wearing/" "на Reddit" >}} фотография полицейского, штрафующего «неподобающе одетого мужчину» на пляже.
+Нарылась тут [на Reddit](https://www.reddit.com/r/HistoryPorn/comments/35ae7b/man_at_the_beach_fined_for_not_wearing/) фотография полицейского, штрафующего «неподобающе одетого мужчину» на пляже.
 
 <!--more-->
 

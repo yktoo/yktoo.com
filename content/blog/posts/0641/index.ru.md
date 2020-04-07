@@ -12,7 +12,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/vbawne5wuibpgwnw19jh.
 imageCredit: "Фото: Mylene2401/Pixabay."
 ---
 
-Нидерландский город Тилбург решил полностью {{< a "https://www.omroepbrabant.nl/nieuws/3162211/Ginkgo-s-stinken-naar-stront-vervanging-kost-Tilburg-anderhalve-ton" "избавиться" >}} от десятков деревьев гинкго билоба из-за специфического запаха их плодов.
+Нидерландский город Тилбург решил полностью [избавиться](https://www.omroepbrabant.nl/nieuws/3162211/Ginkgo-s-stinken-naar-stront-vervanging-kost-Tilburg-anderhalve-ton) от десятков деревьев гинкго билоба из-за специфического запаха их плодов.
 
 За последние годы **45** из них уже выкорчеваны, до конца года будут спилены ещё **14**. Общая стоимость процедуры составит примерно полтораста тысяч евро.
 
@@ -52,6 +52,6 @@ imageCredit: "Фото: Mylene2401/Pixabay."
 
 ## Валкенсвард
 
-В расположенном неподалёку муниципалитете Валкенсвард ({{< fl "Valkenswaard" >}}) аналогичная {{< a "https://nos.nl/artikel/2309447-overlast-in-valkenswaard-door-bomen-die-stinken-naar-poep.html" "проблема" >}}.
+В расположенном неподалёку муниципалитете Валкенсвард ({{< fl "Valkenswaard" >}}) аналогичная [проблема](https://nos.nl/artikel/2309447-overlast-in-valkenswaard-door-bomen-die-stinken-naar-poep.html).
 
 Там жильцы также хотели избавиться от **300** деревьев гинкго. В отличии от Тилбурга, хемента им отказала, сказав, что невозможно избавиться сразу от всех деревьев одного вида, даже если они причиняют неудобства.

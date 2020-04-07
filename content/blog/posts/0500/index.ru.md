@@ -19,7 +19,7 @@ series: business
 
 В этом юбилейном посте ({{< fl "ID=500" >}}) хочу коротко поведать, что год грядущий нам готовит.
 
-После {{< a "0388" "последнего Prinsjesdag" >}} многое уже известно, но есть и кое-какие новые сведения.
+После [последнего Prinsjesdag](0388) многое уже известно, но есть и кое-какие новые сведения.
 
 <!--more-->
 
@@ -27,15 +27,15 @@ series: business
 
 С начала {{< yearn 2020 "следующего" >}} года меняются установленные минимальные зарплаты.
 
-Для сотрудников от **21** года при полной занятости суммы {{< a "https://www.rijksoverheid.nl/onderwerpen/minimumloon/bedragen-minimumloon/bedragen-minimumloon-2020" "следующие" >}}:
+Для сотрудников от **21** года при полной занятости суммы [следующие](https://www.rijksoverheid.nl/onderwerpen/minimumloon/bedragen-minimumloon/bedragen-minimumloon-2020):
 
-* **€ 1 653,60** в месяц ({{< a "https://www.rijksoverheid.nl/onderwerpen/minimumloon/bedragen-minimumloon/bedragen-minimumloon-2019" "было" >}} € 1 635,60)
+* **€ 1 653,60** в месяц ([было](https://www.rijksoverheid.nl/onderwerpen/minimumloon/bedragen-minimumloon/bedragen-minimumloon-2019) € 1 635,60)
 * **€ 381,60** в неделю (было € 377,45)
 * **€ 76,32** в сутки (было € 75,49)
 
 ## Изменения в правилах трудоустройства
 
-С **1** января вступает в силу так называемый {{< a "https://www.rijksoverheid.nl/onderwerpen/arbeidsovereenkomst-en-cao/plannen-kabinet-voor-meer-balans-tussen-vast-werk-en-flexwerk" "Wet arbeidsmarkt in balans" >}} ({{< fl "WAB" >}}, буквально «закон о балансе на рынке труда»). Смысл его в том, чтобы мотивировать работодателя чаще давать сотрудникам постоянные контракты.
+С **1** января вступает в силу так называемый [Wet arbeidsmarkt in balans](https://www.rijksoverheid.nl/onderwerpen/arbeidsovereenkomst-en-cao/plannen-kabinet-voor-meer-balans-tussen-vast-werk-en-flexwerk) ({{< fl "WAB" >}}, буквально «закон о балансе на рынке труда»). Смысл его в том, чтобы мотивировать работодателя чаще давать сотрудникам постоянные контракты.
 
 Закон предусматривает следующее:
 
@@ -47,13 +47,13 @@ series: business
 
 ## Новый идентификационный номер
 
-Каждый индивидуальный предприниматель (официально называемый {{< fl "eenmanszaak" >}}, а в народе {{< fl "zzp'er" >}}) с **1** января {{< yearn 2020 "следующего" >}} года обязан использовать (публиковать на сайте, печатать на счёт-фактурах и т.п.) новый {{< a "0370" "идентификационный номер" >}}, получивший название {{< fl "btw-id" >}}.
+Каждый индивидуальный предприниматель (официально называемый {{< fl "eenmanszaak" >}}, а в народе {{< fl "zzp'er" >}}) с **1** января {{< yearn 2020 "следующего" >}} года обязан использовать (публиковать на сайте, печатать на счёт-фактурах и т.п.) новый [идентификационный номер](0370), получивший название {{< fl "btw-id" >}}.
 
-Я свой получил в октябре, с тех пор он и стоит на сайте {{< a "https://yktoo.solutions/#contact" "Yktoo Solutions" >}}.
+Я свой получил в октябре, с тех пор он и стоит на сайте [Yktoo Solutions](https://yktoo.solutions/#contact).
 
 ## Снижение НДС на цифровые издания
 
-С начала {{< yearn 2020 "следующего" >}} года {{< a "https://ondernemersplein.kvk.nl/invoering-laag-btw-tarief-voor-e-books/" "снизится" >}} тариф НДС на электронные книги, подписки на цифровые издания и т.п. с нынешних **21%** до **9%**, сравнявшись таким образом с НДС на обычную, бумажную литературу.
+С начала {{< yearn 2020 "следующего" >}} года [снизится](https://ondernemersplein.kvk.nl/invoering-laag-btw-tarief-voor-e-books/) тариф НДС на электронные книги, подписки на цифровые издания и т.п. с нынешних **21%** до **9%**, сравнявшись таким образом с НДС на обычную, бумажную литературу.
 
 ## Повышение налога на электромобили
 
@@ -63,21 +63,21 @@ series: business
 
 До сегодняшнего дня {{< fl "bijtelling" >}} составлял **4%** от *каталожной стоимости* в случае электромобиля (при его стоимости до **€ 50 000**) и **22%** для доли цены свыше 50К и всех остальных автомобилей.
 
-С **2020** года ставка для электромобилей {{< a "https://ondernemersplein.kvk.nl/fiscale-bijtelling-elektrische-auto-stijgt/" "вырастет" >}} вдвое: до **8%** для цены до **€ 45 000**; свыше этой суммы доля такая же, как и для обычных автомобилей: **22%**.
+С **2020** года ставка для электромобилей [вырастет](https://ondernemersplein.kvk.nl/fiscale-bijtelling-elektrische-auto-stijgt/) вдвое: до **8%** для цены до **€ 45 000**; свыше этой суммы доля такая же, как и для обычных автомобилей: **22%**.
 
 ## Налоговые льготы на компенсацию персоналу
 
 > Это изменение ещё пока не одобрено парламентом, поэтому дата вступления новых правил в силу пока неизвестна.
 
-В настоящий момент работодатель может компенсировать персоналу необлагаемую налогом сумму в размере до **1,2%** от *суммы зарплат всех сотрудников* ({{< fl "loonsom" >}}) — соответствующее правило называется {{< a "https://www.rijksoverheid.nl/onderwerpen/inkomstenbelasting/vraag-en-antwoord/werkkostenregeling-wkr" "werkkostenregeling" >}} ({{< fl "WKR" >}}, «возмещение рабочих расходов»). Эти деньги можно потратить на средства, от которых сотрудник извлекает и личную выгоду, — например, абонемент в спортзал, планшет или рождественский подарок.
+В настоящий момент работодатель может компенсировать персоналу необлагаемую налогом сумму в размере до **1,2%** от *суммы зарплат всех сотрудников* ({{< fl "loonsom" >}}) — соответствующее правило называется [werkkostenregeling](https://www.rijksoverheid.nl/onderwerpen/inkomstenbelasting/vraag-en-antwoord/werkkostenregeling-wkr) ({{< fl "WKR" >}}, «возмещение рабочих расходов»). Эти деньги можно потратить на средства, от которых сотрудник извлекает и личную выгоду, — например, абонемент в спортзал, планшет или рождественский подарок.
 
-В {{< yearn 2020 "следующем" >}} году эта цифра {{< a "https://ondernemersplein.kvk.nl/personeel-extra-belonen-door-ruimere-werkkostenregeling/" "вырастет" >}} до **1,7%** от первых **€ 400 000**, свыше этой суммы ставка составит прежние 1,2%.
+В {{< yearn 2020 "следующем" >}} году эта цифра [вырастет](https://ondernemersplein.kvk.nl/personeel-extra-belonen-door-ruimere-werkkostenregeling/) до **1,7%** от первых **€ 400 000**, свыше этой суммы ставка составит прежние 1,2%.
 
 Также разрешается давать сотрудникам скидку до **20%** на продукты самой компании, но не более **€ 500** на одного сотрудника в год.
 
 ## Новый налоговый режим для «малых предпринимателей»
 
-По новым {{< a "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/btw/hoe_werkt_de_btw/nieuwe-kleineondernemersregeling/" "правилам kleineondernemersregeling" >}} ({{< fl "KOR" >}}), вступающим также в силу с **1** января, если оборот не превышает **€ 20 000** в год, его можно не декларировать и не возвращать.
+По новым [правилам kleineondernemersregeling](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/btw/hoe_werkt_de_btw/nieuwe-kleineondernemersregeling/) ({{< fl "KOR" >}}), вступающим также в силу с **1** января, если оборот не превышает **€ 20 000** в год, его можно не декларировать и не возвращать.
 
 Правило применимо не только для {{< fl "eenmanszaak" >}}, но и для прочих организационно-правовых форм ({{< fl "BV" >}} и др.).
 
@@ -87,7 +87,7 @@ series: business
 
 Чтобы применять этот вычет, вы должны работать на свой бизнес не менее **1 225** часов в год.
 
-{{< fl "Zelfstandigenaftrek" >}} будет постепенно {{< a "https://www.kvk.nl/advies-en-informatie/prinsjesdag/zelfstandigenaftrek-in-9-jaar-fors-omlaag/" "уменьшаться" >}} с **€ 7 280** до **€ 5 000** по следующей схеме:
+{{< fl "Zelfstandigenaftrek" >}} будет постепенно [уменьшаться](https://www.kvk.nl/advies-en-informatie/prinsjesdag/zelfstandigenaftrek-in-9-jaar-fors-omlaag/) с **€ 7 280** до **€ 5 000** по следующей схеме:
 
 {{< spoiler "Посмотреть таблицу" >}}
 {{< table "table table-narrow table-striped" >}}
@@ -108,7 +108,7 @@ series: business
 
 В течение **9** лет вычет уменьшится на **€ 2 280**.
 
-Параллельно будет увеличиваться вычет для всех работающих (не только для предпринимателей) — {{< a "https://ondernemersplein.kvk.nl/extra-verhoging-arbeidskorting/" "arbeidskorting" >}}. К сожалению, {{< fl "arbeidskorting" >}} применим только к доходам от 10 до 98 тыс. евро в год.
+Параллельно будет увеличиваться вычет для всех работающих (не только для предпринимателей) — [arbeidskorting](https://ondernemersplein.kvk.nl/extra-verhoging-arbeidskorting/). К сожалению, {{< fl "arbeidskorting" >}} применим только к доходам от 10 до 98 тыс. евро в год.
 
 Суммарно это означает, что для предпринимателей с годовым доходом выше **€ 98 000** уменьшение чистой прибыли составит примерно 2280 × 49,5% = **€ 1 128**.
 
@@ -116,5 +116,5 @@ series: business
 
 ## Отмена возврата BPM при покупке такси
 
-Для таксопарков, приобретающих новые машины такси, возврата {{< fl "BPM" >}} ({{< fl "belasting op personenauto's en motorrijwielen" >}}) больше {{< a "https://ondernemersplein.kvk.nl/afschaffing-teruggave-bpm-voor-taxis/" "не будет" >}}. Эта мера призвана стимулировать таксопарки использовать более экологичные модели (электромобили и гибриды), ставка {{< fl "BPM" >}} на которые ниже.
+Для таксопарков, приобретающих новые машины такси, возврата {{< fl "BPM" >}} ({{< fl "belasting op personenauto's en motorrijwielen" >}}) больше [не будет](https://ondernemersplein.kvk.nl/afschaffing-teruggave-bpm-voor-taxis/). Эта мера призвана стимулировать таксопарки использовать более экологичные модели (электромобили и гибриды), ставка {{< fl "BPM" >}} на которые ниже.
 

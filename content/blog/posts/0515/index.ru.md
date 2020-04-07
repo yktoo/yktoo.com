@@ -18,7 +18,7 @@ imageCredit: "Фото: Ich wünsche allen eine gesegnete Weihnachtszeit/Pixabay
 
 С каждым годом климат на планете становится всё теплее. Завтра, **22** декабря, в Северном полушарии официально начинается зима, которая продлится по **20** марта.
 
-Однако нынешняя погода скорее соответствует весенней, и это {{< a "https://nos.nl/artikel/2315704-met-kerst-geen-sneeuw-maar-pollen-in-de-lucht.html" "сбивает" >}} с толку даже природу.
+Однако нынешняя погода скорее соответствует весенней, и это [сбивает](https://nos.nl/artikel/2315704-met-kerst-geen-sneeuw-maar-pollen-in-de-lucht.html) с толку даже природу.
 
 <!--more-->
 

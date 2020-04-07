@@ -14,7 +14,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/dhrpwym3lgiez7xwgy2a.
 imageCredit: "Фото: ProRail."
 ---
 
-Сегодня рано утром в рельсе неподалёку от города Гелдермалсен ({{< fl "Geldermalsen" >}}) в ходе рутинной проверки была обнаружена серьёзная трещина, {{< a "https://www.prorail.nl/nieuws/kapotte-spoorstaaf-geldermalsen" "сообщает" >}} голландский железнодорожный оператор {{< fl "ProRail" >}}.
+Сегодня рано утром в рельсе неподалёку от города Гелдермалсен ({{< fl "Geldermalsen" >}}) в ходе рутинной проверки была обнаружена серьёзная трещина, [сообщает](https://www.prorail.nl/nieuws/kapotte-spoorstaaf-geldermalsen) голландский железнодорожный оператор {{< fl "ProRail" >}}.
 
 <!--more-->
 

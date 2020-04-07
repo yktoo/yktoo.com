@@ -12,15 +12,15 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/album/wysttbxecrqswh1
 series: music
 ---
 
-Suddenly I got a whim to start a {{< a "/series/music" "section about music" >}}, which could inform the dear reader about music pearls I discovered. I'd love to subscribe to something like that myself so that I could learn about new (or even forgotten old) talents. There are lots of them out there, but quite often they're not widely known.
+Suddenly I got a whim to start a [section about music](/series/music), which could inform the dear reader about music pearls I discovered. I'd love to subscribe to something like that myself so that I could learn about new (or even forgotten old) talents. There are lots of them out there, but quite often they're not widely known.
 
 The choice of exhibits for **Musicellaneous** will be at my sole discretion, based on factors like how my left little toe feels, weather on Io and Donald Trump's statements.
 
-And the first card in our card index will be the American progressive/djent band {{< a "https://www.archecho.com/" "Arch Echo" >}}.
+And the first card in our card index will be the American progressive/djent band [Arch Echo](https://www.archecho.com/).
 
 <!--more-->
 
-I was lucky to have {{< a "/videoevents/vevt0048" "seen" >}} them playing live in 2018, when they were supporting Plini.
+I was lucky to have [seen](/videoevents/vevt0048) them playing live in 2018, when they were supporting Plini.
 
 ## Line-up
 

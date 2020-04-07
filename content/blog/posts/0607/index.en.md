@@ -13,7 +13,7 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/v88b3iimmleulip3p5dk.jpg"
 ---
 
-About a month ago we've bought a peculiar gadget, the pocket thermal printer {{< a "http://ali.pub/4gpuv0" "PeriPage A6" >}}.
+About a month ago we've bought a peculiar gadget, the pocket thermal printer [PeriPage A6](http://ali.pub/4gpuv0).
 
 Quite a bit of thermal paper has been spent since so I think I can share my experiences about the device.
 
@@ -92,17 +92,17 @@ It's also quite quick, the printing speed is about a centimetre per second. Here
 
 ## Applications
 
-It's the easiest to print out labels and graphics using a mobile app. The manufacturer provides one for {{< a "https://play.google.com/store/apps/details?id=com.ailide.apartmentsabc" "Android" >}} and {{< a "https://apps.apple.com/nl/app/%E7%88%B1%E7%AB%8B%E7%86%8A/id1354877113" "iOS" >}} (more on that below).
+It's the easiest to print out labels and graphics using a mobile app. The manufacturer provides one for [Android](https://play.google.com/store/apps/details?id=com.ailide.apartmentsabc) and [iOS](https://apps.apple.com/nl/app/%E7%88%B1%E7%AB%8B%E7%86%8A/id1354877113) (more on that below).
 
 You can also connect it to a PC, but only a Windows driver is available.
 
-Once connected to a Linux PC, it gets properly detected and identified by the system, but no drivers can be found (yet). I'm quite certain it can be set up on Linux too after a bit of fiddling with PPDs (like {{< a "http://www.openprinting.org/driver/sipixa6.upp" "this one" >}}), but I can't say it's that important to me.
+Once connected to a Linux PC, it gets properly detected and identified by the system, but no drivers can be found (yet). I'm quite certain it can be set up on Linux too after a bit of fiddling with PPDs (like [this one](http://www.openprinting.org/driver/sipixa6.upp)), but I can't say it's that important to me.
 
 ## Expendables
 
-You can find lots of {{< a "http://ali.pub/4gq5xf" "thermal paper options" >}} on AliExpress, like plain white, coloured, sticker rolls etc.
+You can find lots of [thermal paper options](http://ali.pub/4gq5xf) on AliExpress, like plain white, coloured, sticker rolls etc.
 
-One roll is some **5.5 m** (**18 ft**) long and **57 mm** (**2.24"**) wide. The {{< a "http://ali.pub/4gq5xf" "price" >}} is about **€ 10** for a six-pack.
+One roll is some **5.5 m** (**18 ft**) long and **57 mm** (**2.24"**) wide. The [price](http://ali.pub/4gq5xf) is about **€ 10** for a six-pack.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/kydluzvmxzqn1i3yonmp.jpg" "Thermal sticker rolls." >}}
 
@@ -142,5 +142,5 @@ After having used the printer for a month I can conclude it's a pretty handy and
 
 ## Where to buy
 
-**PeriPage A6** can be bought {{< a "http://ali.pub/4gpuv0" "on AliExpress" >}} for about **€ 29** (or **€ 37** with six thermal paper rolls).
+**PeriPage A6** can be bought [on AliExpress](http://ali.pub/4gpuv0) for about **€ 29** (or **€ 37** with six thermal paper rolls).
 

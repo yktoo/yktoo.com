@@ -27,7 +27,7 @@ aliases:
 
 It's been a while since my last gig report, time to catch up with the latest developments in the Dutch rock world. I've a perfect occasion as I've seen two live rock legends.
 
-The project called {{< wiki "The_Gentle_Storm" "en" "The Gentle Storm" >}}, which is just one year old, were presenting their debut album **The Diary** in the Amsterdam club [Melkweg](http://www.melkweg.nl/) (I've {{< a "0136" "seen" "ru" >}} Pagan's Mind there before).
+The project called {{< wiki "The_Gentle_Storm" "en" "The Gentle Storm" >}}, which is just one year old, were presenting their debut album **The Diary** in the Amsterdam club [Melkweg](http://www.melkweg.nl/) (I've [seen](ru;0136) Pagan's Mind there before).
 
 <!--more-->
 
@@ -57,7 +57,7 @@ Eric Hazebroek, hidden under his hair as usual, played a funny stump of a (seven
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/issquk2nby7u1401.jpg" "Eric Hazebroek" >}}
 
-I've recorded quite some footage, as always, but my {{< a "0170" "expensive external mike" "ru" >}} has failed. Apparently, the camera lost contact with it and fell back to the internal one. The outcome was appalling, everything but the "unplugged" songs has been severely clipped. Which is a great pity, but at least now I'm aware of it.
+I've recorded quite some footage, as always, but my [expensive external mike](ru;0170) has failed. Apparently, the camera lost contact with it and fell back to the internal one. The outcome was appalling, everything but the "unplugged" songs has been severely clipped. Which is a great pity, but at least now I'm aware of it.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/c5vf0uhhcvwo0555.jpg" "Marcela Bovio." >}}
 
@@ -191,4 +191,4 @@ He had to sink quite a bit to get level with the rest of the crew.
 
 The gig was a clear success! It took we a good while to leave the club, as it was really crowded. And the club, obviously, not that big either.
 
-You can watch all the videos on the {{< a "/videoevents/vevt0029" "event page" >}}.
+You can watch all the videos on the [event page](/videoevents/vevt0029).

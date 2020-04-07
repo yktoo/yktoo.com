@@ -19,7 +19,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/iwd5rjirncbkgo5iii3h.
 imageCredit: "Фото: Maurice/Flickr/CC-BY-NC-SA-2.0."
 ---
 
-Организатор национального «новогоднего ныряния» {{< fl "Nieuwjaarsduik" >}} компания {{< fl "Unox" >}} {{< a "https://www.nieuwjaarsduik.info/" "сообщает" >}} о **50 000** принявших участие в этом весёлом мероприятии ({{< fl "De Telegraaf" >}} {{< a "https://www.telegraaf.nl/nieuws/984649991/60-000-mensen-deden-mee-met-de-nieuwjaarsduik" "указывает" >}} цифру в **60 000**).
+Организатор национального «новогоднего ныряния» {{< fl "Nieuwjaarsduik" >}} компания {{< fl "Unox" >}} [сообщает](https://www.nieuwjaarsduik.info/) о **50 000** принявших участие в этом весёлом мероприятии ({{< fl "De Telegraaf" >}} [указывает](https://www.telegraaf.nl/nieuws/984649991/60-000-mensen-deden-mee-met-de-nieuwjaarsduik) цифру в **60 000**).
 
 {{< fl "Nieuwjaarsduik" >}} традиционно проводится **1** января. В {{< year 2020 "этом" >}} году ныряние было организовано в **127** местах в Нидерландах, а также в **22** точках в других странах (Антильские острова, Южная Америка, Дальний Восток).
 
@@ -41,7 +41,7 @@ imageCredit: "Фото: Maurice/Flickr/CC-BY-NC-SA-2.0."
 
 ## Голое ныряние
 
-Для эстетов был также доступен вариант забега в воду {{< a "https://www.natuurlijknfn.nl/blote-nieuwjaarsduik/" "голышом" >}}, хотя такой массовости здесь по понятным причинам не наблюдалось.
+Для эстетов был также доступен вариант забега в воду [голышом](https://www.natuurlijknfn.nl/blote-nieuwjaarsduik/), хотя такой массовости здесь по понятным причинам не наблюдалось.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/mb2shdm00dhhbpoflwb8.jpg" "Фото Natuurlijk NFN/Facebook." >}}
 

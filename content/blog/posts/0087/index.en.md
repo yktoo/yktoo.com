@@ -58,4 +58,4 @@ In other words, it's the cutting edge of German hi-tech.
 
 Meanwhile, we've arrived at Budapest…
 
-Next: {{< a "0088" "Part 6. Budapest" >}}
+Next: [Part 6. Budapest](0088)

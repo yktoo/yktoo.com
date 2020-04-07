@@ -14,7 +14,7 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/qi9gtccxvwh93xw3l9p0.png"
 ---
 
-Прилетела недавно {{< a "https://kb.netgear.com/000061539/SRS60-Firmware-Version-2-5-0-108" "прошивка версии 2.5.0.108" >}} для моего {{< fl "mesh" >}}-роутера {{< fl "Netgear Orbi Pro SRK60" >}} (см. {{< a "0401" "мой обзор" >}} этого роутера).
+Прилетела недавно [прошивка версии 2.5.0.108](https://kb.netgear.com/000061539/SRS60-Firmware-Version-2-5-0-108) для моего {{< fl "mesh" >}}-роутера {{< fl "Netgear Orbi Pro SRK60" >}} (см. [мой обзор](0401) этого роутера).
 
 Среди нововведений:
 

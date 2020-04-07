@@ -13,11 +13,11 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/o4f5471wtps81491.jpg"
 imageCredit: "Фото: Sarah Louise Kinsella/Unsplash."
 ---
 
-Нидерландский центр мониторинга онкологических заболеваний {{< fl "IKNL" >}} {{< a "https://www.iknl.nl/over-iknl/nieuws/nieuws-detail/2019/10/29/steeds-vaker-huidkanker-nationaal-plan-nodig" "отмечает" >}} существенный рост заболеваемости раком кожи.
+Нидерландский центр мониторинга онкологических заболеваний {{< fl "IKNL" >}} [отмечает](https://www.iknl.nl/over-iknl/nieuws/nieuws-detail/2019/10/29/steeds-vaker-huidkanker-nationaal-plan-nodig) существенный рост заболеваемости раком кожи.
 
 <!--more-->
 
-Об этом свидетельствуют цифры в отчёте ({{< a "https://www.iknl.nl/docs/default-source/PDF_Docs/iknl_huidkanker-in-nl_rapport_nkr.pdf?sfvrsn=2" "PDF" >}}), основанном на комплексном исследовании данных, предоставляемых больницами, коммерческими клиниками и домашними врачами с **2016** года.
+Об этом свидетельствуют цифры в отчёте ([PDF](https://www.iknl.nl/docs/default-source/PDF_Docs/iknl_huidkanker-in-nl_rapport_nkr.pdf?sfvrsn=2)), основанном на комплексном исследовании данных, предоставляемых больницами, коммерческими клиниками и домашними врачами с **2016** года.
 
 ## Формы рака кожи
 

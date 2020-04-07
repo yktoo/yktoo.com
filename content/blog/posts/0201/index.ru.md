@@ -20,11 +20,11 @@ aliases:
     - /ru/blog/post/201
 ---
 
-Приложение-индикатор для Убунту по имени {{< a "/software/sound-switcher-indicator" "Sound Switcher Indicator" >}} (об истории появления коего на свет я {{< a "0178" "писал" >}}) обновился до версии **1.1.1**. Функциональности в этом релизе не добавлено никакой, но предыдущая версия отказывалась запускаться в Ubuntu 13.10 (Saucy Salamander) из-за [бага](https://bugs.launchpad.net/glipper/+bug/1203888) в `libdbusmenu`.
+Приложение-индикатор для Убунту по имени [Sound Switcher Indicator](/software/sound-switcher-indicator) (об истории появления коего на свет я [писал](0178)) обновился до версии **1.1.1**. Функциональности в этом релизе не добавлено никакой, но предыдущая версия отказывалась запускаться в Ubuntu 13.10 (Saucy Salamander) из-за [бага](https://bugs.launchpad.net/glipper/+bug/1203888) в `libdbusmenu`.
 
 <!--more-->
 
-Новая версия построена на GTK+ 3 и новомодном GObject Introspection (GIRepository). {{< a "/software/sound-switcher-indicator" "Установить" >}} можно, как обычно, из моего [Launchpad PPA](https://launchpad.net/~yktooo/+archive/ppa/).
+Новая версия построена на GTK+ 3 и новомодном GObject Introspection (GIRepository). [Установить](/software/sound-switcher-indicator) можно, как обычно, из моего [Launchpad PPA](https://launchpad.net/~yktooo/+archive/ppa/).
 
 Ну, и по традиции — картинка для привлечения внимания:
 

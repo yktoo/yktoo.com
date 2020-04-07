@@ -31,11 +31,11 @@ The seminar was three hours long, each of the teachers had an hour.
 
 All three are very experienced, but all three differ in build and in style. I was fascinated to watch those differences during their performances of various techniques.
 
-**René Habraken** is only **38**, which is very young for a fifth dan. He's quick and moves amazingly lightly. When I first saw him doing *jō* (wooden staff) techniques I was totally impressed. He is teaching aikido at the {{< a "http://aikidocentrumnijmegen.nl/" "Aikido Centrum Nijmegen" >}}.
+**René Habraken** is only **38**, which is very young for a fifth dan. He's quick and moves amazingly lightly. When I first saw him doing *jō* (wooden staff) techniques I was totally impressed. He is teaching aikido at the [Aikido Centrum Nijmegen](http://aikidocentrumnijmegen.nl/).
 
 **Jan Thesing** is skilled, sturdy, powerful. This was the first time I met him. He teaches aikido at {{< fl "Budo Club Krommenie" >}}.
 
-**Tom Dijkman** is one of the founders of {{< a "https://www.tomdijkman.nl/" "Aikido Amsterdam" >}}, sporting an "academic" approach to techniques' details. I've been training with him since my {{< a "0360" "second dan" >}}, preparing for the third.
+**Tom Dijkman** is one of the founders of [Aikido Amsterdam](https://www.tomdijkman.nl/), sporting an "academic" approach to techniques' details. I've been training with him since my [second dan](0360), preparing for the third.
 
 ## SportQube Nijmegen
 

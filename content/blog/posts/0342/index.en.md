@@ -10,7 +10,7 @@ aliases:
     - /en/blog/post/342
 ---
 
-{{< fl "Tjongejonge" >}}, this year ended as suddenly as it {{< a "0332" "began" >}}, I couldn't even find time to blog. This post is the tenth and the last one in 2018 (but I'm seriously considering improving on that matter).
+{{< fl "Tjongejonge" >}}, this year ended as suddenly as it [began](0332), I couldn't even find time to blog. This post is the tenth and the last one in 2018 (but I'm seriously considering improving on that matter).
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ou4wbjlre2kg1795.png" >}}
 
@@ -28,7 +28,7 @@ Moreover, I've become a real *freelancer* (or {{< fl "zzp'er" >}} in Dutch) in A
 
 All in all this year has been quite successful in terms of business; our relationship with the customer is pretty good, I've got nice colleagues, a real good boss (myself), and lots of mind-challenging stuff to research.
 
-Among other things, I've started learning Gnome's {{< wiki "GTK+" "en" "GTK+" >}} widget library, so I'm planning to release an updated {{< a "/software/sound-switcher-indicator" "Sound Switcher Indicator" >}} version that features a full-fledged Preferences dialog.
+Among other things, I've started learning Gnome's {{< wiki "GTK+" "en" "GTK+" >}} widget library, so I'm planning to release an updated [Sound Switcher Indicator](/software/sound-switcher-indicator) version that features a full-fledged Preferences dialog.
 
 ## Travel {#travel}
 
@@ -64,7 +64,7 @@ In early December we've been to the Christmas market in Duisburg, Germany. And j
 
 As for sport, I'm quite satisfied with myself. In 2018 I've managed to run **1060** km (which beats my previous record) in 64 episodes. Peculiarly enough, the last 20 km run has been today, December 31<sup>st</sup>.
 
-In May another record has been beaten when I've finished a half marathon in **1:45:56** at {{< a "0335" "De Halve van De Haar" >}}.
+In May another record has been beaten when I've finished a half marathon in **1:45:56** at [De Halve van De Haar](0335).
 
 My second achievement this year is that I've qualified as {{< fl "nidan" >}} (second dan) in aikido. The corresponding certificate has been handed to me a couple of weeks ago by Marc Jongsten:
 
@@ -74,7 +74,7 @@ My second achievement this year is that I've qualified as {{< fl "nidan" >}} (se
 
 The concert life has stepped back a bit because of some objective difficulties represented by a small kid. Nonetheless I managed to visit two shows.
 
-*Arch Echo*, *Mestís* and *Plini* in Haarlem ({{< a "/videoevents/vevt0048" "video" >}}):
+*Arch Echo*, *Mestís* and *Plini* in Haarlem ([video](/videoevents/vevt0048)):
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/q8wj6dmnmxhj2726.jpg" "Javier Reyes (Mestís)." >}}
 
@@ -82,9 +82,9 @@ And *Riverside* in Utrecht:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1aesl5ifq2jq1161.jpg" "Riverside." >}}
 
-By the way, I've filmed the last one in its entirety, but the video has been taken down by YouTube at a copyright owner's demand. The crazy thing is that the gig's page at the website of {{< fl "Tivoli" >}} {{< a "0341" "was illustrated" >}} just by my video from another show.
+By the way, I've filmed the last one in its entirety, but the video has been taken down by YouTube at a copyright owner's demand. The crazy thing is that the gig's page at the website of {{< fl "Tivoli" >}} [was illustrated](0341) just by my video from another show.
 
-And one more thing, not quite related to music: for the first time in my life I {{< a "0340" "presented" >}} in English before an audience of some two hundred people, at IDM Europe. I felt a bit nervous, of course.
+And one more thing, not quite related to music: for the first time in my life I [presented](0340) in English before an audience of some two hundred people, at IDM Europe. I felt a bit nervous, of course.
 
 ## Other stuff {#misc}
 

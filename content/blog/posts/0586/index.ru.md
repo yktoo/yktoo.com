@@ -18,7 +18,7 @@ imageCredit: "Фото: G.Lanting/Wikimedia/CC-BY-SA-4.0."
 
 <!--more-->
 
-Гимн Евросоюза занял первые места в рейтинге синглов {{< a "http://www.itunescharts.net/uk/" "UK iTunes Charts" >}} и в списке {{< a "https://www.amazon.co.uk/gp/bestsellers/digital-music-track/" "бестселлеров британского Amazon" >}}.
+Гимн Евросоюза занял первые места в рейтинге синглов [UK iTunes Charts](http://www.itunescharts.net/uk/) и в списке [бестселлеров британского Amazon](https://www.amazon.co.uk/gp/bestsellers/digital-music-track/).
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/epiehhcdu6u0ljuyr20h.png" "Топ-10 синглов UK iTunes Charts." >}}
 

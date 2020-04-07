@@ -32,4 +32,4 @@ There are three lanes inside the wheel, so you can invite more people to join. U
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/64q0x1v90ob73080.jpg" >}}
 
-Next: {{< a "0084" "Part 2. Vienna" >}}
+Next: [Part 2. Vienna](0084)

@@ -15,11 +15,11 @@ If you like ordering cheap gadgets and other stuff from **AliExpress** (and simi
 
 For all shipments originating from within the EU no extra charges are to be paid in the Netherlands.
 
-For all other countries, the Dutch customs regulation {{< a "https://www.belastingdienst.nl/wps/wcm/connect/nl/internetaankopen/content/moet-ik-betalen-voor-de-invoer-van-mijn-pakket" "establishes" >}} a duty-free threshold of **€ 22** per package.
+For all other countries, the Dutch customs regulation [establishes](https://www.belastingdienst.nl/wps/wcm/connect/nl/internetaankopen/content/moet-ik-betalen-voor-de-invoer-van-mijn-pakket) a duty-free threshold of **€ 22** per package.
 
 <!--more-->
 
-This can be {{< a "https://www.postnl.nl/ontvangen/pakket-ontvangen/pakket-uit-het-buitenland/" "summarised" >}} in the following table:
+This can be [summarised](https://www.postnl.nl/ontvangen/pakket-ontvangen/pakket-uit-het-buitenland/) in the following table:
 
 {{< table "table" >}}
 |Shipment kind     |Declared value      |VAT|Customs duty|Processing cost|
@@ -37,7 +37,7 @@ This can be {{< a "https://www.postnl.nl/ontvangen/pakket-ontvangen/pakket-uit-h
 
 You'll have to pay the VAT for all packages valued **€ 22** (*excluding* shipping costs and/or insurance) and above.
 
-In case the VAT is to be paid, it's calculated, {{< a "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/btw/btw_berekenen_aan_uw_klanten/btw_berekenen/btw_tarief/btw_tarief" "as usual" >}}, based on the kind of the item:
+In case the VAT is to be paid, it's calculated, [as usual](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/btw/btw_berekenen_aan_uw_klanten/btw_berekenen/btw_tarief/btw_tarief), based on the kind of the item:
 
 * Low rate, **9%**: food, water, agricultural goods, medicine, art items, books, and periodicals.
 * Standard rate, **21%**: all other items.
@@ -46,7 +46,7 @@ In case the VAT is to be paid, it's calculated, {{< a "https://www.belastingdien
 
 A duty is to be paid for all packages valued above **€ 150**. This one is a bit more complicated because the rate is defined per item category.
 
-Dutch Tax Office {{< a "https://www.belastingdienst.nl/wps/wcm/connect/nl/internetaankopen/content/hoeveel-betaal-ik-de-douane-als-ik-iets-koop-bij-buitenlandse-webshop" "provides" >}} the following examples:
+Dutch Tax Office [provides](https://www.belastingdienst.nl/wps/wcm/connect/nl/internetaankopen/content/hoeveel-betaal-ik-de-douane-als-ik-iets-koop-bij-buitenlandse-webshop) the following examples:
 
 {{< table "table table-narrow table-striped" >}}
 |Category             |Customs duty             |

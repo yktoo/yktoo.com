@@ -16,7 +16,7 @@ aliases:
     - /en/blog/post/183
 ---
 
-I've {{< a "/videoevents/vevt0012" "published" >}} rare footage I filmed a few years ago. It was a performance given by two greatest jazz musicians of our time, [Daniel Kramer](http://www.kramerdaniel.com/) (piano) and [Arkady Shilkloper](http://www.shilkloper.com/) (French horn, flugelhorn, alphorn) at [Tyumen Concert Hall](http://www.tgf.ru/) on February 10, 2008.
+I've [published](/videoevents/vevt0012) rare footage I filmed a few years ago. It was a performance given by two greatest jazz musicians of our time, [Daniel Kramer](http://www.kramerdaniel.com/) (piano) and [Arkady Shilkloper](http://www.shilkloper.com/) (French horn, flugelhorn, alphorn) at [Tyumen Concert Hall](http://www.tgf.ru/) on February 10, 2008.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/1dfhait370ll1769.jpg" >}}
 
@@ -32,7 +32,7 @@ Here's the first item from the concert, called Folk Song:
 
 {{< youtube "IntcetFJA6o" >}}
 
-* {{< a "/videoevents/vevt0012" "All videos of the concert" >}} on my website
+* [All videos of the concert](/videoevents/vevt0012) on my website
 * [Playlist on YouTube](http://www.youtube.com/playlist?list=PLRtML0bqZ1imv9g-F-_MJveYRqarPr3e3)
 
 I couldn't figure out names of some pieces, so if you recognise any, I'd appreciate if you let me know them.

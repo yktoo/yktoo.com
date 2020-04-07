@@ -39,7 +39,7 @@ You certainly noticed orange trees behind the car. If not, here they are:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/q3a1q9ip3w0o2705.jpg" >}}
 
-For the first time in my life I saw them like that ({{< a "0151" "Canarian mandarines" "ru" >}} don't count). The oranges are huge, bigger than my palm:
+For the first time in my life I saw them like that ([Canarian mandarines](ru;0151) don't count). The oranges are huge, bigger than my palm:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/5cu09dzg7bmb1577.jpg" >}}
 
@@ -51,4 +51,4 @@ We found those trees somewhere northwards of Albufeira. We didn't risk to try th
 
 Exactly same oranges you can buy at the roadside. 5 kg (11 lbs) of small oranges costs two euros, the same amount of big ones, like on the photo above, is three, and they are delicious! We've eaten 10 kilos in a week.
 
-Next: {{< a "0192" "Part 3. Albufeira" >}}
+Next: [Part 3. Albufeira](0192)

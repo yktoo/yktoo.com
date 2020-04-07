@@ -15,7 +15,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/yus1pkhqf9kz2220.png"
 
 Я в целом уважаю Интернет-издание {{< fl "Meduza" >}}, но порой они пропускают конкретную дезинформацию, особенно в своих рекламных (как они их стыдливо называют, «партнёрских») публикациях.
 
-Вот, например, они разродились {{< a "https://meduza.io/short/2019/09/30/skolko-chasov-v-nedelyu-rabotayut-zhiteli-raznyh-stran-v-odnoy-kartinke" "картинкой" >}} под заголовком «Сколько часов в неделю работают жители разных стран».
+Вот, например, они разродились [картинкой](https://meduza.io/short/2019/09/30/skolko-chasov-v-nedelyu-rabotayut-zhiteli-raznyh-stran-v-odnoy-kartinke) под заголовком «Сколько часов в неделю работают жители разных стран».
 
 <!--more-->
 
@@ -29,9 +29,9 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/yus1pkhqf9kz2220.png"
 
 ## А на самом деле
 
-Беглое гугление сразу же приводит к {{< a "https://www.rijksoverheid.nl/onderwerpen/werktijden/vraag-en-antwoord/brochures-arbeidstijdenwet-en-arbeidstijdenbesluit" "источнику истины" >}}, закону {{< fl "Arbeidstijdenwet" >}} («Закон о рабочем времени») на сайте Правительства Нидерландов.
+Беглое гугление сразу же приводит к [источнику истины](https://www.rijksoverheid.nl/onderwerpen/werktijden/vraag-en-antwoord/brochures-arbeidstijdenwet-en-arbeidstijdenbesluit), закону {{< fl "Arbeidstijdenwet" >}} («Закон о рабочем времени») на сайте Правительства Нидерландов.
 
-И {{< a "https://werkwacht.nl/artikel/maximale-werktijd/" "определяет" >}} он следующие максимальные значения:
+И [определяет](https://werkwacht.nl/artikel/maximale-werktijd/) он следующие максимальные значения:
 
 * **12 часов** в день,
 * **60 часов** в неделю,
@@ -46,7 +46,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/yus1pkhqf9kz2220.png"
 
 Правда, вопрос, эксплуататоры ли голландцы, всё же остаётся. Ведь в России можно работать максимум 40 часов, в Нидерландах — аж 60 (хоть и не постоянно).
 
-Официальная статистика за **2017** год {{< a "https://www.ocwincijfers.nl/emancipatie/participatie-van-vrouwen/arbeidsduur" "сообщает" >}} следующие шокирующие цифры:
+Официальная статистика за **2017** год [сообщает](https://www.ocwincijfers.nl/emancipatie/participatie-van-vrouwen/arbeidsduur) следующие шокирующие цифры:
 
 * Мужчины в среднем работают **36 ч** в неделю,
 * Женщиины — и того меньше, **26 ч** в неделю.
@@ -57,4 +57,4 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/yus1pkhqf9kz2220.png"
 
 Впрочем, это, конечно, средние цифры. Предприниматели, бывает, действительно вкалывают по 50-60 часов.
 
-> **Добавлено:** Медуза {{< a "0405" "поправилась" >}}.
+> **Добавлено:** Медуза [поправилась](0405).

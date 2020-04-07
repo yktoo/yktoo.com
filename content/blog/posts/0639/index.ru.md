@@ -15,7 +15,7 @@ imageCredit: "Фото: Karen van der Horst/NOS Ooggetuige."
 
 Вот это новость! Сегодня утром в Нидерландах выпал первый (и, возможно, последний) в этом сезоне снег. Собственно, это даже снегом назвать трудно — так, слегка припорошило.
 
-{{< fl "NOS Ooggetuige" >}} {{< a "https://nos.nl/artikel/2324630-in-beeld-sneeuw-van-veluwe-tot-vaals.html" "публикует" >}} некоторые фото этого великого события.
+{{< fl "NOS Ooggetuige" >}} [публикует](https://nos.nl/artikel/2324630-in-beeld-sneeuw-van-veluwe-tot-vaals.html) некоторые фото этого великого события.
 
 <!--more-->
 

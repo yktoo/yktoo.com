@@ -40,7 +40,7 @@ Ben's violin was gorgeous. However Marcela demonstrated she wasn't born yesterda
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0rz5gi76ncnq2561.jpg" >}}
 
-The guest no. two was Marjan Welman from [Autumn](http://www.autumn-band.com/). {{< a "0170" "Last time" "ru" >}} they didn't really impress me, but as a duo they sound just perfectly.
+The guest no. two was Marjan Welman from [Autumn](http://www.autumn-band.com/). [Last time](ru;0170) they didn't really impress me, but as a duo they sound just perfectly.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ww3jejjnrtcq1284.jpg" >}}
 

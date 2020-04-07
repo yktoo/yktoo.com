@@ -136,4 +136,4 @@ Below are a few more photos from {{< fl "Myrath" >}}'s show.
 
 ---
 
-All concert videos are available on the {{< a "/videoevents/vevt0037" "event page" >}}.
+All concert videos are available on the [event page](/videoevents/vevt0037).

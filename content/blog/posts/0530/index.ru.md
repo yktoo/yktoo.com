@@ -12,21 +12,21 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/pq52iosvsntxwjaj4tgm.
 
 Как же быстро промчался этот год, даже не верится, что столько всего произошло!
 
-Ну что, время подбивать {{< a "/tags/итоги" "итоги" >}}?
+Ну что, время подбивать [итоги](/tags/итоги)?
 
 <!--more-->
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pq52iosvsntxwjaj4tgm.jpg">}}
 
-Начну с самого главного: в июле самая необыковенная в мире женщина {{< a "0345" "стала моей супругой" >}}, что мы скромно, но с размахом отпраздновали в сентябре в Каннах. Канны рулят!
+Начну с самого главного: в июле самая необыковенная в мире женщина [стала моей супругой](0345), что мы скромно, но с размахом отпраздновали в сентябре в Каннах. Канны рулят!
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ycjbyc5g4j3eaullfe9o.jpg" "Канны в Каннах." >}}
 
 Также я в {{< year 2019 "этом" >}} году:
 
 * Отработал **1836** часов фрилансером;
-* Открыл для себя и изучил {{< a "https://gohugo.io/" "Hugo" >}}, заново {{< a "0351" "разработал" >}} свой блог и переехал {{< a "0452" "на Cloudinary" >}};
-* Написал **186** постов {{< a "/blog/archive" "на русском" >}} (включая и этот), **59** {{< a "/blog/archive" "на английском" "en" >}} и **9** {{< a "/blog/archive" "на голландском" "nl" >}}, а также **25** терминов {{< a "/glossary" "Глоссария" >}};
+* Открыл для себя и изучил [Hugo](https://gohugo.io/), заново [разработал](0351) свой блог и переехал [на Cloudinary](0452);
+* Написал **186** постов [на русском](/blog/archive) (включая и этот), **59** [на английском](en;/blog/archive) и **9** [на голландском](nl;/blog/archive), а также **25** терминов [Глоссария](/glossary);
 * Пробежал **813** км за **44** раза (включая один полумарафон).
 
 Дальше буду придерживаться хронологического порядка.
@@ -61,7 +61,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/pq52iosvsntxwjaj4tgm.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/gmxvjp0mucre6ook0td8.jpg" "Кохем, Германия." >}}
 
-И, наконец, **22** апреля я в пятый раз принял участие в полумарафоне {{< fl "De Halve van De Haar" >}} в парке замка {{< a "0012" "Де Хаар" >}}:
+И, наконец, **22** апреля я в пятый раз принял участие в полумарафоне {{< fl "De Halve van De Haar" >}} в парке замка [Де Хаар](0012):
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hntjplsdurrhwxfnzwhy.jpg" "De Halve van De Haar — 2019." >}}
 
@@ -79,7 +79,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/pq52iosvsntxwjaj4tgm.
 
 ## Июль
 
-Ну, про июль я уже {{< a "0345" "упоминал" >}}.
+Ну, про июль я уже [упоминал](0345).
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/yi7pgjm9e9x4z5jna9h8.jpg">}}
 
@@ -89,9 +89,9 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/pq52iosvsntxwjaj4tgm.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/wdykkz9bfdy4xytm2yo3.jpg" "Санкт-Петербург, Россия." >}}
 
-А также {{< a "0366" "Амстердам" >}}.
+А также [Амстердам](0366).
 
-Я наконец-то взялся за ум, {{< a "0351" "переделал yktoo.com" >}} в виде статического сайта и начал регулярно постить в блог.
+Я наконец-то взялся за ум, [переделал yktoo.com](0351) в виде статического сайта и начал регулярно постить в блог.
 
 ## Сентябрь
 
@@ -107,7 +107,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/pq52iosvsntxwjaj4tgm.
 
 ## Ноябрь
 
-В ноябре к нам прибыл {{< a "0470" "Синтерклаас" >}}, я провёл {{< a "0478" "семинар по Hugo" >}} и посетил {{< a "0484" "техновыставку Bright Day" >}}.
+В ноябре к нам прибыл [Синтерклаас](0470), я провёл [семинар по Hugo](0478) и посетил [техновыставку Bright Day](0484).
 
 ## Декабрь
 
@@ -119,7 +119,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/pq52iosvsntxwjaj4tgm.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/wsi10wl3cc7iroidbqsz.jpg" "Amsterdam Light Festival." >}}
 
-А после — {{< a "0505" "забег Санта-Клаусов" >}}, {{< a "0516" "Париж" >}} и бельгийский Мехелен:
+А после — [забег Санта-Клаусов](0505), [Париж](0516) и бельгийский Мехелен:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/oo4rtpmn10nr3vawql6m.jpg" "Мехелен, Бельгия." >}}
 

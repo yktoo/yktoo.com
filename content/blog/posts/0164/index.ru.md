@@ -133,4 +133,4 @@ aliases:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/mug83l38qbqt3072.jpg" >}}
 
-Далее: {{< a "0165" "Часть 4. Парк Гуэля" >}}
+Далее: [Часть 4. Парк Гуэля](0165)

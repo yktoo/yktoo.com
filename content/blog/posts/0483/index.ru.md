@@ -15,7 +15,7 @@ imageCredit: "Фото: eneco.nl."
 
 Один из крупнейших нидерландских поставщиков электроэнергии, газа и тепла {{< fl "Eneco" >}} покупается двумя японскими компаниями: {{< fl "Mitsubishi" >}} и {{< fl "Chubu" >}} за **€ 4,1 млрд**.
 
-Информация об этом {{< a "https://nieuws.eneco.nl/eneco-strengthens-its-sustainable-course-and-further-expands-internationally-with-a-consortium-led-by-mitsubishi-corporation-as-new-shareholder/" "появилась" >}} сегодня на веб-сайте энергокомпании.
+Информация об этом [появилась](https://nieuws.eneco.nl/eneco-strengthens-its-sustainable-course-and-further-expands-internationally-with-a-consortium-led-by-mitsubishi-corporation-as-new-shareholder/) сегодня на веб-сайте энергокомпании.
 
 <!--more-->
 

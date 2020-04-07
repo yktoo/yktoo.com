@@ -13,7 +13,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/ikowjnmlnsefajngupvv.
 imageCredit: "Фото: WikimediaImages/Pixabay."
 ---
 
-Голландско-британский концерн {{< fl "Unilever" >}} {{< a "https://www.unilever.com/news/press-releases/2020/full-year-growth-led-by-emerging-markets-and-home-care.html" "опубликовал" >}} сегодня финансовые результаты по итогам минувшего **2019** года.
+Голландско-британский концерн {{< fl "Unilever" >}} [опубликовал](https://www.unilever.com/news/press-releases/2020/full-year-growth-led-by-emerging-markets-and-home-care.html) сегодня финансовые результаты по итогам минувшего **2019** года.
 
 Компания не смогла достичь запланированного роста в **3-5%**, застряв на цифре в **2,9%** (что само по себе тоже неплохо).
 

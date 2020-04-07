@@ -11,7 +11,7 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/p7qv6pcb43fc0zopfoy5.jpg"
 ---
 
-Не успел отбушевать {{< a "0608" "ураган Киара" >}}, вслед за ним идёт ещё один: в ближайшие выходные Нидерланды {{< a "https://www.nu.nl/binnenland/6030532/storm-dennis-komt-dit-weekend-maar-is-vergeleken-met-ciara-een-dennisje.html" "накроет" >}} {{< fl "Dennis" >}}.
+Не успел отбушевать [ураган Киара](0608), вслед за ним идёт ещё один: в ближайшие выходные Нидерланды [накроет](https://www.nu.nl/binnenland/6030532/storm-dennis-komt-dit-weekend-maar-is-vergeleken-met-ciara-een-dennisje.html) {{< fl "Dennis" >}}.
 
 Пик его активности ожидается в воскресенье **16** февраля, но уже в ночь с субботы на воскресенье будет довольно ветрено, особенно на море.
 

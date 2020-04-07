@@ -12,7 +12,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/pf0hkx3ickwkoripgpvg.
 imageCredit: "Photo by Picnic."
 ---
 
-It's an unusual review today: I'm writing about my experiences with the fastest-growing online supermarket chain in the Netherlands—{{< a "https://picnic.app/" "Picnic" >}}—which has finally opened its virtual doors before me.
+It's an unusual review today: I'm writing about my experiences with the fastest-growing online supermarket chain in the Netherlands—[Picnic](https://picnic.app/)—which has finally opened its virtual doors before me.
 
 I've signed up for it a little more than a year ago and landed at the place **200+** on the waiting list at the moment.
 
@@ -28,7 +28,7 @@ Picnic is in many respects an unusual service, and that's what my narrative will
 
 ## Mobile-only
 
-{{< a "https://picnic.app/" "Picnic's website" >}} is limited to general company information and frequently asked questions. Lately they've also added an address checker, which allows one to find out whether they're already delivering groceries to your neighbourhood.
+[Picnic's website](https://picnic.app/) is limited to general company information and frequently asked questions. Lately they've also added an address checker, which allows one to find out whether they're already delivering groceries to your neighbourhood.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/nb7lk82dz4aemh6ojkzz.png" "\"Yes, we deliver in your neighbourhood!\"" >}}
 
@@ -56,7 +56,7 @@ In short, my conclusion is Picnic's variety of products is broad enough to rende
 
 The company emphasizes that, since they have no offline stores, they can offer the best price for each product. On the other hand, every single Dutch supermarket claims they offer "the best possible price".
 
-But indeed, Picnic is a whole leap ahead in the matter of cost containment. They're even saving on staff pay, which they were recently {{< a "https://www.dutchnews.nl/news/2019/11/picnic-raises-e250m-for-a-massive-automated-distribution-centre/" "sued for" >}} and managed to largely {{< a "https://nos.nl/artikel/2313090-fnv-verliest-rechtszaak-om-cao-online-supermarkt-picnic.html" "get away with" >}}.
+But indeed, Picnic is a whole leap ahead in the matter of cost containment. They're even saving on staff pay, which they were recently [sued for](https://www.dutchnews.nl/news/2019/11/picnic-raises-e250m-for-a-massive-automated-distribution-centre/) and managed to largely [get away with](https://nos.nl/artikel/2313090-fnv-verliest-rechtszaak-om-cao-online-supermarkt-picnic.html).
 
 Picnic's prices are indeed somewhat lower than those in regular supermarkets, like {{< fl "Albert Heijn" >}} or {{< fl "Jumbo" >}}, which however may not be the case for specific sale items. But when compared to discount supermarket chains, such as {{< fl "Aldi" >}} or {{< fl "Lidl" >}} (our favourite), the benefits get much less evident and sometimes Picnic's products can even turn out pricier.
 
@@ -70,11 +70,11 @@ The supermarket will also charge you **€ 0.35** for plastic bags the product
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/nxmk2fq4zr3wejkyyryx.jpg" "Picnic's product delivery. Photo by Picnic." >}}
 
-The same applies to the deposit for glass and plastic bottles ({{< a "/glossary/statiegeld" "statiegeld" >}}).
+The same applies to the deposit for glass and plastic bottles ([statiegeld](/glossary/statiegeld)).
 
 ## Exact ordering
 
-Picnic is arguably the only company having their logistics so heavily optimised that the suppliers get exact numbers of each product ordered; according to the supermarket's {{< a "https://picnic.app/nl/over-picnic" "website" >}} it applies at least to bread, fruits and vegetables.
+Picnic is arguably the only company having their logistics so heavily optimised that the suppliers get exact numbers of each product ordered; according to the supermarket's [website](https://picnic.app/nl/over-picnic) it applies at least to bread, fruits and vegetables.
 
 As soon as their "virtual counter" gets closed at **22:00**, Picnic orders the exact amounts of these goods from farmers and bakers.
 
@@ -123,4 +123,4 @@ As an afterthought, I also think the traditional supermarkets will either need t
 
 ## P.S. Sign up with a discount 
 
-As a new customer I've been given a personal discount code: `ANNA3468`. The first **10** {{< a "https://picnic.app/nl/vriendenkorting/ANNA3469" "registered customers" >}} will get **€ 5** off for their first order.
+As a new customer I've been given a personal discount code: `ANNA3468`. The first **10** [registered customers](https://picnic.app/nl/vriendenkorting/ANNA3469) will get **€ 5** off for their first order.

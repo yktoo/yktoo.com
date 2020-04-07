@@ -13,7 +13,7 @@ imageCredit: "Photo by Sea in the Sky."
 series: music
 ---
 
-It's Friday! This ninth edition of {{< a "/series/music" "Musicellaneous" >}} presents romantic djent played by the American band {{< a "https://seainthesky.bandcamp.com/" "Sea in the Sky" >}}.
+It's Friday! This ninth edition of [Musicellaneous](/series/music) presents romantic djent played by the American band [Sea in the Sky](https://seainthesky.bandcamp.com/).
 
 <!--more-->
 
@@ -23,7 +23,7 @@ The first two albums of the band, their self-titled EP (**2013**) and **Serenity
 
 As for the latter two releases, **Visions** (**2015**) and **Everything All at Once** (**2017**), I'd say they diverge a bit from the regular repertoire of this series.
 
-They've added vocals (like in solo works by {{< a "0542" "Yvette Young" >}}) whereas the sound has become somewhat softer and more romantic than in the earlier works of the band: it's half *djent*, half *prog metal*.
+They've added vocals (like in solo works by [Yvette Young](0542)) whereas the sound has become somewhat softer and more romantic than in the earlier works of the band: it's half *djent*, half *prog metal*.
 
 Unlike most other dject projects, *Sea in the Sky*'s vocals are clean, with no growling, and in my humble opinion they nicely complement the music.
 

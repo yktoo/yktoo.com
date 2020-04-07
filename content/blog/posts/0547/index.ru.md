@@ -13,7 +13,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/eui6gx4ortebhso9b81a.
 imageCredit: "Фото: aymane jdidi/Pixabay."
 ---
 
-Как минимум **1500** устных и письменных переводчиков в Нидерландах {{< a "https://nos.nl/artikel/2318474-tolken-en-vertalers-staken-totdat-de-minister-met-ons-in-gesprek-gaat.html" "объявили" >}} сегодня забастовку.
+Как минимум **1500** устных и письменных переводчиков в Нидерландах [объявили](https://nos.nl/artikel/2318474-tolken-en-vertalers-staken-totdat-de-minister-met-ons-in-gesprek-gaat.html) сегодня забастовку.
 
 В течение этой акции они не будут принимать заказов на переводы от судов, полиции и иммиграционно-натурализационной службы ({{< fl "IND" >}}).
 

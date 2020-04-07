@@ -15,13 +15,13 @@ aliases:
     - /en/blog/post/214
 ---
 
-Last time I only briefly {{< a "0033" "mentioned" "ru" >}} {{< fl "Werregarenstraat" >}}, the only street in the city where graffiti is officially allowed. It's barely visible from {{< fl "Hoogpoort" >}} it joins to:
+Last time I only briefly [mentioned](ru;0033) {{< fl "Werregarenstraat" >}}, the only street in the city where graffiti is officially allowed. It's barely visible from {{< fl "Hoogpoort" >}} it joins to:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fbe5gu5woh8x1588.jpg" >}}
 
 <!--more-->
 
-This street is about a hundred metres along and two across, all covered with layered paitings by city inhabitants and visitors (I {{< a "0205" "posted" >}} about {{< fl "Ruiterskwartier" >}}, a similar street in Leeuwarden).
+This street is about a hundred metres along and two across, all covered with layered paitings by city inhabitants and visitors (I [posted](0205) about {{< fl "Ruiterskwartier" >}}, a similar street in Leeuwarden).
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hemogbotxinf0362.jpg" >}}
 
@@ -55,4 +55,4 @@ Below are some highlights of the graffiti display:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/lfysxft7ydup2264.jpg" >}}
 
-In {{< a "0215" "the next part" >}}, which will be the last one, I'll tell you about Ghent Contemporary Art Museum, S.M.A.K.
+In [the next part](0215), which will be the last one, I'll tell you about Ghent Contemporary Art Museum, S.M.A.K.

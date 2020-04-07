@@ -12,17 +12,17 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/kmhlcbxhwzjfhxzgakxz.
 imageCredit: "Стоп-кадр из видео FugErik/YouTube."
 ---
 
-Оба участника акробатического дуэта {{< fl "Sky Angels" >}} — супруги Кристина Воробьёва и Рустэм Османов — оказались в больнице, а их выступление в амстердамском театре {{< fl "Carré" >}} остановлено после того, как они {{< a "https://nos.nl/artikel/2317238-twee-artiesten-vallen-van-tien-meter-hoogte-tijdens-act-kerstcircus-carre.html" "упали" >}} с высоты около десяти метров.
+Оба участника акробатического дуэта {{< fl "Sky Angels" >}} — супруги Кристина Воробьёва и Рустэм Османов — оказались в больнице, а их выступление в амстердамском театре {{< fl "Carré" >}} остановлено после того, как они [упали](https://nos.nl/artikel/2317238-twee-artiesten-vallen-van-tien-meter-hoogte-tijdens-act-kerstcircus-carre.html) с высоты около десяти метров.
 
-Произошло это в пятницу **3** января: дуэт давал представление в рамках шоу «Всемирный рождественский цирк» ({{< fl "Wereldkerstcircus" >}}). Причиной падения послужил, {{< a "https://www.telegraaf.nl/entertainment/1676852677/afgebroken-tand-acrobaat-oorzaak-circusdrama-carre" "судя по всему" >}}, сломанный зуб Рустэма.
+Произошло это в пятницу **3** января: дуэт давал представление в рамках шоу «Всемирный рождественский цирк» ({{< fl "Wereldkerstcircus" >}}). Причиной падения послужил, [судя по всему](https://www.telegraaf.nl/entertainment/1676852677/afgebroken-tand-acrobaat-oorzaak-circusdrama-carre), сломанный зуб Рустэма.
 
-Примечательно, что в нидерландской прессе акробатов называют русскими, хотя на самом деле они {{< a "https://www.gazeta.uz/ru/2020/01/04/skyangels/" "из Узбекистана" >}} — похоже, голландцы не замечают разницы.
+Примечательно, что в нидерландской прессе акробатов называют русскими, хотя на самом деле они [из Узбекистана](https://www.gazeta.uz/ru/2020/01/04/skyangels/) — похоже, голландцы не замечают разницы.
 
 <!--more-->
 
 ## Sky Angels
 
-В номерах {{< fl "Sky Angels" >}} часто используются поддержки, когда один или оба акробата держат стропы зубами. Вот кадр из их {{< a "https://www.youtube.com/watch?v=LLrLnOmWic8" "выступления в Монте-Карло" >}} в **2017** году:
+В номерах {{< fl "Sky Angels" >}} часто используются поддержки, когда один или оба акробата держат стропы зубами. Вот кадр из их [выступления в Монте-Карло](https://www.youtube.com/watch?v=LLrLnOmWic8) в **2017** году:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/kmhlcbxhwzjfhxzgakxz.jpg" "Кадр из вступления Sky Angels." >}}
 
@@ -32,7 +32,7 @@ imageCredit: "Стоп-кадр из видео FugErik/YouTube."
 
 ## Сломанный зуб
 
-Продюсер шоу {{< fl "Henk van der Meijden" >}} {{< a "https://www.telegraaf.nl/entertainment/1676852677/afgebroken-tand-acrobaat-oorzaak-circusdrama-carre" "рассказывает" >}}:
+Продюсер шоу {{< fl "Henk van der Meijden" >}} [рассказывает](https://www.telegraaf.nl/entertainment/1676852677/afgebroken-tand-acrobaat-oorzaak-circusdrama-carre):
 
 > Первое, что я увидел, это то, что они дышат. Я испытал облегчение, потому что удар был сильным. Прибыли машины скорой помощи и вертолёт, и, как только состояние Рустэма и Кристины стало стабильным, можно было перевезти их в две больницы. Его в {{< fl "VU" >}}, её — в {{< fl "AMC" >}}, где травматологи уже были наготове.
 >

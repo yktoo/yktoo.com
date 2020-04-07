@@ -22,7 +22,7 @@ aliases:
 
 I've been lucky to have had a good deal of {{< fl "wintersport" >}} this season, as well as to come back in one piece.
 
-Our destination was chosen to be the Austrian {{< wiki "Sölden" "en" "Sölden" >}}, also located in Tyrol like Ischgl where I'd been a {{< a "0239" "year ago" "ru" >}}.
+Our destination was chosen to be the Austrian {{< wiki "Sölden" "en" "Sölden" >}}, also located in Tyrol like Ischgl where I'd been a [year ago](ru;0239).
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/3sk9zs0ru1wz0465.jpg" "Sölden. Tyrol. Alps." >}}
 
@@ -54,7 +54,7 @@ The last thirty or so kilometres you drive along the {{< wiki "Ötztal" "en" "Ö
 
 ## Sölden {#solden}
 
-Sölden is another little town down the Ötztal valley, looking very much like Längenfeld but with a vast skiing area. It's smaller than one in {{< a "0239" "Ischgl" "ru" >}} (**33** vs. **45** ski lifts and **145 km** of pistes vs. **238 km** in Ischgl), but somewhat more intricate.
+Sölden is another little town down the Ötztal valley, looking very much like Längenfeld but with a vast skiing area. It's smaller than one in [Ischgl](ru;0239) (**33** vs. **45** ski lifts and **145 km** of pistes vs. **238 km** in Ischgl), but somewhat more intricate.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/na93i4ucjazg0266.jpg" "Ski map of Sölden (source: soelden.com)." >}}
 
@@ -64,7 +64,7 @@ The first lift brings you from the altitude of the valley, **1350 m**, to **2284
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/hk44ggeiv5cr2864.jpg" "Sölden from the cable car." >}}
 
-This time I switched from skis to snowboard, just as I {{< a "0239" "planned" "ru" >}}, for the first time in my life. This resulted in a multitude of new sensations in various parts of my body, mostly arising from their contact with the hard piste. Despite the basic training I previously got indoors, I failed even to stand up on that stupid board on the slope. Then I stopped trying and went to find a {{< fl "skischule" >}}, which are plenty there.
+This time I switched from skis to snowboard, just as I [planned](ru;0239), for the first time in my life. This resulted in a multitude of new sensations in various parts of my body, mostly arising from their contact with the hard piste. Despite the basic training I previously got indoors, I failed even to stand up on that stupid board on the slope. Then I stopped trying and went to find a {{< fl "skischule" >}}, which are plenty there.
 
 After four hours of tumbling downhill with a small group of Dutch I could finally slide on both *toe* and *heel edges*, as well as switch from one to the other. We practised on a short stretch of the piste, climbing it up all the time. Which proved to be pretty tiresome.
 

@@ -14,7 +14,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/iis3jk42fcpmqzkeiqfe.
 imageCredit: "Фото: Pexels/Pixabay."
 ---
 
-Администрация Амстердама {{< a "https://www.parool.nl/amsterdam/singelgebied-en-hobbemakade-krijgen-net-als-wallen-rondleidingverbod~b0d62fb6/" "решила" >}} всерьёз заняться ордами туристов, блуждающими по центру города и причиняющими массу неудобств жителям города.
+Администрация Амстердама [решила](https://www.parool.nl/amsterdam/singelgebied-en-hobbemakade-krijgen-net-als-wallen-rondleidingverbod~b0d62fb6/) всерьёз заняться ордами туристов, блуждающими по центру города и причиняющими массу неудобств жителям города.
 
 Помимо прочего, с **1** апреля вступит в силу запрет на любые экскурсии по кварталу красных фонарей ({{< wiki "Де Валлен" >}}, {{< fl "De Wallen" >}}) и другим районам вблизи {{< wiki "Сингел" "ru" "Сингела" >}} (так называемый {{< fl "Singelgebied" >}}).
 
@@ -22,7 +22,7 @@ imageCredit: "Фото: Pexels/Pixabay."
 
 Лишь по одному Де Валлен проводится около **115** экскурсий ежедневно, что вызывает пробки на и без того узких улицах. К тому же секс-работницы в окнах недовольны тем, что туристы фотографируют их, несмотря на запрет.
 
-{{< a "https://www.amsterdam.nl/bestuur-organisatie/stadsdelen/stadsdeel-centrum/drukte-balans/rondleidingen/rondleidingen-vragen/" "Новые правила" >}}, вступающие в силу **1** апреля {{< year 2020 "этого" >}} года, устанавливают новый порядок проведения экскурсий в центре Амстердама:
+[Новые правила](https://www.amsterdam.nl/bestuur-organisatie/stadsdelen/stadsdeel-centrum/drukte-balans/rondleidingen/rondleidingen-vragen/), вступающие в силу **1** апреля {{< year 2020 "этого" >}} года, устанавливают новый порядок проведения экскурсий в центре Амстердама:
 
 * Максимум **15** участников в одной группе (ранее было **20**).
 * Гиды, проводящие экскурсии с **5** и более участниками, обязаны иметь специальную лицензию. Она выдаётся до **01.04.2022** и стоит **€ 200**.

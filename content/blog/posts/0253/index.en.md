@@ -14,7 +14,7 @@ aliases:
     - /en/blog/post/253
 ---
 
-Summertime is the high time for {{< a "0038" "flying" "ru" >}}.
+Summertime is the high time for [flying](ru;0038).
 
 One of my colleagues has got a {{< wiki "Private_pilot_licence" "en" "Private Pilot Licence" >}} ({{< fl "PPL" >}}) and his own share of a light aircraft {{< wiki "Diamond_DA40" "en" "Diamond Star DA40-TDI" >}}. Which he offered us to fly.
 
@@ -49,7 +49,7 @@ The first strange thing you notice is the hangar, which is full of planes, is wi
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/itkh2u8010l62049.jpg" "Another Diamond DA40." >}}
 
-Since there's usually no one there and all the aircrafts' cockpits are unlocked, anyone can jump into any of them, start the engine and fly off. Just like Anakin Skywalker did in the {{< a "0139" "Star Wars: The Phantom Menace" >}}.
+Since there's usually no one there and all the aircrafts' cockpits are unlocked, anyone can jump into any of them, start the engine and fly off. Just like Anakin Skywalker did in the [Star Wars: The Phantom Menace](0139).
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/uy229lt6chco0874.jpg" "For any Jedi the cockpit open is." >}}
 

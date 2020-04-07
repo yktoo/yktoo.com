@@ -16,11 +16,11 @@ places:
 
 Even though it's been more than a year, I feel I need to mend this.
 
-On March 19, 2016 I've {{< a "0273" "passed" >}} my first dan {{< wiki "Aikikai" "en" "Aikido Aikikai" >}} exam. Then, a few months later, I {{< a "0284" "received" >}} an official dan certificate from Hombu Dojo.
+On March 19, 2016 I've [passed](0273) my first dan {{< wiki "Aikikai" "en" "Aikido Aikikai" >}} exam. Then, a few months later, I [received](0284) an official dan certificate from Hombu Dojo.
 
 <!--more-->
 
-Fast forward a year and a half, on **July 7<sup>th</sup>, 2018** I was fortunate to have qualified for the **second dan** (*nidan*) before Marc Jongsten at {{< a "https://aikidoleiden.nl/" "Aikido Centrum Leiden" >}}.
+Fast forward a year and a half, on **July 7<sup>th</sup>, 2018** I was fortunate to have qualified for the **second dan** (*nidan*) before Marc Jongsten at [Aikido Centrum Leiden](https://aikidoleiden.nl/).
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/znswu5xs9fft2640.jpg" "Photo from the July 7<sup>th</sup> seminar. I'm at the bottom right." >}}
 

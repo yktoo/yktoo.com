@@ -7,6 +7,6 @@ seeAlso:
 
 Буквально «ночь королевы».
 
-Вечер и ночь накануне {{< a "/glossary/koninginnedag" "Дня королевы" >}}.
+Вечер и ночь накануне [Дня королевы](/glossary/koninginnedag).
 
 <!--more-->

@@ -16,7 +16,7 @@ imageCredit: "Изображение: Rijkswaterstaat."
 
 Подошла к концу эпоха автомобильного ускорения, начавшаяся в **1988** году — тогда лимит скорости в Нидерландах был {{< wiki "Maximumsnelheid_in_Nederland" "nl" "повышен" >}} с **100** до **120 км/ч**.
 
-Сегодня {{< a "https://www.rijkswaterstaat.nl/wegen/wetten-regels-en-vergunningen/verkeerswetten/maximumsnelheid/index.aspx" "вступило" >}} в силу {{< a "0463" "анонсированное" >}} в ноябре снижение максимальной скорости на всех трассах в стране.
+Сегодня [вступило](https://www.rijkswaterstaat.nl/wegen/wetten-regels-en-vergunningen/verkeerswetten/maximumsnelheid/index.aspx) в силу [анонсированное](0463) в ноябре снижение максимальной скорости на всех трассах в стране.
 
 Это ограничение действует только в дневное время — с **6:00** утра до **19:00**.
 

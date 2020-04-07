@@ -11,9 +11,9 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/nwv0vlpbbqdemg3ch0ir.
 imageCredit: "Фото: Wikimedia/CC-BY-4.0."
 ---
 
-Любопытно почитать, о чём пишет нидерландская пресса в свете недавних новостей о якобы поставленной на боевое дежурство «невероятно быстрой {{< a "https://nos.nl/artikel/2316430-rusland-neemt-raket-in-gebruik-die-afweersystemen-nutteloos-maakt.html" "ракете Авангард" >}}».
+Любопытно почитать, о чём пишет нидерландская пресса в свете недавних новостей о якобы поставленной на боевое дежурство «невероятно быстрой [ракете Авангард](https://nos.nl/artikel/2316430-rusland-neemt-raket-in-gebruik-die-afweersystemen-nutteloos-maakt.html)».
 
-Издание {{< fl "NOS" >}} {{< a "https://nos.nl/artikel/2316533-of-russische-superraket-werkt-of-niet-in-vs-en-china-zijn-ze-geschrokken.html" "публикует" >}} интервью с экспертом по вооружениям института {{< fl "Clingendael" >}} Сико ван дер Меером ({{< fl "Sico van der Meer" >}}).
+Издание {{< fl "NOS" >}} [публикует](https://nos.nl/artikel/2316533-of-russische-superraket-werkt-of-niet-in-vs-en-china-zijn-ze-geschrokken.html) интервью с экспертом по вооружениям института {{< fl "Clingendael" >}} Сико ван дер Меером ({{< fl "Sico van der Meer" >}}).
 
 <!--more-->
 
@@ -31,7 +31,7 @@ imageCredit: "Фото: Wikimedia/CC-BY-4.0."
 
 ## Пропаганда и запугивание
 
-Эксперты по вооружениям высказывают сомнения в том, что российская ракета действительно взята на вооружение. Возможно, речь идёт о заключающих этапах тестирования, о чём {{< a "https://www.bbc.com/news/world-europe-50927648" "пишет эксперт BBC" >}}.
+Эксперты по вооружениям высказывают сомнения в том, что российская ракета действительно взята на вооружение. Возможно, речь идёт о заключающих этапах тестирования, о чём [пишет эксперт BBC](https://www.bbc.com/news/world-europe-50927648).
 
 Ван дер Меер разделяет эти сомнения:
 

@@ -9,8 +9,8 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/r2dn9h20kdccoa0iwo26.jpg"
 ---
 
-I've finally made it to Telegram. I've also created {{< a "/blog/subscribe" "Telegram channels" >}} for the blog feed in all three languages.
+I've finally made it to Telegram. I've also created [Telegram channels](/blog/subscribe) for the blog feed in all three languages.
 
 <!--more-->
 
-Feel free to {{< a "/blog/subscribe" "follow me" >}} on them.
+Feel free to [follow me](/blog/subscribe) on them.

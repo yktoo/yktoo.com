@@ -11,7 +11,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/tisbld0syiqcnxcqh24p.
 
 This day marks the end of the **47**-year-long history of the Great Britain as a part of the European Union.
 
-Even though it doesn't directly affect me, I find it a bit sad. I second {{< a "https://www.facebook.com/photo.php?fbid=1507974016019273&set=a.100672046749484&type=3" "Boris Akunin's opinion" >}} it's a regress and a victory of retrogressive thinking.
+Even though it doesn't directly affect me, I find it a bit sad. I second [Boris Akunin's opinion](https://www.facebook.com/photo.php?fbid=1507974016019273&set=a.100672046749484&type=3) it's a regress and a victory of retrogressive thinking.
 
 <!--more-->
 

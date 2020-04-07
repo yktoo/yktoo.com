@@ -11,7 +11,7 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/9e7brluw405h3500.jpg"
 ---
 
-У меня довольно много гаджетов производства китайской {{< fl "Xiaomi" >}}, среди которых уже около года и термометр-гигрометр {{< a "http://ali.pub/3qdxv7" "Xiaomi Mijia" >}} — то есть он показывает температуру и *относительную* влажность воздуха.
+У меня довольно много гаджетов производства китайской {{< fl "Xiaomi" >}}, среди которых уже около года и термометр-гигрометр [Xiaomi Mijia](http://ali.pub/3qdxv7) — то есть он показывает температуру и *относительную* влажность воздуха.
 
 <!--more-->
 
@@ -23,7 +23,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/9e7brluw405h3500.jpg"
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9e7brluw405h3500.jpg" "Термометр Xiaomi Mijia на стене." >}}
 
-Брал, конечно же, {{< a "http://ali.pub/3qdxv7" "на AliExpress" >}}, цена вместе с доставкой **€ 9**.
+Брал, конечно же, [на AliExpress](http://ali.pub/3qdxv7), цена вместе с доставкой **€ 9**.
 
 Сначала я взял один, на пробу. Гаджет понравился, особенно разница с ЖК-дисплеем заметна в сумерках. Тогда я купил ещё три.
 
@@ -59,4 +59,4 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/9e7brluw405h3500.jpg"
 
 ## Где купить
 
-Я покупал {{< a "http://ali.pub/3qdxv7" "у вот этого" >}} продавца.
+Я покупал [у вот этого](http://ali.pub/3qdxv7) продавца.

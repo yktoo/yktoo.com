@@ -15,9 +15,9 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/rs1f9dcy8kkwtsdsuld3.
 series: infopi
 ---
 
-My information kiosk application for *Raspberry Pi*, known as {{< a "/software/infopi" "InfoPi" >}}, has finally been given a major makeover.
+My information kiosk application for *Raspberry Pi*, known as [InfoPi](/software/infopi), has finally been given a major makeover.
 
-Four years ago I {{< a "0278" "posted" >}} about InfoPi's initial implementation. Let's see what the new version brings.
+Four years ago I [posted](0278) about InfoPi's initial implementation. Let's see what the new version brings.
 
 <!--more-->
 

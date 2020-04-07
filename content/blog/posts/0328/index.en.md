@@ -29,7 +29,7 @@ After Piotr passed away, {{< fl "Riverside" >}} lay low for a long while, but in
 
 The band has played 28 shows in April and May in their [Towards the Blue Horizon Tour](https://riversideband.pl/en/news/item/riverside-towards-the-blue-horizon-tour-2017a).
 
-I happened to witness one of them held at {{< fl "De Boerderij" >}} club in Zoetermeer. The same place I've watched {{< a "0321" "Wolverine et al." >}} just a month ago. Though this time the show was sold out and the venue was packed.
+I happened to witness one of them held at {{< fl "De Boerderij" >}} club in Zoetermeer. The same place I've watched [Wolverine et al.](0321) just a month ago. Though this time the show was sold out and the venue was packed.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/6wucusfcfj9j1524.jpg" "De Boerderij." >}}
 
@@ -55,7 +55,7 @@ In one of the songs Mariusz played an acoustic guitar instead of bass (if you ca
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/h8elqb7ea23z2634.jpg" "Riverside: Mariusz Duda playing in acoustics." >}}
 
-Mariusz also mentioned about his warm feelings for Holland, just like {{< a "0317#plini" "Plini" >}} and {{< a "0321#wolverine" "Wolverine" >}} before. Which is fair enough considering that Riverside's popularity rocketed after their performance at the Progpower festival in the Dutch Baarlo. And, of course, the fact the show had been sold out was flattering for the musicians.
+Mariusz also mentioned about his warm feelings for Holland, just like [Plini](0317#plini) and [Wolverine](0321#wolverine) before. Which is fair enough considering that Riverside's popularity rocketed after their performance at the Progpower festival in the Dutch Baarlo. And, of course, the fact the show had been sold out was flattering for the musicians.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/jykrtkg32kij2285.jpg" "Riverside." >}}
 
@@ -67,4 +67,4 @@ To conclude: I really enjoyed them playing so I'm definitely going to see them a
 
 ---
 
-Both my videos are listed in the sidebar on the right; they are also available on the {{< a "/videoevents/vevt0045" "event page" >}}.
+Both my videos are listed in the sidebar on the right; they are also available on the [event page](/videoevents/vevt0045).

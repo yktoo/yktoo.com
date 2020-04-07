@@ -15,7 +15,7 @@ tags:
 image: "eonics-openhacknight-hugo.png"
 ---
 
-For those interested in static website generation using the world's fastest tool, {{< a "https://gohugo.io/" "Hugo" >}} — I will be giving a presentation followed by a workshop at Eonics HQ on **21 November**.
+For those interested in static website generation using the world's fastest tool, [Hugo](https://gohugo.io/) — I will be giving a presentation followed by a workshop at Eonics HQ on **21 November**.
 
 <!--more-->
 
@@ -28,4 +28,4 @@ There will also be food and drinks served after the presentation.
 
 If you plan to take part in the workshop, please bring your laptop.
 
-You can register for the event {{< a "https://www.eventbrite.com/e/tickets-eonics-hack-night-19-static-site-generation-met-hugo-75650411417" "on Eventbrite" >}}, the admission is free.
+You can register for the event [on Eventbrite](https://www.eventbrite.com/e/tickets-eonics-hack-night-19-static-site-generation-met-hugo-75650411417), the admission is free.

@@ -13,7 +13,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/9e7brluw405h3500.jpg"
 
 I like {{< fl "Xiaomi" >}} gadgets and own quite a bunch of them.
 
-I've been using their thermo-hygrometer {{< a "http://ali.pub/3qdxv7" "Xiaomi Mijia" >}} for about a year now. This neat gadget provides temperature and *relative* humidity readings.
+I've been using their thermo-hygrometer [Xiaomi Mijia](http://ali.pub/3qdxv7) for about a year now. This neat gadget provides temperature and *relative* humidity readings.
 
 <!--more-->
 
@@ -25,7 +25,7 @@ The thermo-hygrometer can be hung on a wall or put on a desk using the provided 
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/9e7brluw405h3500.jpg" "Xiaomi Mijia thermometer on a wall." >}}
 
-I bought mine {{< a "http://ali.pub/3qdxv7" "at AliExpress" >}} at a nifty price of **€ 9**, shipping included.
+I bought mine [at AliExpress](http://ali.pub/3qdxv7) at a nifty price of **€ 9**, shipping included.
 
 I've started with one piece to try it out, and it worked out fine. Then I bought another three. The e-ink display is gorgeous, especially in the dusk the difference with a regular LCD is striking.
 
@@ -63,4 +63,4 @@ When it comes to the battery life, I have some mixed feelings. In some cases the
 
 ## Where to buy
 
-{{< a "http://ali.pub/3qdxv7" "Here's the seller" >}} I've bought it from.
+[Here's the seller](http://ali.pub/3qdxv7) I've bought it from.

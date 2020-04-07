@@ -18,9 +18,9 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/8f54b4vu3vf03161.jpg"
 ---
 
-Экономисты из {{< fl "ING" >}} {{< a "https://www.ing.nl/zakelijk/kennis-over-de-economie/uw-sector/transport-en-logistiek/electric-heavy-duty-trucks.html" "предсказывают" >}}, что в **2028** году электрогрузовики станут финансово выгоднее дизельных.
+Экономисты из {{< fl "ING" >}} [предсказывают](https://www.ing.nl/zakelijk/kennis-over-de-economie/uw-sector/transport-en-logistiek/electric-heavy-duty-trucks.html), что в **2028** году электрогрузовики станут финансово выгоднее дизельных.
 
-Одним из положений {{< a "0354" "Соглашения о климате" >}} является создание от **30** до **40** экологических зон в различных городах Нидерландов, начиная с **2025** года. Въезд традиционных (бензиновых и дизельных) автомобилей в такие зоны будет запрещён.
+Одним из положений [Соглашения о климате](0354) является создание от **30** до **40** экологических зон в различных городах Нидерландов, начиная с **2025** года. Въезд традиционных (бензиновых и дизельных) автомобилей в такие зоны будет запрещён.
 
 <!--more-->
 
@@ -36,11 +36,11 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/8f54b4vu3vf03161.jpg"
 
 Американские компании {{< fl "Nikola" >}} и {{< fl "Tesla" >}} уже давно обещают запустить электрические грузовики в серию, но пока всё обещаниями и ограничивается.
 
-{{< fl "Nikola" >}} {{< a "https://www.trucks.com/2019/03/25/nikola-land-deal-arizona-truck-plant/" "планирует" >}} ежегодно производить до **35 000** штук с **2023** года.
+{{< fl "Nikola" >}} [планирует](https://www.trucks.com/2019/03/25/nikola-land-deal-arizona-truck-plant/) ежегодно производить до **35 000** штук с **2023** года.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/8l50tqr1kiz52106.jpg" "Nikola One." >}}
 
- {{< fl "Tesla" >}} {{< a "https://electrek.co/2019/06/11/tesla-pickup-semi-truck-timelines-elon-musk/" "утверждает" >}}, что первые {{< fl "Semi" >}} выйдут раньше: уже в конце **2020** года.
+ {{< fl "Tesla" >}} [утверждает](https://electrek.co/2019/06/11/tesla-pickup-semi-truck-timelines-elon-musk/), что первые {{< fl "Semi" >}} выйдут раньше: уже в конце **2020** года.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/8f54b4vu3vf03161.jpg" "Tesla Semi." >}}
 

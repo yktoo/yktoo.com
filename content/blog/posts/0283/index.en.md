@@ -21,7 +21,7 @@ aliases:
 
 I've finally nerved myself to tell you about a sad development for prog lovers.
 
-I first learned about the Dutch prog band *Sun Caged* when I came to Holland back in 2008. Shortly after I've even seen them playing on {{< a "0022" "Walhalla" "ru" >}}. I must say I was impressed. But three years later, in 2011, the band has released {{< wiki "The_Lotus_Effect" "en" "The Lotus Effect" >}} (which also happened to be their last album), I was totally blown away as this was absolutely a masterpiece of progressive metal. I can't even explain why, but I deem this album one of the best rock works ever, and I seem to be able to listen to it endlessly.
+I first learned about the Dutch prog band *Sun Caged* when I came to Holland back in 2008. Shortly after I've even seen them playing on [Walhalla](ru;0022). I must say I was impressed. But three years later, in 2011, the band has released {{< wiki "The_Lotus_Effect" "en" "The Lotus Effect" >}} (which also happened to be their last album), I was totally blown away as this was absolutely a masterpiece of progressive metal. I can't even explain why, but I deem this album one of the best rock works ever, and I seem to be able to listen to it endlessly.
 
 <!--more-->
 
@@ -67,7 +67,7 @@ The name of the band speaks for itself: it's formed around the guitarist [Marcel
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/4mqyicy97o782234.jpg" "Marcel Coenen." >}}
 
-Since I saw him {{< a "0022" "last time" "ru" >}} he has clearly grown, both in proficiency and in size.
+Since I saw him [last time](ru;0022) he has clearly grown, both in proficiency and in size.
 
 The band also features another *Sun Caged* member, the keyboardist *Rene Kroon*.
 
@@ -115,7 +115,7 @@ The entire show was filmed with a number of professional cameras (including one 
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cw5l5y8pwmay3591.jpg" "Marcel Coenen." >}}
 
-As I was told, the video will be released in Ultra HD (then I can finally make use of {{< a "0243" "4K in my TV" >}}). In the meantime you can enjoy somewhat less professional, yet equally impressing material of my own making.
+As I was told, the video will be released in Ultra HD (then I can finally make use of [4K in my TV](0243)). In the meantime you can enjoy somewhat less professional, yet equally impressing material of my own making.
 
 Another challenge for the band was that the bassist *Daniel Kohn* had some health issues not so long before the show, so he was replaced by *Arnold-Dimitry Rerimassie*.
 
@@ -185,4 +185,4 @@ Some more photos:
 
 ---
 
-All concert videos are available on the {{< a "/videoevents/vevt0035" "event page" >}}.
+All concert videos are available on the [event page](/videoevents/vevt0035).

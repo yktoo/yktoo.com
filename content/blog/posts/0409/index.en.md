@@ -13,7 +13,7 @@ tags:
 image: "afk-best-en.png"
 ---
 
-My abbreviation dictionary {{< a "https://afk.best/en/" "afk.best" >}} has received an option for searching abbreviations only (and not all available fields).
+My abbreviation dictionary [afk.best](https://afk.best/en/) has received an option for searching abbreviations only (and not all available fields).
 
 <!--more-->
 

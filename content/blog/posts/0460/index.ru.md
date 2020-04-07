@@ -12,13 +12,13 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/cp4fulegqvjn727x54gb.
 imageCredit: "Фото: Paweł Czerwiński/Unsplash."
 ---
 
-Это любопытно: муниципалитет Амстердама {{< a "https://slimmeapparaten.amsterdam.nl/about" "предоставляет" >}} специальный онлайн-сервис {{< a "https://slimmeapparaten.amsterdam.nl/" "Register slimme apparaten" >}} («регистр умных аппаратов») — интерактивную карту, на которой отмечено множество устройств, осуществляющих слежку за простыми (и непростыми тоже) амстердамцами.
+Это любопытно: муниципалитет Амстердама [предоставляет](https://slimmeapparaten.amsterdam.nl/about) специальный онлайн-сервис [Register slimme apparaten](https://slimmeapparaten.amsterdam.nl/) («регистр умных аппаратов») — интерактивную карту, на которой отмечено множество устройств, осуществляющих слежку за простыми (и непростыми тоже) амстердамцами.
 
 <!--more-->
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/avopja7lou1js7wen8si.jpg" "Скриншот интерактивной карты. Источник: Gemeente Amsterdam/CC-BY-4.0." >}}
 
-Назначение этого сервиса, {{< a "https://www.parool.nl/amsterdam/kaart-van-gemeente-laat-zien-waar-gegevens-verzameld-worden~b964acce/" "запущенного" >}} около полугода назад, состоит в том, чтобы информировать граждан о всевозможных инструментах городской повседневной слежки, установленных в общественных местах, {{< a "https://slimmeapparaten.amsterdam.nl/categories" "среди которых" >}}:
+Назначение этого сервиса, [запущенного](https://www.parool.nl/amsterdam/kaart-van-gemeente-laat-zien-waar-gegevens-verzameld-worden~b964acce/) около полугода назад, состоит в том, чтобы информировать граждан о всевозможных инструментах городской повседневной слежки, установленных в общественных местах, [среди которых](https://slimmeapparaten.amsterdam.nl/categories):
 
 * Камеры видеонаблюдения;
 * Системы распознавания лиц или номеров автомобилей;
@@ -34,8 +34,8 @@ imageCredit: "Фото: Paweł Czerwiński/Unsplash."
 
 У этой замечательной на мой взгляд инициативы есть заметный недостаток: регистрация в регистре необязательна и он, как следствие, далеко не полный.
 
-Хемента Амстердама пока что {{< a "https://slimmeapparaten.amsterdam.nl/about/faq" "изучает" >}}, насколько жизнеспособна такая добровольная модель. Возможно, в будущем регистрация устройств, имеющих потенциал для отслеживания граждан, станет обязательной.
+Хемента Амстердама пока что [изучает](https://slimmeapparaten.amsterdam.nl/about/faq), насколько жизнеспособна такая добровольная модель. Возможно, в будущем регистрация устройств, имеющих потенциал для отслеживания граждан, станет обязательной.
 
-Кроме того, недавно проведённая {{< fl "PwC" >}} аудиторская проверка {{< a "https://www.amsterdam.nl/bestuur-organisatie/organisatie/overige/adviesraden/commissie-persoonsgegevens-amsterdam/onderzoek-monitoring-openbare-ruimte/" "обнаружила" >}} ~~полный бардак~~ крупные недочёты в работе с чувствительной информацией. Отчёт ({{< a "https://assets.amsterdam.nl/publish/pages/922924/cpa_onderzoek_2019_monitoring_in_de_openbare_ruimte_2_geredigeerd.pdf" "PDF" >}}) отмечает, что есть серьёзные вопросы в отношении реализации одной из ключевых свобод: возможности анонимно перемещаться по городу. Впрочем, заказавшая аудит Амстердамская комиссия по защите персональных данных ({{< fl "CPA" >}}), {{< a "https://www.parool.nl/amsterdam/gemeente-is-onvoldoende-transparant-over-monitoren-in-openbare-ruimte~b87e1683/?referer=https%3A%2F%2Fkeep.google.com%2Fu%2F0%2F" "считает" >}}, что в современных реалиях этот принцип соблюсти невозможно.
+Кроме того, недавно проведённая {{< fl "PwC" >}} аудиторская проверка [обнаружила](https://www.amsterdam.nl/bestuur-organisatie/organisatie/overige/adviesraden/commissie-persoonsgegevens-amsterdam/onderzoek-monitoring-openbare-ruimte/) ~~полный бардак~~ крупные недочёты в работе с чувствительной информацией. Отчёт ([PDF](https://assets.amsterdam.nl/publish/pages/922924/cpa_onderzoek_2019_monitoring_in_de_openbare_ruimte_2_geredigeerd.pdf)) отмечает, что есть серьёзные вопросы в отношении реализации одной из ключевых свобод: возможности анонимно перемещаться по городу. Впрочем, заказавшая аудит Амстердамская комиссия по защите персональных данных ({{< fl "CPA" >}}), [считает](https://www.parool.nl/amsterdam/gemeente-is-onvoldoende-transparant-over-monitoren-in-openbare-ruimte~b87e1683/?referer=https%3A%2F%2Fkeep.google.com%2Fu%2F0%2F), что в современных реалиях этот принцип соблюсти невозможно.
 
 Также в отчёте отмечается, что крайне сложно понять, что именно, где и в каких целях собирается: каждый департамент устанавливает свои правила по работе с данными, а единой политики на муниципальном уровне не существует.

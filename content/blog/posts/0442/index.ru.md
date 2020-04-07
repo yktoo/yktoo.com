@@ -19,7 +19,7 @@ imageCredit: "Фото: ANWB."
 
 <!--more-->
 
-Информацию обнаружил на {{< a "https://www.anwb.nl/verkeer/veiligheid/vijf-vragen-over-motoren-in-de-file" "сайте" >}} {{< fl "ANWB" >}}, здесь привожу её перевод.
+Информацию обнаружил на [сайте](https://www.anwb.nl/verkeer/veiligheid/vijf-vragen-over-motoren-in-de-file) {{< fl "ANWB" >}}, здесь привожу её перевод.
 
 ## 1. Можно ли объезжать пробку, пробираясь между полосами движения?
 

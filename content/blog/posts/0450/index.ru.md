@@ -11,7 +11,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/ojtk1qijurw7emrqtlgz.
 imageCredit: "Фото: PostNL."
 ---
 
-С **1** января {{< yearn 2020 "следующего" >}} года отправить почту с национальным почтовым оператором {{< fl "PostNL" >}} из Нидерландов {{< a "https://nos.nl/artikel/2308991-brieven-kaarten-en-pakketjes-versturen-wordt-duurder.html" "станет" >}} (ещё) дороже.
+С **1** января {{< yearn 2020 "следующего" >}} года отправить почту с национальным почтовым оператором {{< fl "PostNL" >}} из Нидерландов [станет](https://nos.nl/artikel/2308991-brieven-kaarten-en-pakketjes-versturen-wordt-duurder.html) (ещё) дороже.
 
 <!--more-->
 

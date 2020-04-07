@@ -16,7 +16,7 @@ aliases:
     - /ru/blog/post/79
 ---
 
-Да, {{< a "0025" "опять" >}} (в этом году совсем рано)!
+Да, [опять](0025) (в этом году совсем рано)!
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/m5hncao9s5rd3078.jpg" >}}
 

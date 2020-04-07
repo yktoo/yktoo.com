@@ -14,9 +14,9 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/fil9q9d25kaoxdugc43c.
 imageCredit: "Фото: Javier Carcamo/Flickr/CC-BY-NC-SA-2.0."
 ---
 
-Нидерландское министерство юстиции и безопасности {{< a "https://www.rijksoverheid.nl/ministeries/ministerie-van-justitie-en-veiligheid/nieuws/2020/02/11/circa-84-miljoen-geconstateerde-verkeersovertredingen-in-2019" "опубликовало" >}} отчёт о соблюдении правил дорожного движения ({{< a "https://www.rijksoverheid.nl/ministeries/ministerie-van-justitie-en-veiligheid/documenten/rapporten/2020/02/11/overtredingen-2019-wet-administratiefrechtelijke-handhaving-verkeersvoorschriften-wahv-ofwel-wet-mulder" "Wahv" >}}) в {{< yearp 2019 "прошлом" >}} году.
+Нидерландское министерство юстиции и безопасности [опубликовало](https://www.rijksoverheid.nl/ministeries/ministerie-van-justitie-en-veiligheid/nieuws/2020/02/11/circa-84-miljoen-geconstateerde-verkeersovertredingen-in-2019) отчёт о соблюдении правил дорожного движения ([Wahv](https://www.rijksoverheid.nl/ministeries/ministerie-van-justitie-en-veiligheid/documenten/rapporten/2020/02/11/overtredingen-2019-wet-administratiefrechtelijke-handhaving-verkeersvoorschriften-wahv-ofwel-wet-mulder)) в {{< yearp 2019 "прошлом" >}} году.
 
-По приведённым в нём цифрам можно заключить, что общее количество правонарушений за год снизилось на **8,8%** (с **9,2 млн** до **8,4 млн**). Подавляющее количество штрафов — **82%** — было выписано за превышение скорости, **6%** за неправильную парковку, **3,2%** за проблемы с {{< a "0576" "освещением" >}}.
+По приведённым в нём цифрам можно заключить, что общее количество правонарушений за год снизилось на **8,8%** (с **9,2 млн** до **8,4 млн**). Подавляющее количество штрафов — **82%** — было выписано за превышение скорости, **6%** за неправильную парковку, **3,2%** за проблемы с [освещением](0576).
 
 <!--more-->
 
@@ -26,4 +26,4 @@ imageCredit: "Фото: Javier Carcamo/Flickr/CC-BY-NC-SA-2.0."
 
 ## Велосипедисты
 
-Из нового — введённый в {{< yearp 2019 "прошлом" >}} году {{< a "0415" "полный запрет" >}} на использование мобильного телефона на велосипеде вылился в **21 327** выписанных велосипедистам штрафов.
+Из нового — введённый в {{< yearp 2019 "прошлом" >}} году [полный запрет](0415) на использование мобильного телефона на велосипеде вылился в **21 327** выписанных велосипедистам штрафов.

@@ -15,11 +15,11 @@ imageCredit: "Картинка: iXimus/Pixabay."
 series: coronavirus
 ---
 
-Текущая статистика от {{< a "https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6" "Johns Hopkins University" >}}: **96 788** заражённых, **53 638** излечившихся, **3 303** умерших.
+Текущая статистика от [Johns Hopkins University](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6): **96 788** заражённых, **53 638** излечившихся, **3 303** умерших.
 
 В этот раз образец бельгийского коронавирусного юмора.
 
-В магазинах {{< fl "Shop & Go" >}} в Брюсселе некоторое время {{< a "https://www.hln.be/de-krant/-2-corona-s-kopen-1-mort-subite-gratis-delhaize-voert-actie-snel-weer-af~aa141b36/" "проводилась" >}} акция: тот, кто купит две бутылки пива {{< fl "Corona" >}}, бесплатно получал одну бутылку {{< fl "Mort Subite" >}}.
+В магазинах {{< fl "Shop & Go" >}} в Брюсселе некоторое время [проводилась](https://www.hln.be/de-krant/-2-corona-s-kopen-1-mort-subite-gratis-delhaize-voert-actie-snel-weer-af~aa141b36/) акция: тот, кто купит две бутылки пива {{< fl "Corona" >}}, бесплатно получал одну бутылку {{< fl "Mort Subite" >}}.
 
 <!--more-->
 
@@ -29,7 +29,7 @@ series: coronavirus
 
 ## Рост
 
-Количество заражённых коронавирусом в Нидерландах за последние сутки резко {{< a "https://nos.nl/liveblog/2325922-besmettingen-nederland-verdubbelen-tot-82-twee-opgenomen-in-het-ziekenhuis.html" "выросло" >}}: с **38** до **82** человек. Двое из числа новых пациентов в больнице, остальные **42** на домашнем карантине.
+Количество заражённых коронавирусом в Нидерландах за последние сутки резко [выросло](https://nos.nl/liveblog/2325922-besmettingen-nederland-verdubbelen-tot-82-twee-opgenomen-in-het-ziekenhuis.html): с **38** до **82** человек. Двое из числа новых пациентов в больнице, остальные **42** на домашнем карантине.
 
 Министр здравоохранения {{< fl "Bruno Bruins" >}} объясняет, что столь резкий рост частично объясняется изменением критериев для групп риска: сейчас тестируется больше пациентов.
 
@@ -37,7 +37,7 @@ series: coronavirus
 
 ## Хаутен
 
-Наш Хаутен опять в лидерах, к сожалению: всего в муниципалитете **9** {{< a "https://www.houten.nl/bestuur-organisatie/beleid-en-regelgeving/liveblog-coronavirus/" "заражённых" >}} — это наибольшее число из всех {{< a "https://localfocus2.appspot.com/5e60d6e7bfb6f" "нидерландских хемент" >}}.
+Наш Хаутен опять в лидерах, к сожалению: всего в муниципалитете **9** [заражённых](https://www.houten.nl/bestuur-organisatie/beleid-en-regelgeving/liveblog-coronavirus/) — это наибольшее число из всех [нидерландских хемент](https://localfocus2.appspot.com/5e60d6e7bfb6f).
 
 Все они относятся к трём семьям:
 
@@ -47,7 +47,7 @@ series: coronavirus
 
 ## Медработники
 
-Четверо заражённых — работники {{< a "https://nos.nl/artikel/2325850-ook-ziekenhuispersoneel-in-eindhoven-breda-en-den-bosch-besmet-met-corona.html" "больниц" >}}.
+Четверо заражённых — работники [больниц](https://nos.nl/artikel/2325850-ook-ziekenhuispersoneel-in-eindhoven-breda-en-den-bosch-besmet-met-corona.html).
 
 В официальных рекомендациях содрудникам в сфере здравоохранения по-прежнему говорится, что при отсутствии симптомов те, которые заняты в критических видах помощи (таких как реанимация и скорая помощь), могут продолжать работать.
 
@@ -55,7 +55,7 @@ series: coronavirus
 
 ## Коронавирус коронавирусу рознь
 
-В прессе также {{< a "https://www.rtlnieuws.nl/editienl/artikel/5042636/wanneer-test-coronavirus-covid-19" "сообщается" >}} о росте популярности «домашних» тестов на коронавирус. Проблема в том, что все они предназначены для животных (кошек и собак) и неспособны достоверно обнаруживать {{< fl "COVID-19" >}}.
+В прессе также [сообщается](https://www.rtlnieuws.nl/editienl/artikel/5042636/wanneer-test-coronavirus-covid-19) о росте популярности «домашних» тестов на коронавирус. Проблема в том, что все они предназначены для животных (кошек и собак) и неспособны достоверно обнаруживать {{< fl "COVID-19" >}}.
 
 Вирусологи однозначно утверждают, что использовать их бессмысленно.
 
@@ -65,7 +65,7 @@ series: coronavirus
 
 ## Когда звонить врачу
 
-В настоящий момент рекомендации {{< a "https://www.rivm.nl/coronavirus/covid-19" "следующие" >}}: обращайтесь к врачу, *только* если у вас есть всё нижеперечисленное:
+В настоящий момент рекомендации [следующие](https://www.rivm.nl/coronavirus/covid-19): обращайтесь к врачу, *только* если у вас есть всё нижеперечисленное:
 
 * Высокая температура (выше **38 °**).
 * Кашель или одышка.

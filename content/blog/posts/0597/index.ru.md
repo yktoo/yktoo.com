@@ -15,9 +15,9 @@ series: sound-switcher-indicator
 software: sound-switcher-indicator
 ---
 
-Увидел свет очередной релиз {{< a "/software/sound-switcher-indicator" "Sound Switcher Indicator" >}} — **2.3.0**.
+Увидел свет очередной релиз [Sound Switcher Indicator](/software/sound-switcher-indicator) — **2.3.0**.
 
-В этой версии я наконец-то добавил то, что очень часто {{< a "https://github.com/yktoo/indicator-sound-switcher/issues/38" "просили" >}}: возможность назначать глобальные комбинации клавиш для переключения *портов* (входов и выходов).
+В этой версии я наконец-то добавил то, что очень часто [просили](https://github.com/yktoo/indicator-sound-switcher/issues/38): возможность назначать глобальные комбинации клавиш для переключения *портов* (входов и выходов).
 
 <!--more-->
 
@@ -39,4 +39,4 @@ software: sound-switcher-indicator
 
 ## Установка
 
-Чтобы установить или обновить приложение, следуйте описанию на {{< a "/software/sound-switcher-indicator#установка" "соответствующей странице" >}}.
+Чтобы установить или обновить приложение, следуйте описанию на [соответствующей странице](/software/sound-switcher-indicator#установка).

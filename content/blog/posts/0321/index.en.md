@@ -31,7 +31,7 @@ It is pretty typical here in Holland to have an international line-up like this:
 
 I'm very fortunate to have a preference for as underground music as *progressive metal*. That saves me a lot of money, allowing to watch  three highly professional bands live for the ridiculous sum of **€18**.
 
-I didn't take my camera with me, keeping in mind my past experience with [De Boerderij](http://cultuurpodiumboerderij.nl/) on {{< a "0267" "The Aristocrats" >}}, when I had to hand it in at the entrance. The only gear I had was my {{< a "0315#gopro-hero-5" "new GoPro Hero 5" >}}, which I slipped into my pocket. Which wasn't necessary as it turned out, as no one would care. Pity I didn't take a selfie-stick at least.
+I didn't take my camera with me, keeping in mind my past experience with [De Boerderij](http://cultuurpodiumboerderij.nl/) on [The Aristocrats](0267), when I had to hand it in at the entrance. The only gear I had was my [new GoPro Hero 5](0315#gopro-hero-5), which I slipped into my pocket. Which wasn't necessary as it turned out, as no one would care. Pity I didn't take a selfie-stick at least.
 
 So please don't mind the quality of the photos taken with my mobile. The video quality, on the contrary, is quite decent. Many cameras have microphones with a very limited dynamic range, which causes a lot of sound clipping during rock concerts, but my GoPro handled it without a glitch. The only thing missing here is optical zoom.
 
@@ -115,7 +115,7 @@ Thanks to the low attendance it was easy to chat with the musicians after the sh
 
 ## Wolverine {#wolverine}
 
-The Swedish band [Wolverine](http://www.wolverine-overdose.com/) has been on my playlist for more than a decade now, and I consider them living classics, just like {{< a "0101#anathema" "Anathema" "ru" >}} (whom they bear some resemblance to).
+The Swedish band [Wolverine](http://www.wolverine-overdose.com/) has been on my playlist for more than a decade now, and I consider them living classics, just like [Anathema](ru;0101#anathema) (whom they bear some resemblance to).
 
 What's curious is that one gets some graphic image in his head as he listens to a band's music. And in my case, the real {{< fl "Wolverine" >}} had nothing in common with that image I had before.
 
@@ -141,10 +141,10 @@ Here's one of my favourite songs from the band's recent album {{< fl "Machina Vi
 
 {{< youtube "XhAjT1oJz8M" >}}
 
-Stefan mentioned that Holland was his "second home", just like {{< a "0317" "Plini" >}} a month ago. Some people say {{< fl "Wolverine" >}} plays too many shows here, which I can't agree with.
+Stefan mentioned that Holland was his "second home", just like [Plini](0317) a month ago. Some people say {{< fl "Wolverine" >}} plays too many shows here, which I can't agree with.
 
 Unfortunately the band didn't come out after the performance. Which is a pity as I'd really like to talk to them.
 
 ---
 
-All of my videos are listed in the sidebar on the right; they are also available on the {{< a "/videoevents/vevt0043" "event page" >}}.
+All of my videos are listed in the sidebar on the right; they are also available on the [event page](/videoevents/vevt0043).

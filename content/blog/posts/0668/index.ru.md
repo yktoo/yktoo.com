@@ -41,7 +41,7 @@ series: dutch-expressions
 {{< spoiler "Ответ" >}}
 У слова {{< fl "één" >}} (один) используют букву {{< fl "é" >}} с акцентом, чтобы отличать его от неопределённого артикля {{< fl "een" >}} — там, где это неочевидно.
 
-Однако в заглавных буквах акцент {{< a "https://taaladvies.net/taal/advies/vraag/1842/accenttekens_en_andere_diakritische_tekens_op_hoofdletters/" "не ставится" >}}:
+Однако в заглавных буквах акцент [не ставится](https://taaladvies.net/taal/advies/vraag/1842/accenttekens_en_andere_diakritische_tekens_op_hoofdletters/):
 
 {{< fl "Eén van de kinderen bleef spelen." >}}
 {{< /spoiler >}}

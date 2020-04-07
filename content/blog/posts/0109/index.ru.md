@@ -94,7 +94,7 @@ aliases:
 
 ## Desperados {#desperados}
 
-Пришло воскресенье, а с ним и знакомые уже мне бравые хлопцы [Desperados](http://www.desperados-music.com/) из приснопамятной деревни {{< a "0005" "Суст" >}} выступили с прямо-таки недеревенским размахом.
+Пришло воскресенье, а с ним и знакомые уже мне бравые хлопцы [Desperados](http://www.desperados-music.com/) из приснопамятной деревни [Суст](0005) выступили с прямо-таки недеревенским размахом.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/j0nf8wrll7oo0391.jpg" >}}
 

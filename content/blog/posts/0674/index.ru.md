@@ -26,7 +26,7 @@ series: dutch-expressions
 
 > запасаться, закупаться, затариваться
 
-Всё это в смысле «сметать с магазинных полок». И это именно то, что происходит у нас сейчас, несмотря на {{< a "https://www.nu.nl/279596/video/premier-rutte-hamsteren-is-niet-nodig-en-niet-sociaal.html" "уверения" >}} правительства, что этого совершенно не требуется.
+Всё это в смысле «сметать с магазинных полок». И это именно то, что происходит у нас сейчас, несмотря на [уверения](https://www.nu.nl/279596/video/premier-rutte-hamsteren-is-niet-nodig-en-niet-sociaal.html) правительства, что этого совершенно не требуется.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/l8b4evkavlyg45eqfem7.jpg" "Картинка: Albert Heijn." >}}
 

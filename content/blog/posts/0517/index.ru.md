@@ -15,7 +15,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/b09elcoxmuxaqelsgmm1.
 imageCredit: "Фото: МИД России/Flickr/CC-BY-NC-SA-2.0."
 ---
 
-Правительство Нидерландов {{< a "https://www.rijksoverheid.nl/actueel/nieuws/2019/12/23/nederland-koersvast-richting-rusland" "публикует" >}} отчёт министра иностранных дел Стефа Блока ({{< fl "Stef Blok" >}}) касательно внешнеполитической стратегии страны в отношении Российской Федерации.
+Правительство Нидерландов [публикует](https://www.rijksoverheid.nl/actueel/nieuws/2019/12/23/nederland-koersvast-richting-rusland) отчёт министра иностранных дел Стефа Блока ({{< fl "Stef Blok" >}}) касательно внешнеполитической стратегии страны в отношении Российской Федерации.
 
 Кабинет министров намерен и дальше использовать «целенаправленный и реалистичный» подход в данных вопросах.
 
@@ -41,4 +41,4 @@ imageCredit: "Фото: МИД России/Flickr/CC-BY-NC-SA-2.0."
 
 > Россия — это не только Кремль. Поэтому важно говорить не только с власть предержащими, но и с другими общественными группами.
 
-{{< a "https://www.rijksoverheid.nl/ministeries/ministerie-van-buitenlandse-zaken/documenten/kamerstukken/2019/12/23/ruslandstrategie" "Полный доклад" >}} министра на сайте правительства.
+[Полный доклад](https://www.rijksoverheid.nl/ministeries/ministerie-van-buitenlandse-zaken/documenten/kamerstukken/2019/12/23/ruslandstrategie) министра на сайте правительства.

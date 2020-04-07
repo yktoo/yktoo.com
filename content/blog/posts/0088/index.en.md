@@ -58,7 +58,7 @@ Street is {{< fl "utca" >}} (pronounced {{< fl "oot-tsa" >}}), but in our ignora
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/r7u7gr2ziibw2701.jpg" "One of the 'ducks'" >}}
 
-Hungary is the origin of Ikarus busses. At one time they have been ubiquitous on Russian roads (and there are many being used still). It's a part of my own history, like {{< a "0077" "MMM" >}} and the bubble gum called "Love Is".
+Hungary is the origin of Ikarus busses. At one time they have been ubiquitous on Russian roads (and there are many being used still). It's a part of my own history, like [MMM](0077) and the bubble gum called "Love Is".
 
 Here you can see some bizarre editions like this open tourist bus:
 
@@ -80,4 +80,4 @@ A close-up:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/amlxcuo2oouo2568.jpg" >}}
 
-Next: {{< a "0089" "Part 7. Budapest at night" >}}
+Next: [Part 7. Budapest at night](0089)

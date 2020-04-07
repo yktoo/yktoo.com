@@ -14,13 +14,13 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/s3v3c28lw46a3034.jpg"
 
 {{< abbr "TGIF" "Thank God it's Friday!" >}} — time for wine (and a review)!
 
-I've been using the electric corkscrew {{< a "http://ali.pub/3tn9ap" " Xiaomi Mijia" >}} for more than a year now and I'm pretty happy with it.
+I've been using the electric corkscrew [ Xiaomi Mijia](http://ali.pub/3tn9ap) for more than a year now and I'm pretty happy with it.
 
 It features a rechargeable battery, which means there's one more gadget to charge. However, I dare say you won't need to charge it frequently unless you drink wine a crate a day.
 
 <!--more-->
 
-Its full name is {{< a "http://ali.pub/3tn9ap" " Xiaomi Mijia Huohou automatic electric corkscrew" >}} and you can buy one for about **€ 22**.
+Its full name is [ Xiaomi Mijia Huohou automatic electric corkscrew](http://ali.pub/3tn9ap) and you can buy one for about **€ 22**.
 
 ## What's in the box
 
@@ -72,5 +72,5 @@ I can't say how many bottles it can run on a single charge but it's definitely d
 
 * None found
 
-You can get yourself one, for instance, on AliExpress {{< a "http://ali.pub/3tn9ap" "here" >}}.
+You can get yourself one, for instance, on AliExpress [here](http://ali.pub/3tn9ap).
 

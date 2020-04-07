@@ -12,9 +12,9 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/cyb3xdvfqde0widn1nxn.
 imageCredit: "Фото: Google Maps."
 ---
 
-Сеть магазинов женской одежды {{< fl "Didi" >}}, о банкротстве которой {{< a "https://www.nu.nl/economie/6022306/damesmodeketen-didi-is-failliet-en-zoekt-koper.html" "стало" >}} известно в январе {{< year 2020 "этого" >}} года, окончательно пропадёт с нидерландского рынка.
+Сеть магазинов женской одежды {{< fl "Didi" >}}, о банкротстве которой [стало](https://www.nu.nl/economie/6022306/damesmodeketen-didi-is-failliet-en-zoekt-koper.html) известно в январе {{< year 2020 "этого" >}} года, окончательно пропадёт с нидерландского рынка.
 
-Об этом {{< a "https://www.rtlz.nl/business/artikel/5017231/geen-doorstart-modewinkels-didi-500-man-op-straat" "сообщил" >}} временный управляющий компании {{< fl "Marc le Belle" >}}.
+Об этом [сообщил](https://www.rtlz.nl/business/artikel/5017231/geen-doorstart-modewinkels-didi-500-man-op-straat) временный управляющий компании {{< fl "Marc le Belle" >}}.
 
 <!--more-->
 

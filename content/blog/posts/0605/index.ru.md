@@ -14,7 +14,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/ggvk5zrszjljwbi0nnts.
 imageCredit: "Фото: Bic/Wikimedia/CC-BY-SA-4.0."
 ---
 
-Нидерландский железнодорожный оператор {{< fl "ProRail" >}} {{< a "https://nos.nl/artikel/2322073-minder-koperdiefstal-mede-dankzij-camouflagenetten-en-speurneuzen-prorail.html" "сообщает" >}} о кардинальном улучшении ситуации с кражей медного кабеля на железной дороге — за последние восемь лет количество подобных инцидентов снизилось в восемь раз: с **500+** до **65**.
+Нидерландский железнодорожный оператор {{< fl "ProRail" >}} [сообщает](https://nos.nl/artikel/2322073-minder-koperdiefstal-mede-dankzij-camouflagenetten-en-speurneuzen-prorail.html) о кардинальном улучшении ситуации с кражей медного кабеля на железной дороге — за последние восемь лет количество подобных инцидентов снизилось в восемь раз: с **500+** до **65**.
 
 <!--more-->
 

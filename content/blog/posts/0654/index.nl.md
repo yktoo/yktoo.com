@@ -9,8 +9,8 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/r2dn9h20kdccoa0iwo26.jpg"
 ---
 
-Ik ben eindelijk in Telegram geland. Ik heb ook {{< a "/blog/subscribe" "Telegram kanalen" >}} aangemaakt voor posts in alle drie talen van deze blog.
+Ik ben eindelijk in Telegram geland. Ik heb ook [Telegram kanalen](/blog/subscribe) aangemaakt voor posts in alle drie talen van deze blog.
 
 <!--more-->
 
-{{< a "/blog/subscribe" "Abonneer je" >}} gerust op updates als je het handig vindt.
+[Abonneer je](/blog/subscribe) gerust op updates als je het handig vindt.

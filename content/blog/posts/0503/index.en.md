@@ -12,7 +12,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/vxh8pjqvldsi2pzcdsxm.
 fulltextUrl: "https://yktoo.solutions/blog/2019/12/13-cloudinary-content-backup/"
 ---
 
-Right after {{< a "0452" "migrating" >}} all my images onto {{< a "https://cloudinary.com/invites/lpov9zyyucivvxsnalc5/l6ccxxrfxv0mdc6iewg8" "Cloudinary" >}} I started to question myself: how am I going to make backups?
+Right after [migrating](0452) all my images onto [Cloudinary](https://cloudinary.com/invites/lpov9zyyucivvxsnalc5/l6ccxxrfxv0mdc6iewg8) I started to question myself: how am I going to make backups?
 
 Nothing lasts forever, including clouds. Or, for example, one day you can lose your Cloudinary account and hence your access to the hosting altogether. Therefore the task of making a copy of your content is quite relevant.
 

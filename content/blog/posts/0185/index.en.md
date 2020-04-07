@@ -15,7 +15,7 @@ aliases:
     - /en/blog/post/185
 ---
 
-Last weekend, 16 through 19 May 2013, the traditional yearly jazz festival took place in Amersfoort, as I {{< a "0183" "announced" >}}. Its thirty-fourth edition, to be precise. Chaired by the well-known Alexander Beets:
+Last weekend, 16 through 19 May 2013, the traditional yearly jazz festival took place in Amersfoort, as I [announced](0183). Its thirty-fourth edition, to be precise. Chaired by the well-known Alexander Beets:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/0o3yv6u8ib7v2787.jpg" >}}
 
@@ -79,7 +79,7 @@ As for me, she's got a strong voice indeed. [Here's a video](http://www.youtube.
 
 ## Ruud Jacobs Tribute Band {#ruud-jacobs}
 
-It's a band formed on {{< fl "Ruud Jacobs'" >}} 75<sup>th</sup> birthday. Ruud plays contrabass, and I also recognised a couple of faces I know from a {{< a "0125" "concert at De Observant" "ru" >}} — guitarist {{< fl "Martijn van Iterson" >}} (as indifferent as ever) and drummer {{< fl "Gijs Dijkhuizen" >}}:
+It's a band formed on {{< fl "Ruud Jacobs'" >}} 75<sup>th</sup> birthday. Ruud plays contrabass, and I also recognised a couple of faces I know from a [concert at De Observant](ru;0125) — guitarist {{< fl "Martijn van Iterson" >}} (as indifferent as ever) and drummer {{< fl "Gijs Dijkhuizen" >}}:
 
 {{< youtube "2wkPAA41OdU" >}}
 
@@ -93,8 +93,8 @@ Left to right, armed by saxes:
 
 * [Coh Mr. Saxman](http://www.kohmrsaxman.com/), a sax virtuoso from the sunny Thailand;
 * A very famous saxophonist from South Africa whose name my memory failed to keep;
-* Already {{< a "0134" "known" "ru" >}} Ben van den Dungen;
-* And, last but not least, the Director (also pictured on the very first photo), also {{< a "0125" "known" "ru" >}} Alexander Beets.
+* Already [known](ru;0134) Ben van den Dungen;
+* And, last but not least, the Director (also pictured on the very first photo), also [known](ru;0125) Alexander Beets.
 
 The four were rocking the place to the top—the last show, you know. The Lieve Vrouwekerkhof was stuffed with cheering and dancing people. Here's one of their videos called {{< fl "Watermelon Man" >}}:
 
@@ -115,5 +115,5 @@ What I've described is about five percent of the entire festival's programme, bu
 
 And at last:
 
-* {{< a "/videoevents/vevt0013" "All festival videos" >}}
+* [All festival videos](/videoevents/vevt0013)
 * [Playlist on YouTube](http://www.youtube.com/playlist?list=PLRtML0bqZ1ineNeyAPp-7wAvCFWk2mnf9)

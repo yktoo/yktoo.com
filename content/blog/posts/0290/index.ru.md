@@ -20,7 +20,7 @@ aliases:
     - /ru/blog/post/290
 ---
 
-Минуло уж более двух лет с момента последнего релиза {{< a "/software/sound-switcher-indicator" "Sound Switcher Indicator" >}} (1.2.2). Всё это время меня донимали [просьбами](https://github.com/yktoo/indicator-sound-switcher/issues/3) добавить поддержку переключения профилей устройств. Дело в том, что большинство звуковых карт без этого невозможно переключить на цифровой порт, такой как S/PDIF или HDMI.
+Минуло уж более двух лет с момента последнего релиза [Sound Switcher Indicator](/software/sound-switcher-indicator) (1.2.2). Всё это время меня донимали [просьбами](https://github.com/yktoo/indicator-sound-switcher/issues/3) добавить поддержку переключения профилей устройств. Дело в том, что большинство звуковых карт без этого невозможно переключить на цифровой порт, такой как S/PDIF или HDMI.
 
 И вот, я торжественно представляю **Sound Switcher Indicator 2.0.1**, который *наконец-то* поддерживает переключение профилей:
 
@@ -46,4 +46,4 @@ aliases:
 
 ## Установка {#installation}
 
-Установить или обновить приложение можно, как обычно, через мой Launchpad PPA согласно {{< a "/software/sound-switcher-indicator" "инструкции" >}}.
+Установить или обновить приложение можно, как обычно, через мой Launchpad PPA согласно [инструкции](/software/sound-switcher-indicator).

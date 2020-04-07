@@ -13,7 +13,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/wqfnt0vju5vu6ft2t8kb.
 imageCredit: "Фото: Edeltravel_/Pixabay."
 ---
 
-С **1** февраля {{< year 2020 "этого" >}} года правила выдачи шенгенских виз Нидерландами (а также другими странами) немного {{< a "https://www.netherlandsandyou.nl/latest-news/news/2019/11/01/changes-in-the-rules-for-schengen-visa-applications" "изменятся" >}}.
+С **1** февраля {{< year 2020 "этого" >}} года правила выдачи шенгенских виз Нидерландами (а также другими странами) немного [изменятся](https://www.netherlandsandyou.nl/latest-news/news/2019/11/01/changes-in-the-rules-for-schengen-visa-applications).
 
 Изменения вызваны приведением политики выдачи виз в соответствие с правилами Евросоюза.
 

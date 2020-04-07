@@ -17,7 +17,7 @@ places:
 
 The Dutch will never stop to impress me with their ingenuity.
 
-Being sustainable is now trending in Europe—and in Holland in particular. So in June {{< year 2019 "this year" >}} my client, {{< fl "NS" >}}, has {{< a "https://www.ad.nl/utrecht/schommelend-je-telefoon-opladen-op-utrecht-cs-kan-het-en-misschien-zelfs-permanent~aa81fc36/" "installed" >}} a special kind of swing at the {{< fl "Utrecht Centraal" >}} railway station.
+Being sustainable is now trending in Europe—and in Holland in particular. So in June {{< year 2019 "this year" >}} my client, {{< fl "NS" >}}, has [installed](https://www.ad.nl/utrecht/schommelend-je-telefoon-opladen-op-utrecht-cs-kan-het-en-misschien-zelfs-permanent~aa81fc36/) a special kind of swing at the {{< fl "Utrecht Centraal" >}} railway station.
 
 This new attraction was presented during the "Sustainability Week" ({{< fl "Duurzame Week" >}}), and it can charge your mobile phone!
 
@@ -53,7 +53,7 @@ The point is the charging is excruciatingly slow. After five minutes of eager sw
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fonst1pzjg4m2546.jpg" "The swing charger in action." >}}
 
-Apart from its low energy output, I'm a bit confused by the thought you'll never find out what's on the other side of the charging cable. Can it be some obscure device that installs a backdoor on your mobile? Or, say, a {{< a "https://habr.com/ru/post/310442/" "USB Killer" >}}? The latter is really a piece of cake in such a setup.
+Apart from its low energy output, I'm a bit confused by the thought you'll never find out what's on the other side of the charging cable. Can it be some obscure device that installs a backdoor on your mobile? Or, say, a [USB Killer](https://habr.com/ru/post/310442/)? The latter is really a piece of cake in such a setup.
 
 By the way, there's a sticker inside the box saying *"Use it at your own risk"*.
 

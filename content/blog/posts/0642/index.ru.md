@@ -13,9 +13,9 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/daoylnrrfyzfjmsyws0n.
 imageCredit: "Фото: NS."
 ---
 
-Нидерландская железнодорожная компания {{< fl "NS" >}} {{< a "https://nieuws.ns.nl/ns-treinreizen-fors-goedkoper-voor-jongeren-12--18-jaar/" "планирует" >}} сильно удешевить проезд для подростков от **12** до **18** лет.
+Нидерландская железнодорожная компания {{< fl "NS" >}} [планирует](https://nieuws.ns.nl/ns-treinreizen-fors-goedkoper-voor-jongeren-12--18-jaar/) сильно удешевить проезд для подростков от **12** до **18** лет.
 
-В настоящий момент дети до трёх лет включительно пользуются поездами {{< fl "NS" >}} бесплатно, а для **4-11**-летних предусмотрен специальный билет под названием {{< a "https://www.ns.nl/producten/meest-gekocht/p/railrunner" "Railrunner" >}} стоимостью всего **€ 2,50** или абонемент {{< fl "Kids Vrij" >}}.
+В настоящий момент дети до трёх лет включительно пользуются поездами {{< fl "NS" >}} бесплатно, а для **4-11**-летних предусмотрен специальный билет под названием [Railrunner](https://www.ns.nl/producten/meest-gekocht/p/railrunner) стоимостью всего **€ 2,50** или абонемент {{< fl "Kids Vrij" >}}.
 
 <!--more-->
 

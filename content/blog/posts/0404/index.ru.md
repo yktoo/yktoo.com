@@ -11,7 +11,7 @@ imageCredit: "Фото: Annie Spratt."
 series: business
 ---
 
-Ровно три года назад, **1 октября 2016** года была {{< a "0311" "зарегистрирована" >}} компания {{< a "https://yktoo.solutions/" "Yktoo Solutions" >}}.
+Ровно три года назад, **1 октября 2016** года была [зарегистрирована](0311) компания [Yktoo Solutions](https://yktoo.solutions/).
 
 <!--more-->
 

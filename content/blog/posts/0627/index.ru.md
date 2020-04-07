@@ -11,7 +11,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/n8tqxsdvrnqw6db1cn9a.
 imageCredit: "Фото: полиция Нидерландов."
 ---
 
-Полиция Нидерландов {{< a "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2020/februari/05-onderzoek-naar-bombrieven-laatste-stand-van-zaken.html" "опубликовала" >}} подробности об {{< a "0537" "обнаруженных" >}} (и даже {{< a "0612" "взорвавшихся" >}}) ранее письмах со взрывным устройством, которые кто-то рассылает нидерландским компаниям с целью шантажа.
+Полиция Нидерландов [опубликовала](https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2020/februari/05-onderzoek-naar-bombrieven-laatste-stand-van-zaken.html) подробности об [обнаруженных](0537) (и даже [взорвавшихся](0612)) ранее письмах со взрывным устройством, которые кто-то рассылает нидерландским компаниям с целью шантажа.
 
 В сообщении впервые приведены фото деталей взрывного устройства, а именно использованной в нём **9**-вольтовой батареи {{< fl "Duracell Industrial" >}}.
 

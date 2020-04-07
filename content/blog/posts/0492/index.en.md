@@ -14,7 +14,7 @@ imageCredit: "Photo: owane.fandom.com."
 series: music
 ---
 
-Our today's {{< a "/series/music" "Musicellaneous" >}} guest is the Norwegian multi-instrumentalist {{< a "https://owane.bandcamp.com/" "Owane" >}}. He employs a number of instruments by thoroughly weaving djent riffs into the jazz-funk texture of his compositions.
+Our today's [Musicellaneous](/series/music) guest is the Norwegian multi-instrumentalist [Owane](https://owane.bandcamp.com/). He employs a number of instruments by thoroughly weaving djent riffs into the jazz-funk texture of his compositions.
 
 Owane (real name {{< fl "Øyvind Pedersen" >}}) is a musician from Sortland, Norway and he has released three albums to date.
 
@@ -42,7 +42,7 @@ Owane's next release followed a year later and was the full-length album **Dunno
 
 Similar to the album's name, track names are equally informative: for instance, *Gym Membership* and *Quitting the Gym*. Or: *Saturday Begins*, and then, three years later, *Saturday Ends*.
 
-Owane {{< a "https://owane.bandcamp.com/album/dunno" "explains" >}}:
+Owane [explains](https://owane.bandcamp.com/album/dunno):
 
 > Making this album took way longer time than expected, all songs were finished by March 2016, but endless problems occurred all the time once the post production started (*the album has only been released in late 2016 — DK*). Besides all problems, it's been fun experimenting with "new styles".
 

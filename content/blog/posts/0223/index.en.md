@@ -18,7 +18,7 @@ aliases:
     - /en/blog/post/223
 ---
 
-In the {{< a "0222" "previous part" >}} I mentioned the "Bike Town" award given to Houten a few years ago. This tiny geographical object has also won a number of other awards:
+In the [previous part](0222) I mentioned the "Bike Town" award given to Houten a few years ago. This tiny geographical object has also won a number of other awards:
 
 <!--more-->
 
@@ -115,7 +115,7 @@ Architecture of the new part is sometimes different, but you can always tell the
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cuu3jcvgaxq11929.jpg" >}}
 
-I'm particularly fond of those yellowish bricks, which resemble houses in {{< a "0035" "southern Belgium" "ru" >}}:
+I'm particularly fond of those yellowish bricks, which resemble houses in [southern Belgium](ru;0035):
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/kxufg5vgh53w2288.jpg" >}}
 
@@ -147,7 +147,7 @@ This block of toy-like houses is built right above the water surface:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/matwwdq66t1q3566.jpg" >}}
 
-In the medieval times the border of the Roman Empire lay here. This is reflected, for example, in the name of the {{< fl "Houten Castellum" >}} {{< a "0221" "train station" >}}. All the streets in this neighbourhood have Italian names:
+In the medieval times the border of the Roman Empire lay here. This is reflected, for example, in the name of the {{< fl "Houten Castellum" >}} [train station](0221). All the streets in this neighbourhood have Italian names:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/n4zy3sas3gzw0313.jpg" >}}
 

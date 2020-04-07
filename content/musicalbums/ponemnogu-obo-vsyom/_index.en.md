@@ -26,4 +26,4 @@ It is a typical bard song collection of tracks, which recaps all Radiolaria's wo
 
 This is mostly a "fusion-free" album, even though not entirely so.
 
-The presented songs have been composed in different moments in time and touch on a broad variety of subjects, which is reflected in the album's name. It might perhaps have gotten the name "A bit about nothing" instead. However, some songs raise important psychological and social questions, such as {{< fl "Боясь или любя" >}} ({{< a "/radiolaria/tracks/027" "To Fear or To Love" >}}) and {{< fl "Посвящение В. С. Высоцкому" >}} ({{< a "/radiolaria/tracks/044" "Dedication to Vladimir Vysotski" >}}).
+The presented songs have been composed in different moments in time and touch on a broad variety of subjects, which is reflected in the album's name. It might perhaps have gotten the name "A bit about nothing" instead. However, some songs raise important psychological and social questions, such as {{< fl "Боясь или любя" >}} ([To Fear or To Love](/radiolaria/tracks/027)) and {{< fl "Посвящение В. С. Высоцкому" >}} ([Dedication to Vladimir Vysotski](/radiolaria/tracks/044)).

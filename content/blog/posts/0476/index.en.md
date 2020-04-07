@@ -15,9 +15,9 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/gbjwadagwhnqfig3kbzs.png"
 ---
 
-Reminder for those who have signed up for the event: tomorrow, **21 November** I will {{< a "0428" "present" >}} about {{< a "https://gohugo.io/" "Hugo" >}} and the cool things you can make with it.
+Reminder for those who have signed up for the event: tomorrow, **21 November** I will [present](0428) about [Hugo](https://gohugo.io/) and the cool things you can make with it.
 
-So if you're interested how websites like {{< a "https://gohugo.io/showcase/letsencrypt/" "Let's Encrypt" >}}, {{< a "https://gohugo.io/showcase/1password-support/" "1Password Support" >}}, or this one are built, do stop by.
+So if you're interested how websites like [Let's Encrypt](https://gohugo.io/showcase/letsencrypt/), [1Password Support](https://gohugo.io/showcase/1password-support/), or this one are built, do stop by.
 
 <!--more-->
 

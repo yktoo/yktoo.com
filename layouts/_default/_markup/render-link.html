@@ -1,19 +1,18 @@
-{{  $url := urls.Parse (.Get 0) -}}
-{{- $text := .Get 1 -}}
-{{- $lang := .Get 2 -}}
+{{- $url := urls.Parse .Destination -}}
 {{/* If there's "http(s)://" given, just use it as is, and no internal class added */}}
 {{- if $url.Scheme -}}
-    <a href="{{ .Get 0 }}">{{ $text }}</a>
+    <a href="{{ .Destination | safeURL }}">{{ .Text | safeHTML }}</a>
 {{- else -}}
     {{/* Otherwise we consider it an internal link */}}
     {{- $pageToLink := false -}}
 
     {{/* If there's language given, iterate all sites to find the one with this language */}}
-    {{- with $lang -}}
+    {{- if findRE "^(en|ru|nl);" $url.Path 1 -}}
+        {{- $lang := substr $url.Path 0 2 -}}
         {{- range $.Page.Sites -}}
             {{- if eq .Language.Lang $lang -}}
                 {{/* If a site is found, try to fetch the page */}}
-                {{- with .GetPage $url.Path -}}{{- $pageToLink = . -}}{{- end -}}
+                {{- with .GetPage (substr $url.Path 3) }}{{ $pageToLink = . }}{{ end -}}
             {{- end -}}
         {{- end -}}
 
@@ -22,7 +21,7 @@
 
         {{/* If there's a path present, use it to find the page */}}
         {{- with $url.Path -}}
-            {{- with $.Page.GetPage . -}}{{- $pageToLink = . -}}{{- end -}}
+            {{- with $.Page.GetPage . }}{{ $pageToLink = . }}{{ end -}}
 
         {{/* Otherwise assume we're dealing with the current page */}}
         {{- else -}}
@@ -32,8 +31,8 @@
 
     {{/* Check if we managed to find anything */}}
     {{- with $pageToLink -}}
-        <a href="{{ .RelPermalink }}{{ with $url.Fragment }}#{{ . }}{{ end }}" class="internal" title="{{ .Title }}">{{ $text }}</a>
+        <a href="{{ .RelPermalink }}{{ with $url.Fragment }}#{{ . }}{{ end }}" class="internal" title="{{ .Title }}">{{ $.Text | safeHTML }}</a>
     {{- else -}}
-        {{- errorf "%s: Failed to find page for path %q and language %q (link text %q)" $.Page.File.Path (.Get 0) $lang $text -}}
+        {{- errorf "%s: Failed to find page for path %q (link text %q)" $.Page.File.Path .Destination .Text -}}
     {{- end -}}
-{{- end }}
+{{- end -}}

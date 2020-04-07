@@ -11,7 +11,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/ylf4ykscx69s6cefjyc5.
 series: music
 ---
 
-It's Friday! As a follow-up to the topic of symphonic metal started by {{< a "0602" "Osture" >}} in the previous edition of {{< a "/series/music" "Musicellaneous" >}}, this time I'd like to tell you about once-existed German band **Beyond the Bridge**.
+It's Friday! As a follow-up to the topic of symphonic metal started by [Osture](0602) in the previous edition of [Musicellaneous](/series/music), this time I'd like to tell you about once-existed German band **Beyond the Bridge**.
 
 During its lifetime the band has recorded the only album, but it's a real masterpiece (you wouldn't see them in this series otherwise).
 
@@ -21,7 +21,7 @@ During its lifetime the band has recorded the only album, but it's a real master
 
 **Beyond the Bridge** first appeared in **1999** as a school project in Frankfurt (Germany) titled *Fall Out*. After the graduation the friends went to different cities to continue their study. It wasn't until **2005** that the guitarist Peter Degenfeld-Schonburg has got the idea of a concept album, which he then developed for the next five years.
 
-The only album released by the band, **The Old Man and the Spirit** (**2012**), is such a quality work that some even {{< a "https://www.metal-archives.com/reviews/Beyond_the_Bridge/The_Old_Man_and_the_Spirit/328370/Silicon_Messiah/368055" "call" >}} it *"possibly the greatest progressive metal album of all time"*.
+The only album released by the band, **The Old Man and the Spirit** (**2012**), is such a quality work that some even [call](https://www.metal-archives.com/reviews/Beyond_the_Bridge/The_Old_Man_and_the_Spirit/328370/Silicon_Messiah/368055) it *"possibly the greatest progressive metal album of all time"*.
 
 {{< youtube "TDPNW8o3WSU" >}}
 
@@ -31,7 +31,7 @@ What's inside is intense progressive-symphonic sound, masterly played instrument
 
 {{< youtube "W0fhQlXsOBE" >}}
 
-The recording had started in **2008** and, like with {{< a "0602" "Ostura" >}}, the progress proved to be pretty slow. The album was only finalised in **2011** and released by *Frontiers Records* in January **2012**.
+The recording had started in **2008** and, like with [Ostura](0602), the progress proved to be pretty slow. The album was only finalised in **2011** and released by *Frontiers Records* in January **2012**.
 
 ## Line-up
 

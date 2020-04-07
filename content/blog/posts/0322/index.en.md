@@ -468,7 +468,7 @@ The climax of the tour was an improvised performance about the modern Bulgarian 
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cjw7gvsadd9m3511.jpg" "Free Sofia Tour: performance." >}}
 
-If you're interested, {{< a "/video/tracks/z_MYNcTPmww" "here's a video" >}} of that act.
+If you're interested, [here's a video](/video/tracks/z_MYNcTPmww) of that act.
 
 I can definitely recommend this tour. All the necessary details can be found on the [organisation's website](http://www.freesofiatour.com/).
 
@@ -605,4 +605,4 @@ And their historical ancestors:
 
 Phew. This must be the longest post ever.
 
-*Next:* {{< a "0323" "Part 2. Plovdiv" >}}
+*Next:* [Part 2. Plovdiv](0323)

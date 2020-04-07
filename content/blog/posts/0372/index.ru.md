@@ -12,7 +12,7 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/f8ifywom5oeq3296.jpg"
 ---
 
-На прошлой неделе {{< fl "The Economist" >}} {{< a "https://safecities.economist.com/safe-cities-index-2019/" "опубликовал" >}} рейтинг 60 крупнейших городов мира: {{< fl "The Safe Cities Index 2019" >}} ({{< a "https://safecities.economist.com/wp-content/uploads/2019/08/Aug-5-ENG-NEC-Safe-Cities-2019-270x210-19-screen.pdf" "64-страничный PDF" >}}).
+На прошлой неделе {{< fl "The Economist" >}} [опубликовал](https://safecities.economist.com/safe-cities-index-2019/) рейтинг 60 крупнейших городов мира: {{< fl "The Safe Cities Index 2019" >}} ([64-страничный PDF](https://safecities.economist.com/wp-content/uploads/2019/08/Aug-5-ENG-NEC-Safe-Cities-2019-270x210-19-screen.pdf)).
 
 В комплексном рейтинге безопасности, составленном на основе четырёх индивидуальных (безопасность «цифровая», здравоохранения, инфраструктуры и личная), нидерландская столица заняла четвёртое место.
 

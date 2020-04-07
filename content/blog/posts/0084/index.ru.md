@@ -96,4 +96,4 @@ aliases:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ea0mo7l39et91142.jpg" >}}
 
-Продолжение: {{< a "0085" "Часть 3. Вена. Пратер" >}}
+Продолжение: [Часть 3. Вена. Пратер](0085)

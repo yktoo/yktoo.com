@@ -35,7 +35,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/d6kktyxqtisghb4wt4uk.
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/dbnv5ngpeylcdvmdohkj.jpg" "Иней на земле." >}}
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/i0fgunds63flgfugcfst.jpg" "Иней на земле." >}}
 
-В ноябре нас {{< a "https://www.dw.com/en/heavy-snow-in-alps-causes-avalanches-and-travel-disruptions/a-51290619" "пугали" >}} сумасшедшими снегопадами, лавинами и транспортным коллапсом на австрийских дорогах. Сейчас в долине снега уже практически нет, но на высотах **1 500** м и выше — сколько угодно.
+В ноябре нас [пугали](https://www.dw.com/en/heavy-snow-in-alps-causes-avalanches-and-travel-disruptions/a-51290619) сумасшедшими снегопадами, лавинами и транспортным коллапсом на австрийских дорогах. Сейчас в долине снега уже практически нет, но на высотах **1 500** м и выше — сколько угодно.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/u7fyxv3exb966pnidmwh.jpg" "Тирольская долина." >}}
 

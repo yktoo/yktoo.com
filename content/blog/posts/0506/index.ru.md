@@ -10,7 +10,7 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/e6efjmfrwzmxegzcrmi7.jpg"
 ---
 
-Организация {{< fl "FoodWatch" >}}, занимающаяся просвещением и лоббированием в сфере здорового питания, {{< a "https://www.foodwatch.org/nl/current-nieuws/2019/chocopasta-voor-babys-wint-gouden-windei-2019/" "опубликовала" >}} результаты опроса более десяти тысяч потребителей.
+Организация {{< fl "FoodWatch" >}}, занимающаяся просвещением и лоббированием в сфере здорового питания, [опубликовала](https://www.foodwatch.org/nl/current-nieuws/2019/chocopasta-voor-babys-wint-gouden-windei-2019/) результаты опроса более десяти тысяч потребителей.
 
 Первое место в номинации «Наиболее вводящий в заблуждение продукт года» получила *«Биологическая шоколадная паста для младенцев от 8 месяцев»* компании {{< fl "De Kleine Keuken" >}}. За неё отдали голоса **23%** опрошенных.
 

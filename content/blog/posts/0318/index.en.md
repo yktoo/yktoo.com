@@ -17,7 +17,7 @@ aliases:
     - /en/blog/post/318
 ---
 
-This post continues the {{< a "/series/business" "series" >}} about the challenging yet rewarding entrepreneur's way, and I'd like to shed some light on my experience and learned lessons so far.
+This post continues the [series](/series/business) about the challenging yet rewarding entrepreneur's way, and I'd like to shed some light on my experience and learned lessons so far.
 
 The very first question a freelancer gets is: how and where to search for work?
 
@@ -92,7 +92,7 @@ You usually specify your desired rate when applying, and possibilities for furth
 
 ## Risk management {#risk-management}
 
-Risk management is another complex topic. I already {{< a "0309" "posted" >}} about the risks of entrepreneurship, which in a nutshell can be expressed with the formula: "you get paid while on an assignment and get nothing otherwise." Therefore it takes a good deal of financial planning—and a proper buffer to cater for all current expenses should the situation prove difficult. It's also a good idea to start thinking about available options ahead of the end date of your current contract.
+Risk management is another complex topic. I already [posted](0309) about the risks of entrepreneurship, which in a nutshell can be expressed with the formula: "you get paid while on an assignment and get nothing otherwise." Therefore it takes a good deal of financial planning—and a proper buffer to cater for all current expenses should the situation prove difficult. It's also a good idea to start thinking about available options ahead of the end date of your current contract.
 
 ## Persistence {#persistence}
 

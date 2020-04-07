@@ -25,7 +25,7 @@ aliases:
 
 ## Preface {#preface}
 
-We had planned our trip to the French ski resort {{< wiki "La_Plagne" "en" "La Plagne" >}} well in advance, so ever since October last year I've been counting days down. My previous {{< fl "wintersport" >}} occasion in {{< a "0270" "Sölden" >}} had only left good memories (and a couple of bruises, too, but that's unimportant).
+We had planned our trip to the French ski resort {{< wiki "La_Plagne" "en" "La Plagne" >}} well in advance, so ever since October last year I've been counting days down. My previous {{< fl "wintersport" >}} occasion in [Sölden](0270) had only left good memories (and a couple of bruises, too, but that's unimportant).
 
 <!--more-->
 
@@ -41,7 +41,7 @@ We've reached La Plagne only at dark, around 6 PM. This time round our hotel was
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/wfl8v2q4g0e33196.jpg" "La Plagne. View from the hotel's balcony." >}}
 
-But let me share some figures. According to {{< wiki "La_Plagne" "en" "Wikipedia" >}}, La Plagne with its average of 2.5 million visitors per season is the most popular ski resort in the world. It's a part of a huge ski area called {{< wiki "Paradiski" "en" "Paradiski" >}}, which also includes {{< wiki "Les_Arcs" "en" "Les Arcs" >}} and {{< wiki "Peisey-Vallandry" "en" "Peisey-Vallandry" >}}. All three form a system counting a total of **160 ski lifts** and **425 km** of ski slopes (which makes {{< a "0270" "Sölden" >}} with its **33** lifts and **145 km** of slopes, and {{< a "0239" "Ischgl" "ru" >}} with **45** lifts and **238 km** look pretty modest). Also the village of {{< fl "Champagny-en-Vanoise" >}} is very close to {{< fl "Courchevel" >}}, which is massively popular amongst (rich) Russians, perhaps because of its runway for private jets.
+But let me share some figures. According to {{< wiki "La_Plagne" "en" "Wikipedia" >}}, La Plagne with its average of 2.5 million visitors per season is the most popular ski resort in the world. It's a part of a huge ski area called {{< wiki "Paradiski" "en" "Paradiski" >}}, which also includes {{< wiki "Les_Arcs" "en" "Les Arcs" >}} and {{< wiki "Peisey-Vallandry" "en" "Peisey-Vallandry" >}}. All three form a system counting a total of **160 ski lifts** and **425 km** of ski slopes (which makes [Sölden](0270) with its **33** lifts and **145 km** of slopes, and [Ischgl](ru;0239) with **45** lifts and **238 km** look pretty modest). Also the village of {{< fl "Champagny-en-Vanoise" >}} is very close to {{< fl "Courchevel" >}}, which is massively popular amongst (rich) Russians, perhaps because of its runway for private jets.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/zcg36pq9eiyi3024.jpg" "Map of Paradiski. Source: winter.la-plagne.com." >}}
 

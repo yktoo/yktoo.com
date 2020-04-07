@@ -13,7 +13,7 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/a3wwvwekgeblvk0kcozb.jpg"
 ---
 
-Нидерландский кораблестроительный концерн {{< wiki "Damen_Group" "en" "Damen Shipyards" >}} {{< a "https://nos.nl/artikel/2318554-scheepsbouwer-damen-krijgt-miljardenorder-van-duitse-marine-grootste-ooit.html" "получил" >}} заказ на строительство новых фрегатов для ВМФ Германии.
+Нидерландский кораблестроительный концерн {{< wiki "Damen_Group" "en" "Damen Shipyards" >}} [получил](https://nos.nl/artikel/2318554-scheepsbouwer-damen-krijgt-miljardenorder-van-duitse-marine-grootste-ooit.html) заказ на строительство новых фрегатов для ВМФ Германии.
 
 Речь идёт о рекордной сумме в **€ 5,27 млрд**, за которые {{< fl "Damen" >}} должен построить четыре фрегата типа {{< fl "MKS 180" >}} ({{< fl "Mehrzweckkampfschiff" >}}, многоцелевой боевой корабль), с опцией на постройку ещё двух.
 

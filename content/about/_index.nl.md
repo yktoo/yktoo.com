@@ -8,13 +8,13 @@ layout: single
 
 ## Over mezelf
 
-Hallo! Mijn naam is Dmitry Kann (cyrillisch: {{< fl "Дмитрий Канн" >}}). Ik ben geboren en getogen in Rusland, maar in **2008** ben ik naar Nederland verhuisd, waar ik tot nu toe woon, in een prachtig dorp dat {{< a "0221" "Houten" "en" >}} heet.
+Hallo! Mijn naam is Dmitry Kann (cyrillisch: {{< fl "Дмитрий Канн" >}}). Ik ben geboren en getogen in Rusland, maar in **2008** ben ik naar Nederland verhuisd, waar ik tot nu toe woon, in een prachtig dorp dat [Houten](en;0221) heet.
 
 Ik ben softwareontwikkelaar en oprichter van een klein softwarebedrijf [Yktoo Solutions](https://yktoo.solutions).
 
-Ik heb een aantal hobby's om mijn vrije tijd aan te besteden: {{< a "/" "blogging" >}}, open-source {{< a "/software" "softwareontwikkeling" "en" >}}, {{< a "/tags/music" "muziek" "en" >}}, {{< a "/tags/travel" "reizen" "en" >}}, {{< a "/tags/aikido" "aikido" "en" >}} en {{< a "/tags/running" "hardlopen" "en" >}}. Ook was ik ooit een lid van het {{< a "/radiolaria" "Radiolaria" "en" >}} duet.
+Ik heb een aantal hobby's om mijn vrije tijd aan te besteden: [blogging](/), open-source [softwareontwikkeling](en;/software), [muziek](en;/tags/music), [reizen](en;/tags/travel), [aikido](en;/tags/aikido) en [hardlopen](en;/tags/running). Ook was ik ooit een lid van het [Radiolaria](en;/radiolaria) duet.
 
-Ik spreek Russisch, Engels en Nederlands. Als je contact met me op wilt nemen, dan kun je het beste de {{< a "/about/contact" "contactpagina" >}} gebruiken.
+Ik spreek Russisch, Engels en Nederlands. Als je contact met me op wilt nemen, dan kun je het beste de [contactpagina](/about/contact) gebruiken.
 
 ## Over deze website
 
@@ -24,7 +24,7 @@ Deze website maakt gebruik van [Hugo](https://gohugo.io/), [Bootstrap](http://ge
 
 ### Over mijn blog
 
-{{< a "/" "Mijn blog" >}} is voornamelijk geconcentreerd op Nederland en het Nederlands leven maar het is niet hiermee beperkt. Ik blog over alles wat ik interessant vind.
+[Mijn blog](/) is voornamelijk geconcentreerd op Nederland en het Nederlands leven maar het is niet hiermee beperkt. Ik blog over alles wat ik interessant vind.
 
 Hieronder kun je wat statistiek zien:
 
@@ -36,9 +36,9 @@ Hieronder kun je wat statistiek zien:
 
 ## Voorwaarden
 
-Door deze website te gebruiken gaat u akkoord met het {{< a "/about/privacy" "Privacybeleid (Engels)" "en" >}} en de {{< a "/about/tos" "Algemene voorwaarden (Engels)" "en" >}}.
+Door deze website te gebruiken gaat u akkoord met het [Privacybeleid (Engels)](en;/about/privacy) en de [Algemene voorwaarden (Engels)](en;/about/tos).
 
-De broncode van deze website is beschikbaar {{< a "https://github.com/yktoo/yktoo.com" "op GitHub" >}}. De broncode en alle bijbehorende content worden gedistribueerd onder de voorwaarden van de {{< a "https://creativecommons.org/licenses/by-sa/4.0/deed.nl" "Creative Commons Attribution-NonCommercial-ShareAlike 4.0" >}} licentie tenzij anders vermeld.
+De broncode van deze website is beschikbaar [op GitHub](https://github.com/yktoo/yktoo.com). De broncode en alle bijbehorende content worden gedistribueerd onder de voorwaarden van de [Creative Commons Attribution-NonCommercial-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.nl) licentie tenzij anders vermeld.
 
 {{< button "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.nl" "<i class='fab fa-creative-commons'></i><i class='fab fa-creative-commons-by'></i><i class='fab fa-creative-commons-nc'></i><i class='fab fa-creative-commons-sa bycon'></i>CC-BY-NC-SA 4.0 licentie" >}}
 {{< button "https://github.com/yktoo/yktoo.com" "<i class='fab fa-github bycon'></i>Code op GitHub" >}}

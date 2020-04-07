@@ -15,9 +15,9 @@ series: sound-switcher-indicator
 software: sound-switcher-indicator
 ---
 
-A new version of {{< a "/software/sound-switcher-indicator" "Sound Switcher Indicator" >}} — **2.3.0** — has just been released.
+A new version of [Sound Switcher Indicator](/software/sound-switcher-indicator) — **2.3.0** — has just been released.
 
-This version finally adds a frequently-{{< a "https://github.com/yktoo/indicator-sound-switcher/issues/38" "requested" >}} feature: the ability of mapping global keyboard shortcuts to input and output *ports*.
+This version finally adds a frequently-[requested](https://github.com/yktoo/indicator-sound-switcher/issues/38) feature: the ability of mapping global keyboard shortcuts to input and output *ports*.
 
 <!--more-->
 
@@ -39,4 +39,4 @@ My PPA provides packages for Ubuntu **18.04 Bionic**, **19.04 Disco**, and **19.
 
 ## Installation
 
-To install or update the application, please follow the steps described in the {{< a "/software/sound-switcher-indicator#installation" "Installation section" >}}.
+To install or update the application, please follow the steps described in the [Installation section](/software/sound-switcher-indicator#installation).

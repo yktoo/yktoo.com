@@ -13,7 +13,7 @@ glossary:
     - gemeentehuis
 ---
 
-I'd like to start filling my {{< a "0413" "newborn Glossary" >}} with the term {{< fl "gemeente" >}}.
+I'd like to start filling my [newborn Glossary](0413) with the term {{< fl "gemeente" >}}.
 
 <!--more-->
 
