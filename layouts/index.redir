@@ -11,8 +11,8 @@
 /{{ $site.Language.Lang }}/blog/post/{{ $id | strings.TrimLeft "0" | printf "%-8s" }} {{ $page.RelPermalink -}}
 {{- end -}}
 
-{{/* If there's only a single language present, add a lang-free redirect */}}
-{{- if not $page.Translations }}
+{{/* Create a lang-free redirect: if there's more than one language present, pick the first one  */}}
+{{- if or (not $page.Translations) (eq (index $page.AllTranslations 0).Lang $site.Language.Lang) }}
 /blog/post/{{ $id | printf "%-11s" }} {{ $page.RelPermalink -}}
 {{- end }}
 {{- end }}
