@@ -6,8 +6,6 @@ tags:
     - гаджеты
     - забавное
     - Нидерланды
-aliases:
-    - /ru/blog/post/59
 ---
 
 Дожили, уже в мусорные вёдра [встраивают автоматику](https://hetmagazijnvanholland.nl/index.php?page=shop.product_details&flypage=flypage.tpl&product_id=1785&category_id=346&option=com_virtuemart&Itemid=8&vmcchk=1&Itemid=8): датчик движения даёт команду открыть крышку, когда к ведру что-нибудь подносишь.

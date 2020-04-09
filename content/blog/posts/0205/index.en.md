@@ -15,8 +15,6 @@ places:
     - place0183
     - place0184
     - place0185
-aliases:
-    - /en/blog/post/205
 ---
 
 I'd like to show you a bit of northern Dutch summer in our damp off-season. Last June we've visited the city of {{< wiki "Leeuwarden" "en" "Leeuwarden" >}} (Frisian: {{< fl "Ljouwert" >}}), situated in the very north of Holland. It is the capital city of the Friesland province, which is famous for its language that makes very little sense to an average Dutch.

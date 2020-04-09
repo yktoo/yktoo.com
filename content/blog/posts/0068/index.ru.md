@@ -7,8 +7,6 @@ tags:
     - Нидерланды
     - Россия
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/va0b8m7rcznt1262.png"
-aliases:
-    - /ru/blog/post/68
 ---
 
 Простите мне моё настроение — я недавно вернулся с Родины :)

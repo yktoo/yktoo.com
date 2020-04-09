@@ -12,8 +12,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/bp5879noa0bb2161.jpg"
 places:
     - place0125
-aliases:
-    - /ru/blog/post/72
 ---
 
 Про нидерландский транспорт нужно писать очень много — от российского он разительно отличается во многих аспектах, и я ещё пока собираю материал.

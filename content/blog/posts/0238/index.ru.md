@@ -12,8 +12,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/79bq7anrf8fb0881.jpg"
 places:
     - place0227
-aliases:
-    - /ru/blog/post/238
 ---
 
 Минул год, и я, как и [обещал](0213), нагрянул на гентский фестиваль света ([Ghent Light Festival](http://www.lichtfestivalgent.be/)).

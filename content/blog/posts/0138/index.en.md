@@ -13,8 +13,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/obvjp3oi10g70182.jpg"
 places:
     - place0020
-aliases:
-    - /en/blog/post/138
 ---
 
 **Happy New two thousand twelfth!**

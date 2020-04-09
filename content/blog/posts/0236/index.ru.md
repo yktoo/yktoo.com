@@ -9,8 +9,6 @@ tags:
     - фейерверки
     - Хаутен
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/ioiqmkd3p2u71084.jpg"
-aliases:
-    - /ru/blog/post/236
 ---
 
 2015-й встретился весело, в кругу русско-украинских друзей (мы тут, по эту сторону котлована, по-прежнему друзья):

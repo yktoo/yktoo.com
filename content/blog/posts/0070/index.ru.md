@@ -7,8 +7,6 @@ tags:
     - Нидерланды
     - преступность
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/bfejkdhwls992186.jpg"
-aliases:
-    - /ru/blog/post/70
 ---
 
 Один из основных видов не особенно буйной нидерландской преступности — угон велосипедов, благо тут [есть из чего](0008) выбрать.

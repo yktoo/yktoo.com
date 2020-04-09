@@ -11,8 +11,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/cutjy5nqcdox2191.jpg"
 places:
     - place0009
-aliases:
-    - /ru/blog/post/186
 ---
 
 Столько всякого материала накопилось, пока я возился с этим своим [сайтом](/), уж и не знаю, успею ли разгрести.

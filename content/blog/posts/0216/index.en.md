@@ -11,8 +11,6 @@ tags:
     - iMac
     - USB
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/6u2tbe7u35471499.png"
-aliases:
-    - /en/blog/post/216
 ---
 
 I've been looking for quite a while for a USB hub that would match the design of my [iMac](0120). For those who own an iMac a USB hub is a must-have, since Apple have moved all available ports, including even the headphone one, to its back side. Which is in my opinion a typical example of design gone totally wrong.

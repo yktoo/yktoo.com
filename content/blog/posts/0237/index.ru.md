@@ -8,8 +8,6 @@ tags:
     - книги
     - фантастика
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/lk60fvx5b7ix3462.jpg"
-aliases:
-    - /ru/blog/post/237
 ---
 
 Прочитал роман американца {{< wiki "Уир,_Энди" "ru" "Энди Уира" >}} ({{< wiki "Andy_Weir_(writer)" "en" "Andy Weir" >}}) под названием {{< wiki "Марсианин_(роман)" "ru" "«Марсианин»" >}} ({{< wiki "The_Martian_(Weir_novel)" "en" "The Martian" >}}). До сих пор нахожусь под впечатлением.

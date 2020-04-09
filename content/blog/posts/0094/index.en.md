@@ -7,8 +7,6 @@ tags:
     - Netherlands
     - Queen's Day
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/u88f03gw759u1331.png"
-aliases:
-    - /en/blog/post/94
 ---
 
 Google amazes me with its awareness—they congratulate the Dutch with the Queen's Day:

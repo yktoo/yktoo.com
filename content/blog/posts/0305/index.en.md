@@ -10,8 +10,6 @@ tags:
     - Vim
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/9cjzhcfabz7s1898.png"
 software: yktools
-aliases:
-    - /en/blog/post/305
 ---
 
 Recently I've been busy learning the esoteric editor called {{< wiki "Vim" "en" "Vim" >}} and figured out my laptop's touchpad is causing nuisance when you're working with the keyboard only—which is the whole point of using *Vim*. At the same time, some programs are nearly unusable without the mouse. In other words, I wanted to be able to switch the touchpad on and off—with the keyboard, of course.

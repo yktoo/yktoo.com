@@ -9,8 +9,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/dsmmpwcbyzw11788.jpg"
 places:
     - place0136
-aliases:
-    - /ru/blog/post/47
 ---
 
 «Аватар» — это очень круто.

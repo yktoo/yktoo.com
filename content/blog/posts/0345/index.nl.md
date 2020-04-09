@@ -10,8 +10,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/n3b9b8u7cza33324.jpg"
 places:
     - place0310
-aliases:
-    - /nl/blog/post/345
 ---
 
 Precies deze dag maar twee jaar geleden, 13 juli 2017, heb ik mijn muisaanwijzer op een foto van een hele knappe vrouw gericht en op *Like* geclickt.

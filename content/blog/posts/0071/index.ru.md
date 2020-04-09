@@ -8,8 +8,6 @@ tags:
     - некрологи
     - Нидерланды
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Gary-Moore-at-Pite-Havsbad.jpg/463px-Gary-Moore-at-Pite-Havsbad.jpg"
-aliases:
-    - /ru/blog/post/71
 ---
 
 Гэри Мур должен был выступать у нас в Амерсфорте 27-28 мая (этого года) на [Highlands Festival](http://www.highlandsfestival.nl/programma/). Организаторы находятся сейчас в понятном шоке.

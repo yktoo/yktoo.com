@@ -6,8 +6,6 @@ tags:
     - GPS
     - авто
     - Нидерланды
-aliases:
-    - /ru/blog/post/58
 ---
 
 Школы вождения в Нидерландах [обязали](http://www.dutchnews.nl/news/archives/2010/09/driving_test_to_include_sat_na.php) обучать вместе с вождением пользованию спутниковыми навигационными системами.

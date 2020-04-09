@@ -12,8 +12,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/7qvi95mnc52o2819.jpg"
 places:
     - place0243
-aliases:
-    - /ru/blog/post/317
 ---
 
 На удивление талантливый 24-летний австралийский гитарист {{< wiki "Plini" "en" "Plini" >}}, трудящийся на почве прог-метала и джента, уже дважды почтил нас своим присутствием. В прошлогоднем концерте (на котором я был, но написать так руки и не дошли) он выступал «на разогреве» у очень популярной джент-команды {{< wiki "Animals_as_Leaders" "ru" "Animals as Leaders" >}}.

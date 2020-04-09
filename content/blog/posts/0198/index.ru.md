@@ -9,8 +9,6 @@ tags:
     - звук
     - колонки
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/d4vo7lbyib4g3157.jpg"
-aliases:
-    - /ru/blog/post/198
 ---
 
 У моих колонок [M-Audio Studiophile AV 40](0189) недавно обнаружилась забавная особенность.

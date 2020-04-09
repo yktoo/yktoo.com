@@ -11,8 +11,6 @@ tags:
     - website
     - Yii
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/8ghogu0wxhqr1069.png"
-aliases:
-    - /en/blog/post/200
 ---
 
 I've done something useful in my spare time. I crafted a website for my aikido school (or {{< fl "dojo" >}}) called **Aikikai Amersfoort**, which is now located at [aikikai-amersfoort.nl](http://aikikai-amersfoort.nl/).

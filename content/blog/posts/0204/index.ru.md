@@ -12,8 +12,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/11hyjqss632o0035.jpg"
 places:
     - place0077
-aliases:
-    - /ru/blog/post/204
 ---
 
 Я писал, [было дело](0037), об особенном человеке по имени Боб ({{< fl "Bob" >}}) — этом практически святом человеке со всеми удобствами, ну или, как минимум, с машиной.

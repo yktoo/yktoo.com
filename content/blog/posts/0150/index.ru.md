@@ -15,8 +15,6 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/761vs82gd0a83517.jpg"
 places:
     - place0054
     - place0055
-aliases:
-    - /ru/blog/post/150
 ---
 
 ## Опять горы {#mountains-again}

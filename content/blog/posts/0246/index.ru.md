@@ -12,8 +12,6 @@ tags:
     - обзор
     - телевизоры
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/d54jq58wtt0q1992.jpg"
-aliases:
-    - /ru/blog/post/246
 ---
 
 ## Smart Hub {#smart-hub}

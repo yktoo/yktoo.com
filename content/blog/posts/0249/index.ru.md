@@ -10,8 +10,6 @@ tags:
     - менталитет
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/l34u1s7le05q1214.jpg"
 series: beg-to-differ
-aliases:
-    - /ru/blog/post/249
 ---
 
 Попробую выступить в непривычном для меня амплуа диванного психоаналитика. Осознаю, что ступаю на зыбкую почву.

@@ -11,8 +11,6 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/xc8vl8g6eb580512.jpg"
 places:
     - place0118
     - place0119
-aliases:
-    - /en/blog/post/84
 ---
 
 ## Vienna {#vienna}

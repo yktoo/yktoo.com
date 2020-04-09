@@ -11,8 +11,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/0o3yv6u8ib7v2787.jpg"
 places:
     - place0010
-aliases:
-    - /en/blog/post/185
 ---
 
 Last weekend, 16 through 19 May 2013, the traditional yearly jazz festival took place in Amersfoort, as I [announced](0183). Its thirty-fourth edition, to be precise. Chaired by the well-known Alexander Beets:

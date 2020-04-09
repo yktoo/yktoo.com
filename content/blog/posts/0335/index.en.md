@@ -11,8 +11,6 @@ tags:
     - running
     - sport
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/eftkwnhz3i5m1628.jpg"
-aliases:
-    - /en/blog/post/335
 ---
 
 Right before [my ten-year anniversary in Holland](0334), on Easter Monday, the castlerun [De Halve van De Haar](http://www.dehalvevandehaar.nl/) has taken place. I've been participating in it since the very beginning ([one](0266#de-halve-van-de-haar), [two](0274), [three](0320)).

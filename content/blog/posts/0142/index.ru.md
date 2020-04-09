@@ -8,8 +8,6 @@ tags:
     - Путин
     - Россия
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/cx74nvw95fa72322.jpg"
-aliases:
-    - /ru/blog/post/142
 ---
 
 [Nrc.next](http://www.nrcnext.nl/) вышел сегодня с до боли знакомой ~~рожей~~ физиономией на обложке.

@@ -6,8 +6,6 @@ tags:
     - blog
     - how it all began
 image: "bye-russia.png"
-aliases:
-    - /en/blog/post/1
 ---
 
 This publication is the first in a series of posts about my life in the **Netherlands**. Just in case, *Holland* and *Netherlands* are the two names of the same country, with *Netherlands* being the correct one, and *Holland* the more popular one.

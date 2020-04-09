@@ -15,8 +15,6 @@ tags:
     - Utopic Unicorn
 software: sound-switcher-indicator
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/64k0x3l8omtq0538.png"
-aliases:
-    - /en/blog/post/291
 ---
 
 I've been able to pay a bit more attention to the [Sound Switcher Indicator](/software/sound-switcher-indicator) and implement some of the long asked-for features.

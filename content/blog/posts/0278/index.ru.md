@@ -13,8 +13,6 @@ tags:
     - очумелые ручки
     - сделай сам
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/mppchq6tdmwm1119.jpg"
-aliases:
-    - /ru/blog/post/278
 series: infopi
 ---
 

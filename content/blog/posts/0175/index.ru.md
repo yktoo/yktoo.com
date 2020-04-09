@@ -20,8 +20,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/iwfitxlr7lt71371.jpg"
 places:
     - place0017
-aliases:
-    - /ru/blog/post/175
 ---
 
 *Понимаю, что всех достал уже с этим голландским роком, но куда деваться. Я тут так, коротенько…*

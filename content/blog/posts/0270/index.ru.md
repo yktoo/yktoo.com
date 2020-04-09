@@ -18,8 +18,6 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/3sk9zs0ru1wz0465.jpg"
 places:
     - place0235
     - place0236
-aliases:
-    - /ru/blog/post/270
 ---
 
 Посчастливилось в этом сезоне выбраться на {{< fl "wintersport" >}} (голландский термин, обозначающий горы, снег, тяжёлые физические нагрузки и, в более далёкой перспективе, удовольствие).

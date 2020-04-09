@@ -10,8 +10,6 @@ tags:
     - размышления
     - традиции
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/vsf2um2x6o1q2772.jpg"
-aliases:
-    - /ru/blog/post/316
 ---
 
 Это перевод забавной статьи [«19 Strange Dutch Habits»](http://www.invadingholland.com/guides-to-holland/19-strange-dutch-habits) британца по имени {{< fl "Stuart B" >}}, уже много лет живущего в Нидерландах и ведущего блог [Invading Holland](http://www.invadingholland.com/). Он также занимается тем, что рисует неплохие карикатуры — в том числе, и на заказ.

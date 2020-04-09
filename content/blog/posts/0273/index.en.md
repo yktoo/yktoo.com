@@ -19,8 +19,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/xy78lk9reebq3294.jpg"
 places:
     - place0239
-aliases:
-    - /en/blog/post/273
 ---
 
 Last weekend, on March 19, 2016, the author of these lines has qualified for the first dan {{< wiki "Aikikai" "en" "Aikido Aikikai" >}}.

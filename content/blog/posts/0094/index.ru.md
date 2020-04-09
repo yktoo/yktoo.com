@@ -8,8 +8,6 @@ tags:
     - праздники
     - Koninginnedag
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/u88f03gw759u1331.png"
-aliases:
-    - /ru/blog/post/94
 ---
 
 Google поражает осведомлённостью — уже поздравляет с Днём Королевы:

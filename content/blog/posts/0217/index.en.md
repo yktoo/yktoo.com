@@ -14,8 +14,6 @@ tags:
     - Unity
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/bfeb1axtu3ki2057.png"
 software: sound-switcher-indicator
-aliases:
-    - /en/blog/post/217
 ---
 
 I've finally got to update my [Sound Switcher Indicator](/software/sound-switcher-indicator). Version 1.2.0 adds support for selecting not only the input/output device, but also a specific port:

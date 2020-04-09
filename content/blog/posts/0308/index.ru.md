@@ -13,8 +13,6 @@ tags:
     - сайт
     - БД
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/b8chd0gh72xj3154.png"
-aliases:
-    - /ru/blog/post/308
 ---
 
 Вот уже около года я веду разработку своего веб-сайта (используемый стек технологий: [Yii 2](http://www.yiiframework.com/)/[PHP](http://php.net/)/[MySQL](https://www.mysql.com/)) исключительно с использованием [Docker](https://www.docker.com/). Однажды попробовав, я понял, что {{< fl "Docker" >}} — это лучшее, что могло случиться в сфере разработки. Ну, после {{< fl "Vim" >}}, конечно.

@@ -10,8 +10,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/nc2dy21geq820665.jpg"
 places:
     - place0041
-aliases:
-    - /ru/blog/post/154
 ---
 
 В марте и апреле 2012 года одна из самых известных голландских групп, Within Temptation, давала серию домашних концертов в Нидерландах, объединённых названием {{< fl "Sanctuary Tour" >}}.

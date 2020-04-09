@@ -6,8 +6,6 @@ tags:
     - 2018
     - upshot
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/ou4wbjlre2kg1795.png"
-aliases:
-    - /en/blog/post/342
 ---
 
 {{< fl "Tjongejonge" >}}, this year ended as suddenly as it [began](0332), I couldn't even find time to blog. This post is the tenth and the last one in 2018 (but I'm seriously considering improving on that matter).

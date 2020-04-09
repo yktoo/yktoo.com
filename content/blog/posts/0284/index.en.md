@@ -10,8 +10,6 @@ tags:
     - 合気道
     - 初段
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/skgvzt41286o1646.jpg"
-aliases:
-    - /en/blog/post/284
 ---
 
 And here we are, almost four months after the [exam](0273) I officially possess a Shodan Aikido Aikikai:

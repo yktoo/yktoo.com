@@ -17,8 +17,6 @@ tags:
     - Utrecht
     - Xandria
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/8bbm7rd8ejzl0196.jpg"
-aliases:
-    - /en/blog/post/269
 ---
 
 If you think I pay too much attention to {{< wiki "Stream_of_Passion" "en" "Stream of Passion" >}}, I can tell you I've seen a man on the show for whom that show of the band was the 94<sup>th</sup>.

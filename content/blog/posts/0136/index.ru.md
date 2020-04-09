@@ -12,8 +12,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/s8mfokdxg89r3635.jpg"
 places:
     - place0073
-aliases:
-    - /ru/blog/post/136
 ---
 
 Позавчера, 16 декабря, мне впервые довелось увидеть норвежскую команду [Pagan's Mind](http://www.pagansmind.com/), играющую в жанре Progressive Power Metal, которую я люблю уже давно. Группа обладает особенным звучанием, а её вокал нельзя спутать ни с чем.

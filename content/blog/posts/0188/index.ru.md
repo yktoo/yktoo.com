@@ -11,8 +11,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/pq681zl1dr1l1463.jpg"
 places:
     - place0008
-aliases:
-    - /ru/blog/post/188
 ---
 
 Мои старые знакомые по фестивалю [Dias Latinos 2011](0109), Tomasa Quartet, почтили Амерсфорт своим выступлением. Учитывая, что выступают они вообще не особенно часто, я не мог упустить момента встретиться с ними.

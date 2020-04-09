@@ -11,8 +11,6 @@ tags:
     - спорт
     - 合気道
 image: "https://img.youtube.com/vi/FpEad5sI-bc/maxresdefault.jpg"
-aliases:
-    - /ru/blog/post/224
 ---
 
 Хоть я ныне и обитаю в [Хаутене](0221), но Амерсфорт не забываю — я по-прежнему [занимаюсь айкидо](0011) у Джогиндера Сингха.

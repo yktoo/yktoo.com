@@ -18,8 +18,6 @@ tags:
     - Unity
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/64k0x3l8omtq0538.png"
 software: sound-switcher-indicator
-aliases:
-    - /en/blog/post/218
 ---
 
 After the [previous](0217) release of [Sound Switcher Indicator](/software/sound-switcher-indicator) an [article](http://www.webupd8.org/2014/02/sound-switcher-ubuntu-indicator.html) about it was posted on Web Upd8. I immediately started getting numerous bug reports, feature requests, questions and comments.

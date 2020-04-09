@@ -6,8 +6,6 @@ tags:
     - вино
     - цены
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/wkuszkoe57fu3242.jpg"
-aliases:
-    - /ru/blog/post/124
 ---
 
 Одна из вещей, которая меня очень удивляет, — это цены на спиртное в Голландии и России, особенно на вино, — и их соотношение с качеством.

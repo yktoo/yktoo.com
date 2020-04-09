@@ -15,8 +15,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/phb347i2ec531920.jpg"
 places:
     - place0079
-aliases:
-    - /en/blog/post/321
 ---
 
 It's been for the first time that a support act was as interesting for me as the headliners. At the end of the day, all three participants of *The Progressive Aspects Tour* proved to be up to par!

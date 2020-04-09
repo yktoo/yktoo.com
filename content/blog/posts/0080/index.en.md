@@ -9,8 +9,6 @@ tags:
     - Netherlands
     - spring
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/g0n7xbnlockg3428.jpg"
-aliases:
-    - /en/blog/post/80
 ---
 
 Warning: these pictures can make you jealous. Watch with care.

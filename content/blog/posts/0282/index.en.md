@@ -7,8 +7,6 @@ tags:
     - Internet
     - parcel
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/vigef45co14d2613.jpg"
-aliases:
-    - /en/blog/post/282
 ---
 
 I already [happened](0189) to receive things packaged in an oversized box, but this one beats all imaginable records.

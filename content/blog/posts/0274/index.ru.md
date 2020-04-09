@@ -13,8 +13,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/g4iojmxzvy3v1266.jpg"
 places:
     - place0165
-aliases:
-    - /ru/blog/post/274
 ---
 
 Весна выдалась спортивной. Сначала [айкидо](0273) (надеюсь, мой сертификат с красивыми иероглифами уже летит ко мне из Японии), теперь вот полумарафон.

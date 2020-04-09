@@ -12,8 +12,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/d9who9ehoxy90383.jpg"
 places:
     - place0020
-aliases:
-    - /en/blog/post/118
 ---
 
 Now that October has come, the summer is finally here. The last time it visited us was [in April](0092). After that I couldn't say we ever had summer weather in the past months. Temperature would hardly rise above 21—22° C (70—72° F), and mainly kept around 16—18° C (61—64° F), especially during August and September.

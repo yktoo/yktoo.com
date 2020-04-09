@@ -4,8 +4,6 @@ date: "2011-07-14T00:00:00Z"
 title: "Новый старый блог"
 tags: ["блог"]
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/8l0mwo2k5qwz1414.jpg"
-aliases:
-    - /ru/blog/post/103
 ---
 
 С блогом произошли некоторые давно запланированные изменения.

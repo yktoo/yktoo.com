@@ -13,8 +13,6 @@ tags:
     - software development
 image: commento.png
 fulltextUrl: 'https://yktoo.solutions/blog/2019/07/28-self-hosting-commento-with-docker-compose/'
-aliases:
-    - /en/blog/post/350
 ---
 
 A while ago I've made a decision to migrate off Disqus, which is arguably the most popular external commenting system for website owners.

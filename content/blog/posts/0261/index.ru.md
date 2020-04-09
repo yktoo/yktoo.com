@@ -8,8 +8,6 @@ tags:
     - размышления
     - Россия
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/ke8epyhztejl0064.jpg"
-aliases:
-    - /ru/blog/post/261
 ---
 
 > на родину с чужбины прибыв<br />

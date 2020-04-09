@@ -12,8 +12,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/g3t2x5c65r5e2783.jpg"
 places:
     - place0178
-aliases:
-    - /en/blog/post/203
 ---
 
 It's automn here again. Some annoyed expats keep insisting there's only just this season in Holland, but that's not true.

@@ -12,8 +12,6 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/m5hncao9s5rd3078.jpg"
 places:
     - place0020
     - place0122
-aliases:
-    - /ru/blog/post/79
 ---
 
 Да, [опять](0025) (в этом году совсем рано)!

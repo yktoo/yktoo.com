@@ -10,8 +10,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/dcnasut99fek0128.jpg"
 places:
     - place0093
-aliases:
-    - /ru/blog/post/91
 ---
 
 В последний день (точнее, утро) мы решили посмотреть Базилику Св. Иштвана ({{< fl "Szent István-bazilika" >}}), знаменитый католический собор.

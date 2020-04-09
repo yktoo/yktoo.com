@@ -13,8 +13,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/vz3gkxgj0lrc2178.jpg"
 places:
     - place0001
-aliases:
-    - /ru/blog/post/98
 ---
 
 24 июня этого, 2011 года, в клубе [P60](http://www.p60.nl/), что в Амстелвейне, я побывал на «домашнем» концерте довольно известной группы [Stream of Passion](http://www.streamofpassion.com/), играющей в жанре Progressive Metal. Группа представляла свой новый альбом {{< wiki "Darker_Days_(Stream_of_Passion_album)" "en" "Darker Days" >}}.

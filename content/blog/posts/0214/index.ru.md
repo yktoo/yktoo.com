@@ -11,8 +11,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/fbe5gu5woh8x1588.jpg"
 places:
     - place0149
-aliases:
-    - /ru/blog/post/214
 ---
 
 В прошлый раз я бегло [упомянул](0033) Веррегаренстраат ({{< fl "Werregarenstraat" >}}), единственную улицу в городе, где официально разрешено граффити. Её едва можно заметить с {{< fl "Hoogpoort" >}}, к которой она примыкает:

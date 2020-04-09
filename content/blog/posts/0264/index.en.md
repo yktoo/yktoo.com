@@ -15,8 +15,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/o7901lq40j5r2170.jpg"
 places:
     - place0230
-aliases:
-    - /en/blog/post/264
 ---
 
 It's now Movember (a.k.a. Musical November), which means — showtime!

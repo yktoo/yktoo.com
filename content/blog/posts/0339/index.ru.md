@@ -10,8 +10,6 @@ tags:
     - разработка
     - БД
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/6ksp2zl5yoy52890.png"
-aliases:
-    - /ru/blog/post/339
 ---
 
 На моём текущем проекте я разрабатываю приложение, использующее {{< fl "MySQL" >}} в качестве базы данных. Сама база данных крутится в {{< fl "Docker" >}}-контейнере, что очень удобно.

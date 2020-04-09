@@ -11,8 +11,6 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/60efjan0wr8f1910.jpg"
 places:
     - place0123
     - place0077
-aliases:
-    - /ru/blog/post/76
 ---
 
 У нас опять начали цвести нарциссы. Правда, пока в ограниченных количествах:

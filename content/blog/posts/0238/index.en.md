@@ -12,8 +12,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/79bq7anrf8fb0881.jpg"
 places:
     - place0227
-aliases:
-    - /en/blog/post/238
 ---
 
 This year I've visited [Ghent Light Festival](http://www.lichtfestivalgent.be/), just as I [promised](0213) a year ago.

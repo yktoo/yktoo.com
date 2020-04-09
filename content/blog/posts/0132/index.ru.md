@@ -11,8 +11,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/raybxus46qbg1787.jpg"
 places:
     - place0076
-aliases:
-    - /ru/blog/post/132
 ---
 
 Родившийся в Амерсфорте певец и актёр {{< wiki "Хестерс,_Йоханнес" "ru" "Йоханнес Хестерс" >}} опять [попал](http://www.destadamersfoort.nl/scripts/edoris/edoris.dll?tem=LN_TEXT_VIEW&doc_id=19867092&pageid=134190&naam=Johan-Heesters-in-ziekenhuis-opgenomen) в местные новости.

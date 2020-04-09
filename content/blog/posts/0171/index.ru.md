@@ -12,8 +12,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/j75wq1vub1hp2349.jpg"
 places:
     - place0020
-aliases:
-    - /ru/blog/post/171
 ---
 
 Год назад, 1 января 2012 г. я [опоздал](0138) на «Новогоднее ныряние» ({{< fl "Nieuwjaarsduik" >}}) из-за того, что не смог найти свободную парковку, поэтому мне пришлось купаться в гордом одиночестве.

@@ -7,8 +7,6 @@ tags:
     - новости
     - СМИ
     - терроризм
-aliases:
-    - /ru/blog/post/46
 ---
 
 Про субботнюю [попытку подрыва](http://www.dutchnews.nl/news/archives/2009/12/extra_security_at_schiphol_aft.php) самолёта Амстердам-Детройт и связанные с ней «[новые](http://top.rbc.ru/society/27/12/2009/357917.shtml), [улучшенные](http://vesselofsky.livejournal.com/77742.html)» меры безопасности не высказался ещё только ленивый, то есть я.

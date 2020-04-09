@@ -9,8 +9,6 @@ tags:
     - Netherlands
     - spring
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/dz55whdx2j5n1744.jpg"
-aliases:
-    - /en/blog/post/82
 ---
 
 At last it looks the right way, just like it was. I'm really amazed at indefatigability of the Dutch: would you plant a half kilometer of flowers?

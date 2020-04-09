@@ -12,8 +12,6 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/m5hncao9s5rd3078.jpg"
 places:
     - place0020
     - place0122
-aliases:
-    - /en/blog/post/79
 ---
 
 My first visit to the see in this year is as early as the spring itself.

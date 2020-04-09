@@ -15,8 +15,6 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/dee3hc9rzepz0131.jpg"
 places:
     - place0156
     - place0157
-aliases:
-    - /ru/blog/post/22
 ---
 
 Довелось мне тут давеча посетить пару музыкальных мероприятий.

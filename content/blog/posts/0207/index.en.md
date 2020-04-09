@@ -9,8 +9,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/7mw8uo4l73du2513.jpg"
 places:
     - place0186
-aliases:
-    - /en/blog/post/207
 ---
 
 During our [trip to Leeuwarden](0205) we have also visited, among other places, the port town of {{< wiki "Harlingen,_Friesland" "en" "Harlingen" >}}.

@@ -11,8 +11,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/8lce0st9pger0275.jpg"
 places:
     - place0125
-aliases:
-    - /ru/blog/post/208
 ---
 
 Вот такой диковинный винтажный поездик был замечен сегодня на нашем амерсфортском вокзале:

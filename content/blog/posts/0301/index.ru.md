@@ -14,8 +14,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/qcvoj4angkpg0782.jpg"
 places:
     - place0270
-aliases:
-    - /ru/blog/post/301
 ---
 
 Вчера, 17 декабря, в Хаутене состоялся благотворительный рождественский забег Санта-Клаусов [Rotary Santa Run](http://houten.rotarysantarun.nl/). Каждый из участвующих получил за скромный взнос в **€10** (бо́льшая часть которого пойдёт в пользу организаций {{< fl "Jeugdsportfonds Houten" >}} и {{< fl "De Nierstichting" >}}) красный костюм Санта-Клауса, пару купонов на бесплатный напиток, а также возможность поучаствовать в хорошем, полезном и весёлом деле.

@@ -9,8 +9,6 @@ tags:
     - music
     - Ubuntu
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/ljepeem9sx9q3247.png"
-aliases:
-    - /en/blog/post/126
 ---
 
 And—here we go: at last ~~long-suffering~~ long-awaited [Google Music](http://music.google.com/) went public—the thing I've been eagerly waiting for so long! I'd be happy to send my 130 GB of music up in the cloud. I perfectly fit into the free limit of twenty thousand files.

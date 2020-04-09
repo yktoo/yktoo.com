@@ -18,8 +18,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/iwfitxlr7lt71371.jpg"
 places:
     - place0017
-aliases:
-    - /en/blog/post/175
 ---
 
 *I realize everyone is alreay sick of my gig reports, but can't really help it. Let's just keep it short…*

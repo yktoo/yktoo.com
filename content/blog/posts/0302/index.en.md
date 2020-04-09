@@ -9,8 +9,6 @@ tags:
     - website
     - Yktoo Solutions
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/41diu1z68uu63471.png"
-aliases:
-    - /en/blog/post/302
 ---
 
 The turbulent two thousand sixteen has come to an end. The year that has brought so much grief to our world. The year in which [Sun Caged](0283) and *Stream of Passion* ceased to exist. I'm inclined to think it's good that it's over.

@@ -6,8 +6,6 @@ tags:
     - интернет
     - Нидерланды
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/eohk8bbakv223159.png"
-aliases:
-    - /ru/blog/post/100
 ---
 
 После прокладки [новых кабелей](0099) и продувки лазеров байты заструились по оптоволокну ещё пуще [прежнего](0096):

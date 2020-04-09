@@ -8,8 +8,6 @@ tags:
     - Нидерланды
     - Хаутен
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/cuu3jcvgaxq11929.jpg"
-aliases:
-    - /ru/blog/post/234
 ---
 
 Итак, мы осели в [Хаутене](0221). Расскажу о том, почему именно здесь и чем мы руководствовались при выборе.

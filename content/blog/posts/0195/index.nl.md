@@ -14,8 +14,6 @@ places:
     - place0175
     - place0176
     - place0177
-aliases:
-    - /nl/blog/post/195
 ---
 
 Ik wil mijn Russische ervaringen met je delen. Ik herinner me mijn verblijf in Tyumen in verband met een aantal karakteristieke verhalen.

@@ -13,8 +13,6 @@ tags:
     - ремонт
     - сделай сам
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/bb798kpcbati2393.jpg"
-aliases:
-    - /ru/blog/post/252
 ---
 
 Благодаря неиссякающему иБею мне удалось проапгрейдить бессмертный бестселлер [Koss PortaPro](http://www.koss.com/en/products/headphones/on-ear-headphones/PortaPro__Porta_Pro_On_Ear_Headphone). Им уже лет десять, но они по-прежнему радуют мощным звуком и компактностью, а после двух доработок стали ещё лучше:

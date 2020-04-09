@@ -14,8 +14,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/nvv2nd5qa6ov2356.jpg"
 places:
     - place0244
-aliases:
-    - /ru/blog/post/297
 ---
 
 Пять дней назад [Арьен «Наше Всё» Лукассен](/tags/Arjen-Lucassen) ({{< fl "Arjen Lucassen" >}}) [объявил](https://www.facebook.com/ArjenLucassenOfficial/videos/10153840917141152/) на своей странице в Фейсбуке об [Ayreon Universe](http://www.arjenlucassen.com/universe/) — двух «живых» концертах своего мегапроекта {{< fl "Ayreon" >}}, запланированных на **15 и 16 сентября 2017** года. Официальная продажа билетов должна была начаться 24 ноября в 10 часов утра.

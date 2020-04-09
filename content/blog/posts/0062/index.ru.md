@@ -7,8 +7,6 @@ tags:
     - интересное
     - Нидерланды
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/gcaznbmyllyj1498.JPG"
-aliases:
-    - /ru/blog/post/62
 ---
 
 Довольно оригинальное нововведение было замечено мной в местном супермаркете:

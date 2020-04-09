@@ -11,8 +11,6 @@ tags:
     - ships
     - water
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/mdlfkrk2c6ns2848.jpg"
-aliases:
-    - /en/blog/post/259
 ---
 
 Between the 19 and the 23 of August Amsterdam hosted a huge marine event called [SAIL Amsterdam](https://www.sail.nl/). It's held once every five years, and is most known for its {{< wiki "Tall_ship" "en" "tall ships" >}} (apart from hundreds of other ships). During the event they sail in loops around the {{< wiki "IJ_(Amsterdam)" "en" "IJ" >}} lake, giving the area a totally different look and attracting millions (yes, millions) of visitors.

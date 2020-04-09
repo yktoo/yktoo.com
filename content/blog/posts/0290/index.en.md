@@ -16,8 +16,6 @@ tags:
     - Utopic Unicorn
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/fea8e5qk2bg91390.png"
 software: sound-switcher-indicator
-aliases:
-    - /en/blog/post/290
 ---
 
 It's been more than two years since the last release of the [Sound Switcher Indicator](/software/sound-switcher-indicator) (1.2.2). During this period I've been bombarded with [requests](https://github.com/yktoo/indicator-sound-switcher/issues/3) to allow the indicator to switch device profiles, because most sound cards cannot be otherwise switched to their digital ports, like S/PDIF and HDMI.

@@ -9,8 +9,6 @@ tags:
     - sound
     - speaker
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/d4vo7lbyib4g3157.jpg"
-aliases:
-    - /en/blog/post/198
 ---
 
 Recently I've discovered a peculiar feature of my [M-Audio Studiophile AV 40](0189) speakers.

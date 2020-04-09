@@ -9,8 +9,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/cfy9rslubn152230.jpg"
 places:
     - place0035
-aliases:
-    - /ru/blog/post/161
 ---
 
 Во время одной из наших велопоездок по окрестной стране мы обнаружили странное устройство, которое при приближении оказалось автоматом по продаже куриных яиц.

@@ -13,8 +13,6 @@ tags:
     - индикатор
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/raqp0z0dsc0l0578.png"
 software: docker-indicator
-aliases:
-    - /ru/blog/post/319
 ---
 
 Если вы часто работаете с [Docker-контейнерами](https://www.docker.com/), то, наверное, заметили, что плодятся эти контейнеры как кролики по весне. Порой обнаруживаешь неиспользуемый контейнер, которые годами пылится и покрывается паутиной где-то глубоко в списке остановленных.

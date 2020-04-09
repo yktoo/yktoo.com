@@ -8,8 +8,6 @@ tags:
     - Netherlands
     - waste
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/4xn0jktq1kam2729.jpg"
-aliases:
-    - /en/blog/post/276
 ---
 
 {{< wiki "Moore's_law" "en" "Moore's law" >}} teamed up with the Chinese electronic device industry are inserting new steps into the [Lansink's Ladder](ru;0093). Next to the sections for used fluorescent bulbs and batteries, which are classified as {{< fl "klein chemisch afval" >}} (household hazardous waste), {{< fl "Albert Heijn" >}} grocery stores have now added a separate opening for used mobile phones!

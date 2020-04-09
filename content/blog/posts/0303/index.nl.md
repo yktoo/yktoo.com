@@ -13,8 +13,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/dzf7p3q6zia51935.jpg"
 places:
     - place0271
-aliases:
-    - /nl/blog/post/303
 ---
 
 Vlak voor oudejaarsavond kwam er lichte vorst van -2 °C terwijl er nog steeds geen sneeuw lag. Het groene gras was 's ochtends al erg mooi met rijp overdekt.

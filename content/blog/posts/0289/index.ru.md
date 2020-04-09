@@ -7,8 +7,6 @@ tags:
     - веб
     - сайт
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/vhvb0hrcfqb30335.png"
-aliases:
-    - /ru/blog/post/289
 ---
 
 Сайт **yktoo.com** полностью переведён на использование защищённого протокола {{< wiki "HTTPS" "ru" "HTTPS" >}} (вместо прежнего {{< wiki "HTTPS" "ru" "HTTP" >}}). Теперь ваш начальник не сможет узнать, что именно вы читаете в моём блоге.

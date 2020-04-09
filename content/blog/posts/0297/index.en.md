@@ -15,8 +15,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/nvv2nd5qa6ov2356.jpg"
 places:
     - place0244
-aliases:
-    - /en/blog/post/297
 ---
 
 Five days ago the mighty [Arjen Lucassen](/tags/Arjen-Lucassen) [has announced](https://www.facebook.com/ArjenLucassenOfficial/videos/10153840917141152/) on his Facebook page two live shows of his *Ayreon* mega-project, which got the name [Ayreon Universe](http://www.arjenlucassen.com/universe/). The shows were scheduled for **15 and 16 September 2017**, with the official ticket sale starting on 24 November at 10:00 CET.

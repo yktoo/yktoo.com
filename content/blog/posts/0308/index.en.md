@@ -13,8 +13,6 @@ tags:
     - Yii2
     - databases
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/b8chd0gh72xj3154.png"
-aliases:
-    - /en/blog/post/308
 ---
 
 It's been about a year since I've switched to developing this website (built with [Yii 2](http://www.yiiframework.com/)/[PHP](http://php.net/)/[MySQL](https://www.mysql.com/)) using [Docker](https://www.docker.com/). After just one try I realised that *Docker* is the best thing happened to development. Well, after *Vim*, of course.

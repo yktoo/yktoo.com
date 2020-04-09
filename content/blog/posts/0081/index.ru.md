@@ -6,8 +6,6 @@ tags:
     - забавное
     - Нидерланды
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/xruub4jyw3sp3121.jpg"
-aliases:
-    - /ru/blog/post/81
 ---
 
 Вот так всегда…

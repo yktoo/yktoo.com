@@ -10,8 +10,6 @@ tags:
     - running
     - sport
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/oh0atpl6y6l70386.jpg"
-aliases:
-    - /en/blog/post/279
 ---
 
 I'm just back from Amersfoort where I've quite successfully finished a half marathon, **21.1 km**.

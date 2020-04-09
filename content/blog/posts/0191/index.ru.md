@@ -10,8 +10,6 @@ tags:
     - Португалия
     - путешествия
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/nlby2sddb4xz2829.jpg"
-aliases:
-    - /ru/blog/post/191
 ---
 
 К слову о машине, которую мы брали напрокат в славном городе Албуфейре, где имели честь квартировать.

@@ -13,8 +13,6 @@ tags:
     - work
     - Yktoo Solutions
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/v95wud5j9h2w2271.png"
-aliases:
-    - /en/blog/post/318
 ---
 
 This post continues the [series](/series/business) about the challenging yet rewarding entrepreneur's way, and I'd like to shed some light on my experience and learned lessons so far.

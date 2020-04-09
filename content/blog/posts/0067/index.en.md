@@ -12,8 +12,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/sk6xpyzm9qqd2379.jpg"
 places:
     - place0126
-aliases:
-    - /en/blog/post/67
 ---
 
 You have perhaps heard of wintry weather and severe snowfalls in different parts of Europe. It didn't leave Holland unaffected either. From my balcony I see something like this:

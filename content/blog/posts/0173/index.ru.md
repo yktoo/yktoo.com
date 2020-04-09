@@ -9,8 +9,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/lptrnpdjugnj1865.jpg"
 places:
     - place0019
-aliases:
-    - /ru/blog/post/173
 ---
 
 В ноябре минувшего года нас с Амерсфортом официально представили друг другу.

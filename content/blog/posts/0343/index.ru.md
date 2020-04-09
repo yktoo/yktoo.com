@@ -12,8 +12,6 @@ tags:
     - индикатор
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/9revw9yiv80r1938.png"
 software: sound-switcher-indicator
-aliases:
-    - /ru/blog/post/343
 ---
 
 Пришло время исполнять [обещанное](0342), так что представляю на ваш суд версию [Sound Switcher Indicator](/software/sound-switcher-indicator) **2.2.0**.

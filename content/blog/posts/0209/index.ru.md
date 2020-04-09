@@ -16,8 +16,6 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/yj1wt7c44si22168.jpg"
 places:
     - place0188
     - place0190
-aliases:
-    - /ru/blog/post/209
 ---
 
 **Всех с Новым Годом!**

@@ -9,8 +9,6 @@ tags:
     - my music
     - progressive metal
     - Radiolaria
-aliases:
-    - /en/blog/post/104
 ---
 
 This track was written by me in collaboration with Igor Abakumov back in 2002. Those were our first, and up to now also the last, feeble attempts of Progressive Metal composing.

@@ -10,8 +10,6 @@ tags:
     - железо
     - обзор
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/pksj4yaj2vcz1613.jpg"
-aliases:
-    - /ru/blog/post/265
 ---
 
 ## Пролог

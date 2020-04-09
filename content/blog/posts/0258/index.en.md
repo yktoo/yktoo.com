@@ -7,8 +7,6 @@ tags:
     - Netherlands
     - Russia
     - visa
-aliases:
-    - /en/blog/post/258
 ---
 
 In my [last post](0257) I offered you some insight into the Hell's Kitchen, usually labelled with a sign {{< fl "Почта России" >}} (*Russian Post*).

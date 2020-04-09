@@ -13,8 +13,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/eb3y84qeq3pu2412.jpg"
 places:
     - place0224
-aliases:
-    - /en/blog/post/229
 ---
 
 While euro and dollar are *enjoying* a record growth in Russia, we're enjoying one of the warmest autumns on record here in Holland, yet [again](0118). Whatever caused it, sanctions or global warming.

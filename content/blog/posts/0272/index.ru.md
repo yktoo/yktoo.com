@@ -13,8 +13,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/ur908xrfq8780875.jpg"
 places:
     - place0041
-aliases:
-    - /ru/blog/post/272
 ---
 
 «Театр грёз» в театре — каково! Но каламбуры в сторону.

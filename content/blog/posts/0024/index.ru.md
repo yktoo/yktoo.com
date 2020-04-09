@@ -11,8 +11,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/93a3xjg5tcx42983.jpg"
 places:
     - place0041
-aliases:
-    - /ru/blog/post/24
 ---
 
 Вчера у нас в компании был, что называется, «корпоративный вечер».

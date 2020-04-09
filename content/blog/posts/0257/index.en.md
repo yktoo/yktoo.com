@@ -9,8 +9,6 @@ tags:
     - Russian Post
     - Tyumen
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/new4gypsrl3s0309.png"
-aliases:
-    - /en/blog/post/257
 ---
 
 I have to admit that the Russian Post has well earned its popular nickname "Hell's Office". It's a very good example of the importance of The Rule to the life in the country, as opposed to the common sense. The Rule, one of many, established by those mentals sitting in Russian Duma.

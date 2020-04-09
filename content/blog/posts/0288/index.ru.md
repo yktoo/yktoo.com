@@ -13,8 +13,6 @@ tags:
     - электромобили
     - электротранспорт
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/r7mp9g7og7jp1709.jpg"
-aliases:
-    - /ru/blog/post/288
 ---
 
 Дела у {{< fl "Tesla" >}}, до недавних пор гордившейся отсутствием аварий, в последнее время идут неважно. И с финансами [не клеится](http://arstechnica.com/cars/2016/08/tesla-losses-grow-but-musk-says-production-goals-will-be-met-by-year-end/), и аварий уже было порядочно, в том числе и с человеческими жертвами. Вот теперь и до нас добралось: {{< fl "Model S" >}} потерпела крушение в Баарне — городке, где я некогда [работал](0006).

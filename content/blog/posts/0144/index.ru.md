@@ -11,8 +11,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/51ue84zuue3a2742.jpg"
 places:
     - place0068
-aliases:
-    - /ru/blog/post/144
 ---
 
 Продолжаем тему мартовских путешествий. Нас внезапно занесло на юг Бельгии, в провинцию Намюр — туда, где горы Арденны, замки, сады, ну и вообще красиво.

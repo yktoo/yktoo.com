@@ -8,8 +8,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/b91n8b5vvsu11306.jpg"
 places:
     - place0036
-aliases:
-    - /en/blog/post/112
 ---
 
 Yesterday I survived laser eye surgery, which was quite an act for me.

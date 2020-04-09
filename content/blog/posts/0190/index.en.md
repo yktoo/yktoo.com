@@ -11,8 +11,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/jyp7z1x155zg3010.jpg"
 places:
     - place0007
-aliases:
-    - /en/blog/post/190
 ---
 
 Recently I've visited Portugal for the first time in my life. The everlasting Dutch off-season makes one long for sun, and where else in Europe can you secure a sunny place, except maybe the [Canaries](ru;0148)? This spring in Europe is particularly poor, full of floods and cold, so Portugal appears to be the best option for the continental part.

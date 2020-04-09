@@ -11,8 +11,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/ui2i68d3opl73136.jpg"
 places:
     - place0008
-aliases:
-    - /ru/blog/post/125
 ---
 
 9 ноября 2011 в нашем «городском кафе „Блюститель‟» ([Stadscafé de Observant](http://www.observant.nl/)) состоялся концерт джазового гитариста Мартайна ван Итерсона ([Martijn van Iterson](http://www.martijnvaniterson.com/)) и группы «Бейтс Бразерс» ([The Beets Brothers](http://www.beetsbrothers.nl/)).

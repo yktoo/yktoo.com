@@ -6,8 +6,6 @@ tags:
     - funny
     - money
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/7r9gj2byanw01912.jpg"
-aliases:
-    - /en/blog/post/77
 ---
 
 A friend of mine is recently back from Southeast Asia. His intention originally was to visit Vietnam and Laos, but he ended up visiting also Cambodia, Malaysia and Hong Kong.

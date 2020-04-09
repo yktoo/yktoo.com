@@ -15,8 +15,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/hflrx598j9ny2018.jpg"
 places:
     - place0241
-aliases:
-    - /en/blog/post/283
 ---
 
 I've finally nerved myself to tell you about a sad development for prog lovers.

@@ -9,8 +9,6 @@ tags:
     - SSD
     - Ubuntu
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/z6jodg5ukriv0433.png"
-aliases:
-    - /en/blog/post/233
 ---
 
 In my [last post](0231) I told you about upgrading an iMac with a solid-state drive (SSD). These drives are very fast (read throughput is usually ca. 500 MB/s if connected via a 6 Gbps SATA III) and completely silent.

@@ -7,8 +7,6 @@ tags:
     - blog
     - employment
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/8qtjm8gvyltq2667.jpg"
-aliases:
-    - /en/blog/post/307
 ---
 
 With all that fuss I have missed the important date of **20 years** of my professional experience, which happened on March 22, 2016.

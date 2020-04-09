@@ -12,8 +12,6 @@ tags:
     - работа
     - фриланс
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/v95wud5j9h2w2271.png"
-aliases:
-    - /ru/blog/post/318
 ---
 
 Продолжая свой [цикл постов](/series/business) о нелёгкой, но радостной предпринимательской судьбе, вкратце расскажу об уроках, извлечённых из личного опыта трудоустройства.

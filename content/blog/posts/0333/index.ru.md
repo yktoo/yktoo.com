@@ -9,8 +9,6 @@ tags:
     - Ubuntu
     - странное
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/gu9yw1wxrl101352.png"
-aliases:
-    - /ru/blog/post/333
 ---
 
 Угораздило меня давеча проапгрейдить свой айМак на Убунту 17.10 {{< fl "Artful Aardvark" >}}. Ту самую, в которой {{< fl "X Window" >}} заменили на {{< fl "Wayland" >}}, а {{< fl "Unity" >}} на {{< fl "Gnome Shell" >}}.

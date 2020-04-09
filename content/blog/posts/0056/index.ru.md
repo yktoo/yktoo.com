@@ -9,8 +9,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/vmm5xm1zanon1008.jpg"
 places:
     - place0120
-aliases:
-    - /ru/blog/post/56
 ---
 
 Читаешь местные новости и просто слёзы на глаза наворачиваются от столь трогательной заботы о населении.

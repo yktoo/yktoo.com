@@ -8,8 +8,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/b91n8b5vvsu11306.jpg"
 places:
     - place0036
-aliases:
-    - /ru/blog/post/112
 ---
 
 Вчера мне сделали лазерную коррекцию зрения, с чем я себя и поздравляю.

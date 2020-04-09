@@ -13,8 +13,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/dzf7p3q6zia51935.jpg"
 places:
     - place0271
-aliases:
-    - /ru/blog/post/303
 ---
 
 Под самый Новый год ударили небывалые морозы в -2 °C. Снега при этом как не было, так и нет, но зелёная трава покрылась инеем.

@@ -8,8 +8,6 @@ tags:
     - Netherlands
     - RIP
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Gary-Moore-at-Pite-Havsbad.jpg/463px-Gary-Moore-at-Pite-Havsbad.jpg"
-aliases:
-    - /en/blog/post/71
 ---
 
 Gary Moore would have performed at [Highlands Festival](http://www.highlandsfestival.nl/programma/) here in Amersfoort on May 27-28, 2011. People arranging the concert are now evidently upset.

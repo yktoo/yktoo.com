@@ -15,8 +15,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/m0kwv1ckhveu1509.jpg"
 places:
     - place0082
-aliases:
-    - /ru/blog/post/117
 ---
 
 Хоть и минуло уж почти полгода, а всё же лучше поздно, чем никогда.

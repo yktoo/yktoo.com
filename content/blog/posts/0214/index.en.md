@@ -11,8 +11,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/fbe5gu5woh8x1588.jpg"
 places:
     - place0149
-aliases:
-    - /en/blog/post/214
 ---
 
 Last time I only briefly [mentioned](ru;0033) {{< fl "Werregarenstraat" >}}, the only street in the city where graffiti is officially allowed. It's barely visible from {{< fl "Hoogpoort" >}} it joins to:

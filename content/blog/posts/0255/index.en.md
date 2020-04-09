@@ -12,8 +12,6 @@ tags:
     - yktools
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/vehbela1sh2q2506.jpg"
 software: yktools
-aliases:
-    - /en/blog/post/255
 ---
 
 It's been a while since I [posted](0231) about replacing an iMac's HDD with a solid-state drive (SSD) Samsung 840 EVO, and also about [tuning your Ubuntu](0233) for it. Once done, you can enjoy the awesome overall responsiveness of your system and instantaneous application startup. And all that at an affordable price.

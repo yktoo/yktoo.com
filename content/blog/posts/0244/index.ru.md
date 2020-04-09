@@ -11,8 +11,6 @@ tags:
     - обзор
     - телевизоры
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/vv5r1islwn8x1421.jpg"
-aliases:
-    - /ru/blog/post/244
 ---
 
 ## Доступные разъёмы и варианты подключения {#connectors}

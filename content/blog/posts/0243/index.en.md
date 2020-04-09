@@ -12,8 +12,6 @@ tags:
     - TV
     - unboxing
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/p2m7bcrlfvpq0811.jpg"
-aliases:
-    - /en/blog/post/243
 ---
 
 As time passes by, TV diagonals grow, so do our appetites. TV screens of 50-55 inch, which seemed huge just a few years ago, are the mainstream nowadays and can be found in any decent electronics store. They also provide the best size to price ratio, as I reckon.

@@ -15,8 +15,6 @@ tags:
     - телефон
     - Wi-Fi
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/ojm8oj1ktazv1831.jpg"
-aliases:
-    - /ru/blog/post/96
 ---
 
 ## Было {#before}

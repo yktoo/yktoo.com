@@ -9,8 +9,6 @@ tags:
     - Netherlands
     - nieuwjaarsduik
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/ioiqmkd3p2u71084.jpg"
-aliases:
-    - /en/blog/post/236
 ---
 
 We had a great time celebrating the New 2015, together with our Russian and Ukrainian friends.

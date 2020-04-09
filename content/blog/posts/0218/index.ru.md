@@ -18,8 +18,6 @@ tags:
     - индикатор
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/64k0x3l8omtq0538.png"
 software: sound-switcher-indicator
-aliases:
-    - /ru/blog/post/218
 ---
 
 После [предыдущего](0217) релиза [Sound Switcher Indicator](/software/sound-switcher-indicator) о нём [написал](http://www.webupd8.org/2014/02/sound-switcher-ubuntu-indicator.html) довольно известный ресурс Web Upd8, и я ~~проснулся знаменитым~~ сразу начал получать багрепорты, фичереквесты, вопросы и предложения.

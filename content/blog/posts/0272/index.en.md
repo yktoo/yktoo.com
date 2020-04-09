@@ -13,8 +13,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/ur908xrfq8780875.jpg"
 places:
     - place0041
-aliases:
-    - /en/blog/post/272
 ---
 
 The band **Dream Theater** is absolutely legendary. They are considered the founders of the {{< wiki "Progressive_metal" "en" "progressive metal" >}} genre, and each of them alone is equally legendary. If you doubt that, just watch their [Instrumedley video](https://www.youtube.com/watch?v=rGN7WchdYa4); not many musicians in the world are capable of playing something like that.

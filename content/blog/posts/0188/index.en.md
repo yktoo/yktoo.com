@@ -11,8 +11,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/pq681zl1dr1l1463.jpg"
 places:
     - place0008
-aliases:
-    - /en/blog/post/188
 ---
 
 Tomasa Quartet, whom I know since [Dias Latinos 2011](0109), honoured Amersfoort with a live gig. I couldn't miss the (quite rare) opportunity of seeing that.

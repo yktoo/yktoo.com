@@ -12,8 +12,6 @@ tags:
     - обзор
     - телевизоры
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/p2m7bcrlfvpq0811.jpg"
-aliases:
-    - /ru/blog/post/243
 ---
 
 <small>*Обновлённый, дополненный и переведённый [мой пост с ГикТаймс](http://geektimes.ru/post/247228/).*</small>

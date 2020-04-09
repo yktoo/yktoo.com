@@ -8,8 +8,6 @@ tags:
     - mortgage
     - Netherlands
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/cuu3jcvgaxq11929.jpg"
-aliases:
-    - /en/blog/post/234
 ---
 
 So we've settled in [Houten](0221). It's time to go in particulars on how we sought a house.

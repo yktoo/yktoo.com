@@ -16,8 +16,6 @@ places:
     - place0303
     - place0302
     - place0301
-aliases:
-    - /en/blog/post/323
 ---
 
 We decided to dedicate the last day of our [Sophian journey](0322) to Plovdiv, going there in the morning and returning in the afternoon.

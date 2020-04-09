@@ -15,8 +15,6 @@ tags:
     - Yakkety Yak
 software: sound-switcher-indicator
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/64k0x3l8omtq0538.png"
-aliases:
-    - /en/blog/post/295
 ---
 
 [Sound Switcher Indicator](/software/sound-switcher-indicator) is getting more and more intricate and advanced thanks to the never-ending stream of ideas from the users. The majority of changes in the version **2.1.1** pertain to the configuration file (`$HOME/.config/indicator-sound-switcher.json`).

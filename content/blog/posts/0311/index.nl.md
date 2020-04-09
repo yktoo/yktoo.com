@@ -12,8 +12,6 @@ tags:
     - werk
     - Yktoo Solutions
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/71f5vydx1e672802.jpg"
-aliases:
-    - /nl/blog/post/311
 ---
 
 Laten we, als vervolg op het [Vormen vs. personen](0310) verhaal, een stap zetten van de abstracte theorie naar een praktischer zicht op ondernemerschap.

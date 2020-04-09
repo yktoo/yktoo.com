@@ -16,8 +16,6 @@ tags:
     - индикатор
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/nxq0nd14z9ut1387.png"
 software: sound-switcher-indicator
-aliases:
-    - /ru/blog/post/178
 ---
 
 Я не выдержал и написал индикатор для переключения звуковых устройств (входа/выхода) в Ubuntu.

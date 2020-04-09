@@ -9,8 +9,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/twntag7n2bcj0468.jpg"
 places:
     - place0158
-aliases:
-    - /ru/blog/post/21
 ---
 
 Сегодня я побывал в образцово-показательной деревушке с непроизносимым названием Заансе Сханс ({{< fl "Zaanse Schans" >}}).

@@ -10,8 +10,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/n3b9b8u7cza33324.jpg"
 places:
     - place0310
-aliases:
-    - /en/blog/post/345
 ---
 
 On this same day, precisely two years ago—July 13, 2017—I've rolled my mouse pointer over a very beautiful photo of a girl and clicked on *Like*.

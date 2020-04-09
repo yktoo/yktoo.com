@@ -26,8 +26,6 @@ places:
     - place0290
     - place0288
     - place0289
-aliases:
-    - /en/blog/post/322
 ---
 
 There's this country on our globe that is kind of special for Russian-speaking people, because they use the same alphabet but pretty different words. Which usually results in something either incomprehensible or hilarious.

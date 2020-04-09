@@ -11,8 +11,6 @@ tags:
     - обзор
     - телевизоры
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/rhtzlfix5mvx2539.png"
-aliases:
-    - /ru/blog/post/247
 ---
 
 ## Видео {#video}

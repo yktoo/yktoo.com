@@ -8,8 +8,6 @@ tags:
     - Houten
     - Netherlands
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/04bvdttax8aq0077.jpg"
-aliases:
-    - /en/blog/post/260
 ---
 
 A year ago I [posted](0223) about fruit groves in Houten. Last summer brought a sudden news on that topic.

@@ -12,8 +12,6 @@ tags:
     - спорт
     - 合気道
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/8ghogu0wxhqr1069.png"
-aliases:
-    - /ru/blog/post/200
 ---
 
 На досуге сделал доброе дело и сваял сайт для своей школы айкидо (по-научному {{< fl "доджо" >}}) **Aikikai Amersfoort**, ныне расположенный по адресу [aikikai-amersfoort.nl](http://aikikai-amersfoort.nl/).

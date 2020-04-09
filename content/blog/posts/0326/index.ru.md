@@ -13,8 +13,6 @@ tags:
     - наушники
     - обзор
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/89594ti5zeur0760.jpg"
-aliases:
-    - /ru/blog/post/326
 ---
 
 Нечасто пишу обзоры, но наш сегодняшний герой этого заслужил. Знакомьтесь: наушники-вкладыши [Mi In-Ear Headphones Pro HD](http://www.mi.com/en/headphonesprohd/) известного китайского производителя {{< fl "Xiaomi" >}}.

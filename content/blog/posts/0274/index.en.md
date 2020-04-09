@@ -13,8 +13,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/g4iojmxzvy3v1266.jpg"
 places:
     - place0165
-aliases:
-    - /en/blog/post/274
 ---
 
 This spring is full of sporting activities. First [aikido](0273) (I hope my certificate with nice Japanese characters is already on its way), now a half marathon.

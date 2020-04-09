@@ -7,8 +7,6 @@ tags:
     - RIP
     - Steve Jobs
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/g6oy03i2jcma0980.jpg"
-aliases:
-    - /en/blog/post/119
 ---
 
 What this man has done in his not-so-long lifetime has undoubtedly changed the world for better.

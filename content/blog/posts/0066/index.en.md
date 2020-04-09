@@ -12,8 +12,6 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/rxgvjvedb90e1654.jpg"
 places:
     - place0087
     - place0003
-aliases:
-    - /en/blog/post/66
 ---
 
 From now on I'm going to make my blog bilingual. Unless I'm too lazy, or the subject is not intended for Western audience.

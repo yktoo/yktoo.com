@@ -9,8 +9,6 @@ tags:
     - праздники
     - сделай сам
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/xho1bpes5i7b2075.jpg"
-aliases:
-    - /ru/blog/post/174
 ---
 
 Мы в Новый год сделали вот такое, по-настоящему фруктовое дерево:

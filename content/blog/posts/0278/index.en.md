@@ -12,8 +12,6 @@ tags:
     - Python
     - Raspberry Pi
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/mppchq6tdmwm1119.jpg"
-aliases:
-    - /en/blog/post/278
 series: infopi
 ---
 

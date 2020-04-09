@@ -10,8 +10,6 @@ tags:
     - running
     - sport
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/elqndv0yg6bk2335.jpg"
-aliases:
-    - /en/blog/post/327
 ---
 
 Today I've run yet another half marathon (**21.1 km**), in the small town of {{< wiki "IJsselstein" "en" "Ijsselstein" >}}, which is near to Houten we live in.

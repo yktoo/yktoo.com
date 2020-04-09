@@ -7,8 +7,6 @@ tags:
     - Netherlands
     - Russia
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/va0b8m7rcznt1262.png"
-aliases:
-    - /en/blog/post/68
 ---
 
 Challenges chased me in my fatherland, and it takes time to recover. Anyway, imagine you were living in Russia. That's how you might see this, [according](http://www.ifitweremyhome.com/compare/RU/NL) to IfItWereMyHome.com:

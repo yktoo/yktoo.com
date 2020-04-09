@@ -7,8 +7,6 @@ tags:
     - food
     - holidays
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/xho1bpes5i7b2075.jpg"
-aliases:
-    - /en/blog/post/174
 ---
 
 In the New Year's Eve we've made a fruit tree, a real one:

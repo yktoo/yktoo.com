@@ -11,8 +11,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/t0c1ta9136tn0480.jpg"
 places:
     - place0013
-aliases:
-    - /en/blog/post/277
 ---
 
 The last Queen's Day to date happened [three years ago](0184), when Princess Beatrix, then still the Queen of the Netherlands, [announced](0176) her upcoming abdication for her son Willem-Alexander. The latter celebrates his birthday on **April 27<sup>th</sup>**, which is very conveniently near the former date of April 30<sup>th</sup>.

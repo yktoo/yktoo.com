@@ -9,8 +9,6 @@ tags:
     - Tivoli Vredenburg
     - Utrecht
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/tt5xi22iwoyx2843.png"
-aliases:
-    - /en/blog/post/341
 ---
 
 That moment when you find out the [official Riverside event page](https://www.tivolivredenburg.nl/agenda/riverside-12-11-2018/) at {{< fl "Tivoli Vredenburg" >}} is illustrated with *your* video.

@@ -16,8 +16,6 @@ tags:
     - Unity
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/nxq0nd14z9ut1387.png"
 software: sound-switcher-indicator
-aliases:
-    - /en/blog/post/178
 ---
 
 I couldn't take it anymore so I created an audio input/output switcher indicator for Ubuntu.

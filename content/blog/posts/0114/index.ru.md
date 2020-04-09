@@ -9,8 +9,6 @@ tags:
     - моя музыка
     - музыка
     - Радиолярия
-aliases:
-    - /ru/blog/post/114
 ---
 
 Это третья и заключительная часть трилогии **Post Nubila Sol**. Написана, исполнена и сведена мной всё в том же 2002 году. Жанр: {{< fl "Electronic/Dark/Ambient/Progressive Metal" >}}.

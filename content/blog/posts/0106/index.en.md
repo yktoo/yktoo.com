@@ -8,8 +8,6 @@ tags:
     - Ubuntu
     - Unity
     - wallpaper
-aliases:
-    - /en/blog/post/106
 ---
 
 **Note:** this script will not work in GNOME 3 and Ubuntu 11.10; for these systems you have to use [the new version](0122).

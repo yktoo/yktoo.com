@@ -6,8 +6,6 @@ tags:
     - blog
     - Blogger
     - web
-aliases:
-    - /en/blog/post/228
 ---
 
 I've finally managed to move my blog from Blogger onto a self-developed platform.

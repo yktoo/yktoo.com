@@ -13,8 +13,6 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/caedvcmdq8nh1450.jpg"
 places:
     - place0217
     - place0218
-aliases:
-    - /en/blog/post/221
 ---
 
 The summer is almost over, though I haven't seen much of it. It's been quite busy here, but in a positive sense.

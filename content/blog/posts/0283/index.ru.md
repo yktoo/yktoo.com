@@ -15,8 +15,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/hflrx598j9ny2018.jpg"
 places:
     - place0241
-aliases:
-    - /ru/blog/post/283
 ---
 
 Наконец-то собрался с духом рассказать о грустном событии для ценителей прогрессива.

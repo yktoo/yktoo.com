@@ -11,8 +11,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/34k8i4ozysdw2973.jpg"
 places:
     - place0006
-aliases:
-    - /ru/blog/post/192
 ---
 
 Албуфейра — это крайне туристическое место. Ещё бы, при наличии собственного океана и трёх сотен солнечных дней в году.

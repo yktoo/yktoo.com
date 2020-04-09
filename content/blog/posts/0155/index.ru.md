@@ -9,8 +9,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/3blr4h7nffqz2923.jpg"
 places:
     - place0040
-aliases:
-    - /ru/blog/post/155
 ---
 
 Обнаружено в Амстердаме, в торговом центре [Amsterdamse Poort](http://www.amsterdamsepoort.nl/):

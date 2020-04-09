@@ -13,8 +13,6 @@ tags:
     - Zesty Zapus
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/raqp0z0dsc0l0578.png"
 software: docker-indicator
-aliases:
-    - /en/blog/post/319
 ---
 
 If you work with [Docker](https://www.docker.com/) a lot, you might have noticed that the list of containers tends to grow out of control over time. Now and then you bump into an abandoned dusty container somewhere in the dark corner of your `/var/lib`.

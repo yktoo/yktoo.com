@@ -9,8 +9,6 @@ tags:
     - Нидерланды
     - презентация
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/ifxy8h5p3u732468.png"
-aliases:
-    - /ru/blog/post/340
 ---
 
 Короткий анонс.

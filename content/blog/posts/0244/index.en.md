@@ -11,8 +11,6 @@ tags:
     - Smart TV
     - TV
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/vv5r1islwn8x1421.jpg"
-aliases:
-    - /en/blog/post/244
 ---
 
 ## Available connectors {#connectors}

@@ -6,8 +6,6 @@ tags:
     - забавное
     - стёб
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/3k17iyc7q7e43220.jpg"
-aliases:
-    - /ru/blog/post/115
 ---
 
 Всякий раз, когда я видел книги из серии «Для чайников» («For Dummies»), у меня непременно возникало желание предложить издательству John Wiley & Sons ряд новых тем.

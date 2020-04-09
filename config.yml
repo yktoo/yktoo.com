@@ -95,10 +95,21 @@ taxonomies:
 
 outputs:
     # Only enable RSS generation on the home page
-    home: [HTML, RSS]
+    home: [HTML, RSS, REDIR]
     section: [HTML]
     taxonomy: [HTML]
     taxonomyTerm: [HTML]
+
+mediaTypes:
+    text/bare:
+        suffixes:
+
+outputFormats:
+    REDIR:
+        mediatype: text/bare
+        baseName: _redirects
+        isPlainText: true
+        notAlternative: true
 
 sitemap:
     changefreq: daily

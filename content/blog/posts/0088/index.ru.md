@@ -8,8 +8,6 @@ tags:
     - Венгрия
     - путешествия
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/x8i2ji1nzo1w1012.jpg"
-aliases:
-    - /ru/blog/post/88
 ---
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/x8i2ji1nzo1w1012.jpg" >}}

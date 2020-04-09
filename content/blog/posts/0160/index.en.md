@@ -7,8 +7,6 @@ tags:
     - Netherlands
 places:
     - place0036
-aliases:
-    - /en/blog/post/160
 ---
 
 It's been exactly one year since I've had [laser eye surgery](0112). As aftercare I got a number of checkups: the next day, one month and three months later, and, finally, after a year.

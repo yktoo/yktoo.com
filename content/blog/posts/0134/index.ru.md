@@ -11,8 +11,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/tbx30rg7nzrm1838.jpg"
 places:
     - place0008
-aliases:
-    - /ru/blog/post/134
 ---
 
 В то время, пока Антон Носик [восхищается Машей](http://dolboeb.livejournal.com/2245861.html), наши бравые голландские парни и не думают отставать.

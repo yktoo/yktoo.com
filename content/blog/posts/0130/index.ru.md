@@ -8,8 +8,6 @@ tags:
     - транспорт
     - штрафы
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/at42zqjiftay1230.jpg"
-aliases:
-    - /ru/blog/post/130
 ---
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/at42zqjiftay1230.jpg" "Картинка с сайта fleetmotive.nl" >}}

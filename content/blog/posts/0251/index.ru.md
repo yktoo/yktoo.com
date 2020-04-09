@@ -9,8 +9,6 @@ tags:
     - зарядка
     - обзор
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/r54xwb1o2p410736.jpg"
-aliases:
-    - /ru/blog/post/251
 ---
 
 Из чистого любопытства заказал пару USB-тестеров с eBay (которых там [видимо-невидимо](http://www.ebay.com/sch/i.html?_nkw=usb+voltage+tester)).

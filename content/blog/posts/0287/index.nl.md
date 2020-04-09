@@ -7,8 +7,6 @@ tags:
     - Rusland
     - Sint-Petersburg
     - verschillen
-aliases:
-    - /nl/blog/post/287
 ---
 
 Onlangs ben ik naar Sint-Petersburg, Rusland, geweest om mijn ouders te helpen met de renovatie van hun nieuwe appartement. Ter informatie, de Russen beschouwen Sint-Petersburg als "de culturele hoofdstad van Rusland" dankzij zijn rijke culturele tradities, erfenis en, waarschijnlijk, de bevolking.

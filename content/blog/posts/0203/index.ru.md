@@ -12,8 +12,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/g3t2x5c65r5e2783.jpg"
 places:
     - place0178
-aliases:
-    - /ru/blog/post/203
 ---
 
 Не знаю, как у вас, а у нас опять осень. Злые языки понаехавших утверждают, что в Голландии вообще существует только этот один сезон, но это неправда.

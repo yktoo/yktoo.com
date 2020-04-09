@@ -7,8 +7,6 @@ tags:
     - Интернет
     - посылка
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/vigef45co14d2613.jpg"
-aliases:
-    - /ru/blog/post/282
 ---
 
 Мне и раньше [присылали](0189) вещи в несоразмерно больших коробках, но в этот раз все рекорды безнадёжно побиты.

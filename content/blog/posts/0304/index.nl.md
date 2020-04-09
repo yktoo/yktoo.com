@@ -7,8 +7,6 @@ tags:
     - Houten
     - Nederland
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/pp9qsj9ha4f60587.jpg"
-aliases:
-    - /nl/blog/post/304
 ---
 
 Pal voordat we naar het Franse Lille vertrokken om daar oud en nieuw te vieren, kreeg ik een briljant idee om autobanden te verwisselen. Voor de zekerheid, want we zouden door drie landen heen rijden, en er was een kans op sneeuw.

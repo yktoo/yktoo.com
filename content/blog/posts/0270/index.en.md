@@ -16,8 +16,6 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/3sk9zs0ru1wz0465.jpg"
 places:
     - place0235
     - place0236
-aliases:
-    - /en/blog/post/270
 ---
 
 I've been lucky to have had a good deal of {{< fl "wintersport" >}} this season, as well as to come back in one piece.

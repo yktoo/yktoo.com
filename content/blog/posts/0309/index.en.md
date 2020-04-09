@@ -15,8 +15,6 @@ tags:
     - Wet DBA
     - work
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/9lgcssabu4ms0482.jpg"
-aliases:
-    - /en/blog/post/309
 ---
 
 As a follow-up to the post about my [professional anniversary](0307) and to fulfill [my promise](0302) I'd like to elaborate on my reasons and the path of becoming an entrepreneur. The story is going to be quite long so I'll split it up.

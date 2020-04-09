@@ -17,8 +17,6 @@ tags:
     - ремонт
     - сделай сам
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/kong7rdm7e450507.jpg"
-aliases:
-    - /ru/blog/post/231
 ---
 
 Спустя ровно четыре безоблачных года жёсткий диск в моём [iMac 27"](0120) сказал «Disk I/O error», что в переводе означает примерно «мир вашему дому».

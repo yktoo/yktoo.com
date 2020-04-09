@@ -12,8 +12,6 @@ tags:
     - трон
     - Koninginnedag
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/bi5kqwnjpk8s1207.jpg"
-aliases:
-    - /ru/blog/post/176
 ---
 
 Королева Беатрикс буквально только что объявила о своём решении уступить трон нидерландской монархии своему старшему сыну, 45-летнему Виллему-Александру.

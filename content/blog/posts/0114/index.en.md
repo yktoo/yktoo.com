@@ -9,8 +9,6 @@ tags:
     - my music
     - progressive metal
     - Radiolaria
-aliases:
-    - /en/blog/post/114
 ---
 
 This is the third and the last part of the **Post Nubila Sol** trilogy. It's composed, recorded and mixed by me in the same 2002. Genre: Electronic/Dark/Ambient/Progressive Metal.

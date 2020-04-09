@@ -8,8 +8,6 @@ tags:
     - RIP
     - Steve Jobs
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/5e9abeijm80y2461.png"
-aliases:
-    - /en/blog/post/121
 ---
 
 In the [groaning and moaning](0119) on Steve Jobs' passing minority opinions coming from the dissentients get eminent.

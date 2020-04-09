@@ -17,8 +17,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/f01g409t6sq70951.jpg"
 places:
     - place0079
-aliases:
-    - /en/blog/post/267
 ---
 
 My personal concert season open by the [Nightwish fellas](0264) is at its climax.

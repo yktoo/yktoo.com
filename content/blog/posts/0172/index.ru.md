@@ -9,8 +9,6 @@ tags:
     - хамон
     - хамонера
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/mpqjmsqdjwkt1692.jpg"
-aliases:
-    - /ru/blog/post/172
 ---
 
 *Это короткая, но поучительная история о том, как из подручных средств и продуктов ИКЕА можно сделать держатель хамона (хамонеру).*

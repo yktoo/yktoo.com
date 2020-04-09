@@ -15,8 +15,6 @@ tags:
     - Trusty Tahr
     - Ubuntu
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/kong7rdm7e450507.jpg"
-aliases:
-    - /en/blog/post/231
 ---
 
 It's been exactly four delightful years when the HDD in my [iMac 27"](0120) informed me it couldn't take it any longer. "Disk I/O error", it said.

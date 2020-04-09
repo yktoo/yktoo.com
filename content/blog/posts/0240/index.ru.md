@@ -11,8 +11,6 @@ tags:
     - менталитет
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/jhqcfn9ftecq0705.png"
 series: beg-to-differ
-aliases:
-    - /ru/blog/post/240
 ---
 
 Хотел бы затронуть такую непростую тему как {{< wiki "Смайлик" "ru" "смайлы" >}}. А точнее, их использование на постсоветском пространстве.

@@ -11,8 +11,6 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/60efjan0wr8f1910.jpg"
 places:
     - place0123
     - place0077
-aliases:
-    - /en/blog/post/76
 ---
 
 Now that spring has come, we have daffodils flowering! Not so many and yet remarkable:

@@ -13,8 +13,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/kmiiltyoz7zp2777.jpg"
 places:
     - place0245
-aliases:
-    - /ru/blog/post/298
 ---
 
 Немного раздражает современная мода давать эпитет *«умный»* всему подряд на основании наличия {{< fl "Wi-Fi" >}}, {{< fl "Bluetooth" >}} или подключения к интернету: стиральным машинам, наручным часам, [датчикам дыма](0265), зубным щёткам, розеткам. Теперь вот и до светофоров докатились: местная наша пресса [сообщает](http://www.trefpunthouten.nl/nieuws/algemeen/46927/een-slim-stoplicht-voor-de-staart), что в Хаутене установлен первый в стране «умный светофор» ({{< fl "slim verkeerslicht" >}}).

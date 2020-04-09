@@ -13,8 +13,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/dzf7p3q6zia51935.jpg"
 places:
     - place0271
-aliases:
-    - /en/blog/post/303
 ---
 
 The New Year's Eve has seen a light frost of -2 °C in the total absence of snow. The green grass got beautifully powdered with rime.

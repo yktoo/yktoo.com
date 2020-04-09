@@ -10,8 +10,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/n3b9b8u7cza33324.jpg"
 places:
     - place0310
-aliases:
-    - /ru/blog/post/345
 ---
 
 Ровно два года назад, в этот же самый день 13 июля, я занёс мышь над очень понравившейся мне фотографией девушки и кликнул «лайк».

@@ -10,8 +10,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/xmsm43q11hze0943.jpg"
 places:
     - place0083
-aliases:
-    - /en/blog/post/116
 ---
 
 Our sports club has installed new treadmills, a quick googling showed it's [Matrix T7xe](http://www.matrixfitness.com/product/view/t7xe-treadmill). They are very trendy ones, pure high-tech:

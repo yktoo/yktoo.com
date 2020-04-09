@@ -12,8 +12,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/ql547j1urvpi1600.jpg"
 places:
     - place0003
-aliases:
-    - /en/blog/post/197
 ---
 
 Last weekend I've finally got to visit the most eminent, in every meaning, place in Amersfoort. Since I'd come to live here, my country has changed its president twice, one of them has divorced and the other has made quite a few equally destructive achievements, yet I failed to take my time to get to it.

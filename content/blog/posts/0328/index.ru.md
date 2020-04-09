@@ -13,8 +13,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/rspd2dec1ahh1980.jpg"
 places:
     - place0079
-aliases:
-    - /ru/blog/post/328
 ---
 
 Ещё одна детская мечта сбылась! Я слушал польскую прогрессив-бригаду {{< wiki "Riverside" "ru" "Riverside" >}} практически с самого момента её основания, — даже, скорее, заслушивался. Эх, прогрессивное детство моё (ну ладно, мне было в то время под тридцать).

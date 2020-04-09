@@ -7,8 +7,6 @@ tags:
     - забавное
     - Нидерланды
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/4nxilwusu6i03073.jpg"
-aliases:
-    - /ru/blog/post/75
 ---
 
 Чего только не увидишь порой. Например, вот:

@@ -8,8 +8,6 @@ tags:
     - Rees
     - upshot
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/w5qsb0j8r5y62599.png"
-aliases:
-    - /en/blog/post/332
 ---
 
 The fact this year has come to an end was a bit of a surprise for me. I remember myself in July and then—bang—it's Christmas and {{< fl "Sinterklaas" >}} is on his way. There's some explanation for that though, more on which below.

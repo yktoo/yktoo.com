@@ -14,8 +14,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/enum21v19hs81843.jpg"
 places:
     - place0243
-aliases:
-    - /en/blog/post/296
 ---
 
 Last Saturday was marked by a show by the prog metal band [Myrath](http://www.myrath.com/) from Tunisia (Northern Africa). The venue was the club [Patronaat](http://www.patronaat.nl/) in Haarlem, Netherlands. {{< fl "Myrath" >}} is unique not only because of its origin, but also thanks to a magnificent combination of heavy sound and Arabic motives and instruments in their music. Furthermore, they have a belly dancer!

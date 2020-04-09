@@ -10,8 +10,6 @@ tags:
     - полумарафон
     - спорт
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/elqndv0yg6bk2335.jpg"
-aliases:
-    - /ru/blog/post/327
 ---
 
 Пробежал сегодня ещё один полумарафон (**21,1 км**) — в городке Айсселстайн ({{< wiki "IJsselstein" "en" "Ijsselstein" >}}), что неподалёку от нашего Хаутена.

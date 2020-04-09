@@ -11,8 +11,6 @@ tags:
     - Koss
     - sound
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/bb798kpcbati2393.jpg"
-aliases:
-    - /en/blog/post/252
 ---
 
 I managed to upgrade the best-selling [Koss PortaPro](http://www.koss.com/en/products/headphones/on-ear-headphones/PortaPro__Porta_Pro_On_Ear_Headphone) headphones using a couple of items I've bought on eBay. The headphones are some ten years old now, yet sturdy and rocking, and now have become even better:

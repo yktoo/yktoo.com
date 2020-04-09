@@ -14,8 +14,6 @@ tags:
     - unboxing
     - wireless
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/julep2izai923151.png"
-aliases:
-    - /en/blog/post/141
 ---
 
 I once needed to connect my PC's audio output to the AV receiver to enjoy music played by decent speakers. The distance between the desktop and the receiver is a few meters, and I didn't want to get entangled by wires (it's the third millennium after all).

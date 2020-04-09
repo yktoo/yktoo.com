@@ -10,8 +10,6 @@ tags:
     - speaker
     - unboxing
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/yv8vhr4v0bm90850.jpg"
-aliases:
-    - /en/blog/post/189
 ---
 
 It's been two years of suffering from the speakers built into my [iMac](0120). The speakers, despite all Apple's marketing noise and even two 17 Watt power amps, suck big time. I've already [connected](0141) my AV receiver via Bluetooth, but it's quite a hassle to start it up every time. Another issue is that Logitech Bluetooth adapter gives a very low output level, which requires setting receiver's volume to -20 dB every time I power it up.

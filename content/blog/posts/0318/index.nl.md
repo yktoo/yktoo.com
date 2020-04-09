@@ -12,8 +12,6 @@ tags:
     - werk
     - Yktoo Solutions
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/v95wud5j9h2w2271.png"
-aliases:
-    - /nl/blog/post/318
 ---
 
 Deze post is de volgende in de [reeks](/series/business) over mijn uitdagende maar lonende ondernemerslot. In deze publicatie wil ik mijn ervaringen en bevindingen, die ik tot nu toe heb gehad, met jullie delen.

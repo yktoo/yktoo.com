@@ -9,8 +9,6 @@ tags:
     - weather
     - winter
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/soa53y4plkva0834.jpg"
-aliases:
-    - /en/blog/post/268
 ---
 
 Today, January 17, 2016, the nature has made an unexpected move. Last night a very thin layer of snow lay on the ground, for the first time in this winter.

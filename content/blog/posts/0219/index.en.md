@@ -9,8 +9,6 @@ tags:
     - naturalisation ceremony
     - Netherlands
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/8303fff0jigd0066.jpg"
-aliases:
-    - /en/blog/post/219
 ---
 
 I haven't been actively blogging lately, and that's not because nothing is happening. Quite the opposite, I can barely find time these days, so let me share the most important stuff with you.

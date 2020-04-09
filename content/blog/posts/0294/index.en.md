@@ -8,8 +8,6 @@ tags:
     - geek porn
     - hardware
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/tyepttka0h6y3130.jpg"
-aliases:
-    - /en/blog/post/294
 ---
 
 I've stumbled upon a cute and convenient DC adapter the other day, with four USB charging ports (up to **4800 mA** total), a power socket, and a tablet stand. All of that for less than **€ 15**.

@@ -14,8 +14,6 @@ places:
     - place0085
     - place0086
     - place0087
-aliases:
-    - /en/blog/post/109
 ---
 
 From Friday the 19th until Sunday the 21st August 2011 a traditional Latin-American musical festival [Dias Latinos](http://www.diaslatinos.nl/) ("Latin Days") was held in Amersfoort.

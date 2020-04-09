@@ -9,8 +9,6 @@ tags:
     - почта
     - экология
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/ngvmb5iu9w7w3368.jpg"
-aliases:
-    - /ru/blog/post/93
 ---
 
 «Новости мусора» — это название брошюры, которую периодически получаю я и все остальные жители Амерсфорта. И это вовсе не шутка.

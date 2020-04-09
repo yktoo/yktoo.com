@@ -12,8 +12,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/7qvi95mnc52o2819.jpg"
 places:
     - place0243
-aliases:
-    - /en/blog/post/317
 ---
 
 It was the second time that the surprisingly talented young Australian guitarist {{< wiki "Plini" "en" "Plini" >}} has visited us here. In the show last year, which I didn't get to post about, he was supporting the djent stars {{< wiki "Animals_as_Leaders" "en" "Animals as Leaders" >}}.

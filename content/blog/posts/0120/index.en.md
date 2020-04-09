@@ -8,8 +8,6 @@ tags:
     - Mac OS X
     - Ubuntu
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/swsq5tspffu93558.png"
-aliases:
-    - /en/blog/post/120
 ---
 
 ## Upgrading Mac OS X to Lion {#upgrading-mac-os-x-to-lion}

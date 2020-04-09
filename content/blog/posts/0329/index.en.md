@@ -8,8 +8,6 @@ tags:
     - Plug-In Hybrid
     - Toyota Prius
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/3otf4wz2wimb0341.jpg"
-aliases:
-    - /en/blog/post/329
 ---
 
 My most bulky gadget needed an upgrade. I've been a devoted {{< wiki "Toyota_Prius" "en" "Toyota Prius" >}} fan ever since [my first leased car](ru;0028). Later I've owned another one, which [almost lost a wheel once](ru;0304). The latter turned eight years old last March so I've decided to trade it for something more modern.

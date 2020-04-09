@@ -9,8 +9,6 @@ tags:
     - Нидерланды
     - Утрехт
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/tt5xi22iwoyx2843.png"
-aliases:
-    - /ru/blog/post/341
 ---
 
 То самое чувство, когда на [официальной странице концерта Riverside](https://www.tivolivredenburg.nl/agenda/riverside-12-11-2018/) в {{< fl "Tivoli Vredenburg" >}} ставят в качестве иллюстрации видео, снятое лично тобой.

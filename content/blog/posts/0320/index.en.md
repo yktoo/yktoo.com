@@ -13,8 +13,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/3cc3gtxevk211231.jpg"
 places:
     - place0165
-aliases:
-    - /en/blog/post/320
 ---
 
 Last Easter Monday I've completed my third *castlerun* [De Halve van De Haar](http://www.dehalvevandehaar.nl/), a half marathon (**21.1 km**) held in the park of the {{< fl "De Haar" >}} castle.

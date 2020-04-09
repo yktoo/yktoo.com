@@ -10,8 +10,6 @@ tags:
     - wallpaper
     - yktools
 software: yktools
-aliases:
-    - /en/blog/post/168
 ---
 
 I already [published](0122) a script that sets a random image file as desktop wallpaper. It has only one downside: you have to run it every time you want to rotate your wallpaper.

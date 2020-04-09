@@ -7,8 +7,6 @@ tags:
     - web
     - website
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/emyruiomh9sf1183.png"
-aliases:
-    - /en/blog/post/220
 ---
 
 A while ago I've added a new section to my website, [Blog Map](/blog/map), which shows all places I ever blogged about. You can view related posts by clicking a place marker:

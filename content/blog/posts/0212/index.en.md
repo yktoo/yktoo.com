@@ -23,8 +23,6 @@ places:
     - place0206
     - place0207
     - place0208
-aliases:
-    - /en/blog/post/212
 ---
 
 It's easy to find beautiful places here in Europe, outside of the [desert](0210), even in our damp winter. We stumbled upon a good accommodation offer in Ghent, one of the prettiest Belgian cities. I've been in Ghent [before](ru;0033), but only short time so I couldn't see much.

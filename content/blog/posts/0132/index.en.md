@@ -11,8 +11,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/raybxus46qbg1787.jpg"
 places:
     - place0076
-aliases:
-    - /en/blog/post/132
 ---
 
 Singer and actor {{< wiki "Johannes_Heesters" "en" "Johannes Heesters" >}}, who was born in Amersfoort, is again in local [news](http://www.destadamersfoort.nl/scripts/edoris/edoris.dll?tem=LN_TEXT_VIEW&doc_id=19867092&pageid=134190&naam=Johan-Heesters-in-ziekenhuis-opgenomen).

@@ -11,8 +11,6 @@ tags:
 image: "https://upload.wikimedia.org/wikipedia/commons/3/34/Wilhelmina1898.jpg"
 places:
     - place0013
-aliases:
-    - /ru/blog/post/52
 ---
 
 В стране тюльпанов тоже есть майские праздники. И они тут ещё погуще, нежели в стране медведей и ушанок.

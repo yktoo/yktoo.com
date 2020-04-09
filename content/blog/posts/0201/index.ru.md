@@ -16,8 +16,6 @@ tags:
     - индикатор
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/r9hxc85zqw5g0103.jpg"
 software: sound-switcher-indicator
-aliases:
-    - /ru/blog/post/201
 ---
 
 Приложение-индикатор для Убунту по имени [Sound Switcher Indicator](/software/sound-switcher-indicator) (об истории появления коего на свет я [писал](0178)) обновился до версии **1.1.1**. Функциональности в этом релизе не добавлено никакой, но предыдущая версия отказывалась запускаться в Ubuntu 13.10 (Saucy Salamander) из-за [бага](https://bugs.launchpad.net/glipper/+bug/1203888) в `libdbusmenu`.

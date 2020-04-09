@@ -12,8 +12,6 @@ tags:
     - софт
     - разработка
 image: commento.png
-aliases:
-    - /ru/blog/post/350
 ---
 
 > TL;DR-версия: я разработал конфигурацию Commento-сервера, которая легко и просто развёртывается в полуавтоматическом режиме. Скопируйте себе [этот репозиторий](https://github.com/yktoo/commento-docker-compose) с GitHub и следуйте инструкциям в [README](https://github.com/yktoo/commento-docker-compose/blob/master/README.md).

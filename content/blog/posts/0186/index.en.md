@@ -11,8 +11,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/cutjy5nqcdox2191.jpg"
 places:
     - place0009
-aliases:
-    - /en/blog/post/186
 ---
 
 So many things have piled up while I was busy with my [website](/), not sure I'll be able to handle them.

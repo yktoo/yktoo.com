@@ -8,8 +8,6 @@ tags:
     - website
     - Yii
     - Yii2
-aliases:
-    - /en/blog/post/263
 ---
 
 It cost me quite an effort to make myself migrate my website to Yii 2.

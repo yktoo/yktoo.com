@@ -17,8 +17,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/f01g409t6sq70951.jpg"
 places:
     - place0079
-aliases:
-    - /ru/blog/post/267
 ---
 
 Концертный сезон, открытый [товарищами из Nightwish](0264), в самом разгаре.

@@ -15,8 +15,6 @@ tags:
     - индикатор
 software: sound-switcher-indicator
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/64k0x3l8omtq0538.png"
-aliases:
-    - /ru/blog/post/295
 ---
 
 [Sound Switcher Indicator](/software/sound-switcher-indicator) становится всё сложнее и хитрее, благо поток идей у пользователей не иссякает. В версии **2.1.1** изменения коснулись в основном файла конфигурации (`$HOME/.config/indicator-sound-switcher.json`).

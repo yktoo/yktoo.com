@@ -14,8 +14,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/o7901lq40j5r2170.jpg"
 places:
     - place0230
-aliases:
-    - /ru/blog/post/264
 ---
 
 Пришёл ноябрь, а это значит — пора концертов настаёт!

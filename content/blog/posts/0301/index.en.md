@@ -14,8 +14,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/qcvoj4angkpg0782.jpg"
 places:
     - place0270
-aliases:
-    - /en/blog/post/301
 ---
 
 Yesterday, December 17<sup>th</sup>, Houten hosted a charity event called [Rotary Santa Run](http://houten.rotarysantarun.nl/). For just **€10** every participant got a red Santa Claus outfit, a couple of drink vouchers, and a possibility to take part in a funny and useful event. The collected funds will go to the organisations {{< fl "Jeugdsportfonds Houten" >}} and {{< fl "De Nierstichting" >}}.

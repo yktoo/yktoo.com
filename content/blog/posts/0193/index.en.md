@@ -12,8 +12,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/6aqmisr7e1z33579.jpg"
 places:
     - place0005
-aliases:
-    - /en/blog/post/193
 ---
 
 Our tour guide described Alte, which is 20 km northwards of Albufeira, as "the most picturesque village in Algarve". To verify this statement one would have to travel around all other Algarvian villages, so let's take it on trust.

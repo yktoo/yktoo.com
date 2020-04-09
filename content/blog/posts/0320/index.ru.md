@@ -13,8 +13,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/3cc3gtxevk211231.jpg"
 places:
     - place0165
-aliases:
-    - /ru/blog/post/320
 ---
 
 Вчера, во второй день Пасхи, в третий раз пробежал полумарафон [De Halve van De Haar](http://www.dehalvevandehaar.nl/) (**21,1 км**), который проводится на территории парка замка {{< fl "De Haar" >}} под Утрехтом.

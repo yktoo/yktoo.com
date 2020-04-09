@@ -10,8 +10,6 @@ tags:
     - 合気道
     - 初段
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/skgvzt41286o1646.jpg"
-aliases:
-    - /ru/blog/post/284
 ---
 
 Ну вот, спустя почти четыре месяца со дня сдачи [экзамена](0273) я наконец-то стал официальным обладателем первого дана Айкидо Айкикай:

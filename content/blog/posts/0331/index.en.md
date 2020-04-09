@@ -4,8 +4,6 @@ date: "2017-11-01T00:00:00Z"
 title: "Answer to the Ultimate Question"
 tags: ["birthday"]
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/fs82byiznryb2875.png"
-aliases:
-    - /en/blog/post/331
 ---
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fs82byiznryb2875.png" >}}

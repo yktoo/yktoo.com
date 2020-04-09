@@ -11,8 +11,6 @@ tags:
     - video
     - 合気道
 image: "https://img.youtube.com/vi/FpEad5sI-bc/maxresdefault.jpg"
-aliases:
-    - /en/blog/post/224
 ---
 
 Even though I've now settled in [Houten](0221), I keep visiting Amersfoort now and then. I'm still [doing aikido](ru;0011) with Joginder Singh.

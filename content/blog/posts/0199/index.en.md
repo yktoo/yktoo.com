@@ -10,8 +10,6 @@ tags:
     - multiplicity
     - Ubuntu
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/9frext482b6h0287.jpg"
-aliases:
-    - /en/blog/post/199
 ---
 
 My today's story is about a well-known yet impressive graphic editing technique called {{< fl "multiplicity" >}}. It allows you to multiply objects on a photo—most commonly people, but it can be just as well kittens or lawn-mowers. Using this technique, you can make pictures like this:

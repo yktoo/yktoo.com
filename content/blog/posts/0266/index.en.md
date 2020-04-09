@@ -20,8 +20,6 @@ places:
     - place0165
     - place0010
     - place0222
-aliases:
-    - /en/blog/post/266
 ---
 
 The year is coming to an end again, with so much left to run. I can't repeat my [2013's record](0209) of 800 km this year—in 2015 I've only run some **600 km**. Not because I'm lazy, but due to being more active in aikido.

@@ -12,8 +12,6 @@ tags:
     - work
     - Yktoo Solutions
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/71f5vydx1e672802.jpg"
-aliases:
-    - /en/blog/post/311
 ---
 
 Following up on the [Entities vs. persons](0310) story, let's make a step from abstract theory to a bit more practical view on entrepreneurship.

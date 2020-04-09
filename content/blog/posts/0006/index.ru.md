@@ -8,8 +8,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/hl13ooo36dl53390.jpg"
 places:
     - place0170
-aliases:
-    - /ru/blog/post/6
 ---
 
 Баарн, где расположен мой офис, так же, как и [Суст](0005), – небольшая деревня, со всё теми же кирпичными домиками с черепичной крышей и ухоженными садиками.

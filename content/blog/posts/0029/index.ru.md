@@ -9,8 +9,6 @@ tags:
     - Нидерланды
     - новости
     - СМИ
-aliases:
-    - /ru/blog/post/29
 ---
 
 С мест [сообщают](http://rus.nl/rus/news/default.asp?Profile=news&NewsID=15468&LandID=1&CatID=2):

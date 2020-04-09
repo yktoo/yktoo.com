@@ -11,8 +11,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/t89tkwlo2qgr3029.jpg"
 places:
     - place0164
-aliases:
-    - /ru/blog/post/13
 ---
 
 Ох уж эти голландцы… И сегодня у них праздник, Пятидесятница, она же Троица, она же Pentecost, она же — 7 недель после Пасхи. Лишь бы не работать, в общем.

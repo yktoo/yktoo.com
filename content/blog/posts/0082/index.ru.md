@@ -9,8 +9,6 @@ tags:
     - природа
     - цветы
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/dz55whdx2j5n1744.jpg"
-aliases:
-    - /ru/blog/post/82
 ---
 
 Ну вот, теперь так же, как в прошлом году. Вот не лень полкилометра газона засаживать цветами?

@@ -12,8 +12,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/f1k2i85em5b41897.jpg"
 places:
     - place0010
-aliases:
-    - /en/blog/post/196
 ---
 
 It's August again, which means festival time in Amersfoort! In the beginning of the month there's usually the world-famous Gay Pride in Holland. The main venue is, of course, Amsterdam, but many other cities, including Amersfoort, hold smaller parades. However in the beginning of August I was [in Tyumen](ru;0195), so I won't tell you anything about that.

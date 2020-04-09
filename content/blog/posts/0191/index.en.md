@@ -11,8 +11,6 @@ tags:
     - Portugal
     - travel
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/nlby2sddb4xz2829.jpg"
-aliases:
-    - /en/blog/post/191
 ---
 
 Concerning the car we rented at our hotel in Albufeira, where we were staying.

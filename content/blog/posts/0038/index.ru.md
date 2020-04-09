@@ -9,8 +9,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/249heywjmdfp3475.jpg"
 places:
     - place0142
-aliases:
-    - /ru/blog/post/38
 ---
 
 Как только становится тепло, начиная где-то с марта, в атмосфере начинают появляться явления в виде воздушных шаров. В особо тёплые выходные дни они летают практически косяками.

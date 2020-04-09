@@ -9,8 +9,6 @@ tags:
     - спорт
     - 合気道
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/7mm4hejkxk9q3198.jpg"
-aliases:
-    - /ru/blog/post/15
 ---
 
 17—18 мая у нас в Амстердаме был учебный семинар по айкидо с [Кристианом Тисье](http://www.christiantissier.com/) ({{< fl "Christian Tissier" >}}).

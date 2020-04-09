@@ -10,8 +10,6 @@ tags:
     - полумарафон
     - спорт
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/oh0atpl6y6l70386.jpg"
-aliases:
-    - /ru/blog/post/279
 ---
 
 Только что вернулся из Амерсфорта, где довольно успешно пробежал полумарафон — **21,1 км**.

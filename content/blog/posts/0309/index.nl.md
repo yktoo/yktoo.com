@@ -15,8 +15,6 @@ tags:
     - zzp'ers
     - regelgeving
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/9lgcssabu4ms0482.jpg"
-aliases:
-    - /nl/blog/post/309
 ---
 
 Om het thema van [mijn werkjubileum](ru;0307) voort te zetten en [mijn belofte](ru;0302) na te komen wil ik de diepte ingaan met een verhaal over de redenen dat ik ondernemer ben geworden. Omdat het verhaal vrij lang blijkt te zijn, ga ik het opsplitsen.

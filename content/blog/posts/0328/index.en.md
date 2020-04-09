@@ -13,8 +13,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/rspd2dec1ahh1980.jpg"
 places:
     - place0079
-aliases:
-    - /en/blog/post/328
 ---
 
 Another childhood's dream has come true! I've been following the Polish prog band {{< wiki "Riverside_(band)" "en" "Riverside" >}} almost since its birth. Okay, I was in my twenties back then, so strictly speaking it wasn't childhood.

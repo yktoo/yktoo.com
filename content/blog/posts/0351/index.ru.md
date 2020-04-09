@@ -6,8 +6,6 @@ tags:
     - анонс
     - сайт
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/8l0mwo2k5qwz1414.jpg"
-aliases:
-    - /ru/blog/post/351
 ---
 
 > **Обновлено:** новая версия успешно запущена, все комментарии сохранены и перенесены со старого сайта.

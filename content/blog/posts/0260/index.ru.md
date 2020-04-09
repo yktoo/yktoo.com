@@ -8,8 +8,6 @@ tags:
     - сад
     - Хаутен
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/04bvdttax8aq0077.jpg"
-aliases:
-    - /ru/blog/post/260
 ---
 
 Помнится, с год назад я [писал](0223) про хаутенские яблочно-грушевые рощи. Этим летом тема фруктов получила неожиданное продолжение.

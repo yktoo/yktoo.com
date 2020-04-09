@@ -8,8 +8,6 @@ tags:
     - education
     - Netherlands
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/s6gln87u7yhm3357.jpg"
-aliases:
-    - /en/blog/post/325
 ---
 
 My latest *Dutch language course* has come to an end. It took almost a year to get through, partly due to my [entrepreneurial](/series/business) adventures. I've started the course, at the time paid by my employer ING, in July last year, and kept getting lessons long after leaving ING.

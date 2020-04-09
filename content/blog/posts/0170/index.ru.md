@@ -14,8 +14,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/r30jwqwu3fou1162.jpg"
 places:
     - place0001
-aliases:
-    - /ru/blog/post/170
 ---
 
 17 ноября в амстелвейнском клубе [P60](http://www.p60.nl/) (в котором я уже был дважды: [1](0098), [2](0101)) состоялся благотворительный концерт под названием {{< fl "Metal for Mara" >}}.

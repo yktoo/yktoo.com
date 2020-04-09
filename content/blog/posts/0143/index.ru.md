@@ -12,8 +12,6 @@ image: ""
 places:
     - place0069
     - place0070
-aliases:
-    - /ru/blog/post/143
 ---
 
 Нынешняя весна выдалась богатой на путешествия.

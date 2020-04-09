@@ -7,8 +7,6 @@ tags:
     - Netherlands
     - technology
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/f8oncwcs5r8w1309.jpg"
-aliases:
-    - /en/blog/post/254
 ---
 
 I've always wondered how those mile-long roadside hedges get trimmed. And recently witnessed the process, which, expectedly, makes use of technology:

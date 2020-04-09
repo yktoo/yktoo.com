@@ -14,8 +14,6 @@ places:
     - place0130
     - place0083
     - place0132
-aliases:
-    - /ru/blog/post/61
 ---
 
 ## Вступление {#intro}

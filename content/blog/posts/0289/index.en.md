@@ -7,8 +7,6 @@ tags:
     - web
     - website
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/vhvb0hrcfqb30335.png"
-aliases:
-    - /en/blog/post/289
 ---
 
 The website **yktoo.com** is permanently switched to using the secure {{< wiki "HTTPS" "en" "HTTPS" >}} protocol (instead of the former {{< wiki "HTTPS" "en" "HTTP" >}}). Your boss won't be able to figure out what exactly you're reading in my blog anymore.

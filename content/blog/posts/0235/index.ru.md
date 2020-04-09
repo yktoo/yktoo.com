@@ -9,8 +9,6 @@ tags:
     - праздники
     - Россия
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/ickybxsk1nri0970.jpg"
-aliases:
-    - /ru/blog/post/235
 ---
 
 Тут все подводят итоги уходящего года, ну и я туда же.

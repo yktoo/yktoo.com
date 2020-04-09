@@ -10,8 +10,6 @@ tags:
     - Yktoo Solutions
 image: website-main-page.jpg
 fulltextUrl: "https://yktoo.solutions/blog/2019/07/15-meet-the-all-new-yktoo-solutions-website/"
-aliases:
-    - /en/blog/post/346
 ---
 
 It's been almost three years since the first incarnation of the Yktoo Solutions website has seen the light. That first version has been built on a technology stack similar to my "flagship" website [yktoo.com](https://yktoo.com/), i.e. the good old LAMP (Linux, Apache, MySQL, and PHP).

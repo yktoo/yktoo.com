@@ -9,8 +9,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/lptrnpdjugnj1865.jpg"
 places:
     - place0019
-aliases:
-    - /en/blog/post/173
 ---
 
 In November last year we and Amersfoort were officially introduced to each other.

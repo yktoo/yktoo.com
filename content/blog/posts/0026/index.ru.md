@@ -13,8 +13,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/r3qlhpruww4k2065.jpg"
 places:
     - place0153
-aliases:
-    - /ru/blog/post/26
 ---
 
 Была парочка интересных мероприятий у нас в айкидо-клубе.

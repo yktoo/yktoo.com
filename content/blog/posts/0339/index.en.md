@@ -10,8 +10,6 @@ tags:
     - MySQL
     - databases
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/6ksp2zl5yoy52890.png"
-aliases:
-    - /en/blog/post/339
 ---
 
 My current project makes use of the **MySQL** database, which runs in a **Docker** container.

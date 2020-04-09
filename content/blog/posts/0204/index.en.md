@@ -12,8 +12,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/11hyjqss632o0035.jpg"
 places:
     - place0077
-aliases:
-    - /en/blog/post/204
 ---
 
 I once [posted](ru;0037) about a special person called **Bob**. It's almost a "saint with all possible benefits" (a quote from a popular Soviet-era film). To be precise, there's at least one benefit with him—a car.

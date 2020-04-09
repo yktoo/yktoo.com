@@ -14,8 +14,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/qcvoj4angkpg0782.jpg"
 places:
     - place0270
-aliases:
-    - /nl/blog/post/301
 ---
 
 Gisteren, 17 december, heeft een [Rotary Santa Run](http://houten.rotarysantarun.nl/) in Houten plaatsgevonden. Voor maar **€10** kreeg iedere deelnemer een rood Santa Claus-kostuum, een paar drankvouchers en de mogelijkheid om deel te nemen aan een leuk en gezellig evenement. De opbrengst van de run gaat naar goede doelen, waaronder {{< fl "Jeugdsportfonds Houten" >}} en {{< fl "De Nierstichting" >}}.

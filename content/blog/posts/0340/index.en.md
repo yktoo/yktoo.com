@@ -9,8 +9,6 @@ tags:
     - Netherlands
     - presentation
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/ifxy8h5p3u732468.png"
-aliases:
-    - /en/blog/post/340
 ---
 
 A short announcement.

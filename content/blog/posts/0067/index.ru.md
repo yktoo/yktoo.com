@@ -13,8 +13,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/sk6xpyzm9qqd2379.jpg"
 places:
     - place0126
-aliases:
-    - /ru/blog/post/67
 ---
 
 Как вы, наверное, слышали, в Европах свирепствуют снегопады. Мы в Нидерландах тоже не могли остаться в стороне. Такой вид открывается с нашего балкона:

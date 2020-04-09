@@ -15,8 +15,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/phb347i2ec531920.jpg"
 places:
     - place0079
-aliases:
-    - /ru/blog/post/321
 ---
 
 Впервые оказался на концерте, где группа «на разогреве» была мне не менее интересна, чем хедлайнеры. Да что говорить, все три команды {{< fl "The Progressive Aspects Tour" >}} оказались весьма на уровне!

@@ -12,8 +12,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/ku9s41nymru83493.jpg"
 places:
     - place0079
-aliases:
-    - /en/blog/post/95
 ---
 
 {{< wiki "Neal_Morse" "en" "Neal Morse" >}}, one of the most famous progressive rock musicians, visited us in Holland. Yesterday, June 4, 2011, he performed in Zoetermeer, which is near the Hague, in the club named [Boerderij](http://www.cultuurpodiumboerderij.nl/) ("farmhouse").

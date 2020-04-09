@@ -8,8 +8,6 @@ tags:
     - Houten
     - Netherlands
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/eos7dxmo56xa3628.jpg"
-aliases:
-    - /en/blog/post/222
 ---
 
 Holland is decidedly and prominently a bike-land. Any Dutch settlement features miles of bike paths, bike traffic-lights, special bike road marking, ubiquitous bike parkings and bike rental at every train station.

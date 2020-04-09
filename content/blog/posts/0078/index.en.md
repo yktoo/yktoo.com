@@ -8,8 +8,6 @@ tags:
     - funny
     - Russia
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/wtblrn7skp810627.png"
-aliases:
-    - /en/blog/post/78
 ---
 
 Originally found on the Internet. I amended the picture by including Russia.

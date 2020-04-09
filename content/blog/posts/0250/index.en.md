@@ -21,8 +21,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/3xkblt0cj1x61906.jpg"
 places:
     - place0073
-aliases:
-    - /en/blog/post/250
 ---
 
 It's been a while since my last gig report, time to catch up with the latest developments in the Dutch rock world. I've a perfect occasion as I've seen two live rock legends.

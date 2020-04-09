@@ -10,8 +10,6 @@ tags:
     - Netherlands
     - Nordhorn
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/o2no1wv6ohu60816.jpg"
-aliases:
-    - /en/blog/post/253
 ---
 
 Summertime is the high time for [flying](ru;0038).

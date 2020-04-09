@@ -21,8 +21,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/3xkblt0cj1x61906.jpg"
 places:
     - place0073
-aliases:
-    - /ru/blog/post/250
 ---
 
 А давно не мучал я вас рассказами о голландском роке, надо исправляться. Тем более повод такой, воочию увидел две рок-легенды — аж сам себе завидую.

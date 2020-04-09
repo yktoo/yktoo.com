@@ -9,8 +9,6 @@ tags:
     - jamon
     - jamonera
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/mpqjmsqdjwkt1692.jpg"
-aliases:
-    - /en/blog/post/172
 ---
 
 *This is a how-to for making a jamón holder (a.k.a. ham {{< fl "stand" >}} or {{< fl "jamonera" >}}) from IKEA household products.*

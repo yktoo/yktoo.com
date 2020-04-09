@@ -9,8 +9,6 @@ tags:
     - природа
     - снег
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/soa53y4plkva0834.jpg"
-aliases:
-    - /ru/blog/post/268
 ---
 
 Сегодня, 17 января 2016 года, природа выкинула неожиданный трюк. Ночью выпал первый за эту зиму снег — мы уже, как [в песне поётся](/radiolaria/tracks/032), его не ожидали.

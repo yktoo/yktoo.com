@@ -6,8 +6,6 @@ tags:
     - prices
     - wine
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/wkuszkoe57fu3242.jpg"
-aliases:
-    - /en/blog/post/124
 ---
 
 One of the things that make me wonder is comparison of prices for alcohol in Holland and Russia, and especially their relationship with the quality.

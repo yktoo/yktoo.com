@@ -13,8 +13,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/obvjp3oi10g70182.jpg"
 places:
     - place0020
-aliases:
-    - /ru/blog/post/138
 ---
 
 **Поздравляю всех с наступившим две тысячи двенадцатым!**

@@ -12,8 +12,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/1dfhait370ll1769.jpg"
 places:
     - place0014
-aliases:
-    - /ru/blog/post/183
 ---
 
 [Выложил на YouTube](/videoevents/vevt0012) одну из своих старых записей: концерт двух — не побоюсь этого слова — гениальных джазовых музыкантов, [Даниила Крамера](http://www.kramerdaniel.com/) (фортепиано) и [Аркадия Шилклопера](http://www.shilkloper.com/) (валторна, флюгельгорн, альпийский рог) в [Тюменской Филармонии](http://www.tgf.ru/) 10 февраля 2008 года.

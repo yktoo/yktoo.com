@@ -19,8 +19,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/xy78lk9reebq3294.jpg"
 places:
     - place0239
-aliases:
-    - /ru/blog/post/273
 ---
 
 В прошлые выходные, 19 марта 2016 года, автор этих строк получил первый дан {{< wiki "Айкидо_Айкикай" "ru" "Айкидо Айкикай" >}}.

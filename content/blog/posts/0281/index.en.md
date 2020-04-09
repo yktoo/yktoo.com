@@ -8,8 +8,6 @@ tags:
     - Russia
     - United Russia
     - video
-aliases:
-    - /en/blog/post/281
 ---
 
 Here's one of the reasons:

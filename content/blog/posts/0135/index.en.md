@@ -9,8 +9,6 @@ tags:
     - music
     - Ubuntu
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/fqvawschyngs0829.png"
-aliases:
-    - /en/blog/post/135
 ---
 
 About a month ago I [posted](0126) about [Google Music](http://music.google.com/) cloud music storage service opening for public (which is still officially available in the US only).

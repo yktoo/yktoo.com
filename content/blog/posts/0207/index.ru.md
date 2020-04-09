@@ -10,8 +10,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/7mw8uo4l73du2513.jpg"
 places:
     - place0186
-aliases:
-    - /ru/blog/post/207
 ---
 
 Во время нашей [поездки в Леуварден](0205) завернули мы, помимо прочего, и в портовый городок {{< wiki "Харлинген_(Нидерланды)" "ru" "Харлинген" >}} ({{< fl "Harlingen" >}}).

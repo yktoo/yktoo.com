@@ -11,8 +11,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/34k8i4ozysdw2973.jpg"
 places:
     - place0006
-aliases:
-    - /en/blog/post/192
 ---
 
 Albufeira is a main tourist destination. Fair enough, given its vast ocean beach and three hundred sunny days a year.

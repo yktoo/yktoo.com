@@ -7,8 +7,6 @@ tags:
     - голландский язык
     - экзамены
     - inburgering
-aliases:
-    - /ru/blog/post/187
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/bql9cxqh0ui30247.jpg"
 ---
 

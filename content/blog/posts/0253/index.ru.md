@@ -10,8 +10,6 @@ tags:
     - Нордхорн
     - самолёты
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/o2no1wv6ohu60816.jpg"
-aliases:
-    - /ru/blog/post/253
 ---
 
 Лето, сезон [воздухоплавания](0038), душа просится в небо.

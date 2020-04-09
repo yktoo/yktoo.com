@@ -13,8 +13,6 @@ tags:
     - unboxing
     - Xiaomi
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/89594ti5zeur0760.jpg"
-aliases:
-    - /en/blog/post/326
 ---
 
 I'm not really into reviewing gadgets, but in this case it's worth doing it. Today I'd like to review [Mi In-Ear Headphones Pro HD](http://www.mi.com/en/headphonesprohd/) by the well-known Chinese make {{< fl "Xiaomi" >}}.

@@ -14,8 +14,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/5ll317trbc081828.jpg"
 places:
     - place0001
-aliases:
-    - /ru/blog/post/101
 ---
 
 В эфире очередной выпуск «Нидерландского вестника рок-музыки».

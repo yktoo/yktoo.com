@@ -7,8 +7,6 @@ tags:
     - работа
     - юбилей
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/8qtjm8gvyltq2667.jpg"
-aliases:
-    - /ru/blog/post/307
 ---
 
 Во всей этой суматохе пропустил важную дату, **20 лет** своей профессиональной деятельности, пришедшуюся на 22 марта 2016 года.

@@ -19,8 +19,6 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/smtna04jggvo2104.jpg"
 places:
     - place0228
     - place0229
-aliases:
-    - /ru/blog/post/262
 ---
 
 Каждую зиму простой голландец с надеждой смотрит на термометр, мечтая о том, чтобы наконец-то ударил мороз.

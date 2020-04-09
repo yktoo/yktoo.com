@@ -13,8 +13,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/g713kzw1ftp02422.jpg"
 places:
     - place0004
-aliases:
-    - /ru/blog/post/194
 ---
 
 Сагреш ({{< fl "Sagres" >}}) — это такой посёлок на самом западе Алгарви. Но нам интересен вовсе не он, а близлежащий Сагрешский мыс ({{< fl "Ponta de Sagres" >}}) с уютно расположившейся на нём крепостью.

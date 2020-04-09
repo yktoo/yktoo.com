@@ -9,8 +9,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/osmc45j8mcf02948.jpg"
 places:
     - place0088
-aliases:
-    - /en/blog/post/107
 ---
 
 The story I'm going to tell you this time is not about how a Russian sees Europe, but the other way around. I've been in my home city Tyumen for two weeks, and it's noteworthy (although logical) that after three years in Holland I'm noticing now more peculiarities in Russia than there.

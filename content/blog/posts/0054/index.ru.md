@@ -9,8 +9,6 @@ tags:
     - СМИ
     - счастье
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/7t3x9nou1ac13100.png"
-aliases:
-    - /ru/blog/post/54
 ---
 
 Gallup World Poll [опубликовал](http://www.forbes.com/2010/07/14/world-happiest-countries-lifestyle-realestate-gallup-table.html) мировую статистику счастья — в зависимости от страны проживания:

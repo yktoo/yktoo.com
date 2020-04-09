@@ -12,8 +12,6 @@ tags:
     - werk
     - Yktoo Solutions
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/5l0s6yuhsutm3492.png"
-aliases:
-    - /nl/blog/post/310
 ---
 
 In mijn [vorige post](0309) heb ik voor- en nadelen van ondernemerschap op een rijtje gezet. Maar wat houdt dat eigenlijk in — ondernemer zijn?

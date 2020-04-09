@@ -11,8 +11,6 @@ tags:
     - полумарафон
     - спорт
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/eftkwnhz3i5m1628.jpg"
-aliases:
-    - /ru/blog/post/335
 ---
 
 Прямо накануне моего [десятилетия в Голландии](0334) — опять во второй день Пасхи — в четвёртый раз состоялся забег по парку замка {{< fl "De Haar" >}}: [De Halve van De Haar](http://www.dehalvevandehaar.nl/), в котором я участвовал с самого начала ([раз](0266#de-halve-van-de-haar), [два](0274), [три](0320)).

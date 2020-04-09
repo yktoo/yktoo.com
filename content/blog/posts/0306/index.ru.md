@@ -19,8 +19,6 @@ places:
     - place0272
     - place0274
     - place0273
-aliases:
-    - /ru/blog/post/306
 ---
 
 ## Пролог {#preface}

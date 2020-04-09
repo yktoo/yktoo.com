@@ -12,8 +12,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/1dfhait370ll1769.jpg"
 places:
     - place0014
-aliases:
-    - /en/blog/post/183
 ---
 
 I've [published](/videoevents/vevt0012) rare footage I filmed a few years ago. It was a performance given by two greatest jazz musicians of our time, [Daniel Kramer](http://www.kramerdaniel.com/) (piano) and [Arkady Shilkloper](http://www.shilkloper.com/) (French horn, flugelhorn, alphorn) at [Tyumen Concert Hall](http://www.tgf.ru/) on February 10, 2008.

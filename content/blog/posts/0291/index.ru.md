@@ -15,8 +15,6 @@ tags:
     - индикатор
 software: sound-switcher-indicator
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/64k0x3l8omtq0538.png"
-aliases:
-    - /ru/blog/post/291
 ---
 
 В связи с появлением некоторого количества свободного времени смог уделить больше внимания [Sound Switcher Indicator](/software/sound-switcher-indicator) и реализовать ещё кое-что, о чём давно просили.

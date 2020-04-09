@@ -8,8 +8,6 @@ tags:
     - Nederlands
     - opleiding
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/s6gln87u7yhm3357.jpg"
-aliases:
-    - /nl/blog/post/325
 ---
 
 Mijn laatste *cursus Nederlands* is voorbij. Het heeft bijna een jaar geduurd, deels vanwege mijn [ondernemersavontuur](/series/business). Ik ben in juli 2016 met de cursus begonnen. ING, die toen mijn werkgever was, heeft het destijds afbetaald, dus de lessen gingen gewoon door nadat ik wegging bij de ING.

@@ -6,8 +6,6 @@ tags:
     - 2018
     - итоги
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/ou4wbjlre2kg1795.png"
-aliases:
-    - /ru/blog/post/342
 ---
 
 {{< fl "Tjongejonge" >}}, этот год закончился столь же внезапно, как и [начался](0332), даже на блог времени не было. Этот пост — последний и десятый по счёту в 2018-м (виноват, обещаю исправиться).

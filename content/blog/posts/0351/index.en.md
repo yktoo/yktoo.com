@@ -6,8 +6,6 @@ tags:
     - announcement
     - website
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/8l0mwo2k5qwz1414.jpg"
-aliases:
-    - /en/blog/post/351
 ---
 
 > **Update:** the new version of the website is now live; all comments have been retained and copied over from the old version.

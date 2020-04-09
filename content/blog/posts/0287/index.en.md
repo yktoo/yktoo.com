@@ -7,8 +7,6 @@ tags:
     - frustrating
     - Russia
     - Saint Petersburg
-aliases:
-    - /en/blog/post/287
 ---
 
 I've recently been to Saint Petersburg, Russia, to help my parents to renovate the apartment they had moved into. Just for your information, Russians recognise Saint Petersburg as the "cultural capital of Russia" due to its rich cultural traditions, heritage and, arguably, population.

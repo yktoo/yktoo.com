@@ -12,8 +12,6 @@ tags:
     - work
     - Yktoo Solutions
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/5l0s6yuhsutm3492.png"
-aliases:
-    - /en/blog/post/310
 ---
 
 In my [previous post](0309) I briefly listed pros and cons of being an entrepreneur. The next logical question is—what does it actually mean, to be an entrepreneur?

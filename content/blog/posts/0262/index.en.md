@@ -19,8 +19,6 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/smtna04jggvo2104.jpg"
 places:
     - place0228
     - place0229
-aliases:
-    - /en/blog/post/262
 ---
 
 Every winter an average Dutch casts glances at the thermometer, hoping for a real cold to come.

@@ -8,8 +8,6 @@ tags:
     - Ubuntu
     - yktools
 software: yktools
-aliases:
-    - /en/blog/post/169
 ---
 
 Finally I got to create a public repository on [GitHub](https://github.com/yktoo/yktools) for all my public domain utility tools (I had to fiddle quite a while with `git filter-branch` to extract all the 'safe for public' stuff from my home repo).

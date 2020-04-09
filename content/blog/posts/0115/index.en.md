@@ -6,8 +6,6 @@ tags:
     - banter
     - funny
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/3k17iyc7q7e43220.jpg"
-aliases:
-    - /en/blog/post/115
 ---
 
 Each time when I saw books from the "For Dummies" series, I wanted to come up with a broader set of topics for John Wiley & Sons.

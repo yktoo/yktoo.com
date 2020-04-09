@@ -10,8 +10,6 @@ tags:
     - running
     - sport
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/088ge10jrnaz1903.jpg"
-aliases:
-    - /en/blog/post/330
 ---
 
 Yet another medal in your newsfeed!

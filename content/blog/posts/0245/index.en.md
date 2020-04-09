@@ -11,8 +11,6 @@ tags:
     - Smart TV
     - TV
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/86mnqmphp1711609.jpg"
-aliases:
-    - /en/blog/post/245
 ---
 
 Even though this TV is a pricey, it doesn't stop Samsung from trying to earn even more on their customers. Selling accessories with a five hundred percent margin is a popular way to make money among vendors.

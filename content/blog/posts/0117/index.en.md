@@ -14,8 +14,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/m0kwv1ckhveu1509.jpg"
 places:
     - place0082
-aliases:
-    - /en/blog/post/117
 ---
 
 Even though nearly half a year has passed, better late than never.

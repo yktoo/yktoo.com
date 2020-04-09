@@ -10,8 +10,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/9b0hwz0dbzsv1289.jpg"
 places:
     - place0120
-aliases:
-    - /en/blog/post/83
 ---
 
 One bright, or maybe cloudy day we've fancied a trip to Vienna. A friend of mine got to know a pretty generous person willing to put up a couple of noisy fellows. (Russians believe in their unique hospitality, but is it indeed unique?)

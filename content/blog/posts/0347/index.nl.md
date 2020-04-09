@@ -11,8 +11,6 @@ tags:
 image: git.png
 software: yktools
 fulltextUrl: "https://yktoo.solutions/blog/2019/07/19-managing-git-projects-on-a-mass-scale/"
-aliases:
-    - /nl/blog/post/347
 ---
 
 Iedereen wie al enige tijd met softwareontwikkeling bezig is, is waarschijnlijk bekend met het gedoe van het orde houden van talrijke Git repositories die je gebruikt of ontwikkelt. Je moet ze voortdurend bijwerken, opruimen, committen, pushen enzovoorts.

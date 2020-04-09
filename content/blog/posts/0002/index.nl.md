@@ -9,8 +9,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/mt9rydqj2lm01502.png"
 places:
     - place0173
-aliases:
-    - /nl/blog/post/2
 ---
 
 In Moskou kwam ik vrij laat aan, om half elf. Documenten bij de Nederlandse ambassade werden in principe tussen 9:00 en 12:00 uur ingenomen, dus ik had de stille hoop dat ik toch op tijd zou kunnen komen om mijn aanvraag in te dienen.

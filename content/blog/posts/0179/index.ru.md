@@ -9,8 +9,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/qt8n9sq0vbpt1596.jpg"
 places:
     - place0015
-aliases:
-    - /ru/blog/post/179
 ---
 
 Весна у нас что-то задерживается. Видимо, поэтому оголодавшая, а может, стосковавшаяся по общению цапля гуляет по торговому центру {{< fl "Amsterdam Bijlmer Arena" >}}.

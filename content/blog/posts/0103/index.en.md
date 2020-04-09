@@ -4,8 +4,6 @@ date: "2011-07-14T00:00:00Z"
 title: "The new old blog"
 tags: ["blog"]
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/8l0mwo2k5qwz1414.jpg"
-aliases:
-    - /en/blog/post/103
 ---
 
 Some planned changes have been made to the blog.

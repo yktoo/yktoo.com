@@ -10,8 +10,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/xmsm43q11hze0943.jpg"
 places:
     - place0083
-aliases:
-    - /ru/blog/post/116
 ---
 
 Наш спортклуб закупил и установил новые беговые дорожки. Беглый поиск в Интернете показал, что это [Matrix T7xe](http://www.matrixfitness.com/product/view/t7xe-treadmill). Всё в соответствии с веяниями времени, хайтек как он есть:

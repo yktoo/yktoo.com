@@ -9,8 +9,6 @@ tags:
     - Ubuntu
     - wacky
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/gu9yw1wxrl101352.png"
-aliases:
-    - /en/blog/post/333
 ---
 
 I've been adventurous enough to upgrade my iMac to *Ubuntu 17.10 Artful Aardvark*. That's the one that features *Wayland* instead of *X Window* and *Gnome Shell* instead of *Unity*.

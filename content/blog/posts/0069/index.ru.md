@@ -7,8 +7,6 @@ tags:
     - новости
     - СМИ
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/w1u3e30kcryj0599.JPG"
-aliases:
-    - /ru/blog/post/69
 ---
 
 О Домодедове у нас говорят в каждом выпуске новостей, и довольно много. Показывают интервью с политиками и аналитиками. Репортажи.

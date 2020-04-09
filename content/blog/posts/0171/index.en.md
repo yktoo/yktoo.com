@@ -12,8 +12,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/j75wq1vub1hp2349.jpg"
 places:
     - place0020
-aliases:
-    - /en/blog/post/171
 ---
 
 Exactly one year ago, on January 1, 2012 I was [late](0138) for the "New Year's dive", {{< fl "Nieuwjaarsduik" >}}, because it took me too long to find a parking space). Then I had to dive in solitude.

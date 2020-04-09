@@ -11,8 +11,6 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/whu8enrdh8vu3168.jpg"
 places:
     - place0077
     - place0078
-aliases:
-    - /ru/blog/post/128
 ---
 
 Четвёртый день у нас стоит густой туман. Порой настолько густой, что в десятке метров ничего не разглядеть.

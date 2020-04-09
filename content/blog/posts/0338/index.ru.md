@@ -9,8 +9,6 @@ tags:
     - ремонт
     - сделай сам
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/229w56ek0ge63498.jpg"
-aliases:
-    - /ru/blog/post/338
 ---
 
 ## Ода жадности {#save-your-cents}

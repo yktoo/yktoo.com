@@ -10,8 +10,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/3topzbdfzfaz1358.jpg"
 places:
     - place0110
-aliases:
-    - /en/blog/post/86
 ---
 
 ## Schönbrunn palace {#schonbrunn-palace}

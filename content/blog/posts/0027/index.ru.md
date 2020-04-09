@@ -6,8 +6,6 @@ tags:
     - Баарн
     - Нидерланды
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/rdxlhkfj4gi90364.jpg"
-aliases:
-    - /ru/blog/post/27
 ---
 
 Которую неделю в нашем Баарнском офисе идёт ремонт.

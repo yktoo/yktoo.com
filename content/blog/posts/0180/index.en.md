@@ -6,8 +6,6 @@ tags:
     - blog
     - web
     - website
-aliases:
-    - /en/blog/post/180
 ---
 
 Hi all, I'm still there, alive and well.

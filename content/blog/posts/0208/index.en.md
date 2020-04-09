@@ -11,8 +11,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/8lce0st9pger0275.jpg"
 places:
     - place0125
-aliases:
-    - /en/blog/post/208
 ---
 
 This cute little blue vintage train was spotted today at the Amersfoort Central train station:

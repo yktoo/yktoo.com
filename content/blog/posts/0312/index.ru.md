@@ -14,8 +14,6 @@ tags:
     - электромобили
     - электротранспорт
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/2ajnwa9mqugz2517.jpg"
-aliases:
-    - /ru/blog/post/312
 ---
 
 Маховик популярности {{< wiki "Tesla_Motors" "ru" "Tesla" >}} всё раскручивается, несмотря на эпизодические [аварии](0288) и [финансовые неурядицы](http://www.vanityfair.com/news/2016/08/is-elon-musks-tesla-in-trouble). Вчера вот Илон Маск [объявил](https://www.bloomberg.com/news/articles/2017-02-22/tesla-says-model-3-on-track-as-quarterly-loss-beats-estimates) о том, что {{< fl "Model 3" >}} всё-таки начнут производить уже в этом году.

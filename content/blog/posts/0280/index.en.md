@@ -12,8 +12,6 @@ tags:
     - Samsung
     - TV
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/ldqo8766zpn30918.jpg"
-aliases:
-    - /en/blog/post/280
 ---
 
 Being quite happy with my [75 inch whopper](0243) {{< fl "Samsung UE75HU7500" >}}, the only thing I wanted to do about it was giving it ambient backlighting. When watching TV in complete darkness your eyes get quickly tired because of the stark contrast between the bright screen and its dark surroundings. Even though this device features an ambient light sensor, which is used to automatically adjust the screen brightness, the contrast is still all too harsh.

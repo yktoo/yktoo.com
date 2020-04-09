@@ -9,8 +9,6 @@ tags:
     - review
     - USB
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/r54xwb1o2p410736.jpg"
-aliases:
-    - /en/blog/post/251
 ---
 
 Out of curiosity I've ordered a couple of USB voltage testers from eBay (there's [plenty of them](http://www.ebay.com/sch/i.html?_nkw=usb+voltage+tester) there).

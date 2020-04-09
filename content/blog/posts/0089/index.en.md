@@ -15,8 +15,6 @@ places:
     - place0095
     - place0108
     - place0093
-aliases:
-    - /en/blog/post/89
 ---
 
 Our accommodation in Budapest was luckily very affordable. It was a two bedroom apartment near the city center, built in the mid twentieth century—with high ceilings, spacious and cozy (we wouldn't have chosen for worse, yeah).

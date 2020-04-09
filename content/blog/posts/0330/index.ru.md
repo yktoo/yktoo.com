@@ -10,8 +10,6 @@ tags:
     - полумарафон
     - спорт
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/088ge10jrnaz1903.jpg"
-aliases:
-    - /ru/blog/post/330
 ---
 
 А вот кому свежих медалек в ленту?

@@ -14,8 +14,6 @@ tags:
     - индикатор
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/bfeb1axtu3ki2057.png"
 software: sound-switcher-indicator
-aliases:
-    - /ru/blog/post/217
 ---
 
 Наконец-то дошли руки выпустить обновление моего [Sound Switcher Indicator](/software/sound-switcher-indicator) — версия 1.2.0 позволяет выбирать не только входное/выходное устройство, а ещё и конкретный порт в нём:

@@ -6,8 +6,6 @@ tags:
     - aankondiging
     - website
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/8l0mwo2k5qwz1414.jpg"
-aliases:
-    - /nl/blog/post/351
 ---
 
 > **Update:** de nieuwe website versie is nu live, alle commentaren zijn gekopieerd vanuit de oude versie.

@@ -10,8 +10,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/dcnasut99fek0128.jpg"
 places:
     - place0093
-aliases:
-    - /en/blog/post/91
 ---
 
 On our last day, (morning, to be precise), we decided to visit St. Stephen's Basilica ({{< fl "Szent István-bazilika" >}}), a famous Roman Catholic cathedral.

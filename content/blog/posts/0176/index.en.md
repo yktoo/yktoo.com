@@ -11,8 +11,6 @@ tags:
     - throne
     - Willem-Alexander
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/bi5kqwnjpk8s1207.jpg"
-aliases:
-    - /en/blog/post/176
 ---
 
 Queen Beatrix has just announced she would abdicate from the Dutch throne in favour of her eldest son, 45 years old Willem-Alexander.

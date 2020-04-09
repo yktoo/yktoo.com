@@ -13,8 +13,6 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/caedvcmdq8nh1450.jpg"
 places:
     - place0217
     - place0218
-aliases:
-    - /ru/blog/post/221
 ---
 
 Вот и лето заканчивается, а я за заботами его почти и не заметил. Занятое выдалось времечко, причём в хорошем смысле.

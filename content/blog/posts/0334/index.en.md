@@ -8,8 +8,6 @@ tags:
     - reflections
     - upshot
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/yfaj5f95f50d3310.jpg"
-aliases:
-    - /en/blog/post/334
 ---
 
 It's been exactly ten years since I've [moved](0001) to the Netherlands. And it's been an eventful time!

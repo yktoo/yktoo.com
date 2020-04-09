@@ -10,8 +10,6 @@ tags:
     - wallpaper
     - yktools
 software: yktools
-aliases:
-    - /en/blog/post/122
 ---
 
 This bash script picks up a random image file (.jpg, .jpeg or .png) from the predefined directory and sets it as wallpaper.

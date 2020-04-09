@@ -5,8 +5,6 @@ title: "Subscription to e-mail blog updates"
 tags:
     - blog
     - web
-aliases:
-    - /en/blog/post/241
 ---
 
 A short announcement about a new subscription option.

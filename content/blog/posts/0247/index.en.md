@@ -12,8 +12,6 @@ tags:
     - Smart TV
     - TV
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/rhtzlfix5mvx2539.png"
-aliases:
-    - /en/blog/post/247
 ---
 
 ## Video {#video}

@@ -12,8 +12,6 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/whu8enrdh8vu3168.jpg"
 places:
     - place0077
     - place0078
-aliases:
-    - /en/blog/post/128
 ---
 
 Holland has been fogged for four days in a row. Sometimes the fog is so thick that one cannot see anything further than a dozen meters.

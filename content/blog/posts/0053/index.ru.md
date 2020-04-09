@@ -7,8 +7,6 @@ tags:
     - оранжевая лихорадка
     - футбол
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/25f8rkldz7ah1430.jpg"
-aliases:
-    - /ru/blog/post/53
 ---
 
 К футболу я по-прежнему равнодушен. Ничего не могу с собой поделать.

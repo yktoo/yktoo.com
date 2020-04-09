@@ -11,8 +11,6 @@ tags:
     - Ubuntu
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/9revw9yiv80r1938.png"
 software: sound-switcher-indicator
-aliases:
-    - /en/blog/post/343
 ---
 
 It's time to fulfil my [promise](0342), so please meet [Sound Switcher Indicator](/software/sound-switcher-indicator) version **2.2.0**.

@@ -16,8 +16,6 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/63mo8nyjl7yw1229.jpg"
 places:
     - place0001
     - place0002
-aliases:
-    - /ru/blog/post/202
 ---
 
 Что-то давненько не освещал я творческую деятельность местных мастеров драйва и девического вокала, потока страсти, сиречь Stream of Passion. Они никуда не делись, и даже наоборот, недавно посетили с гастролями нашу самую златоглавую, чему неоднократно радовались в своём [уютном Фейсбучике](http://www.facebook.com/StreamOfPassion).

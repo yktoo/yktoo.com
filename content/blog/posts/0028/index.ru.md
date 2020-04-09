@@ -7,8 +7,6 @@ tags:
     - авто
     - Нидерланды
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/jypcrqe2jvtr2307.jpg"
-aliases:
-    - /ru/blog/post/28
 ---
 
 Наконец-то пришла заказанная мной машина — **Toyota Prius 2009**.
