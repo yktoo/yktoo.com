@@ -1,7 +1,7 @@
 ---
 type: post
 date: "2020-02-07T11:54:27+01:00"
-title: "На Нидерланды надвигается ураган Сиара"
+title: "На Нидерланды надвигается ураган Киара"
 tags:
     - Нидерланды
     - новости
@@ -12,8 +12,6 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/mxs4f7wqppzmexkis7np.jpg"
 imageCredit: "Фото: Free-Photos/Pixabay."
 ---
-
-> На самом деле ураган называется **Киара**. Когда я писал новость, то посмотрел на перевод имени {{< wiki "Сиара" "ru" "одноимённой певицы" >}} — *ДК*.
 
 В предстоящее воскресенье **9** февраля до Нидерландов [доберётся](https://www.omroepwest.nl/nieuws/3994493/Storm-Ciara-trekt-zondag-over-regio-Windstoten-tot-120-kilometer-per-uur-mogelijk) ураган Киара ({{< fl "Ciara" >}}).
 
