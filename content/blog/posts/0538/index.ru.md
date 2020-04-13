@@ -10,6 +10,8 @@ tags:
     - Carré
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/kmhlcbxhwzjfhxzgakxz.jpg"
 imageCredit: "Стоп-кадр из видео FugErik/YouTube."
+places:
+    - place0041
 ---
 
 Оба участника акробатического дуэта {{< fl "Sky Angels" >}} — супруги Кристина Воробьёва и Рустэм Османов — оказались в больнице, а их выступление в амстердамском театре {{< fl "Carré" >}} остановлено после того, как они [упали](https://nos.nl/artikel/2317238-twee-artiesten-vallen-van-tien-meter-hoogte-tijdens-act-kerstcircus-carre.html) с высоты около десяти метров.
