@@ -25,4 +25,4 @@ imageCredit: "Фото: pol_dirkmaat/Instagram."
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/yxkkrxrtcqqphzezr9sy.jpg" "Экстази-пазл. Фото: [pol_dirkmaat/Instagram](https://www.instagram.com/p/B-7b4Z-j3Hc/)." >}}
 
-Женщина обратилась в полицию, которая начала расследование инцидента.
+Находку женщина передала в полицию, которая начала расследование инцидента.
