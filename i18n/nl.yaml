@@ -90,6 +90,7 @@
 - {id: seriesOther,       translation: Overig}
 - {id: seriesPlural,      translation: Serie's}
 - {id: share,             translation: Delen}
+- {id: shareOn,           translation: 'Op {{ .Count }} delen'}
 - {id: showChords,        translation: Met akkoorden}
 - {id: software,          translation: Software}
 - {id: softwareFor,       translation: '{{ .value }}-software'}

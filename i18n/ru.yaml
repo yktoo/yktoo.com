@@ -90,6 +90,7 @@
 - {id: seriesOther,       translation: Прочие подборки}
 - {id: seriesPlural,      translation: Подборки}
 - {id: share,             translation: Поделиться}
+- {id: shareOn,           translation: 'Поделиться на {{ .Count }}'}
 - {id: showChords,        translation: С аккордами}
 - {id: software,          translation: Программы}
 - {id: softwareFor,       translation: 'ПО для {{ .value }}'}

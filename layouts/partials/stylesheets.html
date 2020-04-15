@@ -1,7 +1,6 @@
 {{- $main     := (resources.Get "scss/main.scss" | toCSS) -}}
 {{- $fa       := resources.Get "fontawesome-5.1.0/all.css" -}}
-{{- $shr_btn  := resources.Get "css/sharingbuttons.css" -}}
 {{- $magnific := resources.Get "css/magnific.css" -}}
 {{- $cc       := resources.Get "css/cookieconsent.min.css" -}}
 <!-- Make a minified bundle of all stylesheets -->
-<link href="{{ (slice $main $fa $shr_btn $magnific $cc | resources.Concat `css/bundle.css` | minify).Permalink }}" rel="stylesheet">
+<link href="{{ (slice $main $fa $magnific $cc | resources.Concat `css/bundle.css` | minify).Permalink }}" rel="stylesheet">

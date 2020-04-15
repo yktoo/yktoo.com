@@ -90,6 +90,7 @@
 - {id: seriesOther,       translation: Other series}
 - {id: seriesPlural,      translation: Series}
 - {id: share,             translation: Share}
+- {id: shareOn,           translation: 'Share on {{ .Count }}'}
 - {id: showChords,        translation: Show chords}
 - {id: software,          translation: Software}
 - {id: softwareFor,       translation: '{{ .value }} software'}

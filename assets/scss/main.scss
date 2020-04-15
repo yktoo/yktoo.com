@@ -593,6 +593,7 @@ a {
     &.fa-envelope       {color: #da3838;}
     &.fa-github         {color: #000000;}
     &.fa-linkedin       {color: #0077b5;}
+    &.fa-pinterest      {color: #bd081c;}
     &.fa-reddit         {color: #f83200;}
     &.fa-rss-square     {color: #f18222;}
     &.fa-stack-overflow {color: #f48024;}
@@ -601,7 +602,10 @@ a {
     &.fa-twitter        {color: #55acee;}
     &.fa-ubuntu         {color: #d74613;}
     &.fa-vk             {color: #507299;}
+    &.fa-whatsapp       {color: #25d366;}
+    &.fa-xing           {color: #1a7576;}
     &.fa-youtube        {color: #ff0101;}
+    &.fa-y-combinator   {color: #ff6600;}
 }
 
 // Flags
@@ -715,6 +719,23 @@ div[style*="56.25%"] {
     padding-top: 2.5rem;
     padding-bottom: 1.5rem;
     text-align: center;
+}
+
+.share-buttons {
+    display: flex;
+    justify-content: center;
+
+    a {
+        font-size: 2rem;
+        min-width: 2.6rem;
+        background: none;
+        border: 1px transparent solid;
+        border-radius: 3.5px;
+
+        &:hover {
+            border: 1px $primary solid;
+        }
+    }
 }
 
 // Fixes for Commento
