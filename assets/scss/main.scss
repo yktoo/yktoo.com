@@ -724,6 +724,7 @@ div[style*="56.25%"] {
 .share-buttons {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 
     a {
         font-size: 2rem;

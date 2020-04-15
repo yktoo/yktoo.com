@@ -12,7 +12,7 @@
     <a title="{{ T `shareOn` `LinkedIn` }}"    href="https://www.linkedin.com/shareArticle?{{ querify `mini` `true` `url` $url `title` $title `summary` (.Summary | plainify | safeHTML) `source` $url | safeURL }}" target="_blank" rel="noopener"><i class="fab fa-linkedin colourise"></i></a>
     <a title="{{ T `shareOn` `Reddit` }}"      href="https://reddit.com/submit/?{{ querify `url` $url `resubmit` `true` `title` $title | safeURL }}" target="_blank" rel="noopener"><i class="fab fa-reddit colourise"></i></a>
     <a title="{{ T `shareOn` `XING` }}"        href="https://www.xing.com/app/user?{{ querify `op` `share` `url` $url `title` $title | safeURL }}" target="_blank" rel="noopener"><i class="fab fa-xing colourise"></i></a>
-    <a title="{{ T `shareOn` `WhatsApp` }}"    href="whatsapp://send?{{ querify `text` (printf `%s %s` $url $title) }}" target="_blank" rel="noopener"><i class="fab fa-whatsapp colourise"></i></a>
+    <a title="{{ T `shareOn` `WhatsApp` }}"    href="whatsapp://send?{{ querify `text` $url }}" target="_blank" rel="noopener" data-action="share/whatsapp/share"><i class="fab fa-whatsapp colourise"></i></a>
     <a title="{{ T `shareOn` `Hacker News` }}" href="https://news.ycombinator.com/submitlink?{{ querify `u` $url `t` $title }}" target="_blank" rel="noopener"><i class="fab fa-y-combinator colourise"></i></a>
     <a title="{{ T `shareOn` `VK` }}"          href="https://vk.com/share.php?{{ querify `url` $url }}" target="_blank" rel="noopener"><i class="fab fa-vk colourise"></i></a>
     <a title="{{ T `shareOn` `Telegram` }}"    href="https://telegram.me/share/url?{{ querify `text` $title `url` $url }}" target="_blank" rel="noopener"><i class="fab fa-telegram colourise"></i></a>
