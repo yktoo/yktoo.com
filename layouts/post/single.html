@@ -90,18 +90,6 @@
                 <a class="btn btn-primary" href="{{ relLangURL `/blog/subscribe` }}" role="button">{{ T "blogSubscribeOpts" }}</a>
             </section>
 
-            <!-- See also -->
-            {{- with .Site.RegularPages.Related . }}
-            <section class="blog-post-more-to-read" id="blog-post-more-to-read">
-                <h2>{{ T "moreToRead" }}</h2>
-                <div class="row">
-                {{- range first 6 . }}
-                    <div class="col-md-6 col-lg-4">{{ .Render "card" }}</div>
-                {{- end }}
-                </div>
-            </section>
-            {{- end }}
-
             <!-- Comments -->
             <section class="blog-post-comments" id="blog-post-comments">
                 <h2>{{ T "comments" }}</h2>
@@ -113,6 +101,18 @@
                 <script defer src="{{ .Site.Params.commentoUrl }}" data-page-id="/blog/post/{{ path.Base .File.Dir }}"></script>
                 {{- end }}
             </section>
+
+            <!-- See also -->
+            {{- with .Site.RegularPages.Related . }}
+            <section class="blog-post-more-to-read" id="blog-post-more-to-read">
+                <h2>{{ T "moreToRead" }}</h2>
+                <div class="row">
+                {{- range first 6 . }}
+                    <div class="col-md-6 col-lg-4">{{ .Render "card" }}</div>
+                {{- end }}
+                </div>
+            </section>
+            {{- end }}
         </div>
         <div class="col-md-3 article-sidebar">
             <div class="sticky-top">
@@ -138,8 +138,8 @@
                     <h6><i class="fas fa-list bycon"></i>{{ T "contents" }}</h6>
                     {{ .TableOfContents }}
                     <ul>
-                        {{- if .Site.RegularPages.Related . }}<li><a href="#blog-post-more-to-read">{{ T "moreToRead" }}</a></li>{{ end }}
                         <li><a href="#blog-post-comments">{{ T "comments" }}</a></li>
+                        {{- if .Site.RegularPages.Related . }}<li><a href="#blog-post-more-to-read">{{ T "moreToRead" }}</a></li>{{ end }}
                     </ul>
                 </section>
 
