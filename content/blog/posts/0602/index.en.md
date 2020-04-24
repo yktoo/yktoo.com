@@ -26,7 +26,7 @@ This time I'm going to sidestep the tradition of reviewing instrumental djent st
 
 ### Ashes of the Reborn
 
-If you ask me, their debute **Ashes of the Reborn** (**2012**) wasn't something extraordinary. I'd describe it as good old *progressive power metal*. What's important though, is that it's demonstrated the creative potential of the musicians…
+If you ask me, their debut **Ashes of the Reborn** (**2012**) wasn't something extraordinary. I'd describe it as good old *progressive power metal*. What's important though, is that it's demonstrated the creative potential of the musicians…
 
 ### The Room
 
