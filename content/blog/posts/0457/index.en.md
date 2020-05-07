@@ -37,7 +37,13 @@ It supports video downloads from **YouTube**, **Vimeo**, **BBC**, **CBS**, and [
 
 ## Installation
 
-Happy Linux users can install the program using `pip`:
+Happy Linux users can install the program using a snap:
+
+```bash
+snap install youtube-dl
+```
+
+On a system that doesn't support snaps it can be installed with `pip`:
 
 ```bash
 sudo -H pip3 install --upgrade youtube-dl

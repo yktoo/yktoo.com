@@ -39,7 +39,13 @@ image: "/images/logos/youtube-logo.png"
 
 ## Установка
 
-Пользователям {{< fl "Linux" >}} проще всего установить программу с помощью `pip`:
+Пользователям {{< fl "Linux" >}} проще всего установить программу в виде {{< fl "snap" >}}-пакета:
+
+```bash
+snap install youtube-dl
+```
+
+В системах без поддержки {{< fl "snap" >}}-пакетов её также можно установить с помощью `pip`:
 
 ```bash
 sudo -H pip3 install --upgrade youtube-dl
