@@ -5,6 +5,12 @@ items:
         showDownloads: true
         isActive: true
 
+    ymuse:
+        githubUrl: https://github.com/yktoo/ymuse
+        licenses: [apache2]
+        showDownloads: true
+        isActive: true
+
     docker-indicator:
         githubUrl: https://github.com/yktoo/indicator-docker
         licenses: [gpl3]

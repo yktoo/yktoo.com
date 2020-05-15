@@ -3,7 +3,7 @@ title: Sound Switcher Indicator
 subtitle: Sound input/output selector indicator for Linux.
 platform: linux
 icon: ssi-icon-64.png
-weight: 1
+weight: 100
 software: sound-switcher-indicator
 aliases:
     - /en/software/indicator-sound-switcher

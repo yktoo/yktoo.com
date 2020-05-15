@@ -3,7 +3,7 @@ title: InfoPi
 subtitle: Information server application for Raspberry Pi.
 platform: linux
 icon: infopi-icon-64.png
-weight: 4
+weight: 400
 software: infopi
 ---
 

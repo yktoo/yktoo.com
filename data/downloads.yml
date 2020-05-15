@@ -379,11 +379,63 @@ sound-switcher-indicator:
 
               Исходный код в архиве `.tar.gz`.
           nl: |-
-              A simple sound input/output switcher indicator application for Linux.
+              Een eenvoudige geluidsin- en uitgang schakelaar applicatie voor Linux.
 
-              Source code in `.tar.gz` archive.
+              Broncode in `.tar.gz` archive.
       detailUrl: 'https://github.com/yktoo/indicator-sound-switcher/blob/master/debian/changelog'
       releaseDate: 2020-02-04
       weight: 101
       downloadUrl: 'https://github.com/yktoo/indicator-sound-switcher/archive/v2.3.0.tar.gz'
+      isFeatured: false
+
+ymuse:
+    - title:
+          en: 'Ymuse **v0.4** Debian package'
+          ru: 'Debian-пакет Ymuse **v0.4**'
+          nl: 'Ymuse **v0.4** Debian package'
+      description:
+          en: |-
+              Binary `.deb` package.
+          ru: |-
+              Бинарный `.deb`-пакет.
+          nl: |-
+              Gecompileerd `.deb`-pakket.
+      detailUrl: 'https://github.com/yktoo/ymuse/releases/tag/v0.4'
+      releaseDate: 2020-05-14
+      weight: 100
+      downloadUrl: 'https://github.com/yktoo/ymuse/releases/download/v0.4/ymuse_0.4_linux_amd64.deb'
+      isFeatured: true
+
+    - title:
+          en: 'Ymuse **v0.4** RPM package'
+          ru: 'RPM-пакет Ymuse **v0.4**'
+          nl: 'Ymuse **v0.4** RPM package'
+      description:
+          en: |-
+              Binary `.rpm` package.
+          ru: |-
+              Бинарный `.rpm`-пакет.
+          nl: |-
+              Gecompileerd `.rpm`-pakket.
+      detailUrl: 'https://github.com/yktoo/ymuse/releases/tag/v0.4'
+      releaseDate: 2020-05-14
+      weight: 110
+      downloadUrl: 'https://github.com/yktoo/ymuse/releases/download/v0.4/ymuse_0.4_linux_amd64.rpm'
+      isFeatured: true
+
+    - title:
+          en: 'Ymuse **v0.4** source code'
+          ru: 'Исходные коды Ymuse **v0.4**'
+          nl: 'Ymuse **v0.4** broncode'
+      description:
+          en: |-
+              Source code in `.tar.gz` archive.
+          ru: |-
+              Исходный код в архиве `.tar.gz`.
+          nl: |-
+              Source code in `.tar.gz` archive.
+      detailUrl: 'https://github.com/yktoo/ymuse/releases/tag/v0.4'
+      releaseDate: 2020-05-14
+      weight: 200
+      downloadUrl: 'https://github.com/yktoo/ymuse/archive/v0.4.tar.gz'
       isFeatured: false

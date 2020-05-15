@@ -41,6 +41,7 @@
 - {id: iAmLegend,         translation: Ik ben legende}
 - {id: inThisVideo,       translation: In deze video}
 - {id: license,           translation: Licentie}
+- {id: license_apache2,   translation: Apache License Versie 2.0}
 - {id: license_gpl3,      translation: GNU General Public License Versie 3}
 - {id: license_lgpl3,     translation: GNU Lesser General Public License Versie 3}
 - {id: license_lgpl21,    translation: GNU Lesser General Public License Versie 2.1}

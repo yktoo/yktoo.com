@@ -3,7 +3,7 @@ title: Docker Indicator
 subtitle: Индикатор для управления контейнерами Docker.
 platform: linux
 icon: docker-indicator-icon-64.png
-weight: 2
+weight: 300
 software: docker-indicator
 seeAlso:
     - name: My Launchpad PPA
