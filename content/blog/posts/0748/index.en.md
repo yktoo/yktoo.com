@@ -83,6 +83,11 @@ Go is very programmer-friendly, with its syntax reminding Python, and it provide
 But perhaps the most important factor is its extensive standard library and the availability of thousands of third-party open-source libraries, which can be added to the project with a single `go get …` command.
 
 Two of such libraries — [gompd](https://github.com/fhs/gompd) for interacting with the MPD and [gotk3](https://github.com/gotk3/gotk3) providing bindings for GTK — made it possible to develop an almost fully-functional Sonata clone in just a couple of weeks.
+
+If you're also interested in learning the language I'd recommend the official [Tour of Go](https://tour.golang.org/) tutorial, where you can also run code snippets right away. And this great 7-hour video thoroughly explaining all major aspects of Go:
+
+{{< youtube "YS4e4q9oBaU" >}}
+
 {{< /spoiler >}}
 
 Practically, I can say Ymuse handles my **12K+**-track playlist some two to three times faster than Sonata, and that can perhaps be further optimised.
@@ -116,6 +121,7 @@ Features of the current version:
 The TODO list is still quite long:
 
 * Automated UI testing.
+* Internationalisation
 * Packaging in a snap.
 * Displaying album artwork.
 * Library browsing not only by files, but also by artists, albums etc.
