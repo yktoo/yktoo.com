@@ -343,9 +343,9 @@ process-explorer:
 
 sound-switcher-indicator:
     - title:
-          en: 'Sound Switcher Indicator **2.3.0** Debian package'
-          ru: 'Debian-пакет Sound Switcher Indicator **2.3.0**'
-          nl: 'Sound Switcher Indicator **2.3.0** Debian package'
+          en: 'Sound Switcher Indicator **2.3.2** Debian package'
+          ru: 'Debian-пакет Sound Switcher Indicator **2.3.2**'
+          nl: 'Sound Switcher Indicator **2.3.2** Debian package'
       description:
           en: |-
               A simple sound input/output switcher indicator application for Linux.
@@ -362,13 +362,13 @@ sound-switcher-indicator:
       detailUrl: 'https://github.com/yktoo/indicator-sound-switcher/blob/master/debian/changelog'
       releaseDate: 2020-02-04
       weight: 100
-      downloadUrl: 'https://launchpad.net/~yktooo/+archive/ubuntu/ppa/+files/indicator-sound-switcher_2.3.0-1_all.deb'
+      downloadUrl: 'https://launchpad.net/~yktooo/+archive/ubuntu/ppa/+files/indicator-sound-switcher_2.3.2-1_all.deb'
       isFeatured: true
 
     - title:
-          en: 'Sound Switcher Indicator **2.3.0** source code'
-          ru: 'Исходные коды Sound Switcher Indicator **2.3.0**'
-          nl: 'Sound Switcher Indicator **2.3.0** broncode'
+          en: 'Sound Switcher Indicator **2.3.2** source code'
+          ru: 'Исходные коды Sound Switcher Indicator **2.3.2**'
+          nl: 'Sound Switcher Indicator **2.3.2** broncode'
       description:
           en: |-
               A simple sound input/output switcher indicator application for Linux.
@@ -385,7 +385,7 @@ sound-switcher-indicator:
       detailUrl: 'https://github.com/yktoo/indicator-sound-switcher/blob/master/debian/changelog'
       releaseDate: 2020-02-04
       weight: 101
-      downloadUrl: 'https://github.com/yktoo/indicator-sound-switcher/archive/v2.3.0.tar.gz'
+      downloadUrl: 'https://github.com/yktoo/indicator-sound-switcher/archive/v2.3.2.tar.gz'
       isFeatured: false
 
 ymuse:
