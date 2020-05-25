@@ -360,7 +360,7 @@ sound-switcher-indicator:
 
               Gecompileerd `.deb`-pakket.
       detailUrl: 'https://github.com/yktoo/indicator-sound-switcher/blob/master/debian/changelog'
-      releaseDate: 2020-02-04
+      releaseDate: 2020-05-25
       weight: 100
       downloadUrl: 'https://launchpad.net/~yktooo/+archive/ubuntu/ppa/+files/indicator-sound-switcher_2.3.2-1_all.deb'
       isFeatured: true
@@ -383,7 +383,7 @@ sound-switcher-indicator:
 
               Broncode in `.tar.gz` archive.
       detailUrl: 'https://github.com/yktoo/indicator-sound-switcher/blob/master/debian/changelog'
-      releaseDate: 2020-02-04
+      releaseDate: 2020-05-25
       weight: 101
       downloadUrl: 'https://github.com/yktoo/indicator-sound-switcher/archive/v2.3.2.tar.gz'
       isFeatured: false
