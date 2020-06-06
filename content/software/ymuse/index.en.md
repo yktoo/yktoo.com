@@ -9,7 +9,11 @@ software: ymuse
 
 **Ymuse** is an easy, functional, and snappy GTK front-end (client) for [Music Player Daemon](https://www.musicpd.org/) written in Go.
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/mkosprfb6pxouv8sta3b.png" "Ymuse screenshot." >}}
+{{< carousel >}}
+https://res.cloudinary.com/yktoo/image/upload/blog/jskaqgrbxzjyi7ofxetn.png Ymuse Queue tab.
+https://res.cloudinary.com/yktoo/image/upload/blog/zqu4ugqg0bvlh2hvajst.png Ymuse Library tab.
+https://res.cloudinary.com/yktoo/image/upload/blog/hsc3lmkxxqaoo98bdoen.png Ymuse Streams tab.
+{{< /carousel >}}
 
 ## Ymuse features
 
@@ -24,3 +28,4 @@ software: ymuse
 * Player title setting using Go template syntax.
 * Toggling various MPD modes (*random*, *repeat*, *consume*).
 * Seeking the current track to an arbitrary location.
+* Internationalisation support (bundled languages: Russian, Dutch).

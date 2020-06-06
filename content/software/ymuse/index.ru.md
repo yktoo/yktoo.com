@@ -9,7 +9,11 @@ software: ymuse
 
 **Ymuse** — это простое в использовании, но в то же время богатое функционалом и быстрое приложение-клиент для [Music Player Daemon](https://www.musicpd.org/), написанное на {{< fl "Go" >}} и использующее графическую библиотеку {{< fl "GTK" >}}.
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/mkosprfb6pxouv8sta3b.png" "Скриншот Ymuse." >}}
+{{< carousel >}}
+https://res.cloudinary.com/yktoo/image/upload/blog/jskaqgrbxzjyi7ofxetn.png Ymuse: вкладка «Очередь».
+https://res.cloudinary.com/yktoo/image/upload/blog/zqu4ugqg0bvlh2hvajst.png Ymuse: вкладка «Библиотека».
+https://res.cloudinary.com/yktoo/image/upload/blog/hsc3lmkxxqaoo98bdoen.png Ymuse: вкладка «Потоки».
+{{< /carousel >}}
 
 ## Возможности Ymuse
 
@@ -24,3 +28,4 @@ software: ymuse
 * Настройка отображаемого текста в плеере (используется синтаксис {{< fl "Go template" >}}).
 * Переключение режимов {{< fl "MPD" >}} ({{< fl "random" >}}, {{< fl "repeat" >}} и {{< fl "consume" >}}).
 * Перемотка трека в произвольное место.
+* Поддержка локализации (доступные в сборке языки: русский, нидерландский).
