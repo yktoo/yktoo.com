@@ -121,10 +121,10 @@ Features of the current version:
 The TODO list is still quite long:
 
 * Automated UI testing.
-* Internationalisation
+* ~~Internationalisation~~ Done!
 * Packaging in a snap.
 * Displaying album artwork.
-* Library browsing not only by files, but also by artists, albums etc.
+* ~~Library browsing not only by files, but also by artists, albums etc.~~ Done!
 * Drag'n'drop in the play queue.
 * More settings.
 * Multiple MPD connections support.
