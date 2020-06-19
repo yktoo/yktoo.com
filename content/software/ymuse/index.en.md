@@ -28,4 +28,30 @@ https://res.cloudinary.com/yktoo/image/upload/blog/hsc3lmkxxqaoo98bdoen.png Ymus
 * Player title setting using Go template syntax.
 * Toggling various MPD modes (*random*, *repeat*, *consume*).
 * Seeking the current track to an arbitrary location.
-* Internationalisation support (bundled languages: Russian, Dutch).
+* Internationalisation support. Bundled languages:
+    * Dutch
+    * Japanese
+    * Russian
+
+## Installation
+
+### Ubuntu
+
+If you use Ubuntu, the simplest way to get **Ymuse** installed is downloading it from the Ubuntu Snap Store:
+
+{{< div "embed-responsive mb-3 border rounded" "height: 330px" >}}
+<iframe src="https://snapcraft.io/ymuse/embedded?button=black&summary=true"></iframe>
+{{< /div >}}
+
+### Snap package
+
+In case your distro provides support for {{< wiki "Snap_(package_manager)" "en" "snaps" >}}, the installation can be done with:
+
+```bash
+sudo snap install ymuse
+```
+
+### Binary package
+
+There are also binary builds and a source tarball available: see below.
+

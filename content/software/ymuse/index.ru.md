@@ -28,4 +28,29 @@ https://res.cloudinary.com/yktoo/image/upload/blog/hsc3lmkxxqaoo98bdoen.png Ymus
 * Настройка отображаемого текста в плеере (используется синтаксис {{< fl "Go template" >}}).
 * Переключение режимов {{< fl "MPD" >}} ({{< fl "random" >}}, {{< fl "repeat" >}} и {{< fl "consume" >}}).
 * Перемотка трека в произвольное место.
-* Поддержка локализации (доступные в сборке языки: русский, нидерландский).
+* Поддержка локализации. Доступные языки:
+    * нидерландский
+    * русский
+    * японский
+
+## Установка
+
+### Ubuntu
+
+Если у вас {{< fl "Ubuntu" >}}, то {{< fl "Ymuse" >}} проще всего установить прямо из {{< fl "Ubuntu Snap Store" >}}:
+
+{{< div "embed-responsive mb-3 border rounded" "height: 330px" >}}
+<iframe src="https://snapcraft.io/ymuse/embedded?button=black&summary=true"></iframe>
+{{< /div >}}
+
+### Snap-пакет
+
+Если ваш дистрибутив поддерживает {{< wiki "Snappy_(система_управления_пакетами)" "ru" "snap-пакеты" >}}, то установить приложение можно командой:
+
+```bash
+sudo snap install ymuse
+```
+
+### Бинарная сборка
+
+Также для {{< fl "Ymuse" >}} доступны для загрузки бинарные пакеты и архив с исходным кодом, перечисленные ниже.
