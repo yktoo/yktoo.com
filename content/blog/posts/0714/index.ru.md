@@ -4,7 +4,7 @@ date: "2020-04-03T12:13:38+02:00"
 title: "D.F.A."
 tags:
     - музыка
-    - D.F.A.
+    - DFA
     - Duty Free Area
     - jazz
     - jazz rock
