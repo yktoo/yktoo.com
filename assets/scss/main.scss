@@ -36,6 +36,7 @@ $navbar-dark-hover-color: $primary-alt;
 $nav-tabs-link-active-color: #aaa;
 $nav-tabs-link-active-bg: #fff;
 $pagination-hover-bg: $link-hover-bg;
+$carousel-control-icon-width: 32px;
 
 // Enable advanced theming
 $enable-shadows: true;
@@ -520,11 +521,22 @@ pre {
 // Carousel
 .carousel {
     margin-bottom: 1rem;
+
+    // Undo the ugly gradients on previous/next buttons
+    .carousel-control-prev, .carousel-control-next {
+        background: none;
+    }
+    // Make previous/next buttons visible
+    .carousel-control-prev-icon, .carousel-control-next-icon {
+        background-color: #6c757d;
+        border-radius: 50%;
+        box-shadow: $box-shadow-sm;
+    }
 }
 .carousel-item {
     img {
         display: block;
-        margin: 1rem auto 4rem auto;
+        margin: 0.5rem auto 4rem auto;
     }
     .carousel-caption {
         position: absolute;
@@ -533,9 +545,9 @@ pre {
         left: 0;
         height: 3.5rem;
         z-index: 10;
-        padding: 1rem;
-        color: #fff;
-        background-color: rgba(0, 0, 0, 0.6);
+        padding-top: 5px;
+        color: $figure-caption-color;
+        background-color: #fff;
         text-align: center;
     }
 }
