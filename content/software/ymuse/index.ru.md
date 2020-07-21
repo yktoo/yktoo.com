@@ -13,6 +13,9 @@ software: ymuse
 https://res.cloudinary.com/yktoo/image/upload/blog/jskaqgrbxzjyi7ofxetn.png Ymuse: вкладка «Очередь».
 https://res.cloudinary.com/yktoo/image/upload/blog/zqu4ugqg0bvlh2hvajst.png Ymuse: вкладка «Библиотека».
 https://res.cloudinary.com/yktoo/image/upload/blog/hsc3lmkxxqaoo98bdoen.png Ymuse: вкладка «Потоки».
+https://res.cloudinary.com/yktoo/image/upload/blog/cz9iyrysulxcedc39vk1.png Настройки Ymuse: Общие
+https://res.cloudinary.com/yktoo/image/upload/blog/suwte24ctnjjwacrpqfp.png Настройки Ymuse: Интерфейс
+https://res.cloudinary.com/yktoo/image/upload/blog/ien1ncgsfdlg0nsfin4t.png Настройки Ymuse: Столбцы
 {{< /carousel >}}
 
 ## Возможности Ymuse

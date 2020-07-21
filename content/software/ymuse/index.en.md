@@ -13,6 +13,9 @@ software: ymuse
 https://res.cloudinary.com/yktoo/image/upload/blog/jskaqgrbxzjyi7ofxetn.png Ymuse Queue tab.
 https://res.cloudinary.com/yktoo/image/upload/blog/zqu4ugqg0bvlh2hvajst.png Ymuse Library tab.
 https://res.cloudinary.com/yktoo/image/upload/blog/hsc3lmkxxqaoo98bdoen.png Ymuse Streams tab.
+https://res.cloudinary.com/yktoo/image/upload/blog/cz9iyrysulxcedc39vk1.png Ymuse Preferences: General
+https://res.cloudinary.com/yktoo/image/upload/blog/suwte24ctnjjwacrpqfp.png Ymuse Preferences: Interface
+https://res.cloudinary.com/yktoo/image/upload/blog/ien1ncgsfdlg0nsfin4t.png Ymuse Preferences: Columns
 {{< /carousel >}}
 
 ## Ymuse features
