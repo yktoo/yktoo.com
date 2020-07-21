@@ -17,7 +17,7 @@ https://res.cloudinary.com/yktoo/image/upload/blog/hsc3lmkxxqaoo98bdoen.png Ymus
 
 ## Ymuse features
 
-* Connection to a local or remote MPD server, auto(re)connect function.
+* Connection to a local or remote MPD server via TCP or Unix domain socket, auto(re)connect function.
 * Displaying, sorting, and shuffling the play queue. Track removal.
 * Filtering the play queue on a substring.
 * Saving the play queue as a playlist (new or existing).
