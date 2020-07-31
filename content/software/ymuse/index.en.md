@@ -35,6 +35,10 @@ https://res.cloudinary.com/yktoo/image/upload/blog/ien1ncgsfdlg0nsfin4t.png Ymus
     * Dutch
     * Japanese
     * Russian
+    
+Here's a short video tour of the application:
+
+{{< youtube "FuO7QWOaS1A" >}}
 
 ## Installation
 

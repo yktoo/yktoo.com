@@ -36,6 +36,10 @@ https://res.cloudinary.com/yktoo/image/upload/blog/ien1ncgsfdlg0nsfin4t.png На
     * русский
     * японский
 
+Вот короткое видео, демонстрирующее основные возможности приложения (*англ.*):
+
+{{< youtube "FuO7QWOaS1A" >}}
+
 ## Установка
 
 ### Ubuntu
