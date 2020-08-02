@@ -16,7 +16,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/wlfb8v23knjqaefztiwg.
 series: ymuse
 ---
 
-A new release of [Ymuse](/software/ymuse) **0.13**, a Music Player Daemon client, has been released.
+A new version of [Ymuse](/software/ymuse) **0.13**, a Music Player Daemon client, has been released.
 
 I haven't blogged about it since the [0.7 release](0748), so here's a brief summary of what's changed:
 
