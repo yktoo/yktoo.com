@@ -6,7 +6,7 @@ tags:
     - software
     - JetBrains
     - IntelliJ IDEA
-    - open-source
+    - open source
     - Sound Switcher Indicator
     - IDE
     - Vim

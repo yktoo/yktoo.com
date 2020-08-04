@@ -13,7 +13,7 @@ tags:
     - GitHub
     - blog
     - Hugo
-    - open-source
+    - open source
 image: website-logo.png
 ---
 
