@@ -17,7 +17,7 @@ import logging
 import os
 import pathlib
 import urllib.request
-import cloudinary
+import cloudinary.api
 
 
 MAX_RESOURCE_RESULTS = 1000
