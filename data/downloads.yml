@@ -390,9 +390,9 @@ sound-switcher-indicator:
 
 ymuse:
     - title:
-          en: 'Ymuse **v0.13** Debian package'
-          ru: 'Debian-пакет Ymuse **v0.13**'
-          nl: 'Ymuse **v0.13** Debian package'
+          en: 'Ymuse **v0.14** Debian package'
+          ru: 'Debian-пакет Ymuse **v0.14**'
+          nl: 'Ymuse **v0.14** Debian package'
       description:
           en: |-
               Binary `.deb` package.
@@ -400,16 +400,16 @@ ymuse:
               Бинарный `.deb`-пакет.
           nl: |-
               Gecompileerd `.deb`-pakket.
-      detailUrl: 'https://github.com/yktoo/ymuse/releases/tag/v0.13'
-      releaseDate: 2020-07-31
+      detailUrl: 'https://github.com/yktoo/ymuse/releases/tag/v0.14'
+      releaseDate: 2020-08-13
       weight: 100
-      downloadUrl: 'https://github.com/yktoo/ymuse/releases/download/v0.13/ymuse_0.13_linux_amd64.deb'
+      downloadUrl: 'https://github.com/yktoo/ymuse/releases/download/v0.14/ymuse_0.14_linux_amd64.deb'
       isFeatured: true
 
     - title:
-          en: 'Ymuse **v0.13** RPM package'
-          ru: 'RPM-пакет Ymuse **v0.13**'
-          nl: 'Ymuse **v0.13** RPM package'
+          en: 'Ymuse **v0.14** RPM package'
+          ru: 'RPM-пакет Ymuse **v0.14**'
+          nl: 'Ymuse **v0.14** RPM package'
       description:
           en: |-
               Binary `.rpm` package.
@@ -417,16 +417,16 @@ ymuse:
               Бинарный `.rpm`-пакет.
           nl: |-
               Gecompileerd `.rpm`-pakket.
-      detailUrl: 'https://github.com/yktoo/ymuse/releases/tag/v0.13'
-      releaseDate: 2020-07-31
+      detailUrl: 'https://github.com/yktoo/ymuse/releases/tag/v0.14'
+      releaseDate: 2020-08-13
       weight: 110
-      downloadUrl: 'https://github.com/yktoo/ymuse/releases/download/v0.13/ymuse_0.13_linux_amd64.rpm'
+      downloadUrl: 'https://github.com/yktoo/ymuse/releases/download/v0.14/ymuse_0.14_linux_amd64.rpm'
       isFeatured: true
 
     - title:
-          en: 'Ymuse **v0.13** source code'
-          ru: 'Исходные коды Ymuse **v0.13**'
-          nl: 'Ymuse **v0.13** broncode'
+          en: 'Ymuse **v0.14** source code'
+          ru: 'Исходные коды Ymuse **v0.14**'
+          nl: 'Ymuse **v0.14** broncode'
       description:
           en: |-
               Source code in `.tar.gz` archive.
@@ -434,8 +434,8 @@ ymuse:
               Исходный код в архиве `.tar.gz`.
           nl: |-
               Source code in `.tar.gz` archive.
-      detailUrl: 'https://github.com/yktoo/ymuse/releases/tag/v0.13'
-      releaseDate: 2020-07-31
+      detailUrl: 'https://github.com/yktoo/ymuse/releases/tag/v0.14'
+      releaseDate: 2020-08-13
       weight: 200
-      downloadUrl: 'https://github.com/yktoo/ymuse/archive/v0.13.tar.gz'
+      downloadUrl: 'https://github.com/yktoo/ymuse/archive/v0.14.tar.gz'
       isFeatured: false
