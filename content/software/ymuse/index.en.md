@@ -10,12 +10,12 @@ software: ymuse
 **Ymuse** is an easy, functional, and snappy GTK front-end (client) for [Music Player Daemon](https://www.musicpd.org/) written in Go.
 
 {{< carousel >}}
-https://res.cloudinary.com/yktoo/image/upload/blog/jskaqgrbxzjyi7ofxetn.png Ymuse Queue tab.
-https://res.cloudinary.com/yktoo/image/upload/blog/zqu4ugqg0bvlh2hvajst.png Ymuse Library tab.
-https://res.cloudinary.com/yktoo/image/upload/blog/hsc3lmkxxqaoo98bdoen.png Ymuse Streams tab.
-https://res.cloudinary.com/yktoo/image/upload/blog/cz9iyrysulxcedc39vk1.png Ymuse Preferences: General
-https://res.cloudinary.com/yktoo/image/upload/blog/suwte24ctnjjwacrpqfp.png Ymuse Preferences: Interface
-https://res.cloudinary.com/yktoo/image/upload/blog/ien1ncgsfdlg0nsfin4t.png Ymuse Preferences: Columns
+https://res.cloudinary.com/yktoo/image/upload/blog/vx7vpdn1lrskop110ts6.png Ymuse Queue tab.
+https://res.cloudinary.com/yktoo/image/upload/blog/tyje15w0q4m48tf1d2wz.png Ymuse Library tab.
+https://res.cloudinary.com/yktoo/image/upload/blog/xpqgooxdhya2ij0hgfka.png Ymuse Streams tab.
+https://res.cloudinary.com/yktoo/image/upload/blog/dshr30b7pq3fecwyagbq.png Ymuse Preferences: General
+https://res.cloudinary.com/yktoo/image/upload/blog/fnvebyslgtspx257vij6.png Ymuse Preferences: Interface
+https://res.cloudinary.com/yktoo/image/upload/blog/mylbgzpyow24o6lgjcx7.png Ymuse Preferences: Columns
 {{< /carousel >}}
 
 ## Ymuse features
