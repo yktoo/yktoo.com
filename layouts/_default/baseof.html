@@ -18,7 +18,7 @@
     {{ partial "stylesheets.html" . }}
 
     <!-- RSS feed -->
-    {{ with .OutputFormats.Get "rss" -}}
+    {{ with .OutputFormats.Get "RSS" -}}
         {{ printf "<link rel=%q type=%q href=%q title=%q/>" .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
     {{ end -}}
 

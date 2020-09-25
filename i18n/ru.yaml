@@ -73,6 +73,7 @@
 - {id: posts_en,          translation: Посты на английском}
 - {id: posts_nl,          translation: Посты на голландском}
 - {id: posts_ru,          translation: Посты на русском}
+- {id: postsAllLangs,     translation: Посты на всех языках}
 - {id: postsCurLang,      translation: Посты на русском}
 - {id: postsOtherLangs,   translation: Посты на других языках}
 - {id: privacyPolicy,     translation: Политика приватности}
