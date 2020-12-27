@@ -30,7 +30,7 @@ You can configure various aspects of ports and devices displayed by the menu usi
 
 On this page you can download the latest binaries and the source code of the application. To download other versions, please check the [Launchpad PPA packages](https://launchpad.net/~yktooo/+archive/ppa/+packages) page.
 
-There are the following three ways to get the indicator [installed](https://github.com/yktoo/indicator-sound-switcher/blob/dev/doc/install.md):
+There are the following ways to get the indicator [installed](https://github.com/yktoo/indicator-sound-switcher/blob/dev/doc/install.md):
 
 ### Installation from the PPA (recommended)
 
@@ -42,6 +42,20 @@ In order to install the application from [my PPA](https://launchpad.net/~yktooo/
 sudo apt-add-repository ppa:yktooo/ppa
 sudo apt-get update
 sudo apt-get install indicator-sound-switcher
+```
+
+### Installation using the snap package
+
+If you use Ubuntu, you can get **Sound Switcher Indicator** installed by downloading it from the Ubuntu Snap Store:
+
+{{< div "embed-responsive mb-3 border rounded" "height: 330px" >}}
+<iframe src="https://snapcraft.io/indicator-sound-switcher/embedded?button=black&summary=true"></iframe>
+{{< /div >}}
+
+For other Linux distributions, if yours provides support for {{< wiki "Snap_(package_manager)" "en" "snaps" >}}, the installation can be done with:
+
+```bash
+sudo snap install indicator-sound-switcher
 ```
 
 ### Installation using a binary package

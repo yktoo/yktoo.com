@@ -30,7 +30,7 @@ seeAlso:
 
 На этой странице вы можете загрузить последние версии бинарного `.deb`-пакета или исходного кода программы. Скачать другие версии можно на странице [Launchpad PPA packages](https://launchpad.net/~yktooo/+archive/ppa/+packages).
 
-[Установить](https://github.com/yktoo/indicator-sound-switcher/blob/dev/doc/install.md) {{< fl "Sound Switcher Indicator" >}} можно одним из трёх способов, описанных ниже.
+[Установить](https://github.com/yktoo/indicator-sound-switcher/blob/dev/doc/install.md) {{< fl "Sound Switcher Indicator" >}} можно одним из способов, описанных ниже.
 
 ### Установка из PPA (рекомендуемый способ)
 
@@ -42,6 +42,20 @@ seeAlso:
 sudo apt-add-repository ppa:yktooo/ppa
 sudo apt-get update
 sudo apt-get install indicator-sound-switcher
+```
+
+### Установка snap-пакета
+
+Если у вас {{< fl "Ubuntu" >}}, то {{< fl "Sound Switcher Indicator" >}} проще всего установить прямо из {{< fl "Ubuntu Snap Store" >}}:
+
+{{< div "embed-responsive mb-3 border rounded" "height: 330px" >}}
+<iframe src="https://snapcraft.io/indicator-sound-switcher/embedded?button=black&summary=true"></iframe>
+{{< /div >}}
+
+В других дистрибутивах, поддерживающих {{< wiki "Snappy_(система_управления_пакетами)" "ru" "snap-пакеты" >}}, установить приложение можно командой:
+
+```bash
+sudo snap install indicator-sound-switcher
 ```
 
 ### Установка скомпилированного пакета
