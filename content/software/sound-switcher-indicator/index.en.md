@@ -58,9 +58,13 @@ For other Linux distributions, if yours provides support for {{< wiki "Snap_(pac
 sudo snap install indicator-sound-switcher
 ```
 
+{{< spoiler "Note on indicator's autostart" >}}
+Due to restrictions imposed by the snap format, it's not possible to make the app start automatically for all users, like the `deb` package does. You'll have to *start the app manually* for the first time. After that the indicator will start automatically after each login.
+{{< /spoiler >}}
+
 ### Installation using a binary package
 
-If you don't want or can't install from the PPA, you can download and install the `.deb` binary package manually.
+If you don't want or can't install from the PPA or snap, you can download and install the `.deb` binary package manually.
 
 1. Download the latest `.deb` package using the download button below, or go to the [Packages](https://launchpad.net/~yktooo/+archive/ubuntu/ppa/+packages) Launchpad page, choose the right indicator version there (click to expand it) and download a `.deb` from there.
 2. Install the downloaded package using the Software Center or with the command:
