@@ -4,7 +4,7 @@ date: "2011-10-12T00:00:00Z"
 title: "Особое мнение"
 tags:
     - Apple
-    - некрологи
+    - некролог
     - Ричард Столлман
     - Стив Джобс
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/5e9abeijm80y2461.png"

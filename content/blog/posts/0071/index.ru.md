@@ -5,7 +5,7 @@ title: "Покойся с миром, Гэри"
 tags:
     - Гэри Мур
     - музыка
-    - некрологи
+    - некролог
     - Нидерланды
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Gary-Moore-at-Pite-Havsbad.jpg/463px-Gary-Moore-at-Pite-Havsbad.jpg"
 ---
