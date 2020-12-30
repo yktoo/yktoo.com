@@ -36,3 +36,70 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/papa.jpg"
 Нам всем сейчас очень грустно. Хотя мне, в сущности, повезло — ничего *хуже этого* со мной пока что не случалось. Конечно, это всегда неизбежно. А жизнь идёт дальше, уже без тебя.
 
 Прощай, любимый папа, чемпион мира по упрямству. Пусть земля будет тебе пухом.
+
+## P.S.
+
+{{< youtube "-BKHCIVzV38" >}}
+
+{{< div "ml-5" >}}
+Remember days of yesterday<br>
+And how it flew so fast<br>
+The two score and a year we had,<br>
+I thought would always last<br>
+
+The summer days and west coast dreams,<br>
+I wished would never end<br>
+A young boy and his father,<br>
+Idol and best friend<br>
+
+I'll always remember<br>
+Those were the best of times<br>
+A lifetime together<br>
+I'll never forget<br>
+
+Morning shows on the radio<br>
+The case of the missing dog<br>
+Lying on the fields at the only twelve<br>
+Watching Harold and Maude<br>
+
+Record shops, the stick-ball fields<br>
+My home away from home<br>
+When we weren't together<br>
+The hours on the phone<br>
+
+I'll always remember<br>
+Those were the best of times<br>
+I'll cherish them forever<br>
+The best of times<br>
+
+But then came the call<br>
+Our lives changed forever more<br>
+You can pray for a change<br>
+But prepare for the end<br>
+
+The fleeting winds of time<br>
+Flying through each day<br>
+All the things I should have done<br>
+But time just slipped away<br>
+Remember "seize the day"<br>
+Life goes by in the blink of an eye<br>
+There's so much left to say<br>
+
+These were the best of times<br>
+I'll miss these days<br>
+Your spirit led my life each day<br>
+
+Thank you for the inspiration<br>
+Thank you for the smiles<br>
+All the unconditional love<br>
+That carried me for miles<br>
+It carried me for miles<br>
+But most of all thank you for my life<br>
+
+These were the best of times<br>
+I'll miss these days<br>
+Your spirit led my life each day<br>
+My heart is bleeding bad<br>
+But I'll be okay<br>
+Your spirit guides my life each day
+{{< /div >}}
