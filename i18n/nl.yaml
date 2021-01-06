@@ -79,7 +79,7 @@
 - {id: privacyPolicy,     translation: Privacybeleid}
 - {id: radiolaria,        translation: Radiolaria}
 - {id: readInBlog,        translation: In mijn blog lezen »}
-- {id: readingTime,       translation: '{{ .Count }} min te lezen'}
+- {id: readingTime,       translation: {one: 'Een minuut te lezen', other: '{{ .Count }} min te lezen' }}
 - {id: readOn,            translation: Lees verder »}
 - {id: readOnAt,          translation: Verder lezen op}
 - {id: releaseData,       translation: Gegevens}
@@ -92,7 +92,7 @@
 - {id: seriesOther,       translation: Overig}
 - {id: seriesPlural,      translation: Serie's}
 - {id: share,             translation: Delen}
-- {id: shareOn,           translation: 'Op {{ .Count }} delen'}
+- {id: shareOn,           translation: 'Op {{ . }} delen'}
 - {id: showChords,        translation: Met akkoorden}
 - {id: software,          translation: Software}
 - {id: softwareFor,       translation: '{{ .value }}-software'}

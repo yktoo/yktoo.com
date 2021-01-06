@@ -55,8 +55,8 @@
 - {id: moreToRead,        translation: More to Read}
 - {id: mySocialLinks,     translation: My social links}
 - {id: noContentCurLang,  translation: 'No English content available.<br><big>¯\_(ツ)_/¯</big><br>Try selecting another language from the menu above.'}
-- {id: numPages,          translation: {one: '{{ .Count }} page', other: '{{ .Count }} pages'}}
-- {id: numVideos,         translation: {one: '{{ .Count }} video', other: '{{ .Count }} videos'}}
+- {id: numPages,          translation: {one: 'One page', other: '{{ .Count }} pages'}}
+- {id: numVideos,         translation: {one: 'One video', other: '{{ .Count }} videos'}}
 - {id: otherPostsSeries,  translation: Other posts of this series}
 - {id: pageSource,        translation: Page source code}
 - {id: paginatorNext,     translation: Next page}
@@ -79,7 +79,7 @@
 - {id: privacyPolicy,     translation: Privacy policy}
 - {id: radiolaria,        translation: Radiolaria}
 - {id: readInBlog,        translation: Read in my blog »}
-- {id: readingTime,       translation: '{{ .Count }} min read'}
+- {id: readingTime,       translation: {one: 'A minute read', other: '{{ .Count }} min read'}}
 - {id: readOn,            translation: Read on »}
 - {id: readOnAt,          translation: Continue reading on}
 - {id: releaseData,       translation: Release data}
@@ -92,7 +92,7 @@
 - {id: seriesOther,       translation: Other series}
 - {id: seriesPlural,      translation: Series}
 - {id: share,             translation: Share}
-- {id: shareOn,           translation: 'Share on {{ .Count }}'}
+- {id: shareOn,           translation: 'Share on {{ . }}'}
 - {id: showChords,        translation: Show chords}
 - {id: software,          translation: Software}
 - {id: softwareFor,       translation: '{{ .value }} software'}
