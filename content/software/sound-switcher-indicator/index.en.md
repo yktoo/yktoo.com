@@ -12,9 +12,7 @@ seeAlso:
       url: 'https://launchpad.net/~yktooo/+archive/ppa'
 ---
 
-I created this app because there was just no sound switcher indicator available.
-
-It shows an icon in the indicator area or the system tray (whatever is available in your desktop environment). Icon's menu allows you to switch the current sound input and output (i.e. *source* and *sink* in PulseAudio's terms, respectively) ports with just two clicks:
+This app shows an icon in the indicator area or the system tray (whatever is available in your desktop environment). Icon's menu allows you to switch the current sound input and output (i.e. *source* and *sink* in PulseAudio's terms, respectively) ports with just two clicks:
 
 {{< imgfig "screenshot.png" "Indicator's menu." >}}
 
@@ -32,7 +30,7 @@ On this page you can download the latest binaries and the source code of the app
 
 There are the following ways to get the indicator [installed](https://github.com/yktoo/indicator-sound-switcher/blob/dev/doc/install.md):
 
-### Installation from the PPA (recommended)
+### PPA (recommended)
 
 If you're on Ubuntu or one of its derivatives, it's always advisable to use the standard package distribution mechanism (Private Package Archive, PPA). This way you'll automatically get updated indicator versions in the future.
 
@@ -44,7 +42,7 @@ sudo apt-get update
 sudo apt-get install indicator-sound-switcher
 ```
 
-### Installation using the snap package
+### Snap package
 
 If you use Ubuntu, you can get **Sound Switcher Indicator** installed by downloading it from the Ubuntu Snap Store:
 
@@ -58,13 +56,15 @@ For other Linux distributions, if yours provides support for {{< wiki "Snap_(pac
 sudo snap install indicator-sound-switcher
 ```
 
-{{< spoiler "Note on indicator's autostart" >}}
+{{< spoiler "Note on the indicator's autostart" >}}
 Due to restrictions imposed by the snap format, it's not possible to make the app start automatically for all users, like the `deb` package does. You'll have to *start the app manually* for the first time. After that the indicator will start automatically after each login.
 {{< /spoiler >}}
 
-### Installation using a binary package
+### Binary package
 
-If you don't want or can't install from the PPA or snap, you can download and install the `.deb` binary package manually.
+#### Debian, Ubuntu, Mint etc.
+
+You can download and install the `.deb` binary package manually.
 
 1. Download the latest `.deb` package using the download button below, or go to the [Packages](https://launchpad.net/~yktooo/+archive/ubuntu/ppa/+packages) Launchpad page, choose the right indicator version there (click to expand it) and download a `.deb` from there.
 2. Install the downloaded package using the Software Center or with the command:
@@ -72,7 +72,19 @@ If you don't want or can't install from the PPA or snap, you can download and in
 sudo dpkg -i /path/to/downloaded/indicator-sound-switcher_*_all.deb
 ```
 
-### Installation from the source tarball
+#### Arch Linux
+
+If you have a [pacman wrapper](https://wiki.archlinux.org/index.php/AUR_helpers#Pacman_wrappers) installed, you can use that to install the `indicator-sound-switcher` package.
+
+For instance, if you are using [yay](https://github.com/Jguer/yay), simply run:
+
+```bash
+yay -S indicator-sound-switcher
+```
+
+In case you're not using a helper, refer to [this article](https://wiki.archlinux.org/index.php/Arch_User_Repository#Installing_and_upgrading_packages) on how to manually build and install the package. You can download the `PKGBUILD` script from the [Arch User Repository](https://aur.archlinux.org/packages/indicator-sound-switcher) (see links under "Package Actions").
+
+### Source tarball
 
 In order to install the application from the source tarball:
 
