@@ -12,9 +12,7 @@ seeAlso:
       url: 'https://launchpad.net/~yktooo/+archive/ppa'
 ---
 
-Я создал это приложение, потому что не нашёл ни одного существующего решения.
-
-Оно отображает значок в области индикаторов или системном трее (зависит от того, каким десктопом вы пользуетесь). Меню индикатора позволяет переключать текущие порты входного и выходного звукового устройства (в терминах {{< fl "PulseAudio" >}} — {{< fl "source" >}} и {{< fl "sink" >}}, соответственно) в два клика:
+Это приложение отображает значок в области индикаторов или системном трее (зависит от того, каким десктопом вы пользуетесь). Меню индикатора позволяет переключать текущие порты входного и выходного звукового устройства (в терминах {{< fl "PulseAudio" >}} — {{< fl "source" >}} и {{< fl "sink" >}}, соответственно) в два клика:
 
 {{< imgfig "screenshot.png" "Меню индикатора" >}}
 
@@ -84,7 +82,7 @@ sudo dpkg -i /путь/к/скачанному/indicator-sound-switcher_*_all.de
 yay -S indicator-sound-switcher
 ```
 
-Если вы не используете хелпер, в [этой статье](https://wiki.archlinux.org/index.php/Arch_User_Repository#Installing_and_upgrading_packages) описывается, как самому собрать и установить пакет из исходников. Скачать соответствующий `PKGBUILD`-скрипт можно из [Arch User Repository](https://aur.archlinux.org/packages/indicator-sound-switcher) (см. ссылки в разделе "Package Actions").
+Если вы не используете хелпер, в [этой статье](https://wiki.archlinux.org/index.php/Arch_User_Repository#Installing_and_upgrading_packages) *(англ.)* описывается, как самому собрать и установить пакет из исходников. Скачать соответствующий `PKGBUILD`-скрипт можно из [Arch User Repository](https://aur.archlinux.org/packages/indicator-sound-switcher) (см. ссылки в разделе "Package Actions").
 
 ### Исходный код
 
