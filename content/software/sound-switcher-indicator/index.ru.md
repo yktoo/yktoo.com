@@ -90,7 +90,11 @@ yay -S indicator-sound-switcher
 
 Чтобы установить приложение из исходного кода (так называемого {{< fl "source tarball" >}}):
 
-1. Загрузите последнюю версию (`indicator-sound-switcher-*.tar.gz`), кликнув по кнопке загрузки ниже, либо перейдите в раздел [Packages](https://launchpad.net/~yktooo/+archive/ubuntu/ppa/+packages) на {{< fl "Launchpad" >}}, выберите нужную версию индикатора (кликните по ней, чтобы развернуть список файлов) и скачайте `.tar.gz` оттуда.
-2. Распакуйте архив с исходным кодом: `tar xf indicator-sound-switcher-*.tar.gz`
-3. Перейдите (`cd`) в каталог `indicator-sound-switcher-*`
-4. Выполните команду `sudo python3 setup.py install`
+1. Удостоверьтесь, что установлены требуемые пакеты (если `gir1.2-ayatanaappindicator3-0.1` отсутствует в вашем дистрибутиве, его можно заменить на `gir1.2-appindicator3-0.1`):
+```bash
+sudo apt install python3-gi gir1.2-gtk-3.0 gir1.2-ayatanaappindicator3-0.1 gir1.2-keybinder-3.0
+```
+2. Загрузите последнюю версию (`indicator-sound-switcher-*.tar.gz`), кликнув по кнопке загрузки ниже, либо перейдите в раздел [Packages](https://launchpad.net/~yktooo/+archive/ubuntu/ppa/+packages) на {{< fl "Launchpad" >}}, выберите нужную версию индикатора (кликните по ней, чтобы развернуть список файлов) и скачайте `.tar.gz` оттуда.
+3. Распакуйте архив с исходным кодом: `tar xf indicator-sound-switcher-*.tar.gz`
+4. Перейдите (`cd`) в каталог `indicator-sound-switcher-*`
+5. Выполните команду `sudo python3 setup.py install`

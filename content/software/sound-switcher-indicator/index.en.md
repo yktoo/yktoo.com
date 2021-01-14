@@ -88,7 +88,11 @@ In case you're not using a helper, refer to [this article](https://wiki.archlinu
 
 In order to install the application from the source tarball:
 
-1. Download the latest tarball (`indicator-sound-switcher-*.tar.gz`) using the download button below, or go to the [Packages](https://launchpad.net/~yktooo/+archive/ubuntu/ppa/+packages) Launchpad page, choose the right indicator version there (click to expand it) and download a `.tar.gz` from there.
-2. Decompress the archive: `tar xf indicator-sound-switcher-*.tar.gz`
-3. `cd` to the `indicator-sound-switcher-*` dir
-4. Run `sudo python3 setup.py install`
+1. Make sure the required dependencies are installed (you can replace `gir1.2-ayatanaappindicator3-0.1` with `gir1.2-appindicator3-0.1` if the former isn't available in your distro):
+```bash
+sudo apt install python3-gi gir1.2-gtk-3.0 gir1.2-ayatanaappindicator3-0.1 gir1.2-keybinder-3.0
+```
+2. Download the latest tarball (`indicator-sound-switcher-*.tar.gz`) using the download button below, or go to the [Packages](https://launchpad.net/~yktooo/+archive/ubuntu/ppa/+packages) Launchpad page, choose the right indicator version there (click to expand it) and download a `.tar.gz` from there.
+3. Decompress the archive: `tar xf indicator-sound-switcher-*.tar.gz`
+4. `cd` to the `indicator-sound-switcher-*` dir
+5. Run `sudo python3 setup.py install`
