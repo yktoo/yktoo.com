@@ -44,3 +44,9 @@ Yktoo — это мой ник, отсюда и возник домен <u>yktoo
 
 {{< button "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ru" "<i class='fab fa-creative-commons'></i><i class='fab fa-creative-commons-by'></i><i class='fab fa-creative-commons-nc'></i><i class='fab fa-creative-commons-sa bycon'></i>Лицензия CC-BY-NC-SA 4.0" >}}
 {{< button "https://github.com/yktoo/yktoo.com" "<i class='fab fa-github bycon'></i>Код на GitHub" >}}
+
+## Финпомощь
+
+Если у вас вдруг возникло непреодолимое желание поддержать меня и/или разработку свободного {{< abbr "ПО" "программного обеспечения" >}}, вы можете пожертвовать любую сумму с помощью {{< fl "PayPal" >}}.
+
+{{< button "https://paypal.me/yktoo" "<i class='fab fa-paypal bycon'></i>Пожертвовать пару центов" >}}

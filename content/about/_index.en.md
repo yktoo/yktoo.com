@@ -42,3 +42,9 @@ The site's source code is available [on GitHub](https://github.com/yktoo/yktoo.c
 
 {{< button "https://creativecommons.org/licenses/by-nc-sa/4.0/" "<i class='fab fa-creative-commons'></i><i class='fab fa-creative-commons-by'></i><i class='fab fa-creative-commons-nc'></i><i class='fab fa-creative-commons-sa bycon'></i>Licensed under CC-BY-NC-SA 4.0" >}}
 {{< button "https://github.com/yktoo/yktoo.com" "<i class='fab fa-github bycon'></i>View on GitHub" >}}
+
+## Donate
+
+Should you feel an irresistible urge to support me and/or free software, feel free to do so via PayPal.
+
+{{< button "https://paypal.me/yktoo" "<i class='fab fa-paypal bycon'></i>Donate a few cents" >}}

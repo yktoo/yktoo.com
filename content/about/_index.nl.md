@@ -42,3 +42,9 @@ De broncode van deze website is beschikbaar [op GitHub](https://github.com/yktoo
 
 {{< button "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.nl" "<i class='fab fa-creative-commons'></i><i class='fab fa-creative-commons-by'></i><i class='fab fa-creative-commons-nc'></i><i class='fab fa-creative-commons-sa bycon'></i>CC-BY-NC-SA 4.0 licentie" >}}
 {{< button "https://github.com/yktoo/yktoo.com" "<i class='fab fa-github bycon'></i>Code op GitHub" >}}
+
+## Geld schenken
+
+Mocht je een onweerstaanbare drang voelen om mij en/of vrije software te steunen, je kunt dat doen via PayPal.
+
+{{< button "https://paypal.me/yktoo" "<i class='fab fa-paypal bycon'></i>Een paar centjes schenken" >}}
