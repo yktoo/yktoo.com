@@ -14,7 +14,7 @@ series: music
 
 Suddenly I got a whim to start a [section about music](/series/music), which could inform the dear reader about music pearls I discovered. I'd love to subscribe to something like that myself so that I could learn about new (or even forgotten old) talents. There are lots of them out there, but quite often they're not widely known.
 
-The choice of exhibits for **Musicellaneous** will be at my sole discretion, based on factors like how my left little toe feels, weather on Io and Donald Trump's statements.
+The choice of exhibits for **Musicellaneous** will be at my sole discretion, based on factors like how my left little toe feels, the weather on Io and Donald Trump's statements.
 
 And the first card in our card index will be the American progressive/djent band [Arch Echo](https://www.archecho.com/).
 
@@ -55,4 +55,7 @@ Their second album reveals a clear professional growth. Also the band's sound ha
 |---|---|---|
 |{{< albumimg "krjvfuufyyv86x8iy48g" "Arch Echo" >}}                           |2017|Arch Echo|
 |{{< albumimg "wysttbxecrqswh1jpraf" "You Won't Believe What Happens Next!" >}}|2019|You Won't Believe What Happens Next!|
+|{{< albumimg "bjforveradndumbvauya" "Story I" >}}                             |2020|Story I|
 {{< /table >}}
+
+**Update:** added *Story I*.

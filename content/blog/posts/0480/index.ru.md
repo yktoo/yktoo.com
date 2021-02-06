@@ -55,4 +55,7 @@ series: music
 |---|---|---|
 |{{< albumimg "krjvfuufyyv86x8iy48g" "Arch Echo" >}}                           |2017|Arch Echo|
 |{{< albumimg "wysttbxecrqswh1jpraf" "You Won't Believe What Happens Next!" >}}|2019|You Won't Believe What Happens Next!|
+|{{< albumimg "bjforveradndumbvauya" "Story I" >}}                             |2020|Story I|
 {{< /table >}}
+
+**Апдейт:** добавлен *Story I*.
