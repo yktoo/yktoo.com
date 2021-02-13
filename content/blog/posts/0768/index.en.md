@@ -17,7 +17,7 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/pt0eb4adpukkb2jiv7ic.jpg"
 ---
 
-A surprisingly heavy snowfall have covered Holland with a pack of snow. Contrary to the [tradition](0268), the snow didn't immediately disappear but stayed for a few days running.
+A surprisingly heavy snowfall has covered Holland with a pack of snow. Contrary to the [tradition](0268), the snow didn't immediately disappear but stayed for a few days running.
 
 There's no {{< fl "wintersport" >}} this year because of the pandemic. But nothing is impossible for a creative mind!
 
