@@ -60,4 +60,4 @@ The magazine notes that specialty coffee shops around the world have essentially
 Lidköping is a simple destination, all things considered, but a wonderful one. It’s one of the lovely towns in Europe where there’s plenty to enjoy whether you visit in the warmer or cooler months. And it’s a place where you can easily just unplug and take in your surroundings.
 
 ---
-*This is a contributed post by Ethan Fletcher.*
+*This is a contributed post by Ethan Fletcher written exclusively for **yktoo.com**.*
