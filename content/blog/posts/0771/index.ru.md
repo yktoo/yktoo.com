@@ -12,7 +12,7 @@ imageCredit: "Изображение: Prawny/Pixabay."
 
 Помните ещё [такую](https://meduza.io/news/2020/01/11/v-kitae-umer-pervyy-chelovek-zarazivshiysya-ranee-neizvestnym-virusom) новость?
 
-**11** января {{< yearp 2020 "прошлого" >}} года:
+Ровно 14 месяцев назад, **11** января {{< yearp 2020 "прошлого" >}} года:
 
 > **В Китае умер первый человек, заразившийся ранее неизвестным вирусом**
 >
