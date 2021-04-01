@@ -57,6 +57,7 @@
 - {id: noContentCurLang,  translation: 'Содержимое на русском недоступно.<br><big>¯\_(ツ)_/¯</big><br>Попробуйте выбрать другой язык в верхнем меню.'}
 - {id: numPages,          translation: {one: '{{ .Count }} страница', few: '{{ .Count }} страницы', many: '{{ .Count }} страниц'}}
 - {id: numVideos,         translation: {one: '{{ .Count }} видео', few: '{{ .Count }} видео', many: '{{ .Count }} видео'}}
+- {id: once-to,           translation: once.to}
 - {id: otherPostsSeries,  translation: Остальные посты из этой серии}
 - {id: pageSource,        translation: Исходный код страницы}
 - {id: paginatorNext,     translation: Следующая страница}

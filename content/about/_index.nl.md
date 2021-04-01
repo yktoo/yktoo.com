@@ -34,6 +34,8 @@ Hieronder kun je wat statistiek zien:
 
 {{< button "https://afk.best/en/" "afk.best" >}} — Woordenboek Nederlandse afkortingen
 
+{{< button "https://once.to/once" "once.to" >}} — De snelste link shortener ter wereld
+
 ## Voorwaarden
 
 Door deze website te gebruiken gaat u akkoord met het [Privacybeleid (Engels)](en;/about/privacy) en de [Algemene voorwaarden (Engels)](en;/about/tos).

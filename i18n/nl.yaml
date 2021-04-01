@@ -57,6 +57,7 @@
 - {id: noContentCurLang,  translation: 'Geen Nederlandstalige inhoud beschikbaar.<br><big>¯\_(ツ)_/¯</big><br>Probeer een andere taal te kiezen bovenaan deze pagina.'}
 - {id: numPages,          translation: {one: '{{ .Count }} pagina', other: '{{ .Count }} pagina''s'}}
 - {id: numVideos,         translation: {one: '{{ .Count }} video', other: '{{ .Count }} video''s'}}
+- {id: once-to,           translation: once.to}
 - {id: otherPostsSeries,  translation: Andere posts van deze serie}
 - {id: pageSource,        translation: Pagina's broncode}
 - {id: paginatorNext,     translation: Volgende pagina}
