@@ -5,6 +5,8 @@ title: "Бездарные мошенники"
 tags:
     - Нидерланды
     - мошенники
+    - кибербезопасность
+    - жульё
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/cw6jw5dtzlik2835.jpg"
 imageCredit: "Фото: vipul uthaiah."
 ---
