@@ -12,7 +12,6 @@ tags:
     - Hugo
     - Yktoo Solutions
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/rrmu6l4rldpb68kdfapr.jpg"
-draft: true
 ---
 
 Сегодня моему отцу, **Константину Борисовичу Канну**, исполнилось бы **85** лет — он [внезапно покинул](0764) нас, не дожив четырёх месяцев до круглой даты.
@@ -23,9 +22,11 @@ draft: true
 
 <!--more-->
 
+## Сайт electrodynamics.info
+
 Новый, а точнее обновлённый, сайт расположен по адресу [electrodynamics.info](https://electrodynamics.info) и представляет собой модернизированную и исправленную версию прежнего, созданного в **2009–2011** гг. (<u>electrodynamics.narod.ru</u>).
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/o2vrgqyvxpxnro9lblfx.png" "Сайт electrodynamics.info." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/wxdwm7zaromgrj0wlm4e.png" "Сайт electrodynamics.info." >}}
 
 В отличие от прежней версии, сайт адаптирован для мобильных устройств и небольших экранов.
 
