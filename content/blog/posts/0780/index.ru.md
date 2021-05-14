@@ -24,3 +24,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/pe3sfkxfaoohvdgwhxmu.
 Или вот, загадочный {{< fl "braek" >}} (= {{< fl "break" >}}, перерыв):
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pe3sfkxfaoohvdgwhxmu.jpg" "Braek time!" >}}
+
+Это не опечатка, а сознательное выбранное — довольно смелое, учитывая созвучность слова {{< fl "crêpe" >}} (*фр.* блинчик) со словом {{< fl "crap" >}} — название для ресторана:
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cfzlclzmnhnko6cowumd.jpg" "Creptastic." >}}

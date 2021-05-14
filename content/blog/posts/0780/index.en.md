@@ -24,3 +24,7 @@ Which is obviously meant to be "goggles" but nonetheless funny. There's also an 
 Another funny typo: *braek time*:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/pe3sfkxfaoohvdgwhxmu.jpg" "Braek time!" >}}
+
+This is no typo, but I personally doubt "creptastic" is a good name for a restaurant:
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cfzlclzmnhnko6cowumd.jpg" "Creptastic." >}}
