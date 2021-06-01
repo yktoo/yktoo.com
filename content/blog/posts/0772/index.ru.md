@@ -11,6 +11,7 @@ tags:
     - Yktoo Solutions
     - софт
     - сокращатель ссылок
+    - сокращатель URL
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/hsrz3lvxzubnlp4yjzbf.png"
 series: once.to
 ---
