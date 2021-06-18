@@ -343,9 +343,9 @@ process-explorer:
 
 sound-switcher-indicator:
     - title:
-          en: 'Sound Switcher Indicator **2.3.5.2** Debian package'
-          ru: 'Debian-пакет Sound Switcher Indicator **2.3.5.2**'
-          nl: 'Sound Switcher Indicator **2.3.5.2** Debian package'
+          en: 'Sound Switcher Indicator **2.3.6** Debian package'
+          ru: 'Debian-пакет Sound Switcher Indicator **2.3.6**'
+          nl: 'Sound Switcher Indicator **2.3.6** Debian package'
       description:
           en: |-
               A simple sound input/output switcher indicator application for Linux.
@@ -360,15 +360,15 @@ sound-switcher-indicator:
 
               Gecompileerd `.deb`-pakket.
       detailUrl: 'https://github.com/yktoo/indicator-sound-switcher/blob/master/debian/changelog'
-      releaseDate: 2020-12-27
+      releaseDate: 2021-06-18
       weight: 100
-      downloadUrl: 'https://launchpad.net/~yktooo/+archive/ubuntu/ppa/+files/indicator-sound-switcher_2.3.5.2-1_all.deb'
+      downloadUrl: 'https://launchpad.net/~yktooo/+archive/ubuntu/ppa/+files/indicator-sound-switcher_2.3.6-1_all.deb'
       isFeatured: true
 
     - title:
-          en: 'Sound Switcher Indicator **2.3.5.2** source code'
-          ru: 'Исходные коды Sound Switcher Indicator **2.3.5.2**'
-          nl: 'Sound Switcher Indicator **2.3.5.2** broncode'
+          en: 'Sound Switcher Indicator **2.3.6** source code'
+          ru: 'Исходные коды Sound Switcher Indicator **2.3.6**'
+          nl: 'Sound Switcher Indicator **2.3.6** broncode'
       description:
           en: |-
               A simple sound input/output switcher indicator application for Linux.
@@ -383,9 +383,9 @@ sound-switcher-indicator:
 
               Broncode in `.tar.gz` archive.
       detailUrl: 'https://github.com/yktoo/indicator-sound-switcher/blob/master/debian/changelog'
-      releaseDate: 2020-12-27
+      releaseDate: 2021-06-18
       weight: 101
-      downloadUrl: 'https://github.com/yktoo/indicator-sound-switcher/archive/v2.3.5.2.tar.gz'
+      downloadUrl: 'https://github.com/yktoo/indicator-sound-switcher/archive/v2.3.6.tar.gz'
       isFeatured: false
 
 ymuse:
