@@ -290,7 +290,7 @@ menu:
 
         # Videos
         - identifier: once-to
-          url: 'https://once.to/once'
+          url: 'https://once.to/once-yktoo'
           pre: '<b>'
           post: '</b>'
           parent: software

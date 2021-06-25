@@ -36,7 +36,7 @@ Yktoo — это мой ник, отсюда и возник домен <u>yktoo
 
 {{< button "https://afk.best/ru/" "afk.best" >}} — Словарь сокращений нидерландского языка
 
-{{< button "https://once.to/once" "once.to" >}} — Самые быстрые короткие ссылки в мире
+{{< button "https://once.to/once-yktoo" "once.to" >}} — Самые быстрые короткие ссылки в мире
 
 ## Условия использования
 
