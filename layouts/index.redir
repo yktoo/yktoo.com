@@ -1,3 +1,10 @@
+# Default redirects for languages/countries
+/   /ru/    302 Language=ru,uk,be
+/   /ru/    302 Country=ru,ua,by
+/   /nl/    302 Language=nl
+/   /nl/    302 Country=nl,be
+/   /en/    301
+
 # Redirects for blog post pages
 {{- range $site := .Site.Home.AllTranslations }}
 {{- range $page := where $site.Site.RegularPages "Type" "post" }}
