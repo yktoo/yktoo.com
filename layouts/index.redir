@@ -1,3 +1,6 @@
+# Default language redirect
+/ /en/
+
 # Redirects for blog post pages
 {{- range $site := .Site.Home.AllTranslations }}
 {{- range $page := where $site.Site.RegularPages "Type" "post" }}
