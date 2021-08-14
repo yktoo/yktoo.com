@@ -5,7 +5,7 @@ title: "Языковой экзамен KVT"
 tags:
     - Нидерланды
     - голландский язык
-    - экзамены
+    - экзамен
     - inburgering
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/bql9cxqh0ui30247.jpg"
 ---
