@@ -47,6 +47,7 @@ De broncode van deze website is beschikbaar [op GitHub](https://github.com/yktoo
 
 ## Geld schenken
 
-Mocht je een onweerstaanbare drang voelen om mij en/of vrije software te steunen, je kunt dat doen via PayPal.
+Mocht je een onweerstaanbare drang voelen om mij en/of vrije software te steunen, je kunt dat doen [via PayPal](https://paypal.me/yktoo) of door een patron te worden op [Patreon](https://www.patreon.com/yktoo).
 
-{{< button "https://paypal.me/yktoo" "<i class='fab fa-paypal bycon'></i>Een paar centjes schenken" >}}
+{{< button "https://paypal.me/yktoo" "<i class='fab fa-paypal bycon'></i>Paypal" >}}
+{{< button "https://www.patreon.com/yktoo" "<i class='fab fa-patreon bycon'></i>Patreon" >}}
