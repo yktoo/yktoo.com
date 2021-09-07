@@ -10,7 +10,7 @@ tags:
     - новости
     - рекорд
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/aejkf3rhnatgm9gennw9.jpg"
-imageCredit: "Фото: Martin Koitmäe/Wikimedia/CC-BY-SA-4.0."
+imageCredit: "Фото: Martin Koitmäe/Wikimedia/CC-BY-SA 4.0."
 ---
 
 **2019**-й подходит к концу, и сейчас можно уже заключить, что с точки зрения погоды он оказался [уникальным](https://nos.nl/artikel/2316293-hitterecords-lichtende-nachtwolken-en-tornado-s-2019-was-uniek-weerjaar.html).

@@ -13,7 +13,7 @@ tags:
     - NS
     - ProRail
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/t9rrkemslp7xbutut18b.jpg"
-imageCredit: "Фото: Nik Morris/Flickr/CC-BY-NC-SA-2.0."
+imageCredit: "Фото: Nik Morris/Flickr/CC-BY-NC-SA 2.0."
 ---
 
 Курение на всех железнодорожных станциях в Нидерландах [будет](https://nos.nl/artikel/2320938-roken-en-verkoop-van-tabak-op-treinstations-in-de-ban.html) полностью запрещено.
@@ -30,7 +30,7 @@ imageCredit: "Фото: Nik Morris/Flickr/CC-BY-NC-SA-2.0."
 
 {{< fl "ProRail" >}} хочет, чтобы запрет вступил в силу уже с **1** октября {{< year 2020 "этого" >}} года. До настоящего момента курение на станциях позволялось лишь в специальных выделенных зонах ({{< fl "rookzone" >}}), которые существуют с **2004** года.
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/t9rrkemslp7xbutut18b.jpg" "Зона для курения. Фото: Nik Morris/Flickr/CC-BY-NC-SA-2.0." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/t9rrkemslp7xbutut18b.jpg" "Зона для курения. Фото: Nik Morris/Flickr/CC-BY-NC-SA 2.0." >}}
 
 ## Прекращение продажи сигарет
 

@@ -11,7 +11,7 @@ tags:
     - André Rieu
     - рекорд
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/q4lzz2tuepscpke5knjw.jpg"
-imageCredit: "Фото: G.Lanting/Wikimedia/CC-BY-SA-4.0."
+imageCredit: "Фото: G.Lanting/Wikimedia/CC-BY-SA 4.0."
 ---
 
 За один день до Брекзита гимн Евросоюза — «Ода к радости» Бетховена в исполнении нидерландского {{< fl "Johann Strauss Orchestra" >}} под управлением дирижёра {{< fl "André Rieu" >}} — бьёт все остальные хиты в британских хит-парадах.

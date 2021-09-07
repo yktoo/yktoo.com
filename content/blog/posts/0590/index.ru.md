@@ -9,7 +9,7 @@ tags:
     - новости
     - законодательство
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/npv4kex7wgxa65odqyms.jpg"
-imageCredit: "Фото: Donald Trung Quoc Don/Wikimedia/CC-BY-SA-4.0."
+imageCredit: "Фото: Donald Trung Quoc Don/Wikimedia/CC-BY-SA 4.0."
 ---
 
 В **2013** году в Нидерландах появился новый вариант вида на жительство ({{< fl "verblijfsvergunning" >}}) — мера, которую правительство ввело вслед за другими странами в надежде привлечь *качественные* инвестиции.

@@ -11,7 +11,7 @@ tags:
     - новости
     - правительство
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/duay9iflkwr6hbt2cg5a.jpg"
-imageCredit: "Фото: Monkeyboy1993/Wikimedia/CC-BY-SA-3.0."
+imageCredit: "Фото: Monkeyboy1993/Wikimedia/CC-BY-SA 3.0."
 ---
 
 **16** марта {{< year 2020 "этого" >}} года в **6:00** утра [вступит](https://nos.nl/artikel/2325415-kosten-verlaging-maximumsnelheid-twee-keer-zo-hoog-als-gedacht.html) в силу запланированное [в ноябре](0463) снижение максимальной скорости на нидерландских дорогах.

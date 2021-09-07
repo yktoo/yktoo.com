@@ -12,7 +12,7 @@ tags:
     - MH17
     - D66
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/xv8wzfjmpjvqevo93q5w.jpg"
-imageCredit: "Фото: Levien Willemse/Wikimedia/CC-BY-SA-4.0."
+imageCredit: "Фото: Levien Willemse/Wikimedia/CC-BY-SA 4.0."
 ---
 
 Парламентская делегация нидерландской Палаты представителей ({{< fl "Tweede Kamer" >}}) отменила своё посещение России, [пишет NOS](https://nos.nl/artikel/2320644-kamerdelegatie-niet-naar-rusland-vanwege-weigering-sjoerdsma.html).
@@ -27,7 +27,7 @@ imageCredit: "Фото: Levien Willemse/Wikimedia/CC-BY-SA-4.0."
 
 ## Шурд Шурдсма
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xv8wzfjmpjvqevo93q5w.jpg" "Шурд Шурдсма (Sjoerd Sjoerdsma). Фото: Levien Willemse/Wikimedia/CC-BY-SA-4.0." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/xv8wzfjmpjvqevo93q5w.jpg" "Шурд Шурдсма (Sjoerd Sjoerdsma). Фото: Levien Willemse/Wikimedia/CC-BY-SA 4.0." >}}
 
 Сам Шурдсма разочарован произошедшим и небезосновательно полагает, что это является следствием его острой критики в адрес Москвы:
 

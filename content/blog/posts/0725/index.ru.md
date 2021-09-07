@@ -28,7 +28,7 @@ imageCredit: "Фото: Pxhere/CC0."
 
 Ранее пожары — а точнее, поджоги — происходили в Роттердаме, Беесде ({{< fl "Beesd" >}}) и Деурне ({{< fl "Deurne" >}}).
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/j1pg8hv1zw2lemnmuvnn.jpg" "Нюнен. Фото: Wouter Hagens/Wikimedia/CC-BY-SA-3.0." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/j1pg8hv1zw2lemnmuvnn.jpg" "Нюнен. Фото: Wouter Hagens/Wikimedia/CC-BY-SA 3.0." >}}
 
 На то, что это именно поджоги, указывает то, что во всех случаях пламя возникало снаружи в самом низу вышки.
 

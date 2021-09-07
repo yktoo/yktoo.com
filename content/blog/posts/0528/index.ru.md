@@ -9,7 +9,7 @@ tags:
     - законодательство
     - statiegeld
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/h8hxyttpgqxqwo0roqcu.jpg"
-imageCredit: "Фото: Tomra Systems/Wikimedia/CC-BY-SA-3.0."
+imageCredit: "Фото: Tomra Systems/Wikimedia/CC-BY-SA 3.0."
 glossary: statiegeld
 ---
 
@@ -44,7 +44,7 @@ glossary: statiegeld
 
 Каждый магазин, продающий продукты в такой таре, обязан принимать её обратно. Практически все супермаркеты используют для приёма пустых бутылок и ящиков специальные автоматы:
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/h8hxyttpgqxqwo0roqcu.jpg" "Автоматы для приёма бутылок, неисправных ламп и масла для фритюра в супермаркете Jumbo. Фото: Tomra Systems/Wikimedia/CC-BY-SA-3.0." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/h8hxyttpgqxqwo0roqcu.jpg" "Автоматы для приёма бутылок, неисправных ламп и масла для фритюра в супермаркете Jumbo. Фото: Tomra Systems/Wikimedia/CC-BY-SA 3.0." >}}
 
 Автоматы сканируют каждую бутылку, проверяя либо её форму, либо штрих-код, и отвергают «незнакомые» бутылки.
 

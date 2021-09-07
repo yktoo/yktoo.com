@@ -6,7 +6,7 @@ tags:
     - Нидерланды
     - ABN Amro
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/xhykmwt9xuiutarvnoag.jpg"
-imageCredit: "Фото: Donald Trung/Wikimedia/CC-BY-SA-4.0."
+imageCredit: "Фото: Donald Trung/Wikimedia/CC-BY-SA 4.0."
 ---
 
 Крупный нидерландский банк {{< fl "ABN Amro" >}} [содержит](https://nos.nl/artikel/2322641-abn-amro-heeft-nu-meer-dan-2000-fraudespeurders-in-dienst.html) в штате свыше двух тысяч специалистов по противодействию финансовым преступлениям, таким как онлайн-мошенничество, отмывание денег и другим.

@@ -8,7 +8,7 @@ tags:
     - Евровидение
     - Ahoy
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/v76dn1j80qcwzkwzyhbx.jpg"
-imageCredit: "Фото: Rotterdam Ahoy/Wikimedia/CC-BY-SA-4.0."
+imageCredit: "Фото: Rotterdam Ahoy/Wikimedia/CC-BY-SA 4.0."
 ---
 
 Билеты на фестиваль **Евровидение-2020**, который [пройдёт](0365) в {{< fl "Ahoy Rotterdam" >}} с **11** по **16** мая, [будут](https://eurovision.tv/tickets) зарегистрированы на конкретного зрителя, а на входе у посетителей будут *выборочно* требовать предъявить удостоверение личности.
@@ -23,7 +23,7 @@ imageCredit: "Фото: Rotterdam Ahoy/Wikimedia/CC-BY-SA-4.0."
 
 Возможность перепродажи в случае, если посетить шоу не получается, останется. Для этого можно будет воспользоваться официальным партнёром фестиваля {{< fl "Ticketswap" >}}. Насколько я понимаю, новый покупатель сможет перерегистрировать билет на себя, при этом цена перепродажи будет контролироваться.
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/v76dn1j80qcwzkwzyhbx.jpg" "Концертный зал Rotterday Ahoy. Фото: Rotterdam Ahoy/Wikimedia/CC-BY-SA-4.0." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/v76dn1j80qcwzkwzyhbx.jpg" "Концертный зал Rotterday Ahoy. Фото: Rotterdam Ahoy/Wikimedia/CC-BY-SA 4.0." >}}
 
 ## Программа Евровидения
 

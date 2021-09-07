@@ -11,7 +11,7 @@ tags:
     - Схипхол
     - Preventieakkord
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/izzec29dtcuikdz5q6wz.jpg"
-imageCredit: "Фото: Marina Noordegraaf/Flickr/CC-BY-NC-SA-2.0."
+imageCredit: "Фото: Marina Noordegraaf/Flickr/CC-BY-NC-SA 2.0."
 ---
 
 Со вчерашнего дня, **1** апреля, [вступили](https://nos.nl/artikel/2329025-roken-opnieuw-duurder-rookverbod-horeca-nog-onzichtbaar-door-sluiting.html) в действие новые акцизы на табачные изделия в Нидерландах.
@@ -26,7 +26,7 @@ imageCredit: "Фото: Marina Noordegraaf/Flickr/CC-BY-NC-SA-2.0."
 
 **1** января {{< year 2020 "этого" >}} года цена на сигареты уже была поднята на **14** центов. Следующее подорожание случится **1** января {{< yearn 2021 "следующего" >}} года и составит **€ 0,12**.
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/izzec29dtcuikdz5q6wz.jpg" "Фото: Marina Noordegraaf/Flickr/CC-BY-NC-SA-2.0." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/izzec29dtcuikdz5q6wz.jpg" "Фото: Marina Noordegraaf/Flickr/CC-BY-NC-SA 2.0." >}}
 
 ## Запрет на курение
 
@@ -38,7 +38,7 @@ imageCredit: "Фото: Marina Noordegraaf/Flickr/CC-BY-NC-SA-2.0."
 
 С октября курение на всех перронах будет полностью запрещено, а зоны для курения — там, где они ещё есть — убраны.
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/t9rrkemslp7xbutut18b.jpg" "Зона для курения. Фото: Nik Morris/Flickr/CC-BY-NC-SA-2.0." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/t9rrkemslp7xbutut18b.jpg" "Зона для курения. Фото: Nik Morris/Flickr/CC-BY-NC-SA 2.0." >}}
 
 ## Будущие меры
 

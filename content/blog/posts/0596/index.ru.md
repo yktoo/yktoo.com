@@ -11,7 +11,7 @@ tags:
     - KPN
     - T-Mobile
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/dnivqard6wfxn8xulq3q.jpg"
-imageCredit: "Фото: Kārlis Dambrāns/Flickr/CC-BY-2.0."
+imageCredit: "Фото: Kārlis Dambrāns/Flickr/CC-BY 2.0."
 ---
 
 Начиная с сегодняшнего дня мобильный оператор {{< fl "Vodafone" >}} [будет](https://www.vodafoneziggo.nl/nieuws/vodafone-schakelt-3g-uit-op-4-februari-2020/) отключать базовые станции стандарта {{< fl "3G" >}}. Делается это для того, чтобы высвободить ёмкость для более быстрой и актуальной сети {{< fl "4G" >}}.

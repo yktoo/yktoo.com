@@ -9,7 +9,7 @@ tags:
     - деньги
     - ABN Amro
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/nd3w4wxq5drvxfygclnf.jpg"
-imageCredit: "Фото: Donald Trung Quoc Don/Wikimedia/CC-BY-SA-4.0."
+imageCredit: "Фото: Donald Trung Quoc Don/Wikimedia/CC-BY-SA 4.0."
 ---
 
 С апреля {{< year 2020 "этого" >}} года процент по депозитам (сберегательным вкладам) в одном из крупнейших нидерландских банков {{< fl "ABN Amro" >}} [станет](https://nos.nl/artikel/2318504-vanaf-april-0-procent-spaarrente-bij-abn-amro.html) нулевым.

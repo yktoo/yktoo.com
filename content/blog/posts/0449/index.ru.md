@@ -11,7 +11,7 @@ tags:
     - Sinterklaas
     - Zwarte Piet
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/cxuvwijwbp0swrx5ede7.jpg"
-imageCredit: "Фото: Constablequackers/Wikimedia/CC-BY-SA-3.0."
+imageCredit: "Фото: Constablequackers/Wikimedia/CC-BY-SA 3.0."
 ---
 
 Последнее время в Нидерландах ежегодно в преддверии [Праздника Синтерклааса](0440#sinterklaasfeest) в обществе нарастает бурление, по-голландски толерантно называемое {{< wiki "zwartepietendebat" "nl" >}} («дебат о Чёрных Питах»).
@@ -32,7 +32,7 @@ imageCredit: "Фото: Constablequackers/Wikimedia/CC-BY-SA-3.0."
 
 В шестидесятых годах прошлого века стала высказываться идея, что, мол, хватит изображать Черного Пита ограниченным дуралеем — любимое голландское выражение: {{< fl "doe 's normaal" >}}, «веди себя нормально» — но в то время идея избавиться от Чёрного Пита была чересчур радикальной.
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ast353u4kd470806.jpg" "Синтерклаас и Чёрный Пит. Фото: Tenorio81/Wikimedia/CC-BY-3.0." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ast353u4kd470806.jpg" "Синтерклаас и Чёрный Пит. Фото: Tenorio81/Wikimedia/CC-BY 3.0." >}}
 
 Первые явные протесты против «расистского наследия» зазвучали в **1980**-х годах в среде выходцев из Суринама, прежней нидерландской колонии, хотя даже в конце **XX** века подавляющее большинство голландцев ([96%](https://web.archive.org/web/20131011025639/http://igitur-archive.library.uu.nl/student-theses/2011-0124-200251/UUindex.html)) почитали Чёрного Пита традицией, не несущей никакой дискриминационной составляющей.
 
@@ -40,7 +40,7 @@ imageCredit: "Фото: Constablequackers/Wikimedia/CC-BY-SA-3.0."
 
 ~~Shitstorm~~ «Дебат о Чёрных Питах» в его современном понимании разгорелся лишь в **2011** году с появлением проекта [Zwarte Piet Is Racisme](https://www.dutchnews.nl/features/2011/11/anti-zwarte_piet_activists_arr/) («Чёрный Пит — это расизм»), участников которого вскоре арестовали. К дискусии подключились другие ~~SJW~~ активисты, [ООН](https://www.volkskrant.nl/nieuws-achtergrond/verenigde-naties-vrijwilliger-shepherd-sprak-niet-namens-vn-over-zwarte-piet~b8b13d08/?referer=https%3A%2F%2Fnl.wikipedia.org%2F) и даже иностранный агент Джордж Сорос, [предоставивший](https://www.nrc.nl/nieuws/2019/02/15/de-strijd-van-george-soros-tegen-illiberale-neigingen-in-nederland-a3654287) финансирование {{< fl "Open Society Foundations" >}}, поддерживающей, среди прочего, анти-чернопитовцев.
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cxuvwijwbp0swrx5ede7.jpg" "Протест противников Чёрного Пита в Амстердаме (2013 год). Фото: Constablequackers/Wikimedia/CC-BY-SA-3.0." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/cxuvwijwbp0swrx5ede7.jpg" "Протест противников Чёрного Пита в Амстердаме (2013 год). Фото: Constablequackers/Wikimedia/CC-BY-SA 3.0." >}}
 
 Исследования общественного мнения демонстрируют, что сторонники и противники Чёрных Питов смотрят на ситуацию с совершенно разных колоколен, утверждая, что оппонент не понимает сути проблемы. Пока что маятник общественного мнения всё ещё сильно склоняется в пользу традиционного: по статистике за 2017 год ([PDF](https://www.nieuwsszw.nl/download/487366/rapportagepietenpeiling20174.pdf)), **88%** голландцев не считают Чёрного Пита дискриминирующей фигурой и **82%** не видят необходимости что-либо менять.
 
@@ -62,7 +62,7 @@ imageCredit: "Фото: Constablequackers/Wikimedia/CC-BY-SA-3.0."
 
 Например, {{< wiki "roetpiet" "nl" >}}, «Чумазый Пит»:
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ldjymtyyvo71go8qst8h.jpg" "Roetpiet, он же Чумазый Пит. Фото: Tim de Haan/Wikimedia/CC-BY-4.0." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ldjymtyyvo71go8qst8h.jpg" "Roetpiet, он же Чумазый Пит. Фото: Tim de Haan/Wikimedia/CC-BY 4.0." >}}
 
 Его легенда состоит в том, что он вымазался, пролезая по дымоходу — ведь официально подарки в дом попадают именно так.
 

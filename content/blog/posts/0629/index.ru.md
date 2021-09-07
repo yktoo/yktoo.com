@@ -25,7 +25,7 @@ imageCredit: "Фото: Windpark Krammer."
 
 Наиболее уязвимым видом птиц здесь является хищный {{< wiki "орлан-белохвост" >}}, но система распознаёт и другие их виды, такие как колпицы, журавли и белые цапли.
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/utcxmcnitmnjvneayljr.jpg" "Орлан-белохвост. Фото: Yathin S Krishnappa/Wikimedia/CC-BY-SA-3.0." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/utcxmcnitmnjvneayljr.jpg" "Орлан-белохвост. Фото: Yathin S Krishnappa/Wikimedia/CC-BY-SA 3.0." >}}
 
 Эколог {{< fl "Roland-Jan Buijs" >}}, участвовавший при проектировании парка, рассказывает:
 

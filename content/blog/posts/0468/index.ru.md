@@ -9,7 +9,7 @@ tags:
     - тазер
     - правительство
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/qousyqeggudlzhs2gkmo.jpg"
-imageCredit: "Фото: Gerald Davison/Flickr/CC-BY-NC-2.0."
+imageCredit: "Фото: Gerald Davison/Flickr/CC-BY-NC 2.0."
 ---
 
 {{< fl "De Telegraaf" >}} [сообщает](https://www.telegraaf.nl/nieuws/803120254/agenten-krijgen-stroomstootwapen-zo-werkt-een-taser), что нидерландской полиции будет в ближайшем будущем разрешено применять «тазеры» — электрошоковое оружие, поражающее нарушителя на расстоянии в **5-10** м.
@@ -18,7 +18,7 @@ imageCredit: "Фото: Gerald Davison/Flickr/CC-BY-NC-2.0."
 
 <!--more-->
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/qousyqeggudlzhs2gkmo.jpg" "Демонстрация применения тазера полицией Северного Уэльса. Фото: Gerald Davison/Flickr/CC-BY-NC-2.0." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/qousyqeggudlzhs2gkmo.jpg" "Демонстрация применения тазера полицией Северного Уэльса. Фото: Gerald Davison/Flickr/CC-BY-NC 2.0." >}}
 
 Полицейские Роттердама, Зволле и Амерсфорта ранее провели испытания этого оружия и заключили, что риск для здоровья задержанного при их применении приемлем. Пока что остаётся открытым вопрос, допустимо ли использование электрошока против пациентов с нарушениями психики. 
 

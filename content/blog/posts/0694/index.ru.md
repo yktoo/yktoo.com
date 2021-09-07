@@ -10,7 +10,7 @@ tags:
     - деньги
     - банки
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/fbbbrnsnnpqip89jgvd4.jpg"
-imageCredit: "Фото: ING/Flickr/CC-BY-SA-2.0."
+imageCredit: "Фото: ING/Flickr/CC-BY-SA 2.0."
 ---
 
 Нидерландские банки и платёжные операторы [увеличили](https://www.telegraaf.nl/financieel/1811204715/limiet-voor-contactloos-betalen-zonder-pincode-omhoog) максимальную сумму бесконтактного платежа, при которой не требуется ввод пин-кода, с **€ 25** до **€ 50**.
@@ -21,7 +21,7 @@ imageCredit: "Фото: ING/Flickr/CC-BY-SA-2.0."
 
 В связи с эпидемией коронавируса бесконтактные платежи в настоящее время являются рекомендуемым способом оплаты товаров и услуг.
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fbbbrnsnnpqip89jgvd4.jpg" "Бесконтактная оплата картой. Фото: ING/Flickr/CC-BY-SA-2.0." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fbbbrnsnnpqip89jgvd4.jpg" "Бесконтактная оплата картой. Фото: ING/Flickr/CC-BY-SA 2.0." >}}
 
 
 На прошлой неделе также [была](https://www.telegraaf.nl/financieel/721280708/minder-vaak-pincode-intoetsen-bij-contactloze-betaling) повышена общая сумма бесконтактных расчётов, после достижения которой требуется обязательный ввод пин-кода — с **€ 50** до **€ 100**.

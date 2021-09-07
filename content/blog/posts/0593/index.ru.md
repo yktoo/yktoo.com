@@ -14,7 +14,7 @@ tags:
     - политика
     - FvD
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/oziupbbs9jbojg1maj0c.jpg"
-imageCredit: "Фото: Roel Wijnants/Flickr/CC-BY-NC-2.0."
+imageCredit: "Фото: Roel Wijnants/Flickr/CC-BY-NC 2.0."
 ---
 
 У нас тут очередной скандал. {{< wiki "Боде,_Тьерри" "ru" "Тьерри Боде" >}} ({{< fl "Thierry Baudet" >}}), ультраправый политик, возглавляющий партию «Форум за демократию» ({{< fl "Forum voor Democratie" >}}) и известный своей критикой Евросоюза и миграции, основательно сел в калошу.

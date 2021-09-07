@@ -11,7 +11,7 @@ tags:
     - транспорт
     - ПДД
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/fil9q9d25kaoxdugc43c.jpg"
-imageCredit: "Фото: Javier Carcamo/Flickr/CC-BY-NC-SA-2.0."
+imageCredit: "Фото: Javier Carcamo/Flickr/CC-BY-NC-SA 2.0."
 ---
 
 Нидерландское министерство юстиции и безопасности [опубликовало](https://www.rijksoverheid.nl/ministeries/ministerie-van-justitie-en-veiligheid/nieuws/2020/02/11/circa-84-miljoen-geconstateerde-verkeersovertredingen-in-2019) отчёт о соблюдении правил дорожного движения ([Wahv](https://www.rijksoverheid.nl/ministeries/ministerie-van-justitie-en-veiligheid/documenten/rapporten/2020/02/11/overtredingen-2019-wet-administratiefrechtelijke-handhaving-verkeersvoorschriften-wahv-ofwel-wet-mulder)) в {{< yearp 2019 "прошлом" >}} году.

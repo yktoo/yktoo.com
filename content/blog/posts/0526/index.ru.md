@@ -8,7 +8,7 @@ tags:
     - вооружения
     - НАТО
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/nwv0vlpbbqdemg3ch0ir.jpg"
-imageCredit: "Фото: Wikimedia/CC-BY-4.0."
+imageCredit: "Фото: Wikimedia/CC-BY 4.0."
 ---
 
 Любопытно почитать, о чём пишет нидерландская пресса в свете недавних новостей о якобы поставленной на боевое дежурство «невероятно быстрой [ракете Авангард](https://nos.nl/artikel/2316430-rusland-neemt-raket-in-gebruik-die-afweersystemen-nutteloos-maakt.html)».

@@ -16,7 +16,7 @@ tags:
 places:
     - place0020
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/iwd5rjirncbkgo5iii3h.jpg"
-imageCredit: "Фото: Maurice/Flickr/CC-BY-NC-SA-2.0."
+imageCredit: "Фото: Maurice/Flickr/CC-BY-NC-SA 2.0."
 ---
 
 Организатор национального «новогоднего ныряния» {{< fl "Nieuwjaarsduik" >}} компания {{< fl "Unox" >}} [сообщает](https://www.nieuwjaarsduik.info/) о **50 000** принявших участие в этом весёлом мероприятии ({{< fl "De Telegraaf" >}} [указывает](https://www.telegraaf.nl/nieuws/984649991/60-000-mensen-deden-mee-met-de-nieuwjaarsduik) цифру в **60 000**).

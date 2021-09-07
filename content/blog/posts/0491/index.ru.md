@@ -13,7 +13,7 @@ tags:
     - видео
     - праздники
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/hkqbop3jaw20iazuvaiv.jpg"
-imageCredit: "Фото: Politie Nederland/Wikimedia/CC-BY-SA-4.0."
+imageCredit: "Фото: Politie Nederland/Wikimedia/CC-BY-SA 4.0."
 ---
 
 Уже несколько дней продолжается [противостояние](https://nos.nl/artikel/2312920-dertien-aanhoudingen-om-onrust-in-haagse-wijk-duindorp.html) мятежников из Дяундорпа ({{< fl "Duindorp" >}}), прибрежного района Гааги, с полицией.

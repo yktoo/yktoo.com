@@ -13,7 +13,7 @@ tags:
     - розничная торговля
     - супермаркеты
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/aebxgsv52jeg7j4ra6gz.jpg"
-imageCredit: "Фото: J187B/Wikimedia/CC-BY-SA-4.0."
+imageCredit: "Фото: J187B/Wikimedia/CC-BY-SA 4.0."
 ---
 
 Оптовые супермаркеты, такие как {{< fl "Makro" >}} и {{< fl "Sligro" >}}, временно откроют свои двери для всех покупателей, [сообщает](https://www.cbl.nl/zelfbedieningsgroothandel-open-voor-consument/) {{< fl "Centraal Bureau Levensmiddelenhandel" >}} ({{< fl "CBL" >}}), организация, представляющая интересы супермаркетов и продуктовых сетей в Нидерландах.
