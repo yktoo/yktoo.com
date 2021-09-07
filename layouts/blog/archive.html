@@ -4,10 +4,18 @@
 
 {{ define "main" }}
 <div class="row">
-    <!-- Post list -->
     {{- $page := . -}}
     <div class="col-md-9">
-        <table class="blog-post-list"><tbody>
+        <!-- Search field -->
+        <form>
+            <div class="form-group">
+                <input type="search" class="form-control" id="filter" autofocus
+                       placeholder="{{ T `filter` }}" aria-label="{{ T `filter` }}">
+            </div>
+        </form>
+
+        <!-- Post list -->
+        <table class="blog-post-list" id="posts-table"><tbody>
         {{- $year := 0 -}}
         {{- $list :=  where .Site.RegularPages "Type" "post" -}}
         {{- $count := len $list -}}
@@ -20,7 +28,7 @@
         {{- end -}}
 
         <!-- Output a post row -->
-        <tr>
+        <tr class="post-row">
             <td class="number">{{ sub $count $idx }}.</td>
             <td class="date">{{ partial "date" (dict "date" .Date "long" false) }}</td>
             <td>{{ .Render "lang-link" }}</td>
@@ -41,5 +49,45 @@
         </div>
     </div>
 </div>
+{{ end }}
 
+{{ define "extra-scripts" }}
+<script>
+    $(document).ready(function () {
+
+        var timer;
+        var searchBox = $('#filter');
+
+        /**
+         * Remove search timer, if any.
+         */
+        function clearTimer() {
+            if (timer !== undefined) {
+                clearTimeout(timer);
+                timer = undefined;
+            }
+        }
+
+        /**
+         * Perform search.
+         */
+        function doSearch() {
+            var s = searchBox.val().toLowerCase();
+            $('#posts-table tr').each(function () {
+                var row = $(this);
+                row.toggleClass('d-none', s !== '' && !row.text().toLowerCase().includes(s));
+            });
+        }
+
+        // Add a search pattern change listener
+        searchBox.on('keyup change paste', function () {
+            clearTimer();
+            timer = setTimeout(doSearch, 250);
+        });
+
+        // On pressing Enter or clearing the input, trigger search immediately
+        searchBox.on('search', doSearch);
+    });
+
+</script>
 {{ end }}

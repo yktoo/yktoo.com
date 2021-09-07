@@ -30,6 +30,7 @@
 - {id: errorMessageReq,   translation: 'Please enter your message.'}
 - {id: errorNameReq,      translation: 'Please provide your name.'}
 - {id: faq,               translation: FAQ}
+- {id: filter,            translation: Filter}
 - {id: fromAlbum,         translation: From the album}
 - {id: fullDocsAvail,     translation: Full project documentation is available}
 - {id: githubIssueTrk,    translation: GitHub Issue Tracker}

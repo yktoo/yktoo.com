@@ -30,6 +30,7 @@
 - {id: errorMessageReq,   translation: 'Je bericht mag niet leeg zijn.'}
 - {id: errorNameReq,      translation: 'Je naam mag niet leeg zijn.'}
 - {id: faq,               translation: FAQ}
+- {id: filter,            translation: Filter}
 - {id: fromAlbum,         translation: Uit het album}
 - {id: fullDocsAvail,     translation: De volledige projectdocumentatie is beschikbaar}
 - {id: githubIssueTrk,    translation: GitHub Issue Tracker}

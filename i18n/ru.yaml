@@ -30,6 +30,7 @@
 - {id: errorMessageReq,   translation: 'Пожалуйста, введите текст сообщения.'}
 - {id: errorNameReq,      translation: 'Ваше имя должно быть заполнено.'}
 - {id: faq,               translation: FAQ}
+- {id: filter,            translation: Фильтр}
 - {id: fromAlbum,         translation: Из альбома}
 - {id: fullDocsAvail,     translation: Полная документация проекта доступна}
 - {id: githubIssueTrk,    translation: GitHub Issue Tracker}
