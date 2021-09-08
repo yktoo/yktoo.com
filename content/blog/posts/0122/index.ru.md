@@ -9,6 +9,8 @@ tags:
     - Unity
     - yktools
     - обои
+    - инструкция
+    - полезные советы
 software: yktools
 ---
 

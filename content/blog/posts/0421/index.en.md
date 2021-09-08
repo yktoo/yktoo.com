@@ -5,6 +5,7 @@ title: "Save trees, use Xournal"
 tags:
     - Ubuntu
     - Linux
+    - how-to
     - tips & tricks
     - software
     - PDF

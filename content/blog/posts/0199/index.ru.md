@@ -9,6 +9,7 @@ tags:
     - Ubuntu
     - графика
     - инструкция
+    - полезные советы
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/9frext482b6h0287.jpg"
 ---
 

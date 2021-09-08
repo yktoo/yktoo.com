@@ -9,6 +9,8 @@ tags:
     - софт
     - Linux
     - Ubuntu
+    - инструкция
+    - полезные советы
 image: "/images/logos/youtube-logo.png"
 ---
 

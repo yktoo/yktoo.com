@@ -8,6 +8,7 @@ tags:
     - optimisation
     - SSD
     - Ubuntu
+    - tips & tricks
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/z6jodg5ukriv0433.png"
 ---
 

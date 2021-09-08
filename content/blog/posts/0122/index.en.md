@@ -9,6 +9,8 @@ tags:
     - Unity
     - wallpaper
     - yktools
+    - how-to
+    - tips & tricks
 software: yktools
 ---
 

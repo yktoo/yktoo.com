@@ -9,6 +9,7 @@ tags:
     - Linux
     - MySQL
     - databases
+    - tips & tricks
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/6ksp2zl5yoy52890.png"
 ---
 

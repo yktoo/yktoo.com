@@ -10,6 +10,8 @@ tags:
     - pictures
     - Ubuntu
     - yktools
+    - how-to
+    - tips & tricks
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/fkv6pf3brey13219.jpg"
 software: yktools
 ---

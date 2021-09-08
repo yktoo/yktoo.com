@@ -6,6 +6,7 @@ tags:
     - Gimp
     - graphics
     - how-to
+    - tips & tricks
     - Linux
     - multiplicity
     - Ubuntu

@@ -11,6 +11,7 @@ tags:
     - Linux
     - software
     - software development
+    - how-to
 image: commento.png
 fulltextUrl: 'https://yktoo.solutions/blog/2019/07/28-self-hosting-commento-with-docker-compose/'
 ---
