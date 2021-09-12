@@ -10,6 +10,7 @@ tags:
     - СМИ
     - транспорт
     - Хаутен
+    - проблемы первого мира
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/kmiiltyoz7zp2777.jpg"
 places:
     - place0245

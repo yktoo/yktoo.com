@@ -10,6 +10,7 @@ tags:
     - news
     - traffic-lights
     - transport
+    - first world problems
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/kmiiltyoz7zp2777.jpg"
 places:
     - place0245

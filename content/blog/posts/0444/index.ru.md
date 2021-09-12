@@ -8,6 +8,7 @@ tags:
     - новости
     - СМИ
     - экология
+    - проблемы первого мира
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/we9sqlrxmftedz9i3tpo.jpg"
 imageCredit: "Кадр из видео nu.nl."
 ---

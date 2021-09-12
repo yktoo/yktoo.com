@@ -14,6 +14,7 @@ tags:
     - железные дороги
     - ProRail
     - NS
+    - проблемы первого мира
 image: "https://res.cloudinary.com/yktoo/image/upload/v1577277755/blog/y0zxeou6bhviqdg5oxhg.jpg"
 imageCredit: "Фото: cu2030.nl."
 ---

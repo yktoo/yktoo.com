@@ -12,6 +12,7 @@ tags:
     - курение
     - NS
     - ProRail
+    - проблемы первого мира
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/t9rrkemslp7xbutut18b.jpg"
 imageCredit: "Фото: Nik Morris/Flickr/CC-BY-NC-SA 2.0."
 ---

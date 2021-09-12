@@ -10,6 +10,7 @@ tags:
     - жильё
     - рекорд
     - CBS
+    - проблемы первого мира
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/kj2wsxnosr6lqvjpoajj.jpg"
 imageCredit: "Фото: millionairemob/Pixabay."
 ---

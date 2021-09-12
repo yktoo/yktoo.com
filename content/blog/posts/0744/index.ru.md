@@ -12,6 +12,7 @@ tags:
     - 5G
     - теории заговора
     - Tweede Kamer
+    - проблемы первого мира
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/l3alytjskim0d0chg8wo.jpg"
 imageCredit: "Фото: [@PaulSmeulders/Twitter](https://twitter.com/PaulSmeulders/status/1255086713443102720)."
 ---

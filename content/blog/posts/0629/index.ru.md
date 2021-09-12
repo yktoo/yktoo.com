@@ -9,6 +9,7 @@ tags:
     - электроэнергия
     - экология
     - интересное
+    - проблемы первого мира
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/rdovg92aqiwmlrytllvn.jpg"
 imageCredit: "Фото: Windpark Krammer."
 ---

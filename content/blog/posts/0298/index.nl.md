@@ -10,6 +10,7 @@ tags:
     - nieuws
     - transport
     - verkeerslichten
+    - eerste wereld probleem
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/kmiiltyoz7zp2777.jpg"
 places:
     - place0245

@@ -8,6 +8,7 @@ tags:
     - мусор
     - Нидерланды
     - экология
+    - проблемы первого мира
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/4xn0jktq1kam2729.jpg"
 ---
 

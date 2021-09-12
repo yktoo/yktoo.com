@@ -9,6 +9,7 @@ tags:
     - солнечная энергетика
     - экология
     - электроэнергия
+    - проблемы первого мира
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/a09sn6imj4ci2718.jpg"
 imageCredit: "Фото: NOS."
 ---

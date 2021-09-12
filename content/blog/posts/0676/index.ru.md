@@ -10,6 +10,7 @@ tags:
     - законодательство
     - новости
     - правительство
+    - проблемы первого мира
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/jqnkmjnx8lweojzlzfg3.png"
 imageCredit: "Изображение: Rijkswaterstaat."
 ---

@@ -10,6 +10,7 @@ tags:
     - новости
     - gedogen
     - кофешопы
+    - проблемы первого мира
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/6855azz0ox7b3364.jpg"
 glossary: gedogen
 ---

@@ -9,6 +9,7 @@ tags:
     - преступность
     - статистика
     - Интернет
+    - проблемы первого мира
 image: "https://res.cloudinary.com/yktoo/image/upload/v1579088740/blog/sodag9bn87zo2f58zy27.jpg"
 imageCredit: "Фото: politie.nl."
 ---

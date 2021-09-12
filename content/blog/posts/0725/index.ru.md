@@ -16,6 +16,7 @@ tags:
     - коронавирус
     - COVID-19
     - маразм
+    - проблемы первого мира
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/eu1wpbllz44evdd7sugh.jpg"
 imageCredit: "Фото: Pxhere/CC0."
 ---

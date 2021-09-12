@@ -10,6 +10,7 @@ tags:
     - дождь
     - законодательство
     - строительство
+    - проблемы первого мира
 image: "https://res.cloudinary.com/yktoo/image/upload/v1583501032/blog/album/seefauyyfpnk4mutgljx.jpg"
 imageCredit: "Фото: Dieter Ludwig Scharnagl/Pixabay."
 ---

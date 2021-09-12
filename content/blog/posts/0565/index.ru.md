@@ -11,6 +11,7 @@ tags:
     - безопасность
     - гаджеты
     - видеонаблюдение
+    - проблемы первого мира
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/ns15dg3l4cm8kjbzfyix.jpg"
 imageCredit: "Фото: Republica/Pixabay."
 ---

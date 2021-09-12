@@ -10,6 +10,7 @@ tags:
     - законодательство
     - новости
     - правительство
+    - проблемы первого мира
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/krorycbdugcycmmtmkdo.jpg"
 imageCredit: "Фото: hbieser/Pixabay."
 ---

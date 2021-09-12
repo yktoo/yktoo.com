@@ -7,6 +7,7 @@ tags:
     - новости
     - преступность
     - тюрьмы
+    - проблемы первого мира
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/f7wb8oj35izz3204.png"
 ---
 

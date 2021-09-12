@@ -11,6 +11,7 @@ tags:
     - электроэнергия
     - Соглашение о климате
     - ЕС
+    - проблемы первого мира
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/t1iqlwbosucsizkzdpsi.jpg"
 imageCredit: "Фото: Ralf Vetterle/Pixabay."
 ---

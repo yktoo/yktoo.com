@@ -9,6 +9,7 @@ tags:
     - электромобили
     - электротранспорт
     - экология
+    - проблемы первого мира
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/txi0gnazoqe4bgvqlmih.jpg"
 imageCredit: "Фото: Benjamin Sprecher/Universiteit Leiden."
 ---

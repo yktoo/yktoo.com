@@ -8,6 +8,7 @@ tags:
     - коронавирус
     - COVID-19
     - забавное
+    - проблемы первого мира
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/cumbu6pchsocreey6sfv.jpg"
 imageCredit: "Фото: @hugodejonge/Twitter."
 ---

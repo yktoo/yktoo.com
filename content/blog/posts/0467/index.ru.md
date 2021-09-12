@@ -9,6 +9,7 @@ tags:
     - новости
     - экология
     - Facebook
+    - проблемы первого мира
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/julxxibuvpibz1jmphyf.jpg"
 ---
 

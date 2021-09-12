@@ -10,6 +10,7 @@ tags:
     - рак
     - загар
     - солнце
+    - проблемы первого мира
 image: "https://res.cloudinary.com/yktoo/image/upload/v1580821218/blog/d4yzdsvixedvumvpkzcv.jpg"
 imageCredit: "Фото: dorianrochowski/Pixabay."
 ---

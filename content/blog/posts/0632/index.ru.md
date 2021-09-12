@@ -9,6 +9,7 @@ tags:
     - забавное
     - и смех и грех
     - похороны
+    - проблемы первого мира
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/keaeh5ajs8p021ytbhpm.jpg"
 imageCredit: "Фото: ©Lobke de Jong."
 ---

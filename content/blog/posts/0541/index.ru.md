@@ -10,6 +10,7 @@ tags:
     - ветроэнергетика
     - электроэнергия
     - экология
+    - проблемы первого мира
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/w6qxzptiyu3k5pudbubq.jpg"
 imageCredit: "Фото: Karsten Würth/Unsplash."
 ---

@@ -8,6 +8,7 @@ tags:
     - Интернет
     - емэйл
     - законодательство
+    - проблемы первого мира
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/bajr6hoveacmde5j9lit.jpg"
 imageCredit: "Фото: Tumisu/Pixabay."
 ---

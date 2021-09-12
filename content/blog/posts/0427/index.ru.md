@@ -8,6 +8,7 @@ tags:
     - политика
     - протесты
     - экология
+    - проблемы первого мира
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/kwsr5gjasamz1608.jpg"
 imageCredit: "Фото: RTV Noord."
 ---

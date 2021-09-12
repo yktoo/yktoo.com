@@ -8,6 +8,7 @@ tags:
     - банки
     - деньги
     - ABN Amro
+    - проблемы первого мира
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/nd3w4wxq5drvxfygclnf.jpg"
 imageCredit: "Фото: Donald Trung Quoc Don/Wikimedia/CC-BY-SA 4.0."
 ---

@@ -8,6 +8,7 @@ tags:
     - Валкенсвард
     - новости
     - забавное
+    - проблемы первого мира
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/vbawne5wuibpgwnw19jh.jpg"
 imageCredit: "Фото: Mylene2401/Pixabay."
 ---

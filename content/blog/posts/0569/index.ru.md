@@ -8,6 +8,7 @@ tags:
     - новости
     - Transparency International
     - статистика
+    - проблемы первого мира
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/vpl2euveo8d9tmdb7ar5.png"
 imageCredit: "Изображение: Transparency International."
 ---

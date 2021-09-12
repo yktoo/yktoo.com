@@ -10,6 +10,7 @@ tags:
     - пылесосы
     - электроэнергия
     - экология
+    - проблемы первого мира
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/7bisucacgis71349.jpg"
 imageCredit: "Фото: Viktor Hanacek/picjumbo"
 ---

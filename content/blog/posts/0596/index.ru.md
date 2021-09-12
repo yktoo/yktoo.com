@@ -10,6 +10,7 @@ tags:
     - Vodafone
     - KPN
     - T-Mobile
+    - проблемы первого мира
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/dnivqard6wfxn8xulq3q.jpg"
 imageCredit: "Фото: Kārlis Dambrāns/Flickr/CC-BY 2.0."
 ---
