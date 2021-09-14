@@ -1,7 +1,7 @@
 ---
 type: post
 date: "2021-02-13T19:05:59+01:00"
-title: "Snowboarding on the bright side"
+title: "Snow in the city"
 tags:
     - Netherlands
     - Houten
