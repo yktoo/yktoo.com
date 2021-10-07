@@ -7,6 +7,7 @@ tags:
     - New Year
     - celebrations
     - upshot
+    - Postoplan
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/xs6onpbyakjpszks82bx.png"
 ---
 

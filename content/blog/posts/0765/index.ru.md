@@ -7,6 +7,7 @@ tags:
     - Новый год
     - праздники
     - итоги
+    - Postoplan
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/xs6onpbyakjpszks82bx.png"
 ---
 
