@@ -8,7 +8,7 @@
 
     <!-- Contact form -->
     <section id="contact-form-container">
-        <form id="contact-form" class="contact-form" method="post" action="{{ .Site.Params.contactAction }}" novalidate>
+        <form id="contact-form" class="contact-form" method="POST" action="{{ .Site.Params.contactAction }}" novalidate>
             <input type="hidden" name="_language" value="{{ .Site.Language.Lang }}" />
             <div class="form-group">
                 <label class="control-label" for="contactform-name">{{ T `yourName` }}</label>
