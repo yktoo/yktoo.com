@@ -10,12 +10,16 @@ software: ymuse
 **Ymuse** is an easy, functional, and snappy GTK front-end (client) for [Music Player Daemon](https://www.musicpd.org/) written in Go.
 
 {{< carousel >}}
-https://res.cloudinary.com/yktoo/image/upload/blog/vx7vpdn1lrskop110ts6.png Ymuse Queue tab.
-https://res.cloudinary.com/yktoo/image/upload/blog/tyje15w0q4m48tf1d2wz.png Ymuse Library tab.
-https://res.cloudinary.com/yktoo/image/upload/blog/xpqgooxdhya2ij0hgfka.png Ymuse Streams tab.
-https://res.cloudinary.com/yktoo/image/upload/blog/dshr30b7pq3fecwyagbq.png Ymuse Preferences: General
-https://res.cloudinary.com/yktoo/image/upload/blog/fnvebyslgtspx257vij6.png Ymuse Preferences: Interface
-https://res.cloudinary.com/yktoo/image/upload/blog/mylbgzpyow24o6lgjcx7.png Ymuse Preferences: Columns
+https://res.cloudinary.com/yktoo/image/upload/blog/e6ecokfftenpwlwswon1.png Ymuse main window (Queue tab).
+https://res.cloudinary.com/yktoo/image/upload/blog/cwcmqjichatv2yklt2fu.png Ymuse main window: light theme.
+https://res.cloudinary.com/yktoo/image/upload/blog/wjiqs1dyzbrvppslficd.png Ymuse main window: dark theme.
+https://res.cloudinary.com/yktoo/image/upload/blog/wqud8spomcmuduvgar9d.png Ymuse Library tab.
+https://res.cloudinary.com/yktoo/image/upload/blog/pnwj9nlucfuobw0vcv0l.png Ymuse Streams tab.
+https://res.cloudinary.com/yktoo/image/upload/blog/tgvhoi8k04gsgod6jvsa.png Ymuse Preferences: General
+https://res.cloudinary.com/yktoo/image/upload/blog/lgnnkthbnj5hk4uu5pwm.png Ymuse Preferences: Interface
+https://res.cloudinary.com/yktoo/image/upload/blog/m4q41rd2klmfrcdft7nx.png Ymuse Preferences: Automation
+https://res.cloudinary.com/yktoo/image/upload/blog/vile5cveex5bd4vefg6e.png Ymuse Preferences: Player
+https://res.cloudinary.com/yktoo/image/upload/blog/vrqyquxgoncgxygly6kk.png Ymuse Preferences: Columns
 {{< /carousel >}}
 
 ## Ymuse features
@@ -31,6 +35,7 @@ https://res.cloudinary.com/yktoo/image/upload/blog/mylbgzpyow24o6lgjcx7.png Ymus
 * Player title setting using Go template syntax.
 * Toggling various MPD modes (*random*, *repeat*, *consume*).
 * Seeking the current track to an arbitrary location.
+* Light and dark desktop theme support.
 * Internationalisation support. Bundled languages:
     * Dutch
     * Japanese
@@ -46,7 +51,7 @@ Here's a short video tour of the application:
 
 If you use Ubuntu, the simplest way to get **Ymuse** installed is downloading it from the Ubuntu Snap Store:
 
-{{< div "embed-responsive mb-3 border rounded" "height: 330px" >}}
+{{< div "embed-responsive mb-3 border rounded shadow" "height: 330px" >}}
 <iframe src="https://snapcraft.io/ymuse/embedded?button=black&summary=true"></iframe>
 {{< /div >}}
 

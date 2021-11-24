@@ -10,12 +10,16 @@ software: ymuse
 **Ymuse** — это простое в использовании, но в то же время богатое функционалом и быстрое приложение-клиент для [Music Player Daemon](https://www.musicpd.org/), написанное на {{< fl "Go" >}} и использующее графическую библиотеку {{< fl "GTK" >}}.
 
 {{< carousel >}}
-https://res.cloudinary.com/yktoo/image/upload/blog/vx7vpdn1lrskop110ts6.png Ymuse: вкладка «Очередь».
-https://res.cloudinary.com/yktoo/image/upload/blog/tyje15w0q4m48tf1d2wz.png Ymuse: вкладка «Библиотека».
-https://res.cloudinary.com/yktoo/image/upload/blog/xpqgooxdhya2ij0hgfka.png Ymuse: вкладка «Потоки».
-https://res.cloudinary.com/yktoo/image/upload/blog/dshr30b7pq3fecwyagbq.png Настройки Ymuse: Общие
-https://res.cloudinary.com/yktoo/image/upload/blog/fnvebyslgtspx257vij6.png Настройки Ymuse: Интерфейс
-https://res.cloudinary.com/yktoo/image/upload/blog/mylbgzpyow24o6lgjcx7.png Настройки Ymuse: Столбцы
+https://res.cloudinary.com/yktoo/image/upload/blog/e6ecokfftenpwlwswon1.png Главное окно Ymuse (вкладка «Очередь»).
+https://res.cloudinary.com/yktoo/image/upload/blog/cwcmqjichatv2yklt2fu.png Главное окно Ymuse: светлая тема.
+https://res.cloudinary.com/yktoo/image/upload/blog/wjiqs1dyzbrvppslficd.png Главное окно Ymuse: тёмная тема.
+https://res.cloudinary.com/yktoo/image/upload/blog/wqud8spomcmuduvgar9d.png Ymuse: вкладка «Библиотека».
+https://res.cloudinary.com/yktoo/image/upload/blog/pnwj9nlucfuobw0vcv0l.png Ymuse: вкладка «Потоки».
+https://res.cloudinary.com/yktoo/image/upload/blog/tgvhoi8k04gsgod6jvsa.png Настройки Ymuse: Общие
+https://res.cloudinary.com/yktoo/image/upload/blog/lgnnkthbnj5hk4uu5pwm.png Настройки Ymuse: Интерфейс
+https://res.cloudinary.com/yktoo/image/upload/blog/m4q41rd2klmfrcdft7nx.png Настройки Ymuse: Автоматизация
+https://res.cloudinary.com/yktoo/image/upload/blog/vile5cveex5bd4vefg6e.png Настройки Ymuse: Плейер
+https://res.cloudinary.com/yktoo/image/upload/blog/vrqyquxgoncgxygly6kk.png Настройки Ymuse: Столбцы
 {{< /carousel >}}
 
 ## Возможности Ymuse
@@ -31,6 +35,7 @@ https://res.cloudinary.com/yktoo/image/upload/blog/mylbgzpyow24o6lgjcx7.png На
 * Настройка отображаемого текста в плеере (используется синтаксис {{< fl "Go template" >}}).
 * Переключение режимов {{< fl "MPD" >}} ({{< fl "random" >}}, {{< fl "repeat" >}} и {{< fl "consume" >}}).
 * Перемотка трека в произвольное место.
+* Поддержка как светлой, так и тёмной тем оформления.
 * Поддержка локализации. Доступные языки:
     * нидерландский
     * русский
@@ -46,7 +51,7 @@ https://res.cloudinary.com/yktoo/image/upload/blog/mylbgzpyow24o6lgjcx7.png На
 
 Если у вас {{< fl "Ubuntu" >}}, то {{< fl "Ymuse" >}} проще всего установить прямо из {{< fl "Ubuntu Snap Store" >}}:
 
-{{< div "embed-responsive mb-3 border rounded" "height: 330px" >}}
+{{< div "embed-responsive mb-3 border rounded shadow" "height: 330px" >}}
 <iframe src="https://snapcraft.io/ymuse/embedded?button=black&summary=true"></iframe>
 {{< /div >}}
 
