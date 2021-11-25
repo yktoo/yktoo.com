@@ -39,6 +39,10 @@ There is also a couple of notable changes under the hood:
 * The code is updated to use Go 1.17 and the latest `gotk3`/`gompd` versions; the minimum supported GTK version is now **3.22**.
 * The project's build pipeline has migrated off Travis CI (because of their annoying policy changes) to [GitHub Actions](https://github.com/yktoo/ymuse/actions). So far so good, the only downside I see is that building a snap package takes up to an hour now.
 
+## Feature tour video
+
+{{< youtube "h0g2gk5DM8s" >}}
+
 ## Installation
 
 Refer to the [application page](/software/ymuse) to learn how to install it.
