@@ -43,7 +43,7 @@ https://res.cloudinary.com/yktoo/image/upload/blog/vrqyquxgoncgxygly6kk.png На
 
 Вот короткое видео, демонстрирующее основные возможности приложения (*англ.*):
 
-{{< youtube "FuO7QWOaS1A" >}}
+{{< youtube "h0g2gk5DM8s" >}}
 
 ## Установка
 

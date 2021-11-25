@@ -43,7 +43,7 @@ https://res.cloudinary.com/yktoo/image/upload/blog/vrqyquxgoncgxygly6kk.png Ymus
     
 Here's a short video tour of the application:
 
-{{< youtube "FuO7QWOaS1A" >}}
+{{< youtube "h0g2gk5DM8s" >}}
 
 ## Installation
 
