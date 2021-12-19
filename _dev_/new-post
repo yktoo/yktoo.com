@@ -23,3 +23,5 @@ id=$(printf "%04d" $id)
 hugo new "blog/posts/$id/index.$lang.md"
 
 popd >/dev/null
+
+echo "File created: $project_dir/content/blog/$id/index.$lang.md"
