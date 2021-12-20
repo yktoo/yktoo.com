@@ -26,10 +26,11 @@ jobs:
 
       - name: Run HTMLProofer
         run:
-          bundle exec htmlproofer public/ 
-            --disable-external 
-            --url-ignore '/^mailto:\?body=/' 
-            --check-favicon 
-            --check-html 
-            --check-img-http 
+          bundle exec htmlproofer public/
+            --disable-external
+            --url-ignore '/^mailto:\?body=/'
+            --allow-hash-href
+            --check-favicon
+            --check-html
+            --check-img-http
             --check-opengraph
