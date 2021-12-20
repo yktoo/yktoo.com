@@ -1,0 +1,35 @@
+name: Build and test workflow
+on:
+  - push
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Install hugo
+        run: |
+          export HUGO_VERSION=0.89.0
+          curl -fSLO "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.deb"
+          sudo dpkg -i "hugo_extended_${HUGO_VERSION}_Linux-64bit.deb"
+
+      - name: Install Ruby and the gems
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.0.3
+          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+
+      - name: Generate website
+        run: hugo --minify
+
+      - name: Run HTMLProofer
+        run:
+          bundle exec htmlproofer public/ 
+            --disable-external 
+            --url-ignore '/^mailto:\?body=/' 
+            --check-favicon 
+            --check-html 
+            --check-img-http 
+            --check-opengraph
