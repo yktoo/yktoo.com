@@ -14,7 +14,7 @@
             <td><a href="{{ .RelPermalink }}">{{ .Title }}</a></td>
             <td class="text-right text-nowrap">{{ with .Params.length }}{{ printf "%d:%.2d" (div . 60) (mod . 60) }}{{ end }}</td>
             <td>{{ with .Params.mediafileurl }}<a type="audio/mpeg" href="{{ . }}"><i class="fa playbtn"></i></a>{{ end }}</td>
-            <td class="text-center text-nowrap">{{ with .Params.mediafileurl }}<a href="{{ . }}"><i class="fas fa-download bycon"></i>{{ T "download" }}</a>{{ end }}</td>
+            <td class="text-center text-nowrap">{{ with .Params.mediafileurl }}<a href="{{ . }}"><i class="fas fa-download mr-1"></i>{{ T "download" }}</a>{{ end }}</td>
         </tr>
         {{ end }}
     </tbody></table>

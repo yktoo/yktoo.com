@@ -26,8 +26,8 @@ Today the code has been made available [on GitHub](https://github.com/yktoo/ykto
 
 The source code and all the accompanying content is distributed under the terms of the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
 
-{{< button "https://creativecommons.org/licenses/by-nc-sa/4.0/" "<i class='fab fa-creative-commons'></i><i class='fab fa-creative-commons-by'></i><i class='fab fa-creative-commons-nc'></i><i class='fab fa-creative-commons-sa bycon'></i>Licensed under CC-BY-NC-SA 4.0" >}}
-{{< button "https://github.com/yktoo/yktoo.com" "<i class='fab fa-github bycon'></i>View on GitHub" >}}
+{{< button "https://creativecommons.org/licenses/by-nc-sa/4.0/" "<i class='fab fa-creative-commons'></i><i class='fab fa-creative-commons-by'></i><i class='fab fa-creative-commons-nc'></i><i class='fab fa-creative-commons-sa mr-1'></i>Licensed under CC-BY-NC-SA 4.0" >}}
+{{< button "https://github.com/yktoo/yktoo.com" "<i class='fab fa-github mr-1'></i>View on GitHub" >}}
 
 So if you're curious how this all comes to existence—grab your chance!
 

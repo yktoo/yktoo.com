@@ -29,4 +29,4 @@ To simplify the learning a little, I've made a list of most common {{< fl "het" 
 
 You can download the document in PDF using the button below.
 
-{{< button "/files/docs/het-woorden.pdf" "<i class='fas fa-download bycon'></i>Download het-noun cheat sheet (PDF)" >}}
+{{< button "/files/docs/het-woorden.pdf" "<i class='fas fa-download mr-1'></i>Download het-noun cheat sheet (PDF)" >}}

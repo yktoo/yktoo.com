@@ -16,16 +16,16 @@
 <section id="radiolaria-track-toolbar">
     <!-- Chords button, if needed -->
     {{ if .Params.hasChords }}
-    <a href id="btnChords" class="btn btn-outline-dark" onclick="toggleChords(event)"><i class="fas fa-music bycon"></i>{{ T "showChords" }}</a>
+    <a href id="btnChords" class="btn btn-outline-dark" onclick="toggleChords(event)"><i class="fas fa-music mr-1"></i>{{ T "showChords" }}</a>
     {{ end }}
 
     {{ with .Params.mediaFileUrl }}
     <!-- Listen button, if there's audio -->
     <audio></audio>
-    <a href="{{ . }}" type="audio/mpeg" class="btn btn-outline-dark"><i class="fa playbtn bycon"></i>{{ T "listen" }}</a>
+    <a href="{{ . }}" type="audio/mpeg" class="btn btn-outline-dark"><i class="fa playbtn mr-1"></i>{{ T "listen" }}</a>
 
     <!-- Download button -->
-    <a href="{{ . }}" class="btn btn-outline-dark"><i class="fas fa-download bycon"></i>{{ T "download" }}</a>
+    <a href="{{ . }}" class="btn btn-outline-dark"><i class="fas fa-download mr-1"></i>{{ T "download" }}</a>
     {{ end }}
 </section>
 

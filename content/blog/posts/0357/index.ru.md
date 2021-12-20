@@ -26,8 +26,8 @@ image: website-logo.png
 
 Исходный код и весь сопутствующий контент распространяется на условиях лицензии [Creative Commons Attribution-NonCommercial-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ru) license.
 
-{{< button "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ru" "<i class='fab fa-creative-commons'></i><i class='fab fa-creative-commons-by'></i><i class='fab fa-creative-commons-nc'></i><i class='fab fa-creative-commons-sa bycon'></i>Лицензия CC-BY-NC-SA 4.0" >}}
-{{< button "https://github.com/yktoo/yktoo.com" "<i class='fab fa-github bycon'></i>Код на GitHub" >}}
+{{< button "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ru" "<i class='fab fa-creative-commons'></i><i class='fab fa-creative-commons-by'></i><i class='fab fa-creative-commons-nc'></i><i class='fab fa-creative-commons-sa mr-1'></i>Лицензия CC-BY-NC-SA 4.0" >}}
+{{< button "https://github.com/yktoo/yktoo.com" "<i class='fab fa-github mr-1'></i>Код на GitHub" >}}
 
 Так что если вам любопытно, как тут всё устроено — ловите шанс!
 

@@ -42,12 +42,12 @@ Door deze website te gebruiken gaat u akkoord met het [Privacybeleid (Engels)](e
 
 De broncode van deze website is beschikbaar [op GitHub](https://github.com/yktoo/yktoo.com). De broncode en alle bijbehorende content worden gedistribueerd onder de voorwaarden van de [Creative Commons Attribution-NonCommercial-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.nl) licentie tenzij anders vermeld.
 
-{{< button "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.nl" "<i class='fab fa-creative-commons'></i><i class='fab fa-creative-commons-by'></i><i class='fab fa-creative-commons-nc'></i><i class='fab fa-creative-commons-sa bycon'></i>CC-BY-NC-SA 4.0 licentie" >}}
-{{< button "https://github.com/yktoo/yktoo.com" "<i class='fab fa-github bycon'></i>Code op GitHub" >}}
+{{< button "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.nl" "<i class='fab fa-creative-commons'></i><i class='fab fa-creative-commons-by'></i><i class='fab fa-creative-commons-nc'></i><i class='fab fa-creative-commons-sa mr-1'></i>CC-BY-NC-SA 4.0 licentie" >}}
+{{< button "https://github.com/yktoo/yktoo.com" "<i class='fab fa-github mr-1'></i>Code op GitHub" >}}
 
 ## Geld schenken
 
 Mocht je een onweerstaanbare drang voelen om mij en/of vrije software te steunen, je kunt dat doen [via PayPal](https://paypal.me/yktoo) of door een patron te worden op [Patreon](https://www.patreon.com/yktoo).
 
-{{< button "https://paypal.me/yktoo" "<i class='fab fa-paypal bycon'></i>Paypal" >}}
-{{< button "https://www.patreon.com/yktoo" "<i class='fab fa-patreon bycon'></i>Patreon" >}}
+{{< button "https://paypal.me/yktoo" "<i class='fab fa-paypal mr-1'></i>Paypal" >}}
+{{< button "https://www.patreon.com/yktoo" "<i class='fab fa-patreon mr-1'></i>Patreon" >}}

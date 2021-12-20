@@ -29,4 +29,4 @@ series: learn-dutch
 
 По кнопке ниже можно загрузить документ в формате {{< fl "PDF" >}}.
 
-{{< button "/files/docs/het-woorden.pdf" "<i class='fas fa-download bycon'></i>Скачать список het-слов (PDF)" >}}
+{{< button "/files/docs/het-woorden.pdf" "<i class='fas fa-download mr-1'></i>Скачать список het-слов (PDF)" >}}
