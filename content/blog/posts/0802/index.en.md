@@ -30,3 +30,22 @@ I know very few people capable of loving their kids as much as you did. You've a
 And when it comes to stubbornness, you were a damn good match for our dad. May it be the case you met him there somewhere, and you're grumbling at him he's screwing up again.
 
 We're missing that so much now. Rest in peace, our beloved mum.
+
+{{< carousel >}}
+https://res.cloudinary.com/yktoo/image/upload/blog/cclo8np1jkcioyd8djsy.jpg
+https://res.cloudinary.com/yktoo/image/upload/blog/ejbhinhfc8awqblkbimp.jpg
+https://res.cloudinary.com/yktoo/image/upload/blog/ep0hhviq83cpmkeuhx1j.jpg
+https://res.cloudinary.com/yktoo/image/upload/blog/gfbfxroknooupjjtlpkg.jpg
+https://res.cloudinary.com/yktoo/image/upload/blog/ib6x2rboiu3crkmkr3cj.jpg
+https://res.cloudinary.com/yktoo/image/upload/blog/j9q25342qbvwajmouziz.jpg
+https://res.cloudinary.com/yktoo/image/upload/blog/mz5xva4ofczm3cb5fdhh.jpg
+https://res.cloudinary.com/yktoo/image/upload/blog/npjndyl8j6bidqcnyseg.jpg
+https://res.cloudinary.com/yktoo/image/upload/blog/owfub1hqu4vmfqwmboap.jpg
+https://res.cloudinary.com/yktoo/image/upload/blog/ta7x5cednueoz9r9igg3.jpg
+https://res.cloudinary.com/yktoo/image/upload/blog/tb0de3lk2vuxjbzmoo4t.jpg
+https://res.cloudinary.com/yktoo/image/upload/blog/vb9hlzvu9d08ua7yvbsf.jpg
+https://res.cloudinary.com/yktoo/image/upload/blog/vczjrcbetkkwixdjw0w5.jpg
+https://res.cloudinary.com/yktoo/image/upload/blog/vgwomecbxa1iskcorfvf.jpg
+https://res.cloudinary.com/yktoo/image/upload/blog/wpiegsjhvujnavxdzdnt.jpg
+https://res.cloudinary.com/yktoo/image/upload/blog/xq7tqogfi9holxqbg1ak.jpg
+{{< /carousel >}}
