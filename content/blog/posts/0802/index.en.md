@@ -33,7 +33,6 @@ We're missing that so much now. Rest in peace, our beloved mum.
 
 {{< carousel >}}
 https://res.cloudinary.com/yktoo/image/upload/blog/cclo8np1jkcioyd8djsy.jpg
-https://res.cloudinary.com/yktoo/image/upload/blog/ejbhinhfc8awqblkbimp.jpg
 https://res.cloudinary.com/yktoo/image/upload/blog/ep0hhviq83cpmkeuhx1j.jpg
 https://res.cloudinary.com/yktoo/image/upload/blog/gfbfxroknooupjjtlpkg.jpg
 https://res.cloudinary.com/yktoo/image/upload/blog/ib6x2rboiu3crkmkr3cj.jpg
