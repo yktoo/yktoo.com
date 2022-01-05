@@ -36,7 +36,6 @@ https://res.cloudinary.com/yktoo/image/upload/blog/cclo8np1jkcioyd8djsy.jpg
 https://res.cloudinary.com/yktoo/image/upload/blog/ep0hhviq83cpmkeuhx1j.jpg
 https://res.cloudinary.com/yktoo/image/upload/blog/gfbfxroknooupjjtlpkg.jpg
 https://res.cloudinary.com/yktoo/image/upload/blog/ib6x2rboiu3crkmkr3cj.jpg
-https://res.cloudinary.com/yktoo/image/upload/blog/j9q25342qbvwajmouziz.jpg
 https://res.cloudinary.com/yktoo/image/upload/blog/mz5xva4ofczm3cb5fdhh.jpg
 https://res.cloudinary.com/yktoo/image/upload/blog/npjndyl8j6bidqcnyseg.jpg
 https://res.cloudinary.com/yktoo/image/upload/blog/owfub1hqu4vmfqwmboap.jpg
