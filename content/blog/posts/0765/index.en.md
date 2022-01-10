@@ -21,7 +21,7 @@ Anyway, there's this tradition and I want to focus on positive things, which in 
 
 ## Lockdown and working from home
 
-In early **2020** I've upgraded my workplace at home. I already had one curved **38"** display, so I bought another (model *LG 38WK95C-W*) and mounted both monitors on the wall. I also replaced my *[old, but not obsolete](https://contentincontext.me/2015/08/04/im-old-not-obsolete/)* [notebook](0571) with a [mini-PC](https://www.aliexpress.com/item/4000347930955.html) carrying a lot of horsepower: a **16**-core *Intel Core i9-9880H* and **64 GB** RAM.
+In early **2020** I've upgraded my workplace at home. I already had one curved **38"** display, so I bought another (model *LG 38WK95C-W*) and mounted both monitors on the wall. I also replaced my *[old, but not obsolete](https://contentincontext.me/2015/08/04/im-old-not-obsolete/)* [notebook](0571) with a [mini-PC](https://yktoo.me/ali-41EK4s) carrying a lot of horsepower: a **16**-core *Intel Core i9-9880H* and **64 GB** RAM.
 
 The PC is almost silent, and so small that I easily hid it behind one of the monitors.
 
