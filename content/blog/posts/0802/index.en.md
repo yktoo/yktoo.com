@@ -11,7 +11,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/fxu7qq7edsn7nm2bkdgm.
 
 It's happened. That what everyone was so scared to bring up but nonetheless inevitable. You. Are. Gone.
 
-There was nearly no joy left in your life in the last year and a half. Not after you lost your beloved [husband](0764) and, unexpectedly, your [oldest son](ru;0800).
+There was nearly no joy left in your life in the last year and a half. Not after you lost your beloved [husband](0764) and, unexpectedly, your [eldest son](ru;0800).
 
 You have never been outside since. Not that you wanted it anyway. You couldn't sleep, you lost weight, and you were suffering from pain in the leg you broke almost two years ago.
 
@@ -19,7 +19,7 @@ You have never been outside since. Not that you wanted it anyway. You couldn't s
 
 You kept reiterating you're tired of that life and wouldn't want to go on; yet, in your inconsistent ways you'd always refuse to go to the hospital claiming you wouldn't survive that.
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fxu7qq7edsn7nm2bkdgm.jpg" "**February 21, 1934** — **January 03, 2022**" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/fxu7qq7edsn7nm2bkdgm.jpg" "**February 21, 1934** — **January 3, 2022**" >}}
 
 We all tried to be helpful but that made a little difference. It's hard to help someone when she's alone in this world and all her loved ones are either far away or gone.
 
