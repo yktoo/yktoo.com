@@ -10,8 +10,8 @@
 - {id: blogSubscribe,     translation: Подписаться}
 - {id: blogSubscribeCTA,  translation: 'Если вам понравился этот пост, не забудьте подписаться на обновления блога.'}
 - {id: blogSubscribeOpts, translation: Варианты подписки}
-- {id: blogSubscribeTo,   translation: Подписаться на обновления}
-- {id: blogSubtitle,      translation: Блог о жизни в Голландии (и многом другом)}
+- {id: blogSubtitle,      translation: Блог о жизни в Голландии}
+- {id: blogSubtitleAbout, translation: и многом другом}
 - {id: blogTitle,         translation: Нидерланды и не только}
 - {id: comments,          translation: Комментарии}
 - {id: contact,           translation: Контакт}

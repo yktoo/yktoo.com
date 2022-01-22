@@ -10,8 +10,8 @@
 - {id: blogSubscribe,     translation: Subscribe}
 - {id: blogSubscribeCTA,  translation: 'Do you like this post? Feel free to subscribe to updates of my blog.'}
 - {id: blogSubscribeOpts, translation: Subscription options}
-- {id: blogSubscribeTo,   translation: Subscribe to updates}
-- {id: blogSubtitle,      translation: Blog about life in Holland (and a lot of other stuff)}
+- {id: blogSubtitle,      translation: Blog about life in Holland}
+- {id: blogSubtitleAbout, translation: and a lot of other stuff}
 - {id: blogTitle,         translation: Netherlands and more}
 - {id: comments,          translation: Comments}
 - {id: contact,           translation: Contact}
@@ -130,3 +130,7 @@
 - {id: withArtists,       translation: With}
 - {id: yourEmail,         translation: Your email}
 - {id: yourName,          translation: Your name}
+
+- {id: nativeReadIn_en,   translation: In English}
+- {id: nativeReadIn_nl,   translation: In het Nederlands}
+- {id: nativeReadIn_ru,   translation: На русском}
