@@ -34,7 +34,7 @@ Here's some statistics:
 
 {{< button "https://afk.best/en/" "afk.best" >}} — Dutch abbreviation dictionary
 
-{{< button "https://once.to/once-yktoo" "once.to" >}} — World's fastest link shortener
+{{< button "https://yktoo.me/once-about" "once.to" >}} — World's fastest link shortener
 
 ## Usage terms
 

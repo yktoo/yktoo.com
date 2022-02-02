@@ -17,7 +17,7 @@ Yesterday's **Friday 13<sup>th</sup>** proved to be a lucky day for me as I beca
 
 For those not familiar with {{< wiki "Kubernetes" >}} (K8s), it's the most popular and advanced platform for cloud deployments. It's been initially developed by Google, and is used in nearly every mature cloud these days.
 
-It also [runs](0772) our [once.to](https://once.to/once-yktoo) URL shortener, by the way.
+It also [runs](0772) our [once.to](https://yktoo.me/8UGVqC) URL shortener, by the way.
 
 **Kubernetes** is an awesome platform: powerful, flexible, and — last but not least — open-source.
 

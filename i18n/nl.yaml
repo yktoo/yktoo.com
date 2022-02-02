@@ -78,7 +78,7 @@
 - {id: postsAllLangs,     translation: Posts in alle talen}
 - {id: postsCurLang,      translation: Posts in het Nederlands}
 - {id: postsOtherLangs,   translation: Posts in andere talen}
-- {id: poweredByOnceTo,   translation: 'Mogelijk gemaakt door [![once.to](/images/logos/onceto-logo-link.svg)](https://once.to/once-yktoo), de slimste en snelste free URL shortener.'}
+- {id: poweredByOnceTo,   translation: 'Mogelijk gemaakt door [![once.to](/images/logos/onceto-logo-link.svg) — de snelste URL shortener in de wereld](https://yktoo.me/once).'}
 - {id: privacyPolicy,     translation: Privacybeleid}
 - {id: radiolaria,        translation: Radiolaria}
 - {id: readInBlog,        translation: In mijn blog lezen »}

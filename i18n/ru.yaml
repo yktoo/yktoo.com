@@ -78,7 +78,7 @@
 - {id: postsAllLangs,     translation: Посты на всех языках}
 - {id: postsCurLang,      translation: Посты на русском}
 - {id: postsOtherLangs,   translation: Посты на других языках}
-- {id: poweredByOnceTo,   translation: 'Сделано с помощью [![once.to](/images/logos/onceto-logo-link.svg)](https://once.to/once-yktoo), самого продвинутого и быстрого сокращателя ссылок.'}
+- {id: poweredByOnceTo,   translation: 'Сделано с помощью [![once.to](/images/logos/onceto-logo-link.svg) — самого быстрого сокращателя ссылок](https://yktoo.me/once).'}
 - {id: privacyPolicy,     translation: Политика приватности}
 - {id: radiolaria,        translation: Радиолярия}
 - {id: readInBlog,        translation: Читать в моём блоге »}

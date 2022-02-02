@@ -287,11 +287,3 @@ menu:
           post: '</b>'
           parent: software
           weight: 10
-
-        # Videos
-        - identifier: once-to
-          url: 'https://once.to/once-yktoo'
-          pre: '<b>'
-          post: '</b>'
-          parent: software
-          weight: 20

@@ -35,7 +35,7 @@ Even our five-year-old daughter is now used to video calls with her teachers, al
 
 ## Professional
 
-Last April the world's fastest URL shortener [once.to](https://once.to/once-yktoo) entered [public beta](0772), and went [fully live](0785) in July. We've developed a zillion features, including those not present elsewhere, such as the [Rule editor](https://docs.once.to/en/blog/0020/) and the [URL Explorer](0797).
+Last April the world's fastest URL shortener [once.to](https://yktoo.me/TSdloX) entered [public beta](0772), and went [fully live](0785) in July. We've developed a zillion features, including those not present elsewhere, such as the [Rule editor](https://docs.once.to/en/blog/0020/) and the [URL Explorer](0797).
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/prtnr42tgnggyvoy5k7n.png" "The URL Explorer of once.to." >}}
 
