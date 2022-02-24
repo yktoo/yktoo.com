@@ -390,9 +390,9 @@ sound-switcher-indicator:
 
 ymuse:
     - title:
-          en: 'Ymuse **v0.18** Debian package'
-          ru: 'Debian-пакет Ymuse **v0.18**'
-          nl: 'Ymuse **v0.18** Debian package'
+          en: 'Ymuse **v0.19** Debian package'
+          ru: 'Debian-пакет Ymuse **v0.19**'
+          nl: 'Ymuse **v0.19** Debian package'
       description:
           en: |-
               Binary `.deb` package.
@@ -400,16 +400,16 @@ ymuse:
               Бинарный `.deb`-пакет.
           nl: |-
               Gecompileerd `.deb`-pakket.
-      detailUrl: 'https://github.com/yktoo/ymuse/releases/tag/v0.18'
-      releaseDate: 2021-11-24
+      detailUrl: 'https://github.com/yktoo/ymuse/releases/tag/v0.19'
+      releaseDate: 2022-02-24
       weight: 100
-      downloadUrl: 'https://github.com/yktoo/ymuse/releases/download/v0.18/ymuse_0.18_linux_amd64.deb'
+      downloadUrl: 'https://github.com/yktoo/ymuse/releases/download/v0.19/ymuse_0.19_linux_amd64.deb'
       isFeatured: true
 
     - title:
-          en: 'Ymuse **v0.18** RPM package'
-          ru: 'RPM-пакет Ymuse **v0.18**'
-          nl: 'Ymuse **v0.18** RPM package'
+          en: 'Ymuse **v0.19** RPM package'
+          ru: 'RPM-пакет Ymuse **v0.19**'
+          nl: 'Ymuse **v0.19** RPM package'
       description:
           en: |-
               Binary `.rpm` package.
@@ -417,16 +417,16 @@ ymuse:
               Бинарный `.rpm`-пакет.
           nl: |-
               Gecompileerd `.rpm`-pakket.
-      detailUrl: 'https://github.com/yktoo/ymuse/releases/tag/v0.18'
-      releaseDate: 2021-11-24
+      detailUrl: 'https://github.com/yktoo/ymuse/releases/tag/v0.19'
+      releaseDate: 2022-02-24
       weight: 110
-      downloadUrl: 'https://github.com/yktoo/ymuse/releases/download/v0.18/ymuse_0.18_linux_amd64.rpm'
+      downloadUrl: 'https://github.com/yktoo/ymuse/releases/download/v0.19/ymuse_0.19_linux_amd64.rpm'
       isFeatured: true
 
     - title:
-          en: 'Ymuse **v0.18** source code'
-          ru: 'Исходные коды Ymuse **v0.18**'
-          nl: 'Ymuse **v0.18** broncode'
+          en: 'Ymuse **v0.19** source code'
+          ru: 'Исходные коды Ymuse **v0.19**'
+          nl: 'Ymuse **v0.19** broncode'
       description:
           en: |-
               Source code in `.tar.gz` archive.
@@ -434,8 +434,8 @@ ymuse:
               Исходный код в архиве `.tar.gz`.
           nl: |-
               Source code in `.tar.gz` archive.
-      detailUrl: 'https://github.com/yktoo/ymuse/releases/tag/v0.18'
-      releaseDate: 2021-11-24
+      detailUrl: 'https://github.com/yktoo/ymuse/releases/tag/v0.19'
+      releaseDate: 2022-02-24
       weight: 200
-      downloadUrl: 'https://github.com/yktoo/ymuse/archive/v0.18.tar.gz'
+      downloadUrl: 'https://github.com/yktoo/ymuse/archive/v0.19.tar.gz'
       isFeatured: false
