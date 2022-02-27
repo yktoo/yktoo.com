@@ -51,7 +51,11 @@ body {
     background-image: url(/images/page-bg.png);
     font-family: 'Arimo', sans-serif;
 }
-
+.ua-bg {
+    background-image: url(https://res.cloudinary.com/yktoo/image/upload/blog/knsuwdtzc44va1hjiw8m.png);
+    background-repeat: no-repeat;
+    background-position: 5% 50%;
+}
 #page {
     padding-bottom: 40px;
     background: #fff;
