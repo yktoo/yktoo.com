@@ -3,12 +3,12 @@ type: post
 date: "2020-03-30T16:55:27+02:00"
 title: "Spring in Houten"
 tags:
-    - Нидерланды
-    - погода
-    - весна
-    - Хаутен
-    - видео
-    - красивое
+    - Netherlands
+    - weather
+    - spring
+    - Houten
+    - video
+    - beautiful
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/jqh4ard6nqgedtwmumbk.jpg"
 ---
 
