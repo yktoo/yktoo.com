@@ -7,6 +7,7 @@ tags:
     - beautiful
     - Netherlands
     - weather
+    - snow
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/c8rt0tnh55g30205.jpg"
 places:
     - place0129
