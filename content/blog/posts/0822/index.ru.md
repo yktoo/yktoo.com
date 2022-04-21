@@ -27,3 +27,8 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/httovd0vgybobhnfiamq.
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/s41om95rmx9darqvy9e7.jpg" "«Гитлер преследует мирные цели»." >}}
 
 Всё в точку, не правда ли? Единственная разница лишь в том, что немецким солдатам не нужны были стиральные машинки.
+
+
+{{< fl "P.S." >}} Бонус ([отсюда](https://yktoo.me/Bco71P)):
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/rq7kj0hnffef9fpbxo8w.jpg" "Осло, Краков, Варшава, Париж — германские нацисты устанавливали знак V в оккупированных городах, как знак своей победы." >}}

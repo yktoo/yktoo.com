@@ -27,3 +27,7 @@ Alexander Nevzorov, the renowned Russian war journalist, [shows](https://yktoo.m
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/s41om95rmx9darqvy9e7.jpg" "\"Hitler has peaceful aims.\"" >}}
 
 It's all spot-on, isn't it? The only difference is German soldiers did not loot washing machines.
+
+P.S. Bonus ([source](https://yktoo.me/Bco71P)):
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/rq7kj0hnffef9fpbxo8w.jpg" "Oslo, Krakow, Warsaw, Paris — the German Nazis placed a V sign in the occupied cities as a sign of their victory." >}}
