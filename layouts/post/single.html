@@ -94,6 +94,8 @@
             <!-- Comments -->
             <section class="blog-post-comments" id="blog-post-comments">
                 <h2>{{ T "comments" }}</h2>
+                <!-- Ukraine banner -->
+                {{ partial "blog/ua-war-banner" . }}
                 <!-- Do not insert comments block in drafts or when running on localhost -->
                 {{- if or .Draft (in (print $.Site.BaseURL) "localhost") }}
                 <div class="placeholder">(comments will go here)</div>

@@ -130,3 +130,9 @@
 - {id: withArtists,       translation: Met}
 - {id: yourEmail,         translation: Je e-mailadres}
 - {id: yourName,          translation: Je naam}
+
+- id: uaWarWarning
+  translation: >
+    Rusland voert oorlog in Oekraïne, waarbij Russische troepen de burgerbevolking van het land doden, martelen,
+    verkrachten en plunderen. Commentaar dat de acties van Rusland in Oekraïne of aanverwante symbolen goedkeurt of
+    rechtvaardigt, wordt op deze blog niet getolereerd.
