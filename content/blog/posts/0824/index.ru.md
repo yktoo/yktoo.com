@@ -13,11 +13,13 @@ tags:
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/g7dslllnhpl6v5knmol6.jpg"
 ---
 
-Согласно недавно проведённому социологическому опросу в столице Португалии Лиссабоне[^1], подавляющее большинство проголосовавших считает, что Путину уже пора.
+Согласно недавно проведённому социологическому опросу в столице Португалии Лиссабоне, подавляющее большинство проголосовавших считает, что Путину уже пора.
 
 <!--more-->
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/g7dslllnhpl6v5knmol6.jpg" "«Путин — должен он остаться ↔ уйти»." >}}
+
+*Параметры опроса: случайная выборка из нескольких сотен курящих лиссабонцев и гостей города; период проведения не ограничен.*
 
 Вторым очевидным результатом опроса можно считать то, что подавляющее большинство лиссабонцев смотрят, куда именно они кидают окурки.
 
@@ -26,5 +28,3 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/g7dslllnhpl6v5knmol6.
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/d25zco9spnkwr7yidfvb.jpg" "«We stand with Ukraine»." >}}
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/yvnbxqpumeniiqmsybwy.jpg" "«Ми з Украïною»." >}}
-
-[^1]: Выборка из нескольких сотен курящих лиссабонцев и гостей города; период проведения опроса не ограничен.
