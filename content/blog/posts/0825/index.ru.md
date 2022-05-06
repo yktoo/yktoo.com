@@ -30,6 +30,10 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/wce9tqnsbz9k4yvzceqo.
 
 На сайте Правительства Нидерландов опубликован [целый ряд документов](https://www.rijksoverheid.nl/onderwerpen/opvang-vluchtelingen-uit-oekraine/documenten), разъясняющий порядок их приёма.
 
+## Куда могут обратиться за помощью сами беженцы?
+
+На сайте голландского Красного Креста имеется телефон поддержки через {{< fl "WhatsApp" >}} на [украинском](https://www.rodekruis.nl/ukrainian/) и [русском](https://www.rodekruis.nl/russian/).
+
 ## Выдаётся ли субсидия тем, кто размещает беженцев?
 
 Нет, в настоящий момент таких субсидий не предусмотрено. Однако беженцы, зарегистрированные в [хементе](/glossary/gemeente), имеют право на пособие согласно положению {{< fl "Regeling opvang ontheemden Oekraïne" >}}, принятому в апреле {{< year 2022 "этого" >}} года.
