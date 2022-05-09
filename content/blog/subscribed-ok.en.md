@@ -8,5 +8,5 @@ hideShareButtons: true
 {{< div "text-center" >}}
 ## Thanks, your subscription has been successful!
 
-{{< button "/" "Return to Blog" >}}
+{{< button "/en/" "Return to Blog" >}}
 {{< /div >}}
