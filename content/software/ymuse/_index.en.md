@@ -1,11 +1,17 @@
 ---
 title: Ymuse
 subtitle: Easy, functional, and snappy client for Music Player Daemon.
-platform: linux
+layout: product
 icon: ymuse-icon-64.png
-weight: 200
+weight: 20
 software: ymuse
+active: true
+githubUrl: https://github.com/yktoo/ymuse
+licenses:
+    - apache2
 seeAlso:
+    - name: Ymuse FAQ
+      url: /software/ymuse/faq
     - name: Ymuse on Snapcraft
       url: https://snapcraft.io/ymuse
     - name: Ymuse in AUR
@@ -49,7 +55,9 @@ https://res.cloudinary.com/yktoo/image/upload/blog/vrqyquxgoncgxygly6kk.png Ymus
     * Dutch
     * Japanese
     * Russian
-    
+
+Be sure to check the [FAQ page](faq) first if you have a question, a feature request, or a bug report.
+
 Here's a short video tour of the application:
 
 {{< youtube "h0g2gk5DM8s" >}}

@@ -1,10 +1,15 @@
 ---
 title: PhoA
 subtitle: Powerful image catalogue application.
-platform: windows
+layout: product
 icon: phoa-icon-64.png
 weight: 1
 software: phoa
+active: false
+githubUrl: https://github.com/yktoo/phoa
+licenses:
+    - gpl3
+    - mpl2
 seeAlso:
     - name: PhoA changelog
       url: 'https://github.com/yktoo/phoa/blob/master/CHANGELOG.md'

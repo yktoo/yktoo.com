@@ -208,7 +208,7 @@ phoa:
               * Английский (исходный)
               * Русский
       version: '1.1.10-beta'
-      detailUrl: /software/phoa/changelog#1110
+      detailUrl:
       releaseDate: 2005-08-28
       weight: 1
       downloadUrl: 'https://github.com/yktoo/phoa/releases/download/v{version}/phoa-setup-{version}.exe'

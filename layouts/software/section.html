@@ -3,14 +3,14 @@
 <!-- Main page content -->
 {{ .Content }}
 
-<!-- Software lists, grouped by platform -->
-<div class="row">
-    {{- range .Pages.GroupByParam "platform" }}
-    <div class="col-md-6">
+<!-- Software lists. First active, then archived -->
+{{- range slice true false }}
+    {{- $active := . }}
+    {{- with where $.Pages ".Params.active" $active }}
         <section>
-            <h2>{{ T "softwareFor" (dict "value" (title .Key)) }}</h2>
+            <h2>{{ T (cond $active "softwareActive" "softwareArchived") }}</h2>
             <div class="list-group">
-                {{- range .Pages }}
+                {{- range . }}
                 <a class="list-group-item list-group-item-action list-group-item-iconized" href="{{ .Permalink }}">
                     <!-- Icon, if any -->
                     {{- $page := . -}}
@@ -28,10 +28,9 @@
                 {{- end }}
             </div>
         </section>
-    </div>
     {{- end }}
-</div>
+{{- end }}
 
 <!-- No content check -->
-{{ partial "no_content_checker" .Pages }}
-{{ end }}
+{{- partial "no_content_checker" .Pages }}
+{{- end }}

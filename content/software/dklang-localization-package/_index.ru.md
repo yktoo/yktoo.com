@@ -1,10 +1,16 @@
 ---
 title: DKLang Localization Package
 subtitle: Библиотека для локализации Delphi-приложений.
-platform: windows
+layout: product
 icon: dklang-icon-64.png
-weight: 2
+weight: 100
 software: dklang
+active: true
+githubUrl: https://github.com/yktoo/dklang
+licenses:
+    - lgpl21
+    - mpl11
+fullDocsUrl: https://github.com/yktoo/dklang/wiki
 seeAlso:
     - name: DKLang Translation Editor
       url: '../dklang-translation-editor/'

@@ -1,10 +1,14 @@
 ---
 title: InfoPi
 subtitle: Информационный киоск на базе Raspberry Pi.
-platform: linux
+layout: product
 icon: infopi-icon-64.png
-weight: 400
+weight: 50
 software: infopi
+active: true
+githubUrl: https://github.com/yktoo/infopi
+licenses:
+    - mit1
 ---
 
 **InfoPi** — это одностраничное веб-приложение, отображающее различные данные, такие как прогноз погоды и расписание поездов, обновляемые в реальном времени. Приложение разработано на [Angular](https://angular.io/) версии **11** и может быть собрано в один запускаемый пакет с браузером [Electron](https://www.electronjs.org/).

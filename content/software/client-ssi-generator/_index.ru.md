@@ -1,10 +1,14 @@
 ---
 title: Client SSI Generator
 subtitle: Инструмент для применения SSI-шаблонов.
-platform: windows
+layout: product
 icon: client-ssi-generator-icon-64.png
 weight: 5
 software: client-ssi-generator
+active: false
+githubUrl: https://github.com/yktoo/clssigen
+licenses:
+    - gpl3
 ---
 
 **Client SSI Generator** является вспомогательным средством для web-дизайнеров и разработчиков web-страниц и служит для имитации работы SSI-сервера на стороне клиента. Он может использоваться в тех случаях, когда сервис SSI отсутствует на HTTP-сервере или заблокирован, и недоступны сервисы более высокого уровня — такие, как CGI, ASP или PHP.

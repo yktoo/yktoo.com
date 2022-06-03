@@ -1,10 +1,14 @@
 ---
 title: DKLang Translation Editor
 subtitle: Редактор файлов переводов для DKLang Localization Package.
-platform: windows
+layout: product
 icon: dklang-traned-icon-64.png
-weight: 3
+weight: 110
 software: dklang
+active: true
+githubUrl: https://github.com/yktoo/dkl_traned
+licenses:
+    - lgpl3
 seeAlso:
     - name: DKLang Localization Package
       url: '../dklang-localization-package/'

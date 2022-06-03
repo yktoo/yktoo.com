@@ -1,10 +1,14 @@
 ---
 title: Docker Indicator
 subtitle: Индикатор для управления контейнерами Docker.
-platform: linux
+layout: product
 icon: docker-indicator-icon-64.png
-weight: 300
+weight: 40
 software: docker-indicator
+active: true
+githubUrl: https://github.com/yktoo/indicator-docker
+licenses:
+    - gpl3
 seeAlso:
     - name: My Launchpad PPA
       url: 'https://launchpad.net/~yktooo/+archive/ppa'

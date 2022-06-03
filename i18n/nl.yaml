@@ -98,7 +98,8 @@
 - {id: shareOn,           translation: 'Op {{ . }} delen'}
 - {id: showChords,        translation: Met akkoorden}
 - {id: software,          translation: Software}
-- {id: softwareFor,       translation: '{{ .value }}-software'}
+- {id: softwareActive,    translation: Onderhouden software}
+- {id: softwareArchived,  translation: Gearchiveerde software}
 - {id: sourceCode,        translation: Broncode}
 - {id: sourceCodeClone,   translation: De meest recente broncode is verkrijgbaar d.m.v. klonen van mijn}
 - {id: statsAllPages,     translation: "Totaal aantal pagina's"}

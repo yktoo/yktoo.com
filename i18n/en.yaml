@@ -98,7 +98,8 @@
 - {id: shareOn,           translation: 'Share on {{ . }}'}
 - {id: showChords,        translation: Show chords}
 - {id: software,          translation: Software}
-- {id: softwareFor,       translation: '{{ .value }} software'}
+- {id: softwareActive,    translation: Maintained software}
+- {id: softwareArchived,  translation: Archived software}
 - {id: sourceCode,        translation: Source code}
 - {id: sourceCodeClone,   translation: 'To download the latest source code, clone my'}
 - {id: statsAllPages,     translation: All site pages}

@@ -1,10 +1,14 @@
 ---
 title: InfoPi
 subtitle: Information server application for Raspberry Pi.
-platform: linux
+layout: product
 icon: infopi-icon-64.png
-weight: 400
+weight: 50
 software: infopi
+active: true
+githubUrl: https://github.com/yktoo/infopi
+licenses:
+    - mit1
 ---
 
 **InfoPi** is a single-page web application that displays various live data, like weather forecast and train departure times.

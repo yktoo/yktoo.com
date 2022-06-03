@@ -1,10 +1,14 @@
 ---
 title: Sound Switcher Indicator
 subtitle: Индикатор для выбора входа и выхода звука в Linux.
-platform: linux
+layout: product
 icon: ssi-icon-64.png
-weight: 100
+weight: 10
 software: sound-switcher-indicator
+active: true
+githubUrl: https://github.com/yktoo/indicator-sound-switcher
+licenses:
+    - gpl3
 aliases:
     - /ru/software/indicator-sound-switcher
 seeAlso:

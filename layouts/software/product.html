@@ -1,17 +1,17 @@
-{{ define "heading" }}
+{{- define "heading" }}
 <div class="jumbotron">
     {{- with .Params.icon }}{{ with $.Page.Resources.GetMatch . }}<img src="{{ .RelPermalink }}" alt="Icon">{{ end }}{{ end }}
     <h1 class="display-4">{{ .Title }}</h1>
     {{ with .Params.subtitle }}<p class="lead">{{ . }}</p>{{ end }}
 </div>
-{{ end }}
+{{- end }}
 
-{{ define "main" }}
+{{- define "main" }}
 
 <!-- Fetch software properties -->
-{{- $name := urlize .Title -}}
-{{- $data := index .Site.Data.software.items $name -}}
+{{- $downloads := index .Site.Data.downloads (urlize .Title) -}}
 {{- $page := . -}}
+{{- $params := $page.Params -}}
 
 <article class="software-single">
     <div class="row">
@@ -19,67 +19,44 @@
             <!-- Render the main page content -->
             <section id="software-content">
                 <!-- Render a discontinuation banner if the project isn't active anymore -->
-                {{- if not $data.isActive }}
+                {{- if not $params.active }}
                     {{- partial (printf "software/discontinued.%s.html" $.Site.Language) }}
                 {{- end }}
 
                 <!-- Main page content -->
                 {{ .Content }}
-
-                <!-- Items -->
-                {{ with $data.items }}
-                <div class="list-group">
-                    {{- range . }}
-                    <a class="list-group-item list-group-item-action list-group-item-iconized" href="{{ .url }}">
-                        <!-- Icon, if any -->
-                        {{- with .icon }}{{ with $page.Resources.GetMatch . }}
-                        <div class="list-group-img-32"><img src="{{ .RelPermalink }}" alt="Icon"></div>
-                        {{- end }}{{ end -}}
-
-                        <div class="list-group-text">
-                            <!-- Title -->
-                            <div class="list-group-heading">{{ .title }}</div>
-                            <!-- Subtitle -->
-                            {{- with index .description $page.Lang }}<div class="list-group-details">{{ . }}</div>{{ end }}
-                        </div>
-                    </a>
-                    {{- end }}
-                </div>
-                {{ end }}
             </section>
 
             <!-- Downloads -->
-            {{ if $data.showDownloads }}
+            {{- if $downloads }}
             <section id="software-downloads">
                 <h2>{{ T "downloads" }}</h2>
-                {{ partial "software/list-downloads.html" (dict "page" $page "category" $name) }}
+                {{ partial "software/list-downloads.html" (dict "lang" $page.Lang "downloads" $downloads) }}
             </section>
-            {{ end }}
+            {{- end }}
 
             <!-- Documentation -->
-            {{ with $data.fullDocsUrl }}
+            {{- with $params.fullDocsUrl }}
             <section id="software-docs">
                 <h2>{{ T "docs" }}</h2>
                 <p>{{ T "fullDocsAvail" }} <a href="{{ . }}">{{ T "viaThisLink" }}</a>.</p>
             </section>
-            {{ end }}
+            {{- end }}
 
             <!-- License -->
-            {{ with $data.licenses }}
+            {{- with $params.licenses }}
             <section id="software-license">
                 <h2>{{ T "license" }}</h2>
-                <!-- Convert to a slice in case it isn't -->
-                {{ partial (printf "software/license.%s.html" $.Site.Language) (dict "page" $page "licenses" .) }}
+                {{ partial (printf "software/license.%s.html" $page.Lang) (dict "page" $page "licenses" .) }}
             </section>
-            {{ end }}
+            {{- end }}
 
             <!-- Support - only provided to active projects -->
-            {{ if $data.isActive }}
-            {{ with $data.githubUrl }}
+            {{- if and $params.active $params.githubUrl }}
             <section id="software-support">
                 <h2>{{ T "support" }}</h2>
                 <div class="list-group">
-                    <a class="list-group-item list-group-item-action list-group-item-iconized" href="{{ . }}/issues">
+                    <a class="list-group-item list-group-item-action list-group-item-iconized" href="{{ $params.githubUrl }}/issues">
                         <div class="list-group-img-64"><i class="fab fa-github"></i></div>
                         <div class="list-group-text">
                             <div class="list-group-heading">{{ T "githubIssueTrk" }}</div>
@@ -88,25 +65,24 @@
                     </a>
                 </div>
             </section>
-            {{ end }}
-            {{ end }}
+            {{- end }}
 
             <!-- Source code -->
-            {{ with $data.githubUrl }}
+            {{- with $params.githubUrl }}
             <section id="software-source">
                 <h2>{{ T "sourceCode" }}</h2>
                 <p>{{ T "sourceCodeClone" }} <a href="{{ . }}">{{ T "githubRepo" }}</a>:</p>
                 <pre><code>git clone {{ . }}.git</code></pre>
             </section>
-            {{ end }}
+            {{- end }}
 
             <!-- See also -->
-            {{ $related := where (.Site.RegularPages.RelatedIndices $page "software") "Type" "post" }}
-            {{ if or .Params.seeAlso $related }}
+            {{- $related := where (.Site.RegularPages.RelatedIndices $page "software") "Type" "post" }}
+            {{- if or $params.seeAlso $related }}
             <section id="software-see-also">
                 <h2>{{ T "seeAlso" }}</h2>
                 <ul>
-                    {{ range .Params.seeAlso }}<li><a href="{{ .url }}">{{ .name }}</a></li>{{ end }}
+                    {{ range $params.seeAlso }}<li><a href="{{ .url | absLangURL }}">{{ .name }}</a></li>{{ end }}
                     {{ with $related }}
                     <li><b>{{ T "blogPosts" }}:</b>
                         <ul class="list-unstyled">
@@ -118,7 +94,7 @@
                     {{ end }}
                 </ul>
             </section>
-            {{ end }}
+            {{- end }}
         </div>
         <div class="col-md-3 article-sidebar">
             <div class="sticky-top">
@@ -130,17 +106,16 @@
                     </ul>
                     {{ .TableOfContents }}
                     <ul>
-                        {{- if $data.showDownloads }}<li><a href="#software-downloads">{{ T "downloads" }}</a></li>{{ end }}
-                        {{- if $data.fullDocsUrl }}<li><a href="#software-docs">{{ T "docs" }}</a></li>{{ end }}
-                        {{- if $data.licenses }}<li><a href="#software-license">{{ T "license" }}</a></li>{{ end }}
-                        {{- if and $data.isActive $data.githubUrl }}<li><a href="#software-support">{{ T "support" }}</a></li>{{ end }}
-                        {{- if $data.githubUrl }}<li><a href="#software-source">{{ T "sourceCode" }}</a></li>{{ end }}
-                        {{- if or $.Params.seeAlso $related }}<li><a href="#software-see-also">{{ T "seeAlso" }}</a></li>{{ end }}
+                        {{- if $downloads                           }}<li><a href="#software-downloads">{{ T "downloads" }}</a></li>{{ end }}
+                        {{- if $params.fullDocsUrl                  }}<li><a href="#software-docs">{{ T "docs" }}</a></li>{{ end }}
+                        {{- if $params.licenses                     }}<li><a href="#software-license">{{ T "license" }}</a></li>{{ end }}
+                        {{- if and $params.active $params.githubUrl }}<li><a href="#software-support">{{ T "support" }}</a></li>{{ end }}
+                        {{- if $params.githubUrl                    }}<li><a href="#software-source">{{ T "sourceCode" }}</a></li>{{ end }}
+                        {{- if or $params.seeAlso $related          }}<li><a href="#software-see-also">{{ T "seeAlso" }}</a></li>{{ end }}
                     </ul>
                 </section>
             </div>
         </div>
     </div>
-
 </article>
-{{ end }}
+{{- end }}

@@ -1,10 +1,14 @@
 ---
 title: Client SSI Generator
 subtitle: Client-side SSI processing tool.
-platform: windows
+layout: product
 icon: client-ssi-generator-icon-64.png
 weight: 5
 software: client-ssi-generator
+active: false
+githubUrl: https://github.com/yktoo/clssigen
+licenses:
+    - gpl3
 ---
 
 **Client SSI Generator** is a complementary tool for web designers. It mimics the SSI server (Server Side Includes) behaviour, but on the client side. It may be used for preprocessing HTML pages in the case there's no SSI service available on the HTTP server, nor is there any more advanced service like CGI, ASP or PHP.

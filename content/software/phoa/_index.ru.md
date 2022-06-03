@@ -1,10 +1,15 @@
 ---
 title: PhoA
 subtitle: Мощный каталогизатор изображений.
-platform: windows
+layout: product
 icon: phoa-icon-64.png
 weight: 1
 software: phoa
+active: false
+githubUrl: https://github.com/yktoo/phoa
+licenses:
+    - gpl3
+    - mpl2
 seeAlso:
     - name: История версий PhoA
       url: 'https://github.com/yktoo/phoa/blob/master/CHANGELOG.md'

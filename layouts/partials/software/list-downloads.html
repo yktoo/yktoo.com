@@ -1,24 +1,21 @@
 <!-- Render downloads for a specific category. Context:
-    page     - page being rendered
-    category - category whose downloads to list
+    lang      - two-letter language code
+    downloads - list of download items
 -->
-{{- $page := .page }}
-{{- $items := index $page.Site.Data.downloads .category }}
 
 <!-- First list featured, then others -->
-{{- range slice true false }}
-    {{- $featured := . }}
-    {{- range where $items "isFeatured" $featured }}
+{{- range $featured := slice true false }}
+    {{- range where $.downloads "isFeatured" $featured }}
         <!-- The title can be a string or a language-indexed object -->
         {{- $title := .title }}
         {{- if ne (printf "%T" $title) "string" }}
-            {{- $title = index $title $page.Lang }}
+            {{- $title = index $title $.lang }}
         {{- end }}
         <!-- Same goes for subtitle, moreover, it's optional -->
         {{- $subtitle := .subtitle }}
         {{- with $subtitle }}
             {{- if ne (printf "%T" .) "string" }}
-                {{- $subtitle = index . $page.Lang }}
+                {{- $subtitle = index . $.lang }}
             {{- end }}
         {{- end }}
         {{- $version := .version }}
@@ -32,7 +29,7 @@
                     </div>
 
                     <!-- Description -->
-                    <div class="download-desc mb-3 mb-lg-0">{{ index .description $page.Lang | markdownify }}</div>
+                    <div class="download-desc mb-3 mb-lg-0">{{ index .description $.lang | markdownify }}</div>
                 </div>
 
                 <!-- Download button -->

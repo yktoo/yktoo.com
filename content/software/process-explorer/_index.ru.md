@@ -1,10 +1,14 @@
 ---
 title: Process Explorer
 subtitle: Инструмент для просмотра процессов и их DLL-модулей.
-platform: windows
+layout: product
 icon: process-explorer-icon-64.png
 weight: 6
 software: process-explorer
+active: false
+githubUrl: https://github.com/yktoo/process-explorer
+licenses:
+    - gpl3
 ---
 
 {{< imgfig "screenshot-main.png" "Главное окно программы." >}}
