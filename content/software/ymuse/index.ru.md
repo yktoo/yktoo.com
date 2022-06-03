@@ -5,6 +5,15 @@ platform: linux
 icon: ymuse-icon-64.png
 weight: 200
 software: ymuse
+seeAlso:
+    - name: Ymuse в Snapcraft
+      url: https://snapcraft.io/ymuse
+    - name: Ymuse в AUR
+      url: https://aur.archlinux.org/packages/ymuse
+    - name: Ymuse-bin в AUR
+      url: https://aur.archlinux.org/packages/ymuse-bin
+    - name: Flathub-репозиторий Ymuse
+      url: https://github.com/flathub/com.yktoo.ymuse
 ---
 
 **Ymuse** — это простое в использовании, но в то же время богатое функционалом и быстрое приложение-клиент для [Music Player Daemon](https://www.musicpd.org/), написанное на {{< fl "Go" >}} и использующее графическую библиотеку {{< fl "GTK" >}}.
@@ -63,6 +72,20 @@ https://res.cloudinary.com/yktoo/image/upload/blog/vrqyquxgoncgxygly6kk.png На
 sudo snap install ymuse
 ```
 
+### Arch Linux
+
+Если у вас [pacman wrapper](https://wiki.archlinux.org/index.php/AUR_helpers#Pacman_wrappers), то используйте его, чтобы установить пакет `ymuse` или `ymuse-bin`.
+
+Например, при наличии [yay](https://github.com/Jguer/yay) установка выглядит следующим образом:
+
+```bash
+yay -S ymuse
+# Можно также установить bin-версию, сэкономив время на загрузке Go toolchain
+yay -S ymuse-bin
+```
+
+Если вы не используете хелпер, в [этой статье](https://wiki.archlinux.org/index.php/Arch_User_Repository#Installing_and_upgrading_packages) *(англ.)* описывается, как самому собрать и установить пакет из исходников.
+
 ### Бинарная сборка
 
-Также для {{< fl "Ymuse" >}} доступны для загрузки бинарные пакеты и архив с исходным кодом, перечисленные ниже.
+Также для {{< fl "Ymuse" >}} доступны для загрузки бинарные пакеты (`.deb`, `.rpm`) и архив с исходным кодом, перечисленные ниже.

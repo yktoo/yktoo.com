@@ -14,6 +14,7 @@ tags:
     - софт
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/rs1f9dcy8kkwtsdsuld3.jpg"
 series: infopi
+software: infopi
 ---
 
 Что мы всё про коронавирус да про коронавирус? Давайте лучше о хорошем.

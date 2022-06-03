@@ -14,6 +14,7 @@ tags:
     - сделай сам
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/mppchq6tdmwm1119.jpg"
 series: infopi
+software: infopi
 ---
 
 *Когда гику нечего делать, он начинает заниматься домашней автоматизацией. А когда уже нечего автоматизировать, он пишет об этом в блог.*

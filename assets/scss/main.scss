@@ -4,6 +4,7 @@
 // Base colours
 $primary: #089664;
 $secondary: #72838a;
+$gray-100: #f7f7f7;
 
 // Font sizes
 $h1-font-size: 2.1rem;
@@ -19,7 +20,6 @@ $primary-light: adjust_color($primary, $saturation: -50%, $lightness: 40%);
 $primary-pale: adjust_color($primary, $saturation: -70%, $lightness: 20%);
 $primary-alt: #fc0; // Second primary brand colour
 $primary-alt-fade: fade_out($primary-alt, 0.87);
-$shaded-bg: #f7f7f7; // Slightly shaded background
 
 // Secondary elements
 $body-color: #666;
@@ -100,7 +100,7 @@ section {
 article {
     .article-sidebar {
         font-size: 90%;
-        background-color: $shaded-bg;
+        background-color: $gray-100;
         margin-top: -1rem;
         padding-bottom: 1rem;
 
@@ -329,8 +329,7 @@ blockquote {
 pre {
     padding: 1rem;
     margin: 0 0 1rem 0;
-    background-color: #f5f5f5;
-    border: 1px solid #eee;
+    background-color: $gray-100;
     border-radius: 4px;
 }
 
@@ -399,7 +398,7 @@ pre {
     }
 }
 .blog-subscribe-cta {
-    background-color: $shaded-bg;
+    background-color: $gray-100;
     border-top: 1px dotted $primary-pale;
     border-bottom: 1px dotted $primary-pale;
     padding: 1rem 0;
@@ -495,31 +494,35 @@ pre {
 
 // Downloads
 .download {
-    padding: 0.7rem;
-    border-bottom: 1px solid #ccc;
+    background: $gray-100;
+    padding: 1rem;
+    margin-bottom: 1.5rem;
 
     .btn {
-        min-width: 80%;
         white-space: normal;
-
-        .icon {
-            font-size: 32px;
-        }
     }
 
     &.featured {
-        padding: 1.5rem;
-        background: #f5f5f5;
+        border: 1px solid $gray-400;
         border-top-left-radius: 18px;
-        border-bottom: none;
+    }
 
-        .btn {
-            width: 100%;
+    .download-footer {
+        font-size: 0.8rem;
+        margin-top: 1rem;
+        color: $gray-600;
+    }
+}
+.btn-download {
+    display: flex;
+    align-items: center;
 
-            .icon {
-                font-size: 64px;
-            }
-        }
+    .icon {
+        font-size: 42px;
+        flex: 64px 0 0;
+    }
+    .text {
+        text-align: left;
     }
 }
 

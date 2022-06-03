@@ -5,6 +5,15 @@ platform: linux
 icon: ymuse-icon-64.png
 weight: 200
 software: ymuse
+seeAlso:
+    - name: Ymuse on Snapcraft
+      url: https://snapcraft.io/ymuse
+    - name: Ymuse in AUR
+      url: https://aur.archlinux.org/packages/ymuse
+    - name: Ymuse-bin in AUR
+      url: https://aur.archlinux.org/packages/ymuse-bin
+    - name: Ymuse Flathub repository
+      url: https://github.com/flathub/com.yktoo.ymuse
 ---
 
 **Ymuse** is an easy, functional, and snappy GTK front-end (client) for [Music Player Daemon](https://www.musicpd.org/) written in Go.
@@ -63,7 +72,20 @@ In case your distro provides support for {{< wiki "Snap_(package_manager)" "en" 
 sudo snap install ymuse
 ```
 
+### Arch Linux
+
+If you have a [pacman wrapper](https://wiki.archlinux.org/index.php/AUR_helpers#Pacman_wrappers) installed, you can use that to install the `ymuse` or the `ymuse-bin` package.
+
+For instance, if you are using [yay](https://github.com/Jguer/yay), simply run:
+
+```bash
+yay -S ymuse
+# Or use a bin build to avoid downloading Go toolchain
+yay -S ymuse-bin
+```
+
+In case you're not using a helper, refer to [this article](https://wiki.archlinux.org/index.php/Arch_User_Repository#Installing_and_upgrading_packages) on how to manually build and install the package.
+
 ### Binary package
 
-There are also binary builds and a source tarball available: see below.
-
+There are also binary builds (`.deb`, `.rpm`) and a source tarball available: see below.

@@ -13,6 +13,7 @@ tags:
     - software
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/rs1f9dcy8kkwtsdsuld3.jpg"
 series: infopi
+software: infopi
 ---
 
 Mijn infokiosk applicatie voor *Raspberry Pi*, bekend als [InfoPi](en;/software/infopi), heeft eindelijk een grote verandering ondergaan.

@@ -12,6 +12,7 @@ tags:
     - софт
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/wnb8jfzca1oijglb8uzn.png"
 imageCredit: "График: CoronaWatchNL."
+software: infopi
 ---
 
 Кстати.

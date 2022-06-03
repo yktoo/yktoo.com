@@ -8,8 +8,12 @@ software: sound-switcher-indicator
 aliases:
     - /en/software/indicator-sound-switcher
 seeAlso:
+    - name: Sound Switcher Indicator on Snapcraft
+      url: https://snapcraft.io/indicator-sound-switcher
+    - name: Sound Switcher Indicator in AUR
+      url: https://aur.archlinux.org/packages/indicator-sound-switcher
     - name: My Launchpad PPA
-      url: 'https://launchpad.net/~yktooo/+archive/ppa'
+      url: https://launchpad.net/~yktooo/+archive/ppa
 ---
 
 This app shows an icon in the indicator area or the system tray (whatever is available in your desktop environment). Icon's menu allows you to switch the current sound input and output (i.e. *source* and *sink* in PulseAudio's terms, respectively) ports with just two clicks:

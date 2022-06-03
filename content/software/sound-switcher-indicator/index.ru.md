@@ -8,8 +8,12 @@ software: sound-switcher-indicator
 aliases:
     - /ru/software/indicator-sound-switcher
 seeAlso:
+    - name: Sound Switcher Indicator в Snapcraft
+      url: https://snapcraft.io/indicator-sound-switcher
+    - name: Sound Switcher Indicator в AUR
+      url: https://aur.archlinux.org/packages/indicator-sound-switcher
     - name: Мой Launchpad PPA
-      url: 'https://launchpad.net/~yktooo/+archive/ppa'
+      url: https://launchpad.net/~yktooo/+archive/ppa
 ---
 
 Это приложение отображает значок в области индикаторов или системном трее (зависит от того, каким десктопом вы пользуетесь). Меню индикатора позволяет переключать текущие порты входного и выходного звукового устройства (в терминах {{< fl "PulseAudio" >}} — {{< fl "source" >}} и {{< fl "sink" >}}, соответственно) в два клика:
