@@ -80,6 +80,14 @@ In case your distro provides support for {{< wiki "Snap_(package_manager)" "en" 
 sudo snap install ymuse
 ```
 
+### Flatpak
+
+If you have `flatpak` [installed](https://flatpak.org/setup/), the app can be installed from [Flathub](https://flathub.org/apps/details/com.yktoo.ymuse) with:
+
+```bash
+flatpak install com.yktoo.ymuse
+```
+
 ### Arch Linux
 
 If you have a [pacman wrapper](https://wiki.archlinux.org/index.php/AUR_helpers#Pacman_wrappers) installed, you can use that to install the `ymuse` or the `ymuse-bin` package.

@@ -80,6 +80,14 @@ https://res.cloudinary.com/yktoo/image/upload/blog/vrqyquxgoncgxygly6kk.png На
 sudo snap install ymuse
 ```
 
+### Flatpak
+
+Если у вас [установлен](https://flatpak.org/setup/) `flatpak`, программа устанавливается из [Flathub](https://flathub.org/apps/details/com.yktoo.ymuse) командой:
+
+```bash
+flatpak install com.yktoo.ymuse
+```
+
 ### Arch Linux
 
 Если у вас [pacman wrapper](https://wiki.archlinux.org/index.php/AUR_helpers#Pacman_wrappers), то используйте его, чтобы установить пакет `ymuse` или `ymuse-bin`.
