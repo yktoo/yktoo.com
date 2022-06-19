@@ -7,6 +7,8 @@ tags:
     - Toyota Prius
     - авто
     - гаджеты
+    - DAB
+    - DAB+
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/3otf4wz2wimb0341.jpg"
 ---
 
