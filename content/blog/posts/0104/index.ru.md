@@ -17,4 +17,4 @@ tags:
 
 <!--more-->
 
-{{< audio_page "/radiolaria/tracks/051" >}}
+{{< audio-page-player "/radiolaria/tracks/051" >}}

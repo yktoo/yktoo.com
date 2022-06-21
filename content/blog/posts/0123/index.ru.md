@@ -14,4 +14,4 @@ tags:
 
 Жанр: Instrumental Progressive Metal.
 
-{{< audio_page "/radiolaria/tracks/050" >}}
+{{< audio-page-player "/radiolaria/tracks/050" >}}

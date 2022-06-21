@@ -15,14 +15,10 @@ So far four new tracks are available, all of them pertain to the sky for some re
 
 <!--more-->
 
-* [The Sky Is On Fire](/radiolaria/tracks/095)<br />
-  {{< audio_page "/radiolaria/tracks/095" >}}
-* [The Sky Is Far](/radiolaria/tracks/094)<br />
-  {{< audio_page "/radiolaria/tracks/094" >}}
-* [Shabby Angel](/radiolaria/tracks/106)<br />
-  {{< audio_page "/radiolaria/tracks/106" >}}
-* [Sky Is All What's Left](/radiolaria/tracks/105)<br />
-  {{< audio_page "/radiolaria/tracks/105" >}}
+{{< audio-page-player "/radiolaria/tracks/095" >}}
+{{< audio-page-player "/radiolaria/tracks/094" >}}
+{{< audio-page-player "/radiolaria/tracks/106" >}}
+{{< audio-page-player "/radiolaria/tracks/105" >}}
 
 Stay tuned for more.
 

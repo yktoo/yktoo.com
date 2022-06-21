@@ -15,4 +15,4 @@ tags:
 
 <!--more-->
 
-{{< audio_page "/radiolaria/tracks/053" >}}
+{{< audio-page-player "/radiolaria/tracks/053" >}}

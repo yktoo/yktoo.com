@@ -16,14 +16,10 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/y1u9th8ot4n42861.jpg"
 
 <!--more-->
 
-* [Небо в огне](/radiolaria/tracks/095)<br />
-  {{< audio_page "/radiolaria/tracks/095" >}}
-* [Небеса далеко](/radiolaria/tracks/094)<br />
-  {{< audio_page "/radiolaria/tracks/094" >}}
-* [Ветхий ангел](/radiolaria/tracks/106)<br />
-  {{< audio_page "/radiolaria/tracks/106" >}}
-* [Остаётся только небо](/radiolaria/tracks/105)<br />
-  {{< audio_page "/radiolaria/tracks/105" >}}
+{{< audio-page-player "/radiolaria/tracks/095" >}}
+{{< audio-page-player "/radiolaria/tracks/094" >}}
+{{< audio-page-player "/radiolaria/tracks/106" >}}
+{{< audio-page-player "/radiolaria/tracks/105" >}}
 
 Будет больше, стэй тьюнд.
 

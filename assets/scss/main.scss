@@ -561,6 +561,22 @@ pre {
 }
 
 // Audio
+.audio-player {
+    background-color: $gray-100;
+    border: 1px solid $border-color;
+    border-radius: $border-radius;
+    padding: 1rem;
+    margin-bottom: 1rem;
+
+    .title {
+        font-weight: $font-weight-bold;
+    }
+
+    audio {
+        width: 100%;
+    }
+}
+
 a {
     > .playbtn:before {
         content: "\f04b"; // = fa-play
