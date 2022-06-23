@@ -9,6 +9,7 @@ tags:
     - гаджеты
     - железо
     - обзор
+    - пожарный извещатель
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/pksj4yaj2vcz1613.jpg"
 ---
 
