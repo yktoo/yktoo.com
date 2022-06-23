@@ -8,8 +8,7 @@
 - {id: blogPostId,        translation: Internal post ID}
 - {id: blogPosts,         translation: Blog posts}
 - {id: blogSubscribe,     translation: Subscribe}
-- {id: blogSubscribeCTA,  translation: 'Do you like this post? Feel free to subscribe to updates of my blog.'}
-- {id: blogSubscribeOpts, translation: Subscription options}
+- {id: blogSubscribeCTA,  translation: Subscribe to blog updates}
 - {id: blogSubtitle,      translation: Blog about life in Holland}
 - {id: blogSubtitleAbout, translation: and a lot of other stuff}
 - {id: blogTitle,         translation: Netherlands and more}
@@ -53,6 +52,7 @@
 - {id: map,               translation: Map}
 - {id: messageBody,       translation: Message body}
 - {id: messageSubject,    translation: Message subject}
+- {id: more,              translation: More}
 - {id: moreToRead,        translation: More to Read}
 - {id: mySocialLinks,     translation: My social links}
 - {id: noContentCurLang,  translation: 'No English content available.<br><big>¯\_(ツ)_/¯</big><br>Try selecting another language from the menu above.'}

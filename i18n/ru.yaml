@@ -8,8 +8,7 @@
 - {id: blogPostId,        translation: Внутренний идентификатор поста}
 - {id: blogPosts,         translation: Посты в блоге}
 - {id: blogSubscribe,     translation: Подписаться}
-- {id: blogSubscribeCTA,  translation: 'Если вам понравился этот пост, не забудьте подписаться на обновления блога.'}
-- {id: blogSubscribeOpts, translation: Варианты подписки}
+- {id: blogSubscribeCTA,  translation: Подписаться на обновления блога}
 - {id: blogSubtitle,      translation: Блог о жизни в Голландии}
 - {id: blogSubtitleAbout, translation: и многом другом}
 - {id: blogTitle,         translation: Нидерланды и не только}
@@ -53,6 +52,7 @@
 - {id: map,               translation: Карта}
 - {id: messageBody,       translation: Текст письма}
 - {id: messageSubject,    translation: Тема письма}
+- {id: more,              translation: Ещё}
 - {id: moreToRead,        translation: Что ещё почитать}
 - {id: mySocialLinks,     translation: Мои соцсети}
 - {id: noContentCurLang,  translation: 'Содержимое на русском недоступно.<br><big>¯\_(ツ)_/¯</big><br>Попробуйте выбрать другой язык в верхнем меню.'}

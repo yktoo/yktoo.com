@@ -8,8 +8,7 @@
 - {id: blogPostId,        translation: Intern post id}
 - {id: blogPosts,         translation: Blogposts}
 - {id: blogSubscribe,     translation: Abonneren}
-- {id: blogSubscribeCTA,  translation: 'Vond je deze post leuk? Je kunt je abonneren op updates van mijn blog.'}
-- {id: blogSubscribeOpts, translation: Keuzes om te abonneren}
+- {id: blogSubscribeCTA,  translation: Abonneren op blog updates}
 - {id: blogSubtitle,      translation: Blog over het Nederlandse leven}
 - {id: blogSubtitleAbout, translation: en veel andere dingen}
 - {id: blogTitle,         translation: Nederland en verder}
@@ -53,6 +52,7 @@
 - {id: map,               translation: Kaart}
 - {id: messageBody,       translation: Je bericht}
 - {id: messageSubject,    translation: Onderwerp}
+- {id: more,              translation: Meer}
 - {id: moreToRead,        translation: Meer om te lezen}
 - {id: mySocialLinks,     translation: Mijn sociale links}
 - {id: noContentCurLang,  translation: 'Geen Nederlandstalige inhoud beschikbaar.<br><big>¯\_(ツ)_/¯</big><br>Probeer een andere taal te kiezen bovenaan deze pagina.'}

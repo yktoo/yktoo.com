@@ -33,7 +33,7 @@
 
 {{- define "secondary-navbar" }}
 <!-- Top previous-next post link bar -->
-<nav class="paginator-before" aria-label="Blog navigation">{{ partial "blog/post_nav" . }}</nav>
+<nav class="paginator-before" aria-label="Blog navigation">{{ partial "blog/post-nav" . }}</nav>
 {{- end }}
 
 {{- define "heading" }}
@@ -86,8 +86,32 @@
 
             <!-- Subscribe link -->
             <section class="blog-subscribe-cta">
-                <p>{{ T "blogSubscribeCTA" | markdownify }}</p>
-                <a class="btn btn-primary" href="{{ relLangURL `/blog/subscribe` }}" role="button">{{ T "blogSubscribeOpts" }}</a>
+                <div class="font-weight-bold">{{ T "blogSubscribeCTA" }}:</div>
+                <div class="button-row">
+                    <!-- Email -->
+                    <a class="icon-btn" href="{{ index .Site.Data.blog.subscribe.by_email_url .Language.Lang }}" title="{{ T `subscribeByEmail` }}">
+                        <i class="fas fa-envelope colourise"></i>
+                    </a>
+
+                    <!-- Telegram -->
+                    <a class="icon-btn" href="{{ index .Site.Data.blog.subscribe.by_telegram_url .Language.Lang }}" title="{{ T `subscribeInTgram` }}">
+                        <i class="fab fa-telegram colourise"></i>
+                    </a>
+
+                    <!-- RSS -->
+                    {{- with (.GetPage "/" ).OutputFormats.Get "RSS" }}
+                    <a class="icon-btn" href="{{ .Permalink }}" title="{{ T `subscribeByRSS` }}">
+                        <i class="fas fa-rss-square colourise"></i>
+                    </a>
+                    {{- end }}
+
+                    <!-- More -->
+                    <a class="btn btn-link" href="{{ relLangURL `/blog/subscribe` }}" role="button">
+                        {{- T "more" -}}
+                        <i class="fas fa-angles-right ml-1"></i>
+                    </a>
+                </div>
+
                 <div class="mt-4">{{ T "poweredByOnceTo" | markdownify }}</div>
             </section>
 
@@ -187,10 +211,10 @@
 {{- define "bottom-navbar" }}
 <!-- Sharing buttons -->
 <section id="page-sharing-buttons">
-    <h5>{{ T "share" }}</h5>
+    <div class="font-weight-bold">{{ T "share" }}:</div>
     {{ partial "sharing-buttons" . }}
 </section>
 
 <!-- Bottom previous-next post link bar -->
-<nav class="paginator-after" aria-label="Blog navigation">{{ partial "blog/post_nav" . }}</nav>
-{{ end }}
+<nav class="paginator-after" aria-label="Blog navigation">{{ partial "blog/post-nav" . }}</nav>
+{{- end }}
