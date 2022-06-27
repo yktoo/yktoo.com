@@ -25,7 +25,7 @@ $(document).ready(function () {
     /**
      * Initialise the scroll-to-top button
      */
-    var btnScrollToTop = $('#btn-scroll-to-top');
+    const btnScrollToTop = $('#btn-scroll-to-top');
     $(window).scroll(function() {
         if ($(window).scrollTop() > 300) {
             btnScrollToTop.addClass('show');
@@ -62,9 +62,9 @@ $(document).ready(function () {
      * Initialise the audio player.
      */
     (function () {
-        var audio = $('audio');
-        var tracks = $('a[type="audio/mpeg"]');
-        var curTrack;
+        const audio = $('audio');
+        const tracks = $('a[type="audio/mpeg"]');
+        let curTrack;
 
         // Bind onClick handlers
         tracks.click(click);
@@ -77,7 +77,7 @@ $(document).ready(function () {
 
         function click(e) {
             e.preventDefault();
-            var track = $(this);
+            const track = $(this);
             if (track.is('.active')) {
                 audio[0].pause();
                 track.removeClass('active');
@@ -88,8 +88,8 @@ $(document).ready(function () {
         }
 
         function play(track) {
-            var audioEl = audio[0];
-            var href = track.attr('href');
+            const audioEl = audio[0];
+            const href = track.attr('href');
             if (!curTrack || href !== curTrack.attr('href')) {
                 curTrack = track;
                 audioEl.src = href;
@@ -101,7 +101,7 @@ $(document).ready(function () {
         }
 
         function next() {
-            var track = tracks.get(tracks.index(curTrack)+1);
+            const track = tracks.get(tracks.index(curTrack)+1);
             if (track) {
                 play($(track));
             } else {
@@ -116,7 +116,7 @@ $(document).ready(function () {
      * Contact form validation.
      */
     $('#contact-submit-button').click(function (e) {
-        var contactForm = $('#contact-form');
+        const contactForm = $('#contact-form');
         if (contactForm[0].checkValidity() === false) {
             // Stop the form from being submitted
             e.preventDefault();
@@ -125,6 +125,8 @@ $(document).ready(function () {
         contactForm.addClass('was-validated');
     });
 
+    // Initialise Animate-on-Scroll
+    AOS.init();
 });
 
 /**

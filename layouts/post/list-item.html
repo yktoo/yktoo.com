@@ -1,5 +1,5 @@
 <!-- Single post item, which is displayed in a list -->
-<article class="blog-post">
+<article class="blog-post" data-aos="fade-up">
     <!-- Post heading -->
     <h2><a href="{{ .Permalink }}">{{ with .Params.series }}{{ with index $.Site.Taxonomies.series . }}{{ .Page.Title }} ‣ {{ end }}{{ end }}{{ .Title | markdownify }}</a></h2>
 

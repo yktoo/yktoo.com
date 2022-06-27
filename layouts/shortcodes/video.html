@@ -1,6 +1,6 @@
 <!-- Embed a video in a responsive container.
      Syntax: video "URL" "<autostart | loop | etc>" [format: 4by3 16by9 etc] -->
-<div class="embed-responsive embed-responsive-{{ .Get 2 | default `4by3` }} mb-3">
+<div class="embed-responsive embed-responsive-{{ .Get 2 | default `4by3` }} mb-3" data-aos="fade-up">
 <video class="embed-responsive-item" {{ .Get 1 | safeHTMLAttr }}>
     <source src="{{ .Get 0 }}" type="video/mp4" />
 </video>
