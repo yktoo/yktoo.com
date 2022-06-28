@@ -19,7 +19,9 @@
                     {{- $url = ($.Page.Resources.GetMatch $url).RelPermalink }}
                     {{- $urlLink = $url }}
                 {{- end -}}
-                <a href="{{ $urlLink }}" class="image-popup" data-effect="mfp-with-zoom" data-lightbox="image-1"><img class="img-fluid blog-post-image" src="{{ $url }}" alt="Post image"></a>
+                <a href="{{ $urlLink }}" class="image-link image-popup" data-effect="mfp-with-zoom" data-lightbox="image-1">
+                    <img class="img-fluid blog-post-image" src="{{ $url }}" alt="Post image">
+                </a>
                 {{- with $.Params.imageCredit }}<p class="blog-post-image-credit">{{ . | markdownify }}</p>{{ end }}
             {{- else -}}
                 <img class="img-fluid blog-post-image" src="/images/image-placeholder.png" alt="Post image">

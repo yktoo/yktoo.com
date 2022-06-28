@@ -126,8 +126,16 @@ a {
         background-color: $link-hover-bg;
     }
 
+    // Internal links lead to pages on this same website, they get dashed underlining
     &.internal {
         border-bottom: 1px dashed #5a9681;
+    }
+
+    // Image links are anchors containing an image
+    &.image-link {
+        @include plain-hover-focus {
+            background: transparent;
+        }
     }
 
     &.wikipedia:after {
