@@ -314,9 +314,9 @@ sound-switcher-indicator:
               Приложение-индикатор для выбора звукового входа/выхода в Linux.
 
               Бинарный `.deb`-пакет.
-      version: '2.3.8'
+      version: '2.3.9'
       detailUrl: 'https://github.com/yktoo/indicator-sound-switcher/releases/tag/v{version}'
-      releaseDate: 2022-05-13
+      releaseDate: 2022-06-28
       weight: 100
       downloadUrl: 'https://launchpad.net/~yktooo/+archive/ubuntu/ppa/+files/indicator-sound-switcher_{version}-1_all.deb'
       isFeatured: true
@@ -334,9 +334,9 @@ sound-switcher-indicator:
               Приложение-индикатор для выбора звукового входа/выхода в Linux.
 
               Исходный код в архиве `.tar.gz`.
-      version: '2.3.8'
+      version: '2.3.9'
       detailUrl: 'https://github.com/yktoo/indicator-sound-switcher/releases/tag/v{version}'
-      releaseDate: 2022-05-13
+      releaseDate: 2022-06-28
       weight: 101
       downloadUrl: 'https://github.com/yktoo/indicator-sound-switcher/archive/v{version}.tar.gz'
       isFeatured: false
