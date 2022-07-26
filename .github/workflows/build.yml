@@ -28,7 +28,7 @@ jobs:
         run:
           bundle exec htmlproofer public/
             --disable-external
-            --url-ignore '/^mailto:\?body=/'
+            --ignore-urls '/^mailto:\?body=/'
             --allow-hash-href
             --check-favicon
             --check-html

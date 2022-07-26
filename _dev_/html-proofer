@@ -13,7 +13,7 @@ docker run \
     htmlproofer \
         /site \
         --disable-external \
-        --url-ignore '/^mailto:\?body=/' \
+        --ignore-urls '/^mailto:\?body=/' \
         --check-favicon \
         --check-opengraph \
         --check-html \
