@@ -16,8 +16,8 @@ released: Opgenomen en gemixt in **maart-mei 2001** bij DaleTech Records (Tjoeme
 parent: /radiolaria
 ---
 
-{{< img "ars-nova.jpg" "Ars Nova" "article-opener" >}}
+{{< opener-image "ars-nova.jpg" "Ars Nova" >}}
 
-**Ars Nova**, een vrij pretentieuse Latijnse naam, betekent "nieuwe kunst" en verwijst naar een middeleeuws muziekgenre.
+**Ars Nova**, een vrij pretentieuze Latijnse naam, betekent "nieuwe kunst" en verwijst naar een middeleeuws muziekgenre.
 
-Dit akoestische album is in het art rock-genre gespeeld. We hebben geprobeerd om een fusie van twee concurrerende en onverenigbare genres, rock en bardgezang, te creëren. Zulke experimenten wekken vaak volkomen tegengestelde meningen op.
+Dit akoestische album is in het art rock-genre gespeeld. We hebben geprobeerd om een fusie van twee concurrerende en onverenigbare genres, rock en bardenzang, te creëren. Zulke experimenten wekken vaak volkomen tegengestelde meningen op.

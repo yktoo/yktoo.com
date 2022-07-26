@@ -19,23 +19,30 @@
 {{- end }}
 
 {{ define "heading" }}
-{{ if .IsHome }}
-<div class="jumbotron">
+{{- if .IsHome }}
+<!-- Jumbotron -->
+<div class="jumbotron border-bottom">
+    <!-- Blog title -->
     <h1 class="display-4">{{ T "blogTitle" }}</h1>
-    <p>
+
+    <!-- Blog subtitle -->
+    <div>
         <div class="lead">{{ T "blogSubtitle" }}</div>
         <div>(<a class="internal" href="{{ relLangURL `/about/` }}">{{ T "blogSubtitleAbout" }}</a>)</div>
-    </p>
-    <hr class="my-4">
-    {{ range .Translations }}
-    <a class="btn btn-outline-secondary btn-lg" href="{{ .Permalink }}" role="button" title="{{ .Language.LanguageName }}">
-        <span class="flag {{ .Language.Lang }} mr-1"></span>
-        <span>{{ T (print "nativeReadIn_" .Language.Lang) }}</span>
-    </a>
-    {{ end }}
+    </div>
+
+    <!-- Alternative language versions -->
+    <div class="py-4">
+        {{ range .Translations }}
+        <a class="btn btn-outline-secondary btn-lg" href="{{ .Permalink }}" role="button" title="{{ .Language.LanguageName }}">
+            <span class="flag {{ .Language.Lang }}"></span>
+            <span class="ml-1 d-none d-sm-inline">{{ .Language.LanguageName }}</span>
+        </a>
+        {{ end }}
+    </div>
 </div>
-{{ end }}
-{{ end }}
+{{- end }}
+{{- end }}
 
 {{ define "main" }}
 <!-- Blog feed -->

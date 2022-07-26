@@ -5,7 +5,7 @@ aliases:
     - /en/musicalbums
 ---
 
-{{< img "radiolaria.jpg" "Radiolaria at the 12th anniversary of \"Tyumenskie Izvestiya\", September 2002." "article-opener" >}}
+{{< opener-image "radiolaria.jpg" "Radiolaria at the 12th anniversary of \"Tyumenskie Izvestiya\", September 2002." >}}
 
 In the period 1997-2003 I was a part of the **Radiolaria** (Russian: {{< fl "Радиолярия" >}}) duo, the other member of which was my schoolmate Igor Abakumov. Back then we were actively exploring a broad range of musical genres, from bard author song to acoustic rock to art rock to progressive metal.
 

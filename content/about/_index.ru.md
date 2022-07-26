@@ -4,7 +4,7 @@ showHeading: true
 layout: single
 ---
 
-{{< img "dk.jpg" "Дмитрий Канн" "article-opener" >}}
+{{< opener-image "dk.jpg" "Дмитрий Канн" >}}
 
 ## Про меня
 

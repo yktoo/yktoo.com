@@ -4,7 +4,7 @@ showHeading: true
 layout: single
 ---
 
-{{< img "dk.jpg" "Dmitry Kann" "article-opener" >}}
+{{< opener-image "dk.jpg" "Dmitry Kann" >}}
 
 ## Over mezelf
 

@@ -20,7 +20,7 @@ imageCredit: "Фото: llulila/Pixabay."
 
 ## Хорошая видимость ⇒ дневные огни
 
-{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/axvf6tjxjjaamqfudi86.jpg" "Дневные ходовые огни" "article-opener" >}}
+{{< opener-image "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/axvf6tjxjjaamqfudi86.jpg" "Дневные ходовые огни" >}}
 
 В условиях хорошей видимости используются обычные дневные ходовые фонари ({{< wiki "Дневные_ходовые_огни" "ru" "DRL" >}}).
 
@@ -30,7 +30,7 @@ imageCredit: "Фото: llulila/Pixabay."
 
 ## Ограниченная видимость ⇒ ближний свет
 
-{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/yhl3v4ot6d9dxhxeh1at.jpg" "Ближний свет" "article-opener" >}}
+{{< opener-image "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/yhl3v4ot6d9dxhxeh1at.jpg" "Ближний свет" >}}
 
 В условиях ограниченной видимости — например, из-за тумана — водитель [обязан](https://www.anwb.nl/verkeer/veiligheid/mist-waarschuwing) включать ближний свет.
 
@@ -44,7 +44,7 @@ imageCredit: "Фото: llulila/Pixabay."
 
 ## Туман или осадки ⇒ противотуманные фары
 
-{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/pykcrgalimjk9j2v526a.jpg" "Противотуманные фары" "article-opener" >}}
+{{< opener-image "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/pykcrgalimjk9j2v526a.jpg" "Противотуманные фары" >}}
 
 Противотуманные фары обладают повышенной яркостью, поэтому их [запрещено](https://www.anwb.nl/auto/onderhoud-en-reparatie/autoverlichting-en-autoruiten/soorten-autoverlichting) использовать без необходимости.
 
@@ -56,7 +56,7 @@ imageCredit: "Фото: llulila/Pixabay."
 
 ## Очень плотный туман или снегопад ⇒ задний фонарь
 
-{{< img "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/ebipwopwyagqgu01paqe.jpg" "Задний противотуманный фонарь" "article-opener" >}}
+{{< opener-image "https://res.cloudinary.com/yktoo/image/upload/t_media_lib_thumb/blog/ebipwopwyagqgu01paqe.jpg" "Задний противотуманный фонарь" >}}
 
 Задний противотуманный фонарь разрешается включать *исключительно* при очень плохой видимости — ниже **50 м**, и только в случае тумана или снегопада, но *не дождя* (та же [статья 34 правил](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&hoofdstuk=II&paragraaf=13&artikel=34&z=2020-01-01&g=2020-01-01)).
 

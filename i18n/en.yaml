@@ -132,10 +132,6 @@
 - {id: yourEmail,         translation: Your email}
 - {id: yourName,          translation: Your name}
 
-- {id: nativeReadIn_en,   translation: In English}
-- {id: nativeReadIn_nl,   translation: In het Nederlands}
-- {id: nativeReadIn_ru,   translation: На русском}
-
 - id: uaWarWarning
   translation: >
     Russia is waging a war in Ukraine, in which Russian troops are killing, torturing, raping, and pillaging the

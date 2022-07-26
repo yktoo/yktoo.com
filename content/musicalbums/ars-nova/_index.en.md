@@ -16,7 +16,7 @@ released: Recorded and mixed in **March-May 2001** at DaleTech Records (Tyumen, 
 parent: /radiolaria
 ---
 
-{{< img "ars-nova.jpg" "Ars Nova" "article-opener" >}}
+{{< opener-image "ars-nova.jpg" "Ars Nova" >}}
 
 The somewhat pretentious Latin expression means "new art" and refers to a medieval musical style.
 

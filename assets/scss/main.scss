@@ -87,13 +87,20 @@ body {
     text-align: center;
     background-color: transparent;
 }
-img.article-opener {
-    float: left;
-    border-radius: 6px;
-    margin: 0.5em 2em 1em 0;
-    max-width: 250px;
+
+.opener-image {
+    margin: 0 0 1rem 0;
+    width: 100%;
     height: auto;
+    border-radius: 6px;
+
+    @include media-breakpoint-up(sm) {
+        float: left;
+        margin: 0.5em 2em 1em 0;
+        max-width: 250px;
+    }
 }
+
 section {
     margin-bottom: 2rem;
 }

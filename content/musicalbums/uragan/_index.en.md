@@ -15,7 +15,7 @@ released: These tracks have been recorded and mixed in **2002-2003** at DaleTech
 parent: /radiolaria
 ---
 
-{{< img "uragan.jpg" "Uragan" "article-opener" >}}
+{{< opener-image "uragan.jpg" "Uragan" >}}
 
 Uragan (Russian: {{< fl "Ураган" >}}) means "Hurricane" in Russian.
 

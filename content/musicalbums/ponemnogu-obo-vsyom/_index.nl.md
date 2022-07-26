@@ -18,7 +18,7 @@ released: Opgenomen en gemizt in **januari 2002** bij DaleTech Records (Tjoemen,
 parent: /radiolaria
 ---
 
-{{< img "ponemnogu-obo-vsyom.jpg" "Ponemnogu obo Vsyom" "article-opener" >}}
+{{< opener-image "ponemnogu-obo-vsyom.jpg" "Ponemnogu obo Vsyom" >}}
 
 Ponemnogu obo Vsyom (Russisch: {{< fl "Понемногу обо всём" >}}) betekent "Een beetje over alles" in het Russisch.
 

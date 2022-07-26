@@ -15,7 +15,7 @@ released: Deze nummers zijn in **2002-2003** opgenomen en gemixt bij DaleTech Re
 parent: /radiolaria
 ---
 
-{{< img "uragan.jpg" "Uragan" "article-opener" >}}
+{{< opener-image "uragan.jpg" "Uragan" >}}
 
 Uragan (Russisch: {{< fl "Ураган" >}}) betekent "Orkaan" in het Russisch.
 

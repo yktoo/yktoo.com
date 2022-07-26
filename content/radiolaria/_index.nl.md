@@ -5,7 +5,7 @@ aliases:
     - /nl/musicalbums
 ---
 
-{{< img "radiolaria.jpg" "Radiolaria treedt op bij 12-jarig jubileum van \"Tjoemen Izvestija\", september 2002." "article-opener" >}}
+{{< opener-image "radiolaria.jpg" "Radiolaria treedt op bij 12-jarig jubileum van \"Tjoemen Izvestija\", september 2002." >}}
 
 In de periode 1997 t/m 2003 was ik één van de deelnemers aan een duet genaamd **Radiolaria** (Russisch: {{< fl "Радиолярия" >}}), waarvan het tweede lid mijn klasgenoot Igor Abakoemov was. Destijds ontwikkelde de band zich richting een breed scala aan muzikale genres, van bardgezang tot akoestische rock, art rock en progressive metal.
 
