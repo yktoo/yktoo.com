@@ -11,7 +11,7 @@ jobs:
 
       - name: Install hugo
         run: |
-          export HUGO_VERSION=0.89.0
+          export HUGO_VERSION=0.101.0
           curl -fSLO "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.deb"
           sudo dpkg -i "hugo_extended_${HUGO_VERSION}_Linux-64bit.deb"
 
@@ -27,10 +27,8 @@ jobs:
       - name: Run HTMLProofer
         run:
           bundle exec htmlproofer public/
+            --allow_missing_href
+            --checks=Links,Images,Scripts,Favicon,OpenGraph
             --disable-external
-            --ignore-urls '/^mailto:\?body=/'
-            --allow-hash-href
-            --check-favicon
-            --check-html
-            --check-img-http
-            --check-opengraph
+            --enforce-https=false
+            --ignore_empty_mailto
