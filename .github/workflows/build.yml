@@ -27,8 +27,8 @@ jobs:
       - name: Run HTMLProofer
         run:
           bundle exec htmlproofer public/
-            --allow_missing_href
-            --checks=Links,Images,Scripts,Favicon,OpenGraph
-            --disable-external
-            --enforce-https=false
-            --ignore_empty_mailto
+            --allow-missing-href  true
+            --checks              Links,Images,Scripts,Favicon,OpenGraph
+            --disable-external    true
+            --enforce-https       false
+            --ignore-empty-mailto true
