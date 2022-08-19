@@ -13,7 +13,7 @@ showHeading: true
 
 ## Вы можете добавить в Ymuse поддержку MPRIS?
 
-Делать это ненужно, так как уже есть проект [mpDris2](https://github.com/eonpatapon/mpDris2) (см. следующий вопрос).
+Делать этого не требуется, так как уже есть проект [mpDris2](https://github.com/eonpatapon/mpDris2) (см. следующий вопрос).
 
 ## Как привязать медиаклавиши на клавиатуре к Ymuse?
 
@@ -25,11 +25,3 @@ showHeading: true
 ```bash
 sudo apt install mpdris2
 ```
-
-## Ymuse не отображает картинки альбомов из аудиофайлов!
-
-Да, это так. {{< fl "Ymuse" >}} получает картинки напрямую от {{< abbr "MPD" "Music Player Daemon" >}}, который, в свою очередь, [ищет файл с предопределённым именем](https://mpd.readthedocs.io/en/latest/protocol.html#the-music-database) в том же каталоге, где лежит аудиофайл:
-
-> Это реализовано с помощью просмотра каталога, где находится [аудио]файл, и поиска файла с названием `cover.png`, `cover.jpg`, `cover.tiff` или `cover.bmp`.
-
-Хорошая новость: поддержка картинок, содержащихся в аудиофайлах, в {{< fl "Ymuse" >}} уже [запланирована](https://github.com/yktoo/ymuse/issues/52).
