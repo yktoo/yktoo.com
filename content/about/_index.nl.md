@@ -4,7 +4,7 @@ showHeading: true
 layout: single
 ---
 
-{{< opener-image "dk.jpg" "Dmitry Kann" >}}
+{{< opener-image "https://res.cloudinary.com/yktoo/image/upload/v1661883516/dk.jpg" "Dmitry Kann" >}}
 
 ## Over mezelf
 
@@ -12,7 +12,7 @@ Hallo! Mijn naam is Dmitry Kann (cyrillisch: {{< fl "Дмитрий Канн" >}
 
 Ik ben softwareontwikkelaar en oprichter van een klein softwarebedrijf [Yktoo Solutions](https://yktoo.solutions).
 
-Ik heb enkele hobby's om mijn vrije tijd aan te besteden: [blogging](/), open-source [softwareontwikkeling](en;/software), [muziek](en;/tags/music), [reizen](en;/tags/travel), [aikido](en;/tags/aikido) en [hardlopen](en;/tags/running). Ook was ik ooit een lid van het [Radiolaria](en;/radiolaria) duet.
+Ik heb enkele hobby's om mijn vrije tijd aan te besteden: blogging, open-source [softwareontwikkeling](en;/software), muziek, reizen, aikido en hardlopen. Ook was ik ooit een lid van het [Radiolaria](en;/radiolaria) duet.
 
 Ik spreek Russisch, Engels en Nederlands. Als je contact met me op wilt nemen, dan kun je het beste de [contactpagina](/about/contact) gebruiken.
 
