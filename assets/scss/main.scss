@@ -19,7 +19,6 @@ $primary-fade: fade_out($primary, 0.7);
 $primary-light: adjust_color($primary, $saturation: -50%, $lightness: 40%);
 $primary-pale: adjust_color($primary, $saturation: -70%, $lightness: 20%);
 $primary-alt: #fc0; // Second primary brand colour
-$primary-alt-fade: fade_out($primary-alt, 0.87);
 
 // Secondary elements
 $body-color: #666;
@@ -208,8 +207,8 @@ td.date {
 
 // Blockquotes
 blockquote {
-    background-color: $primary-alt-fade;
-    border-left: 2px solid $primary-alt;
+    background-color: $gray-100;
+    border-left: 2px solid transparentize($primary, 0.6);
     border-bottom-right-radius: 18px;
     padding: 1rem;
 
