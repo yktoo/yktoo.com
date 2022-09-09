@@ -8,6 +8,7 @@ tags:
     - web
     - website
     - abbreviations
+    - acronyms
     - Dutch language
     - announcement
 image: afk.best-en.png
