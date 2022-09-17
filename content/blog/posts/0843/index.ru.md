@@ -13,7 +13,7 @@ tags:
 image: "https://img.youtube.com/vi/Oaoxth-jT7w/maxresdefault.jpg"
 ---
 
-Обнаружил свежее [видео](https://www.youtube.com/watch?v=Oaoxth-jT7w) Хаутена — города, где мы [живём](/series/houten) — с высоты квадрокоптерного полёта, снятое в разрешении {{< fl "4K" >}} на {{< fl "DJI Mini 3 Pro" >}}.
+Обнаружил свежее [видео](https://yktoo.me/qTqAIq) Хаутена — города, где мы [живём](/series/houten) — с высоты квадрокоптерного полёта, снятое в разрешении {{< fl "4K" >}} на {{< fl "DJI Mini 3 Pro" >}}.
 
 <!--more-->
 
@@ -23,4 +23,6 @@ image: "https://img.youtube.com/vi/Oaoxth-jT7w/maxresdefault.jpg"
 
 Только вот, на мой вкус, лучше было бы показывать помедленнее, чтобы можно было рассмотреть подробности. Или это я такой тормоз?
 
-На канале [Drone Chiefs](https://yktoo.me/VzyoDW), кстати, много видео других голландских городов, (например, [Амерсфорта](https://yktoo.me/o7tBoh)).
+На канале [Drone Chiefs](https://yktoo.me/VzyoDW), кстати, много видео других голландских городов, например, [Амерсфорта](https://yktoo.me/o7tBoh):
+
+{{< youtube "KUD7Fw_TEQg" >}}
