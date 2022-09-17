@@ -8,6 +8,7 @@ tags:
     - экология
     - красивое
     - аэрофотосъёмка
+    - съёмка с высоты
     - свет
     - теплица
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/lbol8gspmhktabodv0a5.jpg"

@@ -8,6 +8,7 @@ tags:
     - environment
     - beautiful
     - aerial photography
+    - aerial view
     - light
     - greenhouse
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/lbol8gspmhktabodv0a5.jpg"
