@@ -13,7 +13,7 @@ tags:
 image: "https://img.youtube.com/vi/Oaoxth-jT7w/maxresdefault.jpg"
 ---
 
-I've found recent [aerial footage](https://www.youtube.com/watch?v=Oaoxth-jT7w) of Houten, the town we're [living](/series/houten) in, shot in **4K** with a DJI Mini 3 Prop.
+I've found recent [aerial footage](https://www.youtube.com/watch?v=Oaoxth-jT7w) of Houten, the town we're [living](/series/houten) in, shot in **4K** with a DJI Mini 3 Pro.
 
 <!--more-->
 
@@ -22,3 +22,5 @@ It's a quality little film showing the main highlights and characteristic places
 {{< youtube "Oaoxth-jT7w" >}}
 
 However, I'd actually like the video at a slower pace better, so that the details would be easier to make out.
+
+The [Drone Chiefs](https://yktoo.me/VzyoDW) YouTube channel has a bunch of other drone videos of Dutch towns, (for example, [Amersfoort](https://yktoo.me/o7tBoh)).
