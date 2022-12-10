@@ -40,4 +40,4 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/rrmu6l4rldpb68kdfapr.
 
 ## Исходный код
 
-Сайт [electrodynamics.info](https://electrodynamics.info) построен с помощью моего любимого генератора статических сайтов [Hugo](https://gohugo.io/). Исходный код доступен [на GitHub](https://github.com/yktoo/electrodynamics) (лицензия [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ru)).
+Сайт [electrodynamics.info](https://electrodynamics.info) построен с помощью моего любимого генератора статических сайтов [Hugo](https://gohugo.io/). Исходный код доступен [на GitHub](https://github.com/yktoo/electrodynamics) (лицензия [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ru)).
