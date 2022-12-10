@@ -737,13 +737,15 @@ div[style*="56.25%"] {
             .fas {
                 padding: 0 1rem;
                 opacity: 0.5;
+                transition: all ease 0.5s;
+
                 &::before {
                     content: "\f077";
                 }
             }
             &.collapsed {
-                .fas::before {
-                    content: "\f078";
+                .fas {
+                    transform: rotate(180deg);
                 }
             }
         }
