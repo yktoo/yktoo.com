@@ -8,8 +8,12 @@
 
 {{ define "main" }}
 <section id="glossary">
+    <!-- Filter form -->
+    {{- partial "filter-form" }}
+
     <!-- Iterate all glossary terms -->
     {{- range sort .Pages "Title" }}
+    <div class="filterable">
         <h4><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>{{- with .Params.altTitles }} <small class="text-muted">({{ delimit . ", "}})</small>{{ end }}</h4>
         <article class="ml-5">
             {{- with default (markdownify .Params.description) .Summary }}
@@ -25,6 +29,7 @@
                 <p><a href="{{ .Permalink }}" class="btn btn-outline-primary">{{ T "details" }}</a></p>
             {{- end }}{{ end }}
         </article>
+    </div>
     {{- end }}
 </section>
 {{ end }}

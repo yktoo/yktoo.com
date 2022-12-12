@@ -17,15 +17,13 @@
 </div>
 {{- end }}
 
-<!-- Blog feed -->
-<div class="blog-feed">
-    {{ range .Paginator.Pages }}
-    {{ .Render "list-item" }}
-    {{ end }}
-</div>
+<!-- Filter form -->
+{{- partial "filter-form" }}
 
-<!-- Paginator -->
-<div class="blog-paginator">
-    {{ template "_internal/pagination.html" . }}
-</div>
-{{ end }}
+<!-- Article list -->
+<ol>
+    {{- range sort .Pages ".Title" }}
+    <li class="filterable"><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></li>
+    {{- end }}
+</ol>
+{{- end }}

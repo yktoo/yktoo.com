@@ -109,7 +109,50 @@ $(document).ready(function () {
                 curTrack = undefined;
             }
         }
+    })();
 
+    /**
+     * Initialise the filtering mechanism.
+     */
+    (function () {
+        let timer;
+        const filterBox = $('#filterBox');
+
+        // Disable submitting the form
+        filterBox.closest('form').submit(function(e) {
+            e.preventDefault();
+            e.stopPropagation();
+        });
+
+        /**
+         * Remove search timer, if any.
+         */
+        function clearTimer() {
+            if (timer !== undefined) {
+                clearTimeout(timer);
+                timer = undefined;
+            }
+        }
+
+        /**
+         * Perform search.
+         */
+        function doFilterPage() {
+            const s = filterBox.val().toLowerCase();
+            $('.filterable').each(function () {
+                const e = $(this);
+                e.toggleClass('d-none', s !== '' && !e.text().toLowerCase().includes(s));
+            });
+        }
+
+        // Add a search pattern change listener
+        filterBox.on('keyup change paste', function () {
+            clearTimer();
+            timer = setTimeout(doFilterPage, 250);
+        });
+
+        // On pressing Enter or clearing the input, trigger search immediately
+        filterBox.on('search', doFilterPage);
     })();
 
     /**
