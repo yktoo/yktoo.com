@@ -17,7 +17,7 @@ series: ymuse
 software: ymuse
 ---
 
-Обалденная [новость](https://github.com/yktoo/ymuse/issues/62) от Martin Dosch: [Ymuse](/software/ymuse) попал в официальные [репозитории Ubuntu](https://launchpad.net/ubuntu/+source/ymuse)!
+Обалденная [новость](https://github.com/yktoo/ymuse/issues/62) от {{< fl "Martin Dosch" >}}: [Ymuse](/software/ymuse) попал в официальные [репозитории Ubuntu](https://launchpad.net/ubuntu/+source/ymuse)!
 
 [Ymuse](/software/ymuse) — это приложение-клиент для [Music Player Daemon](https://www.musicpd.org/), написанное на языке {{< fl "Go" >}}.
 
