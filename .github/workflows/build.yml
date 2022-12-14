@@ -19,7 +19,7 @@ jobs:
 
       - name: Install hugo
         run: |
-          export HUGO_VERSION=0.101.0
+          export HUGO_VERSION=0.108.0
           curl -fSLO "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.deb"
           sudo dpkg -i "hugo_extended_${HUGO_VERSION}_Linux-64bit.deb"
 

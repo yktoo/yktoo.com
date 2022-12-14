@@ -5,6 +5,9 @@
   "main": "index.js",
   "scripts": {
     "backup": "./_dev_/cloudinary-backup -d",
+    "prebuild": "rm -rf public",
+    "build": "hugo --gc --minify",
+    "postbuild": "cp public/en/_redirects public/ && rm public/index.html",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "hugo server -DF"
   },
