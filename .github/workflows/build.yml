@@ -3,7 +3,7 @@ on:
   - push
 
 jobs:
-  check:
+  test:
     runs-on: ubuntu-latest
 
     steps:
@@ -40,3 +40,6 @@ jobs:
             --disable-external    true
             --enforce-https       false
             --ignore-empty-mailto true
+
+      - name: End-2-end tests
+        run: npm run cy:ci
