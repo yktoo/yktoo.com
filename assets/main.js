@@ -44,18 +44,11 @@ $(document).ready(function () {
      */
     $('.image-popup').magnificPopup({
         type: 'image',
-        removalDelay: 160, // Delay removal by X to allow out-animation
-        callbacks: {
-            beforeOpen: function () {
-                // Hack that adds mfp-anim class to markup
-                this.st.image.markup = this.st.image.markup.replace('mfp-figure', 'mfp-figure mfp-with-anim');
-                this.st.mainClass = this.st.el.attr('data-effect');
-            }
-        },
+        mainClass: 'mfp-figure',
         closeOnContentClick: true,
-        midClick: true,
-        fixedContentPos: false,
-        fixedBgPos: true
+        gallery: {
+            enabled: true,
+        },
     });
 
     /**

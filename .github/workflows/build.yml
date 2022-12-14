@@ -9,6 +9,14 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+            node-version: 18
+
+      - name: Install dependencies
+        run: npm ci
+
       - name: Install hugo
         run: |
           export HUGO_VERSION=0.101.0

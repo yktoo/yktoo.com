@@ -42,8 +42,14 @@ $enable-shadows: true;
 $enable-gradients: true;
 $enable-responsive-font-sizes: true;
 
-// Import Bootstrap
-@import "../bootstrap-4.6.1/scss/bootstrap";
+// Import dependencies
+@import "node_modules/bootstrap/scss/bootstrap";
+@import "node_modules/@fortawesome/fontawesome-free/scss/fontawesome";
+@import "node_modules/@fortawesome/fontawesome-free/scss/solid";
+@import "node_modules/@fortawesome/fontawesome-free/scss/brands";
+@import "node_modules/magnific-popup/dist/magnific-popup";
+@import "node_modules/cookieconsent/build/cookieconsent.min";
+@import "node_modules/aos/dist/aos";
 
 //noinspection CssUnknownTarget
 body {
@@ -811,4 +817,13 @@ blockquote.twitter-tweet {
             text-decoration: underline;
         }
     }
+}
+
+// Magnific Popup
+.mfp-figure {
+    animation: fade-in-animation 0.33s ease-in-out forwards 1;
+}
+@keyframes fade-in-animation {
+    from { opacity: 0; }
+    to   { opacity: 1; }
 }

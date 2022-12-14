@@ -1,8 +1,0 @@
-{{- $css := slice        (resources.Get "scss/main.scss" | toCSS)    -}}
-{{- $css = $css | append (resources.Get "scss/main.scss" | toCSS)    -}}
-{{- $css = $css | append (resources.Get "fontawesome-6.1.1/all.css") -}}
-{{- $css = $css | append (resources.Get "css/magnific.css")          -}}
-{{- $css = $css | append (resources.Get "css/cookieconsent.min.css") -}}
-{{- $css = $css | append (resources.Get "aos@3.0.0-beta.6/aos.css")  -}}
-<!-- Make a minified bundle of all stylesheets -->
-<link href="{{ ($css | resources.Concat `css/bundle.css` | minify).Permalink }}" rel="stylesheet">

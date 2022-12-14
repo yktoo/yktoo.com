@@ -4,11 +4,11 @@
     const cookieLink    = '{{ T "cookieLink" }}';
     const cookieInfoUrl = '{{ .Site.Params.cookieConsentInfoUrl | absLangURL }}';
 </script>
-{{- $js := slice (resources.Get "js/jquery-3.4.1.js")           -}}
-{{- $js = $js | append (resources.Get "js/popper.js")           -}}
-{{- $js = $js | append (resources.Get "js/bootstrap.js")        -}}
-{{- $js = $js | append (resources.Get "js/magnific.js")         -}}
-{{- $js = $js | append (resources.Get "js/cookieconsent.js")    -}}
-{{- $js = $js | append (resources.Get "js/aos-3.0.0-beta.6.js") -}}
-{{- $js = $js | append (resources.Get "js/main.js")             -}}
+{{- $js := slice       (resources.Get "node_modules/jquery/dist/jquery.js") -}}
+{{- $js = $js | append (resources.Get "node_modules/popper.js/dist/umd/popper.js") -}}
+{{- $js = $js | append (resources.Get "node_modules/bootstrap/dist/js/bootstrap.js") -}}
+{{- $js = $js | append (resources.Get "node_modules/magnific-popup/dist/jquery.magnific-popup.js") -}}
+{{- $js = $js | append (resources.Get "node_modules/cookieconsent/src/cookieconsent.js") -}}
+{{- $js = $js | append (resources.Get "node_modules/aos/dist/aos.js") -}}
+{{- $js = $js | append (resources.Get "main.js") -}}
 <script src="{{ ($js | resources.Concat `js/bundle.js` | minify).Permalink }}"></script>

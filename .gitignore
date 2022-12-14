@@ -1,5 +1,6 @@
-/.hugo_build.lock
-.idea/
+.hugo_build.lock
 *.iml
+/.idea/
+/node_modules
 /public/
 /resources/

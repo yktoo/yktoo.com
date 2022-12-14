@@ -56,6 +56,20 @@ params:
     rssLimit: 15
     shortDateFormat: 'MON D, YYYY'
 
+module:
+    hugoVersion:
+        extended: true
+        min: "v0.108.0"
+    mounts:
+        - source: node_modules
+          target: assets/node_modules
+        - source: assets
+          target: assets
+        - source: node_modules/@fortawesome/fontawesome-free/webfonts
+          target: static/webfonts
+        - source: static
+          target: static
+
 # Related indices settings
 related:
     threshold: 0
