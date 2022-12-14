@@ -42,4 +42,6 @@ jobs:
             --ignore-empty-mailto true
 
       - name: End-2-end tests
-        run: npm run cy:ci
+        run: |
+          hugo server --disableBrowserError --disableFastRender --disableLiveReload &
+          npm run cy:ci
