@@ -7,6 +7,7 @@ tags:
     - айкидо
     - Ляйден
     - спорт
+    - экзамен
     - 合気道
     - 弐段
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/t054atyczr6q1664.jpg"

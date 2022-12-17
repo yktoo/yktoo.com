@@ -55,7 +55,7 @@
 - {id: more,              translation: Meer}
 - {id: moreToRead,        translation: Meer om te lezen}
 - {id: mySocialLinks,     translation: Mijn sociale links}
-- {id: noContentCurLang,  translation: 'Geen Nederlandstalige inhoud beschikbaar.<br><big>¯\_(ツ)_/¯</big><br>Probeer een andere taal te kiezen bovenaan deze pagina.'}
+- {id: noContentCurLang,  translation: 'Geen Nederlandstalige inhoud beschikbaar.<br><br><big>¯\_(ツ)_/¯</big><br><br>Probeer een andere taal te kiezen bovenaan deze pagina.'}
 - {id: numPages,          translation: {one: '{{ .Count }} pagina', other: '{{ .Count }} pagina''s'}}
 - {id: numVideos,         translation: {one: '{{ .Count }} video', other: '{{ .Count }} video''s'}}
 - {id: once-to,           translation: once.to}
@@ -119,7 +119,6 @@
 - {id: termsOfService,    translation: Algemene voorwaarden}
 - {id: timeline,          translation: Tijdlijn}
 - {id: tracklist,         translation: Tracklijst}
-- {id: underConstruction, translation: 'NB: deze pagina is in aanbouw.'}
 - {id: viaThisLink,       translation: via deze link}
 - {id: videoEvInCategory, translation: In}
 - {id: videoFromEvent,    translation: Uit}

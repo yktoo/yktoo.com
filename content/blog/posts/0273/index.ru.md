@@ -14,6 +14,7 @@ tags:
     - Рудик Манукян
     - спорт
     - Тюмень
+    - экзамен
     - 合気道
     - 初段
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/xy78lk9reebq3294.jpg"

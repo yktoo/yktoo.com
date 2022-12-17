@@ -9,6 +9,7 @@ tags:
     - алкоголь
     - здоровье
     - статистика
+    - экзамен
     - Preventieakkord
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/h6kolpyckdnnsf3exr0e.jpg"
 imageCredit: "Фото: Michal Jarmoluk/Pixabay."

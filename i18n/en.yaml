@@ -55,7 +55,7 @@
 - {id: more,              translation: More}
 - {id: moreToRead,        translation: More to Read}
 - {id: mySocialLinks,     translation: My social links}
-- {id: noContentCurLang,  translation: 'No English content available.<br><big>¯\_(ツ)_/¯</big><br>Try selecting another language from the menu above.'}
+- {id: noContentCurLang,  translation: 'No English content available.<br><br><big>¯\_(ツ)_/¯</big><br><br>Try selecting another language from the menu above.'}
 - {id: numPages,          translation: {one: 'One page', other: '{{ .Count }} pages'}}
 - {id: numVideos,         translation: {one: 'One video', other: '{{ .Count }} videos'}}
 - {id: once-to,           translation: once.to}
@@ -119,7 +119,6 @@
 - {id: termsOfService,    translation: Terms of service}
 - {id: timeline,          translation: Timeline}
 - {id: tracklist,         translation: Tracklist}
-- {id: underConstruction, translation: 'NB: this section is under construction.'}
 - {id: viaThisLink,       translation: via this link}
 - {id: videoEvInCategory, translation: In}
 - {id: videoFromEvent,    translation: From}
