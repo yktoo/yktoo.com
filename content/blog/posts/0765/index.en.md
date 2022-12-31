@@ -1,7 +1,7 @@
 ---
 type: post
 date: "2021-01-13T14:57:46+01:00"
-title: "So long two twenty-twenty (finally)"
+title: "So long twenty-twenty (finally)"
 tags:
     - 2020
     - New Year

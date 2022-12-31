@@ -1,7 +1,7 @@
 ---
 type: post
 date: "2021-12-31T02:35:53+01:00"
-title: "So long two twenty-twenty-one"
+title: "So long twenty-twenty-one"
 tags:
     - 2021
     - New Year
