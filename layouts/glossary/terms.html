@@ -1,5 +1,6 @@
 {{ define "heading" }}
-<div class="jumbotron">
+<!-- Jumbotron -->
+<div class="p-5 mb-4 text-center">
     <div class="display-2">📑</div>
     <h1 class="display-4">{{ .Title }}</h1>
     <p class="lead">{{ .Params.subtitle }}</p>
@@ -16,7 +17,7 @@
     {{- range sort . "Title" }}
     <div class="filterable">
         <h4><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>{{- with .Params.altTitles }} <small class="text-muted">({{ delimit . ", "}})</small>{{ end }}</h4>
-        <article class="ml-5">
+        <article class="ms-5">
             {{- with default (markdownify .Params.description) .Summary }}
                 <!-- If there's at least one paragraph in description, render as is; otherwise wrap it in one -->
                 {{- if in (. | string) "<p>" }}{{ . }}{{ else }}<p>{{ . }}</p>{{ end }}

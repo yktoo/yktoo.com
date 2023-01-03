@@ -42,12 +42,12 @@ By viewing this website you're consenting to the [Privacy policy](/about/privacy
 
 The site's source code is available [on GitHub](https://github.com/yktoo/yktoo.com). The source code and all the accompanying content are distributed under the terms of the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license unless otherwise specified.
 
-{{< button "https://creativecommons.org/licenses/by-nc-sa/4.0/" "<i class='fab fa-creative-commons'></i><i class='fab fa-creative-commons-by'></i><i class='fab fa-creative-commons-nc'></i><i class='fab fa-creative-commons-sa mr-1'></i>Licensed under CC-BY-NC-SA 4.0" >}}
-{{< button "https://github.com/yktoo/yktoo.com" "<i class='fab fa-github mr-1'></i>View on GitHub" >}}
+{{< button "https://creativecommons.org/licenses/by-nc-sa/4.0/" "<i class='fab fa-creative-commons'></i><i class='fab fa-creative-commons-by'></i><i class='fab fa-creative-commons-nc'></i><i class='fab fa-creative-commons-sa me-1'></i>Licensed under CC-BY-NC-SA 4.0" >}}
+{{< button "https://github.com/yktoo/yktoo.com" "<i class='fab fa-github me-1'></i>View on GitHub" >}}
 
 ## Donate
 
 Should you feel an irresistible urge to support me and/or free software, feel free to make a donation [via PayPal](https://paypal.me/yktoo) or become a patron on [Patreon](https://www.patreon.com/yktoo).
 
-{{< button "https://paypal.me/yktoo" "<i class='fab fa-paypal mr-1'></i>Paypal" >}}
-{{< button "https://www.patreon.com/yktoo" "<i class='fab fa-patreon mr-1'></i>Patreon" >}}
+{{< button "https://paypal.me/yktoo" "<i class='fab fa-paypal me-1'></i>Paypal" >}}
+{{< button "https://www.patreon.com/yktoo" "<i class='fab fa-patreon me-1'></i>Patreon" >}}

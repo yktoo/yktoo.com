@@ -34,7 +34,7 @@
     <h2>{{ T "comments" }}</h2>
     <!-- Do not insert comments block when running on localhost -->
     {{- if in (print $.Site.BaseURL) "localhost" }}
-    <div class="placeholder">(comments will go here)</div>
+    <div class="placeholder-box">(comments will go here)</div>
     {{- else }}
     <div id="commento"></div>
     <script defer src="{{ .Site.Params.commentoUrl }}" data-page-id="/video/track/{{ .File.ContentBaseName }}"></script>

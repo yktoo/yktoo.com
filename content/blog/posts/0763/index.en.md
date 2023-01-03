@@ -35,7 +35,7 @@ Just for your reference, a [snap package](https://snapcraft.io/ymuse) for [Ymuse
 
 But okay, there was a demand for a snap so there is one now. **Sound Switcher Indicator** can be installed directly from the [Snap Store](https://snapcraft.io/indicator-sound-switcher):
 
-{{< div "embed-responsive mb-3 border rounded" "height: 330px" >}}
+{{< div "ratio mb-3 border shadow" "height: 330px" >}}
 <iframe src="https://snapcraft.io/indicator-sound-switcher/embedded?button=black&summary=true"></iframe>
 {{< /div >}}
 

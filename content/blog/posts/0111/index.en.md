@@ -24,8 +24,8 @@ So, here's the interview with Daniël de Jong, Desperados; Bungalowpark 't Eekho
 
 ## Audio version {#audio}
 
-{{< div "embed-responsive pt-5" >}}
-<iframe class="embed-responsive-item" src="https://www.archive.org/embed/InterviewwithDanieldeJong_Desperados_"></iframe>
+{{< div "ratio pt-5" >}}
+<iframe src="https://www.archive.org/embed/InterviewwithDanieldeJong_Desperados_"></iframe>
 {{< /div >}}
 
 ## Text version {#transcript}
@@ -146,7 +146,7 @@ No, especially when you're on TV, on the radio, you all must be there, and all m
 
 **… flawless.**
 
-Yes. And now we're having shows, maybe in Frace and in Canada, they want us to play there. And then you have to leave your family… But it's a great adventure, I must say.
+Yes. And now we're having shows, maybe in France and in Canada, they want us to play there. And then you have to leave your family… But it's a great adventure, I must say.
 
 **Are you going to cross the ocean?**
 
@@ -178,7 +178,7 @@ In this place where you are now. We have a studio where we record it, but before
 
 **It sounds quite easy, so you just start to jam, or you first agree on…**
 
-No, we don't agree, we just do it. I noticed—when we talk too much, it takes away the energy. Because when you start talking as a musician, it becomes a friction. Always. Because then you say: yeah, but I want this, and you want that, but I want this too! And then you have these stupid fights—it's normal for musicians, everybode wants to have a part of it, and be proud of what they did.
+No, we don't agree, we just do it. I noticed—when we talk too much, it takes away the energy. Because when you start talking as a musician, it becomes a friction. Always. Because then you say: yeah, but I want this, and you want that, but I want this too! And then you have these stupid fights—it's normal for musicians, everybody wants to have a part of it, and be proud of what they did.
 
 **But also you're playing music that appeals to emotions, so you should keep it emotional, keep it warm.**
 
@@ -240,7 +240,7 @@ I write the English songs, and mostly you can call me a singer-songwriter with a
 
 Yes, so it's good, like what you're doing now, you're recording this…
 
-**It's exactly what occured to me now! We're basically doing the same thing: I write down my impressions to my blog, to keep it fresh, to just memorize it.**
+**It's exactly what occurred to me now! We're basically doing the same thing: I write down my impressions to my blog, to keep it fresh, to just memorize it.**
 
 It's great, and you keep it forever, right?
 
@@ -252,7 +252,7 @@ When we made our first album, it was very cheap and very simple, and not really 
 
 Oh yes. When we were in 2003, we didn't know what the hell we were doing. I mean—most of us, and not everyone…
 
-**Like many young people: they want to do something, but they don't know exacty what.**
+**Like many young people: they want to do something, but they don't know exactly what.**
 
 We had no clue. And music business—if I knew back then how it was—I would never thought like that.
 
@@ -306,11 +306,11 @@ And we rehearse here. The Beatles would say: the Cavern—they played there mill
 
 **Well, I was just planning to come, but I saw that the bar was closed. The season is over.**
 
-But we have some good parties here still to come. I think the next one is in the end of Semptember.
+But we have some good parties here still to come. I think the next one is in the end of September.
 
 **This music, is it your full-time job? I don't think it brings you much, you earn much from it.**
 
-No, because we have seven guys in the band, they must be millionairs to pay us good money. No, we all have our own jobs, professions, like I work here with Ignacio, the Mexican guy. We work here together in the park. And everybody else has a job, except Bulú, the percussionist.
+No, because we have seven guys in the band, they must be millionaires to pay us good money. No, we all have our own jobs, professions, like I work here with Ignacio, the Mexican guy. We work here together in the park. And everybody else has a job, except Bulú, the percussionist.
 
 **He's quite busy so he can afford that.**
 
@@ -336,7 +336,7 @@ But also the sound, was it a microphone or something special?
 
 For a small camera it's good.
 
-**I think the sound was good enought just because I was far enough from the speakers.**
+**I think the sound was good enough just because I was far enough from the speakers.**
 
 Yes, at the right spot.
 

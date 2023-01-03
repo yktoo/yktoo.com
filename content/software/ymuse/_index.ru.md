@@ -68,7 +68,7 @@ https://res.cloudinary.com/yktoo/image/upload/blog/vrqyquxgoncgxygly6kk.png На
 
 Если у вас {{< fl "Ubuntu" >}}, то {{< fl "Ymuse" >}} проще всего установить прямо из {{< fl "Ubuntu Snap Store" >}}:
 
-{{< div "embed-responsive mb-3 border rounded shadow" "height: 330px" >}}
+{{< div "ratio mb-3 border shadow" "height: 330px" >}}
 <iframe src="https://snapcraft.io/ymuse/embedded?button=black&summary=true"></iframe>
 {{< /div >}}
 

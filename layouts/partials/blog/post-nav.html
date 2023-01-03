@@ -3,12 +3,12 @@
     <li class="page-item{{ if not .NextInSection }} disabled{{ end }}">
         {{- with .NextInSection -}}
         <a href="{{ .Permalink }}" class="page-link" title="{{ .Title }}">
-            <i class="fas fa-arrow-left mr-1"></i>
+            <i class="fas fa-arrow-left me-1"></i>
             <span class="d-none d-sm-inline">{{ T "postNext" }}</span>
         </a>
         {{- else -}}
             <span class="page-link">
-                <i class="fas fa-arrow-left mr-1"></i>
+                <i class="fas fa-arrow-left me-1"></i>
                 <span class="d-none d-sm-inline">{{ T "postNext" }}</span>
             </span>
         {{- end -}}
@@ -17,7 +17,7 @@
     <li class="page-item">
         {{- with .GetPage `/` -}}
             <a href="{{ .Permalink }}" class="page-link">
-                <i class="fas fa-home mr-1"></i>
+                <i class="fas fa-home me-1"></i>
                 <span class="d-none d-sm-inline">{{ T "home" }}</span>
             </a>
         {{- end -}}
@@ -27,12 +27,12 @@
         {{- with .PrevInSection -}}
         <a href="{{ .Permalink }}" class="page-link" title="{{ .Title }}">
             <span class="d-none d-sm-inline">{{ T "postPrev" }}</span>
-            <i class="fas fa-arrow-right ml-1"></i>
+            <i class="fas fa-arrow-right ms-1"></i>
         </a>
         {{- else -}}
             <span class="page-link">
                 <span class="d-none d-sm-inline">{{ T "postPrev" }}</span>
-                <i class="fas fa-arrow-right ml-1"></i>
+                <i class="fas fa-arrow-right ms-1"></i>
             </span>
         {{- end -}}
     </li>

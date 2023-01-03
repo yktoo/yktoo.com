@@ -3,7 +3,7 @@
     {{- $id := print "spoiler-" (md5 .Inner) }}
     <div class="collapse my-3" id="{{ $id }}">{{ markdownify .Inner }}</div>
     <p class="toggler">
-        <button class="btn btn-secondary btn-block collapsed" type="button" data-toggle="collapse" data-target="#{{ $id }}" aria-expanded="false" aria-controls="{{ $id }}">
+        <button class="btn btn-secondary btn-block collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#{{ $id }}" aria-expanded="false" aria-controls="{{ $id }}">
             <i class="fas"></i>
             {{- .Get 0 -}}
             <i class="fas"></i>

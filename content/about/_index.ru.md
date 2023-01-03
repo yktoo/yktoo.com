@@ -44,12 +44,12 @@ Yktoo — это мой ник, отсюда и возник домен <u>yktoo
 
 Исходный код сайта находится в открытом доступе [на GitHub](https://github.com/yktoo/yktoo.com). Исходный код и весь сопутствующий контент распространяются на условиях лицензии [Creative Commons Attribution-NonCommercial-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ru), за исключением случаев, где явно указано иное.
 
-{{< button "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ru" "<i class='fab fa-creative-commons'></i><i class='fab fa-creative-commons-by'></i><i class='fab fa-creative-commons-nc'></i><i class='fab fa-creative-commons-sa mr-1'></i>Лицензия CC-BY-NC-SA 4.0" >}}
-{{< button "https://github.com/yktoo/yktoo.com" "<i class='fab fa-github mr-1'></i>Код на GitHub" >}}
+{{< button "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ru" "<i class='fab fa-creative-commons'></i><i class='fab fa-creative-commons-by'></i><i class='fab fa-creative-commons-nc'></i><i class='fab fa-creative-commons-sa me-1'></i>Лицензия CC-BY-NC-SA 4.0" >}}
+{{< button "https://github.com/yktoo/yktoo.com" "<i class='fab fa-github me-1'></i>Код на GitHub" >}}
 
 ## Финпомощь
 
 Если у вас вдруг возникло непреодолимое желание поддержать меня и/или разработку свободного {{< abbr "ПО" "программного обеспечения" >}}, вы можете пожертвовать любую сумму с помощью [PayPal](https://paypal.me/yktoo) либо оформить подписку на [Patreon](https://www.patreon.com/yktoo).
 
-{{< button "https://paypal.me/yktoo" "<i class='fab fa-paypal mr-1'></i>Paypal" >}}
-{{< button "https://www.patreon.com/yktoo" "<i class='fab fa-patreon mr-1'></i>Patreon" >}}
+{{< button "https://paypal.me/yktoo" "<i class='fab fa-paypal me-1'></i>Paypal" >}}
+{{< button "https://www.patreon.com/yktoo" "<i class='fab fa-patreon me-1'></i>Patreon" >}}

@@ -26,8 +26,8 @@ Vandaag is de gehele code beschikbaar gesteld [op GitHub](https://github.com/ykt
 
 De broncode en alle bijbehorende content worden gedistribueerd onder de voorwaarden van de [Creative Commons Attribution-NonCommercial-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.nl) licentie.
 
-{{< button "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.nl" "<i class='fab fa-creative-commons'></i><i class='fab fa-creative-commons-by'></i><i class='fab fa-creative-commons-nc'></i><i class='fab fa-creative-commons-sa mr-1'></i>CC-BY-NC-SA 4.0 licentie" >}}
-{{< button "https://github.com/yktoo/yktoo.com" "<i class='fab fa-github mr-1'></i>Code op GitHub" >}}
+{{< button "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.nl" "<i class='fab fa-creative-commons'></i><i class='fab fa-creative-commons-by'></i><i class='fab fa-creative-commons-nc'></i><i class='fab fa-creative-commons-sa me-1'></i>CC-BY-NC-SA 4.0 licentie" >}}
+{{< button "https://github.com/yktoo/yktoo.com" "<i class='fab fa-github me-1'></i>Code op GitHub" >}}
 
 Dus als je je afvraagt hoe dit allemaal in elkaar zit, greep deze kans maar!
 

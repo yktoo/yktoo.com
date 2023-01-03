@@ -89,18 +89,18 @@
                 <div class="font-weight-bold">{{ T "blogSubscribeCTA" }}:</div>
                 <div class="button-row">
                     <!-- Email -->
-                    <a class="icon-btn" href="{{ index .Site.Data.blog.subscribe.by_email_url .Language.Lang }}" title="{{ T `subscribeByEmail` }}">
+                    <a class="btn icon-btn" href="{{ index .Site.Data.blog.subscribe.by_email_url .Language.Lang }}" title="{{ T `subscribeByEmail` }}">
                         <i class="fas fa-envelope colourise"></i>
                     </a>
 
                     <!-- Telegram -->
-                    <a class="icon-btn" href="{{ index .Site.Data.blog.subscribe.by_telegram_url .Language.Lang }}" title="{{ T `subscribeInTgram` }}">
+                    <a class="btn icon-btn" href="{{ index .Site.Data.blog.subscribe.by_telegram_url .Language.Lang }}" title="{{ T `subscribeInTgram` }}">
                         <i class="fab fa-telegram colourise"></i>
                     </a>
 
                     <!-- RSS -->
                     {{- with (.GetPage "/" ).OutputFormats.Get "RSS" }}
-                    <a class="icon-btn" href="{{ .Permalink }}" title="{{ T `subscribeByRSS` }}">
+                    <a class="btn icon-btn" href="{{ .Permalink }}" title="{{ T `subscribeByRSS` }}">
                         <i class="fas fa-rss-square colourise"></i>
                     </a>
                     {{- end }}
@@ -108,7 +108,7 @@
                     <!-- More -->
                     <a class="btn btn-link" href="{{ relLangURL `/blog/subscribe` }}" role="button">
                         {{- T "more" -}}
-                        <i class="fas fa-angles-right ml-1"></i>
+                        <i class="fas fa-angles-right ms-1"></i>
                     </a>
                 </div>
 
@@ -122,7 +122,7 @@
                 {{ partial "blog/ua-war-banner" . }}
                 <!-- Do not insert comments block in drafts or when running on localhost -->
                 {{- if or .Draft (in (print $.Site.BaseURL) "localhost") }}
-                <div class="placeholder">(comments will go here)</div>
+                <div class="placeholder-box">(comments will go here)</div>
                 {{- else }}
                 <div id="commento"></div>
                 <script defer src="{{ .Site.Params.commentoUrl }}" data-page-id="/blog/post/{{ path.Base .File.Dir }}"></script>
@@ -146,7 +146,7 @@
                 <!-- Links to other posts of same series, if any -->
                 {{- with .Params.series }}{{ with index $.Site.Taxonomies.series . }}
                 <section>
-                    <h6><i class="fas fa-layer-group mr-1"></i><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></h6>
+                    <h6><i class="fas fa-layer-group me-1"></i><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></h6>
                     <ul>
                         {{- range first 7 .Pages }}
                             {{- if eq $page.RelPermalink .RelPermalink }}
@@ -162,7 +162,7 @@
 
                 <!-- Table of contents -->
                 <section>
-                    <h6><i class="fas fa-list mr-1"></i>{{ T "contents" }}</h6>
+                    <h6><i class="fas fa-list me-1"></i>{{ T "contents" }}</h6>
                     {{ .TableOfContents }}
                     <ul>
                         <li><a href="#blog-post-comments">{{ T "comments" }}</a></li>
@@ -173,7 +173,7 @@
                 <!-- Categories -->
                 {{- if .Params.categories }}
                 <section>
-                    <h6><i class="fas fa-folder mr-1"></i>{{ T "categories" }}</h6>
+                    <h6><i class="fas fa-folder me-1"></i>{{ T "categories" }}</h6>
                     {{- range $idx, $category := .Params.categories }}
                     {{- if $idx }}, {{ end }}<a href="{{ relref $page (print `/categories/` (urlize .)) }}" rel="category tag">{{ . }}</a>
                     {{- end }}
@@ -183,7 +183,7 @@
                 <!-- Places -->
                 {{- with .Params.places }}
                 <section>
-                    <h6><i class="fas fa-map-marker-alt mr-1"></i>{{ T "whereThisWas" }}</h6>
+                    <h6><i class="fas fa-map-marker-alt me-1"></i>{{ T "whereThisWas" }}</h6>
                     <ul>
                         {{- range . }}{{ with $page.GetPage (print `/places/` (urlize .)) }}
                         <li><a href="https://maps.google.com/maps?z=17&t=m&q=loc:{{ .Params.latitude }}+{{ .Params.longitude }}">{{ .Title | markdownify }}</a></li>
@@ -195,7 +195,7 @@
                 <!-- Tags -->
                 {{- if .Params.tags }}
                 <section>
-                    <h6><i class="fas fa-tag mr-1"></i>{{ T "tags" }}</h6>
+                    <h6><i class="fas fa-tag me-1"></i>{{ T "tags" }}</h6>
                     {{- range $idx, $tag := sort .Params.tags }}
                     {{- if $idx }}, {{ end }}<a href="{{ relref $page (print `/tags/` (urlize .)) }}" rel="tag">{{ . }}</a>
                     {{- end }}

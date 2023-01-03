@@ -21,7 +21,7 @@
 {{ define "heading" }}
 {{- if .IsHome }}
 <!-- Jumbotron -->
-<div class="jumbotron border-bottom">
+<div class="p-5 mb-4 text-center border-bottom">
     <!-- Blog title -->
     <h1 class="display-4">{{ T "blogTitle" }}</h1>
 
@@ -36,7 +36,7 @@
         {{ range .Translations }}
         <a class="btn btn-outline-secondary btn-lg" href="{{ .Permalink }}" role="button" title="{{ .Language.LanguageName }}">
             <span class="flag {{ .Language.Lang }}"></span>
-            <span class="ml-1 d-none d-sm-inline">{{ .Language.LanguageName }}</span>
+            <span class="ms-1 d-none d-sm-inline">{{ .Language.LanguageName }}</span>
         </a>
         {{ end }}
     </div>

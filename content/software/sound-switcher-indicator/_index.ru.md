@@ -54,7 +54,7 @@ sudo apt-get install indicator-sound-switcher
 
 Если у вас {{< fl "Ubuntu" >}}, то {{< fl "Sound Switcher Indicator" >}} проще всего установить прямо из {{< fl "Ubuntu Snap Store" >}}:
 
-{{< div "embed-responsive mb-3 border rounded" "height: 330px" >}}
+{{< div "ratio mb-3 border shadow" "height: 330px" >}}
 <iframe src="https://snapcraft.io/indicator-sound-switcher/embedded?button=black&summary=true"></iframe>
 {{< /div >}}
 

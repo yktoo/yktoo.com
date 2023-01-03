@@ -5,7 +5,7 @@
     const cookieInfoUrl = '{{ .Site.Params.cookieConsentInfoUrl | absLangURL }}';
 </script>
 {{- $js := slice       (resources.Get "node_modules/jquery/dist/jquery.js") -}}
-{{- $js = $js | append (resources.Get "node_modules/popper.js/dist/umd/popper.js") -}}
+{{- $js = $js | append (resources.Get "node_modules/@popperjs/core/dist/umd/popper.js") -}}
 {{- $js = $js | append (resources.Get "node_modules/bootstrap/dist/js/bootstrap.js") -}}
 {{- $js = $js | append (resources.Get "node_modules/magnific-popup/dist/jquery.magnific-popup.js") -}}
 {{- $js = $js | append (resources.Get "node_modules/cookieconsent/src/cookieconsent.js") -}}

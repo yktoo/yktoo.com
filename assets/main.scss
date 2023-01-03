@@ -2,9 +2,9 @@
 @import url('https://fonts.googleapis.com/css?family=Arimo|Roboto+Condensed&display=swap');
 
 // Base colours
-$primary: #089664;
+$primary:   #089664;
 $secondary: #72838a;
-$gray-100: #f7f7f7;
+$gray-100:  #f7f7f7;
 
 // Font sizes
 $h1-font-size: 2.1rem;
@@ -15,32 +15,37 @@ $h5-font-size: 1.15rem;
 $h6-font-size: 1rem;
 
 // Our own vars
-$primary-fade: fade_out($primary, 0.7);
-$primary-light: adjust_color($primary, $saturation: -50%, $lightness: 40%);
-$primary-pale: adjust_color($primary, $saturation: -70%, $lightness: 20%);
-$primary-alt: #fc0; // Second primary brand colour
+$primary-fade:   fade_out($primary, 0.7);
+$primary-light:  adjust_color($primary, $saturation: -50%, $lightness: 40%);
+$primary-pale:   adjust_color($primary, $saturation: -70%, $lightness: 20%);
+$primary-accent: #ffcc00; // Accent brand colour
+$link-hover-bg:  #333333;
 
-// Secondary elements
-$body-color: #666;
-$body-bg: #333;
-$link-hover-color: $primary-alt;
-$link-hover-bg: $body-bg; // Not a Bootstrap variable
-$link-hover-decoration: none;
-$list-group-border-color: $primary-fade;
-$list-group-hover-bg: $link-hover-bg;
-$list-group-action-hover-color: $primary-alt;
-$navbar-dark-color: #fff;
-$navbar-dark-active-color: #000;
-$navbar-dark-hover-color: $primary-alt;
-$nav-tabs-link-active-color: #aaa;
-$nav-tabs-link-active-bg: #fff;
-$pagination-hover-bg: $link-hover-bg;
-$carousel-control-icon-width: 32px;
+// Redefine relevant Bootstrap variables
+$body-color:                    #666666;
+$body-bg:                       #333333;
+$breadcrumb-padding-y:          0.75rem;
+$breadcrumb-padding-x:          1rem;
+$breadcrumb-bg:                 #e9ecef;
+$input-bg:                      #ffffff;
+$link-decoration:               none;
+$link-hover-color:              $primary-accent;
+$link-hover-decoration:         none;
+$list-group-border-color:       $primary-fade;
+$list-group-hover-bg:           $link-hover-bg;
+$list-group-action-hover-color: $primary-accent;
+$navbar-dark-color:             #ffffff;
+$navbar-dark-active-color:      #000000;
+$navbar-dark-hover-color:       $primary-accent;
+$navbar-brand-margin-end:       0;
+$nav-tabs-link-active-color:    #aaaaaa;
+$nav-tabs-link-active-bg:       #ffffff;
+$pagination-hover-bg:           $link-hover-bg;
+$carousel-control-icon-width:   32px;
 
 // Enable advanced theming
 $enable-shadows: true;
 $enable-gradients: true;
-$enable-responsive-font-sizes: true;
 
 // Import dependencies
 @import "node_modules/bootstrap/scss/bootstrap";
@@ -50,6 +55,17 @@ $enable-responsive-font-sizes: true;
 @import "node_modules/magnific-popup/dist/magnific-popup";
 @import "node_modules/cookieconsent/build/cookieconsent.min";
 @import "node_modules/aos/dist/aos";
+
+// Override Bootstrap vars
+.btn-primary, .btn-secondary {
+    --bs-btn-color:        #fff;
+    --bs-btn-hover-color:  #fff;
+    --bs-btn-active-color: #fff;
+}
+.btn-outline-primary, .btn-outline-secondary {
+    --bs-btn-hover-color:  #fff;
+    --bs-btn-active-color: #fff;
+}
 
 //noinspection CssUnknownTarget
 body {
@@ -73,8 +89,8 @@ body {
 
     a {
         color: $primary-light;
-        @include hover-focus {
-            color: $primary-alt;
+        &:hover, &:focus {
+            color: $primary-accent;
             background-color: transparent;
         }
         &.active {
@@ -87,10 +103,6 @@ body {
     .nav-link {
         padding: .2rem 2rem;
     }
-}
-.jumbotron {
-    text-align: center;
-    background-color: transparent;
 }
 
 .opener-image {
@@ -134,20 +146,16 @@ article {
 a {
     transition: all .2s ease-in;
 
-    @include hover-focus {
-        background-color: $link-hover-bg;
+    // Add a dark background on hover to non-image links
+    &:not(.btn):not(.image-link):not(.card-link-overlay) {
+        &:hover, &:focus {
+            background-color: $link-hover-bg;
+        }
     }
 
     // Internal links lead to pages on this same website, they get dashed underlining
     &.internal {
         border-bottom: 1px dashed #5a9681;
-    }
-
-    // Image links are anchors containing an image
-    &.image-link {
-        @include plain-hover-focus {
-            background: transparent;
-        }
     }
 
     &.wikipedia:after {
@@ -160,13 +168,8 @@ a {
 }
 
 // Buttons
-.btn-outline-dark:not(.disabled) {
-    &.active {
-        color: $primary-alt !important;
-    }
-    @include hover-focus {
-        color: #fff;
-    }
+.btn-outline-dark {
+    --bs-btn-active-color: #{$primary-accent};
 }
 #btn-scroll-to-top {
     position: fixed;
@@ -187,7 +190,7 @@ a {
 // Tables
 .table {
     thead {
-        background-color: $primary-fade;
+        background-color: $gray-400;
     }
 }
 .table-narrow {
@@ -290,7 +293,7 @@ blockquote {
             bottom: 0;
         }
     }
-    @include hover-focus {
+    &:hover, &:focus {
         border-color: $primary;
 
         .top-image img {
@@ -357,21 +360,16 @@ pre {
 #navbar {
     font-family: 'Roboto Condensed', sans-serif;
 
-    // Non-collapsed navbar (width >= lg)
-    @include media-breakpoint-up("lg") {
-        padding-bottom: 0;
-        // Align logo on top of the nav
-        flex-flow: column nowrap;
-    }
-
     .navbar-nav {
         .nav-link {
             padding: 0.5rem 1rem;
+            &:not(.active) {
+                text-shadow: 0 0 3px #000000;
+            }
         }
         .active > .nav-link,
         .nav-link.active {
-            //noinspection CssInvalidPropertyValue
-            background: $primary-alt;
+            background: $primary-accent;
             box-shadow: rgba(0, 0, 0, 0.25) 0 3px 9px 0 inset;
         }
     }
@@ -733,10 +731,15 @@ div[style*="56.25%"] {
     margin-bottom: 1rem;
 }
 .spoiler {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
     border-top: 1px solid $primary-light;
     border-bottom: 1px solid $primary-light;
 
     .toggler {
+        display: flex;
+        justify-content: center;
         margin: 1rem;
 
         button {
@@ -757,7 +760,7 @@ div[style*="56.25%"] {
         }
     }
 }
-.placeholder {
+.placeholder-box {
     padding: 1rem;
     color: $gray-500;
     border: $gray-500 dashed 1px;
@@ -782,6 +785,7 @@ div[style*="56.25%"] {
         border: 1px transparent solid;
         border-radius: 3.5px;
         text-align: center;
+        --bs-btn-box-shadow: none;
 
         .fa, .fab, .fas {
             font-size: 2rem;
@@ -813,7 +817,7 @@ div[style*="56.25%"] {
 }
 blockquote.twitter-tweet {
     a {
-        @include hover-focus {
+        &:hover, &:focus {
             text-decoration: underline;
         }
     }
