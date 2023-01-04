@@ -1,20 +1,14 @@
 {{- define "heading" }}
-<!-- Jumbotron -->
-<div class="p-5 mb-4 text-center">
-    {{- with .Params.icon }}{{ with $.Page.Resources.GetMatch . }}<img src="{{ .RelPermalink }}" alt="Icon">{{ end }}{{ end }}
-    <h1 class="display-4">{{ .Title }}</h1>
-    {{ with .Params.subtitle }}<p class="lead">{{ . }}</p>{{ end }}
-</div>
+    {{- partial "software/header-menu" . }}
 {{- end }}
 
 {{- define "main" }}
 
 <!-- Fetch software properties -->
-{{- $downloads := index .Site.Data.downloads (urlize .Title) -}}
 {{- $page := . -}}
 {{- $params := $page.Params -}}
 
-<article class="software-single">
+<article>
     <div class="row">
         <div class="col-md-9">
             <!-- Render the main page content -->
@@ -27,14 +21,6 @@
                 <!-- Main page content -->
                 {{ .Content }}
             </section>
-
-            <!-- Downloads -->
-            {{- if $downloads }}
-            <section id="software-downloads">
-                <h2>{{ T "downloads" }}</h2>
-                {{ partial "software/list-downloads.html" (dict "lang" $page.Lang "downloads" $downloads) }}
-            </section>
-            {{- end }}
 
             <!-- Documentation -->
             {{- with $params.fullDocsUrl }}
@@ -107,7 +93,6 @@
                     </ul>
                     {{ .TableOfContents }}
                     <ul>
-                        {{- if $downloads                           }}<li><a href="#software-downloads">{{ T "downloads" }}</a></li>{{ end }}
                         {{- if $params.fullDocsUrl                  }}<li><a href="#software-docs">{{ T "docs" }}</a></li>{{ end }}
                         {{- if $params.licenses                     }}<li><a href="#software-license">{{ T "license" }}</a></li>{{ end }}
                         {{- if and $params.active $params.githubUrl }}<li><a href="#software-support">{{ T "support" }}</a></li>{{ end }}

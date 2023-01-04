@@ -1,0 +1,14 @@
+{{- define "heading" }}
+    {{- partial "software/header-menu" . }}
+{{- end }}
+
+{{- define "main" }}
+<section id="software-downloads">
+    <!-- Regular page content -->
+    {{ .Content }}
+
+    <!-- List of downloads -->
+    {{- $downloads := index .Site.Data.downloads .Params.software -}}
+    {{- partial "software/list-downloads" (dict "lang" .Lang "downloads" $downloads) }}
+</section>
+{{- end }}

@@ -1,6 +1,9 @@
 ---
-title: Часто задаваемые вопросы
-showHeading: true
+title: FAQ
+software: ymuse
+menu:
+    ymuse:
+        weight: 10
 ---
 
 Часто задаваемые вопросы про [Ymuse](/software/ymuse).
