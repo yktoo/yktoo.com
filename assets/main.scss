@@ -242,16 +242,29 @@ blockquote {
     }
     .list-group-item-iconized {
         display: flex;
-        flex-direction: row;
-        justify-content: left;
+        flex-direction: column;
+        align-items: center;
 
+        @include media-breakpoint-up(md) {
+            flex-direction: row;
+            justify-content: left;
+        }
     }
     .list-group-img {
-        padding: 0.5rem 2rem 0.5rem 0.5rem;
+        padding: 1rem 0;
+
+        @include media-breakpoint-up(md) {
+            padding: 0.5rem 2rem 0.5rem 0.5rem;
+        }
     }
     .list-group-img-64 {
-        padding: 0.5rem 2rem 0.5rem 0.5rem;
-        width: 110px;
+        width: 64px;
+        padding: 0.5rem 0;
+
+        @include media-breakpoint-up(md) {
+            width: 110px;
+            padding: 0.5rem 2rem 0.5rem 0.5rem;
+        }
 
         img {
             width: 64px;
@@ -262,8 +275,13 @@ blockquote {
         }
     }
     .list-group-img-32 {
-        padding: 0.25rem 1rem 0.25rem 0.52rem;
-        width: 64px;
+        width: 32px;
+        padding: 0.33rem 0;
+
+        @include media-breakpoint-up(md) {
+            width: 64px;
+            padding: 0.25rem 1rem 0.25rem 0.52rem;
+        }
 
         img {
             width: 32px;
@@ -277,10 +295,20 @@ blockquote {
         display: flex;
         flex-direction: column;
         justify-content: space-evenly;
+        text-align: center;
+
+        @include media-breakpoint-up(md) {
+            text-align: initial;
+        }
     }
     .list-group-heading {
         font-weight: $font-weight-bold;
         font-size: 110%;
+        margin-bottom: 0.25rem;
+
+        @include media-breakpoint-up(md) {
+            margin-bottom: initial;
+        }
     }
     .list-group-details {
         font-size: 90%;
@@ -749,8 +777,10 @@ div[style*="56.25%"] {
     border-bottom: 1px solid $primary-light;
 }
 .btn-collapse-toggler {
+    display: inline-flex;
+    align-items: center;
+
     .fas {
-        padding: 0 1rem;
         opacity: 0.5;
         transition: all ease 0.5s;
 

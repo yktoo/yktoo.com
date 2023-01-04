@@ -13,7 +13,7 @@
 
 {{ define "main" }}
 <!-- Toolbar -->
-<section id="radiolaria-track-toolbar">
+<section id="radiolaria-track-toolbar" class="d-grid gap-2 d-sm-block">
     <!-- Chords button, if needed -->
     {{ if .Params.hasChords }}
     <a href id="btnChords" class="btn btn-outline-dark" onclick="toggleChords(event)"><i class="fas fa-music me-1"></i>{{ T "showChords" }}</a>
