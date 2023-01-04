@@ -122,6 +122,15 @@ section {
     margin-bottom: 2rem;
 }
 article {
+    .article-toc {
+        font-size: 90%;
+        background-color: $gray-100;
+        padding: 1rem;
+
+        ul {
+            margin-bottom: 0;
+        }
+    }
     .article-sidebar {
         font-size: 90%;
         background-color: $gray-100;
@@ -730,42 +739,39 @@ a {
 div[style*="56.25%"] {
     margin-bottom: 1rem;
 }
+
+// Spoiler and collapse toggler
 .spoiler {
     display: flex;
     flex-direction: column;
     width: 100%;
     border-top: 1px solid $primary-light;
     border-bottom: 1px solid $primary-light;
+}
+.btn-collapse-toggler {
+    .fas {
+        padding: 0 1rem;
+        opacity: 0.5;
+        transition: all ease 0.5s;
 
-    .toggler {
-        display: flex;
-        justify-content: center;
-        margin: 1rem;
-
-        button {
-            .fas {
-                padding: 0 1rem;
-                opacity: 0.5;
-                transition: all ease 0.5s;
-
-                &::before {
-                    content: "\f077";
-                }
-            }
-            &.collapsed {
-                .fas {
-                    transform: rotate(180deg);
-                }
-            }
+        &::before {
+            content: "\f077";
+        }
+    }
+    &.collapsed {
+        .fas {
+            transform: rotate(180deg);
         }
     }
 }
+
 .placeholder-box {
     padding: 1rem;
     color: $gray-500;
     border: $gray-500 dashed 1px;
     border-radius: 8px;
 }
+
 #page-sharing-buttons {
     margin: 0;
     padding-top: 2.5rem;

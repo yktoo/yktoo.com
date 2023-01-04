@@ -1,12 +1,15 @@
 <!-- Render the inner content with a button that toggles its visibility -->
 <section class="spoiler">
     {{- $id := print "spoiler-" (md5 .Inner) }}
+    <!-- Spoiler body -->
     <div class="collapse my-3" id="{{ $id }}">{{ markdownify .Inner }}</div>
-    <p class="toggler">
-        <button class="btn btn-secondary btn-block collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#{{ $id }}" aria-expanded="false" aria-controls="{{ $id }}">
+    <!-- Spoiler collapse toggler -->
+    <div class="text-center m-3">
+        <button class="btn btn-secondary btn-collapse-toggler collapsed" type="button" data-bs-toggle="collapse"
+                data-bs-target="#{{ $id }}" aria-expanded="false" aria-controls="{{ $id }}">
             <i class="fas"></i>
             {{- .Get 0 -}}
             <i class="fas"></i>
         </button>
-    </p>
+    </div>
 </section>

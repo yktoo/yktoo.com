@@ -70,6 +70,23 @@
 <article class="blog-post-single">
     <div class="row">
         <div class="col-md-9">
+            <!-- Table of contents, only on small screen -->
+            <section class="d-md-none article-toc">
+                <button type="button" class="btn btn-outline-secondary btn-collapse-toggler collapsed" data-bs-toggle="collapse"
+                        data-bs-target="#article-toc-body" aria-expanded="false"
+                        aria-controls="article-toc-body">
+                    {{ T "contents" }}
+                    <i class="fas px-0"></i>
+                </button>
+                <div class="collapse mt-3" id="article-toc-body">
+                    {{ .TableOfContents }}
+                    <ul>
+                        <li><a href="#blog-post-comments">{{ T "comments" }}</a></li>
+                        {{- if .Site.RegularPages.Related . }}<li><a href="#blog-post-more-to-read">{{ T "moreToRead" }}</a></li>{{ end }}
+                    </ul>
+                </div>
+            </section>
+
             <!-- Post content -->
             <section class="blog-post-content">
                 <!-- If there's a full-text link, output the content as is -->
@@ -160,8 +177,8 @@
                 </section>
                 {{- end }}{{ end }}
 
-                <!-- Table of contents -->
-                <section>
+                <!-- Table of contents, only on larger screen -->
+                <section class="d-none d-md-block">
                     <h6><i class="fas fa-list me-1"></i>{{ T "contents" }}</h6>
                     {{ .TableOfContents }}
                     <ul>
