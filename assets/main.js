@@ -1,4 +1,4 @@
-$(document).ready(function () {
+jQuery(function () {
 
     /**
      * Init the cookie consent.
@@ -26,12 +26,8 @@ $(document).ready(function () {
      * Initialise the scroll-to-top button
      */
     const btnScrollToTop = $('#btn-scroll-to-top');
-    $(window).scroll(function() {
-        if ($(window).scrollTop() > 300) {
-            btnScrollToTop.addClass('show');
-        } else {
-            btnScrollToTop.removeClass('show');
-        }
+    $(window).on('scroll', function() {
+        btnScrollToTop.toggleClass('show', $(window).scrollTop() > 300);
     });
 
     btnScrollToTop.on('click', function(e) {
@@ -60,15 +56,7 @@ $(document).ready(function () {
         let curTrack;
 
         // Bind onClick handlers
-        tracks.click(click);
-
-        // Set up the audio element, if any
-        if (audio.length > 0) {
-            audio[0].volume = 1;
-            audio.on('ended', next);
-        }
-
-        function click(e) {
+        tracks.on('click', function (e) {
             e.preventDefault();
             const track = $(this);
             if (track.is('.active')) {
@@ -78,6 +66,12 @@ $(document).ready(function () {
             } else {
                 play(track);
             }
+        });
+
+        // Set up the audio element, if any
+        if (audio.length > 0) {
+            audio[0].volume = 1;
+            audio.on('ended', next);
         }
 
         function play(track) {
@@ -94,7 +88,7 @@ $(document).ready(function () {
         }
 
         function next() {
-            const track = tracks.get(tracks.index(curTrack)+1);
+            const track = tracks.get(tracks.index(curTrack) + 1);
             if (track) {
                 play($(track));
             } else {
@@ -112,7 +106,7 @@ $(document).ready(function () {
         const filterBox = $('#filterBox');
 
         // Disable submitting the form
-        filterBox.closest('form').submit(function(e) {
+        filterBox.closest('form').on('submit', function(e) {
             e.preventDefault();
             e.stopPropagation();
         });
@@ -151,7 +145,7 @@ $(document).ready(function () {
     /**
      * Contact form validation.
      */
-    $('#contact-submit-button').click(function (e) {
+    $('#contact-submit-button').on('click', function (e) {
         const contactForm = $('#contact-form');
         if (contactForm[0].checkValidity() === false) {
             // Stop the form from being submitted
