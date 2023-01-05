@@ -22,9 +22,7 @@ sudo apt-get install indicator-sound-switcher
 
 If you use Ubuntu, you can get **Sound Switcher Indicator** installed by downloading it from the Ubuntu Snap Store:
 
-{{< div "ratio mb-3 border shadow" "height: 330px" >}}
-<iframe src="https://snapcraft.io/indicator-sound-switcher/embedded?button=black&summary=true"></iframe>
-{{< /div >}}
+{{< snapcraft-card "indicator-sound-switcher" >}}
 
 For other Linux distributions, if yours provides support for {{< wiki "Snap_(package_manager)" "en" "snaps" >}}, the installation can be done with:
 

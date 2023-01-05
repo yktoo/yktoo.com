@@ -8,9 +8,7 @@ weight: 20
 
 Если у вас {{< fl "Ubuntu" >}}, то {{< fl "Ymuse" >}} проще всего установить прямо из {{< fl "Ubuntu Snap Store" >}}:
 
-{{< div "ratio mb-3 border shadow" "height: 330px" >}}
-<iframe src="https://snapcraft.io/ymuse/embedded?button=black&summary=true"></iframe>
-{{< /div >}}
+{{< snapcraft-card "ymuse" >}}
 
 ### Snap-пакет
 

@@ -27,3 +27,7 @@ In Ubuntu it's as easy as running:
 ```bash
 sudo apt install mpdris2
 ```
+
+## Why can't I drag-n-drop tracks in the Queue?
+
+This feature is [planned](https://github.com/yktoo/ymuse/issues/34) but not implemented yet. It would require digging deep into the specifics of drag-n-drop in GTK so it's subject to the availability of my free time.

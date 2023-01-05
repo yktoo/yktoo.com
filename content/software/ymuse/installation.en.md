@@ -8,9 +8,7 @@ weight: 20
 
 If you use Ubuntu, the simplest way to get **Ymuse** installed is downloading it from the Ubuntu Snap Store:
 
-{{< div "ratio mb-3 border shadow" "height: 330px" >}}
-<iframe src="https://snapcraft.io/ymuse/embedded?button=black&summary=true"></iframe>
-{{< /div >}}
+{{< snapcraft-card "ymuse" >}}
 
 ### Snap package
 

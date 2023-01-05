@@ -35,9 +35,7 @@ software: sound-switcher-indicator
 
 Ну да ладно, меня попросили — я сделал. Теперь {{< fl "Sound Switcher Indicator" >}} можно установить из [Snap Store](https://snapcraft.io/indicator-sound-switcher):
 
-{{< div "ratio mb-3 border shadow" "height: 330px" >}}
-<iframe src="https://snapcraft.io/indicator-sound-switcher/embedded?button=black&summary=true"></iframe>
-{{< /div >}}
+{{< snapcraft-card "indicator-sound-switcher" >}}
 
 ## Автозапуск
 

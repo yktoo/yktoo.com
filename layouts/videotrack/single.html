@@ -4,7 +4,7 @@
 
 <!-- Video metadata -->
 <p class="page-heading-meta">
-    {{- with .Params.videoevents }}{{ with $.GetPage (printf `/videoevents/%s` (urlize .)) }}{{ T "videoFromEvent" }}&nbsp;<a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ end }}{{ end -}}
+    {{- with .Params.videoevents }}{{ with $.GetPage (print `/videoevents/` (urlize .)) }}{{ T "videoFromEvent" }}&nbsp;<a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ end }}{{ end -}}
 </p>
 {{ end }}
 
