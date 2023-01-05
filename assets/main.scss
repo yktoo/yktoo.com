@@ -75,7 +75,7 @@ body {
 .ua-bg {
     background-image: url(https://res.cloudinary.com/yktoo/image/upload/blog/knsuwdtzc44va1hjiw8m.png);
     background-repeat: no-repeat;
-    background-position: 5% 50%;
+    background-position: 50% 50%;
 }
 #page {
     padding-bottom: 40px;
@@ -396,12 +396,22 @@ pre {
 // Navbar
 #navbar {
     font-family: 'Roboto Condensed', sans-serif;
+    padding-bottom: 0;
+
+    .navbar-brand {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: #333333;
+        width: 80px;
+        height: 80px;
+        border-radius: 50%;
+    }
 
     .navbar-nav {
         .nav-link {
-            padding: 0.5rem 1rem;
             &:not(.active) {
-                text-shadow: 0 0 3px #000000;
+                text-shadow: 0 0 6px #000000;
             }
         }
         .active > .nav-link,
