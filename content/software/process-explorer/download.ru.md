@@ -1,6 +1,6 @@
 ---
 title: Скачать
 layout: downloads
-menu: ymuse
+menu: process-explorer
 weight: 100
 ---

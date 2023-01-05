@@ -1,6 +1,6 @@
 ---
 title: Download
 layout: downloads
-menu: ymuse
+menu: client-ssi-generator
 weight: 100
 ---

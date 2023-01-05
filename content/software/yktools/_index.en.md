@@ -3,8 +3,8 @@ title: Yktools
 subtitle: A collection of utility scripts for Linux.
 layout: product
 icon: terminal-64.png
-weight: 30
 software: yktools
+weight: 3
 active: true
 githubUrl: https://github.com/yktoo/yktools
 licenses:

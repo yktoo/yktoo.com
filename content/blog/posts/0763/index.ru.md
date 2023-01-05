@@ -53,4 +53,4 @@ software: sound-switcher-indicator
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/blog/ueoiwjjzqsrkv3i0vmr8.gif" "Установка Sound Switcher Indicator из snap-пакета." >}}
 
-Чтобы установить или обновить приложение, следуйте описанию на [соответствующей странице](/software/sound-switcher-indicator#установка).
+Чтобы установить или обновить приложение, следуйте описанию на [соответствующей странице](/software/sound-switcher-indicator/installation).

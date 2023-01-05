@@ -1,10 +1,8 @@
 ---
 title: Download
 layout: downloads
-software: sound-switcher-indicator
-menu:
-    sound-switcher-indicator:
-        weight: 100
+menu: sound-switcher-indicator
+weight: 100
 ---
 
-Below you can find binary releases and archived source code for the Sound Switcher Indicator.
+On this page you can download the **latest** binaries and the source code of the application. To download other versions, please check the [Launchpad PPA packages](https://launchpad.net/~yktooo/+archive/ppa/+packages) page.

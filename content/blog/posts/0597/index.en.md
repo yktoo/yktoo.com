@@ -39,4 +39,4 @@ My PPA provides packages for Ubuntu **18.04 Bionic**, **19.04 Disco**, and **19.
 
 ## Installation
 
-To install or update the application, please follow the steps described in the [Installation section](/software/sound-switcher-indicator#installation).
+To install or update the application, please follow the steps described in the [Installation section](/software/sound-switcher-indicator/installation).

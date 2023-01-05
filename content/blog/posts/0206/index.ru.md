@@ -9,7 +9,7 @@ tags:
     - GitHub
     - интернационализация
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/26gk9mjql1p41061.png"
-software: dklang
+software: dklang-localization-package
 ---
 
 *Поздравляю всех с пятницей, 13-м! [Брюс Миллер](http://rules-of-thumb.com/), текущий мейнтейнер DKLang, принёс отличные новости для дельфистов.*

@@ -3,8 +3,8 @@ title: InfoPi
 subtitle: Information server application for Raspberry Pi.
 layout: product
 icon: infopi-icon-64.png
-weight: 50
 software: infopi
+weight: 5
 active: true
 githubUrl: https://github.com/yktoo/infopi
 licenses:
@@ -13,9 +13,9 @@ licenses:
 
 **InfoPi** is a single-page web application that displays various live data, like weather forecast and train departure times.
 
-The application is developed with [Angular](https://angular.io/) version **11** and can be packaged with the [Electron](https://www.electronjs.org/) browser to make an all-in-one executable bundle.
+The application is developed with [Angular](https://angular.io/) and can be packaged with the [Electron](https://www.electronjs.org/) browser to make an all-in-one executable bundle.
 
-My own implementation was crafted for *Raspberry Pi* running [Raspbian Stretch](https://www.raspberrypi.org/downloads/raspbian/) and a full HD monitor (**1920×1080** pixels) in the portrait orientation, but it should run on any platform that Electron supports and properly adapt itself to a broad range of resolutions.
+My own implementation was crafted for *Raspberry Pi* running [Raspbian](https://www.raspberrypi.org/downloads/raspbian/) and a full HD monitor (**1920×1080** pixels) in the portrait orientation, but it should run on any platform that Electron supports and properly adapt itself to a broad range of resolutions.
 
 This is how the information display looks like:
 

@@ -38,4 +38,4 @@ software: sound-switcher-indicator
 
 ## Установка
 
-Чтобы установить или обновить приложение, следуйте описанию на [соответствующей странице](/software/sound-switcher-indicator#установка).
+Чтобы установить или обновить приложение, следуйте описанию на [соответствующей странице](/software/sound-switcher-indicator/installation).

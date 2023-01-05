@@ -9,7 +9,7 @@ tags:
     - GitHub
     - i18n
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/26gk9mjql1p41061.png"
-software: dklang
+software: dklang-localization-package
 ---
 
 *Happy Friday the 13th! [Bruce Miller](http://rules-of-thumb.com/), the current maintainer of DKLang, is bringing great news for Delphi developers.*

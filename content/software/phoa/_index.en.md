@@ -3,8 +3,9 @@ title: PhoA
 subtitle: Powerful image catalogue application.
 layout: product
 icon: phoa-icon-64.png
-weight: 1
 software: phoa
+weight: 10
+menu: phoa
 active: false
 githubUrl: https://github.com/yktoo/phoa
 licenses:

@@ -3,8 +3,9 @@ title: Sound Switcher Indicator
 subtitle: Индикатор для выбора входа и выхода звука в Linux.
 layout: product
 icon: ssi-icon-64.png
-weight: 10
 software: sound-switcher-indicator
+weight: 1
+menu: sound-switcher-indicator
 active: true
 githubUrl: https://github.com/yktoo/indicator-sound-switcher
 licenses:
@@ -18,9 +19,6 @@ seeAlso:
       url: https://aur.archlinux.org/packages/indicator-sound-switcher
     - name: Мой Launchpad PPA
       url: https://launchpad.net/~yktooo/+archive/ppa
-menu:
-    sound-switcher-indicator:
-        weight: 1
 ---
 
 Это приложение отображает значок в области индикаторов или системном трее (зависит от того, каким десктопом вы пользуетесь). Меню индикатора позволяет переключать текущие порты входного и выходного звукового устройства (в терминах {{< fl "PulseAudio" >}} — {{< fl "source" >}} и {{< fl "sink" >}}, соответственно) в два клика:

@@ -27,4 +27,4 @@ For example, if you use [yay](https://github.com/Jguer/yay), you can install it 
 yay -S indicator-sound-switcher
 ```
 
-You can find more details in the [installation section](/software/sound-switcher-indicator#installation).
+You can find more details in the [installation section](/software/sound-switcher-indicator/installation).

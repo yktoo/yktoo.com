@@ -3,8 +3,9 @@ title: DKLang Localization Package
 subtitle: Библиотека для локализации Delphi-приложений.
 layout: product
 icon: dklang-icon-64.png
-weight: 100
-software: dklang
+software: dklang-localization-package
+weight: 6
+menu: dklang-localization-package
 active: true
 githubUrl: https://github.com/yktoo/dklang
 licenses:
@@ -13,7 +14,7 @@ licenses:
 fullDocsUrl: https://github.com/yktoo/dklang/wiki
 seeAlso:
     - name: DKLang Translation Editor
-      url: '../dklang-translation-editor/'
+      url: '/software/dklang-translation-editor/'
 ---
 
 **DKLang Localization Package** — это набор классов, предназначенных для облегчения локализации (перевода на другие языки) приложений, написанных на Delphi.

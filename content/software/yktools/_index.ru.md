@@ -3,8 +3,8 @@ title: Yktools
 subtitle: Набор-ассорти полезных скриптов для Linux.
 layout: product
 icon: terminal-64.png
-weight: 30
 software: yktools
+weight: 3
 active: true
 githubUrl: https://github.com/yktoo/yktools
 licenses:

@@ -1,6 +1,6 @@
 ---
 title: Скачать
 layout: downloads
-menu: ymuse
+menu: oracle-package-editor
 weight: 100
 ---

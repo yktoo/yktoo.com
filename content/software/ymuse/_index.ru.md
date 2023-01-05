@@ -3,15 +3,14 @@ title: Ymuse
 subtitle: Простой, функциональный и быстрый клиент для Music Player Daemon.
 layout: product
 icon: ymuse-icon-64.png
-weight: 20
 software: ymuse
+weight: 2
+menu: ymuse
 active: true
 githubUrl: https://github.com/yktoo/ymuse
 licenses:
     - apache2
 seeAlso:
-    - name: Часто задаваемые вопросы про Ymuse
-      url: /software/ymuse/faq
     - name: Ymuse в Snapcraft
       url: https://snapcraft.io/ymuse
     - name: Ymuse в AUR
@@ -20,9 +19,6 @@ seeAlso:
       url: https://aur.archlinux.org/packages/ymuse-bin
     - name: Flathub-репозиторий Ymuse
       url: https://github.com/flathub/com.yktoo.ymuse
-menu:
-    ymuse:
-        weight: 1
 ---
 
 **Ymuse** — это простое в использовании, но в то же время богатое функционалом и быстрое приложение-клиент для [Music Player Daemon](https://www.musicpd.org/), написанное на {{< fl "Go" >}} и использующее графическую библиотеку {{< fl "GTK" >}}.

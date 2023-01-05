@@ -3,8 +3,9 @@ title: Docker Indicator
 subtitle: Application indicator for controlling Docker containers.
 layout: product
 icon: docker-indicator-icon-64.png
-weight: 40
 software: docker-indicator
+weight: 4
+menu: docker-indicator
 active: true
 githubUrl: https://github.com/yktoo/indicator-docker
 licenses:
@@ -25,9 +26,3 @@ Here's a screenshot:
 {{< imgfig "screenshot.png" "Indicator's menu." >}}
 
 Interested? Read [how to install](https://github.com/yktoo/indicator-docker/blob/master/INSTALL) the indicator.
-
-## Installation
-
-If you want to install the indicator, refer to the [installation](https://github.com/yktoo/indicator-docker/blob/master/INSTALL) page. Here you can download the latest source code of the application.
-
-To download the source tarball or a compiled binary package (`.deb`), please check the [Launchpad PPA packages](https://launchpad.net/~yktooo/+archive/ppa/+packages) page.

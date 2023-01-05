@@ -42,4 +42,4 @@ My [PPA](https://launchpad.net/~yktooo/+archive/ubuntu/ppa) provides packages fo
 
 ## Installation
 
-To install or update the application, please follow the steps described in the [Installation section](/software/sound-switcher-indicator#installation).
+To install or update the application, please follow the steps described in the [Installation section](/software/sound-switcher-indicator/installation).

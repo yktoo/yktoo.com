@@ -14,8 +14,13 @@
     {{ with $sectionPage.Params.subtitle }}<p class="lead">{{ . }}</p>{{ end }}
 </div>
 
+<!-- Render a discontinuation banner if the project isn't active anymore -->
+{{- if not $sectionPage.Params.active }}
+    {{- partial (printf "software/discontinued.%s.html" .Lang) }}
+{{- end }}
+
 <!-- Product submenu -->
-{{- $name := .Params.software -}}
+{{- $name := $sectionPage.Params.software -}}
 {{- with index .Site.Menus $name -}}
 <ul class="nav nav-tabs justify-content-center mb-4">
     {{- range . }}
@@ -29,4 +34,3 @@
     {{- end }}
 </ul>
 {{- end -}}
-

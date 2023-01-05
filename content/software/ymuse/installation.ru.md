@@ -1,9 +1,7 @@
 ---
 title: Установка
-software: ymuse
-menu:
-    ymuse:
-        weight: 20
+menu: ymuse
+weight: 20
 ---
 
 ### Ubuntu

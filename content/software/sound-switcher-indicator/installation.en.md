@@ -1,12 +1,8 @@
 ---
 title: Installation
-software: sound-switcher-indicator
-menu:
-    sound-switcher-indicator:
-        weight: 20
+menu: sound-switcher-indicator
+weight: 20
 ---
-
-On this page you can download the latest binaries and the source code of the application. To download other versions, please check the [Launchpad PPA packages](https://launchpad.net/~yktooo/+archive/ppa/+packages) page.
 
 There are the following ways to get the indicator [installed](https://github.com/yktoo/indicator-sound-switcher/blob/dev/doc/install.md):
 

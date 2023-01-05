@@ -8,7 +8,13 @@
     {{ .Content }}
 
     <!-- List of downloads -->
-    {{- $downloads := index .Site.Data.downloads .Params.software -}}
-    {{- partial "software/list-downloads" (dict "lang" .Lang "downloads" $downloads) }}
+    {{- $sectionPage := cond .IsPage .Parent .Page -}}
+    {{- $name := $sectionPage.Params.software -}}
+    {{- $downloads := index .Site.Data.downloads $name -}}
+    {{- if $downloads -}}
+        {{- partial "software/list-downloads" (dict "lang" .Lang "downloads" $downloads) }}
+    {{- else -}}
+        {{- errorf "No downloads found for %q, perhaps you shouldn't use this layout?" $name -}}
+    {{- end -}}
 </section>
 {{- end }}

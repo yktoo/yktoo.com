@@ -1,12 +1,8 @@
 ---
 title: Установка
-software: sound-switcher-indicator
-menu:
-    sound-switcher-indicator:
-        weight: 20
+menu: sound-switcher-indicator
+weight: 20
 ---
-
-На этой странице вы можете загрузить последние версии бинарного `.deb`-пакета или исходного кода программы. Скачать другие версии можно на странице [Launchpad PPA packages](https://launchpad.net/~yktooo/+archive/ppa/+packages).
 
 [Установить](https://github.com/yktoo/indicator-sound-switcher/blob/dev/doc/install.md) {{< fl "Sound Switcher Indicator" >}} можно одним из способов, описанных ниже.
 

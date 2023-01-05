@@ -27,4 +27,4 @@ software: sound-switcher-indicator
 yay -S indicator-sound-switcher
 ```
 
-Подробнее об установке в [соответствующем разделе](/software/sound-switcher-indicator#установка).
+Подробнее об установке в [соответствующем разделе](/software/sound-switcher-indicator/installation).

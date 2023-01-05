@@ -11,14 +11,8 @@
 <article>
     <div class="row">
         <div class="col-md-9">
-            <!-- Render the main page content -->
+            <!-- Main page content -->
             <section id="software-content">
-                <!-- Render a discontinuation banner if the project isn't active anymore -->
-                {{- if not $params.active }}
-                    {{- partial (printf "software/discontinued.%s.html" $.Site.Language) }}
-                {{- end }}
-
-                <!-- Main page content -->
                 {{ .Content }}
             </section>
 

@@ -1,6 +1,6 @@
 ---
 title: Download
 layout: downloads
-menu: ymuse
+menu: dklang-localization-package
 weight: 100
 ---

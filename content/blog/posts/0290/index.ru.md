@@ -44,4 +44,4 @@ software: sound-switcher-indicator
 
 ## Установка {#installation}
 
-Установить или обновить приложение можно, как обычно, через мой Launchpad PPA согласно [инструкции](/software/sound-switcher-indicator).
+Установить или обновить приложение можно, как обычно, через мой Launchpad PPA согласно [инструкции](/software/sound-switcher-indicator/installation).

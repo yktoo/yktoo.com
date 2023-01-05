@@ -3,8 +3,9 @@ title: Sound Switcher Indicator
 subtitle: Sound input/output selector indicator for Linux.
 layout: product
 icon: ssi-icon-64.png
-weight: 10
 software: sound-switcher-indicator
+weight: 1
+menu: sound-switcher-indicator
 active: true
 githubUrl: https://github.com/yktoo/indicator-sound-switcher
 licenses:
@@ -18,9 +19,6 @@ seeAlso:
       url: https://aur.archlinux.org/packages/indicator-sound-switcher
     - name: My Launchpad PPA
       url: https://launchpad.net/~yktooo/+archive/ppa
-menu:
-    sound-switcher-indicator:
-        weight: 1
 ---
 
 This app shows an icon in the indicator area or the system tray (whatever is available in your desktop environment). Icon's menu allows you to switch the current sound input and output (i.e. *source* and *sink* in PulseAudio's terms, respectively) ports with just two clicks:

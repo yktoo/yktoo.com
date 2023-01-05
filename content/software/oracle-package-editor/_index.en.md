@@ -3,8 +3,9 @@ title: Oracle Package Editor
 subtitle: GUI application for writing Oracle PL/SQL packages.
 layout: product
 icon: oracle-package-editor-icon-64.png
-weight: 4
 software: oracle-package-editor
+weight: 11
+menu: oracle-package-editor
 active: false
 githubUrl: https://github.com/yktoo/oracle-package-editor
 licenses:
