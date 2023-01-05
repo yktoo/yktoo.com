@@ -5,13 +5,15 @@
             {{- $curURL := .RelPermalink -}}
             {{- range .Site.Menus.footer }}
             <li class="nav-item">
-                <a class="nav-link{{ if eq $curURL (.URL | relLangURL | string) }} active{{ end }}" href="{{ .URL | absLangURL }}">{{ .Pre | safeHTML }}{{ T .Identifier }}{{ .Post | safeHTML }}</a>
+                <a class="nav-link{{ if eq $curURL (.URL | relLangURL | string) }} active{{ end }}"
+                   href="{{ .URL | absLangURL }}">{{ .Pre | safeHTML }}{{ T .Identifier | default .Identifier }}{{ .Post | safeHTML }}</a>
                 <!-- Submenu, if any -->
                 {{- if .HasChildren }}
                 <ul class="nav flex-column">
                     {{- range .Children }}
                     <li class="nav-item">
-                        <a class="nav-link{{ if eq $curURL (.URL | relLangURL | string) }} active{{ end }}" href="{{ .URL | absLangURL }}">{{ .Pre | safeHTML }}{{ T .Identifier }}{{ .Post | safeHTML }}</a>
+                        <a class="nav-link{{ if eq $curURL (.URL | relLangURL | string) }} active{{ end }}"
+                           href="{{ .URL | absLangURL }}">{{ .Pre | safeHTML }}{{ T .Identifier | default .Identifier }}{{ .Post | safeHTML }}</a>
                     </li>
                     {{- end }}
                 </ul>

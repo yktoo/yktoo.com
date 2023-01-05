@@ -263,7 +263,7 @@ menu:
           post: '</b>'
           parent: about
           weight: 25
-        - identifier: afkBest
+        - identifier: afk.best
           url: 'https://afk.best/'
           pre: '<b>'
           post: '</b>'
