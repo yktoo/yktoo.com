@@ -396,7 +396,6 @@ pre {
 // Navbar
 #navbar {
     font-family: 'Roboto Condensed', sans-serif;
-    padding-bottom: 0;
 
     .navbar-brand {
         display: flex;
@@ -409,6 +408,8 @@ pre {
     }
 
     .navbar-nav {
+        --bs-nav-link-padding-x: 0.5rem;
+
         .nav-link {
             &:not(.active) {
                 text-shadow: 0 0 6px #000000;
