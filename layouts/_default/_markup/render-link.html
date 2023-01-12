@@ -34,7 +34,7 @@
         {{- $title := .Title -}}
         {{/* If the page is a part of series, prepend its name tot the title */}}
         {{- with .Params.series }}{{ with index $pageToLink.Site.Taxonomies.series . }}{{ $title = printf "%s ‣ %s" .Page.Title $title }}{{ end }}{{ end -}}
-        <a href="{{ .RelPermalink }}{{ with $url.Fragment }}#{{ . }}{{ end }}" class="internal" title="{{ $title }}">{{ $.Text | safeHTML }}</a>
+        <a href="{{ .RelPermalink }}{{ with $url.Fragment }}#{{ . }}{{ end }}" class="internal" title="{{ $title }}">{{ $.Text | safeHTML | default $title }}</a>
     {{- else -}}
         {{- errorf "%s: Failed to find page for path %q (link text %q)" $.Page.File.Path .Destination .Text -}}
     {{- end -}}

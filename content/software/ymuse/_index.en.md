@@ -51,11 +51,12 @@ https://res.cloudinary.com/yktoo/image/upload/blog/vrqyquxgoncgxygly6kk.png Ymus
 * Seeking the current track to an arbitrary location.
 * Light and dark desktop theme support.
 * Internationalisation support. Bundled languages:
+    * English
     * Dutch
     * Japanese
     * Russian
 
-Be sure to check the [FAQ page](faq) first if you have a question, a feature request, or a bug report.
+Be sure to check the [](faq) first if you have a question, a feature request, or a bug report.
 
 Here's a short video tour of the application:
 

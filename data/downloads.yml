@@ -2,12 +2,16 @@
 # NB: detailUrl and downloadUrl can refer to the version value as '{version}'
 
 client-ssi-generator:
-    - title: 'Client SSI Generator'
+    - title: Client SSI Generator
       description:
           en: |
               The stable version of the program.
 
               Setup program.
+          nl: |
+              De stabiele versie van het programma.
+
+              Installatieprogramma.
           ru: |
               Стабильная версия программы.
 
@@ -20,12 +24,16 @@ client-ssi-generator:
       isFeatured: true
 
 dklang-localization-package:
-    - title: 'DKLang Localization Package'
+    - title: DKLang Localization Package
       description:
           en: |
-              Localization API for Delphi XE5+. Supports both VCL and FireMonkey applications (Win32, Win64, iOS, Mac OS X, Android).
+              Localisatie-API for Delphi XE5+. Supports both VCL and FireMonkey applications (Win32, Win64, iOS, Mac OS X, Android).
 
               Zip-archived source code.
+          nl: |
+              Lokalisatie-API voor Delphi XE5+. Ondersteunt zowel VCL- als FireMonkey-toepassingen (Win32, Win64, iOS, Mac OS X, Android).
+
+              Zip-gearchiveerde broncode.
           ru: |
               API для локализации программ, написанных на Delphi XE5+. Поддерживаются как VCL-, так и FireMonkey-приложения (Win32, Win64, iOS, Mac OS X, Android).
 
@@ -37,10 +45,11 @@ dklang-localization-package:
       downloadUrl: 'https://github.com/yktoo/dklang/archive/dklang-{version}.zip'
       isFeatured: true
 
-    - title: 'DKLang Localization Package'
+    - title: DKLang Localization Package
       description:
-          en: 'Localization API for Delphi 2009+. Zip-archived sources.'
-          ru: 'API для локализации программ, написанных на Delphi 2009+. Исходный код в архиве zip.'
+          en: Localization API for Delphi 2009+. Zip-archived sources.
+          nl: Localisatie-API voor Delphi 2009+. Zip-gearchiveerde broncode.
+          ru: API для локализации программ, написанных на Delphi 2009+. Исходный код в архиве zip.
       version: '4.01'
       detailUrl: 'https://github.com/yktoo/dklang/wiki/Revision-History#20131207-dklang-401'
       releaseDate: 2013-12-07
@@ -48,7 +57,7 @@ dklang-localization-package:
       downloadUrl: 'https://github.com/yktoo/dklang/archive/dklang-{version}.zip'
       isFeatured: false
 
-    - title: 'DKLang Localization Package'
+    - title: DKLang Localization Package
       description:
           en: |
               Localization API for the following versions of Delphi IDE (all with the latest updates applied):
@@ -58,6 +67,14 @@ dklang-localization-package:
               * BDS 2006
 
               Zip-archived sources.
+          nl: |
+              Localisatie-API voor de volgende Delphi-versies (met alle updates toegepast):
+              * Delphi 6
+              * Delphi 7
+              * BDS 2005
+              * BDS 2006
+
+              Zip-gearchiveerde broncode.
           ru: |
               API для локализации программ, написанных следующих версиях Delphi IDE (все с последними доступными обновлениями):
               * Delphi 6
@@ -73,10 +90,11 @@ dklang-localization-package:
       downloadUrl: 'https://github.com/yktoo/dklang/archive/dklang-{version}.zip'
       isFeatured: false
 
-    - title: 'Tnt Unicode Controls'
+    - title: Tnt Unicode Controls
       description:
-        en: 'Freeware version of the Tnt Unicode Controls package required by DKLang Localization Package v3.x.'
-        ru: 'Бесплатная версия пакета Tnt Unicode Controls, требуемого DKLang Localization Package v3.x.'
+        en: Freeware version of the Tnt Unicode Controls package required by DKLang Localization Package v3.x.
+        nl: Freeware-versie van het Tnt Unicode Controls-pakket vereist door DKLang Localization Package v3.x.
+        ru: Бесплатная версия пакета Tnt Unicode Controls, требуемого DKLang Localization Package v3.x.
       version: '2.3.0'
       detailUrl:
       releaseDate: 2007-09-06
@@ -85,13 +103,18 @@ dklang-localization-package:
       isFeatured: false
 
     - title:
-          en: 'Compiled example applications'
-          ru: 'Скомпилированные приложения-примеры'
+          en: Compiled example applications
+          nl: Gecompileerde voorbeeldtoepassingen
+          ru: Скомпилированные приложения-примеры
       description:
           en: |
               Examples compiled from the sources included with the package.
 
               Includes translations and source language files so you can try to create your own translations with **DKLang Translation Editor**.
+          nl: |
+              Voorbeelden gecompileerd uit de meegeleverde broncode.
+
+              Inclusief vertalingen en bron-taalbestanden, zodat je kunt proberen je eigen vertalingen te maken met **DKLang Translation Editor**.
           ru: |
               Примеры, скомпилированные из исходных кодов, поставляемых в составе пакета.
 
@@ -104,11 +127,13 @@ dklang-localization-package:
       isFeatured: false
 
     - title:
-          en: 'Constant converter'
-          ru: 'Конвертер констант'
+          en: Constant converter
+          nl: Constant converter
+          ru: Конвертер констант
       description:
-          en: 'Converter for constant resource files saved by package version 2.x. Compiled executable.'
-          ru: 'Конвертер для файлов ресурсов констант, созданных версиями 2.x пакета. Скомпилированный исполняемый файл.'
+          en: Converter for constant resource files saved by package version 2.x. Compiled executable.
+          nl: Converter voor constant-bronbestanden opgeslagen door pakketversie 2.x. Gecompileerd programma.
+          ru: Конвертер для файлов ресурсов констант, созданных версиями 2.x пакета. Скомпилированный исполняемый файл.
       version: '5.2'
       detailUrl:
       releaseDate: 2006-08-12
@@ -117,12 +142,16 @@ dklang-localization-package:
       isFeatured: false
 
 dklang-translation-editor:
-    - title: 'DKLang Translation Editor'
+    - title: DKLang Translation Editor
       description:
           en: |
               Translation editing tool for **DKLang Localization Package**.
 
               Setup program.
+          nl: |
+              Bewerkingsprogramma voor vertalingen gemaakt met **DKLang Localization Package**.
+
+              Installatieprogramma.
           ru: |
               Редактор переводов для **пакета DKLang**.
 
@@ -135,13 +164,18 @@ dklang-translation-editor:
       isFeatured: true
 
     - title:
-          en: 'User interface translations'
-          ru: 'Переводы интерфейса'
+          en: User interface translations
+          nl: Vertalingen van de gebruikersinterface
+          ru: Переводы интерфейса
       description:
           en: |
               Translation files for the application UI, zipped.
 
               Includes a language source file for translating **Translation Editor**'s interface into another language.
+          nl: |
+              Vertaalbestanden voor de UI van de toepassing, zip-gearchiveerd.
+
+              Bevat een taalbronbestand voor het vertalen van de interface van **Translation Editor** naar een andere taal.
           ru: |
               Файлы переводов для приложения, zip-архив.
 
@@ -154,12 +188,16 @@ dklang-translation-editor:
       isFeatured: false
 
 docker-indicator:
-    - title: 'Docker Indicator'
+    - title: Docker Indicator
       description:
           en: |
               A simple application indicator for **Ubuntu** to control Docker containers.
 
               Source code in a `.tar.gz` archive.
+          nl: |
+              Een eenvoudige applicatie-indicator voor **Ubuntu** om Docker-containers te beheren.
+
+              Broncode in een `.tar.gz`-archief.
           ru: |
               Простое приложение-индикатор для управления контейнерами Docker в **Убунту**.
 
@@ -172,12 +210,16 @@ docker-indicator:
       isFeatured: true
 
 oracle-package-editor:
-    - title: 'PackageEditor'
+    - title: PackageEditor
       description:
           en: |
               GUI editor for Oracle PL/SQL packages.
 
               Setup program.
+          nl: |
+              GUI-bewerkingsprogramma voor Oracle PL/SQL-paketten.
+
+              Installatieprogramma.
           ru: |
               Редактор PL/SQL-пакетов Oracle.
 
@@ -190,10 +232,11 @@ oracle-package-editor:
       isFeatured: true
 
 phoa:
-    - title: 'PhoA'
+    - title: PhoA
       subtitle:
-          en: 'Latest beta'
-          ru: 'Последняя бета-версия программы'
+          en: Latest beta
+          nl: Laatste bètaversie
+          ru: Последняя бета-версия программы
       description:
           en: |
               The latest beta version of the program. Program executable.
@@ -201,6 +244,12 @@ phoa:
               Languages included:
               * English (primary)
               * Russian
+          nl: |
+              De laatste bètaversie van het programma. Gecompileerd bestand.
+
+              Meegeleverde talen:
+              * Engels (primair)
+              * Russisch
           ru: |
             Последняя бета-версия программы. Исполняемый файл.
 
@@ -214,13 +263,15 @@ phoa:
       downloadUrl: 'https://github.com/yktoo/phoa/releases/download/v{version}/phoa-setup-{version}.exe'
       isFeatured: true
 
-    - title: 'PhoA'
+    - title: PhoA
       subtitle:
-          en: 'Unstable version'
-          ru: 'Нестабильная версия'
+          en: Unstable version
+          nl: Onstabiele versie
+          ru: Нестабильная версия
       description:
-          en: 'The latest development build of **PhoA**. Based on the 1.1.10-beta release. Zip-archived executable.'
-          ru: 'Последняя сборка **PhoA**. Основана на версии 1.1.10-beta. Исполняемый файл в архиве zip.'
+          en: The latest development build of **PhoA**. Based on the 1.1.10-beta release. Zip-archived executable.
+          nl: De laatste ontwikkelbuild van **PhoA**. Gebaseerd op de 1.1.10-beta-release. Zip-gearchiveerd.
+          ru: Последняя сборка **PhoA**. Основана на версии 1.1.10-beta. Исполняемый файл в архиве zip.
       version: '1.1.11-RC'
       detailUrl:
       releaseDate: 2005-09-11
@@ -228,12 +279,16 @@ phoa:
       downloadUrl: 'https://github.com/yktoo/phoa/releases/download/{version}/phoa-latest.zip'
       isFeatured: false
 
-    - title: 'phoadump'
+    - title: phoadump
       description:
           en: |
               A simple program that demonstrates the usage of PhoA programming interface (API).
 
               Zip-archived executable and source code.
+          nl: |
+              Een eenvoudig programma dat het gebruik van de PhoA-API demonstreert.
+
+              Zip-gearchiveerde bestanden.
           ru: |
               Простейший пример применения программного интерфейса PhoA (API).
 
@@ -245,10 +300,11 @@ phoa:
       downloadUrl: 'https://github.com/yktoo/phoa/releases/download/1.1.11-RC/phoadump-{version}.zip'
       isFeatured: false
 
-    - title: 'PhoA SDK'
+    - title: PhoA SDK
       description:
-          en: 'PhoA Software Development Kit.'
-          ru: 'Комплект для разработки дополнительных инструментов (software development kit).'
+          en: PhoA Software Development Kit.
+          nl: PhoA Software Development Kit.
+          ru: Комплект для разработки дополнительных инструментов (software development kit).
       version: '0.01'
       detailUrl:
       releaseDate: 2004-06-09
@@ -256,7 +312,7 @@ phoa:
       downloadUrl: 'https://github.com/yktoo/phoa/releases/download/1.1.11-RC/phoa-sdk-{version}.zip'
       isFeatured: false
 
-    - title: 'phoaxml'
+    - title: phoaxml
       description:
           en: |
               A simple converter for converting photo album **.phoa** files into **XML** files.
@@ -264,6 +320,12 @@ phoa:
               Zip-archived executable and source code.
 
               Thanks to Max Belugin for writing the initial version.
+          nl: |
+              Een eenvoudige converter voor het converteren van **.phoa** fotolijstbestanden naar **XML**-bestanden.
+
+              Zip-gearchiveerd executable en broncode.
+
+              Met dank aan Max Belugin voor het maken van de eerste versie.
           ru: |
               Простой конвертер файлов фотоальбома **.phoa** в файлы **XML**.
 
@@ -277,10 +339,11 @@ phoa:
       downloadUrl: 'https://github.com/yktoo/phoa/releases/download/1.1.11-RC/phoaxml-{version}.zip'
       isFeatured: false
 
-    - title: 'PhoA Transformer'
+    - title: PhoA Transformer
       description:
-          en: 'A tool for converting PhoA photo albums into XML, HTML and text and back into PhoA using XSLT. Setup program.'
-          ru: 'Инструмент для преобразования фотоальбомов PhoA в XML, HTML и текст и обратно на основе XSLT-шаблонов. Программа установки.'
+          en: A tool for converting PhoA photo albums into XML, HTML and text and back into PhoA using XSLT. Setup program.
+          nl: Een tool om PhoA-fotolijsten om te zetten in XML-, HTML- en tekstbestanden en terug naar fotolijsten met behulp van XSLT. Installatieprogramma.
+          ru: Инструмент для преобразования фотоальбомов PhoA в XML, HTML и текст и обратно на основе XSLT-шаблонов. Программа установки.
       version: '1.0'
       detailUrl:
       releaseDate: 2004-10-29
@@ -289,10 +352,11 @@ phoa:
       isFeatured: false
 
 process-explorer:
-    - title: 'Process Explorer'
+    - title: Process Explorer
       description:
-          en: 'Tool for viewing active processes and modules they use. Zip-archived executable.'
-          ru: 'Инструмент для просмотра запущенных процессов и модулей, ими используемых. Исполняемый файл в архиве zip.'
+          en: Tool for viewing active processes and modules they use. Zip-archived executable.
+          nl: Tool voor het bekijken van actieve processen en modules die ze gebruiken. Zip-gearchiveerde executable.
+          ru: Инструмент для просмотра запущенных процессов и модулей, ими используемых. Исполняемый файл в архиве zip.
       version: '0.02'
       detailUrl:
       releaseDate: 2003-04-20
@@ -301,15 +365,20 @@ process-explorer:
       isFeatured: true
 
 sound-switcher-indicator:
-    - title: 'Sound Switcher Indicator'
+    - title: Sound Switcher Indicator
       subtitle:
-          en: 'Debian package'
-          ru: 'Debian-пакет'
+          en: Debian package
+          nl: Debian-pakket
+          ru: Debian-пакет
       description:
           en: |
               A simple sound input/output switcher indicator application for Linux.
 
               Binary `.deb` package.
+          nl: |
+              Een eenvoudige indicatorapplicatie om geluidsin- en uitgang te switchen in Linux.
+
+              Binair `.deb`-pakket.
           ru: |
               Приложение-индикатор для выбора звукового входа/выхода в Linux.
 
@@ -330,6 +399,10 @@ sound-switcher-indicator:
               A simple sound input/output switcher indicator application for Linux.
 
               Source code in `.tar.gz` archive.
+          nl: |
+              Een eenvoudige indicatorapplicatie om geluidsin- en uitgang te switchen in Linux.
+
+              Broncode in `.tar.gz`-archief.
           ru: |
               Приложение-индикатор для выбора звукового входа/выхода в Linux.
 
@@ -342,15 +415,20 @@ sound-switcher-indicator:
       isFeatured: false
 
 ymuse:
-    - title: 'Ymuse'
+    - title: Ymuse
       subtitle:
-          en: 'Debian package'
-          ru: 'Debian-пакет'
+          en: Debian package
+          nl: Debian-pakket
+          ru: Debian-пакет
       description:
           en: |
               Client application for the Music Player Daemon.
 
               Binary `.deb` package.
+          nl: |
+              Cliëntapplicatie voor de Music Player Daemon.
+
+              Binair `.deb`-pakket.
           ru: |
               Приложение-клиент для Music Player Daemon.
 
@@ -362,15 +440,20 @@ ymuse:
       downloadUrl: 'https://github.com/yktoo/ymuse/releases/download/v{version}/ymuse_{version}_linux_amd64.deb'
       isFeatured: true
 
-    - title: 'Ymuse'
+    - title: Ymuse
       subtitle:
-          en: 'RPM package'
-          ru: 'RPM-пакет'
+          en: RPM package
+          nl: RPM-pakket
+          ru: RPM-пакет
       description:
           en: |
               Client application for the Music Player Daemon.
 
               Binary `.rpm` package.
+          nl: |
+              Cliëntapplicatie voor de Music Player Daemon.
+
+              Binair `.rpm`-pakket.
           ru: |
               Приложение-клиент для Music Player Daemon.
 
@@ -382,15 +465,20 @@ ymuse:
       downloadUrl: 'https://github.com/yktoo/ymuse/releases/download/v{version}/ymuse_{version}_linux_amd64.rpm'
       isFeatured: true
 
-    - title: 'Ymuse'
+    - title: Ymuse
       subtitle:
-          en: 'Source code'
-          ru: 'Исходный код'
+          en: Source code
+          nl: Broncode
+          ru: Исходный код
       description:
           en: |
               Client application for the Music Player Daemon.
 
               Source code in `.tar.gz` archive.
+          nl: |
+              Cliëntapplicatie voor de Music Player Daemon.
+
+              Broncode in `.tar.gz`-archief.
           ru: |
               Приложение-клиент для Music Player Daemon.
 

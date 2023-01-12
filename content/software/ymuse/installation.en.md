@@ -42,4 +42,4 @@ In case you're not using a helper, refer to [this article](https://wiki.archlinu
 
 ### Binary package
 
-There are also binary builds (`.deb`, `.rpm`) and a source tarball available: see below.
+There are also binary builds (`.deb`, `.rpm`) and a source tarball available: see [](download).
