@@ -1,6 +1,6 @@
 ---
 title: Ymuse
-subtitle: Makkelijke, functionele en snelle client voor Music Player Daemon.
+subtitle: Makkelijke, functionele en snelle cliëntapplicatie voor Music Player Daemon.
 layout: product
 icon: ymuse-icon-64.png
 software: ymuse
@@ -21,7 +21,7 @@ seeAlso:
       url: https://github.com/flathub/com.yktoo.ymuse
 ---
 
-**Ymuse** is een makkelijke, functionele en snelle client voor [Music Player Daemon](https://www.musicpd.org/) geschreven in Go.
+**Ymuse** is een makkelijke, functionele en snelle front-end voor [Music Player Daemon](https://www.musicpd.org/) geschreven in Go.
 
 {{< carousel >}}
 https://res.cloudinary.com/yktoo/image/upload/blog/e6ecokfftenpwlwswon1.png Ymuse hoofdvenster (Wachtrij-tabblad).
