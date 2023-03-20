@@ -1,4 +1,4 @@
 Sitemap: {{ "sitemap.xml" | absURL }}
 
 User-agent: *
-Clean-param: *
+Clean-param: lang&page
