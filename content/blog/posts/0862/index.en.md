@@ -5,20 +5,21 @@ title: "Commento is dead. Long live Comentario!"
 tags:
     - cloud
     - Commento
+    - Comentario
     - Disqus
     - Docker
-    - Docker Compose
     - Linux
+    - web
     - software
     - software development
-    - how-to
+    - Go
 image: "https://res.cloudinary.com/yktoo/image/upload/v1680875488/blog/aymiialjtcr6gxvtlh7d.png"
 series: comentario
 ---
 
 I've been using Commento, the web comment engine, for quite a while on this website, as well as some other sites. I even [wrote a post](0350) on running Commento with Docker Compose. Commento used to be a free and lightweight alternative to Disqus, Facebook Comments, and such.
 
-But Commento is now dead, which is why I decided to relaunch it — under the new name of **[Comentario](https://comentario.app/)** (yes, with one `m`)!
+But Commento is now dead, which is why I decided to relaunch it — under the new name of **[Comentario](https://comentario.app/)** (yes, with one *m*)!
 
 <!--more-->
 
@@ -33,6 +34,8 @@ One day I felt I've had enough of Commento quirks, so I decided to develop an al
 ## Meet Comentario
 
 So I've started off on a long journey of reimplementing the comment server.
+
+I named it {{< fl "Comentario" >}} — which is Spanish for "comment" — thus relating it to {{< fl "Commento" >}}, having the same meaning in Italian.
 
 **[Comentario](https://comentario.app/)** is, in simple terms, a **complete rewrite** of Commento. Its versioning [started](https://gitlab.com/comentario/comentario/-/releases) from **2.0.1** (building upon the version 1.8.0 of its predecessor).
 
@@ -75,15 +78,28 @@ At this moment, Comentario offers at least the same functionality as Commento, o
     * Domain data export downloads the dump file instead of sending an email;
 * Automatic end-to-end testing using Cypress to prevent regressions (in progress).
 
+## Performance
+
+In all honesty, Commento's data model was immature and weird. It employed bizarre design decisions, resulting in huge performance penalties.
+
+One of its key functions, which loads comment threads, used a database query to load all comments for a page, then *one query for each commenter* to load their data, and additionally *one query for each comment* to fetch comment votes. This was — to put it mildly — simply horrible. Say, you had a page with **500** comments by **100** commenters: loading comments for this single page would trigger **601** SQL queries!!
+
+Comentario fixed that madness by loading *all comments, votes, and commenters in a single query*.
+
+There were numerous other places where database interaction was sub-optimal, albeit not as strikingly as in the one mentioned above. Comentario also addressed some resource leaks, implemented robust error handling, and resolved numerous security and input validation omissions.
+
+Up to the current Comentario [version **2.3.0**](https://gitlab.com/comentario/comentario/-/releases/v2.3.0) the database structure remains unchanged; I've decided to rather concentrate on improving the server and the client code first, but the data model is definitely next on my priority list.
+
 ## Moving on
 
 This is just the beginning as I plan to add lots of new cool features (missing in Commento).
 
 Feel free to:
 
-* Leave a comment below (using Comentario, of course!).
-* View a [demo website](https://demo.comentario.app/).
-* Browse [Comentario documentation](https://docs.comentario.app/).
-* File an issue [on GitLab](https://gitlab.com/comentario/comentario).
+* Leave a comment [below](#blog-post-comments) (using Comentario, of course!)
+* See Comentario in action on [this demo website](https://demo.comentario.app/)
+* Browse [Comentario documentation](https://docs.comentario.app/)
+* File an issue [on GitLab](https://gitlab.com/comentario/comentario)
+* Download and install [Comentario 2.3.0](https://gitlab.com/comentario/comentario/-/releases/v2.3.0)
 
 Stay tuned!
