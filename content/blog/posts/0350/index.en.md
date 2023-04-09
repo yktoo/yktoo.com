@@ -17,8 +17,11 @@ fulltextUrl: 'https://yktoo.solutions/blog/2019/07/28-self-hosting-commento-with
 ---
 
 {{< div "alert alert-warning" >}}
-Commento is abandoned. Please consider [using Comentario](https://gitlab.com/comentario/comentario) instead.
+**WARNING:**\
+Commento is abandoned. I strongly recommend [using Comentario](0862) instead.
 {{< /div >}}
+
+---
 
 A while ago I've made a decision to migrate off Disqus, which is arguably the most popular external commenting system for website owners.
 
