@@ -6,7 +6,7 @@ icon: docker-indicator-icon-64.png
 software: docker-indicator
 weight: 40
 menu: docker-indicator
-active: true
+active: false
 codeRepoType: github
 codeRepoPath: yktoo/indicator-docker
 licenses:
