@@ -15,6 +15,7 @@ tags:
     - Go
 image: "https://res.cloudinary.com/yktoo/image/upload/v1680875488/blog/aymiialjtcr6gxvtlh7d.png"
 series: comentario
+software: comentario
 ---
 
 Я долго использовал сервер комментариев {{< fl "Commento" >}} на этом и на некоторых других веб-сайтах. Я даже, помнится, написал [инструкцию](0350) по запуску {{< fl "Commento" >}} при помощи {{< fl "Docker Compose" >}}. Несколько лет назад {{< fl "Commento" >}} позиционировался как лёгкая и бесплатная альтернатива {{< fl "Disqus" >}}, {{< fl "Facebook Comments" >}} и т.д. для добавления функционала комментариев на веб-страницы.

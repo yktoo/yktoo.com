@@ -4,10 +4,11 @@ subtitle: Client-side SSI processing tool.
 layout: product
 icon: client-ssi-generator-icon-64.png
 software: client-ssi-generator
-weight: 12
+weight: 120
 menu: client-ssi-generator
 active: false
-githubUrl: https://github.com/yktoo/clssigen
+codeRepoType: github
+codeRepoPath: yktoo/clssigen
 licenses:
     - gpl3
 ---

@@ -4,10 +4,11 @@ subtitle: Простой, функциональный и быстрый кли�
 layout: product
 icon: ymuse-icon-64.png
 software: ymuse
-weight: 2
+weight: 20
 menu: ymuse
 active: true
-githubUrl: https://github.com/yktoo/ymuse
+codeRepoType: github
+codeRepoPath: yktoo/ymuse
 licenses:
     - apache2
 seeAlso:

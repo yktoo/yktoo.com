@@ -4,10 +4,11 @@ subtitle: Индикатор для управления контейнерам�
 layout: product
 icon: docker-indicator-icon-64.png
 software: docker-indicator
-weight: 4
+weight: 40
 menu: docker-indicator
 active: true
-githubUrl: https://github.com/yktoo/indicator-docker
+codeRepoType: github
+codeRepoPath: yktoo/indicator-docker
 licenses:
     - gpl3
 seeAlso:

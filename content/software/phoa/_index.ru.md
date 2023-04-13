@@ -4,10 +4,11 @@ subtitle: Мощный каталогизатор изображений.
 layout: product
 icon: phoa-icon-64.png
 software: phoa
-weight: 10
+weight: 100
 menu: phoa
 active: false
-githubUrl: https://github.com/yktoo/phoa
+codeRepoType: github
+codeRepoPath: yktoo/phoa
 licenses:
     - gpl3
     - mpl2

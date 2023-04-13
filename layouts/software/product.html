@@ -5,8 +5,13 @@
 {{- define "main" }}
 
 <!-- Fetch software properties -->
-{{- $page := . -}}
-{{- $params := $page.Params -}}
+{{- $page       := . -}}
+{{- $params     := $page.Params -}}
+{{- $repoType   := $params.codeRepoType -}}
+{{- $repoPath   := $params.codeRepoPath -}}
+{{- $repoName   := cond (eq $repoType "github") "GitHub" "GitLab" -}}
+{{- $repoURL    := printf "https://%s.com/%s" $repoType $repoPath -}}
+{{- $repoIssues := print $repoURL (cond (eq $repoType "github") "/issues" "/-/issues") -}}
 
 <article>
     <div class="row">
@@ -33,15 +38,15 @@
             {{- end }}
 
             <!-- Support - only provided to active projects -->
-            {{- if and $params.active $params.githubUrl }}
+            {{- if and $params.active $repoType }}
             <section id="software-support">
                 <h2>{{ T "support" }}</h2>
                 <div class="list-group">
-                    <a class="list-group-item list-group-item-action list-group-item-iconized" href="{{ $params.githubUrl }}/issues">
-                        <div class="list-group-img-64"><i class="fab fa-github"></i></div>
+                    <a class="list-group-item list-group-item-action list-group-item-iconized" href="{{ $repoIssues }}">
+                        <div class="list-group-img-64"><i class="fab fa-{{ $repoType }}"></i></div>
                         <div class="list-group-text">
-                            <div class="list-group-heading">{{ T "githubIssueTrk" }}</div>
-                            <div class="list-group-details">{{ T "githubIssueTrkDet" }}</div>
+                            <div class="list-group-heading">{{ T "codeRepoIssueTracker" (dict "name" $repoName) }}</div>
+                            <div class="list-group-details">{{ T "codeRepoIsTrkDetails" }}</div>
                         </div>
                     </a>
                 </div>
@@ -49,11 +54,11 @@
             {{- end }}
 
             <!-- Source code -->
-            {{- with $params.githubUrl }}
+            {{- if $repoType }}
             <section id="software-source">
                 <h2>{{ T "sourceCode" }}</h2>
-                <p>{{ T "sourceCodeClone" }} <a href="{{ . }}">{{ T "githubRepo" }}</a>:</p>
-                <pre><code>git clone {{ . }}.git</code></pre>
+                <p>{{ T "sourceCodeClone" }} <a href="{{ $repoURL }}">{{ T "codeRepo" (dict "name" $repoName) }}</a>:</p>
+                {{ printf "```bash\ngit clone %s.git\n```" $repoURL | $page.RenderString }}
             </section>
             {{- end }}
 
@@ -87,11 +92,11 @@
                     </ul>
                     {{ .TableOfContents }}
                     <ul>
-                        {{- if $params.fullDocsUrl                  }}<li><a href="#software-docs">{{ T "docs" }}</a></li>{{ end }}
-                        {{- if $params.licenses                     }}<li><a href="#software-license">{{ T "license" }}</a></li>{{ end }}
-                        {{- if and $params.active $params.githubUrl }}<li><a href="#software-support">{{ T "support" }}</a></li>{{ end }}
-                        {{- if $params.githubUrl                    }}<li><a href="#software-source">{{ T "sourceCode" }}</a></li>{{ end }}
-                        {{- if or $params.seeAlso $related          }}<li><a href="#software-see-also">{{ T "seeAlso" }}</a></li>{{ end }}
+                        {{- if $params.fullDocsUrl          }}<li><a href="#software-docs">{{ T "docs" }}</a></li>{{ end }}
+                        {{- if $params.licenses             }}<li><a href="#software-license">{{ T "license" }}</a></li>{{ end }}
+                        {{- if and $params.active $repoType }}<li><a href="#software-support">{{ T "support" }}</a></li>{{ end }}
+                        {{- if $repoType                    }}<li><a href="#software-source">{{ T "sourceCode" }}</a></li>{{ end }}
+                        {{- if or $params.seeAlso $related  }}<li><a href="#software-see-also">{{ T "seeAlso" }}</a></li>{{ end }}
                     </ul>
                 </section>
             </div>

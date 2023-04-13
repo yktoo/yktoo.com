@@ -2,5 +2,5 @@
 title: Скачать
 layout: downloads
 menu: ymuse
-weight: 100
+weight: 1000
 ---

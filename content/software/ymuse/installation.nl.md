@@ -1,7 +1,7 @@
 ---
 title: Installatie
 menu: ymuse
-weight: 20
+weight: 200
 ---
 
 ### Ubuntu

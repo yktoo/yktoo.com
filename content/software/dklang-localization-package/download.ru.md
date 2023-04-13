@@ -2,5 +2,5 @@
 title: Скачать
 layout: downloads
 menu: dklang-localization-package
-weight: 100
+weight: 1000
 ---

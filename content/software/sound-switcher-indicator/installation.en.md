@@ -1,7 +1,7 @@
 ---
 title: Installation
 menu: sound-switcher-indicator
-weight: 20
+weight: 200
 ---
 
 There are the following ways to get the indicator [installed](https://github.com/yktoo/indicator-sound-switcher/blob/dev/doc/install.md):

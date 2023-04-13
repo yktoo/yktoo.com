@@ -1,7 +1,7 @@
 ---
 title: FAQ
 menu: ymuse
-weight: 10
+weight: 100
 ---
 
 Veelgestelde vragen over [Ymuse](/software/ymuse).

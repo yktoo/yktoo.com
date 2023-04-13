@@ -2,5 +2,5 @@
 title: Скачать
 layout: downloads
 menu: client-ssi-generator
-weight: 100
+weight: 1000
 ---

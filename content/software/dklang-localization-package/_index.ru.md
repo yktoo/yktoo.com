@@ -4,10 +4,11 @@ subtitle: Библиотека для локализации Delphi-прилож
 layout: product
 icon: dklang-icon-64.png
 software: dklang-localization-package
-weight: 6
+weight: 60
 menu: dklang-localization-package
 active: true
-githubUrl: https://github.com/yktoo/dklang
+codeRepoType: github
+codeRepoPath: yktoo/dklang
 licenses:
     - lgpl21
     - mpl11

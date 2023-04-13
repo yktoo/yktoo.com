@@ -4,9 +4,10 @@ subtitle: A collection of utility scripts for Linux.
 layout: product
 icon: terminal-64.png
 software: yktools
-weight: 3
+weight: 30
 active: true
-githubUrl: https://github.com/yktoo/yktools
+codeRepoType: github
+codeRepoPath: yktoo/yktools
 licenses:
     - gpl3
 fullDocsUrl: https://github.com/yktoo/yktools/wiki

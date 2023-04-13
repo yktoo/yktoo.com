@@ -15,6 +15,7 @@ tags:
     - Go
 image: "https://res.cloudinary.com/yktoo/image/upload/v1680875488/blog/aymiialjtcr6gxvtlh7d.png"
 series: comentario
+software: comentario
 ---
 
 I've been using Commento, the web comment engine, for quite a while on this website, as well as some other sites. I even [wrote a post](0350) on running Commento with Docker Compose. Commento used to be a free and lightweight alternative to Disqus, Facebook Comments, and such.

@@ -1,7 +1,7 @@
 ---
 title: Установка
 menu: sound-switcher-indicator
-weight: 20
+weight: 200
 ---
 
 [Установить](https://github.com/yktoo/indicator-sound-switcher/blob/dev/doc/install.md) {{< fl "Sound Switcher Indicator" >}} можно одним из способов, описанных ниже.

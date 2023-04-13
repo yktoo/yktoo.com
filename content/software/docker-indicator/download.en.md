@@ -2,7 +2,7 @@
 title: Download
 layout: downloads
 menu: docker-indicator
-weight: 20
+weight: 200
 ---
 
 If you want to install the indicator, refer to the [installation](https://github.com/yktoo/indicator-docker/blob/master/INSTALL) page. Here you can download the latest source code of the application.

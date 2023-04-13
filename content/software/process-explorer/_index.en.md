@@ -4,10 +4,11 @@ subtitle: Tool for viewing processes and DLL modules in use.
 layout: product
 icon: process-explorer-icon-64.png
 software: process-explorer
-weight: 13
+weight: 130
 menu: process-explorer
 active: false
-githubUrl: https://github.com/yktoo/process-explorer
+codeRepoType: github
+codeRepoPath: yktoo/process-explorer
 licenses:
     - gpl3
 ---

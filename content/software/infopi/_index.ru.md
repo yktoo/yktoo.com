@@ -4,9 +4,10 @@ subtitle: Информационный киоск на базе Raspberry Pi.
 layout: product
 icon: infopi-icon-64.png
 software: infopi
-weight: 5
+weight: 50
 active: true
-githubUrl: https://github.com/yktoo/infopi
+codeRepoType: github
+codeRepoPath: yktoo/infopi
 licenses:
     - mit1
 ---
