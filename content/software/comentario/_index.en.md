@@ -23,7 +23,10 @@ You can easily embed it in your website to allow your readers to add comments.
 
 You can see it in action on the [demo page](https://demo.comentario.app/).
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1680877677/blog/qyoppijmu3zffyk9usah.png" "Comentario administrative UI." "border shadow" >}}
+{{< carousel >}}
+https://res.cloudinary.com/yktoo/image/upload/v1681485503/blog/os19mq1xygamb6fxplfu.png Comentario Dashboard.
+https://res.cloudinary.com/yktoo/image/upload/v1681488267/blog/s5udiargc0l3lnf0b40f.png Domain details in Comentario.
+{{< /carousel >}}
 
 ## Getting started
 

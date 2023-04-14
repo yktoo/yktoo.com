@@ -13,6 +13,7 @@ tags:
     - софт
     - разработка
     - Go
+    - Angular
 image: "https://res.cloudinary.com/yktoo/image/upload/v1680875488/blog/aymiialjtcr6gxvtlh7d.png"
 series: comentario
 software: comentario

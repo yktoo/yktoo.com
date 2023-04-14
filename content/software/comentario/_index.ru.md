@@ -21,7 +21,10 @@ seeAlso:
 
 Увидеть {{< fl "Comentario" >}} в действии можно на [демонстрационном сайте](https://demo.comentario.app/).
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1680877677/blog/qyoppijmu3zffyk9usah.png" "Административный интерфейс Comentario." "border shadow" >}}
+{{< carousel >}}
+https://res.cloudinary.com/yktoo/image/upload/v1681485503/blog/os19mq1xygamb6fxplfu.png Дашборд Comentario.
+https://res.cloudinary.com/yktoo/image/upload/v1681488267/blog/s5udiargc0l3lnf0b40f.png Свойства домена в Comentario.
+{{< /carousel >}}
 
 ## Как использовать Comentario
 

@@ -23,7 +23,10 @@ Je kunt het eenvoudig in je website inbouwen, zodat je lezers commentaar kunnen 
 
 Je kunt het in actie zien op de [demopagina](https://demo.comentario.app/).
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1680877677/blog/qyoppijmu3zffyk9usah.png" "Comentario administratieve UI." "border shadow" >}}
+{{< carousel >}}
+https://res.cloudinary.com/yktoo/image/upload/v1681485503/blog/os19mq1xygamb6fxplfu.png Comentario Dashboard.
+https://res.cloudinary.com/yktoo/image/upload/v1681488267/blog/s5udiargc0l3lnf0b40f.png Domeineigenschappen in Comentario.
+{{< /carousel >}}
 
 ## Aan de slag
 
