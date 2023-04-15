@@ -28,7 +28,7 @@ software: comentario
 * Fix: stats is displayed for a correct **30**-day period now; metric counters use the same colours as the chart.
 * The embedded part:
     * Fix password reset for commenter.
-    * Add password reset popup dialog (in prior versions, the user would be redirect to a dedicated page in the frontend).
+    * Add password reset popup dialog (in prior versions, the user would be redirected to a dedicated page in the frontend).
     * Fix settings saving for OAuth users.
     * Setting `data-css-override="false"` disables CSS completely ([#10](https://gitlab.com/comentario/comentario/-/issues/10))
     * Don't fail Comentario load on CSS load failure ([#12](https://gitlab.com/comentario/comentario/-/issues/12))
