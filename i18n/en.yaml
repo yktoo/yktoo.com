@@ -1,4 +1,5 @@
 - {id: about,                translation: About}
+- {id: allPostsInSeries,     translation: 'All posts in "{{ . }}"'}
 - {id: archive,              translation: Archive}
 - {id: articles,             translation: Articles}
 - {id: author,               translation: Author}
@@ -58,7 +59,6 @@
 - {id: numPages,             translation: {one: 'One page', other: '{{ .Count }} pages'}}
 - {id: numVideos,            translation: {one: 'One video', other: '{{ .Count }} videos'}}
 - {id: once-to,              translation: once.to}
-- {id: otherPostsSeries,     translation: Other posts of this series}
 - {id: pageSource,           translation: Page source code}
 - {id: paginatorNext,        translation: Next page}
 - {id: paginatorPrevious,    translation: Previous page}
