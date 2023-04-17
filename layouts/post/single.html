@@ -103,7 +103,7 @@
 
             <!-- Subscribe link -->
             <section class="blog-subscribe-cta">
-                <div class="font-weight-bold">{{ T "blogSubscribeCTA" }}:</div>
+                <div class="fw-bold">{{ T "blogSubscribeCTA" }}:</div>
                 <div class="button-row">
                     <!-- Email -->
                     <a class="btn icon-btn" href="{{ index .Site.Data.blog.subscribe.by_email_url .Language.Lang }}" title="{{ T `subscribeByEmail` }}">
@@ -228,7 +228,7 @@
 {{- define "bottom-navbar" }}
 <!-- Sharing buttons -->
 <section id="page-sharing-buttons">
-    <div class="font-weight-bold">{{ T "share" }}:</div>
+    <div class="fw-bold">{{ T "share" }}:</div>
     {{ partial "sharing-buttons" . }}
 </section>
 

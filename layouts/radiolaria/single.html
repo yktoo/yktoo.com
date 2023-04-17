@@ -51,7 +51,7 @@
 
         <!-- Render bold whatever is in square brackets -->
         {{- if findRE "\\[.+\\]" $line -}}
-            {{- $classes = $classes | append "font-weight-bold" -}}
+            {{- $classes = $classes | append "fw-bold" -}}
             {{- $line = replaceRE "\\[(.+)\\]" "$1" $line -}}
         {{- end -}}
 
