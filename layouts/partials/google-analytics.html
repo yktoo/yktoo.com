@@ -1,5 +1,5 @@
-<!-- Do not add the code when running locally -->
-{{- if not (in (print $.Site.BaseURL) "localhost") }}
+<!-- Do not add the code when Google Analytics is disabled -->
+{{- if eq (os.Getenv "HUGO_DISABLE_GA") "" }}
     <script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.GoogleAnalytics }}"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
