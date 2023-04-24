@@ -1,11 +1,11 @@
 - {id: about,                translation: Over}
+- {id: allPosts,             translation: Alle blogposts}
 - {id: allPostsInSeries,     translation: 'Alle posts in "{{ . }}"'}
 - {id: archive,              translation: Archief}
 - {id: articles,             translation: Artikelen}
 - {id: author,               translation: Auteur}
 - {id: authoredBy,           translation: Door}
 - {id: blog,                 translation: Blog}
-- {id: blogPostId,           translation: Intern post id}
 - {id: blogPosts,            translation: Blogposts}
 - {id: blogSubscribe,        translation: Abonneren}
 - {id: blogSubscribeCTA,     translation: Abonneren op blog updates}
@@ -70,6 +70,7 @@
 - {id: postIn_ru,            translation: in het Russisch}
 - {id: postInLangs,          translation: Deze post}
 - {id: postNext,             translation: Volgende post}
+- {id: postPermalink,        translation: Permanente link naar deze post}
 - {id: postPrev,             translation: Vorige post}
 - {id: posts_en,             translation: Posts in het Engels}
 - {id: posts_nl,             translation: Posts in het Nederlands}
@@ -81,7 +82,7 @@
 - {id: privacyPolicy,        translation: Privacybeleid}
 - {id: radiolaria,           translation: Radiolaria}
 - {id: readInBlog,           translation: In mijn blog lezen »}
-- {id: readingTime,          translation: {one: 'Een minuut te lezen', other: '{{ .Count }} min te lezen' }}
+- {id: readingTime,          translation: {one: 'Een minuut te lezen', other: '{{ .Count }}&nbsp;min te lezen' }}
 - {id: readOn,               translation: Lees verder »}
 - {id: readOnAt,             translation: Verder lezen op}
 - {id: releaseData,          translation: Gegevens}
@@ -112,6 +113,7 @@
 - {id: subscribeInFeedly,    translation: Abonneren in Feedly}
 - {id: subscribeInTgram,     translation: Abonneren in Telegram}
 - {id: subscribeSocial,      translation: Abonneren in social networks}
+- {id: subscribeToUpdates,   translation: Abonneren op updates}
 - {id: support,              translation: Ondersteuning}
 - {id: tag,                  translation: Tag}
 - {id: tags,                 translation: Tags}

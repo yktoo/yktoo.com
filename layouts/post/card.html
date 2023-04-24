@@ -1,10 +1,14 @@
 <!-- Single post item, which is displayed in a list as a card -->
-<article class="card uni-height text-center" data-aos="fade-up">
+<article class="card text-center mb-3 overflow-hidden">
     <!-- Link overlay -->
     <a href="{{ .RelPermalink }}" class="card-link-overlay"></a>
 
     <!-- Post image -->
     <div class="top-image">
+        <!-- Post date -->
+        <div class="in-image-top-right">{{- partial "date" (dict "date" .Date "long" false) -}}</div>
+
+        <!-- Image -->
         {{- $url := .Params.image }}
         {{- with $url }}
             {{- if findRE "^(/|http(s?)://)" $url }}
@@ -18,10 +22,9 @@
         <img src="{{ $url }}" alt="Post image">
     </div>
 
-    <!-- Post body -->
-    <div class="card-body mb-3"><h6 class="card-title">{{ with .Params.series }}{{ with index $.Site.Taxonomies.series . }}{{ .Page.Title }} ‣ {{ end }}{{ end }}{{ .Title | markdownify }}</h6></div>
-
-    <!-- Post date -->
-    <div class="card-footer small">{{- partial "date" (dict "date" .Date "long" false) -}}</div>
+    <div class="card-body">
+        <!-- Post title -->
+        <div class="card-text">{{ with .Params.series }}{{ with index $.Site.Taxonomies.series . }}{{ .Page.Title }} ‣ {{ end }}{{ end }}{{ .Title | markdownify }}</div>
+    </div>
 </article>
 

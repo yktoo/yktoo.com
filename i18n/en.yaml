@@ -1,11 +1,11 @@
 - {id: about,                translation: About}
+- {id: allPosts,             translation: All blog posts}
 - {id: allPostsInSeries,     translation: 'All posts in "{{ . }}"'}
 - {id: archive,              translation: Archive}
 - {id: articles,             translation: Articles}
 - {id: author,               translation: Author}
 - {id: authoredBy,           translation: By}
 - {id: blog,                 translation: Blog}
-- {id: blogPostId,           translation: Internal post ID}
 - {id: blogPosts,            translation: Blog posts}
 - {id: blogSubscribe,        translation: Subscribe}
 - {id: blogSubscribeCTA,     translation: Subscribe to blog updates}
@@ -70,6 +70,7 @@
 - {id: postIn_ru,            translation: in Russian}
 - {id: postInLangs,          translation: This post}
 - {id: postNext,             translation: Next post}
+- {id: postPermalink,        translation: Permanent link to this post}
 - {id: postPrev,             translation: Previous post}
 - {id: posts_en,             translation: English posts}
 - {id: posts_nl,             translation: Dutch posts}
@@ -81,7 +82,7 @@
 - {id: privacyPolicy,        translation: Privacy policy}
 - {id: radiolaria,           translation: Radiolaria}
 - {id: readInBlog,           translation: Read in my blog »}
-- {id: readingTime,          translation: {one: 'A minute read', other: '{{ .Count }} min read'}}
+- {id: readingTime,          translation: {one: 'A minute read', other: '{{ .Count }}&nbsp;min read'}}
 - {id: readOn,               translation: Read on »}
 - {id: readOnAt,             translation: Continue reading on}
 - {id: releaseData,          translation: Release data}
@@ -112,6 +113,7 @@
 - {id: subscribeInFeedly,    translation: Subscribe in Feedly}
 - {id: subscribeInTgram,     translation: Subscribe in Telegram}
 - {id: subscribeSocial,      translation: Subscribe in social networks}
+- {id: subscribeToUpdates,   translation: Subscribe to updates}
 - {id: support,              translation: Support}
 - {id: tag,                  translation: Tag}
 - {id: tags,                 translation: Tags}

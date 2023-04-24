@@ -57,4 +57,11 @@
 <div class="blog-paginator">
     {{ template "_internal/pagination.html" . }}
 </div>
+<div class="text-center">
+    <a href="{{ relref . `/blog/archive` }}">{{ T "allPosts" }}</a>
+    <span class="dot-sep"></span>
+    <a href="{{ relref . `/blog/tags` }}">{{ T "tags" }}</a>
+    <span class="dot-sep"></span>
+    <a href="{{ relref . `/blog/subscribe` }}">{{ T "subscribeToUpdates" }}</a>
+</div>
 {{ end }}

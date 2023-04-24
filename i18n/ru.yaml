@@ -1,11 +1,11 @@
 - {id: about,                translation: О сайте}
+- {id: allPosts,             translation: Все посты блога}
 - {id: allPostsInSeries,     translation: 'Все посты рубрики «{{ . }}»'}
 - {id: archive,              translation: Архив}
 - {id: articles,             translation: Статьи}
 - {id: author,               translation: Автор}
 - {id: authoredBy,           translation: 'Автор:'}
 - {id: blog,                 translation: Блог}
-- {id: blogPostId,           translation: Внутренний идентификатор поста}
 - {id: blogPosts,            translation: Посты в блоге}
 - {id: blogSubscribe,        translation: Подписаться}
 - {id: blogSubscribeCTA,     translation: Подписаться на обновления блога}
@@ -70,6 +70,7 @@
 - {id: postIn_ru,            translation: на русском}
 - {id: postInLangs,          translation: Этот пост}
 - {id: postNext,             translation: Следующий пост}
+- {id: postPermalink,        translation: Постоянная ссылка на пост}
 - {id: postPrev,             translation: Предыдущий пост}
 - {id: posts_en,             translation: Посты на английском}
 - {id: posts_nl,             translation: Посты на голландском}
@@ -81,7 +82,7 @@
 - {id: privacyPolicy,        translation: Политика приватности}
 - {id: radiolaria,           translation: Радиолярия}
 - {id: readInBlog,           translation: Читать в моём блоге »}
-- {id: readingTime,          translation: {one: 'Чтение на минуту', few: 'Чтение на {{ .Count }} мин', many: 'Чтение на {{ .Count }} мин'}}
+- {id: readingTime,          translation: {one: 'Чтение на минуту', few: 'Чтение на {{ .Count }}&nbsp;мин', many: 'Чтение на {{ .Count }}&nbsp;мин'}}
 - {id: readOn,               translation: Далее »}
 - {id: readOnAt,             translation: Читать далее на}
 - {id: releaseData,          translation: Информация}
@@ -112,6 +113,7 @@
 - {id: subscribeInFeedly,    translation: Подписаться в Feedly}
 - {id: subscribeInTgram,     translation: Подписаться в Телеграм}
 - {id: subscribeSocial,      translation: Подписаться в соцсетях}
+- {id: subscribeToUpdates,   translation: Подписаться на обновления}
 - {id: support,              translation: Поддержка}
 - {id: tag,                  translation: Тег}
 - {id: tags,                 translation: Теги}
