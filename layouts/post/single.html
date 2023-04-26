@@ -37,36 +37,49 @@
 {{- end }}
 
 {{- define "heading" }}
+<!-- Determine post image -->
+{{- $imgUrl := .Params.image }}
+{{- with $imgUrl }}
+    {{- if not (findRE "^(/|http(s?)://)" $imgUrl) }}
+        {{- $imgUrl = ($.Page.Resources.GetMatch $imgUrl).RelPermalink }}
+    {{- end -}}
+{{- end -}}
+
 <!-- Jumbotron -->
-<div class="p-5 mb-3 text-center" id="blog-post-heading">
-    <!-- Post title -->
-    <h1 class="display-6">
-        {{- with .Params.series }}{{ with index $.Site.Taxonomies.series . -}}
-            {{- .Page.Title -}}
-            <span class="mx-2 text-muted">‣</span>
-        {{- end }}{{ end -}}
-        {{- .Title | markdownify -}}
-    </h1>
+<div class="p-5 mb-3 text-center position-relative" id="blog-post-heading">
+    <!-- Jumbotron backdrop -->
+    {{- with $imgUrl }}<div class="jumbotron-backdrop" style="background-image: url('{{ . }}')"></div>{{ end }}
 
-    <!-- Post metadata -->
-    <div class="page-heading-meta">
-        <!-- Date -->
-        <a href="{{ print `/blog/post/` (.File.Dir | path.Base) | absLangURL }}" title="{{ T `postPermalink` }}">{{ partial "date" (dict "date" .Date "long" true) }}</a>
+    <div class="jumbotron-container">
+        <!-- Post title -->
+        <h1 class="display-6">
+            {{- with .Params.series }}{{ with index $.Site.Taxonomies.series . -}}
+                {{- .Page.Title -}}
+                <span class="mx-2 text-muted">‣</span>
+            {{- end }}{{ end -}}
+            {{- .Title | markdownify -}}
+        </h1>
 
-        <!-- Author -->
-        <span class="dot-sep"></span>{{ T "authoredBy" }}&nbsp;{{ .Params.author | default .Site.Params.author }}
+        <!-- Post metadata -->
+        <div class="page-heading-meta">
+            <!-- Date -->
+            <a href="{{ print `/blog/post/` (.File.Dir | path.Base) | absLangURL }}" title="{{ T `postPermalink` }}">{{ partial "date" (dict "date" .Date "long" true) }}</a>
 
-        <!-- Time to read -->
-        <span class="dot-sep"></span>{{ T "readingTime" .ReadingTime | markdownify }}
+            <!-- Author -->
+            <span class="dot-sep"></span>{{ T "authoredBy" }}&nbsp;{{ .Params.author | default .Site.Params.author }}
 
-        <!-- Links to translations -->
-        {{- if .IsTranslated }}
-            <span class="dot-sep"></span>
-            {{- T "postInLangs" }}&nbsp;
-            {{- range $idx, $translation := .Translations }}{{ if $idx }}, {{ end -}}
-                <a href="{{ .Permalink }}">{{ T (print "postIn_" .Lang) }}</a>
+            <!-- Time to read -->
+            <span class="dot-sep"></span>{{ T "readingTime" .ReadingTime | markdownify }}
+
+            <!-- Links to translations -->
+            {{- if .IsTranslated }}
+                <span class="dot-sep"></span>
+                {{- T "postInLangs" }}&nbsp;
+                {{- range $idx, $translation := .Translations }}{{ if $idx }}, {{ end -}}
+                    <a href="{{ .Permalink }}">{{ T (print "postIn_" .Lang) }}</a>
+                {{- end }}
             {{- end }}
-        {{- end }}
+        </div>
     </div>
 </div>
 {{- end }}

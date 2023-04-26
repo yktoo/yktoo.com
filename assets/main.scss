@@ -105,6 +105,25 @@ body {
     }
 }
 
+.jumbotron-backdrop {
+    position: absolute;
+    z-index: 0;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.2;
+    filter: blur(5px);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jumbotron-container {
+    position: relative;
+    z-index: 1;
+}
+
 .smaller {
     font-size: .75em;
 }
