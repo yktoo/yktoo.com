@@ -7,6 +7,8 @@ tags:
     - Россия
     - война
     - свастика
+    - рашизм
+    - Z
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/gubblprekfpezpimc1zv.png"
 ---
 
