@@ -23,3 +23,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/v1682887685/blog/ll3frjaqq
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1682887685/blog/ll3frjaqqzhggfpa4uew.jpg" "Z-символ на положенном ему месте." >}}
 
 Снято в городе Дубровнике, где, к слову, снималась значительная часть сцен «Игры престолов»: Вестерос, Королевская гавань, Красный замок, и, конечно же, *позорное шествие* обнажённой Серсеи.
+
+{{< fl "P.S." >}} А вот уже Черногория, тут также упоминается СВО и тоже в соответствующем контексте:
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1683138290/blog/ijuiacubm5virsbjoshz.jpg" "К псу эту СВО." >}}
