@@ -24,4 +24,4 @@ hugo new "blog/posts/$id/index.$lang.md"
 
 popd >/dev/null
 
-echo "File created: $project_dir/content/blog/$id/index.$lang.md"
+echo "File created: $project_dir/content/blog/posts/$id/index.$lang.md"
