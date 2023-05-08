@@ -5,6 +5,7 @@ title: "Две тысячи восемнадцатый — всё"
 tags:
     - 2018
     - итоги
+    - моноколесо
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/ou4wbjlre2kg1795.png"
 ---
 

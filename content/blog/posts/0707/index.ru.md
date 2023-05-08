@@ -9,6 +9,7 @@ tags:
     - Хаутен
     - видео
     - красивое
+    - моноколесо
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/jqh4ard6nqgedtwmumbk.jpg"
 ---
 

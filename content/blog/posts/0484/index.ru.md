@@ -7,6 +7,7 @@ tags:
     - Bright Day
     - выставка
     - гаджеты
+    - моноколесо
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/2019-bright-day/cajav81ltfdqoidvibiq.jpg"
 ---
 

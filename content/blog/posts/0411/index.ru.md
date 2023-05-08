@@ -8,6 +8,7 @@ tags:
     - гаджеты
     - Xiaomi
     - AliExpress
+    - моноколесо
 image: "https://res.cloudinary.com/yktoo/image/upload/blog/0dia9k0gfhbs1940.jpg"
 ---
 
