@@ -38,6 +38,45 @@ image: "https://res.cloudinary.com/yktoo/image/upload/v1686408018/blog/y5nuby8ul
 
 Поскольку действие происходит в церкви, акустика там соответствующая. Я максимально попытался улучшить звук, сжав динамический диапазон компрессором; к тому же меня изрядно доставал кашель. В общем, вот что получилось:
 
+{{< spoiler "Таймкоды видео" >}}
+* [01:08](https://www.youtube.com/watch?v=1_66UIzrnX8&t=68s)     Вступление
+* [03:45](https://www.youtube.com/watch?v=1_66UIzrnX8&t=225s)    Как повёл бы себя Фандорин в 2023 году?
+* [05:00](https://www.youtube.com/watch?v=1_66UIzrnX8&t=300s)    О неопубликованном аудиоспектакле
+* [06:50](https://www.youtube.com/watch?v=1_66UIzrnX8&t=410s)    О прапрадедах Г. Ш. Чхартишвили
+* [08:49](https://www.youtube.com/watch?v=1_66UIzrnX8&t=529s)    Фрагмент аудиоспектакля «Лягушка Басё»
+* [08:58](https://www.youtube.com/watch?v=1_66UIzrnX8&t=538s)    • Рассказ грузинского прапрадеда
+* [13:39](https://www.youtube.com/watch?v=1_66UIzrnX8&t=819s)    • Рассказ еврейского прапрадеда
+* [17:15](https://www.youtube.com/watch?v=1_66UIzrnX8&t=1035s)   • Голосование за грузинский/еврейский вариант
+* [18:10](https://www.youtube.com/watch?v=1_66UIzrnX8&t=1090s)   • Машаль первый
+* [37:17](https://www.youtube.com/watch?v=1_66UIzrnX8&t=2237s)   Опрос о предпочтениях публики
+* [38:16](https://www.youtube.com/watch?v=1_66UIzrnX8&t=2296s)   Ответы на вопросы
+* [38:20](https://www.youtube.com/watch?v=1_66UIzrnX8&t=2300s)   • Почему «Яма» о Масе, а не о Фандорине?
+* [40:08](https://www.youtube.com/watch?v=1_66UIzrnX8&t=2408s)   • О сценах насилия в произведениях Акунина
+* [41:12](https://www.youtube.com/watch?v=1_66UIzrnX8&t=2472s)   • О неприязни к России и русским людям
+* [42:06](https://www.youtube.com/watch?v=1_66UIzrnX8&t=2526s)   • Будут ли ещё произведения о Фандорине и Масе?
+* [43:37](https://www.youtube.com/watch?v=1_66UIzrnX8&t=2617s)   • Почему россияне настолько безразличны к собственной судьбе?
+* [45:58](https://www.youtube.com/watch?v=1_66UIzrnX8&t=2758s)   • Как не забывать русский, живя заграницей?
+* [48:09](https://www.youtube.com/watch?v=1_66UIzrnX8&t=2889s)   • Как организоваться русским, живущим за рубежом?
+* [52:43](https://www.youtube.com/watch?v=1_66UIzrnX8&t=3163s)   • Нашли ли вы свой новый дом? О жизни в трёх странах
+* [54:00](https://www.youtube.com/watch?v=1_66UIzrnX8&t=3240s)   • О мюзикле «Алмазная колесница»
+* [55:08](https://www.youtube.com/watch?v=1_66UIzrnX8&t=3308s)   • Не стал ли Маса героем комикса как герой-одиночка?
+* [56:02](https://www.youtube.com/watch?v=1_66UIzrnX8&t=3362s)   • О романах с женщиной в главной роли
+* [57:45](https://www.youtube.com/watch?v=1_66UIzrnX8&t=3465s)   • Почему вы решили написать очередной роман о Фандорине и Масе?
+* [1:02:17](https://www.youtube.com/watch?v=1_66UIzrnX8&t=3737s) • Когда мы снова вас увидим?
+* [1:04:25](https://www.youtube.com/watch?v=1_66UIzrnX8&t=3865s) • О чём жалел Фандорин перед смертью? Чего боитесь вы?
+* [1:06:03](https://www.youtube.com/watch?v=1_66UIzrnX8&t=3963s) • Как сочетается любовь к русскому языку и неприязнь к русским?
+* [1:10:05](https://www.youtube.com/watch?v=1_66UIzrnX8&t=4205s) • Как возникает повествование?
+* [1:14:15](https://www.youtube.com/watch?v=1_66UIzrnX8&t=4455s) • Нормально ли писать книги с плохим концом?
+* [1:16:47](https://www.youtube.com/watch?v=1_66UIzrnX8&t=4607s) • О помощи беженцам, переехавшим в Россию
+* [1:17:50](https://www.youtube.com/watch?v=1_66UIzrnX8&t=4670s) • Будет ли продолжение «Семейного альбома»?
+* [1:19:07](https://www.youtube.com/watch?v=1_66UIzrnX8&t=4747s) • Имеет ли смысл немирный протест в России?
+* [1:20:48](https://www.youtube.com/watch?v=1_66UIzrnX8&t=4848s) • О роли религии в современном мире
+* [1:24:14](https://www.youtube.com/watch?v=1_66UIzrnX8&t=5054s) • О пассивности россиян
+* [1:28:32](https://www.youtube.com/watch?v=1_66UIzrnX8&t=5312s) • О причинах «имперского комплекса» россиян
+* [1:34:05](https://www.youtube.com/watch?v=1_66UIzrnX8&t=5645s) • Есть ли в планах реализация «эстернатов»?
+* [1:37:12](https://www.youtube.com/watch?v=1_66UIzrnX8&t=5832s) • Об отношении Акунина к Фандорину и Дмитрию Быкову
+{{< /spoiler >}}
+
 {{< youtube "1_66UIzrnX8" >}}
 
 ## Новая «Яма»
