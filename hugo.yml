@@ -114,7 +114,6 @@ outputs:
     home: [HTML, RSS, RSS-ALL, REDIR]
     section: [HTML]
     taxonomy: [HTML]
-    taxonomyTerm: [HTML]
 
 mediaTypes:
     text/bare:
