@@ -42,6 +42,9 @@ $nav-tabs-link-active-color:    #aaaaaa;
 $nav-tabs-link-active-bg:       #ffffff;
 $pagination-hover-bg:           $link-hover-bg;
 $carousel-control-icon-width:   32px;
+$code-color:                    #5412e1;
+$kbd-color:                     #343a40; // $gray-800
+$kbd-bg:                        #e9ecef; // $gray-200
 
 // Enable advanced theming
 $enable-shadows: true;
@@ -462,6 +465,12 @@ pre {
 .highlight {
     overflow-x: auto;
     max-width: 100%;
+}
+
+// Kbd
+kbd {
+    border-radius: $border-radius-sm;
+    border: 1px solid $gray-500;
 }
 
 // Blog
