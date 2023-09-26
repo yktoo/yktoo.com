@@ -18,7 +18,7 @@ image: commento.png
 
 {{< div "alert alert-warning" >}}
 **ВНИМАНИЕ:**\
-Commento больше не поддерживается, в связи с чем я настоятельно рекомендую [переходить на Comentario](0862).
+Commento больше не поддерживается, в связи с чем я настоятельно рекомендую [переходить на Comentario](/software/comentario).
 {{< /div >}}
 
 ---

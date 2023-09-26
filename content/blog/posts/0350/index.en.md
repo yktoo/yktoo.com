@@ -18,7 +18,7 @@ fulltextUrl: 'https://yktoo.solutions/blog/2019/07/28-self-hosting-commento-with
 
 {{< div "alert alert-warning" >}}
 **WARNING:**\
-Commento is abandoned. I strongly recommend [using Comentario](0862) instead.
+Commento is abandoned. I strongly recommend [using Comentario](/software/comentario) instead.
 {{< /div >}}
 
 ---
