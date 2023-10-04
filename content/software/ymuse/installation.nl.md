@@ -10,6 +10,12 @@ Als je Ubuntu gebruikt, is de eenvoudigste manier om **Ymuse** te installeren he
 
 {{< snapcraft-card "ymuse" >}}
 
+Vanaf Ubuntu **23.04** kun je het ook installeren m.b.v. `apt`:
+
+```bash
+sudo apt install ymuse
+```
+
 ### Snap package
 
 Als je Linuxdistributie ondersteuning biedt voor {{< wiki "Snap_(package_manager)" "en" "snaps" >}}, dan kan de installatie gedaan worden met:

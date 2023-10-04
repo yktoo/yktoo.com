@@ -40,7 +40,7 @@ https://res.cloudinary.com/yktoo/image/upload/blog/vrqyquxgoncgxygly6kk.png Ymus
 ## Kenmerken van Ymuse
 
 * Verbinding met een lokale of remote MPD server via TCP of Unix domainsocket, automatisch verbinding maken en herstellen.
-* Weergeven, sorteren en schudden van de afspeelwachtrij. Verwijderen van tracks.
+* Weergeven, sorteren en schudden van de afspeelwachtrij. Slepen en verwijderen van tracks.
 * Filteren van de afspeelwachtrij op een zoekpatroon.
 * Opslaan van de afspeelwachtrij als een afspeellijst (nieuw of bestaand).
 * MPD-bibliotheek zoek- en bladerfuncties.
@@ -52,6 +52,7 @@ https://res.cloudinary.com/yktoo/image/upload/blog/vrqyquxgoncgxygly6kk.png Ymus
 * Het huidige nummer spoelen naar een willekeurige locatie.
 * Ondersteuning voor lichte en donkere desktopthema's.
 * Meertalig. Meegeleverde talen:
+    * Duits
     * Engels
     * Nederlands
     * Japans

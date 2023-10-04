@@ -40,7 +40,7 @@ https://res.cloudinary.com/yktoo/image/upload/blog/vrqyquxgoncgxygly6kk.png Ymus
 ## Ymuse features
 
 * Connection to a local or remote MPD server via TCP or Unix domain socket, auto(re)connect function.
-* Displaying, sorting, and shuffling the play queue. Track removal.
+* Displaying, sorting, and shuffling the play queue. Track drag-n-drop and removal.
 * Filtering the play queue on a substring.
 * Saving the play queue as a playlist (new or existing).
 * MPD library browse and search functions.
@@ -54,6 +54,7 @@ https://res.cloudinary.com/yktoo/image/upload/blog/vrqyquxgoncgxygly6kk.png Ymus
 * Internationalisation support. Bundled languages:
     * English
     * Dutch
+    * German
     * Japanese
     * Russian
 

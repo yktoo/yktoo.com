@@ -28,6 +28,6 @@ In Ubuntu it's as easy as running:
 sudo apt install mpdris2
 ```
 
-## Why can't I drag-n-drop tracks in the Queue?
+## Why can't I drag-n-drop multiple tracks at once in the Queue?
 
-This feature is [planned](https://github.com/yktoo/ymuse/issues/34) but not implemented yet. It would require digging deep into the specifics of drag-n-drop in GTK so it's subject to the availability of my free time.
+Dragging-n-dropping single tracks is supported as of version 0.22 [Xylophone](/blog/posts/0878). To implement that for multiple tracks one should dig deep into the specifics of drag-n-drop in GTK. It'll be done as soon as the time permits.
