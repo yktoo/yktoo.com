@@ -113,6 +113,10 @@ software: comentario
 
 {{< button "https://edge.comentario.app/" "Демо админки Comentario" "btn-primary mb-3" >}}
 
+## Миграция
+
+Если вы хотите опробовать новую версию в деле — в пробных, разумеется, целях, поскольку это пререлиз — то стоит сначала ознакомиться с разделом документации [Migration](https://edge.docs.comentario.app/en/installation/migration/).
+
 ## Что дальше
 
 Сейчас я занят доработкой [документации](https://edge.docs.comentario.app/) и написанием {{< fl "end-2-end" >}}-тестов для покрытия всего нового функционала — работа, конечно, титаническая.

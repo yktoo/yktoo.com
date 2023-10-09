@@ -119,6 +119,10 @@ You can also try Comentario's Administrative UI: just log in with the email `adm
 
 {{< button "https://edge.comentario.app/" "View Administrative UI" "btn-primary mb-3" >}}
 
+## Migration
+
+If you're interested in trying out the new version (don't use it in production yet!), please read the [Migration Guide](https://edge.docs.comentario.app/en/installation/migration/) first.
+
 ## What's next
 
 Currently I'm busily updating [docs](https://edge.docs.comentario.app/) and writing end-2-end tests covering the new functionality. Which is quite a bit of work.
