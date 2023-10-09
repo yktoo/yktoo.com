@@ -15,7 +15,7 @@ series: comentario
 software: comentario
 ---
 
-After five months of intense development and **189** commits — which left no stone unturned in the [legacy code](0862) — the pre-release version [3.0.0-rc1](https://gitlab.com/comentario/comentario/-/releases/v3.0.0-rc1) of Comentario has been released.
+After five months of intense development and **189** commits — which left no stone unturned in the [legacy code](0862) — the pre-release version [3.0.0-rc1](https://gitlab.com/comentario/comentario/-/releases/v3.0.0-rc1) of **Comentario** has been released.
 
 [Comentario](/software/comentario) is a fast and powerful free comment server for web pages, written in Go.
 

@@ -15,7 +15,7 @@ series: comentario
 software: comentario
 ---
 
-После пяти месяцев активнейшей разработки и **189** коммитов, камня на камне не оставивших от [легаси-кода](0862), вышла пререлизная версия Comentario — [3.0.0-rc1](https://gitlab.com/comentario/comentario/-/releases/v3.0.0-rc1). 
+После пяти месяцев активнейшей разработки и **189** коммитов, камня на камне не оставивших от [легаси-кода](0862), вышла пререлизная версия {{< fl "Comentario" >}} — [3.0.0-rc1](https://gitlab.com/comentario/comentario/-/releases/v3.0.0-rc1).
 
 [Comentario](/software/comentario) — это быстрый и мощный свободный сервер комментариев для веб-страниц, написанный на {{< fl "Go" >}} и {{< fl "Angular" >}}.
 
