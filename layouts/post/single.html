@@ -170,8 +170,8 @@
                 {{- if or .Draft (in (print $.Site.BaseURL) "localhost") }}
                 <div class="placeholder-box">(comments will go here)</div>
                 {{- else }}
-                <div id="comentario"></div>
-                <script defer src="{{ .Site.Params.comentarioUrl }}" data-page-id="/blog/post/{{ path.Base .File.Dir }}"></script>
+                <script defer src="{{ .Site.Params.comentarioUrl }}"></script>
+                <comentario-comments page-id="/blog/post/{{ path.Base .File.Dir }}"></comentario-comments>
                 {{- end }}
             </section>
         </div>
