@@ -163,14 +163,11 @@ article {
         margin-top: -1rem;
         padding-bottom: 1rem;
 
-        .sticky-top {
-            padding-top: 1rem;
-        }
-
         ul {
             padding-left: 1rem;
             margin-bottom: 0;
         }
+
         section {
             margin-bottom: 1rem;
         }
@@ -213,7 +210,7 @@ a {
     transition: all .5s ease-in-out;
     opacity: 0;
     visibility: hidden;
-    z-index: 1030; // Above .sticky-top
+    z-index: 1030; // Above .sticky-md-top
     font-size: 2em;
 
     &.show {
