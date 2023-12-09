@@ -30,4 +30,4 @@ imageCredit: "Фото: Karen van der Horst/NOS Ooggetuige."
 
 Даже такого мизерного количества снега хватило, чтобы усугубить утренние пробки. На {{< fl "A27" >}} фура съехала в кювет, некоторое время трасса была перекрыта для движения.
 
-{{< tweet "1232547254986268672" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1702140516/blog/f9vgkgbiifbztqzlcim3.png" >}}

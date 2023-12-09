@@ -25,7 +25,7 @@ imageCredit: "Изображение: Rijkswaterstaat."
 
 Там, где раньше было ограничение в **120** или **130 км/ч**, можно ехать с такой скоростью в ночные часы — с **19:00** до **6:00**.
 
-{{< tweet "1239423989933584385" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1702141766/blog/nfjytdpedc2geqp4ri89.png" >}}
 
 ## Spitsstrook
 

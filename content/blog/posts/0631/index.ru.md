@@ -23,7 +23,7 @@ imageCredit: "Фото: Bas Wijnen/Instagram."
 
 Бас Вейнен ({{< fl "Bas Wijnen" >}}), работающий полицейским в районе Алкмара {{< fl "De Mare" >}}, написал в своём Твиттере эмоциональное сообщение:
 
-{{< tweet "1230402069707870212" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1702140434/blog/jzyxlmgxc9lmp7aeuaen.png" >}}
 
 Перевод:
 

@@ -20,6 +20,6 @@ imageCredit: "Фото: @DePolitieheli/Twitter."
 
 Оно напоминает о необходимости соблюдения минимальной дистанции между людьми в полтора метра.
 
-{{< tweet "1244625268632948737" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1702142319/blog/gjnygkysr6o7p1owgtsm.jpg" >}}
 
 Самолёты сейчас практически не летают, но, как минимум, пришельцы будут в курсе.

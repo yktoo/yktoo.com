@@ -55,6 +55,6 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/b6p66hxpzjv3efdioxai.
 
 Соответственно, [нашлось](https://nos.nl/artikel/2310827-demonstraties-bij-intocht-sinterklaas-in-den-bosch.html) и немало решительно настроенных по обе стороны баррикад, готовых отстаивать свою точку зрения.
 
-{{< tweet 1195687093365694467 >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1702139911/blog/gauopb61hijhbqnygmhh.png" >}}
 
 В некоторых городах — например, в Гронингене и [Ден Боше](https://nos.nl/artikel/2310827-demonstraties-bij-intocht-sinterklaas-in-den-bosch.html) — между оппонентами назревал уже открытый конфликт, так что полиции пришлось постараться, чтобы отделить их друг от друга.

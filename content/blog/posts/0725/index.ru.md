@@ -43,7 +43,7 @@ imageCredit: "Фото: Pxhere/CC0."
 
 Департаменту культуры даже пришлось это опровергать:
 
-{{< tweet "1246106312452321280" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1702142453/blog/jzpf4timpltexthp7qph.jpg" >}}
 
 ## Вышкоборцы
 

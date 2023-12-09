@@ -37,7 +37,7 @@ imageCredit: "Фото: Maurice/Flickr/CC-BY-NC-SA 2.0."
 
 Участие в мероприятии стоило **€ 3**, из которых организаторы перечисляют один евро в фонд {{< fl "Stichting Vaarwens" >}}, организующий экскурсии для смертельно больных людей.
 
-{{< tweet 1212369108156780551 >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1702139998/blog/g7lqkatxejjwnyetww3u.png" >}}
 
 ## Голое ныряние
 

@@ -46,11 +46,11 @@ imageCredit: "Фото: @s_b_snark/Twitter."
 
 Рейс {{< fl "Air Europa" >}} из Мадрида с тремястами пассажирами на борту трижды [пытался](https://nos.nl/artikel/2322344-vliegtuig-kon-niet-landen-door-storm-mensen-in-paniek-en-alles-klapperde.html) совершить посадку и в итоге вернулся обратно в Мадрид. У многих от происходящего сдали нервы, на видео слышно чей-то истеричный крик:
 
-{{< tweet "1226598257545093122" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1702140344/blog/nj89syjyhbmcfowhdmw9.png" >}}
 
 У корабля ВМС Нидерландов, стоящего на якоре в районе Плимута, порвалась якорная цепь:
 
-{{< tweet "1226593846907351041" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1702140344/blog/e7vggrkoar1vceevpoly.png" >}}
 
 Страховые компании сообщают о сотнях заявлений об ущербе от Киары.
 

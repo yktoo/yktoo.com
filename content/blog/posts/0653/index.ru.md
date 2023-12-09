@@ -17,9 +17,9 @@ imageCredit: "Кадр из видео Peter van den Bosch."
 
 <!--more-->
 
-Видео, снятое в районе города {{< fl "Veghel" >}}, провинция Северный Брабант:
+[Видео](https://twitter.com/phjbosch/status/1234725523202416641), снятое в районе города {{< fl "Veghel" >}}, провинция Северный Брабант:
 
-{{< tweet "1234725523202416641" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1702140757/blog/hdp2nc1wdkcjy38zi6cm.png" >}}
 
 Видео из {{< fl "Beuningen" >}}, провинция Гелдерланд:
 

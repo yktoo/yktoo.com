@@ -21,7 +21,7 @@ imageCredit: "Фото: Hugo de Jonge/Twitter."
 
 Вчера об этом сообщил новый министр здравоохранения {{< fl "Hugo de Jonge" >}}:
 
-{{< tweet "1241753340872208384" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1702141975/blog/qxorupfobb9pavz5idu8.png" >}}
 
 ## На всю страну
 

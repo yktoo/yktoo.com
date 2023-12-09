@@ -23,7 +23,7 @@ imageCredit: "Фото: @hugodejonge/Twitter."
 
 Так что даже министрам приходится стричься самостоятельно. Де Йонге запостил в Твиттере фотографию процесса стрижки:
 
-{{< tweet "1246407984995057664" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1702142384/blog/exgnvsq1sni8tgldhpl5.jpg" >}}
 
 В твите написано:
 

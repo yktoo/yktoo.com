@@ -22,7 +22,7 @@ imageCredit: "Фото: [@POL_TVRdam/Twitter](https://twitter.com/POL_TVRdam/sta
 
 <!--more-->
 
-{{< tweet "1249671530449166342" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1702142512/blog/cdcl9l0pmcraww7zghgw.jpg" >}}
 
 Бо́льшая часть нарушений приходится на скоростную трассу {{< fl "A15" >}}. Измеренные полицией скорости у нарушителей в основном превышали **160 км/ч**.
 

@@ -23,7 +23,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/qkxf124fw0ssuczuby4p.
 
 Видеотвит, [опубликованный](https://twitter.com/barthoboer/status/1243069986660327426) представителем Нидерландской железнодорожной компании {{< fl "NS" >}}, набрал уже несколько тысяч лайков:
 
-{{< tweet "1243069986660327426" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1702142187/blog/ar7cbkwqbmlt1tocwle5.png" >}}
 
 И ещё на тему транспорта:
 
