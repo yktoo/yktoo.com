@@ -100,7 +100,6 @@
                 <div class="collapse mt-3" id="article-toc-body">
                     {{ .TableOfContents }}
                     <ul>
-                        <li><a href="#blog-post-heading">{{ .Title | markdownify | plainify }}</a></li>
                         <li><a href="#blog-post-comments">{{ T "comments" }}</a></li>
                     </ul>
                 </div>
@@ -199,7 +198,6 @@
                     <h5>{{ T "contents" }}</h5>
                     {{ .TableOfContents }}
                     <ul>
-                        <li><a href="#blog-post-heading">{{ .Title | markdownify | plainify }}</a></li>
                         <li><a href="#blog-post-comments">{{ T "comments" }}</a></li>
                     </ul>
                 </section>
