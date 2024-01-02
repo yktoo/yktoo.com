@@ -30,44 +30,49 @@
 <!-- Scroll to top button -->
 <a href id="btn-scroll-to-top" class="fas fa-angle-up btn btn-secondary"></a>
 
-<!-- Header with a Navbar -->
-{{ partial "navbar" . }}
+<!-- Page underlay with a background image -->
+<div class="main-container">
 
-<section id="page">
-    <!-- Breadcrumbs -->
-    {{- block "breadcrumbs" . }}
-    {{- partial "breadcrumbs" . }}
-    {{- end }}
+    <!-- Header with a Navbar -->
+    {{- partial "navbar" . }}
 
-    <!-- Main page content -->
-    <div class="container-md">
-        <!-- Second-level Navbar -->
-        {{- block "secondary-navbar" . }}{{ end }}
-
-        <!-- Heading -->
-        {{- block "heading" . }}
-        {{- if .Params.showHeading }}<h1>{{ .Title | markdownify }}</h1>{{ end }}
+    <section id="page">
+        <!-- Breadcrumbs -->
+        {{- block "breadcrumbs" . }}
+        {{- partial "breadcrumbs" . }}
         {{- end }}
 
-        <!-- Main content -->
-        {{ block "main" . }}
-        {{ .Content }}
-        {{ end }}
+        <!-- Main page content -->
+        <div class="container-md">
+            <!-- Second-level Navbar -->
+            {{- block "secondary-navbar" . }}{{ end }}
 
-        <!-- Bottom Navbar -->
-        {{- block "bottom-navbar" . }}
-        {{- if not .Params.hideShareButtons }}
-        <!-- Sharing buttons -->
-        <section id="page-sharing-buttons">
-            <div class="fw-bold">{{ T "share" }}:</div>
-            {{ partial "sharing-buttons" . }}
-        </section>
-        {{- end }}
-        {{- end }}
-    </div>
-</section>
+            <!-- Heading -->
+            {{- block "heading" . }}
+            {{- if .Params.showHeading }}<h1>{{ .Title | markdownify }}</h1>{{ end }}
+            {{- end }}
 
-{{ partial "footer" . }}
+            <!-- Main content -->
+            {{- block "main" . }}
+            {{- .Content }}
+            {{- end }}
+
+            <!-- Bottom Navbar -->
+            {{- block "bottom-navbar" . }}
+                {{- if not .Params.hideShareButtons }}
+                <!-- Sharing buttons -->
+                <section id="page-sharing-buttons">
+                    <div class="fw-bold">{{ T "share" }}:</div>
+                    {{ partial "sharing-buttons" . }}
+                </section>
+                {{- end }}
+            {{- end }}
+        </div>
+    </section>
+
+    {{ partial "footer" . }}
+</div>
+
 {{ partial "scripts" . }}
 {{ block "extra-scripts" . }}{{ end }}
 </body>

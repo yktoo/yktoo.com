@@ -1,5 +1,5 @@
 // Import fonts
-@import url('https://fonts.googleapis.com/css?family=Arimo|Roboto+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Arimo|Noto+Sans|Roboto+Condensed&display=swap');
 
 // Base colours
 $primary:   #089664;
@@ -22,17 +22,15 @@ $primary-accent: #ffcc00; // Accent brand colour
 $link-hover-bg:  #333333;
 
 // Redefine relevant Bootstrap variables
-$body-color:                    #666666;
-$body-bg:                       #333333;
+$font-family-sans-serif:        "Arimo", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 $breadcrumb-padding-y:          0.75rem;
 $breadcrumb-padding-x:          1rem;
 $breadcrumb-bg:                 #e9ecef;
-$card-bg:                       #ffffff;
-$input-bg:                      #ffffff;
+$headings-color:                #464666;
+$headings-font-family:          "Noto Sans", "Liberation Sans", Arial, sans-serif;
 $link-decoration:               none;
 $link-hover-color:              $primary-accent;
 $link-hover-decoration:         none;
-$list-group-bg:                 #ffffff;
 $list-group-border-color:       $primary-fade;
 $list-group-hover-bg:           $link-hover-bg;
 $list-group-action-hover-color: $primary-accent;
@@ -41,14 +39,11 @@ $navbar-dark-active-color:      #000000;
 $navbar-dark-hover-color:       $primary-accent;
 $navbar-brand-margin-end:       0;
 $nav-tabs-link-active-color:    #aaaaaa;
-$nav-tabs-link-active-bg:       #ffffff;
-$pagination-bg:                 #ffffff;
 $pagination-hover-bg:           $link-hover-bg;
 $carousel-control-icon-width:   32px;
 $code-color:                    #5412e1;
 $kbd-color:                     #343a40; // $gray-800
 $kbd-bg:                        #e9ecef; // $gray-200
-$table-bg:                      #ffffff;
 
 // Enable advanced theming
 $enable-shadows: true;
@@ -74,10 +69,8 @@ $enable-gradients: true;
     --bs-btn-active-color: #fff;
 }
 
-//noinspection CssUnknownTarget
-body {
-    background-image: url(/images/page-bg.png);
-    font-family: 'Arimo', sans-serif;
+.main-container {
+    background: #333333 url(/images/page-bg.png);
 }
 .ua-bg {
     background-image: url(https://res.cloudinary.com/yktoo/image/upload/blog/knsuwdtzc44va1hjiw8m.png);
@@ -180,7 +173,7 @@ article {
 
 // Anchors
 a {
-    transition: all .2s ease-in;
+    transition: all .1s ease-in;
 
     // Add a dark background on hover to non-image links
     &:not(.btn):not(.image-link):not(.card-link-overlay) {
