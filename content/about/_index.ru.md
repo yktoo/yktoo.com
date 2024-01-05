@@ -4,7 +4,7 @@ showHeading: true
 layout: single
 ---
 
-{{< opener-image "https://res.cloudinary.com/yktoo/image/upload/v1661883516/dk.jpg" "Дмитрий Канн" >}}
+{{< opener-image "https://res.cloudinary.com/yktoo/image/upload/v1704465999/dk.jpg" "Дмитрий Канн" >}}
 
 ## Про меня
 
