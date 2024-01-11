@@ -1,4 +1,7 @@
 contacts:
+    - url: 'https://www.buymeacoffee.com/yktoo'
+      icon: fas fa-mug-saucer
+      title: Buy Me a Coffee
     - url: 'https://yktoo.me/facebook-page'
       icon: fab fa-facebook colourise
       title: Facebook

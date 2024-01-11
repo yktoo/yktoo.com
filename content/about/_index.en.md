@@ -47,7 +47,8 @@ The site's source code is available [on GitHub](https://github.com/yktoo/yktoo.c
 
 ## Donate
 
-Should you feel an irresistible urge to support me and/or free software, feel free to make a donation [via PayPal](https://paypal.me/yktoo) or become a patron on [Patreon](https://www.patreon.com/yktoo).
+Should you feel an irresistible urge to support me and/or free software, feel free to make a donation or become a patron.
 
+{{< button "https://www.buymeacoffee.com/yktoo" "<i class='fas fa-mug-saucer me-1'></i>Buy Me a Coffee" >}}
 {{< button "https://paypal.me/yktoo" "<i class='fab fa-paypal me-1'></i>Paypal" >}}
 {{< button "https://www.patreon.com/yktoo" "<i class='fab fa-patreon me-1'></i>Patreon" >}}

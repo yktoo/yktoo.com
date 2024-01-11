@@ -49,7 +49,8 @@ Yktoo — это мой ник, отсюда и возник домен <u>yktoo
 
 ## Финпомощь
 
-Если у вас вдруг возникло непреодолимое желание поддержать меня и/или разработку свободного {{< abbr "ПО" "программного обеспечения" >}}, вы можете пожертвовать любую сумму с помощью [PayPal](https://paypal.me/yktoo) либо оформить подписку на [Patreon](https://www.patreon.com/yktoo).
+Если у вас вдруг возникло непреодолимое желание поддержать меня и/или разработку свободного {{< abbr "ПО" "программного обеспечения" >}}, вы можете пожертвовать любую сумму либо оформить подписку.
 
+{{< button "https://www.buymeacoffee.com/yktoo" "<i class='fas fa-mug-saucer me-1'></i>Buy Me a Coffee" >}}
 {{< button "https://paypal.me/yktoo" "<i class='fab fa-paypal me-1'></i>Paypal" >}}
 {{< button "https://www.patreon.com/yktoo" "<i class='fab fa-patreon me-1'></i>Patreon" >}}
