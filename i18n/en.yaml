@@ -21,6 +21,8 @@
 - {id: cookieDismiss,        translation: Got it!}
 - {id: cookieLink,           translation: Learn more »}
 - {id: cookieMessage,        translation: This website uses cookies.}
+- {id: copied,               translation: Copied!}
+- {id: copyPermalink,        translation: Copy a permalink to this page}
 - {id: copyright,            translation: 'Copyright ©2000—{{ .year }} [Dmitry Kann]({{ .url }})'}
 - {id: details,              translation: Details}
 - {id: docs,                 translation: Documentation}

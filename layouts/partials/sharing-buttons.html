@@ -7,6 +7,7 @@
 {{- $i := "" -}}
 {{- with .Params.image }}{{ if findRE "^http(s?)://" . }}{{ $i = . }}{{ end }}{{ end -}}
 <div class="button-row">
+    <a title="{{ T `copyPermalink`         }}" href="{{ $u | safeURL }}" class="btn icon-btn copy-link" target="_blank" rel="noopener" data-copied="{{ T `copied` }}"><i class="fas fa-copy"></i></a>
     <a title="{{ T `shareOn` `Facebook`    }}" href="https://facebook.com/sharer/sharer.php?{{ querify `u` $u                                                    | safeURL }}" class="btn icon-btn" target="_blank" rel="noopener"><i class="fab fa-facebook colourise"></i></a>
     <a title="{{ T `shareOn` `Twitter`     }}" href="https://twitter.com/intent/tweet/?{{ querify `text` $t `url` $u                                             | safeURL }}" class="btn icon-btn" target="_blank" rel="noopener"><i class="fab fa-twitter colourise"></i></a>
     <a title="{{ T `shareOn` `Tumblr`      }}" href="https://tumblr.com/widgets/share/tool?{{ querify `canonicalUrl` $u                                          | safeURL }}" class="btn icon-btn" target="_blank" rel="noopener"><i class="fab fa-tumblr colourise"></i></a>

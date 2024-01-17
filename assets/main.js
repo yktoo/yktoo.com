@@ -3,7 +3,7 @@ jQuery(function () {
     /**
      * Init the cookie consent.
      */
-    window.cookieconsent.initialise({
+    cookieconsent.initialise({
         "palette": {
             "popup": {
                 "background": "#089664",
@@ -45,6 +45,20 @@ jQuery(function () {
         gallery: {
             enabled: true,
         },
+    });
+
+    /**
+     * Copy link button.
+     */
+    $('.copy-link').on('click', function (e) {
+        e.preventDefault();
+        navigator.clipboard.writeText($(this).attr('href'))
+            // Add a tooltip on success
+            .then(() => {
+                const tt = new bootstrap.Tooltip(this, {title: $(this).data('copied')});
+                tt.show();
+                setTimeout(() => tt.dispose(), 2000);
+            });
     });
 
     /**
