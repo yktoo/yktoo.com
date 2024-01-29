@@ -36,6 +36,8 @@ Hieronder kun je wat statistiek zien:
 
 {{< button "https://yktoo.me/once-about" "once.to" >}} — De snelste link shortener ter wereld
 
+{{< button "https://comentario.app/" "Comentario" >}} — Krachtige webcomment-engine
+
 ## Voorwaarden
 
 Door deze website te gebruiken gaat u akkoord met het [Privacybeleid (Engels)](en;/about/privacy) en de [Algemene voorwaarden (Engels)](en;/about/tos).

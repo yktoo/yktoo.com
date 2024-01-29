@@ -36,6 +36,8 @@ Here's some statistics:
 
 {{< button "https://yktoo.me/once-about" "once.to" >}} — World's fastest link shortener
 
+{{< button "https://comentario.app/" "Comentario" >}} — Powerful comment engine for websites
+
 ## Usage terms
 
 By viewing this website you're consenting to the [Privacy policy](/about/privacy) and accepting the [Terms of service](/about/tos).
