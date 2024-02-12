@@ -4,13 +4,13 @@ date: "2023-12-19T18:51:25+01:00"
 title: "3.2.0"
 tags:
     - Comentario
-    - web
-    - software
-    - development
-    - release
+    - веб
+    - софт
+    - разработка
+    - релиз
     - Go
     - Angular
-    - Christmas
+    - Рождество
 image: "https://res.cloudinary.com/yktoo/image/upload/v1703008279/blog/btiqaq585r1whbvbdtcs.jpg"
 series: comentario
 software: comentario
