@@ -9,7 +9,7 @@ tags:
     - СМИ
     - аттракционы
     - свастика
-image: "holocauster.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/v1709304371/blog/fynj0nwkspiylhlhvehr.jpg"
 ---
 
 Местная пресса пестрит [язвительными](https://www.nu.nl/275577/video/duits-pretpark-sluit-attractie-na-kritiek-op-hakenkruisvorm.html) [статьями](https://www.ad.nl/buitenland/duits-pretpark-sluit-holocoaster-draaiende-hakenkruizen-vallen-niet-in-de-smaak~a6c61dcc9/) на чувствительную тему.
@@ -18,7 +18,7 @@ image: "holocauster.jpg"
 
 <!--more-->
 
-{{< imgfig "holocauster.jpg" "«Холокостер» (кадр из видео SWR)." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1709304371/blog/fynj0nwkspiylhlhvehr.jpg" "«Холокостер» (кадр из видео SWR)." >}}
 
 То, что это произошло именно в Германии, заметно усиливает эпичность фейла. Аттракциону уже придумали название «Холокостер» (аллюзия на «американские горки», {{< fl "roller coaster" >}}).
 

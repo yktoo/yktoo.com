@@ -8,7 +8,7 @@ tags:
     - Соглашение о климате
     - правительство
     - экология
-image: "klimaatakkoord.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/v1709304297/blog/hkdwzp6fucfcmhoz8dz7.jpg"
 ---
 
 28 июня этого года нидерландское правительство подписало так называемое *Национальное соглашение о климате* ([Klimaatakkoord](https://www.klimaatakkoord.nl/)) — 250-страничный [документ](https://www.klimaatakkoord.nl/binaries/klimaatakkoord/documenten/publicaties/2019/06/28/klimaatakkoord/klimaatakkoord.pdf), описывающий достигнутые договорённости в сфере предотвращения изменения климата и соответствующие меры на обозримое будущее.
@@ -17,7 +17,7 @@ image: "klimaatakkoord.jpg"
 
 <!--more-->
 
-{{< imgfig "klimaatakkoord.jpg" "Подписанное Соглашение о климате. Фото ©EZK / Valerie Kuypers." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1709304297/blog/hkdwzp6fucfcmhoz8dz7.jpg" "Подписанное Соглашение о климате. Фото ©EZK / Valerie Kuypers." >}}
 
 Для тех, кто не может осилить 250 страниц официального текста, Министерство экономики и климата предлагает выжимку «[(Более) 70 вопросов по Соглашению о климате](https://www.rijksoverheid.nl/binaries/rijksoverheid/documenten/publicaties/2019/06/28/het-klimaatakkoord-in-meer-dan-70-vragen/Het+Klimaatakkoord+in+%28meer+dan%29+70+vragen_28juni2019.pdf)» (PDF), освещающую его основные положения.
 
