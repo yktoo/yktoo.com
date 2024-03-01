@@ -11,7 +11,7 @@ tags:
     - Go
     - Angular
 image: "https://res.cloudinary.com/yktoo/image/upload/v1707733008/blog/evbnsyjh49j6rsxxrbcx.jpg"
-imageCredit: "AI-generated image."
+imageCredit: "Изображение: кибермозг."
 series: comentario
 software: comentario
 ---
