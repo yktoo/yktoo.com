@@ -59,7 +59,7 @@ params:
 module:
     hugoVersion:
         extended: true
-        min: "0.123.6"
+        min: "0.123.7"
     mounts:
         - source: node_modules
           target: assets/node_modules
