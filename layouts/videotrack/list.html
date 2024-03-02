@@ -4,17 +4,17 @@
 
 <!-- List of events -->
 {{- range .Pages.GroupByParam "videoevents" }}
-    {{ with $.GetPage (printf `/videoevents/%s` (urlize .Key)) }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    {{- with $.GetPage (printf `/videoevents/%s` .Key) }}
+        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
 
-    <!-- List of tracks belonging to the event -->
-    <ul>
-    {{- range .Pages }}
-        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-    {{- end }}
-    </ul>
-    {{- else }}
-        {{- errorf "Failed to find a video event with key %q" .Key }}
+        <!-- List of tracks belonging to the event -->
+        <ul>
+        {{- range .Pages }}
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{- end }}
+        </ul>
+    {{- else -}}
+        {{- errorf "%s: failed to find a video event with key %q" $.Page.File.Path .Key }}
     {{- end }}
 {{- end }}
 {{ end }}

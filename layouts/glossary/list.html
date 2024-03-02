@@ -16,8 +16,12 @@
 <h2>{{ T "seeAlso" }}</h2>
 <ul>
     <!-- List any explicit See Also links to other glossary terms -->
-    {{- range .Params.seeAlso }}
-        {{- with $.GetPage (print "/glossary/" .) }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
+    {{- range .Params.seeAlso -}}
+        {{- with $.GetPage (print "/glossary/" .) -}}
+            <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+        {{- else -}}
+            {{- errorf "%s: failed to find Glossary term for seeAlso item %q" $.Page.File.Path . -}}
+        {{- end -}}
     {{- end }}
     <!-- List any related posts mentioning the corresponding tag -->
     {{- with index .Site.Taxonomies.tags $term }}

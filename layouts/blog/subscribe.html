@@ -22,19 +22,21 @@
             <div class="list-group-text"><div class="list-group-heading">{{ T "subscribeInTgram" }}</div></div>
         </a>
 
-        {{ with (.GetPage "/" ).OutputFormats.Get "RSS" }}
-        <!-- Subscribe in Feedly -->
-        <a class="list-group-item list-group-item-action list-group-item-iconized" href="https://feedly.com/i/subscription/feed%2F{{ .Permalink | querify `` | strings.TrimPrefix `=` }}">
-            <div class="list-group-img-32"><img src="/images/icons/feedly-48px.png" alt="Feedly icon"></div>
-            <div class="list-group-text"><div class="list-group-heading">{{ T "subscribeInFeedly" }}</div></div>
-        </a>
+        {{- with (.GetPage "/" ).OutputFormats.Get "RSS" }}
+            <!-- Subscribe in Feedly -->
+            <a class="list-group-item list-group-item-action list-group-item-iconized" href="https://feedly.com/i/subscription/feed%2F{{ .Permalink | querify `` | strings.TrimPrefix `=` }}">
+                <div class="list-group-img-32"><img src="/images/icons/feedly-48px.png" alt="Feedly icon"></div>
+                <div class="list-group-text"><div class="list-group-heading">{{ T "subscribeInFeedly" }}</div></div>
+            </a>
 
-        <!-- Subscribe by RSS -->
-        <a class="list-group-item list-group-item-action list-group-item-iconized" href="{{ .Permalink }}">
-            <div class="list-group-img-32"><i class="fas fa-rss-square colourise"></i></div>
-            <div class="list-group-text"><div class="list-group-heading">{{ T "subscribeByRSS" }}</div></div>
-        </a>
-        {{ end }}
+            <!-- Subscribe by RSS -->
+            <a class="list-group-item list-group-item-action list-group-item-iconized" href="{{ .Permalink }}">
+                <div class="list-group-img-32"><i class="fas fa-rss-square colourise"></i></div>
+                <div class="list-group-text"><div class="list-group-heading">{{ T "subscribeByRSS" }}</div></div>
+            </a>
+        {{- else -}}
+            {{- errorf "%s: failed to find RSS output feed for '/'" $.Page.File.Path -}}
+        {{- end }}
     </div>
 </section>
 

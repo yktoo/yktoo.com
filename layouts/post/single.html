@@ -197,7 +197,7 @@
                 <section>
                     <h5>{{ T "categories" }}</h5>
                     {{- range $idx, $category := .Params.categories }}
-                    {{- if $idx }}, {{ end }}<a href="{{ relref $page (print `/categories/` (urlize .)) }}" rel="category tag">{{ . }}</a>
+                    {{- if $idx }}, {{ end }}<a href="{{ relref $page (print `/categories/` .) }}" rel="category tag">{{ . }}</a>
                     {{- end }}
                 </section>
                 {{- end }}
@@ -207,9 +207,17 @@
                 <section>
                     <h5>{{ T "whereThisWas" }}</h5>
                     <ul>
-                        {{- range . }}{{ with $page.GetPage (print `/places/` (urlize .)) }}
-                        <li><a href="https://maps.google.com/maps?z=17&t=m&q=loc:{{ .Params.latitude }}+{{ .Params.longitude }}">{{ .Title | markdownify }}</a></li>
-                        {{- end }}{{ end }}
+                        {{- range . }}
+                            {{- $place := . -}}
+                            {{- with $page.GetPage (print `/places/` $place) -}}
+                                {{- if and .Params.latitude .Params.longitude }}
+                                    <li><a href="https://maps.google.com/maps?z=17&t=m&q=loc:{{ .Params.latitude }}+{{ .Params.longitude }}"
+                                           _target="_blank" rel="noopener">{{ .Title | markdownify }}</a></li>
+                                {{- else -}}
+                                    {{- errorf "%s: failed to find place %q" $page.File.Path $place -}}
+                                {{- end -}}
+                            {{- end -}}
+                        {{- end }}
                     </ul>
                 </section>
                 {{- end }}
@@ -227,7 +235,7 @@
                 <section>
                     <h5>{{ T "tags" }}</h5>
                     {{- range $idx, $tag := sort .Params.tags }}
-                    {{- if $idx }}, {{ end }}<a href="{{ relref $page (print `/tags/` (urlize .)) }}" rel="tag">{{ . }}</a>
+                    {{- if $idx }}, {{ end }}<a href="{{ relref $page (print `/tags/` .) }}" rel="tag">{{ . }}</a>
                     {{- end }}
                 </section>
                 {{- end }}

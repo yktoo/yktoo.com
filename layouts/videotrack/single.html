@@ -4,7 +4,13 @@
 
 <!-- Video metadata -->
 <p class="page-heading-meta">
-    {{- with .Params.videoevents }}{{ with $.GetPage (print `/videoevents/` (urlize .)) }}{{ T "videoFromEvent" }}&nbsp;<a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ end }}{{ end -}}
+    {{- with .Params.videoevents -}}
+        {{- with $.GetPage (print `/videoevents/` .) -}}
+            {{- T "videoFromEvent" -}}&nbsp;<a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        {{- else -}}
+            {{- errorf "%s: failed to find videoevent %q" $.Page.File.Path . -}}
+        {{- end -}}
+    {{- end -}}
 </p>
 {{ end }}
 
@@ -23,7 +29,7 @@
     <h2>{{ T "inThisVideo" }}</h2>
     <ul>
     {{- range . }}
-        <li><a href="{{ relref $ (print `/videoartists/` (urlize .)) }}">{{ . }}</a></li>
+        <li><a href="{{ relref $ (print `/videoartists/` .) }}">{{ . }}</a></li>
     {{- end }}
     </ul>
 </section>

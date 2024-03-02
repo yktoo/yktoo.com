@@ -5,9 +5,15 @@
     {{- T "author" }}: {{ .Params.author }}
 
     <!-- Album, if any -->
-    {{- with .Params.musicalbums }}{{ with $.GetPage (print "/musicalbums/" (urlize .)) }}{{ if .Params.isAlbum }}
-    · {{ T "fromAlbum" }} <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-    {{- end }}{{ end }}{{ end }}
+    {{- with .Params.musicalbums }}
+        {{- with $.GetPage (print "/musicalbums/" .) }}
+            {{- if .Params.isAlbum }}
+                · {{ T "fromAlbum" }} <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            {{- end }}
+        {{- else -}}
+            {{- errorf "%s: failed to find musicalalbum %q" $.Page.File.Path . -}}
+        {{- end }}
+    {{- end }}
 </div>
 {{ end }}
 
