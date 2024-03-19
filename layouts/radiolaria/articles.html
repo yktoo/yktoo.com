@@ -1,4 +1,4 @@
-{{ define "heading" }}<h1>{{ .Title | markdownify }}</h1>{{ end }}
+{{ define "heading" }}<h1>{{ .Title | .RenderString }}</h1>{{ end }}
 
 {{ define "main" }}
 <!-- Main content -->
@@ -10,7 +10,7 @@
         {{- range .Pages }}
         <tr>
             <td class="date">{{ partial "date" (dict "date" .Date "long" false) }}</td>
-            <td><a href="{{ .RelPermalink }}">{{ .Title }}</a>{{- with .Params.description }}<br>{{ . | markdownify }}{{ end -}}</td>
+            <td><a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ with .Params.description }}<br>{{ . | $.RenderString }}{{ end }}</td>
         </tr>
         {{- end }}
     </table>

@@ -1,7 +1,7 @@
 <!-- Single post item, which is displayed in a list -->
 <article class="blog-post" data-aos="fade-up">
     <!-- Post heading -->
-    <h2><a href="{{ .Permalink }}">{{ with .Params.series }}{{ with index $.Site.Taxonomies.series . }}{{ .Page.Title }} ‣ {{ end }}{{ end }}{{ .Title | markdownify }}</a></h2>
+    <h2><a href="{{ .Permalink }}">{{ with .Params.series }}{{ with index $.Site.Taxonomies.series . }}{{ .Page.Title }} ‣ {{ end }}{{ end }}{{ .Title | .RenderString }}</a></h2>
 
     <!-- Post metadata -->
     <div class="page-heading-meta">{{ partial "date" (dict "date" .Date "long" false) }}</div>
@@ -22,7 +22,7 @@
                 <a href="{{ $urlLink }}" class="image-link image-popup" data-effect="mfp-with-zoom" data-lightbox="image-1">
                     <img class="img-fluid blog-post-image" src="{{ $url }}" alt="Post image">
                 </a>
-                {{- with $.Params.imageCredit }}<p class="blog-post-image-credit">{{ . | markdownify }}</p>{{ end }}
+                {{- with $.Params.imageCredit }}<p class="blog-post-image-credit">{{ . | $.RenderString }}</p>{{ end }}
             {{- else -}}
                 <img class="img-fluid blog-post-image" src="/images/image-placeholder.png" alt="Post image">
             {{- end -}}
@@ -30,7 +30,7 @@
 
         <div class="col-xs-10 col-md-6">
             <!-- Post summary. Use the explicit description, if any, otherwise the summary -->
-            {{- $summary := .Params.description | markdownify | default .Summary }}
+            {{- $summary := .Params.description | .RenderString | default .Summary }}
 
             <!-- Remove any figures (images) and divs (videos etc) -->
             {{- $summary = $summary | replaceRE "(?s)<figure\\b.*?/figure>" "" | replaceRE "(?s)<div\\b.*/div>" "" | safeHTML }}

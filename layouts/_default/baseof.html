@@ -12,7 +12,7 @@
     <link rel="shortcut icon" type="image/x-icon" href="{{ `favicon.ico` | absURL }}"/>
 
     <!-- Page title -->
-    <title>{{ block "title" . }}{{ with .Title }}{{ . | markdownify | plainify | safeHTML }} | {{ else }}{{ if .IsHome }}{{ T "blogTitle" }} | {{ i18n "blog" }} | {{ end }}{{ end }}{{ .Site.Title }}{{ end }}</title>
+    <title>{{ block "title" . }}{{ with .Title }}{{ . | $.RenderString | plainify | safeHTML }} | {{ else }}{{ if .IsHome }}{{ T "blogTitle" }} | {{ i18n "blog" }} | {{ end }}{{ end }}{{ .Site.Title }}{{ end }}</title>
 
     <!-- Stylesheets -->
     <link href="{{ (resources.Get `main.scss` | toCSS | minify).Permalink }}" rel="stylesheet">
@@ -49,7 +49,7 @@
 
             <!-- Heading -->
             {{- block "heading" . }}
-            {{- if .Params.showHeading }}<h1>{{ .Title | markdownify }}</h1>{{ end }}
+            {{- if .Params.showHeading }}<h1>{{ .Title | .RenderString }}</h1>{{ end }}
             {{- end }}
 
             <!-- Main content -->

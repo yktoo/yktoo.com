@@ -37,7 +37,7 @@
                 <h5 class="card-title">{{ .Page.Title }}</h5>
                 <!-- Description -->
                 {{- with .Page.Params.description -}}
-                <p class="card-subtitle text-muted">{{ . | markdownify }}</p>
+                <p class="card-subtitle text-muted">{{ . | $.RenderString }}</p>
                 {{- end }}
             </div>
 

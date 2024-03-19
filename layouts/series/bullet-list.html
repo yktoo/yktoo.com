@@ -7,7 +7,7 @@
 {{ define "main" }}
 <!-- Description -->
 {{- with .Params.description }}
-<p class="series-description">{{ . | markdownify }}</p>
+<p class="series-description">{{ . | $.RenderString }}</p>
 {{- end }}
 
 <!-- Content -->
@@ -23,7 +23,7 @@
 <!-- Article list -->
 <ol>
     {{- range sort .Pages ".Title" }}
-    <li class="filterable"><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></li>
+    <li class="filterable"><a href="{{ .Permalink }}">{{ .Title | .RenderString }}</a></li>
     {{- end }}
 </ol>
 {{- end }}

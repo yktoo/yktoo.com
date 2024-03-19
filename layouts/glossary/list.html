@@ -1,12 +1,12 @@
-{{ define "heading" }}<h1>{{ T "glossary" }}: {{ .Title | markdownify }}{{- with .Params.altTitles }}, {{ delimit . ", "}}{{ end }}</h1>{{ end }}
+{{ define "heading" }}<h1>{{ T "glossary" }}: {{ .Title | .RenderString }}{{- with .Params.altTitles }}, {{ delimit . ", "}}{{ end }}</h1>{{ end }}
 
 {{ define "main" }}
 <section id="glossary-term">
-    {{ default .Content (markdownify .Params.description) }}
+    {{ .Params.description | .RenderString | default .Content }}
 
     <!-- Detail link, which is the first page corresponding to the glossary term, if any -->
     {{- range first 1 .Pages }}
-        <p><a href="{{ .Permalink }}" class="btn btn-outline-primary">{{ T "details" }}: {{ .Title | markdownify }}</a></p>
+        <p><a href="{{ .Permalink }}" class="btn btn-outline-primary">{{ T "details" }}: {{ .Title | .RenderString }}</a></p>
     {{- end }}
 </section>
 

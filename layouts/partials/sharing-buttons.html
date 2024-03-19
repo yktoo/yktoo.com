@@ -2,8 +2,8 @@
 {{- if eq .Type "post" -}}
     {{- $u = print "/blog/post/" (.File.Dir | path.Base) | absLangURL -}}
 {{- end -}}
-{{- $t := .Title | markdownify | plainify -}}
-{{- $s := .Summary | markdownify | plainify -}}
+{{- $t := .Title | .RenderString | plainify -}}
+{{- $s := .Summary | .RenderString | plainify -}}
 {{- $i := "" -}}
 {{- with .Params.image }}{{ if findRE "^http(s?)://" . }}{{ $i = . }}{{ end }}{{ end -}}
 <div class="button-row">

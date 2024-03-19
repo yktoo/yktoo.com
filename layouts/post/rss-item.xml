@@ -19,7 +19,7 @@
             {{- printf `<img style="width: 500px; height: auto;" src=%q alt="Post image"><br><br>` $url -}}
         {{- end -}}
         <!-- Put post summary or description: logic borrowed from layouts/post/list-item.html -->
-        {{- $summary := .Params.description | markdownify | default .Summary | replaceRE "(?s)<figure\\b.*?/figure>" "" | replaceRE "(?s)<div\\b.*/div>" "" }}
+        {{- $summary := .Params.description | .RenderString | default .Summary | replaceRE "(?s)<figure\\b.*?/figure>" "" | replaceRE "(?s)<div\\b.*/div>" "" }}
         {{- if in $summary "<p>" }}{{ $summary }}{{ else }}{{ printf "<p>%s</p>" $summary }}{{ end }}
         <!-- Read On link -->
         {{- printf `<p><a href=%q style="padding: 12px; background-color: #089664; color: #ffffff; text-decoration: none;">%s</a></p>` .Permalink (T "readOn") -}}

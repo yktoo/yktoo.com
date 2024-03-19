@@ -48,11 +48,11 @@
     <dl>
         {{ range $title, $value := . }}
         <dt>{{ $title | strings.FirstUpper }}</dt>
-        <dd>{{ $value | markdownify }}</dd>
+        <dd>{{ $value | $.RenderString }}</dd>
         {{ end }}
     </dl>
     {{ end }}
-    {{ with .Params.released }}<p>{{ . | markdownify }}</p>{{ end }}
+    {{ with .Params.released }}<p>{{ . | $.RenderString }}</p>{{ end }}
 </section>
 {{ end }}
 {{ end }}

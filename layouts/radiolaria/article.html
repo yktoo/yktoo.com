@@ -1,5 +1,5 @@
 {{ define "heading" }}
-<h1>{{ .Title | markdownify }}</h1>
+<h1>{{ .Title | .RenderString }}</h1>
 <div class="page-heading-meta">
     {{- partial "date" (dict "date" .Date "long" true) -}}
     <span class="dot-sep"></span>{{ T "authoredBy" }}&nbsp;{{ .Params.author -}}

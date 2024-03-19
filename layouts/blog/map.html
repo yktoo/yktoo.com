@@ -25,11 +25,11 @@
                 "icon": "/images/map-marker.png",
                 "map": map,
                 "position": new google.maps.LatLng('{{ .Params.latitude }}', '{{ .Params.longitude }}'), // Coords as strings to not let the IDE go crazy
-                "title": "{{ .Title | markdownify }}"}),
+                "title": "{{ .Title | .RenderString }}"}),
             'click',
             function(event) {
                 mapInfoWindow.setContent(
-                    '<b>{{ .Title | markdownify }}</b><ul class=\"list-unstyled\">'+
+                    '<b>{{ .Title | .RenderString }}</b><ul class=\"list-unstyled\">'+
                     '{{ range .Pages }}<li>{{ .Render "lang-link" }}</li>{{ end }}' +
                     '</ul>');
                 mapInfoWindow.open(map, this);

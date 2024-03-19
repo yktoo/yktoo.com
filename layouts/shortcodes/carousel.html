@@ -24,9 +24,9 @@
 
                 <!-- Render a carousel item -->
                 <div class="carousel-item text-center{{ cond (eq $idx 0) ` active` `` }}">
-                    <a class="image-link image-popup" href="{{ $url }}" data-effect="mfp-with-zoom" data-lightbox="image-1"><img src="{{ $url }}" alt="{{ $desc | markdownify | plainify | default `Image` | safeHTML }}" class="img-fluid"></a>
+                    <a class="image-link image-popup" href="{{ $url }}" data-effect="mfp-with-zoom" data-lightbox="image-1"><img src="{{ $url }}" alt="{{ $desc | $.Page.RenderString | plainify | default `Image` | safeHTML }}" class="img-fluid"></a>
                     <!-- Render the description, if any -->
-                    {{ with $desc }}<div class="carousel-caption">{{ . | markdownify }}</div>{{ end -}}
+                    {{ with $desc }}<div class="carousel-caption">{{ . | $.Page.RenderString }}</div>{{ end -}}
                 </div>
                 {{- $idx = add $idx 1 }}
             {{- end }}

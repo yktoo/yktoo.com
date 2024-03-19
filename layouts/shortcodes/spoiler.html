@@ -2,7 +2,7 @@
 <section class="spoiler">
     {{- $id := print "spoiler-" (md5 .Inner) }}
     <!-- Spoiler body -->
-    <div class="collapse my-3" id="{{ $id }}">{{ markdownify .Inner }}</div>
+    <div class="collapse my-3" id="{{ $id }}">{{ .Inner | .Page.RenderString }}</div>
     <!-- Spoiler collapse toggler -->
     <div class="text-center m-3">
         <button class="btn btn-secondary btn-collapse-toggler collapsed" type="button" data-bs-toggle="collapse"

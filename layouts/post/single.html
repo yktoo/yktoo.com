@@ -1,8 +1,8 @@
-{{- define "title" }}{{ with .Params.series }}{{ with index $.Site.Taxonomies.series . }}{{ .Page.Title }} ‣ {{ end }}{{ end }}{{ .Title | markdownify | plainify | safeHTML }} | {{ .Site.Title }}{{ end }}
+{{- define "title" }}{{ with .Params.series }}{{ with index $.Site.Taxonomies.series . }}{{ .Page.Title }} ‣ {{ end }}{{ end }}{{ .Title | .RenderString | plainify | safeHTML }} | {{ .Site.Title }}{{ end }}
 
 {{- define "schema-dot-org" }}
 <!-- Basic properties -->
-{{- $ld := dict "@context" "http://schema.org" "@type" "BlogPosting" "headline" (substr (.Title | markdownify | plainify) 0 110) "url" .Permalink "wordCount" .WordCount "mainEntityOfPage" true}}
+{{- $ld := dict "@context" "http://schema.org" "@type" "BlogPosting" "headline" (substr (.Title | .RenderString | plainify) 0 110) "url" .Permalink "wordCount" .WordCount "mainEntityOfPage" true}}
 {{- with .Params.image }}
     {{- $ld_img := dict "@type" "ImageObject" }}
     {{- if findRE "^(/|http(s?)://)" . }}
@@ -27,7 +27,7 @@
     {{- $ld = merge $ld (dict "keywords" (union .Params.categories .Params.tags)) }}
 {{- end }}
 <!-- Description -->
-{{- $ld = merge $ld (dict "description" (default .Summary .Params.description | markdownify | plainify)) }}
+{{- $ld = merge $ld (dict "description" (default .Summary .Params.description | .RenderString | plainify)) }}
 <script type="application/ld+json">{{ $ld | jsonify | safeJS }}</script>
 {{- end }}
 
@@ -46,7 +46,7 @@
                 {{- .Page.Title -}}
                 <span class="mx-2 text-muted">‣</span>
             {{- end }}{{ end -}}
-            {{- .Title | markdownify -}}
+            {{- .Title | .RenderString -}}
         </h1>
 
         <!-- Post metadata -->
@@ -58,7 +58,7 @@
             <span class="dot-sep"></span>{{ T "authoredBy" }}&nbsp;{{ .Params.author | default .Site.Params.author }}
 
             <!-- Time to read -->
-            <span class="dot-sep"></span>{{ T "readingTime" .ReadingTime | markdownify }}
+            <span class="dot-sep"></span>{{ T "readingTime" .ReadingTime | .RenderString }}
 
             <!-- Links to translations -->
             {{- if .IsTranslated }}
@@ -147,7 +147,7 @@
                     </a>
                 </div>
 
-                <div class="mt-4">{{ T "poweredByOnceTo" | markdownify }}</div>
+                <div class="mt-4">{{ T "poweredByOnceTo" | .RenderString }}</div>
             </section>
 
             <!-- Comments -->
@@ -173,9 +173,9 @@
                     <ul>
                         {{- range first 4 .Pages }}
                             {{- if eq $page.RelPermalink .RelPermalink }}
-                            <li><b>{{ .Title | markdownify }}</b></li>
+                            <li><b>{{ .Title | .RenderString }}</b></li>
                             {{- else }}
-                            <li><a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></li>
+                            <li><a href="{{ .RelPermalink }}">{{ .Title | .RenderString }}</a></li>
                             {{- end }}
                         {{- end }}
                     </ul>
@@ -212,7 +212,7 @@
                             {{- with $page.GetPage (print `/places/` $place) -}}
                                 {{- if and .Params.latitude .Params.longitude }}
                                     <li><a href="https://maps.google.com/maps?z=17&t=m&q=loc:{{ .Params.latitude }}+{{ .Params.longitude }}"
-                                           _target="_blank" rel="noopener">{{ .Title | markdownify }}</a></li>
+                                           _target="_blank" rel="noopener">{{ .Title | .RenderString }}</a></li>
                                 {{- else -}}
                                     {{- errorf "%s: failed to find place %q" $page.File.Path $place -}}
                                 {{- end -}}

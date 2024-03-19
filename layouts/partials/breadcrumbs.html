@@ -33,12 +33,12 @@
             <!-- If no grand-parent is defined, try to use the parent's parent - unless it's the Home or an untitled page -->
             {{- if not $gparent }}{{ with .Parent }}{{ if and (not .IsHome) .Title }}{{ $gparent = . }}{{ end }}{{ end }}{{ end -}}
             <!-- Render the grand-parent, if any -->
-            {{- with $gparent }}<li class="breadcrumb-item"><a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></li>{{ end }}
+            {{- with $gparent }}<li class="breadcrumb-item"><a href="{{ .RelPermalink }}">{{ .Title | $.RenderString }}</a></li>{{ end }}
             <!-- Render the parent - unless it's the Home or an untitled page -->
-            {{- if and (not .IsHome) .Title }}<li class="breadcrumb-item"><a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></li>{{ end }}
+            {{- if and (not .IsHome) .Title }}<li class="breadcrumb-item"><a href="{{ .RelPermalink }}">{{ .Title | $.RenderString }}</a></li>{{ end }}
         {{ end }}
         <!-- Render the page itself - as an "active" item -->
-        <li class="breadcrumb-item active" aria-current="page">{{ .Title | markdownify }}</li>
+        <li class="breadcrumb-item active" aria-current="page">{{ .Title | .RenderString }}</li>
     </ol>
 </nav>
 {{- end }}

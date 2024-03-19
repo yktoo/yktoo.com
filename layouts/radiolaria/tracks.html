@@ -1,4 +1,4 @@
-{{ define "heading" }}<h1>{{ .Title | markdownify }}</h1>{{ end }}
+{{ define "heading" }}<h1>{{ .Title | .RenderString }}</h1>{{ end }}
 
 {{ define "main" }}
 <!-- Main content -->

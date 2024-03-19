@@ -24,7 +24,7 @@
 
     <div class="card-body">
         <!-- Post title -->
-        <div class="card-text">{{ with .Params.series }}{{ with index $.Site.Taxonomies.series . }}{{ .Page.Title }} ‣ {{ end }}{{ end }}{{ .Title | markdownify }}</div>
+        <div class="card-text">{{ with .Params.series }}{{ with index $.Site.Taxonomies.series . }}{{ .Page.Title }} ‣ {{ end }}{{ end }}{{ .Title | .RenderString }}</div>
     </div>
 </article>
 
