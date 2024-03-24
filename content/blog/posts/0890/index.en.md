@@ -14,7 +14,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/v1711272982/blog/iuy9tvwxj
 
 On March **20<sup>th</sup>** the official ~~astrological~~ astronomical spring began in the Netherlands. The nature was celebrating this date with the air temperature of **18 °C** and trees in full bloom.
 
-Here's a traditional video of the blooming Houten!
+Here's a traditional video of the blooming Houten — this time in **4K**!
 
 <!--more-->
 

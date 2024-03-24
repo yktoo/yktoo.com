@@ -14,7 +14,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/v1711272982/blog/iuy9tvwxj
 
 **20** maart is de officiële ~~astrologische~~ astronomische lente begonnen in Nederland. De natuur vierde deze datum met een luchttemperatuur van **18 °C** en bomen in volle bloei.
 
-Hieronder is een traditionele video van het bloeiende Houten!
+Hieronder is een traditionele video van het bloeiende Houten — deze keer in **4K**!
 
 <!--more-->
 
