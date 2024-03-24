@@ -18,4 +18,4 @@ image: "https://res.cloudinary.com/yktoo/image/upload/v1711272982/blog/iuy9tvwxj
 
 <!--more-->
 
-{{< youtube "7Q6VmF-jJAY" >}}
+{{< youtube "aMXtTM6BeOk" >}}
