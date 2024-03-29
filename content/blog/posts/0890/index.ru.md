@@ -19,3 +19,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/v1711272982/blog/iuy9tvwxj
 <!--more-->
 
 {{< youtube "aMXtTM6BeOk" >}}
+
+Ну, и *пятничное хокку* Акунина в тему:
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1711715007/blog/ewagyxnbii4mgrvi0wdj.jpg" "«Пятничное хокку» Бориса Акунина за 22 марта." >}}
