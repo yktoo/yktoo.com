@@ -20,7 +20,7 @@ software: comentario
 
 [Comentario](/software/comentario) — это быстрый и мощный свободный сервер комментариев для веб-страниц, написанный на {{< fl "Go" >}}.
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1713628168/blog/b3blrv7cunv6z9fykscg.jpg" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1713628168/blog/b3blrv7cunv6z9fykscg.jpg" "Comentario на фоне северо-ирландского Арма. Киберизображение." >}}
 
 ## Что нового
 
@@ -42,7 +42,7 @@ software: comentario
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1713629278/blog/elyblqaumpaxa7f5fjjn.png" "Вкладка «Authentication»  на странице редактирования домена." "border shadow" >}}
 
-С большей частью из них вы уже знакомы, так как они и ранее присутствовали в глобальной (системной) динамической конфигурации. В новой версии системные параметры лишь задают установки по умолчанию при регистрации нового домена:
+С большей частью из них вы уже знакомы, так как они и ранее присутствовали в [глобальной (системной) динамической конфигурации](https://docs.comentario.app/en/configuration/backend/dynamic/). В новой версии системные параметры лишь задают установки по умолчанию при регистрации нового домена:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1713629474/blog/amogxh5dveu5cjybqtif.png" "Динамическая конфигурация системы." "border shadow" >}}
 
@@ -60,7 +60,7 @@ software: comentario
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1713630437/blog/drd6w5lioqx3xasgvqiu.png" "Настройка уведомления о статусе коммента." >}}
 
-Когда она активирована (значение по умолчанию), пользователь будет получать емэйл-уведомления о каждом комменте, утверждённом ({{< fl "approved" >}}) или отклонённом ({{< fl "rejected" >}}) модератором.
+Когда она активирована — а это является её состоянием по умолчанию, — пользователь будет получать емэйл-уведомления о каждом комменте, утверждённом ({{< fl "approved" >}}) или отклонённом ({{< fl "rejected" >}}) модератором.
 
 ### Улучшенное отображение метаданных коммента
 
@@ -68,27 +68,33 @@ software: comentario
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1713630930/blog/vmhzpzmstrsbh0kc1quk.png" "Метаданные коммента." >}}
 
+---
+
 **Кстати:** если навести мышь на часть текста с обозначением времени (такую как {{< fl "just now" >}}), во всплывающей подсказке появится точное время события.
+
+---
 
 ### Отслеживание неудачных попыток входа
 
-Если пользователь (или кто-то, кто пытается выдать себя за него) указывает неверный пароль при логине, такая попытка входа будет зарегистрирована. А если количество неудачных попыток превысит [заданный порог](https://docs.comentario.app/en/configuration/backend/dynamic/auth.login.local.maxattempts/), соответствующий аккаунт будет заблокирован. Обладатель роли суперпользователя ({{< fl "superuser" >}}) может видеть соответствующие свойства пользователя:
+Если пользователь (или кто-то, кто пытается выдать себя за него) указывает неверный пароль при логине, такая попытка входа будет зарегистрирована. А если количество неудачных попыток превысит [заданный порог](https://docs.comentario.app/en/configuration/backend/dynamic/auth.login.local.maxattempts/), соответствующий аккаунт будет заблокирован.
+
+Обладатель роли суперпользователя ({{< fl "superuser" >}}) может видеть соответствующие свойства:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1713631362/blog/jhsz0dfvepbnqwmdjc69.png" "Новые свойства, относящиеся к аутентификации." "border shadow" >}}
 
 Счётчик неудачных попыток входа сбрасывается в ноль после первого успешного логина.
 
-Как можно заметить на скриншоте выше, {{< fl "Comentario" >}} теперь также регистрирует момент последней смены пароля, благодаря чему в будущем можно будет реализовать политику регулярной смены паролей.
+Как можно заметить на скриншоте выше, {{< fl "Comentario" >}} теперь также регистрирует момент последнего изменения пароля, благодаря чему в будущем можно будет реализовать политику регулярной их смены.
 
 ### Список сессий пользователя
 
-Суперпользователи теперь также могут просматривать все сессии конкретного юзера, а также принудительно прекращать их:
+Суперпользователи теперь могут просматривать все сессии конкретного юзера, а также принудительно прекращать их:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1713631917/blog/q4kxokyszndbwwmxzbfb.png" "Список сессий пользователя." "border shadow" >}}
 
 ### Сообщение о заблокированном окне
 
-Для входа через {{< fl "SSO" >}} и соцсети (например, {{< fl "Facebook" >}} или {{< fl "Google" >}}), {{< fl "Comentario" >}} открывает всплывающее окно с соответствующим сайтом внутри. Как недавно выяснилось, {{< fl "Safari" >}} и {{< fl "Firefox" >}} по умолчанию блокируют открытие такого окна; в новой версии было добавлено всплывающее уведомление, объясняющее пользователю, что произошло и что ему нужно сделать:
+Для входа через [SSO](https://docs.comentario.app/en/configuration/frontend/domain/authentication/sso/) и [социальных провайдеров](https://docs.comentario.app/en/configuration/idps/) (таких как экстремистский {{< fl "Facebook" >}} или не менее экстремистский {{< fl "Google" >}}), {{< fl "Comentario" >}} открывает всплывающее окно с соответствующим сайтом внутри. Как недавно выяснилось, {{< fl "Safari" >}} и {{< fl "Firefox" >}} по умолчанию блокируют открытие такого окна; в новой версии было добавлено всплывающее уведомление, объясняющее пользователю, что произошло и что ему нужно сделать:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1713632115/blog/xmgz4evckqorvdmjvjai.png" "Уведомление о заблокированном попапе." >}}
 
@@ -96,7 +102,7 @@ software: comentario
 
 * Поддержка адресов {{< fl "IPv6" >}} ([#69](https://gitlab.com/comentario/comentario/-/issues/69)), а также более надежная обработка {{< fl "IP" >}}-адресов ([#76](https://gitlab.com/comentario/comentario/-/issues/76))
 * Встраиваемая часть: добавлен атрибут [auto-non-interactive-sso](https://docs.comentario.app/en/configuration/embedding/comments-tag/auto-non-interactive-sso/) тега `<comentario-comments>` ([#81](https://gitlab.com/comentario/comentario/-/issues/81))
-* Встраиваемая часть: оптимизирована загрузка {{< fl "Comentario" >}} благодаря уменьшению количества необходимых {{< fl "API" >}}-запросов
+* Встраиваемая часть: оптимизирован запуск {{< fl "Comentario" >}} благодаря уменьшению количества необходимых {{< fl "API" >}}-запросов
 * Исправлена ситуация с регистрацией полного {{< fl "IP" >}}-адреса при просмотре страницы ([#77](https://gitlab.com/comentario/comentario/-/issues/77))
 
 ## Демо-версия
@@ -112,4 +118,4 @@ software: comentario
 
 * [Getting started](https://docs.comentario.app/en/getting-started/).
 * [Installation](https://docs.comentario.app/en/installation/).
-* [Migration](https://docs.comentario.app/en/installation/migration/).
+* [Migration](https://docs.comentario.app/en/installation/migration/) (поддерживается импорт из [Commento](https://docs.comentario.app/en/installation/migration/commento/), [Disqus](https://docs.comentario.app/en/installation/migration/disqus/), [Wordpress](https://docs.comentario.app/en/installation/migration/wordpress/)).
