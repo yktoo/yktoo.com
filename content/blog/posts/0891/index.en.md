@@ -14,7 +14,6 @@ image: "https://res.cloudinary.com/yktoo/image/upload/v1713628168/blog/b3blrv7cu
 imageCredit: "AI-generated image."
 series: comentario
 software: comentario
-draft: true
 ---
 
 The new version [Comentario 3.7.0 Armagh](https://gitlab.com/comentario/comentario/-/releases/v3.7.0) is out.
