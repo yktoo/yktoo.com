@@ -1,0 +1,97 @@
+---
+type: post
+date: "2024-05-24T13:57:01+02:00"
+title: "3.8.0 Belfast"
+tags:
+    - Comentario
+    - веб
+    - софт
+    - разработка
+    - релиз
+    - Go
+    - Angular
+image: "https://res.cloudinary.com/yktoo/image/upload/v1716551682/blog/nglvr7hasxqcky6ydixu.jpg"
+imageCredit: "Изображение: кибермозг."
+series: comentario
+software: comentario
+---
+
+Вышла новая версия [Comentario **3.8.0 Belfast**](https://gitlab.com/comentario/comentario/-/releases/v3.8.0).
+
+[Comentario](/software/comentario) — это быстрый и мощный свободный сервер комментариев для веб-страниц, написанный на {{< fl "Go" >}}.
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1716551682/blog/nglvr7hasxqcky6ydixu.jpg" "Киберизображение." >}}
+
+## Что нового
+
+<!--more-->
+
+### Новые метрики
+
+В Дашборде теперь дополнительно показывается количество написанных вами комментов и количество страниц с ними:
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1716552541/blog/j6g0brxiachzz0gfpdaq.png" "Новые метрики в Дашборде Comentario." "border shadow" >}}
+
+### Анимированные заглушки
+
+Если загрузка комментов на странице длится дольше обычного (например, из-за медленного соединения), пользователь увидит анимированные заглушки («плейсхолдеры»), сигнализирующие о том, что загрузка в процессе, — вместо пустой страницы:
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1716555645/blog/i6y2yg9smrihziwblyza.gif" "Анимированные плейсхолдеры при загрузке комментов." "border shadow" >}}
+
+Желаю вам, конечно же, никогда их не увидеть.
+
+### Прозрачный вход в админку для комментеров
+
+Если на странице с комментариями кликнуть по кнопке с шестерёнкой ({{< fl "Settings" >}}), а потом на `Edit Comentario profile`, то больше не потребуется логиниться в открывшуюся админку ({{< fl "Administration UI" >}}, веб-приложение для управления {{< fl "Comentario" >}} и вашим аккаунтом). Ранее это было необходимо из-за того, что это веб-приложение всегда находится на другом домене, а куки с сеансом сохраняются для каждого домена независимо.
+
+В версии **3.8.0** эта проблема решена следующим способом: {{< fl "Comentario" >}} запрашивает специальный одноразовый токен, который впоследствии передаётся в админку и используется там для входа в тот же аккаунт.
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1716554338/blog/ym91p7ibhbemwyemoyag.png" "Кнопка редактирования профиля." "border shadow" >}}
+
+### Проверка новой версии
+
+Если стала доступна более новая версия {{< fl "Comentario" >}}, [суперпользователи](https://docs.comentario.app/en/kb/permissions/superuser/) теперь увидят бэдж-уведомление в боковой панели, а в разделе {{< fl "Static configuration" >}} — ссылку на соответствующую страницу релиза:
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1716554851/blog/nivou4ypbo5eppg9ogxk.png" "Менеджер конфигурации и уведомление об обновлении." "border shadow" >}}
+
+Теперь вы всегда будете в курсе новых фич и исправлений.
+
+### Обработка ошибок при запуске
+
+Если пользователь пытается открыть страницу с комментариями на неверно сконфигурированном сайте, и {{< fl "Comentario" >}} не смог правильно стартовать, то вместо непонятного фрагмента {{< fl "JSON" >}} ему теперь отобразится недвусмысленное сообщение:
+
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1716555148/blog/jgb5cvliwy5qlyyq3nd2.png" "Загрузка Comentario не удалась." "border shadow" >}}
+
+### XSRF secret
+
+В данной версии добавлен новый ключ в файл [секретов](https://docs.comentario.app/en/configuration/backend/secrets/): `xsrfSecret`. Если его значение не задано, {{< fl "Comentario" >}} создаст новый, случайный ключ, который будет использоваться для защиты фронтенда от {{< fl "XSRF" >}}-атак (они же {{< fl "CSRF" >}}-атаки).
+
+Если же значение задано, то ключом станет его `SHA256`-хэш. Такой предопределённый ключ необходим в случаях, когда один веб-сайт обслуживается несколькими экземплярами {{< fl "Comentario" >}}; благодаря этому {{< fl "XSRF" >}}-токен, выданный одним экземпляром, будет приниматься остальными как валидный.
+
+### Прочие изменения
+
+* Встраиваемая часть: отключение панели инструментов при предпросмотре ([#93](https://gitlab.com/comentario/comentario/-/issues/93))
+* Улучшения логов сервера:
+    * раскраска строк в зависимости от уровня, опция командной строки `--no-color` для её отключения
+    * время с миллисекундной точностью
+    * улучшенный формат
+* Перевод на бразильский португальский (спасибо [Guilherme Alves](https://gitlab.com/behindsecurity))
+* Динамическая конфигурация: запрет изображений в настройках по умолчанию во избежание {{< fl "identity attacks" >}}
+* Исправлено: пока поддерживается только {{< fl "IPv4" >}} в полях `signup_ip`/`author_ip` (обход проблемы [#95](https://gitlab.com/comentario/comentario/-/issues/95))
+* Исправлено: `author_ip` тоже маскируется
+* Исправлено: сброс счётчика неудачных попыток логина при снятии блокировки с аккаунта ([#91](https://gitlab.com/comentario/comentario/-/issues/91))
+
+## Демо-версия
+
+Увидеть новую версию в действии, а также её административный интерфейс (логин с емэйлом `admin@admin` и паролем `admin`), можно на демо-сайте:
+
+{{< button "https://demo.comentario.app/" "Демо-сайт комментариев" "btn-primary mb-3" >}}
+{{< button "https://edge.comentario.app/" "Демо админки Comentario" "btn-primary mb-3" >}}
+
+## Установка
+
+Если вы хотите установить {{< fl "Comentario" >}}, вот ссылки на документацию:
+
+* [Getting started](https://docs.comentario.app/en/getting-started/).
+* [Installation](https://docs.comentario.app/en/installation/).
+* [Migration](https://docs.comentario.app/en/installation/migration/) (поддерживается импорт из [Commento](https://docs.comentario.app/en/installation/migration/commento/), [Disqus](https://docs.comentario.app/en/installation/migration/disqus/), [Wordpress](https://docs.comentario.app/en/installation/migration/wordpress/)).
