@@ -9,7 +9,7 @@ tags:
     - Хаутен
     - видео
     - красивое
-image: "https://res.cloudinary.com/yktoo/image/upload/v1711272982/blog/iuy9tvwxjjc3i8efbxmt.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/v1722007496/blog/vki7f58ttp4hg4s4pzdl.jpg"
 ---
 
 **20** марта в Нидерландах наступила официальная ~~астрологическая~~ астрономическая весна. Природа как следует подготовилась к этой дате: организовала температуру в **18 °C** и деревья в полном цвету.

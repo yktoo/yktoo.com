@@ -9,7 +9,7 @@ tags:
     - Houten
     - video
     - mooi
-image: "https://res.cloudinary.com/yktoo/image/upload/v1711272982/blog/iuy9tvwxjjc3i8efbxmt.jpg"
+image: "https://res.cloudinary.com/yktoo/image/upload/v1722007496/blog/vki7f58ttp4hg4s4pzdl.jpg"
 ---
 
 **20** maart is de officiële ~~astrologische~~ astronomische lente begonnen in Nederland. De natuur vierde deze datum met een luchttemperatuur van **18 °C** en bomen in volle bloei.
