@@ -31,9 +31,9 @@ software: comentario
 
 ### Поддержка OIDC
 
-Добавлена поддержка стандартных [OIDC-провайдеров](https://docs.comentario.app/en/configuration/idps/oidc/). {{< fl "OIDC" >}} — это сокращение от [OpenID Connect](https://openid.net/developers/how-connect-works/), представляющий собой открытый протокол аутентификации, поддерживаемый множеством компаний и программных продуктов.
+Добавлена поддержка стандартных [OIDC-провайдеров](https://docs.comentario.app/en/configuration/idps/oidc/). {{< fl "OIDC" >}} — это сокращение от [OpenID Connect](https://openid.net/developers/how-connect-works/), открытый протокол аутентификации, поддерживаемый множеством компаний и программных продуктов.
 
-Например, [LinkedIn](https://docs.comentario.app/en/configuration/idps/linkedin/), который теперь можно легко добавить в качестве внешнего провайдера аутентификации.
+В их числе, например, {{< fl "LinkedIn" >}}, который теперь можно легко [добавить](https://docs.comentario.app/en/configuration/idps/linkedin/) в качестве внешнего провайдера аутентификации.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1722345304/blog/ecwylpv1aoj8bnxx8h0i.png" "Настройка логина в Comentario через LinkedIn." "border shadow" >}}
 
@@ -43,9 +43,9 @@ software: comentario
 
 {{< fl "Comentario" >}} получил поддержку тёмной темы оформления, благодаря чему комментарии теперь можно нормально встраивать в соответствующие веб-сайты.
 
-Желаемая тема оформления задаётся при помощи [атрибута `theme`](https://docs.comentario.app/en/configuration/embedding/comments-tag/theme/) тега `<comentario-comments>`. Её можно менять на лету, примером чего является демо-сайт {{< fl "Comentario" >}}:
+Желаемая тема оформления задаётся при помощи [атрибута `theme`](https://docs.comentario.app/en/configuration/embedding/comments-tag/theme/) тега `<comentario-comments>`. Её даже можно менять на лету, примером чего является [демо-сайт Comentario](https://demo.comentario.app/):
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1722346861/blog/ep6lf7msn4hrx6vzvegg.gif" "Switching Comentario between light and dark themes." "border shadow" >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1722346861/blog/ep6lf7msn4hrx6vzvegg.gif" "Переключение между светлой и тёмной темами в Comentario." "border shadow" >}}
 
 ### Миграция с Commento++
 
@@ -63,7 +63,7 @@ software: comentario
 
 Начиная с данного релиза немного изменяется назначение версий [Docker-имиджам](https://docs.comentario.app/en/installation/docker-image/):
 
-* `latest` теперь всегда будет указывать на **последний стабильный релиз** (*раньше он указывал на последний `dev`-билд*);
+* `latest` теперь всегда будет указывать на **последний стабильный релиз**; раньше он указывал на последний `dev`-билд.
 * `edge` будет указывать на **последнюю нестабильную версию** (из ветки `dev` — то, что раньше называлось `latest`).
 
 Такой подход совместим с тем, как обычно маркируются имиджи (например, на {{< fl "Docker Hub" >}}: `latest` — это как правило самая современная стабильная версия.

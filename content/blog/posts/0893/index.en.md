@@ -33,25 +33,25 @@ In today's menu: OIDC support, dark theme, migration from Commento++, and more!
 
 We have added support for a generic [OIDC identity provider](https://docs.comentario.app/en/configuration/idps/oidc/). **OIDC** stands for [OpenID Connect](https://openid.net/developers/how-connect-works/) and represents an open authentication protocol implemented by many companies and products.
 
-One example of that is [LinkedIn](https://docs.comentario.app/en/configuration/idps/linkedin/), which you can now easily configure as an identity provider.
+One example of that is LinkedIn, which you can now easily [configure](https://docs.comentario.app/en/configuration/idps/linkedin/) as an identity provider.
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1722345304/blog/ecwylpv1aoj8bnxx8h0i.png" "Configuring login via LinkedIn for Comentario." "border shadow" >}}
 
-[Comentario documentation](https://docs.comentario.app/) provides detailed instructions on configuring [login via LinkedIn](https://docs.comentario.app/en/configuration/idps/linkedin/), as well as a [generic OIDC provider](https://docs.comentario.app/en/configuration/idps/oidc/).
+[Comentario documentation](https://docs.comentario.app/) contains detailed instructions on configuring [login via LinkedIn](https://docs.comentario.app/en/configuration/idps/linkedin/), as well as a [generic OIDC provider](https://docs.comentario.app/en/configuration/idps/oidc/).
 
 ### Dark theme
 
 It's now possible to properly embed Comentario on a website using a dark theme.
 
-The desired theme can be specified with the [`theme` attribute](https://docs.comentario.app/en/configuration/embedding/comments-tag/theme/) on the `<comentario-comments>` tag. It can even be switched on-the-fly, you can see an example on the demo page:
+The desired theme can be specified with the [`theme` attribute](https://docs.comentario.app/en/configuration/embedding/comments-tag/theme/) on the `<comentario-comments>` tag. It can even be switched on-the-fly, an example of which you can see on the [demo page](https://demo.comentario.app/):
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1722346861/blog/ep6lf7msn4hrx6vzvegg.gif" "Switching Comentario between light and dark themes." "border shadow" >}}
 
 ### Migration from Commento++
 
-Commento++ (a.k.a. [Commentoplusplus](https://github.com/souramoo/commentoplusplus)) was (is) another fork of Commento, but it's seemingly discontinued nowadays, just like its predecessor.
+Commento++ (a.k.a. [Commentoplusplus](https://github.com/souramoo/commentoplusplus)) is another fork of Commento, but it's seemingly discontinued nowadays, just like its predecessor.
 
-As of this release, Comentario will [automatically upgrade/migrate](https://docs.comentario.app/en/installation/migration/commento/#commento-1) from Commento++ if you run it against the same database. Don't forget to back up your database up front though.
+As of this release, Comentario will [automatically upgrade/migrate](https://docs.comentario.app/en/installation/migration/commento/#commento-1) from Commento++ if you run it against the same database. Don't forget to back up your database up front!
 
 ### Favicons and manifests
 
@@ -63,12 +63,12 @@ This release also includes necessary icons of all sizes, as well as related mani
 
 There has also been a slight change in [Docker image](https://docs.comentario.app/en/installation/docker-image/) versioning:
 
-* `latest` will now always point to the **most recent released version** (*previously it pointed to the latest development build*);
-* `edge` will refer to the **latest development version** (the `dev` branch; it used to be `latest` before).
+* `latest` will now always point to the **most recent released version**; previously it pointed to the latest development build.
+* `edge` will refer to the **latest development version** (the `dev` branch); it used to be `latest` before.
 
 This scheme is more in line with the industry standards and Docker Hub practices: `latest` is usually the most recent stable version.
 
-Next to that, we're also building Ubuntu-based images of Comentario. They're dynamically linked (as opposed to the statically-linked "default" Alpine-based ones). Theses images are tagged with the `-ubuntu` suffix, including `latest-ubuntu` and `edge-ubuntu` for the above.
+Next to that, we started building Ubuntu-based images of Comentario. They're dynamically linked (as opposed to the statically-linked "default" Alpine-based ones). These images are tagged with the `-ubuntu` suffix, including `latest-ubuntu` and `edge-ubuntu` for the above.
 
 ### Other changes
 
