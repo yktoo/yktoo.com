@@ -5,12 +5,15 @@
     "main": "index.js",
     "scripts": {
         "backup": "./_dev_/cloudinary-backup -d",
-        "build": "hugo --gc --minify",
+        "build": "hugo --gc --minify --environment=development",
+        "build:prod": "hugo --gc --minify",
         "clean": "rm -rf public",
         "cy": "cypress open --e2e --browser chrome",
         "cy:ci": "cypress run --config video=false",
         "postbuild": "cp public/en/_redirects public/ && rm public/index.html",
+        "postbuild:prod": "cp public/en/_redirects public/ && rm public/index.html",
         "prebuild": "npm run clean",
+        "prebuild:prod": "npm run clean",
         "test": "echo \"Error: no test specified\" && exit 1",
         "start": "hugo server -DF"
     },
@@ -22,15 +25,15 @@
         "devDependencies": {}
     },
     "dependencies": {
-        "@fortawesome/fontawesome-free": "^6.5.1",
+        "@fortawesome/fontawesome-free": "^6.6.0",
         "aos": "^3.0.0-beta.6",
         "bootstrap": "^5.3.3",
         "cookieconsent": "^3.1.1",
         "jquery": "^3.7.1",
-        "magnific-popup": "^1.1.0"
+        "magnific-popup": "^1.2.0"
     },
     "devDependencies": {
-        "cypress": "^13.6.1",
-        "typescript": "^5.3.3"
+        "cypress": "^13.14.2",
+        "typescript": "^5.6.2"
     }
 }

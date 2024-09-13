@@ -1,4 +1,6 @@
-{{- define "title" }}{{ with .Params.series }}{{ with index $.Site.Taxonomies.series . }}{{ .Page.Title }} ‣ {{ end }}{{ end }}{{ .Title | .RenderString | plainify | safeHTML }} | {{ .Site.Title }}{{ end }}
+{{- define "title" }}
+    {{- partial "page-title-attr" . }} | {{ .Site.Title -}}
+{{- end }}
 
 {{- define "schema-dot-org" }}
 <!-- Basic properties -->

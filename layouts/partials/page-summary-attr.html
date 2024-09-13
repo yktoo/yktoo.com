@@ -1,0 +1,7 @@
+{{- with .Description -}}
+    {{- . | $.RenderString | plainify | safeHTML -}}
+{{- else -}}{{- if .IsPage -}}
+    {{- replace (trim (.Summary | .RenderString | plainify) "\n\r\t ") "\n" " " | safeHTML -}}
+{{- else -}}
+    {{- with .Site.Params.description }}{{ . }}{{ end -}}
+{{- end }}{{ end -}}

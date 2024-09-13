@@ -7,21 +7,24 @@ This repository contains the code that runs [yktoo.com](https://yktoo.com/).
 
 ## Requirements
 
-* Node.js 18.x+
-* Hugo 0.108+
+* Node.js 20.x+
+* Hugo 0.134+
 
 ## Build
 
 * `npm install`
-* `hugo`
+* `npm run build` in development mode, or `npm run build:prod` in production mode
 
 ## Run a live server
 
-* `hugo server`
+* `npm start`
 * Navigate to [localhost:1313](http://localhost:1313/)
 
 ## Configuration
 
 ### Environment
 
-* Set `HUGO_DISABLE_GA` to disable inserting Google Analytics script into the generated HTML pages.
+The following environments are configured for this website:
+
+* `development` — it disables inserting Google Analytics script into the generated HTML pages. Used when you run `npm start` or `npm build`.
+* `production` — used when running `npm run build:prod`
