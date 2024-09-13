@@ -44,5 +44,5 @@ jobs:
 
       - name: End-2-end tests
         run: |
-          hugo server --disableBrowserError --disableFastRender --disableLiveReload &
+          npm run start:e2e &
           npm run cy:ci
