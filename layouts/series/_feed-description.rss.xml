@@ -1,0 +1,1 @@
+{{- T "blog" }}: {{ .Title }} — {{ .Params.description -}}

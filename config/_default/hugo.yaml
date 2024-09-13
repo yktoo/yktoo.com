@@ -117,24 +117,24 @@ taxonomies:
     videotrack: videotracks
 
 outputs:
-    # Only enable RSS generation on the home page. Also add RSS for All Languages and a redirect file
-    home: [HTML, RSS, RSS-ALL, REDIR]
-    section: [HTML]
-    taxonomy: [HTML]
+    # Only enable RSS generation on the homepage and section pages. Also add RSS for All Languages and a redirect file
+    home: [html, rss, rss-all, redir]
+    section: [html, rss]
+    taxonomy: [html]
 
 mediaTypes:
     text/bare:
         suffixes:
 
 outputFormats:
-    RSS-ALL:
+    rss-all:
         mediaType: application/rss+xml
         baseName: index-all
         isHTML: false
         isPlainText: false
         noUgly: true
         rel: alternate
-    REDIR:
+    redir:
         mediatype: text/bare
         baseName: _redirects
         isPlainText: true

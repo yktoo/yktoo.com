@@ -1,10 +1,10 @@
 {{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\" ?>" | safeHTML }}
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>{{ .Site.Title }} | {{ T "blog" }}</title>
+        <title>{{ .Render "_feed-title" }}</title>
+        <description>{{ .Render "_feed-description" }}</description>
         <link>{{ .Permalink }}</link>
-        <description>{{ .Site.Params.description }}</description>
-        <generator>Hugo {{ hugo.Version }}</generator>
+        <generator>Hugo</generator>
         {{- with .Site.LanguageCode }}<language>{{ . }}</language>{{ end }}
         {{- with .Site.Params.author }}
         <managingEditor>noreply@yktoo.com ({{ . }})</managingEditor>
@@ -12,9 +12,7 @@
         {{- end }}
         {{- with .Site.Copyright }}<copyright>{{ . }}</copyright>{{ end }}
         {{- if not .Date.IsZero }}<lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>{{ end }}
-        {{- with .OutputFormats.Get "RSS-ALL" }}{{ printf `<atom:link href=%q rel="self" type=%q />` .Permalink .MediaType | safeHTML }}{{ end }}
-        {{- range first .Site.Params.rssLimit (where (where .Site.AllPages ".IsPage" true) "Type" "post") }}
-        {{- .Render "rss-item" }}
-        {{- end -}}
+        {{ with .OutputFormats.Get "rss-all" }}{{ printf `<atom:link href=%q rel="self" type=%q />` .Permalink .MediaType | safeHTML }}{{ end }}
+{{ .Render "_feed-items" }}
     </channel>
 </rss>

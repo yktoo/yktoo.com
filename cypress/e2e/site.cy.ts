@@ -1,6 +1,4 @@
-/// <reference types="cypress" />
-
-import {Paths} from "../support/util";
+import { Paths } from '../support/util';
 
 context('Site', () => {
 

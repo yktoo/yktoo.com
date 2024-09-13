@@ -73,7 +73,7 @@
         <li>
             <h5 class="mt-2">{{ T "postsAllLangs" }}</h5>
             <ul>
-                {{ with (.GetPage "/" ).OutputFormats.Get "RSS-ALL" }}
+                {{ with (.GetPage "/" ).OutputFormats.Get "rss-all" }}
                 <li><a href="https://feedly.com/i/subscription/feed%2F{{ .Permalink | querify `` | strings.TrimPrefix `=` }}">{{ T "subscribeInFeedly" }}</a></li>
                 <li><a href="{{ .Permalink }}">{{ T "subscribeByRSS" }}</a></li>
                 {{ end }}

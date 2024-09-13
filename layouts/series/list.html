@@ -1,10 +1,23 @@
-{{ define "heading" }}<h1>{{ T "series" }}: {{ .Title }}</h1>{{ end }}
+{{- define "title" }}{{ .Title | markdownify | plainify }} | {{ T "series" }} | {{ T "blog" }} | {{ .Site.Title }}{{ end }}
 
-{{ define "secondary-navbar" }}
-{{ partial "blog/navbar" . }}
+{{- define "heading" }}
+<h1>
+    <!-- Heading -->
+    {{- T "blog" }}: {{ .Title -}}
+    <!-- RSS -->
+    {{- with .OutputFormats.Get "RSS" }}
+    <a class="btn btn-link" href="{{ .Permalink }}" title="{{ T `subscribeByRSS` }}">
+        <i class="fas fa-rss-square colourise fa-2x"></i>
+    </a>
+    {{- end }}
+</h1>
 {{ end }}
 
-{{ define "main" }}
+{{- define "secondary-navbar" }}
+{{- partial "blog/navbar" . }}
+{{- end }}
+
+{{- define "main" }}
 <!-- Description -->
 {{- with .Params.description }}
 <p class="series-description">{{ . | $.RenderString }}</p>
@@ -28,4 +41,4 @@
 <div class="blog-paginator">
     {{ template "_internal/pagination.html" . }}
 </div>
-{{ end }}
+{{- end }}
