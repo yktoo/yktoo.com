@@ -50,17 +50,4 @@ software: comentario
 * Встраиваемая часть: если [Live update](https://docs.comentario.app/en/kb/live-update/) отключен глобально, он также будет автоматически деактивирован и на всех страницах с комментариями.
 * Скрипт миграции {{< fl "PostgreSQL" >}} был поправлен (благодарность {{< fl "Ahmad Abu Hantash" >}}) для случаев, когда емэйл пользователя повторяется. Ранее подобная ситуация приводила к потере комментариев в процессе миграции.
 
-## Демо-версия
-
-Увидеть новую версию в действии, а также её административный интерфейс (логин с емэйлом `admin@admin` и паролем `admin`), можно на демо-сайте:
-
-{{< button "https://demo.comentario.app/" "Демо-сайт комментариев" "btn-primary mb-3" >}}
-{{< button "https://edge.comentario.app/" "Демо админки Comentario" "btn-primary mb-3" >}}
-
-## Установка
-
-Если вы хотите установить {{< fl "Comentario" >}}, вот ссылки на документацию:
-
-* [Getting started](https://docs.comentario.app/en/getting-started/).
-* [Installation](https://docs.comentario.app/en/installation/).
-* [Migration](https://docs.comentario.app/en/installation/migration/).
+{{< include-file "/blog/_snippets/_comentario-footer.ru.md" >}}

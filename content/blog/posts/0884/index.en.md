@@ -33,20 +33,7 @@ As the Christmas draws nearer, another minor release [Comentario 3.2.0](https://
 
 See [CHANGELOG](https://gitlab.com/comentario/comentario/-/blob/master/CHANGELOG.md) for a complete list of changes.
 
-## Live Demo
-
-You can see the new version, as well as its Administrative UI (login with email `admin@admin` and password `admin`), on the demo website:
-
-{{< button "https://demo.comentario.app/" "Comments Live Demo" "btn-primary mb-3" >}}
-{{< button "https://edge.comentario.app/" "Administrative UI Demo" "btn-primary mb-3" >}}
-
-## Installation
-
-If you're interested in trying out Comentario, you can start with these documentation pages:
-
-* [Getting started](https://docs.comentario.app/en/getting-started/).
-* [Installation](https://docs.comentario.app/en/installation/).
-* [Migration](https://docs.comentario.app/en/installation/migration/).
+{{< include-file "/blog/_snippets/_comentario-footer.en.md" >}}
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1702132791/blog/vhfwsdpiknlyvzehr2ed.jpg" >}}
 

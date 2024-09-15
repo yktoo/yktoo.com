@@ -109,16 +109,6 @@ Every flagged comment now provides an explanation for that status, for example:
 
 … and tons of other fixes and improvements.
 
-## Live Demo
-
-Since it's a pre-release, it isn't rolled out to this website yet, but you can see it in action and play with it on the demo website:
-
-{{< button "https://demo.comentario.app/" "View Live Demo" "btn-primary mb-3" >}}
-
-You can also try Comentario's Administrative UI: just log in with the email `admin@admin` and password `admin`.
-
-{{< button "https://edge.comentario.app/" "View Administrative UI" "btn-primary mb-3" >}}
-
 ## Migration
 
 If you're interested in trying out the new version (don't use it in production yet!), please read the [Migration Guide](https://edge.docs.comentario.app/en/installation/migration/) first.
@@ -130,3 +120,5 @@ Currently I'm busily updating [docs](https://edge.docs.comentario.app/) and writ
 Once I feel confident about the quality of the new code, I'll make a final release.
 
 Beta-testers are welcome! Please file bugreports and feature requests in the [issue tracker](https://gitlab.com/comentario/comentario/-/issues).
+
+{{< include-file "/blog/_snippets/_comentario-footer.en.md" >}}

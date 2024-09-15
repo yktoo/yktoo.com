@@ -96,10 +96,4 @@ software: comentario
 
 Всё вышеперечисленное — только начало. Я планирую добавить ещё множество крутых фич, отсутствовавших в {{< fl "Commento" >}}).
 
-Пока что вы можете:
-
-* Оставить комментарий [ниже](#blog-post-comments) (конечно же, при помощи {{< fl "Comentario" >}})
-* Увидеть {{< fl "Comentario" >}} в действии на [демонстрационном сайте](https://demo.comentario.app/)
-* Просмотреть [документацию по Comentario](https://docs.comentario.app/)
-* Отправить баг-репорт [в GitLab](https://gitlab.com/comentario/comentario)
-* Скачать и установить [Comentario 2.3.0](https://gitlab.com/comentario/comentario/-/releases/v2.3.0)
+{{< include-file "/blog/_snippets/_comentario-footer.ru.md" >}}

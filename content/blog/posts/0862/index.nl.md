@@ -93,10 +93,4 @@ Tot aan de huidige Comentario [versie **2.3.0**](https://gitlab.com/comentario/c
 
 Dit is nog maar het begin, want ik ben van plan veel nieuwe coole functies toe te voegen (die in Commento ontbraken).
 
-Voel je vrij om:
-
-* Een commentaar [hieronder](#blog-post-comments) achter te laten (m.b.v. Comentario natuurlijk!);
-* Comentario [demowebsite](https://demo.comentario.app/) uit te proberen;
-* [Comentario-documentatie](https://docs.comentario.app/) te bestuderen;
-* Een issue [op GitLab](https://gitlab.com/comentario/comentario) in te schieten;
-* [Comentario 2.3.0](https://gitlab.com/comentario/comentario/-/releases/v2.3.0) te downloaden en installeren.
+{{< include-file "/blog/_snippets/_comentario-footer.nl.md" >}}

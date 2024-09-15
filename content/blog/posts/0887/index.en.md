@@ -113,17 +113,4 @@ Ready-to-use packages and tarballs can be downloaded from the [Releases](https:/
 * Embed: hide Edit profile for SSO user ([#45](https://gitlab.com/comentario/comentario/-/issues/45))
 * New dynamic config items for controlling commenter signups ([#47](https://gitlab.com/comentario/comentario/-/issues/47))
 
-## Live Demo
-
-You can see the new version, as well as its Administrative UI (login with email `admin@admin` and password `admin`), on the demo website:
-
-{{< button "https://demo.comentario.app/" "Comments Live Demo" "btn-primary mb-3" >}}
-{{< button "https://edge.comentario.app/" "Administrative UI Demo" "btn-primary mb-3" >}}
-
-## Installation
-
-If you're interested in trying out Comentario, you can start with these documentation pages:
-
-* [Getting started](https://docs.comentario.app/en/getting-started/).
-* [Installation](https://docs.comentario.app/en/installation/).
-* [Migration](https://docs.comentario.app/en/installation/migration/).
+{{< include-file "/blog/_snippets/_comentario-footer.en.md" >}}

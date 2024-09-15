@@ -56,17 +56,4 @@ Their URLs can be provided on the [command line](https://docs.comentario.app/en/
 * Embed: live updates will now automatically be turned off on every page in case [Live update](https://docs.comentario.app/en/kb/live-update/) is disabled globally.
 * PostgreSQL migration script has been fixed (thanks Ahmad Abu Hantash!) for cases when user email is repeated, which previously led to comments lost during migration.
 
-## Live Demo
-
-You can see the new version, as well as its Administrative UI (login with email `admin@admin` and password `admin`), on the demo website:
-
-{{< button "https://demo.comentario.app/" "Comments Live Demo" "btn-primary mb-3" >}}
-{{< button "https://edge.comentario.app/" "Administrative UI Demo" "btn-primary mb-3" >}}
-
-## Installation
-
-If you're interested in trying out Comentario, you can start with these documentation pages:
-
-* [Getting started](https://docs.comentario.app/en/getting-started/).
-* [Installation](https://docs.comentario.app/en/installation/).
-* [Migration](https://docs.comentario.app/en/installation/migration/).
+{{< include-file "/blog/_snippets/_comentario-footer.en.md" >}}

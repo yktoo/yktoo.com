@@ -37,12 +37,4 @@ software: comentario
 * Helm chart: drop `comentario.indexHtmlConfigMapName` config value as unused.
 * The database schema still maintains a full compatibility with Commento 1.8.0.
 
-## Demo
-
-You can see Comentario in action on the [demo website](https://demo.comentario.app/).
-
-## Resources
-
-* [GitLab repository](https://gitlab.com/comentario/comentario)
-* [Documentation](https://docs.comentario.app/)
-* [Changelog](https://gitlab.com/comentario/comentario/-/blob/dev/CHANGELOG.md)
+{{< include-file "/blog/_snippets/_comentario-footer.en.md" >}}

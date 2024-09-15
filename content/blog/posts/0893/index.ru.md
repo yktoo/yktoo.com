@@ -70,7 +70,6 @@ software: comentario
 
 Помимо этого, сейчас также создаются {{< fl "Docker" >}}-образы, базирующиеся на {{< fl "Ubuntu" >}}. Бинарники в них слинкованы динамически (в противоположность статическим, помещаемым в имиджи на основе {{< fl "Alpine" >}}). Эти образы получили суффикс `-ubuntu` к версии, включая `latest-ubuntu` и `edge-ubuntu` для вышеупомянутых билдов.
 
-
 ### Прочие изменения
 
 * Внешние пользователи сначала ищутся по их {{< fl "federated ID" >}}, и только после этого по емэйлу ([#99](https://gitlab.com/comentario/comentario/-/issues/99))
@@ -86,17 +85,4 @@ software: comentario
 * Исправлено: встраиваемая часть: удаление обработчика сообщений {{< fl "non-interactive SSO" >}} ([#96](https://gitlab.com/comentario/comentario/-/issues/96))
 * Исправлено: встраиваемая часть: удалён фон ([#105](https://gitlab.com/comentario/comentario/-/issues/105))
 
-## Демо-версия
-
-Увидеть новую версию в действии, а также её административный интерфейс (логин с емэйлом `admin@admin` и паролем `admin`), можно на демо-сайте:
-
-{{< button "https://demo.comentario.app/" "Демо-сайт комментариев" "btn-primary mb-3" >}}
-{{< button "https://edge.comentario.app/" "Демо админки Comentario" "btn-primary mb-3" >}}
-
-## Установка
-
-Если вы хотите установить {{< fl "Comentario" >}}, вот ссылки на документацию:
-
-* [Getting started](https://docs.comentario.app/en/getting-started/).
-* [Installation](https://docs.comentario.app/en/installation/).
-* [Migration](https://docs.comentario.app/en/installation/migration/) (поддерживается импорт из [Commento(++)](https://docs.comentario.app/en/installation/migration/commento/), [Disqus](https://docs.comentario.app/en/installation/migration/disqus/), [Wordpress](https://docs.comentario.app/en/installation/migration/wordpress/)).
+{{< include-file "/blog/_snippets/_comentario-footer.ru.md" >}}

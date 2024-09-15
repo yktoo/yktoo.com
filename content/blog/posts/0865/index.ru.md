@@ -37,12 +37,4 @@ software: comentario
 * {{< fl "Helm chart" >}}: убрано значение `comentario.indexHtmlConfigMapName` как неиспользуемое.
 * Схема базы данных по-прежнему сохраняет полную совместимость с {{< fl "Commento" >}} 1.8.0.
 
-## Демо-версия
-
-Увидеть {{< fl "Comentario" >}} в действии можно на [демо-сайте](https://demo.comentario.app/).
-
-## Ресурсы
-
-* [Репозиторий на GitLab](https://gitlab.com/comentario/comentario)
-* [Документация](https://docs.comentario.app/)
-* [История изменений](https://gitlab.com/comentario/comentario/-/blob/dev/CHANGELOG.md)
+{{< include-file "/blog/_snippets/_comentario-footer.ru.md" >}}

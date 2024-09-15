@@ -58,17 +58,4 @@ Wijzigingen ten opzichte van de prerelease-versies (vanaf **2.3.1**):
 
 Zie [CHANGELOG](https://gitlab.com/comentario/comentario/-/blob/master/CHANGELOG.md) voor een uitgebreide wijzigingslijst.
 
-## Live demo
-
-Je kunt de nieuwe versie en de Administratieve UI (inloggen met e-mailadres `admin@admin` en wachtwoord `admin`) bekijken op de demowebsite:
-
-{{< button "https://demo.comentario.app/" "Comments live demo" "btn-primary mb-3" >}}
-{{< button "https://edge.comentario.app/" "Administratieve UI Demo" "btn-primary mb-3" >}}
-
-## Installatie
-
-Als je de nieuwe versie wilt uitproberen, kun je beginnen met de volgende documentatiepagina's:
-
-* [Getting started](https://docs.comentario.app/en/getting-started/).
-* [Installation](https://docs.comentario.app/en/installation/).
-* [Migration](https://docs.comentario.app/en/installation/migration/).
+{{< include-file "/blog/_snippets/_comentario-footer.nl.md" >}}

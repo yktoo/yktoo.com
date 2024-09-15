@@ -95,12 +95,4 @@ Up to the current Comentario [version **2.3.0**](https://gitlab.com/comentario/c
 
 This is just the beginning as I plan to add lots of new cool features (missing in Commento).
 
-Feel free to:
-
-* Leave a comment [below](#blog-post-comments) (using Comentario, of course!)
-* See Comentario in action on [this demo website](https://demo.comentario.app/)
-* Browse [Comentario documentation](https://docs.comentario.app/)
-* File an issue [on GitLab](https://gitlab.com/comentario/comentario)
-* Download and install [Comentario 2.3.0](https://gitlab.com/comentario/comentario/-/releases/v2.3.0)
-
-Stay tuned!
+{{< include-file "/blog/_snippets/_comentario-footer.en.md" >}}

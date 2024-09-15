@@ -50,17 +50,4 @@ Username and password became optional in [SMTP server settings](https://docs.com
 * Documentation: provide [detailed instructions](https://docs.comentario.app/en/configuration/idps/) for configuring Facebook, Google, Twitter, GitHub, GitLab auth ([#67](https://gitlab.com/comentario/comentario/-/issues/67))
 * Other docs updates
 
-## Live Demo
-
-You can see the new version, as well as its Administrative UI (login with email `admin@admin` and password `admin`), on the demo website:
-
-{{< button "https://demo.comentario.app/" "Comments Live Demo" "btn-primary mb-3" >}}
-{{< button "https://edge.comentario.app/" "Administrative UI Demo" "btn-primary mb-3" >}}
-
-## Installation
-
-If you're interested in trying out Comentario, you can start with these documentation pages:
-
-* [Getting started](https://docs.comentario.app/en/getting-started/).
-* [Installation](https://docs.comentario.app/en/installation/).
-* [Migration](https://docs.comentario.app/en/installation/migration/).
+{{< include-file "/blog/_snippets/_comentario-footer.en.md" >}}

@@ -40,16 +40,4 @@ software: comentario
 sudo systemctl restart comentario.service
 ```
 
-## Демо-версия
-
-Увидеть новую версию в действии, а также её административный интерфейс (логин с емэйлом `admin@admin` и паролем `admin`), можно на демо-сайте:
-
-{{< button "https://demo.comentario.app/" "Демо-сайт комментариев" "btn-primary mb-3" >}}
-{{< button "https://edge.comentario.app/" "Демо админки Comentario" "btn-primary mb-3" >}}
-
-## Установка
-
-Если вы хотите опробовать новую версию в деле, документация вам в помощь:
-
-* [Installation](https://edge.docs.comentario.app/en/installation/).
-* [Migration](https://edge.docs.comentario.app/en/installation/migration/).
+{{< include-file "/blog/_snippets/_comentario-footer.ru.md" >}}

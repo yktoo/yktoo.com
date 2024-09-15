@@ -1,0 +1,2 @@
+<!-- Render a markdown file, whose full path is passed as the first parameter -->
+{{- readFile (.Get 0) | .Page.RenderString -}}
