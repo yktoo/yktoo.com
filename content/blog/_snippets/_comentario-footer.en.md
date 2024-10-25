@@ -11,4 +11,4 @@ If you're interested in trying out Comentario, you can start with these document
 
 * [Getting started](https://docs.comentario.app/en/getting-started/).
 * [Installation](https://docs.comentario.app/en/installation/).
-* [Migration](https://docs.comentario.app/en/installation/migration/) (from [Commento(++)](https://docs.comentario.app/en/installation/migration/commento/), [Disqus](https://docs.comentario.app/en/installation/migration/disqus/), [Wordpress](https://docs.comentario.app/en/installation/migration/wordpress/)).
+* [Migration](https://docs.comentario.app/en/installation/migration/) (from [Commento/Commento++](https://docs.comentario.app/en/installation/migration/commento/), [Disqus](https://docs.comentario.app/en/installation/migration/disqus/), [Wordpress](https://docs.comentario.app/en/installation/migration/wordpress/)).

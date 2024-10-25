@@ -19,7 +19,7 @@ image: "https://res.cloudinary.com/yktoo/image/upload/blog/8l0mwo2k5qwz1414.jpg"
 Dat betekent ook dat de bestaande RSS links gaan veranderen:
 
 * Voor de migratie: ~~`https://yktoo.com/nl/blog/atom` (Atom) of `https://yktoo.com/nl/blog/rss` (RSS)~~
-* **Nu:** `https://yktoo.com/nl/index.xml` (alleen RSS) — vanaf 19 augustus 2019
+* **Nu:** {{< rss-permalink "/" >}} (alleen RSS) — vanaf 19 augustus 2019
 
 <!--more-->
 

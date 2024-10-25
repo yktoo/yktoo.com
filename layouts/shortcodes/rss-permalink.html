@@ -1,0 +1,2 @@
+{{ $feed := ((.Get 0 | .Site.GetPage).OutputFormats.Get `RSS`) -}}
+<a href="{{ $feed.Permalink }}">{{ (.Get 1 | .Page.RenderString) | default $feed.Permalink }}</a>

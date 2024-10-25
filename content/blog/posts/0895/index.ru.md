@@ -10,7 +10,6 @@ tags:
     - релиз
     - Go
     - Angular
-    - Commento++
 image: "https://res.cloudinary.com/yktoo/image/upload/v1726409725/blog/ni6elgzbaxv5cemqgbga.jpg"
 imageCredit: "Изображение: кибермозг."
 series: comentario
@@ -23,7 +22,7 @@ software: comentario
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1726409725/blog/ni6elgzbaxv5cemqgbga.jpg" "Киберизображение." >}}
 
-> **Важное объявление:** если вас в моём блоге интересуют только новости {{< fl "Comentario" >}}, добавьте в закладки [соответствующую страницу подборки](/series/comentario). Также доступна [<i class="fas fa-rss"></i> RSS-лента](https://yktoo.com/ru/blog/series/comentario/index.xml) с соответствующими постами.
+> **Важное объявление:** если вас в моём блоге интересуют только новости {{< fl "Comentario" >}}, добавьте в закладки [соответствующую страницу подборки](/series/comentario). Также доступна {{< rss-permalink "/series/comentario" `<i class="fas fa-rss"></i> RSS-лента` >}} с соответствующими постами.
 
 ## Что нового
 

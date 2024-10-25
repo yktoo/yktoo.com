@@ -19,7 +19,7 @@ A new version of **yktoo.com** will go live on **Monday August 19, 2019**. Not s
 In this regard its RSS feed links will change:
 
 * Old: ~~`https://yktoo.com/en/blog/atom` (Atom) or `https://yktoo.com/en/blog/rss` (RSS)~~
-* **Current:** `https://yktoo.com/en/index.xml` (RSS only) — as of 19 August 2019
+* **Current:** {{< rss-permalink "/" >}} (RSS only) — as of 19 August 2019
 
 <!--more-->
 

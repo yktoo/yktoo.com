@@ -10,7 +10,6 @@ tags:
     - release
     - Go
     - Angular
-    - Commento++
 image: "https://res.cloudinary.com/yktoo/image/upload/v1726409725/blog/ni6elgzbaxv5cemqgbga.jpg"
 imageCredit: "AI-generated image."
 series: comentario
@@ -23,7 +22,7 @@ New version [Comentario **3.10.0 Donaghadee**](https://gitlab.com/comentario/com
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1726409725/blog/ni6elgzbaxv5cemqgbga.jpg" "AI-generated image." >}}
 
-> **An important announcement:** if you're only interested in news about Comentario, feel free to bookmark the [Comentario series page](/series/comentario). It also provides a dedicated [<i class="fas fa-rss"></i> RSS feed](https://yktoo.com/en/blog/series/comentario/index.xml).
+> **An important announcement:** if you're only interested in news about Comentario, feel free to bookmark the [Comentario series page](/series/comentario). It also provides a dedicated {{< rss-permalink "/series/comentario" `<i class="fas fa-rss"></i> RSS feed` >}}.
 
 ## What's new
 

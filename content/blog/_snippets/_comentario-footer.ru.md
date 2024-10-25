@@ -11,4 +11,4 @@
 
 * [Getting started](https://docs.comentario.app/en/getting-started/).
 * [Installation](https://docs.comentario.app/en/installation/).
-* [Migration](https://docs.comentario.app/en/installation/migration/) (поддерживается импорт из [Commento(++)](https://docs.comentario.app/en/installation/migration/commento/), [Disqus](https://docs.comentario.app/en/installation/migration/disqus/), [Wordpress](https://docs.comentario.app/en/installation/migration/wordpress/)).
+* [Migration](https://docs.comentario.app/en/installation/migration/) (поддерживается импорт из [Commento/Commento++](https://docs.comentario.app/en/installation/migration/commento/), [Disqus](https://docs.comentario.app/en/installation/migration/disqus/), [Wordpress](https://docs.comentario.app/en/installation/migration/wordpress/)).
