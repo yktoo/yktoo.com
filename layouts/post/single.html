@@ -162,7 +162,7 @@
                 <div class="placeholder-box">(comments will go here)</div>
                 {{- else }}
                 <script defer src="{{ .Site.Params.comentarioUrl }}"></script>
-                <comentario-comments page-id="/blog/post/{{ path.Base .File.Dir }}"></comentario-comments>
+                <comentario-comments page-id="/blog/post/{{ path.Base .File.Dir }}" theme="light"></comentario-comments>
                 {{- end }}
             </section>
         </div>
