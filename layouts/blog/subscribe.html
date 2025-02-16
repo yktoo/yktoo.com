@@ -24,7 +24,7 @@
 
         {{- with (.GetPage "/" ).OutputFormats.Get "RSS" }}
             <!-- Subscribe in Feedly -->
-            <a class="list-group-item list-group-item-action list-group-item-iconized" href="https://feedly.com/i/subscription/feed%2F{{ .Permalink | querify `` | strings.TrimPrefix `=` }}">
+            <a class="list-group-item list-group-item-action list-group-item-iconized" href="https://feedly.com/i/subscription/feed%2F{{ .Permalink | querify `u` | strings.TrimPrefix `u=` }}">
                 <div class="list-group-img-32"><img src="/images/icons/feedly-48px.png" alt="Feedly icon"></div>
                 <div class="list-group-text"><div class="list-group-heading">{{ T "subscribeInFeedly" }}</div></div>
             </a>
@@ -64,7 +64,7 @@
                 <li><a href="{{ index .Site.Data.blog.subscribe.by_email_url .Language.Lang }}">{{ T "subscribeByEmail" }}</a></li>
                 <li><a href="{{ index .Site.Data.blog.subscribe.by_telegram_url .Language.Lang }}">{{ T "subscribeInTgram" }}</a></li>
                 {{ with (.GetPage "/" ).OutputFormats.Get "RSS" }}
-                <li><a href="https://feedly.com/i/subscription/feed%2F{{ .Permalink | querify `` | strings.TrimPrefix `=` }}">{{ T "subscribeInFeedly" }}</a></li>
+                <li><a href="https://feedly.com/i/subscription/feed%2F{{ .Permalink | querify `u` | strings.TrimPrefix `u=` }}">{{ T "subscribeInFeedly" }}</a></li>
                 <li><a href="{{ .Permalink }}">{{ T "subscribeByRSS" }}</a></li>
                 {{ end }}
             </ul>
@@ -74,7 +74,7 @@
             <h5 class="mt-2">{{ T "postsAllLangs" }}</h5>
             <ul>
                 {{ with (.GetPage "/" ).OutputFormats.Get "rss-all" }}
-                <li><a href="https://feedly.com/i/subscription/feed%2F{{ .Permalink | querify `` | strings.TrimPrefix `=` }}">{{ T "subscribeInFeedly" }}</a></li>
+                <li><a href="https://feedly.com/i/subscription/feed%2F{{ .Permalink | querify `u` | strings.TrimPrefix `u=` }}">{{ T "subscribeInFeedly" }}</a></li>
                 <li><a href="{{ .Permalink }}">{{ T "subscribeByRSS" }}</a></li>
                 {{ end }}
             </ul>
