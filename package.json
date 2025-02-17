@@ -15,7 +15,7 @@
         "prebuild": "npm run clean",
         "prebuild:prod": "npm run clean",
         "test": "echo \"Error: no test specified\" && exit 1",
-        "start": "hugo server -DF",
+        "start": "hugo server -DFO",
         "start:e2e": "hugo server --minify --disableBrowserError --disableFastRender --disableLiveReload --environment=production"
     },
     "author": "Dmitry Kann",
