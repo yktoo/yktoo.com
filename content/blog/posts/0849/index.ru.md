@@ -13,6 +13,7 @@ tags:
     - подкаст
     - трезвость
 image: "https://img.youtube.com/vi/DkS1pkKpILY/maxresdefault.jpg"
+series: longevium
 ---
 
 Некоторое время назад мы открыли для себя подкасты Эндрю Губермана ({{< fl "Andrew Huberman" >}}).

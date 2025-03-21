@@ -4,6 +4,7 @@ date: "2024-12-25T14:23:30+01:00"
 title: "Maximizing lean body mass: my results so far"
 tags:
     - sport
+    - fitness
     - upshot
     - health
     - diet
@@ -13,6 +14,7 @@ tags:
     - Ozempic
     - GLP-1
 image: "https://res.cloudinary.com/yktoo/image/upload/v1735133535/blog/du7hgu8vaiijik6poern.jpg"
+series: longevium
 ---
 
 Are there too many "Comentario" posts in my blog?

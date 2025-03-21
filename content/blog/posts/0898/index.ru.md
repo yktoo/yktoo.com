@@ -4,6 +4,7 @@ date: "2024-12-25T14:23:30+01:00"
 title: "Как я худел в 2024-м: результаты"
 tags:
     - спорт
+    - фитнес
     - итоги
     - здоровье
     - диета
@@ -12,6 +13,7 @@ tags:
     - Оземпик
     - GLP-1
 image: "https://res.cloudinary.com/yktoo/image/upload/v1735133535/blog/du7hgu8vaiijik6poern.jpg"
+series: longevium
 ---
 
 Что-то у меня тут сплошной {{< fl "Comentario" >}} в блоге.
