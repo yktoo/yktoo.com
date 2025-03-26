@@ -43,12 +43,13 @@
 <div class="row">
     <div class="col-12 p-5 mb-3 text-center" id="blog-post-heading">
         <!-- Post title -->
-        <h1 class="display-6">
+        <h1 class="display-6 d-flex d-md-block flex-column">
             {{- with .Params.series }}{{ with index $.Site.Taxonomies.series . -}}
-                {{- .Page.Title -}}
-                <span class="mx-2 text-muted">‣</span>
+                <a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a>
+                <span class="mx-2 text-dark text-opacity-50 d-none d-md-inline">‣</span>
+                <span class="text-dark text-opacity-50 d-md-none">⏷</span>
             {{- end }}{{ end -}}
-            {{- .Title | .RenderString -}}
+            <span>{{- .Title | .RenderString -}}</span>
         </h1>
 
         <!-- Post metadata -->
