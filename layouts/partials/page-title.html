@@ -1,4 +1,4 @@
-{{- with .Params.series -}}
-    {{- with index $.Site.Taxonomies.series . }}{{ .Page.Title }} ‣ {{ end -}}
-{{- end -}}
-{{- .Title | .RenderString -}}
+{{- with .Params.series }}{{ with index $.Site.Taxonomies.series . -}}
+    <span class="post-series-title">{{ .Page.Title }}</span><span class="mx-2 text-dark text-opacity-50"><i class="fa-2xs fa-solid fa-angle-right"></i></span>
+{{- end }}{{ end -}}
+<span class="post-series-title">{{- .Title | .RenderString -}}</span>

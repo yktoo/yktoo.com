@@ -1,5 +1,5 @@
 <!-- Hugo's _internal/opengraph.html reimplemented to support 'image' (instead of 'images') and page resources -->
-<meta property="og:title" content="{{ partial `page-title-attr` . }}"/>
+<meta property="og:title" content="{{ partial `page-title-string` . }}"/>
 <meta property="og:description" content="{{ partial `page-summary-attr` . }}"/>
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}"/>
 <meta property="og:url" content="{{ .Permalink }}"/>

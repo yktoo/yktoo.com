@@ -1,5 +1,5 @@
 {{- define "title" }}
-    {{- partial "page-title-attr" . }} | {{ .Site.Title -}}
+    {{- partial "page-title-string" . }} | {{ .Site.Title -}}
 {{- end }}
 
 {{- define "schema-dot-org" }}
@@ -46,8 +46,8 @@
         <h1 class="display-6 d-flex d-md-block flex-column">
             {{- with .Params.series }}{{ with index $.Site.Taxonomies.series . -}}
                 <a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a>
-                <span class="mx-2 text-dark text-opacity-50 d-none d-md-inline">‣</span>
-                <span class="text-dark text-opacity-50 d-md-none">⏷</span>
+                <span class="mx-1 text-dark text-opacity-50 d-none d-md-inline"><i class="fas fa-2xs fa-angle-right"></i></span>
+                <span class="text-dark text-opacity-50 d-md-none"><i class="fas fa-2xs fa-angle-down"></i></span>
             {{- end }}{{ end -}}
             <span>{{- .Title | .RenderString -}}</span>
         </h1>

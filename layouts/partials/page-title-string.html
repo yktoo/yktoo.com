@@ -1,4 +1,4 @@
 {{- with .Params.series -}}
-    {{- with index $.Site.Taxonomies.series . }}{{ .Page.Title }} ‣ {{ end -}}
+    {{- with index $.Site.Taxonomies.series . }}{{ .Page.Title }} » {{ end -}}
 {{- end -}}
 {{- .Title | default .Site.Title | $.RenderString | plainify | safeHTML -}}
