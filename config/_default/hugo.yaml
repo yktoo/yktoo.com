@@ -66,7 +66,7 @@ services:
 module:
     hugoVersion:
         extended: true
-        min: "0.143.1"
+        min: "0.145.0"
     mounts:
         - source: node_modules
           target: assets/node_modules
@@ -135,7 +135,7 @@ outputFormats:
         noUgly: true
         rel: alternate
     redir:
-        mediatype: text/bare
+        mediaType: text/bare
         baseName: _redirects
         isPlainText: true
         notAlternative: true
