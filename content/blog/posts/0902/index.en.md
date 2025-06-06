@@ -14,10 +14,9 @@ image: "https://res.cloudinary.com/yktoo/image/upload/v1749218114/blog/fdmhb3ik2
 imageCredit: "AI-generated image."
 series: comentario
 software: comentario
-draft: true
 ---
 
-It's that time again: [**Comentario 3.14.0 Hamiltonsbawn**](https://gitlab.com/comentario/comentario/-/releases/v3.14.0) has landed!
+It's that time again: **Comentario** [**3.14.0 Hamiltonsbawn**](https://gitlab.com/comentario/comentario/-/releases/v3.14.0) has landed!
 
 [Comentario](/software/comentario) is a fast and powerful free comment server for web pages, written in Go.
 
@@ -81,8 +80,6 @@ List views in Comentario now remember your last sort order and restore it the ne
 * Add *Show login dialog for unauthenticated users* domain setting ([#154](https://gitlab.com/comentario/comentario/-/issues/154))
 * Admin UI: user props: put *Unlock* next to other buttons
 * Admin UI: user props: add number of owned domains
-* Admin UI: persist sort settings ([#168](https://gitlab.com/comentario/comentario/-/issues/168))
-* Admin UI: sort selector: display current sort on button
 * Admin UI: add domain count to user/domain user list; fix plurals in comment/view counts
 * Admin UI: user avatar: fix vertical alignment
 * Admin UI: migrate to Angular signals

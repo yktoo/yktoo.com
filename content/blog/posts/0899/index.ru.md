@@ -20,7 +20,7 @@ software: comentario
 
 [Comentario](/software/comentario) — это быстрый и мощный свободный сервер комментариев для веб-страниц, написанный на {{< fl "Go" >}}.
 
-{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1739777430/blog/zbfzyzr8ysfsbefeehhw.jpg" "AI-generated image." >}}
+{{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1739777430/blog/zbfzyzr8ysfsbefeehhw.jpg" "Изображение: кибермозг." >}}
 
 > <i class="fas fa-info-circle"></i> Вы можете подписаться на новости {{< fl "Comentario" >}} в [соответствующем блоге](/series/comentario) или через {{< rss-permalink "/series/comentario" "RSS" >}}.
 
