@@ -90,8 +90,6 @@ That will remove those colourful visitor charts from the Dashboard, too:
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1739781460/blog/ia9abmstsmdcp8zxsrgz.png" "Page view statistics in Comentario." "border shadow" >}}
 
-<!--more-->
-
 ### Other changes
 
 * Admin UI: replace spinners on large elements with loaders.

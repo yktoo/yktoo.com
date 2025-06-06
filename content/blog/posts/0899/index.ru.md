@@ -88,8 +88,6 @@ software: comentario
 
 {{< imgfig "https://res.cloudinary.com/yktoo/image/upload/v1739781460/blog/ia9abmstsmdcp8zxsrgz.png" "Статистика просмотров страниц в Comentario." "border shadow" >}}
 
-<!--more-->
-
 ### Прочие изменения
 
 * Админка: на крупных элементах спиннеры заменены на анимированные лоадеры.
