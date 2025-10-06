@@ -1,4 +1,16 @@
-jQuery(function () {
+jQuery($ => {
+
+    /** GSAP animations. */
+    gsap.registerPlugin(ScrollTrigger);
+    document.querySelectorAll('[data-slide-in]')
+        .forEach(el => {
+            const tl = gsap.timeline().from(el, {y: 50, duration: 0.666, opacity: 0});
+            ScrollTrigger.create({
+                trigger: el,
+                toggleActions: 'play none none reverse',
+                animation: tl,
+            });
+        });
 
     /**
      * Init the cookie consent.
@@ -168,9 +180,6 @@ jQuery(function () {
         }
         contactForm.addClass('was-validated');
     });
-
-    // Initialise Animate-on-Scroll
-    AOS.init();
 });
 
 /**

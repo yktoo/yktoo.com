@@ -1,6 +1,6 @@
 <!-- Render a Bootstrap carousel for images provided as the inner content, in lines, with an optional description after a space -->
 {{ $id := print "carousel-" (md5 .Inner) }}
-<div id="{{ $id }}" class="carousel slide" data-bs-ride="carousel">
+<div id="{{ $id }}" class="carousel slide" data-bs-ride="carousel" data-slide-in>
     <div class="carousel-inner">
         <!-- Iterate the inner text line by line -->
         {{- $idx := 0 }}

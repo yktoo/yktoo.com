@@ -1,6 +1,6 @@
 <!-- Shortcode for inserting image figures, full-width, clickable image blocks.
      Syntax: imgfig "image_filename.ext" ["title"] ["class1 class2…"] -->
-<figure class="figure imgfig" data-aos="fade-up">
+<figure class="figure imgfig" data-slide-in>
     {{- $url := .Get 0 }}
     <!-- If it isn't a URL starting with "http(s)://" or an absolute path, consider it a page resource -->
     {{- if not (findRE "^(/|http(s?)://)" $url) }}
