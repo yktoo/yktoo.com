@@ -1,6 +1,7 @@
 .hugo_build.lock
 *.iml
 /.idea/
+/.yarn/
 /node_modules
 /public/
 /resources/

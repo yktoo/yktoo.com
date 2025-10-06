@@ -5,15 +5,12 @@
     "main": "index.js",
     "scripts": {
         "backup": "./_dev_/cloudinary-backup -d",
-        "build": "hugo --gc --minify --environment=development",
-        "build:prod": "hugo --gc --minify",
+        "build": "yarn run clean && hugo --gc --minify --environment=development && yarn run copy-assets",
+        "build:prod": "yarn run clean && hugo --gc --minify && yarn run copy-assets",
         "clean": "rm -rf public",
+        "copy-assets": "cp public/en/_redirects public/ && rm public/index.html",
         "cy": "cypress open --e2e --browser chrome",
         "cy:ci": "cypress run --config video=false",
-        "postbuild": "cp public/en/_redirects public/ && rm public/index.html",
-        "postbuild:prod": "cp public/en/_redirects public/ && rm public/index.html",
-        "prebuild": "npm run clean",
-        "prebuild:prod": "npm run clean",
         "test": "echo \"Error: no test specified\" && exit 1",
         "start": "hugo server -DFO",
         "start:e2e": "hugo server --minify --disableBrowserError --disableFastRender --disableLiveReload --environment=production"
@@ -27,6 +24,7 @@
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "^6.7.2",
+        "@popperjs/core": "^2.11.8",
         "aos": "^3.0.0-beta.6",
         "bootstrap": "^5.3.3",
         "cookieconsent": "^3.1.1",
@@ -36,5 +34,6 @@
     "devDependencies": {
         "cypress": "^14.2.1",
         "typescript": "^5.8.2"
-    }
+    },
+    "packageManager": "yarn@4.10.3"
 }

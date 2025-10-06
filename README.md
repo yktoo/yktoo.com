@@ -12,12 +12,12 @@ This repository contains the code that runs [yktoo.com](https://yktoo.com/).
 
 ## Build
 
-* `npm install`
-* `npm run build` in development mode, or `npm run build:prod` in production mode
+* `yarn install`
+* `yarn run build` in development mode, or `yarn run build:prod` in production mode
 
 ## Run a live server
 
-* `npm start`
+* `yarn start`
 * Navigate to [localhost:1313](http://localhost:1313/)
 
 ## Configuration
@@ -26,5 +26,5 @@ This repository contains the code that runs [yktoo.com](https://yktoo.com/).
 
 The following environments are configured for this website:
 
-* `development` — it disables inserting Google Analytics script into the generated HTML pages. Used when you run `npm start` or `npm build`.
-* `production` — used when running `npm run build:prod`
+* `development` — it disables inserting Google Analytics script into the generated HTML pages. Used when you run `yarn start` or `yarn build`.
+* `production` — used when running `yarn run build:prod`
