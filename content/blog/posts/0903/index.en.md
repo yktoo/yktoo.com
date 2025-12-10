@@ -14,7 +14,6 @@ image: "https://res.cloudinary.com/yktoo/image/upload/v1765275803/blog/uorjo9mfr
 imageCredit: "AI-generated image."
 series: comentario
 software: comentario
-draft: true
 ---
 
 Just in time for Christmas, **Comentario** [**3.15.0 Iveagh**](https://gitlab.com/comentario/comentario/-/releases/v3.15.0) is released!
@@ -120,7 +119,7 @@ At the same time, all transaction support has been dropped for SQLite3 due to it
 * Backend: add `--max-import-file-size` CLI parameter ([#186](https://gitlab.com/comentario/comentario/-/issues/186))
 * Backend: domain export: sort comments, pages by ID
 * Backend: fix "Concurrent map writes error in embed_i18n.go" ([#198](https://gitlab.com/comentario/comentario/-/issues/198))
-* Backend: fix stale transaction in PageService.insertPageView()
+* Backend: fix stale transaction in `PageService.insertPageView()`
 * Backend: get rid of "generic error" endpoints
 * Backend: logging improvements
 * Backend: refactor config; embed migrations/templates
