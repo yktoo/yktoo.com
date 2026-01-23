@@ -141,4 +141,3 @@ At the same time, all transaction support has been dropped for SQLite3 due to it
 * Docker: fix default static path value
 
 {{< include-file "/blog/_snippets/_comentario-footer.en.md" >}}
-
