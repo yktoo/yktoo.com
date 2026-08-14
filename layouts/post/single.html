@@ -127,12 +127,12 @@
                 <div class="fw-bold">{{ T "blogSubscribeCTA" }}:</div>
                 <div class="button-row">
                     <!-- Email -->
-                    <a class="btn icon-btn" href="{{ index .Site.Data.blog.subscribe.by_email_url .Language.Lang }}" title="{{ T `subscribeByEmail` }}">
+                    <a class="btn icon-btn" href="{{ index hugo.Data.blog.subscribe.by_email_url .Language.Lang }}" title="{{ T `subscribeByEmail` }}">
                         <i class="fas fa-envelope colourise"></i>
                     </a>
 
                     <!-- Telegram -->
-                    <a class="btn icon-btn" href="{{ index .Site.Data.blog.subscribe.by_telegram_url .Language.Lang }}" title="{{ T `subscribeInTgram` }}">
+                    <a class="btn icon-btn" href="{{ index hugo.Data.blog.subscribe.by_telegram_url .Language.Lang }}" title="{{ T `subscribeInTgram` }}">
                         <i class="fab fa-telegram colourise"></i>
                     </a>
 

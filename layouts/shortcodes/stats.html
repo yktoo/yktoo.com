@@ -1,7 +1,7 @@
 <table class="table table-narrow">
     <tr>
         <th scope="row">{{ i18n "statsAllPages" }}</th>
-        <td class="number">{{ len .Site.AllPages | lang.FormatNumber 0 }}</td>
+        <td class="number">{{ $all := slice }}{{ range hugo.Sites }}{{ $all = $all | append .Pages }}{{ end }}{{ len $all | lang.FormatNumber 0 }}</td>
     </tr>
     <tr>
         <th scope="row">{{ i18n "statsCurLangPages" }}</th>

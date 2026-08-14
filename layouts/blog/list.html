@@ -34,9 +34,9 @@
     <!-- Alternative language versions -->
     <div class="py-4">
         {{ range .Translations }}
-        <a class="btn btn-outline-secondary btn-lg" href="{{ .Permalink }}" role="button" title="{{ .Language.LanguageName }}">
+        <a class="btn btn-outline-secondary btn-lg" href="{{ .Permalink }}" role="button" title="{{ .Language.Label }}">
             <span class="flag {{ .Language.Lang }}"></span>
-            <span class="ms-1 d-none d-sm-inline">{{ .Language.LanguageName }}</span>
+            <span class="ms-1 d-none d-sm-inline">{{ .Language.Label }}</span>
         </a>
         {{ end }}
     </div>

@@ -10,7 +10,7 @@
     <!-- List of downloads -->
     {{- $sectionPage := cond .IsPage .Parent .Page -}}
     {{- $name := $sectionPage.Params.software -}}
-    {{- $downloads := index .Site.Data.downloads $name -}}
+    {{- $downloads := index hugo.Data.downloads $name -}}
     {{- if $downloads -}}
         {{- partial "software/list-downloads" (dict "lang" .Lang "downloads" $downloads) }}
     {{- else -}}

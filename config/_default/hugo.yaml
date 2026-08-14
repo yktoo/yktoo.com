@@ -1,5 +1,5 @@
 baseURL: https://yktoo.com/
-languageCode: en-us
+locale: en-us
 pygmentsCodeFences: true
 pygmentsStyle: tango
 title: Yktoo
@@ -17,10 +17,10 @@ defaultContentLanguageInSubdir: true
 languages:
     en:
         weight: 1
-        languageName: English
+        label: English
     ru:
         weight: 2
-        languageName: Русский
+        label: Русский
         params:
             author: Дмитрий Канн
             dateFormat: 'DOW, D MONTH YYYY'
@@ -28,7 +28,7 @@ languages:
             shortDateFormat: 'DD.MM.YYYY'
     nl:
         weight: 3
-        languageName: Nederlands
+        label: Nederlands
         params:
             dateFormat: 'DOW, D MONTH YYYY'
             description: 'Blog over het Nederlands leven: nieuws, vergelijkingen, enz.'
@@ -66,7 +66,7 @@ services:
 module:
     hugoVersion:
         extended: true
-        min: "0.150.0"
+        min: "0.164.0"
     mounts:
         - source: node_modules
           target: assets/node_modules

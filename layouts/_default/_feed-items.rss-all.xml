@@ -1,3 +1,6 @@
-{{- range first .Site.Params.rssLimit (where (where .Site.AllPages ".IsPage" true) "Type" "post") }}
+{{- /* Posts of all languages, most recent first */ -}}
+{{- $posts := slice -}}
+{{- range hugo.Sites }}{{ $posts = $posts | append (where .RegularPages "Type" "post") }}{{ end -}}
+{{- range first .Site.Params.rssLimit (sort $posts "Date" "desc") }}
 {{- .Render "_rss-item" }}
 {{- end -}}

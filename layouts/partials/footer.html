@@ -23,7 +23,7 @@
             <!-- Social links -->
             <li class="nav-item">
                 <ul class="nav flex-column lead">
-                    {{- range .Site.Data.blog.subscribe.feeds }}
+                    {{- range hugo.Data.blog.subscribe.feeds }}
                     <li class="nav-item"><a href="{{ .url }}" title="{{ .title }}" target="_blank" rel="noopener"><i class="{{ .icon }}"></i></a></li>
                     {{- end }}
                 </ul>

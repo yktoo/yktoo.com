@@ -25,15 +25,15 @@
     "dependencies": {
         "@fortawesome/fontawesome-free": "^6.7.2",
         "@popperjs/core": "^2.11.8",
-        "bootstrap": "^5.3.3",
+        "bootstrap": "^5.3.8",
         "cookieconsent": "^3.1.1",
-        "gsap": "^3.13.0",
+        "gsap": "^3.15.0",
         "jquery": "^3.7.1",
         "magnific-popup": "^1.2.0"
     },
     "devDependencies": {
-        "cypress": "^14.2.1",
-        "typescript": "^5.8.2"
+        "cypress": "^15.20.1",
+        "typescript": "^5.9.3"
     },
-    "packageManager": "yarn@4.10.3"
+    "packageManager": "yarn@4.18.0"
 }

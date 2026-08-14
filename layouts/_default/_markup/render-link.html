@@ -9,7 +9,7 @@
     {{/* If there's language given, iterate all sites to find the one with this language */}}
     {{- if findRE "^(en|ru|nl);" $url.Path 1 -}}
         {{- $lang := substr $url.Path 0 2 -}}
-        {{- range $.Page.Sites -}}
+        {{- range hugo.Sites -}}
             {{- if eq .Language.Lang $lang -}}
                 {{/* If a site is found, try to fetch the page */}}
                 {{- with .GetPage (substr $url.Path 3) }}{{ $pageToLink = . }}{{ end -}}

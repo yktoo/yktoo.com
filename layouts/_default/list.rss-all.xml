@@ -5,7 +5,7 @@
         <description>{{ .Render "_feed-description" }}</description>
         <link>{{ .Permalink }}</link>
         <generator>Hugo</generator>
-        {{- with .Site.LanguageCode }}<language>{{ . }}</language>{{ end }}
+        {{- with .Site.Language.Locale }}<language>{{ . }}</language>{{ end }}
         {{- with .Site.Params.author }}
         <managingEditor>noreply@yktoo.com ({{ . }})</managingEditor>
         <webMaster>noreply@yktoo.com ({{ . }})</webMaster>
