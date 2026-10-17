@@ -8,7 +8,7 @@ This repository contains the code that runs [yktoo.com](https://yktoo.com/).
 ## Requirements
 
 * Node.js 24.x
-* Hugo extended 0.164+
+* Hugo extended 0.168+
 
 ## Build
 
