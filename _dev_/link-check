@@ -1,0 +1,25 @@
+#!/bin/bash
+# Checks the links in the generated site with lychee (https://lychee.cli.rs/), using the same configuration as CI
+# (lychee.toml). Runs the official lychee Docker image, so no local install is needed.
+project_dir="$(dirname "$(dirname "$(realpath "$0")")")"
+
+# Keep in step with the lychee version bundled by lycheeverse/lychee-action in .github/workflows/build.yml
+lychee_version=0.24.2
+
+err() {
+    echo "$1" >&2
+    exit 1
+}
+
+# Verify there's a generated site
+[[ -d "$project_dir/public" ]] || err "Run hugo first to build the site"
+
+# Absolute links to the site itself are remapped onto the generated files so they get checked, too
+docker run \
+    --rm \
+    -v "$project_dir":/src:ro \
+    "lycheeverse/lychee:$lychee_version" \
+        --config   /src/lychee.toml \
+        --root-dir /src/public \
+        --remap    'https://yktoo\.com/(.*) file:///src/public/$1' \
+        '/src/public/**/*.html'

@@ -1,10 +1,11 @@
 version: 2
 updates:
-  # Ruby gems for HTMLProofer (Gemfile / Gemfile.lock)
-  - package-ecosystem: bundler
+  # GitHub Actions used in the workflows; bumping lychee-action also bumps the bundled lychee version (keep
+  # _dev_/link-check in step)
+  - package-ecosystem: github-actions
     directory: /
     schedule:
       interval: monthly
     groups:
-      gems:
+      actions:
         patterns: ["*"]

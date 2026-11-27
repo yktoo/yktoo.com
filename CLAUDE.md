@@ -38,15 +38,21 @@ yarn cypress run --spec cypress/e2e/site.cy.ts   # a single spec
 
 `yarn test` is not wired up — it exits 1.
 
-Link/image checking uses HTMLProofer over the built `public/` (Ruby, see `Gemfile`). Gem versions are pinned in
-the committed `Gemfile.lock` and the Ruby version in `.ruby-version`, both shared by CI and `_dev_/html-proofer`, which
-runs the same check in a stock Ruby container for machines without Ruby; update gems deliberately with `bundle update`
-(Dependabot opens monthly PRs for them):
+Link checking uses [lychee](https://lychee.cli.rs/) offline over the built `public/`: internal links, images, scripts
+and `#fragment` anchors. Absolute `https://yktoo.com/…` links (canonical, hreflang, footer) are remapped onto
+`public/` so they are checked too; URLs that only work through Netlify `_redirects` are excluded. Options live in
+`lychee.toml`, shared by the CI step (`lycheeverse/lychee-action`) and the local Docker wrapper:
 
 ```bash
-bundle exec htmlproofer public/ --allow-missing-href --checks Links,Images,Scripts,Favicon,OpenGraph \
-    --disable-external --no-enforce-https --ignore-empty-mailto
+yarn build:prod && ./_dev_/link-check
 ```
+
+`_dev_/link-check` pins the lychee version bundled by the action; keep the two in step when Dependabot bumps the
+action.
+
+`layouts/partials/lang-url.html` localises a site path for the current language, falling back to the default-language
+page when there's no translation (e.g. the English-only privacy policy and TOS in the footer menu). Use it rather than
+bare `absLangURL` for links to pages that may not be translated.
 
 ## Architecture
 

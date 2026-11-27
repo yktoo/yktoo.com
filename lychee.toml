@@ -1,0 +1,16 @@
+# Lychee link checker configuration, shared by CI (.github/workflows/build.yml) and _dev_/link-check. Both also pass
+# --root-dir and --remap on the command line, because those need the absolute path of the generated public/ directory.
+
+# Only check the generated site itself; external URLs are not fetched
+offline = true
+include_fragments = "anchor-only"
+index_files = ["index.html"]
+no_progress = true
+
+exclude = [
+    # Protocol-relative URLs (//www.youtube.com/…), which lychee mistakes for local files
+    '^file://[^/]',
+    # URLs served only by Netlify _redirects (see layouts/index.redir): the site root and short post links
+    '^file:///.+/public/?$',
+    '^file:///.+/public/(en|ru|nl)/blog/post/[0-9]+$',
+]
