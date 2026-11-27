@@ -29,8 +29,8 @@ jobs:
       - name: Install Ruby and the gems
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.3
-          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+          # Ruby version comes from .ruby-version; gems are installed from Gemfile.lock and cached
+          bundler-cache: true
 
       - name: Generate website
         run: yarn run build:prod
@@ -38,11 +38,11 @@ jobs:
       - name: Run HTMLProofer
         run:
           bundle exec htmlproofer public/
-            --allow-missing-href  true
-            --checks              Links,Images,Scripts,Favicon,OpenGraph
-            --disable-external    true
-            --enforce-https       false
-            --ignore-empty-mailto true
+            --allow-missing-href
+            --checks Links,Images,Scripts,Favicon,OpenGraph
+            --disable-external
+            --no-enforce-https
+            --ignore-empty-mailto
 
       - name: End-2-end tests
         run: |

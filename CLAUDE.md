@@ -38,12 +38,14 @@ yarn cypress run --spec cypress/e2e/site.cy.ts   # a single spec
 
 `yarn test` is not wired up — it exits 1.
 
-Link/image checking uses HTMLProofer over the built `public/` (Ruby, see `Gemfile`; a Docker wrapper is in
-`Dockerfile` and `_dev_/html-proofer`):
+Link/image checking uses HTMLProofer over the built `public/` (Ruby, see `Gemfile`). Gem versions are pinned in
+the committed `Gemfile.lock` and the Ruby version in `.ruby-version`, both shared by CI and `_dev_/html-proofer`, which
+runs the same check in a stock Ruby container for machines without Ruby; update gems deliberately with `bundle update`
+(Dependabot opens monthly PRs for them):
 
 ```bash
-bundle exec htmlproofer public/ --allow-missing-href true --checks Links,Images,Scripts,Favicon,OpenGraph \
-    --disable-external true --enforce-https false --ignore-empty-mailto true
+bundle exec htmlproofer public/ --allow-missing-href --checks Links,Images,Scripts,Favicon,OpenGraph \
+    --disable-external --no-enforce-https --ignore-empty-mailto
 ```
 
 ## Architecture
