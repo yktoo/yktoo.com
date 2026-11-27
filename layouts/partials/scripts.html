@@ -2,7 +2,7 @@
     const cookieMessage = '{{ T "cookieMessage" }}';
     const cookieDismiss = '{{ T "cookieDismiss" }}';
     const cookieLink    = '{{ T "cookieLink" }}';
-    const cookieInfoUrl = '{{ .Site.Params.cookieConsentInfoUrl | absLangURL }}';
+    const cookieInfoUrl = '{{ partial "lang-url.html" .Site.Params.cookieConsentInfoUrl }}';
 </script>
 {{- $js := slice       (resources.Get "node_modules/jquery/dist/jquery.js") -}}
 {{- $js = $js | append (resources.Get "node_modules/@popperjs/core/dist/umd/popper.js") -}}

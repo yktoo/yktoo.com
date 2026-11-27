@@ -1,0 +1,13 @@
+<!-- Return the absolute URL for a site-relative path (e.g. a menu entry URL or a param such as /about/privacy/) in the
+current language. Context: the path string.
+If the path names a page that has no translation into the current language, the URL of the page in the default
+language is returned instead, so that the link doesn't 404. Any other path is localised with absLangURL.
+-->
+{{- $path := . -}}
+{{- $url := absLangURL $path -}}
+{{- if not (site.GetPage $path) -}}
+    {{- with hugo.Sites.Default.GetPage $path -}}
+        {{- $url = .Permalink -}}
+    {{- end -}}
+{{- end -}}
+{{- return $url -}}

@@ -13,7 +13,7 @@ licenses:
     - lgpl3
 seeAlso:
     - name: DKLang Localization Package
-      url: '../dklang-localization-package/'
+      url: '/software/dklang-localization-package/'
 ---
 
 **DKLang Translation Editor** — графическое приложение для редактирования переводов [DKLang Localization Package](/software/dklang-localization-package).
